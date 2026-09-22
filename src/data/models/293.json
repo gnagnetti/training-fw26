@@ -279,46 +279,50 @@
   "objections": {
     "en": [
       {
-        "q": "Fringe may seem impractical and demanding to care for.",
+        "q": "Fringe may seem impractical and demanding to care for",
         "a": "Point out the exceptional quality of craftsmanship: the fringe is securely fastened and crafted from durable wool. Regular professional cleaning will preserve its pristine appearance for many years to come."
       },
       {
-        "q": "A button-free wrap coat may not be warm enough in strong wind.",
+        "q": "A button-free wrap coat may not be warm enough in strong wind",
         "a": "Explain that the deep wrap closure and dense pure-wool cloth provide reliable protection. Recommend pairing the style with voluminous knitwear, such as the Mano H pullover, for maximum comfort."
       },
       {
-        "q": "The light Panna 0202 shade seems impractical for the winter season.",
+        "q": "The light Panna 0202 shade seems impractical for the winter season",
         "a": "Emphasise that a light winter palette is a marker of high status in a 'quiet luxury' style. Pure wool has natural properties that help it stay clean for longer with proper care."
       },
       {
-        "q": "Fringe on the collar may visually add weight to the upper body.",
+        "q": "Fringe on the collar may visually add weight to the upper body",
         "a": "Clarify that the V-neckline and fitted silhouette, on the contrary, elongate the vertical line, while the fringe creates a soft dynamic movement, lightening the overall look."
       },
       {
-        "q": "The style looks too relaxed for a formal dress code.",
+        "q": "The style looks too relaxed for a formal dress code",
         "a": "Demonstrate the styling possibilities: paired with the structured Serafica jacket and classic trousers, the Salottino coat transforms into a refined, statement-worthy element of business dressing."
       }
     ],
     "ru": [
       {
-        "q": "Бахрома может казаться непрактичной и сложной в уходе.",
-        "a": "Укажите на высочайшее качество исполнения: бахрома надежно закреплена и выполнена из износостойкой шерсти. Регулярная профессиональная чистка позволит сохранить её первозданный вид на многие годы."
+        "q": "Fringe may seem impractical and demanding to care for",
+        "a": "Это образец исключительного мастерства: бахрома надежно закреплена и выполнена из прочной шерсти. Регулярный профессиональный уход сохранит её первозданный вид на долгие годы."
       },
       {
-        "q": "Пальто-халат без пуговиц может быть недостаточно теплым на сильном ветру.",
-        "a": "Объясните, что глубокий запах и плотное сукно из чистой шерсти обеспечивают надежную защиту. Рекомендуйте сочетать модель с объемным трикотажем, например, пуловером Mano H, для максимального комфорта."
+        "q": "A button-free wrap coat may not be warm enough in strong wind",
+        "a": "Глубокий запах и плотное шерстяное полотно обеспечивают надежную защиту. Для максимального комфорта рекомендую дополнить образ объемным трикотажем, например, пуловером Mano H."
       },
       {
-        "q": "Светлый оттенок Panna 0202 кажется непрактичным для зимнего сезона.",
-        "a": "Подчеркните, что светлая зимняя палитра — это маркер высокого статуса в стиле «quiet luxury». Чистая шерсть обладает природными свойствами, позволяющими дольше сохранять чистоту при должном уходе."
+        "q": "The light Panna 0202 shade seems impractical for the winter season",
+        "a": "Светлая зимняя палитра — признак высокого статуса в эстетике."
       },
       {
-        "q": "Бахрома на воротнике может визуально утяжелять верхнюю часть фигуры.",
-        "a": "Поясните, что V-образный вырез и приталенный силуэт, напротив, вытягивают вертикаль, а бахрома создает мягкую динамику при движении, облегчая образ."
+        "q": "тихой роскоши",
+        "a": ". Натуральная шерсть обладает природными свойствами, позволяющими изделию дольше оставаться безупречным при должном уходе."
       },
       {
-        "q": "Модель выглядит слишком расслабленной для строгого дресс-кода.",
-        "a": "Продемонстрируйте возможности стайлинга: в сочетании со строгим жакетом Serafica и классическими брюками пальто Salottino превращается в изысканный и статусный элемент делового гардероба."
+        "q": "Fringe on the collar may visually add weight to the upper body",
+        "a": "V-образный вырез и приталенный силуэт, напротив, визуально вытягивают вертикаль, а бахрома создает мягкое динамичное движение, придавая образу легкость."
+      },
+      {
+        "q": "The style looks too relaxed for a formal dress code",
+        "a": "В сочетании со структурированным жакетом Serafica и классическими брюками, пальто Salottino превращается в изысканный, статусный элемент делового дресс-кода."
       }
     ],
     "ar": [
@@ -329,133 +333,149 @@
     ],
     "ka": [
       {
-        "q": "ფოჩები შეიძლება არაპრაქტიკული და რთულად მოსავლელი გეჩვენოთ.",
+        "q": "ფოჩები შეიძლება არაპრაქტიკული და რთულად მოსავლელი გეჩვენოთ",
         "a": "მიუთითეთ შესრულების უმაღლეს ხარისხზე: ფოჩები საიმედოდაა დამაგრებული და დამზადებულია ცვეთამედეგი მატყლისგან. რეგულარული პროფესიონალური წმენდა საშუალებას მოგცემთ შეინარჩუნოთ მისი პირველქმნილი იერსახე მრავალი წლის განმავლობაში."
       },
       {
-        "q": "ხალათ-პალტოს უღილოდ, ძლიერ ქარში შესაძლოა არ ეყოს სითბო.",
+        "q": "ხალათ-პალტოს უღილოდ, ძლიერ ქარში შესაძლოა არ ეყოს სითბო",
         "a": "აუხსენით, რომ ღრმა შესაკრავი და სუფთა მატყლის მკვრივი სუკნო უზრუნველყოფს საიმედო დაცვას. რეკომენდაცია გაუწიეთ მოდელის შეხამებას მოცულობით ტრიკოტაჟთან, მაგალითად, Mano H პულოვერთან, მაქსიმალური კომფორტისთვის."
       },
       {
-        "q": "ღია ფერი Panna 0202 ზამთრის სეზონისთვის არაპრაქტიკულად გეჩვენებათ.",
-        "a": "ხაზგასმით აღნიშნეთ, რომ ღია ფერის ზამთრის პალიტრა «quiet luxury» სტილში მაღალი სტატუსის მაჩვენებელია. სუფთა მატყლს გააჩნია ბუნებრივი თვისებები, რაც სათანადო მოვლის პირობებში საშუალებას იძლევა, უფრო დიდხანს შეინარჩუნოთ სისუფთავე."
+        "q": "ღია ფერი Panna 0202 ზამთრის სეზონისთვის არაპრაქტიკულად გეჩვენებათ",
+        "a": "ხაზგასმით აღნიშნეთ, რომ ღია ფერის ზამთრის პალიტრა."
       },
       {
-        "q": "საყელოზე არსებულმა ფოჩებმა შესაძლოა ვიზუალურად დაამძიმოს ფიგურის ზედა ნაწილი.",
+        "q": "quiet luxury",
+        "a": "სტილში მაღალი სტატუსის მაჩვენებელია. სუფთა მატყლს გააჩნია ბუნებრივი თვისებები, რაც სათანადო მოვლის პირობებში საშუალებას იძლევა, უფრო დიდხანს შეინარჩუნოთ სისუფთავე."
+      },
+      {
+        "q": "საყელოზე არსებულმა ფოჩებმა შესაძლოა ვიზუალურად დაამძიმოს ფიგურის ზედა ნაწილი",
         "a": "განუმარტეთ, რომ V-სებრი ყელი და ტანზე გამოყვანილი სილუეტი, პირიქით, ვერტიკალს ჭიმავს, ხოლო ფოჩები მოძრაობისას ქმნის რბილ დინამიკას, რაც იმიჯს სიმსუბუქეს მატებს."
       },
       {
-        "q": "მოდელი ზედმეტად თავისუფალი ჩანს მკაცრი დრეს-კოდისთვის.",
+        "q": "მოდელი ზედმეტად თავისუფალი ჩანს მკაცრი დრეს-კოდისთვის",
         "a": "წარმოაჩინეთ სტილიზების შესაძლებლობები: მკაცრ Serafica-ს პიჯაკთან და კლასიკურ შარვალთან შეხამებით, პალტო Salottino იქცევა საქმიანი გარდერობის დახვეწილ და სტატუსურ ელემენტად."
       }
     ],
     "hy": [
       {
         "q": "Փոքրիկ փնջիկները (բախրոմա) կարող են անգործնական և խնամքի մեջ բարդ թվալ",
-        "a": "Նշեք կատարման ամենաբարձր որակը. փնջիկները հուսալիորեն ամրացված են և պատրաստված են մաշվածադիմացկուն բրդից: Պրոֆեսիոնալ կանոնավոր մաքրումը թույլ կտա պահպանել դրանց սկզբնական տեսքը երկար տարիներ"
+        "a": "Նշեք կատարման ամենաբարձր որակը. փնջիկները հուսալիորեն ամրացված են և պատրաստված են մաշվածադիմացկուն բրդից: Պրոֆեսիոնալ կանոնավոր մաքրումը թույլ կտա պահպանել դրանց սկզբնական տեսքը երկար տարիներ."
       },
       {
         "q": "Առանց կոճակների խալաթ-վերարկուն կարող է բավականաչափ տաք չլինել ուժեղ քամու ժամանակ",
-        "a": "Բացատրեք, որ խորը փաթաթվելը և մաքուր բրդից հաստ թաղիքը ապահովում են հուսալի պաշտպանություն: Խորհուրդ տվեք մոդելը համադրել ծավալուն տրիկոտաժի հետ, օրինակ՝ Mano H պուլովերի հետ, առավելագույն հարմարավետության համար"
+        "a": "Բացատրեք, որ խորը փաթաթվելը և մաքուր բրդից հաստ թաղիքը ապահովում են հուսալի պաշտպանություն: Խորհուրդ տվեք մոդելը համադրել ծավալուն տրիկոտաժի հետ, օրինակ՝ Mano H պուլովերի հետ, առավելագույն հարմարավետության համար."
       },
       {
         "q": "Panna 0202 բաց երանգը չափազանց անգործնական է թվում ձմեռային սեզոնի համար",
-        "a": "Ընդգծեք, որ բաց ձմեռային գունապնակը «quiet luxury» ոճի բարձր կարգավիճակի նշան է: Մաքուր բուրդն ունի բնական հատկություններ, որոնք թույլ են տալիս պատշաճ խնամքի դեպքում ավելի երկար պահպանել մաքրությունը"
+        "a": "Ընդգծեք, որ բաց ձմեռային գունապնակը."
+      },
+      {
+        "q": "quiet luxury",
+        "a": "ոճի բարձր կարգավիճակի նշան է: Մաքուր բուրդն ունի բնական հատկություններ, որոնք թույլ են տալիս պատշաճ խնամքի դեպքում ավելի երկար պահպանել մաքրությունը."
       },
       {
         "q": "Օձիքի փնջիկները կարող են տեսողականորեն ծանրացնել կազմվածքի վերին հատվածը",
-        "a": "Պարզաբանեք, որ V-աձև բացվածքը և իրանին ընդգծող ուրվագիծը, ընդհակառակը, ձգում են ուղղահայաց գիծը, իսկ փնջիկները շարժման ժամանակ ստեղծում են փափուկ դինամիկա՝ թեթևացնելով կերպարը"
+        "a": "Պարզաբանեք, որ V-աձև բացվածքը և իրանին ընդգծող ուրվագիծը, ընդհակառակը, ձգում են ուղղահայաց գիծը, իսկ փնջիկները շարժման ժամանակ ստեղծում են փափուկ դինամիկա՝ թեթևացնելով կերպարը."
       },
       {
         "q": "Մոդելը չափազանց հանգիստ է թվում խիստ դրես-կոդի համար",
-        "a": "Ցույց տվեք ոճավորման հնարավորությունները. Serafica խիստ ժակետի և դասական տաբատի հետ համադրությամբ Salottino վերարկուն վերածվում է գործնական զգեստապահարանի նրբագեղ և կարգավիճակային տարրի"
+        "a": "Ցույց տվեք ոճավորման հնարավորությունները. Serafica խիստ ժակետի և դասական տաբատի հետ համադրությամբ Salottino վերարկուն վերածվում է գործնական զգեստապահարանի նրբագեղ և կարգավիճակային տարրի."
       }
     ],
     "lv": [
       {
-        "q": "Bārkstis var šķist nepraktiskas un grūti kopjamas.",
+        "q": "Bārkstis var šķist nepraktiskas un grūti kopjamas",
         "a": "Norādiet uz augstāko izpildījuma kvalitāti: bārkstis ir droši nostiprinātas un izgatavotas no nodilumizturīgas vilnas. Regulāra profesionālā tīrīšana ļaus saglabāt to sākotnējo izskatu daudzu gadu garumā."
       },
       {
-        "q": "Mētelis-halāts bez pogām var nebūt pietiekami silts stiprā vējā.",
+        "q": "Mētelis-halāts bez pogām var nebūt pietiekami silts stiprā vējā",
         "a": "Paskaidrojiet, ka dziļā smarža un blīvais tīras vilnas audums nodrošina drošu aizsardzību. Iesakiet kombinēt modeli ar apjomīgu trikotāžu, piemēram, Mano H puloveru, maksimālam komfortam."
       },
       {
-        "q": "Gaišais Panna 0202 tonis šķiet nepraktisks ziemas sezonai.",
-        "a": "Uzsveriet, ka gaišā ziemas palete ir augsta statusa marķieris «quiet luxury» stilā. Tīrai vilnai piemīt dabiskas īpašības, kas ļauj ilgāk saglabāt tīrību, ja tiek nodrošināta pienācīga kopšana."
+        "q": "Gaišais Panna 0202 tonis šķiet nepraktisks ziemas sezonai",
+        "a": "Uzsveriet, ka gaišā ziemas palete ir augsta statusa marķieris."
       },
       {
-        "q": "Bārkstis uz apkakles var vizuāli padarīt figūras augšdaļu masīvāku.",
+        "q": "quiet luxury",
+        "a": "stilā. Tīrai vilnai piemīt dabiskas īpašības, kas ļauj ilgāk saglabāt tīrību, ja tiek nodrošināta pienācīga kopšana."
+      },
+      {
+        "q": "Bārkstis uz apkakles var vizuāli padarīt figūras augšdaļu masīvāku",
         "a": "Paskaidrojiet, ka V-veida izgriezums un pieguļošais siluets, gluži pretēji, izstiepj vertikāli, bet bārkstis rada mīkstu dinamiku kustībā, padarot tēlu vieglāku."
       },
       {
-        "q": "Modelis izskatās pārāk atbrīvots stingram dreskodam.",
+        "q": "Modelis izskatās pārāk atbrīvots stingram dreskodam",
         "a": "Demonstrējiet stilizācijas iespējas: kombinācijā ar stingru Serafica žaketi un klasiskām biksēm, Salottino mētelis pārvēršas par izsmalcinātu un statusa pilnu lietišķās garderobes elementu."
       }
     ],
     "lt": [
       {
-        "q": "Kutai gali atrodyti nepraktiški ir sudėtingai prižiūrimi.",
+        "q": "Kutai gali atrodyti nepraktiški ir sudėtingai prižiūrimi",
         "a": "Atkreipkite dėmesį į aukščiausią kokybę: kutai yra patikimai pritvirtinti ir pagaminti iš dilimui atsparios vilnos. Reguliarus profesionalus valymas leis išsaugoti jų pirminę išvaizdą daugelį metų."
       },
       {
-        "q": "Paltas-chalatas be sagų gali nepakankamai šildyti pučiant stipriam vėjui.",
+        "q": "Paltas-chalatas be sagų gali nepakankamai šildyti pučiant stipriam vėjui",
         "a": "Paaiškinkite, kad gilus uždėjimas ir tankus grynos vilnos audinys užtikrina patikimą apsaugą. Rekomenduokite derinti modelį su tūrinio stiliaus trikotažu, pavyzdžiui, Mano H megztiniu, maksimaliam komfortui."
       },
       {
-        "q": "Šviesus Panna 0202 atspalvis atrodo nepraktiškas žiemos sezonui.",
+        "q": "Šviesus Panna 0202 atspalvis atrodo nepraktiškas žiemos sezonui",
         "a": "Pabrėžkite, kad šviesi žiemos paletė – aukšto statuso ženklas „quiet luxury“ stiliuje. Gryna vilna pasižymi natūraliomis savybėmis, leidžiančiomis ilgiau išsaugoti švarą tinkamai prižiūrint."
       },
       {
-        "q": "Kutai ant apykaklės gali vizualiai pasunkinti viršutinę figūros dalį.",
+        "q": "Kutai ant apykaklės gali vizualiai pasunkinti viršutinę figūros dalį",
         "a": "Paaiškinkite, kad V formos iškirptė ir prigludęs siluetas, priešingai, vizualiai ilgina siluetą, o kutai suteikia švelnios dinamikos judant, palengvindami įvaizdį."
       },
       {
-        "q": "Modelis atrodo per daug laisvas griežtam aprangos kodui.",
+        "q": "Modelis atrodo per daug laisvas griežtam aprangos kodui",
         "a": "Pademonstruokite derinimo galimybes: derinant su griežtu Serafica švarku ir klasikinėmis kelnėmis, paltas Salottino virsta rafinuotu ir statusą pabrėžiančiu dalykinio garderobo elementu."
       }
     ],
     "pl": [
       {
-        "q": "Frędzle mogą wydawać się niepraktyczne i trudne w pielęgnacji.",
+        "q": "Frędzle mogą wydawać się niepraktyczne i trudne w pielęgnacji",
         "a": "Wskaż na najwyższą jakość wykonania: frędzle są solidnie zamocowane i wykonane z odpornej na zużycie wełny. Regularne profesjonalne czyszczenie pozwoli zachować ich pierwotny wygląd przez wiele lat."
       },
       {
-        "q": "Płaszcz-szlafrok bez guzików może być niewystarczająco ciepły podczas silnego wiatru.",
+        "q": "Płaszcz-szlafrok bez guzików może być niewystarczająco ciepły podczas silnego wiatru",
         "a": "Wyjaśnij, że głębokie zakładki i gęste sukno z czystej wełny zapewniają niezawodną ochronę. Rekomenduj łączenie modelu z obszerną dzianiną, na przykład pulowerem Mano H, dla maksymalnego komfortu."
       },
       {
-        "q": "Jasny odcień Panna 0202 wydaje się niepraktyczny na sezon zimowy.",
+        "q": "Jasny odcień Panna 0202 wydaje się niepraktyczny na sezon zimowy",
         "a": "Podkreśl, że jasna paleta zimowa to wyznacznik wysokiego statusu w stylu „quiet luxury”. Czysta wełna posiada naturalne właściwości pozwalające dłużej zachować czystość przy odpowiedniej pielęgnacji."
       },
       {
-        "q": "Frędzle na kołnierzu mogą wizualnie obciążać górną część sylwetki.",
+        "q": "Frędzle na kołnierzu mogą wizualnie obciążać górną część sylwetki",
         "a": "Wyjaśnij, że wycięcie w kształcie litery V i taliowany fason wręcz przeciwnie, wydłużają sylwetkę, a frędzle tworzą miękką dynamikę podczas ruchu, nadając wizerunkowi lekkości."
       },
       {
-        "q": "Model wygląda zbyt swobodnie do surowego dress-code'u.",
+        "q": "Model wygląda zbyt swobodnie do surowego dress-code'u",
         "a": "Zaprezentuj możliwości stylizacji: w połączeniu z surowym żakietem Serafica i klasycznymi spodniami płaszcz Salottino zamienia się w wyrafinowany i prestiżowy element garderoby biznesowej."
       }
     ],
     "uk": [
       {
-        "q": "Бахрома може здаватися непрактичною і складною у догляді.",
+        "q": "Бахрома може здаватися непрактичною і складною у догляді",
         "a": "Вкажіть на найвищу якість виконання: бахрома надійно закріплена та виконана зі зносостійкої вовни. Регулярна професійна чистка дозволить зберегти її первозданний вигляд на багато років."
       },
       {
-        "q": "Пальто-халат без ґудзиків може бути недостатньо теплим на сильному вітрі.",
+        "q": "Пальто-халат без ґудзиків може бути недостатньо теплим на сильному вітрі",
         "a": "Поясніть, що глибокий запах і щільне сукно з чистої вовни забезпечують надійний захист. Рекомендуйте поєднувати модель із об’ємним трикотажем, наприклад, пуловером Mano H, для максимального комфорту."
       },
       {
-        "q": "Світлий відтінок Panna 0202 здається непрактичним для зимового сезону.",
-        "a": "Підкресліть, що світла зимова палітра — це маркер високого статусу у стилі «quiet luxury». Чиста вовна володіє природними властивостями, що дозволяють довше зберігати чистоту при належному догляді."
+        "q": "Світлий відтінок Panna 0202 здається непрактичним для зимового сезону",
+        "a": "Підкресліть, що світла зимова палітра — це маркер високого статусу у стилі."
       },
       {
-        "q": "Бахрома на комірі може візуально обтяжувати верхню частину фігури.",
+        "q": "quiet luxury",
+        "a": ". Чиста вовна володіє природними властивостями, що дозволяють довше зберігати чистоту при належному догляді."
+      },
+      {
+        "q": "Бахрома на комірі може візуально обтяжувати верхню частину фігури",
         "a": "Поясніть, що V-подібний виріз і приталений силует, навпаки, витягують вертикаль, а бахрома створює м’яку динаміку при русі, полегшуючи образ."
       },
       {
-        "q": "Модель виглядає занадто розслабленою для суворого дрес-коду.",
+        "q": "Модель виглядає занадто розслабленою для суворого дрес-коду",
         "a": "Продемонструйте можливості стайлінгу: у поєднанні зі суворим жакетом Serafica та класичними брюками пальто Salottino перетворюється на вишуканий і статусний елемент ділового гардероба."
       }
     ]

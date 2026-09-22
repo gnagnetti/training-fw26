@@ -160,19 +160,19 @@
   "objections": {
     "en": [
       {
-        "q": "The lace top looks too delicate for wear.",
+        "q": "The lace top looks too delicate for wear",
         "a": "The use of premium synthetic fibres in the lace composition (53% polyester) provides the necessary strength and shape retention, while visually remaining airy and couture in feel."
       },
       {
-        "q": "A mid-calf length may visually shorten the frame.",
+        "q": "A mid-calf length may visually shorten the frame",
         "a": "The straight cut of the skirt and the high waistline, accentuated by the belt, in fact create a slender vertical line. We recommend pairing this dress with our classic pumps or Udita heeled sandals."
       },
       {
-        "q": "Black may seem too formal.",
+        "q": "Black may seem too formal",
         "a": "The deep 'Nero' black in this piece is softened by the interplay of textures and the delicate sheerness of the lace sleeves, lending the look femininity and mystery."
       },
       {
-        "q": "The dress seems suitable only for festive occasions.",
+        "q": "The dress seems suitable only for festive occasions",
         "a": "Thanks to the understated design of the wool skirt, when paired with a structured jacket, this dress can be adapted for even the most formal business meetings."
       },
       {
@@ -182,41 +182,45 @@
     ],
     "ru": [
       {
-        "q": "Кружевной верх выглядит слишком деликатным для носки.",
-        "a": "Использование высококачественных синтетических волокон в составе кружева (53% полиэстер) обеспечивает необходимую прочность и сохранение формы, при этом визуально оно остается воздушным и кутюрным."
+        "q": "Кружевной топ выглядит слишком хрупким",
+        "a": "Использование премиальных синтетических волокон в составе кружева (53% полиэстера) обеспечивает необходимую прочность и сохранение формы, при этом визуально сохраняя воздушность и кутюрную эстетику."
       },
       {
-        "q": "Длина до середины икры может визуально уменьшать рост.",
-        "a": "Прямой крой юбки и высокая линия талии, подчеркнутая поясом, наоборот, создают стройную вертикаль. Мы рекомендуем сочетать это платье с нашими классическими лодочками или сандалиями на каблуке Udita."
+        "q": "Длина миди может визуально укорачивать рост",
+        "a": "Прямой крой юбки и завышенная линия талии, подчеркнутая ремнем, создают изящную вертикаль. Мы рекомендуем дополнить это платье нашими классическими лодочками или босоножками на каблуке Udita."
       },
       {
-        "q": "Черный цвет может выглядеть слишком официально.",
-        "a": "Глубокий черный цвет 'Nero' в этой модели смягчен игрой фактур и деликатным просвечиванием кружева на рукавах, что придает образу женственность и загадочность."
+        "q": "Черный цвет может казаться слишком формальным",
+        "a": "Глубокий черный."
       },
       {
-        "q": "Платье кажется только праздничным.",
-        "a": "Благодаря лаконичному дизайну юбки из шерсти, при дополнении образа строгим жакетом, это платье может быть адаптировано для самых торжественных деловых встреч."
+        "q": "Nero",
+        "a": "в этом изделии смягчен игрой фактур и деликатной прозрачностью кружевных рукавов, что придает образу женственность и ноту загадочности."
       },
       {
-        "q": "Будет ли комфортно в облегающей юбке?",
-        "a": "Наличие 4% эластана в составе ткани и продуманный разрез сзади гарантируют безупречную посадку по фигуре без скованности движений в течение всего вечера."
+        "q": "Платье кажется подходящим только для торжественных случаев",
+        "a": "Благодаря сдержанному дизайну шерстяной юбки, в сочетании со структурированным жакетом, это платье легко адаптируется даже для самых официальных деловых встреч."
+      },
+      {
+        "q": "Будет ли комфортно в такой облегающей юбке?",
+        "a": "Содержание 4% эластана в ткани вместе с продуманным разрезом сзади гарантирует безупречную посадку, не сковывающую движений в течение всего вечера."
       }
     ],
     "ar": [
       {
-        "q": "الجزء العلوي من الدانتيل يبدو رقيقاً جداً للارتداء.",
+        "q": "الجزء العلوي من الدانتيل يبدو رقيقاً جداً للارتداء",
         "a": "استخدام الألياف الصناعية عالية الجودة في تركيبة الدانتيل (53% بوليستر) يوفر المتانة اللازمة والحفاظ على شكل القطعة، مع الحفاظ على مظهره الهوائي الفاخر."
       },
       {
-        "q": "الطول حتى منتصف الساق قد يقلل من القامة بصرياً.",
+        "q": "الطول حتى منتصف الساق قد يقلل من القامة بصرياً",
         "a": "القصة المستقيمة للتنورة وخط الخصر المرتفع الذي يبرزه الحزام، يخلقان خطاً عمودياً يضفي رشاقة. ننصح بتنسيق هذا الفستان مع حذاء الكعب الكلاسيكي أو صنادل Udita ذات الكعب العالي."
       },
       {
-        "q": "اللون الأسود قد يبدو رسمياً أكثر من اللازم.",
+        "q": "اللون الأسود قد يبدو رسمياً أكثر من اللازم",
         "a": "تم تخفيف حدة اللون الأسود العميق 'Nero' في هذا الموديل من خلال تباين الخامات والشفافية الرقيقة للدانتيل على الأكمام، مما يضفي على الإطلالة طابعاً أنثوياً غامضاً."
       },
       {
-        "q": "الفستان يبدو مخصصاً للمناسبات فقط.",
+        "q": "الفستان يبدو مخصصاً للمناسبات فقط",
         "a": "بفضل التصميم البسيط للتنورة المصنوعة من الصوف، يمكن تكييف هذا الفستان لأكثر اجتماعات العمل رسمية عند تنسيقه مع سترة رسمية."
       },
       {
@@ -226,19 +230,19 @@
     ],
     "ka": [
       {
-        "q": "მაქმანებიანი ზედაპირი ზედმეტად დელიკატური ჩანს ტარებისთვის.",
+        "q": "მაქმანებიანი ზედაპირი ზედმეტად დელიკატური ჩანს ტარებისთვის",
         "a": "მაქმანის შემადგენლობაში მაღალი ხარისხის სინთეტიკური ბოჭკოების (53% პოლიესტერი) გამოყენება უზრუნველყოფს აუცილებელ სიმტკიცეს და ფორმის შენარჩუნებას, თანაც ის ვიზუალურად ჰაეროვანი და კუტიურის სტილის რჩება."
       },
       {
-        "q": "სიგრძე წვივამდე შეიძლება ვიზუალურად ამცირებდეს სიმაღლეს.",
+        "q": "სიგრძე წვივამდე შეიძლება ვიზუალურად ამცირებდეს სიმაღლეს",
         "a": "ქვედაბოლოს სწორი ჭრა და წელის მაღალი ხაზი, რომელიც ქამრით არის ხაზგასმული, პირიქით, ქმნის თხელ ვერტიკალს. ჩვენ გირჩევთ ეს კაბა შეუხამოთ ჩვენს კლასიკურ „ნავისებურ“ ფეხსაცმელს ან Udita-ს ქუსლიან სანდლებს."
       },
       {
-        "q": "შავი ფერი შეიძლება ზედმეტად ოფიციალურად გამოიყურებოდეს.",
+        "q": "შავი ფერი შეიძლება ზედმეტად ოფიციალურად გამოიყურებოდეს",
         "a": "ღრმა შავი ფერი 'Nero' ამ მოდელში დარბილებულია ფაქტურების თამაშით და სახელოებზე მაქმანის დელიკატური გამჭვირვალობით, რაც სახეს ქალურობასა და იდუმალებას ანიჭებს."
       },
       {
-        "q": "კაბა მხოლოდ სადღესასწაულოდ ჩანს.",
+        "q": "კაბა მხოლოდ სადღესასწაულოდ ჩანს",
         "a": "მატყლის ქვედაბოლოს ლაკონიური დიზაინის წყალობით, მკაცრ ჟაკეტთან შეხამებისას, ეს კაბა შეიძლება ადაპტირებული იქნას ყველაზე საზეიმო საქმიანი შეხვედრებისთვის."
       },
       {
@@ -249,40 +253,40 @@
     "hy": [
       {
         "q": "Ժանյակավոր վերնամասը չափազանց նուրբ է թվում կրելու համար։",
-        "a": "Ժանյակի կազմում բարձրորակ սինթետիկ մանրաթելերի (53% պոլիեսթեր) օգտագործումն ապահովում է անհրաժեշտ ամրություն և ձևի պահպանում, միաժամանակ այն տեսողականորեն մնում է օդային և կուտյուրային։"
+        "a": "Ժանյակի կազմում բարձրորակ սինթետիկ մանրաթելերի (53% պոլիեսթեր) օգտագործումն ապահովում է անհրաժեշտ ամրություն և ձևի պահպանում, միաժամանակ այն տեսողականորեն մնում է օդային և կուտյուրային։."
       },
       {
         "q": "Մինչև սրունքի կենտրոնը հասնող երկարությունը կարող է տեսողականորեն կարճացնել հասակը։",
-        "a": "Կիսաշրջազգեստի ուղիղ կտրվածքը և գոտկատեղի բարձր գիծը, որն ընդգծված է գոտիով, ընդհակառակը, ստեղծում են սլացիկ ուղղահայաց գիծ։ Մենք խորհուրդ ենք տալիս այս զգեստը համադրել մեր դասական լոդոչկա կոշիկների կամ Udita կրունկավոր սանդալների հետ։"
+        "a": "Կիսաշրջազգեստի ուղիղ կտրվածքը և գոտկատեղի բարձր գիծը, որն ընդգծված է գոտիով, ընդհակառակը, ստեղծում են սլացիկ ուղղահայաց գիծ։ Մենք խորհուրդ ենք տալիս այս զգեստը համադրել մեր դասական լոդոչկա կոշիկների կամ Udita կրունկավոր սանդալների հետ։."
       },
       {
         "q": "Սև գույնը կարող է չափազանց պաշտոնական երևալ։",
-        "a": "Այս մոդելում խորը 'Nero' սև գույնը մեղմված է ֆակտուրաների խաղով և թևերի վրա ժանյակի նուրբ թափանցիկությամբ, ինչը կերպարին հաղորդում է կանացիություն և առեղծվածայնություն։"
+        "a": "Այս մոդելում խորը 'Nero' սև գույնը մեղմված է ֆակտուրաների խաղով և թևերի վրա ժանյակի նուրբ թափանցիկությամբ, ինչը կերպարին հաղորդում է կանացիություն և առեղծվածայնություն։."
       },
       {
         "q": "Զգեստը միայն տոնական է թվում։",
-        "a": "Բրդյա կիսաշրջազգեստի լակոնիկ դիզայնի շնորհիվ, կերպարը խիստ բաճկոնով լրացնելիս, այս զգեստը կարող է հարմարեցվել ամենահանդիսավոր գործնական հանդիպումների համար։"
+        "a": "Բրդյա կիսաշրջազգեստի լակոնիկ դիզայնի շնորհիվ, կերպարը խիստ բաճկոնով լրացնելիս, այս զգեստը կարող է հարմարեցվել ամենահանդիսավոր գործնական հանդիպումների համար։."
       },
       {
         "q": "Արդյո՞ք հարմարավետ կլինի կիպ կիսաշրջազգեստով։",
-        "a": "Գործվածքի կազմում 4% էլաստանի առկայությունը և հետևի մասում մտածված բացվածքը երաշխավորում են անթերի տեղավորում կազմվածքին՝ առանց շարժումները սահմանափակելու ողջ երեկոյի ընթացքում։"
+        "a": "Գործվածքի կազմում 4% էլաստանի առկայությունը և հետևի մասում մտածված բացվածքը երաշխավորում են անթերի տեղավորում կազմվածքին՝ առանց շարժումները սահմանափակելու ողջ երեկոյի ընթացքում։."
       }
     ],
     "lv": [
       {
-        "q": "Mežģīņu augšdaļa izskatās pārāk delikāta valkāšanai.",
+        "q": "Mežģīņu augšdaļa izskatās pārāk delikāta valkāšanai",
         "a": "Augstas kvalitātes sintētisko šķiedru izmantošana mežģīņu sastāvā (53% poliesters) nodrošina nepieciešamo izturību un formas saglabāšanu, tajā pašā laikā vizuāli tā paliek gaisīga un izsmalcināta (kutūras stilā)."
       },
       {
-        "q": "Garums līdz ikru vidum var vizuāli samazināt augumu.",
+        "q": "Garums līdz ikru vidum var vizuāli samazināt augumu",
         "a": "Taisnais svārku piegriezums un augstā vidukļa līnija, ko pasvītro josta, gluži pretēji, rada slaidu vertikāli. Mēs iesakām šo kleitu kombinēt ar mūsu klasiskajām laiviņām vai sandalēm ar papēdi Udita."
       },
       {
-        "q": "Melnā krāsa var izskatīties pārāk oficiāla.",
+        "q": "Melnā krāsa var izskatīties pārāk oficiāla",
         "a": "Dziļā melnā krāsa 'Nero' šajā modelī ir mīkstināta ar faktūru spēli un delikātu mežģīņu caurspīdīgumu uz piedurknēm, kas piešķir tēlam sievišķību un noslēpumainību."
       },
       {
-        "q": "Kleita šķiet tikai svinīga.",
+        "q": "Kleita šķiet tikai svinīga",
         "a": "Pateicoties lakoniskajam vilnas svārku dizainam, papildinot tēlu ar stingru žaketi, šī kleita var tikt adaptēta visizsmalcinātākajām lietišķajām tikšanās reizēm."
       },
       {
@@ -292,19 +296,19 @@
     ],
     "lt": [
       {
-        "q": "Nėrinių viršus atrodo pernelyg trapus dėvėjimui.",
+        "q": "Nėrinių viršus atrodo pernelyg trapus dėvėjimui",
         "a": "Aukštos kokybės sintetinių pluoštų naudojimas nėrinių sudėtyje (53% poliesteris) užtikrina reikiamą tvirtumą ir formos išlaikymą, tuo pačiu išlaikant vizualų lengvumą ir „couture“ įvaizdį."
       },
       {
-        "q": "Ilgis iki blauzdos vidurio gali vizualiai trumpinti ūgį.",
+        "q": "Ilgis iki blauzdos vidurio gali vizualiai trumpinti ūgį",
         "a": "Tiesus sijono kirpimas ir aukšta liemens linija, pabrėžta diržu, priešingai, sukuria liekną vertikalę. Rekomenduojame derinti šią suknelę su mūsų klasikiniais laiveliais arba basutėmis su kulnu Udita."
       },
       {
-        "q": "Juoda spalva gali atrodyti pernelyg oficialiai.",
+        "q": "Juoda spalva gali atrodyti pernelyg oficialiai",
         "a": "Sodri juoda spalva 'Nero' šiame modelyje sušvelninta faktūrų žaismu ir subtiliu nėrinių persišvietimu ant rankovių, kas suteikia įvaizdžiui moteriškumo ir paslapties."
       },
       {
-        "q": "Suknelė atrodo tik šventinė.",
+        "q": "Suknelė atrodo tik šventinė",
         "a": "Dėl lakoniško vilnonio sijono dizaino, papildžius įvaizdį griežtu švarku, ši suknelė gali būti pritaikyta patiems iškilmingiausiems verslo susitikimams."
       },
       {
@@ -314,19 +318,19 @@
     ],
     "pl": [
       {
-        "q": "Koronkowa góra wygląda na zbyt delikatną do noszenia.",
+        "q": "Koronkowa góra wygląda na zbyt delikatną do noszenia",
         "a": "Zastosowanie wysokiej jakości włókien syntetycznych w składzie koronki (53% poliester) zapewnia niezbędną wytrzymałość i utrzymanie formy, przy czym wizualnie pozostaje ona zwiewna i couture."
       },
       {
-        "q": "Długość do połowy łydki może optycznie skracać wzrost.",
+        "q": "Długość do połowy łydki może optycznie skracać wzrost",
         "a": "Prosty krój spódnicy i wysoka linia talii, podkreślona paskiem, wręcz przeciwnie, tworzą smukłą linię pionową. Zalecamy łączenie tej sukienki z naszymi klasycznymi czółenkami lub sandałami na obcasie Udita."
       },
       {
-        "q": "Czarny kolor może wyglądać zbyt oficjalnie.",
+        "q": "Czarny kolor może wyglądać zbyt oficjalnie",
         "a": "Głęboki czarny kolor 'Nero' w tym modelu został złagodzony grą faktur i delikatnym prześwitywaniem koronki na rękawach, co nadaje stylizacji kobiecości i tajemniczości."
       },
       {
-        "q": "Sukienka wydaje się tylko na specjalne okazje.",
+        "q": "Sukienka wydaje się tylko na specjalne okazje",
         "a": "Dzięki minimalistycznemu designowi spódnicy z wełny, przy uzupełnieniu stylizacji eleganckim żakietem, ta sukienka może być zaadaptowana na najbardziej uroczyste spotkania biznesowe."
       },
       {
@@ -336,19 +340,19 @@
     ],
     "uk": [
       {
-        "q": "Мереживний верх виглядає занадто делікатним для носіння.",
+        "q": "Мереживний верх виглядає занадто делікатним для носіння",
         "a": "Використання високоякісних синтетичних волокон у складі мережива (53% поліестер) забезпечує необхідну міцність та збереження форми, при цьому візуально воно залишається повітряним і кутюрним."
       },
       {
-        "q": "Довжина до середини литки може візуально зменшувати зріст.",
+        "q": "Довжина до середини литки може візуально зменшувати зріст",
         "a": "Прямий крій спідниці та висока лінія талії, підкреслена поясом, навпаки, створюють струнку вертикаль. Ми рекомендуємо поєднувати цю сукню з нашими класичними човниками або сандалями на підборах Udita."
       },
       {
-        "q": "Чорний колір може виглядати занадто офіційно.",
+        "q": "Чорний колір може виглядати занадто офіційно",
         "a": "Глибокий чорний колір 'Nero' у цій моделі пом'якшений грою фактур і делікатним просвічуванням мережива на рукавах, що додає образу жіночності та загадковості."
       },
       {
-        "q": "Сукня здається тільки святковою.",
+        "q": "Сукня здається тільки святковою",
         "a": "Завдяки лаконічному дизайну спідниці з вовни, при доповненні образу суворим жакетом, ця сукня може бути адаптована для найбільш урочистих ділових зустрічей."
       },
       {

@@ -179,68 +179,68 @@
   "objections": {
     "en": [
       {
-        "q": "The design is too plain.",
+        "q": "The design is too plain",
         "a": "Explain that in the luxury segment, simplicity is a hallmark of superior fabric quality. The Frascati skirt draws attention to the sumptuous texture of the silk and viscose rather than excessive embellishment."
       },
       {
-        "q": "I'm afraid the light-colored fabric will add bulk.",
+        "q": "I'm afraid the light-colored fabric will add bulk",
         "a": "Point out the impeccable \"classic\" cut. The skirt's carefully engineered lines, combined with the fabric's noble sheen, create a vertical line that slims rather than adds volume."
       },
       {
-        "q": "Silk requires overly complex care.",
+        "q": "Silk requires overly complex care",
         "a": "Remind the client that this is a high-tech silk-and-viscose blend. This composition makes the fabric more resistant to wear and creasing than pure silk, while retaining its precious appearance."
       },
       {
-        "q": "This style is only for special occasions.",
+        "q": "This style is only for special occasions",
         "a": "Demonstrate the piece's versatility: thanks to its simplicity, the skirt works beautifully in layered looks. Try pairing it with an essential top to dial down the formality."
       },
       {
-        "q": "Hard to find the right undergarments for this fabric.",
+        "q": "Hard to find the right undergarments for this fabric",
         "a": "Recommend seamless, nude-toned undergarments. The density and quality of Luisa Spagnoli's blended fabric preserve the silhouette's clean lines."
       }
     ],
     "ru": [
       {
-        "q": "Слишком",
-        "a": "Объясните, что в сегменте luxury лаконичность — это простой признак высокого качества ткани. Юбка Frascati дизайн фокусирует внимание на роскошной фактуре шелка и вискозы, а не на избыточном декоре."
+        "q": "Дизайн кажется слишком простым",
+        "a": "В сегменте люкс лаконичность — это манифест безупречного качества материала. Юбка Frascati делает акцент на благородной фактуре шелка и вискозы, не нуждаясь в избыточном декоре."
       },
       {
-        "q": "Боюсь",
-        "a": "Укажите на безупречный крой «классика . Правильно светлая ткань сконструированные линии юбки в сочетании с благородным будет полнить» блеском ткани создают вертикаль, которая стройнит, а не добавляет объем."
+        "q": "Боюсь, светлая ткань добавит объема",
+        "a": "Обратите внимание на архитектурный крой: выверенные линии в сочетании с благородным сиянием ткани создают вертикаль, которая визуально стройнит силуэт."
       },
       {
-        "q": "Шелк требует",
-        "a": "Напомните, что это высокотехнологичная смесь шелка и слишком сложного вискозы. Такой состав делает ткань более устойчивой к ухода износу и сминанию по сравнению с чистым шелком, сохраняя при этом его драгоценный вид."
+        "q": "Шелк требует сложного ухода",
+        "a": "Это высокотехнологичный микс шелка и вискозы. Такой состав делает изделие более устойчивым к износу и заломам, сохраняя при этом драгоценный вид натурального шелка."
       },
       {
-        "q": "Такая модель",
-        "a": "Продемонстрируйте универсальность: благодаря своей только для простоте юбка отлично работает в многослойных образах. особых Попробуйте примерить её с базовым топом, чтобы снизить случаев градус торжественности."
+        "q": "Этот стиль только для особых случаев",
+        "a": "Модель обладает исключительной универсальностью: благодаря своей лаконичности юбка идеально вписывается в многослойные образы. Попробуйте сочетать её с базовым топом, чтобы снизить градус торжественности."
       },
       {
-        "q": "Сложно",
-        "a": "Рекомендуйте использование бесшовного белья телесного подобрать белье оттенка. Плотность и качество смесового полотна Luisa под такую Spagnoli позволяют сохранить чистоту линий силуэта. ткань."
+        "q": "Сложно подобрать белье под такую ткань",
+        "a": "Рекомендуем бесшовное белье в тон кожи. Плотность и качество смесовой ткани Luisa Spagnoli позволяют сохранить чистоту линий силуэта."
       }
     ],
     "ar": [
       {
         "q": "التصميم بسيط جداً",
-        "a": "|| اشرح أنه في قطاع الرفاهية، تعتبر البساطة علامة على جودة القماش العالية. تنورة Frascati تركز الانتباه على ملمس الحرير والفسكوز الفاخر، بدلاً من الزخارف المبالغ فيها."
+        "a": "اشرح أنه في قطاع الرفاهية، تعتبر البساطة علامة على جودة القماش العالية. تنورة Frascati تركز الانتباه على ملمس الحرير والفسكوز الفاخر، بدلاً من الزخارف المبالغ فيها."
       },
       {
         "q": "أخشى أن القماش الفاتح يظهر العيوب",
-        "a": "|| أشر إلى القصة الكلاسيكية المتقنة. خطوط التنورة المصممة بدقة مع لمعان القماش الراقي تخلق خطاً طولياً ينحف القوام ولا يضيف حجماً."
+        "a": "أشر إلى القصة الكلاسيكية المتقنة. خطوط التنورة المصممة بدقة مع لمعان القماش الراقي تخلق خطاً طولياً ينحف القوام ولا يضيف حجماً."
       },
       {
         "q": "الحرير يتطلب عناية معقدة جداً",
-        "a": "|| ذكّر بأن هذا مزيج تكنولوجي متطور من الحرير والفسكوز. هذا المزيج يجعل القماش أكثر مقاومة للتآكل والتجعد مقارنة بالحرير الخالص، مع الحفاظ على مظهره الثمين."
+        "a": "ذكّر بأن هذا مزيج تكنولوجي متطور من الحرير والفسكوز. هذا المزيج يجعل القماش أكثر مقاومة للتآكل والتجعد مقارنة بالحرير الخالص، مع الحفاظ على مظهره الثمين."
       },
       {
         "q": "هذا الموديل للمناسبات الخاصة فقط",
-        "a": "|| استعرض التنوع: بفضل بساطتها، تعمل التنورة بشكل ممتاز في الإطلالات متعددة الطبقات. جربي تنسيقها مع توب أساسي لتقليل حدة الرسمية."
+        "a": "استعرض التنوع: بفضل بساطتها، تعمل التنورة بشكل ممتاز في الإطلالات متعددة الطبقات. جربي تنسيقها مع توب أساسي لتقليل حدة الرسمية."
       },
       {
         "q": "من الصعب اختيار ملابس داخلية مناسبة لهذا القماش",
-        "a": "|| أوصي باستخدام ملابس داخلية بدون خياطة بلون البشرة. كثافة وجودة نسيج Luisa Spagnoli تسمح بالحفاظ على نقاء خطوط القوام."
+        "a": "أوصي باستخدام ملابس داخلية بدون خياطة بلون البشرة. كثافة وجودة نسيج Luisa Spagnoli تسمح بالحفاظ على نقاء خطوط القوام. ![](media/image20.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -266,7 +266,7 @@
       },
       {
         "q": "რთულია ასეთი ქსოვილის ქვეშ თეთრეულის შერჩევა",
-        "a": "რეკომენდაცია გაუწიეთ სხეულის ფერის უნაკერო თეთრეულის გამოყენებას. Luisa Spagnoli-ს შერეული ქსოვილის სიმკვრივე და ხარისხი საშუალებას იძლევა შეინარჩუნოთ სილუეტის ხაზების სისუფთავე."
+        "a": "რეკომენდაცია გაუწიეთ სხეულის ფერის უნაკერო თეთრეულის გამოყენებას. Luisa Spagnoli-ს შერეული ქსოვილის სიმკვრივე და ხარისხი საშუალებას იძლევა შეინარჩუნოთ სილუეტის ხაზების სისუფთავე. ![](media/image20.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -292,29 +292,29 @@
       },
       {
         "q": "Դժվար է նման գործվածքի տակ ներքնազգեստ ընտրել",
-        "a": "Խորհուրդ տվեք օգտագործել մարմնագույն, անկար ներքնազգեստ։ Luisa Spagnoli-ի խառը գործվածքի խտությունը և որակը թույլ են տալիս պահպանել ուրվագծի գծերի մաքրությունը։."
+        "a": "Խորհուրդ տվեք օգտագործել մարմնագույն, անկար ներքնազգեստ։ Luisa Spagnoli-ի խառը գործվածքի խտությունը և որակը թույլ են տալիս պահպանել ուրվագծի գծերի մաքրությունը։ ![](media/image20.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Pārāk vienkāršs",
-        "a": "Izskaidrojiet, ka luxury segmentā lakoniskums dizains — ir augstas auduma kvalitātes pazīme. Svārki Frascati fokusē uzmanību uz grezno zīda un viskozes faktūru, nevis uz pārmērīgu dekoru."
+        "q": "Pārāk vienkāršs Izskaidrojiet, ka luxury segmentā lakoniskums dizains",
+        "a": "ir augstas auduma kvalitātes pazīme. Svārki Frascati fokusē uzmanību uz grezno zīda un viskozes faktūru, nevis uz pārmērīgu dekoru."
       },
       {
-        "q": "Baidos, ka gaišs",
-        "a": "Norādiet uz nevainojamu «klasikas piegriezumu. audums padarīs Pareizi konstruētās svārku līnijas apvienojumā resnāku» ar cēlo auduma mirdzumu rada vertikāli, kas slaidina, nevis piešķir apjomu."
+        "q": "Baidos, ka gaišs Norādiet uz nevainojamu «klasikas",
+        "a": "piegriezumu. audums padarīs Pareizi konstruētās svārku līnijas apvienojumā resnāku» ar cēlo auduma mirdzumu rada vertikāli, kas slaidina, nevis piešķir apjomu."
       },
       {
-        "q": "Zīds prasa pārāk",
-        "a": "Atgādiniet, ka tas ir augsto tehnoloģiju zīda un sarežģītu kopšanu viskozes sajaukums. Šāds sastāvs padara audumu izturīgāku pret nolietojumu un burzīšanos salīdzinājumā ar tīru zīdu, saglabājot tā dārgo izskatu."
+        "q": "Zīds prasa pārāk Atgādiniet, ka tas ir augsto tehnoloģiju zīda un sarežģītu kopšanu",
+        "a": "viskozes sajaukums. Šāds sastāvs padara audumu izturīgāku pret nolietojumu un burzīšanos salīdzinājumā ar tīru zīdu, saglabājot tā dārgo izskatu."
       },
       {
-        "q": "Šāds modelis tikai",
-        "a": "Demonstrējiet universālumu: pateicoties savai īpašiem gadījumiem vienkāršībai, svārki lieliski darbojas daudzslāņu tēlos. Izmēģiniet piemērīt tos ar pamata topu, lai samazinātu svinīguma pakāpi."
+        "q": "Šāds modelis tikai Demonstrējiet universālumu: pateicoties savai īpašiem gadījumiem",
+        "a": "vienkāršībai, svārki lieliski darbojas daudzslāņu tēlos. Izmēģiniet piemērīt tos ar pamata topu, lai samazinātu svinīguma pakāpi."
       },
       {
-        "q": "Grūti pieskaņot",
-        "a": "Iesakiet izmantot bezšuvju veļu miesas krāsā. veļu zem šāda Luisa Spagnoli jaukta auduma blīvums un kvalitāte auduma ļauj saglabāt silueta līniju tīrību."
+        "q": "Grūti pieskaņot Iesakiet izmantot bezšuvju veļu miesas krāsā. veļu zem šāda Luisa Spagnoli jaukta auduma blīvums un kvalitāte auduma",
+        "a": "ļauj saglabāt silueta līniju tīrību. ![](media/image20.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -346,7 +346,7 @@
       },
       {
         "q": "Trudno dobrać bieliznę pod taką tkaninę",
-        "a": "Rekomenduj użycie bezszwowej bielizny w cielistym odcieniu. Gęstość i jakość mieszanego materiału Luisa Spagnoli pozwalają zachować czystość linii sylwetki."
+        "a": "Rekomenduj użycie bezszwowej bielizny w cielistym odcieniu. Gęstość i jakość mieszanego materiału Luisa Spagnoli pozwalają zachować czystość linii sylwetki. ![](media/image20.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "uk": [

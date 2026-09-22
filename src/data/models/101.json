@@ -197,199 +197,199 @@
   "objections": {
     "en": [
       {
-        "q": "The blouse seems too delicate given its silk content.",
+        "q": "The blouse seems too delicate given its silk content",
         "a": "The addition of premium-quality cotton (76%) makes the fabric more durable and practical to wear, while preserving all the aesthetic qualities of natural silk."
       },
       {
-        "q": "Ruffled sleeves may be cumbersome under outerwear.",
+        "q": "Ruffled sleeves may be cumbersome under outerwear",
         "a": "The ruffles are crafted from a lightweight, fluid material that fits easily within the sleeves of our coats and jackets, creating a beautiful, layered accent at the wrist."
       },
       {
-        "q": "A striped print may visually add width.",
+        "q": "A striped print may visually add width",
         "a": "On the contrary, the fine vertical stripe, combined with the understated cut and stand collar, visually elongates the silhouette, lending the figure a slender line."
       },
       {
-        "q": "It's difficult to pair bottoms with such an eye-catching sleeve design.",
+        "q": "It's difficult to pair bottoms with such an eye-catching sleeve design",
         "a": "The Latteria blouse pairs beautifully with pencil skirts or classic trousers from our collection. We recommend styling it with the Fumaiolo piece to create a truly statement-worthy ensemble."
       },
       {
-        "q": "Mother-of-pearl buttons require special care.",
-        "a": "The use of natural mother-of-pearl is a hallmark of superior quality. With proper care — whether delicate hand-washing or professional cleaning — the hardware will retain its sheen for decades."
+        "q": "Mother-of-pearl buttons require special care",
+        "a": "The use of natural mother-of-pearl is a hallmark of superior quality. With proper care »” whether delicate hand-washing or professional cleaning »” the hardware will retain its sheen for decades."
       }
     ],
     "ru": [
       {
-        "q": "Блуза кажется слишком хрупкой из-за шелка в составе.",
-        "a": "Добавление высококачественного хлопка (76%) делает ткань более прочной и практичной в носке, сохраняя при этом все эстетические достоинства натурального шелка."
+        "q": "Блуза кажется слишком деликатной из-за содержания шелка",
+        "a": "Добавление премиального хлопка (76%) придает ткани исключительную износостойкость и практичность, сохраняя при этом все эстетические достоинства натурального шелка."
       },
       {
-        "q": "Воланы на рукавах могут мешать под верхней одеждой.",
-        "a": "Воланы выполнены из легкого струящегося материала, который легко помещается в рукава наших пальто и жакетов, создавая при этом красивый многослойный акцент на запястьях."
+        "q": "Оборки на рукавах могут мешать под верхней одеждой",
+        "a": "Оборки выполнены из легкого, струящегося материала, который безупречно располагается под рукавами наших пальто и жакетов, создавая изысканный многослойный акцент на запястье."
       },
       {
-        "q": "Полосатый принт может визуально полнить.",
-        "a": "Напротив, тонкая вертикальная полоска в сочетании с лаконичным кроем и воротником-стойкой визуально вытягивает силуэт, придавая фигуре стройность."
+        "q": "Полосатый принт может визуально полнить",
+        "a": "Напротив, тонкая вертикальная полоска в сочетании с лаконичным кроем и воротником-стойкой визуально вытягивает силуэт, придавая фигуре утонченность."
       },
       {
-        "q": "Сложно подобрать низ к такому активному дизайну рукавов.",
-        "a": "Блуза Latteria идеально гармонирует с юбками-карандаш или классическими брюками из нашей коллекции. Мы рекомендуем сочетать её с моделью Fumaiolo для создания статусного ансамбля."
+        "q": "Сложно подобрать низ к столь акцентным рукавам",
+        "a": "Блуза Latteria гармонично сочетается с юбками-карандаш или классическими брюками из нашей коллекции. Мы рекомендуем дополнить образ моделью Fumaiolo для создания по-настоящему эффектного ансамбля."
       },
       {
-        "q": "Перламутровые пуговицы требуют особого ухода.",
-        "a": "Использование натурального перламутра — это знак высокого качества. При соблюдении рекомендаций по деликатной стирке или профессиональному уходу фурнитура сохранит свое сияние десятилетиями."
+        "q": "Перламутровые пуговицы требуют особого ухода",
+        "a": "Использование натурального перламутра — признак высочайшего качества. При должном уходе — будь то деликатная ручная стирка или профессиональная чистка — фурнитура сохранит свой благородный блеск на десятилетия."
       }
     ],
     "ar": [
       {
-        "q": "تبدو البلوزة هشة للغاية بسبب الحرير في تركيبتها.",
+        "q": "تبدو البلوزة هشة للغاية بسبب الحرير في تركيبتها",
         "a": "إن إضافة القطن عالي الجودة (76%) تجعل القماش أكثر متانة وعملية في الارتداء، مع الحفاظ على كافة الخصائص الجمالية للحرير الطبيعي."
       },
       {
-        "q": "قد تعيق الكشكشة الموجودة على الأكمام ارتداء الملابس الخارجية.",
+        "q": "قد تعيق الكشكشة الموجودة على الأكمام ارتداء الملابس الخارجية",
         "a": "صُنعت الكشكشة من مادة خفيفة ومنسدلة تنساب بسهولة داخل أكمام معاطفنا وستراتنا، مما يضفي لمسة جمالية متعددة الطبقات على المعصمين."
       },
       {
-        "q": "قد تجعل الطبعة المقلمة المظهر يبدو أكثر امتلاءً.",
+        "q": "قد تجعل الطبعة المقلمة المظهر يبدو أكثر امتلاءً",
         "a": "على العكس من ذلك، فإن الخطوط العمودية الدقيقة المقترنة بالقصة البسيطة والياقة القائمة تمنح القامة مظهراً ممشوقاً وتزيد من أناقة القوام."
       },
       {
-        "q": "من الصعب تنسيق قطعة سفلية مع هذا التصميم الحيوي للأكمام.",
-        "a": "تنسجم بلوزة Latteria بشكل مثالي مع التنانير ذات قصة القلم الرصاص أو السراويل الكلاسيكية من مجموعتنا. ننصح بتنسيقها مع موديل Fumaiolo للحصول على طلة تعكس الفخامة."
+        "q": "من الصعب تنسيق قطعة سفلية مع هذا التصميم الحيوي للأكمام",
+        "a": "تنسجم بلوزة Latteria بشكل مثالي مع التنانير ذات قصة القلم الرصاص أو السراويل الكلاسيكية من مجموعتنا. ننصح بتنسيقها مع موديل Fumaiolo (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg للحصول على طلة تعكس الفخامة."
       },
       {
-        "q": "تتطلب الأزرار الصدفية عناية خاصة.",
+        "q": "تتطلب الأزرار الصدفية عناية خاصة",
         "a": "إن استخدام عرق اللؤلؤ الطبيعي هو علامة على الجودة العالية. ومع اتباع تعليمات الغسيل الرقيق أو العناية الاحترافية، ستحتفظ هذه التفاصيل ببريقها لعقود."
       }
     ],
     "ka": [
       {
-        "q": "ბლუზა ზედმეტად ნაზი ჩანს შემადგენლობაში აბრეშუმის არსებობის გამო.",
+        "q": "ბლუზა ზედმეტად ნაზი ჩანს შემადგენლობაში აბრეშუმის არსებობის გამო",
         "a": "მაღალი ხარისხის ბამბის (76%) დამატება ქსოვილს უფრო გამძლესა და პრაქტიკულს ხდის, ნატურალური აბრეშუმის ყველა ესთეტიკური ღირსების შენარჩუნებით."
       },
       {
-        "q": "სახელოებზე არსებული ფრიალი შესაძლოა ხელს უშლიდეს ზედა სამოსის ქვეშ.",
+        "q": "სახელოებზე არსებული ფრიალი შესაძლოა ხელს უშლიდეს ზედა სამოსის ქვეშ",
         "a": "ფრიალი დამზადებულია მსუბუქი, მოძრავი მასალისგან, რომელიც ადვილად თავსდება ჩვენი პალტოებისა და ქურთუკების სახელოებში, რაც მაჯებზე ლამაზ, მრავალშრიან აქცენტს ქმნის."
       },
       {
-        "q": "ზოლიანი პრინტი შესაძლოა ვიზუალურად ასუქებდეს.",
+        "q": "ზოლიანი პრინტი შესაძლოა ვიზუალურად ასუქებდეს",
         "a": "პირიქით, თხელი ვერტიკალური ზოლი ლაკონურ ჭრილთან და ყელთან ერთად ვიზუალურად აგრძელებს სილუეტს და ფიგურას დახვეწილობას ანიჭებს."
       },
       {
-        "q": "რთულია ასეთი აქტიური დიზაინის სახელოების მქონე ბლუზისთვის ქვედაბოლოს შერჩევა.",
-        "a": "ბლუზა Latteria იდეალურად ეხამება ჩვენი კოლექციიდან კალთებს ან კლასიკურ შარვლებს. ჩვენ გირჩევთ მის შეხამებას Fumaiolo მოდელთან სტატუსური ანსამბლის შესაქმნელად."
+        "q": "რთულია ასეთი აქტიური დიზაინის სახელოების მქონე ბლუზისთვის ქვედაბოლოს შერჩევა",
+        "a": "ბლუზა Latteria იდეალურად ეხამება ჩვენი კოლექციიდან კალთებს ან კლასიკურ შარვლებს. ჩვენ გირჩევთ მის შეხამებას Fumaiolo (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg მოდელთან სტატუსური ანსამბლის შესაქმნელად."
       },
       {
-        "q": "სადაფის ღილებს განსაკუთრებული მოვლა სჭირდება.",
+        "q": "სადაფის ღილებს განსაკუთრებული მოვლა სჭირდება",
         "a": "ნატურალური სადაფის გამოყენება მაღალი ხარისხის ნიშანია. დელიკატური რეცხვის ან პროფესიონალური მოვლის რეკომენდაციების დაცვით, ფურნიტურა ათწლეულების განმავლობაში შეინარჩუნებს თავის ბზინვარებას."
       }
     ],
     "hy": [
       {
         "q": "Բլուզը թվում է չափազանց նուրբ՝ կազմի մեջ առկա մետաքսի պատճառով",
-        "a": "Բարձրորակ բամբակի (76%) ավելացումը գործվածքը դարձնում է ավելի ամուր և գործնական՝ պահպանելով բնական մետաքսի բոլոր էսթետիկ առավելությունները"
+        "a": "Բարձրորակ բամբակի (76%) ավելացումը գործվածքը դարձնում է ավելի ամուր և գործնական՝ պահպանելով բնական մետաքսի բոլոր էսթետիկ առավելությունները."
       },
       {
         "q": "Թևքերի վոլանները կարող են խանգարել վերնահագուստի տակ",
-        "a": "Վոլանները պատրաստված են թեթև, հոսուն նյութից, որը հեշտությամբ տեղավորվում է մեր վերարկուների և ժակետների թևքերի մեջ՝ միաժամանակ ստեղծելով դաստակների վրա գեղեցիկ բազմաշերտ շեշտադրում"
+        "a": "Վոլանները պատրաստված են թեթև, հոսուն նյութից, որը հեշտությամբ տեղավորվում է մեր վերարկուների և ժակետների թևքերի մեջ՝ միաժամանակ ստեղծելով դաստակների վրա գեղեցիկ բազմաշերտ շեշտադրում."
       },
       {
         "q": "Գծավոր պրինտը կարող է վիզուալ գիրացնել",
-        "a": "Ընդհակառակը, բարակ ուղղահայաց գիծը՝ լակոնիկ ձևվածքի և կանգնած օձիքի հետ համադրությամբ, վիզուալ երկարացնում է ուրվագիծը՝ կազմվածքին հաղորդելով նրբագեղություն"
+        "a": "Ընդհակառակը, բարակ ուղղահայաց գիծը՝ լակոնիկ ձևվածքի և կանգնած օձիքի հետ համադրությամբ, վիզուալ երկարացնում է ուրվագիծը՝ կազմվածքին հաղորդելով նրբագեղություն."
       },
       {
         "q": "Դժվար է ընտրել ներքնազգեստ թևքերի նման ակտիվ դիզայնի համար",
-        "a": "Latteria բլուզը կատարելապես համադրվում է մեր հավաքածուի մատիտ-կիսաշրջազգեստների կամ դասական տաբատների հետ: Մենք խորհուրդ ենք տալիս այն համադրել Fumaiolo մոդելի հետ՝ ստեղծելով կարգավիճակային անսամբլ"
+        "a": "Latteria բլուզը կատարելապես համադրվում է մեր հավաքածուի մատիտ-կիսաշրջազգեստների կամ դասական տաբատների հետ: Մենք խորհուրդ ենք տալիս այն համադրել Fumaiolo (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg մոդելի հետ՝ ստեղծելով կարգավիճակային անսամբլ."
       },
       {
         "q": "Սադափե կոճակները հատուկ խնամք են պահանջում",
-        "a": "Բնական սադափի օգտագործումը բարձր որակի նշան է: Նուրբ լվացման կամ մասնագիտացված խնամքի առաջարկությունները պահպանելու դեպքում աքսեսուարը կպահպանի իր փայլը տասնամյակներ շարունակ"
+        "a": "Բնական սադափի օգտագործումը բարձր որակի նշան է: Նուրբ լվացման կամ մասնագիտացված խնամքի առաջարկությունները պահպանելու դեպքում աքսեսուարը կպահպանի իր փայլը տասնամյակներ շարունակ."
       }
     ],
     "lv": [
       {
-        "q": "Blūze šķiet pārāk trausla, jo tās sastāvā ir zīds.",
+        "q": "Blūze šķiet pārāk trausla, jo tās sastāvā ir zīds",
         "a": "Augstas kvalitātes kokvilnas (76%) pievienošana padara audumu izturīgāku un praktiskāku valkāšanai, vienlaikus saglabājot visas dabīgā zīda estētiskās priekšrocības."
       },
       {
-        "q": "Volāni uz piedurknēm var traucēt zem virsdrēbēm.",
+        "q": "Volāni uz piedurknēm var traucēt zem virsdrēbēm",
         "a": "Volāni ir izgatavoti no viegla, plūstoša materiāla, kas viegli ievietojams mūsu mēteļu un žakešu piedurknēs, vienlaikus radot skaistu, daudzslāņainu akcentu uz plaukstu locītavām."
       },
       {
-        "q": "Svītrainā apdruka var vizuāli palielināt.",
+        "q": "Svītrainā apdruka var vizuāli palielināt",
         "a": "Gluži pretēji, smalka vertikāla svītra apvienojumā ar lakonisku piegriezumu un stāvapkakli vizuāli pagarina siluetu, piešķirot figūrai slaidumu."
       },
       {
-        "q": "Grūti piemeklēt apakšdaļu tik aktīvam piedurkņu dizainam.",
-        "a": "Latteria blūze lieliski harmonē ar zīmuļsvārkiem vai klasiskām biksēm no mūsu kolekcijas. Mēs iesakām to kombinēt ar modeli Fumaiolo, lai radītu statusa cienīgu ansambli."
+        "q": "Grūti piemeklēt apakšdaļu tik aktīvam piedurkņu dizainam",
+        "a": "Latteria blūze lieliski harmonē ar zīmuļsvārkiem vai klasiskām biksēm no mūsu kolekcijas. Mēs iesakām to kombinēt ar modeli Fumaiolo (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg lai radītu statusa cienīgu ansambli."
       },
       {
-        "q": "Pērļmātes pogām nepieciešama īpaša kopšana.",
+        "q": "Pērļmātes pogām nepieciešama īpaša kopšana",
         "a": "Dabīgās pērļmātes izmantošana ir augstas kvalitātes zīme. Ievērojot ieteikumus par saudzīgu mazgāšanu vai profesionālu kopšanu, furnitūra saglabās savu spīdumu gadu desmitiem."
       }
     ],
     "lt": [
       {
-        "q": "Dėl sudėtyje esančio šilko palaidinė atrodo pernelyg trapi.",
+        "q": "Dėl sudėtyje esančio šilko palaidinė atrodo pernelyg trapi",
         "a": "Pridėta aukštos kokybės medvilnė (76 %) suteikia audiniui tvirtumo ir praktiškumo, išsaugant visas estetines natūralaus šilko savybes."
       },
       {
-        "q": "Rankovių raukiniai gali trukdyti dėvint viršutinius drabužius.",
+        "q": "Rankovių raukiniai gali trukdyti dėvint viršutinius drabužius",
         "a": "Raukiniai sukurti iš lengvos, krentančios medžiagos, kuri lengvai telpa po mūsų paltų ir švarkų rankovėmis, sukurdama gražų daugiasluoksnį akcentą ties riešais."
       },
       {
-        "q": "Dryžuotas raštas gali vizualiai stambinti.",
+        "q": "Dryžuotas raštas gali vizualiai stambinti",
         "a": "Priešingai, smulki vertikali juostelė kartu su lakonišku kirpimu ir stačia apykakle vizualiai ilgina siluetą, suteikdama figūrai grakštumo."
       },
       {
-        "q": "Sunku parinkti apatinę drabužių dalį prie tokio aktyvaus rankovių dizaino.",
-        "a": "Latteria palaidinė idealiai dera prie mūsų kolekcijos pieštuko formos sijonų ar klasikinių kelnių. Rekomenduojame derinti ją su Fumaiolo modeliu, norint sukurti statusą pabrėžiantį ansamblį."
+        "q": "Sunku parinkti apatinę drabužių dalį prie tokio aktyvaus rankovių dizaino",
+        "a": "Latteria palaidinė idealiai dera prie mūsų kolekcijos pieštuko formos sijonų ar klasikinių kelnių. Rekomenduojame derinti ją su Fumaiolo (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg modeliu, norint sukurti statusą pabrėžiantį ansamblį."
       },
       {
-        "q": "Perlamutrinės sagos reikalauja ypatingos priežiūros.",
+        "q": "Perlamutrinės sagos reikalauja ypatingos priežiūros",
         "a": "Natūralaus perlamutro naudojimas yra aukščiausios kokybės ženklas. Laikantis subtilaus skalbimo ar profesionalios priežiūros rekomendacijų, furnitūra išsaugos savo spindesį ištisus dešimtmečius."
       }
     ],
     "pl": [
       {
-        "q": "Bluzka wydaje się zbyt delikatna ze względu na zawartość jedwabiu.",
+        "q": "Bluzka wydaje się zbyt delikatna ze względu na zawartość jedwabiu",
         "a": "Dodatek wysokiej jakości bawełny (76%) sprawia, że tkanina jest bardziej wytrzymała i praktyczna w noszeniu, zachowując jednocześnie wszystkie estetyczne walory naturalnego jedwabiu."
       },
       {
-        "q": "Falbanki na rękawach mogą przeszkadzać pod odzieżą wierzchnią.",
+        "q": "Falbanki na rękawach mogą przeszkadzać pod odzieżą wierzchnią",
         "a": "Falbanki wykonano z lekkiego, zwiewnego materiału, który z łatwością mieści się w rękawach naszych płaszczy i żakietów, tworząc jednocześnie piękny, wielowarstwowy akcent przy nadgarstkach."
       },
       {
-        "q": "Pasiasty wzór może optycznie pogrubiać.",
+        "q": "Pasiasty wzór może optycznie pogrubiać",
         "a": "Wręcz przeciwnie, delikatne pionowe paski w połączeniu z minimalistycznym krojem i kołnierzykiem typu stójka optycznie wydłużają sylwetkę, nadając jej smukłości."
       },
       {
-        "q": "Trudno dobrać dół do tak wyrazistych rękawów.",
-        "a": "Bluzka Latteria idealnie harmonizuje ze spódnicami ołówkowymi lub klasycznymi spodniami z naszej kolekcji. Rekomendujemy zestawienie jej z modelem Fumaiolo dla uzyskania prestiżowego zestawu."
+        "q": "Trudno dobrać dół do tak wyrazistych rękawów",
+        "a": "Bluzka Latteria idealnie harmonizuje ze spódnicami ołówkowymi lub klasycznymi spodniami z naszej kolekcji. Rekomendujemy zestawienie jej z modelem Fumaiolo (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg dla uzyskania prestiżowego zestawu."
       },
       {
-        "q": "Perłowe guziki wymagają specjalnej pielęgnacji.",
+        "q": "Perłowe guziki wymagają specjalnej pielęgnacji",
         "a": "Zastosowanie naturalnej masy perłowej to znak najwyższej jakości. Przy przestrzeganiu zaleceń dotyczących delikatnego prania lub profesjonalnej pielęgnacji, elementy te zachowają swój blask przez dziesięciolecia."
       }
     ],
     "uk": [
       {
-        "q": "Блуза здається занадто крихкою через шовк у складі.",
+        "q": "Блуза здається занадто крихкою через шовк у складі",
         "a": "Додавання високоякісної бавовни (76%) робить тканину більш міцною та практичною у носінні, зберігаючи при цьому всі естетичні переваги натурального шовку."
       },
       {
-        "q": "Волани на рукавах можуть заважати під верхнім одягом.",
+        "q": "Волани на рукавах можуть заважати під верхнім одягом",
         "a": "Волани виконані з легкого струмливого матеріалу, який легко поміщається в рукави наших пальт і жакетів, створюючи при цьому красивий багатошаровий акцент на зап'ястях."
       },
       {
-        "q": "Смугастий принт може візуально повнити.",
+        "q": "Смугастий принт може візуально повнити",
         "a": "Навпаки, тонка вертикальна смужка у поєднанні з лаконічним кроєм та коміром-стійкою візуально витягує силует, надаючи фігурі стрункості."
       },
       {
-        "q": "Складно підібрати низ до такого активного дизайну рукавів.",
-        "a": "Блуза Latteria ідеально гармоніює зі спідницями-олівець або класичними брюками з нашої колекції. Ми рекомендуємо поєднувати її з моделлю Fumaiolo для створення статусного ансамблю."
+        "q": "Складно підібрати низ до такого активного дизайну рукавів",
+        "a": "Блуза Latteria ідеально гармоніює зі спідницями-олівець або класичними брюками з нашої колекції. Ми рекомендуємо поєднувати її з моделлю Fumaiolo (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg для створення статусного ансамблю."
       },
       {
-        "q": "Перламутрові ґудзики потребують особливого догляду.",
+        "q": "Перламутрові ґудзики потребують особливого догляду",
         "a": "Використання натурального перламутру — це знак високої якості. При дотриманні рекомендацій щодо делікатного прання або професійного догляду фурнітура збереже своє сяйво десятиліттями."
       }
     ]

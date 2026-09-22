@@ -84,30 +84,54 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "bugle-bead Explain that the decoration is tone-on-tone (in embroidery looks too tinta). This creates a subtle, refined shimmer dressy» that suits any occasion calling for elegance, without excessive drama. «The pleated Point out that the ruffles on the Lusinga 0101 ruffles might add have a vertical orientation and are made using volume» pleating that holds its shape. This structures the shoulder line without creating horizontal volume. «I'm worried the Note the quality of the craftsmanship: the beading might catch \"cannettè\" bugle beads have a smooth surface on the jacket» and are sewn using a special Luisa Spagnoli technique that minimizes friction with the lining of outerwear. «The top seems too Suggest trying it with a lightweight cashmere revealing for cardigan. The pleated edges will peek out me» elegantly from beneath the sleeves, preserving the charm of the decoration while adding a comfortable sense of coverage. «This piece only Showcase the versatility of the styling: paired works for one with the Occulto 0101 trousers, it's an evening occasion» look, while paired with quality denim the top becomes an on-trend \"Casual Luxe\" outfit"
+        "q": "The bugle-bead Explain that the decoration is tone-on-tone (in embroidery looks too tinta). This creates a subtle, refined shimmer dressy",
+        "a": "that suits any occasion calling for elegance, without excessive drama."
+      },
+      {
+        "q": "The pleated Point out that the ruffles on the Lusinga 0101 ruffles might add have a vertical orientation and are made using volume",
+        "a": "pleating that holds its shape. This structures the shoulder line without creating horizontal volume."
+      },
+      {
+        "q": "I'm worried the Note the quality of the craftsmanship: the beading might catch \"cannettÃ¨\" bugle beads have a smooth surface on the jacket",
+        "a": "and are sewn using a special Luisa Spagnoli technique that minimizes friction with the lining of outerwear."
+      },
+      {
+        "q": "The top seems too Suggest trying it with a lightweight cashmere revealing for cardigan. The pleated edges will peek out me",
+        "a": "elegantly from beneath the sleeves, preserving the charm of the decoration while adding a comfortable sense of coverage."
+      },
+      {
+        "q": "This piece only Showcase the versatility of the styling: paired works for one with the Occulto 0101 trousers, it's an evening occasion",
+        "a": "look, while paired with quality denim the top becomes an on-trend \"Casual Luxe\" outfit. ![](media/image63.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image64.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image65.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Вышивка",
-        "a": "Поясните, что декор выполнен «в тон (in tinta). стеклярусом выглядит Это создает приглушенное, благородное мерцание, слишком нарядно» которое уместно в любой ситуации, требующей элегантности, без избыточной театральности."
+        "q": "Вышивка бисером выглядит слишком нарядно",
+        "a": "> Поясните, что декор выполнен тон-в-тон (in tinta). Это создает деликатное, благородное мерцание, уместное в любой ситуации, требующей элегантности, без излишней драматичности."
       },
       {
-        "q": "Плиссированные",
-        "a": "Укажите на то, что воланы на Lusinga 0101 воланы могут имеют вертикальную направленность и выполнены с полнить использованием плиссе, которое держит форму. Это структурирует линию плеча, не создавая горизонтального объема."
+        "q": "Плиссированные воланы добавят объем",
+        "a": "> Отметьте, что воланы на Lusinga 0101 имеют вертикальную ориентацию и выполнены с использованием плиссировки, которая держит форму. Это структурирует линию плеча, не создавая горизонтального объема."
       },
       {
-        "q": "Боюсь, что декор",
-        "a": "Обратите внимание на качество исполнения: будет цепляться за стеклярус «каннетте имеет гладкую поверхность и жакет» пришит по специальной технологии Luisa Spagnoli, что минимизирует трение с подкладкой верхней одежды."
+        "q": "Бисер будет цепляться за жакет",
+        "a": "> Обратите внимание на качество исполнения: стеклярус."
       },
       {
-        "q": "Топ кажется",
-        "a": "Предложите примерить его с легким кашемировым слишком открытым для кардиганом. Плиссированные края будут эффектно меня выглядывать из-под рукавов, сохраняя изюминку декора, но добавляя комфортной закрытости."
+        "q": "cannetté",
+        "a": "имеет гладкую поверхность и пришит по особой технологии Luisa Spagnoli, минимизирующей трение с подкладкой верхней одежды."
       },
       {
-        "q": "Это вещь только",
-        "a": "Продемонстрируйте вариативность стайлинга: с для одного случая брюками Occulto 0101 — это вечерний выход, а в сочетании с качественным денимом топ превращается в актуальный образ в стиле."
+        "q": "Топ кажется слишком открытым",
+        "a": "> Предложите примерить его с легким кашемировым кардиганом. Плиссированные края будут элегантно выглядывать из-под рукавов, сохраняя шарм декора и добавляя комфортное ощущение закрытости."
+      },
+      {
+        "q": "Вещь только для вечернего выхода",
+        "a": "> Продемонстрируйте универсальность стайлинга: в паре с брюками Occulto 0101 — это вечерний образ, а с качественным денимом топ становится актуальным аутфитом в стиле."
+      },
+      {
+        "q": "Casual Luxe",
+        "a": "."
       }
     ],
     "ar": [
@@ -138,6 +162,10 @@
       {
         "q": "هذه قطعة لمناسبة واحدة فقط",
         "a": "استعرض مرونة التنسيق: مع بنطلون Occulto 0101 تصبح إطلالة مسائية، وعند تنسيقها مع جينز عالي الجودة يتحول التوب إلى إطلالة عصرية بأسلوب."
+      },
+      {
+        "q": "Casual Luxe",
+        "a": ". ![](media/image63.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image64.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image65.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -159,7 +187,7 @@
       },
       {
         "q": "cannette",
-        "a": "-ს შუშის მძივებს აქვს გლუვი ზედაპირი და შეკერილია Luisa Spagnoli-ს სპეციალური ტექნოლოგიით, რაც ამცირებს ხახუნს ზედა სამოსის უგულებელყოფასთან."
+        "a": "ს შუშის მძივებს აქვს გლუვი ზედაპირი და შეკერილია Luisa Spagnoli-ს სპეციალური ტექნოლოგიით, რაც ამცირებს ხახუნს ზედა სამოსის უგულებელყოფასთან."
       },
       {
         "q": "ტოპი ჩემთვის ზედმეტად ღია ჩანს",
@@ -171,7 +199,7 @@
       },
       {
         "q": "Casual Luxe",
-        "a": "სტილის იერსახედ."
+        "a": "სტილის იერსახედ. ![](media/image63.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image64.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image65.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -205,33 +233,33 @@
       },
       {
         "q": "Casual Luxe",
-        "a": "ոճի արդիական կերպարի։."
+        "a": "ոճի արդիական կերպարի։ ![](media/image63.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image64.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image65.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Stikla pērlīšu izšuvums",
-        "a": "Paskaidrojiet, ka dekors ir izpildīts «tonī (in tinta). izskatās pārāk Tas rada apslāpētu, cēlu mirdzumu, kas ir piemērots svinīgi» jebkurā situācijā, kurā nepieciešama elegance, bez liekas teatralitātes."
+        "q": "Stikla pērlīšu izšuvums Paskaidrojiet, ka dekors ir izpildīts «tonī",
+        "a": "(in tinta). izskatās pārāk Tas rada apslāpētu, cēlu mirdzumu, kas ir piemērots svinīgi» jebkurā situācijā, kurā nepieciešama elegance, bez liekas teatralitātes."
       },
       {
-        "q": "Plisētie volāni var",
-        "a": "Norādiet uz to, ka volāniem uz Lusinga 0101 ir vertikāls padarīt resnāku virziens un tie ir izpildīti izmantojot plisējumu, kas notur formu. Tas strukturē plecu līniju, neradot horizontālu apjomu."
+        "q": "Plisētie volāni var Norādiet uz to, ka volāniem uz Lusinga 0101 ir vertikāls padarīt resnāku",
+        "a": "virziens un tie ir izpildīti izmantojot plisējumu, kas notur formu. Tas strukturē plecu līniju, neradot horizontālu apjomu."
       },
       {
-        "q": "Baidos, ka dekors",
-        "a": "Pievērsiet uzmanību izpildījuma kvalitātei: «kannette aizķersies aiz stikla pērlītēm ir gluda virsma un tās ir piešūtas pēc žaketes» īpašas Luisa Spagnoli tehnoloģijas, kas samazina berzi ar virsdrēbju oderi."
+        "q": "Baidos, ka dekors Pievērsiet uzmanību izpildījuma kvalitātei: «kannette",
+        "a": "aizķersies aiz stikla pērlītēm ir gluda virsma un tās ir piešūtas pēc žaketes» īpašas Luisa Spagnoli tehnoloģijas, kas samazina berzi ar virsdrēbju oderi."
       },
       {
-        "q": "Tops šķiet pārāk",
-        "a": "Piedāvājiet uzlaikot to ar vieglu kašmira kardiganu. atvērts man Plisētās malas efektīgi izskatīsies no piedurknēm, saglabājot dekora odziņu, bet pievienojot komfortablu slēgtību."
+        "q": "Tops šķiet pārāk Piedāvājiet uzlaikot to ar vieglu kašmira kardiganu. atvērts man",
+        "a": "Plisētās malas efektīgi izskatīsies no piedurknēm, saglabājot dekora odziņu, bet pievienojot komfortablu slēgtību."
       },
       {
-        "q": "Tā ir lieta tikai vienam",
-        "a": "Demonstrējiet stailinga variativitāti: ar biksēm gadījumam Occulto 0101 — tas ir vakara iznāciens, bet apvienojumā ar kvalitatīvu džinsa audumu tops pārvēršas par aktuālu."
+        "q": "Tā ir lieta tikai vienam Demonstrējiet stailinga variativitāti: ar biksēm gadījumam",
+        "a": "Occulto 0101 --- tas ir vakara iznāciens, bet apvienojumā ar kvalitatīvu džinsa audumu tops pārvēršas par aktuālu."
       },
       {
         "q": "Casual Luxe",
-        "a": "stila tēlu."
+        "a": "stila tēlu. ![](media/image63.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image64.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image65.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -288,24 +316,28 @@
     ],
     "uk": [
       {
-        "q": "Вишивка",
-        "a": "Поясніть, що декор виконаний «у тон (in tinta). склярусом виглядає Це створює приглушене, благородне мерехтіння, занадто ошатно» яке доречне в будь-якій ситуації, що вимагає елегантності, без надмірної театральності."
+        "q": "Вишивка Поясніть, що декор виконаний «у тон",
+        "a": "(in tinta). склярусом виглядає Це створює приглушене, благородне мерехтіння, занадто ошатно» яке доречне в будь-якій ситуації, що вимагає елегантності, без надмірної театральності."
       },
       {
-        "q": "Плісировані",
-        "a": "Вкажіть на те, що волани на Lusinga 0101 волани можуть мають вертикальну спрямованість і виконані з повнити використанням плісе, яке тримає форму. Це структурує лінію плеча, не створюючи горизонтального об'єму."
+        "q": "Плісировані Вкажіть на те, що волани на Lusinga 0101 волани можуть мають вертикальну спрямованість і виконані з повнити",
+        "a": "використанням плісе, яке тримає форму. Це структурує лінію плеча, не створюючи горизонтального об'єму."
       },
       {
-        "q": "Боюся, що декор",
-        "a": "Зверніть увагу на якість виконання: склярус буде чіплятися за «каннетте має гладку поверхню і пришитий за жакет» спеціальною технологією Luisa Spagnoli, що мінімізує тертя з підкладкою верхнього одягу."
+        "q": "Боюся, що декор Зверніть увагу на якість виконання: склярус буде чіплятися за «каннетте",
+        "a": "має гладку поверхню і пришитий за жакет» спеціальною технологією Luisa Spagnoli, що мінімізує тертя з підкладкою верхнього одягу."
       },
       {
-        "q": "Топ здається",
-        "a": "Запропонуйте приміряти його з легким кашеміровим занадто відкритим для кардиганом. Плісировані краї будуть ефектно мене виглядати з-під рукавів, зберігаючи родзинку декору, але додаючи комфортної закритості."
+        "q": "Топ здається Запропонуйте приміряти його з легким кашеміровим занадто відкритим для кардиганом. Плісировані краї будуть ефектно мене",
+        "a": "виглядати з-під рукавів, зберігаючи родзинку декору, але додаючи комфортної закритості."
       },
       {
-        "q": "Це річ тільки",
-        "a": "Продемонструйте варіативність стайлінгу: з для одного випадку штанами Occulto 0101 — це вечірній вихід, а в поєднанні з якісним денімом топ перетворюється на актуальний образ у стилі."
+        "q": "Це річ тільки Продемонструйте варіативність стайлінгу: з для одного випадку",
+        "a": "штанами Occulto 0101 --- це вечірній вихід, а в поєднанні з якісним денімом топ перетворюється на актуальний образ у стилі."
+      },
+      {
+        "q": "Casual Luxe",
+        "a": ". ![](media/image63.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image64.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image65.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

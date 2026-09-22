@@ -201,38 +201,54 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "cropped Explain that the jacket is specifically designed length might add to be worn with high-waisted bottoms. This bulk» \"opens up\" the waist, creating the right proportions and an elongating leg effect. «The knit jacket Point out the density of the punto stoffa knit will stretch out (Milano jersey). This is one of the most stable quickly» weaves, preventing distortion at the elbows and preserving the crispness of the shoulder line. «The double- On the contrary, thanks to the softness of the breasted cut wool yarn, the Meltina jacket fits the body seems too bulky» precisely (vestibilità regular), without adding unwanted volume, unlike stiff suiting fabrics. «The crest-style Emphasize that this is a jewelry-like accent buttons are too that eliminates the need for an additional flashy» necklace. LS's signature hardware is a marker of \"Quiet Luxury\" style and the brand's aristocratic heritage. «It's hard to find Showcase Vetrina 108: the jacket sits perfectly a top to wear over the basic Loriana 0201 shirt, while it can under the jacket» also be worn on its own over lingerie as a top for an evening look"
+        "q": "The cropped Explain that the jacket is specifically designed length might add to be worn with high-waisted bottoms. This bulk",
+        "a": "\"opens up\" the waist, creating the right proportions and an elongating leg effect."
+      },
+      {
+        "q": "The knit jacket Point out the density of the punto stoffa knit will stretch out (Milano jersey). This is one of the most stable quickly",
+        "a": "weaves, preventing distortion at the elbows and preserving the crispness of the shoulder line."
+      },
+      {
+        "q": "The double- On the contrary, thanks to the softness of the breasted cut wool yarn, the Meltina jacket fits the body seems too bulky",
+        "a": "precisely (vestibilitÃ regular), without adding unwanted volume, unlike stiff suiting fabrics."
+      },
+      {
+        "q": "The crest-style Emphasize that this is a jewelry-like accent buttons are too that eliminates the need for an additional flashy",
+        "a": "necklace. LS's signature hardware is a marker of \"Quiet Luxury\" style and the brand's aristocratic heritage."
+      },
+      {
+        "q": "It's hard to find Showcase Vetrina 108: the jacket sits perfectly a top to wear over the basic Loriana 0201 shirt, while it can under the jacket",
+        "a": "also be worn on its own over lingerie as a top for an evening look. ![](media/image87.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image88.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image89.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Укороченная длина",
-        "a": "Поясните, что жакет спроектирован специально для может полнить ношения с поясными изделиями на высокой талии. Это."
+        "q": "Укороченная длина может добавить объем",
+        "a": "> Объясните, что жакет специально разработан для ношения с брюками с высокой талией. Это."
       },
       {
         "q": "открывает",
-        "a": "талию, создавая правильные пропорции и эффект длинных ног."
+        "a": "талию, создавая правильные пропорции и эффект удлинения ног."
       },
       {
-        "q": "Трикотажный жакет",
-        "a": "Укажите на плотность вязки punto stoffa быстро вытянется (миланское джерси). Это одно из самых стабильных переплетений, которое предотвращает деформацию локтей и сохраняет четкость плечевой линии."
+        "q": "Трикотажный жакет быстро растянется",
+        "a": "> Укажите на плотность вязки punto stoffa (Milano jersey). Это одно из самых стабильных плетений, предотвращающее деформацию в локтях и сохраняющее четкость плечевой линии."
       },
       {
-        "q": "Двубортный крой Напротив, благодаря мягкости шерстяной нити, жакет кажется слишком Meltina садится точно по фигуре (vestibilità громоздким",
-        "a": "regular), не создавая лишнего объема, в отличие от жестких костюмных тканей."
+        "q": "Двубортный крой кажется слишком громоздким",
+        "a": "> Напротив, благодаря мягкости шерстяной пряжи жакет Meltina садится точно по фигуре (vestibilità regular), не создавая лишнего объема, в отличие от жестких костюмных тканей."
       },
       {
-        "q": "Геральдические",
-        "a": "Подчеркните, что это ювелирный акцент, который пуговицы слишком позволяет обойтись без дополнительных колье. яркие Фирменная фурнитура LS — маркер стиля."
+        "q": "Пуговицы с гербом выглядят слишком броско",
+        "a": "> Подчеркните, что это ювелирный акцент, который избавляет от необходимости надевать колье. Фирменная фурнитура LS — маркер стиля."
       },
       {
-        "q": "Quiet Luxury",
-        "a": "и аристократичного наследия бренда."
+        "q": "тихая роскошь",
+        "a": "и аристократического наследия бренда."
       },
       {
-        "q": "Сложно подобрать",
-        "a": "Продемонстрируйте Vetrina 108: жакет идеально верх под жакет ложится поверх базовой рубашки Loriana 0201, при этом его можно носить и как самостоятельный топ на белье для вечернего выхода."
+        "q": "Сложно подобрать топ под жакет",
+        "a": "> Покажите витрину 108: жакет идеально садится поверх базовой рубашки Loriana 0201, а также может носиться самостоятельно поверх бельевого топа для вечернего выхода."
       }
     ],
     "ar": [
@@ -262,16 +278,16 @@
       },
       {
         "q": "من الصعب اختيار قطعة علوية تحت السترة",
-        "a": "استعرض Vetrina 108: تبدو السترة مثالية فوق قميص Loriana 0201 الأساسي، كما يمكن ارتداؤها كقطعة علوية مستقلة مع ملابس داخلية لإطلالة مسائية."
+        "a": "استعرض Vetrina 108: تبدو السترة مثالية فوق قميص Loriana 0201 الأساسي، كما يمكن ارتداؤها كقطعة علوية مستقلة مع ملابس داخلية لإطلالة مسائية. ![](media/image87.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image88.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image89.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
       {
         "q": "შემოკლებულმა სიგრძემ შეიძლება დაასუქოს",
-        "a": "განმარტეთ, რომ პიჯაკი სპეციალურად არის დაპროექტებული მაღალწელიან სამოსთან სატარებლად. ეს."
+        "a": "განმარტეთ, რომ პიჯაკი სპეციალურად არის დაპროექტებული მაღალწელიან სამოსთან სატარებლად. ეს „ხსნის“ წელს, ქმნის სწორ პროპორციებსა და გრძელი ფეხების ეფექტს."
       },
       {
-        "q": "ხსნის“ წელს, ქმნის სწორ პროპორციებსა და გრძელი ფეხების ეფექტს. «ნაქსოვი პიჯაკი სწრაფად გაიწელება",
+        "q": "ნაქსოვი პიჯაკი სწრაფად გაიწელება",
         "a": "მიუთითეთ punto stoffa-ს (მილანური ჯერსი) ქსოვის სიმკვრივეზე. ეს არის ერთ-ერთი ყველაზე სტაბილური ქსოვა, რომელიც ხელს უშლის იდაყვების დეფორმაციას და ინარჩუნებს მხრების მკვეთრ ხაზს."
       },
       {
@@ -280,11 +296,11 @@
       },
       {
         "q": "ჰერალდიკური ღილები ზედმეტად კაშკაშაა",
-        "a": "ხაზგასმით აღნიშნეთ, რომ ეს საიუველირო აქცენტია, რომელიც საშუალებას გაძლევთ არ გამოიყენოთ დამატებითი ყელსაბამი. ბრენდის საფირმო LS ფურნიტურა."
+        "a": "ხაზგასმით აღნიშნეთ, რომ ეს საიუველირო აქცენტია, რომელიც საშუალებას გაძლევთ არ გამოიყენოთ დამატებითი ყელსაბამი. ბრენდის საფირმო LS ფურნიტურა „Quiet Luxury“-ს სტილისა და ბრენდის არისტოკრატული მემკვიდრეობის მარკერია."
       },
       {
-        "q": "Quiet Luxury“-ს სტილისა და ბრენდის არისტოკრატული მემკვიდრეობის მარკერია. «ძნელია პიჯაკის ქვეშ ზედას შერჩევა",
-        "a": "წარმოაჩინეთ Vetrina 108: პიჯაკი იდეალურად ერგება საბაზისო პერანგს Loriana 0201, ამავდროულად, მისი ტარება შესაძლებელია როგორც დამოუკიდებელი ტოპი თეთრეულზე საღამოს გასასვლელად."
+        "q": "ძნელია პიჯაკის ქვეშ ზედას შერჩევა",
+        "a": "წარმოაჩინეთ Vetrina 108: პიჯაკი იდეალურად ერგება საბაზისო პერანგს Loriana 0201, ამავდროულად, მისი ტარება შესაძლებელია როგორც დამოუკიდებელი ტოპი თეთრეულზე საღამოს გასასვლელად. ![](media/image87.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image88.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image89.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -314,37 +330,37 @@
       },
       {
         "q": "Դժվար է բաճկոնի տակ հագուստ ընտրելը",
-        "a": "Ցուցադրեք Vetrina 108-ը. բաճկոնը հիանալի նստում է Loriana 0201 հիմնական վերնաշապիկի վրա, միևնույն ժամանակ այն կարելի է կրել որպես ինքնուրույն տոպ՝ սպիտակեղենի վրայից, երեկոյան ելքերի համար."
+        "a": "Ցուցադրեք Vetrina 108-ը. բաճկոնը հիանալի նստում է Loriana 0201 հիմնական վերնաշապիկի վրա, միևնույն ժամանակ այն կարելի է կրել որպես ինքնուրույն տոպ՝ սպիտակեղենի վրայից, երեկոյան ելքերի համար: ![](media/image87.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image88.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image89.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Saīsināts garums",
-        "a": "Paskaidrojiet, ka žakete projektēta īpaši valkāšanai var padarīt pilnīgāku ar jostasvietas izstrādājumiem ar augstu jostasvietu. Tas."
+        "q": "Saīsināts garums Paskaidrojiet, ka žakete projektēta īpaši valkāšanai var padarīt pilnīgāku",
+        "a": "ar jostasvietas izstrādājumiem ar augstu jostasvietu. Tas."
       },
       {
         "q": "atver",
         "a": "vidukli, radot pareizas proporcijas un garu kāju efektu."
       },
       {
-        "q": "Trikotāžas žakete",
-        "a": "Norādiet uz punto stoffa adījuma blīvumu (milānas ātri izstiepsies džērsijs). Tas ir viens no visstabilākajiem pinumiem, kas novērš elkoņu deformāciju un saglabā plecu līnijas skaidrību."
+        "q": "Trikotāžas žakete Norādiet uz punto stoffa adījuma blīvumu (milānas ātri izstiepsies",
+        "a": "džērsijs). Tas ir viens no visstabilākajiem pinumiem, kas novērš elkoņu deformāciju un saglabā plecu līnijas skaidrību."
       },
       {
         "q": "Divrindu piegriezums Turpretī, pateicoties vilnas diega mīkstumam, Meltina šķiet pārāk apjomīgs",
         "a": "žakete pieguļ precīzi augumam (vestibilità regular), neradot lieku apjomu, atšķirībā no stingriem uzvalku audumiem."
       },
       {
-        "q": "Heraldiskās pogas",
-        "a": "Uzsveriet, ka tas ir juvelierizstrādājumu akcents, kas pārāk spilgtas ļauj iztikt bez papildu kaklarotām. Firmas LS furnitūra — ir."
+        "q": "Heraldiskās pogas Uzsveriet, ka tas ir juvelierizstrādājumu akcents, kas pārāk spilgtas",
+        "a": "ļauj iztikt bez papildu kaklarotām. Firmas LS furnitūra --- ir."
       },
       {
         "q": "Quiet Luxury",
         "a": "stila un zīmola aristokrātiskā mantojuma marķieris."
       },
       {
-        "q": "Grūti piemeklēt",
-        "a": "Demonstrējiet Vetrina 108: žakete lieliski gulstas virs augšdaļu zem žaketes bāzes krekla Loriana 0201, turklāt to var valkāt arī kā patstāvīgu topu uz veļas vakara iznācienam."
+        "q": "Grūti piemeklēt Demonstrējiet Vetrina 108: žakete lieliski gulstas virs augšdaļu zem žaketes",
+        "a": "bāzes krekla Loriana 0201, turklāt to var valkāt arī kā patstāvīgu topu uz veļas vakara iznācienam. ![](media/image87.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image88.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image89.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -397,32 +413,32 @@
     ],
     "uk": [
       {
-        "q": "Укорочена довжина",
-        "a": "Поясніть, що жакет спроєктований спеціально для може повнити носіння з поясними виробами на високій талії. Це."
+        "q": "Укорочена довжина Поясніть, що жакет спроєктований спеціально для може повнити",
+        "a": "носіння з поясними виробами на високій талії. Це."
       },
       {
         "q": "відкриває",
         "a": "талію, створюючи правильні пропорції та ефект довгих ніг."
       },
       {
-        "q": "Трикотажний жакет",
-        "a": "Вкажіть на щільність в’язки punto stoffa швидко витягнеться (міланське джерсі). Це одне з найбільш стабільних переплетень, яке запобігає деформації ліктів і зберігає чіткість плечової лінії."
+        "q": "Трикотажний жакет Вкажіть на щільність в’язки punto stoffa швидко витягнеться",
+        "a": "(міланське джерсі). Це одне з найбільш стабільних переплетень, яке запобігає деформації ліктів і зберігає чіткість плечової лінії."
       },
       {
         "q": "Двобортний крій Навпаки, завдяки м'якості вовняної нитки, жакет здається надто Meltina сідає точно по фігурі (vestibilità громіздким",
         "a": "regular), не створюючи зайвого об'єму, на відміну від жорстких костюмних тканин."
       },
       {
-        "q": "Геральдичні",
-        "a": "Підкресліть, що це ювелірний акцент, який ґудзики надто дозволяє обійтися без додаткових кольє. яскраві Фірмова фурнітура LS — маркер стилю."
+        "q": "Геральдичні Підкресліть, що це ювелірний акцент, який ґудзики надто дозволяє обійтися без додаткових кольє. яскраві",
+        "a": "Фірмова фурнітура LS --- маркер стилю."
       },
       {
         "q": "Quiet Luxury",
         "a": "та аристократичної спадщини бренду."
       },
       {
-        "q": "Складно підібрати",
-        "a": "Продемонструйте Vetrina 108: жакет ідеально верх під жакет лягає поверх базової сорочки Loriana 0201, при цьому його можна носити і як самостійний топ на білизну для вечірнього виходу."
+        "q": "Складно підібрати Продемонструйте Vetrina 108: жакет ідеально верх під жакет",
+        "a": "лягає поверх базової сорочки Loriana 0201, при цьому його можна носити і як самостійний топ на білизну для вечірнього виходу. ![](media/image87.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image88.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image89.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

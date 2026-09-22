@@ -162,199 +162,203 @@
   "objections": {
     "en": [
       {
-        "q": "Lace may feel too formal for frequent wear.",
+        "q": "Lace may feel too formal for frequent wear",
         "a": "Style the Faustin piece with a simple cashmere jumper to create a 'Luxury Casual' look, ideal for an evening at the theatre or a gallery opening."
       },
       {
-        "q": "Concern about snagging on such a delicate material.",
+        "q": "Concern about snagging on such a delicate material",
         "a": "Luisa Spagnoli lace features a densely woven construction. Furthermore, the piece is fully lined, which minimises contact between the outer layer and the body and enhances durability."
       },
       {
-        "q": "A below-the-knee length may visually shorten the silhouette.",
+        "q": "A below-the-knee length may visually shorten the silhouette",
         "a": "The high waist and tapered cut create a clean vertical line. Paired with classic Unica A 0101 0002 pumps, the skirt in fact visually elongates the legs."
       },
       {
-        "q": "100% polyamide may not provide sufficient comfort.",
+        "q": "100% polyamide may not provide sufficient comfort",
         "a": "The use of high-technology polyamide fibres allows for extraordinary fineness and detail in the lace pattern, while the soft lining ensures a pleasant tactile feel."
       },
       {
-        "q": "Concern about the care required for such an intricate piece.",
+        "q": "Concern about the care required for such an intricate piece",
         "a": "To preserve the pristine structure of the lace and the richness of the black colour, we strongly recommend exclusively professional dry cleaning."
       }
     ],
     "ru": [
       {
-        "q": "Кружево кажется слишком обязывающим для частого использования.",
-        "a": "Стилизуйте модель Faustin с лаконичным кашемировым джемпером для создания образа в стиле 'Luxury Casual', подходящего для визита в театр или на вернисаж."
+        "q": "Кружево может казаться слишком торжественным для частого ношения",
+        "a": "Сочетайте изделие Faustin с простым кашемировым джемпером, чтобы создать образ в стиле."
       },
       {
-        "q": "Боязнь зацепок на деликатном материале.",
-        "a": "Кружево Luisa Spagnoli обладает высокой плотностью плетения. Тем не менее, модель полностью посажена на подкладку, что минимизирует контакт внешнего слоя с телом и повышает износостойкость."
+        "q": "Luxury Casual",
+        "a": ", идеальный для похода в театр или на открытие выставки."
       },
       {
-        "q": "Длина ниже колена может визуально укорачивать силуэт.",
-        "a": "За счет высокой посадки на талии и зауженного кроя создается четкая вертикальная линия. В сочетании с классическими туфлями-лодочками Unica A 0101 0002 юбка, напротив, визуально удлиняет ноги."
+        "q": "Опасение по поводу зацепок на столь деликатном материале",
+        "a": "Кружево Luisa Spagnoli отличается плотным плетением. Кроме того, изделие полностью на подкладке, что минимизирует контакт внешнего слоя с телом и повышает износостойкость."
       },
       {
-        "q": "100% полиамид может не обеспечивать достаточный комфорт.",
-        "a": "Использование высокотехнологичных волокон полиамида позволяет добиться невероятной тонкости и детализации кружевного узора, в то время как мягкая подкладка гарантирует приятные тактильные ощущения."
+        "q": "Длина ниже колена может визуально укорачивать силуэт",
+        "a": "Высокая талия и зауженный крой создают чистую вертикальную линию. В сочетании с классическими лодочками Unica A 0101 0002 юбка, напротив, визуально удлиняет ноги."
       },
       {
-        "q": "Сложность в уходе за таким сложным изделием.",
-        "a": "Для сохранения первозданной структуры кружева и насыщенности черного цвета мы настоятельно рекомендуем исключительно профессиональную сухую чистку."
+        "q": "100% полиамид может не обеспечить достаточного комфорта",
+        "a": "Использование высокотехнологичных полиамидных волокон позволяет добиться необычайной тонкости и детализации кружевного узора, а мягкая подкладка обеспечивает приятные тактильные ощущения."
+      },
+      {
+        "q": "Опасение по поводу ухода за столь сложным изделием",
+        "a": "Чтобы сохранить первозданную структуру кружева и глубину черного цвета, мы настоятельно рекомендуем исключительно профессиональную химчистку."
       }
     ],
     "ar": [
       {
-        "q": "الدانتيل يبدو مقيداً جداً للاستخدام المتكرر.",
+        "q": "الدانتيل يبدو مقيداً جداً للاستخدام المتكرر",
         "a": "نسقي موديل Faustin مع كنزة كشمير بسيطة للحصول على إطلالة بأسلوب 'Luxury Casual'، مناسبة لزيارة المسرح أو المعارض الفنية."
       },
       {
-        "q": "القلق من حدوث تمزقات في المادة الرقيقة.",
+        "q": "القلق من حدوث تمزقات في المادة الرقيقة",
         "a": "يتميز دانتيل Luisa Spagnoli بكثافة نسج عالية. ومع ذلك، فإن الموديل مبطن بالكامل، مما يقلل من تلامس الطبقة الخارجية مع الجسم ويزيد من متانتها."
       },
       {
-        "q": "الطول الذي يتجاوز الركبة قد يجعل القوام يبدو أقصر بصرياً.",
-        "a": "بفضل الخصر العالي والقصة الضيقة، يتشكل خط عمودي واضح. وبالتنسيق مع أحذية الكعب العالي الكلاسيكية Unica A 0101 0002، تساهم التنورة في إطالة الساقين بصرياً."
+        "q": "الطول الذي يتجاوز الركبة قد يجعل القوام يبدو أقصر بصرياً",
+        "a": "بفضل الخصر العالي والقصة الضيقة، يتشكل خط عمودي واضح. وبالتنسيق مع أحذية الكعب العالي الكلاسيكية Unica A 0101 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/4483ad1f-c43d-46bf-b39f-94464e4f7a6e.jpg تساهم التنورة في إطالة الساقين بصرياً."
       },
       {
-        "q": "بولياميد 100% قد لا يوفر الراحة الكافية.",
+        "q": "بولياميد 100% قد لا يوفر الراحة الكافية",
         "a": "يسمح استخدام ألياف البولياميد عالية التقنية بتحقيق دقة وتفاصيل مذهلة في نقش الدانتيل، بينما تضمن البطانة الناعمة إحساساً مريحاً عند اللمس."
       },
       {
-        "q": "صعوبة العناية بقطعة معقدة كهذه.",
+        "q": "صعوبة العناية بقطعة معقدة كهذه",
         "a": "للحفاظ على بنية الدانتيل الأصلية وكثافة اللون الأسود، نوصي بشدة بالتنظيف الجاف الاحترافي حصراً."
       }
     ],
     "ka": [
       {
-        "q": "მაქმანი ზედმეტად ვალდებულად ჩანს ხშირი გამოყენებისთვის.",
+        "q": "მაქმანი ზედმეტად ვალდებულად ჩანს ხშირი გამოყენებისთვის",
         "a": "შეუხამეთ მოდელი Faustin ლაკონურ ქაშმირის ჯემპერს 'Luxury Casual' სტილის იმიჯის შესაქმნელად, რომელიც შესაფერისია თეატრში ან ვერნისაჟზე ვიზიტისთვის."
       },
       {
-        "q": "შიში დელიკატურ მასალაზე ძაფების გამოწევის გამო.",
+        "q": "შიში დელიკატურ მასალაზე ძაფების გამოწევის გამო",
         "a": "Luisa Spagnoli-ს მაქმანი გამოირჩევა ქსოვის მაღალი სიმკვრივით. მიუხედავად ამისა, მოდელი სრულად არის დასმული სარჩულზე, რაც მინიმუმამდე ამცირებს გარე ფენის კონტაქტს სხეულთან და ზრდის ცვეთამედეგობას."
       },
       {
-        "q": "მუხლს ქვემოთ სიგრძემ შესაძლოა ვიზუალურად დაამოკლოს სილუეტი.",
-        "a": "წელზე მაღალი დაჯდომისა და შევიწროებული კროის ხარჯზე იქმნება მკაფიო ვერტიკალური ხაზი. კლასიკურ ფეხსაცმელ Unica A 0101 0002 -თან ერთად კალთა, პირიქით, ვიზუალურად აგრძელებს ფეხებს."
+        "q": "მუხლს ქვემოთ სიგრძემ შესაძლოა ვიზუალურად დაამოკლოს სილუეტი",
+        "a": "წელზე მაღალი დაჯდომისა და შევიწროებული კროის ხარჯზე იქმნება მკაფიო ვერტიკალური ხაზი. კლასიკურ ფეხსაცმელ Unica A 0101 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/4483ad1f-c43d-46bf-b39f-94464e4f7a6e.jpg ერთად კალთა, პირიქით, ვიზუალურად აგრძელებს ფეხებს."
       },
       {
-        "q": "100% პოლიამიდმა შესაძლოა არ უზრუნველყოს საკმარისი კომფორტი.",
+        "q": "100% პოლიამიდმა შესაძლოა არ უზრუნველყოს საკმარისი კომფორტი",
         "a": "პოლიამიდის მაღალტექნოლოგიური ბოჭკოების გამოყენება საშუალებას იძლევა მივაღწიოთ მაქმანისებრი ორნამენტის წარმოუდგენელ დახვეწილობასა და დეტალიზაციას, ხოლო რბილი სარჩული უზრუნველყოფს სასიამოვნო ტაქტილურ შეგრძნებებს."
       },
       {
-        "q": "სირთულე ასეთი რთული ნაკეთობის მოვლისას.",
+        "q": "სირთულე ასეთი რთული ნაკეთობის მოვლისას",
         "a": "მაქმანის პირველადი სტრუქტურისა და შავი ფერის სიღრმის შესანარჩუნებლად ჩვენ კატეგორიულად გირჩევთ მხოლოდ პროფესიონალურ მშრალ წმენდას."
       }
     ],
     "hy": [
       {
         "q": "Ժանյակը չափազանց պարտավորեցնող է թվում հաճախակի օգտագործման համար",
-        "a": "Ոճավորեք Faustin մոդելը լակոնիկ քաշմիրե ջեմփերով՝ 'Luxury Casual' ոճի կերպար ստեղծելու համար, որը հարմար է թատրոն կամ ցուցահանդես այցելելու համար"
+        "a": "Ոճավորեք Faustin մոդելը լակոնիկ քաշմիրե ջեմփերով՝ 'Luxury Casual' ոճի կերպար ստեղծելու համար, որը հարմար է թատրոն կամ ցուցահանդես այցելելու համար."
       },
       {
         "q": "Նուրբ նյութի վրա քերծվածքների վախ",
-        "a": "Luisa Spagnoli-ի ժանյակն ունի հյուսվածքի բարձր խտություն: Այնուամենայնիվ, մոդելը լիովին ունի աստառ, ինչը նվազագույնի է հասցնում արտաքին շերտի շփումը մարմնի հետ և բարձրացնում մաշվածադիմացկունությունը"
+        "a": "Luisa Spagnoli-ի ժանյակն ունի հյուսվածքի բարձր խտություն: Այնուամենայնիվ, մոդելը լիովին ունի աստառ, ինչը նվազագույնի է հասցնում արտաքին շերտի շփումը մարմնի հետ և բարձրացնում մաշվածադիմացկունությունը."
       },
       {
         "q": "Ծնկից ցածր երկարությունը կարող է տեսողականորեն կարճացնել ուրվագիծը",
-        "a": "Իրանի հատվածում բարձր գոտկատեղի և նեղացված կտրվածքի հաշվին ստեղծվում է հստակ ուղղահայաց գիծ: Unica A 0101 0002 դասական կոշիկների հետ համադրությամբ կիսաշրջազգեստը, ընդհակառակը, տեսողականորեն երկարացնում է ոտքերը"
+        "a": "Իրանի հատվածում բարձր գոտկատեղի և նեղացված կտրվածքի հաշվին ստեղծվում է հստակ ուղղահայաց գիծ: Unica A 0101 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/4483ad1f-c43d-46bf-b39f-94464e4f7a6e.jpg դասական կոշիկների հետ համադրությամբ կիսաշրջազգեստը, ընդհակառակը, տեսողականորեն երկարացնում է ոտքերը."
       },
       {
         "q": "100% պոլիամիդը կարող է բավարար հարմարավետություն չապահովել",
-        "a": "Պոլիամիդի բարձրտեխնոլոգիական թելերի օգտագործումը թույլ է տալիս հասնել ժանյակավոր նախշի անհավանական նրբության և դետալացման, մինչդեռ փափուկ աստառը երաշխավորում է հաճելի շոշափելի զգացողություններ"
+        "a": "Պոլիամիդի բարձրտեխնոլոգիական թելերի օգտագործումը թույլ է տալիս հասնել ժանյակավոր նախշի անհավանական նրբության և դետալացման, մինչդեռ փափուկ աստառը երաշխավորում է հաճելի շոշափելի զգացողություններ."
       },
       {
         "q": "Այսպիսի բարդ իրի խնամքի բարդությունը",
-        "a": "Ժանյակի սկզբնական կառուցվածքը և սև գույնի հագեցվածությունը պահպանելու համար մենք խստորեն խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում"
+        "a": "Ժանյակի սկզբնական կառուցվածքը և սև գույնի հագեցվածությունը պահպանելու համար մենք խստորեն խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում."
       }
     ],
     "lv": [
       {
-        "q": "Mežģīnes šķiet pārāk uzmācīgas biežai lietošanai.",
+        "q": "Mežģīnes šķiet pārāk uzmācīgas biežai lietošanai",
         "a": "Stilojiet Faustin modeli ar lakonisku kašmira džemperi, lai radītu 'Luxury Casual' stila tēlu, kas piemērots vizītei teātrī vai vernisāžā."
       },
       {
-        "q": "Bailes no āķiem uz delikāta materiāla.",
+        "q": "Bailes no āķiem uz delikāta materiāla",
         "a": "Luisa Spagnoli mežģīnēm ir augsts pinuma blīvums. Tomēr modelis ir pilnībā uzlikts uz oderes, kas samazina ārējā slāņa kontaktu ar ķermeni un palielina nodilumizturību."
       },
       {
-        "q": "Garums zem ceļgala var vizuāli saīsināt siluetu.",
-        "a": "Pateicoties augstajai jostasvietai un sašaurinātajam piegriezumam, tiek radīta skaidra vertikāla līnija. Kombinācijā ar klasiskām laiviņkurpēm Unica A 0101 0002 svārki, gluži pretēji, vizuāli pagarina kājas."
+        "q": "Garums zem ceļgala var vizuāli saīsināt siluetu",
+        "a": "Pateicoties augstajai jostasvietai un sašaurinātajam piegriezumam, tiek radīta skaidra vertikāla līnija. Kombinācijā ar klasiskām laiviņkurpēm Unica A 0101 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/4483ad1f-c43d-46bf-b39f-94464e4f7a6e.jpg svārki, gluži pretēji, vizuāli pagarina kājas."
       },
       {
-        "q": "100% poliamīds var nenodrošināt pietiekamu komfortu.",
+        "q": "100% poliamīds var nenodrošināt pietiekamu komfortu",
         "a": "Augsto tehnoloģiju poliamīda šķiedru izmantošana ļauj panākt neticamu mežģīņu raksta smalkumu un detalizāciju, kamēr mīksta odere garantē patīkamas taustes sajūtas."
       },
       {
-        "q": "Sarežģītība kopšanā par tik sarežģītu izstrādājumu.",
+        "q": "Sarežģītība kopšanā par tik sarežģītu izstrādājumu",
         "a": "Lai saglabātu mežģīņu sākotnējo struktūru un melnās krāsas piesātinātību, mēs stingri iesakām tikai profesionālu ķīmisko tīrīšanu."
       }
     ],
     "lt": [
       {
-        "q": "Nėriniai atrodo per daug įpareigojantys dažnam naudojimui.",
+        "q": "Nėriniai atrodo per daug įpareigojantys dažnam naudojimui",
         "a": "Stilizuokite Faustin modelį su lakonišku kašmyro megztiniu, kad sukurtumėte 'Luxury Casual' stiliaus įvaizdį, tinkantį vizitui į teatrą ar vernisažą."
       },
       {
-        "q": "Baimė dėl užkabinimų ant subtilios medžiagos.",
+        "q": "Baimė dėl užkabinimų ant subtilios medžiagos",
         "a": "Luisa Spagnoli nėriniai pasižymi aukštu audimo tankiu. Nepaisant to, modelis yra visiškai su pamušalu, kas sumažina išorinio sluoksnio kontaktą su kūnu ir padidina atsparumą dilimui."
       },
       {
-        "q": "Ilgis žemiau kelių gali vizualiai trumpinti siluetą.",
-        "a": "Dėl aukšto liemens ir siaurinto kirpimo sukuriama aiški vertikali linija. Derinant su klasikiniais laivelio tipo bateliais Unica A 0101 0002, sijonas, priešingai, vizualiai ilgina kojas."
+        "q": "Ilgis žemiau kelių gali vizualiai trumpinti siluetą",
+        "a": "Dėl aukšto liemens ir siaurinto kirpimo sukuriama aiški vertikali linija. Derinant su klasikiniais laivelio tipo bateliais Unica A 0101 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/4483ad1f-c43d-46bf-b39f-94464e4f7a6e.jpg sijonas, priešingai, vizualiai ilgina kojas."
       },
       {
-        "q": "100% poliamidas gali neužtikrinti pakankamo komforto.",
+        "q": "100% poliamidas gali neužtikrinti pakankamo komforto",
         "a": "Aukštųjų technologijų poliamido pluoštų naudojimas leidžia pasiekti neįtikėtiną nėrinių rašto plonumą ir detalumą, o minkštas pamušalas garantuoja malonius taktilinius pojūčius."
       },
       {
-        "q": "Sudėtinga priežiūra tokiam delikačiam gaminiui.",
+        "q": "Sudėtinga priežiūra tokiam delikačiam gaminiui",
         "a": "Norint išsaugoti pirminę nėrinių struktūrą ir juodos spalvos sodrumą, primygtinai rekomenduojame išskirtinai profesionalų cheminį valymą."
       }
     ],
     "pl": [
       {
-        "q": "Koronka wydaje się zbyt wymagająca do częstego noszenia.",
+        "q": "Koronka wydaje się zbyt wymagająca do częstego noszenia",
         "a": "Stylizuj model Faustin z minimalistycznym kaszmirowym swetrem, aby stworzyć look w stylu 'Luxury Casual', idealny na wizytę w teatrze lub wernisaż."
       },
       {
-        "q": "Obawa przed zaciągnięciami na delikatnym materiale.",
+        "q": "Obawa przed zaciągnięciami na delikatnym materiale",
         "a": "Koronka Luisa Spagnoli wyróżnia się wysoką gęstością splotu. Co więcej, model posiada pełną podszewkę, co minimalizuje kontakt warstwy zewnętrznej z ciałem i zwiększa trwałość produktu."
       },
       {
-        "q": "Długość poniżej kolana może optycznie skracać sylwetkę.",
-        "a": "Dzięki wysokiemu stanowi i zwężanemu krojowi tworzy się wyraźna pionowa linia. W połączeniu z klasycznymi czółenkami Unica A 0101 0002 spódnica, wprost przeciwnie, optycznie wydłuża nogi."
+        "q": "Długość poniżej kolana może optycznie skracać sylwetkę",
+        "a": "Dzięki wysokiemu stanowi i zwężanemu krojowi tworzy się wyraźna pionowa linia. W połączeniu z klasycznymi czółenkami Unica A 0101 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/4483ad1f-c43d-46bf-b39f-94464e4f7a6e.jpg spódnica, wprost przeciwnie, optycznie wydłuża nogi."
       },
       {
-        "q": "100% poliamid może nie zapewniać wystarczającego komfortu.",
+        "q": "100% poliamid może nie zapewniać wystarczającego komfortu",
         "a": "Zastosowanie zaawansowanych technologicznie włókien poliamidowych pozwala uzyskać niezwykłą finezję i detalizację koronkowego wzoru, podczas gdy miękka podszewka gwarantuje przyjemne odczucia w dotyku."
       },
       {
-        "q": "Trudności w pielęgnacji tak złożonego produktu.",
+        "q": "Trudności w pielęgnacji tak złożonego produktu",
         "a": "Aby zachować pierwotną strukturę koronki i głębię czerni, zdecydowanie zalecamy wyłącznie profesjonalne czyszczenie chemiczne."
       }
     ],
     "uk": [
       {
-        "q": "Мереживо здається занадто зобов'язуючим для частого використання.",
+        "q": "Мереживо здається занадто зобов'язуючим для частого використання",
         "a": "Стилізуйте модель Faustin з лаконічним кашеміровим джемпером для створення образу в стилі 'Luxury Casual', що підходить для візиту в театр або на вернісаж."
       },
       {
-        "q": "Побоювання щодо зачіпок на делікатному матеріалі.",
+        "q": "Побоювання щодо зачіпок на делікатному матеріалі",
         "a": "Мереживо Luisa Spagnoli має високу щільність плетіння. Тим не менш, модель повністю посаджена на підкладку, що мінімізує контакт зовнішнього шару з тілом і підвищує зносостійкість."
       },
       {
-        "q": "Довжина нижче коліна може візуально вкорочувати силует.",
-        "a": "Завдяки високій посадці на талії та звуженому крою створюється чітка вертикальна лінія. У поєднанні з класичними туфлями-човниками Unica A 0101 0002 спідниця, навпаки, візуально подовжує ноги."
+        "q": "Довжина нижче коліна може візуально вкорочувати силует",
+        "a": "Завдяки високій посадці на талії та звуженому крою створюється чітка вертикальна лінія. У поєднанні з класичними туфлями-човниками Unica A 0101 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/4483ad1f-c43d-46bf-b39f-94464e4f7a6e.jpg спідниця, навпаки, візуально подовжує ноги."
       },
       {
-        "q": "100% поліамід може не забезпечувати достатній комфорт.",
+        "q": "100% поліамід може не забезпечувати достатній комфорт",
         "a": "Використання високотехнологічних волокон поліаміду дозволяє досягти неймовірної тонкості та деталізації мереживного візерунка, тоді як м'яка підкладка гарантує приємні тактильні відчуття."
       },
       {
-        "q": "Складність у догляді за таким складним виробом.",
+        "q": "Складність у догляді за таким складним виробом",
         "a": "Для збереження первозданної структури мережива та насиченості чорного кольору ми наполегливо рекомендуємо виключно професійну суху чистку."
       }
     ]

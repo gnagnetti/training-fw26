@@ -118,38 +118,42 @@
   "objections": {
     "en": [
       {
-        "q": "Caring for hand-embroidered crystals seems complex.",
+        "q": "Caring for hand-embroidered crystals seems complex",
         "a": "Reassure the client of Luisa Spagnoli's exceptional craftsmanship. Recommend delicate professional cleaning, which will preserve the sparkle of the stones and the structure of the wool in pristine condition."
       },
       {
-        "q": "3/4-length sleeves may seem impractical for cold weather.",
+        "q": "3/4-length sleeves may seem impractical for cold weather",
         "a": "Suggest completing the look with long gloves or a cuffed blouse from the new collection. This not only provides warmth but also creates a fashion-forward, layered look."
       },
       {
-        "q": "A flared hem may visually add volume.",
-        "a": "Explain that the vertical direction of the soft godet pleats and the open neckline, on the contrary, elongate the silhouette, lending movement lightness and grace."
+        "q": "A flared hem may visually add volume",
+        "a": "Explain that the vertical direction of the soft godet pleats and the open neckline, on the contrary, elongate the silhouette, lending movement lightness and grace. [] -> Emphasise that in the Grigio Melange shade, the pullover is ideal for a daytime 'smart casual' look. Pairing it with denim or the understated Olino trousers tempers the formality of the stones."
       },
       {
-        "q": "Concern that the knit may stretch out.",
+        "q": "Concern that the knit may stretch out",
         "a": "Point out the high density of the merino-wool knit. The piece is engineered to hold the shape of the godet pleats and kimono sleeves, even with extended wear."
       }
     ],
     "ru": [
       {
-        "q": "Сложность ухода за ручной вышивкой кристаллами",
-        "a": "Заверьте клиента в высочайшем качестве исполнения Luisa Spagnoli. Рекомендуйте деликатную профессиональную чистку, которая сохранит блеск камней и структуру шерсти в первозданном виде."
+        "q": "Уход за вышивкой из кристаллов ручной работы кажется сложным",
+        "a": "Мы гарантируем исключительное мастерство исполнения Luisa Spagnoli. Рекомендуем профессиональную деликатную чистку, которая позволит сохранить сияние камней и безупречную структуру шерсти."
       },
       {
-        "q": "Рукав 3/4 может казаться непрактичным для холодной погоды",
-        "a": "Предложите дополнить образ длинными перчатками или блузой с манжетами из новой коллекции. Это не только обеспечит тепло, но и создаст актуальный многослойный образ."
+        "q": "Рукава 3/4 могут показаться непрактичными в холодную погоду",
+        "a": "Предлагаем дополнить образ высокими перчатками или блузой с манжетами из новой коллекции. Это не только обеспечит тепло, но и создаст стильный, многослойный ансамбль."
       },
       {
-        "q": "Расклешенный низ может визуально добавлять объем",
-        "a": "Объясните, что вертикальная направленность мягких складок годе и открытый ворот, наоборот, вытягивают силуэт, придавая движениям легкость и грацию."
+        "q": "Расклешенный подол может визуально добавить объем",
+        "a": "Напротив, вертикальные линии мягких складок-годе и открытая линия декольте визуально удлиняют силуэт, придавая образу легкость и грацию."
       },
       {
-        "q": "Риск того, что трикотаж растянется",
-        "a": "Укажите на высокую плотность вязки мериносовой шерсти. Изделие спроектировано таким образом, чтобы держать форму годе и рукавов кимоно даже при длительной эксплуатации."
+        "q": "Вопрос о стиле",
+        "a": "Подчеркнем, что в оттенке Grigio Melange этот пуловер идеален для дневного образа в стиле smart casual. Сочетание с денимом или лаконичными брюками Olino уравновешивает торжественность декора."
+      },
+      {
+        "q": "Опасение, что трикотаж может растянуться",
+        "a": "Обратите внимание на высокую плотность вязки из мериносовой шерсти. Изделие спроектировано таким образом, чтобы сохранять архитектурный силуэт складок и рукавов-кимоно даже при длительной носке."
       }
     ],
     "ar": [
@@ -163,7 +167,7 @@
       },
       {
         "q": "التصميم الواسع من الأسفل قد يبدو ممتلئاً بصرياً",
-        "a": "وضحوا أن الانسيابية العمودية لكسرات الـ 'godet' وفتحة العنق المفتوحة تمنح القامة مظهراً ممشوقاً وتضفي خفة ورشاقة على الحركة."
+        "a": "وضحوا أن الانسيابية العمودية لكسرات الـ 'godet' وفتحة العنق المفتوحة تمنح القامة مظهراً ممشوقاً وتضفي خفة ورشاقة على الحركة. [] -> أكدوا أن لون Grigio Melange يجعل الكنزة مثالية لإطلالة نهارية بأسلوب 'smart casual'، حيث أن تنسيقها مع الدنيم أو سراويل Olino البسيطة يخفف من حدة بريق الأحجار."
       },
       {
         "q": "خطر تمدد قماش التريكو",
@@ -181,7 +185,7 @@
       },
       {
         "q": "გაშლილი ქვედა ნაწილი ვიზუალურად შესაძლოა ამატებდეს მოცულობას",
-        "a": "განუმარტეთ, რომ „გოდეს“ რბილი ნაკეცების ვერტიკალური მიმართულება და ღია საყელო, პირიქით, აგრძელებს სილუეტს და მოძრაობას ანიჭებს სიმსუბუქესა და გრაციოზულობას."
+        "a": "განუმარტეთ, რომ „გოდეს“ რბილი ნაკეცების ვერტიკალური მიმართულება და ღია საყელო, პირიქით, აგრძელებს სილუეტს და მოძრაობას ანიჭებს სიმსუბუქესა და გრაციოზულობას. [] -> ხაზგასმით აღნიშნეთ, რომ Grigio Melange-ის ტონალობაში პულოვერი იდეალურად შეეფერება 'smart casual' სტილის დღის იმიჯს. დენიმთან ან Olino-ს ლაკონიურ შარვალთან შეხამება ანეიტრალებს ქვების ზეიმურობას."
       },
       {
         "q": "ტრიკოტაჟის გაჭიმვის რისკი",
@@ -191,19 +195,31 @@
     "hy": [
       {
         "q": "Բյուրեղներով ձեռագործ ասեղնագործության խնամքի բարդությունը",
-        "a": "Վստահեցրեք հաճախորդին Luisa Spagnoli-ի կատարման ամենաբարձր որակի մասին։ Խորհուրդ տվեք դելիկատ մասնագիտական մաքրում, որը կպահպանի քարերի փայլը և բրդի կառուցվածքը սկզբնական տեսքով։"
+        "a": "Վստահեցրեք հաճախորդին Luisa Spagnoli-ի կատարման ամենաբարձր որակի մասին։ Խորհուրդ տվեք դելիկատ մասնագիտական մաքրում, որը կպահպանի քարերի փայլը և բրդի կառուցվածքը սկզբնական տեսքով։."
       },
       {
         "q": "3/4 թևը կարող է անգործնական թվալ ցուրտ եղանակի համար",
-        "a": "Առաջարկեք լրացնել կերպարը երկար ձեռնոցներով կամ նոր հավաքածուի թևքերով բլուզով։ Սա ոչ միայն կապահովի ջերմություն, այլև կստեղծի արդիական բազմաշերտ կերպար։"
+        "a": "Առաջարկեք լրացնել կերպարը երկար ձեռնոցներով կամ նոր հավաքածուի թևքերով բլուզով։ Սա ոչ միայն կապահովի ջերմություն, այլև կստեղծի արդիական բազմաշերտ կերպար։."
       },
       {
         "q": "Լայնացող ներքնամասը կարող է տեսողականորեն ծավալ հաղորդել",
-        "a": "Բացատրեք, որ «գոդե» փափուկ ծալքերի ուղղահայաց ուղղվածությունը և բաց օձիքը, ընդհակառակը, ձգում են սիլուետը՝ շարժումներին հաղորդելով թեթևություն և նրբագեղություն։"
+        "a": "Բացատրեք, որ."
+      },
+      {
+        "q": "գոդե",
+        "a": "փափուկ ծալքերի ուղղահայաց ուղղվածությունը և բաց օձիքը, ընդհակառակը, ձգում են սիլուետը՝ շարժումներին հաղորդելով թեթևություն և նրբագեղություն։ [] -> Ընդգծեք, որ Grigio Melange երանգով պուլովերը իդեալական է."
+      },
+      {
+        "q": "smart casual",
+        "a": "ոճի ցերեկային կերպարի համար։ Դենիմի կամ Olino լակոնիկ տաբատների հետ համադրությունը մեղմացնում է քարերի հանդիսավորությունը։."
       },
       {
         "q": "Տրիկոտաժի ձգվելու ռիսկը",
-        "a": "Նշեք մերինոսի բրդի հյուսվածքի բարձր խտությունը։ Արտադրանքը նախագծված է այնպես, որ պահպանի «գոդե»-ի և կիմոնո թևքերի ձևը նույնիսկ երկարատև օգտագործման դեպքում։"
+        "a": "Նշեք մերինոսի բրդի հյուսվածքի բարձր խտությունը։ Արտադրանքը նախագծված է այնպես, որ պահպանի."
+      },
+      {
+        "q": "գոդե",
+        "a": "ի և կիմոնո թևքերի ձևը նույնիսկ երկարատև օգտագործման դեպքում։."
       }
     ],
     "lv": [
@@ -217,7 +233,7 @@
       },
       {
         "q": "Paplašināta apakšdaļa var vizuāli pievienot apjomu",
-        "a": "Paskaidrojiet, ka mīksto krokojumu vertikālais virziens un atvērtais kakla izgriezums, gluži pretēji, pagarina siluetu, piešķirot kustībām vieglumu un grāciju."
+        "a": "Paskaidrojiet, ka mīksto krokojumu vertikālais virziens un atvērtais kakla izgriezums, gluži pretēji, pagarina siluetu, piešķirot kustībām vieglumu un grāciju. [] -> Uzsveriet, ka Grigio Melange tonī džemperis ir ideāli piemērots dienas tēlam 'smart casual' stilā. Apvienojumā ar džinsu audumu vai lakoniskām Olino biksēm akmeņu svinīgums tiek pieklusināts."
       },
       {
         "q": "Riska risks, ka trikotāža izstiepsies",
@@ -235,7 +251,7 @@
       },
       {
         "q": "Platėjanti apačia gali vizualiai pridėti apimties",
-        "a": "Paaiškinkite, kad minkštų „godė“ klosčių vertikalumas ir atvira apykaklė, priešingai, vizualiai ilgina siluetą, suteikdami judesiams lengvumo ir grakštumo."
+        "a": "Paaiškinkite, kad minkštų „godė“ klosčių vertikalumas ir atvira apykaklė, priešingai, vizualiai ilgina siluetą, suteikdami judesiams lengvumo ir grakštumo. [] -> Pabrėžkite, kad Grigio Melange atspalvio megztinis idealiai tinka kasdieniam „smart casual“ stiliaus įvaizdžiui. Derinimas su džinsu ar lakoniškomis Olino kelnėmis sušvelnina akmenėlių iškilmingumą."
       },
       {
         "q": "Rizika, kad trikotažas išsitampys",
@@ -253,7 +269,7 @@
       },
       {
         "q": "Rozkloszowany dół może wizualnie dodawać objętości",
-        "a": "Proszę wyjaśnić, że pionowe ułożenie miękkich fałd typu godet oraz otwarty dekolt wręcz wydłużają sylwetkę, nadając ruchom lekkości i gracji."
+        "a": "Proszę wyjaśnić, że pionowe ułożenie miękkich fałd typu godet oraz otwarty dekolt wręcz wydłużają sylwetkę, nadając ruchom lekkości i gracji. [] -> Warto podkreślić, że w odcieniu Grigio Melange pulower idealnie sprawdza się w dziennych stylizacjach w stylu 'smart casual'. Połączenie z denimem lub klasycznymi spodniami Olino łagodzi wizytowy charakter zdobień."
       },
       {
         "q": "Ryzyko rozciągnięcia się dzianiny",
@@ -271,7 +287,7 @@
       },
       {
         "q": "Розкльошений низ може візуально додавати об'єм",
-        "a": "Поясніть, що вертикальна спрямованість м'яких складок годе та відкритий комір, навпаки, витягують силует, надаючи рухам легкості та грації."
+        "a": "Поясніть, що вертикальна спрямованість м'яких складок годе та відкритий комір, навпаки, витягують силует, надаючи рухам легкості та грації. [] -> Підкресліть, що у відтінку Grigio Melange пуловер ідеально підходить для денного образу в стилі 'smart casual'. Поєднання з денімом або лаконічними брюками Olino приглушує урочистість каменів."
       },
       {
         "q": "Ризик того, що трикотаж розтягнеться",

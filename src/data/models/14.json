@@ -172,19 +172,19 @@
   "objections": {
     "en": [
       {
-        "q": "The absence of sleeves makes the model insufficiently warm for winter.",
+        "q": "The absence of sleeves makes the model insufficiently warm for winter",
         "a": "The waistcoat is specifically designed for an active lifestyle and for driving. The wool-and-cashmere blend guarantees flawless thermoregulation across the torso."
       },
       {
-        "q": "A ribbed knit may visually add unwanted volume.",
+        "q": "A ribbed knit may visually add unwanted volume",
         "a": "On the contrary, the vertical knit pattern creates a clean vertical line that elongates the silhouette, while the straight Regular fit cut ensures a perfect fit."
       },
       {
-        "q": "The eco-leather pocket trim may crack or lose its appearance.",
+        "q": "The eco-leather pocket trim may crack or lose its appearance",
         "a": "Luisa Spagnoli uses high-tech eco-leather, resistant to wear and external factors, guaranteeing the aesthetic is preserved for many seasons to come."
       },
       {
-        "q": "The hood makes the piece too sporty.",
+        "q": "The hood makes the piece too sporty",
         "a": "Thanks to the noble texture of the cashmere blend, the hood reads as elegant. This is the embodiment of the 'sport-chic' style currently at the height of fashion."
       },
       {
@@ -194,24 +194,28 @@
     ],
     "ru": [
       {
-        "q": "Отсутствие рукавов делает модель недостаточно теплой для зимы.",
-        "a": "Жилет специально спроектирован для активного образа жизни и вождения. Сочетание шерсти и кашемира гарантирует безупречную терморегуляцию в области корпуса."
+        "q": "Отсутствие рукавов делает модель недостаточно теплой для зимы",
+        "a": "Жилет специально создан для активного образа жизни и вождения автомобиля. Смесь шерсти и кашемира гарантирует безупречную терморегуляцию в области торса."
       },
       {
-        "q": "Вязка в рубчик может визуально добавлять лишний объем.",
-        "a": "Вертикальный рисунок вязки, напротив, создает четкую вертикаль, которая вытягивает силуэт, а прямой крой Regular fit обеспечивает идеальную посадку."
+        "q": "Трикотаж в рубчик может визуально добавлять объем",
+        "a": "Напротив, вертикальный узор создает чистую линию, удлиняющую силуэт, а прямой крой Regular fit обеспечивает идеальную посадку."
       },
       {
-        "q": "Экокожа на карманах может потрескаться или потерять вид.",
-        "a": "Luisa Spagnoli использует высокотехнологичную экокожу, устойчивую к износу и внешним воздействиям, что гарантирует сохранение эстетики на долгие сезоны."
+        "q": "Отделка карманов из экокожи может потрескаться",
+        "a": "Luisa Spagnoli использует высокотехнологичную экокожу, устойчивую к износу и внешним факторам, что гарантирует сохранение эстетики на долгие годы."
       },
       {
-        "q": "Капюшон делает вещь слишком спортивной.",
-        "a": "Благодаря благородной фактуре кашемировой смеси, капюшон выглядит элегантно. Это воплощение стиля 'sport-chic', который сейчас находится на пике моды."
+        "q": "Капюшон делает изделие слишком спортивным",
+        "a": "Благодаря благородной фактуре кашемировой смеси капюшон выглядит элегантно. Это воплощение стиля."
+      },
+      {
+        "q": "sport-chic",
+        "a": ", находящегося на пике моды."
       },
       {
         "q": "Как ухаживать за таким комбинированным трикотажем?",
-        "a": "Мы рекомендуем профессиональную химчистку. Это позволит надолго сохранить мягкость кашемировых волокон и первоначальную форму изделия."
+        "a": "Мы рекомендуем профессиональную химчистку. Это позволит сохранить мягкость кашемировых волокон и первозданную форму изделия."
       }
     ],
     "ar": [
@@ -222,19 +226,19 @@
     ],
     "ka": [
       {
-        "q": "სახელოების არარსებობა მოდელს ზამთრისთვის არასაკმარისად თბილს ხდის.",
+        "q": "სახელოების არარსებობა მოდელს ზამთრისთვის არასაკმარისად თბილს ხდის",
         "a": "ჟილეტი სპეციალურად არის შექმნილი აქტიური ცხოვრების წესისა და მართვისთვის. მატყლისა და ქაშმირის კომბინაცია გარანტიას იძლევა უნაკლო თერმორეგულაციის შესახებ ტანის მიდამოში."
       },
       {
-        "q": "რელიეფური ქსოვა შესაძლოა ვიზუალურად ზედმეტ მოცულობას მატებდეს.",
+        "q": "რელიეფური ქსოვა შესაძლოა ვიზუალურად ზედმეტ მოცულობას მატებდეს",
         "a": "პირიქით, ქსოვის ვერტიკალური ნახატი ქმნის მკაფიო ვერტიკალს, რომელიც აგრძელებს სილუეტს, ხოლო პირდაპირი Regular fit კროი უზრუნველყოფს იდეალურ მორგებას."
       },
       {
-        "q": "ჯიბეებზე არსებული ეკოტყავი შესაძლოა გაიბზაროს ან სახე დაკარგოს.",
+        "q": "ჯიბეებზე არსებული ეკოტყავი შესაძლოა გაიბზაროს ან სახე დაკარგოს",
         "a": "Luisa Spagnoli იყენებს მაღალტექნოლოგიურ ეკოტყავს, რომელიც მდგრადია ცვეთისა და გარეგანი ზემოქმედების მიმართ, რაც გარანტიას იძლევა ესთეტიკის შენარჩუნების მრავალი სეზონის განმავლობაში."
       },
       {
-        "q": "კაპიუშონი სამოსს ზედმეტად სპორტულს ხდის.",
+        "q": "კაპიუშონი სამოსს ზედმეტად სპორტულს ხდის",
         "a": "ქაშმირის ნარევის კეთილშობილური ფაქტურის წყალობით კაპიუშონი ელეგანტურად გამოიყურება. ეს არის 'sport-chic' სტილის განსახიერება, რომელიც ახლა მოდის პიკზეა."
       },
       {
@@ -245,40 +249,40 @@
     "hy": [
       {
         "q": "Թևերի բացակայությունը մոդելը դարձնում է ոչ բավարար տաք ձմռան համար։",
-        "a": "Ժիլետը հատուկ նախագծված է ակտիվ կենսակերպի և մեքենա վարելու համար։ Բրդի և կաշմիրի համադրությունը երաշխավորում է անթերի ջերմակարգավորում իրանի հատվածում։"
+        "a": "Ժիլետը հատուկ նախագծված է ակտիվ կենսակերպի և մեքենա վարելու համար։ Բրդի և կաշմիրի համադրությունը երաշխավորում է անթերի ջերմակարգավորում իրանի հատվածում։."
       },
       {
         "q": "Ռետուշով հյուսվածքը կարող է տեսողականորեն ավելորդ ծավալ հաղորդել։",
-        "a": "Հյուսվածքի ուղղահայաց նախշը, ընդհակառակը, ստեղծում է հստակ ուղղահայաց գիծ, որը ձգում է ուրվագիծը, իսկ ուղիղ Regular fit ձևվածքը ապահովում է իդեալական նստվածք։"
+        "a": "Հյուսվածքի ուղղահայաց նախշը, ընդհակառակը, ստեղծում է հստակ ուղղահայաց գիծ, որը ձգում է ուրվագիծը, իսկ ուղիղ Regular fit ձևվածքը ապահովում է իդեալական նստվածք։."
       },
       {
         "q": "Գրպանների էկոկաշին կարող է ճաքճքել կամ կորցնել տեսքը։",
-        "a": "Luisa Spagnoli-ն օգտագործում է բարձրտեխնոլոգիական էկոկաշի, որը կայուն է մաշվածության և արտաքին ազդեցությունների նկատմամբ, ինչը երաշխավորում է էսթետիկայի պահպանումը երկար սեզոնների ընթացքում։"
+        "a": "Luisa Spagnoli-ն օգտագործում է բարձրտեխնոլոգիական էկոկաշի, որը կայուն է մաշվածության և արտաքին ազդեցությունների նկատմամբ, ինչը երաշխավորում է էսթետիկայի պահպանումը երկար սեզոնների ընթացքում։."
       },
       {
         "q": "Կափույրը իրը դարձնում է չափազանց սպորտային։",
-        "a": "Կաշմիրային խառնուրդի ազնվական ֆակտուրայի շնորհիվ կափույրը էլեգանտ տեսք ունի։ Սա 'sport-chic' ոճի մարմնացումն է, որն այժմ նորաձևության գագաթնակետին է։"
+        "a": "Կաշմիրային խառնուրդի ազնվական ֆակտուրայի շնորհիվ կափույրը էլեգանտ տեսք ունի։ Սա 'sport-chic' ոճի մարմնացումն է, որն այժմ նորաձևության գագաթնակետին է։."
       },
       {
         "q": "Ինչպե՞ս խնամել այսպիսի համակցված տրիկոտաժը։",
-        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ քիմմաքրում։ Դա թույլ կտա երկար ժամանակ պահպանել կաշմիրային մանրաթելերի փափկությունը և իրի սկզբնական ձևը։"
+        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ քիմմաքրում։ Դա թույլ կտա երկար ժամանակ պահպանել կաշմիրային մանրաթելերի փափկությունը և իրի սկզբնական ձևը։."
       }
     ],
     "lv": [
       {
-        "q": "Piedurkņu trūkums padara modeli nepietiekami siltu ziemai.",
+        "q": "Piedurkņu trūkums padara modeli nepietiekami siltu ziemai",
         "a": "Vestes modelis ir īpaši izstrādāts aktīvam dzīvesveidam un braukšanai ar auto. Vilnas un kašmira kombinācija garantē nevainojamu ķermeņa termoregulāciju."
       },
       {
-        "q": "Adījums valnītī var vizuāli piešķirt lieku apjomu.",
+        "q": "Adījums valnītī var vizuāli piešķirt lieku apjomu",
         "a": "Vertikālais adījuma raksts, gluži pretēji, rada skaidru vertikāli, kas pagarina siluetu, bet taisnais Regular fit piegriezums nodrošina nevainojamu izskatu."
       },
       {
-        "q": "Ekoāda uz kabatām var ieplaisāt vai zaudēt savu izskatu.",
+        "q": "Ekoāda uz kabatām var ieplaisāt vai zaudēt savu izskatu",
         "a": "Luisa Spagnoli izmanto augsto tehnoloģiju ekoādu, kas ir izturīga pret nodilumu un ārējām iedarbībām, kas garantē estētikas saglabāšanu daudzām sezonām."
       },
       {
-        "q": "Kapuce padara apģērbu pārāk sportisku.",
+        "q": "Kapuce padara apģērbu pārāk sportisku",
         "a": "Pateicoties cēlajai kašmira maisījuma faktūrai, kapuce izskatās eleganti. Tas ir “sport-chic” stila iemiesojums, kas šobrīd atrodas modes virsotnē."
       },
       {
@@ -288,19 +292,19 @@
     ],
     "lt": [
       {
-        "q": "Rankovių nebuvimas daro modelį nepakankamai šiltą žiemai.",
+        "q": "Rankovių nebuvimas daro modelį nepakankamai šiltą žiemai",
         "a": "Liemenė specialiai suprojektuota aktyviam gyvenimo būdui ir vairavimui. Vilnos ir kašmyro derinys garantuoja nepriekaištingą termoreguliaciją liemens srityje."
       },
       {
-        "q": "Rumbelių raštas gali vizualiai pridėti papildomos apimties.",
+        "q": "Rumbelių raštas gali vizualiai pridėti papildomos apimties",
         "a": "Vertikalus mezgimo raštas, priešingai, sukuria aiškią vertikalę, kuri išilgina siluetą, o tiesus kirpimas Regular fit užtikrina idealų prigludimą."
       },
       {
-        "q": "Ekooda ant kišenių gali suskilinėti arba prarasti išvaizdą.",
+        "q": "Ekooda ant kišenių gali suskilinėti arba prarasti išvaizdą",
         "a": "Luisa Spagnoli naudoja aukštųjų technologijų ekoodą, atsparią nusidėvėjimui ir aplinkos poveikiui, kas garantuoja estetikos išsaugojimą ilgiems sezonams."
       },
       {
-        "q": "Gobtuvas daro gaminį pernelyg sportišką.",
+        "q": "Gobtuvas daro gaminį pernelyg sportišką",
         "a": "Dėl kilnios kašmyro mišinio faktūros gobtuvas atrodo elegantiškai. Tai „sport-chic“ stiliaus įkūnijimas, kuris šiuo metu yra mados viršūnėje."
       },
       {
@@ -310,19 +314,19 @@
     ],
     "pl": [
       {
-        "q": "Brak rękawów sprawia, że model nie jest wystarczająco ciepły na zimę.",
+        "q": "Brak rękawów sprawia, że model nie jest wystarczająco ciepły na zimę",
         "a": "Kamizelka została specjalnie zaprojektowana z myślą o aktywnym trybie życia i prowadzeniu samochodu. Połączenie wełny i kaszmiru gwarantuje nienaganną termoregulację w obszarze korpusu."
       },
       {
-        "q": "Dzianina w prążki może wizualnie dodawać objętości.",
+        "q": "Dzianina w prążki może wizualnie dodawać objętości",
         "a": "Pionowy wzór dzianiny wręcz przeciwnie – tworzy wyraźną linię pionową, która wydłuża sylwetkę, a prosty krój Regular fit zapewnia idealne dopasowanie."
       },
       {
-        "q": "Ekoskóra na kieszeniach może popękać lub stracić wygląd.",
+        "q": "Ekoskóra na kieszeniach może popękać lub stracić wygląd",
         "a": "Luisa Spagnoli wykorzystuje zaawansowaną technologicznie ekoskórę, odporną na zużycie i czynniki zewnętrzne, co gwarantuje zachowanie estetyki przez długie sezony."
       },
       {
-        "q": "Kaptur sprawia, że rzecz wydaje się zbyt sportowa.",
+        "q": "Kaptur sprawia, że rzecz wydaje się zbyt sportowa",
         "a": "Dzięki szlachetnej fakturze mieszanki kaszmirowej kaptur wygląda elegancko. To uosobienie stylu 'sport-chic', który obecnie znajduje się w szczytowym momencie mody."
       },
       {
@@ -332,15 +336,19 @@
     ],
     "uk": [
       {
-        "q": "В'язка в рубчик може візуально додавати зайвий об'єм.",
+        "q": "Відсутність рукавів робить модель недостатньо теплою для зими",
+        "a": "Жилет спеціально спроєктований для активного способу життя та водіння. Поєднання вовни та кашеміру гарантує бездоганну терморегуляцію в області корпусу."
+      },
+      {
+        "q": "В'язка в рубчик може візуально додавати зайвий об'єм",
         "a": "Вертикальний малюнок в'язки, навпаки, створює чітку вертикаль, яка витягує силует, а прямий крій Regular fit забезпечує ідеальну посадку."
       },
       {
-        "q": "Екошкіра на кишенях може потріскатися або втратити вигляд.",
+        "q": "Екошкіра на кишенях може потріскатися або втратити вигляд",
         "a": "Luisa Spagnoli використовує високотехнологічну екошкіру, стійку до зносу та зовнішніх впливів, що гарантує збереження естетики на довгі сезони."
       },
       {
-        "q": "Капюшон робить річ занадто спортивною.",
+        "q": "Капюшон робить річ занадто спортивною",
         "a": "Завдяки благородній фактурі кашемірової суміші, капюшон виглядає елегантно. Це втілення стилю 'sport-chic', який зараз знаходиться на піку моди."
       },
       {

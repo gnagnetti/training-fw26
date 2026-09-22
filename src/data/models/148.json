@@ -302,169 +302,149 @@
   "objections": {
     "en": [
       {
-        "q": "Wool may cause tingling or discomfort.",
+        "q": "Wool may cause tingling or discomfort",
         "a": "Luisa Spagnoli pieces use only select, highly refined virgin (Vergine) wool. It is hypoallergenic and has a silky texture, guaranteeing comfort in contact with the skin."
       },
       {
-        "q": "A sleeveless turtleneck seems impractical for the cold season.",
+        "q": "A sleeveless turtleneck seems impractical for the cold season",
         "a": "This piece was specifically designed as a base layer for runway-inspired looks. It retains body warmth, while the absence of sleeves ensures a perfect fit and freedom of movement beneath the fitted sleeves of our jackets and coats."
       },
       {
-        "q": "Contrasting trim may look too graphic.",
+        "q": "Contrasting trim may look too graphic",
         "a": "On the contrary, the delicate trim lines accentuate the architectural precision of the cut and make it easy to pair the top with accessories and footwear in a matching colour palette, creating a polished, cohesive look."
       },
       {
-        "q": "The piece clings too closely to the figure.",
+        "q": "The piece clings too closely to the figure",
         "a": "The dense structure of the 'punto stoffa' knit gently supports the silhouette, concealing minor figure concerns and ensuring the confident fit characteristic of premium knitwear."
       },
       {
-        "q": "Caring for a 100% wool piece seems complex.",
-        "a": "To preserve its longevity and noble appearance, we recommend professional dry cleaning. Thanks to the quality of the Merinfleur fibre, the piece is virtually resistant to pilling and retains its shape for decades. |"
+        "q": "Caring for a 100% wool piece seems complex",
+        "a": "To preserve its longevity and noble appearance, we recommend professional dry cleaning. Thanks to the quality of the Merinfleur fibre, the piece is virtually resistant to pilling and retains its shape for decades. | [Wool may cause tingling or discomfort.] -> Luisa Spagnoli pieces use only select, highly refined virgin wool. It is hypoallergenic and has a silky texture, guaranteeing absolute comfort in contact with the skin."
       },
       {
-        "q": "Wool may cause tingling or discomfort.",
-        "a": "Luisa Spagnoli pieces use only select, highly refined virgin wool. It is hypoallergenic and has a silky texture, guaranteeing absolute comfort in contact with the skin."
-      },
-      {
-        "q": "A sleeveless turtleneck seems impractical for the cold season.",
+        "q": "A sleeveless turtleneck seems impractical for the cold season",
         "a": "This piece was specifically designed as a base layer for runway-inspired looks. It retains body warmth, while the absence of sleeves ensures a perfect fit and freedom of movement beneath the fitted sleeves of our jackets and coats."
       },
       {
-        "q": "Contrasting trim may look too graphic.",
+        "q": "Contrasting trim may look too graphic",
         "a": "On the contrary, the delicate trim lines accentuate the architectural precision of the cut and make it easy to pair the top with accessories and footwear in a matching colour palette, creating a polished, cohesive look."
       },
       {
-        "q": "The piece clings too closely to the figure.",
+        "q": "The piece clings too closely to the figure",
         "a": "The dense structure of the 'punto stoffa' knit gently supports the silhouette, concealing minor figure concerns and ensuring the confident fit characteristic of premium knitwear."
       },
       {
-        "q": "Caring for a 100% wool piece seems complex.",
+        "q": "Caring for a 100% wool piece seems complex",
         "a": "To preserve its longevity and noble appearance, we recommend professional dry cleaning. Thanks to the quality of the Merinfleur fibre, the piece is virtually resistant to pilling and retains its shape for years to come."
       }
     ],
     "ru": [
       {
-        "q": "Шерсть может вызывать покалывание или дискомфорт.",
-        "a": "В моделях Luisa Spagnoli используется только отборная девственная шерсть (Vergine) высочайшей очистки. Она гипоаллергенна и обладает шелковистой текстурой, гарантируя комфорт при контакте с кожей."
+        "q": "Шерсть может вызывать покалывание или дискомфорт",
+        "a": "В изделиях Luisa Spagnoli используется только отборная, высокоочищенная шерсть virgin wool. Она гипоаллергенна и обладает шелковистой фактурой, гарантируя абсолютный комфорт при контакте с кожей."
       },
       {
-        "q": "Водолазка без рукавов кажется непрактичной для холодного сезона.",
-        "a": "Эта модель специально разработана как базовый слой для подиумных образов. Она сохраняет тепло тела, при этом отсутствие рукавов обеспечивает идеальную посадку и свободу движений под узкими рукавами наших жакетов и пальто."
+        "q": "Водолазка без рукавов кажется непрактичной для холодного сезона",
+        "a": "Это изделие было специально создано как базовый слой для образов в стиле подиумных коллекций. Оно сохраняет тепло тела, а отсутствие рукавов обеспечивает идеальную посадку и свободу движений под приталенными рукавами наших жакетов и пальто."
       },
       {
-        "q": "Контрастная отделка может выглядеть слишком графично.",
-        "a": "Напротив, деликатные линии отделки подчеркивают архитектурность кроя и позволяют легко комбинировать топ с аксессуарами и обувью в аналогичной цветовой гамме, создавая завершенный образ."
+        "q": "Контрастная отделка может выглядеть слишком графично",
+        "a": "Напротив, деликатные линии отделки подчеркивают архитектурную точность кроя и позволяют легко сочетать топ с аксессуарами и обувью в тон, создавая завершенный, гармоничный образ."
       },
       {
-        "q": "Модель слишком сильно облегает фигуру.",
-        "a": "Плотная структура вязки «punto stoffa» мягко поддерживает силуэт, скрывая мелкие недостатки и обеспечивая уверенную посадку, характерную для премиального трикотажа."
+        "q": "Изделие слишком плотно облегает фигуру",
+        "a": "Плотная структура трикотажа."
       },
       {
-        "q": "Сложно ухаживать за изделием из 100% шерсти.",
-        "a": "Для сохранения долговечности и благородного вида мы рекомендуем профессиональную сухую чистку. Благодаря качеству волокна Merinfleur, изделие практически не подвержено пиллингу и сохраняет форму десятилетиями. |"
+        "q": "punto stoffa",
+        "a": "мягко поддерживает силуэт, скрывая нюансы фигуры и обеспечивая уверенную посадку, характерную для премиального трикотажа."
       },
       {
-        "q": "Шерсть может вызывать покалывание или дискомфорт.",
-        "a": "В моделях Luisa Spagnoli используется только отборная девственная шерсть высочайшей очистки. Она гипоаллергенна и обладает шелковистой текстурой, гарантируя абсолютный комфорт при контакте с кожей."
-      },
-      {
-        "q": "Водолазка без рукавов кажется непрактичной для холодного сезона.",
-        "a": "Эта модель специально разработана как базовый слой для подиумных образов. Она сохраняет тепло тела, при этом отсутствие рукавов обеспечивает идеальную посадку и свободу движений под узкими рукавами наших жакетов и пальто."
-      },
-      {
-        "q": "Контрастная отделка может выглядеть слишком графично.",
-        "a": "Напротив, деликатные линии отделки подчеркивают архитектурность кроя и позволяют легко комбинировать топ с аксессуарами и обувью в аналогичной цветовой гамме, создавая завершенный образ."
-      },
-      {
-        "q": "Модель слишком сильно облегает фигуру.",
-        "a": "Плотная структура вязки «punto stoffa» мягко поддерживает силуэт, скрывая мелкие недостатки и обеспечивая уверенную посадку, характерную для премиального трикотажа."
-      },
-      {
-        "q": "Сложно ухаживать за изделием из 100% шерсти.",
-        "a": "Для сохранения долговечности и благородного вида мы рекомендуем профессиональную сухую чистку. Благодаря качеству волокна Merinfleur, изделие практически не подвержено пиллингу и сохраняет форму годами."
+        "q": "Уход за изделием из 100% шерсти кажется сложным",
+        "a": "Чтобы сохранить долговечность и благородный вид изделия, мы рекомендуем профессиональную химчистку. Благодаря качеству волокна Merinfleur, изделие практически не подвержено пиллингу и сохраняет свою форму на долгие годы."
       }
     ],
     "ar": [
       {
-        "q": "الصوف قد يسبب وخزاً أو عدم راحة.",
+        "q": "الصوف قد يسبب وخزاً أو عدم راحة",
         "a": "في موديلات Luisa Spagnoli نستخدم فقط الصوف البكر (Vergine) المختار فائق النقاء. إنه مضاد للحساسية ويمتلك ملمساً حريرياً، مما يضمن الراحة عند ملامسته للبشرة."
       },
       {
-        "q": "الكنزة ذات الياقة العالية وبدون أكمام تبدو غير عملية للموسم البارد.",
+        "q": "الكنزة ذات الياقة العالية وبدون أكمام تبدو غير عملية للموسم البارد",
         "a": "هذا الموديل مصمم خصيصاً كطبقة أساسية لإطلالات منصات العرض. فهو يحفظ حرارة الجسم، بينما يضمن غياب الأكمام ثباتاً مثالياً وحرية في الحركة تحت الأكمام الضيقة لستراتنا ومعاطفنا."
       },
       {
-        "q": "الحواف المتباينة قد تبدو جرافيكية أكثر من اللازم.",
+        "q": "الحواف المتباينة قد تبدو جرافيكية أكثر من اللازم",
         "a": "على العكس، تبرز الخطوط الرقيقة للحواف الهندسة التصميمية وتسمح بسهولة دمج التوب مع الإكسسوارات والأحذية بنفس لوحة الألوان، لخلق إطلالة متكاملة."
       },
       {
-        "q": "الموديل يلتصق بالجسم بشدة.",
-        "a": "الهيكل الكثيف لحياكة «punto stoffa» يدعم القوام بنعومة، مخفياً العيوب الصغيرة وموفراً مظهراً واثقاً يتميز به التريكو الفاخر."
+        "q": "الموديل يلتصق بالجسم بشدة",
+        "a": "الهيكل الكثيف لحياكة."
       },
       {
-        "q": "من الصعب العناية بمنتج مصنوع من صوف 100%.",
-        "a": "للحفاظ على الديمومة والمظهر الراقي، ننصح بالتنظيف الجاف الاحترافي. بفضل جودة ألياف Merinfleur، المنتج عملياً لا يتعرض للوبر ويحافظ على شكله لعقود. |"
+        "q": "punto stoffa",
+        "a": "يدعم القوام بنعومة، مخفياً العيوب الصغيرة وموفراً مظهراً واثقاً يتميز به التريكو الفاخر."
       },
       {
-        "q": "الصوف قد يسبب وخزاً أو عدم راحة.",
-        "a": "في موديلات Luisa Spagnoli نستخدم فقط الصوف البكر المختار فائق النقاء. إنه مضاد للحساسية ويمتلك ملمساً حريرياً، مما يضمن الراحة المطلقة عند ملامسته للبشرة."
+        "q": "من الصعب العناية بمنتج مصنوع من صوف 100%",
+        "a": "للحفاظ على الديمومة والمظهر الراقي، ننصح بالتنظيف الجاف الاحترافي. بفضل جودة ألياف Merinfleur، المنتج عملياً لا يتعرض للوبر ويحافظ على شكله لعقود. | [الصوف قد يسبب وخزاً أو عدم راحة.] -> في موديلات Luisa Spagnoli نستخدم فقط الصوف البكر المختار فائق النقاء. إنه مضاد للحساسية ويمتلك ملمساً حريرياً، مما يضمن الراحة المطلقة عند ملامسته للبشرة."
       },
       {
-        "q": "الكنزة ذات الياقة العالية وبدون أكمام تبدو غير عملية للموسم البارد.",
+        "q": "الكنزة ذات الياقة العالية وبدون أكمام تبدو غير عملية للموسم البارد",
         "a": "هذا الموديل مصمم خصيصاً كطبقة أساسية لإطلالات منصات العرض. فهو يحفظ حرارة الجسم، بينما يضمن غياب الأكمام ثباتاً مثالياً وحرية في الحركة تحت الأكمام الضيقة لستراتنا ومعاطفنا."
       },
       {
-        "q": "الحواف المتباينة قد تبدو جرافيكية أكثر من اللازم.",
+        "q": "الحواف المتباينة قد تبدو جرافيكية أكثر من اللازم",
         "a": "على العكس، تبرز الخطوط الرقيقة للحواف الهندسة التصميمية وتسمح بسهولة دمج التوب مع الإكسسوارات والأحذية بنفس لوحة الألوان، لخلق إطلالة متكاملة."
       },
       {
-        "q": "الموديل يلتصق بالجسم بشدة.",
-        "a": "الهيكل الكثيف لحياكة «punto stoffa» يدعم القوام بنعومة، مخفياً العيوب الصغيرة وموفراً مظهراً واثقاً يتميز به التريكو الفاخر."
+        "q": "الموديل يلتصق بالجسم بشدة",
+        "a": "الهيكل الكثيف لحياكة."
       },
       {
-        "q": "من الصعب العناية بمنتج مصنوع من صوف 100%.",
+        "q": "punto stoffa",
+        "a": "يدعم القوام بنعومة، مخفياً العيوب الصغيرة وموفراً مظهراً واثقاً يتميز به التريكو الفاخر."
+      },
+      {
+        "q": "من الصعب العناية بمنتج مصنوع من صوف 100%",
         "a": "للحفاظ على الديمومة والمظهر الراقي، ننصح بالتنظيف الجاف الاحترافي. بفضل جودة ألياف Merinfleur، المنتج عملياً لا يتعرض للوبر ويحافظ على شكله لسنوات."
       }
     ],
     "ka": [
       {
-        "q": "მატყლმა შესაძლოა გამოიწვიოს ჩხვლეტა ან დისკომფორტი.",
+        "q": "მატყლმა შესაძლოა გამოიწვიოს ჩხვლეტა ან დისკომფორტი",
         "a": "Luisa Spagnoli-ს მოდელებში გამოიყენება მხოლოდ უმაღლესი ხარისხის, რჩეული პირველადი მატყლი (Vergine). ის ჰიპოალერგიულია და აქვს აბრეშუმისებრი ტექსტურა, რაც კანს უზრუნველყოფს კომფორტით."
       },
       {
-        "q": "უსახელო კუსფელდი არაპრაქტიკულად ჩანს ცივი სეზონისთვის.",
+        "q": "უსახელო კუსფელდი არაპრაქტიკულად ჩანს ცივი სეზონისთვის",
         "a": "ეს მოდელი სპეციალურად არის შემუშავებული, როგორც საბაზისო ფენა პოდიუმის იმიჯებისთვის. ის ინარჩუნებს სხეულის სითბოს, ხოლო სახელოების არარსებობა უზრუნველყოფს იდეალურ მორგებასა და მოძრაობის თავისუფლებას ჩვენი პიჯაკებისა და პალტოების ვიწრო სახელოების ქვეშ."
       },
       {
-        "q": "კონტრასტული გაფორმება შესაძლოა ზედმეტად გრაფიკულად გამოიყურებოდეს.",
+        "q": "კონტრასტული გაფორმება შესაძლოა ზედმეტად გრაფიკულად გამოიყურებოდეს",
         "a": "პირიქით, გაფორმების დელიკატური ხაზები ხაზს უსვამს კრილის არქიტექტურულობას და საშუალებას იძლევა ადვილად შეეხამოს ტოპი ანალოგიური ფერის აქსესუარებსა და ფეხსაცმელს, რაც ქმნის დასრულებულ იმიჯს."
       },
       {
-        "q": "მოდელი ზედმეტად მჭიდროდ ეკვრის ფიგურას.",
+        "q": "მოდელი ზედმეტად მჭიდროდ ეკვრის ფიგურას",
         "a": "„punto stoffa“ ქსოვის მჭიდრო სტრუქტურა რბილად უჭერს მხარს სილუეტს, მალავს მცირე ნაკლოვანებებს და უზრუნველყოფს თავდაჯერებულ მორგებას, რაც დამახასიათებელია პრემიუმ-ტრიკოტაჟისთვის."
       },
       {
-        "q": "რთულია 100% მატყლის ნაკეთობის მოვლა.",
-        "a": "გამძლეობისა და დახვეწილი იერსახის შესანარჩუნებლად ჩვენ გირჩევთ პროფესიონალურ ქიმწმენდას. Merinfleur-ის ბოჭკოს ხარისხის წყალობით, ნაკეთობა პრაქტიკულად არ ექვემდებარება ბუსუსების წარმოქმნას და ინარჩუნებს ფორმას ათწლეულების განმავლობაში. |"
+        "q": "რთულია 100% მატყლის ნაკეთობის მოვლა",
+        "a": "გამძლეობისა და დახვეწილი იერსახის შესანარჩუნებლად ჩვენ გირჩევთ პროფესიონალურ ქიმწმენდას. Merinfleur-ის ბოჭკოს ხარისხის წყალობით, ნაკეთობა პრაქტიკულად არ ექვემდებარება ბუსუსების წარმოქმნას და ინარჩუნებს ფორმას ათწლეულების განმავლობაში. | [მატყლმა შესაძლოა გამოიწვიოს ჩხვლეტა ან დისკომფორტი.] -> Luisa Spagnoli-ს მოდელებში გამოიყენება მხოლოდ უმაღლესი ხარისხის, რჩეული პირველადი მატყლი. ის ჰიპოალერგიულია და აქვს აბრეშუმისებრი ტექსტურა, რაც კანს უზრუნველყოფს აბსოლუტური კომფორტით."
       },
       {
-        "q": "მატყლმა შესაძლოა გამოიწვიოს ჩხვლეტა ან დისკომფორტი.",
-        "a": "Luisa Spagnoli-ს მოდელებში გამოიყენება მხოლოდ უმაღლესი ხარისხის, რჩეული პირველადი მატყლი. ის ჰიპოალერგიულია და აქვს აბრეშუმისებრი ტექსტურა, რაც კანს უზრუნველყოფს აბსოლუტური კომფორტით."
-      },
-      {
-        "q": "უსახელო კუსფელდი არაპრაქტიკულად ჩანს ცივი სეზონისთვის.",
+        "q": "უსახელო კუსფელდი არაპრაქტიკულად ჩანს ცივი სეზონისთვის",
         "a": "ეს მოდელი სპეციალურად არის შემუშავებული, როგორც საბაზისო ფენა პოდიუმის იმიჯებისთვის. ის ინარჩუნებს სხეულის სითბოს, ხოლო სახელოების არარსებობა უზრუნველყოფს იდეალურ მორგებასა და მოძრაობის თავისუფლებას ჩვენი პიჯაკებისა და პალტოების ვიწრო სახელოების ქვეშ."
       },
       {
-        "q": "კონტრასტული გაფორმება შესაძლოა ზედმეტად გრაფიკულად გამოიყურებოდეს.",
+        "q": "კონტრასტული გაფორმება შესაძლოა ზედმეტად გრაფიკულად გამოიყურებოდეს",
         "a": "პირიქით, გაფორმების დელიკატური ხაზები ხაზს უსვამს კრილის არქიტექტურულობას და საშუალებას იძლევა ადვილად შეეხამოს ტოპი ანალოგიური ფერის აქსესუარებსა და ფეხსაცმელს, რაც ქმნის დასრულებულ იმიჯს."
       },
       {
-        "q": "მოდელი ზედმეტად მჭიდროდ ეკვრის ფიგურას.",
+        "q": "მოდელი ზედმეტად მჭიდროდ ეკვრის ფიგურას",
         "a": "„punto stoffa“ ქსოვის მჭიდრო სტრუქტურა რბილად უჭერს მხარს სილუეტს, მალავს მცირე ნაკლოვანებებს და უზრუნველყოფს თავდაჯერებულ მორგებას, რაც დამახასიათებელია პრემიუმ-ტრიკოტაჟისთვის."
       },
       {
-        "q": "რთულია 100% მატყლის ნაკეთობის მოვლა.",
+        "q": "რთულია 100% მატყლის ნაკეთობის მოვლა",
         "a": "გამძლეობისა და დახვეწილი იერსახის შესანარჩუნებლად ჩვენ გირჩევთ პროფესიონალურ ქიმწმენდას. Merinfleur-ის ბოჭკოს ხარისხის წყალობით, ნაკეთობა პრაქტიკულად არ ექვემდებარება ბუსუსების წარმოქმნას და ინარჩუნებს ფორმას წლების განმავლობაში."
       }
     ],
@@ -512,169 +492,169 @@
     ],
     "lv": [
       {
-        "q": "Vilna var radīt kņudināšanu vai diskomfortu.",
+        "q": "Vilna var radīt kņudināšanu vai diskomfortu",
         "a": "Luisa Spagnoli modeļos tiek izmantota tikai atlasīta, augstākās tīrības pakāpes jaunvilna (Vergine). Tā ir hipoalerģiska un tai piemīt zīdaina tekstūra, garantējot komfortu saskarē ar ādu."
       },
       {
-        "q": "Bezpiedurkņu džemperis ar augstu apkakli šķiet nepraktisks aukstajai sezonai.",
+        "q": "Bezpiedurkņu džemperis ar augstu apkakli šķiet nepraktisks aukstajai sezonai",
         "a": "Šis modelis ir īpaši izstrādāts kā bāzes slānis modes skatēm piemērotiem tēliem. Tas saglabā ķermeņa siltumu, turklāt piedurkņu trūkums nodrošina ideālu piegulumu un kustību brīvību zem mūsu žakešu un mēteļu šaurajām piedurknēm."
       },
       {
-        "q": "Kontrastējošā apdare var izskatīties pārāk grafiski.",
+        "q": "Kontrastējošā apdare var izskatīties pārāk grafiski",
         "a": "Gluži pretēji, delikātās apdares līnijas izceļ piegriezuma arhitektoniskumu un ļauj viegli kombinēt topu ar aksesuāriem un apaviem līdzīgā krāsu gammā, radot pabeigtu tēlu."
       },
       {
-        "q": "Modelis pārāk cieši pieguļ figūrai.",
-        "a": "Blīvā «punto stoffa» adījuma struktūra maigi atbalsta siluetu, apslēpjot sīkas nepilnības un nodrošinot pārliecinošu piegulumu, kas raksturīgs premium trikotāžai."
+        "q": "Modelis pārāk cieši pieguļ figūrai",
+        "a": "Blīvā."
       },
       {
-        "q": "Sarežģīti kopt 100% vilnas izstrādājumu.",
-        "a": "Lai saglabātu ilgmūžību un cēlu izskatu, mēs iesakām profesionālu ķīmisko tīrīšanu. Pateicoties Merinfleur šķiedras kvalitātei, izstrādājums gandrīz nav pakļauts savelšanās procesam un saglabā formu gadu desmitiem ilgi. |"
+        "q": "punto stoffa",
+        "a": "adījuma struktūra maigi atbalsta siluetu, apslēpjot sīkas nepilnības un nodrošinot pārliecinošu piegulumu, kas raksturīgs premium trikotāžai."
       },
       {
-        "q": "Vilna var radīt kņudināšanu vai diskomfortu.",
-        "a": "Luisa Spagnoli modeļos tiek izmantota tikai atlasīta, augstākās tīrības pakāpes jaunvilna. Tā ir hipoalerģiska un tai piemīt zīdaina tekstūra, garantējot absolūtu komfortu saskarē ar ādu."
+        "q": "Sarežģīti kopt 100% vilnas izstrādājumu",
+        "a": "Lai saglabātu ilgmūžību un cēlu izskatu, mēs iesakām profesionālu ķīmisko tīrīšanu. Pateicoties Merinfleur šķiedras kvalitātei, izstrādājums gandrīz nav pakļauts savelšanās procesam un saglabā formu gadu desmitiem ilgi. | [Vilna var radīt kņudināšanu vai diskomfortu.] -> Luisa Spagnoli modeļos tiek izmantota tikai atlasīta, augstākās tīrības pakāpes jaunvilna. Tā ir hipoalerģiska un tai piemīt zīdaina tekstūra, garantējot absolūtu komfortu saskarē ar ādu."
       },
       {
-        "q": "Bezpiedurkņu džemperis ar augstu apkakli šķiet nepraktisks aukstajai sezonai.",
+        "q": "Bezpiedurkņu džemperis ar augstu apkakli šķiet nepraktisks aukstajai sezonai",
         "a": "Šis modelis ir īpaši izstrādāts kā bāzes slānis modes skatēm piemērotiem tēliem. Tas saglabā ķermeņa siltumu, turklāt piedurkņu trūkums nodrošina ideālu piegulumu un kustību brīvību zem mūsu žakešu un mēteļu šaurajām piedurknēm."
       },
       {
-        "q": "Kontrastējošā apdare var izskatīties pārāk grafiski.",
+        "q": "Kontrastējošā apdare var izskatīties pārāk grafiski",
         "a": "Gluži pretēji, delikātās apdares līnijas izceļ piegriezuma arhitektoniskumu un ļauj viegli kombinēt topu ar aksesuāriem un apaviem līdzīgā krāsu gammā, radot pabeigtu tēlu."
       },
       {
-        "q": "Modelis pārāk cieši pieguļ figūrai.",
-        "a": "Blīvā «punto stoffa» adījuma struktūra maigi atbalsta siluetu, apslēpjot sīkas nepilnības un nodrošinot pārliecinošu piegulumu, kas raksturīgs premium trikotāžai."
+        "q": "Modelis pārāk cieši pieguļ figūrai",
+        "a": "Blīvā."
       },
       {
-        "q": "Sarežģīti kopt 100% vilnas izstrādājumu.",
+        "q": "punto stoffa",
+        "a": "adījuma struktūra maigi atbalsta siluetu, apslēpjot sīkas nepilnības un nodrošinot pārliecinošu piegulumu, kas raksturīgs premium trikotāžai."
+      },
+      {
+        "q": "Sarežģīti kopt 100% vilnas izstrādājumu",
         "a": "Lai saglabātu ilgmūžību un cēlu izskatu, mēs iesakām profesionālu ķīmisko tīrīšanu. Pateicoties Merinfleur šķiedras kvalitātei, izstrādājums gandrīz nav pakļauts savelšanās procesam un saglabā formu gadiem ilgi."
       }
     ],
     "lt": [
       {
-        "q": "Vilna gali sukelti niežulį ar diskomfortą.",
+        "q": "Vilna gali sukelti niežulį ar diskomfortą",
         "a": "Luisa Spagnoli modeliuose naudojama tik atrinkta aukščiausio grynumo vilna (Vergine). Ji yra hipoalerginė ir pasižymi šilkine tekstūra, garantuojančia komfortą sąlytyje su oda."
       },
       {
-        "q": "Golfas be rankovių atrodo nepraktiškas šaltajam sezonui.",
+        "q": "Golfas be rankovių atrodo nepraktiškas šaltajam sezonui",
         "a": "Šis modelis specialiai sukurtas kaip bazinis sluoksnis podiumo įvaizdžiams. Jis išsaugo kūno šilumą, o rankovių nebuvimas užtikrina idealų prigludimą ir judesių laisvę po siauromis mūsų švarkų bei paltų rankovėmis."
       },
       {
-        "q": "Kontrastinga apdaila gali atrodyti per daug grafiškai.",
+        "q": "Kontrastinga apdaila gali atrodyti per daug grafiškai",
         "a": "Priešingai, delikačios apdailos linijos pabrėžia kirpimo architektūriškumą ir leidžia lengvai derinti topą su aksesuarais bei avalyne analogiškoje spalvų gamoje, sukuriant užbaigtą įvaizdį."
       },
       {
-        "q": "Modelis per stipriai aptempia figūrą.",
+        "q": "Modelis per stipriai aptempia figūrą",
         "a": "Tanki „punto stoffa“ mezgimo struktūra švelniai prilaiko siluetą, paslėpdama smulkius trūkumus ir užtikrindama užtikrintą prigludimą, būdingą premium klasės trikotažui."
       },
       {
-        "q": "Sudėtinga prižiūrėti gaminį iš 100% vilnos.",
-        "a": "Ilgaamžiškumui ir kilniai išvaizdai išsaugoti rekomenduojame profesionalų cheminį valymą. Dėl „Merinfleur“ pluošto kokybės gaminys praktiškai nėra linkęs pūkuotis ir išlaiko formą dešimtmečiais. |"
+        "q": "Sudėtinga prižiūrėti gaminį iš 100% vilnos",
+        "a": "Ilgaamžiškumui ir kilniai išvaizdai išsaugoti rekomenduojame profesionalų cheminį valymą. Dėl „Merinfleur“ pluošto kokybės gaminys praktiškai nėra linkęs pūkuotis ir išlaiko formą dešimtmečiais. | [Vilna gali sukelti niežulį ar diskomfortą.] -> Luisa Spagnoli modeliuose naudojama tik atrinkta aukščiausio grynumo vilna. Ji yra hipoalerginė ir pasižymi šilkine tekstūra, garantuojančia absoliutų komfortą sąlytyje su oda."
       },
       {
-        "q": "Vilna gali sukelti niežulį ar diskomfortą.",
-        "a": "Luisa Spagnoli modeliuose naudojama tik atrinkta aukščiausio grynumo vilna. Ji yra hipoalerginė ir pasižymi šilkine tekstūra, garantuojančia absoliutų komfortą sąlytyje su oda."
-      },
-      {
-        "q": "Golfas be rankovių atrodo nepraktiškas šaltajam sezonui.",
+        "q": "Golfas be rankovių atrodo nepraktiškas šaltajam sezonui",
         "a": "Šis modelis specialiai sukurtas kaip bazinis sluoksnis podiumo įvaizdžiams. Jis išsaugo kūno šilumą, o rankovių nebuvimas užtikrina idealų prigludimą ir judesių laisvę po siauromis mūsų švarkų bei paltų rankovėmis."
       },
       {
-        "q": "Kontrastinga apdaila gali atrodyti per daug grafiškai.",
+        "q": "Kontrastinga apdaila gali atrodyti per daug grafiškai",
         "a": "Priešingai, delikačios apdailos linijos pabrėžia kirpimo architektūriškumą ir leidžia lengvai derinti topą su aksesuarais bei avalyne analogiškoje spalvų gamoje, sukuriant užbaigtą įvaizdį."
       },
       {
-        "q": "Modelis per stipriai aptempia figūrą.",
+        "q": "Modelis per stipriai aptempia figūrą",
         "a": "Tanki „punto stoffa“ mezgimo struktūra švelniai prilaiko siluetą, paslėpdama smulkius trūkumus ir užtikrindama užtikrintą prigludimą, būdingą premium klasės trikotažui."
       },
       {
-        "q": "Sudėtinga prižiūrėti gaminį iš 100% vilnos.",
+        "q": "Sudėtinga prižiūrėti gaminį iš 100% vilnos",
         "a": "Ilgaamžiškumui ir kilniai išvaizdai išsaugoti rekomenduojame profesionalų cheminį valymą. Dėl „Merinfleur“ pluošto kokybės gaminys praktiškai nėra linkęs pūkuotis ir išlaiko formą metais."
       }
     ],
     "pl": [
       {
-        "q": "Wełna może powodować kłucie lub dyskomfort.",
+        "q": "Wełna może powodować kłucie lub dyskomfort",
         "a": "W modelach Luisa Spagnoli stosowana jest wyłącznie wyselekcjonowana dziewicza wełna (Vergine) najwyższej czystości. Jest ona hipoalergiczna i posiada jedwabistą teksturę, gwarantując komfort w kontakcie ze skórą."
       },
       {
-        "q": "Golf bez rękawów wydaje się niepraktyczny na zimny sezon.",
+        "q": "Golf bez rękawów wydaje się niepraktyczny na zimny sezon",
         "a": "Ten model został specjalnie zaprojektowany jako warstwa bazowa do stylizacji wybiegowych. Utrzymuje ciepło ciała, przy czym brak rękawów zapewnia idealne dopasowanie i swobodę ruchów pod wąskimi rękawami naszych żakietów i płaszczy."
       },
       {
-        "q": "Kontrastowe wykończenie może wyglądać zbyt graficznie.",
+        "q": "Kontrastowe wykończenie może wyglądać zbyt graficznie",
         "a": "Przeciwnie, delikatne linie wykończenia podkreślają architektoniczność kroju i pozwalają łatwo łączyć top z akcesoriami i obuwiem w analogicznej gamie kolorystycznej, tworząc kompletny wizerunek."
       },
       {
-        "q": "Model zbyt mocno opina figurę.",
+        "q": "Model zbyt mocno opina figurę",
         "a": "Ścisła struktura splotu „punto stoffa” delikatnie wspiera sylwetkę, ukrywając drobne niedoskonałości i zapewniając pewne dopasowanie, charakterystyczne dla dzianin premium."
       },
       {
-        "q": "Trudno dbać o wyrób ze 100% wełny.",
-        "a": "Dla zachowania trwałości i szlachetnego wyglądu zalecamy profesjonalne czyszczenie chemiczne. Dzięki jakości włókna Merinfleur, produkt praktycznie nie ulega mechaceniu i zachowuje swój kształt przez dekady. |"
+        "q": "Trudno dbać o wyrób ze 100% wełny",
+        "a": "Dla zachowania trwałości i szlachetnego wyglądu zalecamy profesjonalne czyszczenie chemiczne. Dzięki jakości włókna Merinfleur, produkt praktycznie nie ulega mechaceniu i zachowuje swój kształt przez dekady. | [Wełna może powodować kłucie lub dyskomfort.] -> W modelach Luisa Spagnoli stosowana jest wyłącznie wyselekcjonowana dziewicza wełna najwyższej czystości. Jest ona hipoalergiczna i posiada jedwabistą teksturę, gwarantując absolutny komfort w kontakcie ze skórą."
       },
       {
-        "q": "Wełna może powodować kłucie lub dyskomfort.",
-        "a": "W modelach Luisa Spagnoli stosowana jest wyłącznie wyselekcjonowana dziewicza wełna najwyższej czystości. Jest ona hipoalergiczna i posiada jedwabistą teksturę, gwarantując absolutny komfort w kontakcie ze skórą."
-      },
-      {
-        "q": "Golf bez rękawów wydaje się niepraktyczny na zimny sezon.",
+        "q": "Golf bez rękawów wydaje się niepraktyczny na zimny sezon",
         "a": "Ten model został specjalnie zaprojektowany jako warstwa bazowa do stylizacji wybiegowych. Utrzymuje ciepło ciała, przy czym brak rękawów zapewnia idealne dopasowanie i swobodę ruchów pod wąskimi rękawami naszych żakietów i płaszczy."
       },
       {
-        "q": "Kontrastowe wykończenie może wyglądać zbyt graficznie.",
+        "q": "Kontrastowe wykończenie może wyglądać zbyt graficznie",
         "a": "Przeciwnie, delikatne linie wykończenia podkreślają architektoniczność kroju i pozwalają łatwo łączyć top z akcesoriami i obuwiem w analogicznej gamie kolorystycznej, tworząc kompletny wizerunek."
       },
       {
-        "q": "Model zbyt mocno opina figurę.",
+        "q": "Model zbyt mocno opina figurę",
         "a": "Ścisła struktura splotu „punto stoffa” delikatnie wspiera sylwetkę, ukrywając drobne niedoskonałości i zapewniając pewne dopasowanie, charakterystyczne dla dzianin premium."
       },
       {
-        "q": "Trudno dbać o wyrób ze 100% wełny.",
+        "q": "Trudno dbać o wyrób ze 100% wełny",
         "a": "Dla zachowania trwałości i szlachetnego wyglądu zalecamy profesjonalne czyszczenie chemiczne. Dzięki jakości włókna Merinfleur, produkt praktycznie nie ulega mechaceniu i zachowuje swój kształt przez lata."
       }
     ],
     "uk": [
       {
-        "q": "Вовна може викликати поколювання або дискомфорт.",
+        "q": "Вовна може викликати поколювання або дискомфорт",
         "a": "У моделях Luisa Spagnoli використовується лише відбірна незаймана вовна (Vergine) найвищого очищення. Вона гіпоалергенна і має шовковисту текстуру, гарантуючи комфорт при контакті зі шкірою."
       },
       {
-        "q": "Водолазка без рукавів здається непрактичною для холодного сезону.",
+        "q": "Водолазка без рукавів здається непрактичною для холодного сезону",
         "a": "Ця модель спеціально розроблена як базовий шар для подіумних образів. Вона зберігає тепло тіла, при цьому відсутність рукавів забезпечує ідеальну посадку і свободу рухів під вузькими рукавами наших жакетів та пальто."
       },
       {
-        "q": "Контрастна обробка може виглядати занадто графічно.",
+        "q": "Контрастна обробка може виглядати занадто графічно",
         "a": "Навпаки, делікатні лінії оздоблення підкреслюють архітектурність крою і дозволяють легко комбінувати топ з аксесуарами та взуттям в аналогічній колірній гамі, створюючи завершений образ."
       },
       {
-        "q": "Модель занадто сильно облягає фігуру.",
-        "a": "Щільна структура в'язки «punto stoffa» м'яко підтримує силует, приховуючи дрібні недоліки та забезпечуючи впевнену посадку, характерну для преміального трикотажу."
+        "q": "Модель занадто сильно облягає фігуру",
+        "a": "Щільна структура в'язки."
       },
       {
-        "q": "Складно доглядати за виробом зі 100% вовни.",
-        "a": "Для збереження довговічності та благородного вигляду ми рекомендуємо професійну суху чистку. Завдяки якості волокна Merinfleur, виріб практично не піддається пілінгу і зберігає форму десятиліттями. |"
+        "q": "punto stoffa",
+        "a": "м'яко підтримує силует, приховуючи дрібні недоліки та забезпечуючи впевнену посадку, характерну для преміального трикотажу."
       },
       {
-        "q": "Вовна може викликати поколювання або дискомфорт.",
-        "a": "У моделях Luisa Spagnoli використовується лише відбірна незаймана вовна найвищого очищення. Вона гіпоалергенна і має шовковисту текстуру, гарантуючи абсолютний комфорт при контакті зі шкірою."
+        "q": "Складно доглядати за виробом зі 100% вовни",
+        "a": "Для збереження довговічності та благородного вигляду ми рекомендуємо професійну суху чистку. Завдяки якості волокна Merinfleur, виріб практично не піддається пілінгу і зберігає форму десятиліттями. | [Вовна може викликати поколювання або дискомфорт.] -> У моделях Luisa Spagnoli використовується лише відбірна незаймана вовна найвищого очищення. Вона гіпоалергенна і має шовковисту текстуру, гарантуючи абсолютний комфорт при контакті зі шкірою."
       },
       {
-        "q": "Водолазка без рукавів здається непрактичною для холодного сезону.",
+        "q": "Водолазка без рукавів здається непрактичною для холодного сезону",
         "a": "Ця модель спеціально розроблена як базовий шар для подіумних образів. Вона зберігає тепло тіла, при цьому відсутність рукавів забезпечує ідеальну посадку і свободу рухів під вузькими рукавами наших жакетів та пальто."
       },
       {
-        "q": "Контрастна обробка може виглядати занадто графічно.",
+        "q": "Контрастна обробка може виглядати занадто графічно",
         "a": "Навпаки, делікатні лінії оздоблення підкреслюють архітектурність крою і дозволяють легко комбінувати топ з аксесуарами та взуттям в аналогічній колірній гамі, створюючи завершений образ."
       },
       {
-        "q": "Модель занадто сильно облягає фігуру.",
-        "a": "Щільна структура в'язки «punto stoffa» м'яко підтримує силует, приховуючи дрібні недоліки та забезпечуючи впевнену посадку, характерну для преміального трикотажу."
+        "q": "Модель занадто сильно облягає фігуру",
+        "a": "Щільна структура в'язки."
       },
       {
-        "q": "Складно доглядати за виробом зі 100% вовни.",
+        "q": "punto stoffa",
+        "a": "м'яко підтримує силует, приховуючи дрібні недоліки та забезпечуючи впевнену посадку, характерну для преміального трикотажу."
+      },
+      {
+        "q": "Складно доглядати за виробом зі 100% вовни",
         "a": "Для збереження довговічності та благородного вигляду ми рекомендуємо професійну суху чистку. Завдяки якості волокна Merinfleur, виріб практично не піддається пілінгу і зберігає форму роками."
       }
     ]

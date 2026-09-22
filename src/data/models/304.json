@@ -239,141 +239,173 @@
     ],
     "ru": [
       {
-        "q": "Букле может полнить или выглядеть слишком объемно.",
+        "q": "Букле может полнить или выглядеть слишком объемно",
         "a": "Уточните, что данная модель имеет выверенную посадку regular fit и потайную застежку на крючки, что позволяет сохранить плоский и четкий силуэт, в отличие от моделей на крупных пуговицах."
       },
       {
-        "q": "Ткань содержит полиэстер.",
+        "q": "Ткань содержит полиэстер",
         "a": "Объясните, что 42% технологичных волокон в сочетании с хлопком и шерстью необходимы для сохранения формы букле, предотвращения деформации и обеспечения долговечности этой деликатной фактуры."
       },
       {
-        "q": "Застежка на крючки кажется неудобной.",
-        "a": "Продемонстрируйте, как легко они застегиваются, и подчеркните, что такое решение создает эффект «бесшовного» фасада, делая жакет более элегантным и подходящим для вечерних выходов."
+        "q": "Застежка на крючки кажется неудобной",
+        "a": "Продемонстрируйте, как легко они застегиваются, и подчеркните, что такое решение создает эффект."
       },
       {
-        "q": "Меланж сложно сочетать с другими вещами.",
+        "q": "бесшовного",
+        "a": "фасада, делая жакет более элегантным и подходящим для вечерних выходов. [] -> Покажите вариант стайлинга с брюками в стиле."
+      },
+      {
+        "q": "карго",
+        "a": "или широкими брюками Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg чтобы снизить градус формальности и перевести жакет в категорию остромодного городского стиля."
+      },
+      {
+        "q": "Меланж сложно сочетать с другими вещами",
         "a": "Меланж 3285 в черно-белой гамме является нейтральной базой. Он идеально гармонирует с любыми однотонными вещами черного, белого или пастельных оттенков, как в предложенных нами Total Looks."
       }
     ],
     "ar": [
       {
-        "q": "قد يجعل البوكلي (Bouclé) القوام يبدو ممتلئاً أو ضخماً.",
+        "q": "قد يجعل البوكلي (Bouclé) القوام يبدو ممتلئاً أو ضخماً",
         "a": "وضحي أن هذا الموديل يتمتع بقصة regular fit دقيقة وإغلاق مخفي بخطافات، مما يسمح بالحفاظ على قوام مسطح وواضح، على عكس الموديلات ذات الأزرار الكبيرة."
       },
       {
-        "q": "يحتوي القماش على البوليستر.",
+        "q": "يحتوي القماش على البوليستر",
         "a": "اشرحي أن 42% من الألياف التكنولوجية مع القطن والصوف ضرورية للحفاظ على شكل البوكلي ومنع التشوه وضمان متانة هذه الخامة الرقيقة."
       },
       {
-        "q": "تبدو الخطافات غير مريحة.",
-        "a": "اعرضي مدى سهولة إغلاقها، وأكدي أن هذا الحل يخلق تأثيراً أمامياً"
+        "q": "تبدو الخطافات غير مريحة",
+        "a": "اعرضي مدى سهولة إغلاقها، وأكدي أن هذا الحل يخلق تأثيراً أمامياً."
       }
     ],
     "ka": [
       {
-        "q": "ბუკლემ შესაძლოა გაგასუქოთ ან ზედმეტად მოცულობითად გამოიყურებოდეს.",
+        "q": "ბუკლემ შესაძლოა გაგასუქოთ ან ზედმეტად მოცულობითად გამოიყურებოდეს",
         "a": "დააზუსტეთ, რომ ამ მოდელს აქვს დახვეწილი regular fit მორგება და ფარული შესაკრავი კაუჭებზე, რაც საშუალებას იძლევა შევინარჩუნოთ ბრტყელი და მკაფიო სილუეტი, დიდი ღილების მქონე მოდელებისგან განსხვავებით."
       },
       {
-        "q": "ქსოვილი შეიცავს პოლიესტერს.",
+        "q": "ქსოვილი შეიცავს პოლიესტერს",
         "a": "აუხსენით, რომ 42% ტექნოლოგიური ბოჭკო ბამბასთან და მატყლთან ერთად აუცილებელია ბუკლეს ფორმის შესანარჩუნებლად, დეფორმაციის თავიდან ასაცილებლად და ამ დელიკატური ფაქტურის გამძლეობის უზრუნველსაყოფად."
       },
       {
-        "q": "კაუჭებზე შესაკრავი მოუხერხებელი ჩანს.",
-        "a": "აჩვენეთ, თუ რამდენად ადვილად იკვრება ისინი და ხაზგასმით აღნიშნეთ, რომ ასეთი გადაწყვეტა ქმნის „უწყვეტი“ ფასადის ეფექტს, რაც ჟაკეტს უფრო ელეგანტურს ხდის და შესაფერისს საღამოს გასასვლელებისთვის."
+        "q": "კაუჭებზე შესაკრავი მოუხერხებელი ჩანს",
+        "a": "აჩვენეთ, თუ რამდენად ადვილად იკვრება ისინი და ხაზგასმით აღნიშნეთ, რომ ასეთი გადაწყვეტა ქმნის „უწყვეტი“ ფასადის ეფექტს, რაც ჟაკეტს უფრო ელეგანტურს ხდის და შესაფერისს საღამოს გასასვლელებისთვის. [] -> აჩვენეთ სტაილინგის ვარიანტი „კარგო“ სტილის შარვალთან ან Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg ფართო შარვალთან ერთად, რათა შეამციროთ ფორმალობის ხარისხი და გადაიყვანოთ ჟაკეტი ულტრამოდური ურბანული სტილის კატეგორიაში."
       },
       {
-        "q": "მელანჟი სხვა ნივთებთან რთული შესახამებელია.",
+        "q": "მელანჟი სხვა ნივთებთან რთული შესახამებელია",
         "a": "მელანჟი 3285 შავ-თეთრ გამაში არის ნეიტრალური ბაზა. იგი იდეალურად ჰარმონიზდება ნებისმიერ ერთფეროვან შავ, თეთრ ან პასტელურ ტონებში გადაწყვეტილ ნივთთან, როგორც ჩვენს მიერ შემოთავაზებულ Total Looks-ში."
       }
     ],
     "hy": [
       {
         "q": "Բուկլեն կարող է գիրացնել կամ չափազանց ծավալուն տեսք ունենալ",
-        "a": "Պարզաբանեք, որ այս մոդելն ունի հղկված regular fit ձևվածք և ճարմանդների վրա թաքնված փակվածք, ինչը թույլ է տալիս պահպանել տափակ և հստակ ուրվագիծ՝ ի տարբերություն խոշոր կոճակներով մոդելների"
+        "a": "Պարզաբանեք, որ այս մոդելն ունի հղկված regular fit ձևվածք և ճարմանդների վրա թաքնված փակվածք, ինչը թույլ է տալիս պահպանել տափակ և հստակ ուրվագիծ՝ ի տարբերություն խոշոր կոճակներով մոդելների."
       },
       {
         "q": "Գործվածքը պարունակում է պոլիեսթեր",
-        "a": "Բացատրեք, որ բամբակի և բրդի հետ համադրված 42% տեխնոլոգիական մանրաթելերն անհրաժեշտ են բուկլեի ձևը պահպանելու, դեֆորմացիան կանխելու և այս նուրբ հյուսվածքի երկարակեցությունն ապահովելու համար"
+        "a": "Բացատրեք, որ բամբակի և բրդի հետ համադրված 42% տեխնոլոգիական մանրաթելերն անհրաժեշտ են բուկլեի ձևը պահպանելու, դեֆորմացիան կանխելու և այս նուրբ հյուսվածքի երկարակեցությունն ապահովելու համար."
       },
       {
         "q": "Ճարմանդներով փակվածքը անհարմար է թվում",
-        "a": "Ցույց տվեք, թե որքան հեշտ են դրանք փակվում, և ընդգծեք, որ նման լուծումը ստեղծում է «անզգույն» ճակատամասի էֆեկտ՝ ժակետն ավելի էլեգանտ դարձնելով և հարմար երեկոյան ելքերի համար"
+        "a": "Ցույց տվեք, թե որքան հեշտ են դրանք փակվում, և ընդգծեք, որ նման լուծումը ստեղծում է."
+      },
+      {
+        "q": "անզգույն",
+        "a": "ճակատամասի էֆեկտ՝ ժակետն ավելի էլեգանտ դարձնելով և հարմար երեկոյան ելքերի համար: [] -> Ցույց տվեք ոճավորման տարբերակ."
+      },
+      {
+        "q": "կարգո",
+        "a": "ոճի տաբատների կամ Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg լայն տաբատների հետ, որպեսզի մեղմացնեք ձևականությունը և ժակետը դասեք սուր-նորաձև քաղաքային ոճի կատեգորիային."
       },
       {
         "q": "Մելանժը դժվար է համադրել այլ իրերի հետ",
-        "a": "Սև և սպիտակ գամմայի 3285 մելանժը չեզոք հիմք է: Այն կատարյալ ներդաշնակ է սև, սպիտակ կամ պաստելային երանգների ցանկացած միագույն իրերի հետ, ինչպես մեր առաջարկած Total Looks-ում"
+        "a": "Սև և սպիտակ գամմայի 3285 մելանժը չեզոք հիմք է: Այն կատարյալ ներդաշնակ է սև, սպիտակ կամ պաստելային երանգների ցանկացած միագույն իրերի հետ, ինչպես մեր առաջարկած Total Looks-ում."
       }
     ],
     "lv": [
       {
-        "q": "Buklē var padarīt pilnīgāku vai izskatīties pārāk apjomīgi.",
+        "q": "Buklē var padarīt pilnīgāku vai izskatīties pārāk apjomīgi",
         "a": "Precizējiet, ka šim modelim ir izsvērts regular fit piegriezums un paslēpta āķīšu aizdare, kas ļauj saglabāt plakanu un skaidru siluetu, atšķirībā no modeļiem ar lielām pogām."
       },
       {
-        "q": "Audums satur poliesteru.",
+        "q": "Audums satur poliesteru",
         "a": "Paskaidrojiet, ka 42% tehnoloģisko šķiedru kombinācijā ar kokvilnu un vilnu ir nepieciešami buklē formas saglabāšanai, deformācijas novēršanai un šīs delikātās faktūras ilgmūžības nodrošināšanai."
       },
       {
-        "q": "Āķīšu aizdare šķiet neērta.",
-        "a": "Demonstrējiet, cik viegli tie aizveras, un uzsveriet, ka šāds risinājums rada «bezvīļu» fasādes efektu, padarot žaketi elegantāku un piemērotāku vakara iznācieniem."
+        "q": "Āķīšu aizdare šķiet neērta",
+        "a": "Demonstrējiet, cik viegli tie aizveras, un uzsveriet, ka šāds risinājums rada."
       },
       {
-        "q": "Melanžu ir grūti kombinēt ar citām lietām.",
+        "q": "bezvīļu",
+        "a": "fasādes efektu, padarot žaketi elegantāku un piemērotāku vakara iznācieniem. [] -> Parādiet stailinga variantu ar."
+      },
+      {
+        "q": "cargo",
+        "a": "stila biksēm vai platām Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg biksēm, lai mazinātu formalitātes pakāpi un pārceltu žaketi uz aktuālā pilsētas stila kategoriju."
+      },
+      {
+        "q": "Melanžu ir grūti kombinēt ar citām lietām",
         "a": "Melanžs 3285 melnbaltajā gammā ir neitrāla bāze. Tas ideāli harmonē ar jebkurām vienkrāsainām melnas, baltas vai pasteļtoņu lietām, kā tas ir mūsu piedāvātajos Total Looks."
       }
     ],
     "lt": [
       {
-        "q": "Buklė audinys gali storinti arba atrodyti per daug tūrinis.",
+        "q": "Buklė audinys gali storinti arba atrodyti per daug tūrinis",
         "a": "Patikslinkite, kad šis modelis pasižymi suderintu „regular fit“ kirpimu ir paslėptais kabliukais, kas leidžia išlaikyti plokščią ir aiškų siluetą, skirtingai nei modeliai su didelėmis sagomis."
       },
       {
-        "q": "Audinyje yra poliesterio.",
+        "q": "Audinyje yra poliesterio",
         "a": "Paaiškinkite, kad 42% technologinio pluošto derinys su medvilne ir vilna yra būtinas buklė audinio formos išlaikymui, deformacijos prevencijai ir šios subtilios faktūros ilgaamžiškumui užtikrinti."
       },
       {
-        "q": "Užsegimas kabliukais atrodo nepatogus.",
-        "a": "Pademonstruokite, kaip lengvai jie užsisega, ir pabrėžkite, kad toks sprendimas sukuria „besiūlio“ fasado efektą, padarydamas švarką elegantiškesnį ir tinkamesnį vakariniams išėjimams."
+        "q": "Užsegimas kabliukais atrodo nepatogus",
+        "a": "Pademonstruokite, kaip lengvai jie užsisega, ir pabrėžkite, kad toks sprendimas sukuria „besiūlio“ fasado efektą, padarydamas švarką elegantiškesnį ir tinkamesnį vakariniams išėjimams. [] -> Parodykite stiliaus variantą su „cargo“ stiliaus kelnėmis ar plačiomis „Oneta 0101“ (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg kelnėmis, kad sumažintumėte formalumo lygį ir paverstumėte švarką itin madingo miesto stiliaus dalimi."
       },
       {
-        "q": "Melanžą sunku derinti su kitais drabužiais.",
+        "q": "Melanžą sunku derinti su kitais drabužiais",
         "a": "3285 melanžas juodai baltoje gamoje yra neutralus pagrindas. Jis idealiai dera su bet kokiais vienspalviais juodos, baltos ar pastelinių atspalvių drabužiais, kaip mūsų siūlomuose „Total Looks“."
       }
     ],
     "pl": [
       {
-        "q": "Bukla może pogrubiać lub wyglądać zbyt objętościowo.",
+        "q": "Bukla może pogrubiać lub wyglądać zbyt objętościowo",
         "a": "Wyjaśnij, że ten model ma przemyślane dopasowanie regular fit oraz ukryte zapięcie na haftki, co pozwala zachować płaską i wyraźną sylwetkę, w odróżnieniu od modeli na dużych guzikach."
       },
       {
-        "q": "Tkanina zawiera poliester.",
+        "q": "Tkanina zawiera poliester",
         "a": "Wyjaśnij, że 42% zaawansowanych technologicznie włókien w połączeniu z bawełną i wełną jest niezbędne do zachowania formy bukli, zapobiegania deformacji i zapewnienia trwałości tej delikatnej fakturze."
       },
       {
-        "q": "Zapięcie na haftki wydaje się niewygodne.",
-        "a": "Zaprezentuj, jak łatwo się zapinają, i podkreśl, że takie rozwiązanie tworzy efekt „bezszwowego” frontu, czyniąc żakiet bardziej eleganckim i odpowiednim na wieczorowe wyjścia."
+        "q": "Zapięcie na haftki wydaje się niewygodne",
+        "a": "Zaprezentuj, jak łatwo się zapinają, i podkreśl, że takie rozwiązanie tworzy efekt „bezszwowego” frontu, czyniąc żakiet bardziej eleganckim i odpowiednim na wieczorowe wyjścia. [] -> Pokaż wariant stylizacji ze spodniami w stylu „cargo” lub szerokimi spodniami Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg aby obniżyć stopień formalności i przenieść żakiet do kategorii modnego stylu miejskiego."
       },
       {
-        "q": "Melanż trudno łączyć z innymi rzeczami.",
+        "q": "Melanż trudno łączyć z innymi rzeczami",
         "a": "Melanż 3285 w czarno-białej gamie jest neutralną bazą. Idealnie współgra z wszelkimi jednokolorowymi rzeczami w kolorze czarnym, białym lub w pastelowych odcieniach, jak w zaproponowanych przez nas Total Looks."
       }
     ],
     "uk": [
       {
-        "q": "Букле може повнити або виглядати занадто об'ємно.",
+        "q": "Букле може повнити або виглядати занадто об'ємно",
         "a": "Уточніть, що дана модель має вивірену посадку regular fit та потайну застібку на гачки, що дозволяє зберегти плоский та чіткий силует, на відміну від моделей на великих ґудзиках."
       },
       {
-        "q": "Тканина містить поліестер.",
+        "q": "Тканина містить поліестер",
         "a": "Поясніть, що 42% технологічних волокон у поєднанні з бавовною та вовною необхідні для збереження форми букле, запобігання деформації та забезпечення довговічності цієї делікатної фактури."
       },
       {
-        "q": "Застібка на гачки здається незручною.",
-        "a": "Продемонструйте, як легко вони застібаються, і підкресліть, що таке рішення створює ефект «безшовного» фасаду, роблячи жакет більш елегантним та відповідним для вечірніх виходів."
+        "q": "Застібка на гачки здається незручною",
+        "a": "Продемонструйте, як легко вони застібаються, і підкресліть, що таке рішення створює ефект."
       },
       {
-        "q": "Меланж складно поєднувати з іншими речами.",
+        "q": "безшовного",
+        "a": "фасаду, роблячи жакет більш елегантним та відповідним для вечірніх виходів. [] -> Покажіть варіант стайлінгу з брюками в стилі."
+      },
+      {
+        "q": "карго",
+        "a": "або широкими брюками Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg щоб знизити градус формальності та перевести жакет у категорію гостромодного міського стилю."
+      },
+      {
+        "q": "Меланж складно поєднувати з іншими речами",
         "a": "Меланж 3285 у чорно-білій гамі є нейтральною базою. Він ідеально гармоніює з будь-якими однотонними речами чорного, білого або пастельних відтінків, як у запропонованих нами Total Looks."
       }
     ]

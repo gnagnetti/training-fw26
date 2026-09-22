@@ -213,30 +213,46 @@
   "objections": {
     "en": [
       {
-        "q": "A",
-        "a": "sleeveless vest On the contrary, the absence of sleeves makes it isn't practical for the perfect mid-layer under a coat or jacket, cold weather» retaining warmth in the torso area without restricting movement across the shoulders. «The chunky rib Note the structure of the knit: on the Maica might add volume» model, the rib is flat and runs vertically. This creates slimming lines that, in fact, discipline the silhouette. «The V-neck seems The piece is specifically designed to be worn as too deep» a second layer. Paired with the Lusia 3402 shirt or a turtleneck, the neckline becomes an elegant frame for the décolletage. «The wool might be Offer the client a tactile test. Pure virgin wool scratchy» (lana vergine) has particularly delicate fibers, ensuring exceptional comfort even with extended wear. «It's hard to pair Suggest following Look 63: straight-leg Optare bottoms with such 3326 trousers or jeans balance out the a voluminous top» texture of the vest, creating a harmonious, modern proportion"
+        "q": "A sleeveless vest On the contrary, the absence of sleeves makes it isn't practical for the perfect mid-layer under a coat or jacket, cold weather",
+        "a": "retaining warmth in the torso area without restricting movement across the shoulders."
+      },
+      {
+        "q": "The chunky rib Note the structure of the knit: on the Maica might add volume",
+        "a": "model, the rib is flat and runs vertically. This creates slimming lines that, in fact, discipline the silhouette."
+      },
+      {
+        "q": "The V-neck seems The piece is specifically designed to be worn as too deep",
+        "a": "a second layer. Paired with the Lusia 3402 shirt or a turtleneck, the neckline becomes an elegant frame for the dÃ©colletage."
+      },
+      {
+        "q": "The wool might be Offer the client a tactile test. Pure virgin wool scratchy",
+        "a": "(lana vergine) has particularly delicate fibers, ensuring exceptional comfort even with extended wear."
+      },
+      {
+        "q": "It's hard to pair Suggest following Look 63: straight-leg Optare bottoms with such 3326 trousers or jeans balance out the a voluminous top",
+        "a": "texture of the vest, creating a harmonious, modern proportion. ![](media/image70.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Жилет без Напротив, отсутствие рукавов делает его идеальным рукавов непрактичен средним слоем под пальто или жакет, сохраняя тепло для холодов",
-        "a": "в зоне корпуса и не стесняя движений в плечевом поясе."
+        "q": "Жилет без рукавов непрактичен для холодов",
+        "a": "> Напротив, отсутствие рукавов делает его идеальным промежуточным слоем под пальто или жакет, сохраняя тепло в области торса, не стесняя движений в плечах."
       },
       {
-        "q": "Крупный рубчик",
-        "a": "Обратите внимание на структуру вязки: в модели может добавить Maica рубчик плоский и направлен вертикально. объема Это создает стройнящие линии, которые, напротив, дисциплинируют силуэт."
+        "q": "Крупная вязка может добавить объема",
+        "a": "> Отметьте структуру вязки: в модели Maica рельеф плоский и направлен вертикально. Это создает стройнящие линии, которые дисциплинируют силуэт."
       },
       {
-        "q": "V-образный вырез Модель спроектирована специально для ношения вторым кажется слишком слоем. В сочетании с рубашкой Lusia 3402 или глубоким",
-        "a": "водолазкой вырез становится элегантной рамкой для портретной зоны."
+        "q": "V-образный вырез кажется слишком глубоким",
+        "a": "> Изделие создано как второй слой. В паре с рубашкой Lusia 3402 или водолазкой вырез становится элегантной рамкой для декольте."
       },
       {
-        "q": "Шерсть может",
-        "a": "Предложите клиенту тактильный тест. Чистая быть колючей девственная шерсть (lana vergine) отличается особой деликатностью волокон, что обеспечивает исключительный комфорт даже при длительной носке."
+        "q": "Шерсть может колоться",
+        "a": "> Предложите тактильный тест. Чистая натуральная шерсть (lana vergine) обладает особо деликатными волокнами, гарантирующими исключительный комфорт при длительном ношении."
       },
       {
-        "q": "Сложно подобрать",
-        "a": "Посоветуйте следовать Look 63: прямые брюки низ под такой Optare 3326 или джинсы уравновешивают фактуру объемный верх жилета, создавая гармоничный и современный баланс пропорций."
+        "q": "Сложно сочетать с объемным верхом",
+        "a": "> Предложите образ 63: прямые брюки Optare 3326 или джинсы уравновешивают фактуру жилета, создавая гармоничные, современные пропорции."
       }
     ],
     "ar": [
@@ -258,7 +274,7 @@
       },
       {
         "q": "من الصعب اختيار الجزء السفلي مع هذا الجزء العلوي الضخم",
-        "a": "انصح باتباع Look 63: البنطلون المستقيم Optare 3326 أو الجينز يوازنان قوام الصدرية، مما يخلق توازناً متناغماً وعصرياً في النسب."
+        "a": "انصح باتباع Look 63: البنطلون المستقيم Optare 3326 أو الجينز يوازنان قوام الصدرية، مما يخلق توازناً متناغماً وعصرياً في النسب. ![](media/image70.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -280,7 +296,7 @@
       },
       {
         "q": "რთულია ასეთი მოცულობითი ზედატანისთვის ქვედა ნაწილის შერჩევა",
-        "a": "ურჩიეთ მიჰყვეთ Look 63-ს: სწორი შარვალი Optare 3326 ან ჯინსები აბალანსებს ჟილეტის ფაქტურას და ქმნის პროპორციების ჰარმონიულ და თანამედროვე ბალანსს."
+        "a": "ურჩიეთ მიჰყვეთ Look 63-ს: სწორი შარვალი Optare 3326 ან ჯინსები აბალანსებს ჟილეტის ფაქტურას და ქმნის პროპორციების ჰარმონიულ და თანამედროვე ბალანსს. ![](media/image70.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -302,7 +318,7 @@
       },
       {
         "q": "Բարդ է ընտրել ներքնազգեստ նման ծավալուն վերնամասի համար",
-        "a": "Խորհուրդ տվեք հետևել Look 63-ին. Optare 3326 ուղիղ տաբատները կամ ջինսերը հավասարակշռում են ժիլետի ֆակտուրան՝ ստեղծելով համաչափությունների ներդաշնակ և ժամանակակից բալանս։."
+        "a": "Խորհուրդ տվեք հետևել Look 63-ին. Optare 3326 ուղիղ տաբատները կամ ջինսերը հավասարակշռում են ժիլետի ֆակտուրան՝ ստեղծելով համաչափությունների ներդաշնակ և ժամանակակից բալանս։ ![](media/image70.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
@@ -369,20 +385,20 @@
         "a": "у зоні корпусу і не обмежуючи рухів у плечовому поясі."
       },
       {
-        "q": "Великий рубчик",
-        "a": "Зверніть увагу на структуру в'язки: в моделі може додати Maica рубчик плаский і спрямований вертикально. об'єму Це створює стрункі лінії, які, навпаки, дисциплінують силует."
+        "q": "Великий рубчик Зверніть увагу на структуру в'язки: в моделі може додати Maica рубчик плаский і спрямований вертикально. об'єму",
+        "a": "Це створює стрункі лінії, які, навпаки, дисциплінують силует."
       },
       {
         "q": "V-подібний виріз Модель спроектована спеціально для носіння другим здається занадто шаром. У поєднанні з сорочкою Lusia 3402 або глибоким",
         "a": "водолазкою виріз стає елегантною рамкою для портретної зони."
       },
       {
-        "q": "Шерсть може",
-        "a": "Запропонуйте клієнту тактильний тест. Чиста бути колючою дівственна шерсть (lana vergine) відрізняється особливою делікатністю волокон, що забезпечує винятковий комфорт навіть при тривалому носінні."
+        "q": "Шерсть може Запропонуйте клієнту тактильний тест. Чиста бути колючою",
+        "a": "дівственна шерсть (lana vergine) відрізняється особливою делікатністю волокон, що забезпечує винятковий комфорт навіть при тривалому носінні."
       },
       {
-        "q": "Складно підібрати",
-        "a": "Порадьте дотримуватися Look 63: прямі штани низ під такий Optare 3326 або джинси врівноважують фактуру об'ємний верх жилета, створюючи гармонійний і сучасний баланс пропорцій."
+        "q": "Складно підібрати Порадьте дотримуватися Look 63: прямі штани низ під такий Optare 3326 або джинси врівноважують фактуру об'ємний верх",
+        "a": "жилета, створюючи гармонійний і сучасний баланс пропорцій. ![](media/image70.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

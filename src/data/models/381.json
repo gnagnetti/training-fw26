@@ -94,56 +94,182 @@
     ]
   },
   "objections": {
-    "en": [],
-    "ru": [],
+    "en": [
+      {
+        "q": "Data not available in official sources",
+        "a": "Data not available in official sources."
+      },
+      {
+        "q": "Data not available in official sources",
+        "a": "Data not available in official sources."
+      },
+      {
+        "q": "Data not available in official sources",
+        "a": "Data not available in official sources."
+      },
+      {
+        "q": "Data not available in official sources",
+        "a": "Data not available in official sources."
+      },
+      {
+        "q": "Data not available in official sources",
+        "a": "Data not available in official sources."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Данные отсутствуют в официальных источниках",
+        "a": "Данные отсутствуют в официальных источниках."
+      },
+      {
+        "q": "Данные отсутствуют в официальных источниках",
+        "a": "Данные отсутствуют в официальных источниках."
+      },
+      {
+        "q": "Данные отсутствуют в официальных источниках",
+        "a": "Данные отсутствуют в официальных источниках."
+      },
+      {
+        "q": "Данные отсутствуют в официальных источниках",
+        "a": "Данные отсутствуют в официальных источниках."
+      },
+      {
+        "q": "Данные отсутствуют в официальных источниках",
+        "a": "Данные отсутствуют в официальных источниках."
+      }
+    ],
     "ar": [],
     "ka": [
       {
         "q": "მონაცემები არ არის ოფიციალურ წყაროებში",
-        "a": "მონაცემები არ არის ოფიციალურ წყაროებში"
+        "a": "მონაცემები არ არის ოფიციალურ წყაროებში."
       },
       {
         "q": "მონაცემები არ არის ოფიციალურ წყაროებში",
-        "a": "მონაცემები არ არის ოფიციალურ წყაროებში"
+        "a": "მონაცემები არ არის ოფიციალურ წყაროებში."
       },
       {
         "q": "მონაცემები არ არის ოფიციალურ წყაროებში",
-        "a": "მონაცემები არ არის ოფიციალურ წყაროებში"
+        "a": "მონაცემები არ არის ოფიციალურ წყაროებში."
       },
       {
         "q": "მონაცემები არ არის ოფიციალურ წყაროებში",
-        "a": "მონაცემები არ არის ოფიციალურ წყაროებში"
+        "a": "მონაცემები არ არის ოფიციალურ წყაროებში."
       },
       {
         "q": "მონაცემები არ არის ოფიციალურ წყაროებში",
-        "a": "მონაცემები არ არის ოფიციალურ წყაროებში"
+        "a": "მონაცემები არ არის ოფიციალურ წყაროებში."
       }
     ],
-    "hy": [],
-    "lv": [],
-    "lt": [],
+    "hy": [
+      {
+        "q": "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+        "a": "Տվյալները պաշտոնական աղբյուրներում բացակայում են."
+      },
+      {
+        "q": "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+        "a": "Տվյալները պաշտոնական աղբյուրներում բացակայում են."
+      },
+      {
+        "q": "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+        "a": "Տվյալները պաշտոնական աղբյուրներում բացակայում են."
+      },
+      {
+        "q": "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+        "a": "Տվյալները պաշտոնական աղբյուրներում բացակայում են."
+      },
+      {
+        "q": "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+        "a": "Տվյալները պաշտոնական աղբյուրներում բացակայում են."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Dati oficiālajos avotos nav pieejami",
+        "a": "Dati oficiālajos avotos nav pieejami."
+      },
+      {
+        "q": "Dati oficiālajos avotos nav pieejami",
+        "a": "Dati oficiālajos avotos nav pieejami."
+      },
+      {
+        "q": "Dati oficiālajos avotos nav pieejami",
+        "a": "Dati oficiālajos avotos nav pieejami."
+      },
+      {
+        "q": "Dati oficiālajos avotos nav pieejami",
+        "a": "Dati oficiālajos avotos nav pieejami."
+      },
+      {
+        "q": "Dati oficiālajos avotos nav pieejami",
+        "a": "Dati oficiālajos avotos nav pieejami."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Duomenų oficialiuose šaltiniuose nėra",
+        "a": "Duomenų oficialiuose šaltiniuose nėra."
+      },
+      {
+        "q": "Duomenų oficialiuose šaltiniuose nėra",
+        "a": "Duomenų oficialiuose šaltiniuose nėra."
+      },
+      {
+        "q": "Duomenų oficialiuose šaltiniuose nėra",
+        "a": "Duomenų oficialiuose šaltiniuose nėra."
+      },
+      {
+        "q": "Duomenų oficialiuose šaltiniuose nėra",
+        "a": "Duomenų oficialiuose šaltiniuose nėra."
+      },
+      {
+        "q": "Duomenų oficialiuose šaltiniuose nėra",
+        "a": "Duomenų oficialiuose šaltiniuose nėra."
+      }
+    ],
     "pl": [
       {
         "q": "Dane są niedostępne w oficjalnych źródłach",
-        "a": "Dane są niedostępne w oficjalnych źródłach"
+        "a": "Dane są niedostępne w oficjalnych źródłach."
       },
       {
         "q": "Dane są niedostępne w oficjalnych źródłach",
-        "a": "Dane są niedostępne w oficjalnych źródłach"
+        "a": "Dane są niedostępne w oficjalnych źródłach."
       },
       {
         "q": "Dane są niedostępne w oficjalnych źródłach",
-        "a": "Dane są niedostępne w oficjalnych źródłach"
+        "a": "Dane są niedostępne w oficjalnych źródłach."
       },
       {
         "q": "Dane są niedostępne w oficjalnych źródłach",
-        "a": "Dane są niedostępne w oficjalnych źródłach"
+        "a": "Dane są niedostępne w oficjalnych źródłach."
       },
       {
         "q": "Dane są niedostępne w oficjalnych źródłach",
-        "a": "Dane są niedostępne w oficjalnych źródłach"
+        "a": "Dane są niedostępne w oficjalnych źródłach."
       }
     ],
-    "uk": []
+    "uk": [
+      {
+        "q": "Дані відсутні в офіційних джерелах",
+        "a": "Дані відсутні в офіційних джерелах."
+      },
+      {
+        "q": "Дані відсутні в офіційних джерелах",
+        "a": "Дані відсутні в офіційних джерелах."
+      },
+      {
+        "q": "Дані відсутні в офіційних джерелах",
+        "a": "Дані відсутні в офіційних джерелах."
+      },
+      {
+        "q": "Дані відсутні в офіційних джерелах",
+        "a": "Дані відсутні в офіційних джерелах."
+      },
+      {
+        "q": "Дані відсутні в офіційних джерелах",
+        "a": "Дані відсутні в офіційних джерелах."
+      }
+    ]
   }
 }

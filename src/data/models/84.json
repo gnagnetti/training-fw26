@@ -200,67 +200,75 @@
   "objections": {
     "en": [
       {
-        "q": "A deep neckline may seem too bold.",
+        "q": "A deep neckline may seem too bold",
         "a": "The 'C' neckline is designed to softly accentuate the bustline while preserving elegance and refinement. We recommend completing it with one of our necklaces to add a note of restraint."
       },
       {
-        "q": "Velvet is a challenging material to care for.",
+        "q": "Velvet is a challenging material to care for",
         "a": "The Gray dress is crafted from the finest silk-and-viscose velvet, ensuring the piece's longevity when cared for through professional dry cleaning."
       },
       {
-        "q": "Short sleeves are not entirely practical for a winter evening.",
+        "q": "Short sleeves are not entirely practical for a winter evening",
         "a": "This piece is designed for indoor formal occasions. As a complement for your evening out, we suggest our luxurious Richiesta stoles from the collection."
       },
       {
-        "q": "A below-the-knee length may call for a certain height.",
+        "q": "A below-the-knee length may call for a certain height",
         "a": "Thanks to its fitted silhouette and emphasis at the neckline, the Gray dress visually elongates the proportions. Paired with our Ullano A heeled pumps, the look will be flawless for any figure type."
       },
       {
-        "q": "The dress looks suitable only for evening wear.",
+        "q": "The dress looks suitable only for evening wear",
         "a": "This is indeed a statement piece for special occasions. However, its classic midi silhouette also lends itself to cocktail events, simply by exchanging the accessories for something more understated."
       }
     ],
     "ru": [
       {
-        "q": "Глубокое декольте может выглядеть слишком смело.",
-        "a": "Дизайн выреза в форме «С» разработан так, чтобы мягко подчеркивать линию груди, сохраняя при этом элегантность и благородство образа. Мы рекомендуем дополнить его нашими колье, чтобы добавить сдержанности."
+        "q": "Глубокий вырез кажется слишком смелым",
+        "a": "Вырез."
       },
       {
-        "q": "Бархат — сложный материал в уходе.",
-        "a": "Для изготовления платья Gray используется бархат высочайшего качества на основе шелка и вискозы, что обеспечивает долговечность изделия при условии профессиональной сухой чистки."
+        "q": "C",
+        "a": "был создан, чтобы деликатно подчеркнуть линию декольте, сохраняя при этом безупречную элегантность. Мы рекомендуем дополнить образ одним из наших колье, чтобы придать ему ноту благородной сдержанности."
       },
       {
-        "q": "Короткие рукава не совсем практичны для зимнего вечера.",
-        "a": "Эта модель предназначена для закрытых торжественных мероприятий. В качестве дополнения для выхода мы предлагаем роскошные столы Richiesta из нашей коллекции."
+        "q": "Бархат требует сложного ухода",
+        "a": "Платье Gray выполнено из премиального шелкового бархата, что гарантирует долговечность изделия при условии профессиональной химчистки."
       },
       {
-        "q": "Длина ниже колена может требовать определенного роста.",
-        "a": "Благодаря приталенному силуэту и акценту на верху, платье Gray визуально вытягивает пропорции. В сочетании с нашими лодочками на каблуке Ullano A образ будет безупречным для любого типа фигуры."
+        "q": "Короткий рукав не совсем практичен для зимнего вечера",
+        "a": "Это изделие создано для торжественных мероприятий в помещении. В качестве изысканного дополнения мы предлагаем наши роскошные палантины Richiesta."
       },
       {
-        "q": "Платье выглядит только как вечернее.",
-        "a": "Это действительно статусная вещь для особых случаев. Однако классическая форма миди позволяет использовать его и для коктейльных выходов, меняя лишь аксессуары на более лаконичные."
+        "q": "Длина ниже колена требует определенного роста",
+        "a": "Благодаря архитектурному силуэту и акценту на линии декольте, платье Gray визуально вытягивает пропорции. В сочетании с нашими лодочками Ullano A образ будет безупречен для любого типа фигуры."
+      },
+      {
+        "q": "Платье выглядит исключительно как вечерний вариант",
+        "a": "Это действительно эффектный наряд для особых случаев. Однако его классический силуэт миди позволяет адаптировать его и для коктейльных мероприятий, просто сменив аксессуары на более лаконичные."
       }
     ],
     "ar": [
       {
-        "q": "قد تبدو قصة الصدر العميقة جريئة أكثر من اللازم.",
-        "a": "صُمم تصميم الفتحة على شكل حرف «C» ليعزز خط الصدر بنعومة مع الحفاظ على الأناقة والرقي في الإطلالة. ننصح بتنسيقها مع قلائدنا لإضفاء لمسة من الرزانة."
+        "q": "قد تبدو قصة الصدر العميقة جريئة أكثر من اللازم",
+        "a": "صُمم تصميم الفتحة على شكل حرف."
       },
       {
-        "q": "المخمل مادة تتطلب عناية فائقة.",
+        "q": "C",
+        "a": "ليعزز خط الصدر بنعومة مع الحفاظ على الأناقة والرقي في الإطلالة. ننصح بتنسيقها مع قلائدنا لإضفاء لمسة من الرزانة."
+      },
+      {
+        "q": "المخمل مادة تتطلب عناية فائقة",
         "a": "يُصنع فستان Gray من أجود أنواع المخمل القائم على الحرير والفيسكوز، مما يضمن متانة القطعة بشرط العناية بها عبر التنظيف الجاف الاحترافي."
       },
       {
-        "q": "الأكمام القصيرة ليست عملية تماماً لأمسية شتوية.",
-        "a": "هذا الموديل مخصص للمناسبات الرسمية المغلقة. وكإضافة مثالية للخروج، نقترح أوشحة Richiesta الفاخرة من مجموعتنا."
+        "q": "الأكمام القصيرة ليست عملية تماماً لأمسية شتوية",
+        "a": "هذا الموديل مخصص للمناسبات الرسمية المغلقة. وكإضافة مثالية للخروج، نقترح أوشحة Richiesta الفاخرة (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg من مجموعتنا."
       },
       {
-        "q": "قد يتطلب الطول تحت الركبة قامة معينة.",
-        "a": "بفضل القصة المحددة للجسم والتركيز على الجزء العلوي، يمنح فستان Gray قواماً ممشوقاً بصرياً. وبالتنسيق مع أحذيتنا ذات الكعب العالي Ullano A، ستكون الإطلالة مثالية لأي شكل من أشكال الجسم."
+        "q": "قد يتطلب الطول تحت الركبة قامة معينة",
+        "a": "بفضل القصة المحددة للجسم والتركيز على الجزء العلوي، يمنح فستان Gray قواماً ممشوقاً بصرياً. وبالتنسيق مع أحذيتنا ذات الكعب العالي Ullano A (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ab7471c9-c1c6-4a62-b524-62d471856f2c-removebg-preview.png ستكون الإطلالة مثالية لأي شكل من أشكال الجسم."
       },
       {
-        "q": "يبدو الفستان كفستان سهرة فقط.",
+        "q": "يبدو الفستان كفستان سهرة فقط",
         "a": "إنها بالفعل قطعة استثنائية للمناسبات الخاصة. ومع ذلك، فإن القصة الكلاسيكية بطول ميدي تسمح بارتدائه في حفلات الكوكتيل أيضاً، مع تغيير الإكسسوارات فقط لتكون أكثر بساطة."
       }
     ],
@@ -310,85 +318,93 @@
     ],
     "lv": [
       {
-        "q": "Dziļš dekoltē var izskatīties pārāk drosmīgi.",
-        "a": "C\" formas izgriezuma dizains ir izstrādāts tā, lai maigi izceltu krūšu līniju, vienlaikus saglabājot tēla eleganci un cēlumu. Mēs iesakām to papildināt ar mūsu kaklarotām, lai piešķirtu atturību."
+        "q": "Dziļš dekoltē var izskatīties pārāk drosmīgi",
+        "a": "\"C\" formas izgriezuma dizains ir izstrādāts tā, lai maigi izceltu krūšu līniju, vienlaikus saglabājot tēla eleganci un cēlumu. Mēs iesakām to papildināt ar mūsu kaklarotām, lai piešķirtu atturību."
       },
       {
-        "q": "Samts ir sarežģīts materiāls kopšanā.",
+        "q": "Samts ir sarežģīts materiāls kopšanā",
         "a": "Kleitas Gray izgatavošanai tiek izmantots augstākās kvalitātes samts uz zīda un viskozes bāzes, kas nodrošina izstrādājuma ilgmūžību, ja tiek veikta profesionāla ķīmiskā tīrīšana."
       },
       {
-        "q": "Īsas piedurknes nav īsti praktiskas ziemas vakaram.",
-        "a": "Šis modelis ir paredzēts slēgtiem svinīgiem pasākumiem. Kā papildinājumu iziešanai mēs piedāvājam greznas stolas Richiesta no mūsu kolekcijas."
+        "q": "Īsas piedurknes nav īsti praktiskas ziemas vakaram",
+        "a": "Šis modelis ir paredzēts slēgtiem svinīgiem pasākumiem. Kā papildinājumu iziešanai mēs piedāvājam greznas stolas Richiesta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg no mūsu kolekcijas."
       },
       {
-        "q": "Garums zem ceļgala var prasīt noteiktu augumu.",
-        "a": "Pateicoties piegulošajam siluetam un akcentam uz augšdaļu, kleita Gray vizuāli pagarina proporcijas. Kombinācijā ar mūsu laiviņām uz papēža Ullano A tēls būs nevainojams jebkura tipa figūrai."
+        "q": "Garums zem ceļgala var prasīt noteiktu augumu",
+        "a": "Pateicoties piegulošajam siluetam un akcentam uz augšdaļu, kleita Gray vizuāli pagarina proporcijas. Kombinācijā ar mūsu laiviņām uz papēža Ullano A (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ab7471c9-c1c6-4a62-b524-62d471856f2c-removebg-preview.png tēls būs nevainojams jebkura tipa figūrai."
       },
       {
-        "q": "Kleita izskatās tikai kā vakarkleita.",
+        "q": "Kleita izskatās tikai kā vakarkleita",
         "a": "Šī patiešām ir statusa lieta īpašiem gadījumiem. Tomēr klasiskā midi forma ļauj to izmantot arī kokteiļpasākumiem, mainot tikai aksesuārus uz lakoniskākiem."
       }
     ],
     "lt": [
       {
-        "q": "Gili iškirptė gali atrodyti pernelyg drąsiai.",
+        "q": "Gili iškirptė gali atrodyti pernelyg drąsiai",
         "a": "„C“ formos iškirptės dizainas sukurtas taip, kad švelniai pabrėžtų krūtinės liniją, kartu išlaikant įvaizdžio eleganciją ir kilnumą. Rekomenduojame ją papildyti mūsų vėriniais, kad suteiktumėte daugiau santūrumo."
       },
       {
-        "q": "Aksomas — sudėtinga prižiūrima medžiaga.",
+        "q": "Aksomas — sudėtinga prižiūrima medžiaga",
         "a": "Suknelei Gray naudojamas aukščiausios kokybės aksomas šilko ir viskozės pagrindu, užtikrinantis gaminio ilgaamžiškumą tinkamai profesionaliai sausam valymui."
       },
       {
-        "q": "Ilgis žemiau kelių gali reikalauti tam tikro ūgio.",
-        "a": "Dėl prigludusio silueto ir akcento viršutinėje dalyje, suknelė Gray vizualiai ilgina proporcijas. Derinant su mūsų bateliais aukštu kulnu Ullano A, įvaizdis bus nepriekaištingas bet kokio tipo figūrai."
+        "q": "Trumpos rankovės nėra itin praktiškos žiemos vakarui",
+        "a": "Šis modelis skirtas uždaroms iškilmingoms šventėms. Kaip papildymą išėjimui siūlome prabangią skraistę Richiesta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg iš mūsų kolekcijos."
       },
       {
-        "q": "Suknelė atrodo tik kaip vakarinė.",
+        "q": "Ilgis žemiau kelių gali reikalauti tam tikro ūgio",
+        "a": "Dėl prigludusio silueto ir akcento viršutinėje dalyje, suknelė Gray vizualiai ilgina proporcijas. Derinant su mūsų bateliais aukštu kulnu Ullano A (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ab7471c9-c1c6-4a62-b524-62d471856f2c-removebg-preview.png įvaizdis bus nepriekaištingas bet kokio tipo figūrai."
+      },
+      {
+        "q": "Suknelė atrodo tik kaip vakarinė",
         "a": "Tai išties statusą pabrėžiantis drabužis ypatingoms progoms. Tačiau klasikinė midi forma leidžia jį naudoti ir kokteilių vakarėliams, tereikia pakeisti aksesuarus į lakoniškesnius."
       }
     ],
     "pl": [
       {
-        "q": "Głęboki dekolt może wydawać się zbyt śmiały.",
+        "q": "Głęboki dekolt może wydawać się zbyt śmiały",
         "a": "Design wycięcia w kształcie litery „C” został zaprojektowany tak, aby subtelnie podkreślać linię biustu, zachowując jednocześnie elegancję i szlachetność stylizacji. Rekomendujemy uzupełnienie go naszymi naszyjnikami, aby dodać całości powściągliwości."
       },
       {
-        "q": "Aksamit to materiał wymagający w pielęgnacji.",
+        "q": "Aksamit to materiał wymagający w pielęgnacji",
         "a": "Do wykonania sukni Gray wykorzystano aksamit najwyższej jakości na bazie jedwabiu i wiskozy, co zapewnia trwałość produktu pod warunkiem profesjonalnego czyszczenia chemicznego."
       },
       {
-        "q": "Krótkie rękawy nie są zbyt praktyczne na zimowy wieczór.",
-        "a": "Ten model przeznaczony jest na oficjalne uroczystości odbywające się wewnątrz pomieszczeń. Jako dodatek na wyjście proponujemy luksusowe etole Richiesta z naszej kolekcji."
+        "q": "Krótkie rękawy nie są zbyt praktyczne na zimowy wieczór",
+        "a": "Ten model przeznaczony jest na oficjalne uroczystości odbywające się wewnątrz pomieszczeń. Jako dodatek na wyjście proponujemy luksusowe etole Richiesta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg z naszej kolekcji."
       },
       {
-        "q": "Długość za kolano może wymagać określonego wzrostu.",
-        "a": "Dzięki dopasowanemu krojowi i akcentowi na górnej części, sukienka Gray optycznie wydłuża proporcje. W połączeniu z naszymi czółenkami na obcasie Ullano A stylizacja będzie nienaganna dla każdego typu sylwetki."
+        "q": "Długość za kolano może wymagać określonego wzrostu",
+        "a": "Dzięki dopasowanemu krojowi i akcentowi na górnej części, sukienka Gray optycznie wydłuża proporcje. W połączeniu z naszymi czółenkami na obcasie Ullano A (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ab7471c9-c1c6-4a62-b524-62d471856f2c-removebg-preview.png stylizacja będzie nienaganna dla każdego typu sylwetki."
       },
       {
-        "q": "Sukienka wygląda tylko na wieczorową.",
+        "q": "Sukienka wygląda tylko na wieczorową",
         "a": "To rzeczywiście sukienka o statusowym charakterze na specjalne okazje. Jednak klasyczny fason midi pozwala na wykorzystanie jej również podczas koktajlowych wyjść, zmieniając jedynie dodatki na bardziej minimalistyczne."
       }
     ],
     "uk": [
       {
-        "q": "Глибоке декольте може виглядати занадто сміливо.",
-        "a": "Дизайн вирізу у формі «С» розроблений так, щоб м'яко підкреслювати лінію грудей, зберігаючи при цьому елегантність та благородство образу. Ми рекомендуємо доповнити його нашими кольє, щоб додати стриманості."
+        "q": "Глибоке декольте може виглядати занадто сміливо",
+        "a": "Дизайн вирізу у формі."
       },
       {
-        "q": "Оксамит — складний матеріал у догляді.",
+        "q": "С",
+        "a": "розроблений так, щоб м'яко підкреслювати лінію грудей, зберігаючи при цьому елегантність та благородство образу. Ми рекомендуємо доповнити його нашими кольє, щоб додати стриманості."
+      },
+      {
+        "q": "Оксамит — складний матеріал у догляді",
         "a": "Для виготовлення сукні Gray використовується оксамит найвищої якості на основі шовку та віскози, що забезпечує довговічність виробу за умови професійної сухої чистки."
       },
       {
-        "q": "Короткі рукави не зовсім практичні для зимового вечора.",
-        "a": "Ця модель призначена для закритих урочистих заходів. Як доповнення для виходу ми пропонуємо розкішні столи Richiesta з нашої колекції."
+        "q": "Короткі рукави не зовсім практичні для зимового вечора",
+        "a": "Ця модель призначена для закритих урочистих заходів. Як доповнення для виходу ми пропонуємо розкішні столи Richiesta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg з нашої колекції."
       },
       {
-        "q": "Довжина нижче коліна може вимагати певного зросту.",
-        "a": "Завдяки приталеному силуету та акценту на верху, сукня Gray візуально витягує пропорції. У поєднанні з нашими човниками на підборах Ullano A образ буде бездоганним для будь-якого типу фігури."
+        "q": "Довжина нижче коліна може вимагати певного зросту",
+        "a": "Завдяки приталеному силуету та акценту на верху, сукня Gray візуально витягує пропорції. У поєднанні з нашими човниками на підборах Ullano A (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ab7471c9-c1c6-4a62-b524-62d471856f2c-removebg-preview.png образ буде бездоганним для будь-якого типу фігури."
       },
       {
-        "q": "Сукня виглядає тільки як вечірня.",
+        "q": "Сукня виглядає тільки як вечірня",
         "a": "Це справді статусна річ для особливих випадків. Проте класична форма міді дозволяє використовувати її і для коктейльних виходів, змінюючи лише аксесуари на більш лаконічні."
       }
     ]

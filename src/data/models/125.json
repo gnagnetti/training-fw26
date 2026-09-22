@@ -171,199 +171,203 @@
   "objections": {
     "en": [
       {
-        "q": "The top too closely resembles lingerie.",
+        "q": "The top too closely resembles lingerie",
         "a": "This reflects the current 'underwear as outerwear' trend. Paired with classic trousers or a structured blazer, the Lucentezza piece reads as a refined evening element rather than an item of lingerie."
       },
       {
-        "q": "Silk content may be impractical.",
+        "q": "Silk content may be impractical",
         "a": "Thanks to the predominance of viscose (79%) in the composition, the fabric is more resistant to creasing and wear than pure silk, while retaining a noble texture."
       },
       {
-        "q": "The lace trim looks delicate.",
+        "q": "The lace trim looks delicate",
         "a": "The lace used is crafted using Luisa Spagnoli's contemporary techniques with a reinforced edge, guaranteeing the pattern retains its shape and integrity with proper care."
       },
       {
-        "q": "The top seems too revealing for daytime occasions.",
+        "q": "The top seems too revealing for daytime occasions",
         "a": "We recommend wearing it beneath a lightweight coat or jacket. This creates a statement look in which the lace serves merely as a delicate accent."
       },
       {
-        "q": "Concern that thin straps may dig into the shoulders.",
+        "q": "Concern that thin straps may dig into the shoulders",
         "a": "The straps are crafted from soft silk satin and feature adjusters, allowing the weight to be distributed and the length fine-tuned for maximum comfort on any figure."
       }
     ],
     "ru": [
       {
-        "q": "Топ слишком сильно напоминает нижнее белье.",
-        "a": "Это актуальный тренд 'underwear as outerwear'. В сочетании с классическими брюками или структурированным блейзером модель Lucentezza выглядит как изысканный вечерний элемент, а не деталь белья."
+        "q": "Топ слишком напоминает белье",
+        "a": "Это отражение актуального тренда."
       },
       {
-        "q": "Шелк в составе может быть непрактичным.",
-        "a": "Благодаря преобладанию вискозы (79%) в составе, ткань более устойчива к сминанию и износу, чем чистый шелк, сохраняя при этом благородную фактуру."
+        "q": "белье как верхняя одежда",
+        "a": ". В сочетании с классическими брюками или структурированным жакетом изделие Lucentezza воспринимается как утонченный вечерний элемент, а не предмет нижнего белья."
       },
       {
-        "q": "Кружевная отделка выглядит хрупкой.",
-        "a": "Используемое кружево выполнено по современным технологиям Luisa Spagnoli с укрепленным краем, что гарантирует сохранение формы и целостности узора при правильном уходе."
+        "q": "Содержание шелка может быть непрактичным",
+        "a": "Благодаря преобладанию вискозы (79%) в составе, ткань более устойчива к сминанию и износу, чем чистый шелк, при этом сохраняя благородную фактуру."
       },
       {
-        "q": "Топ кажется слишком открытым для дневных выходов.",
-        "a": "Мы рекомендуем носить его под легкое пальто или жакет. Это позволит создать статусный образ, где кружево будет выступать лишь деликатным акцентом."
+        "q": "Кружевная отделка выглядит хрупкой",
+        "a": "Кружево выполнено по современным технологиям Luisa Spagnoli с усиленным краем, что гарантирует сохранение формы и целостности узора при должном уходе."
       },
       {
-        "q": "Боюсь, что тонкие бретели будут впиваться в плечи.",
-        "a": "Бретели выполнены из мягкого шелкового сатина и оснащены регуляторами, что позволяет распределить нагрузку и настроить максимально комфортную длину для любого типа фигуры."
+        "q": "Топ кажется слишком открытым для дневных выходов",
+        "a": "Мы рекомендуем носить его под легким пальто или жакетом. Это создает эффектный образ, в котором кружево служит лишь деликатным акцентом."
+      },
+      {
+        "q": "Опасение, что тонкие бретели будут врезаться в плечи",
+        "a": "Бретели выполнены из мягкого шелкового атласа и оснащены регуляторами, что позволяет распределить нагрузку и настроить длину для максимального комфорта на любой фигуре."
       }
     ],
     "ar": [
       {
-        "q": "التوب يذكرني كثيراً بالملابس الداخلية.",
+        "q": "التوب يذكرني كثيراً بالملابس الداخلية",
         "a": "هذا توجه عصري تحت عنوان 'الملابس الداخلية كملابس خارجية'. عند تنسيقه مع سروال كلاسيكي أو بليزر منظم، يبدو تصميم Lucentezza كقطعة مسائية راقية وليس كقطعة من الملابس الداخلية."
       },
       {
-        "q": "الحرير في التركيبة قد يكون غير عملي.",
+        "q": "الحرير في التركيبة قد يكون غير عملي",
         "a": "بفضل غلبة الفيسكوز (79%) في التركيبة، أصبح القماش أكثر مقاومة للتجعد والتآكل مقارنة بالحرير الخالص، مع الحفاظ على ملمسه الفاخر."
       },
       {
-        "q": "زخرفة الدانتيل تبدو هشة.",
+        "q": "زخرفة الدانتيل تبدو هشة",
         "a": "صُنع الدانتيل المستخدم وفقاً للتقنيات الحديثة لدار Luisa Spagnoli مع حافة مقواة، مما يضمن الحفاظ على شكل ونمط القماش عند العناية به بشكل صحيح."
       },
       {
-        "q": "التوب يبدو مكشوفاً جداً للإطلالات النهارية.",
+        "q": "التوب يبدو مكشوفاً جداً للإطلالات النهارية",
         "a": "ننصح بارتدائه تحت معطف خفيف أو سترة، مما يضفي مظهراً رفيع المستوى يبرز فيه الدانتيل كإضافة رقيقة وأنيقة."
       },
       {
-        "q": "أخشى أن تغرس الأشرطة الرفيعة في الكتفين.",
+        "q": "أخشى أن تغرس الأشرطة الرفيعة في الكتفين",
         "a": "صُنعت الأشرطة من ساتان الحرير الناعم ومزودة بمنظمات، مما يسمح بتوزيع الوزن وضبط الطول الأكثر راحة لأي نوع من أنواع الجسم."
       }
     ],
     "ka": [
       {
-        "q": "ტოპი ძალიან ჰგავს ქვედა საცვლებს.",
+        "q": "ტოპი ძალიან ჰგავს ქვედა საცვლებს",
         "a": "ეს არის აქტუალური ტრენდი 'underwear as outerwear'. კლასიკურ შარვალთან ან სტრუქტურირებულ ბლეიზერთან შეხამებაში მოდელი Lucentezza გამოიყურება როგორც დახვეწილი საღამოს ელემენტი და არა როგორც საცვლების დეტალი."
       },
       {
-        "q": "აბრეშუმი შემადგენლობაში შესაძლოა არაპრაქტიკული იყოს.",
+        "q": "აბრეშუმი შემადგენლობაში შესაძლოა არაპრაქტიკული იყოს",
         "a": "შემადგენლობაში ვისკოზის უპირატესობის (79%) გამო, ქსოვილი უფრო მდგრადია დაჭმუჭვნისა და ცვეთის მიმართ, ვიდრე სუფთა აბრეშუმი, ამავდროულად ინარჩუნებს კეთილშობილურ ფაქტურას."
       },
       {
-        "q": "მაქმანებიანი მორთულობა მყიფე ჩანს.",
+        "q": "მაქმანებიანი მორთულობა მყიფე ჩანს",
         "a": "გამოყენებული მაქმანი შექმნილია Luisa Spagnoli-ს თანამედროვე ტექნოლოგიებით, გამაგრებული კიდით, რაც გარანტიას იძლევა ფორმისა და ნიმუშის მთლიანობის შენარჩუნებაზე სათანადო მოვლის პირობებში."
       },
       {
-        "q": "ტოპი ძალიან ღია ჩანს დღის გასასვლელებისთვის.",
+        "q": "ტოპი ძალიან ღია ჩანს დღის გასასვლელებისთვის",
         "a": "ჩვენ გირჩევთ მის ტარებას მსუბუქი პალტოს ან პიჯაკის ქვეშ. ეს საშუალებას მოგცემთ შექმნათ სტატუსური იმიჯი, სადაც მაქმანი იქნება მხოლოდ დელიკატური აქცენტი."
       },
       {
-        "q": "მეშინია, რომ თხელი ბრეტელები მხრებში ჩამესობა.",
+        "q": "მეშინია, რომ თხელი ბრეტელები მხრებში ჩამესობა",
         "a": "ბრეტელები დამზადებულია რბილი აბრეშუმის ატლასისგან და აღჭურვილია რეგულატორებით, რაც საშუალებას იძლევა გადავანაწილოთ დატვირთვა და მაქსიმალურად კომფორტულად მოვარგოთ სიგრძე ნებისმიერი ტიპის ფიგურას."
       }
     ],
     "hy": [
       {
         "q": "Թոփը չափազանց շատ է հիշեցնում ներքնազգեստ։",
-        "a": "Սա արդիական 'underwear as outerwear' թրենդն է։ Դասական տաբատի կամ կառուցվածքային բլեյզերի հետ համադրությամբ Lucentezza մոդելը նայվում է որպես նրբագեղ երեկոյան տարր, այլ ոչ թե ներքնազգեստի մաս։"
+        "a": "Սա արդիական 'underwear as outerwear' թրենդն է։ Դասական տաբատի կամ կառուցվածքային բլեյզերի հետ համադրությամբ Lucentezza մոդելը նայվում է որպես նրբագեղ երեկոյան տարր, այլ ոչ թե ներքնազգեստի մաս։."
       },
       {
         "q": "Կազմության մեջ առկա մետաքսը կարող է ոչ գործնական լինել։",
-        "a": "Շնորհիվ կազմության մեջ վիսկոզայի (79%) գերակշռության՝ կտորն ավելի դիմացկուն է կնճռոտման և մաշվածության նկատմամբ, քան մաքուր մետաքսը՝ պահպանելով միաժամանակ ազնվական հյուսվածքը։"
+        "a": "Շնորհիվ կազմության մեջ վիսկոզայի (79%) գերակշռության՝ կտորն ավելի դիմացկուն է կնճռոտման և մաշվածության նկատմամբ, քան մաքուր մետաքսը՝ պահպանելով միաժամանակ ազնվական հյուսվածքը։."
       },
       {
         "q": "Ժանյակավոր հարդարանքը փխրուն է թվում։",
-        "a": "Օգտագործվող ժանյակը կատարված է Luisa Spagnoli-ի ժամանակակից տեխնոլոգիաներով՝ ամրացված եզրերով, ինչը երաշխավորում է ձևի և նախշի ամբողջականության պահպանումը ճիշտ խնամքի դեպքում։"
+        "a": "Օգտագործվող ժանյակը կատարված է Luisa Spagnoli-ի ժամանակակից տեխնոլոգիաներով՝ ամրացված եզրերով, ինչը երաշխավորում է ձևի և նախշի ամբողջականության պահպանումը ճիշտ խնամքի դեպքում։."
       },
       {
         "q": "Թոփը ցերեկային ելքերի համար չափազանց բաց է թվում։",
-        "a": "Մենք խորհուրդ ենք տալիս այն կրել թեթև վերարկուի կամ բաճկոնի տակ։ Սա թույլ կտա ստեղծել կարգավիճակային կերպար, որտեղ ժանյակը կհանդես գա միայն որպես նուրբ շեշտադրում։"
+        "a": "Մենք խորհուրդ ենք տալիս այն կրել թեթև վերարկուի կամ բաճկոնի տակ։ Սա թույլ կտա ստեղծել կարգավիճակային կերպար, որտեղ ժանյակը կհանդես գա միայն որպես նուրբ շեշտադրում։."
       },
       {
         "q": "Վախենում եմ, որ բարակ կրծկակալները կմխրճվեն ուսերի մեջ։",
-        "a": "Կրծկակալները պատրաստված են փափուկ մետաքսե սատինից և հագեցած են կարգավորիչներով, ինչը թույլ է տալիս բաշխել ծանրաբեռնվածությունը և հարմարեցնել առավելագույնս հարմարավետ երկարությունը ցանկացած տեսակի կազմվածքի համար։"
+        "a": "Կրծկակալները պատրաստված են փափուկ մետաքսե սատինից և հագեցած են կարգավորիչներով, ինչը թույլ է տալիս բաշխել ծանրաբեռնվածությունը և հարմարեցնել առավելագույնս հարմարավետ երկարությունը ցանկացած տեսակի կազմվածքի համար։."
       }
     ],
     "lv": [
       {
-        "q": "Tops pārāk atgādina apakšveļu.",
+        "q": "Tops pārāk atgādina apakšveļu",
         "a": "Tā ir aktuāla tendence 'underwear as outerwear'. Kombinācijā ar klasiskām biksēm vai strukturētu bleizeri Lucentezza modelis izskatās kā izsmalcināts vakara elements, nevis veļas detaļa."
       },
       {
-        "q": "Zīds sastāvā var būt nepraktisks.",
+        "q": "Zīds sastāvā var būt nepraktisks",
         "a": "Pateicoties viskozes pārsvaram (79%) sastāvā, audums ir izturīgāks pret burzīšanos un nodilumu nekā tīrs zīds, vienlaikus saglabājot cēlo faktūru."
       },
       {
-        "q": "Mežģīņu apdare izskatās trausla.",
+        "q": "Mežģīņu apdare izskatās trausla",
         "a": "Izmantotās mežģīnes ir izgatavotas pēc mūsdienīgām Luisa Spagnoli tehnoloģijām ar nostiprinātu malu, kas garantē formas saglabāšanu un raksta integritāti pareizas kopšanas gadījumā."
       },
       {
-        "q": "Tops šķiet pārāk atvērts dienas izgājieniem.",
+        "q": "Tops šķiet pārāk atvērts dienas izgājieniem",
         "a": "Mēs iesakām to nēsāt zem viegla mēteļa vai žaketes. Tas ļaus izveidot statusa tēlu, kurā mežģīnes kalpos tikai kā delikāts akcents."
       },
       {
-        "q": "Baidos, ka plānās lencītes iegriezīsies plecos.",
+        "q": "Baidos, ka plānās lencītes iegriezīsies plecos",
         "a": "Lencītes ir izgatavotas no mīksta zīda satīna un aprīkotas ar regulētājiem, kas ļauj sadalīt slodzi un noregulēt maksimāli ērtu garumu jebkura tipa figūrai."
       }
     ],
     "lt": [
       {
-        "q": "Viršutinė dalis per daug primena apatinius.",
+        "q": "Viršutinė dalis per daug primena apatinius",
         "a": "Tai aktualus „underwear as outerwear“ trendas. Derinyje su klasikinėmis kelnėmis ar struktūruotu švarku Lucentezza modelis atrodo kaip rafinuotas vakarinis elementas, o ne apatinio trikotažo detalė."
       },
       {
-        "q": "Šilkas sudėtyje gali būti nepraktiškas.",
+        "q": "Šilkas sudėtyje gali būti nepraktiškas",
         "a": "Dėl viskozės dominavimo (79%) sudėtyje, audinys yra atsparesnis glamžymuisi ir dėvėjimuisi nei grynas šilkas, išlaikydamas taurią faktūrą."
       },
       {
-        "q": "Nėrinių apdaila atrodo trapi.",
+        "q": "Nėrinių apdaila atrodo trapi",
         "a": "Naudojami nėriniai sukurti pagal modernias Luisa Spagnoli technologijas su sutvirtintu kraštu, kas garantuoja formos ir rašto vientisumo išsaugojimą tinkamai prižiūrint."
       },
       {
-        "q": "Viršutinė dalis atrodo per daug atvira dieniniams išėjimams.",
+        "q": "Viršutinė dalis atrodo per daug atvira dieniniams išėjimams",
         "a": "Rekomenduojame jį dėvėti po lengvu paltu ar švarku. Tai leis sukurti statuso įvaizdį, kur nėriniai bus tik subtilus akcentas."
       },
       {
-        "q": "Bijau, kad plonos petnešėlės įsirėš į pečius.",
+        "q": "Bijau, kad plonos petnešėlės įsirėš į pečius",
         "a": "Petnešėlės pagamintos iš minkšto šilko satino ir turi reguliatorius, kas leidžia paskirstyti apkrovą ir nusistatyti maksimaliai patogų ilgį bet kokio tipo figūrai."
       }
     ],
     "pl": [
       {
-        "q": "Top zbyt bardzo przypomina bieliznę.",
+        "q": "Top zbyt bardzo przypomina bieliznę",
         "a": "To aktualny trend 'underwear as outerwear'. W połączeniu z klasycznymi spodniami lub strukturalnym blezerem model Lucentezza wygląda jak wyrafinowany element wieczorowy, a nie detal bielizny."
       },
       {
-        "q": "Jedwab w składzie może być niepraktyczny.",
+        "q": "Jedwab w składzie może być niepraktyczny",
         "a": "Dzięki przewadze wiskozy (79%) w składzie, tkanina jest bardziej odporna na gniecenie i zużycie niż czysty jedwab, zachowując przy tym szlachetną fakturę."
       },
       {
-        "q": "Koronkowe wykończenie wygląda na kruche.",
+        "q": "Koronkowe wykończenie wygląda na kruche",
         "a": "Zastosowana koronka została wykonana według nowoczesnych technologii Luisa Spagnoli ze wzmocnioną krawędzią, co gwarantuje zachowanie kształtu i integralności wzoru przy odpowiedniej pielęgnacji."
       },
       {
-        "q": "Top wydaje się zbyt odkryty do dziennych wyjść.",
+        "q": "Top wydaje się zbyt odkryty do dziennych wyjść",
         "a": "Zalecamy noszenie go pod lekkim płaszczem lub żakietem. Pozwoli to stworzyć statusowy wizerunek, w którym koronka będzie występować jedynie jako delikatny akcent."
       },
       {
-        "q": "Obawiam się, że cienkie ramiączka będą wpijać się w ramiona.",
+        "q": "Obawiam się, że cienkie ramiączka będą wpijać się w ramiona",
         "a": "Ramiączka wykonane są z miękkiego jedwabnego satynu i wyposażone w regulatory, co pozwala rozłożyć obciążenie i ustawić maksymalnie komfortową długość dla każdego typu figury."
       }
     ],
     "uk": [
       {
-        "q": "Топ занадто сильно нагадує нижню білизну.",
+        "q": "Топ занадто сильно нагадує нижню білизну",
         "a": "Це актуальний тренд 'underwear as outerwear'. У поєднанні з класичними брюками або структурованим блейзером модель Lucentezza виглядає як вишуканий вечірній елемент, а не деталь білизни."
       },
       {
-        "q": "Шовк у складі може бути непрактичним.",
+        "q": "Шовк у складі може бути непрактичним",
         "a": "Завдяки переважанню віскози (79%) у складі, тканина більш стійка до зминання та зносу, ніж чистий шовк, зберігаючи при цьому благородну фактуру."
       },
       {
-        "q": "Мереживна оздоба виглядає крихкою.",
+        "q": "Мереживна оздоба виглядає крихкою",
         "a": "Використовуване мереживо виконане за сучасними технологіями Luisa Spagnoli зі зміцненим краєм, що гарантує збереження форми та цілісності візерунка при правильному догляді."
       },
       {
-        "q": "Топ здається занадто відкритим для денних виходів.",
+        "q": "Топ здається занадто відкритим для денних виходів",
         "a": "Ми рекомендуємо носити його під легке пальто чи жакет. Це дозволить створити статусний образ, де мереживо виступатиме лише делікатним акцентом."
       },
       {
-        "q": "Боюся, що тонкі бретелі врізатимуться у плечі.",
+        "q": "Боюся, що тонкі бретелі врізатимуться у плечі",
         "a": "Бретелі виконані з м'якого шовкового сатину та оснащені регуляторами, що дозволяє розподілити навантаження та налаштувати максимально комфортну довжину для будь-якого типу фігури."
       }
     ]

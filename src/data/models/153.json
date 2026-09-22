@@ -164,199 +164,211 @@
   "objections": {
     "en": [
       {
-        "q": "Mohair content may cause prickling.",
+        "q": "Mohair content may cause prickling",
         "a": "We use the finest mohair in a delicate proportion with virgin wool. This guarantees a remarkably soft fabric that remains comfortable even in contact with sensitive skin."
       },
       {
-        "q": "The leopard print seems too bold for everyday wear.",
+        "q": "The leopard print seems too bold for everyday wear",
         "a": "Thanks to the matte texture of the wool and the noble coffee tones, the print looks understated and elegant, fitting perfectly within a 'quiet luxury' aesthetic."
       },
       {
-        "q": "Slits on the sleeves may be impractical in cold weather.",
+        "q": "Slits on the sleeves may be impractical in cold weather",
         "a": "This is a fashion-forward design detail that creates a fluid silhouette. When worn with outerwear, the pullover retains all of its thermal-insulating properties thanks to its dense knit."
       },
       {
-        "q": "I'm concerned the knitwear will lose its shape due to the mohair content.",
+        "q": "I'm concerned the knitwear will lose its shape due to the mohair content",
         "a": "Merinfleur technology ensures fibre stability. The pullover holds its structure beautifully and retains its pristine appearance across many seasons."
       },
       {
-        "q": "It's difficult to find bottoms to match such a striking top.",
+        "q": "It's difficult to find bottoms to match such a striking top",
         "a": "Our stylists recommend pairing this piece with the understated black Fabula skirt or classic trousers from the collection, to balance the look and let the pullover take centre stage."
       }
     ],
     "ru": [
       {
-        "q": "Мохер в составе может вызывать покалывание.",
-        "a": "Мы используем мохер высочайшего качества в деликатной пропорции с девственной шерстью. Это гарантирует невероятную нежность полотна, которое комфортно даже при контакте с чувствительной кожей."
+        "q": "Содержание мохера может вызывать покалывание",
+        "a": "Мы используем тончайший мохер в деликатной пропорции с натуральной шерстью. Это гарантирует удивительную мягкость полотна, которое остается комфортным даже при контакте с чувствительной кожей."
       },
       {
-        "q": "Принт 'леопард' кажется слишком смелым для повседневного ношения.",
-        "a": "Благодаря матовой фактуре шерсти и благородным кофейным оттенкам, принт выглядит сдержанно и элегантно, идеально вписываясь в эстетику 'тихой роскоши'."
+        "q": "Леопардовый принт кажется слишком смелым для повседневного гардероба",
+        "a": "Благодаря матовой фактуре шерсти и благородным кофейным оттенкам принт выглядит сдержанно и элегантно, идеально вписываясь в эстетику."
       },
       {
-        "q": "Разрезы на рукавах могут быть непрактичны в холодную погоду.",
-        "a": "Это актуальный дизайнерский прием, создающий летящий силуэт. При ношении с верхней одеждой пуловер сохраняет все теплоизоляционные свойства благодаря высокой плотности вязки."
+        "q": "тихой роскоши",
+        "a": "."
       },
       {
-        "q": "Я боюсь, что трикотаж потеряет форму из-за наличия мохера.",
-        "a": "Технология Merinfleur обеспечивает стабильность волокон. Пуловер превосходно держит структуру и сохраняет первозданный вид на протяжении многих сезонов."
+        "q": "Разрезы на рукавах могут быть непрактичны в холодную погоду",
+        "a": "Это актуальная дизайнерская деталь, создающая динамичный силуэт. При ношении с верхней одеждой пуловер сохраняет все свои теплоизоляционные свойства благодаря плотной вязке."
       },
       {
-        "q": "Сложно подобрать низ к такому активному верху.",
-        "a": "Наши стилисты рекомендуют сочетать модель с лаконичной черной юбкой Fabula или классическими брюками коллекции, что позволит сбалансировать образ и сделать пуловер главным акцентом."
+        "q": "Переживаю, что трикотаж потеряет форму из-за мохера",
+        "a": "Технология Merinfleur обеспечивает стабильность волокна. Пуловер превосходно держит структуру и сохраняет безупречный вид на протяжении многих сезонов."
+      },
+      {
+        "q": "Сложно подобрать низ к такому яркому верху",
+        "a": "Наши стилисты рекомендуют сочетать это изделие с лаконичной черной юбкой Fabula или классическими брюками из коллекции, чтобы сбалансировать образ и позволить пуловеру стать главным акцентом."
       }
     ],
     "ar": [
       {
-        "q": "قد يسبب الموهير في التكوين شعوراً بالوخز.",
+        "q": "قد يسبب الموهير في التكوين شعوراً بالوخز",
         "a": "نحن نستخدم موهير عالي الجودة بنسبة دقيقة مع الصوف البكر. وهذا يضمن نعومة فائقة للقماش، مما يجعله مريحاً حتى عند ملامسة البشرة الحساسة."
       },
       {
-        "q": "تبدو نقشة 'النمر' جريئة جداً للاستخدام اليومي.",
+        "q": "تبدو نقشة 'النمر' جريئة جداً للاستخدام اليومي",
         "a": "بفضل الملمس المطفأ للصوف والألوان القهوائية النبيلة، تبدو النقشة رصينة وأنيقة، لتنسجم بشكل مثالي مع جماليات 'الرفاهية الهادئة'."
       },
       {
-        "q": "قد تكون الفتحات على الأكمام غير عملية في الطقس البارد.",
+        "q": "قد تكون الفتحات على الأكمام غير عملية في الطقس البارد",
         "a": "هذا أسلوب تصميمي عصري يخلق قواماً انسيابياً. عند ارتدائه مع ملابس خارجية، يحافظ البلوفر على جميع خصائص العزل الحراري بفضل كثافة الحياكة العالية."
       },
       {
-        "q": "أخشى أن يفقد التريكو شكله بسبب وجود الموهير.",
+        "q": "أخشى أن يفقد التريكو شكله بسبب وجود الموهير",
         "a": "تضمن تقنية Merinfleur ثبات الألياف. يحافظ البلوفر بشكل ممتاز على هيكله ويحتفظ بمظهره الأصلي لعدة مواسم."
       },
       {
-        "q": "من الصعب اختيار قطعة سفلية لتتناسب مع هذا الجزء العلوي البارز.",
+        "q": "من الصعب اختيار قطعة سفلية لتتناسب مع هذا الجزء العلوي البارز",
         "a": "يوصي خبراؤنا بتنسيق الطراز مع تنورة سوداء بسيطة من طراز Fabula أو سراويل كلاسيكية من المجموعة، مما سيسمح بتوازن الإطلالة وجعل البلوفر العنصر الأساسي."
       }
     ],
     "ka": [
       {
-        "q": "შემადგენლობაში არსებულმა მოჰერმა შეიძლება გამოიწვიოს ჩხვლეტა.",
+        "q": "შემადგენლობაში არსებულმა მოჰერმა შეიძლება გამოიწვიოს ჩხვლეტა",
         "a": "ჩვენ ვიყენებთ უმაღლესი ხარისხის მოჰერს ხელუხლებელ მატყლთან დელიკატური პროპორციით. ეს უზრუნველყოფს ქსოვილის წარმოუდგენელ სირბილეს, რომელიც კომფორტულია მგრძნობიარე კანთან შეხებისასაც კი."
       },
       {
-        "q": "ლეოპარდის' პრინტი ზედმეტად თამამად გვეჩვენება ყოველდღიური ტარებისთვის.",
+        "q": "'ლეოპარდის' პრინტი ზედმეტად თამამად გვეჩვენება ყოველდღიური ტარებისთვის",
         "a": "მატყლის მქრქალი ფაქტურისა და კეთილშობილური ყავისფერი ტონების წყალობით, პრინტი გამოიყურება თავშეკავებულად და ელეგანტურად, რაც იდეალურად ჯდება 'ჩუმი ფუფუნების' ესთეტიკაში."
       },
       {
-        "q": "სახელოების ჭრილები შეიძლება არაპრაქტიკული იყოს ცივ ამინდში.",
+        "q": "სახელოების ჭრილები შეიძლება არაპრაქტიკული იყოს ცივ ამინდში",
         "a": "ეს არის აქტუალური დიზაინერული ხერხი, რომელიც ქმნის მოფარფატე სილუეტს. ზედა ტანსაცმელთან ტარებისას პულოვერი ინარჩუნებს სითბოს შემანარჩუნებელ ყველა თვისებას ქსოვის მაღალი სიმკვრივის წყალობით."
       },
       {
-        "q": "მეშინია, რომ ტრიკოტაჟი დაკარგავს ფორმას მოჰერის შემცველობის გამო.",
+        "q": "მეშინია, რომ ტრიკოტაჟი დაკარგავს ფორმას მოჰერის შემცველობის გამო",
         "a": "Merinfleur-ის ტექნოლოგია უზრუნველყოფს ბოჭკოების სტაბილურობას. პულოვერი შესანიშნავად ინარჩუნებს სტრუქტურას და პირვანდელ იერს მრავალი სეზონის განმავლობაში."
       },
       {
-        "q": "რთულია ასეთი აქტიური ზედა ნაწილისთვის ქვედაბოლოს შერჩევა.",
+        "q": "რთულია ასეთი აქტიური ზედა ნაწილისთვის ქვედაბოლოს შერჩევა",
         "a": "ჩვენი სტილისტები გვირჩევენ მოდელის შეხამებას ლაკონურ შავ ქვედაბოლო Fabula-სთან ან კოლექციის კლასიკურ შარვლებთან, რაც საშუალებას მოგცემთ დააბალანსოთ სახე და პულოვერი აქციოთ მთავარ აქცენტად."
       }
     ],
     "hy": [
       {
         "q": "Կազմի մեջ առկա մոհերը կարող է ծակծկել։",
-        "a": "Մենք օգտագործում ենք ամենաբարձր որակի մոհեր՝ կուսական բրդի հետ նուրբ համամասնությամբ։ Սա երաշխավորում է կտորի անհավատալի նրբությունը, որը հարմարավետ է նույնիսկ զգայուն մաշկի հետ շփվելիս։"
+        "a": "Մենք օգտագործում ենք ամենաբարձր որակի մոհեր՝ կուսական բրդի հետ նուրբ համամասնությամբ։ Սա երաշխավորում է կտորի անհավատալի նրբությունը, որը հարմարավետ է նույնիսկ զգայուն մաշկի հետ շփվելիս։."
       },
       {
-        "q": "Ընձառյուծի» պրինտը չափազանց համարձակ է թվում առօրյա կրման համար։",
-        "a": "Բրդի փայլատ հյուսվածքի և սուրճի ազնվական երանգների շնորհիվ պրինտը զուսպ և նրբագեղ է թվում՝ կատարելապես տեղավորվելով «լուռ շքեղության» գեղագիտության մեջ։"
+        "q": "«Ընձառյուծի",
+        "a": "պրինտը չափազանց համարձակ է թվում առօրյա կրման համար։» Բրդի փայլատ հյուսվածքի և սուրճի ազնվական երանգների շնորհիվ պրինտը զուսպ և նրբագեղ է թվում՝ կատարելապես տեղավորվելով."
+      },
+      {
+        "q": "լուռ շքեղության",
+        "a": "գեղագիտության մեջ։."
       },
       {
         "q": "Թևքերի բացվածքները կարող են ոչ գործնական լինել ցուրտ եղանակին։",
-        "a": "Սա արդիական դիզայներական հնարք է, որը ստեղծում է օդային սիլուետ։ Վերնազգեստի հետ կրելիս պուլովերը պահպանում է ջերմամեկուսիչ բոլոր հատկությունները՝ հյուսվածքի բարձր խտության շնորհիվ։"
+        "a": "Սա արդիական դիզայներական հնարք է, որը ստեղծում է օդային սիլուետ։ Վերնազգեստի հետ կրելիս պուլովերը պահպանում է ջերմամեկուսիչ բոլոր հատկությունները՝ հյուսվածքի բարձր խտության շնորհիվ։."
       },
       {
         "q": "Վախենում եմ, որ տրիկոտաժը մոհերի առկայության պատճառով կկորցնի ձևը։",
-        "a": "Merinfleur տեխնոլոգիան ապահովում է մանրաթելերի կայունությունը։ Պուլովերը հիանալի պահում է կառուցվածքը և պահպանում սկզբնական տեսքը բազմաթիվ սեզոնների ընթացքում։"
+        "a": "Merinfleur տեխնոլոգիան ապահովում է մանրաթելերի կայունությունը։ Պուլովերը հիանալի պահում է կառուցվածքը և պահպանում սկզբնական տեսքը բազմաթիվ սեզոնների ընթացքում։."
       },
       {
         "q": "Դժվար է ընտրել ներքնազգեստ այսքան ակտիվ վերնազգեստի համար։",
-        "a": "Մեր ոճաբանները խորհուրդ են տալիս մոդելը համադրել լակոնիկ սև Fabula կիսաշրջազգեստի կամ հավաքածուի դասական տաբատների հետ, ինչը թույլ կտա հավասարակշռել կերպարը և պուլովերը դարձնել գլխավոր շեշտադրում։"
+        "a": "Մեր ոճաբանները խորհուրդ են տալիս մոդելը համադրել լակոնիկ սև Fabula կիսաշրջազգեստի կամ հավաքածուի դասական տաբատների հետ, ինչը թույլ կտա հավասարակշռել կերպարը և պուլովերը դարձնել գլխավոր շեշտադրում։."
       }
     ],
     "lv": [
       {
-        "q": "Mohēra sastāvā var izraisīt kņudēšanu.",
+        "q": "Mohēra sastāvā var izraisīt kņudēšanu",
         "a": "Mēs izmantojam visaugstākās kvalitātes mohēru delikātās proporcijās ar jaunvilnu. Tas garantē neticamu auduma maigumu, kas ir komfortabls pat saskarē ar jutīgu ādu."
       },
       {
-        "q": "Leoparda raksts šķiet pārāk drosmīgs ikdienas valkāšanai.",
+        "q": "Leoparda raksts šķiet pārāk drosmīgs ikdienas valkāšanai",
         "a": "Pateicoties vilnas matētajai faktūrai un cēlajiem kafijas toņiem, raksts izskatās atturīgi un eleganti, ideāli iekļaujoties 'klusās greznības' estētikā."
       },
       {
-        "q": "Šķēlumi uz piedurknēm var būt nepraktiski aukstā laikā.",
+        "q": "Šķēlumi uz piedurknēm var būt nepraktiski aukstā laikā",
         "a": "Tas ir aktuāls dizaina paņēmiens, kas rada lidojošu siluetu. Valkājot ar virsdrēbēm, pulovers saglabā visas siltumizolācijas īpašības, pateicoties augstajam adījuma blīvumam."
       },
       {
-        "q": "Es baidos, ka trikotāža zaudēs formu mohēras klātbūtnes dēļ.",
+        "q": "Es baidos, ka trikotāža zaudēs formu mohēras klātbūtnes dēļ",
         "a": "Merinfleur tehnoloģija nodrošina šķiedru stabilitāti. Pulovers lieliski notur struktūru un saglabā sākotnējo izskatu daudzu sezonu garumā."
       },
       {
-        "q": "Grūti piemeklēt apakšējo daļu tik aktīvam augšējam apģērbam.",
+        "q": "Grūti piemeklēt apakšējo daļu tik aktīvam augšējam apģērbam",
         "a": "Mūsu stilisti iesaka kombinēt modeli ar lakoniskiem melniem svārkiem Fabula vai klasiskām kolekcijas biksēm, kas ļaus līdzsvarot tēlu un padarīt puloveru par galveno akcentu."
       }
     ],
     "lt": [
       {
-        "q": "Sudėtyje esantis moheris gali dirginti odą.",
+        "q": "Sudėtyje esantis moheris gali dirginti odą",
         "a": "Naudojame aukščiausios kokybės moherį subtilia proporcija su pirmaprade vilna. Tai garantuoja neįtikėtiną audinio švelnumą, kuris yra patogus net kontaktuojant su jautria oda."
       },
       {
-        "q": "Leopardo raštas atrodo per drąsus kasdieniam dėvėjimui.",
+        "q": "Leopardo raštas atrodo per drąsus kasdieniam dėvėjimui",
         "a": "Dėl matinės vilnos faktūros ir taurių kavos atspalvių raštas atrodo santūriai ir elegantiškai, idealiai įsiliedamas į „tylios prabangos“ estetiką."
       },
       {
-        "q": "Pjūviai rankovėse gali būti nepraktiški šaltu oru.",
+        "q": "Pjūviai rankovėse gali būti nepraktiški šaltu oru",
         "a": "Tai aktualus dizaino sprendimas, sukuriantis lengvą siluetą. Dėvint su viršutiniais drabužiais, megztinis išsaugo visas šilumines savybes dėl didelio mezgimo tankio."
       },
       {
-        "q": "Bijau, kad trikotažas praras formą dėl moherio sudėties.",
+        "q": "Bijau, kad trikotažas praras formą dėl moherio sudėties",
         "a": "Merinfleur technologija užtikrina pluošto stabilumą. Megztinis puikiai išlaiko struktūrą ir pirminę išvaizdą daugelį sezonų."
       },
       {
-        "q": "Sunku parinkti apačią tokiam aktyviam viršui.",
+        "q": "Sunku parinkti apačią tokiam aktyviam viršui",
         "a": "Mūsų stilistai rekomenduoja derinti modelį su lakonišku juodu Fabula sijonu arba klasikinėmis kolekcijos kelnėmis, kas leis subalansuoti įvaizdį ir paversti megztinį pagrindiniu akcentu."
       }
     ],
     "pl": [
       {
-        "q": "Moher w składzie może powodować drapanie.",
+        "q": "Moher w składzie może powodować drapanie",
         "a": "Używamy moheru najwyższej jakości w delikatnej proporcji z dziewiczą wełną. Gwarantuje to niesamowitą delikatność dzianiny, która jest komfortowa nawet w kontakcie z wrażliwą skórą."
       },
       {
-        "q": "Wzór 'leopard' wydaje się zbyt śmiały do noszenia na co dzień.",
+        "q": "Wzór 'leopard' wydaje się zbyt śmiały do noszenia na co dzień",
         "a": "Dzięki matowej fakturze wełny i szlachetnym kawowym odcieniom, wzór wygląda powściągliwie i elegancko, idealnie wpisując się w estetykę 'cichego luksusu'."
       },
       {
-        "q": "Rozcięcia na rękawach mogą być niepraktyczne w zimną pogodę.",
+        "q": "Rozcięcia na rękawach mogą być niepraktyczne w zimną pogodę",
         "a": "To aktualny zabieg designerski, tworzący lekki fason. Podczas noszenia z odzieżą wierzchnią sweter zachowuje wszystkie właściwości termoizolacyjne dzięki wysokiej gęstości splotu."
       },
       {
-        "q": "Obawiam się, że dzianina straci fason z powodu dodatku moheru.",
+        "q": "Obawiam się, że dzianina straci fason z powodu dodatku moheru",
         "a": "Technologia Merinfleur zapewnia stabilność włókien. Sweter doskonale trzyma strukturę i zachowuje nieskazitelny wygląd przez wiele sezonów."
       },
       {
-        "q": "Trudno dobrać dół do tak wyrazistej góry.",
+        "q": "Trudno dobrać dół do tak wyrazistej góry",
         "a": "Nasi styliści zalecają łączyć model z minimalistyczną czarną spódnicą Fabula lub klasycznymi spodniami z kolekcji, co pozwoli zrównoważyć stylizację i uczynić sweter głównym akcentem."
       }
     ],
     "uk": [
       {
-        "q": "Мохер у складі може викликати поколювання.",
+        "q": "Мохер у складі може викликати поколювання",
         "a": "Ми використовуємо мохер найвищої якості у делікатній пропорції з дівочою вовною. Це гарантує неймовірну ніжність полотна, яке є комфортним навіть при контакті з чутливою шкірою."
       },
       {
-        "q": "Принт «леопард» здається занадто сміливим для повсякденного носіння.",
-        "a": "Завдяки матовій фактурі вовни та благородним кавовим відтінкам, принт виглядає стримано та елегантно, ідеально вписуючись в естетику «тихої розкоші»."
+        "q": "Принт «леопард",
+        "a": "здається занадто сміливим для повсякденного носіння.» Завдяки матовій фактурі вовни та благородним кавовим відтінкам, принт виглядає стримано та елегантно, ідеально вписуючись в естетику."
       },
       {
-        "q": "Розрізи на рукавах можуть бути непрактичними в холодну погоду.",
+        "q": "тихої розкоші",
+        "a": "."
+      },
+      {
+        "q": "Розрізи на рукавах можуть бути непрактичними в холодну погоду",
         "a": "Це актуальний дизайнерський прийом, що створює летючий силует. При носінні з верхнім одягом пуловер зберігає всі теплоізоляційні властивості завдяки високій щільності в'язки."
       },
       {
-        "q": "Я боюся, що трикотаж втратить форму через наявність мохеру.",
+        "q": "Я боюся, що трикотаж втратить форму через наявність мохеру",
         "a": "Технологія Merinfleur забезпечує стабільність волокон. Пуловер чудово тримає структуру та зберігає первісний вигляд упродовж багатьох сезонів."
       },
       {
-        "q": "Складно підібрати низ до такого активного верху.",
+        "q": "Складно підібрати низ до такого активного верху",
         "a": "Наші стилісти рекомендують поєднувати модель з лаконічною чорною спідницею Fabula або класичними штанами колекції, що дозволить збалансувати образ і зробити пуловер головним акцентом."
       }
     ]

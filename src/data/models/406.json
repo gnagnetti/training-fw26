@@ -161,50 +161,46 @@
   "objections": {
     "en": [
       {
-        "q": "Denim feels too casual for my wardrobe.",
-        "a": "Point to the jewel-like details — hand-embroidered crystals and gem-set buttons. These transform the piece into an exclusive garment, worthy of the most prestigious occasions."
+        "q": "Denim feels too casual for my wardrobe",
+        "a": " Response: Point to the jewel-like details »” hand-embroidered crystals and gem-set buttons. These transform the piece into an exclusive garment, worthy of the most prestigious occasions. Objection."
       },
       {
-        "q": "The grey colour feels dull.",
-        "a": "Explain that grey denim is the most sought-after neutral canvas. The sparkle of the stones on the collar and the jewelled hardware illuminate the look, lending it a noble, luxurious quality."
+        "q": "The grey colour feels dull",
+        "a": " Response: Explain that grey denim is the most sought-after neutral canvas. The sparkle of the stones on the collar and the jewelled hardware illuminate the look, lending it a noble, luxurious quality. Objection."
       },
       {
-        "q": "I 'm concerned the embroidery on the collar will be scratchy.",
-        "a": "Remind the client of Luisa Spagnoli 's craftsmanship. All decorative elements are securely fastened, and the inner facing of the collar is finished to ensure maximum comfort."
+        "q": "I",
+        "a": "™m concerned the embroidery on the collar will be scratchy. » Response: Remind the client of Luisa Spagnoli »™s craftsmanship. All decorative elements are securely fastened, and the inner facing of the collar is finished to ensure maximum comfort. Objection."
       },
       {
-        "q": "Denim is too stiff a fabric for a dress.",
-        "a": "Invite the client to try it on. The special denim treatment used in the FW 26 collection ensures softness and pliability while preserving the crispness of the silhouette 's lines."
+        "q": "Denim is too stiff a fabric for a dress",
+        "a": " Response: Invite the client to try it on. The special denim treatment used in the FW 26 collection ensures softness and pliability while preserving the crispness of the silhouette »™s lines. Objection."
       },
       {
-        "q": "It 's difficult to find shoes to match this length.",
-        "a": "Demonstrate the lookbook solution: the Ulisside 0101/0038 tall boots create an unbroken vertical line that visually elongates the figure and completes the look"
+        "q": "It",
+        "a": "™s difficult to find shoes to match this length. » Response: Demonstrate the lookbook solution: the Ulisside 0101/0038 tall boots create an unbroken vertical line that visually elongates the figure and completes the look. ![](media/image32.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image33.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Деним выглядит",
-        "a": "Укажите на ювелирные детали: ручную вышивку слишком просто для кристаллами и пуговицы-драгоценности. Это моего гардероба превращает модель в эксклюзивное изделие, достойное самых статусных выходов."
+        "q": "Деним кажется слишком повседневным для моего гардероба",
+        "a": ". Ответ: Обратите внимание на ювелирные детали — кристаллы ручной работы и пуговицы с инкрустацией. Они превращают изделие в эксклюзивный предмет гардероба, достойный самых статусных выходов. Возражение."
       },
       {
-        "q": "Серый цвет",
-        "a": "Объясните, что серый деним — это самый актуальный кажется тусклым нейтральный холст. Сияние камней на воротнике и ювелирная фурнитура."
+        "q": "Серый цвет кажется скучным",
+        "a": ". Ответ: Серый деним — это благородный нейтральный холст. Мерцание камней на воротнике и ювелирная фурнитура подсвечивают образ, придавая ему роскошное звучание. Возражение."
       },
       {
-        "q": "подсвечивают",
-        "a": "образ, делая его благородным и дорогим."
+        "q": "Я боюсь, что вышивка на воротнике будет колоться",
+        "a": ". Ответ: Позвольте напомнить о мастерстве Luisa Spagnoli: все декоративные элементы надежно закреплены, а внутренняя отделка воротника выполнена с особым вниманием к комфорту. Возражение."
       },
       {
-        "q": "Боюсь, что",
-        "a": "Напомните о качестве исполнения Luisa Spagnoli. Все вышивка на декоративные элементы закреплены надежно, а воротнике будет внутренняя часть воротника обработана так, чтобы царапаться обеспечить максимальный комфорт."
+        "q": "Деним — слишком жесткая ткань для платья",
+        "a": ". Ответ: Приглашаю вас на примерку. Специальная обработка денима в коллекции FW 26 обеспечивает мягкость и пластичность, сохраняя при этом архитектурную четкость линий силуэта. Возражение."
       },
       {
-        "q": "Деним — это",
-        "a": "Предложите примерить модель. Специальная обработка жесткий материал денима в коллекции FW 26 обеспечивает мягкость и для платья пластичность ткани, сохраняя при этом четкость линий силуэта."
-      },
-      {
-        "q": "Сложно подобрать",
-        "a": "Продемонстрируйте решение из lookbook: высокие обувь к такой сапоги Ulisside 0101 0038 создают непрерывную длине вертикаль, которая визуально вытягивает рост и делает образ завершенным."
+        "q": "Сложно подобрать обувь к такой длине",
+        "a": ". Ответ: Демонстрируем решение из лукбука: высокие сапоги Ulisside 0101/0038 создают безупречную вертикаль, визуально вытягивающую фигуру."
       }
     ],
     "ar": [
@@ -214,11 +210,7 @@
       },
       {
         "q": "يبدو اللون الرمادي باهتاً",
-        "a": "وضح أن الدنيم الرمادي هو اللوحة المحايدة الأكثر عصرية. بريق الأحجار على الياقة والحلي الفاخرة."
-      },
-      {
-        "q": "تضيء",
-        "a": "الإطلالة وتجعلها تبدو نبيلة وفاخرة."
+        "a": "وضح أن الدنيم الرمادي هو اللوحة المحايدة الأكثر عصرية. بريق الأحجار على الياقة والحلي الفاخرة \"تضيء\" الإطلالة وتجعلها تبدو نبيلة وفاخرة."
       },
       {
         "q": "أخشى أن يسبب التطريز على الياقة خدوشاً",
@@ -230,7 +222,7 @@
       },
       {
         "q": "من الصعب اختيار حذاء لهذا الطول",
-        "a": "استعرض الحل من دليل التنسيق (lookbook): أحذية البوت العالية Ulisside 0101 0038 تخلق خطاً عمودياً مستمراً، مما يجعل القامة تبدو ممشوقة ويمنح الإطلالة تكاملاً."
+        "a": "استعرض الحل من دليل التنسيق (lookbook): أحذية البوت العالية Ulisside 0101 0038 تخلق خطاً عمودياً مستمراً، مما يجعل القامة تبدو ممشوقة ويمنح الإطلالة تكاملاً. ![](media/image32.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image33.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -240,10 +232,10 @@
       },
       {
         "q": "ნაცრისფერი ფერი უფერული ჩანს",
-        "a": "განუმარტეთ, რომ ნაცრისფერი დენიმი ყველაზე აქტუალური ნეიტრალური ტილოა. საყელოზე ქვების ბზინვარება და საიუველირო ფურნიტურა."
+        "a": "განუმარტეთ, რომ ნაცრისფერი დენიმი ყველაზე აქტუალური ნეიტრალური ტილოა. საყელოზე ქვების ბზინვარება და საიუველირო ფურნიტურა „ანათებს“ იერსახეს, ხდის მას კეთილშობილურსა და ძვირადღირებულს."
       },
       {
-        "q": "ანათებს“ იერსახეს, ხდის მას კეთილშობილურსა და ძვირადღირებულს. «მეშინია, რომ საყელოზე არსებული ნაქარგი გაკაწრავს",
+        "q": "მეშინია, რომ საყელოზე არსებული ნაქარგი გაკაწრავს",
         "a": "შეახსენეთ Luisa Spagnoli-ს შესრულების ხარისხი. ყველა დეკორატიული ელემენტი საიმედოდაა დამაგრებული, ხოლო საყელოს შიდა ნაწილი ისეა დამუშავებული, რომ მაქსიმალური კომფორტი უზრუნველყოს."
       },
       {
@@ -252,39 +244,59 @@
       },
       {
         "q": "რთულია ასეთი სიგრძისთვის ფეხსაცმლის შერჩევა",
-        "a": "აჩვენეთ გადაწყვეტილება Lookbook-იდან: მაღალყელიანი ჩექმები Ulisside 0101 0038 ქმნის უწყვეტ ვერტიკალს, რომელიც ვიზუალურად აგრძელებს სილუეტს და იერსახეს დასრულებულს ხდის."
+        "a": "აჩვენეთ გადაწყვეტილება Lookbook-იდან: მაღალყელიანი ჩექმები Ulisside 0101 0038 ქმნის უწყვეტ ვერტიკალს, რომელიც ვიზუალურად აგრძელებს სილუეტს და იერსახეს დასრულებულს ხდის. ![](media/image32.jpg){width='0.5833333333333334in' height='0.78125in'} ![](media/image33.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
       {
-        "q": "Դենիմը",
-        "a": "չափազանց պարզ է թվում իմ զգեստապահարանի համար» Մատնանշեք ոսկերչական դետալները՝ բյուրեղներով ձեռքի աշխատանքը և թանկարժեք քարերով կոճակները։ Սա մոդելը վերածում է բացառիկ արտադրանքի, որն արժանի է ամենահեղինակավոր ելույթների։ «Մոխրագույն գույնը ձանձրալի է թվում» Բացատրեք, որ մոխրագույն դենիմը ամենաարդիական չեզոք կտավն է։ Օձիքի քարերի փայլը և ոսկերչական ֆուրնիտուրան «լուսավորում» են կերպարը՝ դարձնելով այն ազնիվ և թանկարժեք։ «Վախենում եմ, որ օձիքի ասեղնագործությունը կքերծի» Հիշեցրեք Luisa Spagnoli-ի կատարման որակի մասին։ Բոլոր դեկորատիվ տարրերն ամուր ամրացված են, իսկ օձիքի ներքին մասը մշակված է այնպես, որ ապահովի առավելագույն հարմարավետություն։ «Դենիմը զգեստի համար կոշտ նյութ է» Առաջարկեք փորձել մոդելը։ FW 26 հավաքածուի դենիմի հատուկ մշակումը ապահովում է գործվածքի փափկություն և պլաստիկություն՝ պահպանելով ուրվագծի գծերի հստակությունը։ «Դժվար է կոշիկ ընտրել նման երկարության համար» Ցուցադրեք lookbook-ից լուծումը՝ Ulisside 0101 0038 բարձրահասակ կոշիկները ստեղծում են անընդհատ ուղղահայաց, որը տեսողականորեն երկարացնում է հասակը և կերպարը դարձնում ամբողջական։"
+        "q": "Դենիմը չափազանց պարզ է թվում իմ զգեստապահարանի համար",
+        "a": "Մատնանշեք ոսկերչական դետալները՝ բյուրեղներով ձեռքի աշխատանքը և թանկարժեք քարերով կոճակները։ Սա մոդելը վերածում է բացառիկ արտադրանքի, որն արժանի է ամենահեղինակավոր ելույթների։."
+      },
+      {
+        "q": "Մոխրագույն գույնը ձանձրալի է թվում",
+        "a": "Բացատրեք, որ մոխրագույն դենիմը ամենաարդիական չեզոք կտավն է։ Օձիքի քարերի փայլը և ոսկերչական ֆուրնիտուրան."
+      },
+      {
+        "q": "լուսավորում",
+        "a": "են կերպարը՝ դարձնելով այն ազնիվ և թանկարժեք։."
+      },
+      {
+        "q": "Վախենում եմ, որ օձիքի ասեղնագործությունը կքերծի",
+        "a": "Հիշեցրեք Luisa Spagnoli-ի կատարման որակի մասին։ Բոլոր դեկորատիվ տարրերն ամուր ամրացված են, իսկ օձիքի ներքին մասը մշակված է այնպես, որ ապահովի առավելագույն հարմարավետություն։."
+      },
+      {
+        "q": "Դենիմը զգեստի համար կոշտ նյութ է",
+        "a": "Առաջարկեք փորձել մոդելը։ FW 26 հավաքածուի դենիմի հատուկ մշակումը ապահովում է գործվածքի փափկություն և պլաստիկություն՝ պահպանելով ուրվագծի գծերի հստակությունը։."
+      },
+      {
+        "q": "Դժվար է կոշիկ ընտրել նման երկարության համար",
+        "a": "Ցուցադրեք lookbook-ից լուծումը՝ Ulisside 0101 0038 բարձրահասակ կոշիկները ստեղծում են անընդհատ ուղղահայաց, որը տեսողականորեն երկարացնում է հասակը և կերպարը դարձնում ամբողջական։ ![](media/image32.jpg){width='0.5833333333333334in' height='0.78125in'} ![](media/image33.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Džinss izskatās",
-        "a": "Norādiet uz juvelierizstrādājumu detaļām: ar pārāk vienkāršs manām rokām izšūtiem kristāliem un dārgakmeņu pogām. garderobē Tas pārvērš modeli par ekskluzīvu izstrādājumu, kas cienīgs pašiem statusīgākajiem izgājieniem."
+        "q": "Džinss izskatās Norādiet uz juvelierizstrādājumu detaļām: ar pārāk vienkāršs manām rokām izšūtiem kristāliem un dārgakmeņu pogām. garderobē",
+        "a": "Tas pārvērš modeli par ekskluzīvu izstrādājumu, kas cienīgs pašiem statusīgākajiem izgājieniem."
       },
       {
-        "q": "Pelēkā krāsa šķiet",
-        "a": "Paskaidrojiet, ka pelēkais džinss — tas ir visaktuālākais blāva neitrālais audekls. Akmeņu mirdzums uz apkakles un juvelierizstrādājumu furnitūra."
+        "q": "Pelēkā krāsa šķiet Paskaidrojiet, ka pelēkais džinss --- tas ir visaktuālākais blāva",
+        "a": "neitrālais audekls. Akmeņu mirdzums uz apkakles un juvelierizstrādājumu furnitūra."
       },
       {
         "q": "izgaismo",
         "a": "tēlu, padarot to cēlu un dārgu."
       },
       {
-        "q": "Baidos, ka izšuvumi",
-        "a": "Atgādiniet par Luisa Spagnoli izpildījuma uz apkakles skrāpēs kvalitāti. Visi dekoratīvie elementi ir piestiprināti droši, bet apkakles iekšējā daļa apstrādāta tā, lai nodrošinātu maksimālu komfortu."
+        "q": "Baidos, ka izšuvumi Atgādiniet par Luisa Spagnoli izpildījuma uz apkakles skrāpēs",
+        "a": "kvalitāti. Visi dekoratīvie elementi ir piestiprināti droši, bet apkakles iekšējā daļa apstrādāta tā, lai nodrošinātu maksimālu komfortu."
       },
       {
-        "q": "Džinss — tas ir",
-        "a": "Piedāvājiet pielaikot modeli. Īpaša džinsa apstrāde stingrs materiāls FW 26 kolekcijā nodrošina auduma mīkstumu un kleitai plastiskumu, vienlaikus saglabājot silueta līniju skaidrību."
+        "q": "Džinss --- tas ir Piedāvājiet pielaikot modeli. Īpaša džinsa apstrāde stingrs materiāls FW 26 kolekcijā nodrošina auduma mīkstumu un kleitai",
+        "a": "plastiskumu, vienlaikus saglabājot silueta līniju skaidrību."
       },
       {
-        "q": "Sarežģīti piemeklēt",
-        "a": "Demonstrējiet risinājumu no lookbook: augstie apavus tik gariem zābaki Ulisside 0101 0038 rada nepārtrauktu tērpiem vertikāli, kas vizuāli pagarina augumu un padara tēlu pilnīgu."
+        "q": "Sarežģīti piemeklēt Demonstrējiet risinājumu no lookbook: augstie apavus tik gariem zābaki Ulisside 0101 0038 rada nepārtrauktu tērpiem",
+        "a": "vertikāli, kas vizuāli pagarina augumu un padara tēlu pilnīgu. ![](media/image32.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image33.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [

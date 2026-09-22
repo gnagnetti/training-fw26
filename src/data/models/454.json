@@ -218,34 +218,54 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "used\" effect On the contrary, in the Spagnoli collection, this looks too casual» distressed denim is intended to be worn with structured jackets, such as the Malvia 0202. This creates an on-trend contrast of textures that highlights the wearer's contemporary taste. «Denim isn't a The Olibis jeans are made from premium cotton luxury category» using sartorial finishing techniques. Personalized hardware and an impeccable slim fit place this piece firmly in the \"intelligent denim\" category. «I'm worried the The Luisa Spagnoli pattern is engineered for a slim fit will cling comfortable fit. The fabric has just the right too tightly» elasticity, which delicately traces the silhouette while preserving freedom of movement. «An ankle length This is a runway standard that avoids excess isn't practical for fabric bunching over footwear. Showcase Vetrina winter» 66: paired with the Slalicornia 2262 puffer coat and matching footwear, the look reads as polished and stylish. «How do I care for The \"used\" effect on the Olibis trousers is set such a specific during production. Following the recommended dye treatment?» wash temperature, the piece will retain its unique tone and texture for many seasons"
+        "q": "The \"used\" effect On the contrary, in the Spagnoli collection, this looks too casual",
+        "a": "distressed denim is intended to be worn with structured jackets, such as the Malvia 0202. This creates an on-trend contrast of textures that highlights the wearer's contemporary taste."
+      },
+      {
+        "q": "Denim isn't a The Olibis jeans are made from premium cotton luxury category",
+        "a": "using sartorial finishing techniques. Personalized hardware and an impeccable slim fit place this piece firmly in the \"intelligent denim\" category."
+      },
+      {
+        "q": "I'm worried the The Luisa Spagnoli pattern is engineered for a slim fit will cling comfortable fit. The fabric has just the right too tightly",
+        "a": "elasticity, which delicately traces the silhouette while preserving freedom of movement."
+      },
+      {
+        "q": "An ankle length This is a runway standard that avoids excess isn't practical for fabric bunching over footwear. Showcase Vetrina winter",
+        "a": "66: paired with the Slalicornia 2262 puffer coat and matching footwear, the look reads as polished and stylish."
+      },
+      {
+        "q": "How do I care for The \"used\" effect on the Olibis trousers is set such a specific during production. Following the recommended dye treatment?",
+        "a": "wash temperature, the piece will retain its unique tone and texture for many seasons. ![](media/image121.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image122.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Эффект Напротив, в коллекции Spagnoli деним с эффектом потертости выглядит «used",
-        "a": "предлагается носить со структурными слишком жакетами, такими как Malvia 0202. Это создает повседневно» актуальный контраст фактур, подчеркивающий современный вкус владелицы."
+        "q": "Эффект «потертости",
+        "a": "выглядит слишком повседневно» -> Напротив, в коллекции Spagnoli этот деним предназначен для сочетания со структурированными жакетами, такими как Malvia 0202. Это создает актуальный контраст фактур, подчеркивающий современный вкус владелицы."
       },
       {
-        "q": "Деним — это не Джинсы Olibis выполнены из премиального хлопка сегмент люкс",
-        "a": "с использованием сарториальных техник обработки. Персонализированная фурнитура и безупречная посадка slim переводят эту модель в разряд."
+        "q": "Деним — не люксовая категория",
+        "a": "> Джинсы Olibis выполнены из премиального хлопка с использованием портновских техник обработки. Персонализированная фурнитура и безупречная посадка slim fit относят это изделие к категории."
       },
       {
         "q": "интеллектуального денима",
         "a": "."
       },
       {
-        "q": "Боюсь, что Slim Лекала Luisa Spagnoli разработаны для комфортной Fit будет слишком посадки. Ткань обладает необходимой эластичностью, плотно облегать",
-        "a": "которая деликатно обрисовывает силуэт, сохраняя при этом свободу движений."
+        "q": "Боюсь, узкий крой будет слишком облегать",
+        "a": "> Лекала Luisa Spagnoli разработаны для комфортной посадки. Ткань обладает идеальной эластичностью, которая деликатно очерчивает силуэт, сохраняя свободу движений."
       },
       {
-        "q": "Длина до Это подиумный стандарт, который позволяет избежать щиколотки лишних складок ткани над обувью.",
-        "a": "Продемонстрируйте непрактична для Vetrina 66: в сочетании с пуховиком Slalicornia зимы 2262 и соответствующей обувью образ выглядит собранно и стильно."
+        "q": "Длина до щиколотки непрактична для зимы",
+        "a": "> Это подиумный стандарт, позволяющий избежать лишних складок ткани над обувью. Покажите Vetrina 66: в сочетании с пуховиком Slalicornia 2262 и подходящей обувью образ выглядит собранным и стильным."
       },
       {
-        "q": "Как ухаживать за Эффект «used",
-        "a": "на брюках Olibis зафиксирован на таким специфическим этапе производства. При соблюдении температурного крашением?» режима стирки изделие сохранит свой уникальный оттенок и фактуру на протяжении многих сезонов."
+        "q": "Как ухаживать за такой специфической обработкой?",
+        "a": "> Эффект."
+      },
+      {
+        "q": "потертости",
+        "a": "на брюках Olibis зафиксирован при производстве. При соблюдении рекомендованного температурного режима стирки изделие сохранит свой уникальный оттенок и фактуру на многие сезоны."
       }
     ],
     "ar": [
@@ -275,7 +295,7 @@
       },
       {
         "q": "used",
-        "a": "على بناطيل Olibis مثبت في مرحلة الإنتاج. عند الالتزام بتعليمات درجة حرارة الغسيل، ستحتفظ القطعة بلونها الفريد وملمسها لعدة مواسم."
+        "a": "على بناطيل Olibis مثبت في مرحلة الإنتاج. عند الالتزام بتعليمات درجة حرارة الغسيل، ستحتفظ القطعة بلونها الفريد وملمسها لعدة مواسم. ![](media/image121.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image122.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -301,12 +321,12 @@
       },
       {
         "q": "როგორ მოვუაროთ ასეთ Olibis-ის შარვალზე ეფექტი «used",
-        "a": "დაფიქსირებულია სპეციფიკურ შეღებვას?» წარმოების ეტაპზე. რეცხვის ტემპერატურული რეჟიმის დაცვის შემთხვევაში ნაწარმი შეინარჩუნებს თავის უნიკალურ ელფერს და ფაქტურას მრავალი სეზონის განმავლობაში."
+        "a": "დაფიქსირებულია სპეციფიკურ შეღებვას?» წარმოების ეტაპზე. რეცხვის ტემპერატურული რეჟიმის დაცვის შემთხვევაში ნაწარმი შეინარჩუნებს თავის უნიკალურ ელფერს და ფაქტურას მრავალი სეზონის განმავლობაში. ![](media/image121.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image122.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
       {
-        "q": "Used",
+        "q": "«Used",
         "a": "էֆեկտը չափազանց առօրյա է երևում» Ընդհակառակը, Spagnoli հավաքածուում մաշվածության էֆեկտով դենիմն առաջարկվում է կրել կառուցվածքային բաճկոններով, ինչպիսիք են Malvia 0202-ը: Սա ստեղծում է ֆակտուրաների արդիական հակադրություն, որն ընդգծում է տիրոջ ժամանակակից ճաշակը."
       },
       {
@@ -331,16 +351,16 @@
       },
       {
         "q": "used",
-        "a": "էֆեկտն ամրագրված է արտադրության փուլում: Լվացքի ջերմաստիճանային ռեժիմը պահպանելու դեպքում հագուստը կպահպանի իր յուրահատուկ երանգը և ֆակտուրան բազմաթիվ սեզոնների ընթացքում."
+        "a": "էֆեկտն ամրագրված է արտադրության փուլում: Լվացքի ջերմաստիճանային ռեժիմը պահպանելու դեպքում հագուստը կպահպանի իր յուրահատուկ երանգը և ֆակտուրան բազմաթիվ սեզոնների ընթացքում: ![](media/image121.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image122.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Used",
+        "q": "«Used",
         "a": "efekts izskatās Pretēji, Spagnoli kolekcijā džinsus ar nolietojuma pārāk ikdienišķi» efektu piedāvāts nēsāt ar strukturētām jakām, tādām kā Malvia 0202. Tas rada aktuālu faktūru kontrastu, izceļot īpašnieces mūsdienīgo gaumi."
       },
       {
-        "q": "Džinss — tas nav Olibis džinsi ir izgatavoti no premium klases kokvilnas luksusa segments",
+        "q": "Džinss --- tas nav Olibis džinsi ir izgatavoti no premium klases kokvilnas luksusa segments",
         "a": "izmantojot sartoriālas apstrādes tehnikas. Personalizētā furnitūra un nevainojamais slim piegulums pārceļ šo modeli."
       },
       {
@@ -357,7 +377,7 @@
       },
       {
         "q": "Kā kopt tik specifisku «Used",
-        "a": "efekts uz Olibis biksēm ir fiksēts ražošanas krāsojumu?» posmā. Ievērojot mazgāšanas temperatūras režīmu, izstrādājums saglabās savu unikālo toni un faktūru daudzu sezonu garumā."
+        "a": "efekts uz Olibis biksēm ir fiksēts ražošanas krāsojumu?» posmā. Ievērojot mazgāšanas temperatūras režīmu, izstrādājums saglabās savu unikālo toni un faktūru daudzu sezonu garumā. ![](media/image121.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image122.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -393,7 +413,7 @@
       },
       {
         "q": "used",
-        "a": "na spodniach Olibis został utrwalony na etapie produkcji. Przy przestrzeganiu reżimu temperaturowego prania, wyrób zachowa swój unikalny odcień i fakturę przez wiele sezonów."
+        "a": "na spodniach Olibis został utrwalony na etapie produkcji. Przy przestrzeganiu reżimu temperaturowego prania, wyrób zachowa swój unikalny odcień i fakturę przez wiele sezonów. ![](media/image121.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image122.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "uk": [

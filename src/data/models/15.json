@@ -283,46 +283,46 @@
   "objections": {
     "en": [
       {
-        "q": "Wool blended with alpaca may cause prickling on the skin.",
+        "q": "Wool blended with alpaca may cause prickling on the skin",
         "a": "This model uses top-grade alpaca combined with polyamide to stabilize the yarn, guaranteeing a silky texture and comfort even for sensitive skin."
       },
       {
-        "q": "The jacquard pattern seems too bold.",
+        "q": "The jacquard pattern seems too bold",
         "a": "The pattern is rendered in noble, natural tones, allowing the pullover to become a status-defining accent to the look while preserving overall elegance and restraint."
       },
       {
-        "q": "Gathered shoulders may visually widen the upper body.",
+        "q": "Gathered shoulders may visually widen the upper body",
         "a": "On the contrary, the soft draping at the shoulders, combined with the straight Regular fit cut, structures the silhouette, creating feminine, harmonious proportions."
       },
       {
-        "q": "Concern about caring for such delicate jacquard.",
+        "q": "Concern about caring for such delicate jacquard",
         "a": "We recommend professional cleaning, which will preserve the knit's voluminous texture and the brightness of the jacquard pattern for a long time to come."
       },
       {
-        "q": "The model looks too dressy for everyday office wear.",
+        "q": "The model looks too dressy for everyday office wear",
         "a": "Style Cremona with basic Olla jeans or tailored Olivetano trousers to create a Casual Chic look, where luxury is expressed through the details."
       }
     ],
     "ru": [
       {
-        "q": "Шерсть с альпакой может вызывать покалывание на коже.",
-        "a": "В данной модели используется альпака высшей категории в сочетании с полиамидом для стабилизации нити, что гарантирует шелковистую текстуру и комфорт даже для чувствительной кожи."
+        "q": "Шерсть с добавлением альпаки может колоться",
+        "a": "В этой модели используется альпака высшего качества в сочетании с полиамидом для стабилизации нити, что гарантирует шелковистую текстуру и комфорт даже для чувствительной кожи."
       },
       {
-        "q": "Жаккардовый узор кажется слишком насыщенным.",
-        "a": "Узор выполнен в благородных природных оттенках, что позволяет пуловеру стать статусным акцентом образа, сохраняя при этом общую элегантность и сдержанность."
+        "q": "Жаккардовый узор кажется слишком броским",
+        "a": "Узор выполнен в благородных, естественных тонах, что позволяет пуловеру стать статусным акцентом образа, сохраняя при этом элегантность и сдержанность."
       },
       {
-        "q": "Присобранные плечи могут визуально расширять верхнюю часть фигуры.",
+        "q": "Сборка на плечах может визуально расширять верхнюю часть тела",
         "a": "Напротив, мягкая драпировка на плечах в сочетании с прямым кроем Regular fit структурирует силуэт, создавая женственные и гармоничные пропорции."
       },
       {
-        "q": "Сложность в уходе за таким деликатным жаккардом.",
-        "a": "Мы рекомендуем профессиональную чистку, которая позволит надолго сохранить объемную фактуру вязки и яркость жаккардового рисунка."
+        "q": "Беспокойство об уходе за таким деликатным жаккардом",
+        "a": "Мы рекомендуем профессиональную чистку, которая сохранит объемную текстуру вязки и яркость жаккардового узора на долгое время."
       },
       {
-        "q": "Модель выглядит слишком нарядной для офисных будней.",
-        "a": "Стилизуйте Cremona с базовыми джинсами Olla или строгими брюками Olivetano для создания образа в стиле Casual Chic, где роскошь проявляется в деталях."
+        "q": "Модель выглядит слишком нарядно для офиса",
+        "a": "Сочетайте Cremona с базовыми джинсами Olla или классическими брюками Olivetano для создания образа в стиле Casual Chic, где роскошь выражается через детали."
       }
     ],
     "ar": [
@@ -345,133 +345,133 @@
     ],
     "ka": [
       {
-        "q": "ალპაკას მატყლმა შესაძლოა კანზე ჩხვლეტა გამოიწვიოს.",
+        "q": "ალპაკას მატყლმა შესაძლოა კანზე ჩხვლეტა გამოიწვიოს",
         "a": "ამ მოდელში გამოყენებულია უმაღლესი კატეგორიის ალპაკა პოლიამიდთან ერთად ძაფის სტაბილიზაციისთვის, რაც გარანტიას იძლევა აბრეშუმისებრი ტექსტურისა და კომფორტის შესახებ მგრძნობიარე კანისთვისაც კი."
       },
       {
-        "q": "ჟაკარდის ორნამენტი ზედმეტად გადატვირთული ჩანს.",
+        "q": "ჟაკარდის ორნამენტი ზედმეტად გადატვირთული ჩანს",
         "a": "ორნამენტი შესრულებულია კეთილშობილურ ბუნებრივ ტონებში, რაც საშუალებას აძლევს პულოვერს გახდეს იმიჯის სტატუსური აქცენტი და ამავდროულად შეინარჩუნოს საერთო ელეგანტურობა და თავშეკავებულობა."
       },
       {
-        "q": "შეკრული მხრები შესაძლოა ვიზუალურად აფართოებდეს ფიგურის ზედა ნაწილს.",
+        "q": "შეკრული მხრები შესაძლოა ვიზუალურად აფართოებდეს ფიგურის ზედა ნაწილს",
         "a": "პირიქით, მხრებზე არსებული რბილი დრეპირება პირდაპირ Regular fit კროისთან ერთად აწყობს სილუეტს და ქმნის ქალურ და ჰარმონიულ პროპორციებს."
       },
       {
-        "q": "ასეთი დელიკატური ჟაკარდის მოვლის სირთულე.",
+        "q": "ასეთი დელიკატური ჟაკარდის მოვლის სირთულე",
         "a": "ჩვენ გირჩევთ პროფესიონალურ წმენდას, რომელიც საშუალებას მოგცემთ დიდხანს შეინარჩუნოთ ქსოვის მოცულობითი ფაქტურა და ჟაკარდის ნახატის სიკაშკაშე."
       },
       {
-        "q": "მოდელი ოფისის ყოველდღიურობისთვის ზედმეტად გამოპრანჭული ჩანს.",
+        "q": "მოდელი ოფისის ყოველდღიურობისთვის ზედმეტად გამოპრანჭული ჩანს",
         "a": "გააფორმეთ Cremona ძირითადი Olla-ს ჯინსებით ან მკაცრი Olivetano-ს შარვლებით Casual Chic სტილის იმიჯის შესაქმნელად, სადაც ფუფუნება დეტალებში ვლინდება."
       }
     ],
     "hy": [
       {
         "q": "Ալպակայով բուրդը կարող է ծակծկոց առաջացնել մաշկի վրա։",
-        "a": "Այս մոդելում օգտագործվում է բարձր կարգի ալպակա՝ պոլիամիդի հետ համադրությամբ՝ թելի կայունացման համար, ինչը երաշխավորում է մետաքսանման հյուսվածք և հարմարավետություն նույնիսկ զգայուն մաշկի համար։"
+        "a": "Այս մոդելում օգտագործվում է բարձր կարգի ալպակա՝ պոլիամիդի հետ համադրությամբ՝ թելի կայունացման համար, ինչը երաշխավորում է մետաքսանման հյուսվածք և հարմարավետություն նույնիսկ զգայուն մաշկի համար։."
       },
       {
         "q": "Ժակարդային նախշը շատ հագեցած է թվում։",
-        "a": "Նախշը կատարված է ազնվական բնական երանգներով, ինչը թույլ է տալիս պուլովերին դառնալ կերպարի ստատուսային շեշտադրում՝ պահպանելով միաժամանակ ընդհանուր էլեգանտությունը և զսպվածությունը։"
+        "a": "Նախշը կատարված է ազնվական բնական երանգներով, ինչը թույլ է տալիս պուլովերին դառնալ կերպարի ստատուսային շեշտադրում՝ պահպանելով միաժամանակ ընդհանուր էլեգանտությունը և զսպվածությունը։."
       },
       {
         "q": "Հավաքված ուսերը կարող են տեսողականորեն լայնացնել կազմվածքի վերին մասը։",
-        "a": "Ընդհակառակը, ուսերի նուրբ դրապիրովկան՝ ուղիղ Regular fit ձևվածքի հետ համադրությամբ, կառուցվածքավորում է ուրվագիծը՝ ստեղծելով կանացի և ներդաշնակ համաչափություններ։"
+        "a": "Ընդհակառակը, ուսերի նուրբ դրապիրովկան՝ ուղիղ Regular fit ձևվածքի հետ համադրությամբ, կառուցվածքավորում է ուրվագիծը՝ ստեղծելով կանացի և ներդաշնակ համաչափություններ։."
       },
       {
         "q": "Նման նուրբ ժակարդի խնամքի բարդությունը։",
-        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ մաքրում, որը թույլ կտա երկար ժամանակ պահպանել հյուսվածքի ծավալային ֆակտուրան և ժակարդային նախշի պայծառությունը։"
+        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ մաքրում, որը թույլ կտա երկար ժամանակ պահպանել հյուսվածքի ծավալային ֆակտուրան և ժակարդային նախշի պայծառությունը։."
       },
       {
         "q": "Մոդելը գրասենյակային առօրյայի համար շատ տոնական է թվում։",
-        "a": "Ոճավորեք Cremona-ն բազային Olla ջինսերի կամ խիստ Olivetano տաբատների հետ՝ Casual Chic ոճով կերպար ստեղծելու համար, որտեղ շքեղությունը դրսևորվում է դետալներում։"
+        "a": "Ոճավորեք Cremona-ն բազային Olla ջինսերի կամ խիստ Olivetano տաբատների հետ՝ Casual Chic ոճով կերպար ստեղծելու համար, որտեղ շքեղությունը դրսևորվում է դետալներում։."
       }
     ],
     "lv": [
       {
-        "q": "Vilna ar alpakas vilnu var radīt kņudoņu uz ādas.",
+        "q": "Vilna ar alpakas vilnu var radīt kņudoņu uz ādas",
         "a": "Šajā modelī tiek izmantota augstākās kategorijas alpaka kombinācijā ar poliamīdu pavediena stabilizēšanai, kas garantē zīdainu tekstūru un komfortu pat jutīgai ādai."
       },
       {
-        "q": "Žakarda raksts šķiet pārāk piesātināts.",
+        "q": "Žakarda raksts šķiet pārāk piesātināts",
         "a": "Raksts ir veidots cēlos dabas toņos, kas ļauj džemperim kļūt par stilīgu tēla akcentu, vienlaikus saglabājot vispārējo eleganci un atturību."
       },
       {
-        "q": "Sakrokoti pleci var vizuāli paplašināt figūras augšdaļu.",
+        "q": "Sakrokoti pleci var vizuāli paplašināt figūras augšdaļu",
         "a": "Gluži pretēji, maiga drapējums uz pleciem kombinācijā ar taisno Regular fit piegriezumu strukturē siluetu, radot sievišķīgas un harmoniskas proporcijas."
       },
       {
-        "q": "Sarežģīta kopšana tik smalkam žakardam.",
+        "q": "Sarežģīta kopšana tik smalkam žakardam",
         "a": "Mēs iesakām profesionālo tīrīšanu, kas ļaus ilgstoši saglabāt adījuma apjomīgo faktūru un žakarda raksta spilgtumu."
       },
       {
-        "q": "Modelis izskatās pārāk svinīgs ikdienas darbam birojā.",
+        "q": "Modelis izskatās pārāk svinīgs ikdienas darbam birojā",
         "a": "Stilējiet Cremona ar bāzes Olla džinsiem vai stingrām Olivetano biksēm, lai radītu Casual Chic stila tēlu, kur greznība izpaužas detaļās."
       }
     ],
     "lt": [
       {
-        "q": "Vilna su alpakos vilna gali kelti dilgčiojimą ant odos.",
+        "q": "Vilna su alpakos vilna gali kelti dilgčiojimą ant odos",
         "a": "Šiame modelyje naudojama aukščiausios kategorijos alpaka kartu su poliamidu siūlui stabilizuoti, kas garantuoja šilkinę tekstūrą ir komfortą net jautriai odai."
       },
       {
-        "q": "Žakardinis raštas atrodo per daug ryškus.",
+        "q": "Žakardinis raštas atrodo per daug ryškus",
         "a": "Raštas atliktas kilniais natūraliais atspalviais, leidžiančiais megztiniui tapti statusišku įvaizdžio akcentu, kartu išlaikant bendrą eleganciją ir santūrumą."
       },
       {
-        "q": "Pritraukti pečiai gali vizualiai platinti viršutinę figūros dalį.",
+        "q": "Pritraukti pečiai gali vizualiai platinti viršutinę figūros dalį",
         "a": "Priešingai, minkštas drapiravimas ant pečių kartu su tiesiu kirpimu Regular fit struktūrizuoja siluetą, sukuriant moteriškas ir harmoningas proporcijas."
       },
       {
-        "q": "Sudėtinga priežiūra tokiam subtiliam žakardui.",
+        "q": "Sudėtinga priežiūra tokiam subtiliam žakardui",
         "a": "Rekomenduojame profesionalų valymą, kuris leis ilgam išsaugoti purią mezgimo faktūrą ir žakardinio rašto ryškumą."
       },
       {
-        "q": "Modelis atrodo pernelyg puošnus kasdieniam biuro stiliui.",
+        "q": "Modelis atrodo pernelyg puošnus kasdieniam biuro stiliui",
         "a": "Derinkite Cremona su baziniais džinsais Olla arba griežtomis kelnėmis Olivetano, kad sukurtumėte Casual Chic stiliaus įvaizdį, kur prabanga atsiskleidžia per detales."
       }
     ],
     "pl": [
       {
-        "q": "Wełna z alpaką może powodować kłucie na skórze.",
+        "q": "Wełna z alpaką może powodować kłucie na skórze",
         "a": "W tym modelu wykorzystano alpakę najwyższej kategorii w połączeniu z poliamidem w celu stabilizacji nici, co gwarantuje jedwabistą fakturę i komfort nawet dla wrażliwej skóry."
       },
       {
-        "q": "Wzór żakardowy wydaje się zbyt intensywny.",
+        "q": "Wzór żakardowy wydaje się zbyt intensywny",
         "a": "Wzór wykonany jest w szlachetnych, naturalnych odcieniach, co pozwala swetrowi stać się prestiżowym akcentem stylizacji, przy jednoczesnym zachowaniu ogólnej elegancji i powściągliwości."
       },
       {
-        "q": "Marszczone ramiona mogą wizualnie poszerzać górną część sylwetki.",
+        "q": "Marszczone ramiona mogą wizualnie poszerzać górną część sylwetki",
         "a": "Wręcz przeciwnie, miękka drapowanie na ramionach w połączeniu z prostym krojem Regular fit strukturyzuje sylwetkę, tworząc kobiece i harmonijne proporcje."
       },
       {
-        "q": "Trudność w pielęgnacji tak delikatnego żakardu.",
+        "q": "Trudność w pielęgnacji tak delikatnego żakardu",
         "a": "Zalecamy profesjonalne czyszczenie, które pozwoli na długo zachować objętościową fakturę dzianiny i wyrazistość wzoru żakardowego."
       },
       {
-        "q": "Model wygląda zbyt odświętnie do pracy w biurze.",
+        "q": "Model wygląda zbyt odświętnie do pracy w biurze",
         "a": "Stylizuj Cremona z klasycznymi dżinsami Olla lub eleganckimi spodniami Olivetano, aby stworzyć stylizację w duchu Casual Chic, gdzie luksus przejawia się w detalach."
       }
     ],
     "uk": [
       {
-        "q": "Вовна з альпакою може викликати поколювання на шкірі.",
+        "q": "Вовна з альпакою може викликати поколювання на шкірі",
         "a": "У цій моделі використовується альпака вищої категорії у поєднанні з поліамідом для стабілізації нитки, що гарантує шовковисту текстуру та комфорт навіть для чутливої шкіри."
       },
       {
-        "q": "Жаккардовий візерунок здається занадто насиченим.",
+        "q": "Жаккардовий візерунок здається занадто насиченим",
         "a": "Візерунок виконаний у благородних природних відтінках, що дозволяє пуловеру стати статусною акцентом образу, зберігаючи при цьому загальну елегантність та стриманість."
       },
       {
-        "q": "Призібрані плечі можуть візуально розширювати верхню частину фігури.",
+        "q": "Призібрані плечі можуть візуально розширювати верхню частину фігури",
         "a": "Навпаки, м'яке драпірування на плечах у поєднанні з прямим кроєм Regular fit структурує силует, створюючи жіночні та гармонійні пропорції."
       },
       {
-        "q": "Складність у догляді за таким делікатним жаккардом.",
+        "q": "Складність у догляді за таким делікатним жаккардом",
         "a": "Ми рекомендуємо професійну чистку, яка дозволить надовго зберегти об'ємну фактуру в'язки та яскравість жаккардового малюнка."
       },
       {
-        "q": "Модель виглядає занадто ошатною для офісних буднів.",
+        "q": "Модель виглядає занадто ошатною для офісних буднів",
         "a": "Стилізуйте Cremona з базовими джинсами Olla або строгими брюками Olivetano для створення образу в стилі Casual Chic, де розкіш проявляється в деталях."
       }
     ]

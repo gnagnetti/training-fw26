@@ -198,200 +198,200 @@
   "objections": {
     "en": [
       {
-        "q": "I feel the leather jacket may be too heavy.",
+        "q": "I feel the leather jacket may be too heavy",
         "a": "Clarify that the raglan sleeve cut distributes weight evenly across the shoulders, while the softness of the leather ensures ease and freedom of movement."
       },
       {
-        "q": "The double-breasted cut visually widens the figure.",
+        "q": "The double-breasted cut visually widens the figure",
         "a": "Demonstrate how the waist drawstring works: it instantly removes excess volume, creating a clean, feminine silhouette."
       },
       {
-        "q": "Brown shade 0996 is difficult to pair with other tones.",
-        "a": "Show Look 49, where this noble shade harmonizes with the pastel palette of the Liceali shirt, becoming a neutral, stylish base."
+        "q": "Brown shade 0996 is difficult to pair with other tones",
+        "a": "Show Look 49, where this noble shade harmonizes with the pastel palette of the Liceali shirt (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/S82WH97wQzu4sRcO5wWaUQ_2103315294696f4306d83529_32198325_02821400XX1.jpg becoming a neutral, stylish base."
       },
       {
-        "q": "Leather requires overly complex care.",
+        "q": "Leather requires overly complex care",
         "a": "This model's grained texture is exceptionally resistant to minor scratches and abrasions, making Spareggio the ideal choice for an active city life."
       },
       {
-        "q": "This style looks too sporty for a classic wardrobe.",
-        "a": "Point out the details: the leather-covered buttons and welt pockets lend the jacket an aristocratic feel, allowing it to be worn even with the classic Odini trousers."
+        "q": "This style looks too sporty for a classic wardrobe",
+        "a": "Point out the details: the leather-covered buttons and welt pockets lend the jacket an aristocratic feel, allowing it to be worn even with the classic Odini trousers (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg."
       }
     ],
     "ru": [
       {
-        "q": "Мне кажется, кожаная куртка может быть слишком тяжелой.",
-        "a": "Уточните, что крой рукава реглан оптимально распределяет нагрузку на плечи, а мягкость выделки гарантирует легкость и свободу движений."
+        "q": "Мне кажется, кожаная куртка может быть слишком тяжелой",
+        "a": "Крой рукава реглан равномерно распределяет вес по плечам, а мягкость кожи обеспечивает легкость и свободу движений."
       },
       {
-        "q": "Двубортный крой визуально расширяет фигуру.",
-        "a": "Продемонстрируйте работу кулиски на талии: она мгновенно убирает лишний объем, создавая четкий женственный силуэт."
+        "q": "Двубортный крой визуально расширяет фигуру",
+        "a": "Позвольте показать, как работает кулиска на талии: она мгновенно убирает лишний объем, создавая чистый, женственный силуэт."
       },
       {
-        "q": "Коричневый цвет 0996 сложно сочетать с другими оттенками.",
-        "a": "Покажите Look 49, где этот благородный оттенок гармонирует с пастельной гаммой рубашки Liceali, становясь нейтральной и стильной базой."
+        "q": "Коричневый оттенок 0996 сложно сочетать с другими тонами",
+        "a": "Взгляните на образ 49, где этот благородный оттенок гармонирует с пастельной палитрой рубашки Liceali, становясь нейтральной и стильной базой."
       },
       {
-        "q": "Кожа требует слишком сложного ухода.",
-        "a": "Зернистая фактура этой модели чрезвычайно устойчива к мелким царапинам и повреждениям, что делает Spareggio идеальным выбором для активной городской жизни."
+        "q": "Кожа требует слишком сложного ухода",
+        "a": "Зернистая фактура этой модели исключительно устойчива к мелким царапинам и потертостям, что делает Spareggio идеальным выбором для активной городской жизни."
       },
       {
-        "q": "Этот фасон выглядит слишком спортивно для классического гардероба.",
-        "a": "Обратите внимание на детали: пуговицы, обтянутые кожей, и прорезные карманы придают куртке аристократичный вид, позволяя носить её даже с классическими брюками Odini."
+        "q": "Этот стиль выглядит слишком спортивно для классического гардероба",
+        "a": "Обратите внимание на детали: обтянутые кожей пуговицы и прорезные карманы придают куртке аристократичный вид, позволяя носить ее даже с классическими брюками Odini."
       }
     ],
     "ar": [
       {
-        "q": "أشعر أن السترة الجلدية قد تكون ثقيلة جداً.",
+        "q": "أشعر أن السترة الجلدية قد تكون ثقيلة جداً",
         "a": "وضحي أن تصميم الأكمام بنمط \"الراجلان\" يوزع الثقل بشكل مثالي على الكتفين، وأن نعومة المعالجة تضمن الخفة وحرية الحركة."
       },
       {
-        "q": "القصة مزدوجة الصدر توسع القوام بصرياً.",
+        "q": "القصة مزدوجة الصدر توسع القوام بصرياً",
         "a": "استعرضي وظيفة رباط الخصر: فهو يزيل الحجم الزائد فوراً، مما يخلق صورة ظلية أنثوية دقيقة."
       },
       {
-        "q": "اللون البني 0996 يصعب تنسيقه مع درجات أخرى.",
-        "a": "اعرضي Look 49، حيث تتناغم هذه الدرجة النبيلة مع لوحة الألوان الباستيل لقميص Liceali، لتصبح أساساً محايداً وأنيقاً."
+        "q": "اللون البني 0996 يصعب تنسيقه مع درجات أخرى",
+        "a": "اعرضي Look 49، حيث تتناغم هذه الدرجة النبيلة مع لوحة الألوان الباستيل لقميص Liceali (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/S82WH97wQzu4sRcO5wWaUQ_2103315294696f4306d83529_32198325_02821400XX1.jpg لتصبح أساساً محايداً وأنيقاً."
       },
       {
-        "q": "الجلد يتطلب عناية معقدة للغاية.",
+        "q": "الجلد يتطلب عناية معقدة للغاية",
         "a": "القوام الحبيبي لهذا الطراز مقاوم للغاية للخدوش البسيطة والتلف، مما يجعل Spareggio الخيار المثالي لحياة المدينة النشطة."
       },
       {
-        "q": "هذا التصميم يبدو رياضياً أكثر من اللازم لخزانة الملابس الكلاسيكية.",
-        "a": "انتبهي إلى التفاصيل: الأزرار المغطاة بالجلد والجيوب المائلة تضفي على السترة مظهراً أرستقراطياً، مما يسمح بارتدائها حتى مع سراويل Odini الكلاسيكية."
+        "q": "هذا التصميم يبدو رياضياً أكثر من اللازم لخزانة الملابس الكلاسيكية",
+        "a": "انتبهي إلى التفاصيل: الأزرار المغطاة بالجلد والجيوب المائلة تضفي على السترة مظهراً أرستقراطياً، مما يسمح بارتدائها حتى مع سراويل Odini الكلاسيكية (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg."
       }
     ],
     "ka": [
       {
-        "q": "მგონი, ტყავის ქურთუკი შესაძლოა ზედმეტად მძიმე იყოს.",
+        "q": "მგონი, ტყავის ქურთუკი შესაძლოა ზედმეტად მძიმე იყოს",
         "a": "დააკონკრეტეთ, რომ რეგლანის სახელოს კრაკი მხრებზე დატვირთვას ოპტიმალურად ანაწილებს, ხოლო დამუშავების სიმსუბუქე უზრუნველყოფს სიმსუბუქესა და მოძრაობის თავისუფლებას."
       },
       {
-        "q": "ორბორტიანი კრაკი ვიზუალურად აფართოებს ფიგურას.",
+        "q": "ორბორტიანი კრაკი ვიზუალურად აფართოებს ფიგურას",
         "a": "აჩვენეთ წელზე არსებული კულირის მუშაობა: ის მყისიერად აქრობს ზედმეტ მოცულობას და ქმნის მკაფიო, ქალურ სილუეტს."
       },
       {
-        "q": "ყავისფერი 0996 სხვა ტონებთან შეხამება რთულია.",
-        "a": "აჩვენეთ Look 49, სადაც ეს კეთილშობილური ტონი ჰარმონიაშია Liceali-ს პერანგის პასტელურ გამასთან და იქცევა ნეიტრალურ და სტილურ ბაზად."
+        "q": "ყავისფერი 0996 სხვა ტონებთან შეხამება რთულია",
+        "a": "აჩვენეთ Look 49, სადაც ეს კეთილშობილური ტონი ჰარმონიაშია Liceali-ს პერანგის პასტელურ გამასთან (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/S82WH97wQzu4sRcO5wWaUQ_2103315294696f4306d83529_32198325_02821400XX1.jpg და იქცევა ნეიტრალურ და სტილურ ბაზად."
       },
       {
-        "q": "ტყავი მოითხოვს ზედმეტად რთულ მოვლას.",
+        "q": "ტყავი მოითხოვს ზედმეტად რთულ მოვლას",
         "a": "ამ მოდელის მარცვლოვანი ფაქტურა უკიდურესად მდგრადია წვრილი ნაკაწრებისა და დაზიანებების მიმართ, რაც Spareggio-ს აქტიური საქალაქო ცხოვრებისთვის იდეალურ არჩევანად აქცევს."
       },
       {
-        "q": "ეს ფასონი ზედმეტად სპორტულად გამოიყურება კლასიკური გარდერობისთვის.",
-        "a": "ყურადღება მიაქციეთ დეტალებს: ტყავით შემოსილი ღილები და ჭრილიანი ჯიბეები ქურთუკს არისტოკრატულ იერს ანიჭებს, რაც საშუალებას იძლევა ატაროთ ის თუნდაც კლასიკურ Odini-ს შარვალთან."
+        "q": "ეს ფასონი ზედმეტად სპორტულად გამოიყურება კლასიკური გარდერობისთვის",
+        "a": "ყურადღება მიაქციეთ დეტალებს: ტყავით შემოსილი ღილები და ჭრილიანი ჯიბეები ქურთუკს არისტოკრატულ იერს ანიჭებს, რაც საშუალებას იძლევა ატაროთ ის თუნდაც კლასიკურ Odini-ს შარვალთან (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg."
       }
     ],
     "hy": [
       {
         "q": "Կարծում եմ՝ կաշվե բաճկոնը կարող է շատ ծանր լինել։",
-        "a": "Պարզաբանեք, որ ռեգլան թևքի կտրվածքն օպտիմալ կերպով բաշխում է ծանրաբեռնվածությունը ուսերին, իսկ մշակման փափկությունը երաշխավորում է թեթևություն և շարժումների ազատություն։"
+        "a": "Պարզաբանեք, որ ռեգլան թևքի կտրվածքն օպտիմալ կերպով բաշխում է ծանրաբեռնվածությունը ուսերին, իսկ մշակման փափկությունը երաշխավորում է թեթևություն և շարժումների ազատություն։."
       },
       {
         "q": "Երկկողմանի կտրվածքը տեսողականորեն լայնացնում է կազմվածքը։",
-        "a": "Ցույց տվեք գոտկատեղի քուղի աշխատանքը. այն ակնթարթորեն հեռացնում է ավելորդ ծավալը՝ ստեղծելով հստակ, կանացի ուրվագիծ։"
+        "a": "Ցույց տվեք գոտկատեղի քուղի աշխատանքը. այն ակնթարթորեն հեռացնում է ավելորդ ծավալը՝ ստեղծելով հստակ, կանացի ուրվագիծ։."
       },
       {
         "q": "0996 շագանակագույնը դժվար է համադրել այլ երանգների հետ։",
-        "a": "Ցույց տվեք Look 49-ը, որտեղ այս ազնվական երանգը ներդաշնակում է Liceali վերնաշապիկի պաստելային գամմային ՝ դառնալով չեզոք և նորաձև բազա։"
+        "a": "Ցույց տվեք Look 49-ը, որտեղ այս ազնվական երանգը ներդաշնակում է Liceali վերնաշապիկի պաստելային գամմային (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/S82WH97wQzu4sRcO5wWaUQ_2103315294696f4306d83529_32198325_02821400XX1.jpg դառնալով չեզոք և նորաձև բազա։."
       },
       {
         "q": "Կաշին պահանջում է շատ բարդ խնամք։",
-        "a": "Այս մոդելի հատիկավոր հյուսվածքը չափազանց դիմացկուն է մանր քերծվածքների և վնասվածքների նկատմամբ, ինչը Spareggio-ն դարձնում է իդեալական ընտրություն քաղաքային ակտիվ կյանքի համար։"
+        "a": "Այս մոդելի հատիկավոր հյուսվածքը չափազանց դիմացկուն է մանր քերծվածքների և վնասվածքների նկատմամբ, ինչը Spareggio-ն դարձնում է իդեալական ընտրություն քաղաքային ակտիվ կյանքի համար։."
       },
       {
         "q": "Այս ֆասոնը չափազանց սպորտային է դասական զգեստապահարանի համար։",
-        "a": "Ուշադրություն դարձրեք մանրուքներին. կաշվով պատված կոճակները և ներկարված գրպանները բաճկոնին հաղորդում են արիստոկրատ տեսք՝ թույլ տալով այն կրել նույնիսկ Odini դասական տաբատների հետ"
+        "a": "Ուշադրություն դարձրեք մանրուքներին. կաշվով պատված կոճակները և ներկարված գրպանները բաճկոնին հաղորդում են արիստոկրատ տեսք՝ թույլ տալով այն կրել նույնիսկ Odini դասական տաբատների հետ (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg."
       }
     ],
     "lv": [
       {
-        "q": "Man šķiet, ka ādas jaka var būt pārāk smaga.",
+        "q": "Man šķiet, ka ādas jaka var būt pārāk smaga",
         "a": "Precizējiet, ka reglāna piedurkņu piegriezums optimāli sadala slodzi uz pleciem, bet ādas apstrādes mīkstums garantē vieglumu un kustību brīvību."
       },
       {
-        "q": "Divrindu aizdare vizuāli paplašina figūru.",
+        "q": "Divrindu aizdare vizuāli paplašina figūru",
         "a": "Demonstrējiet jostasvietas savelkamās auklas darbību: tā acumirklī noņem lieko apjomu, veidojot skaidru un sievišķīgu siluetu."
       },
       {
-        "q": "Brūnā krāsa 0996 ir grūti kombinējama ar citiem toņiem.",
-        "a": "Parādiet Look 49, kur šis cēlais tonis harmonizē ar Liceali krekla pasteļtoņu gammu, kļūstot par neitrālu un stilīgu pamatu."
+        "q": "Brūnā krāsa 0996 ir grūti kombinējama ar citiem toņiem",
+        "a": "Parādiet Look 49, kur šis cēlais tonis harmonizē ar Liceali krekla pasteļtoņu gammu (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/S82WH97wQzu4sRcO5wWaUQ_2103315294696f4306d83529_32198325_02821400XX1.jpg kļūstot par neitrālu un stilīgu pamatu."
       },
       {
-        "q": "Āda prasa pārāk sarežģītu kopšanu.",
+        "q": "Āda prasa pārāk sarežģītu kopšanu",
         "a": "Šī modeļa graudainā faktūra ir ārkārtīgi noturīga pret sīkiem skrāpējumiem un bojājumiem, kas padara Spareggio par ideālu izvēli aktīvai pilsētas dzīvei."
       },
       {
-        "q": "Šis fasons izskatās pārāk sportisks klasiskai garderobei.",
-        "a": "Pievērsiet uzmanību detaļām: ar ādu apvilktās pogas un iegrieztās kabatas piešķir jakai aristokrātisku izskatu, ļaujot to nēsāt pat ar klasiskajām Odini biksēm."
+        "q": "Šis fasons izskatās pārāk sportisks klasiskai garderobei",
+        "a": "Pievērsiet uzmanību detaļām: ar ādu apvilktās pogas un iegrieztās kabatas piešķir jakai aristokrātisku izskatu, ļaujot to nēsāt pat ar klasiskajām Odini biksēm (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg."
       }
     ],
     "lt": [
       {
-        "q": "Мне кажется, кожаная куртка может быть слишком тяжелой.",
+        "q": "Мне кажется, кожаная куртка может быть слишком тяжелой",
         "a": "Уточните, что крой рукава реглан оптимально распределяет нагрузку на плечи, а мягкость выделки гарантирует легкость и свободу движений."
       },
       {
-        "q": "Двубортный крой визуально расширяет фигуру.",
+        "q": "Двубортный крой визуально расширяет фигуру",
         "a": "Продемонстрируйте работу кулиски на талии: она мгновенно убирает лишний объем, создавая четкий женственный силуэт."
       },
       {
-        "q": "Коричневый цвет 0996 сложно сочетать с другими оттенками.",
-        "a": "Покажите Look 49, где этот благородный оттенок гармонирует с пастельной гаммой рубашки Liceali, становясь нейтральной и стильной базой."
+        "q": "Коричневый цвет 0996 сложно сочетать с другими оттенками",
+        "a": "Покажите Look 49, где этот благородный оттенок гармонирует с пастельной гаммой рубашки Liceali (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/S82WH97wQzu4sRcO5wWaUQ_2103315294696f4306d83529_32198325_02821400XX1.jpg становясь нейтральной и стильной базой."
       },
       {
-        "q": "Кожа требует слишком сложного ухода.",
+        "q": "Кожа требует слишком сложного ухода",
         "a": "Зернистая фактура этой модели чрезвычайно устойчива к мелким царапинам и повреждениям, что делает Spareggio идеальным выбором для активной городской жизни."
       },
       {
-        "q": "Этот фасон выглядит слишком спортивно для классического гардероба.",
-        "a": "Обратите внимание на детали: пуговицы, обтянутые кожей, и прорезные карманы придают куртке аристократичный вид, позволяя носить её даже с классическими брюками Odini."
+        "q": "Этот фасон выглядит слишком спортивно для классического гардероба",
+        "a": "Обратите внимание на детали: пуговицы, обтянутые кожей, и прорезные карманы придают куртке аристократичный вид, позволяя носить её даже с классическими брюками Odini (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg."
       }
     ],
     "pl": [
       {
-        "q": "Wydaje mi się, że skórzana kurtka może być zbyt ciężka.",
+        "q": "Wydaje mi się, że skórzana kurtka może być zbyt ciężka",
         "a": "Wyjaśnij, że krój rękawa typu reglan optymalnie rozkłada obciążenie na ramiona, a miękkość wyprawy gwarantuje lekkość i swobodę ruchów."
       },
       {
-        "q": "Dwurzędowy krój optycznie poszerza sylwetkę.",
+        "q": "Dwurzędowy krój optycznie poszerza sylwetkę",
         "a": "Zaprezentuj działanie ściągacza w talii: natychmiast niweluje on zbędną objętość, tworząc wyraźną, kobiecą sylwetkę."
       },
       {
-        "q": "Brązowy kolor 0996 jest trudny do łączenia z innymi odcieniami.",
-        "a": "Pokaż Look 49, gdzie ten szlachetny odcień harmonizuje z pastelową paletą koszuli Liceali, stając się neutralną i stylową bazą."
+        "q": "Brązowy kolor 0996 jest trudny do łączenia z innymi odcieniami",
+        "a": "Pokaż Look 49, gdzie ten szlachetny odcień harmonizuje z pastelową paletą koszuli Liceali (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/S82WH97wQzu4sRcO5wWaUQ_2103315294696f4306d83529_32198325_02821400XX1.jpg stając się neutralną i stylową bazą."
       },
       {
-        "q": "Skóra wymaga zbyt trudnej pielęgnacji.",
+        "q": "Skóra wymaga zbyt trudnej pielęgnacji",
         "a": "Ziarnista faktura tego modelu jest niezwykle odporna na drobne zadrapania i uszkodzenia, co czyni Spareggio idealnym wyborem dla aktywnego miejskiego stylu życia."
       },
       {
-        "q": "Ten fason wygląda zbyt sportowo jak na klasyczną garderobę.",
-        "a": "Zwróć uwagę na detale: guziki obszyte skórą oraz wpuszczane kieszenie nadają kurtce arystokratyczny wygląd, pozwalając nosić ją nawet z klasycznymi spodniami Odini."
+        "q": "Ten fason wygląda zbyt sportowo jak na klasyczną garderobę",
+        "a": "Zwróć uwagę na detale: guziki obszyte skórą oraz wpuszczane kieszenie nadają kurtce arystokratyczny wygląd, pozwalając nosić ją nawet z klasycznymi spodniami Odini (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg."
       }
     ],
     "uk": [
       {
-        "q": "Мені здається, шкіряна куртка може бути занадто важкою.",
+        "q": "Мені здається, шкіряна куртка може бути занадто важкою",
         "a": "Уточніть, що крій рукава реглан оптимально розподіляє навантаження на плечі, а м'якість вичинки гарантує легкість і свободу рухів."
       },
       {
-        "q": "Двобортний крій візуально розширює фігуру.",
+        "q": "Двобортний крій візуально розширює фігуру",
         "a": "Продемонструйте роботу куліски на талії: вона миттєво прибирає зайвий об'єм, створюючи чіткий жіночний силует."
       },
       {
-        "q": "Коричневий колір 0996 складно поєднувати з іншими відтінками.",
-        "a": "Покажіть Look 49, де цей благородний відтінок гармоніює з пастельною гамою сорочки Liceali, стаючи нейтральною і стильною базою."
+        "q": "Коричневий колір 0996 складно поєднувати з іншими відтінками",
+        "a": "Покажіть Look 49, де цей благородний відтінок гармоніює з пастельною гамою сорочки Liceali (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/S82WH97wQzu4sRcO5wWaUQ_2103315294696f4306d83529_32198325_02821400XX1.jpg стаючи нейтральною і стильною базою."
       },
       {
-        "q": "Шкіра вимагає занадто складного догляду.",
+        "q": "Шкіра вимагає занадто складного догляду",
         "a": "Зерниста фактура цієї моделі надзвичайно стійка до дрібних подряпин і пошкоджень, що робить Spareggio ідеальним вибором для активного міського життя."
       },
       {
-        "q": "Цей фасон виглядає занадто спортивно для класичного гардероба.",
-        "a": "Зверніть увагу на деталі: ґудзики, обтягнуті шкірою, і прорізні кишені надають куртці аристократичного вигляду, дозволяючи носити її навіть із класичними брюками Odini."
+        "q": "Цей фасон виглядає занадто спортивно для класичного гардероба",
+        "a": "Зверніть увагу на деталі: ґудзики, обтягнуті шкірою, і прорізні кишені надають куртці аристократичного вигляду, дозволяючи носити її навіть із класичними брюками Odini (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg."
       }
     ]
   }

@@ -224,19 +224,19 @@
   "objections": {
     "en": [
       {
-        "q": "Fringe may look too informal.",
+        "q": "Fringe may look too informal",
         "a": "On the Matri piece, the fringe is crafted from a noble wool yarn matched to the garment, transforming it from a boho-style element into a high-fashion detail, entirely fitting for an evening or statement daytime wardrobe."
       },
       {
-        "q": "Wool may cause skin irritation.",
+        "q": "Wool may cause skin irritation",
         "a": "For the Merinfleur line, we use only the most delicate, highly refined virgin wool (Lana Vergine). It is hypoallergenic and has a silky texture comparable in softness to cashmere."
       },
       {
-        "q": "The composition includes acrylic (30%).",
+        "q": "The composition includes acrylic (30%)",
         "a": "The addition of premium-quality acrylic is essential to achieving the dense-knit technique and ensuring the stability of the fringe. This guarantees the piece will not deform or lose its lustre, even with professional care."
       },
       {
-        "q": "I'm concerned the fringe may tangle or lose its appearance.",
+        "q": "I'm concerned the fringe may tangle or lose its appearance",
         "a": "The fringe on Luisa Spagnoli pieces is crafted to couture standards with a reinforced base. We recommend professional dry cleaning, which preserves the crisp definition of every strand."
       },
       {
@@ -246,41 +246,41 @@
     ],
     "ru": [
       {
-        "q": "Бахрома может выглядеть слишком неформально.",
-        "a": "В модели Matri бахрома выполнена из благородной шерстяной пряжи в тон изделия, что превращает её из элемента бохо-стиля в деталь высокой моды, вполне уместную в вечернем или статусном дневном гардеробе."
+        "q": "Бахрома может выглядеть слишком неформально",
+        "a": "В модели Matri бахрома выполнена из благородной шерстяной нити в тон изделия, что превращает ее из элемента в стиле бохо в деталь высокой моды, безупречно подходящую как для вечернего, так и для статусного дневного гардероба."
       },
       {
-        "q": "Шерсть может вызывать раздражение кожи.",
-        "a": "Для линии Merinfleur мы используем только самую нежную девственную шерсть (Lana Vergine) высочайшей очистки. Она гипоаллергенна и обладает шелковистой текстурой, сравнимой по мягкости с кашемиром."
+        "q": "Шерсть может вызывать раздражение кожи",
+        "a": "В линии Merinfleur мы используем только деликатную, высокоочищенную натуральную шерсть (Lana Vergine). Она гипоаллергенна и обладает шелковистой фактурой, сравнимой по мягкости с кашемиром."
       },
       {
-        "q": "В составе присутствует акрил (30%).",
-        "a": "Добавление высококачественного акрила необходимо для реализации техники плотной вязки и обеспечения стабильности бахромы. Это гарантирует, что изделие не деформируется и не потеряет свой лоск после профессионального ухода."
+        "q": "В составе есть акрил (30%)",
+        "a": "Добавление премиального акрила необходимо для создания плотной вязки и обеспечения стабильности бахромы. Это гарантирует, что изделие сохранит свою форму и безупречный вид даже при профессиональном уходе."
       },
       {
-        "q": "Я боюсь, что бахрома запутается или потеряет вид.",
-        "a": "Бахрома в изделиях Luisa Spagnoli выполнена по кутюрным стандартам с укрепленным основанием. Мы рекомендуем профессиональную сухую чистку, которая сохранит первозданную четкость каждой нити."
+        "q": "Я опасаюсь, что бахрома может спутаться или потерять вид",
+        "a": "Бахрома на изделиях Luisa Spagnoli создана по кутюрным стандартам с усиленным основанием. Мы рекомендуем профессиональную химчистку, которая сохраняет четкость и графичность каждой нити."
       },
       {
-        "q": "Как стилизовать модель с таким активным низом?",
-        "a": "Наши стилисты рекомендуют сочетать её с лаконичными юбками прямого кроя (например, Marsan) или классическими брюками, чтобы бахрома выступала главным архитектурным акцентом силуэта."
+        "q": "Как стилизовать изделие с такой акцентной линией подола?",
+        "a": "Наши стилисты рекомендуют сочетать его с лаконичными юбками прямого кроя (например, Marsan) или классическими брюками, позволяя бахроме стать главным архитектурным акцентом силуэта."
       }
     ],
     "ar": [
       {
-        "q": "قد تبدو الشراشيب غير رسمية بشكل مفرط.",
+        "q": "قد تبدو الشراشيب غير رسمية بشكل مفرط",
         "a": "في تصميم Matri، صُنعت الشراشيب من خيوط صوفية فاخرة بنفس لون القطعة، مما يحولها من عنصر بوهيمي إلى تفصيلة من عناصر الموضة الراقية، والتي تضفي لمسة مناسبة تماماً لخزانة ملابسك المسائية أو لإطلالة النهار المرموقة."
       },
       {
-        "q": "قد يسبب الصوف تهيجاً للبشرة.",
+        "q": "قد يسبب الصوف تهيجاً للبشرة",
         "a": "نستخدم في خط Merinfleur أجود أنواع الصوف البكر (Lana Vergine) عالي النقاء فقط. فهو مضاد للحساسية ويمتاز بملمس حريري يضاهي نعومة الكشمير."
       },
       {
-        "q": "يحتوي التركيب على أكريليك (30%).",
+        "q": "يحتوي التركيب على أكريليك (30%)",
         "a": "إضافة الأكريليك عالي الجودة ضرورية لتنفيذ تقنية الحياكة الكثيفة وضمان ثبات الشراشيب. وهذا يضمن عدم تعرض القطعة للتشوه أو فقدان بريقها بعد العناية المهنية."
       },
       {
-        "q": "أخشى أن تتشابك الشراشيب أو تفقد مظهرها.",
+        "q": "أخشى أن تتشابك الشراشيب أو تفقد مظهرها",
         "a": "صُممت الشراشيب في قطع Luisa Spagnoli وفقاً لمعايير الكوتور مع قاعدة مدعمة. نوصي بالتنظيف الجاف الاحترافي، الذي يحافظ على دقة وتناسق كل خيط من خيوطها."
       },
       {
@@ -290,19 +290,19 @@
     ],
     "ka": [
       {
-        "q": "ფოჩები შესაძლოა ზედმეტად არაფორმალურად გამოიყურებოდეს.",
+        "q": "ფოჩები შესაძლოა ზედმეტად არაფორმალურად გამოიყურებოდეს",
         "a": "Matri-ის მოდელში ფოჩები დამზადებულია კეთილშობილი შალის ძაფისგან, ნაკეთობის ტონალობაში, რაც მას ბოჰოს სტილის ელემენტიდან მაღალი მოდის დეტალად აქცევს, რომელიც სავსებით შეეფერება საღამოს ან სტატუსურ დღის გარდერობს."
       },
       {
-        "q": "შალმა შესაძლოა კანის გაღიზიანება გამოიწვიოს.",
+        "q": "შალმა შესაძლოა კანის გაღიზიანება გამოიწვიოს",
         "a": "Merinfleur-ის ხაზისთვის ჩვენ ვიყენებთ მხოლოდ ყველაზე ნაზ, უმაღლესი ხარისხის პირველად შალს (Lana Vergine). იგი ჰიპოალერგიულია და აქვს აბრეშუმისებრი ტექსტურა, რომელიც თავისი სირბილით ქაშმირს უტოლდება."
       },
       {
-        "q": "შემადგენლობაში არის აკრილი (30%).",
+        "q": "შემადგენლობაში არის აკრილი (30%)",
         "a": "მაღალი ხარისხის აკრილის დამატება აუცილებელია მჭიდრო ქსოვის ტექნიკის განსახორციელებლად და ფოჩების სიმყარის უზრუნველსაყოფად. ეს გარანტიას იძლევა, რომ ნაკეთობა არ დეფორმირდება და არ დაკარგავს თავის ბრწყინვალებას პროფესიონალური მოვლის შემდეგ."
       },
       {
-        "q": "მეშინია, რომ ფოჩები აიხლართება ან დაკარგავს იერს.",
+        "q": "მეშინია, რომ ფოჩები აიხლართება ან დაკარგავს იერს",
         "a": "Luisa Spagnoli-ის ნაკეთობებში ფოჩები შესრულებულია კუტიურის სტანდარტების მიხედვით, გამაგრებული ფუძით. ჩვენ რეკომენდაციას ვუწევთ პროფესიონალურ წმენდას, რომელიც შეინარჩუნებს თითოეული ძაფის პირველად სიცხადეს."
       },
       {
@@ -313,40 +313,40 @@
     "hy": [
       {
         "q": "Ծոպերը կարող են չափազանց ոչ ֆորմալ տեսք ունենալ։",
-        "a": "Matri մոդելում ծոպերը պատրաստված են արտադրանքի երանգին համահունչ ազնիվ բրդյա թելերից, ինչը դրանք բոհո-ոճի տարրից վերածում է բարձր նորաձևության դետալի, որը միանգամայն տեղին է երեկոյան կամ կարգավիճակային ցերեկային զգեստապահարանում։"
+        "a": "Matri մոդելում ծոպերը պատրաստված են արտադրանքի երանգին համահունչ ազնիվ բրդյա թելերից, ինչը դրանք բոհո-ոճի տարրից վերածում է բարձր նորաձևության դետալի, որը միանգամայն տեղին է երեկոյան կամ կարգավիճակային ցերեկային զգեստապահարանում։."
       },
       {
         "q": "Բուրդը կարող է մաշկի գրգռում առաջացնել։",
-        "a": "Merinfleur գծի համար մենք օգտագործում ենք միայն ամենանուրբ կուսական բուրդ (Lana Vergine)՝ ամենաբարձր մաքրությամբ։ Այն հիպոալերգեն է և ունի մետաքսանման հյուսվածք, որի փափկությունը համեմատելի է քաշմիրի հետ։"
+        "a": "Merinfleur գծի համար մենք օգտագործում ենք միայն ամենանուրբ կուսական բուրդ (Lana Vergine)՝ ամենաբարձր մաքրությամբ։ Այն հիպոալերգեն է և ունի մետաքսանման հյուսվածք, որի փափկությունը համեմատելի է քաշմիրի հետ։."
       },
       {
         "q": "Կազմի մեջ առկա է ակրիլ (30%)։",
-        "a": "Բարձրորակ ակրիլի ավելացումն անհրաժեշտ է խիտ հյուսման տեխնիկան իրականացնելու և ծոպերի կայունությունն ապահովելու համար։ Սա երաշխավորում է, որ արտադրանքը չի դեֆորմացվի և չի կորցնի իր փայլը պրոֆեսիոնալ խնամքից հետո։"
+        "a": "Բարձրորակ ակրիլի ավելացումն անհրաժեշտ է խիտ հյուսման տեխնիկան իրականացնելու և ծոպերի կայունությունն ապահովելու համար։ Սա երաշխավորում է, որ արտադրանքը չի դեֆորմացվի և չի կորցնի իր փայլը պրոֆեսիոնալ խնամքից հետո։."
       },
       {
         "q": "Ես վախենում եմ, որ ծոպերը կխճճվեն կամ կկորցնեն տեսքը։",
-        "a": "Luisa Spagnoli-ի արտադրանքներում ծոպերը պատրաստված են կուտյուրային ստանդարտներով՝ ամրացված հիմքով։ Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ քիմմաքրում, որը կպահպանի յուրաքանչյուր թելի սկզբնական հստակությունը։"
+        "a": "Luisa Spagnoli-ի արտադրանքներում ծոպերը պատրաստված են կուտյուրային ստանդարտներով՝ ամրացված հիմքով։ Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ քիմմաքրում, որը կպահպանի յուրաքանչյուր թելի սկզբնական հստակությունը։."
       },
       {
         "q": "Ինչպե՞ս ոճավորել նման ակտիվ ստորին մաս ունեցող մոդելը։",
-        "a": "Մեր ոճաբանները խորհուրդ են տալիս այն համադրել ուղիղ կտրվածքի լակոնիկ կիսաշրջազգեստների (օրինակ՝ Marsan) կամ դասական տաբատների հետ, որպեսզի ծոպերը հանդես գան որպես սիլուետի գլխավոր ճարտարապետական շեշտադրում։"
+        "a": "Մեր ոճաբանները խորհուրդ են տալիս այն համադրել ուղիղ կտրվածքի լակոնիկ կիսաշրջազգեստների (օրինակ՝ Marsan) կամ դասական տաբատների հետ, որպեսզի ծոպերը հանդես գան որպես սիլուետի գլխավոր ճարտարապետական շեշտադրում։."
       }
     ],
     "lv": [
       {
-        "q": "Bārkstis var izskatīties pārāk neformāli.",
+        "q": "Bārkstis var izskatīties pārāk neformāli",
         "a": "Modelī Matri bārkstis ir izgatavotas no cēlas vilnas dzijas izstrādājuma tonī, kas tās pārvērš no boho stila elementa par augstās modes detaļu, kas ir pilnībā piemērota vakara vai statusam atbilstošai dienas garderobei."
       },
       {
-        "q": "Vilna var izraisīt ādas kairinājumu.",
+        "q": "Vilna var izraisīt ādas kairinājumu",
         "a": "Merinfleur līnijai mēs izmantojam tikai vismaigāko jaunvilnu (Lana Vergine) ar visaugstāko attīrīšanas pakāpi. Tā ir hipoalerģiska un tai ir zīdaina tekstūra, kas savā maigumā līdzinās kašmiram."
       },
       {
-        "q": "Sastāvā ir akrils (30%).",
+        "q": "Sastāvā ir akrils (30%)",
         "a": "Augstas kvalitātes akrila pievienošana ir nepieciešama, lai realizētu blīvās adīšanas tehniku un nodrošinātu bārkstu stabilitāti. Tas garantē, ka izstrādājums pēc profesionālas kopšanas nedeformēsies un nezaudēs savu spožumu."
       },
       {
-        "q": "Es baidos, ka bārkstis sapīsies vai zaudēs savu izskatu.",
+        "q": "Es baidos, ka bārkstis sapīsies vai zaudēs savu izskatu",
         "a": "Bārkstis Luisa Spagnoli izstrādājumos ir veidotas pēc kutūras standartiem ar nostiprinātu pamatni. Mēs iesakām profesionālo ķīmisko tīrīšanu, kas saglabās katra diega sākotnējo skaidrību."
       },
       {
@@ -356,19 +356,19 @@
     ],
     "lt": [
       {
-        "q": "Kutas gali atrodyti per daug neformaliai.",
+        "q": "Kutas gali atrodyti per daug neformaliai",
         "a": "Matri modelyje kutai sukurti iš taurios vilnonių siūlų gijos, derančios prie gaminio spalvos, o tai paverčia juos iš boho stiliaus elemento į aukštosios mados detalę, visiškai tinkančią vakariniam ar reprezentatyviam dieniniam garderobui."
       },
       {
-        "q": "Vilna gali dirginti odą.",
+        "q": "Vilna gali dirginti odą",
         "a": "Merinfleur linijai naudojame tik švelniausią aukščiausio grynumo pirminę vilną (Lana Vergine). Ji yra hipoalerginė ir pasižymi šilkine tekstūra, savo minkštumu prilygstama kašmyrui."
       },
       {
-        "q": "Sudėtyje yra akrilo (30%).",
+        "q": "Sudėtyje yra akrilo (30%)",
         "a": "Aukštos kokybės akrilo pridėjimas yra būtinas norint įgyvendinti tankaus mezgimo techniką ir užtikrinti kutų stabilumą. Tai garantuoja, kad gaminys neišsikraipys ir nepraras savo žvilgesio po profesionalios priežiūros."
       },
       {
-        "q": "Baiminuosi, kad kutai susivels arba praras išvaizdą.",
+        "q": "Baiminuosi, kad kutai susivels arba praras išvaizdą",
         "a": "Luisa Spagnoli gaminiuose esantys kutai pagaminti pagal aukštosios mados standartus su sutvirtintu pagrindu. Rekomenduojame profesionalų sausą valymą, kuris išsaugos kiekvieno siūlo pirminį tikslumą."
       },
       {
@@ -378,19 +378,19 @@
     ],
     "pl": [
       {
-        "q": "Frędzle mogą wyglądać zbyt nieformalnie.",
+        "q": "Frędzle mogą wyglądać zbyt nieformalnie",
         "a": "W modelu Matri frędzle wykonane są ze szlachetnej wełnianej przędzy w tonacji wyrobu, co zmienia je z elementu stylu boho w detal haute couture, w pełni odpowiedni do wieczorowej lub prestiżowej garderoby dziennej."
       },
       {
-        "q": "Wełna może powodować podrażnienie skóry.",
+        "q": "Wełna może powodować podrażnienie skóry",
         "a": "Dla linii Merinfleur używamy wyłącznie najdelikatniejszej dziewiczej wełny (Lana Vergine) najwyższego oczyszczenia. Jest ona hipoalergiczna i posiada jedwabistą teksturę, porównywalną pod względem miękkości z kaszmirem."
       },
       {
-        "q": "W składzie obecny jest akryl (30%).",
+        "q": "W składzie obecny jest akryl (30%)",
         "a": "Dodatek wysokiej jakości akrylu jest niezbędny do realizacji techniki gęstego splotu i zapewnienia stabilności frędzli. Gwarantuje to, że wyrób nie odkształci się i nie straci swojego blasku po profesjonalnej pielęgnacji."
       },
       {
-        "q": "Obawiam się, że frędzle zaplączą się lub stracą wygląd.",
+        "q": "Obawiam się, że frędzle zaplączą się lub stracą wygląd",
         "a": "Frędzle w wyrobach Luisa Spagnoli wykonane są zgodnie ze standardami couture z wzmocnioną podstawą. Zalecamy profesjonalne czyszczenie chemiczne, które zachowa pierwotną wyrazistość każdej nitki."
       },
       {
@@ -400,19 +400,19 @@
     ],
     "uk": [
       {
-        "q": "Бахрома може виглядати надто неформально.",
+        "q": "Бахрома може виглядати надто неформально",
         "a": "У моделі Matri бахрома виконана з благородної вовняної пряжі в тон виробу, що перетворює її з елемента бохо-стилю на деталь високої моди, цілком доречну у вечірньому або статусному денному гардеробі."
       },
       {
-        "q": "Вовна може викликати подразнення шкіри.",
+        "q": "Вовна може викликати подразнення шкіри",
         "a": "Для лінії Merinfleur ми використовуємо лише найніжнішу дівочу вовну (Lana Vergine) найвищої очистки. Вона гіпоалергенна і має шовковисту текстуру, порівнянну за м'якістю з кашеміром."
       },
       {
-        "q": "У складі присутній акрил (30%).",
+        "q": "У складі присутній акрил (30%)",
         "a": "Додавання високоякісного акрилу необхідне для реалізації техніки щільної в'язки та забезпечення стабільності бахроми. Це гарантує, що виріб не деформується і не втратить свій лиск після професійного догляду."
       },
       {
-        "q": "Я боюся, що бахрома заплутається або втратить вигляд.",
+        "q": "Я боюся, що бахрома заплутається або втратить вигляд",
         "a": "Бахрома у виробах Luisa Spagnoli виконана за кутюрними стандартами з укріпленою основою. Ми рекомендуємо професійну суху чистку, яка збереже первозданну чіткість кожної нитки."
       },
       {

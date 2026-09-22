@@ -233,30 +233,50 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "voluminous Explain that cotton poplin is a supple sleeves will get in material. The sleeves rest gently against the arm the way under outerwear» under a coat or jacket, and quickly spring back into their striking shape once the outer layer is removed. «The dropped Point out that the dropped shoulder line, paired shoulder might visually with the vertical line of the ruffles, actually widen the upper body» creates a relaxed, contemporary silhouette that softens any excess formality. «The ruffles look Showcase the pairing from Look 63: worn too dressy for the under a vest, the Maica 2246 ruffles read as a office» refined detail that lends the office look personality without breaking the dress code. «White poplin Remind the client that a fabric's noble \"memory\" wrinkles too is a mark of high-quality, 100% natural quickly» cotton. The gentle texture of Luisa Spagnoli poplin only underscores the piece's aristocratic character. «I already own an Suggest trying the Loriana 0201. Thanks to its ordinary white shirt» unique sleeve cut and ruffle trim, this is not simply a basic piece but a statement object in its own right, capable of refreshing any familiar outfit"
+        "q": "The voluminous Explain that cotton poplin is a supple sleeves will get in material. The sleeves rest gently against the arm the way under outerwear",
+        "a": "under a coat or jacket, and quickly spring back into their striking shape once the outer layer is removed."
+      },
+      {
+        "q": "The dropped Point out that the dropped shoulder line, paired shoulder might visually with the vertical line of the ruffles, actually widen the upper body",
+        "a": "creates a relaxed, contemporary silhouette that softens any excess formality."
+      },
+      {
+        "q": "The ruffles look Showcase the pairing from Look 63: worn too dressy for the under a vest, the Maica 2246 ruffles read as a office",
+        "a": "refined detail that lends the office look personality without breaking the dress code."
+      },
+      {
+        "q": "White poplin Remind the client that a fabric's noble \"memory\" wrinkles too is a mark of high-quality, 100% natural quickly",
+        "a": "cotton. The gentle texture of Luisa Spagnoli poplin only underscores the piece's aristocratic character."
+      },
+      {
+        "q": "I already own an Suggest trying the Loriana 0201. Thanks to its ordinary white shirt",
+        "a": "unique sleeve cut and ruffle trim, this is not simply a basic piece but a statement object in its own right, capable of refreshing any familiar outfit. ![](media/image58.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Объемные рукава",
-        "a": "Объясните, что хлопок поплин — это пластичный будут мешать под материал. Рукава мягко прилегают к руке под пальто верхней одеждой или жакетом, а при снятии верхнего слоя быстро восстанавливают свою эффектную форму."
+        "q": "Объемные рукава будут мешать под верхней одеждой",
+        "a": "> Поясните, что хлопковый поплин — материал удивительно податливый. Рукава мягко располагаются под пальто или жакетом, мгновенно возвращая свою архитектурную форму, как только вы снимаете верхний слой."
       },
       {
-        "q": "Спущенное плечо",
-        "a": "Укажите на то, что спущенная линия плеча в может визуально сочетании с вертикальной линией рюш, напротив, расширить верх создает расслабленный и современный силуэт, нивелируя излишнюю строгость."
+        "q": "Спущенная линия плеча визуально расширяет фигуру",
+        "a": "> Обратите внимание, что спущенное плечо в сочетании с вертикалью воланов создает расслабленный, современный силуэт, который деликатно нивелирует излишнюю строгость."
       },
       {
-        "q": "Рюши выглядят",
-        "a": "Продемонстрируйте сочетание из Look 63: под жилетом слишком нарядно для Maica 2246 рюши выглядят как деликатная деталь, офиса придающая деловому образу индивидуальность, не нарушая дресс-кода."
+        "q": "Воланы выглядят слишком нарядно для офиса",
+        "a": "> Продемонстрируйте сочетание из образа 63: под жилетом воланы модели Maica 2246 читаются как изысканная деталь, придающая офисному ансамблю характер, не нарушая дресс-код."
       },
       {
-        "q": "Белый поплин",
-        "a": "Напомните, что благородная «память ткани — слишком быстро признак 100% натурального хлопка высокого качества. мнется» Легкая фактурность поплина Luisa Spagnoli лишь подчеркивает аристократизм изделия."
+        "q": "Белый поплин быстро мнется",
+        "a": "> Напомните, что."
       },
       {
-        "q": "У меня уже есть",
-        "a": "Предложите примерить Loriana 0201. Благодаря обычная белая уникальному крою рукавов и отделке рюшами, это не рубашка просто база, а самостоятельный стейтмент-объект, способный обновить любой привычный костюм."
+        "q": "память",
+        "a": "ткани — признак благородного 100% натурального хлопка. Деликатная фактура поплина Luisa Spagnoli лишь подчеркивает аристократичный характер изделия."
+      },
+      {
+        "q": "У меня уже есть обычная белая рубашка",
+        "a": "> Предложите примерить Loriana 0201. Благодаря уникальному крою рукава и отделке воланами, это не просто базовая вещь, а самостоятельный объект, способный освежить любой привычный комплект."
       }
     ],
     "ar": [
@@ -282,7 +302,7 @@
       },
       {
         "q": "لدي بالفعل قميص أبيض عادي",
-        "a": "اقترحي قياس Loriana 0201. بفضل القصة الفريدة للأكمام وتفاصيل الكرانيش، فإنه ليس مجرد قطعة أساسية، بل هو قطعة مستقلة قادرة على تحديث أي طقم مألوف."
+        "a": "اقترحي قياس Loriana 0201. بفضل القصة الفريدة للأكمام وتفاصيل الكرانيش، فإنه ليس مجرد قطعة أساسية، بل هو قطعة مستقلة قادرة على تحديث أي طقم مألوف. ![](media/image58.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -330,7 +350,7 @@
       },
       {
         "q": "Ես արդեն ունեմ սովորական սպիտակ վերնաշապիկ",
-        "a": "Առաջարկեք չափել Loriana 0201-ը։ Թևքերի և ժանյակներով հարդարանքի յուրահատուկ ձևվածքի շնորհիվ սա պարզապես բազա չէ, այլ ինքնուրույն սթեյթմենթ-օբյեկտ, որը կարող է թարմացնել ցանկացած սովորական կոստյում։."
+        "a": "Առաջարկեք չափել Loriana 0201-ը։ Թևքերի և ժանյակներով հարդարանքի յուրահատուկ ձևվածքի շնորհիվ սա պարզապես բազա չէ, այլ ինքնուրույն սթեյթմենթ-օբյեկտ, որը կարող է թարմացնել ցանկացած սովորական կոստյում։ ![](media/image58.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
@@ -401,24 +421,24 @@
     ],
     "uk": [
       {
-        "q": "Об'ємні рукави",
-        "a": "Поясніть, що бавовна поплін — це пластичний будуть заважати під матеріал. Рукави м'яко прилягають до руки під пальто верхнім одягом або жакетом, а при знятті верхнього шару швидко відновлюють свою ефектну форму."
+        "q": "Об'ємні рукави Поясніть, що бавовна поплін --- це пластичний будуть заважати під матеріал. Рукави м'яко прилягають до руки під пальто верхнім одягом",
+        "a": "або жакетом, а при знятті верхнього шару швидко відновлюють свою ефектну форму."
       },
       {
-        "q": "Спущене плече",
-        "a": "Вкажіть на те, що спущена лінія плеча в може візуально поєднанні з вертикальною лінією рюш, навпаки, розширити верх створює розслаблений і сучасний силует, нівелюючи зайву суворість."
+        "q": "Спущене плече Вкажіть на те, що спущена лінія плеча в може візуально поєднанні з вертикальною лінією рюш, навпаки, розширити верх",
+        "a": "створює розслаблений і сучасний силует, нівелюючи зайву суворість."
       },
       {
-        "q": "Рюші виглядають",
-        "a": "Продемонструйте поєднання з Look 63: під жилетом занадто ошатно для Maica 2246 рюші виглядають як делікатна деталь, офісу що надає діловому образу індивідуальності, не порушуючи дрес-коду."
+        "q": "Рюші виглядають Продемонструйте поєднання з Look 63: під жилетом занадто ошатно для Maica 2246 рюші виглядають як делікатна деталь, офісу",
+        "a": "що надає діловому образу індивідуальності, не порушуючи дрес-коду."
       },
       {
-        "q": "Білий поплін",
-        "a": "Нагадайте, що благородна «пам'ять тканини — занадто швидко ознака 100% натуральної бавовни високої якості. мнеться» Легка фактурність попліну Luisa Spagnoli лише підкреслює аристократизм виробу."
+        "q": "Білий поплін Нагадайте, що благородна «пам'ять",
+        "a": "тканини --- занадто швидко ознака 100% натуральної бавовни високої якості. мнеться» Легка фактурність попліну Luisa Spagnoli лише підкреслює аристократизм виробу."
       },
       {
-        "q": "У мене вже є",
-        "a": "Запропонуйте приміряти Loriana 0201. Завдяки звичайна біла унікальному крою рукавів та оздобленню рюшами, це не сорочка просто база, а самостійний стейтмент-об'єкт, здатний оновити будь-який звичний костюм."
+        "q": "У мене вже є Запропонуйте приміряти Loriana 0201. Завдяки звичайна біла унікальному крою рукавів та оздобленню рюшами, це не сорочка",
+        "a": "просто база, а самостійний стейтмент-об'єкт, здатний оновити будь-який звичний костюм. ![](media/image58.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

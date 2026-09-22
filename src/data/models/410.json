@@ -205,92 +205,84 @@
   "objections": {
     "en": [
       {
-        "q": "The mini length feels too bold.",
-        "a": "Suggest trying the dress with dense matte tights and the Ulisside 0101 tall boots in smooth leather. This balances the length and lends the look a more composed, contemporary character."
+        "q": "The mini length feels too bold",
+        "a": " Response: Suggest trying the dress with dense matte tights and the Ulisside 0101 tall boots in smooth leather. This balances the length and lends the look a more composed, contemporary character. Objection."
       },
       {
-        "q": "The brocade feels too dressy for daily life.",
-        "a": "Demonstrate the styling from display case No. 136 with the Scatto 0202 coat. Wool outerwear tempers the shine of the brocade, allowing the dress to be worn to cocktail gatherings or brunches."
+        "q": "The brocade feels too dressy for daily life",
+        "a": " Response: Demonstrate the styling from display case No. 136 with the Scatto 0202 coat. Wool outerwear tempers the shine of the brocade, allowing the dress to be worn to cocktail gatherings or brunches. Objection."
       },
       {
-        "q": "I 'm concerned the paisley print is too conservative.",
-        "a": "Point to the contemporary above-the-knee length and the side pockets. Combined with the classic print, these details create an on-trend «Contemporary Heritage » style."
+        "q": "I",
+        "a": "™m concerned the paisley print is too conservative. » Response: Point to the contemporary above-the-knee length and the side pockets. Combined with the classic print, these details create an on-trend."
       },
       {
-        "q": "The lamé sheen may visually add volume.",
-        "a": "Explain that the paisley motif in this piece has a vertical orientation, and the dense brocade structure disciplines the silhouette, functioning like a corset."
+        "q": "Contemporary Heritage",
+        "a": " style. Objection."
       },
       {
-        "q": "It 's difficult to find outerwear to match.",
-        "a": "Recommend the companion Stenia coat in the same fabric. This foolproof «coat-and-dress » pairing is the epitome of high-society elegance"
+        "q": "The lamÃ© sheen may visually add volume",
+        "a": " Response: Explain that the paisley motif in this piece has a vertical orientation, and the dense brocade structure disciplines the silhouette, functioning like a corset. Objection."
+      },
+      {
+        "q": "It",
+        "a": "™s difficult to find outerwear to match. » Response: Recommend the companion Stenia coat in the same fabric. This foolproof."
+      },
+      {
+        "q": "coat-and-dress",
+        "a": " pairing is the epitome of high-society elegance. ![](media/image38.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image39.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Длина мини",
-        "a": "Предложите примерить платье с плотными матовыми кажется слишком колготками и высокими сапогами из гладкой кожи смелой Ulisside 0101. Это сбалансирует длину и сделает образ более сдержанным и современным."
+        "q": "Мини кажется слишком смелым решением",
+        "a": ". Ответ: Предложите дополнить образ плотными матовыми колготками и высокими сапогами Ulisside 0101 из гладкой кожи. Это сбалансирует длину и придаст образу более сдержанный, современный характер. Возражение."
       },
       {
-        "q": "Парча выглядит",
-        "a": "Продемонстрируйте вариант из витрины №136 с пальто слишком нарядно для Scatto 0202. Верхняя одежда из шерсти жизни."
+        "q": "Парча кажется слишком нарядной для повседневности",
+        "a": ". Ответ: Продемонстрируйте стайлинг из витрины №136 с пальто Scatto 0202. Шерстяная верхняя одежда приглушает блеск парчи, позволяя носить платье на коктейльные встречи или бранчи. Возражение."
       },
       {
-        "q": "успокаивает",
-        "a": "блеск парчи, позволяя носить платье на коктейльные встречи или бранчи."
-      },
-      {
-        "q": "Боюсь, что Пейсли",
-        "a": "Укажите на современную длину выше колена и наличие — это слишком боковых карманов. Эти детали в сочетании с консервативно классическим принтом создают актуальный стиль."
+        "q": "Боюсь, принт пейсли выглядит слишком консервативно",
+        "a": ". Ответ: Обратите внимание на актуальную длину выше колена и боковые карманы. В сочетании с классическим принтом эти детали создают трендовый стиль."
       },
       {
         "q": "Contemporary Heritage",
-        "a": "."
+        "a": ". Возражение."
       },
       {
-        "q": "Блеск lamé может",
-        "a": "Объясните, что узор Пейсли в данной модели имеет визуально полнить вертикальную направленность, а плотная структура броккато дисциплинирует силуэт, работая как корсет."
+        "q": "Блеск ламе может визуально добавить объем",
+        "a": ". Ответ: Поясните, что мотив пейсли в этом изделии имеет вертикальную направленность, а плотная структура парчи дисциплинирует силуэт, работая подобно корсету. Возражение."
       },
       {
-        "q": "Сложно подобрать",
-        "a": "Рекомендуйте пальто-компаньон Stenia из того верхнюю одежду же материала. Это беспроигрышное решение."
+        "q": "Сложно подобрать верхнюю одежду",
+        "a": ". Ответ: Рекомендуйте пальто-компаньон Stenia из той же ткани. Этот безупречный дуэт."
       },
       {
-        "q": "coat-and-dress",
-        "a": "которое является эталоном элегантности в высшем свете."
+        "q": "пальто и платье",
+        "a": "воплощение элегантности высшего общества."
       }
     ],
     "ar": [
       {
-        "q": "طول الميني يبدو جريئاً",
-        "a": "اقترحي تجربة الفستان مع جوارب سميكة غير لامعة وجزمة طويلة من الجلد الناعم Ulisside 0101. أكثر من اللازم سيوازن هذا الطول ويجعل الإطلالة أكثر تحفظاً وعصرية."
+        "q": "طول الميني يبدو جريئاً اقترحي تجربة الفستان مع جوارب سميكة غير لامعة وجزمة طويلة من الجلد الناعم Ulisside 0101. أكثر من اللازم",
+        "a": "سيوازن هذا الطول ويجعل الإطلالة أكثر تحفظاً وعصرية."
       },
       {
         "q": "الديباج يبدو متكلفاً اعرضي خياراً من الواجهة رقم 136 مع معطف Scatto 0202. الملابس الخارجية المصنوعة للغاية للحياة اليومية",
-        "a": "من الصوف."
-      },
-      {
-        "q": "تهدئ",
-        "a": "من بريق الديباج، مما يسمح بارتداء الفستان في لقاءات الكوكتيل أو حفلات البرانش."
+        "a": "من الصوف \"تهدئ\" من بريق الديباج، مما يسمح بارتداء الفستان في لقاءات الكوكتيل أو حفلات البرانش."
       },
       {
         "q": "أخشى أن نقشة البيزلي اشيري إلى الطول العصري فوق الركبة ووجود جيوب جانبية. هذه التفاصيل، مع النقشة كلاسيكية أكثر من اللازم",
-        "a": "الكلاسيكية، تخلق أسلوباً مواكباً يسمى."
+        "a": "الكلاسيكية، تخلق أسلوباً مواكباً يسمى \"التراث المعاصر\" (Contemporary Heritage)."
       },
       {
-        "q": "التراث المعاصر",
-        "a": "(Contemporary Heritage)."
+        "q": "لمعان الـ lamé قد يزيده أظهري أن نقشة البيزلي في هذا الموديل ذات اتجاه عمودي، وأن هيكل البروكار الكثيف حجماً بصرياً",
+        "a": "يضبط القوام، ليعمل كالمشد."
       },
       {
-        "q": "لمعان الـ lamé قد يزيده",
-        "a": "أظهري أن نقشة البيزلي في هذا الموديل ذات اتجاه عمودي، وأن هيكل البروكار الكثيف حجماً بصرياً يضبط القوام، ليعمل كالمشد."
-      },
-      {
-        "q": "يصعب اختيار ملابس ننصح بمعطف Stenia المرافق من نفس الخامة. إنه حل",
-        "a": "coat-and-dress."
-      },
-      {
-        "q": "لا يقبل الخطأ، خارجية مناسبة",
-        "a": "وهو معيار للأناقة في الأوساط الراقية."
+        "q": "يصعب اختيار ملابس ننصح بمعطف Stenia المرافق من نفس الخامة. إنه حل \"coat-and-dress\" لا يقبل الخطأ، خارجية مناسبة",
+        "a": "وهو معيار للأناقة في الأوساط الراقية. ![](media/image38.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image39.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -324,7 +316,7 @@
       },
       {
         "q": "coat-and-dress",
-        "a": "-ის წამგებიანი გადაწყვეტილება, რომელიც არის ელეგანტურობის ეტალონი მაღალ საზოგადოებაში."
+        "a": "ის წამგებიანი გადაწყვეტილება, რომელიც არის ელეგანტურობის ეტალონი მაღალ საზოგადოებაში. ![](media/image38.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image39.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -358,7 +350,7 @@
       },
       {
         "q": "coat-and-dress",
-        "a": "լուծում է, որը բարձր հասարակության մեջ էլեգանտության չափանիշ է։."
+        "a": "լուծում է, որը բարձր հասարակության մեջ էլեգանտության չափանիշ է։ ![](media/image38.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image39.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
@@ -375,7 +367,7 @@
         "a": "brokāta spīdumu, ļaujot valkāt kleitu kokteiļtikšanās reizēs vai brančos."
       },
       {
-        "q": "Baidos, ka Peislijs — tas ir pārāk konservatīvi",
+        "q": "Baidos, ka Peislijs --- tas ir pārāk konservatīvi",
         "a": "Norādiet uz mūsdienīgo garumu virs ceļgala un sānu kabatu esamību. Šīs detaļas apvienojumā ar klasisku apdruku rada aktuālu."
       },
       {
@@ -392,7 +384,7 @@
       },
       {
         "q": "coat-and-dress",
-        "a": "risinājums, kas ir elegances etalons augstajā sabiedrībā."
+        "a": "risinājums, kas ir elegances etalons augstajā sabiedrībā. ![](media/image38.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image39.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [

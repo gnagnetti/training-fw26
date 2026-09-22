@@ -215,60 +215,60 @@
   "objections": {
     "en": [
       {
-        "q": "The plaid may visually widen the hips.",
+        "q": "The plaid may visually widen the hips",
         "a": "Point out the paneled construction and flared cut. Unlike a straight skirt, this silhouette \"blurs\" the figure's outline and gently drapes over the hips, creating a harmonious look."
       },
       {
-        "q": "The wool seems too dense and heavy.",
+        "q": "The wool seems too dense and heavy",
         "a": "Explain that Luisa Spagnoli's virgin wool is prized for its exceptional lightness and softness. The skirt is designed to be warm while still preserving \"breathability\" and fluidity in the fabric."
       },
       {
-        "q": "Hard to find a top for such a bold print.",
+        "q": "Hard to find a top for such a bold print",
         "a": "Showcase window-display pairings: the skirt works beautifully with the classic Leila 0201 or Lucinda 0201 shirts, which balance the tartan for a more understated look."
       },
       {
-        "q": "The below-the-knee length requires being tall.",
+        "q": "The below-the-knee length requires being tall",
         "a": "Suggest styling the skirt with tall boots, as shown in the brand's styling. Creating a single vertical line of color and texture visually elongates the silhouette."
       },
       {
-        "q": "Tartan is too conservative.",
+        "q": "Tartan is too conservative",
         "a": "Show the lookbook styling with the Merende 2234 cardigan. Pairing traditional plaid with textured contemporary knitwear brings the look up to date and relaxes it."
       }
     ],
     "ru": [
       {
-        "q": "Клетка может",
-        "a": "Обратите внимание на конструкцию панелей и визуально расклешенный крой. В отличие от прямой юбки, такой увеличивать бедра силуэт."
+        "q": "Клетка может визуально расширять бедра",
+        "a": "Панельный крой и расклешенный силуэт."
       },
       {
-        "q": "размывает",
-        "a": "границы фигуры и мягко драпирует область бедер, создавая гармоничный образ."
+        "q": "размывают",
+        "a": "контуры фигуры, мягко драпируя бедра и создавая гармоничный образ."
       },
       {
-        "q": "Шерсть кажется",
-        "a": "Поясните, что девственная шерсть Luisa Spagnoli слишком плотной и отличается особой легкостью и мягкостью. Юбка тяжелой сконструирована так, чтобы быть теплой, но при этом сохранять."
+        "q": "Шерсть кажется слишком плотной и тяжелой",
+        "a": "Наша натуральная шерсть ценится за исключительную легкость и мягкость. Юбка дарит тепло, сохраняя при этом."
       },
       {
-        "q": "воздух",
-        "a": "и подвижность ткани."
+        "q": "дышащие",
+        "a": "свойства и благородную текучесть ткани."
       },
       {
-        "q": "Сложно подобрать",
-        "a": "Продемонстрируйте варианты из витрин: юбка верх к такому идеально сочетается с классическими рубашками активному принту Leila 0201 или Lucinda 0201, которые уравновешивают тартан, делая образ сдержанным."
+        "q": "Сложно найти верх к такому яркому принту",
+        "a": "Рекомендуем классические рубашки Leila 0201 или Lucinda 0201 — они уравновешивают тартан, делая образ более сдержанным."
       },
       {
-        "q": "Длина ниже колена",
-        "a": "Предложите примерить юбку с высокими сапогами, как требует высокого это представлено в стилизации бренда. Создание роста единой вертикали цвета и фактуры визуально вытягивает силуэт."
+        "q": "Длина ниже колена требует высокого роста",
+        "a": "Стилизуйте юбку с высокими сапогами: создание единой вертикали цвета и фактуры визуально вытягивает силуэт."
       },
       {
-        "q": "Тартан — это",
-        "a": "Покажите стилизацию из lookbook с кардиганом слишком Merende 2234. Сочетание традиционной клетки с консервативно фактурным современным трикотажем делает образ актуальным и расслабленным."
+        "q": "Тартан — это слишком консервативно",
+        "a": "Попробуйте сочетание с кардиганом Merende 2234: микс традиционной клетки с фактурным современным трикотажем делает образ актуальным и непринужденным."
       }
     ],
     "ar": [
       {
         "q": "مربعات الكاروهات قد تزيد من حجم الوركين",
-        "a": "|| انتبه إلى تصميم الألواح والقصة المتسعة. على عكس التنورة المستقيمة، هذا القوام."
+        "a": "انتبه إلى تصميم الألواح والقصة المتسعة. على عكس التنورة المستقيمة، هذا القوام."
       },
       {
         "q": "يُذيب",
@@ -276,7 +276,7 @@
       },
       {
         "q": "الصوف يبدو كثيفاً وثقيلاً جداً",
-        "a": "|| وضح أن صوف Luisa Spagnoli البكر يتميز بخفة ونعومة استثنائية. صُممت التنورة لتكون دافئة مع الحفاظ على."
+        "a": "وضح أن صوف Luisa Spagnoli البكر يتميز بخفة ونعومة استثنائية. صُممت التنورة لتكون دافئة مع الحفاظ على."
       },
       {
         "q": "خفة الهواء",
@@ -284,28 +284,28 @@
       },
       {
         "q": "من الصعب تنسيق قطعة علوية مع هذه النقوش",
-        "a": "|| استعرض خيارات من واجهات العرض: تتناغم التنورة بشكل مثالي مع قمصان Leila 0201 أو Lucinda 0201 الكلاسيكية، التي توازن الترتان وتجعل الإطلالة رصينة."
+        "a": "استعرض خيارات من واجهات العرض: تتناغم التنورة بشكل مثالي مع قمصان Leila 0201 أو Lucinda 0201 الكلاسيكية، التي توازن الترتان وتجعل الإطلالة رصينة."
       },
       {
         "q": "الطول أسفل الركبة يتطلب قامة طويلة",
-        "a": "|| اقترح تجربة التنورة مع أحذية طويلة الساق، كما هو معروض في ستايل العلامة التجارية. خلق خط طولي موحد من اللون والقوام يجعل القوام يبدو أطول بصرياً."
+        "a": "اقترح تجربة التنورة مع أحذية طويلة الساق، كما هو معروض في ستايل العلامة التجارية. خلق خط طولي موحد من اللون والقوام يجعل القوام يبدو أطول بصرياً."
       },
       {
         "q": "الترتان يبدو محافظاً جداً",
-        "a": "|| اعرض التنسيق من lookbook مع كارديجان Merende 2234. الجمع بين مربعات الكاروهات التقليدية والتريكو الحديث المنسوج يجعل الإطلالة عصرية ومريحة."
+        "a": "اعرض التنسيق من lookbook مع كارديجان Merende 2234. الجمع بين مربعات الكاروهات التقليدية والتريكو الحديث المنسوج يجعل الإطلالة عصرية ومريحة. ![](media/image18.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image19.png){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
       {
         "q": "უჯრედებმა შეიძლება თეძოები გაადიდოს",
-        "a": "ყურადღება მიაქციეთ პანელების კონსტრუქციასა და ვიზუალურად გაშლილ ჭრას. სწორი ქვედაკაბისგან განსხვავებით, ასეთი სილუეტი."
+        "a": "ყურადღება მიაქციეთ პანელების კონსტრუქციასა და ვიზუალურად გაშლილ ჭრას. სწორი ქვედაკაბისგან განსხვავებით, ასეთი სილუეტი „ბუნდოვანს“ ხდის ფიგურის საზღვრებს და რბილად ფარავს თეძოების არეს, რაც ჰარმონიულ სახეს ქმნის."
       },
       {
-        "q": "ბუნდოვანს“ ხდის ფიგურის საზღვრებს და რბილად ფარავს თეძოების არეს, რაც ჰარმონიულ სახეს ქმნის. «შალი მეტისმეტად მკვრივი და მძიმე ჩანს",
-        "a": "განუმარტეთ, რომ Luisa Spagnoli-ს ნატურალური შალი გამოირჩევა განსაკუთრებული სიმსუბუქითა და სირბილით. ქვედაკაბა ისეა კონსტრუირებული, რომ იყოს თბილი, მაგრამ ამასთან შეინარჩუნოს."
+        "q": "შალი მეტისმეტად მკვრივი და მძიმე ჩანს",
+        "a": "განუმარტეთ, რომ Luisa Spagnoli-ს ნატურალური შალი გამოირჩევა განსაკუთრებული სიმსუბუქითა და სირბილით. ქვედაკაბა ისეა კონსტრუირებული, რომ იყოს თბილი, მაგრამ ამასთან შეინარჩუნოს „ჰაერი“ და ქსოვილის მოძრაობა."
       },
       {
-        "q": "ჰაერი“ და ქსოვილის მოძრაობა. «რთულია ასეთი აქტიური პრინტისთვის ზედა ნაწილის შერჩევა",
+        "q": "რთულია ასეთი აქტიური პრინტისთვის ზედა ნაწილის შერჩევა",
         "a": "აჩვენეთ ვარიანტები ვიტრინებიდან: ქვედაკაბა იდეალურად ეხამება კლასიკურ პერანგებს Leila 0201 ან Lucinda 0201, რომლებიც აბალანსებენ ტარტანს და სახეს უფრო თავშეკავებულს ხდიან."
       },
       {
@@ -314,7 +314,7 @@
       },
       {
         "q": "ტარტანი — ეს მეტისმეტად კონსერვატიულია",
-        "a": "აჩვენეთ ლუქბუქიდან სტაილიზაცია კარდიგანთან Merende 2234. ტრადიციული უჯრედისა და ფაქტურული თანამედროვე ტრიკოტაჟის შეხამება სახეს აქტუალურს და მოდუნებულს ხდის."
+        "a": "აჩვენეთ ლუქბუქიდან სტაილიზაცია კარდიგანთან Merende 2234. ტრადიციული უჯრედისა და ფაქტურული თანამედროვე ტრიკოტაჟის შეხამება სახეს აქტუალურს და მოდუნებულს ხდის. ![](media/image18.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image19.png){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -344,37 +344,37 @@
       },
       {
         "q": "Տարտանը շատ պահպանողական է",
-        "a": "Ցույց տվեք lookbook-ից ոճավորումը Merende 2234 կարդիգանով։ Ավանդական վանդակի և ֆակտուրային ժամանակակից տրիկոտաժի համադրությունը կերպարը դարձնում է արդիական և հանգիստ։."
+        "a": "Ցույց տվեք lookbook-ից ոճավորումը Merende 2234 կարդիգանով։ Ավանդական վանդակի և ֆակտուրային ժամանակակից տրիկոտաժի համադրությունը կերպարը դարձնում է արդիական և հանգիստ։ ![](media/image18.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image19.png){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Lāsumainais raksts",
-        "a": "Pievērsiet uzmanību paneļu konstrukcijai un var vizuāli vizuāli paplašinošajam griezumam. Atšķirībā no palielināt gurnus taisniem svārkiem, šāds siluets."
+        "q": "Lāsumainais raksts Pievērsiet uzmanību paneļu konstrukcijai un var vizuāli vizuāli paplašinošajam griezumam. Atšķirībā no palielināt gurnus",
+        "a": "taisniem svārkiem, šāds siluets."
       },
       {
         "q": "izpludina",
         "a": "figūras robežas un maigi drapē gurnu zonu, veidojot harmonisku tēlu."
       },
       {
-        "q": "Vilna šķiet",
-        "a": "Paskaidrojiet, ka Luisa Spagnoli jaunvilna izceļas pārāk blīva un ar īpašu vieglumu un mīkstumu. Svārki ir smaga konstruēti tā, lai būtu silti, bet vienlaikus saglabātu auduma."
+        "q": "Vilna šķiet Paskaidrojiet, ka Luisa Spagnoli jaunvilna izceļas pārāk blīva un ar īpašu vieglumu un mīkstumu. Svārki ir smaga",
+        "a": "konstruēti tā, lai būtu silti, bet vienlaikus saglabātu auduma."
       },
       {
         "q": "gaisu",
         "a": "un kustīgumu."
       },
       {
-        "q": "Grūti pieskaņot",
-        "a": "Demonstrējiet variantus no vitrīnām: svārki augšdaļu tik ideāli sader ar klasiskiem krekliem Leila 0201 aktīvai apdrukai vai Lucinda 0201, kas līdzsvaro tartanu, padarot tēlu atturīgu."
+        "q": "Grūti pieskaņot Demonstrējiet variantus no vitrīnām: svārki augšdaļu tik ideāli sader ar klasiskiem krekliem Leila 0201 aktīvai apdrukai",
+        "a": "vai Lucinda 0201, kas līdzsvaro tartanu, padarot tēlu atturīgu."
       },
       {
         "q": "Garums zem Piestādiet piemērīt svārkus ar augstiem zābakiem, kā ceļgala prasa tas ir prezentēts zīmola stilizācijā. Vienotas augstu augumu",
         "a": "krāsas un faktūras vertikāles radīšana vizuāli pagarina siluetu."
       },
       {
-        "q": "Tartans — tas",
-        "a": "Parādiet stilizāciju no lookbook ar kardigānu ir pārāk Merende 2234. Tradicionālās rūtis apvienojumā ar konservatīvi faktūras modernu trikotāžu padara tēlu aktuālu un relaksētu."
+        "q": "Tartans --- tas Parādiet stilizāciju no lookbook ar kardigānu ir pārāk Merende 2234. Tradicionālās rūtis apvienojumā ar konservatīvi",
+        "a": "faktūras modernu trikotāžu padara tēlu aktuālu un relaksētu. ![](media/image18.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image19.png){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -386,19 +386,11 @@
     "pl": [
       {
         "q": "Krata może optycznie poszerzać biodra",
-        "a": "Zwróć uwagę na konstrukcję paneli i lekko rozkloszowany krój. W przeciwieństwie do prostej spódnicy, taki fason."
-      },
-      {
-        "q": "rozmywa",
-        "a": "granice sylwetki i miękko układa się na biodrach, tworząc harmonijny efekt."
+        "a": "Zwróć uwagę na konstrukcję paneli i lekko rozkloszowany krój. W przeciwieństwie do prostej spódnicy, taki fason „rozmywa” granice sylwetki i miękko układa się na biodrach, tworząc harmonijny efekt."
       },
       {
         "q": "Wełna wydaje się zbyt gruba i ciężka",
-        "a": "Wyjaśnij, że dziewicza wełna Luisa Spagnoli wyróżnia się szczególną lekkością i miękkością. Spódnica jest tak zaprojektowana, aby zapewniać ciepło, zachowując jednocześnie."
-      },
-      {
-        "q": "powietrze",
-        "a": "i plastyczność tkaniny."
+        "a": "Wyjaśnij, że dziewicza wełna Luisa Spagnoli wyróżnia się szczególną lekkością i miękkością. Spódnica jest tak zaprojektowana, aby zapewniać ciepło, zachowując jednocześnie „powietrze” i plastyczność tkaniny."
       },
       {
         "q": "Trudno dobrać górę do tak aktywnego wzoru",
@@ -410,37 +402,37 @@
       },
       {
         "q": "Tartan jest zbyt konserwatywny",
-        "a": "Pokaż stylizację z lookbooka z kardiganem Merende 2234. Połączenie tradycyjnej kraty z nowoczesną dzianiną o wyraźnej fakturze czyni całość aktualną i swobodną."
+        "a": "Pokaż stylizację z lookbooka z kardiganem Merende 2234. Połączenie tradycyjnej kraty z nowoczesną dzianiną o wyraźnej fakturze czyni całość aktualną i swobodną. ![](media/image18.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image19.png){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "uk": [
       {
-        "q": "Клітинка може",
-        "a": "Зверніть увагу на конструкцію панелей і візуально розкльошений крій. На відміну від прямої спідниці, такий збільшувати стегна силует."
+        "q": "Клітинка може Зверніть увагу на конструкцію панелей і візуально розкльошений крій. На відміну від прямої спідниці, такий збільшувати стегна",
+        "a": "силует."
       },
       {
         "q": "розмиває",
         "a": "межі фігури та м'яко драпірує область стегон, створюючи гармонійний образ."
       },
       {
-        "q": "Вовна здається",
-        "a": "Поясніть, що натуральна вовна Luisa Spagnoli надто щільною і відрізняється особливою легкістю та м'якістю. Спідниця важкою сконструйована так, щоб бути теплою, але при цьому зберігати."
+        "q": "Вовна здається Поясніть, що натуральна вовна Luisa Spagnoli надто щільною і відрізняється особливою легкістю та м'якістю. Спідниця важкою",
+        "a": "сконструйована так, щоб бути теплою, але при цьому зберігати."
       },
       {
         "q": "повітря",
         "a": "і рухливість тканини."
       },
       {
-        "q": "Складно підібрати",
-        "a": "Продемонструйте варіанти з вітрин: спідниця верх до такого ідеально поєднується з класичними сорочками активного принту Leila 0201 або Lucinda 0201, які врівноважують тартан, роблячи образ стриманим."
+        "q": "Складно підібрати Продемонструйте варіанти з вітрин: спідниця верх до такого ідеально поєднується з класичними сорочками активного принту",
+        "a": "Leila 0201 або Lucinda 0201, які врівноважують тартан, роблячи образ стриманим."
       },
       {
-        "q": "Довжина нижче коліна",
-        "a": "Запропонуйте приміряти спідницю з високими чоботами, як потребує високого це представлено у стилізації бренду. Створення зросту єдиної вертикалі кольору та фактури візуально подовжує силует."
+        "q": "Довжина нижче коліна Запропонуйте приміряти спідницю з високими чоботами, як потребує високого це представлено у стилізації бренду. Створення зросту",
+        "a": "єдиної вертикалі кольору та фактури візуально подовжує силует."
       },
       {
-        "q": "Тартан — це",
-        "a": "Покажіть стилізацію з lookbook із кардиганом надто Merende 2234. Поєднання традиційної клітинки з консервативно фактурним сучасним трикотажем робить образ актуальним і розслабленим."
+        "q": "Тартан --- це Покажіть стилізацію з lookbook із кардиганом надто Merende 2234. Поєднання традиційної клітинки з консервативно",
+        "a": "фактурним сучасним трикотажем робить образ актуальним і розслабленим. ![](media/image18.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image19.png){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

@@ -249,199 +249,199 @@
   "objections": {
     "en": [
       {
-        "q": "Alpaca may cause prickling on the skin.",
+        "q": "Alpaca may cause prickling on the skin",
         "a": "This model uses top-grade alpaca blended with 25% polyamide, which stabilizes the fiber, making the polo tactilely pleasant and silky."
       },
       {
-        "q": "A short sleeve seems impractical for a winter collection.",
+        "q": "A short sleeve seems impractical for a winter collection",
         "a": "The Cips model is specifically designed to be worn beneath jackets, cardigans, or trench coats, providing warmth to the torso without excess bulk at the sleeves."
       },
       {
-        "q": "Concern that the bouclé texture may visually add volume.",
+        "q": "Concern that the bouclé texture may visually add volume",
         "a": "The straight Regular fit silhouette and understated cut conceal the material's volume, creating a structured, contemporary look."
       },
       {
-        "q": "The pink shade (0328) may look too dressy.",
+        "q": "The pink shade (0328) may look too dressy",
         "a": "This shade in our collection carries a noble, dusty undertone that harmonizes beautifully with the core grey and beige palette, refreshing the complexion."
       },
       {
-        "q": "Concern about caring for such delicate knitwear.",
+        "q": "Concern about caring for such delicate knitwear",
         "a": "We recommend professional cleaning, which will preserve the bouclé's voluminous texture and the alpaca fibers' original softness for a long time to come."
       }
     ],
     "ru": [
       {
-        "q": "Альпака может вызывать покалывание на коже.",
-        "a": "В данной модели используется альпака высшей категории в сочетании с 25% полиамида, что стабилизирует волокно, делая поло тактильно приятным и шелковистым."
+        "q": "Alpaca may cause prickling on the skin",
+        "a": "В этой модели используется альпака высшего сорта в сочетании с 25% полиамида, что стабилизирует волокно, делая поло тактильно приятным и шелковистым."
       },
       {
-        "q": "Короткий рукав кажется непрактичным для зимней коллекции.",
-        "a": "Модель Cips специально разработана для ношения под жакеты, кардиганы или тренчи, обеспечивая тепло в области корпуса без лишнего объема в рукавах."
+        "q": "A short sleeve seems impractical for a winter collection",
+        "a": "Модель Cips специально разработана для ношения под жакеты, кардиганы или тренчи, обеспечивая тепло в области торса без лишнего объема в рукавах."
       },
       {
-        "q": "Боязнь, что фактура букле может визуально добавлять объема.",
-        "a": "Прямой силуэт Regular fit и лаконичный крой скрадывают объем материала, создавая структурированный и современный образ."
+        "q": "Concern that the bouclé texture may visually add volume",
+        "a": "Прямой силуэт Regular fit и лаконичный крой нивелируют объем материала, создавая структурированный и современный образ."
       },
       {
-        "q": "Розовый цвет (0328) может выглядеть слишком нарядно.",
-        "a": "Этот оттенок в нашей коллекции имеет благородный припыленный подтон, который идеально гармонирует с базовой серой и бежевой палитрой, освежая цвет лица."
+        "q": "The pink shade (0328) may look too dressy",
+        "a": "Этот оттенок в нашей коллекции обладает благородным припыленным подтоном, который гармонично сочетается с базовой серой и бежевой палитрой, освежая цвет лица."
       },
       {
-        "q": "Сложность в уходе за такой деликатной вязкой.",
-        "a": "Мы рекомендуем профессиональную чистку, которая позволит надолго сохранить объемную структуру букле и первоначальную мягкость волокон альпаки."
+        "q": "Concern about caring for such delicate knitwear",
+        "a": "Мы рекомендуем профессиональную чистку, которая надолго сохранит объемную фактуру букле и первозданную мягкость волокон альпаки."
       }
     ],
     "ar": [
       {
-        "q": "قد يسبب الألباكا شعوراً بالوخز على الجلد.",
+        "q": "قد يسبب الألباكا شعوراً بالوخز على الجلد",
         "a": "نستخدم في هذا الموديل ألباكا من الفئة العليا ممزوجة بـ 25% من البولياميد، مما يثبت الألياف ويجعل البولو مريحاً وحريرياً عند اللمس."
       },
       {
-        "q": "تبدو الأكمام القصيرة غير عملية للمجموعة الشتوية.",
+        "q": "تبدو الأكمام القصيرة غير عملية للمجموعة الشتوية",
         "a": "صُمم موديل Cips خصيصاً للارتداء تحت السترات أو الكارديغانات أو المعاطف، مما يوفر الدفء للجسم دون حجم زائد في الأكمام."
       },
       {
-        "q": "الخوف من أن يضيف قوام البوكلي حجماً إضافياً.",
+        "q": "الخوف من أن يضيف قوام البوكلي حجماً إضافياً",
         "a": "القصة المستقيمة Regular fit والقصة البسيطة تخفي حجم المادة، مما يخلق إطلالة منظمة وعصرية."
       },
       {
-        "q": "قد يبدو اللون الوردي (0328) متكلفاً جداً.",
+        "q": "قد يبدو اللون الوردي (0328) متكلفاً جداً",
         "a": "هذا اللون في مجموعتنا له نغمة ترابية نبيلة تتناغم تماماً مع لوحة الألوان الرمادية والبيج الأساسية، مما يضفي إشراقة على البشرة."
       },
       {
-        "q": "صعوبة العناية بالحياكة الدقيقة.",
+        "q": "صعوبة العناية بالحياكة الدقيقة",
         "a": "نوصي بالتنظيف المهني الذي سيحافظ لفترة طويلة على البنية الحجمية للبوكلي والنعومة الأولية لألياف الألباكا."
       }
     ],
     "ka": [
       {
-        "q": "ალპაკამ შესაძლოა გამოიწვიოს ჩხვლეტა კანზე.",
+        "q": "ალპაკამ შესაძლოა გამოიწვიოს ჩხვლეტა კანზე",
         "a": "მოცემულ მოდელში გამოყენებულია უმაღლესი კატეგორიის ალპაკა 25% პოლიამიდთან ერთად, რაც სტაბილიზაციას უკეთებს ბოჭკოს და პოლო ტაქტილურად სასიამოვნოსა და აბრეშუმისებრს ხდის."
       },
       {
-        "q": "მოკლე სახელო არაპრაქტიკული ჩანს ზამთრის კოლექციისთვის.",
+        "q": "მოკლე სახელო არაპრაქტიკული ჩანს ზამთრის კოლექციისთვის",
         "a": "Cips მოდელი სპეციალურად არის შემუშავებული პიჯაკების, კარდიგანების ან ტრენჩების ქვეშ სატარებლად, რაც უზრუნველყოფს სითბოს ტანის არეში სახელოებში ზედმეტი მოცულობის გარეშე."
       },
       {
-        "q": "შიში იმისა, რომ ბუკლეს ფაქტურამ შეიძლება ვიზუალურად დაამატოს მოცულობა.",
+        "q": "შიში იმისა, რომ ბუკლეს ფაქტურამ შეიძლება ვიზუალურად დაამატოს მოცულობა",
         "a": "სწორი Regular fit სილუეტი და ლაკონიური ჭრა მალავს მასალის მოცულობას და ქმნის სტრუქტურირებულ და თანამედროვე იერს."
       },
       {
-        "q": "ვარდისფერი (0328) შეიძლება ზედმეტად სადღესასწაულოდ გამოიყურებოდეს.",
+        "q": "ვარდისფერი (0328) შეიძლება ზედმეტად სადღესასწაულოდ გამოიყურებოდეს",
         "a": "ამ ფერს ჩვენს კოლექციაში აქვს კეთილშობილური მქრქალი ქვეტონი, რომელიც იდეალურად ერწყმის ძირითად ნაცრისფერ და კრემისფერ პალიტრას და აახალგაზრდავებს სახის ფერს."
       },
       {
-        "q": "სირთულე ასეთი დელიკატური ქსოვის მოვლაში.",
+        "q": "სირთულე ასეთი დელიკატური ქსოვის მოვლაში",
         "a": "ჩვენ გირჩევთ პროფესიონალურ წმენდას, რომელიც საშუალებას მოგცემთ დიდხანს შეინარჩუნოთ ბუკლეს მოცულობითი სტრუქტურა და ალპაკას ბოჭკოების პირვანდელი სირბილე."
       }
     ],
     "hy": [
       {
         "q": "Ալպական կարող է ծակծկոց առաջացնել մաշկի վրա",
-        "a": "Այս մոդելում օգտագործվում է բարձրագույն կատեգորիայի ալպակա՝ 25% պոլիամիդի հետ համադրությամբ, ինչը կայունացնում է մանրաթելը՝ պոլոն դարձնելով տակտիլային առումով հաճելի և մետաքսանման"
+        "a": "Այս մոդելում օգտագործվում է բարձրագույն կատեգորիայի ալպակա՝ 25% պոլիամիդի հետ համադրությամբ, ինչը կայունացնում է մանրաթելը՝ պոլոն դարձնելով տակտիլային առումով հաճելի և մետաքսանման."
       },
       {
         "q": "Կարճ թևքը թվում է ոչ գործնական ձմեռային հավաքածուի համար",
-        "a": "Cips մոդելը հատուկ մշակված է ժակետների, կարդիգանների կամ տրենչերի տակ կրելու համար՝ ապահովելով ջերմություն մարմնի հատվածում՝ առանց թևքերի ավելորդ ծավալի"
+        "a": "Cips մոդելը հատուկ մշակված է ժակետների, կարդիգանների կամ տրենչերի տակ կրելու համար՝ ապահովելով ջերմություն մարմնի հատվածում՝ առանց թևքերի ավելորդ ծավալի."
       },
       {
         "q": "Վախ, որ բուկլե ֆակտուրան կարող է տեսողականորեն ավելացնել ծավալ",
-        "a": "Regular fit ուղիղ ուրվագիծը և լակոնիկ ձևվածքը թաքցնում են նյութի ծավալը՝ ստեղծելով կառուցվածքավորված և ժամանակակից կերպար"
+        "a": "Regular fit ուղիղ ուրվագիծը և լակոնիկ ձևվածքը թաքցնում են նյութի ծավալը՝ ստեղծելով կառուցվածքավորված և ժամանակակից կերպար."
       },
       {
         "q": "Վարդագույն գույնը (0328) կարող է չափազանց տոնական երևալ",
-        "a": "Մեր հավաքածուի այս երանգն ունի ազնվական փոշոտ ենթերանգ, որը իդեալականորեն ներդաշնակում է մոխրագույն և բեժ հիմնական պալիտրայի հետ՝ թարմացնելով դեմքի գույնը"
+        "a": "Մեր հավաքածուի այս երանգն ունի ազնվական փոշոտ ենթերանգ, որը իդեալականորեն ներդաշնակում է մոխրագույն և բեժ հիմնական պալիտրայի հետ՝ թարմացնելով դեմքի գույնը."
       },
       {
         "q": "Խնամքի դժվարություն նուրբ հյուսքի պատճառով",
-        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ մաքրում, որը թույլ կտա երկար ժամանակ պահպանել բուկլեի ծավալուն կառուցվածքը և ալպակայի մանրաթելերի սկզբնական փափկությունը"
+        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ մաքրում, որը թույլ կտա երկար ժամանակ պահպանել բուկլեի ծավալուն կառուցվածքը և ալպակայի մանրաթելերի սկզբնական փափկությունը."
       }
     ],
     "lv": [
       {
-        "q": "Alpaka var izraisīt kņudēšanu uz ādas.",
+        "q": "Alpaka var izraisīt kņudēšanu uz ādas",
         "a": "Šajā modelī izmantota augstākās kategorijas alpaka kombinācijā ar 25% poliamīda, kas stabilizē šķiedru, padarot polo taktili patīkamu un zīdainu."
       },
       {
-        "q": "Īsa piedurkne šķiet nepraktiska ziemas kolekcijai.",
+        "q": "Īsa piedurkne šķiet nepraktiska ziemas kolekcijai",
         "a": "Cips modelis ir speciāli izstrādāts valkāšanai zem žaketēm, kardiganiem vai trenčiem, nodrošinot siltumu ķermeņa augšdaļā bez lieka apjoma piedurknēs."
       },
       {
-        "q": "Bailes, ka bukē faktūra var vizuāli pievienot apjomu.",
+        "q": "Bailes, ka bukē faktūra var vizuāli pievienot apjomu",
         "a": "Taisnais Regular fit siluets un lakoniskais piegriezums nomaskē materiāla apjomu, radot strukturētu un modernu tēlu."
       },
       {
-        "q": "Rozā krāsa (0328) var izskatīties pārāk grezni.",
+        "q": "Rozā krāsa (0328) var izskatīties pārāk grezni",
         "a": "Šim tonim mūsu kolekcijā ir cēls, pieklusināts pustoņis, kas ideāli harmonē ar bāzes pelēko un bēšo paleti, atsvaidzinot sejas krāsu."
       },
       {
-        "q": "Sarežģīta kopšana tik smalkai adījumam.",
+        "q": "Sarežģīta kopšana tik smalkai adījumam",
         "a": "Mēs iesakām profesionālo tīrīšanu, kas ļaus uz ilgu laiku saglabāt bukē apjomīgo struktūru un alpakas šķiedru sākotnējo maigumu."
       }
     ],
     "lt": [
       {
-        "q": "Alpaka gali kelti dilgčiojimą ant odos.",
+        "q": "Alpaka gali kelti dilgčiojimą ant odos",
         "a": "Šiame modelyje naudojama aukščiausios kategorijos alpaka kartu su 25% poliamido, kas stabilizuoja pluoštą, padarydama polo marškinėlius taktiliai malonius ir šilkinius."
       },
       {
-        "q": "Trumpa rankovė atrodo nepraktiška žiemos kolekcijai.",
+        "q": "Trumpa rankovė atrodo nepraktiška žiemos kolekcijai",
         "a": "Cips modelis specialiai sukurtas dėvėti po švarkais, kardiganais ar tranšėjais, užtikrinant šilumą kūno srityje be nereikalingo tūrio rankovėse."
       },
       {
-        "q": "Baimė, kad „boucle“ faktūra gali vizualiai pridėti tūrio.",
+        "q": "Baimė, kad „boucle“ faktūra gali vizualiai pridėti tūrio",
         "a": "Tiesus „Regular fit“ siluetas ir lakoniškas kirpimas paslepia medžiagos tūrį, sukuriant struktūrizuotą ir modernų įvaizdį."
       },
       {
-        "q": "Rožinė spalva (0328) gali atrodyti per daug puošniai.",
+        "q": "Rožinė spalva (0328) gali atrodyti per daug puošniai",
         "a": "Šis mūsų kolekcijos atspalvis turi kilnų prigesintą atspalvį, kuris idealiai dera su bazine pilka ir smėlio spalvų palete, gaivindamas veido spalvą."
       },
       {
-        "q": "Sunku prižiūrėti tokį delikatų mezginį.",
+        "q": "Sunku prižiūrėti tokį delikatų mezginį",
         "a": "Rekomenduojame profesionalų valymą, kuris leis ilgam išsaugoti tūrinę „boucle“ struktūrą ir pirmykštį alpakos pluoštų švelnumą."
       }
     ],
     "pl": [
       {
-        "q": "Alpaka może wywoływać kłucie na skórze.",
+        "q": "Alpaka może wywoływać kłucie na skórze",
         "a": "W tym modelu wykorzystano alpakę najwyższej kategorii w połączeniu z 25% poliamidem, co stabilizuje włókno, sprawiając, że polo jest miłe w dotyku i jedwabiste."
       },
       {
-        "q": "Krótki rękaw wydaje się niepraktyczny w kolekcji zimowej.",
+        "q": "Krótki rękaw wydaje się niepraktyczny w kolekcji zimowej",
         "a": "Model Cips został specjalnie zaprojektowany do noszenia pod żakiety, kardigany lub trencze, zapewniając ciepło w korpusie bez zbędnej objętości w rękawach."
       },
       {
-        "q": "Obawa, że faktura bouclé może optycznie dodawać objętości.",
+        "q": "Obawa, że faktura bouclé może optycznie dodawać objętości",
         "a": "Prosta sylwetka Regular fit i minimalistyczny krój niwelują objętość materiału, tworząc uporządkowany i nowoczesny look."
       },
       {
-        "q": "Różowy kolor (0328) może wyglądać zbyt odświętnie.",
+        "q": "Różowy kolor (0328) może wyglądać zbyt odświętnie",
         "a": "Ten odcień w naszej kolekcji ma szlachetny, przydymiony podton, który idealnie współgra z bazową szarą i beżową paletą, odświeżając cerę."
       },
       {
-        "q": "Trudności w pielęgnacji tak delikatnego splotu.",
+        "q": "Trudności w pielęgnacji tak delikatnego splotu",
         "a": "Zalecamy profesjonalne czyszczenie, które pozwoli na długo zachować przestrzenną strukturę bouclé oraz pierwotną miękkość włókien alpaki."
       }
     ],
     "uk": [
       {
-        "q": "Альпака може викликати поколювання на шкірі.",
+        "q": "Альпака може викликати поколювання на шкірі",
         "a": "У даній моделі використовується альпака найвищої категорії в поєднанні з 25% поліаміду, що стабілізує волокно, роблячи поло тактильно приємним і шовковистим."
       },
       {
-        "q": "Короткий рукав здається непрактичним для зимової колекції.",
+        "q": "Короткий рукав здається непрактичним для зимової колекції",
         "a": "Модель Cips спеціально розроблена для носіння під жакети, кардигани або тренчі, забезпечуючи тепло в області корпусу без зайвого об'єму в рукавах."
       },
       {
-        "q": "Побоювання, що фактура букле може візуально додавати об'єму.",
+        "q": "Побоювання, що фактура букле може візуально додавати об'єму",
         "a": "Прямий силует Regular fit і лаконічний крій приховують об'єм матеріалу, створюючи структурований і сучасний образ."
       },
       {
-        "q": "Рожевий колір (0328) може виглядати занадто ошатно.",
+        "q": "Рожевий колір (0328) може виглядати занадто ошатно",
         "a": "Цей відтінок у нашій колекції має благородний припилений підтон, який ідеально гармоніює з базовою сірою і бежевою палітрою, освіжаючи колір обличчя."
       },
       {
-        "q": "Складність у догляді за такою делікатною в'язкою.",
+        "q": "Складність у догляді за такою делікатною в'язкою",
         "a": "Ми рекомендуємо професійну чистку, яка дозволить надовго зберегти об'ємну структуру букле і первинну м'якість волокон альпаки."
       }
     ]

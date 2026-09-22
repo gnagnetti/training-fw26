@@ -342,7 +342,7 @@
       },
       {
         "q": "يبدو المعطف مسترخياً أكثر من اللازم للمكتب",
-        "a": "الأمر يعتمد على التنسيق. اقترحي خياراً من Vetrina 13 مع قميص Clips وبنطلون Olap، فهذا يثبت أن القطعة تندمج بشكل مثالي مع متطلبات أزياء العمل الرسمية."
+        "a": "الأمر يعتمد على التنسيق. اقترحي خياراً من Vetrina 13 مع قميص Clips وبنطلون Olap، فهذا يثبت أن القطعة تندمج بشكل مثالي مع متطلبات أزياء العمل الرسمية. ![](media/image161.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -361,8 +361,32 @@
     ],
     "hy": [
       {
-        "q": "Կոճակներ չունեցող վերարկուն անգործնական է թվում»։",
-        "a": "Պարզաբանեք, որ փաթաթվող կտրվածքը նրբագեղության ոսկե ստանդարտն է: Գոտին հուսալիորեն ամրացնում է վերարկուն, իսկ խիտ բրդյա խառնուրդը երաշխավորում է ջերմության պահպանումը եզրերի խորը ծածկույթի շնորհիվ: «'Ձկնոսկր' նախշը չափազանց ավանդական է»։ Հակառակը, սա «նոր բազան» է: Ցուցադրեք Vetrina 41-ը. Mirziana զգեստի և ժամանակակից Rotterdam գլխարկի հետ համադրությամբ դասական հյուսվածքը թվում է չափազանց նորաոճ և արտիստիկ: «Վախենում եմ, որ վերադիր գրպանները ծավալ կավելացնեն կոնքերին»։ Segnalibro մոդելի վերադիր գրպանները տեղադրված են այնպես, որ հավասարակշռեն լայն լացկաններն ու ռեգլան թևերը: Դրանք կարգավորում են փափուկ ուրվագիծը՝ դրան կառուցվածք հաղորդելով: «Բրդյա խառնուրդը կարող է գնդիկավորվել»։ Luisa Spagnoli-ի գործվածքները անցնում են հատուկ մշակում: Մանրաթելի խիտ հյուսվածքը և բարձր որակը ապահովում են մաշվածադիմացկունությունը և «spigato» նախշի անթերի տեսքի պահպանումը երկար սեզոնների ընթացքում: «Վերարկուն չափազանց ազատ է թվում»։ Ամեն ինչ կախված է ոճավորումից: Առաջարկեք Vetrina 13-ի տարբերակը՝ Clips վերնաշապիկով և Olap տաբատով գրասենյակի համար. սա ապացուցում է, որ մոդելը իդեալականորեն տեղավորվում է խիստ գործնական դրես-կոդի շրջանակներում"
+        "q": "Կոճակներ չունեցող վերարկուն անգործնական է թվում",
+        "a": "։ Ռազմավարություն՝ Պարզաբանեք, որ փաթաթվող կտրվածքը նրբագեղության ոսկե ստանդարտն է: Գոտին հուսալիորեն ամրացնում է վերարկուն, իսկ խիտ բրդյա խառնուրդը երաշխավորում է ջերմության պահպանումը եզրերի խորը ծածկույթի շնորհիվ."
+      },
+      {
+        "q": "'Ձկնոսկր' նախշը չափազանց ավանդական է",
+        "a": "։ Հակառակը, սա."
+      },
+      {
+        "q": "նոր բազան",
+        "a": "է: Ցուցադրեք Vetrina 41-ը. Mirziana զգեստի և ժամանակակից Rotterdam գլխարկի հետ համադրությամբ դասական հյուսվածքը թվում է չափազանց նորաոճ և արտիստիկ."
+      },
+      {
+        "q": "Վախենում եմ, որ վերադիր գրպանները ծավալ կավելացնեն կոնքերին",
+        "a": "։ Segnalibro մոդելի վերադիր գրպանները տեղադրված են այնպես, որ հավասարակշռեն լայն լացկաններն ու ռեգլան թևերը: Դրանք կարգավորում են փափուկ ուրվագիծը՝ դրան կառուցվածք հաղորդելով."
+      },
+      {
+        "q": "Բրդյա խառնուրդը կարող է գնդիկավորվել",
+        "a": "։ Luisa Spagnoli-ի գործվածքները անցնում են հատուկ մշակում: Մանրաթելի խիտ հյուսվածքը և բարձր որակը ապահովում են մաշվածադիմացկունությունը և."
+      },
+      {
+        "q": "spigato",
+        "a": "նախշի անթերի տեսքի պահպանումը երկար սեզոնների ընթացքում."
+      },
+      {
+        "q": "Վերարկուն չափազանց ազատ է թվում",
+        "a": "։ Ամեն ինչ կախված է ոճավորումից: Առաջարկեք Vetrina 13-ի տարբերակը՝ Clips վերնաշապիկով և Olap տաբատով գրասենյակի համար. սա ապացուցում է, որ մոդելը իդեալականորեն տեղավորվում է խիստ գործնական դրես-կոդի շրջանակներում: ![](media/image161.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
@@ -388,7 +412,7 @@
       },
       {
         "q": "Mētelis izskatās pārāk atbrīvots priekš biroja",
-        "a": "Viss atkarīgs no stila. Piedāvājiet variantu no Vetrina 13 ar džemperi Clips un biksēm Olap — tas pierāda, ka modelis lieliski iekļaujas stingrā biznesa dreskoda ietvaros."
+        "a": "Viss atkarīgs no stila. Piedāvājiet variantu no Vetrina 13 ar džemperi Clips un biksēm Olap — tas pierāda, ka modelis lieliski iekļaujas stingrā biznesa dreskoda ietvaros. ![](media/image161.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -408,11 +432,11 @@
     "pl": [
       {
         "q": "Płaszcz bez guzików wydaje się niepraktyczny",
-        "a": "-> Proszę wyjaśnić, że krój kopertowy to złoty standard elegancji. Pasek pewnie mocuje płaszcz, a gęsty materiał z mieszanki wełny gwarantuje zatrzymanie ciepła dzięki głębokiemu zakładowi."
+        "a": "> Proszę wyjaśnić, że krój kopertowy to złoty standard elegancji. Pasek pewnie mocuje płaszcz, a gęsty materiał z mieszanki wełny gwarantuje zatrzymanie ciepła dzięki głębokiemu zakładowi."
       },
       {
         "q": "Wzór 'jodełka' jest zbyt tradycyjny",
-        "a": "-> Wręcz przeciwnie, to."
+        "a": "> Wręcz przeciwnie, to."
       },
       {
         "q": "nowa baza",
@@ -420,11 +444,11 @@
       },
       {
         "q": "Obawiam się, że naszywane kieszenie dodadzą objętości biodrom",
-        "a": "-> Naszywane kieszenie w modelu Segnalibro rozmieszczone są tak, aby zrównoważyć szerokie klapy i rękawy raglanowe. Dyscyplinują one miękką sylwetkę, nadając jej strukturę."
+        "a": "> Naszywane kieszenie w modelu Segnalibro rozmieszczone są tak, aby zrównoważyć szerokie klapy i rękawy raglanowe. Dyscyplinują one miękką sylwetkę, nadając jej strukturę."
       },
       {
         "q": "Mieszanka wełny może się mechacić",
-        "a": "-> Tkaniny Luisa Spagnoli przechodzą specjalną obróbkę. Gęsty splot i wysoka jakość włókien zapewniają odporność na ścieranie i zachowanie nieskazitelnego wyglądu wzoru."
+        "a": "> Tkaniny Luisa Spagnoli przechodzą specjalną obróbkę. Gęsty splot i wysoka jakość włókien zapewniają odporność na ścieranie i zachowanie nieskazitelnego wyglądu wzoru."
       },
       {
         "q": "spigato",
@@ -432,7 +456,7 @@
       },
       {
         "q": "Płaszcz wygląda zbyt swobodnie do biura",
-        "a": "-> Wszystko zależy od stylizacji. Proszę zasugerować opcję z Vetrina 13 z topem Clips i spodniami Olap — to dowodzi, że model idealnie wpisuje się w ramy ścisłego biznesowego dress-code'u."
+        "a": "> Wszystko zależy od stylizacji. Proszę zasugerować opcję z Vetrina 13 z topem Clips i spodniami Olap — to dowodzi, że model idealnie wpisuje się w ramy ścisłego biznesowego dress-code'u. ![](media/image161.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "uk": [

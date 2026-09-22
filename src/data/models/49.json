@@ -165,59 +165,63 @@
   "objections": {
     "en": [
       {
-        "q": "Bouclé fabric may appear too voluminous on the figure.",
-        "a": "Luisa Spagnoli's designers use a fine-textured bouclé combined with a 'tubino' cut. This creates a clean shape that structures the silhouette without adding bulk."
+        "q": "BouclÃ© fabric may appear too voluminous on the figure",
+        "a": "Luisa Spagnoli's designers use a fine-textured bouclÃ© combined with a 'tubino' cut. This creates a clean shape that structures the silhouette without adding bulk."
       },
       {
-        "q": "The front slit may seem too bold for an office dress code.",
+        "q": "The front slit may seem too bold for an office dress code",
         "a": "Thanks to the midi length and the brand's classic aesthetic, the slit remains understated and functional, adding only a touch of contemporary femininity to a tailored look."
       },
       {
-        "q": "Concern that loosely woven fabric will quickly snag.",
+        "q": "Concern that loosely woven fabric will quickly snag",
         "a": "The fabric composition is predominantly polyester and acrylic (74%), which provides a dense weave and greater durability compared to traditional tweed."
       },
       {
         "q": "How should such a delicate texture and gold buttons be cared for?",
-        "a": "We recommend exclusively professional cleaning. This preserves the pristine loft of the bouclé and the shine of the hardware's galvanic coating for the long term."
+        "a": "We recommend exclusively professional cleaning. This preserves the pristine loft of the bouclÃ© and the shine of the hardware's galvanic coating for the long term."
       },
       {
-        "q": "A black skirt may seem too plain.",
-        "a": "It is precisely the play of light on the bouclé texture and the gleam of the gold buttons that make the Fiordaliso piece a standalone statement item, distinguishing it from ordinary smooth knitwear."
+        "q": "A black skirt may seem too plain",
+        "a": "It is precisely the play of light on the bouclÃ© texture and the gleam of the gold buttons that make the Fiordaliso piece a standalone statement item, distinguishing it from ordinary smooth knitwear."
       }
     ],
     "ru": [
       {
-        "q": "Ткань букле может выглядеть слишком объемной на фигуре.",
-        "a": "Дизайнеры Luisa Spagnoli используют мелкофактурное букле в сочетании с кроем 'tubino'. Это создает четкую форму, которая структурирует силуэт, не добавляя лишних сантиметров."
+        "q": "Ткань букле может казаться слишком объемной на фигуре",
+        "a": "Дизайнеры Luisa Spagnoli используют мелкофактурное букле в сочетании с кроем."
       },
       {
-        "q": "Передний разрез кажется слишком смелым для офисного дресс-кода.",
-        "a": "Благодаря длине миди и классической эстетике бренда, разрез остается сдержанным и функциональным, добавляя лишь ноту современной женственности в строгий образ."
+        "q": "тубино",
+        "a": ". Это создает чистую форму, которая структурирует силуэт, не добавляя лишнего объема."
       },
       {
-        "q": "Боязнь, что на рыхлой ткани быстро появятся зацепки.",
-        "a": "В составе полотна преобладает полиэстер и акрил (74%), что обеспечивает высокую плотность переплетения нитей и повышенную износостойкость по сравнению с традиционным твидом."
+        "q": "Передний разрез может показаться слишком смелым для офисного дресс-кода",
+        "a": "Благодаря длине миди и классической эстетике бренда, разрез остается сдержанным и функциональным, добавляя лишь деликатный акцент женственности в строгий образ."
+      },
+      {
+        "q": "Опасение, что рыхлая ткань быстро покроется зацепками",
+        "a": "Состав ткани преимущественно состоит из полиэстера и акрила (74%), что обеспечивает плотное плетение и значительно большую износостойкость по сравнению с традиционным твидом."
       },
       {
         "q": "Как ухаживать за такой деликатной фактурой и золотыми пуговицами?",
-        "a": "Мы рекомендуем исключительно профессиональную чистку. Это позволит надолго сохранить первозданную пушистость букле и блеск гальванического покрытия фурнитуры."
+        "a": "Мы рекомендуем исключительно профессиональную чистку. Это позволит сохранить первозданную пышность букле и блеск гальванического покрытия фурнитуры на долгий срок."
       },
       {
-        "q": "Черная юбка может выглядеть слишком скучно.",
-        "a": "Именно игра света на фактуре букле и мерцание золотых пуговиц делают Fiordaliso самостоятельным арт-объектом, который выделяется на фоне обычного гладкого трикотажа."
+        "q": "Черная юбка может показаться слишком простой",
+        "a": "Именно игра света на фактуре букле и сияние золотых пуговиц делают модель Fiordaliso самостоятельным акцентным изделием, выгодно отличающим ее от обычного гладкого трикотажа."
       }
     ],
     "ar": [
       {
-        "q": "قماش البوكليه قد يبدو ضخماً جداً على القوام.",
+        "q": "قماش البوكليه قد يبدو ضخماً جداً على القوام",
         "a": "يستخدم مصممو Luisa Spagnoli قماش بوكليه دقيق الملمس مع قصة 'tubino'. هذا يخلق شكلاً محدداً ينحت القوام دون إضافة سنتيمترات غير ضرورية."
       },
       {
-        "q": "الفتحة الأمامية تبدو جريئة جداً لقواعد اللباس المكتبي.",
+        "q": "الفتحة الأمامية تبدو جريئة جداً لقواعد اللباس المكتبي",
         "a": "بفضل طول الميدي والجمالية الكلاسيكية للعلامة التجارية، تظل الفتحة رصينة وعملية، مضيفة لمسة من الأنوثة العصرية للإطلالة الرسمية."
       },
       {
-        "q": "الخوف من ظهور خيوط مسحوبة بسرعة على القماش الخفيف.",
+        "q": "الخوف من ظهور خيوط مسحوبة بسرعة على القماش الخفيف",
         "a": "يهيمن البوليستر والأكريليك (74%) على تركيب القماش، مما يضمن كثافة عالية في نسج الخيوط ومتانة أكبر مقارنة بالتويد التقليدي."
       },
       {
@@ -225,21 +229,21 @@
         "a": "نوصي حصراً بالتنظيف المهني. سيسمح ذلك بالحفاظ على رونق البوكليه ولمعان الطلاء الجلفاني للإكسسوارات لفترة طويلة."
       },
       {
-        "q": "التنورة السوداء قد تبدو مملة.",
+        "q": "التنورة السوداء قد تبدو مملة",
         "a": "إن تلاعب الضوء على ملمس البوكليه وبريق الأزرار الذهبية هو ما يجعل Fiordaliso قطعة فنية مستقلة تبرز عن التريكو المعتاد ذو السطح الأملس."
       }
     ],
     "ka": [
       {
-        "q": "ბუკლეს ქსოვილი შესაძლოა ზედმეტად მოცულობითი ჩანდეს ფიგურაზე.",
+        "q": "ბუკლეს ქსოვილი შესაძლოა ზედმეტად მოცულობითი ჩანდეს ფიგურაზე",
         "a": "Luisa Spagnoli-ს დიზაინერები იყენებენ წვრილფაქტურებიან ბუკლეს 'tubino' ჭრასთან კომბინაციაში. ეს ქმნის მკაფიო ფორმას, რომელიც სტრუქტურირებს სილუეტს ზედმეტი სანტიმეტრების დამატების გარეშე."
       },
       {
-        "q": "წინა ჭრილი ზედმეტად თამამი ჩანს საოფისე დრეს-კოდისთვის.",
+        "q": "წინა ჭრილი ზედმეტად თამამი ჩანს საოფისე დრეს-კოდისთვის",
         "a": "მიდი სიგრძისა და ბრენდის კლასიკური ესთეტიკის წყალობით, ჭრილი რჩება თავშეკავებულად და ფუნქციურად, რაც მხოლოდ თანამედროვე ქალურობის ელფერს მატებს მკაცრ სახეს."
       },
       {
-        "q": "შიში იმისა, რომ ფაშარ ქსოვილზე სწრაფად გაჩნდება გამოწეული ძაფები.",
+        "q": "შიში იმისა, რომ ფაშარ ქსოვილზე სწრაფად გაჩნდება გამოწეული ძაფები",
         "a": "ქსოვილის შემადგენლობაში ჭარბობს პოლიესტერი და აკრილი (74%), რაც უზრუნველყოფს ძაფების წნულის მაღალ სიმკვრივეს და გაზრდილ ცვეთამედეგობას ტრადიციულ ტვიდთან შედარებით."
       },
       {
@@ -247,43 +251,43 @@
         "a": "ჩვენ გირჩევთ ექსკლუზიურად პროფესიონალურ წმენდას. ეს საშუალებას მოგცემთ დიდხანს შეინარჩუნოთ ბუკლეს პირვანდელი ფუმფულაობა და ფურნიტურის გალვანური საფარის ბზინვარება."
       },
       {
-        "q": "შავი ქვედაბოლო შესაძლოა ზედმეტად მოსაწყენად გამოიყურებოდეს.",
+        "q": "შავი ქვედაბოლო შესაძლოა ზედმეტად მოსაწყენად გამოიყურებოდეს",
         "a": "სწორედ ბუკლეს ფაქტურაზე სინათლის თამაში და ოქროსფერი ღილების ციმციმი აქცევს Fiordaliso-ს დამოუკიდებელ არტ-ობიექტად, რომელიც გამოირჩევა ჩვეულებრივი გლუვი ტრიკოტაჟის ფონზე."
       }
     ],
     "hy": [
       {
         "q": "Բուկլե գործվածքը կարող է չափազանց ծավալուն տեսք ունենալ կազմվածքի վրա",
-        "a": "Luisa Spagnoli-ի դիզայներներն օգտագործում են մանր ֆակտուրային բուկլե՝ 'tubino' ձևվածքի հետ համատեղ: Սա ստեղծում է հստակ ձև, որը կառուցվածք է հաղորդում ուրվագծին՝ առանց ավելորդ սանտիմետրեր ավելացնելու"
+        "a": "Luisa Spagnoli-ի դիզայներներն օգտագործում են մանր ֆակտուրային բուկլե՝ 'tubino' ձևվածքի հետ համատեղ: Սա ստեղծում է հստակ ձև, որը կառուցվածք է հաղորդում ուրվագծին՝ առանց ավելորդ սանտիմետրեր ավելացնելու."
       },
       {
         "q": "Առջևի բացվածքը չափազանց համարձակ է թվում գրասենյակային դրես-կոդի համար",
-        "a": "Միդի երկարության և բրենդի դասական էսթետիկայի շնորհիվ՝ բացվածքը մնում է զուսպ և ֆունկցիոնալ՝ ավելացնելով ժամանակակից կանացիության ընդամենը մի նոտա խիստ կերպարին"
+        "a": "Միդի երկարության և բրենդի դասական էսթետիկայի շնորհիվ՝ բացվածքը մնում է զուսպ և ֆունկցիոնալ՝ ավելացնելով ժամանակակից կանացիության ընդամենը մի նոտա խիստ կերպարին."
       },
       {
         "q": "Վախ, որ փխրուն գործվածքի վրա արագ կառաջանան քերծվածքներ",
-        "a": "Գործվածքի կազմի մեջ գերակշռում են պոլիեսթերը և ակրիլը (74%), ինչն ապահովում է թելերի հյուսման բարձր խտություն և բարձրացված մաշվածքակայունություն՝ ավանդական թվիդի համեմատ"
+        "a": "Գործվածքի կազմի մեջ գերակշռում են պոլիեսթերը և ակրիլը (74%), ինչն ապահովում է թելերի հյուսման բարձր խտություն և բարձրացված մաշվածքակայունություն՝ ավանդական թվիդի համեմատ."
       },
       {
         "q": "Ինչպե՞ս խնամել այսպիսի նուրբ ֆակտուրան և ոսկեգույն կոճակները",
-        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ մաքրում: Դա թույլ կտա երկար ժամանակ պահպանել բուկլեի նախնական փափկությունը և ֆուրնիտուրայի գալվանական ծածկույթի փայլը"
+        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ մաքրում: Դա թույլ կտա երկար ժամանակ պահպանել բուկլեի նախնական փափկությունը և ֆուրնիտուրայի գալվանական ծածկույթի փայլը."
       },
       {
         "q": "Սև կիսաշրջազգեստը կարող է չափազանց ձանձրալի տեսք ունենալ",
-        "a": "Հենց բուկլեի ֆակտուրայի վրա լույսի խաղը և ոսկեգույն կոճակների փայլատակումն են Fiordaliso-ն դարձնում ինքնուրույն արտ-օբյեկտ, որն առանձնանում է սովորական հարթ տրիկոտաժի ֆոնին"
+        "a": "Հենց բուկլեի ֆակտուրայի վրա լույսի խաղը և ոսկեգույն կոճակների փայլատակումն են Fiordaliso-ն դարձնում ինքնուրույն արտ-օբյեկտ, որն առանձնանում է սովորական հարթ տրիկոտաժի ֆոնին."
       }
     ],
     "lv": [
       {
-        "q": "Buklē audums var izskatīties pārāk apjomīgs uz auguma.",
+        "q": "Buklē audums var izskatīties pārāk apjomīgs uz auguma",
         "a": "Luisa Spagnoli dizaineri izmanto smalkfaktūras buklē kombinācijā ar 'tubino' piegriezumu. Tas rada skaidru formu, kas strukturē siluetu, nepievienojot liekus centimetrus."
       },
       {
-        "q": "Priekšējais šķēlums šķiet pārāk drosmīgs biroja dreskodam.",
+        "q": "Priekšējais šķēlums šķiet pārāk drosmīgs biroja dreskodam",
         "a": "Pateicoties midi garumam un zīmola klasiskajai estētikai, šķēlums paliek atturīgs un funkcionāls, pievienojot tikai modernas sievišķības noti stingrajam tēlam."
       },
       {
-        "q": "Bailes, ka uz irdenā auduma ātri parādīsies aizķērumi.",
+        "q": "Bailes, ka uz irdenā auduma ātri parādīsies aizķērumi",
         "a": "Auduma sastāvā dominē poliesters un akrils (74%), kas nodrošina augstu diegu pinuma blīvumu un paaugstinātu nodilumizturību salīdzinājumā ar tradicionālo tvīdu."
       },
       {
@@ -291,21 +295,21 @@
         "a": "Mēs iesakām tikai profesionālo tīrīšanu. Tas ļaus ilgstoši saglabāt buklē sākotnējo pūkainumu un furnitūras galvaniskā pārklājuma spīdumu."
       },
       {
-        "q": "Melni svārki var izskatīties pārāk garlaicīgi.",
+        "q": "Melni svārki var izskatīties pārāk garlaicīgi",
         "a": "Tieši gaismas spēle uz buklē faktūras un zelta pogu mirdzums padara Fiordaliso par patstāvīgu mākslas objektu, kas izceļas uz parastās gludās trikotāžas fona."
       }
     ],
     "lt": [
       {
-        "q": "Buklė audinys gali atrodyti per daug apimties suteikiantis figūrai.",
+        "q": "Buklė audinys gali atrodyti per daug apimties suteikiantis figūrai",
         "a": "Luisa Spagnoli dizaineriai naudoja smulkios faktūros buklė derinyje su „tubino“ kirpimu. Tai sukuria aiškią formą, kuri struktūrizuoja siluetą, nepridėdama nereikalingų centimetrų."
       },
       {
-        "q": "Priekinis skeltukas atrodo per drąsus biuro aprangos kodui.",
+        "q": "Priekinis skeltukas atrodo per drąsus biuro aprangos kodui",
         "a": "Dėl midi ilgio ir klasikinės prekės ženklo estetikos, skeltukas išlieka santūrus ir funkcionalus, suteikdamas tik šiuolaikiško moteriškumo prieskonį griežtam įvaizdžiui."
       },
       {
-        "q": "Baimė, kad ant puraus audinio greitai atsiras užkabinimai.",
+        "q": "Baimė, kad ant puraus audinio greitai atsiras užkabinimai",
         "a": "Audinio sudėtyje vyrauja poliesteris ir akrilas (74 %), kas užtikrina didelį siūlų pynimo tankumą ir didesnį atsparumą nusidėvėjimui, palyginus su tradiciniu tvidu."
       },
       {
@@ -313,21 +317,21 @@
         "a": "Rekomenduojame tik profesionalų valymą. Tai leis ilgam išsaugoti pirminį buklė purumą ir galvaninės furnitūros dangos blizgesį."
       },
       {
-        "q": "Juodas sijonas gali atrodyti per nuobodžiai.",
+        "q": "Juodas sijonas gali atrodyti per nuobodžiai",
         "a": "Būtent šviesos žaismas ant buklė faktūros ir auksinių sagų spindesys daro Fiordaliso savarankišku meno objektu, kuris išsiskiria įprasto lygaus trikotažo fone."
       }
     ],
     "pl": [
       {
-        "q": "Tkanina typu bouclé może wyglądać zbyt obszernie na figurze.",
+        "q": "Tkanina typu bouclé może wyglądać zbyt obszernie na figurze",
         "a": "Projektanci Luisa Spagnoli stosują drobnoziarniste bouclé w połączeniu z krojem 'tubino'. Tworzy to wyraźną formę, która modeluje sylwetkę, nie dodając zbędnych centymetrów."
       },
       {
-        "q": "Przednie rozcięcie wydaje się zbyt śmiałe jak na biurowy dress-code.",
+        "q": "Przednie rozcięcie wydaje się zbyt śmiałe jak na biurowy dress-code",
         "a": "Dzięki długości midi i klasycznej estetyce marki, rozcięcie pozostaje stonowane i funkcjonalne, dodając jedynie nutę nowoczesnej kobiecości do surowej stylizacji."
       },
       {
-        "q": "Obawa, że na luźnej tkaninie szybko pojawią się zaciągnięcia.",
+        "q": "Obawa, że na luźnej tkaninie szybko pojawią się zaciągnięcia",
         "a": "W składzie tkaniny przeważa poliester i akryl (74%), co zapewnia wysoką gęstość splotu nici oraz zwiększoną odporność na zużycie w porównaniu z tradycyjnym tweedem."
       },
       {
@@ -335,21 +339,21 @@
         "a": "Zalecamy wyłącznie profesjonalne czyszczenie. Pozwoli to na długo zachować pierwotną puszystość bouclé oraz blask galwanicznej powłoki elementów ozdobnych."
       },
       {
-        "q": "Czarna spódnica może wyglądać zbyt nudno.",
+        "q": "Czarna spódnica może wyglądać zbyt nudno",
         "a": "To właśnie gra światła na fakturze bouclé oraz migotanie złotych guzików sprawiają, że Fiordaliso staje się samodzielnym obiektem artystycznym, który wyróżnia się na tle zwykłej, gładkiej dzianiny."
       }
     ],
     "uk": [
       {
-        "q": "Тканина букле може виглядати занадто об'ємною на фігурі.",
+        "q": "Тканина букле може виглядати занадто об'ємною на фігурі",
         "a": "Дизайнери Luisa Spagnoli використовують дрібнофактурне букле в поєднанні з кроєм 'tubino'. Це створює чітку форму, яка структурує силует, не додаючи зайвих сантиметрів."
       },
       {
-        "q": "Передній розріз здається занадто сміливим для офісного дрес-коду.",
+        "q": "Передній розріз здається занадто сміливим для офісного дрес-коду",
         "a": "Завдяки довжині міді та класичній естетиці бренду, розріз залишається стриманим і функціональним, додаючи лише ноту сучасної жіночності в строгий образ."
       },
       {
-        "q": "Страх, що на пухкій тканині швидко з'являться зачіпки.",
+        "q": "Страх, що на пухкій тканині швидко з'являться зачіпки",
         "a": "У складі полотна переважає поліестер і акрил (74%), що забезпечує високу щільність переплетення ниток і підвищену зносостійкість у порівнянні з традиційним твідом."
       },
       {
@@ -357,7 +361,7 @@
         "a": "Ми рекомендуємо виключно професійну чистку. Це дозволить надовго зберегти первинну пухнастість букле та блиск гальванічного покриття фурнітури."
       },
       {
-        "q": "Чорна спідниця може виглядати занадто нудно.",
+        "q": "Чорна спідниця може виглядати занадто нудно",
         "a": "Саме гра світла на фактурі букле та мерехтіння золотих ґудзиків роблять Fiordaliso самостійним арт-об'єктом, який виділяється на фоні звичайного гладкого трикотажу."
       }
     ]

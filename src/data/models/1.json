@@ -70,19 +70,19 @@
   "objections": {
     "en": [
       {
-        "q": "The lace insert seems too delicate for everyday knitwear.",
+        "q": "The lace insert seems too delicate for everyday knitwear",
         "a": "The lace is integrated into the structure of the piece using a high-quality polyamide, which guarantees the decoration retains its shape and durability with proper care."
       },
       {
-        "q": "Concern that carded wool may feel uncomfortable against the skin.",
+        "q": "Concern that carded wool may feel uncomfortable against the skin",
         "a": "The yarn blend includes 30% viscose and 5% cashmere, giving the knit a silky, pleasant texture even for the most sensitive skin."
       },
       {
-        "q": "The model seems too loose-fitting.",
+        "q": "The model seems too loose-fitting",
         "a": "The Regular fit is specifically designed to create an elegant yet relaxed silhouette that flatters the figure without restricting movement."
       },
       {
-        "q": "The beige shade (Tortora) may look pale.",
+        "q": "The beige shade (Tortora) may look pale",
         "a": "This sophisticated shade is a 'Quiet Luxury' classic. It pairs beautifully with contrasting gold-tone accessories, such as bags from the LS1928 line."
       },
       {
@@ -92,41 +92,45 @@
     ],
     "ru": [
       {
-        "q": "Кружевная вставка кажется слишком деликатной для повседневного трикотажа.",
-        "a": "Кружево интегрировано в структуру изделия с использованием высококачественного полиамида, что гарантирует сохранение формы и долговечность декора при правильном уходе."
+        "q": "Кружевная вставка кажется слишком деликатной для повседневного трикотажа",
+        "a": "Кружево интегрировано в структуру изделия с использованием высококачественного полиамида, что гарантирует сохранение формы и долговечность декора при должном уходе."
       },
       {
-        "q": "Боязнь, что кардная шерсть может вызывать дискомфорт на коже.",
-        "a": "В состав пряжи входит 30% вискозы и 5% кашемира, что делает текстуру полотна шелковистой и приятной даже для самой чувствительной кожи."
+        "q": "Опасение, что кардная шерсть может быть неприятна к телу",
+        "a": "В состав пряжи входит 30% вискозы и 5% кашемира, что придает трикотажу шелковистую, приятную текстуру даже для самой чувствительной кожи."
       },
       {
-        "q": "Модель кажется слишком свободной.",
-        "a": "Посадка Regular fit разработана специально для создания элегантного, но расслабленного силуэта, который подчеркивает достоинства фигуры, не стесняя движений."
+        "q": "Модель кажется слишком свободной",
+        "a": "Крой Regular fit специально разработан для создания элегантного, но расслабленного силуэта, который подчеркивает достоинства фигуры, не стесняя движений."
       },
       {
-        "q": "Бежевый цвет (Tortora) может выглядеть бледно.",
-        "a": "Этот сложный оттенок является классикой 'тихой роскоши'. Он идеально сочетается с контрастными аксессуарами в золотом исполнении, такими как сумки линии LS1928."
+        "q": "Бежевый оттенок (Tortora) может выглядеть бледным",
+        "a": "Этот утонченный оттенок — классика."
       },
       {
-        "q": "Как ухаживать за таким комбинированным изделием?",
-        "a": "Мы рекомендуем профессиональную чистку или исключительно бережную ручную стирку, чтобы сохранить объемную структуру шерсти и не повредить тонкое кружево."
+        "q": "тихой роскоши",
+        "a": ". Он безупречно сочетается с контрастными аксессуарами в золотистых тонах, например, с сумками из линии LS1928."
+      },
+      {
+        "q": "Как ухаживать за изделием из комбинированных тканей?",
+        "a": "Мы рекомендуем профессиональную чистку или исключительно бережную ручную стирку, чтобы сохранить объем шерстяной структуры и защитить деликатное кружево."
       }
     ],
     "ar": [
       {
-        "q": "تبدو القطعة الدانتيل رقيقة للغاية بالنسبة لملابس التريكو اليومية.",
+        "q": "تبدو القطعة الدانتيل رقيقة للغاية بالنسبة لملابس التريكو اليومية",
         "a": "تم دمج الدانتيل في هيكل القطعة باستخدام البولي أميد عالي الجودة، مما يضمن الحفاظ على الشكل ومتانة الزخرفة مع العناية المناسبة."
       },
       {
-        "q": "الخوف من أن الصوف الممشط قد يسبب عدم الراحة للبشرة.",
+        "q": "الخوف من أن الصوف الممشط قد يسبب عدم الراحة للبشرة",
         "a": "يحتوي خيط الغزل على 30% من الفيسكوز و5% من الكشمير، مما يجعل ملمس القماش حريرياً ولطيفاً حتى على أكثر أنواع البشرة حساسية."
       },
       {
-        "q": "تبدو القصة واسعة جداً.",
+        "q": "تبدو القصة واسعة جداً",
         "a": "تم تصميم قصة Regular fit خصيصاً لخلق مظهر أنيق ومريح في الوقت ذاته، مما يبرز جمال القوام دون تقييد الحركة."
       },
       {
-        "q": "اللون البيج (Tortora) قد يبدو باهتاً.",
+        "q": "اللون البيج (Tortora) قد يبدو باهتاً",
         "a": "يعتبر هذا اللون المعقد رمزاً من رموز 'الفخامة الهادئة'. فهو ينسجم بشكل مثالي مع الإكسسوارات المتباينة ذات اللمسة الذهبية، مثل حقائب مجموعة LS1928."
       },
       {
@@ -136,20 +140,20 @@
     ],
     "ka": [
       {
-        "q": "მაქმანის ჩანართი ზედმეტად დელიკატური ჩანს ყოველდღიური ნაქსოვი ტანსაცმლისთვის.",
+        "q": "მაქმანის ჩანართი ზედმეტად დელიკატური ჩანს ყოველდღიური ნაქსოვი ტანსაცმლისთვის",
         "a": "მაქმანი ნაკეთობის სტრუქტურაში ინტეგრირებულია მაღალი ხარისხის პოლიამიდის გამოყენებით, რაც გარანტიას იძლევა დეკორის ფორმის შენარჩუნებისა და გამძლეობისა სათანადო მოვლის პირობებში."
       },
       {
-        "q": "შიში იმისა, რომ კარდული მატყლი შესაძლოა კანზე დისკომფორტს იწვევდეს.",
+        "q": "შიში იმისა, რომ კარდული მატყლი შესაძლოა კანზე დისკომფორტს იწვევდეს",
         "a": "ძაფის შემადგენლობაში შედის 30% ვისკოზა და 5% ქაშმირი, რაც ქსოვილის ტექსტურას აბრეშუმისებრს და სასიამოვნოს ხდის ყველაზე მგრძნობიარე კანისთვისაც კი."
       },
       {
-        "q": "მოდელი ზედმეტად თავისუფალი ჩანს.",
+        "q": "მოდელი ზედმეტად თავისუფალი ჩანს",
         "a": "Regular fit მორგება სპეციალურად არის შემუშავებული ელეგანტური, მაგრამ მოშვებული სილუეტის შესაქმნელად, რომელიც ხაზს უსვამს ფიგურის ღირსებებს მოძრაობის შეზღუდვის გარეშე."
       },
       {
-        "q": "ბეჟი ფერი (Tortora) შესაძლოა მკრთალად გამოიყურებოდეს.",
-        "a": "ეს დახვეწილი ტონი 'ჩუმი ფუფუნების' კლასიკაა. იგი იდეალურად ეხამება კონტრასტულ აქსესუარებს ოქროს შესრულებაში, როგორიცაა LS1928 ხაზის ჩანთები."
+        "q": "ბეჟი ფერი (Tortora) შესაძლოა მკრთალად გამოიყურებოდეს",
+        "a": "ეს დახვეწილი ტონი 'ჩუმი ფუფუნების' კლასიკაა. იგი იდეალურად ეხამება კონტრასტულ აქსესუარებს ოქროს შესრულებაში, როგორიცაა LS1928 ხაზის ჩანთები.,."
       },
       {
         "q": "როგორ მოვუაროთ ასეთ კომბინირებულ ნაკეთობას?",
@@ -159,41 +163,45 @@
     "hy": [
       {
         "q": "Ժանյակավոր ներդիրը չափազանց նուրբ է թվում առօրյա տրիկոտաժի համար։",
-        "a": "Ժանյակը ինտեգրված է արտադրանքի կառուցվածքի մեջ՝ օգտագործելով բարձրորակ պոլիամիդ, ինչը երաշխավորում է ձևի պահպանումը և դեկորի ամրությունը՝ պատշաճ խնամքի դեպքում։"
+        "a": "Ժանյակը ինտեգրված է արտադրանքի կառուցվածքի մեջ՝ օգտագործելով բարձրորակ պոլիամիդ, ինչը երաշխավորում է ձևի պահպանումը և դեկորի ամրությունը՝ պատշաճ խնամքի դեպքում։."
       },
       {
         "q": "Մտավախություն, որ քարտային բուրդը կարող է անհարմարություն առաջացնել մաշկի վրա։",
-        "a": "Մանվածքի կազմի մեջ մտնում է 30% վիսկոզա և 5% քաշմիր, ինչը կտորի հյուսվածքը դարձնում է մետաքսանման և հաճելի նույնիսկ ամենազգայուն մաշկի համար։"
+        "a": "Մանվածքի կազմի մեջ մտնում է 30% վիսկոզա և 5% քաշմիր, ինչը կտորի հյուսվածքը դարձնում է մետաքսանման և հաճելի նույնիսկ ամենազգայուն մաշկի համար։."
       },
       {
         "q": "Մոդելը չափազանց ազատ է թվում։",
-        "a": "Regular fit ձևվածքը մշակվել է հատուկ էլեգանտ, բայց հանգիստ ուրվագիծ ստեղծելու համար, որն ընդգծում է կազմվածքի առավելությունները՝ չսահմանափակելով շարժումները։"
+        "a": "Regular fit ձևվածքը մշակվել է հատուկ էլեգանտ, բայց հանգիստ ուրվագիծ ստեղծելու համար, որն ընդգծում է կազմվածքի առավելությունները՝ չսահմանափակելով շարժումները։."
       },
       {
         "q": "Բեժ գույնը (Tortora) կարող է գունատ թվալ։",
-        "a": "Այս բարդ երանգը «լուռ շքեղության» դասական է։ Այն իդեալականորեն համադրվում է ոսկեգույն կատարմամբ կոնտրաստային աքսեսուարների հետ, ինչպիսիք են LS1928 գծի պայուսակները։"
+        "a": "Այս բարդ երանգը."
+      },
+      {
+        "q": "լուռ շքեղության",
+        "a": "դասական է։ Այն իդեալականորեն համադրվում է ոսկեգույն կատարմամբ կոնտրաստային աքսեսուարների հետ, ինչպիսիք են LS1928 գծի պայուսակները։."
       },
       {
         "q": "Ինչպե՞ս խնամել այսպիսի համակցված արտադրանքը։",
-        "a": "Մենք խորհուրդ ենք տալիս մասնագիտական մաքրում կամ բացառապես զգույշ ձեռքով լվացում՝ բրդի ծավալային կառուցվածքը պահպանելու և բարակ ժանյակը չվնասելու համար։"
+        "a": "Մենք խորհուրդ ենք տալիս մասնագիտական մաքրում կամ բացառապես զգույշ ձեռքով լվացում՝ բրդի ծավալային կառուցվածքը պահպանելու և բարակ ժանյակը չվնասելու համար։."
       }
     ],
     "lv": [
       {
-        "q": "Mežģīņu ielaidums šķiet pārāk delikāts ikdienas trikotāžai.",
+        "q": "Mežģīņu ielaidums šķiet pārāk delikāts ikdienas trikotāžai",
         "a": "Mežģīnes ir integrētas izstrādājuma struktūrā, izmantojot augstas kvalitātes poliamīdu, kas garantē formas saglabāšanu un dekora ilgmūžību, ja tiek ievērota pareiza kopšana."
       },
       {
-        "q": "Bailes, ka kārstā vilna varētu radīt diskomfortu uz ādas.",
+        "q": "Bailes, ka kārstā vilna varētu radīt diskomfortu uz ādas",
         "a": "Dzijas sastāvā ir 30% viskozes un 5% kašmira, kas padara auduma tekstūru zīdainu un patīkamu pat visjutīgākajai ādai."
       },
       {
-        "q": "Modelis šķiet pārāk brīvs.",
+        "q": "Modelis šķiet pārāk brīvs",
         "a": "Regular fit piegriezums ir izstrādāts īpaši elegantam, bet nepiespiestam siluetam, kas izceļ figūras priekšrocības, neierobežojot kustības."
       },
       {
-        "q": "Bēšā krāsa (Tortora) var izskatīties bāla.",
-        "a": "Šis sarežģītais tonis ir 'klusas greznības' klasika. Tas lieliski sader ar kontrastējošiem aksesuāriem zelta izpildījumā, piemēram, LS1928 līnijas somām."
+        "q": "Bēšā krāsa (Tortora) var izskatīties bāla",
+        "a": "Šis sarežģītais tonis ir 'klusas greznības' klasika. Tas lieliski sader ar kontrastējošiem aksesuāriem zelta izpildījumā, piemēram, LS1928 līnijas somām.,."
       },
       {
         "q": "Kā kopt šādu kombinētu izstrādājumu?",
@@ -202,19 +210,19 @@
     ],
     "lt": [
       {
-        "q": "Nėriniuotas įsiuvas atrodo pernelyg trapus kasdieniam trikotažui.",
+        "q": "Nėriniuotas įsiuvas atrodo pernelyg trapus kasdieniam trikotažui",
         "a": "Nėriniai į integruoti į gaminio struktūrą naudojant aukštos kokybės poliamidą, kas užtikrina formos išlaikymą ir dekoro ilgaamžiškumą tinkamai prižiūrint."
       },
       {
-        "q": "Baimė, kad karšinė vilna gali dirginti odą.",
+        "q": "Baimė, kad karšinė vilna gali dirginti odą",
         "a": "Verpalų sudėtyje yra 30% viskozės ir 5% kašmyro, todėl audinio tekstūra tampa šilkinė ir maloni net jautriausiai odai."
       },
       {
-        "q": "Modelis atrodo pernelyg laisvas.",
+        "q": "Modelis atrodo pernelyg laisvas",
         "a": "Regular fit kirpimas sukurtas specialiai tam, kad sukurtų elegantišką, tačiau neįpareigojantį siluetą, kuris pabrėžia figūros privalumus nevaržydamas judesių."
       },
       {
-        "q": "Smėlio spalva (Tortora) gali atrodyti blanki.",
+        "q": "Smėlio spalva (Tortora) gali atrodyti blanki",
         "a": "Šis sudėtingas atspalvis yra „tyliosios prabangos“ klasika. Jis idealiai dera su kontrastuojančiais auksiniais aksesuarais, tokiais kaip LS1928 linijos rankinės."
       },
       {
@@ -224,20 +232,20 @@
     ],
     "pl": [
       {
-        "q": "Koronkowa wstawka wydaje się zbyt delikatna jak na codzienną dzianinę.",
+        "q": "Koronkowa wstawka wydaje się zbyt delikatna jak na codzienną dzianinę",
         "a": "Koronka została zintegrowana ze strukturą produktu przy użyciu wysokiej jakości poliamidu, co gwarantuje zachowanie kształtu i trwałość dekoracji przy odpowiedniej pielęgnacji."
       },
       {
-        "q": "Obawa, że wełna zgrzebna może powodować dyskomfort na skórze.",
+        "q": "Obawa, że wełna zgrzebna może powodować dyskomfort na skórze",
         "a": "W skład przędzy wchodzi 30% wiskozy i 5% kaszmiru, co czyni teksturę tkaniny jedwabistą i przyjemną nawet dla najbardziej wrażliwej skóry."
       },
       {
-        "q": "Model wydaje się zbyt luźny.",
+        "q": "Model wydaje się zbyt luźny",
         "a": "Krój Regular fit został zaprojektowany specjalnie w celu stworzenia eleganckiej, a zarazem swobodnej sylwetki, która podkreśla zalety figury, nie ograniczając ruchów."
       },
       {
-        "q": "Beżowy kolor (Tortora) może wyglądać blado.",
-        "a": "Ten wyrafinowany odcień jest klasykiem „cichego luksusu”. Idealnie komponuje się z kontrastującymi dodatkami w złotym wydaniu, takimi jak torebki z linii LS1928."
+        "q": "Beżowy kolor (Tortora) może wyglądać blado",
+        "a": "Ten wyrafinowany odcień jest klasykiem „cichego luksusu”. Idealnie komponuje się z kontrastującymi dodatkami w złotym wydaniu, takimi jak torebki z linii LS1928.,."
       },
       {
         "q": "Jak dbać o taki kombinowany produkt?",
@@ -246,20 +254,20 @@
     ],
     "uk": [
       {
-        "q": "Мереживна вставка здається занадто делікатною для повсякденного трикотажу.",
+        "q": "Мереживна вставка здається занадто делікатною для повсякденного трикотажу",
         "a": "Мереживо інтегровано в структуру виробу з використанням високоякісного поліаміду, що гарантує збереження форми та довговічність декору при належному догляді."
       },
       {
-        "q": "Побоювання, що кардна вовна може викликати дискомфорт на шкірі.",
+        "q": "Побоювання, що кардна вовна може викликати дискомфорт на шкірі",
         "a": "До складу пряжі входить 30% віскози та 5% кашеміру, що робить текстуру полотна шовковистою та приємною навіть для найчутливішої шкіри."
       },
       {
-        "q": "Модель здається занадто вільною.",
+        "q": "Модель здається занадто вільною",
         "a": "Посадка Regular fit розроблена спеціально для створення елегантного, але розслабленого силуету, який підкреслює переваги фігури, не обмежуючи рухів."
       },
       {
-        "q": "Бежевий колір (Tortora) може виглядати блідо.",
-        "a": "Цей складний відтінок є класикою 'тихої розкоші'. Він ідеально поєднується з контрастними аксесуарами в золотому виконанні, такими як сумки лінії LS1928."
+        "q": "Бежевий колір (Tortora) може виглядати блідо",
+        "a": "Цей складний відтінок є класикою 'тихої розкоші'. Він ідеально поєднується з контрастними аксесуарами в золотому виконанні, такими як сумки лінії LS1928.,."
       },
       {
         "q": "Як доглядати за таким комбінованим виробом?",

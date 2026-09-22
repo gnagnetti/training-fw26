@@ -193,15 +193,15 @@
   "objections": {
     "en": [
       {
-        "q": "The design seems too simple.",
+        "q": "The design seems too simple",
         "a": "True elegance lies precisely in simplicity. This model is designed as a flawless canvas that allows the luxury of Luisa Spagnoli's fabrics and accessories to take center stage."
       },
       {
-        "q": "Concern that the camel shade may not suit the complexion.",
+        "q": "Concern that the camel shade may not suit the complexion",
         "a": "Shade 2331 (Cammello) was selected by our stylists as the most universally flattering warm tone, one that refreshes the complexion and lends the look a noble radiance."
       },
       {
-        "q": "from official sources regarding the exact composition.",
+        "q": "Data not available from official sources regarding the exact composition",
         "a": "Every Luisa Spagnoli piece is crafted from carefully selected natural fibers, undergoing rigorous quality control to ensure durability and comfort."
       },
       {
@@ -209,43 +209,43 @@
         "a": "Add statement jewelry, such as the Neanide earrings or the Natalidi necklace, and complete the look with the elegant Ulisside boots for an evening-chic finish."
       },
       {
-        "q": "Concern about caring for light shades (Panna).",
+        "q": "Concern about caring for light shades (Panna)",
         "a": "We recommend professional cleaning, which will preserve the fiber's structure and the brightness of the milky 0202 shade for many seasons to come."
       }
     ],
     "ru": [
       {
-        "q": "Дизайн кажется слишком простым.",
-        "a": "Именно в простоте кроется истинная элегантность. Эта модель разработана как безупречный фон, позволяющий выделить роскошь тканей и аксессуаров Luisa Spagnoli."
+        "q": "Дизайн кажется слишком простым",
+        "a": "Истинная элегантность заключается именно в простоте. Эта модель задумана как безупречный холст, позволяющий роскоши тканей и аксессуаров Luisa Spagnoli выйти на первый план."
       },
       {
-        "q": "Боязнь, что цвет кэмел может не подойти к лицу.",
-        "a": "Оттенок 2331 (Cammello) подобран нашими стилистами как наиболее универсальный теплый тон, который освежает цвет лица и придает образу благородное сияние."
+        "q": "Опасение, что оттенок кэмел может не подойти к тону кожи",
+        "a": "Оттенок 2331 (Cammello) был выбран нашими стилистами как наиболее универсальный теплый тон, который освежает цвет лица и придает образу благородное сияние."
       },
       {
-        "q": "относительно точного состава.",
-        "a": "Все изделия Luisa Spagnoli изготавливаются из отборных натуральных волокон, проходя строгий контроль качества для обеспечения долговечности и комфорта."
+        "q": "Нет официальных данных о точном составе",
+        "a": "Каждое изделие Luisa Spagnoli создается из тщательно отобранных натуральных волокон и проходит строгий контроль качества, гарантирующий долговечность и комфорт."
       },
       {
-        "q": "Как стилизовать модель для вечернего выхода?",
-        "a": "Добавьте акцентные украшения, такие как серьги Neanide или колье Natalidi, и дополните образ изящными сапогами Ulisside для создания вечернего шика."
+        "q": "Как стилизовать эту модель для вечернего выхода?",
+        "a": "Добавьте акцентные украшения, такие как серьги Neanide или колье Natalidi, и завершите образ элегантными ботильонами Ulisside для создания вечернего шика."
       },
       {
-        "q": "Сложность в уходе за светлыми оттенками (Panna).",
-        "a": "Мы рекомендуем профессиональную чистку, которая сохранит структуру волокна и яркость молочного оттенка 0202 на многие сезоны."
+        "q": "Беспокойство об уходе за светлыми оттенками (Panna)",
+        "a": "Мы рекомендуем профессиональную чистку, которая сохранит структуру волокон и яркость молочного оттенка 0202 на многие сезоны."
       }
     ],
     "ar": [
       {
-        "q": "التصميم يبدو بسيطاً للغاية.",
+        "q": "التصميم يبدو بسيطاً للغاية",
         "a": "البساطة هي جوهر الأناقة الحقيقية. صممت هذه القطعة لتكون خلفية مثالية تبرز فخامة أقمشة وإكسسوارات Luisa Spagnoli."
       },
       {
-        "q": "الخوف من أن لون الجمل (Camel) قد لا يناسب لون البشرة.",
+        "q": "الخوف من أن لون الجمل (Camel) قد لا يناسب لون البشرة",
         "a": "تم اختيار درجة اللون 2331 (Cammello) من قبل مصممينا كأكثر الألوان الدافئة تنوعاً، حيث تضفي إشراقة على الوجه وتمنح المظهر لمسة نبيلة."
       },
       {
-        "q": "لا تتوفر بيانات في المصادر الرسمية بشأن التركيب الدقيق.",
+        "q": "لا تتوفر بيانات في المصادر الرسمية بشأن التركيب الدقيق",
         "a": "تُصنع جميع منتجات Luisa Spagnoli من ألياف طبيعية مختارة تخضع لرقابة صارمة لضمان المتانة والراحة."
       },
       {
@@ -253,21 +253,21 @@
         "a": "أضيفي قطعاً بارزة مثل أقراط Neanide أو قلادة Natalidi، وأكملي الإطلالة بحذاء Ulisside الأنيق لخلق سحر مسائي متألق."
       },
       {
-        "q": "صعوبة العناية بالألوان الفاتحة (Panna).",
+        "q": "صعوبة العناية بالألوان الفاتحة (Panna)",
         "a": "نوصي بالتنظيف الاحترافي الذي يحافظ على بنية الألياف وسطوع لون الحليب 0202 لعدة مواسم."
       }
     ],
     "ka": [
       {
-        "q": "დიზაინი ზედმეტად მარტივი ჩანს.",
+        "q": "დიზაინი ზედმეტად მარტივი ჩანს",
         "a": "სწორედ სიმარტივეში იმალება ჭეშმარიტი ელეგანტურობა. ეს მოდელი შემუშავებულია როგორც უნაკლო ფონი, რომელიც საშუალებას იძლევა წარმოვაჩინოთ Luisa Spagnoli-ს ქსოვილებისა და აქსესუარების ფუფუნება."
       },
       {
-        "q": "შიში იმისა, რომ ქემელის ფერი შესაძლოა სახის ფერს არ უხდებოდეს.",
+        "q": "შიში იმისა, რომ ქემელის ფერი შესაძლოა სახის ფერს არ უხდებოდეს",
         "a": "ტონი 2331 (Cammello) ჩვენი სტილისტების მიერ შერჩეულია როგორც ყველაზე უნივერსალური თბილი ტონი, რომელიც აცოცხლებს სახის ფერს და სახეს კეთილშობილურ ბზინვარებას ანიჭებს."
       },
       {
-        "q": "ოფიციალურ წყაროებში ზუსტი შემადგენლობის შესახებ მონაცემები არ არის.",
+        "q": "ოფიციალურ წყაროებში ზუსტი შემადგენლობის შესახებ მონაცემები არ არის",
         "a": "Luisa Spagnoli-ს ყველა ნაკეთობა მზადდება შერჩეული ნატურალური ბოჭკოებისგან, გადის რა ხარისხის მკაცრ კონტროლს გამძლეობისა და კომფორტის უზრუნველსაყოფად."
       },
       {
@@ -275,43 +275,43 @@
         "a": "დაამატეთ აქცენტური სამკაულები, როგორიცაა საყურეები Neanide ან ყელსაბამი Natalidi, და შეავსეთ სახე დახვეწილი ჩექმებით Ulisside საღამოს შიკის შესაქმნელად."
       },
       {
-        "q": "ღია ფერების (Panna) მოვლის სირთულე.",
+        "q": "ღია ფერების (Panna) მოვლის სირთულე",
         "a": "ჩვენ რეკომენდაციას ვუწევთ პროფესიონალურ წმენდას, რომელიც შეინარჩუნებს ბოჭკოს სტრუქტურას და რძისფერი ტონის 0202 სიკაშკაშეს მრავალი სეზონის განმავლობაში."
       }
     ],
     "hy": [
       {
         "q": "Դիզայնը չափազանց պարզ է թվում։",
-        "a": "Հենց պարզության մեջ է թաքնված իսկական էլեգանտությունը։ Այս մոդելը մշակվել է որպես անթերի ֆոն, որը թույլ է տալիս ընդգծել Luisa Spagnoli-ի գործվածքների և աքսեսուարների շքեղությունը։"
+        "a": "Հենց պարզության մեջ է թաքնված իսկական էլեգանտությունը։ Այս մոդելը մշակվել է որպես անթերի ֆոն, որը թույլ է տալիս ընդգծել Luisa Spagnoli-ի գործվածքների և աքսեսուարների շքեղությունը։."
       },
       {
         "q": "Մտավախություն, որ քեմել գույնը կարող է չսազել դեմքին։",
-        "a": "2331 (Cammello) երանգը մեր ոճաբանների կողմից ընտրվել է որպես առավել ունիվերսալ տաք երանգ, որը թարմացնում է դեմքի գույնը և կերպարին հաղորդում ազնվական փայլ։"
+        "a": "2331 (Cammello) երանգը մեր ոճաբանների կողմից ընտրվել է որպես առավել ունիվերսալ տաք երանգ, որը թարմացնում է դեմքի գույնը և կերպարին հաղորդում ազնվական փայլ։."
       },
       {
-        "q": "՝ կազմի ճշգրտության վերաբերյալ։",
-        "a": "Luisa Spagnoli-ի բոլոր արտադրանքները պատրաստվում են ընտիր բնական մանրաթելերից՝ անցնելով որակի խիստ հսկողություն՝ երկարակեցություն և հարմարավետություն ապահովելու համար։"
+        "q": "Տվյալները բացակայում են պաշտոնական աղբյուրներում՝ կազմի ճշգրտության վերաբերյալ։",
+        "a": "Luisa Spagnoli-ի բոլոր արտադրանքները պատրաստվում են ընտիր բնական մանրաթելերից՝ անցնելով որակի խիստ հսկողություն՝ երկարակեցություն և հարմարավետություն ապահովելու համար։."
       },
       {
         "q": "Ինչպե՞ս ոճավորել մոդելը երեկոյան ելքի համար։",
-        "a": "Ավելացրեք շեշտադրող զարդեր, ինչպիսիք են Neanide ականջօղերը կամ Natalidi վզնոցը, և լրացրեք կերպարը Ulisside նրբագեղ երկարաճիտ կոշիկներով՝ երեկոյան շքեղություն ստեղծելու համար։"
+        "a": "Ավելացրեք շեշտադրող զարդեր, ինչպիսիք են Neanide ականջօղերը կամ Natalidi վզնոցը, և լրացրեք կերպարը Ulisside նրբագեղ երկարաճիտ կոշիկներով՝ երեկոյան շքեղություն ստեղծելու համար։."
       },
       {
         "q": "Խնամքի դժվարություն բաց երանգների (Panna) հետ։",
-        "a": "Մենք խորհուրդ ենք տալիս մասնագիտական մաքրում, որը կպահպանի թելի կառուցվածքը և 0202 կաթնագույն երանգի պայծառությունը շատ մրցաշրջանների ընթացքում։"
+        "a": "Մենք խորհուրդ ենք տալիս մասնագիտական մաքրում, որը կպահպանի թելի կառուցվածքը և 0202 կաթնագույն երանգի պայծառությունը շատ մրցաշրջանների ընթացքում։."
       }
     ],
     "lv": [
       {
-        "q": "Dizains šķiet pārāk vienkāršs.",
+        "q": "Dizains šķiet pārāk vienkāršs",
         "a": "Tieši vienkāršībā slēpjas patiesā elegance. Šis modelis ir izstrādāts kā nevainojams fons, kas ļauj izcelt Luisa Spagnoli audumu un aksesuāru greznību."
       },
       {
-        "q": "Bailes, ka kemeļa krāsa var nepiestāvēt sejai.",
+        "q": "Bailes, ka kemeļa krāsa var nepiestāvēt sejai",
         "a": "Tonis 2331 (Cammello) mūsu stilistu ir izvēlēts kā visuniversālākais siltais tonis, kas atsvaidzina sejas krāsu un piešķir tēlam cēlu mirdzumu."
       },
       {
-        "q": "Trūkst datu oficiālajos avotos par precīzu sastāvu.",
+        "q": "Trūkst datu oficiālajos avotos par precīzu sastāvu",
         "a": "Visi Luisa Spagnoli izstrādājumi ir izgatavoti no atlasītām dabīgām šķiedrām, izturot stingru kvalitātes kontroli, lai nodrošinātu ilgmūžību un komfortu."
       },
       {
@@ -319,39 +319,43 @@
         "a": "Pievienojiet akcentētas rotaslietas, piemēram, Neanide auskarus vai Natalidi kaklarotu, un papildiniet tēlu ar elegantajiem Ulisside zābakiem vakara šika radīšanai."
       },
       {
-        "q": "Sarežģījumi gaišo toņu (Panna) kopšanā.",
+        "q": "Sarežģījumi gaišo toņu (Panna) kopšanā",
         "a": "Mēs iesakām profesionālu tīrīšanu, kas saglabās šķiedras struktūru un piena toņa 0202 spilgtumu daudzām sezonām."
       }
     ],
     "lt": [
       {
-        "q": "Dizainas atrodo pernelyg paprastas.",
+        "q": "Dizainas atrodo pernelyg paprastas",
         "a": "Būtent paprastume slypi tikroji elegancija. Šis modelis sukurtas kaip nepriekaištingas fonas, leidžiantis išryškinti Luisa Spagnoli audinių ir aksesuarų prabangą."
       },
       {
-        "q": "Baimė, kad kupranugario spalva gali netikti veidui.",
+        "q": "Baimė, kad kupranugario spalva gali netikti veidui",
         "a": "2331 (Cammello) atspalvį mūsų stilistai parinko kaip universaliausią šiltą toną, kuris atgaivina veido spalvą ir suteikia įvaizdžiui kilnaus spindesio."
+      },
+      {
+        "q": "Nėra oficialių duomenų apie tikslią sudėtį",
+        "a": "Visi Luisa Spagnoli gaminiai gaminami iš atrinktų natūralių pluoštų, praeinančių griežtą kokybės kontrolę, kad būtų užtikrintas ilgaamžiškumas ir komfortas."
       },
       {
         "q": "Kaip stilizuoti modelį vakariniam išėjimui?",
         "a": "Pridėkite akcentinius papuošalus, tokius kaip Neanide auskarai ar Natalidi vėrinys, ir papildykite įvaizdį grakščiais Ulisside batais, kad sukurtumėte vakarinį šiką."
       },
       {
-        "q": "Sudėtinga prižiūrėti šviesius atspalvius (Panna).",
+        "q": "Sudėtinga prižiūrėti šviesius atspalvius (Panna)",
         "a": "Rekomenduojame profesionalų valymą, kuris išsaugos pluošto struktūrą ir pieniško 0202 atspalvio ryškumą daugeliui sezonų."
       }
     ],
     "pl": [
       {
-        "q": "Design wydaje się zbyt prosty.",
+        "q": "Design wydaje się zbyt prosty",
         "a": "Właśnie w prostocie tkwi prawdziwa elegancja. Ten model został zaprojektowany jako bezbłędne tło, pozwalające wyeksponować luksus tkanin i akcesoriów Luisa Spagnoli."
       },
       {
-        "q": "Obawa, że kolor camel może nie pasować do cery.",
+        "q": "Obawa, że kolor camel może nie pasować do cery",
         "a": "Odcień 2331 (Cammello) został dobrany przez naszych stylistów jako najbardziej uniwersalny ciepły ton, który odświeża cerę i dodaje wizerunkowi szlachetnego blasku."
       },
       {
-        "q": "dotyczących dokładnego składu.",
+        "q": "Brak danych w oficjalnych źródłach dotyczących dokładnego składu",
         "a": "Wszystkie produkty Luisa Spagnoli wykonywane są z wyselekcjonowanych naturalnych włókien, przechodząc rygorystyczną kontrolę jakości w celu zapewnienia trwałości i komfortu."
       },
       {
@@ -359,21 +363,21 @@
         "a": "Dodaj akcentujące ozdoby, takie jak kolczyki Neanide lub naszyjnik Natalidi, i uzupełnij stylizację eleganckimi kozakami Ulisside, aby stworzyć wieczorowy szyk."
       },
       {
-        "q": "Trudności w pielęgnacji jasnych odcieni (Panna).",
+        "q": "Trudności w pielęgnacji jasnych odcieni (Panna)",
         "a": "Zalecamy profesjonalne czyszczenie, które zachowa strukturę włókna i jasność mlecznego odcienia 0202 na wiele sezonów."
       }
     ],
     "uk": [
       {
-        "q": "Дизайн здається занадто простим.",
+        "q": "Дизайн здається занадто простим",
         "a": "Саме в простоті криється справжня елегантність. Ця модель розроблена як бездоганний фон, що дозволяє виділити розкіш тканин та аксесуарів Luisa Spagnoli."
       },
       {
-        "q": "Побоювання, що колір кемел може не пасувати до обличчя.",
+        "q": "Побоювання, що колір кемел може не пасувати до обличчя",
         "a": "Відтінок 2331 (Cammello) підібраний нашими стилістами як найбільш універсальний теплий тон, який освіжає колір обличчя та надає образу благородного сяйва."
       },
       {
-        "q": "щодо точного складу.",
+        "q": "Дані відсутні в офіційних джерелах щодо точного складу",
         "a": "Усі вироби Luisa Spagnoli виготовляються з відбірних натуральних волокон, проходячи суворий контроль якості для забезпечення довговічності та комфорту."
       },
       {
@@ -381,7 +385,7 @@
         "a": "Додайте акцентні прикраси, такі як сережки Neanide або кольє Natalidi, і доповніть образ витонченими чоботами Ulisside для створення вечірнього шику."
       },
       {
-        "q": "Складність у догляді за світлими відтінками (Panna).",
+        "q": "Складність у догляді за світлими відтінками (Panna)",
         "a": "Ми рекомендуємо професійну чистку, яка збереже структуру волокна та яскравість молочного відтінку 0202 на багато сезонів."
       }
     ]

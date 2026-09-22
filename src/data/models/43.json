@@ -153,163 +153,211 @@
   "objections": {
     "en": [
       {
-        "q": "The composition includes polyester and polyamide.",
+        "q": "The composition includes polyester and polyamide",
         "a": "It is precisely the presence of high-technology fibres (40% polyester and 10% polyamide) that allows the skirt to retain its architectural shape, resist deformation, and significantly improve durability with daily wear."
       },
       {
-        "q": "The skirt seems too formal for everyday occasions.",
-        "a": "Style the Felis piece with a soft, contrasting knit, such as the Manos F 2435 pullover, to balance the structured cut and create a contemporary 'Luxury Casual' look."
+        "q": "The skirt seems too formal for everyday occasions",
+        "a": "Style the Felis piece with a soft, contrasting knit, such as the Manos F 2435 pullover, to balance the structured cut and create a contemporary 'Luxury Casual' look. [] -> Thanks to the high waist and tapered silhouette, the Felis skirt creates a clean vertical line that, in fact, visually elongates the figure, particularly when paired with heeled footwear."
       },
       {
-        "q": "A herringbone pattern may add years to the look.",
+        "q": "A herringbone pattern may add years to the look",
         "a": "In this piece, the pattern is rendered in a fashionable burgundy tone, elevating it from retro territory into the realm of contemporary 'old money' classicism, conveying a sense of high social standing."
       },
       {
-        "q": "Concern about the care required for wool-blend fabric.",
+        "q": "Concern about the care required for wool-blend fabric",
         "a": "To preserve the fabric's original texture and the precision of the cut, we recommend exclusively professional dry cleaning, ensuring the garment's longevity across many seasons."
       }
     ],
     "ru": [
       {
-        "q": "В составе присутствуют полиэстер и полиамид.",
-        "a": "Именно наличие высокотехнологичных волокон (40% полиэстера и 10% полиамида) позволяет юбке сохранять свою архитектурную форму, препятствует деформации и значительно повышает износостойкость при ежедневной носке."
+        "q": "В составе присутствует полиэстер и полиамид",
+        "a": "Именно наличие высокотехнологичных волокон (40% полиэстера и 10% полиамида) позволяет юбке сохранять архитектурный силуэт, противостоять деформации и значительно повышает износостойкость при ежедневной носке."
       },
       {
-        "q": "Юбка кажется слишком официальной для повседневности.",
-        "a": "Стилизуйте модель Felis с мягким контрастным трикотажем, таким как пуловер Manos F 2435, чтобы сбалансировать строгость кроя и создать актуальный образ в стиле «Luxury Casual»."
+        "q": "Юбка кажется слишком формальной для повседневных выходов",
+        "a": "Сочетайте модель Felis с мягким контрастным трикотажем, например, пуловером Manos F 2435, чтобы сбалансировать структурированный крой и создать актуальный образ в стиле 'Luxury Casual'."
       },
       {
-        "q": "Узор «елочка» может добавлять возраста.",
-        "a": "В данной модели узор выполнен в актуальном бордовом цвете, что переводит его из разряда ретро в категорию современной классики «old money», подчеркивающей высокий социальный статус."
+        "q": "Юбка может визуально утяжелять фигуру",
+        "a": "Благодаря высокой посадке и зауженному силуэту юбка Felis создает безупречную вертикаль, которая визуально удлиняет фигуру, особенно в паре с обувью на каблуке."
       },
       {
-        "q": "Сложность в уходе за смесовой шерстью.",
-        "a": "Для сохранения первозданной текстуры ткани и точности линий кроя мы рекомендуем исключительно профессиональную химчистку, что гарантирует сохранность изделия на долгие сезоны."
+        "q": "Узор «елочка",
+        "a": "может прибавлять возраст.» В данном изделии паттерн выполнен в благородном винном оттенке, что переводит его из категории ретро в плоскость современной классики 'old money', подчеркивая высокий статус обладательницы."
+      },
+      {
+        "q": "Беспокойство по поводу ухода за смесовой шерстяной тканью",
+        "a": "Чтобы сохранить первозданную фактуру ткани и безупречность кроя, мы рекомендуем исключительно профессиональную химчистку, что обеспечит долговечность изделия на многие сезоны."
       }
     ],
     "ar": [
       {
-        "q": "يحتوي التركيب على البوليستر والبولي أميد.",
+        "q": "يحتوي التركيب على البوليستر والبولي أميد",
         "a": "إن وجود ألياف عالية التقنية (40% بوليستر و10% بولي أميد) هو ما يسمح للتنورة بالحفاظ على شكلها الهندسي، ويمنع تشوهها، ويزيد بشكل ملحوظ من متانتها للاستخدام اليومي."
       },
       {
-        "q": "تبدو التنورة رسمية للغاية بالنسبة للحياة اليومية.",
-        "a": "نسقي موديل Felis مع تريكو ناعم متباين، مثل بلوفر Manos F 2435، لتحقيق التوازن بين صرامة القصة وخلق إطلالة عصرية بأسلوب «Luxury Casual»."
+        "q": "تبدو التنورة رسمية للغاية بالنسبة للحياة اليومية",
+        "a": "نسقي موديل Felis مع تريكو ناعم متباين، مثل بلوفر Manos F 2435 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png)، لتحقيق التوازن بين صرامة القصة وخلق إطلالة عصرية بأسلوب."
       },
       {
-        "q": "نمط «عظمة السمكة» قد يبدو متقدماً في العمر.",
-        "a": "في هذا الموديل، تم تنفيذ النمط بلون بورغندي عصري، مما ينقله من فئة الطراز القديم (ريترو) إلى فئة الكلاسيكيات المعاصرة «old money» التي تؤكد على المكانة الاجتماعية الرفيعة."
+        "q": "Luxury Casual",
+        "a": ". [] -> بفضل الخصر العالي والقصة الضيقة، تمنح تنورة Felis خطاً عمودياً واضحاً يعمل على إطالة القوام بصرياً، خاصة عند ارتدائها مع أحذية بكعب."
       },
       {
-        "q": "صعوبة العناية بالصوف المخلوط.",
+        "q": "نمط «عظمة السمكة",
+        "a": "قد يبدو متقدماً في العمر.» في هذا الموديل، تم تنفيذ النمط بلون بورغندي عصري، مما ينقله من فئة الطراز القديم (ريترو) إلى فئة الكلاسيكيات المعاصرة."
+      },
+      {
+        "q": "old money",
+        "a": "التي تؤكد على المكانة الاجتماعية الرفيعة."
+      },
+      {
+        "q": "صعوبة العناية بالصوف المخلوط",
         "a": "للحفاظ على ملمس القماش الأصلي ودقة خطوط القص، نوصي بالتنظيف الجاف الاحترافي حصراً، مما يضمن الحفاظ على القطعة لعدة مواسم."
       }
     ],
     "ka": [
       {
-        "q": "შემადგენლობაში არის პოლიესტერი და პოლიამიდი.",
+        "q": "შემადგენლობაში არის პოლიესტერი და პოლიამიდი",
         "a": "სწორედ მაღალტექნოლოგიური ბოჭკოების (40% პოლიესტერი და 10% პოლიამიდი) არსებობა საშუალებას აძლევს ქვედაბოლოს შეინარჩუნოს თავისი არქიტექტურული ფორმა, ხელს უშლის დეფორმაციას და მნიშვნელოვნად ზრდის ცვეთამედეგობას ყოველდღიური ტარებისას."
       },
       {
-        "q": "ქვედაბოლო ზედმეტად ოფიციალური ჩანს ყოველდღიურობისთვის.",
-        "a": "დაასტილიზეთ მოდელი Felis რბილი კონტრასტული ტრიკოტაჟით, როგორიცაა პულოვერი Manos F 2435, რათა დააბალანსოთ ჭრის სიმკაცრე და შექმნათ აქტუალური სახე «Luxury Casual» სტილში."
+        "q": "ქვედაბოლო ზედმეტად ოფიციალური ჩანს ყოველდღიურობისთვის",
+        "a": "დაასტილიზეთ მოდელი Felis რბილი კონტრასტული ტრიკოტაჟით, როგორიცაა პულოვერი Manos F 2435 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png), რათა დააბალანსოთ ჭრის სიმკაცრე და შექმნათ აქტუალური სახე."
       },
       {
-        "q": "ნაძვისებრი» (ე.წ. «ეშკა») ნიმუში შესაძლოა ამატებდეს ასაკს.",
-        "a": "ამ მოდელში ნიმუში შესრულებულია აქტუალურ ბორდოსფერში, რაც მას რეტროდან გადაიყვანს თანამედროვე «old money» კლასიკის კატეგორიაში, რაც ხაზს უსვამს მაღალ სოციალურ სტატუსს."
+        "q": "Luxury Casual",
+        "a": "სტილში. [] -> წელზე მაღალი დაშვებისა და შევიწროებული სილუეტის წყალობით, ქვედაბოლო Felis ქმნის მკაფიო ვერტიკალს, რომელიც, პირიქით, ვიზუალურად აგრძელებს სილუეტს, განსაკუთრებით ქუსლიან ფეხსაცმელთან კომბინაციაში."
       },
       {
-        "q": "ნარევ მატყლის მოვლის სირთულე.",
+        "q": "«ნაძვისებრი",
+        "a": "(ე.წ."
+      },
+      {
+        "q": "ეშკა",
+        "a": ") ნიმუში შესაძლოა ამატებდეს ასაკს.» ამ მოდელში ნიმუში შესრულებულია აქტუალურ ბორდოსფერში, რაც მას რეტროდან გადაიყვანს თანამედროვე."
+      },
+      {
+        "q": "old money",
+        "a": "კლასიკის კატეგორიაში, რაც ხაზს უსვამს მაღალ სოციალურ სტატუსს."
+      },
+      {
+        "q": "ნარევ მატყლის მოვლის სირთულე",
         "a": "ქსოვილის პირვანდელი ტექსტურისა და ჭრის ხაზების სიზუსტის შესანარჩუნებლად ჩვენ გირჩევთ ექსკლუზიურად პროფესიონალურ ქიმწმენდას, რაც გარანტიას იძლევა ნაკეთობის შენარჩუნების მრავალი სეზონის განმავლობაში."
       }
     ],
     "hy": [
       {
         "q": "Կազմի մեջ առկա են պոլիեսթեր և պոլիամիդ",
-        "a": "Հենց բարձրտեխնոլոգիական մանրաթելերի առկայությունը (40% պոլիեսթեր և 10% պոլիամիդ) հնարավորություն է տալիս կիսաշրջազգեստին պահպանել իր ճարտարապետական ձևը, կանխում է դեֆորմացիան և զգալիորեն բարձրացնում է մաշվածքակայունությունը ամենօրյա կրման ընթացքում"
+        "a": "Հենց բարձրտեխնոլոգիական մանրաթելերի առկայությունը (40% պոլիեսթեր և 10% պոլիամիդ) հնարավորություն է տալիս կիսաշրջազգեստին պահպանել իր ճարտարապետական ձևը, կանխում է դեֆորմացիան և զգալիորեն բարձրացնում է մաշվածքակայունությունը ամենօրյա կրման ընթացքում."
       },
       {
         "q": "Կիսաշրջազգեստը չափազանց պաշտոնական է թվում առօրյայի համար",
-        "a": "Ոճավորեք Felis մոդելը փափուկ հակադրվող տրիկոտաժով, ինչպիսին է Manos F 2435 պուլովերը, որպեսզի հավասարակշռեք ձևվածքի խստությունը և ստեղծեք արդիական կերպար «Luxury Casual» ոճով"
+        "a": "Ոճավորեք Felis մոդելը փափուկ հակադրվող տրիկոտաժով, ինչպիսին է Manos F 2435 պուլովերը (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png), որպեսզի հավասարակշռեք ձևվածքի խստությունը և ստեղծեք արդիական կերպար."
       },
       {
-        "q": "Եղևնաձև» նախշը կարող է տարիք ավելացնել",
-        "a": "Այս մոդելում նախշը կատարված է արդիական բորդո գույնով, ինչը այն ռետրո կատեգորիայից տեղափոխում է «old money» ժամանակակից դասականի դասակարգ, որն ընդգծում է բարձր սոցիալական կարգավիճակը"
+        "q": "Luxury Casual",
+        "a": "ոճով: [] -> Իրանի հատվածում բարձր գոտկատեղի և նեղացված ուրվագծի շնորհիվ՝ Felis կիսաշրջազգեստը ստեղծում է հստակ ուղղահայաց գիծ, որը, ընդհակառակը, տեսողականորեն երկարացնում է կազմվածքը, հատկապես կրունկներով կոշիկների հետ համադրության դեպքում."
+      },
+      {
+        "q": "«Եղևնաձև",
+        "a": "նախշը կարող է տարիք ավելացնել:» Այս մոդելում նախշը կատարված է արդիական բորդո գույնով, ինչը այն ռետրո կատեգորիայից տեղափոխում է."
+      },
+      {
+        "q": "old money",
+        "a": "ժամանակակից դասականի դասակարգ, որն ընդգծում է բարձր սոցիալական կարգավիճակը."
       },
       {
         "q": "Խառը բրդի խնամքի բարդությունը",
-        "a": "Գործվածքի նախնական հյուսվածքը և ձևվածքի գծերի ճշգրտությունը պահպանելու համար մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում, ինչը երաշխավորում է արտադրանքի պահպանումը երկար սեզոնների ընթացքում"
+        "a": "Գործվածքի նախնական հյուսվածքը և ձևվածքի գծերի ճշգրտությունը պահպանելու համար մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում, ինչը երաշխավորում է արտադրանքի պահպանումը երկար սեզոնների ընթացքում."
       }
     ],
     "lv": [
       {
-        "q": "Sastāvā ir poliesters un poliamīds.",
+        "q": "Sastāvā ir poliesters un poliamīds",
         "a": "Tieši augsto tehnoloģiju šķiedru klātbūtne (40% poliestera un 10% poliamīda) ļauj svārkiem saglabāt savu arhitektonisko formu, novērš deformāciju un ievērojami palielina nodilumizturību ikdienas valkāšanā."
       },
       {
-        "q": "Svārki šķiet pārāk oficiāli ikdienai.",
-        "a": "Stilojiet modeli Felis ar mīkstu kontrastējošu trikotāžu, piemēram, džemperi Manos F 2435, lai līdzsvarotu piegriezuma stingrību un radītu aktuālu tēlu «Luxury Casual» stilā."
+        "q": "Svārki šķiet pārāk oficiāli ikdienai",
+        "a": "Stilojiet modeli Felis ar mīkstu kontrastējošu trikotāžu, piemēram, džemperi Manos F 2435 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png), lai līdzsvarotu piegriezuma stingrību un radītu aktuālu tēlu."
       },
       {
-        "q": "Raksts «eglīte» var pievienot vecumu.",
-        "a": "Šajā modelī raksts ir izpildīts aktuālā bordo krāsā, kas to pārceļ no retro kategorijas uz modernās «old money» klasikas kategoriju, uzsverot augstu sociālo statusu."
+        "q": "Luxury Casual",
+        "a": "stilā. [] -> Pateicoties augstajai jostasvietai un sašaurinātajam siluetam, svārki Felis veido skaidru vertikāli, kas, gluži pretēji, vizuāli pagarina siluetu, īpaši kopā ar apaviem uz papēža."
       },
       {
-        "q": "Sarežģīta kopšana jaukta tipa vilnai.",
+        "q": "Raksts «eglīte",
+        "a": "var pievienot vecumu.» Šajā modelī raksts ir izpildīts aktuālā bordo krāsā, kas to pārceļ no retro kategorijas uz modernās."
+      },
+      {
+        "q": "old money",
+        "a": "klasikas kategoriju, uzsverot augstu sociālo statusu."
+      },
+      {
+        "q": "Sarežģīta kopšana jaukta tipa vilnai",
         "a": "Lai saglabātu auduma sākotnējo tekstūru un piegriezuma līniju precizitāti, mēs iesakām tikai profesionālo ķīmisko tīrīšanu, kas garantē izstrādājuma saglabāšanos daudzām sezonām."
       }
     ],
     "lt": [
       {
-        "q": "Sudėtyje yra poliesterio ir poliamido.",
+        "q": "Sudėtyje yra poliesterio ir poliamido",
         "a": "Būtent aukštųjų technologijų pluošto (40 % poliesterio ir 10 % poliamido) naudojimas leidžia sijonui išlaikyti savo architektūrinę formą, neleidžia jam deformuotis ir gerokai padidina atsparumą nusidėvėjimui kasdienio nešiojimo metu."
       },
       {
-        "q": "Sijonas atrodo per daug oficialus kasdienai.",
-        "a": "Derinkite Felis modelį su švelniu kontrastingu trikotažu, pavyzdžiui, Manos F 2435 džemperiu, kad subalansuotumėte kirpimo griežtumą ir sukurtumėte aktualų „Luxury Casual“ stiliaus įvaizdį."
+        "q": "Sijonas atrodo per daug oficialus kasdienai",
+        "a": "Derinkite Felis modelį su švelniu kontrastingu trikotažu, pavyzdžiui, Manos F 2435 džemperiu (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png), kad subalansuotumėte kirpimo griežtumą ir sukurtumėte aktualų „Luxury Casual“ stiliaus įvaizdį. [] -> Dėl aukšto liemens ir siaurėjančio silueto, Felis sijonas sukuria aiškią vertikalę, kuri, priešingai, vizualiai ilgina figūrą, ypač avint batus su kulnu."
       },
       {
-        "q": "„Eglutės“ raštas gali pridėti amžiaus.",
+        "q": "„Eglutės“ raštas gali pridėti amžiaus",
         "a": "Šiame modelyje raštas atliktas aktualia bordo spalva, kuri perkelia jį iš retro kategorijos į šiuolaikinės „old money“ klasikos kategoriją, pabrėžiančią aukštą socialinį statusą."
       },
       {
-        "q": "Sudėtinga priežiūra dėl vilnos mišinio.",
+        "q": "Sudėtinga priežiūra dėl vilnos mišinio",
         "a": "Siekiant išsaugoti pirminę audinio tekstūrą ir kirpimo linijų tikslumą, rekomenduojame tik profesionalų cheminį valymą, kuris garantuoja gaminio ilgaamžiškumą daugeliui sezonų."
       }
     ],
     "pl": [
       {
-        "q": "W składzie obecne są poliester i poliamid.",
+        "q": "W składzie obecne są poliester i poliamid",
         "a": "To właśnie obecność włókien zaawansowanych technologicznie (40% poliestru i 10% poliamidu) pozwala spódnicy zachować jej architektoniczną formę, zapobiega deformacji i znacząco zwiększa odporność na zużycie przy codziennym noszeniu."
       },
       {
-        "q": "Spódnica wydaje się zbyt oficjalna do codziennych stylizacji.",
-        "a": "Stylizuj model Felis z miękką, kontrastującą dzianiną, taką jak pulower Manos F 2435, aby zrównoważyć surowość kroju i stworzyć aktualny look w stylu „Luxury Casual”."
+        "q": "Spódnica wydaje się zbyt oficjalna do codziennych stylizacji",
+        "a": "Stylizuj model Felis z miękką, kontrastującą dzianiną, taką jak pulower Manos F 2435 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png), aby zrównoważyć surowość kroju i stworzyć aktualny look w stylu „Luxury Casual”. [] -> Dzięki wysokiemu stanowi w talii i zwężanemu krojowi, spódnica Felis tworzy wyraźną pionową linię, która optycznie wydłuża sylwetkę, szczególnie w zestawieniu z obuwiem na obcasie."
       },
       {
-        "q": "Wzór w „jodełkę” może dodawać lat.",
+        "q": "Wzór w „jodełkę” może dodawać lat",
         "a": "W tym modelu wzór wykonany jest w aktualnym bordowym odcieniu, co przenosi go z kategorii retro do nowoczesnej klasyki „old money”, podkreślającej wysoki status społeczny."
       },
       {
-        "q": "Trudności w pielęgnacji wełny mieszanej.",
+        "q": "Trudności w pielęgnacji wełny mieszanej",
         "a": "Aby zachować pierwotną teksturę tkaniny i precyzję linii kroju, zalecamy wyłącznie profesjonalne czyszczenie chemiczne, co gwarantuje trwałość produktu przez wiele sezonów."
       }
     ],
     "uk": [
       {
-        "q": "У складі присутні поліестер та поліамід.",
+        "q": "У складі присутні поліестер та поліамід",
         "a": "Саме наявність високотехнологічних волокон (40% поліестеру та 10% поліаміду) дозволяє спідниці зберігати свою архітектурну форму, перешкоджає деформації та значно підвищує зносостійкість при щоденному носінні."
       },
       {
-        "q": "Спідниця здається занадто офіційною для повсякденності.",
-        "a": "Стилізуйте модель Felis з м'яким контрастним трикотажем, таким як пуловер Manos F 2435, щоб збалансувати строгість крою та створити актуальний образ у стилі «Luxury Casual»."
+        "q": "Спідниця здається занадто офіційною для повсякденності",
+        "a": "Стилізуйте модель Felis з м'яким контрастним трикотажем, таким як пуловер Manos F 2435 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png), щоб збалансувати строгість крою та створити актуальний образ у стилі."
       },
       {
-        "q": "Візерунок «ялинка» може додавати віку.",
-        "a": "У цій моделі візерунок виконаний в актуальному бордовому кольорі, що переводить його з розряду ретро в категорію сучасної класики «old money», що підкреслює високий соціальний статус."
+        "q": "Luxury Casual",
+        "a": ". [] -> Завдяки високій посадці на талії та завуженому силуету, спідниця Felis створює чітку вертикаль, яка, навпаки, візуально витягує силует, особливо в парі з взуттям на підборах."
       },
       {
-        "q": "Складність у догляді за сумішевою вовною.",
+        "q": "Візерунок «ялинка",
+        "a": "може додавати віку.» У цій моделі візерунок виконаний в актуальному бордовому кольорі, що переводить його з розряду ретро в категорію сучасної класики."
+      },
+      {
+        "q": "old money",
+        "a": ", що підкреслює високий соціальний статус."
+      },
+      {
+        "q": "Складність у догляді за сумішевою вовною",
         "a": "Для збереження первинної текстури тканини та точності ліній крою ми рекомендуємо виключно професійну хімчистку, що гарантує збереження виробу на довгі сезони."
       }
     ]

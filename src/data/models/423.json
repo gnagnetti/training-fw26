@@ -208,30 +208,50 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "satin seems Remind the client that Luisa Spagnoli uses a too delicate» high-density satin that resists deformation and retains its noble sheen after cleaning. «The design looks Explain that within the \"Quiet Luxury\" segment, too simple» simplicity is a mark of the highest quality. The Logge B top is designed to let the sophistication of accessories and outer layers take center stage. «The fabric's sheen Point out that the piece has a clean-lined cut. might visually add When worn under a jacket (Spazzola 1133 or volume» Solvente 1221), only the central portion of the top is visible, creating a slimming vertical line. «The top looks like Showcase Vetrina 59: pairing it with a tailored an evening-only jacket proves that satin can move gracefully piece» between evening and daytime wardrobes, lending it femininity. «I'm worried the Explain that the density of Luisa Spagnoli's fabric will show satin weave guarantees opacity in the through» selected shades, giving the client complete confidence"
+        "q": "The satin seems Remind the client that Luisa Spagnoli uses a too delicate",
+        "a": "high-density satin that resists deformation and retains its noble sheen after cleaning."
+      },
+      {
+        "q": "The design looks Explain that within the \"Quiet Luxury\" segment, too simple",
+        "a": "simplicity is a mark of the highest quality. The Logge B top is designed to let the sophistication of accessories and outer layers take center stage."
+      },
+      {
+        "q": "The fabric's sheen Point out that the piece has a clean-lined cut. might visually add When worn under a jacket (Spazzola 1133 or volume",
+        "a": "Solvente 1221), only the central portion of the top is visible, creating a slimming vertical line."
+      },
+      {
+        "q": "The top looks like Showcase Vetrina 59: pairing it with a tailored an evening-only jacket proves that satin can move gracefully piece",
+        "a": "between evening and daytime wardrobes, lending it femininity."
+      },
+      {
+        "q": "I'm worried the Explain that the density of Luisa Spagnoli's fabric will show satin weave guarantees opacity in the through",
+        "a": "selected shades, giving the client complete confidence. ![](media/image56.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Атлас кажется",
-        "a": "Напомните, что Luisa Spagnoli использует атлас слишком высокой плотности, который устойчив к деформациям и деликатным сохраняет благородный блеск после чистки."
+        "q": "Атлас кажется слишком деликатным",
+        "a": ". Ответ: Напомните, что Luisa Spagnoli использует высокоплотный атлас, который устойчив к деформации и сохраняет благородный блеск после чистки. Возражение."
       },
       {
-        "q": "Дизайн выглядит",
-        "a": "Объясните, что в сегменте «Quiet Luxury простота слишком просто» — это признак высочайшего качества. Топ Logge B создан, чтобы подчеркивать статусность аксессуаров и внешнего слоя одежды."
+        "q": "Дизайн выглядит слишком просто",
+        "a": ". Ответ: Объясните, что в сегменте."
       },
       {
-        "q": "Блеск ткани",
-        "a": "Укажите на то, что модель имеет лаконичный крой. При может визуально использовании под жакет (Spazzola 1133 или полнить Solvente 1221) видна лишь центральная часть топа, создающая стройнящую вертикаль."
+        "q": "тихой роскоши",
+        "a": "лаконичность — признак высочайшего качества. Топ Logge B создан для того, чтобы утонченность аксессуаров и верхних слоев вышла на первый план. Возражение."
       },
       {
-        "q": "Топ выглядит",
-        "a": "Продемонстрируйте Vetrina 59: сочетание с деловым только как жакетом доказывает, что атлас может деликатно вечерний вписаться и в дневной гардероб, добавляя ему вариант женственности."
+        "q": "Блеск ткани может визуально добавить объем",
+        "a": ". Ответ: Укажите на чистые линии кроя. При ношении под жакетом (Spazzola 1133 или Solvente 1221) видна лишь центральная часть топа, что создает стройнящую вертикаль. Возражение."
       },
       {
-        "q": "Боюсь, что",
-        "a": "Поясните, что плотность плетения атласа Luisa ткань будет Spagnoli гарантирует непрозрачность в выбранных просвечивать оттенках, обеспечивая клиенту полную уверенность."
+        "q": "Топ выглядит как вещь исключительно для вечера",
+        "a": ". Ответ: Продемонстрируйте витрину 59: сочетание с жакетом доказывает, что атлас может грациозно переходить из вечернего гардероба в дневной, добавляя женственности. Возражение."
+      },
+      {
+        "q": "Боюсь, атласное плетение будет просвечивать",
+        "a": ". Ответ: Объясните, что плотность ткани Luisa Spagnoli гарантирует непрозрачность в выбранных оттенках, даря клиенту абсолютную уверенность."
       }
     ],
     "ar": [
@@ -257,7 +277,7 @@
       },
       {
         "q": "أخشى أن يكون النسيج شفافاً",
-        "a": "وضحي أن كثافة نسج ستان Luisa Spagnoli تضمن عدم الشفافية في الدرجات المختارة، مما يوفر للعميلة ثقة كاملة."
+        "a": "وضحي أن كثافة نسج ستان Luisa Spagnoli تضمن عدم الشفافية في الدرجات المختارة، مما يوفر للعميلة ثقة كاملة. ![](media/image56.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -305,29 +325,29 @@
       },
       {
         "q": "Վախենում եմ, որ կտորը թափանցիկ կլինի",
-        "a": "Պարզաբանեք, որ Luisa Spagnoli ատլասի հյուսվածքի խտությունը երաշխավորում է անթափանցիկությունը ընտրված երանգներում՝ ապահովելով հաճախորդին լիակատար վստահություն։."
+        "a": "Պարզաբանեք, որ Luisa Spagnoli ատլասի հյուսվածքի խտությունը երաշխավորում է անթափանցիկությունը ընտրված երանգներում՝ ապահովելով հաճախորդին լիակատար վստահություն։ ![](media/image56.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Atlass šķiet pārāk",
-        "a": "Atgādiniet, ka Luisa Spagnoli izmanto īpaši augsta blīvuma trausls atlasu, kurš ir izturīgs pret deformācijām un saglabā cēlu spīdumu pēc tīrīšanas."
+        "q": "Atlass šķiet pārāk Atgādiniet, ka Luisa Spagnoli izmanto īpaši augsta blīvuma trausls",
+        "a": "atlasu, kurš ir izturīgs pret deformācijām un saglabā cēlu spīdumu pēc tīrīšanas."
       },
       {
-        "q": "Dizains izskatās",
-        "a": "Paskaidrojiet, ka «Quiet Luxury segmentā vienkāršība pārāk vienkāršs» — ir augstākās kvalitātes pazīme. Tops Logge B ir radīts, lai uzsvērtu aksesuāru un ārējā apģērba slāņa statusu."
+        "q": "Dizains izskatās Paskaidrojiet, ka «Quiet Luxury",
+        "a": "segmentā vienkāršība pārāk vienkāršs» --- ir augstākās kvalitātes pazīme. Tops Logge B ir radīts, lai uzsvērtu aksesuāru un ārējā apģērba slāņa statusu."
       },
       {
-        "q": "Auduma spīdums var",
-        "a": "Norādiet uz to, ka modelim ir lakonisks griezums. Izmantojot vizuāli padarīt resnāku zem žaketes (Spazzola 1133 vai Solvente 1221) ir redzama tikai topa centrālā daļa, kas veido slaidošu vertikāli."
+        "q": "Auduma spīdums var Norādiet uz to, ka modelim ir lakonisks griezums. Izmantojot vizuāli padarīt resnāku",
+        "a": "zem žaketes (Spazzola 1133 vai Solvente 1221) ir redzama tikai topa centrālā daļa, kas veido slaidošu vertikāli."
       },
       {
-        "q": "Tops izskatās tikai",
-        "a": "Demonstrējiet Vetrina 59: kombinācija ar lietišķu žaketi kā vakara variants pierāda, ka atlass var delikāti iekļauties arī dienas garderobē, piešķirot tai sievišķību."
+        "q": "Tops izskatās tikai Demonstrējiet Vetrina 59: kombinācija ar lietišķu žaketi kā vakara variants",
+        "a": "pierāda, ka atlass var delikāti iekļauties arī dienas garderobē, piešķirot tai sievišķību."
       },
       {
-        "q": "Baidos, ka audums",
-        "a": "Paskaidrojiet, ka Luisa Spagnoli atlasa pinuma blīvums caurspīdēs garantē necaurredzamību izvēlētajos toņos, nodrošinot klientam pilnīgu pārliecību."
+        "q": "Baidos, ka audums Paskaidrojiet, ka Luisa Spagnoli atlasa pinuma blīvums caurspīdēs",
+        "a": "garantē necaurredzamību izvēlētajos toņos, nodrošinot klientam pilnīgu pārliecību. ![](media/image56.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -376,24 +396,24 @@
     ],
     "uk": [
       {
-        "q": "Атлас здається",
-        "a": "Нагадайте, що Luisa Spagnoli використовує атлас занадто високої щільності, який стійкий до деформацій та делікатним зберігає благородний блиск після чищення."
+        "q": "Атлас здається Нагадайте, що Luisa Spagnoli використовує атлас занадто високої щільності, який стійкий до деформацій та делікатним",
+        "a": "зберігає благородний блиск після чищення."
       },
       {
-        "q": "Дизайн виглядає",
-        "a": "Поясніть, що в сегменті «Quiet Luxury простота занадто просто» — це ознака найвищої якості. Топ Logge B створений, щоб підкреслювати статусність аксесуарів та зовнішнього шару одягу."
+        "q": "Дизайн виглядає Поясніть, що в сегменті «Quiet Luxury",
+        "a": "простота занадто просто» --- це ознака найвищої якості. Топ Logge B створений, щоб підкреслювати статусність аксесуарів та зовнішнього шару одягу."
       },
       {
-        "q": "Блиск тканини",
-        "a": "Вкажіть на те, що модель має лаконічний крій. може візуально При використанні під жакет (Spazzola 1133 або повнити Solvente 1221) видно лише центральну частину топа, що створює струнку вертикаль."
+        "q": "Блиск тканини Вкажіть на те, що модель має лаконічний крій. може візуально При використанні під жакет (Spazzola 1133 або повнити",
+        "a": "Solvente 1221) видно лише центральну частину топа, що створює струнку вертикаль."
       },
       {
-        "q": "Топ виглядає",
-        "a": "Продемонструйте Vetrina 59: поєднання з діловим тільки як вечірній жакетом доводить, що атлас може делікатно варіант вписатися і в денний гардероб, додаючи йому жіночності."
+        "q": "Топ виглядає Продемонструйте Vetrina 59: поєднання з діловим тільки як вечірній жакетом доводить, що атлас може делікатно варіант",
+        "a": "вписатися і в денний гардероб, додаючи йому жіночності."
       },
       {
-        "q": "Боюсь, що",
-        "a": "Поясніть, що щільність плетіння атласу Luisa тканина буде Spagnoli гарантує непрозорість у вибраних просвічувати відтінках, забезпечуючи клієнту повну впевненість."
+        "q": "Боюсь, що Поясніть, що щільність плетіння атласу Luisa тканина буде Spagnoli гарантує непрозорість у вибраних просвічувати",
+        "a": "відтінках, забезпечуючи клієнту повну впевненість. ![](media/image56.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

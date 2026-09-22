@@ -166,15 +166,15 @@
   "objections": {
     "en": [
       {
-        "q": "The leopard print seems too bold.",
+        "q": "The leopard print seems too bold",
         "a": "In the Mantes piece, the pattern is rendered in noble coffee-and-brown tones, which, combined with the matte texture of the wool, makes it an elegant accent in a 'quiet luxury' style."
       },
       {
-        "q": "Mohair content may cause discomfort or shed.",
+        "q": "Mohair content may cause discomfort or shed",
         "a": "We use the finest mohair in a precisely calibrated proportion (12%) with virgin wool. This guarantees fibre stability and remarkable softness in contact with the skin."
       },
       {
-        "q": "A long cardigan may visually add weight to the silhouette.",
+        "q": "A long cardigan may visually add weight to the silhouette",
         "a": "On the contrary, the vertical lines of the pattern and the elongated cut elongate the proportions, while the belt clearly defines the waistline, preserving a slender figure."
       },
       {
@@ -182,43 +182,47 @@
         "a": "This piece is highly versatile: the brand's stylists recommend wearing it with structured blouses and trousers, as well as over understated sheath dresses, to create statement layered looks."
       },
       {
-        "q": "Caring for the piece seems burdensome.",
+        "q": "Caring for the piece seems burdensome",
         "a": "Professional dry cleaning is required to preserve the noble, brushed texture of the mohair and the structure of the wool. This is the key to your cardigan retaining its pristine appearance for many years to come."
       }
     ],
     "ru": [
       {
-        "q": "Принт 'леопард' кажется слишком активным.",
-        "a": "В модели Mantes рисунок выполнен в благородных кофейно-коричневых тонах, что в сочетании с матовой фактурой шерсти делает его элегантным акцентом в стиле 'тихой роскоши'."
+        "q": "Леопардовый принт кажется слишком вызывающим",
+        "a": "В изделии Mantes узор выполнен в благородных кофейно-коричневых тонах, что в сочетании с матовой фактурой шерсти превращает его в элегантный акцент в эстетике."
       },
       {
-        "q": "Мохер в составе может вызывать дискомфорт или линять.",
-        "a": "Мы используем мохер высочайшего качества в строго выверенной пропорции (12%) с девственной шерстью. Это гарантирует стабильность волокон и невероятную нежность при контакте с кожей."
+        "q": "тихой роскоши",
+        "a": "."
       },
       {
-        "q": "Длинный кардиган может визуально утяжелять силуэт.",
-        "a": "Напротив, вертикальные линии рисунка и удлиненный крой вытягивают пропорции, а пояс помогает четко обозначить линию талии, сохраняя стройность фигуры."
+        "q": "Содержание мохера может вызывать дискомфорт или осыпаться",
+        "a": "Мы используем тончайший мохер в строго выверенной пропорции (12%) с натуральной шерстью. Это гарантирует стабильность волокна и исключительную мягкость при контакте с кожей."
       },
       {
-        "q": "С чем сочетать такой сложный предмет гардероба?",
-        "a": "Модель универсальна: стилисты бренда рекомендуют носить её как со строгими блузами и брюками, так и поверх лаконичных платьев-футляров, создавая статусные многослойные сеты."
+        "q": "Длинный кардиган может визуально утяжелять силуэт",
+        "a": "Напротив, вертикальные линии узора и удлиненный крой вытягивают пропорции, а пояс акцентирует линию талии, сохраняя утонченность фигуры."
       },
       {
-        "q": "Уход за изделием кажется обременительным.",
-        "a": "Для сохранения благородной ворсистой фактуры мохера и структуры шерсти необходима профессиональная сухая чистка. Это залог того, что ваш кардиган сохранит первозданный вид на многие годы."
+        "q": "С чем сочетать столь акцентную вещь?",
+        "a": "Изделие крайне универсально: стилисты бренда рекомендуют носить его со структурированными блузами и брюками, а также поверх лаконичных платьев-футляров для создания эффектных многослойных образов."
+      },
+      {
+        "q": "Уход за изделием кажется обременительным",
+        "a": "Профессиональная химчистка необходима для сохранения благородной ворсистой фактуры мохера и структуры шерсти. Это залог того, что ваш кардиган сохранит безупречный вид на долгие годы."
       }
     ],
     "ar": [
       {
-        "q": "تبدو نقشة 'النمر' جريئة أكثر من اللازم.",
+        "q": "تبدو نقشة 'النمر' جريئة أكثر من اللازم",
         "a": "في طراز Mantes، تم تنفيذ النقشة بألوان بنية قهوائية نبيلة، مما يجعلها، مع الملمس المطفأ للصوف، لمسة أنيقة تتماشى مع نمط 'الرفاهية الهادئة'."
       },
       {
-        "q": "قد يسبب الموهير في التكوين عدم الراحة أو يتساقط.",
+        "q": "قد يسبب الموهير في التكوين عدم الراحة أو يتساقط",
         "a": "نحن نستخدم موهير بأعلى مستويات الجودة وبنسبة مدروسة بدقة (12%) مع الصوف البكر. هذا يضمن ثبات الألياف ونعومة فائقة عند ملامستها للبشرة."
       },
       {
-        "q": "الكارديغان الطويل قد يثقل الصورة الظلية بصرياً.",
+        "q": "الكارديغان الطويل قد يثقل الصورة الظلية بصرياً",
         "a": "على العكس، تعمل الخطوط العمودية للنقشة والقصة الطويلة على إطالة القوام، بينما يساعد الحزام في تحديد خط الخصر بوضوح، مع الحفاظ على رشاقة الشكل."
       },
       {
@@ -226,21 +230,21 @@
         "a": "الطراز متعدد الاستخدامات: يوصي مصممو العلامة بارتدائه مع البلوزات والسراويل الرسمية، أو فوق فساتين غمد بسيطة، لخلق إطلالات متعددة الطبقات تعكس الرقي."
       },
       {
-        "q": "يبدو العناية بالمنتج عبئاً.",
+        "q": "يبدو العناية بالمنتج عبئاً",
         "a": "للحفاظ على الملمس الوبري النبيل للموهير وبنية الصوف، يلزم التنظيف الجاف الاحترافي. هذا هو الضمان بأن يحتفظ الكارديغان بمظهره الأصلي لسنوات عديدة."
       }
     ],
     "ka": [
       {
-        "q": "ლეოპარდის' პრინტი ზედმეტად თვალშისაცემად გვეჩვენება.",
+        "q": "'ლეოპარდის' პრინტი ზედმეტად თვალშისაცემად გვეჩვენება",
         "a": "Mantes-ის მოდელში ნახატი შესრულებულია კეთილშობილურ ყავისფერ-ყავისფერ ტონებში, რაც მატყლის მქრქალ ფაქტურასთან ერთად მას 'ჩუმი ფუფუნების' სტილის ელეგანტურ აქცენტად აქცევს."
       },
       {
-        "q": "შემადგენლობაში არსებულმა მოჰერმა შეიძლება გამოიწვიოს დისკომფორტი ან ბუსუსების ცვენა.",
+        "q": "შემადგენლობაში არსებულმა მოჰერმა შეიძლება გამოიწვიოს დისკომფორტი ან ბუსუსების ცვენა",
         "a": "ჩვენ ვიყენებთ უმაღლესი ხარისხის მოჰერს მკაცრად განსაზღვრული პროპორციით (12%) ხელუხლებელ მატყლთან ერთად. ეს უზრუნველყოფს ბოჭკოების სტაბილურობას და კანთან შეხებისას წარმოუდგენელ სირბილეს."
       },
       {
-        "q": "გრძელ კარდიგანს შეუძლია ვიზუალურად დაამძიმოს სილუეტი.",
+        "q": "გრძელ კარდიგანს შეუძლია ვიზუალურად დაამძიმოს სილუეტი",
         "a": "პირიქით, ნახატის ვერტიკალური ხაზები და წაგრძელებული ჭრილი აგრძელებს პროპორციებს, ხოლო ქამარი გვეხმარება წელის ხაზის მკაფიოდ გამოკვეთაში, რაც ინარჩუნებს ფიგურის სილამაზეს."
       },
       {
@@ -248,43 +252,47 @@
         "a": "მოდელი უნივერსალურია: ბრენდის სტილისტები გვირჩევენ მის ტარებას როგორც მკაცრ ბლუზებთან და შარვლებთან, ასევე ლაკონურ კაბებთან ერთად, რაც ქმნის სტატუსურ მრავალშრიან სეტებს."
       },
       {
-        "q": "მოვლა ზედმეტად დამღლელად გვეჩვენება.",
+        "q": "მოვლა ზედმეტად დამღლელად გვეჩვენება",
         "a": "მოჰერის კეთილშობილური ბუსუსოვანი ფაქტურისა და მატყლის სტრუქტურის შესანარჩუნებლად საჭიროა პროფესიონალური ქიმწმენდა. ეს არის გარანტია იმისა, რომ თქვენი კარდიგანი წლების განმავლობაში შეინარჩუნებს პირვანდელ იერს."
       }
     ],
     "hy": [
       {
-        "q": "Ընձառյուծի» պրինտը չափազանց ակտիվ է թվում։",
-        "a": "Mantes մոդելի մեջ նախշը կատարված է ազնվական սուրճ-շագանակագույն երանգներով, ինչը բրդի փայլատ հյուսվածքի հետ համադրությամբ այն դարձնում է «լուռ շքեղության» ոճի նրբագեղ շեշտադրում։"
+        "q": "«Ընձառյուծի",
+        "a": "պրինտը չափազանց ակտիվ է թվում։» Mantes մոդելի մեջ նախշը կատարված է ազնվական սուրճ-շագանակագույն երանգներով, ինչը բրդի փայլատ հյուսվածքի հետ համադրությամբ այն դարձնում է."
+      },
+      {
+        "q": "լուռ շքեղության",
+        "a": "ոճի նրբագեղ շեշտադրում։."
       },
       {
         "q": "Կազմի մեջ առկա մոհերը կարող է անհարմարություն պատճառել կամ թափվել։",
-        "a": "Մենք օգտագործում ենք ամենաբարձր որակի մոհեր՝ խստորեն հաշվարկված համամասնությամբ (12%) կուսական բրդի հետ։ Սա երաշխավորում է մանրաթելերի կայունությունը և անհավատալի նրբություն մաշկի հետ շփման ժամանակ։"
+        "a": "Մենք օգտագործում ենք ամենաբարձր որակի մոհեր՝ խստորեն հաշվարկված համամասնությամբ (12%) կուսական բրդի հետ։ Սա երաշխավորում է մանրաթելերի կայունությունը և անհավատալի նրբություն մաշկի հետ շփման ժամանակ։."
       },
       {
         "q": "Երկար քարդիգանը կարող է տեսողականորեն ծանրացնել սիլուետը։",
-        "a": "Հակառակը, նախշի ուղղահայաց գծերը և երկարացված ձևվածքը ձգում են համաչափությունները, իսկ գոտին օգնում է հստակ ընդգծել գոտկատեղը՝ պահպանելով կազմվածքի սլացիկությունը։"
+        "a": "Հակառակը, նախշի ուղղահայաց գծերը և երկարացված ձևվածքը ձգում են համաչափությունները, իսկ գոտին օգնում է հստակ ընդգծել գոտկատեղը՝ պահպանելով կազմվածքի սլացիկությունը։."
       },
       {
         "q": "Ի՞նչի հետ համադրել զգեստապահարանի այս բարդ իրը։",
-        "a": "Մոդելը ունիվերսալ է. բրենդի ոճաբանները խորհուրդ են տալիս այն կրել ինչպես խիստ բլուզների և տաբատների հետ, այնպես էլ լակոնիկ պատյան-զգեստների վրայից՝ ստեղծելով կարգավիճակային բազմաշերտ հանդերձանքներ։"
+        "a": "Մոդելը ունիվերսալ է. բրենդի ոճաբանները խորհուրդ են տալիս այն կրել ինչպես խիստ բլուզների և տաբատների հետ, այնպես էլ լակոնիկ պատյան-զգեստների վրայից՝ ստեղծելով կարգավիճակային բազմաշերտ հանդերձանքներ։."
       },
       {
         "q": "Իրի խնամքը բարդ է թվում։",
-        "a": "Մոհերի ազնվական թավշյա հյուսվածքը և բրդի կառուցվածքը պահպանելու համար անհրաժեշտ է պրոֆեսիոնալ քիմմաքրում։ Սա երաշխիքն է այն բանի, որ ձեր քարդիգանը կպահպանի իր սկզբնական տեսքը երկար տարիներ։"
+        "a": "Մոհերի ազնվական թավշյա հյուսվածքը և բրդի կառուցվածքը պահպանելու համար անհրաժեշտ է պրոֆեսիոնալ քիմմաքրում։ Սա երաշխիքն է այն բանի, որ ձեր քարդիգանը կպահպանի իր սկզբնական տեսքը երկար տարիներ։."
       }
     ],
     "lv": [
       {
-        "q": "Leoparda raksts šķiet pārāk uzkrītošs.",
+        "q": "Leoparda raksts šķiet pārāk uzkrītošs",
         "a": "Mantes modelī zīmējums ir izpildīts cēlajos kafijas brūnos toņos, kas kombinācijā ar matētu vilnas faktūru padara to par elegantu akcentu 'klusās greznības' stilā."
       },
       {
-        "q": "Mohēra sastāvā var izraisīt diskomfortu vai izplūkt.",
+        "q": "Mohēra sastāvā var izraisīt diskomfortu vai izplūkt",
         "a": "Mēs izmantojam visaugstākās kvalitātes mohēru stingri noteiktās proporcijās (12%) ar jaunvilnu. Tas garantē šķiedru stabilitāti un neticamu maigumu saskarē ar ādu."
       },
       {
-        "q": "Garais kardigans var vizuāli padarīt siluetu smagnējāku.",
+        "q": "Garais kardigans var vizuāli padarīt siluetu smagnējāku",
         "a": "Gluži pretēji, zīmējuma vertikālās līnijas un pagarinātais piegriezums pagarina proporcijas, bet josta palīdz skaidri iezīmēt vidukļa līniju, saglabājot figūras slaidumu."
       },
       {
@@ -292,21 +300,21 @@
         "a": "Modelis ir universāls: zīmola stilisti iesaka valkāt to gan ar lietišķām blūzēm un biksēm, gan pāri lakoniskām kleitām-etvijām, veidojot statusa pilnus daudzslāņu tēlus."
       },
       {
-        "q": "Izstrādājuma kopšana šķiet apgrūtinoša.",
+        "q": "Izstrādājuma kopšana šķiet apgrūtinoša",
         "a": "Lai saglabātu cēlo pūkaino mohēras faktūru un vilnas struktūru, ir nepieciešama profesionāla ķīmiskā tīrīšana. Tas ir garants tam, ka jūsu kardigans saglabās savu sākotnējo izskatu daudzu gadu garumā."
       }
     ],
     "lt": [
       {
-        "q": "Leopardo raštas atrodo per daug aktyvus.",
+        "q": "Leopardo raštas atrodo per daug aktyvus",
         "a": "Modelyje Mantes raštas sukurtas tauriais kavos ir rudos spalvos tonais, o derinant su matine vilnos faktūra, jis tampa elegantišku „tylios prabangos“ stiliaus akcentu."
       },
       {
-        "q": "Sudėtyje esantis moheris gali sukelti diskomfortą ar šertis.",
+        "q": "Sudėtyje esantis moheris gali sukelti diskomfortą ar šertis",
         "a": "Naudojame aukščiausios kokybės moherį griežtai subalansuota proporcija (12 %) su pirmaprade vilna. Tai užtikrina pluošto stabilumą ir neįtikėtiną švelnumą kontaktuojant su oda."
       },
       {
-        "q": "Ilgas kardiganas gali vizualiai apsunkinti siluetą.",
+        "q": "Ilgas kardiganas gali vizualiai apsunkinti siluetą",
         "a": "Priešingai, vertikalios rašto linijos ir pailgintas kirpimas ilgina proporcijas, o diržas padeda aiškiai pabrėžti liemens liniją, išsaugant figūros grakštumą."
       },
       {
@@ -314,21 +322,21 @@
         "a": "Modelis universalus: prekės ženklo stilistai rekomenduoja dėvėti jį tiek su griežtomis palaidinėmis ir kelnėmis, tiek ant glaustų suknelių-futliarų, sukuriant solidžius daugiasluoksnius derinius."
       },
       {
-        "q": "Gaminio priežiūra atrodo varginanti.",
+        "q": "Gaminio priežiūra atrodo varginanti",
         "a": "Norint išsaugoti taurią pūkuotą moherio faktūrą ir vilnos struktūrą, būtinas profesionalus cheminis valymas. Tai garantija, kad jūsų kardiganas išsaugos savo pirminę išvaizdą daugelį metų."
       }
     ],
     "pl": [
       {
-        "q": "Wzór 'leopard' wydaje się zbyt wyrazisty.",
+        "q": "Wzór 'leopard' wydaje się zbyt wyrazisty",
         "a": "W modelu Mantes rysunek wykonano w szlachetnych kawowo-brązowych odcieniach, co w połączeniu z matową fakturą wełny czyni go eleganckim akcentem w stylu 'cichego luksusu'."
       },
       {
-        "q": "Moher w składzie może powodować dyskomfort lub linieć.",
+        "q": "Moher w składzie może powodować dyskomfort lub linieć",
         "a": "Używamy moheru najwyższej jakości w ściśle określonej proporcji (12%) z dziewiczą wełną. Gwarantuje to stabilność włókien i niesamowitą delikatność w kontakcie ze skórą."
       },
       {
-        "q": "Długi kardigan może optycznie obciążać sylwetkę.",
+        "q": "Długi kardigan może optycznie obciążać sylwetkę",
         "a": "Wręcz przeciwnie, pionowe linie rysunku i wydłużony krój wydłużają proporcje, a pasek pomaga wyraźnie zaznaczyć linię talii, zachowując smukłość figury."
       },
       {
@@ -336,21 +344,25 @@
         "a": "Model jest uniwersalny: styliści marki zalecają noszenie go zarówno ze sztywnymi bluzkami i spodniami, jak i na wierzchu minimalistycznych sukienek etui, tworząc prestiżowe wielowarstwowe zestawy."
       },
       {
-        "q": "Pielęgnacja wyrobu wydaje się uciążliwa.",
+        "q": "Pielęgnacja wyrobu wydaje się uciążliwa",
         "a": "Aby zachować szlachetną, puszystą fakturę moheru i strukturę wełny, konieczne jest profesjonalne czyszczenie chemiczne. To gwarancja, że Twój kardigan zachowa nieskazitelny wygląd przez wiele lat."
       }
     ],
     "uk": [
       {
-        "q": "Принт «леопард» здається занадто активним.",
-        "a": "У моделі Mantes малюнок виконаний у благородних кавово-коричневих тонах, що в поєднанні з матовою фактурою вовни робить його елегантним акцентом у стилі «тихої розкоші»."
+        "q": "Принт «леопард",
+        "a": "здається занадто активним.» У моделі Mantes малюнок виконаний у благородних кавово-коричневих тонах, що в поєднанні з матовою фактурою вовни робить його елегантним акцентом у стилі."
       },
       {
-        "q": "Мохер у складі може викликати дискомфорт або линяти.",
+        "q": "тихої розкоші",
+        "a": "."
+      },
+      {
+        "q": "Мохер у складі може викликати дискомфорт або линяти",
         "a": "Ми використовуємо мохер найвищої якості у строго вивіреній пропорції (12%) з дівочою вовною. Це гарантує стабільність волокон і неймовірну ніжність при контакті зі шкірою."
       },
       {
-        "q": "Довгий кардиган може візуально обтяжувати силует.",
+        "q": "Довгий кардиган може візуально обтяжувати силует",
         "a": "Навпаки, вертикальні лінії малюнка та подовжений крій витягують пропорції, а пояс допомагає чітко окреслити лінію талії, зберігаючи стрункість фігури."
       },
       {
@@ -358,7 +370,7 @@
         "a": "Модель універсальна: стилісти бренду рекомендують носити її як зі строгими блузами та штанами, так і поверх лаконічних суконь-футлярів, створюючи статусні багатошарові сети."
       },
       {
-        "q": "Догляд за виробом здається обтяжливим.",
+        "q": "Догляд за виробом здається обтяжливим",
         "a": "Для збереження благородної ворсистої фактури мохеру та структури вовни необхідна професійна суха чистка. Це запорука того, що ваш кардиган збереже первісний вигляд на багато років."
       }
     ]

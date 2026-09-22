@@ -152,46 +152,54 @@
   "objections": {
     "en": [
       {
-        "q": "Large studs may appear too aggressive.",
+        "q": "Large studs may appear too aggressive",
         "a": "Explain to the client that the smoothed 'bombate' form and the muted sheen of the metal lend the hardware a refined character, allowing the belt to complement even the most classic looks harmoniously."
       },
       {
-        "q": "Suede is considered a less practical material than smooth leather.",
+        "q": "Suede is considered a less practical material than smooth leather",
         "a": "The Italian suede used by Luisa Spagnoli is notably dense and undergoes a special treatment that preserves its shape and appearance for years to come."
       },
       {
-        "q": "Silver-tone hardware may not suit my gold jewellery.",
+        "q": "Silver-tone hardware may not suit my gold jewellery",
         "a": "In contemporary luxury aesthetics, mixing metals is a hallmark of sophisticated style. The Decibel belt functions as a standalone statement piece that refreshes the accessory palette."
       },
       {
-        "q": "A seamless design may be less durable.",
+        "q": "A seamless design may be less durable",
         "a": "The 'seamless' construction technique highlights clean lines and premium quality. Durability is ensured through specialised bonding and the quality of the full hide itself."
       },
       {
-        "q": "A width of 4 cm may seem too wide for standard belt loops.",
+        "q": "A width of 4 cm may seem too wide for standard belt loops",
         "a": "This width was specifically engineered to be worn both through the trouser loops of the collection (such as the Onirico 1224) and over outerwear, creating a runway-inspired silhouette."
       }
     ],
     "ru": [
       {
-        "q": "Крупные заклепки могут выглядеть слишком агрессивно.",
-        "a": "Объясните клиенту, что сглаженная форма «bombate» и приглушенный блеск металла делают декор изысканным, позволяя ремню гармонично дополнять даже классические образы."
+        "q": "Крупные заклепки могут выглядеть слишком агрессивно",
+        "a": "Сглаженная форма."
       },
       {
-        "q": "Замша считается менее практичным материалом, чем гладкая кожа.",
-        "a": "Итальянская замша, используемая Luisa Spagnoli, отличается высокой плотностью и проходит специальную обработку, что обеспечивает сохранность формы и эстетики на долгие годы."
+        "q": "бомбате",
+        "a": "и приглушенный блеск металла придают фурнитуре утонченный характер, позволяя ремню гармонично дополнять даже самые классические образы."
       },
       {
-        "q": "Серебристая фурнитура может не подойти к моим золотым украшениям.",
-        "a": "В современной luxury-эстетике сочетание разных металлов является признаком высокого стиля. Ремень Decibel служит самостоятельным арт-объектом, который освежает палитру аксессуаров."
+        "q": "Замша считается менее практичным материалом, чем гладкая кожа",
+        "a": "Итальянская замша, используемая Luisa Spagnoli, отличается особой плотностью и проходит специальную обработку, сохраняющую ее форму и безупречный вид на долгие годы."
       },
       {
-        "q": "Дизайн без видимых швов может быть менее надежным.",
-        "a": "Технология «без швов» подчеркивает чистоту линий и премиальный уровень изделия. Прочность обеспечивается за счет специальной склейки и качества самой цельной шкуры."
+        "q": "Фурнитура серебристого цвета может не подойти к моим золотым украшениям",
+        "a": "В современной эстетике люкса сочетание металлов — признак утонченного стиля. Ремень Decibel выступает как самостоятельный statement-аксессуар, освежающий палитру вашего образа."
       },
       {
-        "q": "Ширина 4 см кажется слишком большой для стандартных шлёвок.",
-        "a": "Эта ширина спроектирована специально для ношения как в петлях брюк коллекции (например, Onirico 1224 ), так и поверх верхней одежды для создания подиумного силуэта."
+        "q": "Бесшовная конструкция может быть менее долговечной",
+        "a": "Техника."
+      },
+      {
+        "q": "бесшовного",
+        "a": "исполнения подчеркивает чистоту линий и премиальное качество. Долговечность обеспечивается специализированным методом склейки и качеством самой кожи full-hide."
+      },
+      {
+        "q": "Ширина 4 см может показаться слишком большой для стандартных шлевок",
+        "a": "Эта ширина была специально спроектирована для ношения как в шлевках брюк из коллекции (например, Onirico 1224), так и поверх верхней одежды, создавая силуэт в духе подиумных показов."
       }
     ],
     "ar": [
@@ -268,68 +276,76 @@
     ],
     "lt": [
       {
-        "q": "Didelės kniedės gali atrodyti per daug agresyviai.",
+        "q": "Didelės kniedės gali atrodyti per daug agresyviai",
         "a": "Paaiškinkite klientui, kad sušvelninta „bombate“ forma ir prislopintas metalo blizgesys daro dekorą rafinuotą, leisdami diržui harmoningai papildyti net ir klasikinius įvaizdžius."
       },
       {
-        "q": "Zomša laikoma mažiau praktiška medžiaga nei lygi oda.",
+        "q": "Zomša laikoma mažiau praktiška medžiaga nei lygi oda",
         "a": "Itališka zomša, naudojama Luisa Spagnoli, pasižymi dideliu tankiu ir yra specialiai apdorojama, kas užtikrina formos ir estetikos išsaugojimą daugelį metų."
       },
       {
-        "q": "Sidabrinė furnitūra gali netikti prie mano auksinių papuošalų.",
+        "q": "Sidabrinė furnitūra gali netikti prie mano auksinių papuošalų",
         "a": "Šiuolaikinėje prabangos estetikoje skirtingų metalų derinimas yra aukšto stiliaus ženklas. Diržas Decibel tarnauja kaip savarankiškas meno objektas, kuris atnaujina aksesuarų paletę."
       },
       {
-        "q": "Dizainas be matomų siūlių gali būti mažiau patikimas.",
+        "q": "Dizainas be matomų siūlių gali būti mažiau patikimas",
         "a": "„Be siūlių“ technologija pabrėžia linijų švarą ir aukščiausią gaminio lygį. Patvarumą užtikrina specialus klijavimas ir pačios vientisos odos kokybė."
       },
       {
-        "q": "4 cm plotis atrodo per didelis standartinėms kelnių kilpoms.",
-        "a": "Šis plotis suprojektuotas specialiai dėvėjimui tiek kolekcijos kelnių kilpose (pavyzdžiui, Onirico 1224 ), tiek ant viršutinių drabužių, siekiant sukurti podiumo siluetą."
+        "q": "4 cm plotis atrodo per didelis standartinėms kelnių kilpoms",
+        "a": "Šis plotis suprojektuotas specialiai dėvėjimui tiek kolekcijos kelnių kilpose (pavyzdžiui, Onirico 1224 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg tiek ant viršutinių drabužių, siekiant sukurti podiumo siluetą."
       }
     ],
     "pl": [
       {
-        "q": "Duże nity mogą wyglądać zbyt agresywnie.",
+        "q": "Duże nity mogą wyglądać zbyt agresywnie",
         "a": "Wyjaśnij klientowi, że wygładzony kształt „bombate” i przygaszony blask metalu sprawiają, że dekoracja jest wyrafinowana, pozwalając paskowi harmonijnie uzupełniać nawet klasyczne stylizacje."
       },
       {
-        "q": "Zamsz uważany jest za mniej praktyczny materiał niż gładka skóra.",
+        "q": "Zamsz uważany jest za mniej praktyczny materiał niż gładka skóra",
         "a": "Włoski zamsz używany przez Luisa Spagnoli wyróżnia się wysoką gęstością i przechodzi specjalną obróbkę, co zapewnia zachowanie formy i estetyki na długie lata."
       },
       {
-        "q": "Srebrzyste okucia mogą nie pasować do mojej złotej biżuterii.",
+        "q": "Srebrzyste okucia mogą nie pasować do mojej złotej biżuterii",
         "a": "We współczesnej estetyce luxury łączenie różnych metali jest oznaką wysokiego stylu. Pasek Decibel stanowi samodzielny obiekt artystyczny, który odświeża paletę akcesoriów."
       },
       {
-        "q": "Design bez widocznych szwów może być mniej niezawodny.",
+        "q": "Design bez widocznych szwów może być mniej niezawodny",
         "a": "Technologia „bez szwów” podkreśla czystość linii i poziom premium produktu. Trwałość zapewniona jest dzięki specjalnemu klejeniu i jakości samej skóry licowej."
       },
       {
-        "q": "Szerokość 4 cm wydaje się zbyt duża do standardowych szlufek.",
-        "a": "Ta szerokość została zaprojektowana specjalnie do noszenia zarówno w szlufkach spodni z kolekcji (na przykład Onirico 1224 ), jak i na odzież wierzchnią, aby stworzyć wybiegową sylwetkę."
+        "q": "Szerokość 4 cm wydaje się zbyt duża do standardowych szlufek",
+        "a": "Ta szerokość została zaprojektowana specjalnie do noszenia zarówno w szlufkach spodni z kolekcji (na przykład Onirico 1224 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg jak i na odzież wierzchnią, aby stworzyć wybiegową sylwetkę."
       }
     ],
     "uk": [
       {
-        "q": "Великі заклепки можуть виглядати занадто агресивно.",
-        "a": "Поясніть клієнту, що згладжена форма «bombate» і приглушений блиск металу роблять декор вишуканим, дозволяючи ременю гармонійно доповнювати навіть класичні образи."
+        "q": "Великі заклепки можуть виглядати занадто агресивно",
+        "a": "Поясніть клієнту, що згладжена форма."
       },
       {
-        "q": "Замша вважається менш практичним матеріалом, ніж гладка шкіра.",
+        "q": "bombate",
+        "a": "і приглушений блиск металу роблять декор вишуканим, дозволяючи ременю гармонійно доповнювати навіть класичні образи."
+      },
+      {
+        "q": "Замша вважається менш практичним матеріалом, ніж гладка шкіра",
         "a": "Італійська замша, що використовується Luisa Spagnoli, відрізняється високою щільністю і проходить спеціальну обробку, що забезпечує збереження форми та естетики на довгі роки."
       },
       {
-        "q": "Срібляста фурнітура може не підійти до моїх золотих прикрас.",
+        "q": "Срібляста фурнітура може не підійти до моїх золотих прикрас",
         "a": "У сучасній luxury-естетиці поєднання різних металів є ознакою високого стилю. Ремінь Decibel слугує самостійним арт-об'єктом, який освіжає палітру аксесуарів."
       },
       {
-        "q": "Дизайн без видимих швів може бути менш надійним.",
-        "a": "Технологія «без швів» підкреслює чистоту ліній і преміальний рівень виробу. Міцність забезпечується завдяки спеціальному склеюванню та якості самої цільної шкіри."
+        "q": "Дизайн без видимих швів може бути менш надійним",
+        "a": "Технологія."
       },
       {
-        "q": "Ширина 4 см здається занадто великою для стандартних шльовок.",
-        "a": "Ця ширина спроєктована спеціально для носіння як у петлях штанів колекції (наприклад, Onirico 1224 ), так і поверх верхнього одягу для створення подіумного силуету."
+        "q": "без швів",
+        "a": "підкреслює чистоту ліній і преміальний рівень виробу. Міцність забезпечується завдяки спеціальному склеюванню та якості самої цільної шкіри."
+      },
+      {
+        "q": "Ширина 4 см здається занадто великою для стандартних шльовок",
+        "a": "Ця ширина спроєктована спеціально для носіння як у петлях штанів колекції (наприклад, Onirico 1224 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg так і поверх верхнього одягу для створення подіумного силуету."
       }
     ]
   }

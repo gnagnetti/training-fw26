@@ -217,200 +217,220 @@
   "objections": {
     "en": [
       {
-        "q": "Wool trousers may crease with extended wear at the office or while travelling.",
+        "q": "Wool trousers may crease with extended wear at the office or while travelling",
         "a": "Clarify that thanks to the technical blended composition (40% polyester and 25% acetate), the fabric has enhanced resilience, holds its shape beautifully, and is far less prone to deformation than pure wool."
       },
       {
-        "q": "The herringbone pattern in Bordeaux may look too formal for everyday wear.",
+        "q": "The herringbone pattern in Bordeaux may look too formal for everyday wear",
         "a": "Demonstrate the possibilities of eclectic styling: suggest pairing the trousers with cosy knitwear, such as the Mabels 2435 pullover, to add a note of relaxed chic to the look."
       },
       {
-        "q": "The material may seem insufficiently dense for a cold winter.",
+        "q": "The material may seem insufficiently dense for a cold winter",
         "a": "Point out the high quality of the natural wool content. It offers excellent thermal-insulation properties, while the addition of acetate lends the fabric the necessary density, protecting against the wind without unnecessary bulk."
       },
       {
-        "q": "Difficulty finding footwear to match the straight-leg cut.",
+        "q": "Difficulty finding footwear to match the straight-leg cut",
         "a": "Thanks to the classic width, the Ottana style pairs beautifully with both elegant heeled Uranio A 2233 ankle boots and more masculine loafers, accentuating the aristocratic quality of the cut."
       },
       {
-        "q": "Classic creased trousers require demanding care.",
+        "q": "Classic creased trousers require demanding care",
         "a": "Reassure the client that the use of premium-quality Italian fabrics is the key to longevity. Professional dry cleaning will preserve the crispness of the crease and the noble texture of the herringbone pattern for many seasons."
       }
     ],
     "ru": [
       {
-        "q": "Шерстяные брюки могут мяться при длительной носке в офисе или во время поездок.",
-        "a": "Поясните, что благодаря технологичному смесовому составу (40% полиэстера и 25% ацетата) ткань обладает повышенной упругостью, отлично держит форму и гораздо меньше подвержена деформации, чем чистая шерсть."
+        "q": "Wool trousers may crease with extended wear at the office or while travelling",
+        "a": "Благодаря технологичному составу (40% полиэстера и 25% ацетата) ткань обладает повышенной упругостью, великолепно держит форму и гораздо менее подвержена заломам, чем чистая шерсть."
       },
       {
-        "q": "Узор «елочка» в цвете Bordeaux может выглядеть слишком официально для повседневности.",
-        "a": "Продемонстрируйте возможности эклектичного стайлинга: предложите сочетать брюки с уютным трикотажем, например пуловером Mabels 2435, чтобы добавить образу расслабленного шика."
+        "q": "The herringbone pattern in Bordeaux may look too formal for everyday wear",
+        "a": "Предлагаю эклектичный подход: дополните брюки уютным трикотажем, например, пуловером Mabels 2435, чтобы привнести в образ ноту расслабленного шика."
       },
       {
-        "q": "Материал может казаться недостаточно плотным для холодной зимы.",
-        "a": "Укажите на высокое качество натуральной шерсти в составе. Она обладает превосходными теплоизолирующими свойствами, а добавление ацетата придает ткани необходимую плотность, защищая от ветра без лишнего объема."
+        "q": "The material may seem insufficiently dense for a cold winter",
+        "a": "Высокое качество натуральной шерсти обеспечивает отличную теплоизоляцию, а добавление ацетата придает ткани необходимую плотность, защищая от ветра без утяжеления силуэта."
       },
       {
-        "q": "Сложность в подборе обуви под прямой крой штанин.",
-        "a": "Благодаря классической ширине, модель Ottana идеально гармонирует как с изящными ботильонами на каблуке Uranio A 2233, так и с более маскулинными лоферами, подчеркивая аристократизм кроя."
+        "q": "Difficulty finding footwear to match the straight-leg cut",
+        "a": "Классический крой Ottana позволяет создавать безупречные ансамбли как с изящными ботильонами Uranio A 2233, так и с лоферами, подчеркивая аристократичность силуэта."
       },
       {
-        "q": "Классические брюки со стрелками требуют сложного ухода.",
-        "a": "Заверьте клиента, что использование высококачественных итальянских тканей — залог долговечности. Профессиональная сухая чистка позволит сохранить четкость стрелок и благородную фактуру «елочки» на многие сезоны."
+        "q": "Classic creased trousers require demanding care",
+        "a": "Использование премиальных итальянских тканей — залог долговечности. Профессиональная химчистка позволит сохранить идеальную линию стрелок и благородную фактуру."
+      },
+      {
+        "q": "елочки",
+        "a": "на многие сезоны."
       }
     ],
     "ar": [
       {
-        "q": "قد تتجعد السراويل الصوفية عند ارتدائها لفترات طويلة في المكتب أو أثناء السفر.",
+        "q": "قد تتجعد السراويل الصوفية عند ارتدائها لفترات طويلة في المكتب أو أثناء السفر",
         "a": "وضحي أنه بفضل التركيبة التقنية المخلوطة (40% بوليستر و25% أسيتات)، يتمتع النسيج بمرونة عالية، ويحافظ على شكله بشكل ممتاز، وهو أقل عرضة للتشوه مقارنة بالصوف الخالص."
       },
       {
-        "q": "نقشة «عظمة السمكة» باللون Bordeaux قد تبدو رسمية أكثر من اللازم للاستخدام اليومي.",
-        "a": "استعرضي إمكانيات التنسيق المبتكرة: اقترحي ارتداء السراويل مع قطعة تريكو مريحة، مثل كنزة Mabels 2435، لإضفاء لمسة من الأناقة العفوية."
+        "q": "نقشة «عظمة السمكة",
+        "a": "باللون Bordeaux قد تبدو رسمية أكثر من اللازم للاستخدام اليومي.» استعرضي إمكانيات التنسيق المبتكرة: اقترحي ارتداء السراويل مع قطعة تريكو مريحة، مثل كنزة Mabels 2435 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg لإضفاء لمسة من الأناقة العفوية."
       },
       {
-        "q": "قد لا تبدو المادة كثيفة بما يكفي لشتاء بارد.",
+        "q": "قد لا تبدو المادة كثيفة بما يكفي لشتاء بارد",
         "a": "أشيري إلى الجودة العالية للصوف الطبيعي في التركيبة، حيث يتمتع بخصائص عزل حراري فائقة، كما تمنح إضافة الأسيتات القماش الكثافة اللازمة للحماية من الرياح دون زيادة في الحجم."
       },
       {
-        "q": "صعوبة تنسيق الأحذية مع القصة المستقيمة.",
-        "a": "بفضل العرض الكلاسيكي، يتناغم طراز Ottana بشكل مثالي مع أحذية الكاحل الأنيقة ذات الكعب Uranio A 2233، وكذلك مع أحذية اللوفرز ذات الطابع الذكوري، مما يبرز أرستقراطية التصميم."
+        "q": "صعوبة تنسيق الأحذية مع القصة المستقيمة",
+        "a": "بفضل العرض الكلاسيكي، يتناغم طراز Ottana بشكل مثالي مع أحذية الكاحل الأنيقة ذات الكعب Uranio A 2233 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_223300000000.jpg وكذلك مع أحذية اللوفرز ذات الطابع الذكوري، مما يبرز أرستقراطية التصميم."
       },
       {
-        "q": "السراويل الكلاسيكية ذات الثنيات تتطلب عناية خاصة.",
-        "a": "طمئني العميل بأن استخدام الأقمشة الإيطالية الفاخرة هو سر المتانة. التنظيف الجاف الاحترافي سيحافظ على حدة الثنيات ونقشة «عظمة السمكة» الفاخرة لسنوات عديدة."
+        "q": "السراويل الكلاسيكية ذات الثنيات تتطلب عناية خاصة",
+        "a": "طمئني العميل بأن استخدام الأقمشة الإيطالية الفاخرة هو سر المتانة. التنظيف الجاف الاحترافي سيحافظ على حدة الثنيات ونقشة."
+      },
+      {
+        "q": "عظمة السمكة",
+        "a": "الفاخرة لسنوات عديدة."
       }
     ],
     "ka": [
       {
-        "q": "მატყლის შარვალი შესაძლოა დაიჭმუჭნოს ოფისში ხანგრძლივი ყოფნისას ან მგზავრობის დროს.",
+        "q": "მატყლის შარვალი შესაძლოა დაიჭმუჭნოს ოფისში ხანგრძლივი ყოფნისას ან მგზავრობის დროს",
         "a": "განუმარტეთ, რომ ტექნოლოგიური შერეული შემადგენლობის (40% პოლიესტერი და 25% აცეტატი) წყალობით ქსოვილს გააჩნია მომატებული დრეკადობა, შესანიშნავად ინარჩუნებს ფორმას და გაცილებით ნაკლებად ექვემდებარება დეფორმაციას, ვიდრე სუფთა მატყლი."
       },
       {
-        "q": "„ნაძვისებრი“ ორნამენტი Bordeaux ფერში შეიძლება ზედმეტად ოფიციალურად გამოიყურებოდეს ყოველდღიურობისთვის.",
-        "a": "წარმოაჩინეთ ეკლექტური სტილიზების შესაძლებლობები: შესთავაზეთ შარვლის შეხამება მყუდრო ტრიკოტაჟთან, მაგალითად, პულოვერ Mabels 2435-თან, რათა იმიჯს თავისუფალი შიკი შემატოთ."
+        "q": "„ნაძვისებრი“ ორნამენტი Bordeaux ფერში შეიძლება ზედმეტად ოფიციალურად გამოიყურებოდეს ყოველდღიურობისთვის",
+        "a": "წარმოაჩინეთ ეკლექტური სტილიზების შესაძლებლობები: შესთავაზეთ შარვლის შეხამება მყუდრო ტრიკოტაჟთან, მაგალითად, პულოვერ Mabels 2435-თან (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg რათა იმიჯს თავისუფალი შიკი შემატოთ."
       },
       {
-        "q": "მასალა შესაძლოა ცივი ზამთრისთვის საკმარისად მკვრივი არ გეჩვენოთ.",
+        "q": "მასალა შესაძლოა ცივი ზამთრისთვის საკმარისად მკვრივი არ გეჩვენოთ",
         "a": "მიუთითეთ შემადგენლობაში არსებული ნატურალური მატყლის მაღალ ხარისხზე. მას გააჩნია უმაღლესი თბოიზოლაციური თვისებები, ხოლო აცეტატის დამატება ქსოვილს ანიჭებს საჭირო სიმკვრივეს, რაც გიცავთ ქარისგან ზედმეტი მოცულობის გარეშე."
       },
       {
-        "q": "სწორკუთხა შარვლის ჭრისთვის ფეხსაცმლის შერჩევის სირთულე.",
-        "a": "კლასიკური სიგანის წყალობით, მოდელი Ottana იდეალურად ჰარმონიზდება როგორც დახვეწილ, ქუსლიან Uranio A 2233 ბოტილიონებთან, ისე უფრო მასკულინურ ლოფერებთან, რაც ხაზს უსვამს ჭრის არისტოკრატიულობას."
+        "q": "სწორკუთხა შარვლის ჭრისთვის ფეხსაცმლის შერჩევის სირთულე",
+        "a": "კლასიკური სიგანის წყალობით, მოდელი Ottana იდეალურად ჰარმონიზდება როგორც დახვეწილ, ქუსლიან Uranio A 2233 ბოტილიონებთან (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_223300000000.jpg ისე უფრო მასკულინურ ლოფერებთან, რაც ხაზს უსვამს ჭრის არისტოკრატიულობას."
       },
       {
-        "q": "ისრიან კლასიკურ შარვალს რთული მოვლა სჭირდება.",
+        "q": "ისრიან კლასიკურ შარვალს რთული მოვლა სჭირდება",
         "a": "დაარწმუნეთ კლიენტი, რომ მაღალი ხარისხის იტალიური ქსოვილების გამოყენება გამძლეობის გარანტია. პროფესიონალური ქიმწმენდა საშუალებას მოგცემთ შეინარჩუნოთ ისრების სიმკვეთრე და „ნაძვისებრი“ ფაქტურის კეთილშობილება მრავალი სეზონის განმავლობაში."
       }
     ],
     "hy": [
       {
         "q": "Բրդյա տաբատները կարող են կնճռոտվել գրասենյակում երկար ժամանակ կրելու կամ ուղևորությունների ժամանակ",
-        "a": "Պարզաբանեք, որ տեխնոլոգիական խառը բաղադրության (40% պոլիեսթեր և 25% ացետատ) շնորհիվ գործվածքն ունի բարձր առաձգականություն, հիանալի պահում է ձևը և շատ ավելի քիչ է ենթարկվում դեֆորմացիայի, քան մաքուր բուրդը"
+        "a": "Պարզաբանեք, որ տեխնոլոգիական խառը բաղադրության (40% պոլիեսթեր և 25% ացետատ) շնորհիվ գործվածքն ունի բարձր առաձգականություն, հիանալի պահում է ձևը և շատ ավելի քիչ է ենթարկվում դեֆորմացիայի, քան մաքուր բուրդը."
       },
       {
-        "q": "Bordeaux գույնի «եղնիկի եղջյուր» նախշը կարող է չափազանց պաշտոնական թվալ առօրյայի համար",
-        "a": "Ցույց տվեք էկլեկտիկ ոճավորման հնարավորությունները. առաջարկեք տաբատը համադրել հարմարավետ տրիկոտաժի հետ, օրինակ՝ Mabels 2435 պուլովերով, որպեսզի կերպարին ավելացնեք հանգիստ շիկ"
+        "q": "Bordeaux գույնի «եղնիկի եղջյուր",
+        "a": "նախշը կարող է չափազանց պաշտոնական թվալ առօրյայի համար:» Ցույց տվեք էկլեկտիկ ոճավորման հնարավորությունները. առաջարկեք տաբատը համադրել հարմարավետ տրիկոտաժի հետ, օրինակ՝ Mabels 2435 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg պուլովերով, որպեսզի կերպարին ավելացնեք հանգիստ շիկ."
       },
       {
         "q": "Նյութը կարող է բավականաչափ խիտ չթալ ցուրտ ձմռան համար",
-        "a": "Նշեք բաղադրության մեջ բնական բրդի բարձր որակը: Այն ունի գերազանց ջերմամեկուսիչ հատկություններ, իսկ ացետատի ավելացումը գործվածքին հաղորդում է անհրաժեշտ խտություն՝ պաշտպանելով քամուց առանց ավելորդ ծավալի"
+        "a": "Նշեք բաղադրության մեջ բնական բրդի բարձր որակը: Այն ունի գերազանց ջերմամեկուսիչ հատկություններ, իսկ ացետատի ավելացումը գործվածքին հաղորդում է անհրաժեշտ խտություն՝ պաշտպանելով քամուց առանց ավելորդ ծավալի."
       },
       {
         "q": "Տաբատի ուղիղ կտրվածքի տակ կոշիկ ընտրելու բարդությունը",
-        "a": "Դասական լայնության շնորհիվ Ottana մոդելը իդեալականորեն ներդաշնակվում է ինչպես Uranio A 2233 կրունկավոր նրբագեղ կոշիկների, այնպես էլ ավելի տղամարդկային լոֆերների հետ՝ ընդգծելով կտրվածքի ազնվականությունը"
+        "a": "Դասական լայնության շնորհիվ Ottana մոդելը իդեալականորեն ներդաշնակվում է ինչպես Uranio A 2233 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_223300000000.jpg կրունկավոր նրբագեղ կոշիկների, այնպես էլ ավելի տղամարդկային լոֆերների հետ՝ ընդգծելով կտրվածքի ազնվականությունը."
       },
       {
         "q": "Սլաքներով դասական տաբատները պահանջում են բարդ խնամք",
-        "a": "Հավաստիացրեք հաճախորդին, որ բարձրորակ իտալական գործվածքների օգտագործումը երկարակեցության գրավականն է: Պրոֆեսիոնալ քիմմաքրումը թույլ կտա պահպանել սլաքների հստակությունը և «եղնիկի եղջյուր» ֆակտուրան շատ սեզոններ շարունակ"
+        "a": "Հավաստիացրեք հաճախորդին, որ բարձրորակ իտալական գործվածքների օգտագործումը երկարակեցության գրավականն է: Պրոֆեսիոնալ քիմմաքրումը թույլ կտա պահպանել սլաքների հստակությունը և."
+      },
+      {
+        "q": "եղնիկի եղջյուր",
+        "a": "ֆակտուրան շատ սեզոններ շարունակ."
       }
     ],
     "lv": [
       {
-        "q": "Vilnas bikses var saburzīties ilgstošas valkāšanas laikā birojā vai ceļojumu laikā.",
+        "q": "Vilnas bikses var saburzīties ilgstošas valkāšanas laikā birojā vai ceļojumu laikā",
         "a": "Paskaidrojiet, ka, pateicoties tehnoloģiskajam jauktajam sastāvam (40% poliestera un 25% acetāta), audums piemīt paaugstināta elastība, lieliski notur formu un ir daudz mazāk pakļauts deformācijai nekā tīra vilna."
       },
       {
-        "q": "Eglītes» raksts Bordeaux krāsā var izskatīties pārāk oficiāli ikdienai.",
-        "a": "Demonstrējiet eklektiskā stila iespējas: piedāvājiet kombinēt bikses ar mājīgu trikotāžu, piemēram, puloveru Mabels 2435, lai pievienotu tēlam atbrīvotu šiku."
+        "q": "«Eglītes",
+        "a": "raksts Bordeaux krāsā var izskatīties pārāk oficiāli ikdienai.» Demonstrējiet eklektiskā stila iespējas: piedāvājiet kombinēt bikses ar mājīgu trikotāžu, piemēram, puloveru Mabels 2435 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg lai pievienotu tēlam atbrīvotu šiku."
       },
       {
-        "q": "Materiāls var šķist nepietiekami blīvs aukstai ziemai.",
+        "q": "Materiāls var šķist nepietiekami blīvs aukstai ziemai",
         "a": "Norādiet uz augsto dabīgās vilnas kvalitāti sastāvā. Tai piemīt izcilas siltumizolācijas īpašības, bet acetāta pievienošana piešķir audumam nepieciešamo blīvumu, pasargājot no vēja bez lieka apjoma."
       },
       {
-        "q": "Grūtības saskaņot apavus ar taisnu staru piegriezumu.",
-        "a": "Pateicoties klasiskajam platumam, modelis Ottana lieliski harmonē gan ar izsmalcinātiem potīšzābakiem uz Uranio A 2233 papēža, gan ar vīrišķīgāka stila loferiem, uzsverot piegriezuma aristokrātismu."
+        "q": "Grūtības saskaņot apavus ar taisnu staru piegriezumu",
+        "a": "Pateicoties klasiskajam platumam, modelis Ottana lieliski harmonē gan ar izsmalcinātiem potīšzābakiem uz Uranio A 2233 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_223300000000.jpg papēža, gan ar vīrišķīgāka stila loferiem, uzsverot piegriezuma aristokrātismu."
       },
       {
-        "q": "Klasiskas bikses ar ielocēm prasa sarežģītu kopšanu.",
-        "a": "Aplieciniet klientam, ka augstākās kvalitātes itāļu audumu izmantošana ir ilgmūžības garants. Profesionālā ķīmiskā tīrīšana ļaus saglabāt ieloču asumu un cēlo «eglītes» faktūru daudzām sezonām."
+        "q": "Klasiskas bikses ar ielocēm prasa sarežģītu kopšanu",
+        "a": "Aplieciniet klientam, ka augstākās kvalitātes itāļu audumu izmantošana ir ilgmūžības garants. Profesionālā ķīmiskā tīrīšana ļaus saglabāt ieloču asumu un cēlo."
+      },
+      {
+        "q": "eglītes",
+        "a": "faktūru daudzām sezonām."
       }
     ],
     "lt": [
       {
-        "q": "Vilnonės kelnės gali glamžytis ilgai dėvint biure ar kelionių metu.",
+        "q": "Vilnonės kelnės gali glamžytis ilgai dėvint biure ar kelionių metu",
         "a": "Paaiškinkite, kad dėl technologinio mišraus sudėties (40% poliesterio ir 25% acetato) audinys yra ypač elastingas, puikiai išlaiko formą ir yra žymiai mažiau linkęs deformuotis nei gryna vilna."
       },
       {
-        "q": "Eglutės raštas Bordeaux spalvoje gali atrodyti per daug oficialiai kasdienybėje.",
-        "a": "Pademonstruokite eklektiško derinimo galimybes: pasiūlykite derinti kelnes su jaukiu trikotažu, pavyzdžiui, Mabels 2435 megztiniu, kad įvaizdžiui suteiktumėte laisvo stiliaus prabangos."
+        "q": "Eglutės raštas Bordeaux spalvoje gali atrodyti per daug oficialiai kasdienybėje",
+        "a": "Pademonstruokite eklektiško derinimo galimybes: pasiūlykite derinti kelnes su jaukiu trikotažu, pavyzdžiui, Mabels 2435 megztiniu (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg kad įvaizdžiui suteiktumėte laisvo stiliaus prabangos."
       },
       {
-        "q": "Medžiaga gali atrodyti nepakankamai tanki šaltai žiemai.",
+        "q": "Medžiaga gali atrodyti nepakankamai tanki šaltai žiemai",
         "a": "Atkreipkite dėmesį į aukštą natūralios vilnos kokybę sudėtyje. Ji pasižymi puikiomis termoizoliacinėmis savybėmis, o acetato pridėjimas suteikia audiniui reikiamą tankį, saugantį nuo vėjo be nereikalingos apimties."
       },
       {
-        "q": "Sudėtinga parinkti avalynę prie tiesaus kirpimo klešnių.",
-        "a": "Dėl klasikinio pločio, modelis Ottana idealiai dera tiek su grakščiais Uranio A 2233 aukštakulniais aulinukais, tiek su vyriško stiliaus loaferiais, pabrėžiant kirpimo aristokratiškumą."
+        "q": "Sudėtinga parinkti avalynę prie tiesaus kirpimo klešnių",
+        "a": "Dėl klasikinio pločio, modelis Ottana idealiai dera tiek su grakščiais Uranio A 2233 aukštakulniais aulinukais (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_223300000000.jpg tiek su vyriško stiliaus loaferiais, pabrėžiant kirpimo aristokratiškumą."
       },
       {
-        "q": "Klasikinės kelnės su kantais reikalauja sudėtingos priežiūros.",
+        "q": "Klasikinės kelnės su kantais reikalauja sudėtingos priežiūros",
         "a": "Patikinkite klientą, kad aukščiausios kokybės itališkų audinių naudojimas – ilgaamžiškumo garantas. Profesionalus sausas valymas leis išsaugoti kanto ryškumą ir kilnią eglutės faktūrą daugelį sezonų."
       }
     ],
     "pl": [
       {
-        "q": "Wełniane spodnie mogą gnieść się podczas długiego noszenia w biurze lub w trakcie podróży.",
+        "q": "Wełniane spodnie mogą gnieść się podczas długiego noszenia w biurze lub w trakcie podróży",
         "a": "Wyjaśnij, że dzięki technologicznemu składowi mieszanemu (40% poliestru i 25% octanu) tkanina posiada podwyższoną elastyczność, doskonale trzyma formę i jest znacznie mniej podatna na odkształcenia niż czysta wełna."
       },
       {
-        "q": "Wzór „jodełka” w kolorze Bordeaux może wyglądać zbyt oficjalnie na co dzień.",
-        "a": "Zaprezentuj możliwości eklektycznego stylizowania: zaproponuj połączenie spodni z przytulną dzianiną, na przykład pulowerem Mabels 2435, aby dodać stylizacji nutę nonszalanckiego szyku."
+        "q": "Wzór „jodełka” w kolorze Bordeaux może wyglądać zbyt oficjalnie na co dzień",
+        "a": "Zaprezentuj możliwości eklektycznego stylizowania: zaproponuj połączenie spodni z przytulną dzianiną, na przykład pulowerem Mabels 2435 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg aby dodać stylizacji nutę nonszalanckiego szyku."
       },
       {
-        "q": "Materiał może wydawać się niewystarczająco gruby na mroźną zimę.",
+        "q": "Materiał może wydawać się niewystarczająco gruby na mroźną zimę",
         "a": "Wskaż na wysoką jakość naturalnej wełny w składzie. Posiada ona doskonałe właściwości termoizolacyjne, a dodatek octanu nadaje tkaninie niezbędną gęstość, chroniąc przed wiatrem bez zbędnej objętości."
       },
       {
-        "q": "Trudność w doborze obuwia do prostego kroju nogawek.",
-        "a": "Dzięki klasycznej szerokości model Ottana idealnie harmonizuje zarówno z eleganckimi botkami na obcasie Uranio A 2233, jak i z bardziej męskimi mokasynami, podkreślając arystokratyzm kroju."
+        "q": "Trudność w doborze obuwia do prostego kroju nogawek",
+        "a": "Dzięki klasycznej szerokości model Ottana idealnie harmonizuje zarówno z eleganckimi botkami na obcasie Uranio A 2233 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_223300000000.jpg jak i z bardziej męskimi mokasynami, podkreślając arystokratyzm kroju."
       },
       {
-        "q": "Klasyczne spodnie z kantem wymagają skomplikowanej pielęgnacji.",
+        "q": "Klasyczne spodnie z kantem wymagają skomplikowanej pielęgnacji",
         "a": "Zapewnij klientkę, że stosowanie wysokiej jakości włoskich tkanin to gwarancja trwałości. Profesjonalne czyszczenie chemiczne pozwoli zachować ostrość kantów i szlachetną fakturę „jodełki” przez wiele sezonów."
       }
     ],
     "uk": [
       {
-        "q": "Вовняні брюки можуть м’ятися при тривалому носінні в офісі або під час поїздок.",
+        "q": "Вовняні брюки можуть м’ятися при тривалому носінні в офісі або під час поїздок",
         "a": "Поясніть, що завдяки технологічному змішаному складу (40% поліестеру та 25% ацетату) тканина володіє підвищеною пружністю, відмінно тримає форму і значно менше піддається деформації, ніж чиста вовна."
       },
       {
-        "q": "Візерунок «ялинка» у кольорі Bordeaux може виглядати занадто офіційно для повсякденності.",
-        "a": "Продемонструйте можливості еклектичного стайлінгу: запропонуйте поєднувати брюки із затишним трикотажем, наприклад пуловером Mabels 2435, щоб додати образу розслабленого шику."
+        "q": "Візерунок «ялинка",
+        "a": "у кольорі Bordeaux може виглядати занадто офіційно для повсякденності.» Продемонструйте можливості еклектичного стайлінгу: запропонуйте поєднувати брюки із затишним трикотажем, наприклад пуловером Mabels 2435 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg щоб додати образу розслабленого шику."
       },
       {
-        "q": "Матеріал може здаватися недостатньо щільним для холодної зими.",
+        "q": "Матеріал може здаватися недостатньо щільним для холодної зими",
         "a": "Вкажіть на високу якість натуральної вовни у складі. Вона володіє чудовими теплоізоляційними властивостями, а додавання ацетату надає тканині необхідної щільності, захищаючи від вітру без зайвого об’єму."
       },
       {
-        "q": "Складність у підборі взуття під прямий крій штанин.",
-        "a": "Завдяки класичній ширині, модель Ottana ідеально гармоніює як із витонченими ботильйонами на підборах Uranio A 2233, так і з більш маскулінними лоферами, підкреслюючи аристократизм крою."
+        "q": "Складність у підборі взуття під прямий крій штанин",
+        "a": "Завдяки класичній ширині, модель Ottana ідеально гармоніює як із витонченими ботильйонами на підборах Uranio A 2233 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_223300000000.jpg так і з більш маскулінними лоферами, підкреслюючи аристократизм крою."
       },
       {
-        "q": "Класичні брюки зі стрілками потребують складного догляду.",
-        "a": "Запевніть клієнта, що використання високоякісних італійських тканин — запорука довговічності. Професійна суха чистка дозволить зберегти чіткість стрілок і благородну фактуру «ялинки» на багато сезонів."
+        "q": "Класичні брюки зі стрілками потребують складного догляду",
+        "a": "Запевніть клієнта, що використання високоякісних італійських тканин — запорука довговічності. Професійна суха чистка дозволить зберегти чіткість стрілок і благородну фактуру."
+      },
+      {
+        "q": "ялинки",
+        "a": "на багато сезонів."
       }
     ]
   }

@@ -101,11 +101,11 @@
   "objections": {
     "en": [
       {
-        "q": "Wide belts are often uncomfortable for extended wear.",
+        "q": "Wide belts are often uncomfortable for extended wear",
         "a": "The Decalco model features a special elasticated band at the back, allowing the belt to move naturally with the body while preserving comfort without compromising its shape."
       },
       {
-        "q": "Concern that natural leather will quickly lose its appearance.",
+        "q": "Concern that natural leather will quickly lose its appearance",
         "a": "This accessory is crafted from premium Italian leather (Vera Pelle) with a special finish, known for its durability and for developing a noble softness over time."
       },
       {
@@ -113,43 +113,47 @@
         "a": "This is a versatile styling device: it looks equally striking layered over voluminous jackets or worn atop flowing silk dresses, creating a contemporary, feminine silhouette."
       },
       {
-        "q": "The ring closure seems less secure than a classic buckle.",
+        "q": "The ring closure seems less secure than a classic buckle",
         "a": "The ring-fastening mechanism was engineered by the brand to ensure reliable tension and precise micro-adjustment of waist circumference."
       },
       {
-        "q": "Black with gold hardware may appear too formal.",
+        "q": "Black with gold hardware may appear too formal",
         "a": "The Nero_Oro combination is a hallmark of 'quiet luxury.' The gold-tone accent stands in for jewellery, allowing the belt to become a focal point even within a casual look."
       }
     ],
     "ru": [
       {
-        "q": "Широкие пояса часто бывают неудобными при длительном ношении.",
-        "a": "Модель Decalco оснащена специальной эластичной лентой сзади, что позволяет поясу подстраиваться под движения тела, сохраняя комфорт без ущерба для формы."
+        "q": "Широкие ремни часто неудобны при длительном ношении",
+        "a": "Модель Decalco оснащена специальной эластичной вставкой на спинке, позволяющей ремню естественно двигаться вместе с телом, обеспечивая комфорт без ущерба для архитектурного силуэта."
       },
       {
-        "q": "Боязнь, что натуральная кожа быстро потеряет вид.",
-        "a": "Аксессуар выполнен из высококачественной итальянской кожи (Vera Pelle) специальной выделки, которая отличается высокой износостойкостью и со временем приобретает благородную мягкость."
+        "q": "Опасение, что натуральная кожа быстро потеряет вид",
+        "a": "Этот аксессуар выполнен из премиальной итальянской кожи (Vera Pelle) со специальной финишной обработкой, известной своей износостойкостью и способностью приобретать благородную мягкость со временем."
       },
       {
-        "q": "С чем сочетать такой специфический пояс-бюстье?",
-        "a": "Это универсальный стилистический прием: он одинаково эффектно смотрится как поверх объемных жакетов, так и на летящих шелковых платьях, создавая актуальный женственный силуэт."
+        "q": "С чем можно сочетать такой акцентный ремень-корсет?",
+        "a": "Это универсальный инструмент стайлинга: он выглядит одинаково эффектно как поверх объемных жакетов, так и на струящихся шелковых платьях, создавая современный женственный силуэт."
       },
       {
-        "q": "Застежка через кольцо кажется менее надежной, чем классическая пряжка.",
-        "a": "Механизм фиксации через кольцо разработан инженерами бренда для обеспечения надежного натяжения и возможности точной микро-регулировки объема талии."
+        "q": "Кольцевая застежка кажется менее надежной, чем классическая пряжка",
+        "a": "Механизм кольцевой фиксации был разработан брендом для обеспечения надежного натяжения и точной микрорегулировки обхвата талии."
       },
       {
-        "q": "Черный цвет с золотой фурнитурой может выглядеть слишком официально.",
-        "a": "Сочетание Nero_Oro — это классика «тихой роскоши». Золотистый акцент заменяет ювелирные украшения, позволяя поясу стать центральным элементом даже в повседневном образе."
+        "q": "Черный цвет с золотой фурнитурой может выглядеть слишком официально",
+        "a": "Сочетание Nero_Oro — это квинтэссенция."
+      },
+      {
+        "q": "тихой роскоши",
+        "a": ". Золотистый акцент заменяет собой ювелирные украшения, позволяя ремню стать фокусной точкой даже в повседневном образе."
       }
     ],
     "ar": [
       {
-        "q": "غالباً ما تكون الأحزمة العريضة غير مريحة عند ارتدائها لفترات طويلة.",
+        "q": "غالباً ما تكون الأحزمة العريضة غير مريحة عند ارتدائها لفترات طويلة",
         "a": "تم تجهيز طراز Decalco بشريط مطاطي خاص من الخلف، مما يسمح للحزام بالتكيف مع حركة الجسم مع الحفاظ على الراحة دون المساس بالشكل."
       },
       {
-        "q": "الخوف من أن يفقد الجلد الطبيعي مظهره بسرعة.",
+        "q": "الخوف من أن يفقد الجلد الطبيعي مظهره بسرعة",
         "a": "الإكسسوار مصنوع من جلد إيطالي عالي الجودة (Vera Pelle) ذي معالجة خاصة، يتميز بمتانة عالية ويكتسب نعومة فاخرة مع مرور الوقت."
       },
       {
@@ -157,21 +161,21 @@
         "a": "هذا أسلوب تنسيق عالمي: يبدو أنيقاً بنفس القدر سواء فوق الجاكيتات الفضفاضة أو فوق فساتين الحرير الانسيابية، مما يخلق صورة ظلية أنثوية مواكبة للموضة."
       },
       {
-        "q": "تبدو المشبكية عبر الحلقة أقل موثوقية من الإبزيمة الكلاسيكية.",
+        "q": "تبدو المشبكية عبر الحلقة أقل موثوقية من الإبزيمة الكلاسيكية",
         "a": "تم تطوير آلية التثبيت عبر الحلقة من قبل مهندسي العلامة التجارية لضمان شد موثوق وإمكانية إجراء تعديلات دقيقة لحجم الخصر."
       },
       {
-        "q": "قد يبدو اللون الأسود مع الحلي الذهبية رسمياً أكثر من اللازم.",
-        "a": "مزيج Nero_Oro هو كلاسيكية من"
+        "q": "قد يبدو اللون الأسود مع الحلي الذهبية رسمياً أكثر من اللازم",
+        "a": "مزيج Nero_Oro هو كلاسيكية من."
       }
     ],
     "ka": [
       {
-        "q": "ფართო ქამრები ხშირად მოუხერხებელია ხანგრძლივი ტარებისას.",
+        "q": "ფართო ქამრები ხშირად მოუხერხებელია ხანგრძლივი ტარებისას",
         "a": "Decalco-ს მოდელი აღჭურვილია უკანა მხარეს სპეციალური ელასტიური ლენტით, რაც ქამარს საშუალებას აძლევს მოერგოს სხეულის მოძრაობებს და შეინარჩუნოს კომფორტი ფორმის დაზიანების გარეშე."
       },
       {
-        "q": "შიში იმისა, რომ ნატურალური ტყავი მალე დაკარგავს იერს.",
+        "q": "შიში იმისა, რომ ნატურალური ტყავი მალე დაკარგავს იერს",
         "a": "აქსესუარი დამზადებულია მაღალი ხარისხის იტალიური ტყავისგან (Vera Pelle) სპეციალური დამუშავებით, რომელიც გამოირჩევა მაღალი გამძლეობით და დროთა განმავლობაში იძენს დახვეწილ სირბილეს."
       },
       {
@@ -179,43 +183,51 @@
         "a": "ეს არის უნივერსალური სტილისტური ხერხი: ის თანაბრად ეფექტურად გამოიყურება როგორც მოცულობითი ჟაკეტების ზემოდან, ისე ჰაეროვან აბრეშუმის კაბებზე და ქმნის აქტუალურ ქალურ სილუეტს."
       },
       {
-        "q": "რგოლზე დამჭერი შესაკრავი უფრო ნაკლებად საიმედოდ ჩანს, ვიდრე კლასიკური ბალთა.",
+        "q": "რგოლზე დამჭერი შესაკრავი უფრო ნაკლებად საიმედოდ ჩანს, ვიდრე კლასიკური ბალთა",
         "a": "რგოლის მეშვეობით ფიქსაციის მექანიზმი ბრენდის ინჟინრების მიერ შემუშავებულია საიმედო დაჭიმულობისა და წელის გარშემოწერილობის მიკრორეგულირების შესაძლებლობისთვის."
       },
       {
-        "q": "შავი ფერი ოქროსფერი ფურნიტურით შესაძლოა ზედმეტად ოფიციალურად გამოიყურებოდეს.",
-        "a": "Nero_Oro-ს კომბინაცია — ეს არის «მშვიდი ფუფუნების» კლასიკა. ოქროსფერი აქცენტი ცვლის საიუველირო სამკაულებს და ქამარს საშუალებას აძლევს გახდეს ცენტრალური ელემენტი ყოველდღიურ იმიჯშიც კი."
+        "q": "შავი ფერი ოქროსფერი ფურნიტურით შესაძლოა ზედმეტად ოფიციალურად გამოიყურებოდეს",
+        "a": "Nero_Oro-ს კომბინაცია — ეს არის."
+      },
+      {
+        "q": "მშვიდი ფუფუნების",
+        "a": "კლასიკა. ოქროსფერი აქცენტი ცვლის საიუველირო სამკაულებს და ქამარს საშუალებას აძლევს გახდეს ცენტრალური ელემენტი ყოველდღიურ იმიჯშიც კი."
       }
     ],
     "hy": [
       {
         "q": "Լայն գոտիները հաճախ անհարմար են լինում երկարատև կրելու դեպքում։",
-        "a": "Decalco մոդելը հետևի մասում հագեցած է հատուկ առաձգական ժապավենով, ինչը թույլ է տալիս գոտուն հարմարվել մարմնի շարժումներին՝ պահպանելով հարմարավետությունը առանց ձևի կորստի։"
+        "a": "Decalco մոդելը հետևի մասում հագեցած է հատուկ առաձգական ժապավենով, ինչը թույլ է տալիս գոտուն հարմարվել մարմնի շարժումներին՝ պահպանելով հարմարավետությունը առանց ձևի կորստի։."
       },
       {
         "q": "Վախ, որ բնական կաշին արագ կկորցնի իր տեսքը։",
-        "a": "Աքսեսուարը պատրաստված է հատուկ մշակված բարձրորակ իտալական կաշվից (Vera Pelle), որն աչքի է ընկնում բարձր մաշվածակայունությամբ և ժամանակի ընթացքում ձեռք է բերում ազնվական փափկություն։"
+        "a": "Աքսեսուարը պատրաստված է հատուկ մշակված բարձրորակ իտալական կաշվից (Vera Pelle), որն աչքի է ընկնում բարձր մաշվածակայունությամբ և ժամանակի ընթացքում ձեռք է բերում ազնվական փափկություն։."
       },
       {
         "q": "Ի՞նչի հետ համադրել այսպիսի յուրահատուկ գոտի-բյուստիեն։",
-        "a": "Սա ունիվերսալ ոճային հնարք է. այն միևնույն կերպ էֆեկտիվ է դիտվում ինչպես ծավալուն ժակետների վրայից, այնպես էլ թեթև մետաքսե զգեստների վրա՝ ստեղծելով արդիական կանացի ուրվագիծ։"
+        "a": "Սա ունիվերսալ ոճային հնարք է. այն միևնույն կերպ էֆեկտիվ է դիտվում ինչպես ծավալուն ժակետների վրայից, այնպես էլ թեթև մետաքսե զգեստների վրա՝ ստեղծելով արդիական կանացի ուրվագիծ։."
       },
       {
         "q": "Օղակի միջով ամրացումը ավելի քիչ հուսալի է թվում, քան դասական ճարմանդը։",
-        "a": "Օղակի միջով ամրացման մեխանիզմը մշակվել է բրենդի ինժեներների կողմից՝ հուսալի ձգումն ապահովելու և իրանի ծավալի ճշգրիտ միկրո-կարգավորման հնարավորության համար։"
+        "a": "Օղակի միջով ամրացման մեխանիզմը մշակվել է բրենդի ինժեներների կողմից՝ հուսալի ձգումն ապահովելու և իրանի ծավալի ճշգրիտ միկրո-կարգավորման հնարավորության համար։."
       },
       {
         "q": "Սև գույնը ոսկեգույն ֆուրնիտուրայով կարող է չափազանց պաշտոնական թվալ։",
-        "a": "Nero_Oro համադրությունը «լուռ շքեղության» դասական է։ Ոսկեգույն շեշտադրումը փոխարինում է ոսկերչական զարդերին՝ թույլ տալով գոտուն դառնալ կենտրոնական տարր նույնիսկ առօրյա կերպարում։"
+        "a": "Nero_Oro համադրությունը."
+      },
+      {
+        "q": "լուռ շքեղության",
+        "a": "դասական է։ Ոսկեգույն շեշտադրումը փոխարինում է ոսկերչական զարդերին՝ թույլ տալով գոտուն դառնալ կենտրոնական տարր նույնիսկ առօրյա կերպարում։."
       }
     ],
     "lv": [
       {
-        "q": "Platās jostas bieži mēdz būt neērtas ilgstošas nēsāšanas laikā.",
+        "q": "Platās jostas bieži mēdz būt neērtas ilgstošas nēsāšanas laikā",
         "a": "Decalco modelis ir aprīkots ar īpašu elastīgu lentu aizmugurē, kas ļauj jostai pielāgoties ķermeņa kustībām, saglabājot komfortu bez formas zuduma."
       },
       {
-        "q": "Bažas, ka dabīgā āda ātri zaudēs izskatu.",
+        "q": "Bažas, ka dabīgā āda ātri zaudēs izskatu",
         "a": "Aksesuārs ir izgatavots no augstākās kvalitātes itāļu ādas (Vera Pelle) ar īpašu apstrādi, kas izceļas ar augstu nodilumizturību un ar laiku iegūst cēlu mīkstumu."
       },
       {
@@ -223,21 +235,25 @@
         "a": "Tas ir universāls stilistisks paņēmiens: tas izskatās tikpat efektīvi gan virs apjomīgām žaketēm, gan uz plīvojošām zīda kleitām, radot aktuālu, sievišķīgu siluetu."
       },
       {
-        "q": "Aizdare caur gredzenu šķiet mazāk droša nekā klasiska sprādze.",
+        "q": "Aizdare caur gredzenu šķiet mazāk droša nekā klasiska sprādze",
         "a": "Fiksācijas mehānisms caur gredzenu ir zīmola inženieru izstrādāts, lai nodrošinātu drošu nospriegojumu un iespēju precīzi mikro-regulēt vidukļa apkārtmēru."
       },
       {
-        "q": "Melna krāsa ar zelta furnitūru var izskatīties pārāk oficiāli.",
-        "a": "Nero_Oro kombinācija ir «klusas greznības» klasika. Zeltītais akcents aizstāj rotaslietas, ļaujot jostai kļūt par centrālo elementu pat ikdienas tēlā."
+        "q": "Melna krāsa ar zelta furnitūru var izskatīties pārāk oficiāli",
+        "a": "Nero_Oro kombinācija ir."
+      },
+      {
+        "q": "klusas greznības",
+        "a": "klasika. Zeltītais akcents aizstāj rotaslietas, ļaujot jostai kļūt par centrālo elementu pat ikdienas tēlā."
       }
     ],
     "lt": [
       {
-        "q": "Platūs diržai dažnai būna nepatogūs ilgai dėvint.",
+        "q": "Platūs diržai dažnai būna nepatogūs ilgai dėvint",
         "a": "Modelis Decalco turi specialią elastingą juostą nugarinėje dalyje, kuri leidžia diržui prisitaikyti prie kūno judesių, išsaugant komfortą neprarandant formos."
       },
       {
-        "q": "Baimė, kad natūrali oda greitai praras išvaizdą.",
+        "q": "Baimė, kad natūrali oda greitai praras išvaizdą",
         "a": "Aksesuaras pagamintas iš aukštos kokybės itališkos odos (Vera Pelle) su specialiu apdirbimu, kuri pasižymi dideliu atsparumu dilimui ir laikui bėgant įgauna kilnų minkštumą."
       },
       {
@@ -245,21 +261,21 @@
         "a": "Tai universalus stilistinis sprendimas: jis vienodai įspūdingai atrodo tiek ant stambių švarkų, tiek ant sklandančių šilkinių suknelių, sukuriant aktualų moterišką siluetą."
       },
       {
-        "q": "Užsegimas per žiedą atrodo mažiau patikimas nei klasikinė sagtis.",
+        "q": "Užsegimas per žiedą atrodo mažiau patikimas nei klasikinė sagtis",
         "a": "Fiksavimo per žiedą mechanizmą sukūrė prekės ženklo inžinieriai, siekdami užtikrinti patikimą įtempimą ir galimybę tiksliai mikro-reguliuoti liemens apimtį."
       },
       {
-        "q": "Juoda spalva su auksine furnitūra gali atrodyti per daug oficialiai.",
+        "q": "Juoda spalva su auksine furnitūra gali atrodyti per daug oficialiai",
         "a": "Nero_Oro derinys — tai „tylios prabangos“ klasika. Auksinis akcentas pakeičia juvelyrinius papuošalus, leisdamas diržui tapti centriniu elementu net ir kasdieniame įvaizdyje."
       }
     ],
     "pl": [
       {
-        "q": "Szerokie pasy często bywają niewygodne przy długotrwałym noszeniu.",
+        "q": "Szerokie pasy często bywają niewygodne przy długotrwałym noszeniu",
         "a": "Model Decalco wyposażony jest w specjalną elastyczną taśmę z tyłu, co pozwala pasowi dostosowywać się do ruchów ciała, zachowując komfort bez uszczerbku dla formy."
       },
       {
-        "q": "Obawa, że naturalna skóra szybko straci swój wygląd.",
+        "q": "Obawa, że naturalna skóra szybko straci swój wygląd",
         "a": "Akcesorium wykonane jest z wysokiej jakości włoskiej skóry (Vera Pelle) specjalnego wyprawienia, która wyróżnia się wysoką wytrzymałością i z czasem nabiera szlachetnej miękkości."
       },
       {
@@ -267,21 +283,21 @@
         "a": "To uniwersalny zabieg stylistyczny: prezentuje się równie efektownie zarówno na obszernych żakietach, jak i na zwiewnych jedwabnych sukienkach, tworząc aktualną kobiecą sylwetkę."
       },
       {
-        "q": "Zapięcie przez kółko wydaje się mniej niezawodne niż klasyczna klamra.",
+        "q": "Zapięcie przez kółko wydaje się mniej niezawodne niż klasyczna klamra",
         "a": "Mechanizm mocowania przez kółko został opracowany przez inżynierów marki w celu zapewnienia niezawodnego napięcia oraz możliwości precyzyjnej mikrorygulacji obwodu talii."
       },
       {
-        "q": "Czarny kolor ze złotymi okuciami może wyglądać zbyt oficjalnie.",
+        "q": "Czarny kolor ze złotymi okuciami może wyglądać zbyt oficjalnie",
         "a": "Połączenie Nero_Oro to klasyka „cichego luksusu”. Złocisty akcent zastępuje biżuterię, pozwalając pasowi stać się centralnym elementem nawet w codziennej stylizacji."
       }
     ],
     "uk": [
       {
-        "q": "Широкі пояси часто бувають незручними при тривалому носінні.",
+        "q": "Широкі пояси часто бувають незручними при тривалому носінні",
         "a": "Модель Decalco оснащена спеціальною еластичною стрічкою ззаду, що дозволяє поясу підлаштовуватися під рухи тіла, зберігаючи комфорт без шкоди для форми."
       },
       {
-        "q": "Побоювання, що натуральна шкіра швидко втратить вигляд.",
+        "q": "Побоювання, що натуральна шкіра швидко втратить вигляд",
         "a": "Аксесуар виконаний із високоякісної італійської шкіри (Vera Pelle) спеціальної вичинки, яка відрізняється високою зносостійкістю і з часом набуває благородної м'якості."
       },
       {
@@ -289,12 +305,16 @@
         "a": "Це універсальний стилістичний прийом: він однаково ефектно виглядає як поверх об'ємних жакетів, так і на летячих шовкових сукнях, створюючи актуальний жіночний силует."
       },
       {
-        "q": "Застібка через кільце здається менш надійною, ніж класична пряжка.",
+        "q": "Застібка через кільце здається менш надійною, ніж класична пряжка",
         "a": "Механізм фіксації через кільце розроблений інженерами бренду для забезпечення надійного натягу та можливості точного мікрорегулювання об'єму талії."
       },
       {
-        "q": "Чорний колір із золотою фурнітурою може виглядати занадто офіційно.",
-        "a": "Поєднання Nero_Oro — це класика «тихої розкоші». Золотистий акцент замінює ювелірні прикраси, дозволяючи поясу стати центральним елементом навіть у повсякденному образі."
+        "q": "Чорний колір із золотою фурнітурою може виглядати занадто офіційно",
+        "a": "Поєднання Nero_Oro — це класика."
+      },
+      {
+        "q": "тихої розкоші",
+        "a": ". Золотистий акцент замінює ювелірні прикраси, дозволяючи поясу стати центральним елементом навіть у повсякденному образі."
       }
     ]
   }

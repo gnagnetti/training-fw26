@@ -266,34 +266,62 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "print seems Suggest trying the shirt under a solid-colored too bold» jacket (such as the Menola 2246). The \"selleria\" print becomes a refined accent, only partially visible, softening the look. «Silk is too Explain that natural silk has unique properties: cold for winter» it retains body heat in winter under outerwear and offers a cooling effect indoors, acting as a \"second skin.\" «The straight cut Point out the fluidity of the silk fabric. Silk will hide my doesn't stand stiff, it drapes softly, following figure» the body's movements, creating a feminine yet understated silhouette. «I'm worried the Remind the client that the \"selleria\" motif is print will get old a Luisa Spagnoli classic. This is an investment quickly» piece that will remain relevant in the wardrobe for years, just like equestrian-themed accessories. «What can I wear Showcase the option from Vetrina 40: corduroy besides classic trousers Orlato 1790 or denim instantly shift trousers?» the shirt from a business register into \"casual chic\" style"
+        "q": "The print seems Suggest trying the shirt under a solid-colored too bold",
+        "a": "jacket (such as the Menola 2246). The \"selleria\" print becomes a refined accent, only partially visible, softening the look."
+      },
+      {
+        "q": "Silk is too Explain that natural silk has unique properties: cold for winter",
+        "a": "it retains body heat in winter under outerwear and offers a cooling effect indoors, acting as a \"second skin.\"."
+      },
+      {
+        "q": "The straight cut Point out the fluidity of the silk fabric. Silk will hide my doesn't stand stiff, it drapes softly, following figure",
+        "a": "the body's movements, creating a feminine yet understated silhouette."
+      },
+      {
+        "q": "I'm worried the Remind the client that the \"selleria\" motif is print will get old a Luisa Spagnoli classic. This is an investment quickly",
+        "a": "piece that will remain relevant in the wardrobe for years, just like equestrian-themed accessories."
+      },
+      {
+        "q": "What can I wear Showcase the option from Vetrina 40: corduroy besides classic trousers Orlato 1790 or denim instantly shift trousers?",
+        "a": "the shirt from a business register into \"casual chic\" style. ![](media/image62.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Принт кажется",
-        "a": "Предложите примерить рубашку под однотонный жакет слишком (например, Menola 2246). Принт «selleria станет активным» изысканным акцентом, видимым лишь частично, что смягчит образ."
+        "q": "Принт кажется слишком смелым",
+        "a": "> Предложите примерить рубашку под однотонный жакет (например, Menola 2246). Принт."
       },
       {
-        "q": "Шелк — это",
-        "a": "Объясните, что натуральный шелк обладает уникальными слишком холодно свойствами: он сохраняет тепло тела зимой под для зимы верхней одеждой и дарит прохладу в помещении, являясь."
+        "q": "selleria",
+        "a": "станет изысканным акцентом, видимым лишь частично, что смягчит образ."
       },
       {
-        "q": "второй кожей",
+        "q": "Шелк слишком холодный для зимы",
+        "a": "> Поясните, что натуральный шелк обладает уникальными свойствами: он удерживает тепло зимой под верхней одеждой и дарит прохладу в помещении, работая как."
+      },
+      {
+        "q": "вторая кожа",
         "a": "."
       },
       {
-        "q": "Прямой крой",
-        "a": "Укажите на текучесть шелковой ткани. Шелк не стоит скроет фигуру колом, а мягко драпируется, следуя за движениями тела, что создает женственный, но сдержанный силуэт."
+        "q": "Прямой крой скроет фигуру",
+        "a": "> Укажите на текучесть шелковой ткани. Шелк не держит жесткую форму, он мягко драпируется, повторяя движения тела и создавая женственный, но сдержанный силуэт."
       },
       {
-        "q": "Боюсь, что",
-        "a": "Напомните, что тема «selleria — это классика принт быстро Luisa Spagnoli. Это инвестиционное изделие, которое надоест» будет актуально в гардеробе годами, как и аксессуары с конной тематикой."
+        "q": "Боюсь, принт быстро выйдет из моды",
+        "a": "> Напомните, что мотив."
       },
       {
-        "q": "С чем носить",
-        "a": "Продемонстрируйте вариант из Vetrina 40: вельветовые кроме классических брюки Orlato 1790 или деним мгновенно переводят брюк? рубашку из делового регистра в стиль."
+        "q": "selleria",
+        "a": "классика Luisa Spagnoli. Это инвестиционная вещь, которая останется актуальной в гардеробе на годы, подобно аксессуарам в конном стиле."
+      },
+      {
+        "q": "С чем носить, кроме классических брюк?",
+        "a": "> Покажите вариант из витрины 40: вельветовые брюки Orlato 1790 или деним мгновенно переводят рубашку из делового регистра в стиль."
+      },
+      {
+        "q": "casual chic",
+        "a": "."
       }
     ],
     "ar": [
@@ -328,6 +356,10 @@
       {
         "q": "مع ماذا أرتديها غير البنطلونات الكلاسيكية؟",
         "a": "استعرض خياراً من Vetrina 40: بنطلون مخملي Orlato 1790 أو الجينز ينقلان القميص فوراً من الطابع العملي إلى أسلوب."
+      },
+      {
+        "q": "casual chic",
+        "a": ". ![](media/image62.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -337,7 +369,7 @@
       },
       {
         "q": "selleria",
-        "a": "-ს პრინტი გახდება დახვეწილი აქცენტი, რომელიც მხოლოდ ნაწილობრივ ჩანს, რაც დაარბილებს იერსახეს."
+        "a": "ს პრინტი გახდება დახვეწილი აქცენტი, რომელიც მხოლოდ ნაწილობრივ ჩანს, რაც დაარბილებს იერსახეს."
       },
       {
         "q": "აბრეშუმი — ეს ზამთრისთვის ზედმეტად ცივია",
@@ -357,7 +389,7 @@
       },
       {
         "q": "selleria",
-        "a": "-ს თემა — ეს Luisa Spagnoli-ს კლასიკაა. ეს არის საინვესტიციო ნივთი, რომელიც წლების განმავლობაში აქტუალური იქნება თქვენს გარდერობში, ისევე როგორც ცხენოსნობის თემატიკის აქსესუარები."
+        "a": "ს თემა — ეს Luisa Spagnoli-ს კლასიკაა. ეს არის საინვესტიციო ნივთი, რომელიც წლების განმავლობაში აქტუალური იქნება თქვენს გარდერობში, ისევე როგორც ცხენოსნობის თემატიკის აქსესუარები."
       },
       {
         "q": "რა ჩავიცვა კლასიკური შარვლის გარდა?",
@@ -365,7 +397,7 @@
       },
       {
         "q": "casual chic",
-        "a": "სტილში."
+        "a": "სტილში. ![](media/image62.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -403,37 +435,37 @@
       },
       {
         "q": "casual chic",
-        "a": "ոճի։."
+        "a": "ոճի։ ![](media/image62.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Apdruka šķiet",
-        "a": "Piedāvājiet uzlaikot kreklu zem vienkrāsaina žaketes pārāk (piemēram, Menola 2246). «selleria apdruka kļūs par aktīva» izsmalcinātu akcentu, kas redzams tikai daļēji, kas mīkstinās tēlu."
+        "q": "Apdruka šķiet Piedāvājiet uzlaikot kreklu zem vienkrāsaina žaketes pārāk (piemēram, Menola 2246). «selleria",
+        "a": "apdruka kļūs par aktīva» izsmalcinātu akcentu, kas redzams tikai daļēji, kas mīkstinās tēlu."
       },
       {
-        "q": "Zīds — tas ir",
-        "a": "Paskaidrojiet, ka dabīgais zīds piemīt unikālas īpašības: pārāk auksts tas ziemā zem virsdrēbēm saglabā ķermeņa siltumu un ziemai dāvā vēsumu telpās, būdams kā."
+        "q": "Zīds --- tas ir Paskaidrojiet, ka dabīgais zīds piemīt unikālas īpašības: pārāk auksts tas ziemā zem virsdrēbēm saglabā ķermeņa siltumu un ziemai",
+        "a": "dāvā vēsumu telpās, būdams kā."
       },
       {
         "q": "otrā āda",
         "a": "."
       },
       {
-        "q": "Taisns piegriezums",
-        "a": "Norādiet uz zīda auduma plūstamību. Zīds nestāv stāvus, noslēps figūru bet maigi drapējas, sekojot ķermeņa kustībām, kas rada sievišķīgu, bet ieturētu siluetu."
+        "q": "Taisns piegriezums Norādiet uz zīda auduma plūstamību. Zīds nestāv stāvus, noslēps figūru",
+        "a": "bet maigi drapējas, sekojot ķermeņa kustībām, kas rada sievišķīgu, bet ieturētu siluetu."
       },
       {
-        "q": "Baidos, ka",
-        "a": "Atgādiniet, ka «selleria tēma — tā ir Luisa Spagnoli apdruka ātri apniks» klasika. Tas ir investīciju izstrādājums, kas garderobē būs aktuāls gadiem ilgi, tāpat kā aksesuāri ar jāšanas tematiku."
+        "q": "Baidos, ka Atgādiniet, ka «selleria",
+        "a": "tēma --- tā ir Luisa Spagnoli apdruka ātri apniks» klasika. Tas ir investīciju izstrādājums, kas garderobē būs aktuāls gadiem ilgi, tāpat kā aksesuāri ar jāšanas tematiku."
       },
       {
-        "q": "Ar ko nēsāt, izņemot",
-        "a": "Demonstrējiet variantu no Vetrina 40: samta bikses klasiskas bikses? Orlato 1790 vai džinsa audums acumirklī pārnes kreklu no lietišķā reģistra uz."
+        "q": "Ar ko nēsāt, izņemot Demonstrējiet variantu no Vetrina 40: samta bikses klasiskas bikses?",
+        "a": "Orlato 1790 vai džinsa audums acumirklī pārnes kreklu no lietišķā reģistra uz."
       },
       {
         "q": "casual chic",
-        "a": "stilu."
+        "a": "stilu. ![](media/image62.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -494,28 +526,32 @@
     ],
     "uk": [
       {
-        "q": "Принт здається",
-        "a": "Запропонуйте приміряти сорочку під однотонний жакет занадто (наприклад, Menola 2246). Принт «selleria стане активним» вишуканим акцентом, видимим лише частково, що пом'якшить образ."
+        "q": "Принт здається Запропонуйте приміряти сорочку під однотонний жакет занадто (наприклад, Menola 2246). Принт «selleria",
+        "a": "стане активним» вишуканим акцентом, видимим лише частково, що пом'якшить образ."
       },
       {
-        "q": "Шовк — це",
-        "a": "Поясніть, що натуральний шовк володіє унікальними занадто холодно властивостями: він зберігає тепло тіла взимку під для зими верхнім одягом і дарує прохолоду в приміщенні, будучи."
+        "q": "Шовк --- це Поясніть, що натуральний шовк володіє унікальними занадто холодно властивостями: він зберігає тепло тіла взимку під для зими",
+        "a": "верхнім одягом і дарує прохолоду в приміщенні, будучи."
       },
       {
         "q": "другою шкірою",
         "a": "."
       },
       {
-        "q": "Прямий крій",
-        "a": "Вкажіть на плинність шовкової тканини. Шовк не стоїть сховає фігуру колом, а м'яко драпірується, слідуючи за рухами тіла, що створює жіночний, але стриманий силует."
+        "q": "Прямий крій Вкажіть на плинність шовкової тканини. Шовк не стоїть сховає фігуру",
+        "a": "колом, а м'яко драпірується, слідуючи за рухами тіла, що створює жіночний, але стриманий силует."
       },
       {
-        "q": "Боюся, що",
-        "a": "Нагадайте, що тема «selleria — це класика принт швидко Luisa Spagnoli. Це інвестиційний виріб, який набридне» буде актуальним у гардеробі роками, як і аксесуари з кінною тематикою."
+        "q": "Боюся, що Нагадайте, що тема «selleria",
+        "a": "це класика принт швидко Luisa Spagnoli. Це інвестиційний виріб, який набридне» буде актуальним у гардеробі роками, як і аксесуари з кінною тематикою."
       },
       {
-        "q": "З чим носити",
-        "a": "Продемонструйте варіант із Vetrina 40: вельветові крім класичних штани Orlato 1790 або денім миттєво переводять штанів? сорочку з ділового регістру в стиль."
+        "q": "З чим носити, Продемонструйте варіант із Vetrina 40: вельветові крім класичних штани Orlato 1790 або денім миттєво переводять штанів?",
+        "a": "сорочку з ділового регістру в стиль."
+      },
+      {
+        "q": "casual chic",
+        "a": ". ![](media/image62.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

@@ -180,7 +180,7 @@
   "objections": {
     "en": [
       {
-        "q": "Concern that the peplum (flounce) will visually add volume around the hips.",
+        "q": "Concern that the peplum (flounce) will visually add volume around the hips",
         "a": "On the contrary, the peplum cut, combined with the fitted waist section, structures the silhouette, creating an 'hourglass' effect and accentuating the waist."
       },
       {
@@ -188,11 +188,11 @@
         "a": "We recommend exclusively professional dry cleaning, to preserve the delicate structure of the carded yarn and the flawless appearance of the signature buttons."
       },
       {
-        "q": "The heraldic buttons seem overly decorative.",
+        "q": "The heraldic buttons seem overly decorative",
         "a": "These details are a symbol of the Luisa Spagnoli brand's DNA. They take the place of jewelry, allowing the look to remain understated yet status-defining."
       },
       {
-        "q": "The model seems too dressy for everyday wear.",
+        "q": "The model seems too dressy for everyday wear",
         "a": "Paired with denim, as in our Look 226, the Cassina pullover takes on an on-trend casual-chic style, while preserving its note of luxury."
       },
       {
@@ -202,29 +202,33 @@
     ],
     "ru": [
       {
-        "q": "Боязнь, что баска (волан) визуально добавит объема в области бедер.",
-        "a": "Напротив, крой баски в сочетании с прилегающей частью на талии структурирует силуэт, создавая эффект 'песочных часов' и подчеркивая талию."
+        "q": "Опасение, что баска (волан) визуально добавит объем бедрам",
+        "a": "Напротив, крой с баской в сочетании с приталенной секцией структурирует силуэт, создавая эффект."
       },
       {
-        "q": "Как ухаживать за таким деликатным изделием с кашемиром?",
-        "a": "Мы рекомендуем исключительно профессиональную химчистку, чтобы сохранить нежную структуру кардной пряжи и безупречный вид фирменных пуговиц."
+        "q": "песочных часов",
+        "a": "и акцентируя внимание на талии."
       },
       {
-        "q": "Геральдические пуговицы кажутся слишком декоративными.",
-        "a": "Эти детали являются символом ДНК бренда Luisa Spagnoli. Они заменяют украшения, позволяя образу оставаться лаконичным, но статусным."
+        "q": "Как ухаживать за таким деликатным изделием из кашемировой смеси?",
+        "a": "Мы рекомендуем исключительно профессиональную химчистку, чтобы сохранить деликатную структуру кардной пряжи и безупречный вид фирменных пуговиц."
       },
       {
-        "q": "Модель кажется слишком нарядной для повседневной носки.",
-        "a": "В сочетании с денимом, как в нашем Look 226, пуловер Cassina приобретает актуальный стиль casual-chic, сохраняя ноту роскоши."
+        "q": "Геральдические пуговицы кажутся слишком декоративными",
+        "a": "Эти детали — символ ДНК бренда Luisa Spagnoli. Они заменяют собой украшения, позволяя образу оставаться сдержанным, но статусным."
       },
       {
-        "q": "Посадка Regular fit не будет ли слишком свободной?",
-        "a": "Regular fit в данной модели спроектирован так, чтобы обеспечить комфорт движений, при этом баска гарантирует, что изделие сядет точно по фигуре."
+        "q": "Модель кажется слишком нарядной для повседневной носки",
+        "a": "В сочетании с денимом, как в нашем образе 226, пуловер Cassina приобретает актуальный стиль casual-chic, сохраняя при этом ноту роскоши."
+      },
+      {
+        "q": "Не будет ли Regular fit слишком свободным?",
+        "a": "Крой Regular fit в этой модели разработан так, чтобы обеспечить свободу движений, а баска гарантирует, что изделие будет безупречно сидеть по фигуре."
       }
     ],
     "ar": [
       {
-        "q": "الخوف من أن الكشكشة (الباسك) ستزيد بصرياً من حجم منطقة الوركين.",
+        "q": "الخوف من أن الكشكشة (الباسك) ستزيد بصرياً من حجم منطقة الوركين",
         "a": "على العكس، فإن قصة الباسك مع الجزء الضيق عند الخصر تمنح القوام هيكلاً، مما يخلق تأثير 'الساعة الرملية' ويبرز منطقة الخصر."
       },
       {
@@ -232,21 +236,21 @@
         "a": "نوصي حصرياً بالتنظيف الجاف الاحترافي للحفاظ على البنية الرقيقة للخيوط الممشطة والمظهر المثالي للأزرار المميزة."
       },
       {
-        "q": "الأزرار ذات الطابع الشعاري تبدو زخرفية أكثر من اللازم.",
+        "q": "الأزرار ذات الطابع الشعاري تبدو زخرفية أكثر من اللازم",
         "a": "هذه التفاصيل هي رمز للحمض النووي لعلامة Luisa Spagnoli. فهي تغني عن استخدام الحلي والمجوهرات، مما يجعل المظهر بسيطاً وراقياً في آن واحد."
       },
       {
-        "q": "تبدو القطعة رسمية جداً للاستخدام اليومي.",
+        "q": "تبدو القطعة رسمية جداً للاستخدام اليومي",
         "a": "عند تنسيقه مع الجينز، كما في Look 226، يكتسب بلوفر Cassina أسلوب الـ casual-chic العصري مع الحفاظ على لمسة الفخامة."
       },
       {
         "q": "هل قصة Regular fit ستكون واسعة جداً؟",
-        "a": "صُممت قصة Regular fit في هذا الموديل لضمان حرية الحركة، مع ضمان أن الباسك سيلائم الجسم بدقة.]"
+        "a": "صُممت قصة Regular fit في هذا الموديل لضمان حرية الحركة، مع ضمان أن الباسك سيلائم الجسم بدقة.]."
       }
     ],
     "ka": [
       {
-        "q": "შიში იმისა, რომ ბასკა (ფრიალი) ვიზუალურად დაამატებს მოცულობას თეძოების არეში.",
+        "q": "შიში იმისა, რომ ბასკა (ფრიალი) ვიზუალურად დაამატებს მოცულობას თეძოების არეში",
         "a": "პირიქით, ბასკის კროი წელზე მომდგარ ნაწილთან კომბინაციაში აკონსტრუირებს სილუეტს, ქმნის 'ქვიშის საათის' ეფექტს და ხაზს უსვამს წელს."
       },
       {
@@ -254,11 +258,11 @@
         "a": "ჩვენ რეკომენდაციას ვუწევთ მხოლოდ პროფესიონალურ ქიმწმენდას, რათა შევინარჩუნოთ კარდული ძაფის ნაზი სტრუქტურა და ფირმული ღილების უნაკლო იერსახე."
       },
       {
-        "q": "ჰერალდიკური ღილები ზედმეტად დეკორატიული ჩანს.",
+        "q": "ჰერალდიკური ღილები ზედმეტად დეკორატიული ჩანს",
         "a": "ეს დეტალები ბრენდ Luisa Spagnoli-ს დნმ-ის სიმბოლოა. ისინი ცვლიან სამკაულებს, რაც სახეს საშუალებას აძლევს დარჩეს ლაკონური, მაგრამ სტატუსური."
       },
       {
-        "q": "მოდელი ყოველდღიური ტარებისთვის ზედმეტად საზეიმოდ ჩანს.",
+        "q": "მოდელი ყოველდღიური ტარებისთვის ზედმეტად საზეიმოდ ჩანს",
         "a": "დენიმთან კომბინაციაში, ისევე როგორც ჩვენს Look 226-ში, პულოვერი Cassina იძენს აქტუალურ სტილს casual-chic, ინარჩუნებს რა ფუფუნების ნოტს."
       },
       {
@@ -269,28 +273,32 @@
     "hy": [
       {
         "q": "Մտավախություն, որ բասկան (վոլանը) տեսողականորեն ծավալ կավելացնի ազդրերի հատվածում։",
-        "a": "Ընդհակառակը, բասկայի կտրվածքը գոտկատեղի կիպ հատվածի հետ համակցությամբ կառուցվածքավորում է ուրվագիծը՝ ստեղծելով «ավազե ժամացույցի» էֆեկտ և ընդգծելով գոտկատեղը։"
+        "a": "Ընդհակառակը, բասկայի կտրվածքը գոտկատեղի կիպ հատվածի հետ համակցությամբ կառուցվածքավորում է ուրվագիծը՝ ստեղծելով."
+      },
+      {
+        "q": "ավազե ժամացույցի",
+        "a": "էֆեկտ և ընդգծելով գոտկատեղը։."
       },
       {
         "q": "Ինչպե՞ս խնամել քաշմիրով այսպիսի նուրբ արտադրանքը։",
-        "a": "Մենք խորհուրդ ենք տալիս բացառապես մասնագիտական քիմմաքրում, որպեսզի պահպանվի քարտային մանվածքի նուրբ կառուցվածքը և ֆիրմային կոճակների անթերի տեսքը։"
+        "a": "Մենք խորհուրդ ենք տալիս բացառապես մասնագիտական քիմմաքրում, որպեսզի պահպանվի քարտային մանվածքի նուրբ կառուցվածքը և ֆիրմային կոճակների անթերի տեսքը։."
       },
       {
         "q": "Հերալդիկ կոճակները չափազանց դեկորատիվ են թվում։",
-        "a": "Այս դետալները հանդիսանում են Luisa Spagnoli բրենդի ԴՆԹ-ի խորհրդանիշը։ Դրանք փոխարինում են զարդերին՝ թույլ տալով կերպարին մնալ լակոնիկ, բայց կարգավիճակային։"
+        "a": "Այս դետալները հանդիսանում են Luisa Spagnoli բրենդի ԴՆԹ-ի խորհրդանիշը։ Դրանք փոխարինում են զարդերին՝ թույլ տալով կերպարին մնալ լակոնիկ, բայց կարգավիճակային։."
       },
       {
         "q": "Մոդելը չափազանց տոնական է թվում առօրյա հագուստի համար։",
-        "a": "Դենիմի հետ համակցությամբ, ինչպես մեր Look 226-ում, Cassina պուլովերը ստանում է արդիական casual-chic ոճ՝ պահպանելով շքեղության նոտան։"
+        "a": "Դենիմի հետ համակցությամբ, ինչպես մեր Look 226-ում, Cassina պուլովերը ստանում է արդիական casual-chic ոճ՝ պահպանելով շքեղության նոտան։."
       },
       {
         "q": "Regular fit ձևվածքը չափազանց ազատ չի՞ լինի։",
-        "a": "Այս մոդելի Regular fit-ը նախագծված է այնպես, որպեսզի ապահովի շարժումների հարմարավետություն, ընդ որում՝ բասկան երաշխավորում է, որ արտադրանքը կնստի ճիշտ կազմվածքով։"
+        "a": "Այս մոդելի Regular fit-ը նախագծված է այնպես, որպեսզի ապահովի շարժումների հարմարավետություն, ընդ որում՝ բասկան երաշխավորում է, որ արտադրանքը կնստի ճիշտ կազմվածքով։."
       }
     ],
     "lv": [
       {
-        "q": "Bailes, ka basks (volāns) vizuāli palielinās apjomu gurnu zonā.",
+        "q": "Bailes, ka basks (volāns) vizuāli palielinās apjomu gurnu zonā",
         "a": "Gluži pretēji, baska piegriezums kombinācijā ar piegulošo daļu viduklī strukturē siluetu, radot 'smilšu pulksteņa' efektu un izceļot vidukli."
       },
       {
@@ -298,11 +306,11 @@
         "a": "Mēs iesakām tikai profesionālu ķīmisko tīrīšanu, lai saglabātu kārstās dzijas maigo struktūru un nevainojamu firmas pogu izskatu."
       },
       {
-        "q": "Heraldikas pogas šķiet pārāk dekoratīvas.",
+        "q": "Heraldikas pogas šķiet pārāk dekoratīvas",
         "a": "Šīs detaļas ir Luisa Spagnoli zīmola DNS simbols. Tās aizstāj rotaslietas, ļaujot tēlam palikt lakoniskam, bet statusu apliecinošam."
       },
       {
-        "q": "Modelis šķiet pārāk grezns ikdienas valkāšanai.",
+        "q": "Modelis šķiet pārāk grezns ikdienas valkāšanai",
         "a": "Kombinācijā ar džinsu audumu, kā mūsu Look 226, Cassina pulovers iegūst aktuālu casual-chic stilu, saglabājot greznības noti."
       },
       {
@@ -312,7 +320,7 @@
     ],
     "lt": [
       {
-        "q": "Baimė, kad baskų (raukinio) detalė vizualiai pridės apimties klubų srityje.",
+        "q": "Baimė, kad baskų (raukinio) detalė vizualiai pridės apimties klubų srityje",
         "a": "Priešingai, baskų kirpimas kartu su prigludusia liemens dalimi struktūrizuoja siluetą, sukurdami „smėlio laikrodžio“ efektą ir pabrėždami taliją."
       },
       {
@@ -320,11 +328,11 @@
         "a": "Rekomenduojame tik profesionalų cheminį valymą, kad išsaugotumėte švelnią karšinės verpalų struktūrą ir nepriekaištingą firminių sagų išvaizdą."
       },
       {
-        "q": "Heraldinės sagos atrodo pernelyg dekoratyvios.",
+        "q": "Heraldinės sagos atrodo pernelyg dekoratyvios",
         "a": "Šios detalės yra Luisa Spagnoli prekės ženklo DNR simbolis. Jos atstoja papuošalus, leisdamos įvaizdžiui išlikti lakoniškam, bet statusiniam."
       },
       {
-        "q": "Modelis atrodo pernelyg puošnus kasdieniam dėvėjimui.",
+        "q": "Modelis atrodo pernelyg puošnus kasdieniam dėvėjimui",
         "a": "Derinant su džinsu, kaip mūsų Look 226, Cassina megztinis įgauna aktualų casual-chic stilių, išsaugodamas prabangos natą."
       },
       {
@@ -334,7 +342,7 @@
     ],
     "pl": [
       {
-        "q": "Obawa, że baskinka (falbana) wizualnie doda objętości w okolicy bioder.",
+        "q": "Obawa, że baskinka (falbana) wizualnie doda objętości w okolicy bioder",
         "a": "Wręcz przeciwnie, krój baskinki w połączeniu z dopasowaną częścią w talii porządkuje sylwetkę, tworząc efekt 'klepsydry' i podkreślając talię."
       },
       {
@@ -342,11 +350,11 @@
         "a": "Zalecamy wyłącznie profesjonalne czyszczenie chemiczne, aby zachować delikatną strukturę przędzy zgrzebnej i nienaganny wygląd firmowych guzików."
       },
       {
-        "q": "Heraldyczne guziki wydają się zbyt dekoracyjne.",
+        "q": "Heraldyczne guziki wydają się zbyt dekoracyjne",
         "a": "Te detale są symbolem DNA marki Luisa Spagnoli. Zastępują ozdoby, pozwalając stylizacji pozostać lakoniczną, lecz prestiżową."
       },
       {
-        "q": "Model wydaje się zbyt elegancki do codziennego noszenia.",
+        "q": "Model wydaje się zbyt elegancki do codziennego noszenia",
         "a": "W połączeniu z denimem, jak w naszym Look 226, sweter Cassina nabiera aktualnego stylu casual-chic, zachowując nutę luksusu."
       },
       {
@@ -356,7 +364,7 @@
     ],
     "uk": [
       {
-        "q": "Побоювання, що баска (волан) візуально додасть об'єму в області стегон.",
+        "q": "Побоювання, що баска (волан) візуально додасть об'єму в області стегон",
         "a": "Навпаки, крій баски в поєднанні з прилеглою частиною на талії структурує силует, створюючи ефект 'пісочного годинника' і підкреслюючи талію."
       },
       {
@@ -364,11 +372,11 @@
         "a": "Ми рекомендуємо виключно професійну хімчистку, щоб зберегти ніжну структуру кардної пряжі та бездоганний вигляд фірмових ґудзиків."
       },
       {
-        "q": "Геральдичні ґудзики здаються занадто декоративними.",
+        "q": "Геральдичні ґудзики здаються занадто декоративними",
         "a": "Ці деталі є символом ДНК бренду Luisa Spagnoli. Вони замінюють прикраси, дозволяючи образу залишатися лаконічним, але статусним."
       },
       {
-        "q": "Модель здається занадто ошатною для повсякденного носіння.",
+        "q": "Модель здається занадто ошатною для повсякденного носіння",
         "a": "У поєднанні з денімом, як у нашому Look 226, пуловер Cassina набуває актуального стилю casual-chic, зберігаючи ноту розкоші."
       },
       {

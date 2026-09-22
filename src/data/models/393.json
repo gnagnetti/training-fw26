@@ -202,56 +202,60 @@
   "objections": {
     "en": [
       {
-        "q": "The print is too much of a statement.",
+        "q": "The print is too much of a statement",
         "a": "Explain that thanks to its classic color palette (black, gold, brown), the skirt pairs effortlessly with an essential top, such as the white Limonaia 0101 shirt, which \"tempers\" the bold pattern."
       },
       {
-        "q": "The wrap may open too much.",
+        "q": "The wrap may open too much",
         "a": "Point out the \"portafoglio\" (wrap) construction, secured reliably with gold buttons. The generous fabric overlap ensures both a polished look and comfort whether walking or sitting."
       },
       {
-        "q": "Viscose seems too lightweight for winter.",
+        "q": "Viscose seems too lightweight for winter",
         "a": "Showcase window-display styling with wool and leather outerwear (Scalare 0101, Rivolo 3278). The density of this particular viscose allows it to work beautifully in layered winter ensembles."
       },
       {
-        "q": "I'm afraid the maxi length will be uncomfortable.",
+        "q": "I'm afraid the maxi length will be uncomfortable",
         "a": "Point out the side slit and the regular fit. These details ensure complete freedom of movement while preserving an aristocratic silhouette."
       },
       {
-        "q": "The look is too formal.",
+        "q": "The look is too formal",
         "a": "Suggest pairing the skirt with the Manos 0101 knitwear or the cropped Meltina 0101 2246 jacket. The soft texture of the knitwear dials down the formality, creating a more relaxed look."
       }
     ],
     "ru": [
       {
-        "q": "Принт слишком",
-        "a": "Поясните, что благодаря классической цветовой гамме обязывает (черный, золото, коричневый) юбка легко сочетается с базовым верхом, например, белой рубашкой Limonaia 0101, которая."
+        "q": "Принт слишком обязывает",
+        "a": "Благодаря классической палитре (черный, золото, коричневый), юбка безупречно сочетается с базовым верхом, например, белой рубашкой Limonaia 0101, которая."
       },
       {
-        "q": "успокаивает",
-        "a": "активный узор."
+        "q": "смягчает",
+        "a": "активный рисунок."
       },
       {
-        "q": "Запах может",
-        "a": "Укажите на конструкцию «portafoglio с надежной открыться слишком фиксацией золотыми пуговицами. Глубокий нахлест ткани сильно» гарантирует эстетичность и комфорт при ходьбе и в положении сидя."
+        "q": "Запах может слишком сильно открываться",
+        "a": "Конструкция."
       },
       {
-        "q": "Вискоза",
-        "a": "Продемонстрируйте варианты стайлинга из витрин с кажется слишком верхней одеждой из шерсти и кожи (Scalare 0101, легкой для Rivolo 3278). Плотность данной вискозы позволяет зимы ей гармонично смотреться в многослойных зимних ансамблях."
+        "q": "portafoglio",
+        "a": "надежно фиксируется золотыми пуговицами. Глубокий нахлест гарантирует безупречный вид и комфорт как при ходьбе, так и в положении сидя."
       },
       {
-        "q": "Боюсь, длина",
-        "a": "Обратите внимание на боковой разрез и регулярную макси будет посадку (regular fit). Эти детали обеспечивают неудобна полную свободу движений, сохраняя при этом аристократичный силуэт."
+        "q": "Вискоза кажется слишком легкой для зимы",
+        "a": "Посмотрите на стилизацию с шерстяной и кожаной верхней одеждой (Scalare 0101, Rivolo 3278). Плотность этой вискозы позволяет ей идеально вписываться в многослойные зимние ансамбли."
       },
       {
-        "q": "Слишком",
-        "a": "Предложите примерить юбку с трикотажем Manos 0101 официальный или укороченным жакетом Meltina 0101 2246. Мягкие вид фактуры трикотажа снижают градус формальности, делая образ более расслабленным."
+        "q": "Боюсь, что макси будет неудобным",
+        "a": "Боковой разрез и выверенный крой обеспечивают полную свободу движений, сохраняя при этом аристократичный силуэт."
+      },
+      {
+        "q": "Образ получается слишком формальным",
+        "a": "Рекомендуем дополнить юбку трикотажем Manos 0101 или укороченным жакетом Meltina 0101 2246 — мягкая фактура трикотажа снижает градус формальности, придавая образу расслабленность."
       }
     ],
     "ar": [
       {
         "q": "النقوش تبدو متكلفة جداً",
-        "a": "|| وضح أنه بفضل لوحة الألوان الكلاسيكية (الأسود، الذهبي، البني) يسهل تنسيق التنورة مع قطعة علوية أساسية، مثل قميص Limonaia 0101 الأبيض، الذي يعمل على."
+        "a": "وضح أنه بفضل لوحة الألوان الكلاسيكية (الأسود، الذهبي، البني) يسهل تنسيق التنورة مع قطعة علوية أساسية، مثل قميص Limonaia 0101 الأبيض، الذي يعمل على."
       },
       {
         "q": "تهدئة",
@@ -259,7 +263,7 @@
       },
       {
         "q": "فتحة الملف قد تكون واسعة جداً",
-        "a": "|| أشر إلى تصميم."
+        "a": "أشر إلى تصميم."
       },
       {
         "q": "portafoglio",
@@ -267,24 +271,24 @@
       },
       {
         "q": "الفسكوز يبدو خفيفاً جداً لفصل الشتاء",
-        "a": "|| استعرض خيارات التنسيق من واجهات العرض مع ملابس خارجية من الصوف والجلد (Scalare 0101, Rivolo 3278). كثافة هذا الفسكوز تسمح له بالتناغم مع إطلالات الشتاء ذات الطبقات المتعددة."
+        "a": "استعرض خيارات التنسيق من واجهات العرض مع ملابس خارجية من الصوف والجلد (Scalare 0101, Rivolo 3278). كثافة هذا الفسكوز تسمح له بالتناغم مع إطلالات الشتاء ذات الطبقات المتعددة."
       },
       {
         "q": "أخشى أن يكون طول الماكسي غير مريح",
-        "a": "|| انتبه إلى الفتحة الجانبية والقياس المنتظم (regular fit). هذه التفاصيل تضمن حرية كاملة في الحركة مع الحفاظ على القوام الأرستقراطي."
+        "a": "انتبه إلى الفتحة الجانبية والقياس المنتظم (regular fit). هذه التفاصيل تضمن حرية كاملة في الحركة مع الحفاظ على القوام الأرستقراطي."
       },
       {
         "q": "المظهر رسمي جداً",
-        "a": "|| اقترح تجربة التنورة مع تريكو Manos 0101 أو سترة قصيرة Meltina 0101 2246. ملمس التريكو الناعم يقلل من حدة الرسمية ويجعل الإطلالة أكثر استرخاءً."
+        "a": "اقترح تجربة التنورة مع تريكو Manos 0101 أو سترة قصيرة Meltina 0101 2246. ملمس التريكو الناعم يقلل من حدة الرسمية ويجعل الإطلالة أكثر استرخاءً. ![](media/image17.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
       {
         "q": "პრინტი მეტისმეტად მავალდებულებელია",
-        "a": "განუმარტეთ, რომ კლასიკური ფერთა გამის (შავი, ოქროსფერი, ყავისფერი) წყალობით, ქვედაკაბა ადვილად ეხამება ბაზისურ ზედა ნაწილს, მაგალითად, თეთრ პერანგს Limonaia 0101, რომელიც."
+        "a": "განუმარტეთ, რომ კლასიკური ფერთა გამის (შავი, ოქროსფერი, ყავისფერი) წყალობით, ქვედაკაბა ადვილად ეხამება ბაზისურ ზედა ნაწილს, მაგალითად, თეთრ პერანგს Limonaia 0101, რომელიც „ამშვიდებს“ აქტიურ ნიმუშს."
       },
       {
-        "q": "ამშვიდებს“ აქტიურ ნიმუშს. «საკინძი შეიძლება ზედმეტად გაიხსნას",
+        "q": "საკინძი შეიძლება ზედმეტად გაიხსნას",
         "a": "მიუთითეთ კონსტრუქციაზე."
       },
       {
@@ -301,7 +305,7 @@
       },
       {
         "q": "ზედმეტად ოფიციალური სახე აქვს",
-        "a": "შესთავაზეთ ქვედაკაბის მოზომვა ტრიკოტაჟთან Manos 0101 ან დამოკლებულ ჟაკეტთან Meltina 0101 2246. ტრიკოტაჟის რბილი ფაქტურა აქვეითებს ფორმალურობის ხარისხს და სახეს უფრო მოდუნებულს ხდის."
+        "a": "შესთავაზეთ ქვედაკაბის მოზომვა ტრიკოტაჟთან Manos 0101 ან დამოკლებულ ჟაკეტთან Meltina 0101 2246. ტრიკოტაჟის რბილი ფაქტურა აქვეითებს ფორმალურობის ხარისხს და სახეს უფრო მოდუნებულს ხდის. ![](media/image17.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -331,33 +335,33 @@
       },
       {
         "q": "Շատ պաշտոնական տեսք",
-        "a": "Առաջարկեք չափել կիսաշրջազգեստը Manos 0101 տրիկոտաժի կամ Meltina 0101 2246 կարճ ժակետի հետ։ Տրիկոտաժի փափուկ ֆակտուրաները նվազեցնում են պաշտոնականության աստիճանը՝ կերպարը դարձնելով ավելի հանգիստ։."
+        "a": "Առաջարկեք չափել կիսաշրջազգեստը Manos 0101 տրիկոտաժի կամ Meltina 0101 2246 կարճ ժակետի հետ։ Տրիկոտաժի փափուկ ֆակտուրաները նվազեցնում են պաշտոնականության աստիճանը՝ կերպարը դարձնելով ավելի հանգիստ։ ![](media/image17.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Apdruka ir pārāk",
-        "a": "Paskaidrojiet, ka, pateicoties klasiskajai krāsu uzmācīga gammai (melns, zelts, brūns), svārki viegli kombinējas ar pamata augšdaļu, piemēram, baltu kreklu Limonaia 0101, kas."
+        "q": "Apdruka ir pārāk Paskaidrojiet, ka, pateicoties klasiskajai krāsu uzmācīga",
+        "a": "gammai (melns, zelts, brūns), svārki viegli kombinējas ar pamata augšdaļu, piemēram, baltu kreklu Limonaia 0101, kas."
       },
       {
         "q": "nomierina",
         "a": "aktīvo rakstu."
       },
       {
-        "q": "Smarža (atlokā)",
-        "a": "Norādiet uz «portafoglio konstrukciju ar drošu var atvērties fiksāciju ar zelta pogām. Dziļais auduma pārlaidums pārāk stipri» garantē estētiku un komfortu ejot un sēdus pozīcijā."
+        "q": "Smarža (atlokā) Norādiet uz «portafoglio",
+        "a": "konstrukciju ar drošu var atvērties fiksāciju ar zelta pogām. Dziļais auduma pārlaidums pārāk stipri» garantē estētiku un komfortu ejot un sēdus pozīcijā."
       },
       {
-        "q": "Viskoze šķiet",
-        "a": "Demonstrējiet stailinga variantus no vitrīnām ar pārāk viegla virsdrēbēm no vilnas un ādas (Scalare 0101, ziemai Rivolo 3278). Šīs viskozes blīvums ļauj tai harmoniski izskatīties daudzslāņu ziemas ansambļos."
+        "q": "Viskoze šķiet Demonstrējiet stailinga variantus no vitrīnām ar pārāk viegla virsdrēbēm no vilnas un ādas (Scalare 0101, ziemai",
+        "a": "Rivolo 3278). Šīs viskozes blīvums ļauj tai harmoniski izskatīties daudzslāņu ziemas ansambļos."
       },
       {
-        "q": "Baidos, ka",
-        "a": "Pievērsiet uzmanību sānu šķēlumam un regulāram garums maksi būs piegriezumam (regular fit). Šīs detaļas nodrošina neērts pilnīgu kustību brīvību, vienlaikus saglabājot aristokrātisku siluetu."
+        "q": "Baidos, ka Pievērsiet uzmanību sānu šķēlumam un regulāram garums maksi būs piegriezumam (regular fit). Šīs detaļas nodrošina neērts",
+        "a": "pilnīgu kustību brīvību, vienlaikus saglabājot aristokrātisku siluetu."
       },
       {
         "q": "Pārāk oficiāls Piestādiet piemērīt svārkus ar trikotāžu Manos 0101 izskats",
-        "a": "vai īsinātu žaketi Meltina 0101 2246. Mīkstas trikotāžas faktūras samazina formalitātes pakāpi, padarot tēlu relaksētāku."
+        "a": "vai īsinātu žaketi Meltina 0101 2246. Mīkstas trikotāžas faktūras samazina formalitātes pakāpi, padarot tēlu relaksētāku. ![](media/image17.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -369,11 +373,7 @@
     "pl": [
       {
         "q": "Print jest zbyt zobowiązujący",
-        "a": "Wyjaśnij, że dzięki klasycznej kolorystyce (czarny, złoto, brąz) spódnica łatwo łączy się z bazową górą, na przykład białą koszulą Limonaia 0101, która."
-      },
-      {
-        "q": "uspokaja",
-        "a": "aktywny wzór."
+        "a": "Wyjaśnij, że dzięki klasycznej kolorystyce (czarny, złoto, brąz) spódnica łatwo łączy się z bazową górą, na przykład białą koszulą Limonaia 0101, która „uspokaja” aktywny wzór."
       },
       {
         "q": "Zapięcie typu kopertowego może otworzyć się zbyt mocno",
@@ -393,7 +393,7 @@
       },
       {
         "q": "Zbyt oficjalny wygląd",
-        "a": "Zaproponuj przymierzenie spódnicy z dzianiną Manos 0101 lub krótkim żakietem Meltina 0101 2246. Miękkie faktury dzianiny obniżają stopień formalności, czyniąc stylizację bardziej swobodną."
+        "a": "Zaproponuj przymierzenie spódnicy z dzianiną Manos 0101 lub krótkim żakietem Meltina 0101 2246. Miękkie faktury dzianiny obniżają stopień formalności, czyniąc stylizację bardziej swobodną. ![](media/image17.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "uk": [

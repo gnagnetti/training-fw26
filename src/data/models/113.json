@@ -214,199 +214,199 @@
   "objections": {
     "en": [
       {
-        "q": "The lace top seems too sheer and bold.",
+        "q": "The lace top seems too sheer and bold",
         "a": "The designers incorporated a built-in lining of dense matte satin that fully conceals undergarments and provides confidence, while preserving the airiness of the lace."
       },
       {
-        "q": "Chantilly lace looks too delicate for frequent wear.",
+        "q": "Chantilly lace looks too delicate for frequent wear",
         "a": "The high-technology polyamide-based fabric used offers superior durability and shape retention, all while remaining remarkably soft to the touch."
       },
       {
-        "q": "Concern that the ruffles at the neck may be cumbersome under outerwear.",
+        "q": "Concern that the ruffles at the neck may be cumbersome under outerwear",
         "a": "Liquorosa lace has exceptional flexibility. The ruffles sit easily beneath a jacket or coat, becoming a refined decorative element that frames the face."
       },
       {
-        "q": "Such a blouse seems suitable only for the most formal occasions.",
+        "q": "Such a blouse seems suitable only for the most formal occasions",
         "a": "Thanks to its understated black colour and versatility when paired with classic trousers, this piece can become a luxurious accent within an evening business wardrobe."
       },
       {
-        "q": "Caring for such a piece seems overly complex.",
+        "q": "Caring for such a piece seems overly complex",
         "a": "Professional dry cleaning will preserve the delicate structure of the lace and the sheen of the satin trim in pristine condition for years to come."
       }
     ],
     "ru": [
       {
-        "q": "Кружевной верх кажется слишком прозрачным и смелым.",
-        "a": "Дизайнеры предусмотрели встроенный чехол из плотного матового атласа, который полностью скрывает белье и обеспечивает уверенность, сохраняя при этом воздушность кружева."
+        "q": "Кружевной топ кажется слишком прозрачным и смелым",
+        "a": "Дизайнеры предусмотрели встроенную подкладку из плотного матового атласа, которая деликатно скрывает белье и дарит уверенность, сохраняя при этом воздушность кружева."
       },
       {
-        "q": "Кружево шантильи выглядит слишком хрупким для частого использования.",
-        "a": "Используемое высокотехнологичное полотно на основе полиамида отличается повышенной износостойкостью и способностью сохранять форму, оставаясь при этом невероятно мягким на ощупь."
+        "q": "Кружево шантильи выглядит слишком хрупким для повседневной носки",
+        "a": "Высокотехнологичная ткань на основе полиамида обладает исключительной износостойкостью и безупречно держит форму, оставаясь при этом невероятно мягкой на ощупь."
       },
       {
-        "q": "Боюсь, что воланы на шее будут мешать под верхней одеждой.",
-        "a": "Кружево Liquorosa обладает исключительной пластичностью. Воланы легко ложатся под жакет или пальто, превращаясь в изысканный декоративный элемент, обрамляющий лицо."
+        "q": "Опасение, что воланы на шее будут мешать под верхней одеждой",
+        "a": "Кружево Liquorosa обладает исключительной пластичностью. Воланы легко располагаются под жакетом или пальто, превращаясь в изысканный декоративный элемент, обрамляющий лицо."
       },
       {
-        "q": "Такая блуза подходит только для очень торжественных случаев.",
-        "a": "Благодаря лаконичному черному цвету и возможности сочетания с классическими брюками, эта модель может стать роскошным акцентом в вечернем деловом гардеробе."
+        "q": "Такая блуза кажется подходящей только для самых торжественных случаев",
+        "a": "Благодаря сдержанному черному цвету и универсальности в сочетании с классическими брюками, это изделие станет роскошным акцентом в вечернем деловом гардеробе."
       },
       {
-        "q": "Уход за таким изделием кажется слишком сложным.",
-        "a": "Профессиональная сухая чистка позволит сохранить деликатную структуру кружева и сияние атласной отделки в первозданном виде на долгие годы."
+        "q": "Уход за такой вещью кажется слишком сложным",
+        "a": "Профессиональная химчистка позволит сохранить деликатную структуру кружева и благородный блеск атласной отделки в безупречном состоянии на долгие годы."
       }
     ],
     "ar": [
       {
-        "q": "يبدو الجزء العلوي المصنوع من الدانتيل شفافاً وجريئاً أكثر من اللازم.",
+        "q": "يبدو الجزء العلوي المصنوع من الدانتيل شفافاً وجريئاً أكثر من اللازم",
         "a": "صمم المصممون بطانة مدمجة من الساتان غير اللامع والكثيف، والتي تخفي الملابس الداخلية تماماً وتمنحك الثقة مع الحفاظ على رونق الدانتيل الانسيابي."
       },
       {
-        "q": "يبدو دانتيل شانتيلي هشاً للغاية للاستخدام المتكرر.",
+        "q": "يبدو دانتيل شانتيلي هشاً للغاية للاستخدام المتكرر",
         "a": "يتميز القماش عالي التقنية المعتمد على مادة البولي أميد بمقاومة عالية للتآكل والقدرة على الحفاظ على شكله، مع الحفاظ على ملمس ناعم لا يصدق."
       },
       {
-        "q": "أخشى أن تعيق الكشكشة الموجودة عند الرقبة ارتداء الملابس الخارجية.",
+        "q": "أخشى أن تعيق الكشكشة الموجودة عند الرقبة ارتداء الملابس الخارجية",
         "a": "يتمتع دانتيل Liquorosa بمرونة استثنائية، حيث تنسدل الكشكشة بسهولة تحت السترة أو المعطف لتتحول إلى عنصر زخرفي راقٍ يبرز جمال الوجه."
       },
       {
-        "q": "هذه البلوزة مناسبة فقط للمناسبات الرسمية جداً.",
+        "q": "هذه البلوزة مناسبة فقط للمناسبات الرسمية جداً",
         "a": "بفضل لونها الأسود الأنيق وإمكانية تنسيقها مع السراويل الكلاسيكية، يمكن لهذا التصميم أن يصبح لمسة فاخرة في خزانة ملابسك المسائية العملية."
       },
       {
-        "q": "تبدو العناية بهذه القطعة معقدة للغاية.",
+        "q": "تبدو العناية بهذه القطعة معقدة للغاية",
         "a": "التنظيف الجاف الاحترافي سيحافظ على الهيكل الدقيق للدانتيل وبريق لمسات الساتان في حالتها الأصلية لسنوات عديدة."
       }
     ],
     "ka": [
       {
-        "q": "მაქმანებიანი ზედა ზედმეტად გამჭვირვალე და გაბედული ჩანს.",
+        "q": "მაქმანებიანი ზედა ზედმეტად გამჭვირვალე და გაბედული ჩანს",
         "a": "დიზაინერებმა გაითვალისწინეს მკვრივი მქრქალი ატლასის ჩასაშენებელი შალითა, რომელიც სრულად ფარავს თეთრეულს და უზრუნველყოფს თავდაჯერებულობას, ამავდროულად ინარჩუნებს მაქმანის ჰაეროვნებას."
       },
       {
-        "q": "შანტიის მაქმანი ზედმეტად მყიფე ჩანს ხშირი გამოყენებისთვის.",
+        "q": "შანტიის მაქმანი ზედმეტად მყიფე ჩანს ხშირი გამოყენებისთვის",
         "a": "გამოყენებული მაღალტექნოლოგიური პოლიამიდის ფუძის ქსოვილი გამოირჩევა გაზრდილი ცვეთამედეგობითა და ფორმის შენარჩუნების უნარით, დარჩენილი უსაზღვროდ რბილი შეხებისას."
       },
       {
-        "q": "მეშინია, რომ ყელზე ვოლანები შემიშლის ხელს ზედა სამოსის ქვეშ.",
+        "q": "მეშინია, რომ ყელზე ვოლანები შემიშლის ხელს ზედა სამოსის ქვეშ",
         "a": "Liquorosa-ს მაქმანი გამოირჩევა განსაკუთრებული პლასტიკურობით. ვოლანები მარტივად თავსდება პიჯაკის ან პალტოს ქვეშ და იქცევა დახვეწილ დეკორატიულ ელემენტად, რომელიც სახეს ჩარჩოსავით აკრავს."
       },
       {
-        "q": "ასეთი ბლუზა მხოლოდ ძალიან საზეიმო შემთხვევებისთვისაა.",
+        "q": "ასეთი ბლუზა მხოლოდ ძალიან საზეიმო შემთხვევებისთვისაა",
         "a": "თავშეკავებული შავი ფერის წყალობითა და კლასიკურ შარვლებთან შეხამების შესაძლებლობით, ეს მოდელი შეიძლება გახდეს მდიდრული აქცენტი საღამოს საქმიან გარდერობში."
       },
       {
-        "q": "ასეთი ნაკეთობის მოვლა ზედმეტად რთული ჩანს.",
+        "q": "ასეთი ნაკეთობის მოვლა ზედმეტად რთული ჩანს",
         "a": "პროფესიონალური ქიმწმენდა საშუალებას მოგცემთ შეინარჩუნოთ მაქმანის დელიკატური სტრუქტურა და ატლასის დეტალების ბზინვარება პირვანდელი სახით მრავალი წლის განმავლობაში."
       }
     ],
     "hy": [
       {
         "q": "Ժանյակավոր վերնամասը չափազանց թափանցիկ և համարձակ է թվում։",
-        "a": "Դիզայներները նախատեսել են խիտ փայլատ ատլասից պատրաստված ներկառուցված աստառ, որը լիովին ծածկում է ներքնազգեստը և ապահովում վստահություն՝ պահպանելով ժանյակի օդային տեսքը։"
+        "a": "Դիզայներները նախատեսել են խիտ փայլատ ատլասից պատրաստված ներկառուցված աստառ, որը լիովին ծածկում է ներքնազգեստը և ապահովում վստահություն՝ պահպանելով ժանյակի օդային տեսքը։."
       },
       {
         "q": "Շանտիյի ժանյակը չափազանց փխրուն է թվում հաճախակի օգտագործման համար։",
-        "a": "Պոլիամիդի հիմքով օգտագործվող բարձրտեխնոլոգիական կտորն աչքի է ընկնում մաշվածության նկատմամբ բարձր դիմացկունությամբ և ձևը պահպանելու հատկությամբ՝ մնալով անհավանական փափուկ հպմանը։"
+        "a": "Պոլիամիդի հիմքով օգտագործվող բարձրտեխնոլոգիական կտորն աչքի է ընկնում մաշվածության նկատմամբ բարձր դիմացկունությամբ և ձևը պահպանելու հատկությամբ՝ մնալով անհավանական փափուկ հպմանը։."
       },
       {
         "q": "Վախենում եմ, որ պարանոցի վոլանները կխանգարեն վերնազգեստի տակ։",
-        "a": "Liquorosa ժանյակն օժտված է բացառիկ պլաստիկությամբ։ Վոլանները հեշտությամբ տեղավորվում են բաճկոնի կամ վերարկուի տակ՝ վերածվելով դեմքը շրջանակող նրբագեղ դեկորատիվ տարրի։"
+        "a": "Liquorosa ժանյակն օժտված է բացառիկ պլաստիկությամբ։ Վոլանները հեշտությամբ տեղավորվում են բաճկոնի կամ վերարկուի տակ՝ վերածվելով դեմքը շրջանակող նրբագեղ դեկորատիվ տարրի։."
       },
       {
         "q": "Նման բլուզը հարմար է միայն շատ հանդիսավոր առիթների համար։",
-        "a": "Շնորհիվ լակոնիկ սև գույնի և դասական տաբատների հետ համադրելու հնարավորության՝ այս մոդելը կարող է դառնալ երեկոյան գործնական զգեստապահարանի շքեղ շեշտադրում։"
+        "a": "Շնորհիվ լակոնիկ սև գույնի և դասական տաբատների հետ համադրելու հնարավորության՝ այս մոդելը կարող է դառնալ երեկոյան գործնական զգեստապահարանի շքեղ շեշտադրում։."
       },
       {
         "q": "Նման իրի խնամքը չափազանց բարդ է թվում։",
-        "a": "Պրոֆեսիոնալ քիմմաքրումը թույլ կտա երկար տարիներ պահպանել ժանյակի նուրբ կառուցվածքը և ատլասե հարդարանքի փայլը իրենց նախնական տեսքով։"
+        "a": "Պրոֆեսիոնալ քիմմաքրումը թույլ կտա երկար տարիներ պահպանել ժանյակի նուրբ կառուցվածքը և ատլասե հարդարանքի փայլը իրենց նախնական տեսքով։."
       }
     ],
     "lv": [
       {
-        "q": "Mežģīņu augšdaļa šķiet pārāk caurspīdīga un drosmīga.",
+        "q": "Mežģīņu augšdaļa šķiet pārāk caurspīdīga un drosmīga",
         "a": "Dizaineri ir paredzējuši iebūvētu apakškreklu no blīva matēta satīna, kas pilnībā paslēpj veļu un nodrošina pārliecību, vienlaikus saglabājot mežģīņu gaisīgumu."
       },
       {
-        "q": "Šantijī mežģīnes izskatās pārāk trauslas biežai valkāšanai.",
+        "q": "Šantijī mežģīnes izskatās pārāk trauslas biežai valkāšanai",
         "a": "Izmantotais augsto tehnoloģiju audums uz poliamīda bāzes izceļas ar paaugstinātu nodilumizturību un spēju saglabāt formu, paliekot neticami mīkstam pieskārienam."
       },
       {
-        "q": "Baidos, ka volāni uz kakla traucēs zem virsdrēbēm.",
+        "q": "Baidos, ka volāni uz kakla traucēs zem virsdrēbēm",
         "a": "Liquorosa mežģīnēm piemīt izcila plastika. Volāni viegli sakļaujas zem žaketes vai mēteļa, pārvēršoties par izsmalcinātu dekoratīvu elementu, kas ierāmē seju."
       },
       {
-        "q": "Šāda blūze ir piemērota tikai ļoti svinīgiem gadījumiem.",
+        "q": "Šāda blūze ir piemērota tikai ļoti svinīgiem gadījumiem",
         "a": "Pateicoties lakoniskajai melnajai krāsai un iespējai kombinēt ar klasiskām biksēm, šis modelis var kļūt par greznu akcentu vakara lietišķajā garderobē."
       },
       {
-        "q": "Kopšana šādam izstrādājumam šķiet pārāk sarežģīta.",
+        "q": "Kopšana šādam izstrādājumam šķiet pārāk sarežģīta",
         "a": "Profesionāla ķīmiskā tīrīšana ļaus saglabāt delikāto mežģīņu struktūru un satīna apdares mirdzumu to sākotnējā izskatā daudzus gadus."
       }
     ],
     "lt": [
       {
-        "q": "Nėriniuotas viršus atrodo per daug permatomas ir drąsus.",
+        "q": "Nėriniuotas viršus atrodo per daug permatomas ir drąsus",
         "a": "Dizaineriai numatė įsiūtą pamušalą iš tankaus matinio atlaso, kuris visiškai paslepia apatinius ir užtikrina pasitikėjimą savimi, išsaugodamas nėrinių lengvumą."
       },
       {
-        "q": "Šanti pėr nėriniai atrodo per trapūs dažnam dėvėjimui.",
+        "q": "Šanti pėr nėriniai atrodo per trapūs dažnam dėvėjimui",
         "a": "Naudojamas aukštųjų technologijų poliamido pagrindo audinys pasižymi padidintu atsparumu dilimui ir gebėjimu išlaikyti formą, išlikdamas neįtikėtinai minkštas liesti."
       },
       {
-        "q": "Bijau, kad raukiniai ant kaklo trukdys po viršutiniais drabužiais.",
+        "q": "Bijau, kad raukiniai ant kaklo trukdys po viršutiniais drabužiais",
         "a": "Liquorosa nėriniai pasižymi išskirtiniu plastiškumu. Raukiniai lengvai priglunda po švarku ar paltu, tapdami rafinuotu dekoratyviniu elementu, įrėminančiu veidą."
       },
       {
-        "q": "Tokia palaidinė tinka tik labai iškilmingoms progoms.",
+        "q": "Tokia palaidinė tinka tik labai iškilmingoms progoms",
         "a": "Dėl lakoniškos juodos spalvos ir galimybės derinti su klasikinėmis kelnėmis, šis modelis gali tapti prabangiu akcentu vakariniame dalykiniame garderobe."
       },
       {
-        "q": "Priežiūra tokiam gaminiui atrodo per sudėtinga.",
+        "q": "Priežiūra tokiam gaminiui atrodo per sudėtinga",
         "a": "Profesionalus sausas valymas leis išsaugoti subtilią nėrinių struktūrą ir atlasinės apdailos spindesį pirminėje būklėje daugelį metų."
       }
     ],
     "pl": [
       {
-        "q": "Koronkowa góra wydaje się zbyt prześwitująca i odważna.",
+        "q": "Koronkowa góra wydaje się zbyt prześwitująca i odważna",
         "a": "Projektanci przewidzieli wbudowaną podszewkę z gęstego matowego atłasu, która całkowicie ukrywa bieliznę i zapewnia pewność siebie, zachowując jednocześnie lekkość koronki."
       },
       {
-        "q": "Koronka chantilly wygląda na zbyt delikatną do częstego użytkowania.",
+        "q": "Koronka chantilly wygląda na zbyt delikatną do częstego użytkowania",
         "a": "Zastosowane zaawansowane technologicznie płótno na bazie poliamidu wyróżnia się podwyższoną odpornością na ścieranie i zdolnością do zachowania kształtu, pozostając przy tym niezwykle miękkim w dotyku."
       },
       {
-        "q": "Obawiam się, że falbany przy szyi będą przeszkadzać pod odzieżą wierzchnią.",
+        "q": "Obawiam się, że falbany przy szyi będą przeszkadzać pod odzieżą wierzchnią",
         "a": "Koronka Liquorosa posiada wyjątkową plastyczność. Falbany łatwo układają się pod żakietem lub płaszczem, zmieniając się w wyrafinowany element dekoracyjny, który pięknie obramowuje twarz."
       },
       {
-        "q": "Taka bluzka pasuje tylko na bardzo uroczyste okazje.",
+        "q": "Taka bluzka pasuje tylko na bardzo uroczyste okazje",
         "a": "Dzięki lakonicznemu czarnemu kolorowi i możliwości łączenia z klasycznymi spodniami, ten model może stać się luksusowym akcentem w wieczorowej garderobie biznesowej."
       },
       {
-        "q": "Pielęgnacja takiego produktu wydaje się zbyt skomplikowana.",
+        "q": "Pielęgnacja takiego produktu wydaje się zbyt skomplikowana",
         "a": "Profesjonalne czyszczenie chemiczne pozwoli zachować delikatną strukturę koronki i blask atłasowego wykończenia w niezmienionym stanie przez długie lata."
       }
     ],
     "uk": [
       {
-        "q": "Мереживний верх здається занадто прозорим та сміливим.",
+        "q": "Мереживний верх здається занадто прозорим та сміливим",
         "a": "Дизайнери передбачили вбудований чохол зі щільного матового атласу, який повністю приховує білизну та забезпечує впевненість, зберігаючи при цьому легкість мережива."
       },
       {
-        "q": "Мереживо шантільї виглядає занадто крихким для частого використання.",
+        "q": "Мереживо шантільї виглядає занадто крихким для частого використання",
         "a": "Використовуване високотехнологічне полотно на основі поліаміду вирізняється підвищеною зносостійкістю та здатністю зберігати форму, залишаючись при цьому неймовірно м'яким на дотик."
       },
       {
-        "q": "Боюся, що волани на шиї заважатимуть під верхнім одягом.",
+        "q": "Боюся, що волани на шиї заважатимуть під верхнім одягом",
         "a": "Мереживо Liquorosa має виняткову пластичність. Волани легко лягають під жакет чи пальто, перетворюючись на вишуканий декоративний елемент, що обрамляє обличчя."
       },
       {
-        "q": "Така блуза підходить лише для дуже урочистих випадків.",
+        "q": "Така блуза підходить лише для дуже урочистих випадків",
         "a": "Завдяки лаконічному чорному кольору та можливості поєднання з класичними брюками, ця модель може стати розкішним акцентом у вечірньому діловому гардеробі."
       },
       {
-        "q": "Догляд за таким виробом здається занадто складним.",
+        "q": "Догляд за таким виробом здається занадто складним",
         "a": "Професійне сухе чищення дозволить зберегти делікатну структуру мережива та сяйво атласної оздоби у первісному вигляді на довгі роки."
       }
     ]

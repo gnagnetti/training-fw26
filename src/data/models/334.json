@@ -160,199 +160,207 @@
   "objections": {
     "en": [
       {
-        "q": "I'm afraid the leather jacket will be too heavy.",
+        "q": "I'm afraid the leather jacket will be too heavy",
         "a": "Clarify that Luisa Spagnoli uses a specially tanned leather that, despite its density, remains remarkably light and supple, ensuring comfort throughout the day."
       },
       {
-        "q": "This style looks too sporty.",
-        "a": "Showcase the finishing details: the leather buttons and delicate seams elevate Spartiti from sportswear into »˜luxury casual ' territory, suitable even for the office."
+        "q": "This style looks too sporty",
+        "a": "Showcase the finishing details: the leather buttons and delicate seams elevate Spartiti from sportswear into »˜luxury casual »™ territory, suitable even for the office."
       },
       {
-        "q": "The gathered hem may visually add bulk to the hips.",
+        "q": "The gathered hem may visually add bulk to the hips",
         "a": "On the contrary, this cut combined with the raglan sleeves creates a modern hourglass silhouette, harmonizing the proportions and accentuating the waist."
       },
       {
-        "q": "Black leather feels too aggressive.",
-        "a": "Suggest pairing it with the soft pastel tones of the Linosa blouses. The contrast between leather and silk softens the look, lending it refinement."
+        "q": "Black leather feels too aggressive",
+        "a": "Suggest pairing it with the soft pastel tones of the Linosa blouses (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/270961893691c578a46e800_57164892_02780190XX1.jpg The contrast between leather and silk softens the look, lending it refinement."
       },
       {
-        "q": "Leather requires complex professional care.",
+        "q": "Leather requires complex professional care",
         "a": "This particular leather is prized for its high durability and resistance to external elements. Stored properly on a hanger, the piece will retain its pristine look for many seasons."
       }
     ],
     "ru": [
       {
-        "q": "Я боюсь, что кожаная куртка будет слишком тяжелой.",
-        "a": "Уточните, что Luisa Spagnoli использует кожу специальной выделки, которая при всей своей плотности остается удивительно легкой и пластичной, обеспечивая комфорт в течение всего дня."
+        "q": "Боюсь, кожаная куртка будет слишком тяжелой",
+        "a": "Позвольте заметить, что Luisa Spagnoli использует кожу особой выделки: несмотря на свою плотность, она остается удивительно легкой и пластичной, обеспечивая безупречный комфорт в течение всего дня."
       },
       {
-        "q": "Этот фасон выглядит слишком спортивно.",
-        "a": "Продемонстрируйте детали отделки: кожаные пуговицы и деликатные швы переводят Spartiti из разряда спортивной одежды в категорию 'luxury casual', подходящую даже для офиса."
+        "q": "Этот фасон кажется слишком спортивным",
+        "a": "Обратите внимание на детали отделки: кожаные пуговицы и деликатные швы переводят модель Spartiti из категории спортивной одежды в сегмент."
       },
       {
-        "q": "Присобранный низ может визуально утяжелять бедра.",
-        "a": "Напротив, такой крой в сочетании с рукавами реглан создает современный силуэт 'песочные часы', гармонизируя пропорции и подчеркивая талию."
+        "q": "luxury casual",
+        "a": ", уместный даже в деловой среде."
       },
       {
-        "q": "Черная кожа кажется слишком агрессивной.",
-        "a": "Предложите сочетание с нежными пастельными оттенками блуз Linosa. Контраст кожи и шелка смягчает образ, делая его утонченным."
+        "q": "Сборка по низу может визуально добавить объема бедрам",
+        "a": "Напротив, такой крой в сочетании с рукавами реглан создает современный силуэт."
       },
       {
-        "q": "Кожа требует сложного профессионального ухода.",
-        "a": "Данный тип кожи отличается высокой износостойкостью и устойчивостью к внешним воздействиям. При правильном хранении на плечиках изделие сохранит свой первозданный вид на многие сезоны."
+        "q": "песочные часы",
+        "a": ", гармонизируя пропорции и акцентируя внимание на талии."
+      },
+      {
+        "q": "Черная кожа кажется слишком агрессивной",
+        "a": "Рекомендую сочетать ее с мягкими пастельными тонами блуз Linosa. Контраст кожи и шелка смягчает образ, придавая ему утонченность."
+      },
+      {
+        "q": "Кожа требует сложного профессионального ухода",
+        "a": "Данная кожа ценится за свою исключительную износостойкость и устойчивость к внешним воздействиям. При правильном хранении на плечиках изделие сохранит свой первозданный вид на многие сезоны."
       }
     ],
     "ar": [
       {
-        "q": "أخشى أن تكون السترة الجلدية ثقيلة جداً.",
+        "q": "أخشى أن تكون السترة الجلدية ثقيلة جداً",
         "a": "وضحي أن Luisa Spagnoli تستخدم جلداً بمعالجة خاصة، يظل خفيفاً ومرناً بشكل مذهل رغم سماكته، مما يوفر الراحة طوال اليوم."
       },
       {
-        "q": "هذا التصميم يبدو رياضياً أكثر من اللازم.",
+        "q": "هذا التصميم يبدو رياضياً أكثر من اللازم",
         "a": "استعرضي تفاصيل التشطيب: الأزرار الجلدية والغرز الدقيقة تنقل Spartiti من فئة الملابس الرياضية إلى فئة 'الفخامة اليومية' (luxury casual)، المناسبة حتى للمكتب."
       },
       {
-        "q": "الجزء السفلي المزموم قد يجعل الأرداف تبدو أعرض بصرياً.",
+        "q": "الجزء السفلي المزموم قد يجعل الأرداف تبدو أعرض بصرياً",
         "a": "على العكس، هذا التصميم مع أكمام 'الراجلان' يخلق صورة ظلية عصرية تشبه 'الساعة الرملية'، مما يوازن النسب ويبرز الخصر."
       },
       {
-        "q": "الجلد الأسود يبدو عدوانياً جداً.",
-        "a": "اقترحي تنسيقه مع درجات الباستيل الرقيقة لبلوزات Linosa. التباين بين الجلد والحرير يلطف المظهر ويجعله في غاية الأناقة."
+        "q": "الجلد الأسود يبدو عدوانياً جداً",
+        "a": "اقترحي تنسيقه مع درجات الباستيل الرقيقة لبلوزات Linosa (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/270961893691c578a46e800_57164892_02780190XX1.jpg التباين بين الجلد والحرير يلطف المظهر ويجعله في غاية الأناقة."
       },
       {
-        "q": "الجلد يتطلب عناية مهنية معقدة.",
+        "q": "الجلد يتطلب عناية مهنية معقدة",
         "a": "يتميز هذا النوع من الجلد بمقاومة عالية للتآكل والعوامل الخارجية. مع التخزين الصحيح على علاقة الملابس، سيحتفظ المنتج بمظهره الأصلي لعدة مواسم."
       }
     ],
     "ka": [
       {
-        "q": "მეშინია, რომ ტყავის ქურთუკი ძალიან მძიმე იქნება.",
+        "q": "მეშინია, რომ ტყავის ქურთუკი ძალიან მძიმე იქნება",
         "a": "დააკონკრეტეთ, რომ Luisa Spagnoli იყენებს სპეციალურად დამუშავებულ ტყავს, რომელიც თავისი სიმკვრივის მიუხედავად რჩება საოცრად მსუბუქი და პლასტიკური, რაც უზრუნველყოფს კომფორტს მთელი დღის განმავლობაში."
       },
       {
-        "q": "ეს ფასონი ზედმეტად სპორტულად გამოიყურება.",
+        "q": "ეს ფასონი ზედმეტად სპორტულად გამოიყურება",
         "a": "წარმოაჩინეთ დასრულების დეტალები: ტყავის ღილები და ნაზი ნაკერები Spartiti-ს სპორტული ტანსაცმლის კატეგორიიდან გადაჰყავს 'luxury casual'-ის კატეგორიაში, რომელიც ოფისისთვისაც კი შესაფერისია."
       },
       {
-        "q": "შეკრული ქვედა ნაწილი შესაძლოა ვიზუალურად ამძიმებდეს თეძოებს.",
+        "q": "შეკრული ქვედა ნაწილი შესაძლოა ვიზუალურად ამძიმებდეს თეძოებს",
         "a": "პირიქით, ასეთი კრაკი რეგლანის სახელოებთან ერთად ქმნის თანამედროვე 'ქვიშის საათის' სილუეტს, აჰარმონიებს პროპორციებს და ხაზს უსვამს წელს."
       },
       {
-        "q": "შავი ტყავი ზედმეტად აგრესიულად გამოიყურება.",
-        "a": "შესთავაზეთ შეხამება Linosa-ს ბლუზების ნაზ პასტელურ ტონებთან. ტყავისა და აბრეშუმის კონტრასტი არბილებს იერს და ხდის მას დახვეწილს."
+        "q": "შავი ტყავი ზედმეტად აგრესიულად გამოიყურება",
+        "a": "შესთავაზეთ შეხამება Linosa-ს ბლუზების ნაზ პასტელურ ტონებთან (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/270961893691c578a46e800_57164892_02780190XX1.jpg ტყავისა და აბრეშუმის კონტრასტი არბილებს იერს და ხდის მას დახვეწილს."
       },
       {
-        "q": "ტყავი მოითხოვს რთულ პროფესიონალურ მოვლას.",
+        "q": "ტყავი მოითხოვს რთულ პროფესიონალურ მოვლას",
         "a": "ტყავის ეს ტიპი გამოირჩევა მაღალი ცვეთამედეგობით და გარე ზემოქმედების მიმართ მდგრადობით. საკიდზე სწორი შენახვის შემთხვევაში, ნაკეთობა მრავალი სეზონის განმავლობაში შეინარჩუნებს პირვანდელ იერს."
       }
     ],
     "hy": [
       {
         "q": "Ես վախենում եմ, որ կաշվե բաճկոնը շատ ծանր կլինի։",
-        "a": "Պարզաբանեք, որ Luisa Spagnoli-ն օգտագործում է հատուկ մշակված կաշի, որն իր ամբողջ խտության մեջ մնում է զարմանալիորեն թեթև և պլաստիկ՝ ապահովելով հարմարավետություն ամբողջ օրվա ընթացքում։"
+        "a": "Պարզաբանեք, որ Luisa Spagnoli-ն օգտագործում է հատուկ մշակված կաշի, որն իր ամբողջ խտության մեջ մնում է զարմանալիորեն թեթև և պլաստիկ՝ ապահովելով հարմարավետություն ամբողջ օրվա ընթացքում։."
       },
       {
         "q": "Այս ֆասոնը չափազանց սպորտային է երևում։",
-        "a": "Ցույց տվեք հարդարման մանրուքները. կաշվե կոճակները և նուրբ կարերը Spartiti-ն սպորտային հագուստի դասից տեղափոխում են 'luxury casual' կատեգորիա, որը հարմար է նույնիսկ գրասենյակի համար։"
+        "a": "Ցույց տվեք հարդարման մանրուքները. կաշվե կոճակները և նուրբ կարերը Spartiti-ն սպորտային հագուստի դասից տեղափոխում են 'luxury casual' կատեգորիա, որը հարմար է նույնիսկ գրասենյակի համար։."
       },
       {
         "q": "Հավաքված ներքևի մասը կարող է տեսողականորեն ծանրացնել կոնքերը։",
-        "a": "Ընդհակառակը, նման կտրվածքը ռեգլան թևքերի հետ համատեղ ստեղծում է 'ավազե ժամացույցի' ժամանակակից ուրվագիծ՝ ներդաշնակեցնելով համամասնությունները և ընդգծելով գոտկատեղը։"
+        "a": "Ընդհակառակը, նման կտրվածքը ռեգլան թևքերի հետ համատեղ ստեղծում է 'ավազե ժամացույցի' ժամանակակից ուրվագիծ՝ ներդաշնակեցնելով համամասնությունները և ընդգծելով գոտկատեղը։."
       },
       {
         "q": "Սև կաշին չափազանց ագրեսիվ է թվում։",
-        "a": "Առաջարկեք համադրություն Linosa բլուզների նուրբ պաստելային երանգների հետ: Կաշվի և մետաքսի հակադրությունը մեղմացնում է կերպարը՝ դարձնելով այն նրբագեղ։"
+        "a": "Առաջարկեք համադրություն Linosa բլուզների նուրբ պաստելային երանգների հետ (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/270961893691c578a46e800_57164892_02780190XX1.jpg Կաշվի և մետաքսի հակադրությունը մեղմացնում է կերպարը՝ դարձնելով այն նրբագեղ։."
       },
       {
         "q": "Կաշին պահանջում է բարդ մասնագիտական խնամք։",
-        "a": "Կաշվի այս տեսակը տարբերվում է բարձր մաշվածադիմացկունությամբ և արտաքին ազդեցությունների նկատմամբ կայունությամբ։ Կախիչների վրա ճիշտ պահպանման դեպքում արտադրանքը կպահպանի իր սկզբնական տեսքը շատ սեզոններ շարունակ"
+        "a": "Կաշվի այս տեսակը տարբերվում է բարձր մաշվածադիմացկունությամբ և արտաքին ազդեցությունների նկատմամբ կայունությամբ։ Կախիչների վրա ճիշտ պահպանման դեպքում արտադրանքը կպահպանի իր սկզբնական տեսքը շատ սեզոններ շարունակ."
       }
     ],
     "lv": [
       {
-        "q": "Baidos, ka ādas jaka būs pārāk smaga.",
+        "q": "Baidos, ka ādas jaka būs pārāk smaga",
         "a": "Precizējiet, ka Luisa Spagnoli izmanto īpaši apstrādātu ādu, kas, neskatoties uz savu blīvumu, paliek pārsteidzoši viegla un plastiska, nodrošinot komfortu visas dienas garumā."
       },
       {
-        "q": "Šis fasons izskatās pārāk sportisks.",
+        "q": "Šis fasons izskatās pārāk sportisks",
         "a": "Demonstrējiet apdares detaļas: ādas pogas un smalkās vīles pārceļ Spartiti no sporta apģērba kategorijas uz 'luxury casual', kas piemērota pat birojam."
       },
       {
-        "q": "Savilkta apakšdaļa var vizuāli padarīt gurnus smagnējākus.",
+        "q": "Savilkta apakšdaļa var vizuāli padarīt gurnus smagnējākus",
         "a": "Gluži pretēji, šāds piegriezums apvienojumā ar reglāna piedurknēm rada mūsdienīgu 'smilšu pulksteņa' siluetu, harmonizējot proporcijas un izceļot vidukli."
       },
       {
-        "q": "Melnā āda šķiet pārāk agresīva.",
-        "a": "Piedāvājiet kombināciju ar smalkiem Linosa blūžu pasteļtoņiem. Ādas un zīda kontrasts mīkstina tēlu, padarot to izsmalcinātu."
+        "q": "Melnā āda šķiet pārāk agresīva",
+        "a": "Piedāvājiet kombināciju ar smalkiem Linosa blūžu pasteļtoņiem (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/270961893691c578a46e800_57164892_02780190XX1.jpg Ādas un zīda kontrasts mīkstina tēlu, padarot to izsmalcinātu."
       },
       {
-        "q": "Āda prasa sarežģītu profesionālu kopšanu.",
+        "q": "Āda prasa sarežģītu profesionālu kopšanu",
         "a": "Šis ādas tips izceļas ar augstu nodilumizturību un noturību pret ārējām iedarbībām. Pareizi uzglabājot uz pakaramajiem, izstrādājums saglabās savu pirmreizējo izskatu daudzām sezonām."
       }
     ],
     "lt": [
       {
-        "q": "Я боюсь, что кожаная куртка будет слишком тяжелой.",
+        "q": "Я боюсь, что кожаная куртка будет слишком тяжелой",
         "a": "Уточните, что Luisa Spagnoli использует кожу специальной выделки, которая при всей своей плотности остается удивительно легкой и пластичной, обеспечивая комфорт в течение всего дня."
       },
       {
-        "q": "Этот фасон выглядит слишком спортивно.",
+        "q": "Этот фасон выглядит слишком спортивно",
         "a": "Продемонстрируйте детали отделки: кожаные пуговицы и деликатные швы переводят Spartiti из разряда спортивной одежды в категорию 'luxury casual', подходящую даже для офиса."
       },
       {
-        "q": "Присобранный низ может визуально утяжелять бедра.",
+        "q": "Присобранный низ может визуально утяжелять бедра",
         "a": "Напротив, такой крой в сочетании с рукавами реглан создает современный силуэт 'песочные часы', гармонизируя пропорции и подчеркивая талию."
       },
       {
-        "q": "Черная кожа кажется слишком агрессивной.",
-        "a": "Предложите сочетание с нежными пастельными оттенками блуз Linosa. Контраст кожи и шелка смягчает образ, делая его утонченным."
+        "q": "Черная кожа кажется слишком агрессивной",
+        "a": "Предложите сочетание с нежными пастельными оттенками блуз Linosa (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/270961893691c578a46e800_57164892_02780190XX1.jpg Контраст кожи и шелка смягчает образ, делая его утонченным."
       },
       {
-        "q": "Кожа требует сложного профессионального ухода.",
+        "q": "Кожа требует сложного профессионального ухода",
         "a": "Данный тип кожи отличается высокой износостойкостью и устойчивостью к внешним воздействиям. При правильном хранении на плечиках изделие сохранит свой первозданный вид на многие сезоны."
       }
     ],
     "pl": [
       {
-        "q": "Obawiam się, że skórzana kurtka będzie zbyt ciężka.",
+        "q": "Obawiam się, że skórzana kurtka będzie zbyt ciężka",
         "a": "Wyjaśnij, że Luisa Spagnoli używa skóry o specjalnej wyprawie, która mimo swojej gęstości pozostaje niezwykle lekka i plastyczna, zapewniając komfort przez cały dzień."
       },
       {
-        "q": "Ten fason wygląda zbyt sportowo.",
+        "q": "Ten fason wygląda zbyt sportowo",
         "a": "Zaprezentuj detale wykończenia: skórzane guziki i delikatne szwy przenoszą Spartiti z kategorii odzieży sportowej do kategorii 'luxury casual', odpowiedniej nawet do biura."
       },
       {
-        "q": "Marszczony dół może optycznie obciążać biodra.",
+        "q": "Marszczony dół może optycznie obciążać biodra",
         "a": "Wręcz przeciwnie, taki krój w połączeniu z rękawami typu reglan tworzy nowoczesną sylwetkę 'klepsydry', harmonizując proporcje i podkreślając talię."
       },
       {
-        "q": "Czarna skóra wydaje się zbyt agresywna.",
-        "a": "Zaproponuj zestawienie z delikatnymi pastelowymi odcieniami bluzek Linosa. Kontrast skóry i jedwabiu łagodzi wizerunek, czyniąc go wyrafinowanym."
+        "q": "Czarna skóra wydaje się zbyt agresywna",
+        "a": "Zaproponuj zestawienie z delikatnymi pastelowymi odcieniami bluzek Linosa (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/270961893691c578a46e800_57164892_02780190XX1.jpg Kontrast skóry i jedwabiu łagodzi wizerunek, czyniąc go wyrafinowanym."
       },
       {
-        "q": "Skóra wymaga skomplikowanej profesjonalnej pielęgnacji.",
+        "q": "Skóra wymaga skomplikowanej profesjonalnej pielęgnacji",
         "a": "Ten rodzaj skóry charakteryzuje się wysoką odpornością na ścieranie i niekorzystne czynniki zewnętrzne. Przy odpowiednim przechowywaniu na wieszaku produkt zachowa swój pierwotny wygląd przez wiele sezonów."
       }
     ],
     "uk": [
       {
-        "q": "Я боюся, що шкіряна куртка буде занадто важкою.",
+        "q": "Я боюся, що шкіряна куртка буде занадто важкою",
         "a": "Уточніть, що Luisa Spagnoli використовує шкіру спеціальної вичинки, яка при всій своїй щільності залишається дивовижно легкою і пластичною, забезпечуючи комфорт протягом усього дня."
       },
       {
-        "q": "Цей фасон виглядає занадто спортивно.",
+        "q": "Цей фасон виглядає занадто спортивно",
         "a": "Продемонструйте деталі оздоблення: шкіряні ґудзики і делікатні шви переводять Spartiti з розряду спортивного одягу в категорію 'luxury casual', що підходить навіть для офісу."
       },
       {
-        "q": "Призібраний низ може візуально обтяжувати стегна.",
+        "q": "Призібраний низ може візуально обтяжувати стегна",
         "a": "Навпаки, такий крій у поєднанні з рукавами реглан створює сучасний силует 'пісочний годинник', гармонізуючи пропорції та підкреслюючи талію."
       },
       {
-        "q": "Чорна шкіра здається занадто агресивною.",
-        "a": "Запропонуйте поєднання з ніжними пастельними відтінками блуз Linosa. Контраст шкіри і шовку пом'якшує образ, роблячи його витонченим."
+        "q": "Чорна шкіра здається занадто агресивною",
+        "a": "Запропонуйте поєднання з ніжними пастельними відтінками блуз Linosa (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/270961893691c578a46e800_57164892_02780190XX1.jpg Контраст шкіри і шовку пом'якшує образ, роблячи його витонченим."
       },
       {
-        "q": "Шкіра вимагає складного професійного догляду.",
+        "q": "Шкіра вимагає складного професійного догляду",
         "a": "Даний тип шкіри вирізняється високою зносостійкістю і стійкістю до зовнішніх впливів. При правильному зберіганні на плечиках виріб збереже свій первозданний вигляд на багато сезонів."
       }
     ]

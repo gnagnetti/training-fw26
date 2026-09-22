@@ -410,86 +410,62 @@
   "objections": {
     "en": [
       {
-        "q": "Corduroy may look too casual.",
+        "q": "Corduroy may look too casual",
         "a": "Draw attention to the gold-tone LS hardware and the fabric's deep texture, which, depending on the light, evokes velvet. This makes the Olap trousers suitable even for evening occasions."
       },
       {
-        "q": "A flared cut is difficult to pair with footwear.",
+        "q": "A flared cut is difficult to pair with footwear",
         "a": "Recommend wearing this style with heeled or platform shoes (such as the Urbana ankle boots), to make the most of the cut's potential for elongating the silhouette."
       },
       {
-        "q": "Light shades, such as Meringa, are impractical for winter.",
+        "q": "Light shades, such as Meringa, are impractical for winter",
         "a": "Emphasise that a light winter palette is a marker of high status. Luisa Spagnoli's corduroy has a high density and durability, and cleans easily with professional care."
       },
       {
-        "q": "The trousers may stretch out with wear.",
+        "q": "The trousers may stretch out with wear",
         "a": "Point out the fabric composition: 3% elastane has been added specifically to help the piece retain its shape and the crisp lines of its flared silhouette throughout the day."
       },
       {
-        "q": "Corduroy may visually add volume to the hips.",
-        "a": "Clarify that the vertical ribbing of the corduroy, on the contrary, acts as an optical device, elongating the lines and slimming the figure, unlike smooth fabrics. |"
+        "q": "Corduroy may visually add volume to the hips",
+        "a": "Clarify that the vertical ribbing of the corduroy, on the contrary, acts as an optical device, elongating the lines and slimming the figure, unlike smooth fabrics. | [Corduroy may look too casual for evening occasions.] -> Point out the gold-tone hardware with the LS monogram and the fabric's deep texture, which takes on a refined sheen under artificial lighting, making the style suitable for social occasions."
       },
       {
-        "q": "Corduroy may look too casual for evening occasions.",
-        "a": "Point out the gold-tone hardware with the LS monogram and the fabric's deep texture, which takes on a refined sheen under artificial lighting, making the style suitable for social occasions."
-      },
-      {
-        "q": "The trousers may quickly lose their shape due to the fabric composition.",
+        "q": "The trousers may quickly lose their shape due to the fabric composition",
         "a": "Clarify that the addition of elastane (3%) is specifically calculated to preserve crisp lines and prevent deformation at the knees, even with extended wear."
       },
       {
-        "q": "Light shades, such as Meringa, are impractical for the winter season.",
+        "q": "Light shades, such as Meringa, are impractical for the winter season",
         "a": "Emphasise that a light palette is a marker of high status. Luisa Spagnoli corduroy has a high density and durability, and cleans easily with professional care."
       },
       {
-        "q": "A flared cut is difficult to pair with outerwear.",
+        "q": "A flared cut is difficult to pair with outerwear",
         "a": "Demonstrate ready-made looks from the lookbook: the Olap trousers pair beautifully with cropped jackets or maxi coats, creating a balanced, contemporary silhouette."
       },
       {
-        "q": "Ribbed corduroy may visually add volume around the hips.",
+        "q": "Ribbed corduroy may visually add volume around the hips",
         "a": "Explain that the vertical orientation of the ribbing, on the contrary, acts as an optical device, elongating the lines and slimming the figure."
       }
     ],
     "ru": [
       {
         "q": "Вельвет может выглядеть слишком повседневно",
-        "a": "Обратите внимание на золотистую фурнитуру LS и глубокую фактуру ткани, которая при разном освещении напоминает бархат. Это делает брюки Olap подходящими даже для вечерних выходов."
+        "a": "Золотистая фурнитура LS и глубокая текстура ткани, которая при разном освещении напоминает бархат, делают брюки Olap уместными даже для вечерних выходов."
       },
       {
         "q": "Расклешенный крой сложно сочетать с обувью",
-        "a": "Рекомендуйте носить эту модель с обувью на каблуке или платформе (например, ботильонами Urbana), чтобы максимально использовать потенциал кроя для удлинения силуэта."
+        "a": "Рекомендуем носить эту модель с обувью на каблуке или платформе (например, ботильоны Urbana), чтобы максимально раскрыть потенциал кроя, удлиняющего силуэт."
       },
       {
-        "q": "Светлые оттенки, такие как Meringa, непрактичны для зимы",
-        "a": "Подчеркните, что светлая зимняя палитра — это признак высокого статуса. Вельвет от Luisa Spagnoli обладает высокой плотностью и износостойкостью, легко поддается профессиональной чистке."
+        "q": "Светлые оттенки, такие как Meringa, непрактичны зимой",
+        "a": "Светлая палитра — признак высокого статуса. Вельвет Luisa Spagnoli обладает высокой плотностью и износостойкостью, а также легко очищается при профессиональном уходе."
       },
       {
-        "q": "Брюки могут растянуться в процессе носки",
-        "a": "Укажите на состав ткани: 3% эластана добавлены именно для того, чтобы изделие сохраняло свою форму и четкость линий flared-силуэта на протяжении всего дня."
+        "q": "Брюки могут растягиваться в процессе носки",
+        "a": "В состав ткани добавлено 3% эластана, что помогает изделию сохранять форму и четкость линий расклешенного силуэта в течение всего дня."
       },
       {
         "q": "Вельвет может визуально добавлять объем бедрам",
-        "a": "Поясните, что вертикальный рубчик вельвета, напротив, работает как оптический фильтр, вытягивая линии и стройня фигуру, в отличие от гладких тканей. |"
-      },
-      {
-        "q": "Вельвет может выглядеть слишком повседневно для вечерних выходов",
-        "a": "Укажите на золотистую фурнитуру с монограммой LS и глубокую фактуру ткани, которая при искусственном освещении приобретает благородный блеск, делая модель подходящей для светских мероприятий."
-      },
-      {
-        "q": "Брюки могут быстро потерять форму из-за состава ткани",
-        "a": "Поясните, что добавление эластана (3%) специально рассчитано на сохранение четкости линий и предотвращение деформации коленей даже при длительной носке."
-      },
-      {
-        "q": "Светлые оттенки, такие как Meringa, непрактичны для зимнего сезона",
-        "a": "Подчеркните, что светлая палитра — это маркер высокого статуса. Вельвет Luisa Spagnoli обладает высокой плотностью и износостойкостью, легко поддаваясь профессиональной чистке."
-      },
-      {
-        "q": "Расклешенный крой сложно сочетать с верхней одеждой",
-        "a": "Продемонстрируйте готовые решения из лукбука: брюки Olap идеально гармонируют с укороченными жакетами или пальто-макси, создавая сбалансированный и современный силуэт."
-      },
-      {
-        "q": "Вельвет в рубчик может визуально добавлять объем в области бедер",
-        "a": "Объясните, что вертикальная направленность рубчика, напротив, работает как оптический фильтр, вытягивая линии и стройня фигуру."
+        "a": "Вертикальный рубчик вельвета, напротив, работает как оптический прием, вытягивая линии и делая фигуру более утонченной, в отличие от гладких тканей."
       }
     ],
     "ar": [
@@ -553,11 +529,7 @@
       },
       {
         "q": "ხავერდმა შეიძლება ვიზუალურად შესძინოს მოცულობა თეძოებს",
-        "a": "განუმარტეთ, რომ ხავერდის ვერტიკალური ზოლები, პირიქით, მუშაობს როგორც ოპტიკური ფილტრი, ჭიმავს ხაზებს და აწვრილებს ფიგურას, გლუვი ქსოვილებისგან განსხვავებით. |"
-      },
-      {
-        "q": "ხავერდი შეიძლება ზედმეტად ყოველდღიურად გამოიყურებოდეს საღამოს გამოსვლებისთვის",
-        "a": "მიუთითეთ LS-ის მონოგრამიან ოქროსფერ ფურნიტურაზე და ქსოვილის ღრმა ფაქტურაზე, რომელიც ხელოვნური განათებისას კეთილშობილურ ბზინვარებას იძენს და მოდელს შესაფერისს ხდის საერო ღონისძიებებისთვის."
+        "a": "განუმარტეთ, რომ ხავერდის ვერტიკალური ზოლები, პირიქით, მუშაობს როგორც ოპტიკური ფილტრი, ჭიმავს ხაზებს და აწვრილებს ფიგურას, გლუვი ქსოვილებისგან განსხვავებით. | [ხავერდი შეიძლება ზედმეტად ყოველდღიურად გამოიყურებოდეს საღამოს გამოსვლებისთვის] -> მიუთითეთ LS-ის მონოგრამიან ოქროსფერ ფურნიტურაზე და ქსოვილის ღრმა ფაქტურაზე, რომელიც ხელოვნური განათებისას კეთილშობილურ ბზინვარებას იძენს და მოდელს შესაფერისს ხდის საერო ღონისძიებებისთვის."
       },
       {
         "q": "შარვალმა შეიძლება სწრაფად დაკარგოს ფორმა ქსოვილის შემადგენლობის გამო",
@@ -579,43 +551,39 @@
     "hy": [
       {
         "q": "Թավիշը կարող է չափազանց առօրյա թվալ",
-        "a": "Ուշադրություն դարձրեք LS ոսկեգույն աքսեսուարներին և գործվածքի խորը հյուսվածքին, որը տարբեր լուսավորության պայմաններում հիշեցնում է թավիշ։ Սա Olap տաբատը դարձնում է հարմար նույնիսկ երեկոյան ելքերի համար։"
+        "a": "Ուշադրություն դարձրեք LS ոսկեգույն աքսեսուարներին և գործվածքի խորը հյուսվածքին, որը տարբեր լուսավորության պայմաններում հիշեցնում է թավիշ։ Սա Olap տաբատը դարձնում է հարմար նույնիսկ երեկոյան ելքերի համար։."
       },
       {
         "q": "Փողքավոր կտրվածքը դժվար է համադրել կոշիկի հետ",
-        "a": "Խորհուրդ տվեք կրել այս մոդելը կրունկով կամ հարթակով կոշիկներով (օրինակ՝ Urbana կիսաճտքավոր կոշիկներով), որպեսզի առավելագույնս օգտագործեք սիլուետը երկարացնելու կտրվածքի ներուժը։"
+        "a": "Խորհուրդ տվեք կրել այս մոդելը կրունկով կամ հարթակով կոշիկներով (օրինակ՝ Urbana կիսաճտքավոր կոշիկներով), որպեսզի առավելագույնս օգտագործեք սիլուետը երկարացնելու կտրվածքի ներուժը։."
       },
       {
         "q": "Բաց երանգները, ինչպիսիք են Meringa-ն, անգործնական են ձմռան համար",
-        "a": "Ընդգծեք, որ բաց ձմեռային գունապնակը բարձր կարգավիճակի նշան է։ Luisa Spagnoli-ի թավիշը ունի բարձր խտություն և մաշվածակայունություն, հեշտությամբ ենթարկվում է պրոֆեսիոնալ մաքրման։"
+        "a": "Ընդգծեք, որ բաց ձմեռային գունապնակը բարձր կարգավիճակի նշան է։ Luisa Spagnoli-ի թավիշը ունի բարձր խտություն և մաշվածակայունություն, հեշտությամբ ենթարկվում է պրոֆեսիոնալ մաքրման։."
       },
       {
         "q": "Տաբատը կարող է ձգվել կրելու ընթացքում",
-        "a": "Մատնանշեք գործվածքի կազմը. 3% էլաստանն ավելացված է հենց նրա համար, որ արտադրանքը պահպանի իր ձևը և flared-սիլուետի գծերի հստակությունը ամբողջ օրվա ընթացքում։"
+        "a": "Մատնանշեք գործվածքի կազմը. 3% էլաստանն ավելացված է հենց նրա համար, որ արտադրանքը պահպանի իր ձևը և flared-սիլուետի գծերի հստակությունը ամբողջ օրվա ընթացքում։."
       },
       {
         "q": "Թավիշը կարող է վիզուալ ավելացնել ծավալ ազդրերին",
-        "a": "Բացատրեք, որ թավշի ուղղահայաց գծերը, ընդհակառակը, աշխատում են որպես օպտիկական ֆիլտր՝ երկարացնելով գծերը և նիհարեցնելով կազմվածքը, ի տարբերություն հարթ գործվածքների։ |"
-      },
-      {
-        "q": "Թավիշը կարող է չափազանց առօրյա թվալ երեկոյան ելքերի համար",
-        "a": "Մատնանշեք LS մոնոգրամով ոսկեգույն ֆուրնիտուրան և գործվածքի խորը հյուսվածքը, որը արհեստական լուսավորության ներքո ձեռք է բերում ազնվական փայլ՝ մոդելը դարձնելով հարմար հասարակական միջոցառումների համար։"
+        "a": "Բացատրեք, որ թավշի ուղղահայաց գծերը, ընդհակառակը, աշխատում են որպես օպտիկական ֆիլտր՝ երկարացնելով գծերը և նիհարեցնելով կազմվածքը, ի տարբերություն հարթ գործվածքների։ | [Թավիշը կարող է չափազանց առօրյա թվալ երեկոյան ելքերի համար] -> Մատնանշեք LS մոնոգրամով ոսկեգույն ֆուրնիտուրան և գործվածքի խորը հյուսվածքը, որը արհեստական լուսավորության ներքո ձեռք է բերում ազնվական փայլ՝ մոդելը դարձնելով հարմար հասարակական միջոցառումների համար։."
       },
       {
         "q": "Տաբատը կարող է արագ կորցնել ձևը գործվածքի կազմի պատճառով",
-        "a": "Պարզաբանեք, որ էլաստանի ավելացումը (3%) հատուկ հաշվարկված է գծերի հստակությունը պահպանելու և ծնկների դեֆորմացումը կանխելու համար նույնիսկ երկարատև կրելու դեպքում։"
+        "a": "Պարզաբանեք, որ էլաստանի ավելացումը (3%) հատուկ հաշվարկված է գծերի հստակությունը պահպանելու և ծնկների դեֆորմացումը կանխելու համար նույնիսկ երկարատև կրելու դեպքում։."
       },
       {
         "q": "Բաց երանգները, ինչպիսիք են Meringa-ն, անգործնական են ձմեռային սեզոնի համար",
-        "a": "Ընդգծեք, որ բաց գունապնակը բարձր կարգավիճակի նշան է։ Luisa Spagnoli-ի թավիշը ունի բարձր խտություն և մաշվածակայունություն, հեշտությամբ ենթարկվելով պրոֆեսիոնալ մաքրման։"
+        "a": "Ընդգծեք, որ բաց գունապնակը բարձր կարգավիճակի նշան է։ Luisa Spagnoli-ի թավիշը ունի բարձր խտություն և մաշվածակայունություն, հեշտությամբ ենթարկվելով պրոֆեսիոնալ մաքրման։."
       },
       {
         "q": "Փողքավոր կտրվածքը դժվար է համադրել վերնահագուստի հետ",
-        "a": "Ցույց տվեք պատրաստի լուծումներ lookbook-ից. Olap տաբատները իդեալականորեն ներդաշնակում են կարճ պիջակների կամ մաքսի վերարկուների հետ՝ ստեղծելով հավասարակշռված և ժամանակակից սիլուետ։"
+        "a": "Ցույց տվեք պատրաստի լուծումներ lookbook-ից. Olap տաբատները իդեալականորեն ներդաշնակում են կարճ պիջակների կամ մաքսի վերարկուների հետ՝ ստեղծելով հավասարակշռված և ժամանակակից սիլուետ։."
       },
       {
         "q": "Գծավոր թավիշը կարող է վիզուալ ավելացնել ծավալ ազդրերի հատվածում",
-        "a": "Բացատրեք, որ գծերի ուղղահայաց ուղղվածությունը, ընդհակառակը, աշխատում է որպես օպտիկական ֆիլտր՝ երկարացնելով գծերը և նիհարեցնելով կազմվածքը։"
+        "a": "Բացատրեք, որ գծերի ուղղահայաց ուղղվածությունը, ընդհակառակը, աշխատում է որպես օպտիկական ֆիլտր՝ երկարացնելով գծերը և նիհարեցնելով կազմվածքը։."
       }
     ],
     "lv": [
@@ -637,11 +605,7 @@
       },
       {
         "q": "Velvets var vizuāli pievienot apjomu gurniem",
-        "a": "Paskaidrojiet, ka velveta vertikālā rievotība, pretēji, darbojas kā optiskais filtrs, izstiepjot līnijas un slaidinot figūru, atšķirībā no gludiem audumiem. |"
-      },
-      {
-        "q": "Velvets var izskatīties pārāk ikdienišķi vakara iznācieniem",
-        "a": "Norādiet uz zeltīto furnitūru ar LS monogrammu un dziļo auduma faktūru, kas mākslīgajā apgaismojumā iegūst cēlu spīdumu, padarot modeli piemērotu saviesīgiem pasākumiem."
+        "a": "Paskaidrojiet, ka velveta vertikālā rievotība, pretēji, darbojas kā optiskais filtrs, izstiepjot līnijas un slaidinot figūru, atšķirībā no gludiem audumiem. | [Velvets var izskatīties pārāk ikdienišķi vakara iznācieniem] -> Norādiet uz zeltīto furnitūru ar LS monogrammu un dziļo auduma faktūru, kas mākslīgajā apgaismojumā iegūst cēlu spīdumu, padarot modeli piemērotu saviesīgiem pasākumiem."
       },
       {
         "q": "Bikses var ātri zaudēt formu auduma sastāva dēļ",
@@ -679,11 +643,7 @@
       },
       {
         "q": "Velvetas gali vizualiai pridėti apimties klubams",
-        "a": "Paaiškinkite, kad vertikali velveto briaunelė, priešingai, veikia kaip optinis filtras, ilgindama linijas ir lieknindama figūrą, skirtingai nei lygūs audiniai. |"
-      },
-      {
-        "q": "Velvetas gali atrodyti per daug kasdieniškai vakariniams išėjimams",
-        "a": "Nurodykite auksinę furnitūrą su LS monograma ir gilią audinio faktūrą, kuri dirbtiniame apšvietime įgauna kilnų žvilgesį, todėl modelis tinka iškilmingiems renginiams."
+        "a": "Paaiškinkite, kad vertikali velveto briaunelė, priešingai, veikia kaip optinis filtras, ilgindama linijas ir lieknindama figūrą, skirtingai nei lygūs audiniai. | [Velvetas gali atrodyti per daug kasdieniškai vakariniams išėjimams] -> Nurodykite auksinę furnitūrą su LS monograma ir gilią audinio faktūrą, kuri dirbtiniame apšvietime įgauna kilnų žvilgesį, todėl modelis tinka iškilmingiems renginiams."
       },
       {
         "q": "Kelnės gali greitai prarasti formą dėl audinio sudėties",
@@ -763,11 +723,7 @@
       },
       {
         "q": "Вельвет може візуально додавати об'єм стегнам",
-        "a": "Поясніть, що вертикальний рубчик вельвету, навпаки, працює як оптичний фільтр, витягуючи лінії та роблячи фігуру стрункішою, на відміну від гладких тканин. |"
-      },
-      {
-        "q": "Вельвет може виглядати занадто повсякденно для вечірніх виходів",
-        "a": "Вкажіть на золотисту фурнітуру з монограмою LS та глибоку фактуру тканини, яка при штучному освітленні набуває благородного блиску, роблячи модель придатною для світських заходів."
+        "a": "Поясніть, що вертикальний рубчик вельвету, навпаки, працює як оптичний фільтр, витягуючи лінії та роблячи фігуру стрункішою, на відміну від гладких тканин. | [Вельвет може виглядати занадто повсякденно для вечірніх виходів] -> Вкажіть на золотисту фурнітуру з монограмою LS та глибоку фактуру тканини, яка при штучному освітленні набуває благородного блиску, роблячи модель придатною для світських заходів."
       },
       {
         "q": "Штани можуть швидко втратити форму через склад тканини",

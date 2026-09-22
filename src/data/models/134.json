@@ -211,67 +211,79 @@
   "objections": {
     "en": [
       {
-        "q": "A fitted silhouette may accentuate figure concerns.",
+        "q": "A fitted silhouette may accentuate figure concerns",
         "a": "The dense 'punto stoffa' knit offers a gentle shaping effect, softly supporting the silhouette. We also suggest completing the look with one of our structured jackets for added confidence."
       },
       {
-        "q": "Wool may be scratchy or cause discomfort.",
+        "q": "Wool may be scratchy or cause discomfort",
         "a": "The Madelin piece uses the finest merino wool with an exceptionally fine fibre, making it remarkably smooth and pleasant even for the most sensitive skin."
       },
       {
-        "q": "Lace on the sleeves looks too formal for daytime wear.",
+        "q": "Lace on the sleeves looks too formal for daytime wear",
         "a": "Thanks to the matte texture of the wool, the lace serves as a delicate accent. Paired with our Ulisside boots, the look becomes understated and stylish."
       },
       {
-        "q": "A below-the-knee length may visually shorten the frame.",
+        "q": "A below-the-knee length may visually shorten the frame",
         "a": "The classic midi length, paired with the boat neckline, in fact elongates the vertical line. We recommend heeled footwear, such as our Udita model, for perfect proportions."
       },
       {
-        "q": "Knitwear may stretch out with wear.",
+        "q": "Knitwear may stretch out with wear",
         "a": "The distinctive feature of Luisa Spagnoli's 'punto stoffa' technique is the enhanced density and stability of the fabric, which guarantees the dress retains its original shape for many seasons."
       }
     ],
     "ru": [
       {
-        "q": "Облегающий силуэт может подчеркнуть недостатки фигуры.",
-        "a": "Плотная вязка «punto stoffa» обладает легким моделирующим эффектом, мягко поддерживая силуэт. Мы также предлагаем дополнить образ нашими структурированными жакетами для большей уверенности."
+        "q": "Приталенный силуэт может подчеркнуть недостатки фигуры",
+        "a": "Плотный трикотаж."
       },
       {
-        "q": "Шерсть может колоться или вызывать дискомфорт.",
-        "a": "В модели Madelin используется мериносовая шерсть высочайшего качества с очень тонким волокном, что делает её невероятно гладкой и приятной даже для самой чувствительной кожи."
+        "q": "punto stoffa",
+        "a": "обладает мягким моделирующим эффектом, деликатно поддерживая силуэт. Мы также рекомендуем дополнить образ одним из наших структурированных жакетов для придания уверенности."
       },
       {
-        "q": "Кружево на рукавах выглядит слишком официально для дневного ношения.",
-        "a": "Благодаря матовой фактуре шерсти, кружево выступает деликатным акцентом. В сочетании с сапогами Ulisside образ становится сдержанным и стильным."
+        "q": "Шерсть может колоться или вызывать дискомфорт",
+        "a": "В модели Madelin используется тончайшая мериносовая шерсть с исключительной деликатностью волокна, что делает ее невероятно мягкой и приятной даже при контакте с чувствительной кожей."
       },
       {
-        "q": "Длина ниже колена может визуально уменьшить рост.",
-        "a": "Классическая длина миди в сочетании с вырезом-лодочкой, напротив, вытягивает вертикаль. Мы рекомендуем использовать обувь на каблуке, например, модель Udita, для идеальных пропорций."
+        "q": "Кружево на рукавах выглядит слишком формально для дневного образа",
+        "a": "Благодаря матовой фактуре шерсти кружево служит лишь изысканным акцентом. В сочетании с нашими ботильонами Ulisside образ становится сдержанным и стильным."
       },
       {
-        "q": "Трикотаж может растянуться в процессе носки.",
-        "a": "Особенность техники «punto stoffa» Luisa Spagnoli заключается в повышенной плотности и стабильности полотна, что гарантирует сохранение первоначальной формы платья в течение многих сезонов."
+        "q": "Длина ниже колена может визуально укорачивать рост",
+        "a": "Классическая длина миди в сочетании с вырезом."
+      },
+      {
+        "q": "лодочка",
+        "a": "визуально вытягивает вертикаль. Для идеальных пропорций мы рекомендуем обувь на каблуке, например, нашу модель Udita."
+      },
+      {
+        "q": "Трикотаж может растянуться в процессе носки",
+        "a": "Отличительная черта техники."
+      },
+      {
+        "q": "punto stoffa",
+        "a": "от Luisa Spagnoli — повышенная плотность и стабильность полотна, что гарантирует сохранение первоначальной формы платья на многие сезоны."
       }
     ],
     "ar": [
       {
-        "q": "قد يبرز التصميم الضيق عيوب القوام.",
+        "q": "قد يبرز التصميم الضيق عيوب القوام",
         "a": "تتميز حياكة \"punto stoffa\" الكثيفة بتأثير نحت خفيف يبرز القوام بنعومة. كما نقترح تنسيق المظهر مع ستراتنا المهيكلة لمزيد من الثقة."
       },
       {
-        "q": "قد يسبب الصوف حكة أو انزعاجاً.",
+        "q": "قد يسبب الصوف حكة أو انزعاجاً",
         "a": "يستخدم في موديل Madelin صوف الميرينو فائق الجودة ذو ألياف دقيقة للغاية، مما يجعله ناعماً ومريحاً بشكل لا يصدق حتى على البشرة الحساسة."
       },
       {
-        "q": "تبدو الدانتيل على الأكمام رسمية جداً للارتداء النهاري.",
-        "a": "بفضل الملمس المطفي للصوف، يعمل الدانتيل كإضافة رقيقة وأنيقة. ومع تنسيقه مع أحذية Ulisside يصبح المظهر متزناً وعصرياً."
+        "q": "تبدو الدانتيل على الأكمام رسمية جداً للارتداء النهاري",
+        "a": "بفضل الملمس المطفي للصوف، يعمل الدانتيل كإضافة رقيقة وأنيقة. ومع تنسيقه مع أحذية Ulisside (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg يصبح المظهر متزناً وعصرياً."
       },
       {
-        "q": "قد يقلل الطول تحت الركبة من المظهر الطولي للقوام.",
-        "a": "على العكس، فإن طول الميدي الكلاسيكي مع فتحة العنق الدائرية يمنح طولاً عمودياً للجسم. نوصي بارتداء أحذية بكعب، مثل موديل Udita، للحصول على تناسق مثالي."
+        "q": "قد يقلل الطول تحت الركبة من المظهر الطولي للقوام",
+        "a": "على العكس، فإن طول الميدي الكلاسيكي مع فتحة العنق الدائرية يمنح طولاً عمودياً للجسم. نوصي بارتداء أحذية بكعب، مثل موديل Udita (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png للحصول على تناسق مثالي."
       },
       {
-        "q": "قد يتمدد التريكو أثناء الارتداء.",
+        "q": "قد يتمدد التريكو أثناء الارتداء",
         "a": "تتميز تقنية \"punto stoffa\" من Luisa Spagnoli بكثافة وثبات النسيج، مما يضمن الحفاظ على الشكل الأصلي للفستان لعدة مواسم."
       }
     ],
@@ -321,90 +333,98 @@
     ],
     "lv": [
       {
-        "q": "Piegulošais siluets var izcelt figūras nepilnības.",
+        "q": "Piegulošais siluets var izcelt figūras nepilnības",
         "a": "Blīvais „punto stoffa” adījums piemīt viegls modelējošs efekts, maigi atbalstot siluetu. Mēs arī piedāvājam papildināt tēlu ar mūsu strukturētajām žaketēm lielākai pārliecībai."
       },
       {
-        "q": "Vilna var durt vai izraisīt diskomfortu.",
+        "q": "Vilna var durt vai izraisīt diskomfortu",
         "a": "Modelī Madelin tiek izmantota augstākās kvalitātes merino vilna ar ļoti smalku šķiedru, kas padara to neticami gludu un patīkamu pat visjutīgākajai ādai."
       },
       {
-        "q": "Mežģīnes uz piedurknēm izskatās pārāk oficiāli dienas gaitām.",
-        "a": "Pateicoties vilnas matētajai faktūrai, mežģīnes kalpo kā delikāts akcents. Kombinācijā ar zābakiem Ulisside tēls kļūst atturīgs un stilīgs."
+        "q": "Mežģīnes uz piedurknēm izskatās pārāk oficiāli dienas gaitām",
+        "a": "Pateicoties vilnas matētajai faktūrai, mežģīnes kalpo kā delikāts akcents. Kombinācijā ar zābakiem Ulisside (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg tēls kļūst atturīgs un stilīgs."
       },
       {
-        "q": "Garums zem ceļgala var vizuāli samazināt augumu.",
-        "a": "Klasiskais midi garums kombinācijā ar laiviņveida izgriezumu, gluži pretēji, izstiepj vertikāli. Mēs iesakām izmantot apavus uz papēža, piemēram, modeli Udita, ideālām proporcijām."
+        "q": "Garums zem ceļgala var vizuāli samazināt augumu",
+        "a": "Klasiskais midi garums kombinācijā ar laiviņveida izgriezumu, gluži pretēji, izstiepj vertikāli. Mēs iesakām izmantot apavus uz papēža, piemēram, modeli Udita (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png ideālām proporcijām."
       },
       {
-        "q": "Trikotāža var izstiepties valkāšanas procesā.",
+        "q": "Trikotāža var izstiepties valkāšanas procesā",
         "a": "Luisa Spagnoli „punto stoffa” tehnikas īpatnība ir auduma paaugstināts blīvums un stabilitāte, kas garantē kleitas sākotnējās formas saglabāšanos daudzu sezonu garumā."
       }
     ],
     "lt": [
       {
-        "q": "Prigludęs siluetas gali pabrėžti figūros trūkumus.",
+        "q": "Prigludęs siluetas gali pabrėžti figūros trūkumus",
         "a": "Tankus „punto stoffa“ mezgimas turi lengvą modeliuojantį efektą, švelniai palaikydamas siluetą. Taip pat siūlome papildyti įvaizdį mūsų struktūriniais švarkais didesniam pasitikėjimui."
       },
       {
-        "q": "Vilna gali būti šiurkšti ar kelti diskomfortą.",
+        "q": "Vilna gali būti šiurkšti ar kelti diskomfortą",
         "a": "Modelyje Madelin naudojama aukščiausios kokybės merino vilna su itin plonu pluoštu, todėl ji yra neįtikėtinai glotni ir maloni net jautriausiai odai."
       },
       {
-        "q": "Nėriniai ant rankovių atrodo per oficialiai kasdieniam nešiojimui.",
-        "a": "Dėl matinės vilnos faktūros nėriniai tampa subtiliu akcentu. Derinant su ilgaauliais batais Ulisside, įvaizdis tampa santūrus ir stilingas."
+        "q": "Nėriniai ant rankovių atrodo per oficialiai kasdieniam nešiojimui",
+        "a": "Dėl matinės vilnos faktūros nėriniai tampa subtiliu akcentu. Derinant su ilgaauliais batais Ulisside (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg įvaizdis tampa santūrus ir stilingas."
       },
       {
-        "q": "Ilgis žemiau kelių gali vizualiai sumažinti ūgį.",
-        "a": "Klasikinis midi ilgis kartu su laivelio formos iškirpte, priešingai, vizualiai ilgina siluetą. Rekomenduojame rinktis avalynę su kulnu, pavyzdžiui, modelį Udita, kad pasiektumėte tobulas proporcijas."
+        "q": "Ilgis žemiau kelių gali vizualiai sumažinti ūgį",
+        "a": "Klasikinis midi ilgis kartu su laivelio formos iškirpte, priešingai, vizualiai ilgina siluetą. Rekomenduojame rinktis avalynę su kulnu, pavyzdžiui, modelį Udita (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png kad pasiektumėte tobulas proporcijas."
       },
       {
-        "q": "Trikotažas gali išsitampyti nešiojimo metu.",
+        "q": "Trikotažas gali išsitampyti nešiojimo metu",
         "a": "Luisa Spagnoli „punto stoffa“ technikos ypatybė yra padidintas tankis ir audinio stabilumas, o tai garantuoja, kad suknelė išlaikys pirminę formą daugelį sezonų."
       }
     ],
     "pl": [
       {
-        "q": "Dopasowany fason może podkreślić mankamenty sylwetki.",
+        "q": "Dopasowany fason może podkreślić mankamenty sylwetki",
         "a": "Gęsty splot „punto stoffa” posiada delikatny efekt modelujący, miękko wspierający sylwetkę. Sugerujemy również uzupełnienie stylizacji naszymi strukturalnymi żakietami dla większej pewności siebie."
       },
       {
-        "q": "Wełna może gryźć lub powodować dyskomfort.",
+        "q": "Wełna może gryźć lub powodować dyskomfort",
         "a": "W modelu Madelin wykorzystano wełnę merynosową najwyższej jakości z bardzo cienkim włóknem, co czyni ją niezwykle gładką i przyjemną nawet dla najbardziej wrażliwej skóry."
       },
       {
-        "q": "Koronka na rękawach wygląda zbyt oficjalnie do noszenia w ciągu dnia.",
-        "a": "Dzięki matowej fakturze wełny, koronka stanowi jedynie delikatny akcent. W połączeniu z kozakami Ulisside stylizacja staje się stonowana i stylowa."
+        "q": "Koronka na rękawach wygląda zbyt oficjalnie do noszenia w ciągu dnia",
+        "a": "Dzięki matowej fakturze wełny, koronka stanowi jedynie delikatny akcent. W połączeniu z kozakami Ulisside (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg stylizacja staje się stonowana i stylowa."
       },
       {
-        "q": "Długość za kolano może optycznie skrócić sylwetkę.",
-        "a": "Klasyczna długość midi w połączeniu z dekoltem typu łódka, wręcz przeciwnie, wydłuża pionową linię. Dla uzyskania idealnych proporcji polecamy obuwie na obcasie, na przykład model Udita."
+        "q": "Długość za kolano może optycznie skrócić sylwetkę",
+        "a": "Klasyczna długość midi w połączeniu z dekoltem typu łódka, wręcz przeciwnie, wydłuża pionową linię. Dla uzyskania idealnych proporcji polecamy obuwie na obcasie, na przykład model Udita (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png."
       },
       {
-        "q": "Dzianina może się rozciągnąć w trakcie noszenia.",
+        "q": "Dzianina może się rozciągnąć w trakcie noszenia",
         "a": "Cechą techniki „punto stoffa” marki Luisa Spagnoli jest podwyższona gęstość i stabilność materiału, co gwarantuje zachowanie pierwotnego kształtu sukienki przez wiele sezonów."
       }
     ],
     "uk": [
       {
-        "q": "Облягаючий силует може підкреслити недоліки фігури.",
-        "a": "Щільна в'язка «punto stoffa» має легкий моделюючий ефект, м'яко підтримуючи силует. Ми також пропонуємо доповнити образ нашими структурованими жакетами для більшої впевненості."
+        "q": "Облягаючий силует може підкреслити недоліки фігури",
+        "a": "Щільна в'язка."
       },
       {
-        "q": "Вовна може колотися або викликати дискомфорт.",
+        "q": "punto stoffa",
+        "a": "має легкий моделюючий ефект, м'яко підтримуючи силует. Ми також пропонуємо доповнити образ нашими структурованими жакетами для більшої впевненості."
+      },
+      {
+        "q": "Вовна може колотися або викликати дискомфорт",
         "a": "У моделі Madelin використовується мериносова вовна найвищої якості з дуже тонким волокном, що робить її неймовірно гладкою та приємною навіть для найчутливішої шкіри."
       },
       {
-        "q": "Мереживо на рукавах виглядає надто офіційно для денного носіння.",
-        "a": "Завдяки матовій фактурі вовни, мереживо виступає делікатним акцентом. У поєднанні з чоботями Ulisside образ стає стриманим і стильним."
+        "q": "Мереживо на рукавах виглядає надто офіційно для денного носіння",
+        "a": "Завдяки матовій фактурі вовни, мереживо виступає делікатним акцентом. У поєднанні з чоботями Ulisside (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg образ стає стриманим і стильним."
       },
       {
-        "q": "Довжина нижче коліна може візуально зменшити зріст.",
-        "a": "Класична довжина міді в поєднанні з вирізом-човником, навпаки, витягує вертикаль. Ми рекомендуємо використовувати взуття на підборах, наприклад, модель Udita, для ідеальних пропорцій."
+        "q": "Довжина нижче коліна може візуально зменшити зріст",
+        "a": "Класична довжина міді в поєднанні з вирізом-човником, навпаки, витягує вертикаль. Ми рекомендуємо використовувати взуття на підборах, наприклад, модель Udita (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png для ідеальних пропорцій."
       },
       {
-        "q": "Трикотаж може розтягнутися у процесі носіння.",
-        "a": "Особливість техніки «punto stoffa» Luisa Spagnoli полягає у підвищеній щільності та стабільності полотна, що гарантує збереження початкової форми сукні протягом багатьох сезонів."
+        "q": "Трикотаж може розтягнутися у процесі носіння",
+        "a": "Особливість техніки."
+      },
+      {
+        "q": "punto stoffa",
+        "a": "Luisa Spagnoli полягає у підвищеній щільності та стабільності полотна, що гарантує збереження початкової форми сукні протягом багатьох сезонів."
       }
     ]
   }
