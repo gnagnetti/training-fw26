@@ -1,0 +1,364 @@
+{
+  "id": 169,
+  "name": "Merina",
+  "description": {
+    "en": "An exquisite textured cardigan embodying Luisa Spagnoli's philosophy of \"quiet luxury.\" The model is crafted from 100% pure natural wool of the highest quality, ensuring exceptional comfort and longevity. Particular attention has been paid to detail: signature LS heraldic buttons add an aristocratic accent to the piece, while patch pockets and open sleeve hems lend the look contemporary dynamism. The Regular fit underscores the impeccable cut, suited to every figure type.",
+    "ru": "Изысканный текстурированный кардиган, воплощающий философию «тихой роскоши» Luisa Spagnoli. Модель выполнена из 100% чистой натуральной шерсти высшего качества, что обеспечивает исключительный комфорт и долговечность. Особое внимание уделено деталям: фирменные геральдические пуговицы LS добавляют изделию аристократичный акцент, а накладные карманы и открытый низ рукавов придают образу современную динамику. Регулярная посадка подчеркивает безупречный крой, подходящий для любого типа фигуры.",
+    "ar": "كارديغان ذو ملمس راقٍ يجسد فلسفة «الفخامة الهادئة» لدى Luisa Spagnoli. صُممت القطعة من صوف طبيعي نقي 100% عالي الجودة، مما يوفر راحة استثنائية ومتانة. تم إيلاء اهتمام خاص للتفاصيل: تضيف أزرار LS الشعاراتية المميزة لمسة أرستقراطية للقطعة، بينما تضفي الجيوب الخارجية والحواف المفتوحة للأكمام ديناميكية عصرية على الإطلالة. تؤكد القصة العادية على القصّة التي لا تشوبها شائبة، والتي تناسب أي نوع من أنواع الجسم.",
+    "ka": "დახვეწილი ტექსტურირებული კარდიგანი, რომელიც განასახიერებს Luisa Spagnoli-ს „ჩუმი ფუფუნების“ ფილოსოფიას. მოდელი შესრულებულია 100%-ით სუფთა, უმაღლესი ხარისხის ნატურალური მატყლისგან, რაც უზრუნველყოფს გამორჩეულ კომფორტსა და გამძლეობას. განსაკუთრებული ყურადღება დაეთმო დეტალებს: ფირმული LS-ის ჰერალდიკური ღილები ნაკეთობას არისტოკრატულ აქცენტს მატებს, ხოლო ზედნადები ჯიბეები და სახელოების ღია ქვედა ნაწილი იმიჯს თანამედროვე დინამიკას ანიჭებს. რეგულარული მორგება ხაზს უსვამს უნაკლო კროის, რომელიც ნებისმიერი ტიპის სხეულისთვისაა შესაფერისი.",
+    "hy": "Նրբագեղ տեքստուրային կարդիգան, որը մարմնավորում է Luisa Spagnoli-ի «լուռ շքեղության» փիլիսոփայությունը։ Մոդելը պատրաստված է 100% մաքուր բնական բրդից՝ բարձրագույն որակի, ինչն ապահովում է բացառիկ հարմարավետություն և երկարակեցություն։ Հատուկ ուշադրություն է դարձվել դետալներին. LS ֆիրմային հերալդիկ կոճակները իրին ավելացնում են արիստոկրատ շեշտադրում, իսկ վերադիր գրպանները և թևերի բաց ներքևի հատվածը կերպարին հաղորդում են ժամանակակից դինամիկա։ Կանոնավոր ձևվածքը ընդգծում է անթերի կտրվածքը, որը հարմար է ցանկացած տիպի կազմվածքի համար։",
+    "lv": "Izsmalcināts teksturēts kardigans, kas iemieso Luisa Spagnoli «klusās greznības» filozofiju. Modelis izgatavots no 100% tīras augstākās kvalitātes dabīgās vilnas, kas nodrošina izcilu komfortu un ilgmūžību. Īpaša uzmanība pievērsta detaļām: firmas LS heraldikas pogas piešķir izstrādājumam aristokrātisku akcentu, bet uzšūtās kabatas un atvērta piedurkņu apakšmala piešķir tēlam mūsdienīgu dinamiku. Regulārs piegriezums izceļ nevainojamo piegriezumu, kas piemērots jebkura tipa figūrai.",
+    "lt": "Rafinuotas tekstūrinis kardiganas, įkūnijantis „tyliosios prabangos“ Luisa Spagnoli filosofiją. Modelis pagamintas iš 100 % aukščiausios kokybės grynos vilnos, užtikrinančios išskirtinį komfortą ir ilgaamžiškumą. Ypatingas dėmesys skirtas detalėms: firminės herbinės LS sagos suteikia gaminiui aristokratišką akcentą, o uždėtinės kišenės ir atviri rankogaliai suteikia įvaizdžiui šiuolaikiškos dinamikos. Reguliarus prigludimas pabrėžia nepriekaištingą kirpimą, tinkantį bet kokio tipo figūrai.",
+    "pl": "Wyrafinowany teksturowany kardigan, ucieleśniający filozofię „cichego luksusu” Luisa Spagnoli. Model wykonano w 100% z czystej naturalnej wełny najwyższej jakości, co zapewnia wyjątkowy komfort i trwałość. Szczególną uwagę poświęcono detalom: sygnowane heraldyczne guziki LS dodają modelowi arystokratycznego akcentu, a naszywane kieszenie i otwarte doły rękawów nadają stylizacji nowoczesną dynamikę. Regularny krój podkreśla nienaganne wykończenie, odpowiednie dla każdego typu sylwetki.",
+    "uk": "Вишуканий текстурований кардиган, що втілює філософію «тихої розкоші» Luisa Spagnoli. Модель виконана зі 100% чистої натуральної вовни найвищої якості, що забезпечує винятковий комфорт і довговічність. Особливу увагу приділено деталям: фірмові геральдичні ґудзики LS додають виробу аристократичного акценту, а накладні кишені та відкритий низ рукавів надають образу сучасної динаміки. Регулярна посадка підкреслює бездоганний крій, що підходить для будь-якого типу фігури."
+  },
+  "colors": [
+    {
+      "name": "Blu Inchiostro",
+      "code": "2544",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/THcZAxKrQtyUuRn1NlxAfw_1714278876696f436a94c0d6_81431318_02830780XX1.jpg"
+    },
+    {
+      "name": "Verde Bottiglia",
+      "code": "2050",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3ec740e2-c84b-450d-be5d-33778390592f-removebg-preview.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Vetrina 88)",
+        "en": "Total Look (Vetrina 88)",
+        "ar": "Total Look (Vetrina 88)",
+        "ka": "Total Look (Vetrina 88)",
+        "hy": "Total Look (Vetrina 88)",
+        "lv": "Total Look (Vetrina 88)",
+        "lt": "Total Look (Vetrina 88)",
+        "pl": "Total Look (Vetrina 88)",
+        "uk": "Total Look (Vetrina 88)"
+      },
+      "text": {
+        "ru": "Merina 2544 в сочетании с пуловером Manos 0101, брюками Minuccio 2544 и сумкой Ippolita 0101 0002.",
+        "en": "Merina 2544 combined with the Manos 0101 pullover, Minuccio 2544 trousers and Ippolita 0101 0002 bag.",
+        "ar": "Merina 2544 combined with the Manos 0101 pullover, Minuccio 2544 trousers and Ippolita 0101 0002 bag.",
+        "ka": "Merina 2544 combined with the Manos 0101 pullover, Minuccio 2544 trousers and Ippolita 0101 0002 bag.",
+        "hy": "Merina 2544 combined with the Manos 0101 pullover, Minuccio 2544 trousers and Ippolita 0101 0002 bag.",
+        "lv": "Merina 2544 combined with the Manos 0101 pullover, Minuccio 2544 trousers and Ippolita 0101 0002 bag.",
+        "lt": "Merina 2544 combined with the Manos 0101 pullover, Minuccio 2544 trousers and Ippolita 0101 0002 bag.",
+        "pl": "Merina 2544 combined with the Manos 0101 pullover, Minuccio 2544 trousers and Ippolita 0101 0002 bag.",
+        "uk": "Merina 2544 combined with the Manos 0101 pullover, Minuccio 2544 trousers and Ippolita 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Merina",
+          "code": "2544",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/THcZAxKrQtyUuRn1NlxAfw_1714278876696f436a94c0d6_81431318_02830780XX1.jpg"
+        },
+        {
+          "name": "Manos",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Minuccio",
+          "code": "2544",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NVoUDC5hSh-_ll973FicDA_1836626867696f4307470cc7_02681906_02821420XX1.jpg"
+        },
+        {
+          "name": "Ippolita",
+          "code": "0101 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sophisticated Look 219",
+        "en": "Sophisticated Look 219",
+        "ar": "Sophisticated Look 219",
+        "ka": "Sophisticated Look 219",
+        "hy": "Sophisticated Look 219",
+        "lv": "Sophisticated Look 219",
+        "lt": "Sophisticated Look 219",
+        "pl": "Sophisticated Look 219",
+        "uk": "Sophisticated Look 219"
+      },
+      "text": {
+        "ru": "Merina 2544 с брюками Minuccio A 2544, аксессуарами Neanide 2 и сумкой Idilliaco A 0986 0002.",
+        "en": "Merina 2544 with Minuccio A 2544 trousers, Neanide 2 accessories and Idilliaco A 0986 0002 bag.",
+        "ar": "Merina 2544 with Minuccio A 2544 trousers, Neanide 2 accessories and Idilliaco A 0986 0002 bag.",
+        "ka": "Merina 2544 with Minuccio A 2544 trousers, Neanide 2 accessories and Idilliaco A 0986 0002 bag.",
+        "hy": "Merina 2544 with Minuccio A 2544 trousers, Neanide 2 accessories and Idilliaco A 0986 0002 bag.",
+        "lv": "Merina 2544 with Minuccio A 2544 trousers, Neanide 2 accessories and Idilliaco A 0986 0002 bag.",
+        "lt": "Merina 2544 with Minuccio A 2544 trousers, Neanide 2 accessories and Idilliaco A 0986 0002 bag.",
+        "pl": "Merina 2544 with Minuccio A 2544 trousers, Neanide 2 accessories and Idilliaco A 0986 0002 bag.",
+        "uk": "Merina 2544 with Minuccio A 2544 trousers, Neanide 2 accessories and Idilliaco A 0986 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Merina",
+          "code": "2544",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/THcZAxKrQtyUuRn1NlxAfw_1714278876696f436a94c0d6_81431318_02830780XX1.jpg"
+        },
+        {
+          "name": "Minuccio A",
+          "code": "2544",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NVoUDC5hSh-_ll973FicDA_1836626867696f4307470cc7_02681906_02821420XX1.jpg",
+          "modelId": 177
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasise the composition: 100% merino wool guarantees superior thermal regulation and softness, both essential qualities for premium knitwear.",
+      "Draw attention to the cut: the circle skirt (gonna a ruota), paired with a stand collar, strikes a balance between structure and romance, flattering the figure while accentuating the waist.",
+      "Styling versatility: the dress is equally suited to a business office dress code and an elegant evening occasion, simply by adding leather or silk accessories."
+    ],
+    "ru": [
+      "Сделайте акцент на материале: 100% чистая натуральная шерсть (lana vergine) гарантирует тепло без утяжеления, что является ключевым критерием для взыскательных клиентов.",
+      "Геральдические пуговицы LS — это символ принадлежности к элитному модному дому, который служит мощным визуальным аргументом при продаже.",
+      "Универсальность: покажите клиенту, как открытый низ рукавов позволяет демонстрировать манжеты блуз или рубашек, создавая стильный многослойный образ."
+    ],
+    "ar": [
+      "ضعي تركيزاً على المادة: صوف طبيعي نقي 100% (lana vergine) يضمن الدفء دون ثقل، وهو المعيار الرئيسي للعملاء الأكثر تطلباً.",
+      "أزرار LS هي رمز للانتماء إلى دار أزياء نخبوية، وتعمل كحجة بصرية قوية عند البيع.",
+      "تعدد الاستخدامات: أظهري للعميل كيف تتيح الأكمام المفتوحة من الأسفل إظهار أكمام القمصان أو البلوزات، مما يخلق إطلالة عصرية متعددة الطبقات."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება მასალაზე: 100% სუფთა ნატურალური მატყლი (lana vergine) უზრუნველყოფს სითბოს დამძიმების გარეშე, რაც მომთხოვნი კლიენტებისთვის მთავარი კრიტერიუმია.",
+      "LS-ის ჰერალდიკური ღილები — ეს არის ელიტური მოდის სახლის კუთვნილების სიმბოლო, რომელიც გაყიდვის პროცესში მძლავრ ვიზუალურ არგუმენტად გვევლინება.",
+      "უნივერსალურობა: უჩვენეთ კლიენტს, თუ როგორ იძლევა სახელოების ღია ქვედა ნაწილი ბლუზების ან პერანგების მანჟეტების წარმოჩენის საშუალებას, რაც ქმნის დახვეწილ მრავალშრიან ლუქს."
+    ],
+    "hy": [
+      "Շեշտը դրեք նյութի վրա. 100% մաքուր բնական բուրդը (lana vergine) երաշխավորում է ջերմություն՝ առանց ծանրացնելու, ինչը պահանջկոտ հաճախորդների համար հիմնական չափանիշ է։",
+      "LS հերալդիկ կոճակները էլիտար նորաձևության տանը պատկանելու խորհրդանիշ են, որը վաճառքի ժամանակ ծառայում է որպես հզոր տեսողական փաստարկ։",
+      "Բազմակողմանիություն. հաճախորդին ցույց տվեք, թե ինչպես են թևքերի բաց եզրերը թույլ տալիս ցուցադրել բլուզների կամ վերնաշապիկների մանժետները՝ ստեղծելով ոճային բազմաշերտ կերպար։"
+    ],
+    "lv": [
+      "Vērsiet uzmanību uz materiālu: 100% tīra dabīgā vilna (lana vergine) garantē siltumu bez smaguma sajūtas, kas ir galvenais kritērijs prasīgiem klientiem.",
+      "LS heraldiskās pogas — tas ir piederības simbols elitāram modes namam, kas kalpo par spēcīgu vizuālo argumentu pārdošanas laikā.",
+      "Daudzpusība: parādiet klientam, kā atvērtā piedurkņu apakšdaļa ļauj demonstrēt blūžu vai kreklu aproces, radot stilīgu daudzslāņu tēlu."
+    ],
+    "lt": [
+      "Сделайте акцент на материале: 100% чистая натуральная шерсть (lana vergine) гарантирует тепло без утяжеления, что является ключевым критерием для взыскательных клиентов.",
+      "Геральдические пуговицы LS — это символ принадлежности к элитному модному дому, который служит мощным визуальным аргументом при продаже.",
+      "Универсальность: покажите клиенту, как открытый низ рукавов позволяет демонстрировать манжеты блуз или рубашек, создавая стильный многослойный образ."
+    ],
+    "pl": [
+      "Połóż akcent na materiał: 100% czysta naturalna wełna (lana vergine) gwarantuje ciepło bez obciążenia, co jest kluczowym kryterium dla wymagających klientów.",
+      "Heraldyczne guziki LS — to symbol przynależności do elitarnego domu mody, który stanowi potężny argument wizualny podczas sprzedaży.",
+      "Uniwersalność: pokaż klientowi, jak otwarty dół rękawów pozwala wyeksponować mankiety bluzek lub koszul, tworząc stylowy, warstwowy look."
+    ],
+    "uk": [
+      "Зробіть акцент на матеріалі: 100% чиста натуральна вовна (lana vergine) гарантує тепло без обтяження, що є ключовим критерієм для вибагливих клієнтів.",
+      "Геральдичні ґудзики LS — це символ приналежності до елітного модного дому, який слугує потужним візуальним аргументом під час продажу.",
+      "Універсальність: покажіть клієнту, як відкритий низ рукавів дозволяє демонструвати манжети блуз чи сорочок, створюючи стильний багатошаровий образ."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The button design is too classic.",
+        "a": "Explain that heraldry is a current 'heritage' trend that lends the look a sense of status. Suggest styling the piece with bolder trousers, such as leather or denim, to create balance."
+      },
+      {
+        "q": "Wool may feel scratchy.",
+        "a": "Clarify that the piece uses premium-quality 'lana vergine' with a special textured treatment that minimises discomfort and ensures softness."
+      },
+      {
+        "q": "Uncomfortable open sleeves for outerwear.",
+        "a": "Emphasise that this is a designer detail for an elegant occasion. Indoors, this sleeve style looks more graceful and allows freer movement, while showcasing accessories rather than concealing them."
+      },
+      {
+        "q": "Difficulty caring for natural wool.",
+        "a": "Remind the client that natural wool has self-cleaning properties and requires only occasional airing and delicate cleaning, which preserves the piece for years."
+      },
+      {
+        "q": "The colour seems too dark.",
+        "a": "Verde Bottiglia and Blu Inchiostro are foundational colours of the luxury winter wardrobe. They pair more easily with accessories than classic black and appear more refined under artificial lighting."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Слишком классический дизайн пуговиц",
+        "a": "Объясните, что геральдика — это актуальный тренд 'heritage', который придает образу статусность. Предложите стилизовать модель с более дерзкими брюками, например, из кожи или денима, для баланса."
+      },
+      {
+        "q": "Шерсть может колоться",
+        "a": "Уточните, что используется высококачественная 'lana vergine' с особой текстурированной обработкой, которая минимизирует дискомфорт и обеспечивает мягкость."
+      },
+      {
+        "q": "Неудобные открытые рукава для верхней одежды",
+        "a": "Подчеркните, что это дизайнерское решение для элегантного выхода. В помещении такой рукав выглядит более изящно и позволяет рукам двигаться свободнее, не скрывая аксессуары."
+      },
+      {
+        "q": "Сложность в уходе за натуральной шерстью",
+        "a": "Напомните, что натуральная шерсть обладает способностью к самоочищению и требует лишь редкого проветривания и деликатной чистки, что сохраняет изделие годами."
+      },
+      {
+        "q": "Цвет кажется слишком темным",
+        "a": "Цвета Verde Bottiglia и Blu Inchiostro являются базовыми цветами зимнего гардероба 'luxury'. Они легче сочетаются с аксессуарами, чем классический черный, и выглядят благороднее при искусственном освещении."
+      }
+    ],
+    "ar": [
+      {
+        "q": "تصميم الأزرار كلاسيكي للغاية",
+        "a": "وضح أن استخدام الرموز التاريخية (الهيرالدية) هو توجه رائج ضمن صيحة الـ 'heritage' التي تضفي على الإطلالة طابعاً مرموقاً. اقترح تنسيق الموديل مع سراويل أكثر جرأة، مثل تلك المصنوعة من الجلد أو الجينز، لتحقيق التوازن."
+      },
+      {
+        "q": "قد يسبب الصوف حكة",
+        "a": "وضح أنه تم استخدام 'lana vergine' عالي الجودة مع معالجة خاصة للقوام، مما يقلل من أي انزعاج ويضمن نعومة فائقة."
+      },
+      {
+        "q": "أكمام مفتوحة غير مريحة للملابس الخارجية",
+        "a": "أكد أن هذا قرار تصميمي مخصص للإطلالات الأنيقة. في الأماكن المغلقة، يبدو هذا الكم أكثر رشاقة ويسمح بحرية أكبر في حركة اليدين، مع إبراز الإكسسوارات."
+      },
+      {
+        "q": "صعوبة العناية بالصوف الطبيعي",
+        "a": "ذكر بأن الصوف الطبيعي يمتلك قدرة ذاتية على التنظيف ولا يحتاج سوى للتهوية النادرة والتنظيف الرقيق، مما يحافظ على القطعة لسنوات."
+      },
+      {
+        "q": "اللون يبدو داكناً جداً",
+        "a": "ألوان Verde Bottiglia وBlu Inchiostro تعتبر ألواناً أساسية في خزانة ملابس الشتاء 'الفاخرة'. فهي أسهل في التنسيق مع الإكسسوارات من اللون الأسود الكلاسيكي، وتبدو أكثر فخامة تحت الإضاءة الاصطناعية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ზედმეტად კლასიკური ღილების დიზაინი",
+        "a": "განმარტეთ, რომ ჰერალდიკა არის აქტუალური ტრენდი 'heritage', რომელიც იერს სტატუსურობას სძენს. შესთავაზეთ მოდელის სტილიზება უფრო გაბედულ შარვლებთან, მაგალითად, ტყავის ან დენიმის, ბალანსისთვის."
+      },
+      {
+        "q": "შალმა შესაძლოა ჩხვლიტოს",
+        "a": "დააზუსტეთ, რომ გამოიყენება უმაღლესი ხარისხის 'lana vergine' განსაკუთრებული ტექსტურირებული დამუშავებით, რომელიც ამცირებს დისკომფორტს და უზრუნველყოფს სირბილეს."
+      },
+      {
+        "q": "ზედა ტანსაცმლისთვის მოუხერხებელი, ღია სახელოები",
+        "a": "ხაზი გაუსვით, რომ ეს არის დიზაინერული გადაწყვეტილება ელეგანტური გამოსვლისთვის. სათავსოში ასეთი სახელო უფრო დახვეწილად გამოიყურება და ხელებს უფრო თავისუფლად მოძრაობის საშუალებას აძლევს, აქსესუარების დაფარვის გარეშე."
+      },
+      {
+        "q": "ნატურალური შალის მოვლის სირთულე",
+        "a": "შეახსენეთ, რომ ნატურალური შალი ფლობს თვითწმენდის უნარს და საჭიროებს მხოლოდ იშვიათ განიავებას და დელიკატურ წმენდას, რაც ნაკეთობას წლების განმავლობაში ინახავს."
+      },
+      {
+        "q": "ფერი ზედმეტად მუქი ჩანს",
+        "a": "Verde Bottiglia და Blu Inchiostro ფერები ზამთრის 'luxury' გარდერობის საბაზისო ფერებია. ისინი კლასიკურ შავთან შედარებით უფრო ადვილად ეხამება აქსესუარებს და ხელოვნური განათებისას უფრო კეთილშობილურად გამოიყურება."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կոճակների չափազանց դասական դիզայն",
+        "a": "Բացատրեք, որ հերալդիկան արդիական 'heritage' թրենդ է, որը կերպարին հաղորդում է կարգավիճակ։ Առաջարկեք մոդելը ոճավորել ավելի համարձակ տաբատներով, օրինակ՝ կաշվե կամ ջինսե՝ հավասարակշռության համար։"
+      },
+      {
+        "q": "Բուրդը կարող է ծակել",
+        "a": "Պարզաբանեք, որ օգտագործվում է բարձրորակ 'lana vergine'՝ հատուկ տեքստուրային մշակմամբ, որը նվազագույնի է հասցնում անհարմարությունը և ապահովում փափկություն։"
+      },
+      {
+        "q": "Անհարմար բաց թևեր վերնահագուստի համար",
+        "a": "Ընդգծեք, որ սա էլեգանտ ելքի համար նախատեսված դիզայներական լուծում է։ Փակ տարածքում նման թևն ավելի նրբագեղ տեսք ունի և թույլ է տալիս ձեռքերին ավելի ազատ շարժվել՝ չթաքցնելով աքսեսուարները։"
+      },
+      {
+        "q": "Բնական բրդի խնամքի բարդություն",
+        "a": "Հիշեցրեք, որ բնական բուրդն օժտված է ինքնամաքրման կարողությամբ և պահանջում է միայն հազվադեպ օդափոխություն և նուրբ մաքրում, ինչը տարիներով պահպանում է արտադրանքը։"
+      },
+      {
+        "q": "Գույնը թվում է չափազանց մուգ",
+        "a": "Verde Bottiglia և Blu Inchiostro գույները 'luxury' ձմեռային զգեստապահարանի բազային գույներ են։ Դրանք ավելի հեշտ են համադրվում աքսեսուարների հետ, քան դասական սևը, և արհեստական լուսավորության ներքո ավելի ազնիվ տեսք ունեն։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Слишком классический дизайн пуговиц",
+        "a": "Объясните, что геральдика — это актуальный тренд 'heritage', который придает образу статусность. Предложите стилизовать модель с более дерзкими брюками, например, из кожи или денима, для баланса."
+      },
+      {
+        "q": "Шерсть может колоться",
+        "a": "Уточните, что используется высококачественная 'lana vergine' с особой текстурированной обработкой, которая минимизирует дискомфорт и обеспечивает мягкость."
+      },
+      {
+        "q": "Неудобные открытые рукава для верхней одежды",
+        "a": "Подчеркните, что это дизайнерское решение для элегантного выхода. В помещении такой рукав выглядит более изящно и позволяет рукам двигаться свободнее, не скрывая аксессуары."
+      },
+      {
+        "q": "Сложность в уходе за натуральной шерстью",
+        "a": "Напомните, что натуральная шерсть обладает способностью к самоочищению и требует лишь редкого проветривания и деликатной чистки, что сохраняет изделие годами."
+      },
+      {
+        "q": "Цвет кажется слишком темным",
+        "a": "Цвета Verde Bottiglia и Blu Inchiostro являются базовыми цветами зимнего гардероба 'luxury'. Они легче сочетаются с аксессуарами, чем классический черный, и выглядят благороднее при искусственном освещении."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Per daug klasikinis sagų dizainas",
+        "a": "Paaiškinkite, kad heraldika yra aktuali „heritage“ tendencija, kuri įvaizdžiui suteikia statuso. Pasiūlykite stilizuoti modelį su drąsesnėmis kelnėmis, pavyzdžiui, iš odos ar džinso, siekiant balanso."
+      },
+      {
+        "q": "Vilna gali badyti",
+        "a": "Patikslinkite, kad naudojama aukštos kokybės „lana vergine“ su specialiu tekstūruotu apdorojimu, kuris sumažina diskomfortą ir užtikrina minkštumą."
+      },
+      {
+        "q": "Nepatogios atviros rankovės viršutiniams drabužiams",
+        "a": "Pabrėžkite, kad tai dizainerio sprendimas elegantiškam išėjimui. Patalpoje tokia rankovė atrodo grakščiau ir leidžia rankoms judėti laisviau, neslepiant aksesuarų."
+      },
+      {
+        "q": "Natūralios vilnos priežiūros sudėtingumas",
+        "a": "Priminkite, kad natūrali vilna pasižymi savaiminio išsivalymo gebėjimu ir reikalauja tik reto vėdinimo bei subtilaus valymo, kas leidžia gaminį išsaugoti daugelį metų."
+      },
+      {
+        "q": "Spalva atrodo per daug tamsi",
+        "a": "Verde Bottiglia ir Blu Inchiostro spalvos yra bazinės „luxury“ žiemos garderobo spalvos. Jos lengviau dera su aksesuarais nei klasikinė juoda ir atrodo tauriau dirbtiniame apšvietime."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Zbyt klasyczny design guzików",
+        "a": "Wyjaśnij, że heraldyka to aktualny trend „heritage”, który nadaje stylizacji prestiżu. Zaproponuj stylizację modelu z bardziej odważnymi spodniami, na przykład ze skóry lub denimu, dla zachowania balansu."
+      },
+      {
+        "q": "Wełna może kłuć",
+        "a": "Wyjaśnij, że użyto wysokiej jakości „lana vergine” ze specjalną wykończeniową obróbką tekstury, która minimalizuje dyskomfort i zapewnia miękkość."
+      },
+      {
+        "q": "Niewygodne otwarte rękawy do odzieży wierzchniej",
+        "a": "Podkreśl, że jest to designerskie rozwiązanie na eleganckie wyjścia. W pomieszczeniu taki rękaw wygląda bardziej wytwornie i pozwala rękom poruszać się swobodniej, nie zakrywając akcesoriów."
+      },
+      {
+        "q": "Trudności w pielęgnacji naturalnej wełny",
+        "a": "Przypomnij, że naturalna wełna posiada zdolność do samooczyszczania i wymaga jedynie rzadkiego wietrzenia oraz delikatnego czyszczenia, co pozwala zachować wyrób przez lata."
+      },
+      {
+        "q": "Kolor wydaje się zbyt ciemny",
+        "a": "Kolory Verde Bottiglia i Blu Inchiostro to bazowe kolory zimowej garderoby „luxury”. Łatwiej łączą się z akcesoriami niż klasyczna czerń i wyglądają bardziej szlachetnie w sztucznym oświetleniu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Занадто класичний дизайн ґудзиків",
+        "a": "Поясніть, що геральдика — це актуальний тренд 'heritage', який додає образу статусності. Запропонуйте стилізувати модель із більш зухвалими брюками, наприклад, зі шкіри або деніму, для балансу."
+      },
+      {
+        "q": "Вовна може колотися",
+        "a": "Уточніть, що використовується високоякісна 'lana vergine' з особливою текстурованою обробкою, яка мінімізує дискомфорт і забезпечує м'якість."
+      },
+      {
+        "q": "Незручні відкриті рукави для верхнього одягу",
+        "a": "Підкресліть, що це дизайнерське рішення для елегантного виходу. У приміщенні такий рукав виглядає витонченіше і дозволяє рукам рухатися вільніше, не приховуючи аксесуари."
+      },
+      {
+        "q": "Складність у догляді за натуральною вовною",
+        "a": "Нагадайте, що натуральна вовна має здатність до самоочищення і потребує лише рідкого провітрювання та делікатної чистки, що зберігає виріб роками."
+      },
+      {
+        "q": "Колір здається занадто темним",
+        "a": "Кольори Verde Bottiglia та Blu Inchiostro є базовими кольорами зимового гардероба 'luxury'. Вони легше поєднуються з аксесуарами, ніж класичний чорний, і виглядають благородніше при штучному освітленні."
+      }
+    ]
+  }
+}

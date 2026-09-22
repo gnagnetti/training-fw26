@@ -1,0 +1,380 @@
+{
+  "id": 7,
+  "name": "Cassina",
+  "description": {
+    "en": "This pullover is the quintessence of Italian elegance from Luisa Spagnoli. The Cassina model, crafted from a noble blend of 90% pure wool and 10% cashmere, achieves a perfect balance between exceptional warmth and refined style. The design's highlight lies in its distinctive 'pera'-shaped sleeves and an accent peplum at the waist that flows into a soft flounce, lending the silhouette an inimitable femininity. A 'serafino'-style closure, adorned with the house's signature heraldic LS buttons, underscores status and attention to detail, transforming this carded knitwear into a true object of desire.",
+    "ru": "Этот пуловер — квинтэссенция итальянской элегантности от Luisa Spagnoli. Модель Cassina, выполненная из благородного сочетания 90% натуральной шерсти и 10% кашемира, представляет собой совершенный баланс между исключительным теплом и изысканным стилем. Изюминкой дизайна являются оригинальные рукава формы 'pera' и акцентная баска на талии, переходящая в мягкий волан, что придает силуэту неповторимую женственность. Застежка в стиле 'серафино', украшенная фирменными геральдическими пуговицами LS, подчеркивает статусность и внимание к деталям, превращая этот кардный трикотаж в настоящий объект желания.",
+    "ar": "هذا البلوفر هو جوهر الأناقة الإيطالية من Luisa Spagnoli. صُنع موديل Cassina من مزيج فاخر يتكون من 90% صوف طبيعي و10% كشمير، ليحقق توازناً مثالياً بين الدفء الاستثنائي والأسلوب الراقي. تكمن روعة التصميم في الأكمام الفريدة بشكل 'pera' والقصة البارزة عند الخصر التي تنسدل في كشكشة ناعمة، مما يمنح القوام أنوثة لا تضاهى. كما تضفي الأزرار بنمط 'serafino' والمزينة بشعار LS العريق لمسة من الفخامة والاهتمام بأدق التفاصيل، مما يجعل هذا التريكو قطعة استثنائية تستحق الاقتناء.",
+    "ka": "ეს პულოვერი Luisa Spagnoli-ს იტალიური ელეგანტურობის კვინტესენციაა. მოდელი Cassina, შესრულებული 90% ნატურალური მატყლისა და 10% ქაშმირის კეთილშობილური შეხამებით, წარმოადგენს სრულყოფილ ბალანსს განსაკუთრებულ სითბოსა და დახვეწილ სტილს შორის. დიზაინის მთავარი მახასიათებელია 'pera'-ს ფორმის ორიგინალური სახელოები და წელზე აქცენტირებული ბასკა, რომელიც ნაზ მორთულობაში (ვოლანში) გადადის, რაც სილუეტს განუმეორებელ ქალურობას ანიჭებს. 'серафино'-ს სტილის შესაკრავი, რომელიც დამშვენებულია საფირმო LS ჰერალდიკური ღილებით, ხაზს უსვამს სტატუსსა და დეტალებისადმი ყურადღებას, რაც ამ კარდულ ტრიკოტაჟს ნამდვილ სასურველ ნივთად აქცევს.",
+    "hy": "Այս պուլովերը Luisa Spagnoli-ի իտալական էլեգանտության կվինտեսենցիան է։ Cassina մոդելը, որը պատրաստված է 90% բնական բրդի և 10% քաշմիրի ազնվազն համադրությունից, ներկայացնում է կատարյալ հավասարակշռություն բացառիկ ջերմության և նրբաճաշակ ոճի միջև։ Դիզայնի առանձնահատկությունը 'pera' ձևի օրիգինալ թևերն են և գոտկատեղի շեշտադրված բասկան, որը վերածվում է փափուկ փեշի, ինչը ուրվագծին հաղորդում է անկրկնելի կանացիություն։ 'серафино' ոճի ճարմանդը, որը զարդարված է LS ֆիրմային հերալդիկ կոճակներով, ընդգծում է կարգավիճակը և ուշադրությունը դետալների նկատմամբ՝ այս կարդային տրիկոտաժը դարձնելով ցանկալի իրական օբյեկտ։",
+    "lv": "Šis džemperis ir itāļu elegances kvintesence no Luisa Spagnoli. Cassina modelis, kas izgatavots no cēla 90% dabīgas vilnas un 10% kašmira apvienojuma, ir ideāls līdzsvars starp izcilu siltumu un izsmalcinātu stilu. Dizaina odziņa ir oriģinālās 'pera' formas piedurknes un akcentēta baskas daļa uz vidukļa, kas pāriet mīkstā volānā, piešķirot siluetam neatkārtojamu sievišķību. 'Serafino' stila aizdare, ko rotā firmas LS heraldikas pogas, uzsver statusu un uzmanību detaļām, padarot šo kardināto trikotāžu par īstu iekāres objektu.",
+    "lt": "Šis puloveris – itališkos elegancijos kvintesencija iš Luisa Spagnoli. Modelis Cassina, pagamintas iš tauraus 90% natūralios vilnos ir 10% kašmyro derinio, yra tobulas balansas tarp išskirtinės šilumos ir rafinuoto stiliaus. Dizaino akcentai – originalios 'pera' formos rankovės ir ties liemeniu besitęsiantis akcentinis baskas, pereinantis į švelnų raukinį, suteikiantį siluetui nepakartojamo moteriškumo. 'Serafino' stiliaus užsegimas, papuoštas firminėmis LS heraldinėmis sagomis, pabrėžia statusą ir dėmesį detalėms, paverčiant šį kardinį trikotažą tikru geidžiamu objektu.",
+    "pl": "Ten pulower to kwintesencja włoskiej elegancji od Luisa Spagnoli. Model Cassina, wykonany ze szlachetnego połączenia 90% naturalnej wełny i 10% kaszmiru, stanowi doskonały balans między wyjątkowym ciepłem a wyrafinowanym stylem. Atutem designu są oryginalne rękawy o kształcie 'pera' oraz akcentująca talię baskinka, przechodząca w miękką falbanę, co nadaje sylwetce niepowtarzalną kobiecość. Zapięcie w stylu 'serafino', ozdobione firmowymi heraldycznymi guzikami LS, podkreśla prestiż i dbałość o detale, czyniąc z tej dzianiny prawdziwy obiekt pożądania.",
+    "uk": "Цей пуловер — квінтесенція італійської елегантності від Luisa Spagnoli. Модель Cassina, виконана з благородного поєднання 90% натуральної вовни та 10% кашеміру, є досконалим балансом між винятковим теплом та вишуканим стилем. Родзинкою дизайну є оригінальні рукави форми 'pera' та акцентна баска на талії, що переходить у м'який волан, що надає силуету неповторної жіночності. Застібка в стилі 'серафіно', прикрашена фірмовими геральдичними ґудзиками LS, підкреслює статусність та увагу до деталей, перетворюючи цей кардний трикотаж на справжній об'єкт бажання."
+  },
+  "colors": [
+    {
+      "name": "Blu",
+      "code": "1251",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uc1CyVvMRxq35iiNrN6cig_638464507696f437093a2c8_38813856_02831000XX1.jpg"
+    },
+    {
+      "name": "Menta",
+      "code": "0506",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uc1CyVvMRxq35iiNrN6cig_638464507696f437093a2c8_38813856_02831000XX1.jpg"
+    },
+    {
+      "name": "Peonia",
+      "code": "1802",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/FvNEyO1hTF2ukTdVI6WIyA_1912334563696f43716d5de8_92507245_02831020XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 171 (Menta)",
+        "en": "Total Look 171 (Menta)",
+        "ar": "Total Look 171 (Menta)",
+        "ka": "Total Look 171 (Menta)",
+        "hy": "Total Look 171 (Menta)",
+        "lv": "Total Look 171 (Menta)",
+        "lt": "Total Look 171 (Menta)",
+        "pl": "Total Look 171 (Menta)",
+        "uk": "Total Look 171 (Menta)"
+      },
+      "text": {
+        "ru": "Cassina 0506 в сочетании с брюками Olivetano 0943, дополненный серьгами Neanide 0002 и обувью Uramaky 0990.",
+        "en": "Cassina 0506 paired with Olivetano 0943 trousers, accessorized with Neanide 0002 earrings and Uramaky 0990 footwear.",
+        "ar": "Cassina 0506 paired with Olivetano 0943 trousers, accessorized with Neanide 0002 earrings and Uramaky 0990 footwear.",
+        "ka": "Cassina 0506 paired with Olivetano 0943 trousers, accessorized with Neanide 0002 earrings and Uramaky 0990 footwear.",
+        "hy": "Cassina 0506 paired with Olivetano 0943 trousers, accessorized with Neanide 0002 earrings and Uramaky 0990 footwear.",
+        "lv": "Cassina 0506 paired with Olivetano 0943 trousers, accessorized with Neanide 0002 earrings and Uramaky 0990 footwear.",
+        "lt": "Cassina 0506 paired with Olivetano 0943 trousers, accessorized with Neanide 0002 earrings and Uramaky 0990 footwear.",
+        "pl": "Cassina 0506 paired with Olivetano 0943 trousers, accessorized with Neanide 0002 earrings and Uramaky 0990 footwear.",
+        "uk": "Cassina 0506 paired with Olivetano 0943 trousers, accessorized with Neanide 0002 earrings and Uramaky 0990 footwear."
+      },
+      "items": [
+        {
+          "name": "Cassina",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uc1CyVvMRxq35iiNrN6cig_638464507696f437093a2c8_38813856_02831000XX1.jpg"
+        },
+        {
+          "name": "Olivetano",
+          "code": "0943",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qdI5UwLCT1OH3R6NaxIWHg_1650191426696f42e87b11a6_96447037_02820670XX1.jpg",
+          "modelId": 249
+        },
+        {
+          "name": "Neanide",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1605403396691c57d8aee920_21613301_02800170XX1.jpg"
+        },
+        {
+          "name": "Uramaky",
+          "code": "0990",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky%20nero.PNG"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 226 (Peonia)",
+        "en": "Total Look 226 (Peonia)",
+        "ar": "Total Look 226 (Peonia)",
+        "ka": "Total Look 226 (Peonia)",
+        "hy": "Total Look 226 (Peonia)",
+        "lv": "Total Look 226 (Peonia)",
+        "lt": "Total Look 226 (Peonia)",
+        "pl": "Total Look 226 (Peonia)",
+        "uk": "Total Look 226 (Peonia)"
+      },
+      "text": {
+        "ru": "Cassina 1802 в паре с джинсами Olla 1073, туфлями Urbana 0101, очками Xnina A 0101 0002 и сумкой Ls1928p A 0101 0038.",
+        "en": "Cassina 1802 paired with Olla 1073 jeans, Urbana 0101 shoes, Xnina A 0101 0002 glasses and an Ls1928p A 0101 0038 bag.",
+        "ar": "Cassina 1802 paired with Olla 1073 jeans, Urbana 0101 shoes, Xnina A 0101 0002 glasses and an Ls1928p A 0101 0038 bag.",
+        "ka": "Cassina 1802 paired with Olla 1073 jeans, Urbana 0101 shoes, Xnina A 0101 0002 glasses and an Ls1928p A 0101 0038 bag.",
+        "hy": "Cassina 1802 paired with Olla 1073 jeans, Urbana 0101 shoes, Xnina A 0101 0002 glasses and an Ls1928p A 0101 0038 bag.",
+        "lv": "Cassina 1802 paired with Olla 1073 jeans, Urbana 0101 shoes, Xnina A 0101 0002 glasses and an Ls1928p A 0101 0038 bag.",
+        "lt": "Cassina 1802 paired with Olla 1073 jeans, Urbana 0101 shoes, Xnina A 0101 0002 glasses and an Ls1928p A 0101 0038 bag.",
+        "pl": "Cassina 1802 paired with Olla 1073 jeans, Urbana 0101 shoes, Xnina A 0101 0002 glasses and an Ls1928p A 0101 0038 bag.",
+        "uk": "Cassina 1802 paired with Olla 1073 jeans, Urbana 0101 shoes, Xnina A 0101 0002 glasses and an Ls1928p A 0101 0038 bag."
+      },
+      "items": [
+        {
+          "name": "Cassina",
+          "code": "1802",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/FvNEyO1hTF2ukTdVI6WIyA_1912334563696f43716d5de8_92507245_02831020XX1.jpg"
+        },
+        {
+          "name": "Olla",
+          "code": "1073",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png",
+          "modelId": 456
+        },
+        {
+          "name": "Urbana",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%2827%29.png"
+        },
+        {
+          "name": "Xnina A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-10%20at%2014.20.26%20%281%29.jpeg"
+        },
+        {
+          "name": "Ls1928p A",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the premium composition: cashmere lends unparalleled softness, while virgin wool provides durability and a refined structure.",
+      "Emphasize the distinctive cut of the sleeves and peplum: this piece beautifully conceals figure nuances, creating a harmonious and deeply feminine silhouette.",
+      "Suggest Cassina as a key layering piece: the heraldic buttons allow the pullover to be worn alone or over a delicate silk blouse."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на премиальном составе: кашемир дарит непревзойденную мягкость, а virgin wool — долговечность и благородную структуру.",
+      "Подчеркните уникальный крой рукавов и баски: эта модель идеально скрывает нюансы фигуры, создавая гармоничный и очень женственный силуэт.",
+      "Предлагайте Cassina как ключевой элемент многослойного образа: геральдические пуговицы позволяют носить пуловер самостоятельно или поверх тонкой шелковой блузы."
+    ],
+    "ar": [
+      "سلطي الضوء للعميلة على المكونات الفاخرة: يمنح الكشمير نعومة لا تضاهى، بينما يضمن صوف 'virgin wool' المتانة والهيكل الأنيق.",
+      "أكدي على القصّة الفريدة للأكمام والخصر: هذا الموديل يخفي عيوب الجسم ببراعة، مما يخلق صورة ظلية متناغمة وأنثوية للغاية.",
+      "اقترحي Cassina كعنصر أساسي في الإطلالات متعددة الطبقات: الأزرار ذات الطابع الهرالدي تسمح بارتداء البلوفر بمفرده أو فوق قميص حريري رقيق."
+    ],
+    "ka": [
+      "ყურადღება გაამახვილეთ კლიენტის ყურადღება პრემიალურ შემადგენლობაზე: ქაშმირი ანიჭებს შეუდარებელ რბილობას, ხოლო virgin wool — გამძლეობას და კეთილშობილურ სტრუქტურას.",
+      "ხაზი გაუსვით სახელოებისა და ბასკის უნიკალურ კროის: ეს მოდელი იდეალურად ფარავს ფიგურის ნიუანსებს, რაც ქმნის ჰარმონიულ და ძალიან ქალურ სილუეტს.",
+      "შესთავაზეთ Cassina, როგორც მრავალშრიანი იმიჯის საკვანძო ელემენტი: ჰერალდიკური ღილები საშუალებას იძლევა ატაროთ პულოვერი დამოუკიდებლად ან თხელი აბრეშუმის ბლუზის ზემოდან."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք պրեմիում բաղադրության վրա. քաշմիրը պարգևում է անգերազանցելի փափկություն, իսկ virgin wool-ը՝ երկարակեցություն և ազնվական կառուցվածք:",
+      "Ընդգծեք թևքերի և բասկայի յուրահատուկ ձևվածքը. այս մոդելը կատարելապես թաքցնում է կազմվածքի նրբերանգները՝ ստեղծելով ներդաշնակ և շատ կանացի ուրվագիծ:",
+      "Առաջարկեք Cassina-ն որպես բազմաշերտ կերպարի հիմնական տարր. հերալդիկ կոճակները թույլ են տալիս պուլովերը կրել ինքնուրույն կամ բարակ մետաքսե բլուզի վրայից:"
+    ],
+    "lv": [
+      "Vērsiet klienta uzmanību uz premium klases sastāvu: kašmirs dāvā nepārspējamu mīkstumu, bet virgin wool — ilgmūžību un cēlu struktūru.",
+      "Uzsveriet unikālo piedurkņu un baskas piegriezumu: šis modelis ideāli noslēpj figūras nianses, radot harmonisku un ļoti sievišķīgu siluetu.",
+      "Piedāvājiet Cassina kā daudzslāņu tēla galveno elementu: heraldiskās pogas ļauj nēsāt puloveru patstāvīgi vai pāri plānai zīda blūzei."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į aukščiausios kokybės sudėtį: kašmyras suteikia nepakartojamą švelnumą, o virgin wool — ilgaamžiškumą ir kilnią struktūrą.",
+      "Pabrėžkite unikalų rankovių ir basko kirpimą: šis modelis idealiai paslepia figūros niuansus, sukuriant harmoningą ir labai moterišką siluetą.",
+      "Pasiūlykite Cassina kaip pagrindinį daugiasluoksnio įvaizdžio elementą: heraldinės sagos leidžia dėvėti megztinį tiek vieną, tiek ant plonos šilkinės palaidinės."
+    ],
+    "pl": [
+      "Skup uwagę klienta na składzie premium: kaszmir zapewnia niezrównaną miękkość, a virgin wool — trwałość i szlachetną strukturę.",
+      "Podkreśl unikalny krój rękawów i baskinki: ten model idealnie maskuje niedoskonałości sylwetki, tworząc harmonijną i bardzo kobiecą linię.",
+      "Zaproponuj Cassina jako kluczowy element warstwowej stylizacji: heraldyczne guziki pozwalają nosić pulower samodzielnie lub na cienką jedwabną bluzkę."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на преміальному складі: кашемір дарує неперевершену м'якість, а virgin wool — довговічність та благородну структуру.",
+      "Підкресліть унікальний крій рукавів та баски: ця модель ідеально приховує нюанси фігури, створюючи гармонійний і дуже жіночний силует.",
+      "Пропонуйте Cassina як ключовий елемент багатошарового образу: геральдичні ґудзики дозволяють носити пуловер самостійно або поверх тонкої шовкової блузи."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Concern that the peplum (flounce) will visually add volume around the hips.",
+        "a": "On the contrary, the peplum cut, combined with the fitted waist section, structures the silhouette, creating an 'hourglass' effect and accentuating the waist."
+      },
+      {
+        "q": "How should such a delicate cashmere-blend piece be cared for?",
+        "a": "We recommend exclusively professional dry cleaning, to preserve the delicate structure of the carded yarn and the flawless appearance of the signature buttons."
+      },
+      {
+        "q": "The heraldic buttons seem overly decorative.",
+        "a": "These details are a symbol of the Luisa Spagnoli brand's DNA. They take the place of jewelry, allowing the look to remain understated yet status-defining."
+      },
+      {
+        "q": "The model seems too dressy for everyday wear.",
+        "a": "Paired with denim, as in our Look 226, the Cassina pullover takes on an on-trend casual-chic style, while preserving its note of luxury."
+      },
+      {
+        "q": "Won't the Regular fit be too loose?",
+        "a": "The Regular fit in this model is designed to ensure freedom of movement, while the peplum guarantees the piece sits precisely on the figure."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Боязнь, что баска (волан) визуально добавит объема в области бедер.",
+        "a": "Напротив, крой баски в сочетании с прилегающей частью на талии структурирует силуэт, создавая эффект 'песочных часов' и подчеркивая талию."
+      },
+      {
+        "q": "Как ухаживать за таким деликатным изделием с кашемиром?",
+        "a": "Мы рекомендуем исключительно профессиональную химчистку, чтобы сохранить нежную структуру кардной пряжи и безупречный вид фирменных пуговиц."
+      },
+      {
+        "q": "Геральдические пуговицы кажутся слишком декоративными.",
+        "a": "Эти детали являются символом ДНК бренда Luisa Spagnoli. Они заменяют украшения, позволяя образу оставаться лаконичным, но статусным."
+      },
+      {
+        "q": "Модель кажется слишком нарядной для повседневной носки.",
+        "a": "В сочетании с денимом, как в нашем Look 226, пуловер Cassina приобретает актуальный стиль casual-chic, сохраняя ноту роскоши."
+      },
+      {
+        "q": "Посадка Regular fit не будет ли слишком свободной?",
+        "a": "Regular fit в данной модели спроектирован так, чтобы обеспечить комфорт движений, при этом баска гарантирует, что изделие сядет точно по фигуре."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الخوف من أن الكشكشة (الباسك) ستزيد بصرياً من حجم منطقة الوركين.",
+        "a": "على العكس، فإن قصة الباسك مع الجزء الضيق عند الخصر تمنح القوام هيكلاً، مما يخلق تأثير 'الساعة الرملية' ويبرز منطقة الخصر."
+      },
+      {
+        "q": "كيفية العناية بهذه القطعة الرقيقة التي تحتوي على الكشمير؟",
+        "a": "نوصي حصرياً بالتنظيف الجاف الاحترافي للحفاظ على البنية الرقيقة للخيوط الممشطة والمظهر المثالي للأزرار المميزة."
+      },
+      {
+        "q": "الأزرار ذات الطابع الشعاري تبدو زخرفية أكثر من اللازم.",
+        "a": "هذه التفاصيل هي رمز للحمض النووي لعلامة Luisa Spagnoli. فهي تغني عن استخدام الحلي والمجوهرات، مما يجعل المظهر بسيطاً وراقياً في آن واحد."
+      },
+      {
+        "q": "تبدو القطعة رسمية جداً للاستخدام اليومي.",
+        "a": "عند تنسيقه مع الجينز، كما في Look 226، يكتسب بلوفر Cassina أسلوب الـ casual-chic العصري مع الحفاظ على لمسة الفخامة."
+      },
+      {
+        "q": "هل قصة Regular fit ستكون واسعة جداً؟",
+        "a": "صُممت قصة Regular fit في هذا الموديل لضمان حرية الحركة، مع ضمان أن الباسك سيلائم الجسم بدقة.]"
+      }
+    ],
+    "ka": [
+      {
+        "q": "შიში იმისა, რომ ბასკა (ფრიალი) ვიზუალურად დაამატებს მოცულობას თეძოების არეში.",
+        "a": "პირიქით, ბასკის კროი წელზე მომდგარ ნაწილთან კომბინაციაში აკონსტრუირებს სილუეტს, ქმნის 'ქვიშის საათის' ეფექტს და ხაზს უსვამს წელს."
+      },
+      {
+        "q": "როგორ მოვუაროთ ასეთ დელიკატურ ნაკეთობას ქაშმირით?",
+        "a": "ჩვენ რეკომენდაციას ვუწევთ მხოლოდ პროფესიონალურ ქიმწმენდას, რათა შევინარჩუნოთ კარდული ძაფის ნაზი სტრუქტურა და ფირმული ღილების უნაკლო იერსახე."
+      },
+      {
+        "q": "ჰერალდიკური ღილები ზედმეტად დეკორატიული ჩანს.",
+        "a": "ეს დეტალები ბრენდ Luisa Spagnoli-ს დნმ-ის სიმბოლოა. ისინი ცვლიან სამკაულებს, რაც სახეს საშუალებას აძლევს დარჩეს ლაკონური, მაგრამ სტატუსური."
+      },
+      {
+        "q": "მოდელი ყოველდღიური ტარებისთვის ზედმეტად საზეიმოდ ჩანს.",
+        "a": "დენიმთან კომბინაციაში, ისევე როგორც ჩვენს Look 226-ში, პულოვერი Cassina იძენს აქტუალურ სტილს casual-chic, ინარჩუნებს რა ფუფუნების ნოტს."
+      },
+      {
+        "q": "Regular fit მორგება ზედმეტად თავისუფალი ხომ არ იქნება?",
+        "a": "Regular fit ამ მოდელში დაპროექტებულია ისე, რომ უზრუნველყოს მოძრაობის კომფორტი, ამასთან ბასკა გარანტიას იძლევა, რომ ნაკეთობა ზუსტად მოერგება ფიგურას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Մտավախություն, որ բասկան (վոլանը) տեսողականորեն ծավալ կավելացնի ազդրերի հատվածում։",
+        "a": "Ընդհակառակը, բասկայի կտրվածքը գոտկատեղի կիպ հատվածի հետ համակցությամբ կառուցվածքավորում է ուրվագիծը՝ ստեղծելով «ավազե ժամացույցի» էֆեկտ և ընդգծելով գոտկատեղը։"
+      },
+      {
+        "q": "Ինչպե՞ս խնամել քաշմիրով այսպիսի նուրբ արտադրանքը։",
+        "a": "Մենք խորհուրդ ենք տալիս բացառապես մասնագիտական քիմմաքրում, որպեսզի պահպանվի քարտային մանվածքի նուրբ կառուցվածքը և ֆիրմային կոճակների անթերի տեսքը։"
+      },
+      {
+        "q": "Հերալդիկ կոճակները չափազանց դեկորատիվ են թվում։",
+        "a": "Այս դետալները հանդիսանում են Luisa Spagnoli բրենդի ԴՆԹ-ի խորհրդանիշը։ Դրանք փոխարինում են զարդերին՝ թույլ տալով կերպարին մնալ լակոնիկ, բայց կարգավիճակային։"
+      },
+      {
+        "q": "Մոդելը չափազանց տոնական է թվում առօրյա հագուստի համար։",
+        "a": "Դենիմի հետ համակցությամբ, ինչպես մեր Look 226-ում, Cassina պուլովերը ստանում է արդիական casual-chic ոճ՝ պահպանելով շքեղության նոտան։"
+      },
+      {
+        "q": "Regular fit ձևվածքը չափազանց ազատ չի՞ լինի։",
+        "a": "Այս մոդելի Regular fit-ը նախագծված է այնպես, որպեսզի ապահովի շարժումների հարմարավետություն, ընդ որում՝ բասկան երաշխավորում է, որ արտադրանքը կնստի ճիշտ կազմվածքով։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Bailes, ka basks (volāns) vizuāli palielinās apjomu gurnu zonā.",
+        "a": "Gluži pretēji, baska piegriezums kombinācijā ar piegulošo daļu viduklī strukturē siluetu, radot 'smilšu pulksteņa' efektu un izceļot vidukli."
+      },
+      {
+        "q": "Kā kopt šādu delikātu izstrādājumu ar kašmiru?",
+        "a": "Mēs iesakām tikai profesionālu ķīmisko tīrīšanu, lai saglabātu kārstās dzijas maigo struktūru un nevainojamu firmas pogu izskatu."
+      },
+      {
+        "q": "Heraldikas pogas šķiet pārāk dekoratīvas.",
+        "a": "Šīs detaļas ir Luisa Spagnoli zīmola DNS simbols. Tās aizstāj rotaslietas, ļaujot tēlam palikt lakoniskam, bet statusu apliecinošam."
+      },
+      {
+        "q": "Modelis šķiet pārāk grezns ikdienas valkāšanai.",
+        "a": "Kombinācijā ar džinsu audumu, kā mūsu Look 226, Cassina pulovers iegūst aktuālu casual-chic stilu, saglabājot greznības noti."
+      },
+      {
+        "q": "Vai Regular fit piegriezums nebūs pārāk brīvs?",
+        "a": "Regular fit šajā modelī ir ieprojektēts tā, lai nodrošinātu kustību komfortu, vienlaikus baska garantē, ka izstrādājums piegulēs tieši pēc figūras."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Baimė, kad baskų (raukinio) detalė vizualiai pridės apimties klubų srityje.",
+        "a": "Priešingai, baskų kirpimas kartu su prigludusia liemens dalimi struktūrizuoja siluetą, sukurdami „smėlio laikrodžio“ efektą ir pabrėždami taliją."
+      },
+      {
+        "q": "Kaip prižiūrėti tokį delikačių su kašmyru gaminį?",
+        "a": "Rekomenduojame tik profesionalų cheminį valymą, kad išsaugotumėte švelnią karšinės verpalų struktūrą ir nepriekaištingą firminių sagų išvaizdą."
+      },
+      {
+        "q": "Heraldinės sagos atrodo pernelyg dekoratyvios.",
+        "a": "Šios detalės yra Luisa Spagnoli prekės ženklo DNR simbolis. Jos atstoja papuošalus, leisdamos įvaizdžiui išlikti lakoniškam, bet statusiniam."
+      },
+      {
+        "q": "Modelis atrodo pernelyg puošnus kasdieniam dėvėjimui.",
+        "a": "Derinant su džinsu, kaip mūsų Look 226, Cassina megztinis įgauna aktualų casual-chic stilių, išsaugodamas prabangos natą."
+      },
+      {
+        "q": "Ar Regular fit kirpimas nebus per laisvas?",
+        "a": "Šio modelio Regular fit suprojektuotas taip, kad užtikrintų judesių laisvę, o baskų detalė garantuoja, kad gaminys idealiai priglus prie figūros."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Obawa, że baskinka (falbana) wizualnie doda objętości w okolicy bioder.",
+        "a": "Wręcz przeciwnie, krój baskinki w połączeniu z dopasowaną częścią w talii porządkuje sylwetkę, tworząc efekt 'klepsydry' i podkreślając talię."
+      },
+      {
+        "q": "Jak dbać o tak delikatny produkt z kaszmirem?",
+        "a": "Zalecamy wyłącznie profesjonalne czyszczenie chemiczne, aby zachować delikatną strukturę przędzy zgrzebnej i nienaganny wygląd firmowych guzików."
+      },
+      {
+        "q": "Heraldyczne guziki wydają się zbyt dekoracyjne.",
+        "a": "Te detale są symbolem DNA marki Luisa Spagnoli. Zastępują ozdoby, pozwalając stylizacji pozostać lakoniczną, lecz prestiżową."
+      },
+      {
+        "q": "Model wydaje się zbyt elegancki do codziennego noszenia.",
+        "a": "W połączeniu z denimem, jak w naszym Look 226, sweter Cassina nabiera aktualnego stylu casual-chic, zachowując nutę luksusu."
+      },
+      {
+        "q": "Czy krój Regular fit nie będzie zbyt luźny?",
+        "a": "Krój Regular fit w tym modelu został zaprojektowany tak, aby zapewnić komfort ruchu, przy czym baskinka gwarantuje, że produkt ułoży się dokładnie do figury."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Побоювання, що баска (волан) візуально додасть об'єму в області стегон.",
+        "a": "Навпаки, крій баски в поєднанні з прилеглою частиною на талії структурує силует, створюючи ефект 'пісочного годинника' і підкреслюючи талію."
+      },
+      {
+        "q": "Як доглядати за таким делікатним виробом із кашеміром?",
+        "a": "Ми рекомендуємо виключно професійну хімчистку, щоб зберегти ніжну структуру кардної пряжі та бездоганний вигляд фірмових ґудзиків."
+      },
+      {
+        "q": "Геральдичні ґудзики здаються занадто декоративними.",
+        "a": "Ці деталі є символом ДНК бренду Luisa Spagnoli. Вони замінюють прикраси, дозволяючи образу залишатися лаконічним, але статусним."
+      },
+      {
+        "q": "Модель здається занадто ошатною для повсякденного носіння.",
+        "a": "У поєднанні з денімом, як у нашому Look 226, пуловер Cassina набуває актуального стилю casual-chic, зберігаючи ноту розкоші."
+      },
+      {
+        "q": "Посадка Regular fit чи не буде занадто вільною?",
+        "a": "Regular fit у цій моделі спроектований так, щоб забезпечити комфорт рухів, при цьому баска гарантує, що виріб сяде точно по фігурі."
+      }
+    ]
+  }
+}

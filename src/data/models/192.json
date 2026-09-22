@@ -1,0 +1,339 @@
+{
+  "id": 192,
+  "name": "Mossa G",
+  "description": {
+    "en": "Data not available in official sources",
+    "ru": "Данные отсутствуют в официальных источниках",
+    "ar": "البيانات غير متوفرة في المصادر الرسمية",
+    "ka": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+    "hy": "Տվյալները բացակայում են պաշտոնական աղբյուրներում",
+    "lv": "Oficiālajos avotos dati nav pieejami",
+    "lt": "Duomenų oficialiuose šaltiniuose nėra",
+    "pl": "Dane nie są dostępne w oficjalnych źródłach",
+    "uk": "Дані відсутні в офіційних джерелах"
+  },
+  "colors": [
+    {
+      "name": "Marrone",
+      "code": "0970",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7b9e70ac-1f12-46cb-beea-852f7a2328f9-removebg-preview.png"
+    },
+    {
+      "name": "Grigio Scuro",
+      "code": "0846",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7b9e70ac-1f12-46cb-beea-852f7a2328f9-removebg-preview.png"
+    },
+    {
+      "name": "Beige",
+      "code": "1117",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/424744066692424e6cb3288_17813942_02790660XX1.jpg"
+    },
+    {
+      "name": "Beige",
+      "code": "1196",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1521180938691c57957f00e9_43412502_02790690XX1.jpg"
+    },
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAB_10100000000%20%284%29.jpg"
+    },
+    {
+      "name": "Panna",
+      "code": "0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAC_20200000000.jpg"
+    },
+    {
+      "name": "Rosa",
+      "code": "0319",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/mossa1.PNG"
+    },
+    {
+      "name": "Senape",
+      "code": "1936",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1502023806691c5795df5d54_53746819_02790700XX1.jpg"
+    },
+    {
+      "name": "Verde Bottiglia",
+      "code": "2050",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/905979432691c579646ed87_60926812_02790710XX1.jpg"
+    },
+    {
+      "name": "Melanzana",
+      "code": "0759",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281018%29.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Look 85)",
+        "en": "Total Look (Look 85)",
+        "ar": "Total Look (Look 85)",
+        "ka": "Total Look (Look 85)",
+        "hy": "Total Look (Look 85)",
+        "lv": "Total Look (Look 85)",
+        "lt": "Total Look (Look 85)",
+        "pl": "Total Look (Look 85)",
+        "uk": "Total Look (Look 85)"
+      },
+      "text": {
+        "ru": "Mossa G 0759 в сочетании с жакетом Moles 0759 и брюками Minuccio A 0759.",
+        "en": "Mossa G 0759 combined with the Moles 0759 jacket and Minuccio A 0759 trousers.",
+        "ar": "Mossa G 0759 combined with the Moles 0759 jacket and Minuccio A 0759 trousers.",
+        "ka": "Mossa G 0759 combined with the Moles 0759 jacket and Minuccio A 0759 trousers.",
+        "hy": "Mossa G 0759 combined with the Moles 0759 jacket and Minuccio A 0759 trousers.",
+        "lv": "Mossa G 0759 combined with the Moles 0759 jacket and Minuccio A 0759 trousers.",
+        "lt": "Mossa G 0759 combined with the Moles 0759 jacket and Minuccio A 0759 trousers.",
+        "pl": "Mossa G 0759 combined with the Moles 0759 jacket and Minuccio A 0759 trousers.",
+        "uk": "Mossa G 0759 combined with the Moles 0759 jacket and Minuccio A 0759 trousers."
+      },
+      "items": [
+        {
+          "name": "Mossa G",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281018%29.png"
+        },
+        {
+          "name": "Moles",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2011465512692424d2e88a74_22193304_02781330XX1.jpg",
+          "modelId": 447
+        },
+        {
+          "name": "Minuccio A",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281017%29.png",
+          "modelId": 177
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (Look 96)",
+        "en": "Total Look (Look 96)",
+        "ar": "Total Look (Look 96)",
+        "ka": "Total Look (Look 96)",
+        "hy": "Total Look (Look 96)",
+        "lv": "Total Look (Look 96)",
+        "lt": "Total Look (Look 96)",
+        "pl": "Total Look (Look 96)",
+        "uk": "Total Look (Look 96)"
+      },
+      "text": {
+        "ru": "Mossa G 0101 со стильным кожаным блейзером Solarita 0101 и юбкой Fulvia 3410.",
+        "en": "Mossa G 0101 with a stylish Solarita 0101 leather blazer and Fulvia 3410 skirt.",
+        "ar": "Mossa G 0101 with a stylish Solarita 0101 leather blazer and Fulvia 3410 skirt.",
+        "ka": "Mossa G 0101 with a stylish Solarita 0101 leather blazer and Fulvia 3410 skirt.",
+        "hy": "Mossa G 0101 with a stylish Solarita 0101 leather blazer and Fulvia 3410 skirt.",
+        "lv": "Mossa G 0101 with a stylish Solarita 0101 leather blazer and Fulvia 3410 skirt.",
+        "lt": "Mossa G 0101 with a stylish Solarita 0101 leather blazer and Fulvia 3410 skirt.",
+        "pl": "Mossa G 0101 with a stylish Solarita 0101 leather blazer and Fulvia 3410 skirt.",
+        "uk": "Mossa G 0101 with a stylish Solarita 0101 leather blazer and Fulvia 3410 skirt."
+      },
+      "items": [
+        {
+          "name": "Mossa G",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAB_10100000000%20%284%29.jpg"
+        },
+        {
+          "name": "Solarita",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1355459512691f1569150990_65095974_02780630XX1.jpg",
+          "modelId": 486
+        },
+        {
+          "name": "Fulvia",
+          "code": "3410",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/722670603691f1561b51c63_70556303_02780490XX1.jpg",
+          "modelId": 392
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 112",
+        "en": "Vetrina 112",
+        "ar": "Vetrina 112",
+        "ka": "Vetrina 112",
+        "hy": "Vetrina 112",
+        "lv": "Vetrina 112",
+        "lt": "Vetrina 112",
+        "pl": "Vetrina 112",
+        "uk": "Vetrina 112"
+      },
+      "text": {
+        "ru": "Mossa G 1936 дополненный рубашкой Lucinda 0201 и брюками Olla 1073.",
+        "en": "Mossa G 1936 complemented by the Lucinda 0201 shirt and Olla 1073 trousers.",
+        "ar": "Mossa G 1936 complemented by the Lucinda 0201 shirt and Olla 1073 trousers.",
+        "ka": "Mossa G 1936 complemented by the Lucinda 0201 shirt and Olla 1073 trousers.",
+        "hy": "Mossa G 1936 complemented by the Lucinda 0201 shirt and Olla 1073 trousers.",
+        "lv": "Mossa G 1936 complemented by the Lucinda 0201 shirt and Olla 1073 trousers.",
+        "lt": "Mossa G 1936 complemented by the Lucinda 0201 shirt and Olla 1073 trousers.",
+        "pl": "Mossa G 1936 complemented by the Lucinda 0201 shirt and Olla 1073 trousers.",
+        "uk": "Mossa G 1936 complemented by the Lucinda 0201 shirt and Olla 1073 trousers."
+      },
+      "items": [
+        {
+          "name": "Mossa G",
+          "code": "1936",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1502023806691c5795df5d54_53746819_02790700XX1.jpg"
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Olla",
+          "code": "1073",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png",
+          "modelId": 456
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasise the versatility of this accessory: Muni A complements both a classic wool coat and a more casual look with a laid-back jacket, with equal elegance.",
+      "Highlight the rich colour palette, which allows the perfect shade to be selected for either a monochromatic look or a vibrant pop of colour.",
+      "Recommend Muni A as a luxurious and infallible gift, embodying an attention to detail and a devotion to the traditions of the Luisa Spagnoli maison."
+    ],
+    "ru": [
+      "Данные отсутствуют в официальных источниках",
+      "Данные отсутствуют в официальных источниках",
+      "Данные отсутствуют в официальных источниках"
+    ],
+    "ar": [
+      "البيانات غير متوفرة في المصادر الرسمية",
+      "البيانات غير متوفرة في المصادر الرسمية",
+      "البيانات غير متوفرة في المصادر الرسمية"
+    ],
+    "ka": [
+      "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+      "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+      "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება"
+    ],
+    "hy": [
+      "Տվյալները բացակայում են պաշտոնական աղբյուրներում",
+      "Տվյալները բացակայում են պաշտոնական աղբյուրներում",
+      "Տվյալները բացակայում են պաշտոնական աղբյուրներում"
+    ],
+    "lv": [
+      "Dati nav pieejami oficiālajos avotos",
+      "Dati nav pieejami oficiālajos avotos",
+      "Dati nav pieejami oficiālajos avotos"
+    ],
+    "lt": [
+      "Duomenų oficialiuose šaltiniuose nėra",
+      "Duomenų oficialiuose šaltiniuose nėra",
+      "Duomenų oficialiuose šaltiniuose nėra"
+    ],
+    "pl": [
+      "Dane są niedostępne w oficjalnych źródłach",
+      "Dane są niedostępne w oficjalnych źródłach",
+      "Dane są niedostępne w oficjalnych źródłach"
+    ],
+    "uk": [
+      "Дані відсутні в офіційних джерелах",
+      "Дані відсутні в офіційних джерелах",
+      "Дані відсутні в офіційних джерелах"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      }
+    ],
+    "ru": [],
+    "ar": [
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      }
+    ],
+    "ka": [
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      }
+    ],
+    "hy": [],
+    "lv": [],
+    "lt": [],
+    "pl": [
+      {
+        "q": "Dane nie są dostępne w oficjalnych źródłach",
+        "a": "Dane nie są dostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane nie są dostępne w oficjalnych źródłach",
+        "a": "Dane nie są dostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane nie są dostępne w oficjalnych źródłach",
+        "a": "Dane nie są dostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane nie są dostępne w oficjalnych źródłach",
+        "a": "Dane nie są dostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane nie są dostępne w oficjalnych źródłach",
+        "a": "Dane nie są dostępne w oficjalnych źródłach"
+      }
+    ],
+    "uk": []
+  }
+}

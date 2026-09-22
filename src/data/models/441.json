@@ -1,0 +1,426 @@
+{
+  "id": 441,
+  "name": "Menola",
+  "description": {
+    "en": "The Menola cardigan is a signature piece, part of the Fashion Show runway line and the quintessence of a contemporary reading of Luisa Spagnoli's heritage. The piece, styled as a 'blouson', is crafted from pure virgin wool (pura lana vergine), whose noble texture is completed with a classic notched collar (rever) and a double-breasted button closure that masterfully emulates genuine horn. The piece's architecture masterfully plays with proportions: a cropped length and rib-finished edges create a dynamic, distinctly feminine silhouette. This is the embodiment of intellectual luxury, where the comfort of knitwear unites with the discipline of a jacket, ensuring a flawless Regular fit.",
+    "ru": "Кардиган Menola --- это знаковое изделие, вошедшее в подиумную линию Fashion Show и ставшее квинтэссенцией современного прочтения наследия Luisa Spagnoli. Модель выполнена в стиле «blouson» из чистой девственной шерсти (pura lana vergine), чья благородная фактура дополнена классическим воротником с лацканами (rever) и двубортной застежкой на пуговицы, искусно имитирующие натуральный рог. Архитектура изделия виртуозно играет с пропорциями: укороченная длина (cropped) и края, обработанные в рубчик, создают динамичный и подчеркнуто женственный силуэт. Это воплощение интеллектуальной роскоши, где уют трикотажа соединяется со строгостью жакета, обеспечивая безупречную регулярную посадку (vestibilità regular).",
+    "ar": "كارديغان Menola هو قطعة أيقونية ضمن عرض الأزياء (Fashion Show)، وأصبح تجسيداً للقراءة المعاصرة لتراث Luisa Spagnoli. صُمم الموديل بأسلوب «بلوزون» (blouson) من الصوف البكر الخالص (pura lana vergine)، حيث يكمل قوامه النبيل ياقة كلاسيكية مع تلابيب (rever) وإغلاق مزدوج بأزرار تحاكي ببراعة قرن الحيوان الطبيعي. تتلاعب هندسة القطعة ببراعة بالنسب: الطول القصير (cropped) والحواف المضلعة تخلق صورة ظلية ديناميكية وأنثوية بامتياز. هذا هو تجسيد للفخامة الفكرية، حيث تلتقي راحة التريكو بصرامة السترة، مما يضمن مقاساً منتظماً مثالياً (vestibilità regular).",
+    "ka": "კარდიგანი Menola — ეს არის საკულტო ნაკეთობა, რომელიც შევიდა Fashion Show-ს პოდიუმის ხაზში და იქცა Luisa Spagnoli-ის მემკვიდრეობის თანამედროვე გააზრების კვინტესენციად. მოდელი შესრულებულია «blouson»-ის სტილში სუფთა ქალწულებრივი მატყლისგან (pura lana vergine), რომლის კეთილშობილი ფაქტურა დამატებულია ლაპელებიანი (rever) კლასიკური საყელოთი და ბუნებრივი რქის იმიტაციის ღილებზე ორბორტიანი შესაკრავით. ნაკეთობის არქიტექტურა ვირტუოზულად თამაშობს პროპორციებით: დამოკლებული სიგრძე (cropped) და ნეკნებით დამუშავებული კიდეები ქმნის დინამიურ და ხაზგასმულად ქალურ სილუეტს. ეს არის ინტელექტუალური ფუფუნების განსახიერება, სადაც ტრიკოტაჟის სიმყუდროვე უერთდება ჟაკეტის სიმკაცრეს, რაც უზრუნველყოფს უნაკლო რეგულარულ მორგებას (vestibilità regular).",
+    "hy": "Menola կարդիգանը նշանավոր իր է, որը մտել է Fashion Show պոդիումային հավաքածուի մեջ և դարձել Luisa Spagnoli-ի ժառանգության ժամանակակից ընկալման քվինտեսենցիան։ Մոդելը պատրաստված է «blouson» ոճով՝ մաքուր կուսական բրդից (pura lana vergine), որի ազնվական հյուսվածքը համալրված է լացկաններով (rever) դասական օձիքով և բնական եղջյուրը վարպետորեն նմանակող կոճակներով կրկնակի ճարմանդով։ Իրի ճարտարապետությունը վիրտուոզ կերպով խաղում է համաչափություններով. կարճացված երկարությունը (cropped) և կողագծերով մշակված եզրերը ստեղծում են դինամիկ և ընդգծված կանացի ուրվագիծ։ Սա ինտելեկտուալ շքեղության մարմնացումն է, որտեղ տրիկոտաժի հարմարավետությունը միաձուլվում է ժակետի խստության հետ՝ ապահովելով անթերի կանոնավոր նստվածք (vestibilità regular)։",
+    "lv": "Jaciņa Menola — tas ir zīmola izstrādājums, kas iekļauts Fashion Show mēles līnijā un kļuvis par Luisa Spagnoli mantojuma mūsdienīgas interpretācijas kvintesenci. Modelis ir izgatavots «blouson» stilā no tīras jaunvilnas (pura lana vergine), kuras cēlo faktūru papildina klasiska apkakle ar atlokiem (rever) un divrindu aizdare ar pogām, kas prasmīgi imitē dabisko ragu. Izstrādājuma arhitektūra virtuozi spēlējas ar proporcijām: saīsinātais garums (cropped) un ribotās malas rada dinamisku un izteikti sievišķīgu siluetu. Tas ir intelektuāla luksusa iemiesojums, kur trikotāžas mājīgums savienojas ar žaketes stingrību, nodrošinot nevainojamu regulāru piegriezumu (vestibilità regular).",
+    "lt": "Kardiganas Menola --- tai ženkli prekė, patekusi į Fashion Show podiumo liniją ir tapusi šiuolaikinio Luisa Spagnoli paveldo interpretacijos kvintesencija. Modelis pagamintas „blouson“ stiliumi iš gryno pirminio vilnos pluošto (pura lana vergine), kurio kilnią faktūrą papildo klasikinė apykaklė su atlapais (rever) ir dvieilis užsegimas sagomis, meistriškai imituojančiomis natūralų ragą. Gaminio architektūra meistriškai žaidžia proporcijomis: trumpintas ilgis (cropped) ir rumbeliu apdoroti kraštai sukuria dinamišką ir pabrėžtinai moterišką siluetą. Tai intelektualios prabangos įsikūnijimas, kur trikotažo jaukumas dera su švarko griežtumu, užtikrinant nepriekaištingą reguliarų sukirpimą (vestibilità regular).",
+    "pl": "Kardigan Menola to ikoniczny model, który wszedł do linii wybiegowej Fashion Show i stał się kwintesencją współczesnej interpretacji dziedzictwa Luisa Spagnoli. Model wykonany w stylu „blouson” z czystej dziewiczej wełny (pura lana vergine), której szlachetna faktura uzupełniona jest klasycznym kołnierzem z klapami (rever) i dwurzędowym zapięciem na guziki, kunsztownie imitujące naturalny róg. Architektura wyrobu mistrzowsko bawi się proporcjami: skrócona długość (cropped) oraz wykończenie brzegów w prążek tworzą dynamiczną i podkreślenie kobiecą sylwetkę. To ucieleśnienie intelektualnego luksusu, gdzie przytulność dzianiny łączy się z surowością żakietu, zapewniając nienaganny regularny krój (vestibilità regular).",
+    "uk": "Кардиган Menola --- это знаковое изделие, вошедшее в подиумную линию Fashion Show и ставшее квинтэссенцией современного прочтения наследия Luisa Spagnoli. Модель выполнена в стиле «blouson» из чистой девственной шерсти (pura lana vergine), чья благородная фактура дополнена классическим воротником с лацканами (rever) и двубортной застежкой на пуговицы, искусно имитирующие натуральный рог. Архитектура изделия виртуозно играет с пропорциями: укороченная длина (cropped) и края, обработанные в рубчик, создают динамичный и подчеркнуто женственный силуэт. Это воплощение интеллектуальной роскоши, где уют трикотажа соединяется со строгостью жакета, обеспечивая безупречную регулярную посадку (vestibilità regular)."
+  },
+  "colors": [
+    {
+      "name": "Bordeaux",
+      "code": "2435",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1815204296691f1575c6b463_06852164_02790420XX1.jpg"
+    },
+    {
+      "name": "Cammello",
+      "code": "2246",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1815204296691f1575c6b463_06852164_02790420XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать Menola как ключевой элемент для создания многослойных подиумных образов: Вариант 2246 ( Коричневый): Look 66 и витрина №16 (Bambola 3): каноническое подиумное сочетание с шелковой рубашкой с принтом «селлерия» Lusia 3402 0101, брюками Minuccio A 2246 и сумкой Iago 0101 0002.",
+        "en": "The brand's stylists suggest using Menola as a key element for creating layered runway looks: Variant 2246 ( Brown): - Look 66 and display #16 (Bambola 3): a canonical runway combination with a \"selleria\"-printed Lusia 3402 0101 silk shirt, Minuccio A 2246 trousers and an Iago 0101 0002 bag. - Display #17 (Bambola 3): a cozy winter set under a Stenografo 0101 coat paired with a Manos 2246 pullover and Oneta 0101 trousers. Variant 2435 ( Bordeaux): - Display #148 (Bambola 2): a prestigious monochrome ensemble with a Manos 2435 pullover, a Mantidi 2435 skirt and a white Lucinda 0201 shirt. Variant 2234 ( Chestnut): - Display #3 (Bambola 1): a complex textured look under a Scanio 2219 0908 suede jacket combined with Opacita 1268 trousers.",
+        "ar": "The brand's stylists suggest using Menola as a key element for creating layered runway looks: Variant 2246 ( Brown): - Look 66 and display #16 (Bambola 3): a canonical runway combination with a \"selleria\"-printed Lusia 3402 0101 silk shirt, Minuccio A 2246 trousers and an Iago 0101 0002 bag. - Display #17 (Bambola 3): a cozy winter set under a Stenografo 0101 coat paired with a Manos 2246 pullover and Oneta 0101 trousers. Variant 2435 ( Bordeaux): - Display #148 (Bambola 2): a prestigious monochrome ensemble with a Manos 2435 pullover, a Mantidi 2435 skirt and a white Lucinda 0201 shirt. Variant 2234 ( Chestnut): - Display #3 (Bambola 1): a complex textured look under a Scanio 2219 0908 suede jacket combined with Opacita 1268 trousers.",
+        "ka": "The brand's stylists suggest using Menola as a key element for creating layered runway looks: Variant 2246 ( Brown): - Look 66 and display #16 (Bambola 3): a canonical runway combination with a \"selleria\"-printed Lusia 3402 0101 silk shirt, Minuccio A 2246 trousers and an Iago 0101 0002 bag. - Display #17 (Bambola 3): a cozy winter set under a Stenografo 0101 coat paired with a Manos 2246 pullover and Oneta 0101 trousers. Variant 2435 ( Bordeaux): - Display #148 (Bambola 2): a prestigious monochrome ensemble with a Manos 2435 pullover, a Mantidi 2435 skirt and a white Lucinda 0201 shirt. Variant 2234 ( Chestnut): - Display #3 (Bambola 1): a complex textured look under a Scanio 2219 0908 suede jacket combined with Opacita 1268 trousers.",
+        "hy": "The brand's stylists suggest using Menola as a key element for creating layered runway looks: Variant 2246 ( Brown): - Look 66 and display #16 (Bambola 3): a canonical runway combination with a \"selleria\"-printed Lusia 3402 0101 silk shirt, Minuccio A 2246 trousers and an Iago 0101 0002 bag. - Display #17 (Bambola 3): a cozy winter set under a Stenografo 0101 coat paired with a Manos 2246 pullover and Oneta 0101 trousers. Variant 2435 ( Bordeaux): - Display #148 (Bambola 2): a prestigious monochrome ensemble with a Manos 2435 pullover, a Mantidi 2435 skirt and a white Lucinda 0201 shirt. Variant 2234 ( Chestnut): - Display #3 (Bambola 1): a complex textured look under a Scanio 2219 0908 suede jacket combined with Opacita 1268 trousers.",
+        "lv": "The brand's stylists suggest using Menola as a key element for creating layered runway looks: Variant 2246 ( Brown): - Look 66 and display #16 (Bambola 3): a canonical runway combination with a \"selleria\"-printed Lusia 3402 0101 silk shirt, Minuccio A 2246 trousers and an Iago 0101 0002 bag. - Display #17 (Bambola 3): a cozy winter set under a Stenografo 0101 coat paired with a Manos 2246 pullover and Oneta 0101 trousers. Variant 2435 ( Bordeaux): - Display #148 (Bambola 2): a prestigious monochrome ensemble with a Manos 2435 pullover, a Mantidi 2435 skirt and a white Lucinda 0201 shirt. Variant 2234 ( Chestnut): - Display #3 (Bambola 1): a complex textured look under a Scanio 2219 0908 suede jacket combined with Opacita 1268 trousers.",
+        "lt": "The brand's stylists suggest using Menola as a key element for creating layered runway looks: Variant 2246 ( Brown): - Look 66 and display #16 (Bambola 3): a canonical runway combination with a \"selleria\"-printed Lusia 3402 0101 silk shirt, Minuccio A 2246 trousers and an Iago 0101 0002 bag. - Display #17 (Bambola 3): a cozy winter set under a Stenografo 0101 coat paired with a Manos 2246 pullover and Oneta 0101 trousers. Variant 2435 ( Bordeaux): - Display #148 (Bambola 2): a prestigious monochrome ensemble with a Manos 2435 pullover, a Mantidi 2435 skirt and a white Lucinda 0201 shirt. Variant 2234 ( Chestnut): - Display #3 (Bambola 1): a complex textured look under a Scanio 2219 0908 suede jacket combined with Opacita 1268 trousers.",
+        "pl": "The brand's stylists suggest using Menola as a key element for creating layered runway looks: Variant 2246 ( Brown): - Look 66 and display #16 (Bambola 3): a canonical runway combination with a \"selleria\"-printed Lusia 3402 0101 silk shirt, Minuccio A 2246 trousers and an Iago 0101 0002 bag. - Display #17 (Bambola 3): a cozy winter set under a Stenografo 0101 coat paired with a Manos 2246 pullover and Oneta 0101 trousers. Variant 2435 ( Bordeaux): - Display #148 (Bambola 2): a prestigious monochrome ensemble with a Manos 2435 pullover, a Mantidi 2435 skirt and a white Lucinda 0201 shirt. Variant 2234 ( Chestnut): - Display #3 (Bambola 1): a complex textured look under a Scanio 2219 0908 suede jacket combined with Opacita 1268 trousers.",
+        "uk": "The brand's stylists suggest using Menola as a key element for creating layered runway looks: Variant 2246 ( Brown): - Look 66 and display #16 (Bambola 3): a canonical runway combination with a \"selleria\"-printed Lusia 3402 0101 silk shirt, Minuccio A 2246 trousers and an Iago 0101 0002 bag. - Display #17 (Bambola 3): a cozy winter set under a Stenografo 0101 coat paired with a Manos 2246 pullover and Oneta 0101 trousers. Variant 2435 ( Bordeaux): - Display #148 (Bambola 2): a prestigious monochrome ensemble with a Manos 2435 pullover, a Mantidi 2435 skirt and a white Lucinda 0201 shirt. Variant 2234 ( Chestnut): - Display #3 (Bambola 1): a complex textured look under a Scanio 2219 0908 suede jacket combined with Opacita 1268 trousers."
+      },
+      "items": [
+        {
+          "name": "Lusia",
+          "code": "3402 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1696684085692424d22bd006_54589516_02781310XX1.jpg",
+          "modelId": 428
+        },
+        {
+          "name": "Minuccio A",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/44a050a8-738e-4eee-9a3e-18fce3cbb172-removebg-preview.png",
+          "modelId": 177
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Витрина №17 (Bambola 3): уютный зимний сет под пальто Stenografo 0101 в паре с пуловером Manos 2246 и брюками Oneta 0101. Вариант 2435 ( Бордо):",
+        "en": "Витрина №17 (Bambola 3): уютный зимний сет под пальто Stenografo 0101 в паре с пуловером Manos 2246 и брюками Oneta 0101. Вариант 2435 ( Бордо):",
+        "ar": "Витрина №17 (Bambola 3): уютный зимний сет под пальто Stenografo 0101 в паре с пуловером Manos 2246 и брюками Oneta 0101. Вариант 2435 ( Бордо):",
+        "ka": "Витрина №17 (Bambola 3): уютный зимний сет под пальто Stenografo 0101 в паре с пуловером Manos 2246 и брюками Oneta 0101. Вариант 2435 ( Бордо):",
+        "hy": "Витрина №17 (Bambola 3): уютный зимний сет под пальто Stenografo 0101 в паре с пуловером Manos 2246 и брюками Oneta 0101. Вариант 2435 ( Бордо):",
+        "lv": "Витрина №17 (Bambola 3): уютный зимний сет под пальто Stenografo 0101 в паре с пуловером Manos 2246 и брюками Oneta 0101. Вариант 2435 ( Бордо):",
+        "lt": "Витрина №17 (Bambola 3): уютный зимний сет под пальто Stenografo 0101 в паре с пуловером Manos 2246 и брюками Oneta 0101. Вариант 2435 ( Бордо):",
+        "pl": "Витрина №17 (Bambola 3): уютный зимний сет под пальто Stenografo 0101 в паре с пуловером Manos 2246 и брюками Oneta 0101. Вариант 2435 ( Бордо):",
+        "uk": "Витрина №17 (Bambola 3): уютный зимний сет под пальто Stenografo 0101 в паре с пуловером Manos 2246 и брюками Oneta 0101. Вариант 2435 ( Бордо):"
+      },
+      "items": [
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Manos",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/62874749691c57928c68a3_59975180_02790240XX1.jpg"
+        },
+        {
+          "name": "Oneta",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg",
+          "modelId": 254
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Витрина №148 (Bambola 2): статусный монохромный ансамбль с пуловером Manos 2435, юбкой Mantidi 2435 и белой рубашкой Lucinda 0201. Вариант 2234 ( Каштановый):",
+        "en": "Витрина №148 (Bambola 2): статусный монохромный ансамбль с пуловером Manos 2435, юбкой Mantidi 2435 и белой рубашкой Lucinda 0201. Вариант 2234 ( Каштановый):",
+        "ar": "Витрина №148 (Bambola 2): статусный монохромный ансамбль с пуловером Manos 2435, юбкой Mantidi 2435 и белой рубашкой Lucinda 0201. Вариант 2234 ( Каштановый):",
+        "ka": "Витрина №148 (Bambola 2): статусный монохромный ансамбль с пуловером Manos 2435, юбкой Mantidi 2435 и белой рубашкой Lucinda 0201. Вариант 2234 ( Каштановый):",
+        "hy": "Витрина №148 (Bambola 2): статусный монохромный ансамбль с пуловером Manos 2435, юбкой Mantidi 2435 и белой рубашкой Lucinda 0201. Вариант 2234 ( Каштановый):",
+        "lv": "Витрина №148 (Bambola 2): статусный монохромный ансамбль с пуловером Manos 2435, юбкой Mantidi 2435 и белой рубашкой Lucinda 0201. Вариант 2234 ( Каштановый):",
+        "lt": "Витрина №148 (Bambola 2): статусный монохромный ансамбль с пуловером Manos 2435, юбкой Mantidi 2435 и белой рубашкой Lucinda 0201. Вариант 2234 ( Каштановый):",
+        "pl": "Витрина №148 (Bambola 2): статусный монохромный ансамбль с пуловером Manos 2435, юбкой Mantidi 2435 и белой рубашкой Lucinda 0201. Вариант 2234 ( Каштановый):",
+        "uk": "Витрина №148 (Bambola 2): статусный монохромный ансамбль с пуловером Manos 2435, юбкой Mantidi 2435 и белой рубашкой Lucinda 0201. Вариант 2234 ( Каштановый):"
+      },
+      "items": [
+        {
+          "name": "Manos",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+        },
+        {
+          "name": "Mantidi",
+          "code": "2435",
+          "imageUrl": null
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Витрина №3 (Bambola 1): сложный фактурный образ под замшевую куртку Scanio 2219 0908 в сочетании с брюками Opacita 1268.",
+        "en": "Витрина №3 (Bambola 1): сложный фактурный образ под замшевую куртку Scanio 2219 0908 в сочетании с брюками Opacita 1268.",
+        "ar": "Витрина №3 (Bambola 1): сложный фактурный образ под замшевую куртку Scanio 2219 0908 в сочетании с брюками Opacita 1268.",
+        "ka": "Витрина №3 (Bambola 1): сложный фактурный образ под замшевую куртку Scanio 2219 0908 в сочетании с брюками Opacita 1268.",
+        "hy": "Витрина №3 (Bambola 1): сложный фактурный образ под замшевую куртку Scanio 2219 0908 в сочетании с брюками Opacita 1268.",
+        "lv": "Витрина №3 (Bambola 1): сложный фактурный образ под замшевую куртку Scanio 2219 0908 в сочетании с брюками Opacita 1268.",
+        "lt": "Витрина №3 (Bambola 1): сложный фактурный образ под замшевую куртку Scanio 2219 0908 в сочетании с брюками Opacita 1268.",
+        "pl": "Витрина №3 (Bambola 1): сложный фактурный образ под замшевую куртку Scanio 2219 0908 в сочетании с брюками Opacita 1268.",
+        "uk": "Витрина №3 (Bambola 1): сложный фактурный образ под замшевую куртку Scanio 2219 0908 в сочетании с брюками Opacita 1268."
+      },
+      "items": [
+        {
+          "name": "Scanio",
+          "code": "2219 0908",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1382076925692424da8dd0a9_52339721_02781580XX1.jpg",
+          "modelId": 475
+        },
+        {
+          "name": "Opacita",
+          "code": "1268",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- Fashion Show status: Direct the client's attention to the fact that this model featured in the runway show. This lends the purchase exclusivity and confirms that the client is choosing one of the season's defining trends. - A knitwear jacket: Present Me"
+    ],
+    "ru": [
+      "- Статус Fashion Show: Акцентируйте внимание клиента на том, что эта модель --- участник подиумного показа. Это придает покупке эксклюзивность и подтверждает, что клиент выбирает один из главных трендов сезона. - Трикотажный жакет: Представьте Menola как"
+    ],
+    "ar": [
+      "- مكانة عروض الأزياء: وجهي انتباه العميل إلى أن هذا الموديل شارك في عرض الأزياء على المنصة. هذا يضفي على المقتنى طابع الحصرية ويؤكد أن العميل يختار أحد أبرز اتجاهات الموسم. - سترة التريكو: قدمي Menola كبديل للسترة الكلاسيكية الجامدة. بفضل الحياكة الكثيفة"
+    ],
+    "ka": [
+      "- Fashion Show-ს სტატუსი: ყურადღება გაამახვილეთ კლიენტის ყურადღება იმაზე, რომ ეს მოდელი არის პოდიუმის ჩვენების მონაწილე. ეს შესყიდვას ანიჭებს ექსკლუზიურობას და ადასტურებს, რომ კლიენტი ირჩევს სეზონის ერთ-ერთ მთავარ ტრენდს. - ტრიკოტაჟის პიჯაკი: წარუდგინეთ M"
+    ],
+    "hy": [
+      "- Fashion Show կարգավիճակ. շեշտադրեք հաճախորդի ուշադրությունը այն փաստի վրա, որ այս մոդելը պոդիումային ցուցադրության մասնակից է: Սա գնմանը հաղորդում է բացառիկություն և հաստատում, որ հաճախորդն ընտրում է սեզոնի գլխավոր թրենդներից մեկը: - Տրիկոտաժե ժակետ. նե"
+    ],
+    "lv": [
+      "- Fashion Show statuss: Akcentējiet klienta uzmanību uz to, ka šis modelis --- ir modes skates dalībnieks. Tas pirkumam piešķir ekskluzivitāti un apliecina, ka klients izvēlas vienu no sezonas galvenajiem trendiem. - Trikotāžas žakete: Prezentējiet Menola"
+    ],
+    "lt": [
+      "- Mados šou statusas: Atkreipkite kliento dėmesį į tai, kad šis modelis buvo pristatytas ant podiumo. Tai suteikia pirkiniui išskirtinumo ir patvirtina, kad klientas renkasi vieną iš pagrindinių sezono tendencijų. - Trikotažinis švarkas: Pristatykite Menola kaip alternatyvą standžiam klasikiniam švarkui. Dėka tankaus mezgimo ir apykaklės su atlapais, kardiganas atrodo taip pat statusiškai kaip švarkas, tačiau suteikia neprilygstamą minkštos vilnos komfortą. - Korekcijos meistriškumas: Rekomenduokite modelį dėvėti su aukšto liemens kelnėmis ar sijonais. Trumpintas Menola ilgis vizualiai „padalija“ siluetą siauriausioje vietoje, ilgindamas kojas ir suteikdamas įvaizdžiui lieknumo bei modernumo."
+    ],
+    "pl": [
+      "- Status Fashion Show: Skup uwagę klientki na tym, że ten model to uczestnik pokazu na wybiegu. To nadaje zakupowi ekskluzywności i potwierdza, że klientka wybiera jeden z głównych trendów sezonu. - Dzianinowy żakiet: Przedstaw Menola jako alternatywę dla"
+    ],
+    "uk": [
+      "- Статус Fashion Show: Акцентуйте увагу клієнта на тому, що ця модель --- учасник подіумного показу. Це надає покупці ексклюзивності та підтверджує, що клієнт обирає один із головних трендів сезону. - Трикотажний жакет: Представте Menola як альтернативу ж"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "cropped Explain that this is a runway standard for length seems creating the right proportions. Paired with the impractical» high-waisted Minuccio 2246 trousers, the piece doesn't expose the body but simply accentuates the waist. «The double- Point out the soft \"blouson\" line and the breasted cut suppleness of virgin wool. Unlike woven fabric, might add the knit drapes softly, smoothing the lines volume» without creating excess stiffness across the bust. «The wool might Remind the client that Luisa Spagnoli uses be difficult to premium pura lana vergine. This first-shearing care for» fiber, with proper care, doesn't pill and keeps its shape for decades, making it a true investment. «The horn-style Emphasize that \"Heritage\" style is the brand's buttons look too DNA. These buttons, paired with the modern traditional» cropped cut, create a timely balance between classic and avant-garde. «I'm worried it Natural wool is a natural thermoregulator. It will be too warm lets the skin breathe, ensuring comfort both indoors» outdoors and in the office, preventing overheating"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Укороченная",
+        "a": "Объясните, что это подиумный стандарт для создания длина кажется правильных пропорций. В сочетании с брюками непрактичной Minuccio 2246 на высокой посадке изделие не открывает тело, а лишь подчеркивает талию."
+      },
+      {
+        "q": "Двубортный крой",
+        "a": "Укажите на мягкую линию «blouson и пластичность может добавлять девственной шерсти. В отличие от ткани, трикотаж объема» мягко драпируется, сглаживая линии и не создавая лишней жесткости в зоне груди."
+      },
+      {
+        "q": "Шерсть может",
+        "a": "Напомните, что Luisa Spagnoli использует быть сложной в высококачественную pura lana vergine. Это уходе волокно первой стрижки, которое при правильном уходе не скатывается и сохраняет форму десятилетиями, являясь инвестицией."
+      },
+      {
+        "q": "Пуговицы под рог",
+        "a": "Подчеркните, что стиль «Heritage — это ДНК выглядят слишком бренда. Эти пуговицы в сочетании с современным традиционно» кроем cropped создают актуальный баланс между классикой и авангардом."
+      },
+      {
+        "q": "Боюсь, что он Натуральная шерсть — это природный будет слишком терморегулятор. Она позволяет коже дышать, теплым для обеспечивая комфорт как на улице, так и в офисе, помещения",
+        "a": "предотвращая перегрев."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الطول القصير يبدو غير عملي",
+        "a": "وضح أن هذا معيار يعتمد على منصات العرض لخلق تناسب صحيح للقوام. عند تنسيقها مع بنطال Minuccio 2246 عالي الخصر، لا تكشف القطعة الجسم، بل تبرز الخصر فقط."
+      },
+      {
+        "q": "التصميم ذو الصدر المزدوج قد يضيف حجماً إضافياً",
+        "a": "أشر إلى خط."
+      },
+      {
+        "q": "blouson",
+        "a": "الناعم ومرونة الصوف البكر. على عكس الأقمشة الصلبة، ينسدل التريكو بنعومة، مما ينعم الخطوط دون إضافة صلابة غير ضرورية في منطقة الصدر."
+      },
+      {
+        "q": "الصوف قد يكون صعب العناية",
+        "a": "تذكر أن Luisa Spagnoli تستخدم صوف pura lana vergine عالي الجودة. هذه ألياف من القص الأول، والتي مع العناية الصحيحة لا تتعرض للتكتل وتحتفظ بشكلها لعقود، مما يجعلها استثماراً قيماً."
+      },
+      {
+        "q": "الأزرار ذات الملمس القرني تبدو تقليدية جداً",
+        "a": "أكد أن أسلوب."
+      },
+      {
+        "q": "Heritage",
+        "a": "هو الحمض النووي للعلامة التجارية. هذه الأزرار، مدمجة مع القصّة العصرية القصيرة، تخلق توازناً مثالياً بين الكلاسيكية والطليعية."
+      },
+      {
+        "q": "أخشى أن يكون حاراً جداً للاستخدام في الأماكن المغلقة",
+        "a": "الصوف الطبيعي منظم حراري طبيعي. فهو يسمح للبشرة بالتنفس، مما يوفر الراحة في الخارج وفي المكتب، ويمنع الحرارة الزائدة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "შემოკლებული სიგრძე არაპრაქტიკული ჩანს",
+        "a": "განმარტეთ, რომ ეს პოდიუმის სტანდარტია სწორი პროპორციების შესაქმნელად. მაღალწელიან შარვალთან Minuccio 2246 ერთად, ნაკეთობა არ აშიშვლებს სხეულს, არამედ მხოლოდ ხაზს უსვამს წელს."
+      },
+      {
+        "q": "ორბორტიანი დიზაინი შეიძლება მოცულობას მატებდეს",
+        "a": "მიუთითეთ."
+      },
+      {
+        "q": "blouson“-ის რბილ ხაზზე და ქალწულებრივი მატყლის პლასტიკურობაზე. ქსოვილისგან განსხვავებით, ნაქსოვი რბილად დრაპირდება, არბილებს ხაზებს და არ ქმნის ზედმეტ სიმკაცრეს გულმკერდის ზონაში. «მატყლის მოვლა შეიძლება რთული იყოს",
+        "a": "შეახსენეთ, რომ Luisa Spagnoli იყენებს მაღალი ხარისხის pura lana vergine-ს. ეს არის პირველი კრეჭის ბოჭკო, რომელიც სწორი მოვლის პირობებში არ ბუსუსდება და ათწლეულების განმავლობაში ინარჩუნებს ფორმას, რაც მას ინვესტიციად აქცევს."
+      },
+      {
+        "q": "რქისებრი ღილები ზედმეტად ტრადიციულად გამოიყურება",
+        "a": "ხაზგასმით აღნიშნეთ, რომ."
+      },
+      {
+        "q": "Heritage“-ს სტილი ბრენდის დნმ-ია. ეს ღილები თანამედროვე cropped ჭრილთან ერთად ქმნის აქტუალურ ბალანსს კლასიკასა და ავანგარდს შორის. «მეშინია, რომ შენობისთვის ზედმეტად თბილი იქნება",
+        "a": "ბუნებრივი მატყლი ბუნებრივი თერმორეგულატორია. ის კანს სუნთქვის საშუალებას აძლევს და უზრუნველყოფს კომფორტს როგორც გარეთ, ისე ოფისში, გადახურების გარეშე."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կարճացված երկարությունը գործնական չի թվում",
+        "a": "Բացատրեք, որ սա պոդիումային ստանդարտ է ճիշտ համաչափություններ ստեղծելու համար: Բարձր գոտկատեղով Minuccio 2246 տաբատների հետ համադրությամբ հագուստը չի բացում մարմինը, այլ ընդամենը ընդգծում է գոտկատեղը."
+      },
+      {
+        "q": "Կրկնակի կոճկվող կտրվածքը կարող է ավելացնել ծավալ",
+        "a": "Մատնանշեք."
+      },
+      {
+        "q": "blouson",
+        "a": "փափուկ գիծը և բնական բրդի պլաստիկությունը: Ի տարբերություն կտորի, տրիկոտաժը փափուկ է դրեյպվում՝ հարթեցնելով գծերը և չստեղծելով ավելորդ կոշտություն կրծքավանդակի հատվածում."
+      },
+      {
+        "q": "Բուրդը կարող է բարդ լինել խնամքի հարցում",
+        "a": "Հիշեցրեք, որ Luisa Spagnoli-ն օգտագործում է բարձրորակ pura lana vergine: Սա առաջին խուզումից ստացված մանրաթել է, որը ճիշտ խնամքի դեպքում չի գնդիկավորվում և պահպանում է ձևը տասնամյակներ շարունակ՝ լինելով ներդրում."
+      },
+      {
+        "q": "Եղջյուրանման կոճակները չափազանց ավանդական են երևում",
+        "a": "Ընդգծեք, որ."
+      },
+      {
+        "q": "Heritage",
+        "a": "ոճը ապրանքանիշի ԴՆԹ-ն է: Այս կոճակները ժամանակակից cropped կտրվածքի հետ համադրությամբ ստեղծում են արդիական հավասարակշռություն դասականի և ավանգարդի միջև."
+      },
+      {
+        "q": "Վախենում եմ, որ այն շատ տաք կլինի փակ տարածքի համար",
+        "a": "Բնական բուրդը բնական ջերմակարգավորիչ է: Այն թույլ է տալիս մաշկին շնչել՝ ապահովելով հարմարավետություն ինչպես դրսում, այնպես էլ գրասենյակում՝ կանխելով գերտաքացումը."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Saīsināts garums",
+        "a": "Paskaidrojiet, ka tas ir modes skates standarts pareizu šķiet nepraktisks proporciju radīšanai. Kombinācijā ar Minuccio 2246 biksēm ar augsto jostasvietu izstrādājums neatklāj ķermeni, bet tikai izceļ vidukli."
+      },
+      {
+        "q": "Divrindu piegriezums",
+        "a": "Norādiet uz maigo «blouson līniju un jaunvilnas var pievienot apjomu» plastiskumu. Atšķirībā no auduma, trikotāža maigi drapējas, nogludinot līnijas un neradot lieku stingrību krūšu zonā."
+      },
+      {
+        "q": "Vilna var būt sarežģīta",
+        "a": "Atgādiniet, ka Luisa Spagnoli izmanto augstas kvalitātes kopšanā pura lana vergine. Šī ir pirmās cirpšanas šķiedra, kas pareizi kopta nepa- pūkojas un saglabā formu gadu desmitiem, būdama investīcija."
+      },
+      {
+        "q": "Pogas ar raga imitāciju",
+        "a": "Uzsveriet, ka «Heritage stils — ir zīmola DNS. izskatās pārāk tradicionāli» Šīs pogas kombinācijā ar modernu cropped piegriezumu rada aktuālu līdzsvaru starp klasiku un avangardu."
+      },
+      {
+        "q": "Baidos, ka tas būs pārāk Dabīgā vilna — ir dabisks termoregulators. Tā ļauj silti telpām",
+        "a": "ādai elpot, nodrošinot komfortu gan ārā, gan birojā, novēršot pārkaršanu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikimui: „Trumpintas ilgis atrodo nepraktiškas",
+        "a": "Paaiškinkite, kad tai podiumo standartas taisyklingų proporcijų sukūrimui. Derinant su Minuccio 2246 aukšto liemens kelnėmis, gaminys neapnuogina kūno, o tik pabrėžia liemenį. , kad tai podiumo standartas taisyklingų proporcijų sukūrimui. Derinant su Minuccio 2246 aukšto liemens kelnėmis, gaminys neapnuogina kūno, o tik pabrėžia liemenį."
+      },
+      {
+        "q": "„Dvigubas sukirpimas gali pridėti apimties",
+        "a": "Nurodykite minkštą „blouson“ liniją ir pirminės vilnos plastiškumą. Skirtingai nei audiniai, trikotažas minkštai drapiruojasi, sušvelnindamas linijas ir nesukurdamas nereikalingo standumo krūtinės srityje. minkštą „blouson“ liniją ir pirminės vilnos plastiškumą. Skirtingai nei audiniai, trikotažas minkštai drapiruojasi, sušvelnindamas linijas ir nesukurdamas nereikalingo standumo krūtinės srityje."
+      },
+      {
+        "q": "„Vilna gali būti sudėtinga prižiūrėti",
+        "a": "Priminkite, kad Luisa Spagnoli naudoja aukštos kokybės pura lana vergine. Tai pirmojo kirpimo pluoštas, kuris tinkamai prižiūrint nesivelia ir išlaiko formą dešimtmečiais, būdamas puikia investicija. , kad Luisa Spagnoli naudoja aukštos kokybės pura lana vergine. Tai pirmojo kirpimo pluoštas, kuris tinkamai prižiūrint nesivelia ir išlaiko formą dešimtmečiais, būdamas puikia investicija."
+      },
+      {
+        "q": "„Sagos po ragą atrodo per daug tradiciškai",
+        "a": "Pabrėžkite, kad „Heritage“ stilius yra prekės ženklo DNR. Šios sagos derinyje su šiuolaikišku cropped sukirpimu sukuria aktualų balansą tarp klasikos ir avangardo. „Bijau, kad jis bus per šiltas patalpai“ Natūrali vilna yra natūralus termoreguliatorius. Ji leidžia odai kvėpuoti, užtikrindama komfortą tiek lauke, tiek biure, neleisdama perkaisti."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Skrócona długość wydaje się niepraktyczna",
+        "a": "Wyjaśnij, że to wybiegowy standard dla stworzenia właściwych proporcji. W połączeniu ze spodniami Minuccio 2246 z wysokim stanem produkt nie odsłania ciała, a jedynie podkreśla talię."
+      },
+      {
+        "q": "Dwurzędowy krój może dodawać objętości",
+        "a": "Wskaż na miękką linię."
+      },
+      {
+        "q": "blouson",
+        "a": "i plastyczność dziewiczej wełny. W przeciwieństwie do tkaniny, dzianina miękko się układa, wygładzając linie i nie tworząc zbędnej sztywności w okolicach biustu."
+      },
+      {
+        "q": "Wełna może być trudna w pielęgnacji",
+        "a": "Przypomnij, że Luisa Spagnoli stosuje wysokiej jakości pura lana vergine. To włókno z pierwszego strzyżenia, które przy właściwej pielęgnacji nie kulkuje się i zachowuje formę przez dziesięciolecia, będąc inwestycją."
+      },
+      {
+        "q": "Guziki pod róg wyglądają zbyt tradycyjnie",
+        "a": "Podkreśl, że styl."
+      },
+      {
+        "q": "Heritage",
+        "a": "to DNA marki. Te guziki w połączeniu z nowoczesnym krojem cropped tworzą aktualną równowagę między klasyką a awangardą."
+      },
+      {
+        "q": "Obawiam się, że będzie zbyt ciepły do pomieszczenia",
+        "a": "Naturalna wełna to naturalny termoregulator. Pozwala skórze oddychać, zapewniając komfort zarówno na ulicy, jak i w biurze, zapobiegając przegrzaniu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Укорочена",
+        "a": "Поясніть, що це подіумний стандарт для створення довжина здається правильних пропорцій. У поєднанні з брюками непрактичною Minuccio 2246 на високій посадці виріб не відкриває тіло, а лише підкреслює талію."
+      },
+      {
+        "q": "Двобортний крій",
+        "a": "Вкажіть на м'яку лінію «blouson та пластичність може додавати незайманої вовни. На відміну від тканини, трикотаж об'єму» м'яко драпірується, згладжуючи лінії та не створюючи зайвої жорсткості в зоні грудей."
+      },
+      {
+        "q": "Вовна може",
+        "a": "Нагадайте, що Luisa Spagnoli використовує бути складною у високоякісну pura lana vergine. Це догляді волокно першої стрижки, яке при правильному догляді не скочується і зберігає форму десятиліттями, будучи інвестицією."
+      },
+      {
+        "q": "Ґудзики під ріг",
+        "a": "Підкресліть, що стиль «Heritage — це ДНК виглядають надто бренду. Ці ґудзики в поєднанні з сучасним традиційно» кроєм cropped створюють актуальний баланс між класикою та авангардом."
+      },
+      {
+        "q": "Боюся, що він Натуральна вовна — це природний буде надто терморегулятор. Вона дозволяє шкірі дихати, теплим для забезпечуючи комфорт як на вулиці, так і в офісі, приміщення",
+        "a": "запобігаючи перегріву."
+      }
+    ]
+  }
+}

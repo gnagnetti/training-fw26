@@ -1,0 +1,447 @@
+{
+  "id": 198,
+  "name": "Nagorno",
+  "description": {
+    "en": "The exquisite Nagorno earrings are the embodiment of refined aristocratic style and Luisa Spagnoli's jewellery craftsmanship. The accessory is crafted from 100% high-quality brass with a noble gold-tone finish, lending the piece a status-defining sheen. The design of the jewellery is inspired by the classic interlaced knot motif with a \"bombato\" effect, creating a sculptural volume and a captivating play of light upon the surface. The comfortable clip fastening ensures effortless wear, underscoring the functionality of Italian design (Made in Italy).",
+    "ru": "Изысканные серьги Nagorno — это воплощение утонченного аристократизма и ювелирного мастерства Luisa Spagnoli. Аксессуар выполнен из 100% высококачественной латуни с благородным золотистым напылением, которое придает изделию статусное сияние. Дизайн украшения вдохновлен классическим мотивом переплетенного узла с эффектом «bombato», создающим скульптурный объем и игру света на поверхности. Удобная застежка-клипса обеспечивает безупречный комфорт при носке, подчеркивая функциональность итальянского дизайна (Made in Italy).",
+    "ar": "أقراط Nagorno الفاخرة تجسد الأرستقراطية الراقية وبراعة الصياغة لدى Luisa Spagnoli. الإكسسوار مصنوع من نحاس عالي الجودة 100% مع طلاء ذهبي نبيل يمنح القطعة لمعاناً استثنائياً. تصميم الحلي مستوحى من فكرة العقدة المتداخلة الكلاسيكية بتأثير «bombato»، مما يخلق حجماً نحتياً وتلاعباً بالضوء على السطح. يوفر مشبك الأذن المريح راحة مثالية عند الارتداء، مما يؤكد على وظيفية التصميم الإيطالي (Made in Italy).",
+    "ka": "Nagorno-ს დახვეწილი საყურეები Luisa Spagnoli-ს დახვეწილი არისტოკრატიზმისა და საიუველირო ოსტატობის განსახიერებაა. აქსესუარი დამზადებულია 100% მაღალი ხარისხის თითბერისგან კეთილშობილური ოქროსფერი დაფარვით, რაც ნივთს სტატუსურ ბზინვარებას სძენს. სამკაულის დიზაინი შთაგონებულია გადაჯაჭვული კვანძის კლასიკური მოტივით „bombato“-ს ეფექტით, რომელიც ქმნის სკულპტურულ მოცულობას და სინათლის თამაშს ზედაპირზე. კომფორტული სამაგრი უზრუნველყოფს უნაკლო კომფორტს ტარებისას, რაც ხაზს უსვამს იტალიური დიზაინის (Made in Italy) ფუნქციურობას.",
+    "hy": "Nagorno նրբագեղ ականջօղերը Luisa Spagnoli-ի զտարյուն արիստոկրատիայի և ոսկերչական վարպետության մարմնացումն են: Աքսեսուարը պատրաստված է 100% բարձրորակ արույրից՝ ազնվական ոսկեզօծ փայլով, որը արտադրանքին հաղորդում է ստատուսային շողք: Զարդի դիզայնը ոգեշնչված է հյուսված հանգույցի դասական մոտիվով՝ «bombato» էֆեկտով, որը ստեղծում է քանդակային ծավալ և լույսի խաղ մակերեսին: Հարմարավետ սեղմակ-ամրակն ապահովում է անթերի հարմարավետություն կրելիս՝ ընդգծելով իտալական դիզայնի ֆունկցիոնալությունը (Made in Italy):",
+    "lv": "Izsmalcinātie Nagorno auskari ir Luisa Spagnoli izsmalcinātā aristokrātisma un juvelierizstrādājumu meistarības iemiesojums. Aksesuārs ir izgatavots no 100% augstas kvalitātes misiņa ar cēlu zeltītu pārklājumu, kas izstrādājumam piešķir statusa pilnu mirdzumu. Rotaslietas dizainu iedvesmojis klasiskais savīta mezgla motīvs ar „bombato” efektu, kas rada skulpturālu apjomu un gaismas spēli uz virsmas. Ērtā klipša aizdare nodrošina nevainojamu komfortu valkāšanas laikā, uzsverot itāļu dizaina funkcionalitāti (Made in Italy).",
+    "lt": "Rafinuoti Nagorno auskarai – tai subtilaus aristokratiškumo ir Luisa Spagnoli juvelyrinio meistriškumo įsikūnijimas. Aksesuaras pagamintas iš 100% aukštos kokybės žalvario su kilnia auksine danga, suteikiančia gaminiui statuso suteikiantį spindesį. Papuošalo dizainas įkvėptas klasikinio persipynusio mazgo motyvo su „bombato“ efektu, kuriančiu skulptūrinę apimtį ir šviesos žaismą paviršiuje. Patogi segtuko tipo užsegimo sistema užtikrina nepriekaištingą komfortą dėvint, pabrėžiant itališko dizaino (Made in Italy) funkcionalumą.",
+    "pl": "Wyrafinowane kolczyki Nagorno to ucieleśnienie subtelnego arystokratyzmu i jubilerskiego kunsztu Luisa Spagnoli. Akcesorium wykonane w 100% z wysokiej jakości mosiądzu ze szlachetnym złotym wykończeniem, które nadaje wyrobowi prestiżowego blasku. Design ozdoby inspirowany jest klasycznym motywem splecionego węzła z efektem „bombato”, tworzącym rzeźbiarską objętość i grę światła na powierzchni. Wygodne zapięcie typu klips zapewnia nienaganny komfort noszenia, podkreślając funkcjonalność włoskiego designu (Made in Italy).",
+    "uk": "Вишукані сережки Nagorno — це втілення витонченого аристократизму та ювелірної майстерності Luisa Spagnoli. Аксесуар виконаний зі 100% високоякісної латуні з благородним золотистим напиленням, яке надає виробу статусного сяйва. Дизайн прикраси натхненний класичним мотивом переплетеного вузла з ефектом «bombato», що створює скульптурний об'єм та гру світла на поверхні. Зручна застібка-кліпса забезпечує бездоганний комфорт при носінні, підкреслюючи функціональність італійського дизайну (Made in Italy)."
+  },
+  "colors": [
+    {
+      "name": "Oro",
+      "code": "0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Look 137 (Heritage Chic)",
+        "en": "Look 137 (Heritage Chic)",
+        "ar": "Look 137 (Heritage Chic)",
+        "ka": "Look 137 (Heritage Chic)",
+        "hy": "Look 137 (Heritage Chic)",
+        "lv": "Look 137 (Heritage Chic)",
+        "lt": "Look 137 (Heritage Chic)",
+        "pl": "Look 137 (Heritage Chic)",
+        "uk": "Look 137 (Heritage Chic)"
+      },
+      "text": {
+        "ru": "Серьги Nagorno 0002 в ансамбле с кардиганом Mity 3374, брюками Olap 1168 и сапогами Uragano A 0986.",
+        "en": "Nagorno 0002 earrings in an ensemble with the Mity 3374 cardigan, Olap 1168 trousers and Uragano A 0986 boots.",
+        "ar": "Nagorno 0002 earrings in an ensemble with the Mity 3374 cardigan, Olap 1168 trousers and Uragano A 0986 boots.",
+        "ka": "Nagorno 0002 earrings in an ensemble with the Mity 3374 cardigan, Olap 1168 trousers and Uragano A 0986 boots.",
+        "hy": "Nagorno 0002 earrings in an ensemble with the Mity 3374 cardigan, Olap 1168 trousers and Uragano A 0986 boots.",
+        "lv": "Nagorno 0002 earrings in an ensemble with the Mity 3374 cardigan, Olap 1168 trousers and Uragano A 0986 boots.",
+        "lt": "Nagorno 0002 earrings in an ensemble with the Mity 3374 cardigan, Olap 1168 trousers and Uragano A 0986 boots.",
+        "pl": "Nagorno 0002 earrings in an ensemble with the Mity 3374 cardigan, Olap 1168 trousers and Uragano A 0986 boots.",
+        "uk": "Nagorno 0002 earrings in an ensemble with the Mity 3374 cardigan, Olap 1168 trousers and Uragano A 0986 boots."
+      },
+      "items": [
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG"
+        },
+        {
+          "name": "Mity",
+          "code": "3374",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/figTUWpoTa2gZPu9oRzUfA_931594082696f43771a2813_21938047_02831190XX1.jpg",
+          "modelId": 184
+        },
+        {
+          "name": "Olap",
+          "code": "1168",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ynGKN9IHR7KZkKRYYDtgyg_1991141854696f42e6826470_95751980_02820640XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Uragano A",
+          "code": "0986",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URAGANO_98600000000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 179 (Business Luxury)",
+        "en": "Look 179 (Business Luxury)",
+        "ar": "Look 179 (Business Luxury)",
+        "ka": "Look 179 (Business Luxury)",
+        "hy": "Look 179 (Business Luxury)",
+        "lv": "Look 179 (Business Luxury)",
+        "lt": "Look 179 (Business Luxury)",
+        "pl": "Look 179 (Business Luxury)",
+        "uk": "Look 179 (Business Luxury)"
+      },
+      "text": {
+        "ru": "Nagorno 0002 дополняют жакет Micologia 0101 2234 и юбку Minia 0101 2234.",
+        "en": "Nagorno 0002 complement the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "ar": "Nagorno 0002 complement the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "ka": "Nagorno 0002 complement the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "hy": "Nagorno 0002 complement the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "lv": "Nagorno 0002 complement the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "lt": "Nagorno 0002 complement the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "pl": "Nagorno 0002 complement the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "uk": "Nagorno 0002 complement the Micologia 0101 2234 jacket and Minia 0101 2234 skirt."
+      },
+      "items": [
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG"
+        },
+        {
+          "name": "Micologia",
+          "code": "0101 2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ema_wbDiQ1a0Lj1RymcvnQ_1735110920696f436bcfc079_62732838_02830810XX1.jpg",
+          "modelId": 174
+        },
+        {
+          "name": "Minia",
+          "code": "0101 2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2DArnQrxTg-oql1-E0SPpg_1318458338696f436d73ee42_37110795_02830840XX1.jpg",
+          "modelId": 445
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 159 (Urban Sophistication)",
+        "en": "Look 159 (Urban Sophistication)",
+        "ar": "Look 159 (Urban Sophistication)",
+        "ka": "Look 159 (Urban Sophistication)",
+        "hy": "Look 159 (Urban Sophistication)",
+        "lv": "Look 159 (Urban Sophistication)",
+        "lt": "Look 159 (Urban Sophistication)",
+        "pl": "Look 159 (Urban Sophistication)",
+        "uk": "Look 159 (Urban Sophistication)"
+      },
+      "text": {
+        "ru": "Аксессуар Nagorno 0002 в сочетании с мантией Mira 0101 и поясом Dancing 0101 0002.",
+        "en": "Nagorno 0002 accessory combined with the Mira 0101 mantle and Dancing 0101 0002 belt.",
+        "ar": "Nagorno 0002 accessory combined with the Mira 0101 mantle and Dancing 0101 0002 belt.",
+        "ka": "Nagorno 0002 accessory combined with the Mira 0101 mantle and Dancing 0101 0002 belt.",
+        "hy": "Nagorno 0002 accessory combined with the Mira 0101 mantle and Dancing 0101 0002 belt.",
+        "lv": "Nagorno 0002 accessory combined with the Mira 0101 mantle and Dancing 0101 0002 belt.",
+        "lt": "Nagorno 0002 accessory combined with the Mira 0101 mantle and Dancing 0101 0002 belt.",
+        "pl": "Nagorno 0002 accessory combined with the Mira 0101 mantle and Dancing 0101 0002 belt.",
+        "uk": "Nagorno 0002 accessory combined with the Mira 0101 mantle and Dancing 0101 0002 belt."
+      },
+      "items": [
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG"
+        },
+        {
+          "name": "Mira",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/beVciW1ZQAO2aet6tz4teg_1384514893696f4377e75048_28824063_02831240XX1.jpg",
+          "modelId": 178
+        },
+        {
+          "name": "Dancing",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/u3PPqnKpTvWWZzsTCISHLA_594265671691c57d002eb99_39066319_02800040XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 213 (Elegant Monochrome)",
+        "en": "Look 213 (Elegant Monochrome)",
+        "ar": "Look 213 (Elegant Monochrome)",
+        "ka": "Look 213 (Elegant Monochrome)",
+        "hy": "Look 213 (Elegant Monochrome)",
+        "lv": "Look 213 (Elegant Monochrome)",
+        "lt": "Look 213 (Elegant Monochrome)",
+        "pl": "Look 213 (Elegant Monochrome)",
+        "uk": "Look 213 (Elegant Monochrome)"
+      },
+      "text": {
+        "ru": "Серьги Nagorno 0002 с пуловером Murcia 2544 и брюками Minuccio A 2544.",
+        "en": "Nagorno 0002 earrings with the Murcia 2544 pullover and Minuccio A 2544 trousers.",
+        "ar": "Nagorno 0002 earrings with the Murcia 2544 pullover and Minuccio A 2544 trousers.",
+        "ka": "Nagorno 0002 earrings with the Murcia 2544 pullover and Minuccio A 2544 trousers.",
+        "hy": "Nagorno 0002 earrings with the Murcia 2544 pullover and Minuccio A 2544 trousers.",
+        "lv": "Nagorno 0002 earrings with the Murcia 2544 pullover and Minuccio A 2544 trousers.",
+        "lt": "Nagorno 0002 earrings with the Murcia 2544 pullover and Minuccio A 2544 trousers.",
+        "pl": "Nagorno 0002 earrings with the Murcia 2544 pullover and Minuccio A 2544 trousers.",
+        "uk": "Nagorno 0002 earrings with the Murcia 2544 pullover and Minuccio A 2544 trousers."
+      },
+      "items": [
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG"
+        },
+        {
+          "name": "Murcia",
+          "code": "2544",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/965f2c29-676c-4192-8d8f-b78a724a8831-removebg-preview.png",
+          "modelId": 195
+        },
+        {
+          "name": "Minuccio A",
+          "code": "2544",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NVoUDC5hSh-_ll973FicDA_1836626867696f4307470cc7_02681906_02821420XX1.jpg",
+          "modelId": 177
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Data unavailable from official sources",
+      "Data unavailable from official sources",
+      "Data unavailable from official sources"
+    ],
+    "ru": [
+      "Подчеркните универсальность дизайна «узел»: эти серьги идеально подходят как к лаконичным офисным рубашкам Lucinda 0201, так и к вечерним платьям, добавляя образу завершенности и шика.",
+      "Акцентируйте внимание на типе застежки: клипсы — идеальное решение для клиентов без проколов в ушах, а также для тех, кто ищет максимальный комфорт в носке крупных украшений.",
+      "Рекомендуйте Nagorno как иконический подарок в стиле 'heritage': скульптурная форма и золотистое покрытие вне времени делают этот аксессуар ценным дополнением любой коллекции."
+    ],
+    "ar": [
+      "أبرزي تعدد استخدامات تصميم «العقدة»: هذه الأقراط تتناسب تمامًا مع قمصان المكتب الرسمية Lucinda 0201 وكذلك مع فساتين السهرة، مما يضفي لمسة من الاكتمال والأناقة على الإطلالة.",
+      "ركزي على نوع المشبك: المشابك (الكلبس) هي الحل الأمثل للعملاء الذين لا يثقبون آذانهم، وكذلك لمن يبحث عن أقصى درجات الراحة عند ارتداء المجوهرات الكبيرة.",
+      "نوصي بقطعة Nagorno كهدية أيقونية بأسلوب 'heritage': شكلها المنحوت وطلائها الذهبي يجعل من هذا الإكسسوار إضافة خالدة وقيمة لأي مجموعة."
+    ],
+    "ka": [
+      "ხაზი გაუსვით «კვანძის» დიზაინის მრავალფეროვნებას: ეს საყურეები იდეალურად უხდება როგორც ლაკონურ საოფისე პერანგებს Lucinda 0201, ისე საღამოს კაბებს, რაც იერსახეს სისრულესა და შიკს მატებს.",
+      "აქცენტი გააკეთეთ საკეტის ტიპზე: კლიფსები იდეალური გადაწყვეტაა ყურგაუხვრეტელი კლიენტებისთვის, ასევე მათთვის, ვინც ეძებს მაქსიმალურ კომფორტს დიდი ზომის სამკაულების ტარებისას.",
+      "რეკომენდაცია გაუწიეთ Nagorno-ს, როგორც 'heritage' სტილის საკულტო საჩუქარს: სკულპტურული ფორმა და მოოქროვილი საფარი ამ აქსესუარს ნებისმიერი კოლექციის ღირებულ დამატებად აქცევს."
+    ],
+    "hy": [
+      "Ընդգծեք «հանգույց» դիզայնի բազմակողմանիությունը. այս ականջօղերը կատարյալ են ինչպես Lucinda 0201 լակոնիկ գրասենյակային վերնաշապիկների, այնպես էլ երեկոյան զգեստների հետ՝ կերպարին հաղորդելով ավարտունություն և շքեղություն։",
+      "Շեշտադրեք ամրակման տեսակը. կլիպսաները իդեալական լուծում են ականջները չծակած հաճախորդների, ինչպես նաև նրանց համար, ովքեր փնտրում են խոշոր զարդեր կրելու առավելագույն հարմարավետություն։",
+      "Առաջարկեք Nagorno-ն որպես «heritage» ոճի խորհրդանշական նվեր. քանդակային ձևը և ոսկեգույն ծածկույթը ժամանակից վեր են դարձնում այս աքսեսուարը ցանկացած հավաքածուի արժեքավոր հավելումը։"
+    ],
+    "lv": [
+      "Uzsveriet 'mezgla' dizaina daudzpusību: šie auskari ir lieliski piemēroti gan lakoniskajiem biroja krekliem Lucinda 0201, gan vakarkleitām, piešķirot tēlam pabeigtību un šiku.",
+      "Akcentējiet uzmanību uz aizdares veidu: klipši ir ideāls risinājums klientiem bez caurdurtām ausīm, kā arī tiem, kuri meklē maksimālu komfortu, nēsājot lielas rotaslietas.",
+      "Rekomendējiet Nagorno kā ikonisku dāvanu 'heritage' stilā: skulpturālā forma un zeltītais pārklājums, kas ir pāri laikam, padara šo aksesuāru par vērtīgu papildinājumu jebkurai kolekcijai."
+    ],
+    "lt": [
+      "Pabrėžkite „mazgo“ dizaino universalumą: šie auskarai idealiai tinka tiek prie lakoniškų biuro stiliaus marškinių Lucinda 0201, tiek prie vakarinių suknelių, suteikiant įvaizdžiui užbaigtumo ir prašmatnumo.",
+      "Akcentuokite užsegimo tipą: klipsai – idealus sprendimas klientėms, neturinčioms pradurtų ausų, taip pat ieškančioms maksimalaus komforto dėvint stambius papuošalus.",
+      "Rekomenduokite Nagorno kaip ikonišką „heritage“ stiliaus dovaną: skulptūriška forma ir auksinis padengimas yra nepavaldūs laikui, todėl šis aksesuaras taps vertingu bet kurios kolekcijos priedu."
+    ],
+    "pl": [
+      "Podkreśl uniwersalność designu „węzeł”: te kolczyki pasują idealnie zarówno do minimalistycznych koszul biurowych Lucinda 0201, jak i do wieczorowych sukienek, dodając stylizacji wykończenia i szyku.",
+      "Akcentuj rodzaj zapięcia: klipsy to idealne rozwiązanie dla klientek bez przekłutych uszu, a także dla tych, które poszukują maksymalnego komfortu w noszeniu dużej biżuterii.",
+      "Rekomenduj Nagorno jako ikoniczny prezent w stylu 'heritage': rzeźbiarska forma i złociste pokrycie sprawiają, że ten dodatek jest ponadczasowym i cennym uzupełnieniem każdej kolekcji."
+    ],
+    "uk": [
+      "Підкресліть універсальність дизайну «вузол»: ці сережки ідеально підходять як до лаконічних офісних сорочок Lucinda 0201, так і до вечірніх суконь, додаючи образу завершеності та шику.",
+      "Акцентуйте увагу на типі застібки: кліпси — ідеальне рішення для клієнтів без проколів у вухах, а також для тих, хто шукає максимальний комфорт у носінні великих прикрас.",
+      "Рекомендуйте Nagorno як іконічний подарунок у стилі 'heritage': скульптурна форма та золотисте покриття поза часом роблять цей аксесуар цінним доповненням будь-якої колекції."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Earrings may seem heavy due to their volume.",
+        "a": "Explain that despite their visual presence, the 'bombato' construction technique keeps the weight optimal for comfortable wear throughout the day."
+      },
+      {
+        "q": "Clip fastenings may be less secure than traditional earrings.",
+        "a": "Reassure the client of the exceptional quality of the Luisa Spagnoli mechanism. The clips are engineered with ergonomics in mind, providing a secure yet gentle fit to the earlobe."
+      },
+      {
+        "q": "The gold tone may dull over time.",
+        "a": "Point out the use of premium-quality galvanic plating. With simple jewellery-care practices, the piece will retain its original shine for many years to come."
+      },
+      {
+        "q": "The knot motif looks too traditional.",
+        "a": "Emphasise that the knot motif is a key 'Heritage Luxury' trend. It symbolises a connection across eras and lends the look a sense of status, remaining relevant regardless of seasonal shifts in fashion."
+      },
+      {
+        "q": "Brass may cause an allergic reaction.",
+        "a": "Clarify that the brass alloy undergoes thorough treatment and features a protective layer that minimises contact with the skin, characteristic of premium Italian-made accessories."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Серьги могут казаться тяжелыми из-за своего объема",
+        "a": "Объясните, что несмотря на визуальную массивность, техника исполнения 'bombato' позволяет сохранять оптимальный вес для комфортного ношения аксессуара в течение всего дня."
+      },
+      {
+        "q": "Клипсы могут быть менее надежными, чем традиционные серьги",
+        "a": "Заверьте клиента в высоком качестве механизма Luisa Spagnoli. Клипсы разработаны с учетом эргономики, обеспечивая плотное, но мягкое прилегание к мочке уха."
+      },
+      {
+        "q": "Золотистый цвет может со временем померкнуть",
+        "a": "Укажите на использование высококачественного гальванического напыления. При соблюдении простых правил ухода за бижутерией, украшение сохранит свой первозданный блеск на долгие годы."
+      },
+      {
+        "q": "Дизайн с узлом выглядит слишком традиционно",
+        "a": "Подчеркните, что мотив узла — это ключевой тренд 'Heritage Luxury'. Он символизирует связь времен и подчеркивает статусность образа, оставаясь актуальным вне зависимости от смены модных сезонов."
+      },
+      {
+        "q": "Латунь может вызвать аллергическую реакцию",
+        "a": "Уточните, что сплав латуни проходит тщательную обработку и имеет защитный слой, минимизирующий контакт с кожей, что характерно для премиальных аксессуаров итальянского производства."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الأقراط قد تبدو ثقيلة بسبب حجمها",
+        "a": "اشرحي أنه على الرغم من الضخامة البصرية، فإن تقنية التنفيذ 'bombato' تسمح بالحفاظ على وزن مثالي لارتداء مريح للإكسسوار طوال اليوم."
+      },
+      {
+        "q": "المشابك قد تكون أقل أماناً من الأقراط التقليدية",
+        "a": "طمئني العميلة بشأن الجودة العالية لآلية Luisa Spagnoli. تم تصميم المشابك مع مراعاة الجوانب المريحة، مما يوفر ثباتاً محكماً ولطيفاً على شحمة الأذن."
+      },
+      {
+        "q": "اللون الذهبي قد يبهت مع مرور الوقت",
+        "a": "أشيري إلى استخدام طلاء غلفاني عالي الجودة. مع اتباع قواعد العناية البسيطة بالمجوهرات، ستحتفظ القطعة ببريقها الأصلي لسنوات عديدة."
+      },
+      {
+        "q": "تصميم العقدة يبدو تقليدياً جداً",
+        "a": "أكدي أن زخرفة العقدة هي اتجاه رئيسي في 'Heritage Luxury'. فهي ترمز إلى الارتباط بين العصور وتضفي لمسة من المكانة الرفيعة على الإطلالة، مع الحفاظ على رونقها بغض النظر عن تغير مواسم الموضة."
+      },
+      {
+        "q": "النحاس قد يسبب حساسية للجلد",
+        "a": "وضحي أن سبيكة النحاس تخضع لمعالجة دقيقة ومطلية بطبقة واقية تقلل من ملامسة الجلد، وهو ما يميز الإكسسوارات الفاخرة ذات الإنتاج الإيطالي."
+      }
+    ],
+    "ka": [
+      {
+        "q": "საყურეები შეიძლება მძიმე ჩანდეს თავისი მოცულობის გამო",
+        "a": "აუხსენით, რომ ვიზუალური მასიურობის მიუხედავად, 'bombato'-ს შესრულების ტექნიკა საშუალებას იძლევა შევინარჩუნოთ ოპტიმალური წონა აქსესუარის მთელი დღის განმავლობაში კომფორტულად ტარებისთვის."
+      },
+      {
+        "q": "კლიპსები შეიძლება ნაკლებად საიმედო იყოს, ვიდრე ტრადიციული საყურეები",
+        "a": "დაარწმუნეთ კლიენტი Luisa Spagnoli-ის მექანიზმის მაღალ ხარისხში. კლიპსები დამუშავებულია ერგონომიკის გათვალისწინებით, რაც უზრუნველყოფს ყურის ბიბილოზე მჭიდრო, მაგრამ რბილ მორგებას."
+      },
+      {
+        "q": "ოქროსფერი შეიძლება დროთა განმავლობაში გაფერმკრთალდეს",
+        "a": "მიუთითეთ მაღალი ხარისხის გალვანური შესხურების გამოყენებაზე. ბიჟუტერიის მოვლის მარტივი წესების დაცვით, სამკაული წლების განმავლობაში შეინარჩუნებს პირვანდელ ბზინვარებას."
+      },
+      {
+        "q": "კვანძის დიზაინი ზედმეტად ტრადიციულად გამოიყურება",
+        "a": "ხაზგასმით აღნიშნეთ, რომ კვანძის მოტივი — ეს არის 'Heritage Luxury'-ის მთავარი ტრენდი. ის სიმბოლოა დროთა კავშირის და ხაზს უსვამს იერსახის სტატუსურობას, რაც აქტუალური რჩება მოდური სეზონების ცვლილების მიუხედავად."
+      },
+      {
+        "q": "თითბერმა (ლატუნი) შეიძლება გამოიწვიოს ალერგიული რეაქცია",
+        "a": "დააზუსტეთ, რომ თითბერის შენადნობი გადის საფუძვლიან დამუშავებას და აქვს დამცავი ფენა, რაც ამცირებს კანთან კონტაქტს, რაც დამახასიათებელია იტალიური წარმოების პრემიუმ აქსესუარებისთვის."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ականջօղերը կարող են ծանր թվալ իրենց ծավալի պատճառով",
+        "a": "Բացատրեք, որ չնայած տեսողական զանգվածայնությանը, 'bombato' կատարման տեխնիկան թույլ է տալիս պահպանել օպտիմալ քաշ՝ աքսեսուարը ամբողջ օրվա ընթացքում հարմարավետ կրելու համար"
+      },
+      {
+        "q": "Կլիպսները կարող են ավելի քիչ հուսալի լինել, քան ավանդական ականջօղերը",
+        "a": "Վստահեցրեք հաճախորդին Luisa Spagnoli-ի մեխանիզմի բարձր որակի մասին: Կլիպսները մշակված են՝ հաշվի առնելով էրգոնոմիկան՝ ապահովելով սերտ, բայց փափուկ հպում ականջի բլթակին"
+      },
+      {
+        "q": "Ոսկեգույն գույնը ժամանակի ընթացքում կարող է խամրել",
+        "a": "Նշեք բարձրորակ գալվանական ծածկույթի օգտագործումը: Բիժուտերիայի խնամքի պարզ կանոններին հետևելիս զարդը կպահպանի իր սկզբնական փայլը երկար տարիներ"
+      },
+      {
+        "q": "Հանգույցով դիզայնը չափազանց ավանդական է թվում",
+        "a": "Ընդգծեք, որ հանգույցի մոտիվը 'Heritage Luxury' հիմնական թրենդն է: Այն խորհրդանշում է ժամանակների կապը և ընդգծում է կերպարի կարգավիճակը՝ մնալով արդիական՝ անկախ նորաձևության սեզոնների փոփոխությունից"
+      },
+      {
+        "q": "Փողրակը կարող է ալերգիկ ռեակցիա առաջացնել",
+        "a": "Պարզաբանեք, որ փողրակի համաձուլվածքն անցնում է մանրակրկիտ մշակում և ունի պաշտպանիչ շերտ, որը նվազագույնի է հասցնում մաշկի հետ շփումը, ինչը բնորոշ է իտալական արտադրության պրեմիում աքսեսուարներին"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Auskari var šķist smagi sava apjoma dēļ",
+        "a": "Paskaidrojiet, ka neskatoties uz vizuālo masīvumu, 'bombato' izpildījuma tehnika ļauj saglabāt optimālu svaru ērtai aksesuāra nēsāšanai visas dienas garumā."
+      },
+      {
+        "q": "Klipsi var būt mazāk droši nekā tradicionālie auskari",
+        "a": "Aplieciniet klientam Luisa Spagnoli mehānisma augsto kvalitāti. Klipsi ir izstrādāti, ņemot vērā ergonomiku, nodrošinot ciešu, bet maigu piekļaušanos ausu ļipiņām."
+      },
+      {
+        "q": "Zeltītā krāsa var ar laiku nobālēt",
+        "a": "Norādiet uz augstas kvalitātes galvaniskā pārklājuma izmantošanu. Ievērojot vienkāršus bižutērijas kopšanas noteikumus, rotaslieta saglabās savu sākotnējo spīdumu daudzus gadus."
+      },
+      {
+        "q": "Mezgla dizains izskatās pārāk tradicionāli",
+        "a": "Uzsveriet, ka mezgla motīvs ir galvenā 'Heritage Luxury' tendence. Tas simbolizē laiku saikni un uzsver tēla statusu, paliekot aktuāls neatkarīgi no modes sezonu maiņas."
+      },
+      {
+        "q": "Misiņš var izraisīt alerģisku reakciju",
+        "a": "Precizējiet, ka misiņa sakausējums tiek rūpīgi apstrādāts un tam ir aizsargslānis, kas samazina kontaktu ar ādu, kas ir raksturīgi itāļu ražojuma premium klases aksesuāriem."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Auskarai gali atrodyti sunkūs dėl savo tūrio",
+        "a": "Paaiškinkite, kad nepaisant vizualaus masyvumo, 'bombato' atlikimo technika leidžia išsaugoti optimalų svorį patogiam aksesuaro dėvėjimui visą dieną."
+      },
+      {
+        "q": "Klipsai gali būti mažiau patikimi nei tradiciniai auskarai",
+        "a": "Patikinkite klientę dėl aukštos Luisa Spagnoli mechanizmo kokybės. Klipsai sukurti atsižvelgiant į ergonomiką, užtikrinant tvirtą, bet minkštą prigludimą prie ausies spenelio."
+      },
+      {
+        "q": "Auksinė spalva ilgainiui gali išblukti",
+        "a": "Nurodykite aukštos kokybės galvaninį padengimą. Laikantis paprastų bižuterijos priežiūros taisyklių, papuošalas išsaugos savo pirminį blizgesį daugelį metų."
+      },
+      {
+        "q": "Mazgo dizainas atrodo per daug tradiciškai",
+        "a": "Pabrėžkite, kad mazgo motyvas — tai pagrindinė 'Heritage Luxury' tendencija. Jis simbolizuoja laikų ryšį ir pabrėžia įvaizdžio statusą, išlikdamas aktualus nepriklausomai nuo mados sezonų kaitos."
+      },
+      {
+        "q": "Žalvaris gali sukelti alerginę reakciją",
+        "a": "Patikslinkite, kad žalvario lydinys yra kruopščiai apdorojamas ir turi apsauginį sluoksnį, minimizuojantį kontaktą su oda, kas būdinga prabangiems itališkiems aksesuarams."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Kolczyki mogą wydawać się ciężkie ze względu na swój objętość",
+        "a": "Wyjaśnij, że pomimo wizualnej masywności, technika wykonania 'bombato' pozwala zachować optymalną wagę dla komfortowego noszenia akcesorium przez cały dzień."
+      },
+      {
+        "q": "Klipsy mogą być mniej niezawodne niż tradycyjne kolczyki",
+        "a": "Zapewnij klientkę o wysokiej jakości mechanizmu Luisa Spagnoli. Klipsy zaprojektowano z uwzględnieniem ergonomii, zapewniając ścisłe, ale miękkie przyleganie do płatka ucha."
+      },
+      {
+        "q": "Złocisty kolor może z czasem zmatowieć",
+        "a": "Wskaż na zastosowanie wysokiej jakości powłoki galwanicznej. Przy przestrzeganiu prostych zasad dbałości o biżuterię, ozdoba zachowa swój pierwotny blask na długie lata."
+      },
+      {
+        "q": "Wzór z węzłem wygląda zbyt tradycyjnie",
+        "a": "Podkreśl, że motyw węzła to kluczowy trend 'Heritage Luxury'. Symbolizuje on łączność czasów i podkreśla prestiż stylizacji, pozostając aktualnym bez względu na zmieniające się trendy modowe."
+      },
+      {
+        "q": "Mosiądz może wywołać reakcję alergiczną",
+        "a": "Wyjaśnij, że stop mosiądzu przechodzi staranną obróbkę i posiada warstwę ochronną, minimalizującą kontakt ze skórą, co jest charakterystyczne dla akcesoriów premium włoskiej produkcji."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Сережки можуть здаватися важкими через свій об'єм",
+        "a": "Поясніть, що незважаючи на візуальну масивність, техніка виконання 'bombato' дозволяє зберігати оптимальну вагу для комфортного носіння аксесуара протягом усього дня."
+      },
+      {
+        "q": "Кліпси можуть бути менш надійними, ніж традиційні сережки",
+        "a": "Запевніть клієнта у високій якості механізму Luisa Spagnoli. Кліпси розроблені з урахуванням ергономіки, забезпечуючи щільне, але м'яке прилягання до мочки вуха."
+      },
+      {
+        "q": "Золотистий колір може з часом потьмяніти",
+        "a": "Вкажіть на використання високоякісного гальванічного напилення. При дотриманні простих правил догляду за біжутерією, прикраса збереже свій первозданний блиск на довгі роки."
+      },
+      {
+        "q": "Дизайн із вузлом виглядає занадто традиційно",
+        "a": "Підкресліть, що мотив вузла — це ключовий тренд 'Heritage Luxury'. Він символізує зв'язок часів і підкреслює статусність образу, залишаючись актуальним незалежно від зміни модних сезонів."
+      },
+      {
+        "q": "Латунь може викликати алергічну реакцію",
+        "a": "Уточніть, що сплав латуні проходить ретельну обробку і має захисний шар, що мінімізує контакт зі шкірою, що є характерним для преміальних аксесуарів італійського виробництва."
+      }
+    ]
+  }
+}

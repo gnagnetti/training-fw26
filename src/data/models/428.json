@@ -1,0 +1,522 @@
+{
+  "id": 428,
+  "name": "Lusia",
+  "description": {
+    "en": "The Lusia shirt is an aesthetic manifesto inspired by the noble world of equestrian sport and Italian leathercraft traditions, an integral part of the Luisa Spagnoli DNA. Crafted from the finest pure natural silk (pura seta), which lends the look exceptional nobility and a soft matte sheen. The design's protagonist is an exclusive 'selleria' print, masterfully emulating elements of tack and stirrups, lending the piece an intellectual aristocratic quality. The understated straight cut (linea dritta) and Regular fit ensure flawless purity of line, while contrasting striped trim (bordi a righe) at the piece's edges places contemporary graphic accents. This shirt is the perfect balance between classic heritage and the dynamic style of the contemporary woman.",
+    "ru": "Рубашка Lusia --- это эстетический манифест, вдохновленный благородным миром конного спорта и итальянскими традициями обработки кожи, что является неотъемлемой частью ДНК Luisa Spagnoli. Модель выполнена из чистого натурального шелка (pura seta) высшего качества, который дарит образу исключительное благородство и мягкое матовое сияние. Главным героем дизайна выступает эксклюзивный принт «selleria», виртуозно имитирующий элементы упряжи и стремян, что придает изделию интеллектуальный аристократизм. Лаконичный прямой крой (linea dritta) и регулярная посадка обеспечивают безупречную чистоту линий, а контрастные полосатые канты (bordi a righe) по краям изделия расставляют современные графические акценты. Эта рубашка --- идеальный баланс между классическим наследием и динамичным стилем современной женщины.",
+    "ar": "قميص Lusia --- هو بيان جمالي مستوحى من عالم الفروسية النبيل وتقاليد دباغة الجلود الإيطالية، وهو جزء لا يتجزأ من جوهر Luisa Spagnoli. صُنع الطراز من الحرير الطبيعي الخالص (pura seta) عالي الجودة، الذي يمنح الإطلالة نبلًا استثنائياً ولمعة مطفية ناعمة. بطل التصميم هو طبعة \"selleria\" الحصرية التي تحاكي ببراعة عناصر السروج واللجام، مما يضفي على القطعة أرستقراطية فكرية. توفر القصة المستقيمة (linea dritta) والقصة المنتظمة نقاءً لا تشوبه شائبة في الخطوط، بينما تضفي الحواف المخططة المتباينة (bordi a righe) لمسات رسومية عصرية. هذا القميص هو التوازن المثالي بين الإرث الكلاسيكي والأسلوب الديناميكي للمرأة العصرية.",
+    "ka": "პერანგი Lusia --- ეს არის ესთეტიკური მანიფესტი, შთაგონებული ცხენოსნობის კეთილშობილური სამყაროთი და ტყავის დამუშავების იტალიური ტრადიციებით, რაც Luisa Spagnoli-ს დნმ-ის განუყოფელი ნაწილია. მოდელი დამზადებულია უმაღლესი ხარისხის სუფთა ნატურალური აბრეშუმისგან (pura seta), რომელიც გამოსახულებას ანიჭებს განსაკუთრებულ კეთილშობილებასა და რბილ, მქრქალ ბზინვარებას. დიზაინის მთავარი გმირია ექსკლუზიური პრინტი „selleria“, რომელიც ვირტუოზულად იმეორებს უნაგირისა და უზანგის ელემენტებს, რაც ნაკეთობას ინტელექტუალურ არისტოკრატიზმს ანიჭებს. ლაკონიური სწორი კრიალი (linea dritta) და რეგულარული მორგება უზრუნველყოფს ხაზების უნაკლო სისუფთავეს, ხოლო ნაკეთობის კიდეებზე კონტრასტული ზოლიანი კანტები (bordi a righe) თანამედროვე გრაფიკულ აქცენტებს სვამს. ეს პერანგი არის იდეალური ბალანსი კლასიკურ მემკვიდრეობასა და თანამედროვე ქალის დინამიურ სტილს შორის.",
+    "hy": "Lusia վերնաշապիկը գեղագիտական մանիֆեստ է, որը ոգեշնչված է ձիասպորտի ազնվական աշխարհից և կաշվի մշակման իտալական ավանդույթներից, որոնք հանդիսանում են Luisa Spagnoli-ի ԴՆԹ-ի անբաժանելի մասը։ Մոդելը պատրաստված է բարձրորակ մաքուր բնական մետաքսից (pura seta), որը կերպարին հաղորդում է բացառիկ վեհություն և փափուկ փայլատ փայլ։ Դիզայնի գլխավոր հերոսը բացառիկ «selleria» պրինտն է, որը վարպետորեն նմանակում է ձիասարքի և ասպանդակների տարրերը, ինչը իրին հաղորդում է ինտելեկտուալ ազնվականություն։ Լակոնիկ ուղիղ ձևվածքը (linea dritta) և կանոնավոր ձևվածքը ապահովում են գծերի անթերի մաքրություն, իսկ իրի եզրերի հակադիր գծավոր ժապավենները (bordi a righe) հաղորդում են ժամանակակից գրաֆիկական շեշտադրումներ։ Այս վերնաշապիկը դասական ժառանգության և ժամանակակից կնոջ դինամիկ ոճի միջև կատարյալ հավասարակշռություն է։",
+    "lv": "Krekls Lusia --- tas ir estētisks manifests, ko iedvesmojusi cēlā jāšanas sporta pasaule un itāļu ādas apstrādes tradīcijas, kas ir neatņemama Luisa Spagnoli DNS sastāvdaļa. Modelis ir izgatavots no augstākās kvalitātes tīra dabīgā zīda (pura seta), kas piešķir tēlam izcilu cēlsirdību un maigu matētu spīdumu. Dizaina galvenais varonis ir ekskluzīvā „selleria” apdruka, kas virtuozi imitē zirglietu un kāpšļu elementus, piešķirot izstrādājumam intelektuālu aristokrātismu. Lakoniskais taisnais piegriezums (linea dritta) un regulārais piegriezums nodrošina līniju nevainojamu tīrību, bet kontrastējošās svītrainās apmales (bordi a righe) izstrādājuma malās iezīmē mūsdienīgus grafiskus akcentus. Šis krekls --- ideāls līdzsvars starp klasisko mantojumu un mūsdienu sievietes dinamisku stilu.",
+    "lt": "Marškiniai Lusia --- tai estetinis manifestas, įkvėptas kilnaus žirgų sporto pasaulio ir itališkų odos apdirbimo tradicijų, kas yra neatsiejama Luisa Spagnoli DNR dalis. Modelis pagamintas iš aukščiausios kokybės gryno natūralaus šilko (pura seta), kuris suteikia įvaizdžiui išskirtinio kilnumo ir švelnaus matinio spindesio. Pagrindinis dizaino akcentas --- išskirtinis „selleria“ raštas, meistriškai imituojantis balno ir balnakilpių elementus, suteikiantis gaminiui intelektualaus aristokratiškumo. Lakoniškas tiesus kirpimas (linea dritta) ir reguliarus sukirpimas užtikrina nepriekaištingą linijų švarą, o kontrastuojantys dryžuoti apvadai (bordi a righe) gaminio kraštuose sukuria šiuolaikiškus grafinius akcentus. Šie marškiniai --- idealus balansas tarp klasikinio paveldo ir dinamiško šiuolaikinės moters stiliaus.",
+    "pl": "Koszula Lusia to estetyczny manifest, zainspirowany szlachetnym światem sportów jeździeckich i włoskimi tradycjami obróbki skóry, co stanowi nieodłączną część DNA Luisa Spagnoli. Model wykonany jest z czystego naturalnego jedwabiu (pura seta) najwyższej jakości, który nadaje stylizacji wyjątkowej szlachetności i miękkiego matowego blasku. Głównym bohaterem designu jest ekskluzywny nadruk „selleria”, wirtuozersko imitujący elementy uprzęży i strzemion, co nadaje modelowi intelektualny arystokratyzm. Lakoniczny prosty krój (linea dritta) i regularne dopasowanie zapewniają nieskazitelną czystość linii, a kontrastowe pasiaste lamówki (bordi a righe) na krawędziach modelu wprowadzają nowoczesne graficzne akcenty. Ta koszula to idealny balans między klasycznym dziedzictwem a dynamicznym stylem współczesnej kobiety.",
+    "uk": "Сорочка Lusia --- це естетичний маніфест, натхненний благородним світом кінного спорту та італійськими традиціями обробки шкіри, що є невід'ємною частиною ДНК Luisa Spagnoli. Модель виконана з чистого натурального шовку (pura seta) найвищої якості, який дарує образу виняткове благородство та м'яке матове сяйво. Головним героєм дизайну виступає ексклюзивний принт «selleria», що віртуозно імітує елементи упряжі та стремян, що надає виробу інтелектуального аристократизму. Лаконічний прямий крій (linea dritta) та регулярна посадка забезпечують бездоганну чистоту ліній, а контрастні смугасті канти (bordi a righe) по краях виробу розставляють сучасні графічні акценти. Ця сорочка --- ідеальний баланс між класичною спадщиною та динамічним стилем сучасної жінки."
+  },
+  "colors": [
+    {
+      "name": "Var Fondo Nero Nero",
+      "code": "3402 0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1696684085692424d22bd006_54589516_02781310XX1.jpg"
+    },
+    {
+      "name": "Var Verde   Senape Verde Militare",
+      "code": "3406 1740",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1396325310692424d1b4d2c2_05847867_02781300XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Вариант 3402 0101",
+        "en": "Вариант 3402 0101",
+        "ar": "Вариант 3402 0101",
+        "ka": "Вариант 3402 0101",
+        "hy": "Вариант 3402 0101",
+        "lv": "Вариант 3402 0101",
+        "lt": "Вариант 3402 0101",
+        "pl": "Вариант 3402 0101",
+        "uk": "Вариант 3402 0101"
+      },
+      "text": {
+        "ru": "Vetrina 14, 15, 16: - Современный городской образ с курткой Scalare 0101 и юбкой с аналогичным принтом Foligno 3402. - Интеллектуальный сет с V-образным жилетом Maica 2246 и летящей юбкой Festone 0101. - Многослойный зимний выход под пальто Sciroppo 0101 и жакет Menola 2246 с классическими брюками Optare 3326.",
+        "en": "Vetrina 14, 15, 16: - Современный городской образ с курткой Scalare 0101 и юбкой с аналогичным принтом Foligno 3402. - Интеллектуальный сет с V-образным жилетом Maica 2246 и летящей юбкой Festone 0101. - Многослойный зимний выход под пальто Sciroppo 0101 и жакет Menola 2246 с классическими брюками Optare 3326.",
+        "ar": "Vetrina 14, 15, 16: - Современный городской образ с курткой Scalare 0101 и юбкой с аналогичным принтом Foligno 3402. - Интеллектуальный сет с V-образным жилетом Maica 2246 и летящей юбкой Festone 0101. - Многослойный зимний выход под пальто Sciroppo 0101 и жакет Menola 2246 с классическими брюками Optare 3326.",
+        "ka": "Vetrina 14, 15, 16: - Современный городской образ с курткой Scalare 0101 и юбкой с аналогичным принтом Foligno 3402. - Интеллектуальный сет с V-образным жилетом Maica 2246 и летящей юбкой Festone 0101. - Многослойный зимний выход под пальто Sciroppo 0101 и жакет Menola 2246 с классическими брюками Optare 3326.",
+        "hy": "Vetrina 14, 15, 16: - Современный городской образ с курткой Scalare 0101 и юбкой с аналогичным принтом Foligno 3402. - Интеллектуальный сет с V-образным жилетом Maica 2246 и летящей юбкой Festone 0101. - Многослойный зимний выход под пальто Sciroppo 0101 и жакет Menola 2246 с классическими брюками Optare 3326.",
+        "lv": "Vetrina 14, 15, 16: - Современный городской образ с курткой Scalare 0101 и юбкой с аналогичным принтом Foligno 3402. - Интеллектуальный сет с V-образным жилетом Maica 2246 и летящей юбкой Festone 0101. - Многослойный зимний выход под пальто Sciroppo 0101 и жакет Menola 2246 с классическими брюками Optare 3326.",
+        "lt": "Vetrina 14, 15, 16: - Современный городской образ с курткой Scalare 0101 и юбкой с аналогичным принтом Foligno 3402. - Интеллектуальный сет с V-образным жилетом Maica 2246 и летящей юбкой Festone 0101. - Многослойный зимний выход под пальто Sciroppo 0101 и жакет Menola 2246 с классическими брюками Optare 3326.",
+        "pl": "Vetrina 14, 15, 16: - Современный городской образ с курткой Scalare 0101 и юбкой с аналогичным принтом Foligno 3402. - Интеллектуальный сет с V-образным жилетом Maica 2246 и летящей юбкой Festone 0101. - Многослойный зимний выход под пальто Sciroppo 0101 и жакет Menola 2246 с классическими брюками Optare 3326.",
+        "uk": "Vetrina 14, 15, 16: - Современный городской образ с курткой Scalare 0101 и юбкой с аналогичным принтом Foligno 3402. - Интеллектуальный сет с V-образным жилетом Maica 2246 и летящей юбкой Festone 0101. - Многослойный зимний выход под пальто Sciroppo 0101 и жакет Menola 2246 с классическими брюками Optare 3326."
+      },
+      "items": [
+        {
+          "name": "Menola",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1815204296691f1575c6b463_06852164_02790420XX1.jpg",
+          "modelId": 441
+        },
+        {
+          "name": "Minuccio A",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/44a050a8-738e-4eee-9a3e-18fce3cbb172-removebg-preview.png",
+          "modelId": 177
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Дизайнеры бренда используют Lusia как в качестве самостоятельного стейтмента, так и в сложных многослойных ансамблях: Вариант 3402 0101: Look 65 & 66: предлагается носить под уютный трикотажный жакет Menola 2246 с брюками Minuccio A 2246, где принт рубашки эффектно контрастирует с фактурной шерстью.",
+        "en": "Дизайнеры бренда используют Lusia как в качестве самостоятельного стейтмента, так и в сложных многослойных ансамблях: Вариант 3402 0101: Look 65 & 66: предлагается носить под уютный трикотажный жакет Menola 2246 с брюками Minuccio A 2246, где принт рубашки эффектно контрастирует с фактурной шерстью.",
+        "ar": "Дизайнеры бренда используют Lusia как в качестве самостоятельного стейтмента, так и в сложных многослойных ансамблях: Вариант 3402 0101: Look 65 & 66: предлагается носить под уютный трикотажный жакет Menola 2246 с брюками Minuccio A 2246, где принт рубашки эффектно контрастирует с фактурной шерстью.",
+        "ka": "Дизайнеры бренда используют Lusia как в качестве самостоятельного стейтмента, так и в сложных многослойных ансамблях: Вариант 3402 0101: Look 65 & 66: предлагается носить под уютный трикотажный жакет Menola 2246 с брюками Minuccio A 2246, где принт рубашки эффектно контрастирует с фактурной шерстью.",
+        "hy": "Дизайнеры бренда используют Lusia как в качестве самостоятельного стейтмента, так и в сложных многослойных ансамблях: Вариант 3402 0101: Look 65 & 66: предлагается носить под уютный трикотажный жакет Menola 2246 с брюками Minuccio A 2246, где принт рубашки эффектно контрастирует с фактурной шерстью.",
+        "lv": "Дизайнеры бренда используют Lusia как в качестве самостоятельного стейтмента, так и в сложных многослойных ансамблях: Вариант 3402 0101: Look 65 & 66: предлагается носить под уютный трикотажный жакет Menola 2246 с брюками Minuccio A 2246, где принт рубашки эффектно контрастирует с фактурной шерстью.",
+        "lt": "Дизайнеры бренда используют Lusia как в качестве самостоятельного стейтмента, так и в сложных многослойных ансамблях: Вариант 3402 0101: Look 65 & 66: предлагается носить под уютный трикотажный жакет Menola 2246 с брюками Minuccio A 2246, где принт рубашки эффектно контрастирует с фактурной шерстью.",
+        "pl": "Дизайнеры бренда используют Lusia как в качестве самостоятельного стейтмента, так и в сложных многослойных ансамблях: Вариант 3402 0101: Look 65 & 66: предлагается носить под уютный трикотажный жакет Menola 2246 с брюками Minuccio A 2246, где принт рубашки эффектно контрастирует с фактурной шерстью.",
+        "uk": "Дизайнеры бренда используют Lusia как в качестве самостоятельного стейтмента, так и в сложных многослойных ансамблях: Вариант 3402 0101: Look 65 & 66: предлагается носить под уютный трикотажный жакет Menola 2246 с брюками Minuccio A 2246, где принт рубашки эффектно контрастирует с фактурной шерстью."
+      },
+      "items": [
+        {
+          "name": "Scalare",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/obH9FrFkRoq3xbxDWF6Fsg_1888970026696f42f15a20d0_57909911_02820870XX1.jpg",
+          "modelId": 300
+        },
+        {
+          "name": "Foligno",
+          "code": "3402",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1489537710692424cad2ff96_85622943_02781090XX1.jpg",
+          "modelId": 393
+        },
+        {
+          "name": "Maica",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1432544873691c578f43e2f2_96288006_02790030XX1.jpg",
+          "modelId": 431
+        },
+        {
+          "name": "Festone",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/128523816691c57830dca49_01467768_02780020XX1.jpg",
+          "modelId": 389
+        },
+        {
+          "name": "Sciroppo",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Menola",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1815204296691f1575c6b463_06852164_02790420XX1.jpg",
+          "modelId": 441
+        },
+        {
+          "name": "Optare",
+          "code": "3326",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1697710587691f1560afa628_65630327_02780070XX1.jpg",
+          "modelId": 463
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 3406 1740",
+        "en": "Вариант 3406 1740",
+        "ar": "Вариант 3406 1740",
+        "ka": "Вариант 3406 1740",
+        "hy": "Вариант 3406 1740",
+        "lv": "Вариант 3406 1740",
+        "lt": "Вариант 3406 1740",
+        "pl": "Вариант 3406 1740",
+        "uk": "Вариант 3406 1740"
+      },
+      "text": {
+        "ru": "Look 73: аристократичное сочетание под структурное пальто Scansione 2046.",
+        "en": "Look 73: аристократичное сочетание под структурное пальто Scansione 2046.",
+        "ar": "Look 73: аристократичное сочетание под структурное пальто Scansione 2046.",
+        "ka": "Look 73: аристократичное сочетание под структурное пальто Scansione 2046.",
+        "hy": "Look 73: аристократичное сочетание под структурное пальто Scansione 2046.",
+        "lv": "Look 73: аристократичное сочетание под структурное пальто Scansione 2046.",
+        "lt": "Look 73: аристократичное сочетание под структурное пальто Scansione 2046.",
+        "pl": "Look 73: аристократичное сочетание под структурное пальто Scansione 2046.",
+        "uk": "Look 73: аристократичное сочетание под структурное пальто Scansione 2046."
+      },
+      "items": [
+        {
+          "name": "Scansione",
+          "code": "2046",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1221525958691c57c296ff08_45494514_02780250XX1.jpg",
+          "modelId": 302
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 3406 1740",
+        "en": "Вариант 3406 1740",
+        "ar": "Вариант 3406 1740",
+        "ka": "Вариант 3406 1740",
+        "hy": "Вариант 3406 1740",
+        "lv": "Вариант 3406 1740",
+        "lt": "Вариант 3406 1740",
+        "pl": "Вариант 3406 1740",
+        "uk": "Вариант 3406 1740"
+      },
+      "text": {
+        "ru": "Vetrina 6, 40, 44, 46: - Деловой ансамбль с жакетом Salve 0970 и брюками Occulto 0970. - Мягкий дневной образ с кардиганом Merende 1736 и вельветовыми брюками Orlato 1790. - Функциональный аутфит с курткой Scrittoio 1729 0992 и брюками в «елочку» Optare 3326. - Стилизация с коротким пальто Segreteria 1751 и брюками Olap 2259.",
+        "en": "Vetrina 6, 40, 44, 46: - Деловой ансамбль с жакетом Salve 0970 и брюками Occulto 0970. - Мягкий дневной образ с кардиганом Merende 1736 и вельветовыми брюками Orlato 1790. - Функциональный аутфит с курткой Scrittoio 1729 0992 и брюками в «елочку» Optare 3326. - Стилизация с коротким пальто Segreteria 1751 и брюками Olap 2259.",
+        "ar": "Vetrina 6, 40, 44, 46: - Деловой ансамбль с жакетом Salve 0970 и брюками Occulto 0970. - Мягкий дневной образ с кардиганом Merende 1736 и вельветовыми брюками Orlato 1790. - Функциональный аутфит с курткой Scrittoio 1729 0992 и брюками в «елочку» Optare 3326. - Стилизация с коротким пальто Segreteria 1751 и брюками Olap 2259.",
+        "ka": "Vetrina 6, 40, 44, 46: - Деловой ансамбль с жакетом Salve 0970 и брюками Occulto 0970. - Мягкий дневной образ с кардиганом Merende 1736 и вельветовыми брюками Orlato 1790. - Функциональный аутфит с курткой Scrittoio 1729 0992 и брюками в «елочку» Optare 3326. - Стилизация с коротким пальто Segreteria 1751 и брюками Olap 2259.",
+        "hy": "Vetrina 6, 40, 44, 46: - Деловой ансамбль с жакетом Salve 0970 и брюками Occulto 0970. - Мягкий дневной образ с кардиганом Merende 1736 и вельветовыми брюками Orlato 1790. - Функциональный аутфит с курткой Scrittoio 1729 0992 и брюками в «елочку» Optare 3326. - Стилизация с коротким пальто Segreteria 1751 и брюками Olap 2259.",
+        "lv": "Vetrina 6, 40, 44, 46: - Деловой ансамбль с жакетом Salve 0970 и брюками Occulto 0970. - Мягкий дневной образ с кардиганом Merende 1736 и вельветовыми брюками Orlato 1790. - Функциональный аутфит с курткой Scrittoio 1729 0992 и брюками в «елочку» Optare 3326. - Стилизация с коротким пальто Segreteria 1751 и брюками Olap 2259.",
+        "lt": "Vetrina 6, 40, 44, 46: - Деловой ансамбль с жакетом Salve 0970 и брюками Occulto 0970. - Мягкий дневной образ с кардиганом Merende 1736 и вельветовыми брюками Orlato 1790. - Функциональный аутфит с курткой Scrittoio 1729 0992 и брюками в «елочку» Optare 3326. - Стилизация с коротким пальто Segreteria 1751 и брюками Olap 2259.",
+        "pl": "Vetrina 6, 40, 44, 46: - Деловой ансамбль с жакетом Salve 0970 и брюками Occulto 0970. - Мягкий дневной образ с кардиганом Merende 1736 и вельветовыми брюками Orlato 1790. - Функциональный аутфит с курткой Scrittoio 1729 0992 и брюками в «елочку» Optare 3326. - Стилизация с коротким пальто Segreteria 1751 и брюками Olap 2259.",
+        "uk": "Vetrina 6, 40, 44, 46: - Деловой ансамбль с жакетом Salve 0970 и брюками Occulto 0970. - Мягкий дневной образ с кардиганом Merende 1736 и вельветовыми брюками Orlato 1790. - Функциональный аутфит с курткой Scrittoio 1729 0992 и брюками в «елочку» Optare 3326. - Стилизация с коротким пальто Segreteria 1751 и брюками Olap 2259."
+      },
+      "items": [
+        {
+          "name": "Salve",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/vxWux3ofS5SFEVbTaGH9Cg_99445790696f42f07c9277_19680844_02820850XX1.jpg"
+        },
+        {
+          "name": "Occulto",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OCCULTOB_10100000000.jpg"
+        },
+        {
+          "name": "Merende",
+          "code": "1736",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1929290977691f15a3cde391_66200932_02790790XX1.jpg",
+          "modelId": 442
+        },
+        {
+          "name": "Orlato",
+          "code": "1790",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ORLATO_179000000000.jpg"
+        },
+        {
+          "name": "Scrittoio",
+          "code": "1729 0992",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/22486811691f159c0fa9a1_69307500_02780880XX1.jpg",
+          "modelId": 477
+        },
+        {
+          "name": "Optare",
+          "code": "3326",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1697710587691f1560afa628_65630327_02780070XX1.jpg",
+          "modelId": 463
+        },
+        {
+          "name": "Segreteria",
+          "code": "1751",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1177856364692424dbb18d31_39928106_02781600XX1.jpg",
+          "modelId": 479
+        },
+        {
+          "name": "Olap",
+          "code": "2259",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/894988827691f15a03fcb79_08463233_02780960XX1.jpg",
+          "modelId": 243
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- An 'Old Money' style: Direct the client's attention to the 'selleria' print. This is a timeless symbol of luxury and status that never goes out of fashion and always reads as refined, underscoring the wearer's sophistication in matters of style. - Texti"
+    ],
+    "ru": [
+      "- Стиль «Old Money»: Акцентируйте внимание клиента на принте «selleria». Это вечный символ роскоши и статуса, который не выходит из моды и всегда выглядит дорого, подчеркивая эрудицию владельца в вопросах стиля. - Текстильный комфорт: Подчеркните, что руб"
+    ],
+    "ar": [
+      "- أسلوب \"Old Money\": ركزي على نقشة \"selleria\". إنها رمز أبدي للفخامة والمكانة، لا تخرج عن الموضة أبدًا وتبدو دائمًا باهظة الثمن، مما يبرز ذوق المالك الرفيع في الأناقة. - راحة النسيج: أكدي أن القميص مصنوع من حرير 100%. هذه المادة مثالية لأسلوب الطبقات: فهي"
+    ],
+    "ka": [
+      "- სტილი «Old Money»: გაამახვილეთ კლიენტის ყურადღება პრინტზე «selleria». ეს არის ფუფუნებისა და სტატუსის მარადიული სიმბოლო, რომელიც არ გამოდის მოდიდან და ყოველთვის ძვირადღირებულად გამოიყურება, რაც ხაზს უსვამს მფლობელის ერუდიციას სტილის საკითხებში. - ტექსტილ"
+    ],
+    "hy": [
+      "- «Old Money» ոճ։ Շեշտադրեք հաճախորդի ուշադրությունը «selleria» պրինտի վրա։ Սա շքեղության և կարգավիճակի հավերժական խորհրդանիշ է, որը դուրս չի գալիս նորաձևությունից և միշտ թանկ է թվում՝ ընդգծելով սեփականատիրոջ գիտակությունը ոճի հարցերում։ - Տեքստիլ հարմարա"
+    ],
+    "lv": [
+      "- «Old Money» stils: Akcentējiet klienta uzmanību uz «selleria» apdruku. Tas ir mūžīgs greznības un statusa simbols, kas neiziet no modes un vienmēr izskatās dārgi, uzsverot īpašnieka erudīciju stila jautājumos. - Tekstila komforts: Uzsveriet, ka krekls i"
+    ],
+    "lt": [
+      "- „Old Money“ stilius: Akcentuokite kliento dėmesį į „selleria“ raštą. Tai amžinas prabangos ir statuso simbolis, kuris neišeina iš mados ir visada atrodo brangiai, pabrėždamas savininko erudiciją stiliaus klausimais. - Tekstinis komfortas: Pabrėžkite, kad marškiniai pagaminti iš 100% šilko. Tai ideali medžiaga daugiasluoksniam deriniui: ji užtikrina puikią termoreguliaciją, nesukurdama nereikalingos apimties po švarku ar megztiniu. - Grafinė korekcija: Atkreipkite dėmesį į vertikalias rašto linijas ir dryžuotą kraštų apdailą. Šios detalės vizualiai ištęsia siluetą ir daro įvaizdį labiau vientisą bei dinamišką."
+    ],
+    "pl": [
+      "- Styl «Old Money»: Zwróć uwagę klientki na wzór «selleria». To wieczny symbol luksusu i statusu, który nie wychodzi z mody i zawsze wygląda kosztownie, podkreślając wiedzę właścicielki w kwestiach stylu. - Tekstylny komfort: Podkreśl, że koszula wykonana"
+    ],
+    "uk": [
+      "- Стиль «Old Money»: Акцентуйте увагу клієнта на принті «selleria». Це вічний символ розкоші та статусу, який не виходить із моди і завжди виглядає дорого, підкреслюючи ерудицію власника в питаннях стилю. - Текстильний комфорт: Підкресліть, що сорочка вик"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "print seems Suggest trying the shirt under a solid-colored too bold» jacket (such as the Menola 2246). The \"selleria\" print becomes a refined accent, only partially visible, softening the look. «Silk is too Explain that natural silk has unique properties: cold for winter» it retains body heat in winter under outerwear and offers a cooling effect indoors, acting as a \"second skin.\" «The straight cut Point out the fluidity of the silk fabric. Silk will hide my doesn't stand stiff, it drapes softly, following figure» the body's movements, creating a feminine yet understated silhouette. «I'm worried the Remind the client that the \"selleria\" motif is print will get old a Luisa Spagnoli classic. This is an investment quickly» piece that will remain relevant in the wardrobe for years, just like equestrian-themed accessories. «What can I wear Showcase the option from Vetrina 40: corduroy besides classic trousers Orlato 1790 or denim instantly shift trousers?» the shirt from a business register into \"casual chic\" style"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Принт кажется",
+        "a": "Предложите примерить рубашку под однотонный жакет слишком (например, Menola 2246). Принт «selleria станет активным» изысканным акцентом, видимым лишь частично, что смягчит образ."
+      },
+      {
+        "q": "Шелк — это",
+        "a": "Объясните, что натуральный шелк обладает уникальными слишком холодно свойствами: он сохраняет тепло тела зимой под для зимы верхней одеждой и дарит прохладу в помещении, являясь."
+      },
+      {
+        "q": "второй кожей",
+        "a": "."
+      },
+      {
+        "q": "Прямой крой",
+        "a": "Укажите на текучесть шелковой ткани. Шелк не стоит скроет фигуру колом, а мягко драпируется, следуя за движениями тела, что создает женственный, но сдержанный силуэт."
+      },
+      {
+        "q": "Боюсь, что",
+        "a": "Напомните, что тема «selleria — это классика принт быстро Luisa Spagnoli. Это инвестиционное изделие, которое надоест» будет актуально в гардеробе годами, как и аксессуары с конной тематикой."
+      },
+      {
+        "q": "С чем носить",
+        "a": "Продемонстрируйте вариант из Vetrina 40: вельветовые кроме классических брюки Orlato 1790 или деним мгновенно переводят брюк? рубашку из делового регистра в стиль."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الطبعة تبدو صاخبة جداً",
+        "a": "اقترح تجربة القميص تحت سترة أحادية اللون (مثل Menola 2246). ستصبح طبعة."
+      },
+      {
+        "q": "selleria",
+        "a": "لمسة راقية تظهر جزئياً فقط، مما يضفي نعومة على المظهر."
+      },
+      {
+        "q": "الحرير بارد جداً على الشتاء",
+        "a": "اشرح أن الحرير الطبيعي يتمتع بخصائص فريدة: فهو يحفظ حرارة الجسم في الشتاء تحت الملابس الخارجية ويمنح شعوراً بالانتعاش في الأماكن المغلقة، كأنه."
+      },
+      {
+        "q": "جلد ثانٍ",
+        "a": "."
+      },
+      {
+        "q": "القصة المستقيمة تخفي معالم القوام",
+        "a": "أشر إلى انسيابية قماش الحرير. الحرير لا يتصلب بل ينسدل بنعومة مع حركة الجسم، مما يخلق قصة أنثوية ولكن رصينة."
+      },
+      {
+        "q": "أخشى أن تملّي الطبعة سريعاً",
+        "a": "ذكّر العميل بأن موضوع."
+      },
+      {
+        "q": "selleria",
+        "a": "هو كلاسيكية من كلاسيكيات Luisa Spagnoli. إنها قطعة استثمارية ستظل عصرية في خزانة ملابسك لسنوات، تماماً مثل الإكسسوارات ذات الطابع الفروسي."
+      },
+      {
+        "q": "مع ماذا أرتديها غير البنطلونات الكلاسيكية؟",
+        "a": "استعرض خياراً من Vetrina 40: بنطلون مخملي Orlato 1790 أو الجينز ينقلان القميص فوراً من الطابع العملي إلى أسلوب."
+      }
+    ],
+    "ka": [
+      {
+        "q": "პრინტი ზედმეტად აქტიური ჩანს",
+        "a": "შესთავაზეთ პერანგის მოსინჯვა ერთფეროვანი პიჯაკის ქვეშ (მაგალითად, Menola 2246)."
+      },
+      {
+        "q": "selleria",
+        "a": "-ს პრინტი გახდება დახვეწილი აქცენტი, რომელიც მხოლოდ ნაწილობრივ ჩანს, რაც დაარბილებს იერსახეს."
+      },
+      {
+        "q": "აბრეშუმი — ეს ზამთრისთვის ზედმეტად ცივია",
+        "a": "განუმარტეთ, რომ ნატურალურ აბრეშუმს გააჩნია უნიკალური თვისებები: ის ზამთარში, ზედა სამოსის ქვეშ, ინარჩუნებს სხეულის სითბოს, ხოლო შენობაში ანიჭებს სიგრილეს და წარმოადგენს."
+      },
+      {
+        "q": "მეორე კანს",
+        "a": "."
+      },
+      {
+        "q": "პირდაპირი კროი ფიგურას დამალავს",
+        "a": "მიუთითეთ აბრეშუმის ქსოვილის დენადობაზე. აბრეშუმი არ არის ხისტი, არამედ რბილად დრაპირდება და მიჰყვება სხეულის მოძრაობებს, რაც ქმნის ქალურ, თუმცა თავშეკავებულ სილუეტს."
+      },
+      {
+        "q": "მეშინია, რომ პრინტი მალე მომბეზრდება",
+        "a": "შეახსენეთ, რომ."
+      },
+      {
+        "q": "selleria",
+        "a": "-ს თემა — ეს Luisa Spagnoli-ს კლასიკაა. ეს არის საინვესტიციო ნივთი, რომელიც წლების განმავლობაში აქტუალური იქნება თქვენს გარდერობში, ისევე როგორც ცხენოსნობის თემატიკის აქსესუარები."
+      },
+      {
+        "q": "რა ჩავიცვა კლასიკური შარვლის გარდა?",
+        "a": "წარმოადგინეთ ვარიანტი Vetrina 40-დან: ხავერდის შარვალი Orlato 1790 ან დენიმი მყისიერად გადაჰყავს პერანგი საქმიანი რეგისტრიდან."
+      },
+      {
+        "q": "casual chic",
+        "a": "სტილში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Պրինտը չափազանց ակտիվ է թվում",
+        "a": "Առաջարկեք վերնաշապիկը փորձել միագույն ժակետի տակ (օրինակ՝ Menola 2246)."
+      },
+      {
+        "q": "Selleria",
+        "a": "պրինտը կդառնա նրբագեղ շեշտադրում՝ տեսանելի միայն մասամբ, ինչը կմեղմի կերպարը։."
+      },
+      {
+        "q": "Մետաքսը ձմռան համար չափազանց սառն է",
+        "a": "Բացատրեք, որ բնական մետաքսն ունի յուրահատուկ հատկություններ. այն պահպանում է մարմնի ջերմությունը ձմռանը վերնահագուստի տակ և հովություն հաղորդում փակ տարածքում՝ հանդիսանալով."
+      },
+      {
+        "q": "երկրորդ մաշկ",
+        "a": "։."
+      },
+      {
+        "q": "Ուղիղ կտրվածքը կթաքցնի կազմվածքը",
+        "a": "Մատնանշեք մետաքսե կտորի հոսունությունը։ Մետաքսը կանգուն չի մնում, այլ փափուկ թափանցում է՝ հետևելով մարմնի շարժումներին, ինչը ստեղծում է կանացի, բայց զուսպ սիլուետ։."
+      },
+      {
+        "q": "Վախենում եմ, որ պրինտը արագ կձանձրացնի",
+        "a": "Հիշեցրեք, որ."
+      },
+      {
+        "q": "selleria",
+        "a": "թեման Luisa Spagnoli-ի դասականն է։ Սա ներդրումային իր է, որը տարիներ շարունակ արդիական կլինի զգեստապահարանում՝ ինչպես ձիասպորտի թեմատիկայով աքսեսուարները։."
+      },
+      {
+        "q": "Ի՞նչ հագնել դասական տաբատներից բացի",
+        "a": "Ցուցադրեք Vetrina 40-ի տարբերակը. Orlato 1790 թավշյա տաբատները կամ դենիմը ակնթարթորեն վերնաշապիկը գործնական ռեգիստրից տեղափոխում են."
+      },
+      {
+        "q": "casual chic",
+        "a": "ոճի։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Apdruka šķiet",
+        "a": "Piedāvājiet uzlaikot kreklu zem vienkrāsaina žaketes pārāk (piemēram, Menola 2246). «selleria apdruka kļūs par aktīva» izsmalcinātu akcentu, kas redzams tikai daļēji, kas mīkstinās tēlu."
+      },
+      {
+        "q": "Zīds — tas ir",
+        "a": "Paskaidrojiet, ka dabīgais zīds piemīt unikālas īpašības: pārāk auksts tas ziemā zem virsdrēbēm saglabā ķermeņa siltumu un ziemai dāvā vēsumu telpās, būdams kā."
+      },
+      {
+        "q": "otrā āda",
+        "a": "."
+      },
+      {
+        "q": "Taisns piegriezums",
+        "a": "Norādiet uz zīda auduma plūstamību. Zīds nestāv stāvus, noslēps figūru bet maigi drapējas, sekojot ķermeņa kustībām, kas rada sievišķīgu, bet ieturētu siluetu."
+      },
+      {
+        "q": "Baidos, ka",
+        "a": "Atgādiniet, ka «selleria tēma — tā ir Luisa Spagnoli apdruka ātri apniks» klasika. Tas ir investīciju izstrādājums, kas garderobē būs aktuāls gadiem ilgi, tāpat kā aksesuāri ar jāšanas tematiku."
+      },
+      {
+        "q": "Ar ko nēsāt, izņemot",
+        "a": "Demonstrējiet variantu no Vetrina 40: samta bikses klasiskas bikses? Orlato 1790 vai džinsa audums acumirklī pārnes kreklu no lietišķā reģistra uz."
+      },
+      {
+        "q": "casual chic",
+        "a": "stilu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Raštas atrodo per aktyvus",
+        "a": "Pasiūlykite pasimatuoti marškinius po vienspalviu švarku (pavyzdžiui, Menola 2246). „Selleria“ raštas taps rafinuotu akcentu, matomu tik iš dalies, kas sušvelnins įvaizdį. pasimatuoti marškinius po vienspalviu švarku (pavyzdžiui, Menola 2246). „Selleria“ raštas taps rafinuotu akcentu, matomu tik iš dalies, kas sušvelnins įvaizdį."
+      },
+      {
+        "q": "„Šilkas — tai per šalta žiemai",
+        "a": "Paaiškinkite, kad natūralus šilkas pasižymi unikaliomis savybėmis: jis išsaugo kūno šilumą žiemą po viršutiniais drabužiais ir suteikia vėsos patalpoje, būdamas lyg „antra oda“. , kad natūralus šilkas pasižymi unikaliomis savybėmis: jis išsaugo kūno šilumą žiemą po viršutiniais drabužiais ir suteikia vėsos patalpoje, būdamas lyg „antra oda“."
+      },
+      {
+        "q": "„Tiesus kirpimas paslėps figūrą",
+        "a": "Nurodykite šilko audinio takumą. Šilkas nestovi stačias, o švelniai krenta, sekdamas kūno judesius, kas sukuria moterišką, bet santūrų siluetą. šilko audinio takumą. Šilkas nestovi stačias, o švelniai krenta, sekdamas kūno judesius, kas sukuria moterišką, bet santūrų siluetą."
+      },
+      {
+        "q": "„Bijau, kad raštas greitai pabos",
+        "a": "Priminkite, kad „selleria“ tema — tai klasika Luisa Spagnoli. Tai investicinis gaminys, kuris bus aktualus garderobe metų metus, kaip ir aksesuarai su žirgų tematika. , kad „selleria“ tema — tai klasika Luisa Spagnoli. Tai investicinis gaminys, kuris bus aktualus garderobe metų metus, kaip ir aksesuarai su žirgų tematika."
+      },
+      {
+        "q": "„Su kuo nešioti, be klasikinių kelnių?",
+        "a": "Pademonstruokite variantą iš Vetrina 40: velvetinės kelnės Orlato 1790 arba džinsas akimirksniu perkelia marškinius iš dalykinio registro į „casual chic“ stilių."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Nadruk wydaje się zbyt aktywny",
+        "a": "Zaproponuj przymierzenie koszuli pod gładki żakiet (na przykład Menola 2246). Nadruk."
+      },
+      {
+        "q": "selleria",
+        "a": "stanie się wykwintnym akcentem, widocznym tylko częściowo, co złagodzi charakter stylizacji."
+      },
+      {
+        "q": "Jedwab jest zbyt zimny na zimę",
+        "a": "Wyjaśnij, że naturalny jedwab posiada unikalne właściwości: zatrzymuje ciepło ciała zimą pod odzieżą wierzchnią i zapewnia chłód w pomieszczeniu, będąc."
+      },
+      {
+        "q": "drugą skórą",
+        "a": "."
+      },
+      {
+        "q": "Prosty krój ukryje figurę",
+        "a": "Wskaż na zwiewność jedwabnej tkaniny. Jedwab nie sztywnieje, lecz miękko układa się, podążając za ruchami ciała, co tworzy kobiecą, lecz powściągliwą sylwetkę."
+      },
+      {
+        "q": "Obawiam się, że nadruk szybko się znudzi",
+        "a": "Przypomnij, że motyw."
+      },
+      {
+        "q": "selleria",
+        "a": "to klasyka Luisa Spagnoli. Jest to inwestycja, która będzie aktualna w garderobie przez lata, podobnie jak akcesoria z motywem jeździeckim."
+      },
+      {
+        "q": "Z czym nosić, poza klasycznymi spodniami?",
+        "a": "Zaprezentuj wariant z Vetrina 40: sztruksowe spodnie Orlato 1790 lub dżinsy natychmiast przenoszą koszulę z rejestru biznesowego w styl."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Принт здається",
+        "a": "Запропонуйте приміряти сорочку під однотонний жакет занадто (наприклад, Menola 2246). Принт «selleria стане активним» вишуканим акцентом, видимим лише частково, що пом'якшить образ."
+      },
+      {
+        "q": "Шовк — це",
+        "a": "Поясніть, що натуральний шовк володіє унікальними занадто холодно властивостями: він зберігає тепло тіла взимку під для зими верхнім одягом і дарує прохолоду в приміщенні, будучи."
+      },
+      {
+        "q": "другою шкірою",
+        "a": "."
+      },
+      {
+        "q": "Прямий крій",
+        "a": "Вкажіть на плинність шовкової тканини. Шовк не стоїть сховає фігуру колом, а м'яко драпірується, слідуючи за рухами тіла, що створює жіночний, але стриманий силует."
+      },
+      {
+        "q": "Боюся, що",
+        "a": "Нагадайте, що тема «selleria — це класика принт швидко Luisa Spagnoli. Це інвестиційний виріб, який набридне» буде актуальним у гардеробі роками, як і аксесуари з кінною тематикою."
+      },
+      {
+        "q": "З чим носити",
+        "a": "Продемонструйте варіант із Vetrina 40: вельветові крім класичних штани Orlato 1790 або денім миттєво переводять штанів? сорочку з ділового регістру в стиль."
+      }
+    ]
+  }
+}

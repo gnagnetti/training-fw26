@@ -1,0 +1,334 @@
+{
+  "id": 31,
+  "name": "Dindi B",
+  "description": {
+    "en": "Data not available in official sources.",
+    "ru": "Данные отсутствуют в официальных источниках",
+    "ar": "Data not available in official sources.",
+    "ka": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+    "hy": "Տվյալները բացակայում են պաշտոնական աղբյուրներում",
+    "lv": "Dati nav pieejami oficiālajos avotos",
+    "lt": "Duomenų oficialiuose šaltiniuose nėra",
+    "pl": "Dane niedostępne w oficjalnych źródłach",
+    "uk": "Дані відсутні в офіційних джерелах"
+  },
+  "colors": [
+    {
+      "name": "Castagna Oro",
+      "code": "2203 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ibis%20colore.PNG"
+    },
+    {
+      "name": "Savana Fango Oro",
+      "code": "2726 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/DINDI_121700930000.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 212",
+        "en": "Total Look 212",
+        "ar": "Total Look 212",
+        "ka": "Total Look 212",
+        "hy": "Total Look 212",
+        "lv": "Total Look 212",
+        "lt": "Total Look 212",
+        "pl": "Total Look 212",
+        "uk": "Total Look 212"
+      },
+      "text": {
+        "ru": "Ремень Dindi B 2203 0002 в ансамбле с кардиганом Maurilia 0202, пуловером Mano H 0202, широкими брюками Onirico 1224, ботильонами Urbana 0981 и очками Xnina A 3248 0002.",
+        "en": "Dindi B 2203 0002 belt paired with a Maurilia 0202 cardigan, a Mano H 0202 pullover.png), Onirico 1224 wide-leg trousers, Urbana 0981 ankle boots and Xnina A 3248 0002 glasses.",
+        "ar": "Dindi B 2203 0002 belt paired with a Maurilia 0202 cardigan, a Mano H 0202 pullover.png), Onirico 1224 wide-leg trousers, Urbana 0981 ankle boots and Xnina A 3248 0002 glasses.",
+        "ka": "Dindi B 2203 0002 belt paired with a Maurilia 0202 cardigan, a Mano H 0202 pullover.png), Onirico 1224 wide-leg trousers, Urbana 0981 ankle boots and Xnina A 3248 0002 glasses.",
+        "hy": "Dindi B 2203 0002 belt paired with a Maurilia 0202 cardigan, a Mano H 0202 pullover.png), Onirico 1224 wide-leg trousers, Urbana 0981 ankle boots and Xnina A 3248 0002 glasses.",
+        "lv": "Dindi B 2203 0002 belt paired with a Maurilia 0202 cardigan, a Mano H 0202 pullover.png), Onirico 1224 wide-leg trousers, Urbana 0981 ankle boots and Xnina A 3248 0002 glasses.",
+        "lt": "Dindi B 2203 0002 belt paired with a Maurilia 0202 cardigan, a Mano H 0202 pullover.png), Onirico 1224 wide-leg trousers, Urbana 0981 ankle boots and Xnina A 3248 0002 glasses.",
+        "pl": "Dindi B 2203 0002 belt paired with a Maurilia 0202 cardigan, a Mano H 0202 pullover.png), Onirico 1224 wide-leg trousers, Urbana 0981 ankle boots and Xnina A 3248 0002 glasses.",
+        "uk": "Dindi B 2203 0002 belt paired with a Maurilia 0202 cardigan, a Mano H 0202 pullover.png), Onirico 1224 wide-leg trousers, Urbana 0981 ankle boots and Xnina A 3248 0002 glasses."
+      },
+      "items": [
+        {
+          "name": "Dindi B",
+          "code": "2203 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ibis%20colore.PNG"
+        },
+        {
+          "name": "Maurilia",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ZCnho2JsTWiRlK5fdRlc9g_738156072696f4367dcf304_04744855_02830680XX1.jpg",
+          "modelId": 160
+        },
+        {
+          "name": "Mano H",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281019%29.png"
+        },
+        {
+          "name": "Onirico",
+          "code": "1224",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg",
+          "modelId": 460
+        },
+        {
+          "name": "Urbana",
+          "code": "0981",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7BoHBVbqTtCtxociDR_4dQ_2049283379696f42280ae740_09477040_02801350XX1.jpg"
+        },
+        {
+          "name": "Xnina A",
+          "code": "3248 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-12%20at%2010.52.59.jpeg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Embrace the impeccable Italian quality: the use of 100% genuine leather reflects Luisa Spagnoli's commitment to the traditions of fine craftsmanship.",
+      "Recommend the Dindi B belt as a key accessory for shaping the silhouette — it beautifully accentuates the waist when worn over voluminous knitwear, such as the Maurilia or Mano H.",
+      "Highlight the refinement of the color palette: the Castagna and Savana Fango tones are foundational shades for the autumn-winter wardrobe, pairing effortlessly with any texture."
+    ],
+    "ru": [
+      "Делайте ставку на безупречное итальянское качество: использование 100% натуральной кожи подчеркивает приверженность Luisa Spagnoli традициям ремесленного мастерства.",
+      "Рекомендуйте ремень Dindi B как ключевой аксессуар для моделирования силуэта — он идеально акцентирует талию при ношении поверх объемного трикотажа (например, моделей Maurilia или Mano H).",
+      "Подчеркните благородство цветовой палитры: оттенки Castagna и Savana Fango являются фундаментальными цветами осенне-зимнего гардероба, легко комбинирующимися с любыми текстурами."
+    ],
+    "ar": [
+      "راهني على الجودة الإيطالية التي لا تشوبها شائبة: فاستخدام الجلد الطبيعي بنسبة 100% يبرز التزام Luisa Spagnoli بتقاليد الحرفية العالية.",
+      "نوصي بحزام Dindi B كإكسسوار أساسي لتشكيل القوام؛ فهو يحدد الخصر بشكل مثالي عند ارتدائه فوق القطع المحبوكة الفضفاضة (مثل موديلات Maurilia أو Mano H).",
+      "أكدي على رقي لوحة الألوان: حيث تُعد تدرجات Castagna و Savana Fango ألواناً أساسية لخزانة ملابس الخريف والشتاء، والتي تمتزج بسهولة مع أي ملمس."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი უნაკლო იტალიურ ხარისხზე: 100% ნატურალური ტყავის გამოყენება ხაზს უსვამს Luisa Spagnoli-ს ერთგულებას ხელოსნური ოსტატობის ტრადიციებისადმი.",
+      "გირჩევთ ქამარი Dindi B, როგორც სილუეტის მოდელირების მთავარი აქსესუარი — ის იდეალურად უსვამს ხაზს წელს, როდესაც ატარებთ მოცულობითი ტრიკოტაჟის ზემოდან (მაგალითად, მოდელები Maurilia ან Mano H).",
+      "ხაზი გაუსვით ფერთა პალიტრის კეთილშობილებას: ტონები Castagna და Savana Fango წარმოადგენს შემოდგომა-ზამთრის გარდერობის ფუნდამენტურ ფერებს, რომლებიც ადვილად კომბინირდება ნებისმიერ ტექსტურასთან."
+    ],
+    "hy": [
+      "Կատարեք ձեր ընտրությունը իտալական անթերի որակի օգտին. 100% բնական կաշվի օգտագործումն ընդգծում է Luisa Spagnoli-ի հավատարմությունը արհեստագործական ավանդույթներին:",
+      "Առաջարկեք Dindi B գոտին որպես ուրվագիծը մոդելավորելու հիմնական աքսեսուար՝ այն կատարելապես ընդգծում է գոտկատեղը, երբ կրում եք այն ծավալուն տրիկոտաժի վրա (օրինակ՝ Maurilia կամ Mano H մոդելները):",
+      "Ընդգծեք գունային պալիտրայի ազնվությունը. Castagna և Savana Fango երանգները աշուն-ձմեռ զգեստապահարանի հիմնարար գույներն են, որոնք հեշտությամբ համադրվում են ցանկացած հյուսվածքի հետ:"
+    ],
+    "lv": [
+      "Lieciet likmi uz nevainojamu itāļu kvalitāti: 100% dabīgas ādas izmantošana uzsver Luisa Spagnoli uzticību amatniecības tradīcijām.",
+      "Iesakiet jostu Dindi B kā galveno aksesuāru silueta modelēšanai — tā lieliski akcentē vidukli, valkājot to virs apjomīga trikotāžas apģērba (piemēram, modeļiem Maurilia vai Mano H).",
+      "Uzsveriet krāsu paletes cēlumu: toņi Castagna un Savana Fango ir rudens-ziemas garderobes pamatkrāsas, kas viegli kombinējas ar jebkurām tekstūrām."
+    ],
+    "lt": [
+      "Statykite už nepriekaištingą itališką kokybę: 100% natūralios odos naudojimas pabrėžia Luisa Spagnoli atsidavimą meistriškumo tradicijoms.",
+      "Rekomenduokite diržą Dindi B kaip pagrindinį aksesuarą siluetui modeliuoti — jis idealiai pabrėžia liemenį dėvint ant stambaus trikotažo (pavyzdžiui, modelių Maurilia ar Mano H).",
+      "Pabrėžkite spalvų paletės kilnumą: Castagna ir Savana Fango atspalviai yra fundamentalios rudens-žiemos garderobo spalvos, lengvai derinamos su bet kokiomis tekstūromis."
+    ],
+    "pl": [
+      "Postaw na nienaganną włoską jakość: zastosowanie 100% naturalnej skóry podkreśla przywiązanie Luisa Spagnoli do tradycji rzemiosła.",
+      "Rekomenduj pasek Dindi B jako kluczowy dodatek do modelowania sylwetki — idealnie akcentuje talię noszony na obszernych dzianinach (na przykład modelach Maurilia lub Mano H).",
+      "Podkreśl szlachetność palety kolorystycznej: odcienie Castagna i Savana Fango są fundamentalnymi kolorami jesienno-zimowej garderoby, łatwo łączącymi się z dowolnymi teksturami."
+    ],
+    "uk": [
+      "Робіть ставку на бездоганну італійську якість: використання 100% натуральної шкіри підкреслює прихильність Luisa Spagnoli традиціям ремісничої майстерності.",
+      "Рекомендуйте ремінь Dindi B як ключовий аксесуар для моделювання силуету — він ідеально акцентує талію при носінні поверх об'ємного трикотажу (наприклад, моделей Maurilia або Mano H).",
+      "Підкресліть благородство колірної палітри: відтінки Castagna та Savana Fango є фундаментальними кольорами осінньо-зимового гардероба, що легко комбінуються з будь-якими текстурами."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Concern that natural leather may deform over time.",
+        "a": "Luisa Spagnoli uses specially tanned leather known for its density and durability, preserving the accessory's shape even with frequent use."
+      },
+      {
+        "q": "Gold-tone hardware may appear too bright.",
+        "a": "The buckle's design follows a 'quiet luxury' aesthetic. The subtle shine of the Oro metal serves as a delicate jewellery-like accent, standing in for additional adornments in the outfit."
+      },
+      {
+        "q": "The Savana Fango colour may be difficult to match with footwear.",
+        "a": "Savana Fango is a versatile neutral tone that pairs beautifully with beige, olive, and brown palettes, creating a soft, elevated monochrome look."
+      },
+      {
+        "q": "How should this accessory be cared for?",
+        "a": "We recommend using only specialised leather-care products and storing the belt in its dust bag to prevent contact with other materials and preserve the shine of the hardware."
+      },
+      {
+        "q": "The model seems too understated in design.",
+        "a": "True elegance lies in minimalism. The absence of superfluous detail allows the Dindi B belt to remain timeless and beyond trends, making it a long-term wardrobe investment."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Боязнь, что натуральная кожа может деформироваться со временем.",
+        "a": "Luisa Spagnoli использует кожу специальной выделки, которая отличается высокой плотностью и износостойкостью, сохраняя форму аксессуара даже при активной эксплуатации."
+      },
+      {
+        "q": "Золотистая фурнитура может выглядеть слишком ярко.",
+        "a": "Дизайн пряжки выполнен в эстетике «тихой роскоши». Тонкий блеск металла Oro служит деликатным ювелирным акцентом, заменяющим дополнительные украшения в образе."
+      },
+      {
+        "q": "Цвет Savana Fango кажется сложным для подбора обуви.",
+        "a": "Savana Fango — это универсальный нейтральный тон, который идеально гармонирует с бежевой, оливковой и коричневой гаммой, создавая мягкий и дорогой монохромный образ."
+      },
+      {
+        "q": "Как ухаживать за таким аксессуаром?",
+        "a": "Мы рекомендуем использовать только специальные средства для натуральной кожи и хранить ремень в пыльнике, чтобы избежать соприкосновения с другими материалами и сохранить блеск фурнитуры."
+      },
+      {
+        "q": "Модель кажется слишком лаконичной по дизайну.",
+        "a": "В минимализме кроется истинная элегантность. Отсутствие лишних деталей позволяет ремню Dindi B оставаться вне времени и трендов, становясь долгосрочной инвестицией в гардероб."
+      }
+    ],
+    "ar": [
+      {
+        "q": "القلق من أن الجلد الطبيعي قد يتمدد بمرور الوقت.",
+        "a": "تستخدم Luisa Spagnoli جلوداً مدبوغة خصيصاً، تتميز بكثافتها العالية ومقاومتها للتآكل، مما يحافظ على شكل الإكسسوار حتى مع الاستخدام المكثف."
+      },
+      {
+        "q": "الإكسسوارات الذهبية قد تبدو فاقعة أكثر من اللازم.",
+        "a": "صُمم مشبك الحزام بجماليات «الفخامة الهادئة». حيث يضفي بريق معدن الـ Oro الرقيق لمسة مجوهرات راقية تغني عن الحاجة لإضافات أخرى في إطلالتك."
+      },
+      {
+        "q": "يبدو لون Savana Fango صعب التنسيق مع الأحذية.",
+        "a": "يُعد Savana Fango لوناً حيادياً متعدداً الاستخدامات، يتناغم بشكل مثالي مع درجات البيج والزيتوني والبني، مما يمنحك مظهراً أحادياً ناعماً وراقياً."
+      },
+      {
+        "q": "كيف يمكن العناية بهذا الإكسسوار؟",
+        "a": "نوصي باستخدام منتجات مخصصة للجلد الطبيعي فقط، وحفظ الحزام في حقيبته القماشية المخصصة لتجنب ملامسة المواد الأخرى والحفاظ على بريق القطع المعدنية."
+      },
+      {
+        "q": "التصميم يبدو بسيطاً أكثر من اللازم.",
+        "a": "تكمن الأناقة الحقيقية في البساطة. فغياب التفاصيل الزائدة يسمح لحزام Dindi B بأن يظل متجاوزاً لمرور الزمن واتجاهات الموضة العابرة، ليصبح استثماراً طويل الأمد في خزانة ملابسك."
+      }
+    ],
+    "ka": [
+      {
+        "q": "შიში იმისა, რომ ნატურალური ტყავი დროთა განმავლობაში შეიძლება დეფორმირდეს.",
+        "a": "Luisa Spagnoli იყენებს სპეციალური დამუშავების ტყავს, რომელიც გამოირჩევა მაღალი სიმკვრივითა და ცვეთამედეგობით, რაც აქსესუარს ფორმას უნარჩუნებს აქტიური გამოყენების დროსაც კი."
+      },
+      {
+        "q": "მოოქროსფერი ფურნიტურა შესაძლოა ზედმეტად კაშკაშა ჩანდეს.",
+        "a": "ბალთის დიზაინი შესრულებულია „მდუმარე ფუფუნების“ ესთეტიკაში. ლითონ Oro-ს დახვეწილი ბზინვარება წარმოადგენს დელიკატურ საიუველირო აქცენტს, რომელიც ანაცვლებს დამატებით სამკაულებს თქვენს იმიჯში."
+      },
+      {
+        "q": "ფერი Savana Fango რთულად მოსახამი ჩანს ფეხსაცმელთან.",
+        "a": "Savana Fango — ეს არის უნივერსალური ნეიტრალური ტონი, რომელიც იდეალურად ჰარმონიზდება კრემისფერ, ზეთისხილისფერ და ყავისფერ გამასთან, რაც ქმნის რბილ და ძვირადღირებულ მონოქრომულ იმიჯს."
+      },
+      {
+        "q": "როგორ მოვუაროთ ასეთ აქსესუარს?",
+        "a": "ჩვენ გირჩევთ გამოიყენოთ მხოლოდ ნატურალური ტყავისთვის განკუთვნილი სპეციალური საშუალებები და შეინახოთ ქამარი ჩასადებში, რათა თავიდან აიცილოთ სხვა მასალებთან კონტაქტი და შეინარჩუნოთ ფურნიტურის ბზინვარება."
+      },
+      {
+        "q": "მოდელის დიზაინი ზედმეტად ლაკონური ჩანს.",
+        "a": "მინიმალიზმში იმალება ნამდვილი ელეგანტურობა. ზედმეტი დეტალების არარსებობა ქამარ Dindi B-ს საშუალებას აძლევს დარჩეს დროისა და ტენდენციების მიღმა, რაც ხდება გარდერობში გრძელვადიანი ინვესტიცია."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Վախ, որ բնական կաշին կարող է ժամանակի ընթացքում դեֆորմացվել",
+        "a": "Luisa Spagnoli-ն օգտագործում է հատուկ մշակված կաշի, որն առանձնանում է բարձր խտությամբ և մաշվածադիմացկունությամբ՝ պահպանելով աքսեսուարի ձևը նույնիսկ ակտիվ օգտագործման դեպքում"
+      },
+      {
+        "q": "Ոսկեգույն ֆուրնիտուրան կարող է չափազանց վառ երևալ",
+        "a": "Ճարմանդի դիզայնը կատարված է «լուռ շքեղության» էսթետիկայով: Oro մետաղի նուրբ փայլը ծառայում է որպես նրբագեղ զարդարանք՝ փոխարինելով կերպարում լրացուցիչ աքսեսուարներին"
+      },
+      {
+        "q": "Savana Fango գույնը բարդ է թվում կոշիկներ ընտրելու համար",
+        "a": "Savana Fango-ն ունիվերսալ չեզոք երանգ է, որը կատարյալ ներդաշնակվում է բեժ, ձիթապտղագույն և շագանակագույն գամմաների հետ՝ ստեղծելով մեղմ և թանկարժեք մոնոխրոմ կերպար"
+      },
+      {
+        "q": "Ինչպե՞ս խնամել այս աքսեսուարը",
+        "a": "Մենք խորհուրդ ենք տալիս օգտագործել միայն բնական կաշվի համար նախատեսված հատուկ միջոցներ և գոտին պահել փոշուց պաշտպանիչ տոպրակի մեջ, որպեսզի խուսափեք այլ նյութերի հետ շփումից և պահպանեք ֆուրնիտուրայի փայլը"
+      },
+      {
+        "q": "Մոդելը դիզայնով չափազանց լակոնիկ է թվում",
+        "a": "Մինիմալիզմի մեջ է թաքնված իրական նրբագեղությունը: Ավելորդ դետալների բացակայությունը թույլ է տալիս Dindi B գոտուն մնալ ժամանակից և թրենդներից դուրս՝ դառնալով զգեստապահարանի երկարաժամկետ ներդրում"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Bailas, ka dabīgā āda ar laiku var deformēties.",
+        "a": "Luisa Spagnoli izmanto īpaši apstrādātu ādu, kas izceļas ar augstu blīvumu un nodilumizturību, saglabājot aksesuāra formu pat aktīvas lietošanas laikā."
+      },
+      {
+        "q": "Zeltīta furnitūra var izskatīties pārāk spilgti.",
+        "a": "Sprādzes dizains ir izpildīts \"klusās greznības\" estētikā. Smalkais Oro metāla spīdums kalpo kā delikāts juvelierizstrādājuma akcents, aizstājot papildu rotaslietas tēlā."
+      },
+      {
+        "q": "Savana Fango krāsa šķiet sarežģīta apavu pieskaņošanai.",
+        "a": "Savana Fango ir universāls neitrāls tonis, kas ideāli harmonē ar bēšo, olīvkrāsas un brūno gammu, radot maigu un dārgu monohromu tēlu."
+      },
+      {
+        "q": "Kā kopt šādu aksesuāru?",
+        "a": "Mēs iesakām izmantot tikai īpašus līdzekļus dabīgai ādai un uzglabāt siksnu putekļu maisiņā, lai izvairītos no saskares ar citiem materiāliem un saglabātu furnitūras spīdumu."
+      },
+      {
+        "q": "Modelis šķiet pārāk lakonisks pēc dizaina.",
+        "a": "Minimālismā slēpjas patiesa elegance. Lieku detaļu neesamība ļauj Dindi B siksnai palikt ārpus laika un tendencēm, kļūstot par ilgtermiņa ieguldījumu garderobē."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Baimė, kad natūrali oda laikui bėgant gali deformuotis.",
+        "a": "Luisa Spagnoli naudoja specialiai apdirbtą odą, kuri pasižymi dideliu tankiu ir atsparumu dilimui, išlaikydama aksesuaro formą net ir aktyviai dėvint."
+      },
+      {
+        "q": "Auksinės spalvos furnitūra gali atrodyti per ryškiai.",
+        "a": "Sagties dizainas sukurtas „tylios prabangos“ estetikoje. Subtilus Oro metalo blizgesys tarnauja kaip rafinuotas juvelyrinis akcentas, pakeičiantis papildomus papuošalus įvaizdyje."
+      },
+      {
+        "q": "Savana Fango spalva atrodo sudėtinga derinant avalynę.",
+        "a": "Savana Fango — tai universalus neutralus tonas, kuris idealiai dera su smėlio, alyvuogių ir rudos spalvų gama, sukuriant švelnų ir prabangų monochrominį įvaizdį."
+      },
+      {
+        "q": "Kaip prižiūrėti tokį aksesuarą?",
+        "a": "Rekomenduojame naudoti tik specialias natūralios odos priežiūros priemones ir laikyti diržą medžiaginiame maišelyje, kad išvengtumėte sąlyčio su kitomis medžiagomis ir išsaugotumėte furnitūros blizgesį."
+      },
+      {
+        "q": "Modelio dizainas atrodo per daug lakoniškas.",
+        "a": "Minimalizme slypi tikroji elegancija. Detalių gausos trūkumas leidžia Dindi B diržui išlikti nepavaldžiam laikui ir tendencijoms, tampant ilgalaike investicija į garderobą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Obawa, że naturalna skóra może z czasem ulec odkształceniu.",
+        "a": "Luisa Spagnoli stosuje specjalnie wyprawianą skórę, która wyróżnia się wysoką gęstością i odpornością na zużycie, zachowując kształt akcesorium nawet przy aktywnym użytkowaniu."
+      },
+      {
+        "q": "Złociste okucia mogą wyglądać zbyt jaskrawo.",
+        "a": "Design klamry utrzymany jest w estetyce „cichego luksusu”. Delikatny blask metalu Oro służy jako subtelny jubilerski akcent, zastępujący dodatkową biżuterię w stylizacji."
+      },
+      {
+        "q": "Kolor Savana Fango wydaje się trudny do dopasowania do obuwia.",
+        "a": "Savana Fango to uniwersalny, neutralny odcień, który idealnie harmonizuje z beżową, oliwkową i brązową paletą barw, tworząc miękki i szlachetny monochromatyczny look."
+      },
+      {
+        "q": "Jak dbać o takie akcesorium?",
+        "a": "Zalecamy stosowanie wyłącznie profesjonalnych środków do naturalnej skóry oraz przechowywanie paska w woreczku przeciwkurzowym, aby uniknąć kontaktu z innymi materiałami i zachować blask okuć."
+      },
+      {
+        "q": "Model wydaje się zbyt minimalistyczny w swoim designie.",
+        "a": "W minimalizmie kryje się prawdziwa elegancja. Brak zbędnych detali pozwala paskowi Dindi B pozostawać ponad czasem i trendami, stając się długoterminową inwestycją w garderobę."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Побоювання, що натуральна шкіра може деформуватися з часом.",
+        "a": "Luisa Spagnoli використовує шкіру спеціальної вичинки, яка вирізняється високою щільністю та зносостійкістю, зберігаючи форму аксесуара навіть за активної експлуатації."
+      },
+      {
+        "q": "Золотиста фурнітура може виглядати занадто яскраво.",
+        "a": "Дизайн пряжки виконаний в естетиці «тихої розкоші». Тонкий блиск металу Oro слугує делікатним ювелірним акцентом, що замінює додаткові прикраси в образі."
+      },
+      {
+        "q": "Колір Savana Fango здається складним для підбору взуття.",
+        "a": "Savana Fango — це універсальний нейтральний тон, який ідеально гармоніює з бежевою, оливковою та коричневою гамою, створюючи м'який і дорогий монохромний образ."
+      },
+      {
+        "q": "Як доглядати за таким аксесуаром?",
+        "a": "Ми рекомендуємо використовувати тільки спеціальні засоби для натуральної шкіри та зберігати ремінь у пильовику, щоб уникнути зіткнення з іншими матеріалами та зберегти блиск фурнітури."
+      },
+      {
+        "q": "Модель здається занадто лаконічною за дизайном.",
+        "a": "У мінімалізмі криється справжня елегантність. Відсутність зайвих деталей дозволяє ременю Dindi B залишатися поза часом і трендами, стаючи довгостроковою інвестицією в гардероб."
+      }
+    ]
+  }
+}

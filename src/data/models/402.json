@@ -1,0 +1,382 @@
+{
+  "id": 402,
+  "name": "Gessica",
+  "description": {
+    "en": "The Gessica dress is an ode to ethereal lightness and flawless femininity, embodied in fluid natural silk. The midi-length piece captivates with its fluid line, which softly follows every movement, creating an aura of aristocratic grace. The neckline area is accentuated by an exquisite lavalliÃ¨re bow collar, which can be tied to the wearer's preference, and delicate ruffles at the bodice, adding a note of romantic retro glamour to the look. Particular charm is lent to the dress by unlined long sleeves: the effect of light sheerness lends the skin a matte glow while preserving the restrained elegance inherent to 'bon ton' style.",
+    "ru": "Платье Gessica --- это гимн эфирной легкости и безупречной женственности, воплощенный в струящемся натуральном шелке. Модель длины миди завораживает своей флюидной линией, которая мягко следует за каждым движением, создавая ореол аристократичной грации. Портретная зона акцентирована изысканным воротником с бантом (lavallière), который можно завязывать по своему усмотрению, и деликатными рюшами на лифе, добавляющими образу ноту романтичного ретро-гламура. Особое очарование платью придают длинные рукава, лишенные подкладки: эффект легкой полупрозрачности придает коже матовое сияние, сохраняя при этом сдержанную элегантность, присущую стилю «bon ton».",
+    "ar": "فستان Gessica هو نشيدٌ للخفة الأثيرية والأنوثة المطلقة، متجسدٌ في حرير طبيعي انسيابي. يأتي الموديل بطول ميدي ليأسر الألباب بخطوطه الانسيابية التي تتبع كل حركة بنعومة، مما يضفي هالة من الرقي الأرستقراطي. تم إبراز منطقة الصدر بياقة مخملية مع ربطة عنق (lavallière) يمكن تنسيقها حسب الرغبة، مع كشكشة دقيقة على الصدر تضفي على الإطلالة لمسة من سحر الريترو الرومانسي. وتكتسب الفستان سحراً خاصاً بفضل أكمامه الطويلة غير المبطنة: حيث يمنح تأثير الشفافية الخفيفة البشرة بريقاً مطفياً، مع الحفاظ على الأناقة الرصينة التي تميز أسلوب «bon ton».",
+    "ka": "Gessica-ს კაბა ეს არის ეთერული სიმსუბუქისა და უნაკლო ქალურობის ჰიმნი, განსახიერებული მოძრავ ნატურალურ აბრეშუმში. მიდი სიგრძის მოდელი მომაჯადოებელია თავისი ფლუიდური ხაზით, რომელიც რბილად მიყვება მოძრაობის ყოველ ნიუანსს და ქმნის არისტოკრატული მადლის არეალს. პორტრეტის ზონა აქცენტირებულია დახვეწილი საყელოთი ბანტით (lavallière), რომლის შეკვრაც თავად შეგიძლიათ, და ლიფზე არსებული დელიკატური ფრიალებით, რომლებიც იმიჯს რომანტიული რეტრო-გლამურის ნოტს მატებს. კაბას განსაკუთრებულ ხიბლს სძენს გრძელი სახელოები სარჩულის გარეშე: მსუბუქი ნახევრადგამჭვირვალობის ეფექტი კანს მქრქალ ბზინვარებას სძენს, ხოლო ინარჩუნებს თავშეკავებულ ელეგანტურობას, რომელიც თანდაყოლილია «bon ton» სტილისთვის.",
+    "hy": "Gessica զգեստը օդային թեթևության և անթերի կանացիության օրհներգն է՝ մարմնավորված հոսուն բնական մետաքսի մեջ: Միդի երկարությամբ մոդելը հմայում է իր հեղուկ գծով, որը մեղմորեն հետևում է յուրաքանչյուր շարժմանը՝ ստեղծելով ազնվական շնորհքի հալո: Դիմանկարային գոտին ընդգծված է բանտով (lavallière) նրբագեղ օձիքով, որը կարելի է կապել ըստ ցանկության, և լանջաբացվածքի վրա առկա նուրբ ժանյակներով, որոնք կերպարին հաղորդում են ռոմանտիկ ռետրո-գլամուրի նոտա: Զգեստին հատուկ հմայք են հաղորդում երկար թևերը՝ առանց աստառի. թեթև կիսաթափանցիկության էֆեկտը մաշկին հաղորդում է փայլատ շողք՝ պահպանելով միաժամանակ «bon ton» ոճին բնորոշ զուսպ նրբագեղությունը:",
+    "lv": "Kleita Gessica --- ir ēteriska viegluma un nevainojamas sievišķības himna, kas iemiesota plūstošā dabīgā zīdā. Midi garuma modelis apbur ar savu šķidro līniju, kas maigi seko katrai kustībai, radot aristokrātiskas grācijas auru. Portreta zonu akcentē izsmalcināta apkakle ar banti (lavallière), kuru var sasiet pēc saviem ieskatiem, un smalkas volānu detaļas uz krūšu daļas, piešķirot tēlam romantiska retro glamūra noti. Īpašu burvību kleitai piešķir garās piedurknes bez oderes: vieglas caurspīdīguma efekts piešķir ādai matētu mirdzumu, vienlaikus saglabājot «bon ton» stilam raksturīgo atturīgo eleganci.",
+    "lt": "Suknelė Gessica --- tai eteriško lengvumo ir nepriekaištingo moteriškumo himnas, įkūnytas krentančiame natūraliame šilke. Vidutinio ilgio modelis užburia savo fluidiška linija, kuri švelniai seka kiekvieną judesį, sukurdama aristokratiškos grakštumo aurą. Portretinė zona akcentuota išskirtine apykakle su kaspinu (lavallière), kurį galima rišti savo nuožiūra, ir subtiliais raukiniais ant liemens, suteikiančiais įvaizdžiui romantiško retro stiliaus žavesio. Ypatingo žavesio suknelei suteikia ilgos rankovės be pamušalo: lengvas pusiau permatomas efektas suteikia odai matinio švytėjimo, kartu išsaugant santūrią eleganciją, būdingą „bon ton“ stiliui.",
+    "pl": "Sukienka Gessica to hymn eterycznej lekkości i nienagannej kobiecości, ucieleśniony w lejącym się naturalnym jedwabiu. Model o długości midi urzeka płynną linią, która miękko podąża za każdym ruchem, tworząc aurę arystokratycznej gracji. Okolice portretowe podkreślono wyrafinowanym kołnierzykiem z wiązaniem (lavallière), który można dowolnie stylizować, oraz delikatnymi falbanami przy gorsecie, dodającymi całości nuty romantycznego stylu retro-glamour. Szczególnego uroku sukience dodają długie rękawy bez podszewki: efekt lekkiej półprzezroczystości nadaje skórze matowy blask, zachowując przy tym powściągliwą elegancję właściwą stylowi „bon ton”.",
+    "uk": "Сукня Gessica --- це гімн ефірній легкості та бездоганній жіночності, втілений у струмливому натуральному шовку. Модель довжини міді заворожує своєю флюїдною лінією, яка м'яко слідує за кожним рухом, створюючи ореол аристократичної грації. Портретна зона акцентована вишуканим коміром з бантом (lavallière), який можна зав'язувати на власний розсуд, та делікатними рюшами на ліфі, що додають образу ноту романтичного ретро-гламуру. Особливого шарму сукні надають довгі рукави, позбавлені підкладки: ефект легкої напівпрозорості надає шкірі матового сяйва, зберігаючи при цьому стриману елегантність, притаманну стилю «bon ton»."
+  },
+  "colors": [
+    {
+      "name": "Bordeaux",
+      "code": "2417",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1998389269691f156719dbb0_80870080_02780590XX1.jpg"
+    },
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1998389269691f156719dbb0_80870080_02780590XX1.jpg"
+    },
+    {
+      "name": "Verde Bottiglia",
+      "code": "2015",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/667837957691f15974f55b3_91866945_02780780XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "На основе данных lookbook и оформления витрин, предлагаются следующие выверенные ансамбли: Вариант 2417: В lookbook (Look 35): дизайнеры предлагают акцентировать талию, сочетая платье с широким кожаным поясом-бюстье Darsena 0101 0002 1115.",
+        "en": "Based on lookbook data and window displays, the following refined ensembles are proposed: Option 2417: In the lookbook (Look 35): designers suggest accentuating the waist by pairing the dress with a wide Darsena 0101 0002 1115 leather bustier belt.",
+        "ar": "Based on lookbook data and window displays, the following refined ensembles are proposed: Option 2417: In the lookbook (Look 35): designers suggest accentuating the waist by pairing the dress with a wide Darsena 0101 0002 1115 leather bustier belt.",
+        "ka": "Based on lookbook data and window displays, the following refined ensembles are proposed: Option 2417: In the lookbook (Look 35): designers suggest accentuating the waist by pairing the dress with a wide Darsena 0101 0002 1115 leather bustier belt.",
+        "hy": "Based on lookbook data and window displays, the following refined ensembles are proposed: Option 2417: In the lookbook (Look 35): designers suggest accentuating the waist by pairing the dress with a wide Darsena 0101 0002 1115 leather bustier belt.",
+        "lv": "Based on lookbook data and window displays, the following refined ensembles are proposed: Option 2417: In the lookbook (Look 35): designers suggest accentuating the waist by pairing the dress with a wide Darsena 0101 0002 1115 leather bustier belt.",
+        "lt": "Based on lookbook data and window displays, the following refined ensembles are proposed: Option 2417: In the lookbook (Look 35): designers suggest accentuating the waist by pairing the dress with a wide Darsena 0101 0002 1115 leather bustier belt.",
+        "pl": "Based on lookbook data and window displays, the following refined ensembles are proposed: Option 2417: In the lookbook (Look 35): designers suggest accentuating the waist by pairing the dress with a wide Darsena 0101 0002 1115 leather bustier belt.",
+        "uk": "Based on lookbook data and window displays, the following refined ensembles are proposed: Option 2417: In the lookbook (Look 35): designers suggest accentuating the waist by pairing the dress with a wide Darsena 0101 0002 1115 leather bustier belt."
+      },
+      "items": [
+        {
+          "name": "Darsena",
+          "code": "0101 0002 1115",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1947413755691c57cf5fa1a0_68202804_02800030XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 2417",
+        "en": "In window displays (Vetrina 36, 108, 123)",
+        "ar": "In window displays (Vetrina 36, 108, 123)",
+        "ka": "In window displays (Vetrina 36, 108, 123)",
+        "hy": "In window displays (Vetrina 36, 108, 123)",
+        "lv": "In window displays (Vetrina 36, 108, 123)",
+        "lt": "In window displays (Vetrina 36, 108, 123)",
+        "pl": "In window displays (Vetrina 36, 108, 123)",
+        "uk": "In window displays (Vetrina 36, 108, 123)"
+      },
+      "text": {
+        "ru": "На витринах (Vetrina 36, 108, 123): - Для торжественных выходов модель дополняется вечерними сумками-клатчами Inofane 0993 0002 или Inofane 0101 0002. - Для создания многослойного зимнего образа предлагается сочетание с классическим пальто в пол Stenografo 0101.",
+        "en": "- For formal occasions, the model is complemented by evening clutches Inofane 0993 0002 or Inofane 0101 0002. - For creating a layered winter look, a combination with the classic floor-length coat Stenografo 0101 is suggested. Option 2015:",
+        "ar": "- For formal occasions, the model is complemented by evening clutches Inofane 0993 0002 or Inofane 0101 0002. - For creating a layered winter look, a combination with the classic floor-length coat Stenografo 0101 is suggested. Option 2015:",
+        "ka": "- For formal occasions, the model is complemented by evening clutches Inofane 0993 0002 or Inofane 0101 0002. - For creating a layered winter look, a combination with the classic floor-length coat Stenografo 0101 is suggested. Option 2015:",
+        "hy": "- For formal occasions, the model is complemented by evening clutches Inofane 0993 0002 or Inofane 0101 0002. - For creating a layered winter look, a combination with the classic floor-length coat Stenografo 0101 is suggested. Option 2015:",
+        "lv": "- For formal occasions, the model is complemented by evening clutches Inofane 0993 0002 or Inofane 0101 0002. - For creating a layered winter look, a combination with the classic floor-length coat Stenografo 0101 is suggested. Option 2015:",
+        "lt": "- For formal occasions, the model is complemented by evening clutches Inofane 0993 0002 or Inofane 0101 0002. - For creating a layered winter look, a combination with the classic floor-length coat Stenografo 0101 is suggested. Option 2015:",
+        "pl": "- For formal occasions, the model is complemented by evening clutches Inofane 0993 0002 or Inofane 0101 0002. - For creating a layered winter look, a combination with the classic floor-length coat Stenografo 0101 is suggested. Option 2015:",
+        "uk": "- For formal occasions, the model is complemented by evening clutches Inofane 0993 0002 or Inofane 0101 0002. - For creating a layered winter look, a combination with the classic floor-length coat Stenografo 0101 is suggested. Option 2015:"
+      },
+      "items": [
+        {
+          "name": "Inofane",
+          "code": "0993 0002",
+          "imageUrl": null
+        },
+        {
+          "name": "Inofane",
+          "code": "0101 0002",
+          "imageUrl": null
+        },
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 2015",
+        "en": "In the lookbook (Look 123)",
+        "ar": "In the lookbook (Look 123)",
+        "ka": "In the lookbook (Look 123)",
+        "hy": "In the lookbook (Look 123)",
+        "lv": "In the lookbook (Look 123)",
+        "lt": "In the lookbook (Look 123)",
+        "pl": "In the lookbook (Look 123)",
+        "uk": "In the lookbook (Look 123)"
+      },
+      "text": {
+        "ru": "В lookbook (Look 123): платье представлено в дуэте с роскошной пояс-цепочкой Docenza 0001 0002, что подчеркивает ювелирность образа.",
+        "en": "the dress is presented in a duet with the luxurious Docenza 0001 0002 chain belt, which emphasizes the jewelry-like quality of the look.",
+        "ar": "the dress is presented in a duet with the luxurious Docenza 0001 0002 chain belt, which emphasizes the jewelry-like quality of the look.",
+        "ka": "the dress is presented in a duet with the luxurious Docenza 0001 0002 chain belt, which emphasizes the jewelry-like quality of the look.",
+        "hy": "the dress is presented in a duet with the luxurious Docenza 0001 0002 chain belt, which emphasizes the jewelry-like quality of the look.",
+        "lv": "the dress is presented in a duet with the luxurious Docenza 0001 0002 chain belt, which emphasizes the jewelry-like quality of the look.",
+        "lt": "the dress is presented in a duet with the luxurious Docenza 0001 0002 chain belt, which emphasizes the jewelry-like quality of the look.",
+        "pl": "the dress is presented in a duet with the luxurious Docenza 0001 0002 chain belt, which emphasizes the jewelry-like quality of the look.",
+        "uk": "the dress is presented in a duet with the luxurious Docenza 0001 0002 chain belt, which emphasizes the jewelry-like quality of the look."
+      },
+      "items": [
+        {
+          "name": "Docenza",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/292276183691c57d0884ee5_52397694_02800050XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 2015",
+        "en": "In the window display (Vetrina 119)",
+        "ar": "In the window display (Vetrina 119)",
+        "ka": "In the window display (Vetrina 119)",
+        "hy": "In the window display (Vetrina 119)",
+        "lv": "In the window display (Vetrina 119)",
+        "lt": "In the window display (Vetrina 119)",
+        "pl": "In the window display (Vetrina 119)",
+        "uk": "In the window display (Vetrina 119)"
+      },
+      "text": {
+        "ru": "На витрине (Vetrina 119): модель демонстрируется с элегантной сумкой Inise 2004 0002.",
+        "en": "the model is showcased with the elegant Inise 2004 0002 bag.",
+        "ar": "the model is showcased with the elegant Inise 2004 0002 bag.",
+        "ka": "the model is showcased with the elegant Inise 2004 0002 bag.",
+        "hy": "the model is showcased with the elegant Inise 2004 0002 bag.",
+        "lv": "the model is showcased with the elegant Inise 2004 0002 bag.",
+        "lt": "the model is showcased with the elegant Inise 2004 0002 bag.",
+        "pl": "the model is showcased with the elegant Inise 2004 0002 bag.",
+        "uk": "the model is showcased with the elegant Inise 2004 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Inise",
+          "code": "2004 0002",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- Focus on the 'precious' material: Highlight that 100% silk not only provides unparalleled comfort and thermoregulation, but also possesses a unique ability to reflect light, giving any skin tone a fresher, more rested appearance. - The magic of the bow"
+    ],
+    "ru": [
+      "- Акцент на «драгоценный» материал: Подчеркните, что 100% шелк не только обеспечивает непревзойденный комфорт и терморегуляцию, но и обладает уникальной способностью отражать свет, делая любой оттенок кожи более свежим и отдохнувшим. - Магия воротника-бан"
+    ],
+    "ar": [
+      "تُجسّد المنسوجات المصنوعة من الحرير الخالص 100% جوهر الفخامة الحسية والجمال الاستثنائي؛ فهذا الخيط النبيل لا يكتفي بمنحكِ راحة غير مسبوقة وتنظيماً حرارياً مثالياً يلائم جميع الفصول، بل يتميز بقدرته الفريدة على عكس الضوء بأسلوب ساحر. يضفي هذا الوميض الطبيعي هالة ناعمة تُشرق على البشرة، لتتألق جميع ألوانها بإطلالة أكثر انتعاشاً، حيوية، وراثةً. **سحر ياقة البوّاه (Воротник-бант):** * **مرونة أسلوبية وتنوع لا محدود:** تمنحكِ ياقة البوّاه حرية مطلقة في التعبير عن ذوقكِ؛ فيمكن ربطها على شكل عقدة أنيقة وكلاسيكية لإطلالة مفعمة بالرزانة الأريستوقراطية، أو تركها منسدلة بانسيابية وعفوية لإضفاء لمسة حداثية مفعمة بالجرأة والحرية.\n* **إبراز أنثوي معطّر بالرقي:** تُضفي العقدة الحريرية حجماً ناعماً عند منطقة الصدر، مما يُعيد رسم خطوط القوام ببراعة ويجذب الأنظار نحو الوجه بطريقة تنبض بجماليات أسلوب \"بون تون\" (Bon ton) الرفيع.\nتغدو القطعة المزدانة بياقة الحرير الملتفة ركيزة أساسية لابتكار إطلالات تتألق بمفهوم \"الفخامة الهادئة\" (Quiet Luxury)، مُعلنةً بأسلوب راقٍ عن الحضور الاستثنائي لسيدتها."
+    ],
+    "ka": [
+      "- აქცენტი «ძვირფას» მასალაზე: ხაზი გაუსვით, რომ 100% აბრეშუმი არა მხოლოდ უზრუნველყოფს უბადლო კომფორტს და თერმორეგულაციას, არამედ გააჩნია სინათლის არეკვლის უნიკალური უნარი, რაც ნებისმიერ კანის ტონს უფრო მეტად სუფთას და დასვენებულს აჩენს. - ბაფთა-საყელოს მა"
+    ],
+    "hy": [
+      "- «Թանկարժեք» նյութի շեշտադրում. Ընդգծեք, որ 100% մետաքսը ոչ միայն ապահովում է անզուգական հարմարավետություն և ջերմակարգավորում, այլև ունի լույսն անդրադարձնելու եզակի հատկություն, ինչը մաշկի ցանկացած երանգ դարձնում է ավելի թարմ և հանգստացած։ - Բանտ-օձիքի մ"
+    ],
+    "lv": [
+      "- Akcents uz «dārgvērtīgu» materiālu: Uzsveriet, ka 100% zīds ne tikai nodrošina nepārspējamu komfortu un termoregulāciju, bet arī piemīt unikāla spēja atstarot gaismu, padarot jebkuru ādas toni svaigāku un atpūtušāku. - Bantes veida apkakles burvība: Nod"
+    ],
+    "lt": [
+      "- Akcentas į „brangią“ medžiagą: Pabrėžkite, kad 100% šilkas ne tik užtikrina neprilygstamą komfortą ir termoreguliaciją, bet ir pasižymi unikalia savybe atspindėti šviesą, todėl bet koks odos atspalvis atrodo gaivesnis ir pailsėjęs. - Kaspino formos apykaklės magija: Pademonstruokite klientui kaspino rišimo būdų įvairovę --- nuo griežto mazgo iki vešlaus romantiško kaspino. Tai leidžia pritaikyti suknelę įvairiam kontekstui: nuo verslo pietų iki iškilmingo priėmimo. - Proporcijų modeliavimas: Pasiūlykite suknelę papildyti diržu iš kolekcijos (pavyzdžiui, Darsena), kad sukurtumėte akcentą ties liemeniu ir pabrėžtumėte kontrastą tarp prigludusio viršaus ir plevėsuojančio sijono, kas vizualiai lieknina figūrą."
+    ],
+    "pl": [
+      "- Akcent na „szlachetny” materiał: Podkreśl, że 100% jedwab nie tylko zapewnia niezrównany komfort i termoregulację, ale także posiada unikalną zdolność odbijania światła, sprawiając, że każdy odcień cery wygląda świeżo i promiennie. - Magia kołnierza z k"
+    ],
+    "uk": [
+      "- Акцент на «дорогоцінний» матеріал: Підкресліть, що 100% шовк не тільки забезпечує неперевершений комфорт і терморегуляцію, а й володіє унікальною здатністю відбивати світло, роблячи будь-який відтінок шкіри більш свіжим і відпочилим. - Магія коміра-бант"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The sleeves feel too sheer.",
+        "a": "Explain this is a deliberate design choice. The sheerness on the sleeves lends the look lightness and air, while the main body of the dress is fully silk-lined, ensuring complete coverage and confidence."
+      },
+      {
+        "q": "Silk is too high-maintenance for everyday wear.",
+        "a": "Remind the client that Luisa Spagnoli uses high-density silk, which, with proper care, retains its fluidity and depth of colour for decades, making it a timeless investment."
+      },
+      {
+        "q": "The ruffles at the neckline might add bulk.",
+        "a": "Note that the ruffles are crafted from very fine silk and arranged vertically. Rather than adding weight, they create textural interest in the upper body, drawing attention away from any figure concerns."
+      },
+      {
+        "q": "The below-the-knee length requires height to carry.",
+        "a": "Suggest trying the dress with tall boots, as styled by the brand. Creating a single, continuous vertical line of colour and texture visually elongates the silhouette."
+      },
+      {
+        "q": "This dress suits only formal occasions.",
+        "a": "Demonstrate the pairing with the Stenografo 0101 coat. Combined with classic outerwear and closed-toe shoes, the dress becomes the epitome of daytime elegance"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Рукава кажутся",
+        "a": "Поясните, что это намеренный дизайнерский прием. слишком Прозрачность на рукавах добавляет образу легкости и прозрачными воздуха, при этом основная часть платья имеет плотную шелковую подкладку, обеспечивающую полную уверенность."
+      },
+      {
+        "q": "Шелк слишком",
+        "a": "Напомните, что Luisa Spagnoli использует шелк капризен в высокой плотности, который при правильном уходе носке сохраняет свою текучесть и глубину цвета десятилетиями, оставаясь вневременной инвестицией."
+      },
+      {
+        "q": "Рюши на груди",
+        "a": "Обратите внимание, что рюши выполнены из очень могут добавить тонкого шелка и расположены вертикально. Они не лишний объем утяжеляют, а, напротив, создают фактурный интерес в портретной зоне, отвлекая внимание от нюансов фигуры."
+      },
+      {
+        "q": "Длина ниже",
+        "a": "Предложите примерить платье с высокими сапогами, как колена требует это представлено в стилизации бренда. Создание высокого роста единой вертикали цвета и фактуры визуально вытягивает силуэт."
+      },
+      {
+        "q": "Это платье",
+        "a": "Продемонстрируйте вариант с пальто Stenografo только для 0101. В сочетании с классической верхней одеждой и торжественных закрытой обувью платье превращается в эталон дневной случаев элегантности."
+      }
+    ],
+    "ar": [
+      {
+        "q": "تبدو الأكمام شفافة للغاية",
+        "a": "وضح أن هذا أسلوب تصميمي مقصود. فالشفافية في الأكمام تضفي على الإطلالة لمسة من الخفة والرحابة، بينما يتميز الجزء الرئيسي من الفستان ببطانة حريرية كثيفة تضمن شعوراً كاملاً بالثقة."
+      },
+      {
+        "q": "الحرير رقيق جداً للاستخدام اليومي",
+        "a": "ذكّر العميل بأن Luisa Spagnoli تستخدم حريراً عالي الكثافة، والذي يحافظ بفضل العناية الصحيحة على انسيابيته وعمق ألوانه لعقود، ليظل استثماراً خالداً."
+      },
+      {
+        "q": "قد تضيف الكرانيش عند الصدر حجماً إضافياً",
+        "a": "انتبه إلى أن الكرانيش مصنوعة من حرير رقيق جداً ومصممة عمودياً. فهي لا تثقل المظهر، بل على العكس تضفي لمسة جمالية بارزة في منطقة الصدر، مما يصرف الانتباه عن تفاصيل القوام."
+      },
+      {
+        "q": "الطول أسفل الركبة يتطلب قامة طويلة",
+        "a": "اقترح تجربة الفستان مع أحذية بوت عالية، كما هو معروض في تنسيق العلامة التجارية. فخلق خط عمودي موحد من اللون والنسيج يمنح القامة مظهراً ممشوقاً بصرياً."
+      },
+      {
+        "q": "هذا الفستان مخصص للمناسبات الرسمية فقط",
+        "a": "استعرض خيار تنسيقه مع معطف Stenografo 0101. فبمزيجه مع الملابس الخارجية الكلاسيكية والحذاء المغلق، يتحول الفستان إلى نموذج للأناقة اليومية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "სახელოები ზედმეტად გამჭვირვალე ჩანს",
+        "a": "განუმარტეთ, რომ ეს დიზაინერული გადაწყვეტილებაა. სახელოების გამჭვირვალობა იერსახეს სინაზესა და ჰაეროვნებას მატებს, ამავდროულად, კაბის ძირითად ნაწილს აქვს მკვრივი აბრეშუმის სარჩული, რაც სრულ კომფორტსა და თავდაჯერებულობას უზრუნველყოფს."
+      },
+      {
+        "q": "აბრეშუმი ყოველდღიური ტარებისთვის ზედმეტად კაპრიზულია",
+        "a": "შეახსენეთ, რომ Luisa Spagnoli იყენებს მაღალი სიმკვრივის აბრეშუმს, რომელიც სათანადო მოვლის პირობებში ათწლეულების განმავლობაში ინარჩუნებს თავის სტრუქტურასა და ფერის სიღრმეს, რაც მას მარადიულ ინვესტიციად აქცევს."
+      },
+      {
+        "q": "გულზე არსებული რუში შესაძლოა ზედმეტ მოცულობას ქმნიდეს",
+        "a": "ყურადღება გაამახვილეთ იმაზე, რომ რუში შესრულებულია ძალიან თხელი აბრეშუმისგან და განლაგებულია ვერტიკალურად. ის კი არ ამძიმებს სილუეტს, არამედ, პირიქით, ქმნის ფაქტურულ აქცენტს პორტრეტულ ზონაში და ყურადღებას გადაიტანს ფიგურის ნაკლოვანებებიდან."
+      },
+      {
+        "q": "მუხლს ქვემოთ სიგრძე მაღალ ტანს მოითხოვს",
+        "a": "შესთავაზეთ კაბის მორგება მაღალყელიან ჩექმებთან ერთად, როგორც ეს ბრენდის სტილიზაციაშია ნაჩვენები. ფერისა და ფაქტურის ერთიანი ვერტიკალის შექმნა ვიზუალურად აგრძელებს სილუეტს."
+      },
+      {
+        "q": "ეს კაბა მხოლოდ საზეიმო შემთხვევებისთვისაა",
+        "a": "აჩვენეთ ვარიანტი პალტო Stenografo 0101-თან ერთად. კლასიკურ ზედა სამოსთან და დახურულ ფეხსაცმელთან კომბინაციაში კაბა იქცევა ყოველდღიური ელეგანტურობის ეტალონად."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Թևքերը չափազանց թափանցիկ են թվում",
+        "a": "Պարզաբանեք, որ դա դիզայներական միտումնավոր լուծում է։ Թևքերի թափանցիկությունը կերպարին հաղորդում է թեթևություն և օդային տեսք, ընդ որում՝ զգեստի հիմնական մասն ունի խիտ մետաքսե աստառ, որն ապահովում է լիարժեք վստահություն։ «Մետաքսը չափազանց քմահաճ է կրելու համար» Հիշեցրեք, որ Luisa Spagnoli-ն օգտագործում է բարձր խտության մետաքս, որը պատշաճ խնամքի դեպքում տասնամյակներ շարունակ պահպանում է իր հոսունությունն ու գույնի խորությունը՝ մնալով որպես հավերժական ներդրում։ «Կրծքի ռյուշները կարող են ավելորդ ծավալ հաղորդել» Ուշադրություն դարձրեք, որ ռյուշները պատրաստված են շատ նուրբ մետաքսից և տեղադրված են ուղղահայաց։ Դրանք չեն ծանրացնում, այլ, ընդհակառակը, դիմանկարային գոտում ստեղծում են ֆակտուրային հետաքրքրություն՝ շեղելով ուշադրությունը կազմվածքի նրբերանգներից։ «Ծնկից ներքև երկարությունը բարձր հասակ է պահանջում» Առաջարկեք փորձել զգեստը բարձրահասակ կոշիկներով, ինչպես ներկայացված է բրենդի ստիլիզացիայում։ Գույնի և ֆակտուրայի միասնական ուղղահայացի ստեղծումը տեսողականորեն երկարացնում է ուրվագիծը։ «Այս զգեստը միայն հանդիսավոր դեպքերի համար է» Ցուցադրեք Stenografo 0101 վերարկուով տարբերակը։ Դասական վերնազգեստի և փակ կոշիկների համադրությամբ զգեստը վերածվում է ցերեկային էլեգանտության չափանիշի։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Piedurknes šķiet",
+        "a": "Paskaidrojiet, ka tas ir apzināts dizaina paņēmiens. pārāk Caurspīdīgums uz piedurknēm piešķir tēlam vieglumu un caurspīdīgas gaisīgumu, turklāt kleitas pamatdaļai ir blīva zīda odere, kas nodrošina pilnīgu pārliecību."
+      },
+      {
+        "q": "Zīds ir pārāk",
+        "a": "Atgādiniet, ka Luisa Spagnoli izmanto augsta blīvuma kaprīzs valkāšanā zīdu, kas, pareizi kopjot, gadu desmitiem saglabā savu plūstamību un krāsas dziļumu, paliekot par mūžīgu investīciju."
+      },
+      {
+        "q": "Volāni uz krūtīm",
+        "a": "Pievērsiet uzmanību tam, ka volāni ir izgatavoti no var pievienot ļoti plāna zīda un izvietoti vertikāli. Tie nevis lieku apjomu padara smagāku, bet, gluži pretēji, rada fakturētu interesi portreta zonā, novēršot uzmanību no figūras niansēm."
+      },
+      {
+        "q": "Garums zem ceļa",
+        "a": "Piedāvājiet pielaikot kleitu ar augstiem zābakiem, kā prasa tas ir prezentēts zīmola stilistikā. Vienotas krāsas auguma un faktūras vertikāles radīšana vizuāli pagarina siluetu."
+      },
+      {
+        "q": "Šī kleita ir",
+        "a": "Demonstrējiet variantu ar mēteli Stenografo tikai 0101. Kombinācijā ar klasisku virsdrēbi un svinīgiem slēgtiem apaviem kleita pārvēršas par dienas gadījumiem elegances etalonu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikti: „Rankovės atrodo per daug permatomos",
+        "a": "Paaiškinkite, kad tai apgalvotas dizainerio sprendimas. Permatomumas rankovėse suteikia įvaizdžiui lengvumo ir oro, tačiau pagrindinė suknelės dalis turi tankų šilkinį pamušalą, užtikrinantį visišką pasitikėjimą savimi. , kad tai apgalvotas dizainerio sprendimas. Permatomumas rankovėse suteikia įvaizdžiui lengvumo ir oro, tačiau pagrindinė suknelės dalis turi tankų šilkinį pamušalą, užtikrinantį visišką pasitikėjimą savimi."
+      },
+      {
+        "q": "„Šilkas per daug kaprizingas nešiojant",
+        "a": "Priminkite, kad Luisa Spagnoli naudoja didelio tankumo šilką, kuris tinkamai prižiūrimas išlaiko savo takumą ir spalvos sodrumą dešimtmečius, išlikdamas nesenstančia investicija. , kad Luisa Spagnoli naudoja didelio tankumo šilką, kuris tinkamai prižiūrimas išlaiko savo takumą ir spalvos sodrumą dešimtmečius, išlikdamas nesenstančia investicija."
+      },
+      {
+        "q": "„Raukiniai ant krūtinės gali pridėti nereikalingos apimties",
+        "a": "Atkreipkite dėmesį, kad raukiniai pagaminti iš itin plono šilko ir išdėstyti vertikaliai. Jie ne sunkina silueto, o priešingai – sukuria tekstūrinį akcentą portretinėje zonoje, nukreipdami dėmesį nuo figūros niuansų. , kad raukiniai pagaminti iš itin plono šilko ir išdėstyti vertikaliai. Jie ne sunkina silueto, o priešingai – sukuria tekstūrinį akcentą portretinėje zonoje, nukreipdami dėmesį nuo figūros niuansų."
+      },
+      {
+        "q": "„Ilgis žemiau kelių reikalauja aukšto ūgio",
+        "a": "Pasiūlykite pasimatuoti suknelę su ilgaauliais batais, kaip pristatoma prekės ženklo stilizacijoje. Sukuriama vientisa spalvos ir faktūros vertikalė vizualiai ištęsia siluetą. pasimatuoti suknelę su ilgaauliais batais, kaip pristatoma prekės ženklo stilizacijoje. Sukuriama vientisa spalvos ir faktūros vertikalė vizualiai ištęsia siluetą."
+      },
+      {
+        "q": "„Ši suknelė skirta tik iškilmingoms progoms",
+        "a": "Pademonstruokite variantą su Stenografo 0101 paltu. Derinant su klasikiniu viršutiniu drabužiu ir uždara avalyne, suknelė tampa kasdienės elegancijos etalonu."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Rękawy wydają",
+        "a": "Proszę wyjaśnić, że jest to celowy zabieg projektowy. się zbyt przezroczyste Przezroczystość na rękawach dodaje stylizacji lekkości i powietrza, podczas gdy główna część sukienki posiada gęstą jedwabną podszewkę, zapewniającą pełną pewność siebie."
+      },
+      {
+        "q": "Jedwab jest zbyt Proszę przypomnieć, że Luisa Spagnoli stosuje jedwab kapryśny w noszeniu",
+        "a": "o wysokiej gęstości, który przy odpowiedniej pielęgnacji zachowuje swoją płynność i głębię koloru przez dziesięciolecia, pozostając ponadczasową inwestycją."
+      },
+      {
+        "q": "Falbanki na biuście Proszę zwrócić uwagę, że falbanki wykonane są mogą dodać z bardzo cienkiego jedwabiu i rozmieszczone pionowo. zbędnej objętości",
+        "a": "Nie obciążają one sylwetki, lecz przeciwnie, tworzą fakturalną ciekawostkę w obszarze portretowym, odciągając uwagę od niuansów figury."
+      },
+      {
+        "q": "Długość poniżej Proszę zaproponować przymierzenie sukienki z wysokimi kolana wymaga kozakami, tak jak zostało to przedstawione w stylizacji wysokiego wzrostu",
+        "a": "marki. Stworzenie jednolitej pionowej linii koloru i faktury optycznie wydłuża sylwetkę."
+      },
+      {
+        "q": "Ta sukienka jest Proszę zaprezentować wariant z płaszczem Stenografo tylko na uroczyste 0101. W połączeniu z klasyczną odzieżą wierzchnią okazje",
+        "a": "i zabudowanym obuwiem sukienka zmienia się w wzorzec dziennej elegancji."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Рукави здаються",
+        "a": "Поясніть, що це навмисний дизайнерський прийом. занадто Прозорість на рукавах додає образу легкості та прозорими повітря, при цьому основна частина сукні має щільну шовкову підкладку, що забезпечує повну впевненість."
+      },
+      {
+        "q": "Шовк занадто",
+        "a": "Нагадайте, що Luisa Spagnoli використовує шовк примхливий у високої щільності, який при правильному догляді носінні зберігає свою плинність і глибину кольору десятиліттями, залишаючись позачасовою інвестицією."
+      },
+      {
+        "q": "Рюші на грудях",
+        "a": "Зверніть увагу, що рюші виконані з дуже можуть додати тонкого шовку і розташовані вертикально. Вони не зайвий об’єм обтяжують, а, навпаки, створюють фактурний інтерес у портретній зоні, відволікаючи увагу від нюансів фігури."
+      },
+      {
+        "q": "Довжина нижче",
+        "a": "Запропонуйте приміряти сукню з високими чоботами, як коліна потребує це представлено в стилізації бренду. Створення високого зросту єдиної вертикалі кольору і фактури візуально витягує силует."
+      },
+      {
+        "q": "Ця сукня",
+        "a": "Продемонструйте варіант із пальтом Stenografo тільки для 0101. У поєднанні з класичним верхнім одягом та урочистих закритим взуттям сукня перетворюється на еталон випадків денної елегантності."
+      }
+    ]
+  }
+}

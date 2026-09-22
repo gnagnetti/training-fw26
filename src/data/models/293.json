@@ -1,0 +1,463 @@
+{
+  "id": 293,
+  "name": "Salottino",
+  "description": {
+    "en": "The Salottino winter coat is the embodiment of refined femininity and aristocratic comfort from Luisa Spagnoli. Crafted from a noble pure wool cloth that delivers exceptional warmth and flawless softness. The 'robe coat' silhouette (vestaglia), with gently dropped shoulders and an accentuated waist, creates a harmonious, statuesque look. The design's principal accent is a shirt collar, decorated with long, striking fringe tassels that lend the piece dynamism and an exclusive character. A fitted, flared cut (sfiancata e svasata), combined with functional side pockets, makes this piece the quintessence of 'Made in Italy' style for the cold season.",
+    "ru": "Зимнее пальто Salottino — это воплощение изысканной женственности и аристократического уюта от Luisa Spagnoli. Модель выполнена из благородного сукна чистой шерсти, которое дарит исключительное тепло и безупречную мягкость. Силуэт «пальто-халат» (vestaglia) с мягко спущенными плечами и подчеркнутой талией создает гармоничный и статный образ. Главным акцентом дизайна выступает рубашечный воротник, декорированный длинными эффектными кистями-бахромой, которые придают модели динамику и эксклюзивный характер. Приталенный и расширяющийся книзу крой (sfiancata e svasata) в сочетании с функциональными боковыми карманами делает это изделие квинтэссенцией стиля «Made in Italy» для холодного сезона.",
+    "ar": "معطف الشتاء Salottino هو تجسيد للأنوثة الراقية والراحة الأرستقراطية من Luisa Spagnoli. الموديل مصنوع من جوخ الصوف النقي الفاخر، الذي يوفر دفئاً استثنائياً ونعومة فائقة. قصة «المعطف-رداء» (vestaglia) مع أكتاف منسدلة بلطف وخصر محدد تخلق إطلالة متناغمة ووقورة. ويبرز التصميم بياقة القميص المزينة بشرابات طويلة وجذابة، مما يضفي على الموديل حيوية وطابعاً حصرياً. إن القصة المحددة التي تتسع نحو الأسفل (sfiancata e svasata)، جنباً إلى جنب مع الجيوب الجانبية العملية، تجعل من هذه القطعة جوهر أسلوب «صنع في إيطاليا» للموسم البارد.",
+    "ka": "ზამთრის პალტო Salottino — ეს არის დახვეწილი ქალურობისა და არისტოკრატული სიმყუდროვის განსახიერება Luisa Spagnoli-სგან. მოდელი შესრულებულია სუფთა მატყლის კეთილშობილური ფეტრისგან, რომელიც ანიჭებს განსაკუთრებულ სითბოსა და უნაკლო სირბილეს. „პალტო-ხალათის“ (vestaglia) სილუეტი რბილად დაწეული მხრებითა და ხაზგასმული წელით ქმნის ჰარმონიულ და სტატუსურ სახეს. დიზაინის მთავარ აქცენტს წარმოადგენს პერანგისებრი საყელო, რომელიც გაფორმებულია გრძელი, ეფექტური ფოჩებით, რაც მოდელს დინამიკასა და ექსკლუზიურ ხასიათს ანიჭებს. წელში გამოყვანილი და ქვემოთ გაშლილი წყობა (sfiancata e svasata) ფუნქციურ გვერდით ჯიბეებთან კომბინაციაში ხდის ამ ნაკეთობას ცივი სეზონისთვის „Made in Italy“ სტილის კვინტესენციად.",
+    "hy": "Salottino ձմեռային վերարկուն Luisa Spagnoli-ի նրբագեղ կանացիության և արիստոկրատական հարմարավետության մարմնավորումն է։ Մոդելը պատրաստված է մաքուր բրդյա ազնվական ծածկոցից (сукно), որը պարգևում է բացառիկ ջերմություն և անթերի փափկություն։ «Վերարկու-խալաթ» (vestaglia) ուրվագիծը՝ փափուկ իջեցված ուսերով և ընդգծված գոտկատեղով, ստեղծում է ներդաշնակ և հանդիսավոր կերպար։ Դիզայնի գլխավոր շեշտադրումը շապիկի օձիքն է, որը զարդարված է երկար էֆեկտային ծոպերով, որոնք մոդելին հաղորդում են դինամիկա և բացառիկ բնավորություն։ Իրանամերձ և դեպի ներքև լայնացող կտրվածքը (sfiancata e svasata)՝ գործնական կողային գրպանների հետ համատեղ, այս հագուստը դարձնում է «Made in Italy» ոճի էությունը սառը սեզոնի համար։",
+    "lv": "Ziemas mētelis Salottino — tas ir izsmalcinātas sievišķības un aristokrātiska mājīguma iemiesojums no Luisa Spagnoli. Modelis ir izgatavots no cēla tīras vilnas auduma, kas dāvā izcilu siltumu un nevainojamu maigumu. „Mēteļa-halāta” (vestaglia) siluets ar mīksti nolaistiem pleciem un izceltu jostasvietu rada harmonisku un cēlu tēlu. Dizaina galvenais akcents ir kreklveida apkakle, kas dekorēta ar garām, efektīgām bārkstīm, kuras piešķir modelim dinamiku un ekskluzīvu raksturu. Piegulošais un uz leju paplašinātais piegriezums (sfiancata e svasata) apvienojumā ar funkcionālām sānu kabatām padara šo izstrādājumu par „Made in Italy” stila kvintesenci aukstajai sezonai.",
+    "lt": "Žieminis paltas Salottino – tai rafinuoto moteriškumo ir aristokratiško jaukumo įsikūnijimas iš Luisa Spagnoli. Modelis pagamintas iš kilnaus grynos vilnos audinio, suteikiančio išskirtinę šilumą bei nepriekaištingą minkštumą. „Chalato tipo palto“ (vestaglia) siluetas su švelniai nuleistais pečiais ir pabrėžtu liemeniu sukuria harmoningą bei stilingą įvaizdį. Pagrindiniu dizaino akcentu tampa marškininio stiliaus apykaklė, dekoruota ilgais efektingais kutais, kurie modeliui suteikia dinamikos ir išskirtinį charakterį. Liemenuotas ir į apačią platėjantis kirpimas (sfiancata e svasata) kartu su funkcionaliomis šoninėmis kišenėmis paverčia šį gaminį „Made in Italy“ stiliaus kvintesencija šaltajam sezonui.",
+    "pl": "Zimowy płaszcz Salottino to ucieleśnienie wyrafinowanej kobiecości i arystokratycznej przytulności od Luisa Spagnoli. Model wykonany jest ze szlachetnego sukna z czystej wełny, które zapewnia wyjątkowe ciepło i nienaganną miękkość. Sylwetka typu „płaszcz-szlafrok” (vestaglia) z miękko opadającymi ramionami i podkreśloną talią tworzy harmonijny i majestatyczny wizerunek. Głównym akcentem projektu jest kołnierz koszulowy, ozdobiony długimi, efektownymi frędzlami, które nadają modelowi dynamiki i ekskluzywnego charakteru. Krój dopasowany w talii i rozszerzający się ku dołowi (sfiancata e svasata) w połączeniu z funkcjonalnymi kieszeniami bocznymi sprawia, że ten produkt jest kwintesencją stylu „Made in Italy” na chłodny sezon.",
+    "uk": "Зимове пальто Salottino — це втілення вишуканої жіночності та аристократичного затишку від Luisa Spagnoli. Модель виконана з благородного сукна чистої вовни, яке дарує виняткове тепло та бездоганну м'якість. Силует «пальто-халат» (vestaglia) з м'яко спущеними плечима та підкресленою талією створює гармонійний і статний образ. Головним акцентом дизайну виступає сорочковий комір, декорований довгими ефектними китицями-бахромою, які надають моделі динаміки та ексклюзивного характеру. Приталений і розширений донизу крій (sfiancata e svasata) у поєднанні з функціональними бічними кишенями робить цей виріб квінтесенцією стилю «Made in Italy» для холодного сезону."
+  },
+  "colors": [
+    {
+      "name": "Marrone",
+      "code": "0916",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VqxAzOL8QAGWP0QqgMeEIw_563511883696f42f017b3c2_69472272_02820840XX1.jpg"
+    },
+    {
+      "name": "Panna",
+      "code": "0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KT97IHepTbiZPG-Dzjf1ZQ_1770281812696f42efa988d7_39925462_02820830XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Look 27)",
+        "en": "Total Look (Look 27)",
+        "ar": "Total Look (Look 27)",
+        "ka": "Total Look (Look 27)",
+        "hy": "Total Look (Look 27)",
+        "lv": "Total Look (Look 27)",
+        "lt": "Total Look (Look 27)",
+        "pl": "Total Look (Look 27)",
+        "uk": "Total Look (Look 27)"
+      },
+      "text": {
+        "ru": "Пальто Salottino 0202 в роскошном ансамбле с кардиганом Malvia 0202 0846, топом Mantecare 0846 0202, брюками Olibis 1088 и кепкой Renno 0814.",
+        "en": "Coat Salottino 0202 in a luxurious ensemble with cardigan Malvia 0202 0846, top Mantecare 0846 0202, trousers Olibis 1088 and cap Renno 0814.",
+        "ar": "Coat Salottino 0202 in a luxurious ensemble with cardigan Malvia 0202 0846, top Mantecare 0846 0202, trousers Olibis 1088 and cap Renno 0814.",
+        "ka": "Coat Salottino 0202 in a luxurious ensemble with cardigan Malvia 0202 0846, top Mantecare 0846 0202, trousers Olibis 1088 and cap Renno 0814.",
+        "hy": "Coat Salottino 0202 in a luxurious ensemble with cardigan Malvia 0202 0846, top Mantecare 0846 0202, trousers Olibis 1088 and cap Renno 0814.",
+        "lv": "Coat Salottino 0202 in a luxurious ensemble with cardigan Malvia 0202 0846, top Mantecare 0846 0202, trousers Olibis 1088 and cap Renno 0814.",
+        "lt": "Coat Salottino 0202 in a luxurious ensemble with cardigan Malvia 0202 0846, top Mantecare 0846 0202, trousers Olibis 1088 and cap Renno 0814.",
+        "pl": "Coat Salottino 0202 in a luxurious ensemble with cardigan Malvia 0202 0846, top Mantecare 0846 0202, trousers Olibis 1088 and cap Renno 0814.",
+        "uk": "Coat Salottino 0202 in a luxurious ensemble with cardigan Malvia 0202 0846, top Mantecare 0846 0202, trousers Olibis 1088 and cap Renno 0814."
+      },
+      "items": [
+        {
+          "name": "Salottino",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KT97IHepTbiZPG-Dzjf1ZQ_1770281812696f42efa988d7_39925462_02820830XX1.jpg"
+        },
+        {
+          "name": "Malvia",
+          "code": "0202 0846",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KlVMxQr7SyCrt10DPMy3iw_509161854696f4363420906_31932689_02830520XX1.jpg",
+          "modelId": 141
+        },
+        {
+          "name": "Mantecare",
+          "code": "0846 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yci8Pmn2Qc2K4CUAa8lsoA_1572868144696f437a4f16c8_58141760_02831300XX1.jpg",
+          "modelId": 148
+        },
+        {
+          "name": "Olibis",
+          "code": "1088",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e85a8ef9-0175-442b-b5a7-cf782a9e05a2-removebg-preview.png",
+          "modelId": 454
+        },
+        {
+          "name": "Renno",
+          "code": "0814",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57693e01-fdb6-4b56-a73b-26c4b4d8ce61.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sophisticated Urban (Look 47)",
+        "en": "Sophisticated Urban (Look 47)",
+        "ar": "Sophisticated Urban (Look 47)",
+        "ka": "Sophisticated Urban (Look 47)",
+        "hy": "Sophisticated Urban (Look 47)",
+        "lv": "Sophisticated Urban (Look 47)",
+        "lt": "Sophisticated Urban (Look 47)",
+        "pl": "Sophisticated Urban (Look 47)",
+        "uk": "Sophisticated Urban (Look 47)"
+      },
+      "text": {
+        "ru": "Модель Salottino 0916 дополняет образ с пуловером Mirko 1781, рубашкой Localita 0201, брюками Opaglio 0927, сумкой Iago 2240 0002 и перчатками Uboldo 0971 0002.",
+        "en": "The Salottino 0916 model complements the look with pullover Mirko 1781, shirt Localita 0201, trousers Opaglio 0927, bag Iago 2240 0002 and gloves Uboldo 0971 0002.",
+        "ar": "The Salottino 0916 model complements the look with pullover Mirko 1781, shirt Localita 0201, trousers Opaglio 0927, bag Iago 2240 0002 and gloves Uboldo 0971 0002.",
+        "ka": "The Salottino 0916 model complements the look with pullover Mirko 1781, shirt Localita 0201, trousers Opaglio 0927, bag Iago 2240 0002 and gloves Uboldo 0971 0002.",
+        "hy": "The Salottino 0916 model complements the look with pullover Mirko 1781, shirt Localita 0201, trousers Opaglio 0927, bag Iago 2240 0002 and gloves Uboldo 0971 0002.",
+        "lv": "The Salottino 0916 model complements the look with pullover Mirko 1781, shirt Localita 0201, trousers Opaglio 0927, bag Iago 2240 0002 and gloves Uboldo 0971 0002.",
+        "lt": "The Salottino 0916 model complements the look with pullover Mirko 1781, shirt Localita 0201, trousers Opaglio 0927, bag Iago 2240 0002 and gloves Uboldo 0971 0002.",
+        "pl": "The Salottino 0916 model complements the look with pullover Mirko 1781, shirt Localita 0201, trousers Opaglio 0927, bag Iago 2240 0002 and gloves Uboldo 0971 0002.",
+        "uk": "The Salottino 0916 model complements the look with pullover Mirko 1781, shirt Localita 0201, trousers Opaglio 0927, bag Iago 2240 0002 and gloves Uboldo 0971 0002."
+      },
+      "items": [
+        {
+          "name": "Salottino",
+          "code": "0916",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VqxAzOL8QAGWP0QqgMeEIw_563511883696f42f017b3c2_69472272_02820840XX1.jpg"
+        },
+        {
+          "name": "Mirko",
+          "code": "1781",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2cb9e06d-bc91-4421-8a96-49701b4a0bdf-removebg-preview.png",
+          "modelId": 180
+        },
+        {
+          "name": "Localita",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1407561629692424cfaef943_59921062_02781240XX1.jpg",
+          "modelId": 422
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        },
+        {
+          "name": "Uboldo",
+          "code": "0971 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281021%29.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Heritage Chic (Look 74)",
+        "en": "Heritage Chic (Look 74)",
+        "ar": "Heritage Chic (Look 74)",
+        "ka": "Heritage Chic (Look 74)",
+        "hy": "Heritage Chic (Look 74)",
+        "lv": "Heritage Chic (Look 74)",
+        "lt": "Heritage Chic (Look 74)",
+        "pl": "Heritage Chic (Look 74)",
+        "uk": "Heritage Chic (Look 74)"
+      },
+      "text": {
+        "ru": "Salottino 0916 в сочетании с жакетом Serafica 0733, рубашкой Lindas 0202 0202 и брюками Ostiolo 0733.",
+        "en": "Salottino 0916 combined with jacket Serafica 0733, shirt Lindas 0202 0202 and trousers Ostiolo 0733.",
+        "ar": "Salottino 0916 combined with jacket Serafica 0733, shirt Lindas 0202 0202 and trousers Ostiolo 0733.",
+        "ka": "Salottino 0916 combined with jacket Serafica 0733, shirt Lindas 0202 0202 and trousers Ostiolo 0733.",
+        "hy": "Salottino 0916 combined with jacket Serafica 0733, shirt Lindas 0202 0202 and trousers Ostiolo 0733.",
+        "lv": "Salottino 0916 combined with jacket Serafica 0733, shirt Lindas 0202 0202 and trousers Ostiolo 0733.",
+        "lt": "Salottino 0916 combined with jacket Serafica 0733, shirt Lindas 0202 0202 and trousers Ostiolo 0733.",
+        "pl": "Salottino 0916 combined with jacket Serafica 0733, shirt Lindas 0202 0202 and trousers Ostiolo 0733.",
+        "uk": "Salottino 0916 combined with jacket Serafica 0733, shirt Lindas 0202 0202 and trousers Ostiolo 0733."
+      },
+      "items": [
+        {
+          "name": "Salottino",
+          "code": "0916",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VqxAzOL8QAGWP0QqgMeEIw_563511883696f42f017b3c2_69472272_02820840XX1.jpg"
+        },
+        {
+          "name": "Serafica",
+          "code": "0733",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/607627786691f15652daa90_90514398_02780550XX1.jpg",
+          "modelId": 482
+        },
+        {
+          "name": "Lindas",
+          "code": "0202 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/957906673691f15644561f7_84414523_02780530XX1.jpg",
+          "modelId": 417
+        },
+        {
+          "name": "Ostiolo",
+          "code": "0733",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/212434150691c57c6790734_66577885_02780330XX1.jpg",
+          "modelId": 468
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Monochrome Luxe (Look 94)",
+        "en": "Monochrome Luxe (Look 94)",
+        "ar": "Monochrome Luxe (Look 94)",
+        "ka": "Monochrome Luxe (Look 94)",
+        "hy": "Monochrome Luxe (Look 94)",
+        "lv": "Monochrome Luxe (Look 94)",
+        "lt": "Monochrome Luxe (Look 94)",
+        "pl": "Monochrome Luxe (Look 94)",
+        "uk": "Monochrome Luxe (Look 94)"
+      },
+      "text": {
+        "ru": "Безупречный белый ансамбль с Salottino 0202, пуловером Mano H 0202 и брюками Ortolano 0202.",
+        "en": "A flawless white ensemble with Salottino 0202, pullover Mano H 0202 and trousers Ortolano 0202 (Data missing in official sources).",
+        "ar": "A flawless white ensemble with Salottino 0202, pullover Mano H 0202 and trousers Ortolano 0202 (Data missing in official sources).",
+        "ka": "A flawless white ensemble with Salottino 0202, pullover Mano H 0202 and trousers Ortolano 0202 (Data missing in official sources).",
+        "hy": "A flawless white ensemble with Salottino 0202, pullover Mano H 0202 and trousers Ortolano 0202 (Data missing in official sources).",
+        "lv": "A flawless white ensemble with Salottino 0202, pullover Mano H 0202 and trousers Ortolano 0202 (Data missing in official sources).",
+        "lt": "A flawless white ensemble with Salottino 0202, pullover Mano H 0202 and trousers Ortolano 0202 (Data missing in official sources).",
+        "pl": "A flawless white ensemble with Salottino 0202, pullover Mano H 0202 and trousers Ortolano 0202 (Data missing in official sources).",
+        "uk": "A flawless white ensemble with Salottino 0202, pullover Mano H 0202 and trousers Ortolano 0202 (Data missing in official sources)."
+      },
+      "items": [
+        {
+          "name": "Salottino",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KT97IHepTbiZPG-Dzjf1ZQ_1770281812696f42efa988d7_39925462_02820830XX1.jpg"
+        },
+        {
+          "name": "Mano H",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281019%29.png"
+        },
+        {
+          "name": "Ortolano",
+          "code": "0202",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the striking fringe: this decorative element is a key trend of the season, lending the classic robe coat a note of contemporary luxury and bohemian chic.",
+      "Emphasise the versatility of the vestaglia silhouette: the ability to adjust the fit with the belt allows the piece to be perfectly tailored to any figure, creating a flawless feminine silhouette.",
+      "Lead with the 100% pure wool fabric: this guarantees the highest level of thermal regulation and durability, making the Salottino coat a long-term investment in a status wardrobe."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на эффектной бахроме: этот декоративный элемент является ключевым трендом сезона, добавляющим классическому пальто-халату ноту современной роскоши и богемного шика.",
+      "Подчеркните универсальность фасона vestaglia: возможность регулировать приталенность с помощью пояса позволяет идеально адаптировать изделие под любой тип фигуры, создавая безупречный женственный силуэт.",
+      "Сделайте ставку на материал из 100% чистой шерсти: это гарантирует высочайший уровень терморегуляции и износостойкости, превращая пальто Salottino в долгосрочную инвестицию в статусный гардероб."
+    ],
+    "ar": [
+      "ركزي انتباه العميل على الشراشيب الجذابة: هذا العنصر الزخرفي هو صيحة الموسم الأساسية، التي تضفي على معطف البالطو الكلاسيكي لمسة من الفخامة العصرية والأناقة البوهيمية.",
+      "أبرزي تعدد استخدامات موديل vestaglia: القدرة على تعديل قياس الخصر باستخدام الحزام تسمح بتكييف القطعة بشكل مثالي مع أي شكل للجسم، مما يخلق إطلالة أنثوية لا تشوبها شائبة.",
+      "راهني على الخامة المصنوعة من الصوف النقي بنسبة 100%: فهذا يضمن أعلى مستوى من تنظيم الحرارة ومقاومة التآكل، مما يحول معطف Salottino إلى استثمار طويل الأمد في خزانة الملابس ذات المكانة المرموقة."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება ეფექტურ ფოჩებზე: ეს დეკორატიული ელემენტი სეზონის საკვანძო ტრენდია, რომელიც კლასიკურ ხალათ-პალტოს თანამედროვე ფუფუნებისა და ბოჰემური შიკის ნოტს მატებს.",
+      "ხაზი გაუსვით vestaglia-ს ფასონის უნივერსალურობას: ქამრით წელის მორგების შესაძლებლობა იძლევა ნაკეთობის იდეალურად მორგების საშუალებას ნებისმიერი ტიპის ფიგურაზე, რაც ქმნის უნაკლო ქალურ სილუეტს.",
+      "გააკეთეთ არჩევანი 100% სუფთა მატყლის მასალაზე: ეს უზრუნველყოფს თერმორეგულაციისა და ცვეთამედეგობის უმაღლეს დონეს, რაც Salottino-ს პალტოს სტატუსური გარდერობისთვის გრძელვადიან ინვესტიციად აქცევს."
+    ],
+    "hy": [
+      "Շեշտադրեք հաճախորդի ուշադրությունը ազդեցիկ ծոպերի վրա. այս դեկորատիվ տարրը սեզոնի գլխավոր թրենդն է, որը դասական խալաթ-վերարկուին ավելացնում է ժամանակակից շքեղության և բոհեմական նրբագեղության շունչ։",
+      "Ընդգծեք vestaglia ոճի ունիվերսալությունը. գոտու օգնությամբ իրանը կարգավորելու հնարավորությունը թույլ է տալիս հագուստը կատարյալ հարմարեցնել ցանկացած տեսակի կազմվածքին՝ ստեղծելով անթերի կանացի ուրվագիծ։",
+      "Խաղադրույք կատարեք 100% մաքուր բրդից պատրաստված նյութի վրա. սա երաշխավորում է ջերմակարգավորման և մաշվածության դիմադրության ամենաբարձր մակարդակ՝ Salottino վերարկուն վերածելով կարգավիճակային զգեստապահարանի երկարաժամկետ ներդրման։"
+    ],
+    "lv": [
+      "Akcentējiet klienta uzmanību uz efektīvajām bārkstīm: šis dekoratīvais elements ir sezonas galvenā tendence, kas piešķir klasiskajam halātveida mētelim mūsdienīga luksusa un bohēmiska šika noti.",
+      "Uzsveriet vestaglia fasona daudzpusību: iespēja regulēt piegulumu ar jostas palīdzību ļauj ideāli pielāgot izstrādājumu jebkuram figūras tipam, radot nevainojamu sievišķīgu siluetu.",
+      "Lieciet likmi uz materiālu no 100% tīras vilnas: tas garantē visaugstāko termoregulācijas un nodilumizturības līmeni, pārvēršot Salottino mēteli par ilgtermiņa investīciju statusa garderobē."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į efektingus kutus: šis dekoratyvinis elementas yra viena pagrindinių sezono tendencijų, suteikianti klasikiniam chalato tipo paltui modernios prabangos ir bohemiško šiko prieskonį.",
+      "Pabrėžkite vestaglia stiliaus universalumą: galimybė diržu reguliuoti liemenuotą kirpimą leidžia idealiai pritaikyti gaminį bet kokio tipo figūrai, sukuriant nepriekaištingą moterišką siluetą.",
+      "Statykite už 100 % grynos vilnos medžiagą: tai garantuoja aukščiausio lygio termoreguliaciją ir atsparumą dėvėjimuisi, paverčiant Salottino paltą ilgalaike investicija į statusą pabrėžiantį garderobą."
+    ],
+    "pl": [
+      "Skup uwagę klienta na efektownych frędzlach: ten element dekoracyjny jest kluczowym trendem sezonu, dodającym klasycznemu płaszczowi typu szlafrokowego nuty nowoczesnego luksusu i bohemy.",
+      "Podkreśl uniwersalność fasonu vestaglia: możliwość regulacji talii za pomocą paska pozwala idealnie dopasować produkt do każdego typu sylwetki, tworząc nienaganną kobiecą linię.",
+      "Postaw na materiał ze 100% czystej wełny: gwarantuje to najwyższy poziom termoregulacji i odporności na zużycie, zmieniając płaszcz Salottino w długoterminową inwestycję w stylową garderobę."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на ефектній бахромі: цей декоративний елемент є ключовим трендом сезону, що додає класичному пальто-халату ноту сучасної розкоші та богемного шику.",
+      "Підкресліть універсальність фасону vestaglia: можливість регулювати приталеність за допомогою пояса дозволяє ідеально адаптувати виріб під будь-який тип фігури, створюючи бездоганний жіночний силует.",
+      "Зробіть ставку на матеріал зі 100% чистої вовни: це гарантує найвищий рівень терморегуляції та зносостійкості, перетворюючи пальто Salottino на довгострокову інвестицію у статусний гардероб."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Fringe may seem impractical and demanding to care for.",
+        "a": "Point out the exceptional quality of craftsmanship: the fringe is securely fastened and crafted from durable wool. Regular professional cleaning will preserve its pristine appearance for many years to come."
+      },
+      {
+        "q": "A button-free wrap coat may not be warm enough in strong wind.",
+        "a": "Explain that the deep wrap closure and dense pure-wool cloth provide reliable protection. Recommend pairing the style with voluminous knitwear, such as the Mano H pullover, for maximum comfort."
+      },
+      {
+        "q": "The light Panna 0202 shade seems impractical for the winter season.",
+        "a": "Emphasise that a light winter palette is a marker of high status in a 'quiet luxury' style. Pure wool has natural properties that help it stay clean for longer with proper care."
+      },
+      {
+        "q": "Fringe on the collar may visually add weight to the upper body.",
+        "a": "Clarify that the V-neckline and fitted silhouette, on the contrary, elongate the vertical line, while the fringe creates a soft dynamic movement, lightening the overall look."
+      },
+      {
+        "q": "The style looks too relaxed for a formal dress code.",
+        "a": "Demonstrate the styling possibilities: paired with the structured Serafica jacket and classic trousers, the Salottino coat transforms into a refined, statement-worthy element of business dressing."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Бахрома может казаться непрактичной и сложной в уходе.",
+        "a": "Укажите на высочайшее качество исполнения: бахрома надежно закреплена и выполнена из износостойкой шерсти. Регулярная профессиональная чистка позволит сохранить её первозданный вид на многие годы."
+      },
+      {
+        "q": "Пальто-халат без пуговиц может быть недостаточно теплым на сильном ветру.",
+        "a": "Объясните, что глубокий запах и плотное сукно из чистой шерсти обеспечивают надежную защиту. Рекомендуйте сочетать модель с объемным трикотажем, например, пуловером Mano H, для максимального комфорта."
+      },
+      {
+        "q": "Светлый оттенок Panna 0202 кажется непрактичным для зимнего сезона.",
+        "a": "Подчеркните, что светлая зимняя палитра — это маркер высокого статуса в стиле «quiet luxury». Чистая шерсть обладает природными свойствами, позволяющими дольше сохранять чистоту при должном уходе."
+      },
+      {
+        "q": "Бахрома на воротнике может визуально утяжелять верхнюю часть фигуры.",
+        "a": "Поясните, что V-образный вырез и приталенный силуэт, напротив, вытягивают вертикаль, а бахрома создает мягкую динамику при движении, облегчая образ."
+      },
+      {
+        "q": "Модель выглядит слишком расслабленной для строгого дресс-кода.",
+        "a": "Продемонстрируйте возможности стайлинга: в сочетании со строгим жакетом Serafica и классическими брюками пальто Salottino превращается в изысканный и статусный элемент делового гардероба."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تبدو الشراشيب غير عملية وصعبة العناية.",
+        "a": "أشيري إلى الجودة الفائقة في التنفيذ: الشراشيب مثبتة بإحكام ومصنوعة من صوف مقاوم للاهتراء. التنظيف الاحترافي الدوري سيسمح بالحفاظ على مظهرها الأصلي لسنوات عديدة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ფოჩები შეიძლება არაპრაქტიკული და რთულად მოსავლელი გეჩვენოთ.",
+        "a": "მიუთითეთ შესრულების უმაღლეს ხარისხზე: ფოჩები საიმედოდაა დამაგრებული და დამზადებულია ცვეთამედეგი მატყლისგან. რეგულარული პროფესიონალური წმენდა საშუალებას მოგცემთ შეინარჩუნოთ მისი პირველქმნილი იერსახე მრავალი წლის განმავლობაში."
+      },
+      {
+        "q": "ხალათ-პალტოს უღილოდ, ძლიერ ქარში შესაძლოა არ ეყოს სითბო.",
+        "a": "აუხსენით, რომ ღრმა შესაკრავი და სუფთა მატყლის მკვრივი სუკნო უზრუნველყოფს საიმედო დაცვას. რეკომენდაცია გაუწიეთ მოდელის შეხამებას მოცულობით ტრიკოტაჟთან, მაგალითად, Mano H პულოვერთან, მაქსიმალური კომფორტისთვის."
+      },
+      {
+        "q": "ღია ფერი Panna 0202 ზამთრის სეზონისთვის არაპრაქტიკულად გეჩვენებათ.",
+        "a": "ხაზგასმით აღნიშნეთ, რომ ღია ფერის ზამთრის პალიტრა «quiet luxury» სტილში მაღალი სტატუსის მაჩვენებელია. სუფთა მატყლს გააჩნია ბუნებრივი თვისებები, რაც სათანადო მოვლის პირობებში საშუალებას იძლევა, უფრო დიდხანს შეინარჩუნოთ სისუფთავე."
+      },
+      {
+        "q": "საყელოზე არსებულმა ფოჩებმა შესაძლოა ვიზუალურად დაამძიმოს ფიგურის ზედა ნაწილი.",
+        "a": "განუმარტეთ, რომ V-სებრი ყელი და ტანზე გამოყვანილი სილუეტი, პირიქით, ვერტიკალს ჭიმავს, ხოლო ფოჩები მოძრაობისას ქმნის რბილ დინამიკას, რაც იმიჯს სიმსუბუქეს მატებს."
+      },
+      {
+        "q": "მოდელი ზედმეტად თავისუფალი ჩანს მკაცრი დრეს-კოდისთვის.",
+        "a": "წარმოაჩინეთ სტილიზების შესაძლებლობები: მკაცრ Serafica-ს პიჯაკთან და კლასიკურ შარვალთან შეხამებით, პალტო Salottino იქცევა საქმიანი გარდერობის დახვეწილ და სტატუსურ ელემენტად."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Փոքրիկ փնջիկները (բախրոմա) կարող են անգործնական և խնամքի մեջ բարդ թվալ",
+        "a": "Նշեք կատարման ամենաբարձր որակը. փնջիկները հուսալիորեն ամրացված են և պատրաստված են մաշվածադիմացկուն բրդից: Պրոֆեսիոնալ կանոնավոր մաքրումը թույլ կտա պահպանել դրանց սկզբնական տեսքը երկար տարիներ"
+      },
+      {
+        "q": "Առանց կոճակների խալաթ-վերարկուն կարող է բավականաչափ տաք չլինել ուժեղ քամու ժամանակ",
+        "a": "Բացատրեք, որ խորը փաթաթվելը և մաքուր բրդից հաստ թաղիքը ապահովում են հուսալի պաշտպանություն: Խորհուրդ տվեք մոդելը համադրել ծավալուն տրիկոտաժի հետ, օրինակ՝ Mano H պուլովերի հետ, առավելագույն հարմարավետության համար"
+      },
+      {
+        "q": "Panna 0202 բաց երանգը չափազանց անգործնական է թվում ձմեռային սեզոնի համար",
+        "a": "Ընդգծեք, որ բաց ձմեռային գունապնակը «quiet luxury» ոճի բարձր կարգավիճակի նշան է: Մաքուր բուրդն ունի բնական հատկություններ, որոնք թույլ են տալիս պատշաճ խնամքի դեպքում ավելի երկար պահպանել մաքրությունը"
+      },
+      {
+        "q": "Օձիքի փնջիկները կարող են տեսողականորեն ծանրացնել կազմվածքի վերին հատվածը",
+        "a": "Պարզաբանեք, որ V-աձև բացվածքը և իրանին ընդգծող ուրվագիծը, ընդհակառակը, ձգում են ուղղահայաց գիծը, իսկ փնջիկները շարժման ժամանակ ստեղծում են փափուկ դինամիկա՝ թեթևացնելով կերպարը"
+      },
+      {
+        "q": "Մոդելը չափազանց հանգիստ է թվում խիստ դրես-կոդի համար",
+        "a": "Ցույց տվեք ոճավորման հնարավորությունները. Serafica խիստ ժակետի և դասական տաբատի հետ համադրությամբ Salottino վերարկուն վերածվում է գործնական զգեստապահարանի նրբագեղ և կարգավիճակային տարրի"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Bārkstis var šķist nepraktiskas un grūti kopjamas.",
+        "a": "Norādiet uz augstāko izpildījuma kvalitāti: bārkstis ir droši nostiprinātas un izgatavotas no nodilumizturīgas vilnas. Regulāra profesionālā tīrīšana ļaus saglabāt to sākotnējo izskatu daudzu gadu garumā."
+      },
+      {
+        "q": "Mētelis-halāts bez pogām var nebūt pietiekami silts stiprā vējā.",
+        "a": "Paskaidrojiet, ka dziļā smarža un blīvais tīras vilnas audums nodrošina drošu aizsardzību. Iesakiet kombinēt modeli ar apjomīgu trikotāžu, piemēram, Mano H puloveru, maksimālam komfortam."
+      },
+      {
+        "q": "Gaišais Panna 0202 tonis šķiet nepraktisks ziemas sezonai.",
+        "a": "Uzsveriet, ka gaišā ziemas palete ir augsta statusa marķieris «quiet luxury» stilā. Tīrai vilnai piemīt dabiskas īpašības, kas ļauj ilgāk saglabāt tīrību, ja tiek nodrošināta pienācīga kopšana."
+      },
+      {
+        "q": "Bārkstis uz apkakles var vizuāli padarīt figūras augšdaļu masīvāku.",
+        "a": "Paskaidrojiet, ka V-veida izgriezums un pieguļošais siluets, gluži pretēji, izstiepj vertikāli, bet bārkstis rada mīkstu dinamiku kustībā, padarot tēlu vieglāku."
+      },
+      {
+        "q": "Modelis izskatās pārāk atbrīvots stingram dreskodam.",
+        "a": "Demonstrējiet stilizācijas iespējas: kombinācijā ar stingru Serafica žaketi un klasiskām biksēm, Salottino mētelis pārvēršas par izsmalcinātu un statusa pilnu lietišķās garderobes elementu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Kutai gali atrodyti nepraktiški ir sudėtingai prižiūrimi.",
+        "a": "Atkreipkite dėmesį į aukščiausią kokybę: kutai yra patikimai pritvirtinti ir pagaminti iš dilimui atsparios vilnos. Reguliarus profesionalus valymas leis išsaugoti jų pirminę išvaizdą daugelį metų."
+      },
+      {
+        "q": "Paltas-chalatas be sagų gali nepakankamai šildyti pučiant stipriam vėjui.",
+        "a": "Paaiškinkite, kad gilus uždėjimas ir tankus grynos vilnos audinys užtikrina patikimą apsaugą. Rekomenduokite derinti modelį su tūrinio stiliaus trikotažu, pavyzdžiui, Mano H megztiniu, maksimaliam komfortui."
+      },
+      {
+        "q": "Šviesus Panna 0202 atspalvis atrodo nepraktiškas žiemos sezonui.",
+        "a": "Pabrėžkite, kad šviesi žiemos paletė – aukšto statuso ženklas „quiet luxury“ stiliuje. Gryna vilna pasižymi natūraliomis savybėmis, leidžiančiomis ilgiau išsaugoti švarą tinkamai prižiūrint."
+      },
+      {
+        "q": "Kutai ant apykaklės gali vizualiai pasunkinti viršutinę figūros dalį.",
+        "a": "Paaiškinkite, kad V formos iškirptė ir prigludęs siluetas, priešingai, vizualiai ilgina siluetą, o kutai suteikia švelnios dinamikos judant, palengvindami įvaizdį."
+      },
+      {
+        "q": "Modelis atrodo per daug laisvas griežtam aprangos kodui.",
+        "a": "Pademonstruokite derinimo galimybes: derinant su griežtu Serafica švarku ir klasikinėmis kelnėmis, paltas Salottino virsta rafinuotu ir statusą pabrėžiančiu dalykinio garderobo elementu."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Frędzle mogą wydawać się niepraktyczne i trudne w pielęgnacji.",
+        "a": "Wskaż na najwyższą jakość wykonania: frędzle są solidnie zamocowane i wykonane z odpornej na zużycie wełny. Regularne profesjonalne czyszczenie pozwoli zachować ich pierwotny wygląd przez wiele lat."
+      },
+      {
+        "q": "Płaszcz-szlafrok bez guzików może być niewystarczająco ciepły podczas silnego wiatru.",
+        "a": "Wyjaśnij, że głębokie zakładki i gęste sukno z czystej wełny zapewniają niezawodną ochronę. Rekomenduj łączenie modelu z obszerną dzianiną, na przykład pulowerem Mano H, dla maksymalnego komfortu."
+      },
+      {
+        "q": "Jasny odcień Panna 0202 wydaje się niepraktyczny na sezon zimowy.",
+        "a": "Podkreśl, że jasna paleta zimowa to wyznacznik wysokiego statusu w stylu „quiet luxury”. Czysta wełna posiada naturalne właściwości pozwalające dłużej zachować czystość przy odpowiedniej pielęgnacji."
+      },
+      {
+        "q": "Frędzle na kołnierzu mogą wizualnie obciążać górną część sylwetki.",
+        "a": "Wyjaśnij, że wycięcie w kształcie litery V i taliowany fason wręcz przeciwnie, wydłużają sylwetkę, a frędzle tworzą miękką dynamikę podczas ruchu, nadając wizerunkowi lekkości."
+      },
+      {
+        "q": "Model wygląda zbyt swobodnie do surowego dress-code'u.",
+        "a": "Zaprezentuj możliwości stylizacji: w połączeniu z surowym żakietem Serafica i klasycznymi spodniami płaszcz Salottino zamienia się w wyrafinowany i prestiżowy element garderoby biznesowej."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Бахрома може здаватися непрактичною і складною у догляді.",
+        "a": "Вкажіть на найвищу якість виконання: бахрома надійно закріплена та виконана зі зносостійкої вовни. Регулярна професійна чистка дозволить зберегти її первозданний вигляд на багато років."
+      },
+      {
+        "q": "Пальто-халат без ґудзиків може бути недостатньо теплим на сильному вітрі.",
+        "a": "Поясніть, що глибокий запах і щільне сукно з чистої вовни забезпечують надійний захист. Рекомендуйте поєднувати модель із об’ємним трикотажем, наприклад, пуловером Mano H, для максимального комфорту."
+      },
+      {
+        "q": "Світлий відтінок Panna 0202 здається непрактичним для зимового сезону.",
+        "a": "Підкресліть, що світла зимова палітра — це маркер високого статусу у стилі «quiet luxury». Чиста вовна володіє природними властивостями, що дозволяють довше зберігати чистоту при належному догляді."
+      },
+      {
+        "q": "Бахрома на комірі може візуально обтяжувати верхню частину фігури.",
+        "a": "Поясніть, що V-подібний виріз і приталений силует, навпаки, витягують вертикаль, а бахрома створює м’яку динаміку при русі, полегшуючи образ."
+      },
+      {
+        "q": "Модель виглядає занадто розслабленою для суворого дрес-коду.",
+        "a": "Продемонструйте можливості стайлінгу: у поєднанні зі суворим жакетом Serafica та класичними брюками пальто Salottino перетворюється на вишуканий і статусний елемент ділового гардероба."
+      }
+    ]
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "id": 193,
+  "name": "Muni A",
+  "description": {
+    "en": "The elegant Muni A beret is an exquisite accessory embodying winter chic and aristocratic style from Luisa Spagnoli. The model is crafted from premium knit fabric, ensuring a perfect fit and exceptional softness. This accessory is designed to add a note of \"quiet luxury\" to any ensemble, harmoniously combining functionality with the high aesthetics of Italian design. The purity of its lines and impeccable quality of execution make it an indispensable element of the modern woman's wardrobe.",
+    "ru": "Элегантный берет Muni A — это изысканный аксессуар, ставший воплощением зимнего шика и аристократизма от Luisa Spagnoli. Модель выполнена из премиального трикотажа, обеспечивающего идеальную посадку и исключительную мягкость. Этот аксессуар создан для того, чтобы добавить ноту «тихой роскоши» в любой ансамбль, гармонично сочетая в себе функциональность и высокую эстетику итальянского дизайна. Чистота линий и безупречное качество исполнения делают его незаменимым элементом гардероба современной женщины.",
+    "ar": "قبعة بيريه Muni A الأنيقة هي إكسسوار راقٍ يجسد الأناقة الشتوية والأرستقراطية من Luisa Spagnoli. الموديل مصنوع من تريكو فاخر يضمن ملمساً ناعماً جداً وملاءمة مثالية. صُمم هذا الإكسسوار ليضفي لمسة من «الفخامة الهادئة» على أي إطلالة، جامِعاً بين الوظيفية والجمال العالي للتصميم الإيطالي. تجعل نقاء الخطوط وجودة التنفيذ التي لا تشوبها شائبة منه قطعة لا غنى عنها في خزانة المرأة العصرية.",
+    "ka": "ელეგანტური ბერეტი Muni A — ეს არის დახვეწილი აქსესუარი, რომელიც გახდა ზამთრის შიკისა და არისტოკრატიზმის განსახიერება Luisa Spagnoli-სგან. მოდელი დამზადებულია პრემიუმ ტრიკოტაჟისგან, რაც უზრუნველყოფს იდეალურ მორგებასა და განსაკუთრებულ სირბილეს. ეს აქსესუარი შექმნილია იმისთვის, რომ ნებისმიერ ანსამბლს შემატოს „ჩუმი ფუფუნების“ ნოტა, ჰარმონიულად აერთიანებს რა იტალიური დიზაინის ფუნქციონალურობასა და მაღალ ესთეტიკას. ხაზების სისუფთავე და შესრულების უნაკლო ხარისხი მას თანამედროვე ქალის გარდერობის შეუცვლელ ელემენტად აქცევს.",
+    "hy": "Էլեգանտ բերետ Muni A-ն նրբագեղ աքսեսուար է, որը դարձել է Luisa Spagnoli-ից ձմեռային շիկի և արիստոկրատիզմի մարմնացումը: Մոդելը պատրաստված է պրեմիում տրիկոտաժից, որն ապահովում է իդեալական նստվածք և բացառիկ փափկություն: Այս աքսեսուարը ստեղծված է ցանկացած անսամբլի մեջ «լուռ շքեղության» նոտա ավելացնելու համար՝ ներդաշնակորեն միավորելով իտալական դիզայնի ֆունկցիոնալությունը և բարձր էսթետիկան: Գծերի մաքրությունը և կատարման անթերի որակը այն դարձնում են ժամանակակից կնոջ զգեստապահարանի անփոխարինելի տարր:",
+    "lv": "Eleganta berete Muni A — tas ir izsmalcināts aksesuārs, kas kļuvis par Luisa Spagnoli ziemas šika un aristokrātisma iemiesojumu. Modelis ir izgatavots no premium trikotāžas, kas nodrošina ideālu piegulumu un izcilu mīkstumu. Šis aksesuārs ir radīts, lai jebkuram ansamblim pievienotu \"klusās greznības\" noti, harmoniski apvienojot funkcionalitāti un itāļu dizaina augsto estētiku. Līniju tīrība un nevainojama izpildījuma kvalitāte padara to par neaizstājamu mūsdienu sievietes garderobes elementu.",
+    "lt": "Elegantiška „Muni A“ beretė — tai rafinuotas aksesuaras, tapęs žiemos šiko ir aristokratiškumo įsikūnijimu iš „Luisa Spagnoli“. Modelis pagamintas iš aukščiausios kokybės trikotažo, užtikrinančio idealų prigludimą ir išskirtinį švelnumą. Šis aksesuaras sukurtas tam, kad suteiktų „tylios prabangos“ natą bet kokiam ansambliui, harmoningai sujungiant funkcionalumą ir aukštą italų dizaino estetiką. Linijų grynumas ir nepriekaištinga atlikimo kokybė paverčia jį nepakeičiamu šiuolaikinės moters garderobo elementu.",
+    "pl": "Elegancki beret Muni A to wyrafinowany dodatek, będący ucieleśnieniem zimowego szyku i arystokratyzmu od Luisa Spagnoli. Model wykonany jest z dzianiny klasy premium, zapewniającej idealne dopasowanie i wyjątkową miękkość. Ten dodatek stworzono, aby dodać nutę «cichego luksusu» do każdej stylizacji, harmonijnie łącząc funkcjonalność z wysoką estetyką włoskiego designu. Czystość linii i nienaganna jakość wykonania czynią go niezbędnym elementem garderoby nowoczesnej kobiety.",
+    "uk": "Елегантний берет Muni A — це вишуканий аксесуар, що став втіленням зимового шику та аристократизму від Luisa Spagnoli. Модель виконана з преміального трикотажу, що забезпечує ідеальну посадку та виняткову м'якість. Цей аксесуар створений для того, щоб додати ноту «тихої розкоші» в будь-який ансамбль, гармонійно поєднуючи в собі функціональність і високу естетику італійського дизайну. Чистота ліній і бездоганна якість виконання роблять його незамінним елементом гардероба сучасної жінки."
+  },
+  "colors": [
+    {
+      "name": "Bordeaux",
+      "code": "2435",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MUNI_244200000000.jpg"
+    },
+    {
+      "name": "Grigio Melange",
+      "code": "0802",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/246ffb13-4b9b-4204-9cd8-53eec7f9c1d2-removebg-preview.png"
+    },
+    {
+      "name": "Marrone",
+      "code": "0970",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/a8acb2c7-9248-46ae-aece-e01b98d4abe6-removebg-preview.png"
+    },
+    {
+      "name": "Panna",
+      "code": "0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MUNI_20200000000.jpg"
+    },
+    {
+      "name": "Peonia",
+      "code": "1802",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57970ed1-2335-4557-a61c-37d69b8f0125-removebg-preview%20%281%29.png"
+    },
+    {
+      "name": "Rosso",
+      "code": "1655",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ba4e6326-f173-41bb-95fd-b8402c046129-removebg-preview.png"
+    },
+    {
+      "name": "Cammello",
+      "code": "2246",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/d0e06b78-050f-47c8-a1b2-4606373c9655-removebg-preview.png"
+    },
+    {
+      "name": "Verde Militare",
+      "code": "1736",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/6ec1b078-e1a6-41fe-9f85-24b5bbd16d66-removebg-preview.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Look 34)",
+        "en": "Total Look (Look 34)",
+        "ar": "Total Look (Look 34)",
+        "ka": "Total Look (Look 34)",
+        "hy": "Total Look (Look 34)",
+        "lv": "Total Look (Look 34)",
+        "lt": "Total Look (Look 34)",
+        "pl": "Total Look (Look 34)",
+        "uk": "Total Look (Look 34)"
+      },
+      "text": {
+        "ru": "Muni A 2435 в сочетании с пальто Speziale 2316 и пуловером Mabels 2435.",
+        "en": "Muni A 2435 combined with the Speziale 2316 coat and Mabels 2435 pullover.",
+        "ar": "Muni A 2435 combined with the Speziale 2316 coat and Mabels 2435 pullover.",
+        "ka": "Muni A 2435 combined with the Speziale 2316 coat and Mabels 2435 pullover.",
+        "hy": "Muni A 2435 combined with the Speziale 2316 coat and Mabels 2435 pullover.",
+        "lv": "Muni A 2435 combined with the Speziale 2316 coat and Mabels 2435 pullover.",
+        "lt": "Muni A 2435 combined with the Speziale 2316 coat and Mabels 2435 pullover.",
+        "pl": "Muni A 2435 combined with the Speziale 2316 coat and Mabels 2435 pullover.",
+        "uk": "Muni A 2435 combined with the Speziale 2316 coat and Mabels 2435 pullover."
+      },
+      "items": [
+        {
+          "name": "Muni A",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MUNI_244200000000.jpg"
+        },
+        {
+          "name": "Speziale",
+          "code": "2316",
+          "imageUrl": null
+        },
+        {
+          "name": "Mabels",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg",
+          "modelId": 131
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sophisticated Ensemble (Look 98)",
+        "en": "Sophisticated Ensemble (Look 98)",
+        "ar": "Sophisticated Ensemble (Look 98)",
+        "ka": "Sophisticated Ensemble (Look 98)",
+        "hy": "Sophisticated Ensemble (Look 98)",
+        "lv": "Sophisticated Ensemble (Look 98)",
+        "lt": "Sophisticated Ensemble (Look 98)",
+        "pl": "Sophisticated Ensemble (Look 98)",
+        "uk": "Sophisticated Ensemble (Look 98)"
+      },
+      "text": {
+        "ru": "Muni A 0970 дополненный курткой Stelle 0919 и пуловером Cassina 0506.",
+        "en": "Muni A 0970 complemented by the Stelle 0919 jacket and Cassina 0506 pullover.",
+        "ar": "Muni A 0970 complemented by the Stelle 0919 jacket and Cassina 0506 pullover.",
+        "ka": "Muni A 0970 complemented by the Stelle 0919 jacket and Cassina 0506 pullover.",
+        "hy": "Muni A 0970 complemented by the Stelle 0919 jacket and Cassina 0506 pullover.",
+        "lv": "Muni A 0970 complemented by the Stelle 0919 jacket and Cassina 0506 pullover.",
+        "lt": "Muni A 0970 complemented by the Stelle 0919 jacket and Cassina 0506 pullover.",
+        "pl": "Muni A 0970 complemented by the Stelle 0919 jacket and Cassina 0506 pullover.",
+        "uk": "Muni A 0970 complemented by the Stelle 0919 jacket and Cassina 0506 pullover."
+      },
+      "items": [
+        {
+          "name": "Muni A",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/a8acb2c7-9248-46ae-aece-e01b98d4abe6-removebg-preview.png"
+        },
+        {
+          "name": "Stelle",
+          "code": "0919",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/v0SMZo0VQaKGpkN_-N_65w_698883230696f42feb83970_50231303_02821190XX1.jpg"
+        },
+        {
+          "name": "Cassina",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uc1CyVvMRxq35iiNrN6cig_638464507696f437093a2c8_38813856_02831000XX1.jpg",
+          "modelId": 7
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Focus the client's attention on the unique transformability: the detachable fur cuffs allow the Munia dress to adapt from a business office dress code to a formal dinner occasion.",
+      "Emphasise the value of the composition: 100% pure natural merino wool (Lana Vergine) provides exceptional warmth while maintaining a visually lightweight feel.",
+      "Draw attention to the finishing details: the LS buttons and vertical ribbing are hallmarks of 'quiet luxury' that elevate the look without excessive logo display."
+    ],
+    "ru": [
+      "Подчеркните универсальность аксессуара: Muni A одинаково безупречно дополнит как классическое шерстяное пальто, так и более неформальный образ с курткой в стиле casual.",
+      "Сделайте акцент на богатой цветовой палитре, позволяющей подобрать идеальный оттенок для создания монохромного образа или яркого цветового акцента.",
+      "Рекомендуйте Muni A как роскошный и беспроигрышный вариант подарка, олицетворяющий внимание к деталям и верность традициям модного дома Luisa Spagnoli."
+    ],
+    "ar": [
+      "أبرزي تعدد استخدامات الإكسسوار: قطعة Muni A ستكون إضافة مثالية بنفس القدر سواء مع معطف الصوف الكلاسيكي أو مع إطلالة غير رسمية بأسلوب casual.",
+      "ركزي على لوحة الألوان الغنية، التي تتيح اختيار الدرجة المثالية لخلق إطلالة أحادية اللون أو إضافة لمسة لونية جريئة.",
+      "نوصي بقطعة Muni A كخيار هدية فاخر ومضمون، يجسد الاهتمام بالتفاصيل والولاء لتقاليد دار أزياء Luisa Spagnoli."
+    ],
+    "ka": [
+      "ხაზი გაუსვით აქსესუარის უნივერსალურობას: Muni A თანაბრად უნაკლოდ შეავსებს როგორც კლასიკურ შალის პალტოს, ისე უფრო არაფორმალურ, casual სტილის კურტკას.",
+      "გააკეთეთ აქცენტი მდიდარ ფერთა პალიტრაზე, რომელიც იძლევა მონოქრომული ლუქის ან კაშკაშა ფერადი აქცენტის შექმნისთვის იდეალური ტონის შერჩევის საშუალებას.",
+      "ურჩიეთ Muni A როგორც მდიდრული და გარანტირებული საჩუქრის ვარიანტი, რომელიც განასახიერებს დეტალებისადმი ყურადღებას და მოდის სახლ Luisa Spagnoli-ს ტრადიციების ერთგულებას."
+    ],
+    "hy": [
+      "Ընդգծեք աքսեսուարի բազմակողմանիությունը. Muni A-ն անթերի կլրացնի թե՛ դասական բրդյա վերարկուն, թե՛ ավելի ոչ պաշտոնական՝ casual ոճի բաճկոնով կերպարը:",
+      "Շեշտը դրեք հարուստ գունային պալիտրայի վրա, որը թույլ է տալիս ընտրել իդեալական երանգ մոնոքրոմ կերպար կամ վառ գունային շեշտադրում ստեղծելու համար:",
+      "Առաջարկեք Muni A-ն որպես շքեղ և անսխալ նվերի տարբերակ, որը մարմնավորում է ուշադրությունը մանրուքների նկատմամբ և հավատարմությունը Luisa Spagnoli նորաձևության տան ավանդույթներին:"
+    ],
+    "lv": [
+      "Pasvītrojiet aksesuāra daudzpusību: Muni A vienlīdz nevainojami papildinās gan klasisku vilnas mēteli, gan neformālāku tēlu ar casual stila jaku.",
+      "Lieciet uzsvaru uz bagātīgo krāsu paleti, kas ļauj piemeklēt ideālo toni monohroma tēla vai spilgta krāsu akcenta radīšanai.",
+      "Iesakiet Muni A kā greznu un vienmēr veiksmīgu dāvanas variantu, kas iemieso uzmanību detaļām un uzticību modes nama Luisa Spagnoli tradīcijām."
+    ],
+    "lt": [
+      "Pabrėžkite aksesuaro universalumą: Muni A vienodai nepriekaištingai papildys tiek klasikinį vilnonį paltą, tiek neformalesnį įvaizdį su „casual“ stiliaus striuke.",
+      "Akcentuokite turtingą spalvų paletę, leidžiančią parinkti idealų atspalvį monochrominio derinio kūrimui arba ryškiam spalviniam akcentui.",
+      "Rekomenduokite Muni A kaip prabangią ir visada tinkamą dovaną, įkūnijančią dėmesį detalėms ir ištikimybę mados namų Luisa Spagnoli tradicijoms."
+    ],
+    "pl": [
+      "Podkreśl uniwersalność akcesorium: Muni A równie doskonale uzupełni zarówno klasyczny wełniany płaszcz, jak i bardziej nieformalny zestaw z kurtką w stylu casual.",
+      "Połóż nacisk na bogatą paletę kolorystyczną, pozwalającą dobrać idealny odcień do stworzenia monochromatycznej stylizacji lub wyrazistego akcentu kolorystycznego.",
+      "Rekomenduj Muni A jako luksusowy i pewny pomysł na prezent, uosabiający dbałość o detale i wierność tradycjom domu mody Luisa Spagnoli."
+    ],
+    "uk": [
+      "Підкресліть універсальність аксесуара: Muni A однаково бездоганно доповнить як класичне вовняне пальто, так і більш неформальний образ із курткою у стилі casual.",
+      "Зробіть акцент на багатій колірній палітрі, що дозволяє підібрати ідеальний відтінок для створення монохромного образу або яскравого колірного акценту.",
+      "Рекомендуйте Muni A як розкішний і безпрограшний варіант подарунка, що уособлює увагу до деталей та вірність традиціям модного дому Luisa Spagnoli."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Berets don't suit every face shape.",
+        "a": "Explain that thanks to the flexibility of the knit, the Muni A piece can be styled in various ways, adjusting the volume and tilt to flatter any facial shape."
+      },
+      {
+        "q": "The accessory may seem too classic.",
+        "a": "Suggest pairing it with more contemporary pieces from the collection, such as leather trousers or the Stelle jacket, to create a fashion-forward, eclectic look."
+      },
+      {
+        "q": "Wool may cause discomfort.",
+        "a": "Reassure the client of the exceptional quality of the materials used. The yarn undergoes a special treatment to ensure maximum softness and comfort in contact with the skin."
+      },
+      {
+        "q": "Caring for a knitted headpiece seems complex.",
+        "a": "Remind the client that premium Luisa Spagnoli knitwear is durable and holds its shape beautifully with simple, delicate care."
+      },
+      {
+        "q": "The need to match the colour to one's outerwear.",
+        "a": "Demonstrate the styling possibilities: the beret can either softly complement the primary colour or serve as a standalone accent in a contrasting shade."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Береты подходят не каждой форме лица",
+        "a": "Объясните, что благодаря пластичности вязки модель Muni A можно стилизовать по-разному, регулируя объем и наклон, чтобы подчеркнуть достоинства любого типа внешности."
+      },
+      {
+        "q": "Аксессуар может казаться слишком классическим",
+        "a": "Предложите сочетать его с современными элементами коллекции, такими как кожаные брюки или куртка Stelle, чтобы создать актуальный эклектичный образ."
+      },
+      {
+        "q": "Шерсть может вызывать дискомфорт",
+        "a": "Заверьте клиента в высочайшем качестве используемых материалов. Пряжа проходит специальную обработку, чтобы обеспечить максимальную мягкость и комфорт при соприкосновении с кожей."
+      },
+      {
+        "q": "Сложность в уходе за трикотажным головным убором",
+        "a": "Напомните, что премиальный трикотаж Luisa Spagnoli долговечен и прекрасно сохраняет форму при соблюдении простых рекомендаций по деликатному уходу."
+      },
+      {
+        "q": "Необходимость подбора под цвет верхней одежды",
+        "a": "Продемонстрируйте возможности стайлинга: берет может как мягко дополнять основной цвет, так и выступать самостоятельным акцентом в контрастном исполнении."
+      }
+    ],
+    "ar": [
+      {
+        "q": "القبعات (البيريه) لا تناسب كل أشكال الوجوه",
+        "a": "أوضحي أنه بفضل مرونة الحياكة، يمكن تنسيق موديل Muni A بطرق مختلفة، من خلال تعديل الحجم والميل لإبراز جمال أي نوع من تقاسيم الوجه."
+      },
+      {
+        "q": "الإكسسوار قد يبدو كلاسيكياً أكثر من اللازم",
+        "a": "اقترحي تنسيقه مع عناصر عصرية من التشكيلة، مثل سراويل الجلد أو سترة Stelle، لخلق إطلالة انتقائية مواكبة للموضة."
+      },
+      {
+        "q": "الصوف قد يسبب انزعاجاً",
+        "a": "طمئني العميل بالجودة العالية للمواد المستخدمة؛ حيث تخضع الخيوط لمعالجة خاصة لضمان أقصى درجات النعومة والراحة عند ملامستها للجلد."
+      },
+      {
+        "q": "صعوبة العناية بغطاء الرأس التريكو",
+        "a": "ذكّري العميل بأن تريكو Luisa Spagnoli الفاخر متين ويحافظ على شكله بشكل رائع عند اتباع توصيات العناية البسيطة."
+      },
+      {
+        "q": "الحاجة للتنسيق مع لون الملابس الخارجية",
+        "a": "استعرضي إمكانيات التصميم: يمكن للقبعة أن تكمل اللون الأساسي بنعومة أو أن تبرز كعنصر مستقل بتصميم متباين."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ბერეტები ყველას სახის ფორმას არ უხდება",
+        "a": "აუხსენით, რომ ნაქსოვის პლასტიკურობის წყალობით, მოდელი Muni A შეიძლება სხვადასხვანაირად დავაყენოთ, მოცულობისა და დახრის რეგულირებით, რათა ხაზი გავუსვათ გარეგნობის ნებისმიერი ტიპის უპირატესობას."
+      },
+      {
+        "q": "აქსესუარი შესაძლოა ზედმეტად კლასიკურად გამოიყურებოდეს",
+        "a": "შესთავაზეთ მისი შეხამება კოლექციის თანამედროვე ელემენტებთან, როგორიცაა ტყავის შარვალი ან ქურთუკი Stelle, რათა შეიქმნას აქტუალური ეკლექტიკური ლუქი."
+      },
+      {
+        "q": "მატყლმა შესაძლოა დისკომფორტი გამოიწვიოს",
+        "a": "დაარწმუნეთ კლიენტი გამოყენებული მასალების უმაღლეს ხარისხში. ძაფი გადის სპეციალურ დამუშავებას, რათა უზრუნველყოს მაქსიმალური რბილობა და კომფორტი კანთან შეხებისას."
+      },
+      {
+        "q": "ტრიკოტაჟის თავსაბურავის მოვლის სირთულე",
+        "a": "შეახსენეთ, რომ Luisa Spagnoli-ის პრემიუმ ტრიკოტაჟი გამძლეა და დელიკატური მოვლის მარტივი რეკომენდაციების დაცვის შემთხვევაში შესანიშნავად ინარჩუნებს ფორმას."
+      },
+      {
+        "q": "ზედა სამოსის ფერისთვის შეხამების აუცილებლობა",
+        "a": "აჩვენეთ სტაილინგის შესაძლებლობები: ბერეტი შეიძლება როგორც რბილად ავსებდეს ძირითად ფერს, ისე წარმოადგენდეს დამოუკიდებელ აქცენტს კონტრასტულ შესრულებაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բերետները յուրաքանչյուր դեմքի ձևին չեն սազում",
+        "a": "Բացատրեք, որ հյուսվածքի պլաստիկության շնորհիվ Muni A մոդելը կարելի է ոճավորել տարբեր կերպ՝ կարգավորելով ծավալը և թեքությունը, որպեսզի ընդգծվեն արտաքինի ցանկացած տեսակի առավելությունները"
+      },
+      {
+        "q": "Աքսեսուարը կարող է չափազանց դասական թվալ",
+        "a": "Առաջարկեք այն համադրել հավաքածուի ժամանակակից տարրերի հետ, ինչպիսիք են կաշվե տաբատները կամ Stelle բաճկոնը՝ արդիական էկլեկտիկ կերպար ստեղծելու համար"
+      },
+      {
+        "q": "Բուրդը կարող է անհարմարություն առաջացնել",
+        "a": "Հավաստիացրեք հաճախորդին օգտագործվող նյութերի բարձրագույն որակի մասին: Մանվածքն անցնում է հատուկ մշակում՝ մաշկի հետ շփման ժամանակ առավելագույն փափկություն և հարմարավետություն ապահովելու համար"
+      },
+      {
+        "q": "Տրիկոտաժե գլխարկի խնամքի բարդությունը",
+        "a": "Հիշեցրեք, որ պրեմիում դասի Luisa Spagnoli տրիկոտաժը երկարակյաց է և հիանալի պահպանում է իր ձևը՝ նուրբ խնամքի պարզ հանձնարարականները պահպանելու դեպքում"
+      },
+      {
+        "q": "Վերնահագուստի գույնին համապատասխանեցնելու անհրաժեշտություն",
+        "a": "Ցուցադրեք ոճավորման հնարավորությունները՝ բերետը կարող է ինչպես փափուկ լրացնել հիմնական գույնը, այնպես էլ հանդես գալ որպես ինքնուրույն շեշտադրում՝ հակադրվող կատարմամբ"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Beretes nepiestāv katrai sejas formai",
+        "a": "Paskaidrojiet, ka, pateicoties adījuma plastiskumam, Muni A modeli var stilizēt dažādi, regulējot apjomu un slīpumu, lai izceltu jebkura tipa ārienes priekšrocības."
+      },
+      {
+        "q": "Aksesuārs var šķist pārāk klasisks",
+        "a": "Piedāvājiet to kombinēt ar moderniem kolekcijas elementiem, piemēram, ādas biksēm vai Stelle jaku, lai radītu aktuālu eklektisku tēlu."
+      },
+      {
+        "q": "Vilna var izraisīt diskomfortu",
+        "a": "Aplieciniet klientam izmantoto materiālu augstāko kvalitāti. Dzija tiek pakļauta īpašai apstrādei, lai nodrošinātu maksimālu mīkstumu un komfortu saskarē ar ādu."
+      },
+      {
+        "q": "Sarežģītība trikotāžas galvassegas kopšanā",
+        "a": "Atgādiniet, ka Luisa Spagnoli premium trikotāža ir ilgmūžīga un lieliski saglabā formu, ievērojot vienkāršus saudzīgas kopšanas ieteikumus."
+      },
+      {
+        "q": "Nepieciešamība piemeklēt toni virsdrēbēm",
+        "a": "Demonstrējiet stila veidošanas iespējas: berete var gan maigi papildināt pamattoni, gan kalpot kā patstāvīgs akcents kontrastējošā izpildījumā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Beretės tinka ne kiekvienam veido tipui",
+        "a": "Paaiškinkite, kad dėl mezgimo plastiškumo „Muni A“ modelį galima stilizuoti įvairiai, reguliuojant tūrį ir pakrypimą, siekiant pabrėžti bet kokio tipo išvaizdos privalumus."
+      },
+      {
+        "q": "Aksesuaras gali atrodyti pernelyg klasikinis",
+        "a": "Pasiūlykite derinti jį su moderniais kolekcijos elementais, pavyzdžiui, odinėmis kelnėmis ar „Stelle“ striuke, kad sukurtumėte aktualų eklektišką įvaizdį."
+      },
+      {
+        "q": "Vilna gali kelti diskomfortą",
+        "a": "Patikinkite klientą dėl aukščiausios naudojamų medžiagų kokybės. Verpalai yra specialiai apdorojami, siekiant užtikrinti maksimalų minkštumą ir komfortą prisilietus prie odos."
+      },
+      {
+        "q": "Sunkumai prižiūrint megztą galvos apdangalą",
+        "a": "Priminkite, kad aukščiausios klasės „Luisa Spagnoli“ trikotažas yra ilgaamžis ir puikiai išlaiko formą laikantis paprastų švelnios priežiūros rekomendacijų."
+      },
+      {
+        "q": "Būtinybė derinti prie viršutinių drabužių spalvos",
+        "a": "Pademonstruokite stiliaus galimybes: beretė gali tiek švelniai papildyti pagrindinę spalvą, tiek veikti kaip savarankiškas akcentas kontrastingame derinyje."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Berety nie pasują do każdego kształtu twarzy",
+        "a": "Wyjaśnij, że dzięki plastyczności dzianiny model Muni A można stylizować na różne sposoby, regulując objętość i nachylenie, aby podkreślić zalety każdego typu urody."
+      },
+      {
+        "q": "Dodatek może wydawać się zbyt klasyczny",
+        "a": "Zaproponuj połączenie go z nowoczesnymi elementami kolekcji, takimi jak skórzane spodnie lub kurtka Stelle, aby stworzyć aktualny, eklektyczny look."
+      },
+      {
+        "q": "Wełna może powodować dyskomfort",
+        "a": "Zapewnij klientkę o najwyższej jakości użytych materiałów. Przędza przechodzi specjalną obróbkę, aby zapewnić maksymalną miękkość i komfort w kontakcie ze skórą."
+      },
+      {
+        "q": "Trudności w pielęgnacji nakrycia głowy z dzianiny",
+        "a": "Przypomnij, że luksusowa dzianina Luisa Spagnoli jest trwała i doskonale zachowuje fason przy przestrzeganiu prostych zaleceń dotyczących delikatnej pielęgnacji."
+      },
+      {
+        "q": "Konieczność doboru pod kolor odzieży wierzchniej",
+        "a": "Pokaż możliwości stylizacji: beret może zarówno delikatnie uzupełniać główny kolor, jak i stanowić samodzielny akcent w kontrastowym wydaniu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Берети пасують не кожній формі обличчя",
+        "a": "Поясніть, що завдяки пластичності в'язки модель Muni A можна стилізувати по-різному, регулюючи об'єм і нахил, щоб підкреслити переваги будь-якого типу зовнішності."
+      },
+      {
+        "q": "Аксесуар може здаватися занадто класичним",
+        "a": "Запропонуйте поєднувати його із сучасними елементами колекції, такими як шкіряні штани або куртка Stelle, щоб створити актуальний еклектичний образ."
+      },
+      {
+        "q": "Шерсть може викликати дискомфорт",
+        "a": "Запевніть клієнта у найвищій якості використовуваних матеріалів. Пряжа проходить спеціальну обробку, щоб забезпечити максимальну м'якість і комфорт при зіткненні зі шкірою."
+      },
+      {
+        "q": "Складність у догляді за трикотажним головним убором",
+        "a": "Нагадайте, що преміальний трикотаж Luisa Spagnoli довговічний і чудово зберігає форму при дотриманні простих рекомендацій щодо делікатного догляду."
+      },
+      {
+        "q": "Необхідність підбору під колір верхнього одягу",
+        "a": "Продемонструйте можливості стайлінгу: берет може як м'яко доповнювати основний колір, так і виступати самостійним акцентом у контрастному виконанні."
+      }
+    ]
+  }
+}

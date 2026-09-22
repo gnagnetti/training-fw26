@@ -1,0 +1,410 @@
+{
+  "id": 268,
+  "name": "Osiglia",
+  "description": {
+    "en": "The Osiglia trousers are the quintessence of flawless classicism and aristocratic restraint from Luisa Spagnoli. The straight Regular fit piece is crafted from a noble natural-wool-based blend, ensuring exceptional comfort, softness and flawless thermoregulation. Meticulously considered details, such as the zip-and-hook closure and functional side pockets, underscore the high quality of Italian tailoring craftsmanship. These trousers will serve as the ideal foundation for creating elegant everyday ensembles in the 'quiet luxury' style, underscoring their wearer's status and refined taste.",
+    "ru": "Брюки Osiglia — это квинтэссенция безупречной классики и аристократичной сдержанности от Luisa Spagnoli. Модель прямого кроя (Regular fit) выполнена из благородного смесового полотна на основе натуральной шерсти, что обеспечивает исключительный комфорт, мягкость и безупречную терморегуляцию. Тщательно проработанные детали, такие как застежка на молнию и крючок и функциональные боковые карманы, подчеркивают высокое качество итальянского портновского искусства. Эти брюки станут идеальным фундаментом для создания элегантных повседневных ансамблей в стиле «тихой роскоши», подчеркивая статус и утонченный вкус своей обладательницы.",
+    "ar": "تعد سراويل Osiglia خلاصة الكلاسيكية المثالية والوقار الأرستقراطي من Luisa Spagnoli. صُمم هذا الموديل بقصة مستقيمة (Regular fit) من نسيج فاخر مخلوط يعتمد على الصوف الطبيعي، مما يوفر راحة فائقة ونعومة وتنظيماً حرارياً مثالياً. وتؤكد التفاصيل المتقنة، مثل السحاب ومشبك الإغلاق والجيوب الجانبية العملية، على جودة فن الخياطة الإيطالي الرفيع. ستكون هذه السراويل أساساً مثالياً لتنسيق إطلالات يومية أنيقة بأسلوب «الرفاهية الهادئة»، مما يبرز مكانة وذوق من ترتديها.",
+    "ka": "შარვალი Osiglia — ეს არის Luisa Spagnoli-ის უნაკლო კლასიკისა და არისტოკრატული თავშეკავებულობის კვინტესენცია. სწორი კლასიკური წყობის (Regular fit) მოდელი შესრულებულია ნატურალური მატყლის საფუძველზე შექმნილი კეთილშობილური ნაჭრისგან, რაც უზრუნველყოფს განსაკუთრებულ კომფორტს, სირბილესა და თერმორეგულაციას. საგულდაგულოდ დამუშავებული დეტალები, როგორიცაა ელვა-შესაკრავი და კავი, და ფუნქციური გვერდითი ჯიბეები, ხაზს უსვამს იტალიური სამკერვალო ხელოვნების მაღალ ხარისხს. ეს შარვალი გახდება იდეალური საფუძველი „ჩუმი ფუფუნების“ სტილში ელეგანტური ყოველდღიური ანსამბლების შესაქმნელად, რაც ხაზს გაუსვამს მისი მფლობელის სტატუსსა და დახვეწილ გემოვნებას.",
+    "hy": "Osiglia տաբատը Luisa Spagnoli-ի կողմից անթերի դասականության և արիստոկրատական զսպվածության էությունը է։ Ուղիղ կտրվածքով (Regular fit) մոդելը պատրաստված է բնական բրդի հիմքով ազնվական խառը կտավից, որն ապահովում է բացառիկ հարմարավետություն, փափկություն և անթերի ջերմակարգավորում։ Մանրակրկիտ մշակված դետալները, ինչպիսիք են կայծակաճարմանդով և կեռիկով ամրացումը և գործնական կողային գրպանները, ընդգծում են իտալական դերձակային արվեստի բարձր որակը։ Այս տաբատները կդառնան իդեալական հիմք «լուռ շքեղության» ոճով էլեգանտ ամենօրյա անսամբլներ ստեղծելու համար՝ ընդգծելով իր տիրուհու կարգավիճակը և նրբաճաշակությունը։",
+    "lv": "Bikses Osiglia — tā ir nevainojamas klasikas un aristokrātiskas atturības kvintesence no Luisa Spagnoli. Taisna piegriezuma modelis (Regular fit) ir izgatavots no cēla jaukta auduma uz dabīgas vilnas bāzes, kas nodrošina izcilu komfortu, maigumu un nevainojamu termoregulāciju. Rūpīgi izstrādātas detaļas, piemēram, aizdare ar rāvējslēdzēju un āķīti, kā arī funkcionālas sānu kabatas uzsver itāļu drēbniecības mākslas augsto kvalitāti. Šīs bikses kļūs par ideālu pamatu elegantu ikdienas ansambļu radīšanai „klusās greznības” stilā, uzsverot to valkātājas statusu un izsmalcināto gaumi.",
+    "lt": "Osiglia kelnės – tai nepriekaištingos klasikos ir aristokratiško santūrumo kvintesencija iš Luisa Spagnoli. Tiesioginio kirpimo (Regular fit) modelis pagamintas iš kilnaus mišraus audinio natūralios vilnos pagrindu, užtikrinančio išskirtinį komfortą, minkštumą bei nepriekaištingą termoreguliaciją. Kruopščiai ištobulintos detalės, tokios kaip užsegimas užtrauktuku ir kabliuku bei funkcionalios šoninės kišenės, pabrėžia aukštą itališko siuvimo meno kokybę. Šios kelnės taps idealiu pagrindu kuriant elegantiškus kasdienius ansamblius „tylios prabangos“ stiliumi, pabrėžiančiu jų savininkės statusą ir subtilų skonį.",
+    "pl": "Spodnie Osiglia to kwintesencja nienagannej klasyki i arystokratycznego powściągliwości od Luisa Spagnoli. Model o prostym kroju (Regular fit) wykonany jest ze szlachetnej mieszanki tkanin na bazie naturalnej wełny, co zapewnia wyjątkowy komfort, miękkość i doskonałą termoregulację. Starannie dopracowane detale, takie jak zapięcie na zamek i haftkę oraz funkcjonalne kieszenie boczne, podkreślają wysoką jakość włoskiego krawiectwa. Te spodnie staną się idealnym fundamentem do tworzenia eleganckich codziennych stylizacji w stylu „cichego luksusu”, podkreślając status i wyrafinowany gust ich właścicielki.",
+    "uk": "Брюки Osiglia — це квінтесенція бездоганної класики та аристократичної стриманості від Luisa Spagnoli. Модель прямого крою (Regular fit) виконана з благородного сумішевого полотна на основі натуральної вовни, що забезпечує винятковий комфорт, м'якість та бездоганну терморегуляцію. Ретельно опрацьовані деталі, такі як застібка на блискавку та гачок і функціональні бічні кишені, підкреслюють високу якість італійського кравецького мистецтва. Ці брюки стануть ідеальним фундаментом для створення елегантних повсякденних ансамблів у стилі «тихої розкоші», підкреслюючи статус та витончений смак своєї власниці."
+  },
+  "colors": [
+    {
+      "name": "Grigio Melange",
+      "code": "0813",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/V6I6t7rMSfSpweLXwS5YdQ_642419012696f43097cadc6_38892119_02821470XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 60",
+        "en": "Total Look 60",
+        "ar": "Total Look 60",
+        "ka": "Total Look 60",
+        "hy": "Total Look 60",
+        "lv": "Total Look 60",
+        "lt": "Total Look 60",
+        "pl": "Total Look 60",
+        "uk": "Total Look 60"
+      },
+      "text": {
+        "ru": "Брюки Osiglia 0813 в изысканном сочетании с рубашкой Ladulas 0813, пуловером Manos 0821 и сумкой Elegante Intuito 0903 0002 (Данные об URL отсутствуют в официальных источниках).",
+        "en": "Trousers Osiglia 0813 in an exquisite combination with shirt Ladulas 0813, pullover Manos 0821 and bag Elegante Intuito 0903 0002 (URL data missing in official sources).",
+        "ar": "Trousers Osiglia 0813 in an exquisite combination with shirt Ladulas 0813, pullover Manos 0821 and bag Elegante Intuito 0903 0002 (URL data missing in official sources).",
+        "ka": "Trousers Osiglia 0813 in an exquisite combination with shirt Ladulas 0813, pullover Manos 0821 and bag Elegante Intuito 0903 0002 (URL data missing in official sources).",
+        "hy": "Trousers Osiglia 0813 in an exquisite combination with shirt Ladulas 0813, pullover Manos 0821 and bag Elegante Intuito 0903 0002 (URL data missing in official sources).",
+        "lv": "Trousers Osiglia 0813 in an exquisite combination with shirt Ladulas 0813, pullover Manos 0821 and bag Elegante Intuito 0903 0002 (URL data missing in official sources).",
+        "lt": "Trousers Osiglia 0813 in an exquisite combination with shirt Ladulas 0813, pullover Manos 0821 and bag Elegante Intuito 0903 0002 (URL data missing in official sources).",
+        "pl": "Trousers Osiglia 0813 in an exquisite combination with shirt Ladulas 0813, pullover Manos 0821 and bag Elegante Intuito 0903 0002 (URL data missing in official sources).",
+        "uk": "Trousers Osiglia 0813 in an exquisite combination with shirt Ladulas 0813, pullover Manos 0821 and bag Elegante Intuito 0903 0002 (URL data missing in official sources)."
+      },
+      "items": [
+        {
+          "name": "Osiglia",
+          "code": "0813",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/V6I6t7rMSfSpweLXwS5YdQ_642419012696f43097cadc6_38892119_02821470XX1.jpg"
+        },
+        {
+          "name": "Ladulas",
+          "code": "0813",
+          "imageUrl": null
+        },
+        {
+          "name": "Manos",
+          "code": "0821",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+        },
+        {
+          "name": "Intuito",
+          "code": "0903 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sophisticated Heritage (Look 64)",
+        "en": "Sophisticated Heritage (Look 64)",
+        "ar": "Sophisticated Heritage (Look 64)",
+        "ka": "Sophisticated Heritage (Look 64)",
+        "hy": "Sophisticated Heritage (Look 64)",
+        "lv": "Sophisticated Heritage (Look 64)",
+        "lt": "Sophisticated Heritage (Look 64)",
+        "pl": "Sophisticated Heritage (Look 64)",
+        "uk": "Sophisticated Heritage (Look 64)"
+      },
+      "text": {
+        "ru": "Сочетание Osiglia 0813 с рубашкой Ladulas 0813, кепкой Renno 0814 и сумкой Idilliaco 0101 0002.",
+        "en": "A combination of Osiglia 0813 with shirt Ladulas 0813, cap Renno 0814 and bag Idilliaco 0101 0002.",
+        "ar": "A combination of Osiglia 0813 with shirt Ladulas 0813, cap Renno 0814 and bag Idilliaco 0101 0002.",
+        "ka": "A combination of Osiglia 0813 with shirt Ladulas 0813, cap Renno 0814 and bag Idilliaco 0101 0002.",
+        "hy": "A combination of Osiglia 0813 with shirt Ladulas 0813, cap Renno 0814 and bag Idilliaco 0101 0002.",
+        "lv": "A combination of Osiglia 0813 with shirt Ladulas 0813, cap Renno 0814 and bag Idilliaco 0101 0002.",
+        "lt": "A combination of Osiglia 0813 with shirt Ladulas 0813, cap Renno 0814 and bag Idilliaco 0101 0002.",
+        "pl": "A combination of Osiglia 0813 with shirt Ladulas 0813, cap Renno 0814 and bag Idilliaco 0101 0002.",
+        "uk": "A combination of Osiglia 0813 with shirt Ladulas 0813, cap Renno 0814 and bag Idilliaco 0101 0002."
+      },
+      "items": [
+        {
+          "name": "Osiglia",
+          "code": "0813",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/V6I6t7rMSfSpweLXwS5YdQ_642419012696f43097cadc6_38892119_02821470XX1.jpg"
+        },
+        {
+          "name": "Ladulas",
+          "code": "0813",
+          "imageUrl": null
+        },
+        {
+          "name": "Renno",
+          "code": "0814",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57693e01-fdb6-4b56-a73b-26c4b4d8ce61.jpg"
+        },
+        {
+          "name": "Idilliaco",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_10100020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Urban Elegance (Look 65)",
+        "en": "Urban Elegance (Look 65)",
+        "ar": "Urban Elegance (Look 65)",
+        "ka": "Urban Elegance (Look 65)",
+        "hy": "Urban Elegance (Look 65)",
+        "lv": "Urban Elegance (Look 65)",
+        "lt": "Urban Elegance (Look 65)",
+        "pl": "Urban Elegance (Look 65)",
+        "uk": "Urban Elegance (Look 65)"
+      },
+      "text": {
+        "ru": "Osiglia 0813 дополнены пуловером Meritare 0823, рубашкой Ladulas 0813 и сумкой Idilliaco 0101 0002.",
+        "en": "Osiglia 0813 complemented by pullover Meritare 0823, shirt Ladulas 0813 and bag Idilliaco 0101 0002.",
+        "ar": "Osiglia 0813 complemented by pullover Meritare 0823, shirt Ladulas 0813 and bag Idilliaco 0101 0002.",
+        "ka": "Osiglia 0813 complemented by pullover Meritare 0823, shirt Ladulas 0813 and bag Idilliaco 0101 0002.",
+        "hy": "Osiglia 0813 complemented by pullover Meritare 0823, shirt Ladulas 0813 and bag Idilliaco 0101 0002.",
+        "lv": "Osiglia 0813 complemented by pullover Meritare 0823, shirt Ladulas 0813 and bag Idilliaco 0101 0002.",
+        "lt": "Osiglia 0813 complemented by pullover Meritare 0823, shirt Ladulas 0813 and bag Idilliaco 0101 0002.",
+        "pl": "Osiglia 0813 complemented by pullover Meritare 0823, shirt Ladulas 0813 and bag Idilliaco 0101 0002.",
+        "uk": "Osiglia 0813 complemented by pullover Meritare 0823, shirt Ladulas 0813 and bag Idilliaco 0101 0002."
+      },
+      "items": [
+        {
+          "name": "Osiglia",
+          "code": "0813",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/V6I6t7rMSfSpweLXwS5YdQ_642419012696f43097cadc6_38892119_02821470XX1.jpg"
+        },
+        {
+          "name": "Meritare",
+          "code": "0823",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1244194360691f156e0b6c67_05072027_02780750XX1.jpg",
+          "modelId": 443
+        },
+        {
+          "name": "Ladulas",
+          "code": "0813",
+          "imageUrl": null
+        },
+        {
+          "name": "Idilliaco",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_10100020000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the fabric composition: 60% natural wool guarantees not only a noble appearance but also lasting durability, making it a worthwhile wardrobe investment.",
+      "Emphasise the versatility of the Regular fit and straight silhouette: a time-proven solution that visually slims the legs and suits any figure type.",
+      "Recommend the Grigio Melange shade as a flawless foundation: this nuanced grey is a symbol of 'quiet luxury' and pairs effortlessly with both the pastel and richly saturated tones of the collection."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на составе ткани: 60% натуральной шерсти гарантируют не только благородный вид, но и долговечность изделия, делая его выгодной инвестицией в гардероб.",
+      "Подчеркните универсальность кроя Regular fit и прямого силуэта: это проверенное временем решение, которое визуально стройнит ноги и подходит для любого типа фигуры.",
+      "Рекомендуйте оттенок Grigio Melange как безупречную базу: этот сложный серый цвет является символом 'тихой роскоши' и легко комбинируется как с пастельными, так и с насыщенными цветами коллекции."
+    ],
+    "ar": [
+      "ركزي انتباه العميل على تركيبة القماش: فالصوف الطبيعي بنسبة 60% يضمن مظهراً راقياً ومتانة للمنتج، مما يجعله استثماراً قيماً في خزانة ملابسك.",
+      "أبرزي تعدد استخدامات قصة Regular fit والقصة المستقيمة: فهي حل أثبت كفاءته عبر الزمن، ينحف الساقين بصرياً ويناسب أي شكل للجسم.",
+      "رشحي درجة Grigio Melange كأساس مثالي: فهذا اللون الرمادي المتطور هو رمز لـ 'الفخامة الهادئة' ويتماشى بسهولة مع الألوان الباستيلية والألوان الجريئة في التشكيلة."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება ქსოვილის შემადგენლობაზე: 60% ნატურალური მატყლი უზრუნველყოფს არა მხოლოდ დახვეწილ იერსახეს, არამედ ნაკეთობის გამძლეობას, რაც მას გარდერობისთვის მომგებიან ინვესტიციად აქცევს.",
+      "ხაზი გაუსვით Regular fit-ის ჭრისა და სწორი სილუეტის უნივერსალურობას: ეს არის დროში გამოცდილი გადაწყვეტა, რომელიც ვიზუალურად ალამაზებს ფეხებს და შეესაბამება ნებისმიერი ტიპის ფიგურას.",
+      "რეკომენდაცია გაუწიეთ Grigio Melange-ის ელფერს, როგორც უნაკლო ბაზას: ეს რთული ნაცრისფერი ფერი 'ჩუმი ფუფუნების' სიმბოლოა და მარტივად კომბინირდება როგორც პასტელურ, ისე კოლექციის მკვეთრ ფერებთან."
+    ],
+    "hy": [
+      "Շեշտադրեք հաճախորդի ուշադրությունը գործվածքի բաղադրության վրա. 60% բնական բուրդը երաշխավորում է ոչ միայն ազնվական տեսք, այլև հագուստի երկարակեցություն՝ դարձնելով այն շահավետ ներդրում զգեստապահարանում։",
+      "Ընդգծեք Regular fit ձևվածքի և ուղիղ ուրվագծի ունիվերսալությունը. սա ժամանակի ընթացքում ստուգված լուծում է, որը վիզուալ ձգում է ոտքերը և հարմար է ցանկացած տեսակի կազմվածքի։",
+      "Առաջարկեք Grigio Melange երանգը որպես անթերի բազա. այս բարդ մոխրագույնը «լուռ շքեղության» խորհրդանիշ է և հեշտությամբ համադրվում է ինչպես պաստելային, այնպես էլ հավաքածուի հագեցած գույների հետ։"
+    ],
+    "lv": [
+      "Akcentējiet klienta uzmanību uz auduma sastāvu: 60% dabīgas vilnas garantē ne tikai cēlu izskatu, bet arī izstrādājuma ilgmūžību, padarot to par izdevīgu investīciju garderobē.",
+      "Uzsveriet Regular fit piegriezuma un taisnā silueta daudzpusību: tas ir laika pārbaudīts risinājums, kas vizuāli padara kājas slaidākas un ir piemērots jebkuram figūras tipam.",
+      "Rekomendējiet Grigio Melange toni kā nevainojamu bāzi: šī sarežģītā pelēkā krāsa ir 'klusās luksusa' simbols un viegli kombinējas gan ar pasteļtoņiem, gan ar kolekcijas piesātinātajām krāsām."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į audinio sudėtį: 60 % natūralios vilnos garantuoja ne tik kilnią išvaizdą, bet ir gaminio ilgaamžiškumą, todėl tai yra naudinga investicija į garderobą.",
+      "Pabrėžkite „Regular fit“ kirpimo ir tiesaus silueto universalumą: tai laiko patikrintas sprendimas, kuris vizualiai lieknina kojas ir tinka bet kokio tipo figūrai.",
+      "Rekomenduokite Grigio Melange atspalvį kaip nepriekaištingą pagrindą: ši sudėtinga pilka spalva yra „tyliosios prabangos“ simbolis ir lengvai dera tiek su pastelinėmis, tiek su ryškiomis kolekcijos spalvomis."
+    ],
+    "pl": [
+      "Skup uwagę klienta na składzie tkaniny: 60% naturalnej wełny gwarantuje nie tylko szlachetny wygląd, ale także trwałość produktu, czyniąc go korzystną inwestycją w garderobę.",
+      "Podkreśl uniwersalność kroju Regular fit i prostego sylwetki: to sprawdzone przez czas rozwiązanie, które optycznie wyszczupla nogi i pasuje do każdego typu sylwetki.",
+      "Rekomenduj odcień Grigio Melange jako nieskazitelną bazę: ten złożony szary kolor jest symbolem 'cichego luksusu' i łatwo łączy się zarówno z pastelowymi, jak i nasyconymi kolorami kolekcji."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на складі тканини: 60% натуральної вовни гарантують не лише шляхетний вигляд, а й довговічність виробу, роблячи його вигідною інвестицією в гардероб.",
+      "Підкресліть універсальність крою Regular fit та прямого силуету: це перевірене часом рішення, яке візуально стрункішає ноги та підходить для будь-якого типу фігури.",
+      "Рекомендуйте відтінок Grigio Melange як бездоганну базу: цей складний сірий колір є символом 'тихої розкоші' та легко комбінується як із пастельними, так і з насиченими кольорами колекції."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Wool may be demanding to care for and may crease.",
+        "a": "Clarify that the addition of 38% polyester is specifically intended to help the trousers hold their shape better, crease less throughout the day, and offer greater durability."
+      },
+      {
+        "q": "A classic straight cut may look too formal.",
+        "a": "Demonstrate contemporary styling options from the lookbook, such as pairing them with the Renno cap and soft knitwear, to lend the look a dynamic, urban character."
+      },
+      {
+        "q": "The trousers may seem too thin for winter.",
+        "a": "Point out the high wool content (60%), which offers excellent thermal-insulation properties, ensuring comfort in the cold season without unnecessary bulk."
+      },
+      {
+        "q": "Difficulty finding suitable footwear.",
+        "a": "Thanks to the classic regular-fit leg width, the Osiglia style pairs beautifully with both elegant heeled ankle boots and more masculine loafers."
+      },
+      {
+        "q": "The Grigio Melange colour seems insufficiently dressy.",
+        "a": "Explain to the client that the melange texture lends the fabric depth and a luxurious sheen, transforming grey trousers into a refined piece suitable even for evening occasions when paired with a silk blouse."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шерсть может требовать сложного ухода и мяться",
+        "a": "Поясните, что добавление 38% полиэстера специально предусмотрено для того, чтобы брюки лучше сохраняли форму, меньше мялись в течение дня и были более износостойкими."
+      },
+      {
+        "q": "Прямой классический крой может выглядеть слишком официально",
+        "a": "Продемонстрируйте современные варианты стилизации из лукбука, например, сочетание с кепкой Renno и мягким трикотажем, чтобы придать образу динамичный городской характер."
+      },
+      {
+        "q": "Брюки могут казаться слишком тонкими для зимы",
+        "a": "Укажите на высокое содержание шерсти (60%), которая обладает отличными теплоизоляционными свойствами, обеспечивая комфорт в холодный сезон без лишнего объема."
+      },
+      {
+        "q": "Сложность в выборе подходящей обуви",
+        "a": "Благодаря классической ширине штанины Regular fit, модель Osiglia идеально сочетается как с изящными ботильонами на каблуке, так и с более маскулинными лоферами."
+      },
+      {
+        "q": "Цвет Grigio Melange кажется недостаточно нарядным",
+        "a": "Объясните клиенту, что меланжевая фактура придает ткани глубину и дорогое сияние, превращая серые брюки в изысканный элемент даже для вечерних выходов в сочетании с шелковой блузой."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يتطلب الصوف عناية معقدة ويكون عرضة للتجعد",
+        "a": "وضحي أن إضافة 38% من البوليستر مصممة خصيصاً لجعل السراويل تحافظ على قوامها بشكل أفضل، وتتعرض لتجعد أقل خلال اليوم، وتكون أكثر مقاومة للاهتراء."
+      },
+      {
+        "q": "القصة المستقيمة الكلاسيكية قد تبدو رسمية أكثر من اللازم",
+        "a": "استعرضي خيارات تنسيق عصرية من كتاب الإطلالات، مثل تنسيقها مع قبعة Renno وقطعة تريكو ناعمة لإضفاء طابع حيوي وجذاب."
+      },
+      {
+        "q": "قد تبدو السراويل رقيقة جداً لفصل الشتاء",
+        "a": "أشيري إلى المحتوى العالي من الصوف (60%)، الذي يتميز بخصائص عزل حراري ممتازة، مما يضمن الراحة في الموسم البارد دون أي حجم إضافي."
+      },
+      {
+        "q": "صعوبة اختيار الأحذية المناسبة",
+        "a": "بفضل عرض القصة الكلاسيكي Regular fit، يتناسب طراز Osiglia بشكل مثالي مع الأحذية الأنيقة ذات الكعب العالي أو الأحذية المسطحة الأكثر ذكورية."
+      },
+      {
+        "q": "لون Grigio Melange يبدو غير كافٍ للمناسبات",
+        "a": "اشرحي للعميلة أن نسيج الميلانج يمنح القماش عمقاً ولمعاناً فخماً، مما يحول السراويل الرمادية إلى قطعة متطورة حتى للمناسبات المسائية عند تنسيقها مع بلوزة من الحرير."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მატყლი შეიძლება მოითხოვდეს რთულ მოვლას და ჭმუჭნებოდეს",
+        "a": "განუმარტეთ, რომ 38% პოლიესტერის დამატება სპეციალურად იმისთვისაა გათვლილი, რომ შარვალმა უკეთ შეინარჩუნოს ფორმა, დღის განმავლობაში ნაკლებად დაიჭმუჭნოს და იყოს უფრო მდგრადი ცვეთის მიმართ."
+      },
+      {
+        "q": "სწორკუთხა კლასიკური ჭრა შეიძლება ზედმეტად ოფიციალურად გამოიყურებოდეს",
+        "a": "აჩვენეთ სტილიზების თანამედროვე ვარიანტები ლუქბუქიდან, მაგალითად, Renno-ს კეპთან და რბილ ტრიკოტაჟთან კომბინაცია, რათა იმიჯს დინამიური ურბანული ხასიათი შესძინოთ."
+      },
+      {
+        "q": "შარვალი შესაძლოა ზამთრისთვის ზედმეტად თხელი გეჩვენოთ",
+        "a": "მიუთითეთ მატყლის მაღალ შემცველობაზე (60%), რომელსაც გააჩნია შესანიშნავი თბოიზოლაციური თვისებები, რაც უზრუნველყოფს კომფორტს ცივ სეზონში ზედმეტი მოცულობის გარეშე."
+      },
+      {
+        "q": "შესაფერისი ფეხსაცმლის შერჩევის სირთულე",
+        "a": "შარვლის კლასიკური სიგანის (Regular fit) წყალობით, მოდელი Osiglia იდეალურად ეხამება როგორც დახვეწილ ქუსლიან ბოტილიონებს, ისე უფრო მასკულინურ ლოფერებს."
+      },
+      {
+        "q": "ფერი Grigio Melange არ გეჩვენებათ საკმარისად სადღესასწაულოდ",
+        "a": "აუხსენით კლიენტს, რომ მელანჟის ფაქტურა ქსოვილს ანიჭებს სიღრმესა და ძვირფას ბზინვარებას, რაც ნაცრისფერ შარვალს დახვეწილ ელემენტად აქცევს საღამოს გასვლებისთვისაც კი, აბრეშუმის ბლუზთან შეხამებისას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բուրդը կարող է պահանջել բարդ խնամք և կնճռոտվել",
+        "a": "Պարզաբանեք, որ 38% պոլիեսթերի ավելացումը հատուկ նախատեսված է այն բանի համար, որ տաբատն ավելի լավ պահպանի իր ձևը, ավելի քիչ կնճռոտվի օրվա ընթացքում և լինի ավելի դիմացկուն"
+      },
+      {
+        "q": "Ուղիղ դասական կտրվածքը կարող է չափազանց պաշտոնական թվալ",
+        "a": "Ցույց տվեք լուքբուքից ոճավորման ժամանակակից տարբերակներ, օրինակ՝ Renno գլխարկի և փափուկ տրիկոտաժի հետ համադրությունը՝ կերպարին դինամիկ քաղաքային բնույթ հաղորդելու համար"
+      },
+      {
+        "q": "Տաբատը կարող է չափազանց բարակ թվալ ձմռան համար",
+        "a": "Նշեք բրդի բարձր պարունակությունը (60%), որն ունի ջերմամեկուսացման հիանալի հատկություններ՝ ապահովելով հարմարավետություն ցուրտ եղանակին առանց ավելորդ ծավալի"
+      },
+      {
+        "q": "Հարմար կոշիկ ընտրելու բարդությունը",
+        "a": "Regular fit տաբատի դասական լայնության շնորհիվ Osiglia մոդելը իդեալականորեն համադրվում է ինչպես կրունկավոր նրբագեղ կոշիկների, այնպես էլ ավելի տղամարդկային լոֆերների հետ"
+      },
+      {
+        "q": "Grigio Melange գույնը բավականաչափ տոնական չի թվում",
+        "a": "Բացատրեք հաճախորդին, որ մելանժային ֆակտուրան գործվածքին հաղորդում է խորություն և թանկարժեք փայլ՝ վերածելով մոխրագույն տաբատը նուրբ տարրի նույնիսկ երեկոյան ելքերի համար՝ մետաքսե բլուզի հետ համադրությամբ"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vilnai var būt nepieciešama sarežģīta kopšana un tā var burzīties",
+        "a": "Paskaidrojiet, ka 38% poliestera pievienošana ir īpaši paredzēta tam, lai bikses labāk saglabātu formu, mazāk burzītos dienas laikā un būtu izturīgākas."
+      },
+      {
+        "q": "Taisns klasiskais piegriezums var izskatīties pārāk oficiāli",
+        "a": "Demonstrējiet mūsdienīgus stilizācijas variantus no lookbook, piemēram, kombināciju ar Renno cepuri un mīkstu trikotāžu, lai piešķirtu tēlam dinamisku pilsētas raksturu."
+      },
+      {
+        "q": "Bikses var šķist pārāk plānas ziemai",
+        "a": "Norādiet uz augsto vilnas saturu (60%), kurai piemīt lieliskas siltumizolācijas īpašības, nodrošinot komfortu aukstajā sezonā bez lieka apjoma."
+      },
+      {
+        "q": "Grūtības izvēlēties piemērotus apavus",
+        "a": "Pateicoties klasiskajam staru platumam Regular fit, Osiglia modelis lieliski sader gan ar izsmalcinātām potīšzābakiem uz papēža, gan ar vīrišķīgāka stila loferiem."
+      },
+      {
+        "q": "Grigio Melange krāsa šķiet nepietiekami svinīga",
+        "a": "Paskaidrojiet klientam, ka melanža faktūra piešķir audumam dziļumu un dārgu mirdzumu, pārvēršot pelēkās bikses par izsmalcinātu elementu pat vakara izgājieniem kombinācijā ar zīda blūzi."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Vilna gali reikalauti sudėtingos priežiūros ir glamžytis",
+        "a": "Paaiškinkite, kad 38% poliesterio priemaiša specialiai sukurta tam, kad kelnės geriau išlaikytų formą, mažiau glamžytųsi per dieną ir būtų atsparesnės dėvėjimuisi."
+      },
+      {
+        "q": "Tiesus klasikinis kirpimas gali atrodyti per daug oficialiai",
+        "a": "Pademonstruokite šiuolaikiškus derinimo variantus iš „lookbook“ katalogo, pavyzdžiui, derinį su Renno kepure ir minkštu trikotažu, kad įvaizdžiui suteiktumėte dinamišką miesto stilių."
+      },
+      {
+        "q": "Kelnės gali atrodyti per plonos žiemai",
+        "a": "Nurodykite didelį vilnos kiekį (60%), kuri pasižymi puikiomis termoizoliacinėmis savybėmis, užtikrindama komfortą šaltuoju sezonu be papildomos apimties."
+      },
+      {
+        "q": "Sudėtinga išsirinkti tinkamą avalynę",
+        "a": "Dėl klasikinio klešnės pločio Regular fit, modelis Osiglia idealiai dera tiek su grakščiais aulinukais aukštakulniais, tiek su vyriško stiliaus loaferiais."
+      },
+      {
+        "q": "Grigio Melange spalva atrodo nepakankamai puošniai",
+        "a": "Paaiškinkite klientui, kad melanžinė faktūra suteikia audiniui gylio ir prabangaus žvilgesio, paversdama pilkas kelnes rafinuotu elementu net ir vakariniams išėjimams, derinant su šilkine palaidine."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wełna może wymagać skomplikowanej pielęgnacji i gnieść się",
+        "a": "Wyjaśnij, że dodatek 38% poliestru został specjalnie przewidziany w celu lepszego zachowania kształtu spodni, mniejszego gniecenia się w ciągu dnia oraz zwiększenia ich odporności na zużycie."
+      },
+      {
+        "q": "Prosty klasyczny krój może wyglądać zbyt oficjalnie",
+        "a": "Zaprezentuj nowoczesne warianty stylizacji z lookbooka, na przykład zestawienie z czapką Renno i miękką dzianiną, aby nadać wizerunkowi dynamiczny, miejski charakter."
+      },
+      {
+        "q": "Spodnie mogą wydawać się zbyt cienkie na zimę",
+        "a": "Wskaż na wysoką zawartość wełny (60%), która posiada doskonałe właściwości termoizolacyjne, zapewniając komfort w chłodnym sezonie bez zbędnej objętości."
+      },
+      {
+        "q": "Trudność w doborze odpowiedniego obuwia",
+        "a": "Dzięki klasycznej szerokości nogawki Regular fit, model Osiglia idealnie komponuje się zarówno z eleganckimi botkami na obcasie, jak i z bardziej męskimi mokasynami."
+      },
+      {
+        "q": "Kolor Grigio Melange wydaje się niezbyt wystawny",
+        "a": "Wyjaśnij klientce, że melanżowa faktura nadaje tkaninie głębię i kosztowny blask, zmieniając szare spodnie w wyrafinowany element nawet wieczorowych wyjść w zestawieniu z jedwabną bluzką."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Вовна може потребувати складного догляду та м’ятися",
+        "a": "Поясніть, що додавання 38% поліестеру спеціально передбачено для того, щоб брюки краще зберігали форму, менше м’ялися протягом дня та були більш зносостійкими."
+      },
+      {
+        "q": "Прямий класичний крій може виглядати занадто офіційно",
+        "a": "Продемонструйте сучасні варіанти стилізації з лукбуку, наприклад, поєднання з кепкою Renno та м’яким трикотажем, щоб надати образу динамічного міського характеру."
+      },
+      {
+        "q": "Брюки можуть здаватися занадто тонкими для зими",
+        "a": "Вкажіть на високий вміст вовни (60%), яка володіє відмінними теплоізоляційними властивостями, забезпечуючи комфорт у холодний сезон без зайвого об’єму."
+      },
+      {
+        "q": "Складність у виборі відповідного взуття",
+        "a": "Завдяки класичній ширині штанини Regular fit, модель Osiglia ідеально поєднується як із витонченими ботильйонами на підборах, так і з більш маскулінними лоферами."
+      },
+      {
+        "q": "Колір Grigio Melange здається недостатньо ошатним",
+        "a": "Поясніть клієнту, що меланжева фактура надає тканині глибини та дорогого сяйва, перетворюючи сірі брюки на вишуканий елемент навіть для вечірніх виходів у поєднанні з шовковою блузою."
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "id": 306,
+  "name": "Scoprire",
+  "description": {
+    "en": "Data not available in official sources.",
+    "ru": "Данные отсутствуют в официальных источниках",
+    "ar": "البيانات غير متوفرة في المصادر الرسمية",
+    "ka": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+    "hy": "Տվյալները բացակայում են պաշտոնական աղբյուրներում",
+    "lv": "Oficiālajos avotos dati nav pieejami",
+    "lt": "Duomenų oficialiuose šaltiniuose nėra",
+    "pl": "Dane niedostępne w oficjalnych źródłach",
+    "uk": "Дані відсутні в офіційних джерелах"
+  },
+  "colors": [
+    {
+      "name": "Nero Visone",
+      "code": "0101 0989",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-6KdKxirSmiVRYl7WOAhvg_26649427696f430a3da358_88679153_02821480XX1.jpg"
+    },
+    {
+      "name": "Tortora Tortora",
+      "code": "2712 2712",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/lKqGNM1tQte9sZoxxMIz-Q_868057012696f42f4183f64_90266146_02820930XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 'City Winter' (Look 164)",
+        "en": "Total Look 'City Winter' (Look 164)",
+        "ar": "Total Look 'City Winter' (Look 164)",
+        "ka": "Total Look 'City Winter' (Look 164)",
+        "hy": "Total Look 'City Winter' (Look 164)",
+        "lv": "Total Look 'City Winter' (Look 164)",
+        "lt": "Total Look 'City Winter' (Look 164)",
+        "pl": "Total Look 'City Winter' (Look 164)",
+        "uk": "Total Look 'City Winter' (Look 164)"
+      },
+      "text": {
+        "ru": "Эффектный пуховик Scoprire 0101 0989 дополнен базовым пуловером Manos F 0101 и джинсами Olibis 1088. Образ завершают сапоги Ulisside 0101 0038, серьги Nagorno 0002, кожаные перчатки Uboldo 0101 0002 и очки Xnina A 0101 0002.",
+        "en": "Striking Scoprire 0101 0989 down jacket complemented by a basic Manos F 0101 pullover and Olibis 1088 jeans. The look is finished with Ulisside 0101 0038 boots, Nagorno 0002 earrings, Uboldo 0101 0002 leather gloves and Xnina A 0101 0002 glasses.",
+        "ar": "Striking Scoprire 0101 0989 down jacket complemented by a basic Manos F 0101 pullover and Olibis 1088 jeans. The look is finished with Ulisside 0101 0038 boots, Nagorno 0002 earrings, Uboldo 0101 0002 leather gloves and Xnina A 0101 0002 glasses.",
+        "ka": "Striking Scoprire 0101 0989 down jacket complemented by a basic Manos F 0101 pullover and Olibis 1088 jeans. The look is finished with Ulisside 0101 0038 boots, Nagorno 0002 earrings, Uboldo 0101 0002 leather gloves and Xnina A 0101 0002 glasses.",
+        "hy": "Striking Scoprire 0101 0989 down jacket complemented by a basic Manos F 0101 pullover and Olibis 1088 jeans. The look is finished with Ulisside 0101 0038 boots, Nagorno 0002 earrings, Uboldo 0101 0002 leather gloves and Xnina A 0101 0002 glasses.",
+        "lv": "Striking Scoprire 0101 0989 down jacket complemented by a basic Manos F 0101 pullover and Olibis 1088 jeans. The look is finished with Ulisside 0101 0038 boots, Nagorno 0002 earrings, Uboldo 0101 0002 leather gloves and Xnina A 0101 0002 glasses.",
+        "lt": "Striking Scoprire 0101 0989 down jacket complemented by a basic Manos F 0101 pullover and Olibis 1088 jeans. The look is finished with Ulisside 0101 0038 boots, Nagorno 0002 earrings, Uboldo 0101 0002 leather gloves and Xnina A 0101 0002 glasses.",
+        "pl": "Striking Scoprire 0101 0989 down jacket complemented by a basic Manos F 0101 pullover and Olibis 1088 jeans. The look is finished with Ulisside 0101 0038 boots, Nagorno 0002 earrings, Uboldo 0101 0002 leather gloves and Xnina A 0101 0002 glasses.",
+        "uk": "Striking Scoprire 0101 0989 down jacket complemented by a basic Manos F 0101 pullover and Olibis 1088 jeans. The look is finished with Ulisside 0101 0038 boots, Nagorno 0002 earrings, Uboldo 0101 0002 leather gloves and Xnina A 0101 0002 glasses."
+      },
+      "items": [
+        {
+          "name": "Scoprire",
+          "code": "0101 0989",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-6KdKxirSmiVRYl7WOAhvg_26649427696f430a3da358_88679153_02821480XX1.jpg"
+        },
+        {
+          "name": "Manos F",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Olibis",
+          "code": "1088",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e85a8ef9-0175-442b-b5a7-cf782a9e05a2-removebg-preview.png",
+          "modelId": 454
+        },
+        {
+          "name": "Ulisside",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+        },
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG",
+          "modelId": 198
+        },
+        {
+          "name": "Uboldo",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281022%29.png"
+        },
+        {
+          "name": "Xnina A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-10%20at%2014.20.26%20%281%29.jpeg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 'Elegant Dove' (Look 198)",
+        "en": "Total Look 'Elegant Dove' (Look 198)",
+        "ar": "Total Look 'Elegant Dove' (Look 198)",
+        "ka": "Total Look 'Elegant Dove' (Look 198)",
+        "hy": "Total Look 'Elegant Dove' (Look 198)",
+        "lv": "Total Look 'Elegant Dove' (Look 198)",
+        "lt": "Total Look 'Elegant Dove' (Look 198)",
+        "pl": "Total Look 'Elegant Dove' (Look 198)",
+        "uk": "Total Look 'Elegant Dove' (Look 198)"
+      },
+      "text": {
+        "ru": "Пуховик в благородном оттенке Scoprire 2712 2712 в ансамбле с топом Costanzo 1111, вельветовыми брюками Olap 1119 и ботильонами Urbana 0981. Изысканный акцент — колье Nuevitas 0002 0001.",
+        "en": "Down jacket in a noble shade Scoprire 2712 2712 in an ensemble with the Costanzo 1111 top, corduroy Olap 1119 trousers and Urbana 0981 ankle boots. Exquisite accent — Nuevitas 0002 0001 necklace.",
+        "ar": "Down jacket in a noble shade Scoprire 2712 2712 in an ensemble with the Costanzo 1111 top, corduroy Olap 1119 trousers and Urbana 0981 ankle boots. Exquisite accent — Nuevitas 0002 0001 necklace.",
+        "ka": "Down jacket in a noble shade Scoprire 2712 2712 in an ensemble with the Costanzo 1111 top, corduroy Olap 1119 trousers and Urbana 0981 ankle boots. Exquisite accent — Nuevitas 0002 0001 necklace.",
+        "hy": "Down jacket in a noble shade Scoprire 2712 2712 in an ensemble with the Costanzo 1111 top, corduroy Olap 1119 trousers and Urbana 0981 ankle boots. Exquisite accent — Nuevitas 0002 0001 necklace.",
+        "lv": "Down jacket in a noble shade Scoprire 2712 2712 in an ensemble with the Costanzo 1111 top, corduroy Olap 1119 trousers and Urbana 0981 ankle boots. Exquisite accent — Nuevitas 0002 0001 necklace.",
+        "lt": "Down jacket in a noble shade Scoprire 2712 2712 in an ensemble with the Costanzo 1111 top, corduroy Olap 1119 trousers and Urbana 0981 ankle boots. Exquisite accent — Nuevitas 0002 0001 necklace.",
+        "pl": "Down jacket in a noble shade Scoprire 2712 2712 in an ensemble with the Costanzo 1111 top, corduroy Olap 1119 trousers and Urbana 0981 ankle boots. Exquisite accent — Nuevitas 0002 0001 necklace.",
+        "uk": "Down jacket in a noble shade Scoprire 2712 2712 in an ensemble with the Costanzo 1111 top, corduroy Olap 1119 trousers and Urbana 0981 ankle boots. Exquisite accent — Nuevitas 0002 0001 necklace."
+      },
+      "items": [
+        {
+          "name": "Scoprire",
+          "code": "2712 2712",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/lKqGNM1tQte9sZoxxMIz-Q_868057012696f42f4183f64_90266146_02820930XX1.jpg"
+        },
+        {
+          "name": "Costanzo",
+          "code": "1111",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nYRKsT7_QPCEFsCDij_7UA_2042203972696f435aed6179_50606973_02830260XX1.jpg",
+          "modelId": 13
+        },
+        {
+          "name": "Olap",
+          "code": "1119",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Urbana",
+          "code": "0981",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7BoHBVbqTtCtxociDR_4dQ_2049283379696f42280ae740_09477040_02801350XX1.jpg"
+        },
+        {
+          "name": "Nuevitas",
+          "code": "0002 0001",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e39e2515-7056-4e2f-8a1c-57aeb3a2cca5-removebg-preview.png",
+          "modelId": 234
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Highlight the luxurious mink-effect trim (Visone) in the 0101 0989 colourway, which elevates the down jacket from sportswear into the realm of urban luxury.",
+      "Recommend the Tortora shade (2712) for creating status-affirming monochromatic looks, perfectly suited to the winter season.",
+      "Demonstrate how accessories, such as the Uboldo 0101 0002 gloves, can instantly transform an everyday down jacket into an elegant evening option."
+    ],
+    "ru": [
+      "Сделайте акцент на роскошной отделке под норку (Visone) в цветовой комбинации 0101 0989, которая переводит пуховик из разряда спортивной одежды в категорию 'urban luxury'.",
+      "Рекомендуйте оттенок Tortora (2712) для создания статусных монохромных образов, идеально подходящих для зимнего сезона.",
+      "Продемонстрируйте, как аксессуары, такие как перчатки Uboldo 0101 0002, могут мгновенно преобразить повседневный пуховик в элегантный вечерний вариант."
+    ],
+    "ar": [
+      "ركزي على اللمسات الفاخرة التي تشبه فرو المنك (Visone) في مجموعة الألوان 0101 0989، والتي تنقل المعطف المبطن من خانة الملابس الرياضية إلى فئة 'urban luxury'.",
+      "أوصي باللون Tortora (2712) لخلق إطلالات أحادية اللون ذات طابع رفيع ومثالية لموسم الشتاء.",
+      "استعرضي كيف يمكن للإكسسوارات، مثل قفازات Uboldo 0101 0002 ، أن تحول فوراً المعطف اليومي إلى خيار مسائي أنيق."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი მინკის მსგავს (Visone) მდიდრულ მორთულობაზე 0101 0989 ფერთა კომბინაციაში, რომელიც პუხოვიკს სპორტული ტანსაცმლის კატეგორიიდან 'urban luxury'-ში გადაიყვანს.",
+      "რეკომენდაცია გაუწიეთ Tortora (2712) ელფერს სტატუსური მონოქრომული ლუქების შესაქმნელად, რომლებიც იდეალურია ზამთრის სეზონისთვის.",
+      "აჩვენეთ, თუ როგორ შეუძლიათ ისეთ აქსესუარებს, როგორიცაა ხელთათმანები Uboldo 0101 0002, მომენტალურად გარდაქმნან ყოველდღიური პუხოვიკი ელეგანტურ საღამოს ვარიანტად."
+    ],
+    "hy": [
+      "Շեշտը դրեք ջրաքիսի (Visone) նմանվող շքեղ հարդարանքի վրա 0101 0989 գունային համադրությամբ, որը փուխովիկը սպորտային հագուստի դասից տեղափոխում է «urban luxury» կատեգորիա։",
+      "Խորհուրդ տվեք Tortora (2712) երանգը՝ ձմեռային սեզոնի համար իդեալական, կարգավիճակային մոնոխրոմ կերպարներ ստեղծելու համար։",
+      "Ցույց տվեք, թե ինչպես աքսեսուարները, օրինակ՝ Uboldo 0101 0002 ձեռնոցները, կարող են ակնթարթորեն ամենօրյա փուխովիկը վերածել էլեգանտ երեկոյան տարբերակի։"
+    ],
+    "lv": [
+      "Lieciet uzsvaru uz grezno apdari zem ūdeļādas (Visone) krāsu kombinācijā 0101 0989, kas paceļ dūnu jaku no sportiska apģērba kategorijas uz 'urban luxury' līmeni.",
+      "Iesakiet Tortora (2712) toni statusa pilnu monohromu tēlu radīšanai, kas ideāli piemēroti ziemas sezonai.",
+      "Demonstrējiet, kā aksesuāri, piemēram, cimdi Uboldo 0101 0002, var acumirklī pārveidot ikdienišķu dūnu jaku elegantā vakara variantā."
+    ],
+    "lt": [
+      "Padarykite akcentą į prabangią dirbtinės audinės (Visone) apdailą spalvų derinyje 0101 0989, kuri perkelia pūkinę striukę iš sportinės aprangos kategorijos į „urban luxury“ kategoriją.",
+      "Rekomenduokite Tortora (2712) atspalvį statusą pabrėžiantiems vienspalviams įvaizdžiams, kurie idealiai tinka žiemos sezonui.",
+      "Pademonstruokite, kaip aksesuarai, pavyzdžiui, pirštinės Uboldo 0101 0002, gali akimirksniu paversti kasdienę pūkinę striukę elegantišku vakariniu variantu."
+    ],
+    "pl": [
+      "Połóż nacisk na luksusowe wykończenie imitujące norkę (Visone) w kombinacji kolorystycznej 0101 0989, która przenosi kurtkę puchową z kategorii odzieży sportowej do kategorii 'urban luxury'.",
+      "Rekomenduj odcień Tortora (2712) do tworzenia prestiżowych monochromatycznych stylizacji, idealnych na sezon zimowy.",
+      "Pokaż, jak akcesoria, takie jak rękawiczki Uboldo 0101 0002, mogą błyskawicznie przekształcić codzienną kurtkę puchową w elegancki wieczorowy wariant."
+    ],
+    "uk": [
+      "Зробіть акцент на розкішному оздобленні під норку (Visone) у колірній комбінації 0101 0989, яка переводить пуховик з розряду спортивного одягу в категорію 'urban luxury'.",
+      "Рекомендуйте відтінок Tortora (2712) для створення статусних монохромних образів, що ідеально підходять для зимового сезону.",
+      "Продемонструйте, як аксесуари, такі як рукавички Uboldo 0101 0002, можуть миттєво перетворити повсякденний пуховик на елегантний вечірній варіант."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Я опасаюсь, что пуховик будет выглядеть слишком громоздко.",
+        "a": "Модель Scoprire обладает выверенным кроем, который сохраняет архитектурность силуэта, обеспечивая тепло без лишнего объема."
+      },
+      {
+        "q": "Светлый оттенок Tortora может быть марким для зимы.",
+        "a": "Ткани Luisa Spagnoli проходят специальную обработку, которая повышает их износостойкость и облегчает уход за изделием."
+      },
+      {
+        "q": "Эта модель кажется слишком молодежной.",
+        "a": "Благодаря использованию премиальной отделки под норку и классической палитры, этот пуховик выглядит аристократично и подходит для любого возраста."
+      },
+      {
+        "q": "Будет ли он достаточно теплым для морозов?",
+        "a": "Данная модель piumino разработана с учетом низких температур, сочетая в себе современные теплоизоляционные технологии и защиту от ветра."
+      },
+      {
+        "q": "Черный пуховик — это слишком просто.",
+        "a": "Обратите внимание на контрастную отделку Visone (0989), которая добавляет изделию уникальный дизайнерский штрих и визуальную глубину."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Я опасаюсь, что пуховик будет выглядеть слишком громоздко.",
+        "a": "Модель Scoprire обладает выверенным кроем, который сохраняет архитектурность силуэта, обеспечивая тепло без лишнего объема."
+      },
+      {
+        "q": "Светлый оттенок Tortora может быть марким для зимы.",
+        "a": "Ткани Luisa Spagnoli проходят специальную обработку, которая повышает их износостойкость и облегчает уход за изделием."
+      },
+      {
+        "q": "Эта модель кажется слишком молодежной.",
+        "a": "Благодаря использованию премиальной отделки под норку и классической палитры, этот пуховик выглядит аристократично и подходит для любого возраста."
+      },
+      {
+        "q": "Будет ли он достаточно теплым для морозов?",
+        "a": "Данная модель piumino разработана с учетом низких температур, сочетая в себе современные теплоизоляционные технологии и защиту от ветра."
+      },
+      {
+        "q": "Черный пуховик — это слишком просто.",
+        "a": "Обратите внимание на контрастную отделку Visone (0989), которая добавляет изделию уникальный дизайнерский штрих и визуальную глубину."
+      }
+    ],
+    "ar": [
+      {
+        "q": "أخشى أن تبدو السترة المبطنة (puffer) ضخمة جداً.",
+        "a": "يتميز موديل Scoprire بقصة دقيقة تحافظ على طابع التصميم المعماري، مما يوفر الدفء دون حجم إضافي."
+      },
+      {
+        "q": "قد يكون لون التورتورا الفاتح عرضة للاتساخ في الشتاء.",
+        "a": "تخضع أقمشة Luisa Spagnoli لمعالجة خاصة تزيد من متانتها وتسهل العناية بالقطعة."
+      },
+      {
+        "q": "يبدو هذا الموديل شبابياً أكثر من اللازم.",
+        "a": "بفضل استخدام اللمسات النهائية الفاخرة التي تحاكي المنك والباليتة الكلاسيكية، تبدو هذه السترة المبطنة أرستقراطية وتناسب جميع الأعمار."
+      },
+      {
+        "q": "هل ستكون دافئة بما يكفي لموجات الصقيع؟",
+        "a": "صُمم موديل piumino هذا مع مراعاة درجات الحرارة المنخفضة، حيث يجمع بين تقنيات العزل الحراري الحديثة والحماية من الرياح."
+      },
+      {
+        "q": "السترة السوداء تبدو بسيطة للغاية.",
+        "a": "انتبهي إلى تفاصيل Visone (0989) المتباينة، والتي تضيف للقطعة لمسة تصميم فريدة وعمقاً بصرياً."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მეშინია, რომ პუხოვიკი ზედმეტად მოცულობითი გამოჩნდება.",
+        "a": "მოდელ Scoprire-ს გააჩნია გათვლილი კერვა, რომელიც სილუეტის არქიტექტურულობას ინარჩუნებს და ზედმეტი მოცულობის გარეშე უზრუნველყოფს სითბოს."
+      },
+      {
+        "q": "ღია ფერის Tortora ზამთრისთვის შესაძლოა ადვილად დასვრადი იყოს.",
+        "a": "Luisa Spagnoli-ს ქსოვილები გადიან სპეციალურ დამუშავებას, რაც ზრდის მათ ცვეთამედეგობას და ამარტივებს ნაკეთობის მოვლას."
+      },
+      {
+        "q": "ეს მოდელი ზედმეტად ახალგაზრდული მეჩვენება.",
+        "a": "წაულასივით პრემიუმ მორთულობისა და კლასიკური პალიტრის გამოყენების წყალობით, ეს პუხოვიკი არისტოკრატულად გამოიყურება და ნებისმიერი ასაკისთვისაა შესაფერისი."
+      },
+      {
+        "q": "იქნება თუ არა ის საკმარისად თბილი ყინვებისთვის?",
+        "a": "ეს piumino მოდელი შემუშავებულია დაბალი ტემპერატურის გათვალისწინებით, რომელიც აერთიანებს თანამედროვე თბოსაიზოლაციო ტექნოლოგიებსა და ქარისგან დაცვას."
+      },
+      {
+        "q": "შავი პუხოვიკი — ეს ზედმეტად მარტივია.",
+        "a": "ყურადღება მიაქციეთ კონტრასტულ Visone (0989) მორთულობას, რომელიც ნაკეთობას უნიკალურ დიზაინერულ შტრიხსა და ვიზუალურ სიღრმეს მატებს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ես մտավախություն ունեմ, որ փետրավոր բաճկոնը (пуховик) չափազանց ծավալուն կերևա։",
+        "a": "Scoprire մոդելն ունի ճշգրիտ ձևվածք, որը պահպանում է ուրվագծի ճարտարապետականությունը՝ ապահովելով ջերմություն առանց ավելորդ ծավալի։"
+      },
+      {
+        "q": "Tortora բաց երանգը կարող է շուտ կեղտոտվել ձմռանը։",
+        "a": "Luisa Spagnoli-ի գործվածքներն անցնում են հատուկ մշակում, որը բարձրացնում է դրանց մաշվածադիմացկունությունը և հեշտացնում արտադրանքի խնամքը։"
+      },
+      {
+        "q": "Այս մոդելը չափազանց երիտասարդական է թվում։",
+        "a": "Ջրաքիսի (նորկայի) տեսքով պրեմիում դասի հարդարանքի և դասական գունապնակի շնորհիվ այս փետրավոր բաճկոնը ազնվական տեսք ունի և հարմար է ցանկացած տարիքի համար։"
+      },
+      {
+        "q": "Արդյո՞ք այն բավականաչափ տաք կլինի ցրտերի համար։",
+        "a": "Այս piumino մոդելը նախագծված է ցածր ջերմաստիճանները հաշվի առնելով՝ համատեղելով ժամանակակից ջերմամեկուսիչ տեխնոլոգիաներն ու քամուց պաշտպանությունը։"
+      },
+      {
+        "q": "Սև փետրավոր բաճկոնը չափազանց պարզ է։",
+        "a": "Ուշադրություն դարձրեք Visone (0989) հակադրվող հարդարանքին, որն արտադրանքին ավելացնում է յուրահատուկ դիզայներական շտրիխ և տեսողական խորություն։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Es baidos, ka dūnu jaka izskatīsies pārāk apjomīga.",
+        "a": "Modelim Scoprire piemīt izsvērts piegriezums, kas saglabā silueta arhitektoniskumu, nodrošinot siltumu bez lieka apjoma."
+      },
+      {
+        "q": "Gaišais Tortora tonis var būt ātri smērējošs ziemai.",
+        "a": "Luisa Spagnoli audumi tiek pakļauti īpašai apstrādei, kas paaugstina to nodilumizturību un atvieglo izstrādājuma kopšanu."
+      },
+      {
+        "q": "Šis modelis šķiet pārāk jauneklīgs.",
+        "a": "Pateicoties augstākās kvalitātes ūdeļādas imitācijas apdarei un klasiskajai paletei, šī dūnu jaka izskatās aristokrātiski un ir piemērota jebkuram vecumam."
+      },
+      {
+        "q": "Vai tā būs pietiekami silta salam?",
+        "a": "Šis piumino modelis ir izstrādāts, ņemot vērā zemas temperatūras, apvienojot modernās siltumizolācijas tehnoloģijas un aizsardzību pret vēju."
+      },
+      {
+        "q": "Melna dūnu jaka — tas ir pārāk vienkārši.",
+        "a": "Pievērsiet uzmanību kontrastējošajai Visone (0989) apdarei, kas piešķir izstrādājumam unikālu dizainera akcentu un vizuālo dziļumu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Bijau, kad striukė atrodys per daug stambi.",
+        "a": "Modelis Scoprire pasižymi ištobulintu kirpimu, kuris išsaugo silueto architektūriškumą, suteikdamas šilumą be nereikalingos apimties."
+      },
+      {
+        "q": "Šviesus Tortora atspalvis gali būti greitai tepamas žiemą.",
+        "a": "Luisa Spagnoli audiniai yra specialiai apdorojami, o tai padidina jų atsparumą dėvėjimuisi ir palengvina gaminio priežiūrą."
+      },
+      {
+        "q": "Šis modelis atrodo per daug jaunatviškas.",
+        "a": "Dėl aukščiausios kokybės dirbtinio audinės kailio apdailos ir klasikinės paletės, ši striukė atrodo aristokratiškai ir tinka bet kokio amžiaus moteriai."
+      },
+      {
+        "q": "Ar ji bus pakankamai šilta šaltuoju metu?",
+        "a": "Šis piumino modelis sukurtas atsižvelgiant į žemą temperatūrą, derinant šiuolaikines šilumos izoliacijos technologijas ir apsaugą nuo vėjo."
+      },
+      {
+        "q": "Juoda striukė — tai pernelyg paprasta.",
+        "a": "Atkreipkite dėmesį į kontrastingą Visone (0989) apdailą, kuri suteikia gaminiui unikalų dizainerio akcentą ir vizualų gylį."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Obawiam się, że kurtka puchowa będzie wyglądać zbyt masywnie.",
+        "a": "Model Scoprire posiada wyważony krój, który zachowuje architektoniczność sylwetki, zapewniając ciepło bez zbędnej objętości."
+      },
+      {
+        "q": "Jasny odcień Tortora może być podatny na zabrudzenia zimą.",
+        "a": "Tkaniny Luisa Spagnoli przechodzą specjalną obróbkę, która zwiększa ich odporność na ścieranie i ułatwia pielęgnację wyrobu."
+      },
+      {
+        "q": "Ten model wydaje się zbyt młodzieżowy.",
+        "a": "Dzięki zastosowaniu wykończenia premium imitującego norkę oraz klasycznej palety, ta kurtka puchowa wygląda arystokratycznie i pasuje do każdego wieku."
+      },
+      {
+        "q": "Czy będzie wystarczająco ciepła na mrozy?",
+        "a": "Ten model piumino został zaprojektowany z uwzględnieniem niskich temperatur, łącząc nowoczesne technologie izolacji cieplnej oraz ochronę przed wiatrem."
+      },
+      {
+        "q": "Czarna kurtka puchowa to zbyt proste rozwiązanie.",
+        "a": "Zwróć uwagę na kontrastowe wykończenie Visone (0989), które dodaje wyrobowi unikalnego designerskiego akcentu i wizualnej głębi."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Я побоююся, що пуховик виглядатиме занадто громіздко.",
+        "a": "Модель Scoprire має вивірений крій, який зберігає архітектурність силуету, забезпечуючи тепло без зайвого об'єму."
+      },
+      {
+        "q": "Світлий відтінок Tortora може бути мазким для зими.",
+        "a": "Тканини Luisa Spagnoli проходять спеціальну обробку, яка підвищує їхню зносостійкість і полегшує догляд за виробом."
+      },
+      {
+        "q": "Ця модель здається занадто молодіжною.",
+        "a": "Завдяки використанню преміального оздоблення під норку та класичної палітри, цей пуховик виглядає аристократично і підходить для будь-якого віку."
+      },
+      {
+        "q": "Чи буде він достатньо теплим для морозів?",
+        "a": "Ця модель piumino розроблена з урахуванням низьких температур, поєднуючи в собі сучасні теплоізоляційні технології та захист від вітру."
+      },
+      {
+        "q": "Чорний пуховик — це занадто просто.",
+        "a": "Зверніть увагу на контрастне оздоблення Visone (0989), яке додає виробу унікальний дизайнерський штрих і візуальну глибину."
+      }
+    ]
+  }
+}

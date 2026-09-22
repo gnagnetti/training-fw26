@@ -1,0 +1,371 @@
+{
+  "id": 125,
+  "name": "Lucentezza",
+  "description": {
+    "en": "An exquisite lingerie-inspired top, inspired by boudoir-chic aesthetics and impeccable femininity. The model is crafted from a noble silk blend that lends the skin a cooling sensation and soft sheen. Delicate insertions of sculpted (smerlato) lace along the neckline and a graceful bow at the centre create a romantic accent, while adjustable slender straps guarantee a perfect fit, accentuating the fragility and grace of the silhouette.",
+    "ru": "Изысканный топ в бельевом стиле, вдохновленный эстетикой будуарного шика и безупречной женственностью. Модель выполнена из благородного смесового шелка, который дарит коже ощущение прохлады и мягкое сияние. Деликатные вставки из фигурного кружева (смерлато) вдоль выреза и изящный бант в центре создают романтичный акцент, а регулируемые тонкие бретели гарантируют идеальную посадку, подчеркивая хрупкость и грацию силуэта.",
+    "ar": "توب راقٍ بنمط الملابس الداخلية، مستوحى من جماليات الشياكة الكلاسيكية والأنوثة المطلقة. صُنع الموديل من الحرير المخلوط الفاخر الذي يمنح البشرة شعوراً بالبرودة ولمعاناً ناعماً. تضفي التطعيمات الرقيقة من الدانتيل المنقوش (سيمرلاتو) على طول فتحة الصدر وفيونكة أنيقة في المنتصف لمسة رومانسية، بينما تضمن الأشرطة الرفيعة القابلة للتعديل قياساً مثالياً، مما يبرز هشاشة ورشاقة القوام.",
+    "ka": "თეთრეულის სტილის დახვეწილი ტოპი, შთაგონებული ბუდუარული შიკის ესთეტიკითა და უნაკლო ქალურობით. მოდელი შესრულებულია კეთილშობილი შერეული აბრეშუმისგან, რომელიც კანს ანიჭებს სიგრილის შეგრძნებასა და რბილ ბზინვარებას. დეკოლტეს გასწვრივ ფიგურული მაქმანის (smerlato) დელიკატური ჩანართები და ცენტრში დახვეწილი ბაფთა ქმნის რომანტიკულ აქცენტს, ხოლო რეგულირებადი თხელი ბრეტელები უზრუნველყოფს იდეალურ მორგებას, რაც ხაზს უსვამს სილუეტის მყიფეობასა და გრაციოზულობას.",
+    "hy": "Նրբագեղ տոպ՝ ներքնազգեստի ոճով, ոգեշնչված բուդուարային շիկի գեղագիտությամբ և անթերի կանացիությամբ։ Մոդելը պատրաստված է ազնվական խառնուրդ մետաքսից, որը մաշկին պարգևում է սառնության և փափուկ փայլի զգացողություն։ Բացվածքի երկայնքով ձևավոր ժանյակի (smerlato) նուրբ ներդիրները և կենտրոնում գտնվող նրբագեղ ժապավենը ստեղծում են ռոմանտիկ շեշտադրում, իսկ կարգավորվող բարակ ժապավենները երաշխավորում են կատարյալ հարմարավետությունը՝ ընդգծելով ուրվագծի փխրունությունն ու շնորհքը։",
+    "lv": "Izsmalcināts veļas stila tops, ko iedvesmojusi buduāra šika estētika un nevainojama sievišķība. Modelis darināts no cēlā zīda maisījuma, kas dāvā ādai patīkamu svaigumu un maigu mirdzumu.\nSmalkie figurālo mežģīņu (*smerlato*) iestarpinājumi gar izgriezumu un elegantā lenta centrā rada romantisku akcentu, savukārt regulējamās tievās lencītes garantē perfektu piegulšanu, izceļot silueta trauslumu un grāciju.",
+    "lt": "Rafinuotas apatinio trikotažo stiliaus viršutinis drabužis, įkvėptas buduarinio prašmatnumo estetikos ir nepriekaištingo moteriškumo. Modelis sukurtas iš tauraus šilko mišinio, kuris suteikia odai vėsos pojūtį ir švelnų spindesį. Subtilios figūrinių nėrinių (smerlato) įsiuvai išilgai iškirptės ir grakštus kaspinėlis centre sukuria romantišką akcentą, o reguliuojamos plonos petnešėlės garantuoja tobulą prigludimą, pabrėžiant silueto trapumą ir grakštumą.",
+    "pl": "Wyrafinowany top w stylu bieliźnianym, inspirowany estetyką buduarowego szyku i nienaganną kobiecością. Model wykonany jest ze szlachetnej mieszanki jedwabiu, która zapewnia skórze uczucie chłodu i delikatny blask. Subtelne wstawki z profilowanej koronki (smerlato) wzdłuż dekoltu oraz elegancka kokarda na środku tworzą romantyczny akcent, a regulowane cienkie ramiączka gwarantują idealne dopasowanie, podkreślając kruchość i grację sylwetki.",
+    "uk": "Вишуканий топ у білизняному стилі, натхненний естетикою будуарного шику та бездоганною жіночністю. Модель виконана з благородного сумішевого шовку, який дарує шкірі відчуття прохолоди та м'яке сяйво. Делікатні вставки з фігурного мережива (смерлато) вздовж вирізу та витончений бант у центрі створюють романтичний акцент, а регульовані тонкі бретелі гарантують ідеальну посадку, підкреслюючи тендітність і грацію силуету."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7v0FTekRSaSnQaOwEt8Jvw_2126572995696f42e2d8b804_09815521_02820550XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 2 (Modern luxury)",
+        "ar": "Look 2 (Modern luxury)",
+        "ka": "Look 2 (Modern luxury)",
+        "hy": "Look 2 (Modern luxury)",
+        "lv": "Look 2 (Modern luxury)",
+        "lt": "Look 2 (Modern luxury)",
+        "pl": "Look 2 (Modern luxury)",
+        "uk": "Look 2 (Modern luxury)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Современная роскошь): Лаконичное сочетание топа Lucentezza 0101 с брюками Offida 0101 и мерцающим клатчем Invitata D 0001 0001. Ювелирный акцент — серьги Notazione 0068 0001 0002.",
+        "en": "A minimalist combination of the Lucentezza 0101 top with the Offida 0101 trousers and the shimmering Invitata D 0001 0001 clutch. Jewelry accent — Notazione 0068 0001 0002 earrings ( Data not available in official sources).",
+        "ar": "A minimalist combination of the Lucentezza 0101 top with the Offida 0101 trousers and the shimmering Invitata D 0001 0001 clutch. Jewelry accent — Notazione 0068 0001 0002 earrings ( Data not available in official sources).",
+        "ka": "A minimalist combination of the Lucentezza 0101 top with the Offida 0101 trousers and the shimmering Invitata D 0001 0001 clutch. Jewelry accent — Notazione 0068 0001 0002 earrings ( Data not available in official sources).",
+        "hy": "A minimalist combination of the Lucentezza 0101 top with the Offida 0101 trousers and the shimmering Invitata D 0001 0001 clutch. Jewelry accent — Notazione 0068 0001 0002 earrings ( Data not available in official sources).",
+        "lv": "A minimalist combination of the Lucentezza 0101 top with the Offida 0101 trousers and the shimmering Invitata D 0001 0001 clutch. Jewelry accent — Notazione 0068 0001 0002 earrings ( Data not available in official sources).",
+        "lt": "A minimalist combination of the Lucentezza 0101 top with the Offida 0101 trousers and the shimmering Invitata D 0001 0001 clutch. Jewelry accent — Notazione 0068 0001 0002 earrings ( Data not available in official sources).",
+        "pl": "A minimalist combination of the Lucentezza 0101 top with the Offida 0101 trousers and the shimmering Invitata D 0001 0001 clutch. Jewelry accent — Notazione 0068 0001 0002 earrings ( Data not available in official sources).",
+        "uk": "A minimalist combination of the Lucentezza 0101 top with the Offida 0101 trousers and the shimmering Invitata D 0001 0001 clutch. Jewelry accent — Notazione 0068 0001 0002 earrings ( Data not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Lucentezza",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7v0FTekRSaSnQaOwEt8Jvw_2126572995696f42e2d8b804_09815521_02820550XX1.jpg"
+        },
+        {
+          "name": "Offida",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YFFY1s4iR8mmZlK3FNEjEQ_850058026696f42e4f083b6_29969679_02820610XX1.jpg",
+          "modelId": 242
+        },
+        {
+          "name": "Situazione",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg",
+          "modelId": 321
+        },
+        {
+          "name": "Udita",
+          "code": "0101 0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png"
+        },
+        {
+          "name": "Notazione",
+          "code": "0068 0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/872948663691c57e1e0c368_23107522_02800300XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 1 (Evening Black Tie)",
+        "ar": "Look 1 (Evening Black Tie)",
+        "ka": "Look 1 (Evening Black Tie)",
+        "hy": "Look 1 (Evening Black Tie)",
+        "lv": "Look 1 (Evening Black Tie)",
+        "lt": "Look 1 (Evening Black Tie)",
+        "pl": "Look 1 (Evening Black Tie)",
+        "uk": "Look 1 (Evening Black Tie)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Вечерний Black Tie): Драматичный ансамбль, объединяющий топ Lucentezza 0101 с бархатными брюками Offida 0101 под роскошной капой Situazione 0101. Дополняют выход сандалии Udita 0101 0101 0002 и колье Notazione 0068 0001 0002 (",
+        "en": "A dramatic ensemble combining the Lucentezza 0101 top with the velvet Offida 0101 trousers under the luxurious Situazione 0101 cape. The look is completed by the Udita 0101 0101 0002 sandals and the Notazione 0068 0001 0002 necklace (",
+        "ar": "A dramatic ensemble combining the Lucentezza 0101 top with the velvet Offida 0101 trousers under the luxurious Situazione 0101 cape. The look is completed by the Udita 0101 0101 0002 sandals and the Notazione 0068 0001 0002 necklace (",
+        "ka": "A dramatic ensemble combining the Lucentezza 0101 top with the velvet Offida 0101 trousers under the luxurious Situazione 0101 cape. The look is completed by the Udita 0101 0101 0002 sandals and the Notazione 0068 0001 0002 necklace (",
+        "hy": "A dramatic ensemble combining the Lucentezza 0101 top with the velvet Offida 0101 trousers under the luxurious Situazione 0101 cape. The look is completed by the Udita 0101 0101 0002 sandals and the Notazione 0068 0001 0002 necklace (",
+        "lv": "A dramatic ensemble combining the Lucentezza 0101 top with the velvet Offida 0101 trousers under the luxurious Situazione 0101 cape. The look is completed by the Udita 0101 0101 0002 sandals and the Notazione 0068 0001 0002 necklace (",
+        "lt": "A dramatic ensemble combining the Lucentezza 0101 top with the velvet Offida 0101 trousers under the luxurious Situazione 0101 cape. The look is completed by the Udita 0101 0101 0002 sandals and the Notazione 0068 0001 0002 necklace (",
+        "pl": "A dramatic ensemble combining the Lucentezza 0101 top with the velvet Offida 0101 trousers under the luxurious Situazione 0101 cape. The look is completed by the Udita 0101 0101 0002 sandals and the Notazione 0068 0001 0002 necklace (",
+        "uk": "A dramatic ensemble combining the Lucentezza 0101 top with the velvet Offida 0101 trousers under the luxurious Situazione 0101 cape. The look is completed by the Udita 0101 0101 0002 sandals and the Notazione 0068 0001 0002 necklace ("
+      },
+      "items": [
+        {
+          "name": "Lucentezza",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7v0FTekRSaSnQaOwEt8Jvw_2126572995696f42e2d8b804_09815521_02820550XX1.jpg"
+        },
+        {
+          "name": "Offida",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YFFY1s4iR8mmZlK3FNEjEQ_850058026696f42e4f083b6_29969679_02820610XX1.jpg",
+          "modelId": 242
+        },
+        {
+          "name": "Invitata D",
+          "code": "0001 0001",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/001.png"
+        },
+        {
+          "name": "Notazione",
+          "code": "0068 0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/872948663691c57e1e0c368_23107522_02800300XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the layering potential: this top is ideal for creating contrasting looks beneath tailored jackets or voluminous cardigans, adding a note of sensuality to the professional wardrobe.",
+      "Showcase the client the quality of the materials: the blend of viscose and silk ensures durability and easy care while preserving a premium appearance.",
+      "Draw attention to the adjustable straps — allowing the depth of the neckline to be tailored to the occasion and the client's preference."
+    ],
+    "ru": [
+      "Сделайте акцент на многослойности: этот топ идеально подходит для создания контрастных образов под строгими жакетами или объемными кардиганами, добавляя нотку чувственности в деловой гардероб.",
+      "Продемонстрируйте клиенту качество материалов: сочетание виск\\озы и шелка обеспечивает долговечность и легкость ухода при сохранении премиального внешнего вида.",
+      "Акцентируйте внимание на регулируемых бретелях — это позволяет адаптировать глубину декольте в зависимости от повода и предпочтений клиента."
+    ],
+    "ar": [
+      "ركزي على مفهوم تعدد الطبقات: هذا التوب مثالي لابتكار إطلالات متباينة تحت السترات الرسمية أو الكارديجان الفضفاض، مما يضيف لمسة من الجاذبية إلى خزانة ملابس العمل.",
+      "اعرضي على العميل جودة المواد: مزيج الفيسكوز والحرير يضمن المتانة وسهولة العناية مع الحفاظ على مظهر فاخر.",
+      "سلطي الضوء على الأشرطة القابلة للتعديل التي تتيح تكييف عمق فتحة الصدر حسب المناسبة وتفضيلات العميل."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება მრავალფენიანობაზე: ეს ტოპი იდეალურია მკაცრი პიჯაკების ან მოცულობითი კარდიგანების ქვეშ კონტრასტული ლუქების შესაქმნელად, რაც საქმიან გარდერობს სენსუალურობის ნოტს მატებს.",
+      "დაანახეთ კლიენტს მასალების ხარისხი: ვისკოზისა და აბრეშუმის კომბინაცია უზრუნველყოფს გამძლეობასა და მოვლის სიმარტივეს პრემიალური გარეგნული იერსახის შენარჩუნებით.",
+      "აქცენტი გააკეთეთ რეგულირებად ბრეტელებზე — ეს საშუალებას იძლევა დეკოლტეს სიღრმე კლიენტის შემთხვევისა და სურვილის მიხედვით მოირგოთ."
+    ],
+    "hy": [
+      "Շեշտադրեք շերտավորումը. այս տոպը իդեալական է խիստ բաճկոնների կամ ծավալուն ժակետների տակ հակադրող կերպարներ ստեղծելու համար՝ գործնական զգեստապահարանին հաղորդելով զգայականության նոտա:",
+      "Հաճախորդին ցույց տվեք նյութերի որակը. վիսկոզայի և մետաքսի համադրությունը ապահովում է երկարակեցություն և խնամքի հեշտություն՝ պահպանելով պրեմիում տեսքը:",
+      "Շեշտադրեք կարգավորվող կրծկակալների ժապավենները՝ դա թույլ է տալիս հարմարեցնել դեկոլտեի խորությունը՝ կախված առիթից և հաճախորդի նախասիրություններից:"
+    ],
+    "lv": [
+      "Сделайте акцент на многослойности: этот топ идеально подходит для создания контрастных образов под строгими жакетами или объемными кардиганами, добавляя нотку чувственности в деловой гардероб.",
+      "Продемонстрируйте клиенту качество материалов: сочетание виск\\озы и шелка обеспечивает долговечность и легкость ухода при сохранении премиального внешнего вида.",
+      "Акцентируйте внимание на регулируемых бретелях — это позволяет адаптировать глубину декольте в зависимости от повода и предпочтений клиента."
+    ],
+    "lt": [
+      "Pabrėžkite sluoksniuotumą: šis viršutinis drabužis idealiai tinka kuriant kontrastinius įvaizdžius po griežtais švarkais ar stambaus mezgimo megztiniais, suteikiant verslo garderobui jausmingumo.",
+      "Pademonstruokite klientui medžiagų kokybę: viskozės ir šilko derinys užtikrina ilgaamžiškumą ir lengvą priežiūrą, išlaikant aukščiausios klasės išvaizdą.",
+      "Atkreipkite dėmesį į reguliuojamas petnešėles – tai leidžia pritaikyti iškirptės gylį priklausomai nuo progos ir kliento pageidavimų."
+    ],
+    "pl": [
+      "Połóż nacisk na wielowarstwowość: ten top idealnie nadaje się do tworzenia kontrastowych zestawień pod surowymi żakietami lub obszernymi kardiganami, dodając nutę zmysłowości do biznesowej garderoby.",
+      "Zademonstruj klientce jakość materiałów: połączenie wiskozy i jedwabiu zapewnia trwałość i łatwość pielęgnacji przy zachowaniu luksusowego wyglądu.",
+      "Zwróć uwagę na regulowane ramiączka — pozwala to na dostosowanie głębokości dekoltu w zależności od okazji i preferencji klientki."
+    ],
+    "uk": [
+      "Зробіть акцент на багатошаровості: цей топ ідеально підходить для створення контрастних образів під суворими жакетами або об'ємними кардиганами, додаючи нотку чуттєвості в діловий гардероб.",
+      "Продемонструйте клієнту якість матеріалів: поєднання віскози та шовку забезпечує довговічність і легкість догляду при збереженні преміального зовнішнього вигляду.",
+      "Акцентуйте увагу на регульованих бретелях — це дозволяє адаптувати глибину декольте залежно від приводу та вподобань клієнта."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The top too closely resembles lingerie.",
+        "a": "This reflects the current 'underwear as outerwear' trend. Paired with classic trousers or a structured blazer, the Lucentezza piece reads as a refined evening element rather than an item of lingerie."
+      },
+      {
+        "q": "Silk content may be impractical.",
+        "a": "Thanks to the predominance of viscose (79%) in the composition, the fabric is more resistant to creasing and wear than pure silk, while retaining a noble texture."
+      },
+      {
+        "q": "The lace trim looks delicate.",
+        "a": "The lace used is crafted using Luisa Spagnoli's contemporary techniques with a reinforced edge, guaranteeing the pattern retains its shape and integrity with proper care."
+      },
+      {
+        "q": "The top seems too revealing for daytime occasions.",
+        "a": "We recommend wearing it beneath a lightweight coat or jacket. This creates a statement look in which the lace serves merely as a delicate accent."
+      },
+      {
+        "q": "Concern that thin straps may dig into the shoulders.",
+        "a": "The straps are crafted from soft silk satin and feature adjusters, allowing the weight to be distributed and the length fine-tuned for maximum comfort on any figure."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Топ слишком сильно напоминает нижнее белье.",
+        "a": "Это актуальный тренд 'underwear as outerwear'. В сочетании с классическими брюками или структурированным блейзером модель Lucentezza выглядит как изысканный вечерний элемент, а не деталь белья."
+      },
+      {
+        "q": "Шелк в составе может быть непрактичным.",
+        "a": "Благодаря преобладанию вискозы (79%) в составе, ткань более устойчива к сминанию и износу, чем чистый шелк, сохраняя при этом благородную фактуру."
+      },
+      {
+        "q": "Кружевная отделка выглядит хрупкой.",
+        "a": "Используемое кружево выполнено по современным технологиям Luisa Spagnoli с укрепленным краем, что гарантирует сохранение формы и целостности узора при правильном уходе."
+      },
+      {
+        "q": "Топ кажется слишком открытым для дневных выходов.",
+        "a": "Мы рекомендуем носить его под легкое пальто или жакет. Это позволит создать статусный образ, где кружево будет выступать лишь деликатным акцентом."
+      },
+      {
+        "q": "Боюсь, что тонкие бретели будут впиваться в плечи.",
+        "a": "Бретели выполнены из мягкого шелкового сатина и оснащены регуляторами, что позволяет распределить нагрузку и настроить максимально комфортную длину для любого типа фигуры."
+      }
+    ],
+    "ar": [
+      {
+        "q": "التوب يذكرني كثيراً بالملابس الداخلية.",
+        "a": "هذا توجه عصري تحت عنوان 'الملابس الداخلية كملابس خارجية'. عند تنسيقه مع سروال كلاسيكي أو بليزر منظم، يبدو تصميم Lucentezza كقطعة مسائية راقية وليس كقطعة من الملابس الداخلية."
+      },
+      {
+        "q": "الحرير في التركيبة قد يكون غير عملي.",
+        "a": "بفضل غلبة الفيسكوز (79%) في التركيبة، أصبح القماش أكثر مقاومة للتجعد والتآكل مقارنة بالحرير الخالص، مع الحفاظ على ملمسه الفاخر."
+      },
+      {
+        "q": "زخرفة الدانتيل تبدو هشة.",
+        "a": "صُنع الدانتيل المستخدم وفقاً للتقنيات الحديثة لدار Luisa Spagnoli مع حافة مقواة، مما يضمن الحفاظ على شكل ونمط القماش عند العناية به بشكل صحيح."
+      },
+      {
+        "q": "التوب يبدو مكشوفاً جداً للإطلالات النهارية.",
+        "a": "ننصح بارتدائه تحت معطف خفيف أو سترة، مما يضفي مظهراً رفيع المستوى يبرز فيه الدانتيل كإضافة رقيقة وأنيقة."
+      },
+      {
+        "q": "أخشى أن تغرس الأشرطة الرفيعة في الكتفين.",
+        "a": "صُنعت الأشرطة من ساتان الحرير الناعم ومزودة بمنظمات، مما يسمح بتوزيع الوزن وضبط الطول الأكثر راحة لأي نوع من أنواع الجسم."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ტოპი ძალიან ჰგავს ქვედა საცვლებს.",
+        "a": "ეს არის აქტუალური ტრენდი 'underwear as outerwear'. კლასიკურ შარვალთან ან სტრუქტურირებულ ბლეიზერთან შეხამებაში მოდელი Lucentezza გამოიყურება როგორც დახვეწილი საღამოს ელემენტი და არა როგორც საცვლების დეტალი."
+      },
+      {
+        "q": "აბრეშუმი შემადგენლობაში შესაძლოა არაპრაქტიკული იყოს.",
+        "a": "შემადგენლობაში ვისკოზის უპირატესობის (79%) გამო, ქსოვილი უფრო მდგრადია დაჭმუჭვნისა და ცვეთის მიმართ, ვიდრე სუფთა აბრეშუმი, ამავდროულად ინარჩუნებს კეთილშობილურ ფაქტურას."
+      },
+      {
+        "q": "მაქმანებიანი მორთულობა მყიფე ჩანს.",
+        "a": "გამოყენებული მაქმანი შექმნილია Luisa Spagnoli-ს თანამედროვე ტექნოლოგიებით, გამაგრებული კიდით, რაც გარანტიას იძლევა ფორმისა და ნიმუშის მთლიანობის შენარჩუნებაზე სათანადო მოვლის პირობებში."
+      },
+      {
+        "q": "ტოპი ძალიან ღია ჩანს დღის გასასვლელებისთვის.",
+        "a": "ჩვენ გირჩევთ მის ტარებას მსუბუქი პალტოს ან პიჯაკის ქვეშ. ეს საშუალებას მოგცემთ შექმნათ სტატუსური იმიჯი, სადაც მაქმანი იქნება მხოლოდ დელიკატური აქცენტი."
+      },
+      {
+        "q": "მეშინია, რომ თხელი ბრეტელები მხრებში ჩამესობა.",
+        "a": "ბრეტელები დამზადებულია რბილი აბრეშუმის ატლასისგან და აღჭურვილია რეგულატორებით, რაც საშუალებას იძლევა გადავანაწილოთ დატვირთვა და მაქსიმალურად კომფორტულად მოვარგოთ სიგრძე ნებისმიერი ტიპის ფიგურას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Թոփը չափազանց շատ է հիշեցնում ներքնազգեստ։",
+        "a": "Սա արդիական 'underwear as outerwear' թրենդն է։ Դասական տաբատի կամ կառուցվածքային բլեյզերի հետ համադրությամբ Lucentezza մոդելը նայվում է որպես նրբագեղ երեկոյան տարր, այլ ոչ թե ներքնազգեստի մաս։"
+      },
+      {
+        "q": "Կազմության մեջ առկա մետաքսը կարող է ոչ գործնական լինել։",
+        "a": "Շնորհիվ կազմության մեջ վիսկոզայի (79%) գերակշռության՝ կտորն ավելի դիմացկուն է կնճռոտման և մաշվածության նկատմամբ, քան մաքուր մետաքսը՝ պահպանելով միաժամանակ ազնվական հյուսվածքը։"
+      },
+      {
+        "q": "Ժանյակավոր հարդարանքը փխրուն է թվում։",
+        "a": "Օգտագործվող ժանյակը կատարված է Luisa Spagnoli-ի ժամանակակից տեխնոլոգիաներով՝ ամրացված եզրերով, ինչը երաշխավորում է ձևի և նախշի ամբողջականության պահպանումը ճիշտ խնամքի դեպքում։"
+      },
+      {
+        "q": "Թոփը ցերեկային ելքերի համար չափազանց բաց է թվում։",
+        "a": "Մենք խորհուրդ ենք տալիս այն կրել թեթև վերարկուի կամ բաճկոնի տակ։ Սա թույլ կտա ստեղծել կարգավիճակային կերպար, որտեղ ժանյակը կհանդես գա միայն որպես նուրբ շեշտադրում։"
+      },
+      {
+        "q": "Վախենում եմ, որ բարակ կրծկակալները կմխրճվեն ուսերի մեջ։",
+        "a": "Կրծկակալները պատրաստված են փափուկ մետաքսե սատինից և հագեցած են կարգավորիչներով, ինչը թույլ է տալիս բաշխել ծանրաբեռնվածությունը և հարմարեցնել առավելագույնս հարմարավետ երկարությունը ցանկացած տեսակի կազմվածքի համար։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Tops pārāk atgādina apakšveļu.",
+        "a": "Tā ir aktuāla tendence 'underwear as outerwear'. Kombinācijā ar klasiskām biksēm vai strukturētu bleizeri Lucentezza modelis izskatās kā izsmalcināts vakara elements, nevis veļas detaļa."
+      },
+      {
+        "q": "Zīds sastāvā var būt nepraktisks.",
+        "a": "Pateicoties viskozes pārsvaram (79%) sastāvā, audums ir izturīgāks pret burzīšanos un nodilumu nekā tīrs zīds, vienlaikus saglabājot cēlo faktūru."
+      },
+      {
+        "q": "Mežģīņu apdare izskatās trausla.",
+        "a": "Izmantotās mežģīnes ir izgatavotas pēc mūsdienīgām Luisa Spagnoli tehnoloģijām ar nostiprinātu malu, kas garantē formas saglabāšanu un raksta integritāti pareizas kopšanas gadījumā."
+      },
+      {
+        "q": "Tops šķiet pārāk atvērts dienas izgājieniem.",
+        "a": "Mēs iesakām to nēsāt zem viegla mēteļa vai žaketes. Tas ļaus izveidot statusa tēlu, kurā mežģīnes kalpos tikai kā delikāts akcents."
+      },
+      {
+        "q": "Baidos, ka plānās lencītes iegriezīsies plecos.",
+        "a": "Lencītes ir izgatavotas no mīksta zīda satīna un aprīkotas ar regulētājiem, kas ļauj sadalīt slodzi un noregulēt maksimāli ērtu garumu jebkura tipa figūrai."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Viršutinė dalis per daug primena apatinius.",
+        "a": "Tai aktualus „underwear as outerwear“ trendas. Derinyje su klasikinėmis kelnėmis ar struktūruotu švarku Lucentezza modelis atrodo kaip rafinuotas vakarinis elementas, o ne apatinio trikotažo detalė."
+      },
+      {
+        "q": "Šilkas sudėtyje gali būti nepraktiškas.",
+        "a": "Dėl viskozės dominavimo (79%) sudėtyje, audinys yra atsparesnis glamžymuisi ir dėvėjimuisi nei grynas šilkas, išlaikydamas taurią faktūrą."
+      },
+      {
+        "q": "Nėrinių apdaila atrodo trapi.",
+        "a": "Naudojami nėriniai sukurti pagal modernias Luisa Spagnoli technologijas su sutvirtintu kraštu, kas garantuoja formos ir rašto vientisumo išsaugojimą tinkamai prižiūrint."
+      },
+      {
+        "q": "Viršutinė dalis atrodo per daug atvira dieniniams išėjimams.",
+        "a": "Rekomenduojame jį dėvėti po lengvu paltu ar švarku. Tai leis sukurti statuso įvaizdį, kur nėriniai bus tik subtilus akcentas."
+      },
+      {
+        "q": "Bijau, kad plonos petnešėlės įsirėš į pečius.",
+        "a": "Petnešėlės pagamintos iš minkšto šilko satino ir turi reguliatorius, kas leidžia paskirstyti apkrovą ir nusistatyti maksimaliai patogų ilgį bet kokio tipo figūrai."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Top zbyt bardzo przypomina bieliznę.",
+        "a": "To aktualny trend 'underwear as outerwear'. W połączeniu z klasycznymi spodniami lub strukturalnym blezerem model Lucentezza wygląda jak wyrafinowany element wieczorowy, a nie detal bielizny."
+      },
+      {
+        "q": "Jedwab w składzie może być niepraktyczny.",
+        "a": "Dzięki przewadze wiskozy (79%) w składzie, tkanina jest bardziej odporna na gniecenie i zużycie niż czysty jedwab, zachowując przy tym szlachetną fakturę."
+      },
+      {
+        "q": "Koronkowe wykończenie wygląda na kruche.",
+        "a": "Zastosowana koronka została wykonana według nowoczesnych technologii Luisa Spagnoli ze wzmocnioną krawędzią, co gwarantuje zachowanie kształtu i integralności wzoru przy odpowiedniej pielęgnacji."
+      },
+      {
+        "q": "Top wydaje się zbyt odkryty do dziennych wyjść.",
+        "a": "Zalecamy noszenie go pod lekkim płaszczem lub żakietem. Pozwoli to stworzyć statusowy wizerunek, w którym koronka będzie występować jedynie jako delikatny akcent."
+      },
+      {
+        "q": "Obawiam się, że cienkie ramiączka będą wpijać się w ramiona.",
+        "a": "Ramiączka wykonane są z miękkiego jedwabnego satynu i wyposażone w regulatory, co pozwala rozłożyć obciążenie i ustawić maksymalnie komfortową długość dla każdego typu figury."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Топ занадто сильно нагадує нижню білизну.",
+        "a": "Це актуальний тренд 'underwear as outerwear'. У поєднанні з класичними брюками або структурованим блейзером модель Lucentezza виглядає як вишуканий вечірній елемент, а не деталь білизни."
+      },
+      {
+        "q": "Шовк у складі може бути непрактичним.",
+        "a": "Завдяки переважанню віскози (79%) у складі, тканина більш стійка до зминання та зносу, ніж чистий шовк, зберігаючи при цьому благородну фактуру."
+      },
+      {
+        "q": "Мереживна оздоба виглядає крихкою.",
+        "a": "Використовуване мереживо виконане за сучасними технологіями Luisa Spagnoli зі зміцненим краєм, що гарантує збереження форми та цілісності візерунка при правильному догляді."
+      },
+      {
+        "q": "Топ здається занадто відкритим для денних виходів.",
+        "a": "Ми рекомендуємо носити його під легке пальто чи жакет. Це дозволить створити статусний образ, де мереживо виступатиме лише делікатним акцентом."
+      },
+      {
+        "q": "Боюся, що тонкі бретелі врізатимуться у плечі.",
+        "a": "Бретелі виконані з м'якого шовкового сатину та оснащені регуляторами, що дозволяє розподілити навантаження та налаштувати максимально комфортну довжину для будь-якого типу фігури."
+      }
+    ]
+  }
+}

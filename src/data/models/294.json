@@ -1,0 +1,402 @@
+{
+  "id": 294,
+  "name": "Salve A",
+  "description": {
+    "en": "The Salve A jacket is the quintessence of contemporary elegance and flawless Italian style from Luisa Spagnoli. The piece is a masterfully cut blazer that harmoniously unites architectural discipline of line with refined femininity. This is a key piece of the collection, created for the woman who values the aesthetic of 'quiet luxury' and seeks to build status-defining yet comfortable looks. Pairing perfectly with classic trousers, the Salve A jacket forms a flawless suiting ensemble, equally suited to high-level business meetings and formal social occasions.",
+    "ru": "Жакет Salve A — это квинтэссенция современной элегантности и безупречного итальянского стиля от Luisa Spagnoli. Модель представляет собой мастерски скроенный блейзер, который гармонично сочетает в себе строгость архитектурных линий и утонченную женственность. Это ключевой элемент коллекции, созданный для женщины, которая ценит эстетику «тихой роскоши» (quiet luxury) и стремится к созданию статусных, но при этом комфортных образов. Идеально дополняя классические брюки, жакет Salve A формирует безупречный костюмный ансамбль, подходящий как для деловых переговоров высокого уровня, так и для торжественных светских выходов.",
+    "ar": "تعد سترة Salve A جوهر الأناقة العصرية والأسلوب الإيطالي الذي لا تشوبه شائبة من Luisa Spagnoli. يمثل هذا الموديل بليزر مقصوصاً ببراعة، يجمع بانسجام بين صرامة الخطوط المعمارية والأنوثة المرهفة. إنه عنصر أساسي في المجموعة، صُمم للمرأة التي تقدر جماليات «الفخامة الهادئة» (quiet luxury) وتسعى إلى ابتكار إطلالات راقية ومريحة في آن واحد. وبإكماله المثالي للسراويل الكلاسيكية، تشكل سترة Salve A طقماً مثالياً، يناسب كلاً من اجتماعات العمل رفيعة المستوى والمناسبات الاجتماعية الرسمية.",
+    "ka": "ჟაკეტი Salve A — ეს არის თანამედროვე ელეგანტურობისა და Luisa Spagnoli-ს უნაკლო იტალიური სტილის კვინტესენცია. მოდელი წარმოადგენს ოსტატურად გამოყვანილ ბლეიზერს, რომელიც ჰარმონიულად აერთიანებს არქიტექტურული ხაზების სიმკაცრესა და დახვეწილ ქალურობას. ეს არის კოლექციის საკვანძო ელემენტი, შექმნილი იმ ქალისთვის, რომელიც აფასებს „ჩუმი ფუფუნების“ (quiet luxury) ესთეტიკას და მიისწრაფვის სტატუსური, მაგრამ ამავდროულად კომფორტული იმიჯის შექმნისკენ. კლასიკურ შარვალთან იდეალურად შეხამებული ჟაკეტი Salve A ქმნის უნაკლო კოსტიუმურ ანსამბლს, რომელიც გამოდგება როგორც მაღალი დონის საქმიანი მოლაპარაკებებისთვის, ისე საზეიმო საერო გამოსვლებისთვის.",
+    "hy": "Salve A ժակետը ժամանակակից էլեգանտության և Luisa Spagnoli-ի անթերի իտալական ոճի էությունը մարմնավորող մոդել է։ Այն վարպետորեն կարված բլեյզեր է, որը ներդաշնակորեն համատեղում է ճարտարապետական գծերի խստությունն ու նրբագեղ կանացիությունը։ Սա հավաքածուի առանցքային տարրն է, որը ստեղծվել է այն կնոջ համար, ով գնահատում է «հանգիստ շքեղության» (quiet luxury) էսթետիկան և ձգտում է ստեղծել կարգավիճակային, բայց միևնույն ժամանակ հարմարավետ կերպարներ։ Կատարյալ լինելով դասական տաբատների հետ՝ Salve A ժակետը ձևավորում է անթերի կոստյումային համադրություն, որը հարմար է ինչպես բարձր մակարդակի գործնական բանակցությունների, այնպես էլ հանդիսավոր աշխարհիկ միջոցառումների համար։",
+    "lv": "Žakete Salve A ir mūsdienīgas elegance un nevainojama itāļu stila kvintesence no Luisa Spagnoli. Modelis ir meistarīgi piegriezts bleizers, kas harmoniski apvieno arhitektonisko līniju stingrību un izsmalcinātu sievišķību. Tas ir kolekcijas galvenais elements, kas radīts sievietei, kura novērtē «klusās greznības» (quiet luxury) estētiku un tiecas veidot statusa cienīgus, bet vienlaikus komfortablus tēlus. Ideāli papildinot klasiskas bikses, žakete Salve A veido nevainojamu kostīma ansambli, kas piemērots gan augsta līmeņa biznesa sarunām, gan svinīgām sabiedriskām iziešanām.",
+    "lt": "Švarkas Salve A – tai šiuolaikinės elegancijos ir nepriekaištingo itališko stiliaus kvintesencija iš Luisa Spagnoli. Modelis yra meistriškai sukirptas švarkas, kuris harmoningai sujungia architektūrinių linijų griežtumą ir rafinuotą moteriškumą. Tai pagrindinis kolekcijos elementas, sukurtas moteriai, kuri vertina „tylios prabangos“ (quiet luxury) estetiką ir siekia kurti statusą pabrėžiančius, tačiau patogius įvaizdžius. Idealiai derantis prie klasikinių kelnių, švarkas Salve A suformuoja nepriekaištingą kostiuminį ansamblį, tinkantį tiek aukšto lygio verslo deryboms, tiek iškilmingiems oficialiems renginiams.",
+    "pl": "Żakiet Salve A to kwintesencja współczesnej elegancji i nienagannego włoskiego stylu od Luisa Spagnoli. Model stanowi mistrzowsko skrojony blezer, który harmonijnie łączy surowość architektonicznych linii z wyrafinowaną kobiecością. Jest to kluczowy element kolekcji, stworzony dla kobiety, która ceni estetykę „cichego luksusu” (quiet luxury) i dąży do tworzenia prestiżowych, a zarazem komfortowych stylizacji. Idealnie uzupełniając klasyczne spodnie, żakiet Salve A tworzy nienaganny garniturowy zestaw, odpowiedni zarówno na spotkania biznesowe wysokiego szczebla, jak i uroczyste wyjścia.",
+    "uk": "Жакет Salve A — это квинтэссенция современной элегантности и безупречного итальянского стиля от Luisa Spagnoli. Модель представляет собой мастерски скроенный блейзер, который гармонично сочетает в себе строгость архитектурных линий и утонченную женственность. Это ключевой элемент коллекции, созданный для женщины, которая ценит эстетику «тихой роскоши» (quiet luxury) и стремится к созданию статусных, но при этом комфортных образов. Идеально дополняя классические брюки, жакет Salve A формирует безупречный костюмный ансамбль, подходящий как для деловых переговоров высокого уровня, так и для торжественных светских выходов."
+  },
+  "colors": [
+    {
+      "name": "Verde Militare",
+      "code": "1789",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/vxWux3ofS5SFEVbTaGH9Cg_99445790696f42f07c9277_19680844_02820850XX1.jpg"
+    },
+    {
+      "name": "Rosa",
+      "code": "0326",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1393038525692424d90fc184_00755460_02781540XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total look Military Heritage (Look 48)",
+        "en": "Total look Military Heritage (Look 48)",
+        "ar": "Total look Military Heritage (Look 48)",
+        "ka": "Total look Military Heritage (Look 48)",
+        "hy": "Total look Military Heritage (Look 48)",
+        "lv": "Total look Military Heritage (Look 48)",
+        "lt": "Total look Military Heritage (Look 48)",
+        "pl": "Total look Military Heritage (Look 48)",
+        "uk": "Total look Military Heritage (Look 48)"
+      },
+      "text": {
+        "ru": "Salve A 1789 в сочетании с рубашкой Liceali 3200 и брюками Odini 1789.",
+        "en": "Salve A 1789 combined with the Liceali 3200 shirt and Odini 1789 trousers.",
+        "ar": "Salve A 1789 combined with the Liceali 3200 shirt and Odini 1789 trousers.",
+        "ka": "Salve A 1789 combined with the Liceali 3200 shirt and Odini 1789 trousers.",
+        "hy": "Salve A 1789 combined with the Liceali 3200 shirt and Odini 1789 trousers.",
+        "lv": "Salve A 1789 combined with the Liceali 3200 shirt and Odini 1789 trousers.",
+        "lt": "Salve A 1789 combined with the Liceali 3200 shirt and Odini 1789 trousers.",
+        "pl": "Salve A 1789 combined with the Liceali 3200 shirt and Odini 1789 trousers.",
+        "uk": "Salve A 1789 combined with the Liceali 3200 shirt and Odini 1789 trousers."
+      },
+      "items": [
+        {
+          "name": "Salve A",
+          "code": "1789",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/vxWux3ofS5SFEVbTaGH9Cg_99445790696f42f07c9277_19680844_02820850XX1.jpg"
+        },
+        {
+          "name": "Liceali",
+          "code": "3200",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/S82WH97wQzu4sRcO5wWaUQ_2103315294696f4306d83529_32198325_02821400XX1.jpg"
+        },
+        {
+          "name": "Odini",
+          "code": "1789",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg",
+          "modelId": 451
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sophisticated Power Suit (Look 62)",
+        "en": "Sophisticated Power Suit (Look 62)",
+        "ar": "Sophisticated Power Suit (Look 62)",
+        "ka": "Sophisticated Power Suit (Look 62)",
+        "hy": "Sophisticated Power Suit (Look 62)",
+        "lv": "Sophisticated Power Suit (Look 62)",
+        "lt": "Sophisticated Power Suit (Look 62)",
+        "pl": "Sophisticated Power Suit (Look 62)",
+        "uk": "Sophisticated Power Suit (Look 62)"
+      },
+      "text": {
+        "ru": "Salve A 0326 в ансамбле с топом Lezioni 0101 и брюками Odini 0326.",
+        "en": "Salve A 0326 in an ensemble with the Lezioni 0101 top and Odini 0326 trousers.",
+        "ar": "Salve A 0326 in an ensemble with the Lezioni 0101 top and Odini 0326 trousers.",
+        "ka": "Salve A 0326 in an ensemble with the Lezioni 0101 top and Odini 0326 trousers.",
+        "hy": "Salve A 0326 in an ensemble with the Lezioni 0101 top and Odini 0326 trousers.",
+        "lv": "Salve A 0326 in an ensemble with the Lezioni 0101 top and Odini 0326 trousers.",
+        "lt": "Salve A 0326 in an ensemble with the Lezioni 0101 top and Odini 0326 trousers.",
+        "pl": "Salve A 0326 in an ensemble with the Lezioni 0101 top and Odini 0326 trousers.",
+        "uk": "Salve A 0326 in an ensemble with the Lezioni 0101 top and Odini 0326 trousers."
+      },
+      "items": [
+        {
+          "name": "Salve A",
+          "code": "0326",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1393038525692424d90fc184_00755460_02781540XX1.jpg"
+        },
+        {
+          "name": "Lezioni",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/205334736692424cee9f311_65701167_02781220XX1.jpg",
+          "modelId": 415
+        },
+        {
+          "name": "Odini",
+          "code": "0326",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1000796252692424d4084125_63956219_02781360XX1.jpg",
+          "modelId": 451
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Urban Layering (Look 49)",
+        "en": "Urban Layering (Look 49)",
+        "ar": "Urban Layering (Look 49)",
+        "ka": "Urban Layering (Look 49)",
+        "hy": "Urban Layering (Look 49)",
+        "lv": "Urban Layering (Look 49)",
+        "lt": "Urban Layering (Look 49)",
+        "pl": "Urban Layering (Look 49)",
+        "uk": "Urban Layering (Look 49)"
+      },
+      "text": {
+        "ru": "Salve A 1789 поверх пуловера Manos 0970 с рубашкой Leila A 0201.",
+        "en": "Salve A 1789 over the Manos 0970 pullover with the Leila A 0201 shirt.",
+        "ar": "Salve A 1789 over the Manos 0970 pullover with the Leila A 0201 shirt.",
+        "ka": "Salve A 1789 over the Manos 0970 pullover with the Leila A 0201 shirt.",
+        "hy": "Salve A 1789 over the Manos 0970 pullover with the Leila A 0201 shirt.",
+        "lv": "Salve A 1789 over the Manos 0970 pullover with the Leila A 0201 shirt.",
+        "lt": "Salve A 1789 over the Manos 0970 pullover with the Leila A 0201 shirt.",
+        "pl": "Salve A 1789 over the Manos 0970 pullover with the Leila A 0201 shirt.",
+        "uk": "Salve A 1789 over the Manos 0970 pullover with the Leila A 0201 shirt."
+      },
+      "items": [
+        {
+          "name": "Salve A",
+          "code": "1789",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/vxWux3ofS5SFEVbTaGH9Cg_99445790696f42f07c9277_19680844_02820850XX1.jpg"
+        },
+        {
+          "name": "Manos",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+        },
+        {
+          "name": "Leila A",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw attention to the two-piece suit concept: offer the Salve A jacket paired with the Odini trousers, emphasising that this is the perfect investment in a long-lasting core wardrobe.",
+      "Showcase the versatility of the Verde Militare 1789 shade as a refined alternative to classic navy or black, perfectly suited to the autumn-winter season.",
+      "Lead with the emotional appeal of the Rosa 0326 shade: this hue brings freshness to the complexion and lends the look a more feminine, exclusive edge within a business dress code."
+    ],
+    "ru": [
+      "Акцентируйте внимание на концепции костюма-двойки: предлагайте жакет Salve A в паре с брюками Odini, подчеркивая, что это идеальная инвестиция в долгосрочный базовый гардероб.",
+      "Продемонстрируйте универсальность оттенка Verde Militare 1789 как благородной альтернативы классическому синему или черному цветам, идеально подходящей для осенне-зимнего сезона.",
+      "Сделайте ставку на эмоциональный аспект цвета Rosa 0326: этот оттенок придает свежесть лицу и делает образ более женственным и эксклюзивным в рамках делового дресс-кода."
+    ],
+    "ar": [
+      "سلطي الضوء على مفهوم البدلة المكونة من قطعتين: اقترحي سترة Salve A مع بنطال Odini، مع التأكيد على أنها استثمار مثالي في خزانة الملابس الأساسية طويلة الأمد.",
+      "أبرزي تعدد استخدامات لون Verde Militare 1789 كبديل راقٍ للألوان الكلاسيكية مثل الأزرق أو الأسود، مما يجعله مثاليًا لموسم الخريف والشتاء.",
+      "ركزي على الجانب العاطفي للون Rosa 0326: فهذا اللون يمنح الوجه نضارة ويجعل الإطلالة أكثر أنوثة وحصرية ضمن قواعد اللباس الرسمي للعمل."
+    ],
+    "ka": [
+      "ყურადღება გაამახვილეთ კოსტიუმ-დუეტის კონცეფციაზე: შესთავაზეთ პიჯაკი Salve A წყვილში შარვალ Odini-სთან ერთად, ხაზგასმით, რომ ეს არის იდეალური ინვესტიცია ხანგრძლივი მოხმარების საბაზისო გარდერობში.",
+      "აჩვენეთ Verde Militare 1789-ის ტონის უნივერსალურობა, როგორც კლასიკური ლურჯი ან შავი ფერების დახვეწილი ალტერნატივა, რომელიც იდეალურად შეეფერება შემოდგომა-ზამთრის სეზონს.",
+      "გააკეთეთ აქცენტი Rosa 0326 ფერის ემოციურ ასპექტზე: ეს ტონი სახეს სიახლეს ანიჭებს და ლუქს უფრო ქალურს და ექსკლუზიურს ხდის საქმიანი დრეს-კოდის ფარგლებში."
+    ],
+    "hy": [
+      "Շեշտադրեք կոստյում-երկյակի հայեցակարգը. առաջարկեք Salve A բաճկոնը Odini տաբատի հետ համադրությամբ՝ ընդգծելով, որ սա իդեալական ներդրում է երկարաժամկետ բազային զգեստապահարանի համար։",
+      "Ցուցադրեք Verde Militare 1789 երանգի բազմակողմանիությունը՝ որպես դասական կապույտ կամ սև գույների ազնիվ այլընտրանք, որը կատարյալ է աշուն-ձմեռ սեզոնի համար։",
+      "Խաղադրույք կատարեք Rosa 0326 գույնի էմոցիոնալ կողմի վրա. այս երանգը թարմություն է հաղորդում դեմքին և դարձնում կերպարն ավելի կանացի ու էքսկլյուզիվ՝ գործնական դրես-կոդի շրջանակներում։"
+    ],
+    "lv": [
+      "Akcentējiet uzmanību uz kostīma-komplekta koncepciju: piedāvājiet žaketi Salve A pārī ar biksēm Odini, uzsverot, ka tā ir ideāla investīcija ilgtermiņa bāzes garderobē.",
+      "Demonstrējiet Verde Militare 1789 toņa daudzpusību kā cēlu alternatīvu klasiskajām zilajai vai melnajai krāsai, kas ir lieliski piemērota rudens-ziemas sezonai.",
+      "Lieciet uzsvaru uz Rosa 0326 krāsas emocionālo aspektu: šis tonis piešķir sejai svaigumu un padara tēlu sievišķīgāku un ekskluzīvāku lietišķā dreskoda ietvaros."
+    ],
+    "lt": [
+      "Akcentuokite dėmesį į kostiumo-derinio koncepciją: siūlykite švarką Salve A derinti su kelnėmis Odini, pabrėždami, kad tai ideali investicija į ilgalaikį bazinį garderobą.",
+      "Pademonstruokite atspalvio Verde Militare 1789 universalumą kaip kilnią alternatyvą klasikinei mėlynai ar juodai spalvoms, idealiai tinkančią rudens-žiemos sezonui.",
+      "Statykite ant emocinio spalvos Rosa 0326 aspekto: šis atspalvis suteikia veidui gaivumo ir daro įvaizdį moteriškesnį bei išskirtinesnį verslo aprangos kodo rėmuose."
+    ],
+    "pl": [
+      "Skup uwagę na koncepcji kompletu dwuczęściowego: proponuj żakiet Salve A w parze ze spodniami Odini, podkreślając, że jest to idealna inwestycja w długoterminową garderobę bazową.",
+      "Zaprezentuj uniwersalność odcienia Verde Militare 1789 jako szlachetnej alternatywy dla klasycznego granatu lub czerni, idealnie pasującej do sezonu jesienno-zimowego.",
+      "Postaw na emocjonalny aspekt koloru Rosa 0326: ten odcień dodaje świeżości twarzy i czyni stylizację bardziej kobiecą oraz ekskluzywną w ramach biznesowego dress code'u."
+    ],
+    "uk": [
+      "Акцентуйте увагу на концепції костюма-двійки: пропонуйте жакет Salve A в парі з брюками Odini, підкреслюючи, що це ідеальна інвестиція в довгостроковий базовий гардероб.",
+      "Продемонструйте універсальність відтінку Verde Militare 1789 як благородної альтернативи класичним синьому або чорному кольорам, що ідеально підходить для осінньо-зимового сезону.",
+      "Зробіть ставку на емоційний аспект кольору Rosa 0326: цей відтінок додає свіжості обличчю та робить образ більш жіночним і ексклюзивним у межах ділового дрес-коду."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Жакет выглядит слишком строго для повседневной носки",
+        "a": "Предложите стилизацию в духе casual chic: сочетание жакета с денимом или мягким трикотажем Manos, что позволит снизить градус формальности и сделает образ более расслабленным."
+      },
+      {
+        "q": "Цвет Rosa 0326 кажется непрактичным для жакета",
+        "a": "Уточните, что в коллекции Luisa Spagnoli используются материалы высочайшего качества, которые долго сохраняют первозданный вид. Розовый цвет в данном исполнении — это маркер высокого статуса и уверенности в себе."
+      },
+      {
+        "q": "Я опасаюсь, что приталенный крой будет сковывать движения",
+        "a": "Обратите внимание на выверенные лекала итальянских мастеров: конструкция жакета разработана таким образом, чтобы обеспечивать безупречную посадку по фигуре, сохраняя при этом полную свободу движений."
+      },
+      {
+        "q": "Зеленый оттенок (Verde Militare) сложно сочетать с другими вещами",
+        "a": "Продемонстрируйте готовые решения из лукбука: этот цвет идеально гармонирует с палитрой коричневых, бежевых и кремовых тонов, выступая в роли универсальной базы."
+      },
+      {
+        "q": "Классический блейзер быстро выйдет из моды",
+        "a": "Подчеркните, что Salve A — это изделие вне времени. Его лаконичный дизайн и премиальное исполнение гарантируют актуальность модели на протяжении многих сезонов."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Жакет выглядит слишком строго для повседневной носки",
+        "a": "Предложите стилизацию в духе casual chic: сочетание жакета с денимом или мягким трикотажем Manos, что позволит снизить градус формальности и сделает образ более расслабленным."
+      },
+      {
+        "q": "Цвет Rosa 0326 кажется непрактичным для жакета",
+        "a": "Уточните, что в коллекции Luisa Spagnoli используются материалы высочайшего качества, которые долго сохраняют первозданный вид. Розовый цвет в данном исполнении — это маркер высокого статуса и уверенности в себе."
+      },
+      {
+        "q": "Я опасаюсь, что приталенный крой будет сковывать движения",
+        "a": "Обратите внимание на выверенные лекала итальянских мастеров: конструкция жакета разработана таким образом, чтобы обеспечивать безупречную посадку по фигуре, сохраняя при этом полную свободу движений."
+      },
+      {
+        "q": "Зеленый оттенок (Verde Militare) сложно сочетать с другими вещами",
+        "a": "Продемонстрируйте готовые решения из лукбука: этот цвет идеально гармонирует с палитрой коричневых, бежевых и кремовых тонов, выступая в роли универсальной базы."
+      },
+      {
+        "q": "Классический блейзер быстро выйдет из моды",
+        "a": "Подчеркните, что Salve A — это изделие вне времени. Его лаконичный дизайн и премиальное исполнение гарантируют актуальность модели на протяжении многих сезонов."
+      }
+    ],
+    "ar": [
+      {
+        "q": "تبدو السترة رسمية أكثر من اللازم للاستخدام اليومي",
+        "a": "اقترحي تنسيقاً بأسلوب الـ casual chic: مزج السترة مع الدنيم أو حياكة Manos الناعمة، مما يقلل من حدة الطابع الرسمي ويمنح الإطلالة طابعاً أكثر استرخاءً."
+      },
+      {
+        "q": "يبدو لون Rosa 0326 غير عملي للسترة",
+        "a": "وضحي أن تشكيلة Luisa Spagnoli تستخدم مواد ذات جودة فائقة تحافظ على مظهرها الأصلي لفترة طويلة. اللون الوردي في هذا التصميم هو رمز للمكانة العالية والثقة بالنفس."
+      },
+      {
+        "q": "أخشى أن يقيد القصة الضيقة حركتي",
+        "a": "لفتي الانتباه إلى القصات الدقيقة التي صممها الحرفيون الإيطاليون: صُمم هيكل السترة لضمان مقاس مثالي للجسم مع الحفاظ على حرية الحركة الكاملة."
+      },
+      {
+        "q": "من الصعب تنسيق اللون الأخضر (Verde Militare) مع القطع الأخرى",
+        "a": "اعرضي حلولاً جاهزة من كتالوج الإطلالات: هذا اللون يتماشى بشكل مثالي مع لوحة ألوان البني والبيج والكريمي، مما يجعله قاعدة عالمية."
+      },
+      {
+        "q": "سيصبح البليزر الكلاسيكي موضة قديمة بسرعة",
+        "a": "أكدي أن Salve A قطعة تتجاوز حدود الزمن. تصميمه البسيط وتنفيذه الفاخر يضمنان بقاء الموديل مواكباً للموضة لعدة مواسم."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ჟაკეტი ყოველდღიური ტარებისთვის ზედმეტად მკაცრად გამოიყურება",
+        "a": "შესთავაზეთ casual chic სტილის სტილიზაცია: შეუხამეთ ჟაკეტი დენიმს ან Manos-ის რბილ ტრიკოტაჟს, რაც შეამცირებს ფორმალობის ხარისხს და სახეს უფრო მოდუნებულს გახდის."
+      },
+      {
+        "q": "Rosa 0326 ფერი ჟაკეტისთვის არაპრაქტიკული ჩანს",
+        "a": "დააზუსტეთ, რომ Luisa Spagnoli-ის კოლექციაში გამოიყენება უმაღლესი ხარისხის მასალები, რომლებიც დიდხანს ინარჩუნებენ პირვანდელ იერს. ვარდისფერი ფერი ამ შესრულებით არის მაღალი სტატუსისა და თავდაჯერებულობის მაჩვენებელი."
+      },
+      {
+        "q": "მეშინია, რომ ტანში გამოყვანილი კროი მოძრაობას შემიზღუდავს",
+        "a": "ყურადღება გაამახვილეთ იტალიელი ოსტატების დახვეწილ ლეკალებზე: ჟაკეტის კონსტრუქცია შემუშავებულია ისე, რომ უზრუნველყოს ფიგურაზე უნაკლო მორგება და ამავდროულად შეინარჩუნოს სრული თავისუფლება მოძრაობაში."
+      },
+      {
+        "q": "მწვანე ელფერი (Verde Militare) სხვა ნივთებთან რთული შესახამებელია",
+        "a": "აჩვენეთ მზა გადაწყვეტილებები ლუქბუქიდან: ეს ფერი იდეალურად ჰარმონიზდება ყავისფერი, კრემისფერი და კრემის ტონების პალიტრასთან და გამოდის როგორც უნივერსალური ბაზა."
+      },
+      {
+        "q": "კლასიკური ბლეიზერი მალე გამოვა მოდიდან",
+        "a": "ხაზგასმით აღნიშნეთ, რომ Salve A არის დროზე მაღლა მდგომი ნივთი. მისი ლაკონური დიზაინი და პრემიუმ შესრულება უზრუნველყოფს მოდელის აქტუალობას მრავალი სეზონის განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ժակետը չափազանց խիստ է թվում ամենօրյա կրման համար",
+        "a": "Առաջարկեք ոճավորում՝ casual chic ոգով. համադրեք ժակետը դենիմի կամ Manos փափուկ տրիկոտաժի հետ, ինչը կմեղմացնի ձևականությունը և կերպարին կհաղորդի ավելի հանգիստ տեսք"
+      },
+      {
+        "q": "Rosa 0326 գույնը ժակետի համար անգործնական է թվում",
+        "a": "Պարզաբանեք, որ Luisa Spagnoli-ի հավաքածուում օգտագործվում են ամենաբարձր որակի նյութեր, որոնք երկար ժամանակ պահպանում են իրենց սկզբնական տեսքը: Վարդագույն գույնն այս կատարմամբ բարձր կարգավիճակի և ինքնավստահության նշան է"
+      },
+      {
+        "q": "Վախենում եմ, որ մարմնին կիպ ձևվածքը կկաշկանդի շարժումները",
+        "a": "Ուշադրություն դարձրեք իտալացի վարպետների հղկված կաղապարներին. ժակետի կառուցվածքը մշակված է այնպես, որ ապահովի կատարյալ նստվածք մարմնին՝ միաժամանակ պահպանելով շարժումների լիակատար ազատությունը"
+      },
+      {
+        "q": "Կանաչ երանգը (Verde Militare) դժվար է համադրել այլ իրերի հետ",
+        "a": "Ցույց տվեք պատրաստի լուծումներ լուքբուքից. այս գույնը կատարյալ ներդաշնակ է դարչնագույն, բեժ և կրեմագույն երանգների հետ՝ հանդես գալով որպես ունիվերսալ հիմք"
+      },
+      {
+        "q": "Դասական բլեյզերը արագ դուրս կգա նորաձևությունից",
+        "a": "Ընդգծեք, որ Salve A-ն ժամանակից վեր իր է: Նրա հակիրճ դիզայնն ու պրեմիում կատարումը երաշխավորում են մոդելի արդիականությունը բազմաթիվ սեզոնների ընթացքում"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Žakete izskatās pārāk formāla ikdienas valkāšanai",
+        "a": "Piedāvājiet stilizāciju casual chic garā: žaketes kombinācija ar džinsu audumu vai maigu Manos trikotāžu, kas ļaus mazināt formalitātes pakāpi un padarīs tēlu brīvāku."
+      },
+      {
+        "q": "Rosa 0326 krāsa žaketei šķiet nepraktiska",
+        "a": "Paskaidrojiet, ka Luisa Spagnoli kolekcijā tiek izmantoti augstākās kvalitātes materiāli, kas ilgi saglabā savu sākotnējo izskatu. Rozā krāsa šajā izpildījumā ir augsta statusa un pašpārliecinātības zīme."
+      },
+      {
+        "q": "Baidos, ka piegulošais piegriezums ierobežos kustības",
+        "a": "Pievērsiet uzmanību itāļu meistaru precīzajiem piegriezumiem: žaketes konstrukcija ir izstrādāta tā, lai nodrošinātu nevainojamu piegulumu augumam, vienlaikus saglabājot pilnīgu kustību brīvību."
+      },
+      {
+        "q": "Zaļais tonis (Verde Militare) ir grūti kombinējams ar citām lietām",
+        "a": "Demonstrējiet gatavus risinājumus no lūkbooka: šī krāsa lieliski harmonē ar brūno, bēšo un krēmīgo toņu paleti, darbojoties kā universāla bāze."
+      },
+      {
+        "q": "Klasiskais bleizers ātri izies no modes",
+        "a": "Uzsveriet, ka Salve A ir laika pārbaudi izturējis izstrādājums. Tā lakoniskais dizains un premium izpildījums garantē modeļa aktualitāti daudzu sezonu garumā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Švarkas atrodo per daug griežtas kasdieniam dėvėjimui",
+        "a": "Pasiūlykite „casual chic“ stiliaus derinius: švarką derinkite su džinsu ar minkštu „Manos“ trikotažu, kas leis sumažinti formalumo lygį ir suteiks įvaizdžiui daugiau lengvumo."
+      },
+      {
+        "q": "„Rosa“ 0326 spalva atrodo nepraktiška švarkui",
+        "a": "Paaiškinkite, kad „Luisa Spagnoli“ kolekcijoje naudojamos aukščiausios kokybės medžiagos, kurios ilgai išlaiko savo pirminę išvaizdą. Rožinė spalva šiame variante – tai aukšto statuso ir pasitikėjimo savimi ženklas."
+      },
+      {
+        "q": "Baiminuosi, kad prigludęs kirpimas varžys judesius",
+        "a": "Atkreipkite dėmesį į tiksliai sukirptus itališkų meistrų modelius: švarko konstrukcija sukurta taip, kad užtikrintų nepriekaištingą prigludimą prie figūros, kartu išsaugant visišką judesių laisvę."
+      },
+      {
+        "q": "Žalias atspalvis (Verde Militare) sunkiai derinamas su kitais drabužiais",
+        "a": "Pademonstruokite paruoštus derinius iš „lookbook'o“: ši spalva idealiai dera su ruda, smėlio ir kreminiais tonais, veikdama kaip universalus pagrindas."
+      },
+      {
+        "q": "Klasikinis bleizeris greitai išeis iš mados",
+        "a": "Pabrėžkite, kad „Salve A“ – tai nesenstantis gaminys. Jo lakoniškas dizainas ir aukščiausios klasės atlikimas garantuoja modelio aktualumą daugelį sezonų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Żakiet wygląda zbyt surowo do noszenia na co dzień",
+        "a": "Zaproponuj stylizację w duchu casual chic: połączenie żakietu z denimem lub miękką dzianiną Manos, co pozwoli obniżyć stopień formalności i uczyni wizerunek bardziej swobodnym."
+      },
+      {
+        "q": "Kolor Rosa 0326 wydaje się niepraktyczny dla żakietu",
+        "a": "Wyjaśnij, że w kolekcji Luisa Spagnoli używane są materiały najwyższej jakości, które długo zachowują swój pierwotny wygląd. Różowy kolor w tym wydaniu to znak wysokiego statusu i pewności siebie."
+      },
+      {
+        "q": "Obawiam się, że dopasowany krój będzie krępować ruchy",
+        "a": "Zwróć uwagę na precyzyjne kroje włoskich mistrzów: konstrukcja żakietu została zaprojektowana tak, aby zapewnić nienaganne dopasowanie do sylwetki, zachowując jednocześnie pełną swobodę ruchów."
+      },
+      {
+        "q": "Zielony odcień (Verde Militare) trudno łączyć z innymi rzeczami",
+        "a": "Zaprezentuj gotowe rozwiązania z lookbooka: ten kolor idealnie współgra z paletą brązów, beżów i kremowych odcieni, pełniąc rolę uniwersalnej bazy."
+      },
+      {
+        "q": "Klasyczny blezer szybko wyjdzie z mody",
+        "a": "Podkreśl, że Salve A to produkt ponadczasowy. Jego lakoniczny design i wykonanie premium gwarantują aktualność modelu przez wiele sezonów."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Жакет виглядає занадто суворо для повсякденного носіння",
+        "a": "Запропонуйте стилізацію в дусі casual chic: поєднання жакета з денімом або м'яким трикотажем Manos, що дозволить знизити градус формальності та зробить образ більш розслабленим."
+      },
+      {
+        "q": "Колір Rosa 0326 здається непрактичним для жакета",
+        "a": "Уточніть, що в колекції Luisa Spagnoli використовуються матеріали найвищої якості, які довго зберігають первісний вигляд. Рожевий колір у даному виконанні — це маркер високого статусу та впевненості в собі."
+      },
+      {
+        "q": "Я побоююся, що приталений крій буде сковувати рухи",
+        "a": "Зверніть увагу на вивірені лекала італійських майстрів: конструкція жакета розроблена таким чином, щоб забезпечувати бездоганну посадку по фігурі, зберігаючи при цьому повну свободу рухів."
+      },
+      {
+        "q": "Зелений відтінок (Verde Militare) складно поєднувати з іншими речами",
+        "a": "Продемонструйте готові рішення з лукбуку: цей колір ідеально гармоніює з палітрою коричневих, бежевих та кремових тонів, виступаючи в ролі універсальної бази."
+      },
+      {
+        "q": "Класичний блейзер швидко вийде з моди",
+        "a": "Підкресліть, що Salve A — це виріб поза часом. Його лаконічний дизайн та преміальне виконання гарантують актуальність моделі протягом багатьох сезонів."
+      }
+    ]
+  }
+}

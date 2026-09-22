@@ -1,0 +1,214 @@
+{
+  "id": 99,
+  "name": "Lanificio",
+  "description": {
+    "en": "Data not available in official sources",
+    "ru": "Данные отсутствуют в официальных источниках",
+    "ar": "لا تتوفر بيانات في المصادر الرسمية",
+    "ka": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+    "hy": "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+    "lv": "Dati nav pieejami oficiālajos avotos",
+    "lt": "Oficialiuose šaltiniuose duomenų nėra",
+    "pl": "Dane niedostępne w oficjalnych źródłach",
+    "uk": "Дані відсутні в офіційних джерелах"
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281026%29.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1",
+        "ar": "Look 1",
+        "ka": "Look 1",
+        "hy": "Look 1",
+        "lv": "Look 1",
+        "lt": "Look 1",
+        "pl": "Look 1",
+        "uk": "Look 1",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1: Динамичный и современный ансамбль, объединяющий футболку Lanificio 0101 с толстовкой Linearita 0101 0101 и брюками Orilia 0101. Завершают образ туфли Usuale A 0101 0002.",
+        "en": "A dynamic and modern ensemble, combining the Lanificio 0101 t-shirt with the Linearita 0101 0101 sweatshirt and Orilia 0101 trousers. The look is completed by Usuale A 0101 0002 shoes.",
+        "ar": "A dynamic and modern ensemble, combining the Lanificio 0101 t-shirt with the Linearita 0101 0101 sweatshirt and Orilia 0101 trousers. The look is completed by Usuale A 0101 0002 shoes.",
+        "ka": "A dynamic and modern ensemble, combining the Lanificio 0101 t-shirt with the Linearita 0101 0101 sweatshirt and Orilia 0101 trousers. The look is completed by Usuale A 0101 0002 shoes.",
+        "hy": "A dynamic and modern ensemble, combining the Lanificio 0101 t-shirt with the Linearita 0101 0101 sweatshirt and Orilia 0101 trousers. The look is completed by Usuale A 0101 0002 shoes.",
+        "lv": "A dynamic and modern ensemble, combining the Lanificio 0101 t-shirt with the Linearita 0101 0101 sweatshirt and Orilia 0101 trousers. The look is completed by Usuale A 0101 0002 shoes.",
+        "lt": "A dynamic and modern ensemble, combining the Lanificio 0101 t-shirt with the Linearita 0101 0101 sweatshirt and Orilia 0101 trousers. The look is completed by Usuale A 0101 0002 shoes.",
+        "pl": "A dynamic and modern ensemble, combining the Lanificio 0101 t-shirt with the Linearita 0101 0101 sweatshirt and Orilia 0101 trousers. The look is completed by Usuale A 0101 0002 shoes.",
+        "uk": "A dynamic and modern ensemble, combining the Lanificio 0101 t-shirt with the Linearita 0101 0101 sweatshirt and Orilia 0101 trousers. The look is completed by Usuale A 0101 0002 shoes."
+      },
+      "items": [
+        {
+          "name": "Lanificio",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281026%29.png"
+        },
+        {
+          "name": "Linearita",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281028%29.png",
+          "modelId": 111
+        },
+        {
+          "name": "Orilia",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/BtQDR10RQcqlW_zq2aAUyw_1859370581696f42ea269446_74918326_02820710XX1.jpg",
+          "modelId": 261
+        },
+        {
+          "name": "Usuale A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USUALE_10100020000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Data unavailable in official sources",
+      "Data unavailable in official sources",
+      "Data unavailable in official sources"
+    ],
+    "ru": [
+      "Данные отсутствуют в официальных источниках",
+      "Данные отсутствуют в официальных источниках",
+      "Данные отсутствуют в официальных источниках"
+    ],
+    "ar": [
+      "البيانات غير متوفرة في المصادر الرسمية",
+      "البيانات غير متوفرة في المصادر الرسمية",
+      "البيانات غير متوفرة في المصادر الرسمية"
+    ],
+    "ka": [
+      "მონაცემები ოფიციალურ წყაროებში არ არის ხელმისაწვდომი",
+      "მონაცემები ოფიციალურ წყაროებში არ არის ხელმისაწვდომი",
+      "მონაცემები ოფიციალურ წყაროებში არ არის ხელმისაწვდომი"
+    ],
+    "hy": [
+      "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+      "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+      "Տվյալները պաշտոնական աղբյուրներում բացակայում են"
+    ],
+    "lv": [
+      "Oficiālajos avotos dati nav pieejami",
+      "Oficiālajos avotos dati nav pieejami",
+      "Oficiālajos avotos dati nav pieejami"
+    ],
+    "lt": [
+      "Duomenys oficialiuose šaltiniuose nepateikiami",
+      "Duomenys oficialiuose šaltiniuose nepateikiami",
+      "Duomenys oficialiuose šaltiniuose nepateikiami"
+    ],
+    "pl": [
+      "Brak danych w oficjalnych źródłach",
+      "Brak danych w oficjalnych źródłach",
+      "Brak danych w oficjalных źródłach"
+    ],
+    "uk": [
+      "Дані відсутні в офіційних джерелах",
+      "Дані відсутні в офіційних джерелах",
+      "Дані відсутні в офіційних джерелах"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      }
+    ],
+    "ru": [],
+    "ar": [
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة in المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      }
+    ],
+    "ka": [
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი in ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      }
+    ],
+    "hy": [],
+    "lv": [],
+    "lt": [],
+    "pl": [
+      {
+        "q": "Dane niedostępne w oficjalnych źródłach",
+        "a": "Dane niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane niedostępne w oficjalnych źródłach",
+        "a": "Dane niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane niedostępne w oficjalnych źródłach",
+        "a": "Dane niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane niedostępne w oficjalnych źródłach",
+        "a": "Dane niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane niedostępne w oficjalnych źródłach",
+        "a": "Dane niedostępne w oficjalnych źródłach"
+      }
+    ],
+    "uk": []
+  }
+}

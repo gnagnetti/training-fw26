@@ -1,0 +1,269 @@
+{
+  "id": 448,
+  "name": "Moralita",
+  "description": {
+    "en": "Data not available in official sources.",
+    "ru": "Данные отсутствуют в официальных источниках.",
+    "ar": "البيانات غير متوفرة في المصادر الرسمية.",
+    "ka": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება.",
+    "hy": "Տվյալները պաշտոնական աղբյուրներում բացակայում են։",
+    "lv": "Dati oficiālajos avotos nav pieejami.",
+    "lt": "Duomenų oficialiuose šaltiniuose nėra.",
+    "pl": "Dane niedostępne w oficjalnych źródłach.",
+    "uk": "Дані відсутні в офіційних джерелах."
+  },
+  "colors": [
+    {
+      "name": "Tabacco",
+      "code": "2234",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/133445466692424e60a8ba4_47387365_02790590XX1.jpg"
+    },
+    {
+      "name": "Verde Bottiglia",
+      "code": "2050",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/439158744691f15a43fd0d7_26445537_02790800XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда Luisa Spagnoli предлагают интегрировать модель Moralita в многослойные городские и деловые образы, сочетая её с верхней одеждой из шерсти и статусными аксессуарами: Вариант 2050 ( Зеленый): На витрине (Vetrina 38, Bambola 3): деловой ансамбль с жакетом Sarat 2710, рубашкой в полоску Liceali 3200 и брюками Onesta 2710. Образ дополнен шляпой Renno 0930 и сумкой Ipositano 0920 0002. Вариант 2234 ( Коричневый):",
+        "en": "Luisa Spagnoli brand stylists suggest integrating the Moralita model into layered urban and business looks, combining it with wool outerwear and status-oriented accessories: Option 2050 ( Green): On display (Vetrina 38, Bambola 3): a business ensemble with a Sarat 2710 jacket, a striped Liceali 3200 shirt and Onesta 2710 trousers. The look is complemented by a Renno 0930 hat and an Ipositano 0920 0002 bag. Option 2234 ( Brown):",
+        "ar": "Luisa Spagnoli brand stylists suggest integrating the Moralita model into layered urban and business looks, combining it with wool outerwear and status-oriented accessories: Option 2050 ( Green): On display (Vetrina 38, Bambola 3): a business ensemble with a Sarat 2710 jacket, a striped Liceali 3200 shirt and Onesta 2710 trousers. The look is complemented by a Renno 0930 hat and an Ipositano 0920 0002 bag. Option 2234 ( Brown):",
+        "ka": "Luisa Spagnoli brand stylists suggest integrating the Moralita model into layered urban and business looks, combining it with wool outerwear and status-oriented accessories: Option 2050 ( Green): On display (Vetrina 38, Bambola 3): a business ensemble with a Sarat 2710 jacket, a striped Liceali 3200 shirt and Onesta 2710 trousers. The look is complemented by a Renno 0930 hat and an Ipositano 0920 0002 bag. Option 2234 ( Brown):",
+        "hy": "Luisa Spagnoli brand stylists suggest integrating the Moralita model into layered urban and business looks, combining it with wool outerwear and status-oriented accessories: Option 2050 ( Green): On display (Vetrina 38, Bambola 3): a business ensemble with a Sarat 2710 jacket, a striped Liceali 3200 shirt and Onesta 2710 trousers. The look is complemented by a Renno 0930 hat and an Ipositano 0920 0002 bag. Option 2234 ( Brown):",
+        "lv": "Luisa Spagnoli brand stylists suggest integrating the Moralita model into layered urban and business looks, combining it with wool outerwear and status-oriented accessories: Option 2050 ( Green): On display (Vetrina 38, Bambola 3): a business ensemble with a Sarat 2710 jacket, a striped Liceali 3200 shirt and Onesta 2710 trousers. The look is complemented by a Renno 0930 hat and an Ipositano 0920 0002 bag. Option 2234 ( Brown):",
+        "lt": "Luisa Spagnoli brand stylists suggest integrating the Moralita model into layered urban and business looks, combining it with wool outerwear and status-oriented accessories: Option 2050 ( Green): On display (Vetrina 38, Bambola 3): a business ensemble with a Sarat 2710 jacket, a striped Liceali 3200 shirt and Onesta 2710 trousers. The look is complemented by a Renno 0930 hat and an Ipositano 0920 0002 bag. Option 2234 ( Brown):",
+        "pl": "Luisa Spagnoli brand stylists suggest integrating the Moralita model into layered urban and business looks, combining it with wool outerwear and status-oriented accessories: Option 2050 ( Green): On display (Vetrina 38, Bambola 3): a business ensemble with a Sarat 2710 jacket, a striped Liceali 3200 shirt and Onesta 2710 trousers. The look is complemented by a Renno 0930 hat and an Ipositano 0920 0002 bag. Option 2234 ( Brown):",
+        "uk": "Luisa Spagnoli brand stylists suggest integrating the Moralita model into layered urban and business looks, combining it with wool outerwear and status-oriented accessories: Option 2050 ( Green): On display (Vetrina 38, Bambola 3): a business ensemble with a Sarat 2710 jacket, a striped Liceali 3200 shirt and Onesta 2710 trousers. The look is complemented by a Renno 0930 hat and an Ipositano 0920 0002 bag. Option 2234 ( Brown):"
+      },
+      "items": [
+        {
+          "name": "Sarat",
+          "code": "2710",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1220159631692424d9d05f27_96853729_02781560XX1.jpg",
+          "modelId": 473
+        },
+        {
+          "name": "Liceali",
+          "code": "3200",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/S82WH97wQzu4sRcO5wWaUQ_2103315294696f4306d83529_32198325_02821400XX1.jpg"
+        },
+        {
+          "name": "Onesta",
+          "code": "2710",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/612412840691c578b4bc602_37755049_02780210XX1.jpg",
+          "modelId": 459
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        },
+        {
+          "name": "Ipositano",
+          "code": "0920 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 51, 52)",
+        "en": "On display (Vetrina 51, 52)",
+        "ar": "On display (Vetrina 51, 52)",
+        "ka": "On display (Vetrina 51, 52)",
+        "hy": "On display (Vetrina 51, 52)",
+        "lv": "On display (Vetrina 51, 52)",
+        "lt": "On display (Vetrina 51, 52)",
+        "pl": "On display (Vetrina 51, 52)",
+        "uk": "On display (Vetrina 51, 52)"
+      },
+      "text": {
+        "ru": "предлагается в сочетании с пальто-халатом Stenografo 0101 или структурным пальто Scansione 0961. Комплектуется рубашкой Limonaia 0101 и юбками: либо Fenice 2226, либо жаккардовой моделью в «елочку» Minia 0101 2234.",
+        "en": "offered in combination with a Stenografo 0101 wrap coat or a structural Scansione 0961 coat. Complemented with a Limonaia 0101 shirt and skirts: either Fenice 2226, or a Minia 0101 2234 herringbone jacquard model.",
+        "ar": "offered in combination with a Stenografo 0101 wrap coat or a structural Scansione 0961 coat. Complemented with a Limonaia 0101 shirt and skirts: either Fenice 2226, or a Minia 0101 2234 herringbone jacquard model.",
+        "ka": "offered in combination with a Stenografo 0101 wrap coat or a structural Scansione 0961 coat. Complemented with a Limonaia 0101 shirt and skirts: either Fenice 2226, or a Minia 0101 2234 herringbone jacquard model.",
+        "hy": "offered in combination with a Stenografo 0101 wrap coat or a structural Scansione 0961 coat. Complemented with a Limonaia 0101 shirt and skirts: either Fenice 2226, or a Minia 0101 2234 herringbone jacquard model.",
+        "lv": "offered in combination with a Stenografo 0101 wrap coat or a structural Scansione 0961 coat. Complemented with a Limonaia 0101 shirt and skirts: either Fenice 2226, or a Minia 0101 2234 herringbone jacquard model.",
+        "lt": "offered in combination with a Stenografo 0101 wrap coat or a structural Scansione 0961 coat. Complemented with a Limonaia 0101 shirt and skirts: either Fenice 2226, or a Minia 0101 2234 herringbone jacquard model.",
+        "pl": "offered in combination with a Stenografo 0101 wrap coat or a structural Scansione 0961 coat. Complemented with a Limonaia 0101 shirt and skirts: either Fenice 2226, or a Minia 0101 2234 herringbone jacquard model.",
+        "uk": "offered in combination with a Stenografo 0101 wrap coat or a structural Scansione 0961 coat. Complemented with a Limonaia 0101 shirt and skirts: either Fenice 2226, or a Minia 0101 2234 herringbone jacquard model."
+      },
+      "items": [
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Scansione",
+          "code": "0961",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg",
+          "modelId": 302
+        },
+        {
+          "name": "Limonaia",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg",
+          "modelId": 416
+        },
+        {
+          "name": "Fenice",
+          "code": "2226",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/548516493692424c9b2f596_35398249_02781060XX1.jpg"
+        },
+        {
+          "name": "Minia",
+          "code": "0101 2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2DArnQrxTg-oql1-E0SPpg_1318458338696f436d73ee42_37110795_02830840XX1.jpg",
+          "modelId": 445
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витрине (Vetrina 54, Bambola 3)",
+        "en": "On display (Vetrina 54, Bambola 3)",
+        "ar": "On display (Vetrina 54, Bambola 3)",
+        "ka": "On display (Vetrina 54, Bambola 3)",
+        "hy": "On display (Vetrina 54, Bambola 3)",
+        "lv": "On display (Vetrina 54, Bambola 3)",
+        "lt": "On display (Vetrina 54, Bambola 3)",
+        "pl": "On display (Vetrina 54, Bambola 3)",
+        "uk": "On display (Vetrina 54, Bambola 3)"
+      },
+      "text": {
+        "ru": "зимний сет под укороченное пальто Scalare 0101 в паре с пуловером Manos 0951 и брюками Oneta 0101.",
+        "en": "a winter set under a cropped Scalare 0101 coat paired with a Manos 0951 pullover and Oneta 0101 trousers.",
+        "ar": "a winter set under a cropped Scalare 0101 coat paired with a Manos 0951 pullover and Oneta 0101 trousers.",
+        "ka": "a winter set under a cropped Scalare 0101 coat paired with a Manos 0951 pullover and Oneta 0101 trousers.",
+        "hy": "a winter set under a cropped Scalare 0101 coat paired with a Manos 0951 pullover and Oneta 0101 trousers.",
+        "lv": "a winter set under a cropped Scalare 0101 coat paired with a Manos 0951 pullover and Oneta 0101 trousers.",
+        "lt": "a winter set under a cropped Scalare 0101 coat paired with a Manos 0951 pullover and Oneta 0101 trousers.",
+        "pl": "a winter set under a cropped Scalare 0101 coat paired with a Manos 0951 pullover and Oneta 0101 trousers.",
+        "uk": "a winter set under a cropped Scalare 0101 coat paired with a Manos 0951 pullover and Oneta 0101 trousers."
+      },
+      "items": [
+        {
+          "name": "Scalare",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/obH9FrFkRoq3xbxDWF6Fsg_1888970026696f42f15a20d0_57909911_02820870XX1.jpg",
+          "modelId": 300
+        },
+        {
+          "name": "Manos",
+          "code": "0951",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+        },
+        {
+          "name": "Oneta",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg",
+          "modelId": 254
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 70, 71)",
+        "en": "On display (Vetrina 70, 71)",
+        "ar": "On display (Vetrina 70, 71)",
+        "ka": "On display (Vetrina 70, 71)",
+        "hy": "On display (Vetrina 70, 71)",
+        "lv": "On display (Vetrina 70, 71)",
+        "lt": "On display (Vetrina 70, 71)",
+        "pl": "On display (Vetrina 70, 71)",
+        "uk": "On display (Vetrina 70, 71)"
+      },
+      "text": {
+        "ru": "подиумный образ с замшевым курткой-кабаном Scanio 2219 0908 и рубашкой Lucinda 0201. В качестве низа предлагаются либо юбка в клетку Fanny 3372, либо широкие джинсы Opaglio 0927.",
+        "en": "a runway look with a Scanio 2219 0908 suede caban jacket and a Lucinda 0201 shirt. As bottoms, either a Fanny 3372 plaid skirt is proposed, or wide-leg Opaglio 0927 jeans.",
+        "ar": "a runway look with a Scanio 2219 0908 suede caban jacket and a Lucinda 0201 shirt. As bottoms, either a Fanny 3372 plaid skirt is proposed, or wide-leg Opaglio 0927 jeans.",
+        "ka": "a runway look with a Scanio 2219 0908 suede caban jacket and a Lucinda 0201 shirt. As bottoms, either a Fanny 3372 plaid skirt is proposed, or wide-leg Opaglio 0927 jeans.",
+        "hy": "a runway look with a Scanio 2219 0908 suede caban jacket and a Lucinda 0201 shirt. As bottoms, either a Fanny 3372 plaid skirt is proposed, or wide-leg Opaglio 0927 jeans.",
+        "lv": "a runway look with a Scanio 2219 0908 suede caban jacket and a Lucinda 0201 shirt. As bottoms, either a Fanny 3372 plaid skirt is proposed, or wide-leg Opaglio 0927 jeans.",
+        "lt": "a runway look with a Scanio 2219 0908 suede caban jacket and a Lucinda 0201 shirt. As bottoms, either a Fanny 3372 plaid skirt is proposed, or wide-leg Opaglio 0927 jeans.",
+        "pl": "a runway look with a Scanio 2219 0908 suede caban jacket and a Lucinda 0201 shirt. As bottoms, either a Fanny 3372 plaid skirt is proposed, or wide-leg Opaglio 0927 jeans.",
+        "uk": "a runway look with a Scanio 2219 0908 suede caban jacket and a Lucinda 0201 shirt. As bottoms, either a Fanny 3372 plaid skirt is proposed, or wide-leg Opaglio 0927 jeans."
+      },
+      "items": [
+        {
+          "name": "Scanio",
+          "code": "2219 0908",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1382076925692424da8dd0a9_52339721_02781580XX1.jpg",
+          "modelId": 475
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Fanny",
+          "code": "3372",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/871464939692424c95958b1_55824848_02781050XX1.jpg",
+          "modelId": 387
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Data not available from official sources."
+    ],
+    "ru": [
+      "Данные отсутствуют в официальных источниках."
+    ],
+    "ar": [
+      "البيانات غير متوفرة في المصادر الرسمية."
+    ],
+    "ka": [
+      "მონაცემები ოფიციალურ წყაროებში არ არის ხელმისაწვდომი."
+    ],
+    "hy": [
+      "Տվյալները բացակայում են պաշտոնական աղբյուրներում:"
+    ],
+    "lv": [
+      "Dati oficiālajos avotos nav pieejami."
+    ],
+    "lt": [
+      "Duomenų oficialiuose šaltiniuose nėra."
+    ],
+    "pl": [
+      "Dane nie są dostępne w oficjalnych źródłach."
+    ],
+    "uk": [
+      "Дані відсутні в офіційних джерелах."
+    ]
+  },
+  "objections": {
+    "en": [],
+    "ru": [],
+    "ar": [],
+    "ka": [],
+    "hy": [],
+    "lv": [],
+    "lt": [],
+    "pl": [],
+    "uk": []
+  }
+}

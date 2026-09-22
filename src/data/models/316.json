@@ -1,0 +1,415 @@
+{
+  "id": 316,
+  "name": "Sigilli",
+  "description": {
+    "en": "This striking cropped car coat from Luisa Spagnoli is a bold union of urban style and luxurious textures. Crafted from durable cotton denim and fully lined with soft faux fur in an exquisite astrakhan (persian lamb) effect. The architectural cut is accentuated by wide lapels, while the antiqued finish of the domed buttons adds a note of vintage chic to the look. Functional patch pockets and framed welt pockets, alongside a central back vent, ensure a perfect balance between practicality and elegance in the Regular fit silhouette. Composition: 86% cotton, 14% polyester.",
+    "ru": "Этот эффектный укороченный кабан от Luisa Spagnoli представляет собой смелое сочетание городского стиля и роскошных фактур. Модель выполнена из прочного хлопкового денима и полностью утеплена мягким эко-мехом (faux fur) с изысканным эффектом астрахани (каракуля). Архитектурность кроя подчеркнута широкими лацканами, а антикварная отделка выпуклых пуговиц добавляет образу ноту винтажного шика. Функциональные накладные карманы и прорезные карманы в рамку, наряду с центральным шлицем сзади, обеспечивают идеальный баланс между практичностью и элегантностью в силуэте regular fit. Состав: 86% хлопок, 14% полиэстер.",
+    "ar": "تمثل هذه السترة القصيرة (كابان) اللافتة من Luisa Spagnoli مزيجاً جريئاً بين أسلوب المدينة والقوام الفاخر. الموديل مصنوع من قماش الدنيم القطني المتين ومبطن بالكامل بفراء صناعي (faux fur) ناعم ذي تأثير راقٍ يشبه فرو الكاراكول. تم إبراز الطابع المعماري للقصة بالياقات العريضة، بينما تضيف اللمسات النهائية العتيقة للأزرار البارزة لمسة من الأناقة الكلاسيكية (vintage chic). تضمن الجيوب الخارجية الوظيفية والجيوب المشقوقة في إطار، إلى جانب الفتحة المركزية في الخلف، توازناً مثالياً بين العملية والأناقة في القصة العادية (regular fit). التركيب: 86% قطن، 14% بوليستر.",
+    "ka": "ეს ეფექტური დამოკლებული ქაბანი Luisa Spagnoli-სგან წარმოადგენს ურბანული სტილისა და მდიდრული ფაქტურების თამამ შეხამებას. მოდელი დამზადებულია გამძლე ბამბის დენიმისგან და სრულად არის დათბუნებული რბილი ეკო-ბეწვით (faux fur), ასტრახანის (ყარაკულის) დახვეწილი ეფექტით. ჭრის არქიტექტურულობა ხაზგასმულია ფართო ლაცკანებით, ხოლო ამობურცული ღილების ანტიკვარული დამუშავება იერსახეს ვინტაჟური შიკის ნოტას სძენს. ფუნქციური დასადები ჯიბეები და ჩაჭრილი ჯიბეები, ცენტრალურ ჭრილთან ერთად ზურგზე, უზრუნველყოფს პრაქტიკულობასა და ელეგანტურობას შორის იდეალურ ბალანსს regular fit სილუეტში. შემადგენლობა: 86% ბამბა, 14% პოლიესტერი.",
+    "hy": "Luisa Spagnoli-ի այս էֆեկտային կարճեցված կաբանը քաղաքային ոճի և շքեղ ֆակտուրաների համարձակ համադրություն է: Մոդելը պատրաստված է ամուր բամբակյա դենիմից և ամբողջությամբ տաքացված է փափուկ էկո-մորթով (faux fur)՝ աստրախանի (կարակուլ) նրբաճաշակ էֆեկտով: Ձևվածքի ճարտարապետականությունը ընդգծված է լայն օձիքներով, իսկ ուռուցիկ կոճակների անտիկ հարդարանքը կերպարին հաղորդում է վինտաժային շքեղություն: Ֆունկցիոնալ վրադիր գրպանները և ներդիր գրպանները, մեջքի կենտրոնական բացվածքի հետ միասին, ապահովում են պրակտիկության և էլեգանտության կատարյալ հավասարակշռություն regular fit ուրվագծում: Կազմը՝ 86% բամբակ, 14% պոլիեսթեր:",
+    "lv": "Šis iespaidīgais Luisa Spagnoli īsinātais kaban mētelis ir drosmīgs pilsētas stila un greznu faktūru apvienojums. Modelis ir izgatavots no izturīga kokvilnas džinsa un pilnībā siltināts ar mīkstu eko kažokādu (faux fur) ar izsmalcinātu astrakhana (karakula) efektu. Piegriezuma arhitektoniskumu uzsver plati atlokai, bet izliekto pogu antīkā apdare tēlam piešķir vintage šika noti. Funkcionālās uzšūtās kabatas un iegrieztās kabatas, līdzās centrālajam šķēlumam aizmugurē, nodrošina perfektu līdzsvaru starp praktiskumu un eleganci regular fit siluetā. Sastāvs: 86% kokvilna, 14% poliesters.",
+    "lt": "Šis efektingas trumpintas Luisa Spagnoli kaban švarkas – tai drąsus miesto stiliaus ir prabangių faktūrų derinys. Modelis pasiūtas iš tvirto medvilninio džinso ir visiškai pašiltintas minkštu eko-kailiu (faux fur) su rafinuotu astrachano (karakulio) efektu. Kirpimo architektūriškumą pabrėžia platūs atlapai, o antikvarinė iškilių sagų apdaila įvaizdžiui prideda vintažinio šiko natą. Funkcionalios uždėtinės kišenės ir įleistinės kišenės kartu su centriniu skeltuku nugarinėje dalyje užtikrina idealų praktiškumo ir elegancijos balansą regular fit siluete. Sudėtis: 86% medvilnė, 14% poliesteris.",
+    "pl": "Ten efektowny krótki kabanik od Luisa Spagnoli to odważne połączenie miejskiego stylu i luksusowych faktur. Model wykonano z wytrzymałego bawełnianego denimu i w całości ocieplono miękkim eko-futrem (faux fur) z wykwintnym efektem astrachanu (karakułów). Architektoniczny charakter kroju podkreślono szerokimi klapami, a antyczne wykończenie wypukłych guzików dodaje całości nuty vintage szyku. Funkcjonalne kieszenie naszywane oraz kieszenie z listewkami, wraz z centralnym rozporkiem z tyłu, zapewniają idealny balans między praktycznością a elegancją w sylwetce regular fit. Skład: 86% bawełna, 14% poliester.",
+    "uk": "Цей ефектний вкорочений кабан від Luisa Spagnoli являє собою сміливе поєднання міського стилю та розкішних фактур. Модель виконана з міцного бавовняного деніму та повністю утеплена м'яким екохутром (faux fur) із вишуканим ефектом астрахані (каракулю). Архітектурність крою підкреслена широкими лацканами, а антикварна обробка випуклих ґудзиків додає образу ноту вінтажного шику. Функціональні накладні кишені та прорізні кишені в рамку, поряд із центральною шліцою ззаду, забезпечують ідеальний баланс між практичністю та елегантністю в силуеті regular fit. Склад: 86% бавовна, 14% поліестер."
+  },
+  "colors": [
+    {
+      "name": "Blu Panna",
+      "code": "1294 0235",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WzYXb10kQQaRbo3srKWFvA_1873521069696f42f6059416_18779616_02820990XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 'Urban Explorer' (Vetrina 5)",
+        "en": "Total Look 'Urban Explorer' (Vetrina 5)",
+        "ar": "Total Look 'Urban Explorer' (Vetrina 5)",
+        "ka": "Total Look 'Urban Explorer' (Vetrina 5)",
+        "hy": "Total Look 'Urban Explorer' (Vetrina 5)",
+        "lv": "Total Look 'Urban Explorer' (Vetrina 5)",
+        "lt": "Total Look 'Urban Explorer' (Vetrina 5)",
+        "pl": "Total Look 'Urban Explorer' (Vetrina 5)",
+        "uk": "Total Look 'Urban Explorer' (Vetrina 5)"
+      },
+      "text": {
+        "ru": "Кабан Sigilli 1294 0235 в сочетании с пуловером Meleti 0620, белой рубашкой Leila 0201 и широкими джинсами Olla 1248. Завершают образ кепи Renno 0930 и сумка Idoneo.",
+        "en": "Sigilli 1294 0235 coat combined with the Meleti 0620 pullover, white Leila 0201 shirt and wide-leg Olla 1248 jeans. A Renno 0930 cap and Idoneo bag (Data missing in official sources for URL) complete the look.",
+        "ar": "Sigilli 1294 0235 coat combined with the Meleti 0620 pullover, white Leila 0201 shirt and wide-leg Olla 1248 jeans. A Renno 0930 cap and Idoneo bag (Data missing in official sources for URL) complete the look.",
+        "ka": "Sigilli 1294 0235 coat combined with the Meleti 0620 pullover, white Leila 0201 shirt and wide-leg Olla 1248 jeans. A Renno 0930 cap and Idoneo bag (Data missing in official sources for URL) complete the look.",
+        "hy": "Sigilli 1294 0235 coat combined with the Meleti 0620 pullover, white Leila 0201 shirt and wide-leg Olla 1248 jeans. A Renno 0930 cap and Idoneo bag (Data missing in official sources for URL) complete the look.",
+        "lv": "Sigilli 1294 0235 coat combined with the Meleti 0620 pullover, white Leila 0201 shirt and wide-leg Olla 1248 jeans. A Renno 0930 cap and Idoneo bag (Data missing in official sources for URL) complete the look.",
+        "lt": "Sigilli 1294 0235 coat combined with the Meleti 0620 pullover, white Leila 0201 shirt and wide-leg Olla 1248 jeans. A Renno 0930 cap and Idoneo bag (Data missing in official sources for URL) complete the look.",
+        "pl": "Sigilli 1294 0235 coat combined with the Meleti 0620 pullover, white Leila 0201 shirt and wide-leg Olla 1248 jeans. A Renno 0930 cap and Idoneo bag (Data missing in official sources for URL) complete the look.",
+        "uk": "Sigilli 1294 0235 coat combined with the Meleti 0620 pullover, white Leila 0201 shirt and wide-leg Olla 1248 jeans. A Renno 0930 cap and Idoneo bag (Data missing in official sources for URL) complete the look."
+      },
+      "items": [
+        {
+          "name": "Sigilli",
+          "code": "1294 0235",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WzYXb10kQQaRbo3srKWFvA_1873521069696f42f6059416_18779616_02820990XX1.jpg"
+        },
+        {
+          "name": "Meleti",
+          "code": "0620",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1hGKdyecTBqaCk9fqoZ-fw_1206728860696f4369a3c3b5_02291338_02830730XX1.jpg",
+          "modelId": 164
+        },
+        {
+          "name": "Leila",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "modelId": 414
+        },
+        {
+          "name": "Olla",
+          "code": "1248",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1890676542692424d4b4f858_36560463_02781390XX1.jpg",
+          "modelId": 456
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 'Chic Sand' (Vetrina 9)",
+        "en": "Total Look 'Chic Sand' (Vetrina 9)",
+        "ar": "Total Look 'Chic Sand' (Vetrina 9)",
+        "ka": "Total Look 'Chic Sand' (Vetrina 9)",
+        "hy": "Total Look 'Chic Sand' (Vetrina 9)",
+        "lv": "Total Look 'Chic Sand' (Vetrina 9)",
+        "lt": "Total Look 'Chic Sand' (Vetrina 9)",
+        "pl": "Total Look 'Chic Sand' (Vetrina 9)",
+        "uk": "Total Look 'Chic Sand' (Vetrina 9)"
+      },
+      "text": {
+        "ru": "Кабан Sigilli 1294 0235 поверх туники Mascate 0204 с вельветовыми брюками Olap 1168.",
+        "en": "Sigilli 1294 0235 coat over the Mascate 0204 tunic with corduroy Olap 1168 trousers.",
+        "ar": "Sigilli 1294 0235 coat over the Mascate 0204 tunic with corduroy Olap 1168 trousers.",
+        "ka": "Sigilli 1294 0235 coat over the Mascate 0204 tunic with corduroy Olap 1168 trousers.",
+        "hy": "Sigilli 1294 0235 coat over the Mascate 0204 tunic with corduroy Olap 1168 trousers.",
+        "lv": "Sigilli 1294 0235 coat over the Mascate 0204 tunic with corduroy Olap 1168 trousers.",
+        "lt": "Sigilli 1294 0235 coat over the Mascate 0204 tunic with corduroy Olap 1168 trousers.",
+        "pl": "Sigilli 1294 0235 coat over the Mascate 0204 tunic with corduroy Olap 1168 trousers.",
+        "uk": "Sigilli 1294 0235 coat over the Mascate 0204 tunic with corduroy Olap 1168 trousers."
+      },
+      "items": [
+        {
+          "name": "Sigilli",
+          "code": "1294 0235",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WzYXb10kQQaRbo3srKWFvA_1873521069696f42f6059416_18779616_02820990XX1.jpg"
+        },
+        {
+          "name": "Mascate",
+          "code": "0204",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/251063478691f156bce6dc9_00247433_02780690XX1.jpg",
+          "modelId": 436
+        },
+        {
+          "name": "Olap",
+          "code": "1168",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ynGKN9IHR7KZkKRYYDtgyg_1991141854696f42e6826470_95751980_02820640XX1.jpg",
+          "modelId": 243
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 204 'Autumn Velvet'",
+        "en": "Look 204 'Autumn Velvet'",
+        "ar": "Look 204 'Autumn Velvet'",
+        "ka": "Look 204 'Autumn Velvet'",
+        "hy": "Look 204 'Autumn Velvet'",
+        "lv": "Look 204 'Autumn Velvet'",
+        "lt": "Look 204 'Autumn Velvet'",
+        "pl": "Look 204 'Autumn Velvet'",
+        "uk": "Look 204 'Autumn Velvet'"
+      },
+      "text": {
+        "ru": "Кабан Sigilli 1294 0235 с базовым пуловером Mano H 0202 и брюками Olap 0214. Обувь: Ustica A 2240.",
+        "en": "Sigilli 1294 0235 coat with a basic Mano H 0202 pullover and Olap 0214 trousers. Footwear: Ustica A 2240.",
+        "ar": "Sigilli 1294 0235 coat with a basic Mano H 0202 pullover and Olap 0214 trousers. Footwear: Ustica A 2240.",
+        "ka": "Sigilli 1294 0235 coat with a basic Mano H 0202 pullover and Olap 0214 trousers. Footwear: Ustica A 2240.",
+        "hy": "Sigilli 1294 0235 coat with a basic Mano H 0202 pullover and Olap 0214 trousers. Footwear: Ustica A 2240.",
+        "lv": "Sigilli 1294 0235 coat with a basic Mano H 0202 pullover and Olap 0214 trousers. Footwear: Ustica A 2240.",
+        "lt": "Sigilli 1294 0235 coat with a basic Mano H 0202 pullover and Olap 0214 trousers. Footwear: Ustica A 2240.",
+        "pl": "Sigilli 1294 0235 coat with a basic Mano H 0202 pullover and Olap 0214 trousers. Footwear: Ustica A 2240.",
+        "uk": "Sigilli 1294 0235 coat with a basic Mano H 0202 pullover and Olap 0214 trousers. Footwear: Ustica A 2240."
+      },
+      "items": [
+        {
+          "name": "Sigilli",
+          "code": "1294 0235",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WzYXb10kQQaRbo3srKWFvA_1873521069696f42f6059416_18779616_02820990XX1.jpg"
+        },
+        {
+          "name": "Mano H",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281019%29.png"
+        },
+        {
+          "name": "Olap",
+          "code": "0214",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YfLJIN9OTCCGsGAaoXfqug_610004726696f4308184709_09444034_02821440XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Ustica A",
+          "code": "2240",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-kY3Y2KLSViF2xufxBbpgA_1050821030696f42287e3c47_60877874_02801390XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Highlight the distinctive texture: the combination of rugged denim and delicate astrakhan-style fur creates an on-trend contrast that sets this piece apart from classic winter garments.",
+      "Emphasise the '2-in-1' functionality: thanks to its fur lining, the Sigilli car coat provides the warmth of a down jacket while retaining the stylish look of a classic car coat.",
+      "Recommend pairing this piece with corduroy or denim in other shades to create luxurious layered looks in a 'casual luxury' spirit."
+    ],
+    "ru": [
+      "Сделайте акцент на уникальной фактуре: сочетание грубого денима и нежного меха под астрахань создает остромодный контраст, который выделяет эту модель среди классических зимних вещей.",
+      "Подчеркните функциональность '2-в-1': благодаря меховой подкладке кабан Sigilli обеспечивает тепло пуховика, сохраняя при этом стильный вид куртки-кабана.",
+      "Рекомендуйте сочетать модель с вельветом или денимом других оттенков для создания роскошных многослойных образов в стиле 'casual luxury'."
+    ],
+    "ar": [
+      "ركزي على النسيج الفريد: فالمزيج بين الدنيم الخشن والفرو الناعم الشبيه بفرو الأستراخان يخلق تضاداً عصرياً يبرز هذا الموديل عن القطع الشتوية الكلاسيكية.",
+      "أكدي على وظائف '2 في 1': بفضل البطانة الفروية، يوفر هذا الموديل دفء المعطف مع الحفاظ على المظهر الأنيق لسترة الكابان.",
+      "أوصي بتنسيق الموديل مع المخمل أو الدنيم بألوان أخرى لخلق إطلالات فاخرة متعددة الطبقات بأسلوب 'casual luxury'."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი უნიკალურ ფაქტურაზე: უხეში დენიმისა და ასტრახანის მსგავსი ნაზი ბეწვის შეხამება ქმნის მოდურ კონტრასტს, რომელიც გამოარჩევს ამ მოდელს კლასიკური ზამთრის ნივთებისგან.",
+      "ხაზი გაუსვით '2-in-1' ფუნქციონალურობას: ბეწვის სარჩულის წყალობით Sigilli-ს ქურთუკი უზრუნველყოფს პუხოვიკის სითბოს, ხოლო ინარჩუნებს ქურთუკის სტილურ იერს.",
+      "რეკომენდაცია გაუწიეთ მოდელის შეხამებას სხვადასხვა ტონის ხავერდთან ან დენიმთან 'casual luxury' სტილის მდიდრული მრავალშრიანი ლუქების შესაქმნელად."
+    ],
+    "hy": [
+      "Շեշտը դրեք յուրահատուկ հյուսվածքի վրա. կոպիտ դենիմի և աստրախանի մորթու նման նուրբ մորթու համադրությունը ստեղծում է սուր նորաձև հակադրություն, որն այս մոդելն առանձնացնում է դասական ձմեռային իրերի շարքից։",
+      "Ընդգծեք «2-ը 1-ում» ֆունկցիոնալությունը. մորթյա աստառի շնորհիվ Sigilli կաբանը ապահովում է փուխովիկի ջերմությունը՝ պահպանելով հանդերձ կաբան-բաճկոնի ոճային տեսքը։",
+      "Խորհուրդ տվեք համադրել մոդելը թավշի (velvet) կամ այլ երանգների դենիմի հետ՝ «casual luxury» ոճով շքեղ բազմաշերտ կերպարներ ստեղծելու համար։"
+    ],
+    "lv": [
+      "Lieciet uzsvaru uz unikālo faktūru: rupja džinsa un smalkas astrahanas tipa kažokādas apvienojums rada modernu kontrastu, kas izceļ šo modeli starp klasiskajām ziemas precēm.",
+      "Uzsveriet '2-in-1' funkcionalitāti: pateicoties kažokādas oderei, kaban Sigilli nodrošina dūnu jakas siltumu, saglabājot kabana stila jakas izskatu.",
+      "Iesakiet kombinēt modeli ar citu toņu samtu vai džinsu, lai radītu greznus daudzslāņainus 'casual luxury' stila tēlus."
+    ],
+    "lt": [
+      "Padarykite akcentą į unikalią faktūrą: grubaus džinso ir švelnaus dirbtinio astrakhan kailio derinys sukuria madingą kontrastą, kuris išskiria šį modelį iš klasikinių žiemos drabužių.",
+      "Pabrėžkite „2-in-1“ funkcionalumą: dėl kailinio pamušalo Sigilli modelis užtikrina pūkinės striukės šilumą, išlaikydamas stilingą striukės išvaizdą.",
+      "Rekomenduokite derinti modelį su aksomu ar kitų atspalvių džinsu, siekiant sukurti prabangius daugiasluoksnius „casual luxury“ stiliaus įvaizdžius."
+    ],
+    "pl": [
+      "Połóż nacisk na unikalną fakturę: połączenie surowego denimu i delikatnego futra imitującego astrachań tworzy niezwykle modny kontrast, który wyróżnia ten model na tle klasycznych zimowych ubrań.",
+      "Podkreśl funkcjonalność '2-w-1': dzięki futrzanej podszewce kurtka Sigilli zapewnia ciepło puchówki, zachowując jednocześnie stylowy wygląd kurtki typu caban.",
+      "Rekomenduj łączenie modelu z aksamitem lub denimem w innych odcieniach, aby tworzyć luksusowe warstwowe stylizacje w stylu 'casual luxury'."
+    ],
+    "uk": [
+      "Зробіть акцент на унікальній фактурі: поєднання грубого деніму та ніжного хутра під астрахан створює гостромодний контраст, який виділяє цю модель серед класичних зимових речей.",
+      "Підкресліть функціональність '2-в-1': завдяки хутряній підкладці кабан Sigilli забезпечує тепло пуховика, зберігаючи при цьому стильний вигляд куртки-кабана.",
+      "Рекомендуйте поєднувати модель з оксамитом або денімом інших відтінків для створення розкішних багатошарових образів у стилі 'casual luxury'."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Деним кажется слишком холодным материалом для зимы.",
+        "a": "Обратите внимание клиентки на плотную внутреннюю отделку из эко-меха (astrakan effect), которая обеспечивает превосходную теплоизоляцию, сопоставимую с шерстяным пальто."
+      },
+      {
+        "q": "Искусственный мех может быстро потерять вид.",
+        "a": "Уточните, что эко-мех Luisa Spagnoli обладает высокой износостойкостью и, в отличие от натурального меха, более устойчив к влаге и городским условиям, сохраняя текстуру астрахани долгие годы."
+      },
+      {
+        "q": "Накладные карманы могут визуально увеличивать бедра.",
+        "a": "Крой кабана Sigilli имеет выверенную длину и центральную шлицу сзади, что гармонизирует пропорции и обеспечивает свободу движений, не утяжеляя силуэт."
+      },
+      {
+        "q": "Этот стиль слишком спортивный для меня.",
+        "a": "Продемонстрируйте детали: антикварные пуговицы и меховые лацканы придают изделию аристократичный вид, позволяя носить его даже с классическими брюками Olap."
+      },
+      {
+        "q": "Я не уверена в сочетаемости синего денима и белого меха.",
+        "a": "Это классическая зимняя палитра. Белоснежный мех освежает лицо, а темно-синий деним служит идеальной базой, подходящей практически к любому гардеробу."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Деним кажется слишком холодным материалом для зимы.",
+        "a": "Обратите внимание клиентки на плотную внутреннюю отделку из эко-меха (astrakan effect), которая обеспечивает превосходную теплоизоляцию, сопоставимую с шерстяным пальто."
+      },
+      {
+        "q": "Искусственный мех может быстро потерять вид.",
+        "a": "Уточните, что эко-мех Luisa Spagnoli обладает высокой износостойкостью и, в отличие от натурального меха, более устойчив к влаге и городским условиям, сохраняя текстуру астрахани долгие годы."
+      },
+      {
+        "q": "Накладные карманы могут визуально увеличивать бедра.",
+        "a": "Крой кабана Sigilli имеет выверенную длину и центральную шлицу сзади, что гармонизирует пропорции и обеспечивает свободу движений, не утяжеляя силуэт."
+      },
+      {
+        "q": "Этот стиль слишком спортивный для меня.",
+        "a": "Продемонстрируйте детали: антикварные пуговицы и меховые лацканы придают изделию аристократичный вид, позволяя носить его даже с классическими брюками Olap."
+      },
+      {
+        "q": "Я не уверена в сочетаемости синего денима и белого меха.",
+        "a": "Это классическая зимняя палитра. Белоснежный мех освежает лицо, а темно-синий деним служит идеальной базой, подходящей практически к любому гардеробу."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يبدو الجينز مادة باردة جداً لفصل الشتاء.",
+        "a": "لفتي انتباه العميلة إلى البطانة الداخلية الكثيفة من الفرو البيئي (بمظهر أستراخان)، والتي توفر عزلاً حرارياً ممتازاً يضاهي معطف الصوف."
+      },
+      {
+        "q": "قد يفقد الفرو الصناعي مظهره الجيد بسرعة.",
+        "a": "وضحي أن الفرو البيئي من Luisa Spagnoli يتميز بمتانة عالية، وعلى عكس الفرو الطبيعي، فهو أكثر مقاومة للرطوبة وظروف المدينة، ويحافظ على ملمس الأستراخان لسنوات طويلة."
+      },
+      {
+        "q": "قد تزيد الجيوب الخارجية من عرض الوركين بصرياً.",
+        "a": "يتمتع معطف Sigilli بطول دقيق وفتحة مركزية من الخلف، مما يوازن النسب ويضمن حرية الحركة دون إضافة ثقل للقوام."
+      },
+      {
+        "q": "هذا الأسلوب رياضي أكثر من اللازم بالنسبة لي.",
+        "a": "اعرضي التفاصيل: الأزرار العتيقة وياقات الفرو تضفي على القطعة مظهراً أرستقراطياً، مما يسمح بارتدائها حتى مع بناطيل Olap الكلاسيكية."
+      },
+      {
+        "q": "لست متأكدة من مدى تناسق الجينز الأزرق مع الفرو الأبيض.",
+        "a": "هذا مزيج لوني شتوي كلاسيكي. الفرو الأبيض الناصع يضيء الوجه، بينما يعمل الجينز الأزرق الداكن كقاعدة مثالية تناسب تقريباً أي خزانة ملابس."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ჯინსი ზამთრისთვის ზედმეტად ცივი მასალა მეჩვენება.",
+        "a": "მიაქციეთ კლიენტის ყურადღება ეკო-ბეწვის (astrakan effect) მკვრივ შიდა მორთულობას, რომელიც უზრუნველყოფს შესანიშნავ თბოიზოლაციას, რაც შეესაბამება მატყლის პალტოს."
+      },
+      {
+        "q": "ხელოვნურმა ბეწვმა შესაძლოა სწრაფად დაკარგოს იერი.",
+        "a": "დააზუსტეთ, რომ Luisa Spagnoli-ს ეკო-ბეწვს გააჩნია მაღალი ცვეთამედეგობა და, ნატურალური ბეწვისგან განსხვავებით, უფრო მდგრადია ნოტიო და ურბანული პირობების მიმართ, რაც ასტრახანის ტექსტურას წლების განმავლობაში ინარჩუნებს."
+      },
+      {
+        "q": "ზედნადებმა ჯიბეებმა შესაძლოა ვიზუალურად გაზარდოს თეძოები.",
+        "a": "Sigilli-ს კაბანის კერვას აქვს გათვლილი სიგრძე და ცენტრალური ჭრილი ზურგზე, რაც აბალანსებს პროპორციებს და უზრუნველყოფს მოძრაობის თავისუფლებას სილუეტის დამძიმების გარეშე."
+      },
+      {
+        "q": "ეს სტილი ჩემთვის ზედმეტად სპორტულია.",
+        "a": "წარმოადგინეთ დეტალები: ანტიკვარული ღილები და ბეწვის ლაპელები ნაკეთობას არისტოკრატულ იერს ანიჭებს, რაც საშუალებას იძლევა ატაროთ ის თუნდაც კლასიკურ Olap შარვალთან ერთად."
+      },
+      {
+        "q": "არ ვარ დარწმუნებული ლურჯი ჯინსისა და თეთრი ბეწვის შეხამებაში.",
+        "a": "ეს კლასიკური ზამთრის პალიტრაა. თოვლივით თეთრი ბეწვი აახალგაზრდავებს სახეს, ხოლო მუქი ლურჯი ჯინსი ემსახურება იდეალურ ბაზას, რომელიც შეესაბამება თითქმის ნებისმიერ გარდერობს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ջինսե կտորը ձմռան համար չափազանց սառը նյութ է թվում։",
+        "a": "Հաճախորդի ուշադրությունը հրավիրեք էկո-մորթուց (astrakan effect) պատրաստված ներքին խիտ հարդարանքի վրա, որն ապահովում է բրդյա վերարկուին համարժեք գերազանց ջերմամեկուսացում։"
+      },
+      {
+        "q": "Արհեստական մորթին կարող է արագ կորցնել տեսքը։",
+        "a": "Հստակեցրեք, որ Luisa Spagnoli-ի էկո-մորթին ունի բարձր մաշվածադիմացկունություն և, ի տարբերություն բնական մորթու, ավելի դիմացկուն է խոնավության և քաղաքային պայմանների նկատմամբ՝ տարիներ շարունակ պահպանելով աստրախանի հյուսվածքը։"
+      },
+      {
+        "q": "Վերադիր գրպանները կարող են տեսողականորեն մեծացնել կոնքերը։",
+        "a": "Sigilli վերարկուի ձևվածքն ունի ճշգրիտ երկարություն և հետևի մասում կենտրոնական ճեղքվածք, ինչը ներդաշնակեցնում է համամասնությունները և ապահովում շարժման ազատություն՝ չծանրացնելով ուրվագիծը։"
+      },
+      {
+        "q": "Այս ոճն ինձ համար չափազանց սպորտային է։",
+        "a": "Ցուցադրեք դետալները. հնաոճ կոճակները և մորթյա լացկանները արտադրանքին հաղորդում են ազնվական տեսք՝ թույլ տալով այն կրել նույնիսկ դասական Olap տաբատների հետ։"
+      },
+      {
+        "q": "Ես վստահ չեմ կապույտ ջինսի և սպիտակ մորթու համատեղելիության հարցում։",
+        "a": "Սա դասական ձմեռային գունապնակ է։ Ձյունաճերմակ մորթին թարմացնում է դեմքը, իսկ մուգ կապույտ ջինսը ծառայում է որպես իդեալական բազա՝ հարմար գրեթե ցանկացած զգեստապահարանի համար։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Džinss šķiet pārāk auksts materiāls ziemai.",
+        "a": "Pievērsiet klientes uzmanību blīvajai iekšējai eko-kažokādas (astrakan effect) apdarei, kas nodrošina izcilu siltumizolāciju, kas pielīdzināma vilnas mētelim."
+      },
+      {
+        "q": "Mākslīgā kažokāda var ātri zaudēt izskatu.",
+        "a": "Precizējiet, ka Luisa Spagnoli eko-kažokādai piemīt augsta nodilumizturība un, atšķirībā no dabīgās kažokādas, tā ir izturīgāka pret mitrumu un pilsētas apstākļiem, saglabājot astrahaņas tekstūru ilgus gadus."
+      },
+      {
+        "q": "Uzšūtās kabatas var vizuāli palielināt gurnus.",
+        "a": "Sigilli fasonam ir izsvērts garums un centrālais šķēlums aizmugurē, kas harmonizē proporcijas un nodrošina kustību brīvību, nepadarot siluetu smagnējāku."
+      },
+      {
+        "q": "Šis stils man šķiet pārāk sportisks.",
+        "a": "Demonstrējiet detaļas: antīkās pogas un kažokādas atloki piešķir izstrādājumam aristokrātisku izskatu, ļaujot to nēsāt pat ar klasiskajām Olap biksēm."
+      },
+      {
+        "q": "Es neesmu pārliecināta par zilā džinsa un baltās kažokādas saderību.",
+        "a": "Tā ir klasiska ziemas palete. Sniegbaltā kažokāda atsvaidzina seju, bet tumši zilais džinss kalpo par ideālu bāzi, kas piemērota gandrīz jebkurai garderobei."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Džinsas atrodo per daug šalta medžiaga žiemai.",
+        "a": "Atkreipkite klientės dėmesį į tankią vidinę ekologiško kailio (astrakan effect) apdailą, kuri užtikrina puikią šilumos izoliaciją, prilygstančią vilnoniam paltui."
+      },
+      {
+        "q": "Dirbtinis kailis gali greitai prarasti išvaizdą.",
+        "a": "Patikslinkite, kad Luisa Spagnoli ekologiškas kailis pasižymi dideliu atsparumu dėvėjimuisi ir, skirtingai nei natūralus kailis, yra atsparesnis drėgmei bei miesto sąlygoms, ilgus metus išlaikydamas karakulio tekstūrą."
+      },
+      {
+        "q": "Uždėtinės kišenės gali vizualiai didinti klubus.",
+        "a": "Sigilli švarko kirpimas yra ištobulinto ilgio, su centriniu skeltuku nugaroje, o tai subalansuoja proporcijas ir užtikrina judesių laisvę, neapsunkinant silueto."
+      },
+      {
+        "q": "Šis stilius man per daug sportiškas.",
+        "a": "Pademonstruokite detales: antikvarinės sagos ir kailiniai atlapai suteikia gaminiui aristokratišką išvaizdą, leidžiančią jį dėvėti net su klasikinėmis kelnėmis Olap."
+      },
+      {
+        "q": "Nesu tikra dėl mėlyno džinso ir balto kailio derinimo.",
+        "a": "Tai klasikinė žiemos paletė. Sniego baltumo kailis atgaivina veidą, o tamsiai mėlynas džinsas tarnauja kaip idealus pagrindas, tinkantis praktiškai prie bet kokio garderobo."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Denim wydaje się zbyt chłodnym materiałem na zimę.",
+        "a": "Zwróć uwagę klientki na gęste wykończenie wewnętrzne z eko-futra (astrakan effect), które zapewnia doskonałą izolację cieplną, porównywalną z płaszczem wełnianym."
+      },
+      {
+        "q": "Sztuczne futro może szybko stracić wygląd.",
+        "a": "Doprecyzuj, że eko-futro Luisa Spagnoli charakteryzuje się wysoką trwałością i, w przeciwieństwie do futra naturalnego, jest bardziej odporne na wilgoć i warunki miejskie, zachowując teksturę astrachanu przez długie lata."
+      },
+      {
+        "q": "Naszywane kieszenie mogą wizualnie powiększać biodra.",
+        "a": "Krój kabana Sigilli posiada wyważoną długość oraz centralne rozcięcie z tyłu, co harmonizuje proporcje i zapewnia swobodę ruchów, nie obciążając sylwetki."
+      },
+      {
+        "q": "Ten styl jest dla mnie zbyt sportowy.",
+        "a": "Zaprezentuj detale: antyczne guziki i futrzane klapy nadają wyrobowi arystokratyczny wygląd, pozwalając nosić go nawet z klasycznymi spodniami Olap."
+      },
+      {
+        "q": "Nie jestem pewna co do połączenia niebieskiego denimu i białego futra.",
+        "a": "To klasyczna zimowa paleta. Śnieżnobiałe futro rozświetla twarz, a ciemnoniebieski denim stanowi idealną bazę, pasującą praktycznie do każdej garderoby."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Денім здається занадто холодним матеріалом для зими.",
+        "a": "Зверніть увагу клієнтки на щільне внутрішнє оздоблення з екохутра (astrakan effect), яке забезпечує чудову теплоізоляцію, порівнянну з вовняним пальтом."
+      },
+      {
+        "q": "Штучне хутро може швидко втратити вигляд.",
+        "a": "Уточніть, що екохутро Luisa Spagnoli має високу зносостійкість і, на відміну від натурального хутра, більш стійке до вологи та міських умов, зберігаючи текстуру астрахані довгі роки."
+      },
+      {
+        "q": "Накладні кишені можуть візуально збільшувати стегна.",
+        "a": "Крій кабана Sigilli має вивірену довжину та центральну шлицю ззаду, що гармонізує пропорції та забезпечує свободу рухів, не обтяжуючи силует."
+      },
+      {
+        "q": "Цей стиль занадто спортивний для мене.",
+        "a": "Продемонструйте деталі: антикварні ґудзики та хутряні лацкани надають виробу аристократичного вигляду, дозволяючи носити його навіть із класичними брюками Olap."
+      },
+      {
+        "q": "Я не впевнена в поєднанні синього деніму та білого хутра.",
+        "a": "Це класична зимова палітра. Білосніжне хутро освіжає обличчя, а темно-синій денім служить ідеальною базою, що підходить практично до будь-якого гардероба."
+      }
+    ]
+  }
+}

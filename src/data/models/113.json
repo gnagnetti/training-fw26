@@ -1,0 +1,414 @@
+{
+  "id": 113,
+  "name": "Liquorosa",
+  "description": {
+    "en": "The quintessence of evening allure and aristocratic femininity: the exquisite Liquorosa blouse, crafted from the finest Chantilly lace. The model captivates with generous flounces at the collar, creating a romantic and statuesque silhouette. A matte satin lining lends a delicate lingerie-inspired effect while preserving impeccable restraint. Covered buttons and sheer sleeves finished with delicate ruffles at the hem underscore the couture craftsmanship and attention to detail that define Luisa Spagnoli's Italian style.",
+    "ru": "Квинтэссенция вечернего очарования и аристократичной женственности: изысканная блуза Liquorosa, выполненная из тончайшего кружева шантильи. Модель восхищает пышными воланами на воротнике, создающими романтичный и статусный силуэт. Подкладка из матового атласа обеспечивает деликатный эффект нижнего белья, сохраняя при этом безупречную сдержанность. Обтянутые пуговицы и полупрозрачные рукава с изящными оборками по низу подчеркивают кутюрное исполнение и внимание к деталям, характерные для итальянского стиля Luisa Spagnoli.",
+    "ar": "خلاصة السحر المسائي والأنوثة الأرستقراطية: بلوزة Liquorosa الراقية، المصنوعة من أرقى أنواع دانتيل شانتيلي. يثير الموديل الإعجاب بالكشكشة الغنية على الياقة، مما يخلق صورة ظلية رومانسية ومرموقة. توفر البطانة المصنوعة من الساتان غير اللامع تأثيراً رقيقاً يذكر بالملابس الداخلية، مع الحفاظ على رقيّ لا تشوبه شائبة. وتؤكد الأزرار المغطاة والأكمام شبه الشفافة ذات الحواف المزيّنة بالكشكشة الأنيقة على التنفيذ الفاخر والاهتمام بالتفاصيل، وهي السمات المميزة للأسلوب الإيطالي لعلامة Luisa Spagnoli.",
+    "ka": "საუცხოო საღამოს მომხიბვლელობისა და არისტოკრატული ქალურობის კვინტესენცია: დახვეწილი ბლუზა Liquorosa, დამზადებული უთხელესი შანტილის მაქმანისგან. მოდელი აღაფრთოვანებს საყელოზე არსებული ფუმფულა ფრიალებით, რომლებიც ქმნიან რომანტიკულ და სტატუსურ სილუეტს. მქრქალი ატლასის სარჩული უზრუნველყოფს თეთრეულის დელიკატურ ეფექტს, ამავდროულად ინარჩუნებს უნაკლო თავშეკავებულობას. შემოსილი ღილები და ნახევრად გამჭვირვალე სახელოები ქვედა ნაწილში დახვეწილი ფრიალებით ხაზს უსვამს კუტურიერულ შესრულებას და დეტალებისადმი ყურადღებას, რაც დამახასიათებელია Luisa Spagnoli-ს იტალიური სტილისთვის.",
+    "hy": "Երեկոյան հմայքի և ազնվական կանացիության էությունը՝ Liquorosa նրբագեղ բլուզ՝ պատրաստված շանտիլի ամենանուրբ ժանյակից։ Մոդելը հիացնում է օձիքի փարթամ վոլաններով, որոնք ստեղծում են ռոմանտիկ և կարգավիճակային ուրվագիծ։ Մետաքսե փայլատ աստառը ապահովում է ներքնազգեստի նուրբ էֆեկտ՝ պահպանելով անթերի զսպվածություն։ Կտորով պատված կոճակները և թափանցիկ թևերը՝ ներքևի մասում նրբագեղ ծալքերով, ընդգծում են Luisa Spagnoli իտալական ոճին բնորոշ կուտյուրային կատարումն ու դետալների նկատմամբ ուշադրությունը։",
+    "lv": "Vakara šarma un aristokrātiskas sievišķības kvintesence: izsmalcinātā blūze Liquorosa, kas izgatavota no smalkākajām šantijī mežģīnēm. Modelis apbur ar kuplām volānveida detaļām uz apkakles, radot romantisku un statusu apliecinošu siluetu. Matēta satīna odere nodrošina delikātu apakšveļas efektu, vienlaikus saglabājot nevainojamu atturību. Apvilktas pogas un puscaurspīdīgas piedurknes ar elegantām volānveida maliņām apakšā uzsver",
+    "lt": "Vakaro žavesio ir aristokratiško moteriškumo kvintesencija: rafinuota palaidinė Liquorosa, sukurta iš pačių geriausių šantili nėrinių. Modelis džiugina vešliais raukiniais ant apykaklės, kurie sukuria romantišką ir solidų siluetą. Matinio atlaso pamušalas suteikia subtilų apatinio trikotažo efektą, išlaikant nepriekaištingą santūrumą. Aptrauktos sagos ir pusiau permatomos rankovės su grakščiais raukiniais apačioje pabrėžia aukštosios mados atlikimą ir dėmesį detalėms, būdingą itališkam Luisa Spagnoli stiliui.",
+    "pl": "Kwintesencja wieczorowego uroku i arystokratycznej kobiecości: wyrafinowana bluzka Liquorosa, wykonana z najdelikatniejszej koronki Chantilly. Model zachwyca bujnymi falbanami przy kołnierzyku, tworząc romantyczną i prestiżową sylwetkę. Podszewka z matowego atłasu zapewnia delikatny efekt bieliźniany, zachowując przy tym nienaganną powściągliwość. Powlekane guziki i półprzezroczyste rękawy z eleganckimi falbankami u dołu podkreślają krawieckie wykonanie i dbałość o detale, charakterystyczne dla włoskiego stylu Luisa Spagnoli.",
+    "uk": "Квінтесенція вечірньої чарівності та аристократичної жіночності: вишукана блуза Liquorosa, виконана з найтоншого мережива шантільї. Модель захоплює пишними воланами на комірі, що створюють романтичний і статусний силует. Підкладка з матового атласу забезпечує делікатний ефект спідньої білизни, зберігаючи при цьому бездоганну стриманість. Обтягнуті ґудзики та напівпрозорі рукави з витонченими оборками знизу підкреслюють кутюрне виконання та увагу до деталей, характерні для італійського стилю Luisa Spagnoli."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0eGzd548TS6sNF3a6bE7Eg_1039106981696f42e18a2cd7_22787282_02820510XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Evening luxe)",
+        "ar": "Look 1 (Evening luxe)",
+        "ka": "Look 1 (Evening luxe)",
+        "hy": "Look 1 (Evening luxe)",
+        "lv": "Look 1 (Evening luxe)",
+        "lt": "Look 1 (Evening luxe)",
+        "pl": "Look 1 (Evening luxe)",
+        "uk": "Look 1 (Evening luxe)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Вечерний люкс): Роскошное сочетание блузы Liquorosa 0101 с элегантной юбкой Faustin 0101, дополненное укороченным кабаном Svista 0101.",
+        "en": "A luxurious combination of the Liquorosa 0101 blouse with the elegant Faustin 0101 skirt, complemented by the Svista 0101 cropped cape.",
+        "ar": "A luxurious combination of the Liquorosa 0101 blouse with the elegant Faustin 0101 skirt, complemented by the Svista 0101 cropped cape.",
+        "ka": "A luxurious combination of the Liquorosa 0101 blouse with the elegant Faustin 0101 skirt, complemented by the Svista 0101 cropped cape.",
+        "hy": "A luxurious combination of the Liquorosa 0101 blouse with the elegant Faustin 0101 skirt, complemented by the Svista 0101 cropped cape.",
+        "lv": "A luxurious combination of the Liquorosa 0101 blouse with the elegant Faustin 0101 skirt, complemented by the Svista 0101 cropped cape.",
+        "lt": "A luxurious combination of the Liquorosa 0101 blouse with the elegant Faustin 0101 skirt, complemented by the Svista 0101 cropped cape.",
+        "pl": "A luxurious combination of the Liquorosa 0101 blouse with the elegant Faustin 0101 skirt, complemented by the Svista 0101 cropped cape.",
+        "uk": "A luxurious combination of the Liquorosa 0101 blouse with the elegant Faustin 0101 skirt, complemented by the Svista 0101 cropped cape."
+      },
+      "items": [
+        {
+          "name": "Liquorosa",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0eGzd548TS6sNF3a6bE7Eg_1039106981696f42e18a2cd7_22787282_02820510XX1.jpg"
+        },
+        {
+          "name": "Faustin",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dGH9ZaVFQbyTxVct5sWatA_1894557478696f422c166df5_93606032_02820020XX1.jpg",
+          "modelId": 42
+        },
+        {
+          "name": "Svista",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Y5nVSE1gSb6SPip95-cHFA_898560113696f43013e28f4_95099051_02821250XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 3 (Formal Black Tie)",
+        "ar": "Look 3 (Formal Black Tie)",
+        "ka": "Look 3 (Formal Black Tie)",
+        "hy": "Look 3 (Formal Black Tie)",
+        "lv": "Look 3 (Formal Black Tie)",
+        "lt": "Look 3 (Formal Black Tie)",
+        "pl": "Look 3 (Formal Black Tie)",
+        "uk": "Look 3 (Formal Black Tie)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 3 (Торжественный Black Tie): Монохромный черный сет с блузой Liquorosa 0101, юбкой Faustin 0101 и босоножками Udita 0101 0101 0002. Ювелирные акценты: пояс Dedicata 0101 0002 0001 и сумка Invitata D 0001 0002.",
+        "en": "A monochrome black set with the Liquorosa 0101 blouse, the Faustin 0101 skirt and the Udita 0101 0101 0002 sandals. Jewelry accents: the Dedicata 0101 0002 0001 belt and the Invitata D 0001 0002 bag.",
+        "ar": "A monochrome black set with the Liquorosa 0101 blouse, the Faustin 0101 skirt and the Udita 0101 0101 0002 sandals. Jewelry accents: the Dedicata 0101 0002 0001 belt and the Invitata D 0001 0002 bag.",
+        "ka": "A monochrome black set with the Liquorosa 0101 blouse, the Faustin 0101 skirt and the Udita 0101 0101 0002 sandals. Jewelry accents: the Dedicata 0101 0002 0001 belt and the Invitata D 0001 0002 bag.",
+        "hy": "A monochrome black set with the Liquorosa 0101 blouse, the Faustin 0101 skirt and the Udita 0101 0101 0002 sandals. Jewelry accents: the Dedicata 0101 0002 0001 belt and the Invitata D 0001 0002 bag.",
+        "lv": "A monochrome black set with the Liquorosa 0101 blouse, the Faustin 0101 skirt and the Udita 0101 0101 0002 sandals. Jewelry accents: the Dedicata 0101 0002 0001 belt and the Invitata D 0001 0002 bag.",
+        "lt": "A monochrome black set with the Liquorosa 0101 blouse, the Faustin 0101 skirt and the Udita 0101 0101 0002 sandals. Jewelry accents: the Dedicata 0101 0002 0001 belt and the Invitata D 0001 0002 bag.",
+        "pl": "A monochrome black set with the Liquorosa 0101 blouse, the Faustin 0101 skirt and the Udita 0101 0101 0002 sandals. Jewelry accents: the Dedicata 0101 0002 0001 belt and the Invitata D 0001 0002 bag.",
+        "uk": "A monochrome black set with the Liquorosa 0101 blouse, the Faustin 0101 skirt and the Udita 0101 0101 0002 sandals. Jewelry accents: the Dedicata 0101 0002 0001 belt and the Invitata D 0001 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Liquorosa",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0eGzd548TS6sNF3a6bE7Eg_1039106981696f42e18a2cd7_22787282_02820510XX1.jpg"
+        },
+        {
+          "name": "Faustin",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dGH9ZaVFQbyTxVct5sWatA_1894557478696f422c166df5_93606032_02820020XX1.jpg",
+          "modelId": 42
+        },
+        {
+          "name": "Situazione",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg",
+          "modelId": 321
+        },
+        {
+          "name": "Iroise",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cougRXqXSLCLpSH5I324CQ_361816691696f422261f4e8_02648203_02800700XX1.jpg",
+          "modelId": 96
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Aristocratic outing)",
+        "ar": "Look 2 (Aristocratic outing)",
+        "ka": "Look 2 (Aristocratic outing)",
+        "hy": "Look 2 (Aristocratic outing)",
+        "lv": "Look 2 (Aristocratic outing)",
+        "lt": "Look 2 (Aristocratic outing)",
+        "pl": "Look 2 (Aristocratic outing)",
+        "uk": "Look 2 (Aristocratic outing)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Аристократичный выход): Ансамбль из блузы Liquorosa 0101 и юбки Faustin 0101 под капой Situazione 0101, с клатчем Iroise 0101 0002.",
+        "en": "An ensemble consisting of the Liquorosa 0101 blouse and the Faustin 0101 skirt under the Situazione 0101 cape, with the Iroise 0101 0002 clutch.",
+        "ar": "An ensemble consisting of the Liquorosa 0101 blouse and the Faustin 0101 skirt under the Situazione 0101 cape, with the Iroise 0101 0002 clutch.",
+        "ka": "An ensemble consisting of the Liquorosa 0101 blouse and the Faustin 0101 skirt under the Situazione 0101 cape, with the Iroise 0101 0002 clutch.",
+        "hy": "An ensemble consisting of the Liquorosa 0101 blouse and the Faustin 0101 skirt under the Situazione 0101 cape, with the Iroise 0101 0002 clutch.",
+        "lv": "An ensemble consisting of the Liquorosa 0101 blouse and the Faustin 0101 skirt under the Situazione 0101 cape, with the Iroise 0101 0002 clutch.",
+        "lt": "An ensemble consisting of the Liquorosa 0101 blouse and the Faustin 0101 skirt under the Situazione 0101 cape, with the Iroise 0101 0002 clutch.",
+        "pl": "An ensemble consisting of the Liquorosa 0101 blouse and the Faustin 0101 skirt under the Situazione 0101 cape, with the Iroise 0101 0002 clutch.",
+        "uk": "An ensemble consisting of the Liquorosa 0101 blouse and the Faustin 0101 skirt under the Situazione 0101 cape, with the Iroise 0101 0002 clutch."
+      },
+      "items": [
+        {
+          "name": "Liquorosa",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0eGzd548TS6sNF3a6bE7Eg_1039106981696f42e18a2cd7_22787282_02820510XX1.jpg"
+        },
+        {
+          "name": "Faustin",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dGH9ZaVFQbyTxVct5sWatA_1894557478696f422c166df5_93606032_02820020XX1.jpg",
+          "modelId": 42
+        },
+        {
+          "name": "Udita",
+          "code": "0101 0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png"
+        },
+        {
+          "name": "Dedicata",
+          "code": "0101 0002 0001",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/CIPzmThcQpuTb93aM0l39A_41939825696f4217953d89_07952375_02800540XX2.jpg"
+        },
+        {
+          "name": "Invitata D",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/oro.png"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the prestige of Chantilly lace: this material embodies the finest tailoring artistry and lends the look a timeless elegance.",
+      "Recommend Liquorosa as an ideal piece for building layered looks: the collar's full ruffles emerge strikingly from beneath the lapels of a tailored jacket or a cashmere coat.",
+      "Highlight the functionality of the design: the satin lining resolves any concern over sheerness, making the blouse suitable for even the most formal evening occasions."
+    ],
+    "ru": [
+      "Сделайте акцент на статусности кружева шантильи: этот материал является воплощением высокого портновского искусства и придает образу вневременную элегантность.",
+      "Рекомендуйте Liquorosa как идеальный элемент для создания многослойных образов: пышные воланы воротника эффектно 'выходят' из-под лацканов строгого жакета или кашемирового пальто.",
+      "Подчеркните функциональность дизайна: наличие атласного чехла решает вопрос прозрачности, делая блузу подходящей для самых строгих вечерних приемов."
+    ],
+    "ar": [
+      "سلطي الضوء على فخامة دانتيل الشانتيل: هذه المادة تجسد أرقى فنون الخياطة وتضفي على الإطلالة أناقة خالدة.",
+      "انصحي بـ Liquorosa كعنصر مثالي لابتكار إطلالات متعددة الطبقات: حيث تبرز كشكشة الياقة الفاخرة بوضوح من تحت طية صدر السترات الرسمية أو معاطف الكشمير.",
+      "أكدي على الوظيفة العملية للتصميم: فوجود بطانة من الساتان يحل مسألة الشفافية، مما يجعل البلوزة مناسبة لأكثر المناسبات المسائية رسمية."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება შანტილის მაქმანის სტატუსზე: ეს მასალა მაღალი მკერავის ხელოვნების განსახიერებაა და გამოსახულებას დროს აღმატებულ ელეგანტურობას ანიჭებს.",
+      "რეკომენდაცია გაუწიეთ Liquorosa-ს, როგორც მრავალფენიანი ლუქების შექმნისთვის იდეალურ ელემენტს: საყელოს ფუშფუშა ნაოჭები ეფექტურად 'ჩანს' მკაცრი პიჯაკის ან ქაშმირის პალტოს ლაცკანების ქვეშ.",
+      "ხაზი გაუსვით დიზაინის ფუნქციონალურობას: ატლასის სარჩულის არსებობა აგვარებს გამჭვირვალობის საკითხს, რაც ბლუზს ყველაზე მკაცრი საღამოს მიღებებისთვისაც შესაფერისს ხდის."
+    ],
+    "hy": [
+      "Շեշտադրեք շանտիյի ժանյակի կարգավիճակը. այս նյութը բարձր դերձակային արվեստի մարմնացումն է և կերպարին հաղորդում է հավերժական նրբագեղություն:",
+      "Առաջարկեք Liquorosa-ն որպես շերտավոր կերպարներ ստեղծելու իդեալական տարր. օձիքի փարթամ ժանյակները տպավորիչ կերպով «դուրս են գալիս» խիստ բաճկոնի կամ քաշմիրե վերարկուի դարձակների տակից:",
+      "Ընդգծեք դիզայնի ֆունկցիոնալությունը. ատլասե աստառի առկայությունը լուծում է թափանցիկության հարցը՝ բլուզը դարձնելով հարմար ամենախիստ երեկոյան ընդունելությունների համար:"
+    ],
+    "lv": [
+      "Сделайте акцент на статусности кружева шантильи: этот материал является воплощением высокого портновского искусства и придает образу вневременную элегантность.",
+      "Рекомендуйте Liquorosa как идеальный элемент для создания многослойных образов: пышные воланы воротника эффектно 'выходят' из-под лацканов строгого жакета или кашемирового пальто.",
+      "Подчеркните функциональность дизайна: наличие атласного чехла решает вопрос прозрачности, делая блузу подходящей для самых строгих вечерних приемов."
+    ],
+    "lt": [
+      "Pabrėžkite Chantilly nėrinių statusą: ši medžiaga yra aukštosios siuvimo meno estetikos įsikūnijimas ir suteikia įvaizdžiui nesenstančią eleganciją.",
+      "Rekomenduokite Liquorosa kaip idealų elementą kuriant sluoksniuotus įvaizdžius: prabangūs apykaklės raukiniai efektingai „išlenda“ iš po griežto švarko ar kašmyro palto atlapų.",
+      "Pabrėžkite dizaino funkcionalumą: atlasinio pamušalo buvimas išsprendžia permatomumo klausimą, todėl palaidinė tinka patiems griežčiausiems vakariniams priėmimams."
+    ],
+    "pl": [
+      "Połóż nacisk na status koronki Chantilly: ten materiał jest ucieleśnieniem kunsztu krawieckiego i nadaje stylizacji ponadczasową elegancję.",
+      "Rekomenduj Liquorosa jako idealny element do tworzenia wielowarstwowych stylizacji: bujne falbany kołnierza efektownie 'wychodzą' spod klap surowego żakietu lub kaszmirowego płaszcza.",
+      "Podkreśl funkcjonalność projektu: obecność satynowego topu rozwiązuje kwestię przezroczystości, sprawiając, że bluzka jest odpowiednia na najbardziej wymagające wieczorowe przyjęcia."
+    ],
+    "uk": [
+      "Зробіть акцент на статусності мережива шантильї: цей матеріал є втіленням високого кравецького мистецтва та надає образу позачасової елегантності.",
+      "Рекомендуйте Liquorosa як ідеальний елемент для створення багатошарових образів: пишні волани коміра ефектно 'виходять' з-під лацканів суворого жакета або кашемірового пальто.",
+      "Підкресліть функціональність дизайну: наявність атласного чохла вирішує питання прозорості, роблячи блузу придатною для найсуворіших вечірніх прийомів."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The lace top seems too sheer and bold.",
+        "a": "The designers incorporated a built-in lining of dense matte satin that fully conceals undergarments and provides confidence, while preserving the airiness of the lace."
+      },
+      {
+        "q": "Chantilly lace looks too delicate for frequent wear.",
+        "a": "The high-technology polyamide-based fabric used offers superior durability and shape retention, all while remaining remarkably soft to the touch."
+      },
+      {
+        "q": "Concern that the ruffles at the neck may be cumbersome under outerwear.",
+        "a": "Liquorosa lace has exceptional flexibility. The ruffles sit easily beneath a jacket or coat, becoming a refined decorative element that frames the face."
+      },
+      {
+        "q": "Such a blouse seems suitable only for the most formal occasions.",
+        "a": "Thanks to its understated black colour and versatility when paired with classic trousers, this piece can become a luxurious accent within an evening business wardrobe."
+      },
+      {
+        "q": "Caring for such a piece seems overly complex.",
+        "a": "Professional dry cleaning will preserve the delicate structure of the lace and the sheen of the satin trim in pristine condition for years to come."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Кружевной верх кажется слишком прозрачным и смелым.",
+        "a": "Дизайнеры предусмотрели встроенный чехол из плотного матового атласа, который полностью скрывает белье и обеспечивает уверенность, сохраняя при этом воздушность кружева."
+      },
+      {
+        "q": "Кружево шантильи выглядит слишком хрупким для частого использования.",
+        "a": "Используемое высокотехнологичное полотно на основе полиамида отличается повышенной износостойкостью и способностью сохранять форму, оставаясь при этом невероятно мягким на ощупь."
+      },
+      {
+        "q": "Боюсь, что воланы на шее будут мешать под верхней одеждой.",
+        "a": "Кружево Liquorosa обладает исключительной пластичностью. Воланы легко ложатся под жакет или пальто, превращаясь в изысканный декоративный элемент, обрамляющий лицо."
+      },
+      {
+        "q": "Такая блуза подходит только для очень торжественных случаев.",
+        "a": "Благодаря лаконичному черному цвету и возможности сочетания с классическими брюками, эта модель может стать роскошным акцентом в вечернем деловом гардеробе."
+      },
+      {
+        "q": "Уход за таким изделием кажется слишком сложным.",
+        "a": "Профессиональная сухая чистка позволит сохранить деликатную структуру кружева и сияние атласной отделки в первозданном виде на долгие годы."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يبدو الجزء العلوي المصنوع من الدانتيل شفافاً وجريئاً أكثر من اللازم.",
+        "a": "صمم المصممون بطانة مدمجة من الساتان غير اللامع والكثيف، والتي تخفي الملابس الداخلية تماماً وتمنحك الثقة مع الحفاظ على رونق الدانتيل الانسيابي."
+      },
+      {
+        "q": "يبدو دانتيل شانتيلي هشاً للغاية للاستخدام المتكرر.",
+        "a": "يتميز القماش عالي التقنية المعتمد على مادة البولي أميد بمقاومة عالية للتآكل والقدرة على الحفاظ على شكله، مع الحفاظ على ملمس ناعم لا يصدق."
+      },
+      {
+        "q": "أخشى أن تعيق الكشكشة الموجودة عند الرقبة ارتداء الملابس الخارجية.",
+        "a": "يتمتع دانتيل Liquorosa بمرونة استثنائية، حيث تنسدل الكشكشة بسهولة تحت السترة أو المعطف لتتحول إلى عنصر زخرفي راقٍ يبرز جمال الوجه."
+      },
+      {
+        "q": "هذه البلوزة مناسبة فقط للمناسبات الرسمية جداً.",
+        "a": "بفضل لونها الأسود الأنيق وإمكانية تنسيقها مع السراويل الكلاسيكية، يمكن لهذا التصميم أن يصبح لمسة فاخرة في خزانة ملابسك المسائية العملية."
+      },
+      {
+        "q": "تبدو العناية بهذه القطعة معقدة للغاية.",
+        "a": "التنظيف الجاف الاحترافي سيحافظ على الهيكل الدقيق للدانتيل وبريق لمسات الساتان في حالتها الأصلية لسنوات عديدة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მაქმანებიანი ზედა ზედმეტად გამჭვირვალე და გაბედული ჩანს.",
+        "a": "დიზაინერებმა გაითვალისწინეს მკვრივი მქრქალი ატლასის ჩასაშენებელი შალითა, რომელიც სრულად ფარავს თეთრეულს და უზრუნველყოფს თავდაჯერებულობას, ამავდროულად ინარჩუნებს მაქმანის ჰაეროვნებას."
+      },
+      {
+        "q": "შანტიის მაქმანი ზედმეტად მყიფე ჩანს ხშირი გამოყენებისთვის.",
+        "a": "გამოყენებული მაღალტექნოლოგიური პოლიამიდის ფუძის ქსოვილი გამოირჩევა გაზრდილი ცვეთამედეგობითა და ფორმის შენარჩუნების უნარით, დარჩენილი უსაზღვროდ რბილი შეხებისას."
+      },
+      {
+        "q": "მეშინია, რომ ყელზე ვოლანები შემიშლის ხელს ზედა სამოსის ქვეშ.",
+        "a": "Liquorosa-ს მაქმანი გამოირჩევა განსაკუთრებული პლასტიკურობით. ვოლანები მარტივად თავსდება პიჯაკის ან პალტოს ქვეშ და იქცევა დახვეწილ დეკორატიულ ელემენტად, რომელიც სახეს ჩარჩოსავით აკრავს."
+      },
+      {
+        "q": "ასეთი ბლუზა მხოლოდ ძალიან საზეიმო შემთხვევებისთვისაა.",
+        "a": "თავშეკავებული შავი ფერის წყალობითა და კლასიკურ შარვლებთან შეხამების შესაძლებლობით, ეს მოდელი შეიძლება გახდეს მდიდრული აქცენტი საღამოს საქმიან გარდერობში."
+      },
+      {
+        "q": "ასეთი ნაკეთობის მოვლა ზედმეტად რთული ჩანს.",
+        "a": "პროფესიონალური ქიმწმენდა საშუალებას მოგცემთ შეინარჩუნოთ მაქმანის დელიკატური სტრუქტურა და ატლასის დეტალების ბზინვარება პირვანდელი სახით მრავალი წლის განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ժանյակավոր վերնամասը չափազանց թափանցիկ և համարձակ է թվում։",
+        "a": "Դիզայներները նախատեսել են խիտ փայլատ ատլասից պատրաստված ներկառուցված աստառ, որը լիովին ծածկում է ներքնազգեստը և ապահովում վստահություն՝ պահպանելով ժանյակի օդային տեսքը։"
+      },
+      {
+        "q": "Շանտիյի ժանյակը չափազանց փխրուն է թվում հաճախակի օգտագործման համար։",
+        "a": "Պոլիամիդի հիմքով օգտագործվող բարձրտեխնոլոգիական կտորն աչքի է ընկնում մաշվածության նկատմամբ բարձր դիմացկունությամբ և ձևը պահպանելու հատկությամբ՝ մնալով անհավանական փափուկ հպմանը։"
+      },
+      {
+        "q": "Վախենում եմ, որ պարանոցի վոլանները կխանգարեն վերնազգեստի տակ։",
+        "a": "Liquorosa ժանյակն օժտված է բացառիկ պլաստիկությամբ։ Վոլանները հեշտությամբ տեղավորվում են բաճկոնի կամ վերարկուի տակ՝ վերածվելով դեմքը շրջանակող նրբագեղ դեկորատիվ տարրի։"
+      },
+      {
+        "q": "Նման բլուզը հարմար է միայն շատ հանդիսավոր առիթների համար։",
+        "a": "Շնորհիվ լակոնիկ սև գույնի և դասական տաբատների հետ համադրելու հնարավորության՝ այս մոդելը կարող է դառնալ երեկոյան գործնական զգեստապահարանի շքեղ շեշտադրում։"
+      },
+      {
+        "q": "Նման իրի խնամքը չափազանց բարդ է թվում։",
+        "a": "Պրոֆեսիոնալ քիմմաքրումը թույլ կտա երկար տարիներ պահպանել ժանյակի նուրբ կառուցվածքը և ատլասե հարդարանքի փայլը իրենց նախնական տեսքով։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Mežģīņu augšdaļa šķiet pārāk caurspīdīga un drosmīga.",
+        "a": "Dizaineri ir paredzējuši iebūvētu apakškreklu no blīva matēta satīna, kas pilnībā paslēpj veļu un nodrošina pārliecību, vienlaikus saglabājot mežģīņu gaisīgumu."
+      },
+      {
+        "q": "Šantijī mežģīnes izskatās pārāk trauslas biežai valkāšanai.",
+        "a": "Izmantotais augsto tehnoloģiju audums uz poliamīda bāzes izceļas ar paaugstinātu nodilumizturību un spēju saglabāt formu, paliekot neticami mīkstam pieskārienam."
+      },
+      {
+        "q": "Baidos, ka volāni uz kakla traucēs zem virsdrēbēm.",
+        "a": "Liquorosa mežģīnēm piemīt izcila plastika. Volāni viegli sakļaujas zem žaketes vai mēteļa, pārvēršoties par izsmalcinātu dekoratīvu elementu, kas ierāmē seju."
+      },
+      {
+        "q": "Šāda blūze ir piemērota tikai ļoti svinīgiem gadījumiem.",
+        "a": "Pateicoties lakoniskajai melnajai krāsai un iespējai kombinēt ar klasiskām biksēm, šis modelis var kļūt par greznu akcentu vakara lietišķajā garderobē."
+      },
+      {
+        "q": "Kopšana šādam izstrādājumam šķiet pārāk sarežģīta.",
+        "a": "Profesionāla ķīmiskā tīrīšana ļaus saglabāt delikāto mežģīņu struktūru un satīna apdares mirdzumu to sākotnējā izskatā daudzus gadus."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Nėriniuotas viršus atrodo per daug permatomas ir drąsus.",
+        "a": "Dizaineriai numatė įsiūtą pamušalą iš tankaus matinio atlaso, kuris visiškai paslepia apatinius ir užtikrina pasitikėjimą savimi, išsaugodamas nėrinių lengvumą."
+      },
+      {
+        "q": "Šanti pėr nėriniai atrodo per trapūs dažnam dėvėjimui.",
+        "a": "Naudojamas aukštųjų technologijų poliamido pagrindo audinys pasižymi padidintu atsparumu dilimui ir gebėjimu išlaikyti formą, išlikdamas neįtikėtinai minkštas liesti."
+      },
+      {
+        "q": "Bijau, kad raukiniai ant kaklo trukdys po viršutiniais drabužiais.",
+        "a": "Liquorosa nėriniai pasižymi išskirtiniu plastiškumu. Raukiniai lengvai priglunda po švarku ar paltu, tapdami rafinuotu dekoratyviniu elementu, įrėminančiu veidą."
+      },
+      {
+        "q": "Tokia palaidinė tinka tik labai iškilmingoms progoms.",
+        "a": "Dėl lakoniškos juodos spalvos ir galimybės derinti su klasikinėmis kelnėmis, šis modelis gali tapti prabangiu akcentu vakariniame dalykiniame garderobe."
+      },
+      {
+        "q": "Priežiūra tokiam gaminiui atrodo per sudėtinga.",
+        "a": "Profesionalus sausas valymas leis išsaugoti subtilią nėrinių struktūrą ir atlasinės apdailos spindesį pirminėje būklėje daugelį metų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Koronkowa góra wydaje się zbyt prześwitująca i odważna.",
+        "a": "Projektanci przewidzieli wbudowaną podszewkę z gęstego matowego atłasu, która całkowicie ukrywa bieliznę i zapewnia pewność siebie, zachowując jednocześnie lekkość koronki."
+      },
+      {
+        "q": "Koronka chantilly wygląda na zbyt delikatną do częstego użytkowania.",
+        "a": "Zastosowane zaawansowane technologicznie płótno na bazie poliamidu wyróżnia się podwyższoną odpornością na ścieranie i zdolnością do zachowania kształtu, pozostając przy tym niezwykle miękkim w dotyku."
+      },
+      {
+        "q": "Obawiam się, że falbany przy szyi będą przeszkadzać pod odzieżą wierzchnią.",
+        "a": "Koronka Liquorosa posiada wyjątkową plastyczność. Falbany łatwo układają się pod żakietem lub płaszczem, zmieniając się w wyrafinowany element dekoracyjny, który pięknie obramowuje twarz."
+      },
+      {
+        "q": "Taka bluzka pasuje tylko na bardzo uroczyste okazje.",
+        "a": "Dzięki lakonicznemu czarnemu kolorowi i możliwości łączenia z klasycznymi spodniami, ten model może stać się luksusowym akcentem w wieczorowej garderobie biznesowej."
+      },
+      {
+        "q": "Pielęgnacja takiego produktu wydaje się zbyt skomplikowana.",
+        "a": "Profesjonalne czyszczenie chemiczne pozwoli zachować delikatną strukturę koronki i blask atłasowego wykończenia w niezmienionym stanie przez długie lata."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Мереживний верх здається занадто прозорим та сміливим.",
+        "a": "Дизайнери передбачили вбудований чохол зі щільного матового атласу, який повністю приховує білизну та забезпечує впевненість, зберігаючи при цьому легкість мережива."
+      },
+      {
+        "q": "Мереживо шантільї виглядає занадто крихким для частого використання.",
+        "a": "Використовуване високотехнологічне полотно на основі поліаміду вирізняється підвищеною зносостійкістю та здатністю зберігати форму, залишаючись при цьому неймовірно м'яким на дотик."
+      },
+      {
+        "q": "Боюся, що волани на шиї заважатимуть під верхнім одягом.",
+        "a": "Мереживо Liquorosa має виняткову пластичність. Волани легко лягають під жакет чи пальто, перетворюючись на вишуканий декоративний елемент, що обрамляє обличчя."
+      },
+      {
+        "q": "Така блуза підходить лише для дуже урочистих випадків.",
+        "a": "Завдяки лаконічному чорному кольору та можливості поєднання з класичними брюками, ця модель може стати розкішним акцентом у вечірньому діловому гардеробі."
+      },
+      {
+        "q": "Догляд за таким виробом здається занадто складним.",
+        "a": "Професійне сухе чищення дозволить зберегти делікатну структуру мережива та сяйво атласної оздоби у первісному вигляді на довгі роки."
+      }
+    ]
+  }
+}

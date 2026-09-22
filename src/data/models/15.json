@@ -1,0 +1,479 @@
+{
+  "id": 15,
+  "name": "Cremona",
+  "description": {
+    "en": "The exquisite Cremona jacquard pullover by Luisa Spagnoli is the embodiment of tactile luxury and impeccable Italian style. Crafted from a noble blend of pure wool and alpaca, lending the piece exceptional softness and enveloping warmth. The principal aesthetic accent is an intricate jacquard pattern and accent gathered shoulders that create a contemporary, distinctly feminine silhouette. The Regular fit and classic round neckline make this pullover a foundational wardrobe piece for creating status-defining layered ensembles in the 'quiet luxury' aesthetic.",
+    "ru": "Изысканный жаккардовый пуловер Cremona от Luisa Spagnoli — это воплощение тактильной роскоши и безупречного итальянского стиля. Модель выполнена из благородной смеси натуральной шерсти и альпаки, что дарит изделию исключительную мягкость и обволакивающее тепло. Главным эстетическим акцентом выступает сложный жаккардовый узор и акцентные присобранные плечи, создающие современный и подчеркнуто женственный силуэт. Прямая посадка (Regular fit) и классический круглый вырез делают этот пуловер фундаментальным элементом гардероба для создания статусных многослойных ансамблей в эстетике «тихой роскоши».",
+    "ar": "يُعد بلوفر الجاكار الراقي Cremona من Luisa Spagnoli تجسيداً للفخامة الملموسة والأسلوب الإيطالي الذي لا تشوبه شائبة. صُممت القطعة من مزيج فاخر من الصوف الطبيعي والألباكا، مما يمنحها نعومة استثنائية ودفئاً يغلف الجسم. يتمثل العنصر الجمالي الأبرز في نقشة الجاكار المعقدة والأكتاف المزمومة التي تضفي لمسة عصرية وأنثوية بامتياز. بفضل قصته المستقيمة (Regular fit) وفتحة الرقبة الكلاسيكية المستديرة، يُعد هذا البلوفر عنصراً أساسياً في خزانة الملابس لتنسيق إطلالات راقية متعددة الطبقات في إطار جمالية «الفخامة الهادئة».",
+    "ka": "Luisa Spagnoli-ს დახვეწილი ჟაკარდის პულოვერი Cremona ტაქტილური ფუფუნებისა და უნაკლო იტალიური სტილის განსახიერებაა. მოდელი დამზადებულია ნატურალური მატყლისა და ალპაკას კეთილშობილური ნარევისგან, რაც ნაკეთობას განსაკუთრებულ რბილობასა და შემომხვევ სითბოს ანიჭებს. მთავარ ესთეტიკურ აქცენტად გამოდის რთული ჟაკარდის ნიმუში და აქცენტური შეკრული მხრები, რომლებიც თანამედროვე და ხაზგასმით ქალურ სილუეტს ქმნიან. სწორი მორგება (Regular fit) და კლასიკური მრგვალი საყელო ამ პულოვერს გარდერობის ფუნდამენტურ ელემენტად აქცევს „ჩუმი ფუფუნების“ ესთეტიკაში სტატუსური მრავალფენიანი ანსამბლების შესაქმნელად.",
+    "hy": "Luisa Spagnoli-ի նրբաճաշակ ժակարդե Cremona պուլովերը շոշափելի շքեղության և անթերի իտալական ոճի մարմնացումն է։ Մոդելը պատրաստված է բնական բրդի և ալպակայի վեհաշուք համադրությունից, որը իրին հաղորդում է բացառիկ փափկություն և պատող ջերմություն։ Գլխավոր էսթետիկ շեշտադրումը բարդ ժակարդե նախշն է և հավաքված ուսերը, որոնք ստեղծում են ժամանակակից և ընդգծված կանացի ուրվագիծ։ Ուղիղ ձևվածքը (Regular fit) և դասական կլոր բացվածքը այս պուլովերը դարձնում են զգեստապահարանի հիմնարար տարր՝ «հանգիստ շքեղության» էսթետիկայով կարգավիճակային բազմաշերտ համադրություններ ստեղծելու համար։",
+    "lv": "Izsmalcinātais žakarda džemperis Cremona no Luisa Spagnoli ir taktilas greznības un nevainojama itāļu stila iemiesojums. Modelis ir izgatavots no cēla dabīgas vilnas un alpakas maisījuma, kas dāvā izstrādājumam izcilu maigumu un apņemošu siltumu. Galvenais estētiskais akcents ir sarežģītais žakarda raksts un akcentēti sakrokoti pleci, kas rada mūsdienīgu un uzsvērti sievišķīgu siluetu. Taisnais piegriezums (Regular fit) un klasisks apaļš izgriezums padara šo džemperi par fundamentālu garderobes elementu statusa pilnu daudzslāņu ansambļu radīšanai \"klusās greznības\" estētikā.",
+    "lt": "Rafinuotas Luisa Spagnoli žakardinis megztinis Cremona – tai taktilinės prabangos ir nepriekaištingo itališko stiliaus įsikūnijimas. Modelis pasiūtas iš tauraus natūralios vilnos ir alpakos vilnos mišinio, suteikiančio gaminiui išskirtinio minkštumo ir apgaubiančios šilumos. Pagrindiniu estetiniu akcentu tampa sudėtingas žakardinis raštas ir akcentuoti suraukti pečiai, kuriantys šiuolaikišką ir itin moterišką siluetą. Taisyklingas (Regular fit) sukirpimas ir klasikinė apvali iškirptė paverčia šį megztinį fundamentaliu garderobo elementu, skirtu kurti stilingus sluoksniuotus derinius „tyliosios prabangos“ estetikoje.",
+    "pl": "Wyrafinowany żakardowy sweter Cremona od Luisa Spagnoli to ucieleśnienie luksusu w dotyku i nieskazitelnego włoskiego stylu. Model wykonano ze szlachetnej mieszanki naturalnej wełny i alpaki, co nadaje dzianinie wyjątkową miękkość i otulające ciepło. Głównym akcentem estetycznym jest złożony żakardowy wzór oraz zaakcentowane, lekko marszczone ramiona, które tworzą nowoczesną i wybitnie kobiecą sylwetkę. Prosty krój (Regular fit) i klasyczny okrągły dekolt sprawiają, że ten sweter jest fundamentalnym elementem garderoby do tworzenia statusowych, warstwowych stylizacji w estetyce „cichego luksusu”.",
+    "uk": "Вишуканий жакардовий пуловер Cremona від Luisa Spagnoli — це втілення тактильної розкоші та бездоганного італійського стилю. Модель виконана з благородної суміші натуральної вовни та альпаки, що дарує виробу виняткову м'якість і огортаюче тепло. Головним естетичним акцентом виступає складний жакардовий візерунок та акцентні призібрані плечі, що створюють сучасний і підкреслено жіночний силует. Пряма посадка (Regular fit) і класичний круглий виріз роблять цей пуловер фундаментальним елементом гардероба для створення статусних багатошарових ансамблів в естетиці «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Var Toni Grigio",
+      "code": "3421",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yyz2fwI3TfaYHxif56HoIw_1683337760696f4379690928_47645276_02831270XX1.jpg"
+    },
+    {
+      "name": "Var Verde Oliv Bordo",
+      "code": "3349",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eDNHV1c0RjWSZGmKSRYFrg_608445424696f436c3f19c0_12821392_02830820XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Toni Grigio)",
+        "en": "Total Look (Toni Grigio)",
+        "ar": "Total Look (Toni Grigio)",
+        "ka": "Total Look (Toni Grigio)",
+        "hy": "Total Look (Toni Grigio)",
+        "lv": "Total Look (Toni Grigio)",
+        "lt": "Total Look (Toni Grigio)",
+        "pl": "Total Look (Toni Grigio)",
+        "uk": "Total Look (Toni Grigio)"
+      },
+      "text": {
+        "ru": "Strumento 0817 1022 в сочетании с Cremona 3421, Manos 0821, Olla 1073 и Renno 0814.",
+        "en": "Strumento 0817 1022 combined with Cremona 3421, Manos 0821 ( Data not available in official sources), Olla 1073 and Renno 0814.",
+        "ar": "Strumento 0817 1022 combined with Cremona 3421, Manos 0821 ( Data not available in official sources), Olla 1073 and Renno 0814.",
+        "ka": "Strumento 0817 1022 combined with Cremona 3421, Manos 0821 ( Data not available in official sources), Olla 1073 and Renno 0814.",
+        "hy": "Strumento 0817 1022 combined with Cremona 3421, Manos 0821 ( Data not available in official sources), Olla 1073 and Renno 0814.",
+        "lv": "Strumento 0817 1022 combined with Cremona 3421, Manos 0821 ( Data not available in official sources), Olla 1073 and Renno 0814.",
+        "lt": "Strumento 0817 1022 combined with Cremona 3421, Manos 0821 ( Data not available in official sources), Olla 1073 and Renno 0814.",
+        "pl": "Strumento 0817 1022 combined with Cremona 3421, Manos 0821 ( Data not available in official sources), Olla 1073 and Renno 0814.",
+        "uk": "Strumento 0817 1022 combined with Cremona 3421, Manos 0821 ( Data not available in official sources), Olla 1073 and Renno 0814."
+      },
+      "items": [
+        {
+          "name": "Strumento",
+          "code": "0817 1022",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/144663504692424e1b33464_10342439_02781750XX1.jpg",
+          "modelId": 498
+        },
+        {
+          "name": "Cremona",
+          "code": "3421",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yyz2fwI3TfaYHxif56HoIw_1683337760696f4379690928_47645276_02831270XX1.jpg"
+        },
+        {
+          "name": "Manos",
+          "code": "0821",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+        },
+        {
+          "name": "Olla",
+          "code": "1073",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png",
+          "modelId": 456
+        },
+        {
+          "name": "Renno",
+          "code": "0814",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57693e01-fdb6-4b56-a73b-26c4b4d8ce61.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (Verde Oliv_Bordo)",
+        "en": "Total Look (Verde Oliv_Bordo)",
+        "ar": "Total Look (Verde Oliv_Bordo)",
+        "ka": "Total Look (Verde Oliv_Bordo)",
+        "hy": "Total Look (Verde Oliv_Bordo)",
+        "lv": "Total Look (Verde Oliv_Bordo)",
+        "lt": "Total Look (Verde Oliv_Bordo)",
+        "pl": "Total Look (Verde Oliv_Bordo)",
+        "uk": "Total Look (Verde Oliv_Bordo)"
+      },
+      "text": {
+        "ru": "Segreteria 1751 дополнен Cremona 3349, Latteria 2417, Olivetano 0943 и Iago 0101 0002.",
+        "en": "Segreteria 1751 complemented by Cremona 3349, Latteria 2417, Olivetano 0943 and Iago 0101 0002.",
+        "ar": "Segreteria 1751 complemented by Cremona 3349, Latteria 2417, Olivetano 0943 and Iago 0101 0002.",
+        "ka": "Segreteria 1751 complemented by Cremona 3349, Latteria 2417, Olivetano 0943 and Iago 0101 0002.",
+        "hy": "Segreteria 1751 complemented by Cremona 3349, Latteria 2417, Olivetano 0943 and Iago 0101 0002.",
+        "lv": "Segreteria 1751 complemented by Cremona 3349, Latteria 2417, Olivetano 0943 and Iago 0101 0002.",
+        "lt": "Segreteria 1751 complemented by Cremona 3349, Latteria 2417, Olivetano 0943 and Iago 0101 0002.",
+        "pl": "Segreteria 1751 complemented by Cremona 3349, Latteria 2417, Olivetano 0943 and Iago 0101 0002.",
+        "uk": "Segreteria 1751 complemented by Cremona 3349, Latteria 2417, Olivetano 0943 and Iago 0101 0002."
+      },
+      "items": [
+        {
+          "name": "Segreteria",
+          "code": "1751",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1177856364692424dbb18d31_39928106_02781600XX1.jpg",
+          "modelId": 479
+        },
+        {
+          "name": "Cremona",
+          "code": "3349",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eDNHV1c0RjWSZGmKSRYFrg_608445424696f436c3f19c0_12821392_02830820XX1.jpg"
+        },
+        {
+          "name": "Latteria",
+          "code": "2417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3Mx2ef25TdugVXg2-i0IIg_1643286833696f42dfd5b5f6_19897444_02820400XX1.jpg",
+          "modelId": 101
+        },
+        {
+          "name": "Olivetano",
+          "code": "0943",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qdI5UwLCT1OH3R6NaxIWHg_1650191426696f42e87b11a6_96447037_02820670XX1.jpg",
+          "modelId": 249
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (Luxury Mix)",
+        "en": "Total Look (Luxury Mix)",
+        "ar": "Total Look (Luxury Mix)",
+        "ka": "Total Look (Luxury Mix)",
+        "hy": "Total Look (Luxury Mix)",
+        "lv": "Total Look (Luxury Mix)",
+        "lt": "Total Look (Luxury Mix)",
+        "pl": "Total Look (Luxury Mix)",
+        "uk": "Total Look (Luxury Mix)"
+      },
+      "text": {
+        "ru": "Spareggio 0996, Cremona 3349, Formazione 0996 и Uboldo 2218 0002.",
+        "en": "Spareggio 0996, Cremona 3349, Formazione 0996 ( Data not available in official sources) and Uboldo 2218 0002.",
+        "ar": "Spareggio 0996, Cremona 3349, Formazione 0996 ( Data not available in official sources) and Uboldo 2218 0002.",
+        "ka": "Spareggio 0996, Cremona 3349, Formazione 0996 ( Data not available in official sources) and Uboldo 2218 0002.",
+        "hy": "Spareggio 0996, Cremona 3349, Formazione 0996 ( Data not available in official sources) and Uboldo 2218 0002.",
+        "lv": "Spareggio 0996, Cremona 3349, Formazione 0996 ( Data not available in official sources) and Uboldo 2218 0002.",
+        "lt": "Spareggio 0996, Cremona 3349, Formazione 0996 ( Data not available in official sources) and Uboldo 2218 0002.",
+        "pl": "Spareggio 0996, Cremona 3349, Formazione 0996 ( Data not available in official sources) and Uboldo 2218 0002.",
+        "uk": "Spareggio 0996, Cremona 3349, Formazione 0996 ( Data not available in official sources) and Uboldo 2218 0002."
+      },
+      "items": [
+        {
+          "name": "Spareggio",
+          "code": "0996",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2NiFlQdATsqtiyLCjMWh9Q_1848836899696f42fd755c70_44100840_02821130XX1.jpg",
+          "modelId": 333
+        },
+        {
+          "name": "Cremona",
+          "code": "3349",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eDNHV1c0RjWSZGmKSRYFrg_608445424696f436c3f19c0_12821392_02830820XX1.jpg"
+        },
+        {
+          "name": "Formazione",
+          "code": "0996",
+          "imageUrl": null
+        },
+        {
+          "name": "Uboldo",
+          "code": "2218 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281020%29.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 186",
+        "en": "Look 186",
+        "ar": "Look 186",
+        "ka": "Look 186",
+        "hy": "Look 186",
+        "lv": "Look 186",
+        "lt": "Look 186",
+        "pl": "Look 186",
+        "uk": "Look 186"
+      },
+      "text": {
+        "ru": "Localita 201, Cremona 3349, Olivetano 1793, Urbana 0981 и Ls1928p 2234 0038.",
+        "en": "Localita 201, Cremona 3349, Olivetano 1793, Urbana 0981 and Ls1928p 2234 0038.",
+        "ar": "Localita 201, Cremona 3349, Olivetano 1793, Urbana 0981 and Ls1928p 2234 0038.",
+        "ka": "Localita 201, Cremona 3349, Olivetano 1793, Urbana 0981 and Ls1928p 2234 0038.",
+        "hy": "Localita 201, Cremona 3349, Olivetano 1793, Urbana 0981 and Ls1928p 2234 0038.",
+        "lv": "Localita 201, Cremona 3349, Olivetano 1793, Urbana 0981 and Ls1928p 2234 0038.",
+        "lt": "Localita 201, Cremona 3349, Olivetano 1793, Urbana 0981 and Ls1928p 2234 0038.",
+        "pl": "Localita 201, Cremona 3349, Olivetano 1793, Urbana 0981 and Ls1928p 2234 0038.",
+        "uk": "Localita 201, Cremona 3349, Olivetano 1793, Urbana 0981 and Ls1928p 2234 0038."
+      },
+      "items": [
+        {
+          "name": "Localita",
+          "code": "201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1407561629692424cfaef943_59921062_02781240XX1.jpg",
+          "modelId": 422
+        },
+        {
+          "name": "Cremona",
+          "code": "3349",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eDNHV1c0RjWSZGmKSRYFrg_608445424696f436c3f19c0_12821392_02830820XX1.jpg"
+        },
+        {
+          "name": "Olivetano",
+          "code": "1793",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cvNRdSSbR3uGZFsM3BKLqg_26644077696f42e8e0b843_49978902_02820680XX1.jpg",
+          "modelId": 249
+        },
+        {
+          "name": "Urbana",
+          "code": "0981",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7BoHBVbqTtCtxociDR_4dQ_2049283379696f42280ae740_09477040_02801350XX1.jpg"
+        },
+        {
+          "name": "Ls1928p",
+          "code": "2234 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_223400380000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the premium composition: the blend of wool and 12% alpaca offers exceptional thermoregulation and softness that the client will appreciate from the very first touch.",
+      "Draw attention to the shoulder design: the gathered sleeves are a refined micro-trend that lends the piece architectural volume and an elegant air.",
+      "Present Cremona as a key layering piece: the jacquard pattern harmonizes beautifully with the understated Localita shirts and trousers in velour or leather."
+    ],
+    "ru": [
+      "Делайте ставку на премиальный состав: сочетание шерсти и 12% альпаки обеспечивает исключительную терморегуляцию и мягкость, которую клиент оценит с первого прикосновения.",
+      "Акцентируйте внимание на дизайне плеч: присобранные рукава — это изысканный микротренд, который придает модели архитектурный объем и нарядный вид.",
+      "Предлагайте Cremona как ключевой элемент многослойности: жаккардовый узор идеально гармонирует с лаконичными рубашками Localita и брюками из велюра или кожи."
+    ],
+    "ar": [
+      "اعتمدي على تركيبة المواد الفاخرة: فالمزيج بين الصوف و12% من الألبكة يوفر توازناً حرارياً استثنائياً ونعومة ستلمسها العميله من أول تجربة.",
+      "ركزي على تصميم الأكتاف: فالأكمام المزمومة هي صيحة دقيقة وراقية تمنح التصميم حجماً معمارياً ومظهراً احتفالياً.",
+      "اقترحي Cremona كقطعة أساسية لتنسيق الطبقات: حيث يتماشى نمط الجاكار بانسجام تام مع قمصان Localita الراقية وسراويل المخمل أو الجلد."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება პრემიუმ შემადგენლობაზე: მატყლისა და 12% ალპაკას კომბინაცია უზრუნველყოფს განსაკუთრებულ თერმორეგულაციასა და სირბილეს, რასაც კლიენტი პირველივე შეხებისას დააფასებს.",
+      "აქცენტი გააკეთეთ მხრების დიზაინზე: შეკრული სახელოები არის დახვეწილი მიკროტრენდი, რომელიც მოდელს ანიჭებს არქიტექტურულ მოცულობასა და სადღესასწაულო იერს.",
+      "შესთავაზეთ Cremona, როგორც მრავალფენიანი სტილის საკვანძო ელემენტი: ჟაკარდის ნიმუში იდეალურად ჰარმონიზდება ლაკონურ პერანგებთან Localita და ხავერდის ან ტყავის შარვალთან."
+    ],
+    "hy": [
+      "Կատարեք խաղադրույք պրեմիում կազմի վրա. բրդի և 12% ալպակայի համադրությունն ապահովում է բացառիկ ջերմակարգավորում և փափկություն, որը հաճախորդը կգնահատի առաջին իսկ հպումից:",
+      "Կենտրոնացրեք ուշադրությունը ուսերի ձևվածքի վրա. ծալքավոր թևերը նրբագեղ միկրոթրենդ են, որը մոդելին հաղորդում է ճարտարապետական ծավալ և տոնական տեսք:",
+      "Առաջարկեք Cremona-ն որպես բազմաշերտության առանցքային տարր. ժակարդային նախշը կատարյալ ներդաշնակության մեջ է Localita լակոնիկ վերնաշապիկների և թավշյա կամ կաշվե տաբատների հետ:"
+    ],
+    "lv": [
+      "Veidojiet likmi uz sastāva kvalitāti: vilnas un 12% alpakas vilnas kombinācija nodrošina izcilu termoregulāciju un mīkstumu, ko klients novērtēs jau pēc pirmā pieskāriena.",
+      "Akcentējiet uzmanību uz plecu dizainu: krokotās piedurknes ir izsmalcināta mikro-tendence, kas piešķir modelim arhitektonisku apjomu un svinīgu izskatu.",
+      "Piedāvājiet Cremona kā būtisku daudzslāņainības elementu: žakarda raksts lieliski harmonē ar lakoniskiem Localita krekliem un velūra vai ādas biksēm."
+    ],
+    "lt": [
+      "Statykite ant aukščiausios kokybės sudėties: vilnos ir 12% alpakos derinys užtikrina išskirtinę termoreguliaciją ir švelnumą, kurį klientas įvertins nuo pirmojo prisilietimo.",
+      "Atkreipkite dėmesį į pečių dizainą: surauktos rankovės — tai rafinuota mikro tendencija, kuri suteikia modeliui architektūrinės apimties ir puošnią išvaizdą.",
+      "Siūlykite Cremona kaip pagrindinį sluoksniavimo elementą: žakardinis raštas idealiai dera su lakoniškais marškiniais Localita bei veliūrinėmis ar odinėmis kelnėmis."
+    ],
+    "pl": [
+      "Postaw na skład premium: połączenie wełny i 12% alpaki zapewnia wyjątkową termoregulację i miękkość, którą klientka doceni przy pierwszym dotyku.",
+      "Zwróć uwagę na krój ramion: marszczone rękawy to wyrafinowany mikrotrend, który nadaje modelowi architektoniczną objętość i elegancki wygląd.",
+      "Proponuj Cremona jako kluczowy element stylizacji warstwowych: żakardowy wzór idealnie harmonizuje z minimalistycznymi koszulami Localita oraz spodniami z weluru lub skóry."
+    ],
+    "uk": [
+      "Робіть ставку на преміальний склад: поєднання вовни та 12% альпаки забезпечує виняткову терморегуляцію та м'якість, яку клієнт оцінить із першого дотику.",
+      "Акцентуйте увагу на дизайні плечей: призібрані рукави — це вишуканий мікротренд, який надає моделі архітектурного об'єму та ошатного вигляду.",
+      "Пропонуйте Cremona як ключовий елемент багатошаровості: жакардовий візерунок ідеально гармоніює з лаконічними сорочками Localita та штанами з велюру чи шкіри."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Wool blended with alpaca may cause prickling on the skin.",
+        "a": "This model uses top-grade alpaca combined with polyamide to stabilize the yarn, guaranteeing a silky texture and comfort even for sensitive skin."
+      },
+      {
+        "q": "The jacquard pattern seems too bold.",
+        "a": "The pattern is rendered in noble, natural tones, allowing the pullover to become a status-defining accent to the look while preserving overall elegance and restraint."
+      },
+      {
+        "q": "Gathered shoulders may visually widen the upper body.",
+        "a": "On the contrary, the soft draping at the shoulders, combined with the straight Regular fit cut, structures the silhouette, creating feminine, harmonious proportions."
+      },
+      {
+        "q": "Concern about caring for such delicate jacquard.",
+        "a": "We recommend professional cleaning, which will preserve the knit's voluminous texture and the brightness of the jacquard pattern for a long time to come."
+      },
+      {
+        "q": "The model looks too dressy for everyday office wear.",
+        "a": "Style Cremona with basic Olla jeans or tailored Olivetano trousers to create a Casual Chic look, where luxury is expressed through the details."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шерсть с альпакой может вызывать покалывание на коже.",
+        "a": "В данной модели используется альпака высшей категории в сочетании с полиамидом для стабилизации нити, что гарантирует шелковистую текстуру и комфорт даже для чувствительной кожи."
+      },
+      {
+        "q": "Жаккардовый узор кажется слишком насыщенным.",
+        "a": "Узор выполнен в благородных природных оттенках, что позволяет пуловеру стать статусным акцентом образа, сохраняя при этом общую элегантность и сдержанность."
+      },
+      {
+        "q": "Присобранные плечи могут визуально расширять верхнюю часть фигуры.",
+        "a": "Напротив, мягкая драпировка на плечах в сочетании с прямым кроем Regular fit структурирует силуэт, создавая женственные и гармоничные пропорции."
+      },
+      {
+        "q": "Сложность в уходе за таким деликатным жаккардом.",
+        "a": "Мы рекомендуем профессиональную чистку, которая позволит надолго сохранить объемную фактуру вязки и яркость жаккардового рисунка."
+      },
+      {
+        "q": "Модель выглядит слишком нарядной для офисных будней.",
+        "a": "Стилизуйте Cremona с базовыми джинсами Olla или строгими брюками Olivetano для создания образа в стиле Casual Chic, где роскошь проявляется в деталях."
+      }
+    ],
+    "ar": [
+      {
+        "q": "كريمتونا",
+        "a": "(Cremona) بمرونة عالية مع بنطال الجينز الأساسي."
+      },
+      {
+        "q": "أولا",
+        "a": "(Olla) أو بنطال."
+      },
+      {
+        "q": "أوليفيتانو",
+        "a": "(Olivetano) ذي القَصّة الصارمة لابتكار إطلالة يومية بأسلوب."
+      },
+      {
+        "q": "الأناقة العفوية الفاخرة",
+        "a": "(Casual Chic)، حيث تتجلى الفخامة في أبهى تفاصيلها."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ალპაკას მატყლმა შესაძლოა კანზე ჩხვლეტა გამოიწვიოს.",
+        "a": "ამ მოდელში გამოყენებულია უმაღლესი კატეგორიის ალპაკა პოლიამიდთან ერთად ძაფის სტაბილიზაციისთვის, რაც გარანტიას იძლევა აბრეშუმისებრი ტექსტურისა და კომფორტის შესახებ მგრძნობიარე კანისთვისაც კი."
+      },
+      {
+        "q": "ჟაკარდის ორნამენტი ზედმეტად გადატვირთული ჩანს.",
+        "a": "ორნამენტი შესრულებულია კეთილშობილურ ბუნებრივ ტონებში, რაც საშუალებას აძლევს პულოვერს გახდეს იმიჯის სტატუსური აქცენტი და ამავდროულად შეინარჩუნოს საერთო ელეგანტურობა და თავშეკავებულობა."
+      },
+      {
+        "q": "შეკრული მხრები შესაძლოა ვიზუალურად აფართოებდეს ფიგურის ზედა ნაწილს.",
+        "a": "პირიქით, მხრებზე არსებული რბილი დრეპირება პირდაპირ Regular fit კროისთან ერთად აწყობს სილუეტს და ქმნის ქალურ და ჰარმონიულ პროპორციებს."
+      },
+      {
+        "q": "ასეთი დელიკატური ჟაკარდის მოვლის სირთულე.",
+        "a": "ჩვენ გირჩევთ პროფესიონალურ წმენდას, რომელიც საშუალებას მოგცემთ დიდხანს შეინარჩუნოთ ქსოვის მოცულობითი ფაქტურა და ჟაკარდის ნახატის სიკაშკაშე."
+      },
+      {
+        "q": "მოდელი ოფისის ყოველდღიურობისთვის ზედმეტად გამოპრანჭული ჩანს.",
+        "a": "გააფორმეთ Cremona ძირითადი Olla-ს ჯინსებით ან მკაცრი Olivetano-ს შარვლებით Casual Chic სტილის იმიჯის შესაქმნელად, სადაც ფუფუნება დეტალებში ვლინდება."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ալպակայով բուրդը կարող է ծակծկոց առաջացնել մաշկի վրա։",
+        "a": "Այս մոդելում օգտագործվում է բարձր կարգի ալպակա՝ պոլիամիդի հետ համադրությամբ՝ թելի կայունացման համար, ինչը երաշխավորում է մետաքսանման հյուսվածք և հարմարավետություն նույնիսկ զգայուն մաշկի համար։"
+      },
+      {
+        "q": "Ժակարդային նախշը շատ հագեցած է թվում։",
+        "a": "Նախշը կատարված է ազնվական բնական երանգներով, ինչը թույլ է տալիս պուլովերին դառնալ կերպարի ստատուսային շեշտադրում՝ պահպանելով միաժամանակ ընդհանուր էլեգանտությունը և զսպվածությունը։"
+      },
+      {
+        "q": "Հավաքված ուսերը կարող են տեսողականորեն լայնացնել կազմվածքի վերին մասը։",
+        "a": "Ընդհակառակը, ուսերի նուրբ դրապիրովկան՝ ուղիղ Regular fit ձևվածքի հետ համադրությամբ, կառուցվածքավորում է ուրվագիծը՝ ստեղծելով կանացի և ներդաշնակ համաչափություններ։"
+      },
+      {
+        "q": "Նման նուրբ ժակարդի խնամքի բարդությունը։",
+        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ մաքրում, որը թույլ կտա երկար ժամանակ պահպանել հյուսվածքի ծավալային ֆակտուրան և ժակարդային նախշի պայծառությունը։"
+      },
+      {
+        "q": "Մոդելը գրասենյակային առօրյայի համար շատ տոնական է թվում։",
+        "a": "Ոճավորեք Cremona-ն բազային Olla ջինսերի կամ խիստ Olivetano տաբատների հետ՝ Casual Chic ոճով կերպար ստեղծելու համար, որտեղ շքեղությունը դրսևորվում է դետալներում։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vilna ar alpakas vilnu var radīt kņudoņu uz ādas.",
+        "a": "Šajā modelī tiek izmantota augstākās kategorijas alpaka kombinācijā ar poliamīdu pavediena stabilizēšanai, kas garantē zīdainu tekstūru un komfortu pat jutīgai ādai."
+      },
+      {
+        "q": "Žakarda raksts šķiet pārāk piesātināts.",
+        "a": "Raksts ir veidots cēlos dabas toņos, kas ļauj džemperim kļūt par stilīgu tēla akcentu, vienlaikus saglabājot vispārējo eleganci un atturību."
+      },
+      {
+        "q": "Sakrokoti pleci var vizuāli paplašināt figūras augšdaļu.",
+        "a": "Gluži pretēji, maiga drapējums uz pleciem kombinācijā ar taisno Regular fit piegriezumu strukturē siluetu, radot sievišķīgas un harmoniskas proporcijas."
+      },
+      {
+        "q": "Sarežģīta kopšana tik smalkam žakardam.",
+        "a": "Mēs iesakām profesionālo tīrīšanu, kas ļaus ilgstoši saglabāt adījuma apjomīgo faktūru un žakarda raksta spilgtumu."
+      },
+      {
+        "q": "Modelis izskatās pārāk svinīgs ikdienas darbam birojā.",
+        "a": "Stilējiet Cremona ar bāzes Olla džinsiem vai stingrām Olivetano biksēm, lai radītu Casual Chic stila tēlu, kur greznība izpaužas detaļās."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Vilna su alpakos vilna gali kelti dilgčiojimą ant odos.",
+        "a": "Šiame modelyje naudojama aukščiausios kategorijos alpaka kartu su poliamidu siūlui stabilizuoti, kas garantuoja šilkinę tekstūrą ir komfortą net jautriai odai."
+      },
+      {
+        "q": "Žakardinis raštas atrodo per daug ryškus.",
+        "a": "Raštas atliktas kilniais natūraliais atspalviais, leidžiančiais megztiniui tapti statusišku įvaizdžio akcentu, kartu išlaikant bendrą eleganciją ir santūrumą."
+      },
+      {
+        "q": "Pritraukti pečiai gali vizualiai platinti viršutinę figūros dalį.",
+        "a": "Priešingai, minkštas drapiravimas ant pečių kartu su tiesiu kirpimu Regular fit struktūrizuoja siluetą, sukuriant moteriškas ir harmoningas proporcijas."
+      },
+      {
+        "q": "Sudėtinga priežiūra tokiam subtiliam žakardui.",
+        "a": "Rekomenduojame profesionalų valymą, kuris leis ilgam išsaugoti purią mezgimo faktūrą ir žakardinio rašto ryškumą."
+      },
+      {
+        "q": "Modelis atrodo pernelyg puošnus kasdieniam biuro stiliui.",
+        "a": "Derinkite Cremona su baziniais džinsais Olla arba griežtomis kelnėmis Olivetano, kad sukurtumėte Casual Chic stiliaus įvaizdį, kur prabanga atsiskleidžia per detales."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wełna z alpaką może powodować kłucie na skórze.",
+        "a": "W tym modelu wykorzystano alpakę najwyższej kategorii w połączeniu z poliamidem w celu stabilizacji nici, co gwarantuje jedwabistą fakturę i komfort nawet dla wrażliwej skóry."
+      },
+      {
+        "q": "Wzór żakardowy wydaje się zbyt intensywny.",
+        "a": "Wzór wykonany jest w szlachetnych, naturalnych odcieniach, co pozwala swetrowi stać się prestiżowym akcentem stylizacji, przy jednoczesnym zachowaniu ogólnej elegancji i powściągliwości."
+      },
+      {
+        "q": "Marszczone ramiona mogą wizualnie poszerzać górną część sylwetki.",
+        "a": "Wręcz przeciwnie, miękka drapowanie na ramionach w połączeniu z prostym krojem Regular fit strukturyzuje sylwetkę, tworząc kobiece i harmonijne proporcje."
+      },
+      {
+        "q": "Trudność w pielęgnacji tak delikatnego żakardu.",
+        "a": "Zalecamy profesjonalne czyszczenie, które pozwoli na długo zachować objętościową fakturę dzianiny i wyrazistość wzoru żakardowego."
+      },
+      {
+        "q": "Model wygląda zbyt odświętnie do pracy w biurze.",
+        "a": "Stylizuj Cremona z klasycznymi dżinsami Olla lub eleganckimi spodniami Olivetano, aby stworzyć stylizację w duchu Casual Chic, gdzie luksus przejawia się w detalach."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Вовна з альпакою може викликати поколювання на шкірі.",
+        "a": "У цій моделі використовується альпака вищої категорії у поєднанні з поліамідом для стабілізації нитки, що гарантує шовковисту текстуру та комфорт навіть для чутливої шкіри."
+      },
+      {
+        "q": "Жаккардовий візерунок здається занадто насиченим.",
+        "a": "Візерунок виконаний у благородних природних відтінках, що дозволяє пуловеру стати статусною акцентом образу, зберігаючи при цьому загальну елегантність та стриманість."
+      },
+      {
+        "q": "Призібрані плечі можуть візуально розширювати верхню частину фігури.",
+        "a": "Навпаки, м'яке драпірування на плечах у поєднанні з прямим кроєм Regular fit структурує силует, створюючи жіночні та гармонійні пропорції."
+      },
+      {
+        "q": "Складність у догляді за таким делікатним жаккардом.",
+        "a": "Ми рекомендуємо професійну чистку, яка дозволить надовго зберегти об'ємну фактуру в'язки та яскравість жаккардового малюнка."
+      },
+      {
+        "q": "Модель виглядає занадто ошатною для офісних буднів.",
+        "a": "Стилізуйте Cremona з базовими джинсами Olla або строгими брюками Olivetano для створення образу в стилі Casual Chic, де розкіш проявляється в деталях."
+      }
+    ]
+  }
+}

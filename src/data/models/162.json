@@ -1,0 +1,467 @@
+{
+  "id": 162,
+  "name": "Meduna",
+  "description": {
+    "en": "The exquisite Meduna midi dress is the embodiment of aristocratic elegance and Luisa Spagnoli's impeccable Italian craftsmanship. The model is crafted from the finest 100% pure virgin wool using the \"punto stretto\" dense knit technique, guaranteeing perfect shape retention and a sculptural silhouette. A refined boat neckline accentuates the grace of the shoulder line, while 3/4-length kimono sleeves and signature LS heraldic buttons lend the dress a status-defining, timeless character. The classic below-the-knee length and Regular fit transform this piece into an investment masterpiece for the daytime wardrobe.",
+    "ru": "Изысканное платье-миди Meduna — это воплощение аристократичной элегантности и безупречного итальянского мастерства Luisa Spagnoli. Модель выполнена из 100% чистой девственной шерсти высшего качества в технике плотной вязки «punto stretto», которая гарантирует идеальное сохранение формы и скульптурный силуэт. Утонченный вырез-лодочка подчеркивает грацию линии плеч, а рукава-кимоно длиной 3/4 и знаковые геральдические пуговицы LS придают платью статусный и вневременной характер. Классическая длина ниже колена и регулярная посадка превращают это изделие в инвестиционный шедевр дневного гардероба.",
+    "ar": "فستان ميدي Meduna الراقي هو تجسيد للأناقة الأرستقراطية والحرفية الإيطالية التي لا تشوبها شائبة لدى Luisa Spagnoli. صُممت القطعة من صوف بكر نقي 100% عالي الجودة بتقنية الحياكة الكثيفة «punto stretto»، والتي تضمن الحفاظ على الشكل المثالي والصورة الظلية المنحوتة. تؤكد الياقة المستديرة الراقية على رشاقة خط الكتف، وتضفي أكمام الكيمونو بطول 3/4 وأزرار LS الشعاراتية الأيقونية طابعاً فاخراً وخالياً من الزمن على الفستان. الطول الكلاسيكي تحت الركبة والقصة العادية تجعل هذه القطعة تحفة استثمارية في خزانة الملابس النهارية.",
+    "ka": "Meduna-ს დახვეწილი მიდი-კაბა არის არისტოკრატული ელეგანტურობისა და Luisa Spagnoli-ს უნაკლო იტალიური ოსტატობის განსხეულება. მოდელი შესრულებულია 100%-ით სუფთა, უმაღლესი ხარისხის ქალწული მატყლისგან, მჭიდრო „punto stretto“-ს ქსოვის ტექნიკით, რაც უზრუნველყოფს ფორმის იდეალურ შენარჩუნებასა და სკულპტურულ სილუეტს. დახვეწილი ნავისებური ყელი ხაზს უსვამს მხრების ხაზის გრაციოზულობას, ხოლო 3/4 სიგრძის კიმონოსებური სახელოები და LS-ის საკულტო ჰერალდიკური ღილები კაბას სტატუსურ და დროის მიღმა არსებულ ხასიათს ანიჭებს. მუხლს ქვემოთ კლასიკური სიგრძე და რეგულარული მორგება ამ ნაკეთობას დღის გარდერობის საინვესტიციო შედევრად აქცევს.",
+    "hy": "Նրբագեղ Meduna միդի զգեստը Luisa Spagnoli-ի արիստոկրատ էլեգանտության և անթերի իտալական վարպետության մարմնացումն է։ Մոդելը պատրաստված է 100% մաքուր կուսական բրդից՝ բարձրագույն որակի «punto stretto» խիտ հյուսվածքի տեխնիկայով, որը երաշխավորում է ձևի կատարյալ պահպանումն ու քանդակային ուրվագիծը։ Նրբագեղ նավակ-օձիքը ընդգծում է ուսերի գծի շնորհքը, իսկ 3/4 երկարությամբ կիմոնո-թևերը և LS նշանավոր հերալդիկ կոճակները զգեստին հաղորդում են ստատուսային և հավերժական բնույթ։ Ծնկից ներքև դասական երկարությունը և կանոնավոր ձևվածքը այս իրը վերածում են ցերեկային զգեստապահարանի ներդրումային գլուխգործոցի։",
+    "lv": "Izsmalcināta midi kleita Meduna — tas ir aristokrātiskas elegances un nevainojama itāļu Luisa Spagnoli meistardarba iemiesojums. Modelis izgatavots no 100% tīras augstākās kvalitātes jaunvilnas blīvā adījuma tehnikā «punto stretto», kas garantē nevainojamu formas saglabāšanu un skulpturālu siluetu. Izsmalcināts laiviņveida izgriezums izceļ plecu līnijas grāciju, bet 3/4 garuma kimono piedurknes un zīmīgās LS heraldikas pogas piešķir kleitai statusa pilnu un laikmetam nepakļāvīgu raksturu. Klasisks garums zem ceļgala un regulārs piegriezums padara šo izstrādājumu par ikdienas garderobes investīciju šedevru.",
+    "lt": "Rafinuota midi suknelė Meduna – tai aristokratiškos elegancijos ir nepriekaištingo Luisa Spagnoli itališko meistriškumo įsikūnijimas. Modelis pagamintas iš 100 % aukščiausios kokybės grynos merino vilnos taikant tankų „punto stretto“ mezgimo būdą, kuris garantuoja idealų formos išlaikymą ir skulptūrišką siluetą. Subtili valties formos iškirptė pabrėžia pečių linijos grakštumą, o 3/4 ilgio kimono rankovės ir ikoniškos herbinės LS sagos suteikia suknelei statuso ir nesenstantį charakterį. Klasikinis ilgis žemiau kelių ir reguliarus prigludimas paverčia šį gaminį investiciniu kasdienio garderobo šedevru.",
+    "pl": "Wyrafinowana sukienka midi Meduna to ucieleśnienie arystokratycznej elegancji i nienagannego włoskiego kunsztu Luisa Spagnoli. Model wykonano w 100% z czystej dziewiczej wełny najwyższej jakości techniką gęstego splotu „punto stretto”, która gwarantuje idealne zachowanie formy i rzeźbiarską sylwetkę. Subtelny dekolt w łódkę podkreśla linię ramion, a rękawy kimono o długości 3/4 oraz charakterystyczne heraldyczne guziki LS nadają sukience pełen klasy, ponadczasowy charakter. Klasyczna długość za kolano i regularny krój czynią z tego modelu inwestycyjny majstersztyk dziennej garderoby.",
+    "uk": "Вишукана сукня-міді Meduna — це втілення аристократичної елегантності та бездоганної італійської майстерності Luisa Spagnoli. Модель виконана зі 100% чистої незайманої вовни найвищої якості в техніці щільної в'язки «punto stretto», яка гарантує ідеальне збереження форми та скульптурний силует. Витончений виріз-човник підкреслює грацію лінії плечей, а рукави-кімоно довжиною 3/4 і знакові геральдичні ґудзики LS надають сукні статусного та позачасового характеру. Класична довжина нижче коліна та регулярна посадка перетворюють цей виріб на інвестиційний шедевр денного гардероба."
+  },
+  "colors": [
+    {
+      "name": "Blu Inchiostro",
+      "code": "2544",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/hNWBzHZ0R9iuL0RjESStng_1117394734696f43692f6b28_43871780_02830720XX1.jpg"
+    },
+    {
+      "name": "Verde Bottiglia",
+      "code": "2050",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0079%20%284%29.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 3 (Jewelry Accent)",
+        "ar": "Look 3 (Jewelry Accent)",
+        "ka": "Look 3 (Jewelry Accent)",
+        "hy": "Look 3 (Jewelry Accent)",
+        "lv": "Look 3 (Jewelry Accent)",
+        "lt": "Look 3 (Jewelry Accent)",
+        "pl": "Look 3 (Jewelry Accent)",
+        "uk": "Look 3 (Jewelry Accent)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 3 (Ювелирный акцент): Монохромный выход с платьем Meduna 2050, дополненным колье Navali 0002, Narsete 0002, серьгами Neanide 0002 и сапогами Usanza A 0986.",
+        "en": "A monochrome look with the Meduna 2050 dress, complemented by Navali 0002 necklace, Narsete 0002, Neanide 0002 earrings and Usanza A 0986 boots.",
+        "ar": "A monochrome look with the Meduna 2050 dress, complemented by Navali 0002 necklace, Narsete 0002, Neanide 0002 earrings and Usanza A 0986 boots.",
+        "ka": "A monochrome look with the Meduna 2050 dress, complemented by Navali 0002 necklace, Narsete 0002, Neanide 0002 earrings and Usanza A 0986 boots.",
+        "hy": "A monochrome look with the Meduna 2050 dress, complemented by Navali 0002 necklace, Narsete 0002, Neanide 0002 earrings and Usanza A 0986 boots.",
+        "lv": "A monochrome look with the Meduna 2050 dress, complemented by Navali 0002 necklace, Narsete 0002, Neanide 0002 earrings and Usanza A 0986 boots.",
+        "lt": "A monochrome look with the Meduna 2050 dress, complemented by Navali 0002 necklace, Narsete 0002, Neanide 0002 earrings and Usanza A 0986 boots.",
+        "pl": "A monochrome look with the Meduna 2050 dress, complemented by Navali 0002 necklace, Narsete 0002, Neanide 0002 earrings and Usanza A 0986 boots.",
+        "uk": "A monochrome look with the Meduna 2050 dress, complemented by Navali 0002 necklace, Narsete 0002, Neanide 0002 earrings and Usanza A 0986 boots."
+      },
+      "items": [
+        {
+          "name": "Meduna",
+          "code": "2050",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0079%20%284%29.jpg"
+        },
+        {
+          "name": "Scansione",
+          "code": "2046",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1221525958691c57c296ff08_45494514_02780250XX1.jpg",
+          "modelId": 302
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 4 (Evening Azure)",
+        "ar": "Look 4 (Evening Azure)",
+        "ka": "Look 4 (Evening Azure)",
+        "hy": "Look 4 (Evening Azure)",
+        "lv": "Look 4 (Evening Azure)",
+        "lt": "Look 4 (Evening Azure)",
+        "pl": "Look 4 (Evening Azure)",
+        "uk": "Look 4 (Evening Azure)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 4 (Вечерняя лазурь): Платье Meduna 2544 со статусными аксессуарами: браслетом Navigero 0002, серьгами Neanide 0002, поясом Dedizione 0002, туфлями Uragano A 0101 и сумкой Idilliaco A 0101 0002.",
+        "en": "Meduna 2544 dress with statement accessories: Navigero 0002 bracelet, Neanide 0002 earrings, Dedizione 0002 belt, Uragano A 0101 shoes and Idilliaco A 0101 0002 bag.",
+        "ar": "Meduna 2544 dress with statement accessories: Navigero 0002 bracelet, Neanide 0002 earrings, Dedizione 0002 belt, Uragano A 0101 shoes and Idilliaco A 0101 0002 bag.",
+        "ka": "Meduna 2544 dress with statement accessories: Navigero 0002 bracelet, Neanide 0002 earrings, Dedizione 0002 belt, Uragano A 0101 shoes and Idilliaco A 0101 0002 bag.",
+        "hy": "Meduna 2544 dress with statement accessories: Navigero 0002 bracelet, Neanide 0002 earrings, Dedizione 0002 belt, Uragano A 0101 shoes and Idilliaco A 0101 0002 bag.",
+        "lv": "Meduna 2544 dress with statement accessories: Navigero 0002 bracelet, Neanide 0002 earrings, Dedizione 0002 belt, Uragano A 0101 shoes and Idilliaco A 0101 0002 bag.",
+        "lt": "Meduna 2544 dress with statement accessories: Navigero 0002 bracelet, Neanide 0002 earrings, Dedizione 0002 belt, Uragano A 0101 shoes and Idilliaco A 0101 0002 bag.",
+        "pl": "Meduna 2544 dress with statement accessories: Navigero 0002 bracelet, Neanide 0002 earrings, Dedizione 0002 belt, Uragano A 0101 shoes and Idilliaco A 0101 0002 bag.",
+        "uk": "Meduna 2544 dress with statement accessories: Navigero 0002 bracelet, Neanide 0002 earrings, Dedizione 0002 belt, Uragano A 0101 shoes and Idilliaco A 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Meduna",
+          "code": "2544",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/hNWBzHZ0R9iuL0RjESStng_1117394734696f43692f6b28_43871780_02830720XX1.jpg"
+        },
+        {
+          "name": "Scalare",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/obH9FrFkRoq3xbxDWF6Fsg_1888970026696f42f15a20d0_57909911_02820870XX1.jpg",
+          "modelId": 300
+        },
+        {
+          "name": "Ippolita",
+          "code": "0101 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 1 (Tonal Luxury)",
+        "ar": "Look 1 (Tonal Luxury)",
+        "ka": "Look 1 (Tonal Luxury)",
+        "hy": "Look 1 (Tonal Luxury)",
+        "lv": "Look 1 (Tonal Luxury)",
+        "lt": "Look 1 (Tonal Luxury)",
+        "pl": "Look 1 (Tonal Luxury)",
+        "uk": "Look 1 (Tonal Luxury)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Тональная роскошь): Сочетание платья Meduna 2050 с элегантным пальто Scansione 2046 и статусной сумкой Idilliaco A 0986 0002.",
+        "en": "A combination of the Meduna 2050 dress with an elegant Scansione 2046 coat and the statement Idilliaco A 0986 0002 bag.",
+        "ar": "A combination of the Meduna 2050 dress with an elegant Scansione 2046 coat and the statement Idilliaco A 0986 0002 bag.",
+        "ka": "A combination of the Meduna 2050 dress with an elegant Scansione 2046 coat and the statement Idilliaco A 0986 0002 bag.",
+        "hy": "A combination of the Meduna 2050 dress with an elegant Scansione 2046 coat and the statement Idilliaco A 0986 0002 bag.",
+        "lv": "A combination of the Meduna 2050 dress with an elegant Scansione 2046 coat and the statement Idilliaco A 0986 0002 bag.",
+        "lt": "A combination of the Meduna 2050 dress with an elegant Scansione 2046 coat and the statement Idilliaco A 0986 0002 bag.",
+        "pl": "A combination of the Meduna 2050 dress with an elegant Scansione 2046 coat and the statement Idilliaco A 0986 0002 bag.",
+        "uk": "A combination of the Meduna 2050 dress with an elegant Scansione 2046 coat and the statement Idilliaco A 0986 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Meduna",
+          "code": "2050",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0079%20%284%29.jpg"
+        },
+        {
+          "name": "Navali",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/811531311691c57d6aba2e4_67623166_02800140XX1.jpg"
+        },
+        {
+          "name": "Narsete",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/17819755691c57d4e4e7d2_07198257_02800110XX1.jpg"
+        },
+        {
+          "name": "Neanide",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1605403396691c57d8aee920_21613301_02800170XX1.jpg"
+        },
+        {
+          "name": "Usanza A",
+          "code": "0986",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USANZA_98600000000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Urban Chic)",
+        "ar": "Look 2 (Urban Chic)",
+        "ka": "Look 2 (Urban Chic)",
+        "hy": "Look 2 (Urban Chic)",
+        "lv": "Look 2 (Urban Chic)",
+        "lt": "Look 2 (Urban Chic)",
+        "pl": "Look 2 (Urban Chic)",
+        "uk": "Look 2 (Urban Chic)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Городской шик): Платье Meduna 2544 в паре с брутальным жакетом Scalare 0101 и сумкой Ippolita 0101 0002 (Данные об URL отсутствуют в официальных источниках).",
+        "en": "Meduna 2544 dress paired with the edgy Scalare 0101 jacket and Ippolita 0101 0002 bag (URL data not available in official sources).",
+        "ar": "Meduna 2544 dress paired with the edgy Scalare 0101 jacket and Ippolita 0101 0002 bag (URL data not available in official sources).",
+        "ka": "Meduna 2544 dress paired with the edgy Scalare 0101 jacket and Ippolita 0101 0002 bag (URL data not available in official sources).",
+        "hy": "Meduna 2544 dress paired with the edgy Scalare 0101 jacket and Ippolita 0101 0002 bag (URL data not available in official sources).",
+        "lv": "Meduna 2544 dress paired with the edgy Scalare 0101 jacket and Ippolita 0101 0002 bag (URL data not available in official sources).",
+        "lt": "Meduna 2544 dress paired with the edgy Scalare 0101 jacket and Ippolita 0101 0002 bag (URL data not available in official sources).",
+        "pl": "Meduna 2544 dress paired with the edgy Scalare 0101 jacket and Ippolita 0101 0002 bag (URL data not available in official sources).",
+        "uk": "Meduna 2544 dress paired with the edgy Scalare 0101 jacket and Ippolita 0101 0002 bag (URL data not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Meduna",
+          "code": "2544",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/hNWBzHZ0R9iuL0RjESStng_1117394734696f43692f6b28_43871780_02830720XX1.jpg"
+        },
+        {
+          "name": "Navigero",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1112265162691c57d765cee8_66461141_02800150XX1.jpg"
+        },
+        {
+          "name": "Neanide",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1605403396691c57d8aee920_21613301_02800170XX1.jpg"
+        },
+        {
+          "name": "Dedizione",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/T9Jr79OvTs6Rvtv2A7a1tA_997560146696f4218381d29_53393842_02800550XX1.jpg"
+        },
+        {
+          "name": "Uragano A",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URAGANO_10100000000.jpg"
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_10100020000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the distinctive volcano collar: beyond providing warmth, this detail creates a striking vertical line, visually elongating the neck and elevating the overall look.",
+      "Showcase the intricate textured knit: the central interlaced pattern speaks to the exceptional craftsmanship of Luisa Spagnoli's Italian artisans, making the Meleti pullover a statement piece in its own right.",
+      "Recommend this piece as the perfect base for layering in a 'quiet luxury' aesthetic: with its dropped shoulder and regular fit, the pullover sits impeccably beneath our signature car coats and coats from the collection."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на уникальном качестве девственной шерсти (Lana Vergine) линии Merinfleur: она обеспечивает исключительную мягкость и комфорт, характерные для трикотажа высшего эшелона.",
+      "Продемонстрируйте геральдические пуговицы LS — этот элемент подиумного стиля Luisa Spagnoli подчеркивает статус изделия и избавляет от необходимости в дополнительных украшениях.",
+      "Рекомендуйте Meduna как идеальный вариант для многослойных образов: плотная вязка «punto stretto» позволяет платью безупречно сидеть под нашими приталенными пальто и жакетами, не создавая лишнего объема."
+    ],
+    "ar": [
+      "سلطي الضوء على الجودة الفريدة للصوف البكر (Lana Vergine) من خط Merinfleur: فهو يوفر نعومة وراحة استثنائية، وهي خصائص معهودة في التريكو من الفئة الأولى.",
+      "استعرضي الأزرار التي تحمل شعار LS: فهذا العنصر من أسلوب منصات العرض الخاص بـ Luisa Spagnoli يعزز من مكانة القطعة ويغني عن الحاجة لمجوهرات إضافية.",
+      "رشيحي Meduna كخيار مثالي للإطلالات متعددة الطبقات: فالحياكة الكثيفة \"punto stretto\" تتيح للفستان أن يستقر بشكل مثالي تحت معاطفنا وجاكيتاتنا المخصرة دون خلق أي حجم إضافي."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება Merinfleur-ის ხაზის ქალწული მატყლის (Lana Vergine) უნიკალურ ხარისხზე: ის უზრუნველყოფს განსაკუთრებულ სირბილესა და კომფორტს, რაც დამახასიათებელია უმაღლესი ეშელონის ტრიკოტაჟისთვის.",
+      "წარმოაჩინეთ LS-ის ჰერალდიკური ღილები — Luisa Spagnoli-ს პოდიუმის სტილის ეს ელემენტი ხაზს უსვამს ნაკეთობის სტატუსს და გვათავისუფლებს დამატებითი აქსესუარების საჭიროებისგან.",
+      "რეკომენდაცია გაუწიეთ Meduna-ს, როგორც იდეალურ ვარიანტს მრავალშრიანი ლუქებისთვის: „punto stretto“-ს მკვრივი ქსოვა კაბას საშუალებას აძლევს უნაკლოდ მოერგოს ჩვენს ტანზე გამოყვანილ პალტოებსა და ჟაკეტებს, ზედმეტი მოცულობის შექმნის გარეშე."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք Merinfleur գծի անդրանիկ բրդի (Lana Vergine) եզակի որակի վրա. այն ապահովում է բացառիկ փափկություն և հարմարավետություն, որոնք բնորոշ են բարձրակարգ տրիկոտաժին։",
+      "Ցուցադրեք LS հերալդիկ կոճակները. Luisa Spagnoli-ի պոդիումային ոճի այս տարրն ընդգծում է իրի կարգավիճակը և վերացնում լրացուցիչ զարդերի կարիքը։",
+      "Meduna-ն առաջարկեք որպես իդեալական տարբերակ բազմաշերտ կերպարների համար. «punto stretto» խիտ հյուսվածքը թույլ է տալիս զգեստին անթերի նստել մեր ընդգծված գոտկատեղով վերարկուների և ժակետների տակ՝ առանց ավելորդ ծավալ ստեղծելու։"
+    ],
+    "lv": [
+      "Akcentējiet klienta uzmanību uz Merinfleur līnijas jaunvilnas (Lana Vergine) unikālo kvalitāti: tā nodrošina izcilu maigumu un komfortu, kas raksturīgs augstākā līmeņa trikotāžai.",
+      "Demonstrējiet LS heraldiskās pogas — šis Luisa Spagnoli modes skates stila elements pasvītro izstrādājuma statusu un novērš nepieciešamību pēc papildu rotājumiem.",
+      "Iesakiet Meduna kā ideālu variantu daudzslāņu tēliem: blīvais «punto stretto» adījums ļauj kleitai nevainojami piegulēt zem mūsu pieguļošajiem mēteļiem un žaketēm, neradot lieku apjomu."
+    ],
+    "lt": [
+      "Акцентируйте внимание клиента на уникальном качестве девственной шерсти (Lana Vergine) линии Merinfleur: она обеспечивает исключительную мягкость и комфорт, характерные для трикотажа высшего эшелона.",
+      "Продемонстрируйте геральдические пуговицы LS — этот элемент подиумного стиля Luisa Spagnoli подчеркивает статус изделия и избавляет от необходимости в дополнительных украшениях.",
+      "Рекомендуйте Meduna как идеальный вариант для многослойных образов: плотная вязка «punto stretto» позволяет платью безупречно сидеть под нашими приталенными пальто и жакетами, не создавая лишнего объема."
+    ],
+    "pl": [
+      "Skup uwagę klienta na unikalnej jakości dziewiczej wełny (Lana Vergine) linii Merinfleur: zapewnia ona wyjątkową miękkość i komfort, charakterystyczne dla dzianin najwyższej klasy.",
+      "Zaprezentuj heraldyczne guziki LS — ten element wybiegowego stylu Luisa Spagnoli podkreśla status produktu i eliminuje potrzebę stosowania dodatkowej biżuterii.",
+      "Rekomenduj Meduna jako idealną opcję do warstwowych stylizacji: gęsty splot „punto stretto” pozwala sukience nienagannie układać się pod naszymi taliowanymi płaszczami i żakietami, nie tworząc zbędnej objętości."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на унікальній якості вовни (Lana Vergine) лінії Merinfleur: вона забезпечує виняткову м'якість і комфорт, характерні для трикотажу найвищого ешелону.",
+      "Продемонструйте геральдичні ґудзики LS — цей елемент подіумного стилю Luisa Spagnoli підкреслює статус виробу та позбавляє необхідності додаткових прикрас.",
+      "Рекомендуйте Meduna як ідеальний варіант для багатошарових образів: щільна в'язка «punto stretto» дозволяє сукні бездоганно сидіти під нашими приталеними пальтами та жакетами, не створюючи зайвого об'єму."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The dress seems too simple for its price.",
+        "a": "The true luxury of the Meduna piece lies in the 'punto stretto' technique and its 100% natural composition. This is an example of 'quiet luxury' that will remain relevant and impeccable for decades to come."
+      },
+      {
+        "q": "Wool may cause tingling or skin irritation.",
+        "a": "This collection uses only select, highly refined virgin wool. It has a silky texture and is hypoallergenic, ensuring absolute comfort."
+      },
+      {
+        "q": "3/4-length sleeves may be impractical for the winter season.",
+        "a": "This sleeve length is a refined styling detail, allowing statement bracelets or long gloves to be showcased, lending the look runway-inspired polish."
+      },
+      {
+        "q": "A knit dress may quickly lose its shape.",
+        "a": "Luisa Spagnoli's special dense-knit technology prevents deformation of the piece. The dress reliably holds its structure and does not stretch out with wear."
+      },
+      {
+        "q": "It's difficult to find footwear to match this style.",
+        "a": "Thanks to its classic silhouette, Meduna is highly versatile: it pairs beautifully with statement Ulisside boots as well as with elegant Uragano pumps."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Платье кажется слишком простым за свою стоимость.",
+        "a": "Истинная роскошь модели Meduna заключается в технике «punto stretto» и 100% натуральном составе. Это образец 'тихой роскоши', который сохранит свою актуальность и безупречный вид десятилетиями."
+      },
+      {
+        "q": "Шерсть может вызывать покалывание или раздражение кожи.",
+        "a": "Для этой коллекции используется только отборная девственная шерсть высочайшей очистки. Она отличается шелковистой текстурой и гипоаллергенностью, обеспечивая абсолютный комфорт."
+      },
+      {
+        "q": "Рукава 3/4 могут быть непрактичны в зимний сезон.",
+        "a": "Такая длина рукава — это изысканный стилистический прием, позволяющий продемонстрировать акцентные браслеты или длинные перчатки, что придает образу подиумный шик."
+      },
+      {
+        "q": "Трикотажное платье может быстро потерять форму.",
+        "a": "Специальная технология плотной вязки Luisa Spagnoli предотвращает деформацию изделия. Платье надежно держит структуру и не вытягивается в процессе носки."
+      },
+      {
+        "q": "Сложно подобрать обувь к такому фасону.",
+        "a": "Благодаря классическому силуэту, Meduna универсальна: она великолепно сочетается как со статусными сапогами Ulisside, так и с элегантными туфлями-лодочками Uragano."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يبدو الفستان بسيطاً للغاية مقارنة بسعره.",
+        "a": "تكمن الفخامة الحقيقية لموديل Meduna في تقنية «punto stretto» والتركيب الطبيعي بنسبة 100%. إنه نموذج للـ «الرفاهية الهادئة» التي ستحتفظ بجاذبيتها ومظهرها الخالي من العيوب لعقود."
+      },
+      {
+        "q": "قد يسبب الصوف وخزاً أو تهيجاً للبشرة.",
+        "a": "نستخدم لهذه المجموعة الصوف البكر المختار بعناية فائقة النقاء. يتميز بملمس حريري وخصائص مضادة للحساسية، مما يضمن راحة مطلقة."
+      },
+      {
+        "q": "قد تكون الأكمام بطول 3/4 غير عملية في موسم الشتاء.",
+        "a": "هذا الطول للأكمام يعد لمسة أسلوبية راقية تسمح بإبراز الأساور المميزة أو القفازات الطويلة، مما يضفي على الإطلالة أناقة منصات العرض."
+      },
+      {
+        "q": "قد يفقد فستان التريكو شكله بسرعة.",
+        "a": "تمنع تقنية الحياكة الكثيفة الخاصة بـ Luisa Spagnoli تشوه القطعة. الفستان يحافظ على هيكله بثبات ولا يتمدد أثناء الارتداء."
+      },
+      {
+        "q": "من الصعب اختيار حذاء مناسب لهذا التصميم.",
+        "a": "بفضل قصته الكلاسيكية، يتميز موديل Meduna بتعدد استخداماته: حيث يتناغم بشكل رائع مع أحذية Ulisside العالية المرموقة وكذلك مع أحذية الكعب العالي الأنيقة Uragano."
+      }
+    ],
+    "ka": [
+      {
+        "q": "კაბა თავისი ღირებულების გათვალისწინებით ზედმეტად მარტივი ჩანს.",
+        "a": "Meduna-ს მოდელის ნამდვილი ფუფუნება მდგომარეობს „punto stretto“-ს ტექნიკასა და 100%-ით ნატურალურ შემადგენლობაში. ეს არის „მშვიდი ფუფუნების“ ნიმუში, რომელიც თავის აქტუალურობასა და უნაკლო იერს ათწლეულების განმავლობაში შეინარჩუნებს."
+      },
+      {
+        "q": "შალმა შესაძლოა გამოიწვიოს ჩხვლეტის შეგრძნება ან კანის გაღიზიანება.",
+        "a": "ამ კოლექციისთვის გამოიყენება მხოლოდ რჩეული, უმაღლესი ხარისხის პირველადი შალი. იგი გამოირჩევა აბრეშუმისებრი ტექსტურით და ჰიპოალერგიულობით, რაც უზრუნველყოფს აბსოლუტურ კომფორტს."
+      },
+      {
+        "q": "3/4 სახელოები შესაძლოა არაპრაქტიკული იყოს ზამთრის სეზონზე.",
+        "a": "სახელოს ასეთი სიგრძე დახვეწილი სტილისტური ხერხია, რომელიც საშუალებას იძლევა წარმოვაჩინოთ აქცენტური სამაჯურები ან გრძელი ხელთათმანები, რაც გამოსახულებას პოდიუმის შიკს სძენს."
+      },
+      {
+        "q": "ტრიკოტაჟის კაბამ შესაძლოა სწრაფად დაკარგოს ფორმა.",
+        "a": "Luisa Spagnoli-ის მჭიდრო ქსოვის სპეციალური ტექნოლოგია ხელს უშლის ნაკეთობის დეფორმაციას. კაბა მყარად ინარჩუნებს სტრუქტურას და ტარების პროცესში არ იწელება."
+      },
+      {
+        "q": "რთულია ფეხსაცმლის შერჩევა ასეთი ფასონის კაბისთვის.",
+        "a": "კლასიკური სილუეტის წყალობით Meduna უნივერსალურია: იგი დიდებულად ეხამება როგორც სტატუსურ Ulisside-ს ჩექმებს, ისე ელეგანტურ Uragano-ს ფეხსაცმელებს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Զգեստը թվում է չափազանց պարզ իր արժեքի համար։",
+        "a": "Meduna մոդելի իրական շքեղությունը կայանում է «punto stretto» տեխնիկայի և 100% բնական կազմի մեջ։ Սա «լուռ շքեղության» նմուշ է, որը տասնամյակներ շարունակ կպահպանի իր արդիականությունը և անթերի տեսքը։"
+      },
+      {
+        "q": "Բուրդը կարող է մաշկի ծակծկոց կամ գրգռում առաջացնել։",
+        "a": "Այս հավաքածուի համար օգտագործվում է միայն ընտիր կուսական բուրդ՝ ամենաբարձր մաքրությամբ։ Այն առանձնանում է մետաքսանման հյուսվածքով և հիպոալերգենությամբ՝ ապահովելով բացարձակ հարմարավետություն։"
+      },
+      {
+        "q": "3/4 թևերը կարող են անգործնական լինել ձմեռային սեզոնին։",
+        "a": "Թևի այս երկարությունը նուրբ ոճաբանական հնարք է, որը թույլ է տալիս ցուցադրել շեշտադրող ապարանջաններ կամ երկար ձեռնոցներ, ինչը կերպարին հաղորդում է պոդիումային շիկ։"
+      },
+      {
+        "q": "Տրիկոտաժե զգեստը կարող է արագ կորցնել ձևը։",
+        "a": "Luisa Spagnoli-ի խիտ հյուսման հատուկ տեխնոլոգիան կանխում է արտադրանքի դեֆորմացիան։ Զգեստը հուսալիորեն պահում է կառուցվածքը և չի ձգվում կրելու ընթացքում։"
+      },
+      {
+        "q": "Դժվար է կոշիկ ընտրել նման ֆասոնի համար։",
+        "a": "Շնորհիվ դասական սիլուետի՝ Meduna-ն ունիվերսալ է. այն հիանալի համադրվում է ինչպես կարգավիճակային Ulisside երկարաճիտ կոշիկների, այնպես էլ Uragano էլեգանտ նավակ-կոշիկների հետ։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Платье кажется слишком простым за свою стоимость.",
+        "a": "Истинная роскошь модели Meduna заключается в технике «punto stretto» и 100% натуральном составе. Это образец 'тихой роскоши', который сохранит свою актуальность и безупречный вид десятилетиями."
+      },
+      {
+        "q": "Шерсть может вызывать покалывание или раздражение кожи.",
+        "a": "Для этой коллекции используется только отборная девственная шерсть высочайшей очистки. Она отличается шелковистой текстурой и гипоаллергенностью, обеспечивая абсолютный комфорт."
+      },
+      {
+        "q": "Рукава 3/4 могут быть непрактичны в зимний сезон.",
+        "a": "Такая длина рукава — это изысканный стилистический прием, позволяющий продемонстрировать акцентные браслеты или длинные перчатки, что придает образу подиумный шик."
+      },
+      {
+        "q": "Трикотажное платье может быстро потерять форму.",
+        "a": "Специальная технология плотной вязки Luisa Spagnoli предотвращает деформацию изделия. Платье надежно держит структуру и не вытягивается в процессе носки."
+      },
+      {
+        "q": "Сложно подобрать обувь к такому фасону.",
+        "a": "Благодаря классическому силуэту, Meduna универсальна: она великолепно сочетается как со статусными сапогами Ulisside, так и с элегантными туфлями-лодочками Uragano."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Suknelė atrodo per daug paprasta už savo kainą.",
+        "a": "Tikroji Meduna modelio prabanga slypi „punto stretto“ technikoje ir 100% natūralioje sudėtyje. Tai „tyliosios prabangos“ pavyzdys, kuris išsaugos savo aktualumą ir nepriekaištingą išvaizdą dešimtmečius."
+      },
+      {
+        "q": "Vilna gali kelti kutenimą ar odos dirginimą.",
+        "a": "Šiai kolekcijai naudojama tik atrinkta aukščiausio grynumo pirminė vilna. Ji išsiskiria šilkine tekstūra ir hipoalerginėmis savybėmis, užtikrindama absoliutų komfortą."
+      },
+      {
+        "q": "3/4 ilgio rankovės gali būti nepraktiškos žiemos sezonu.",
+        "a": "Toks rankovių ilgis — tai rafinuotas stilistinis sprendimas, leidžiantis pademonstruoti akcentinius apyrankes arba ilgas pirštines, kas įvaizdžiui suteikia podiumo prašmatnumo."
+      },
+      {
+        "q": "Megzta suknelė gali greitai prarasti formą.",
+        "a": "Speciali Luisa Spagnoli tankaus mezgimo technologija apsaugo gaminį nuo deformacijos. Suknelė patikimai išlaiko struktūrą ir neišsitampo dėvėjimo metu."
+      },
+      {
+        "q": "Sunku parinkti avalynę prie tokio fasono.",
+        "a": "Dėl klasikinio silueto, Meduna yra universali: ji puikiai dera tiek su statusą pabrėžiančiais Ulisside batais, tiek su elegantiškais Uragano bateliais."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Sukienka wydaje się zbyt prosta jak na swoją cenę.",
+        "a": "Prawdziwy luksus modelu Meduna tkwi w technice „punto stretto” i 100% naturalnym składzie. To przykład „cichego luksusu”, który zachowa swoją aktualność i nieskazitelny wygląd przez dziesięciolecia."
+      },
+      {
+        "q": "Wełna może powodować kłucie lub podrażnienie skóry.",
+        "a": "Dla tej kolekcji używana jest wyłącznie wyselekcjonowana dziewicza wełna najwyższego oczyszczenia. Wyróżnia się ona jedwabistą teksturą i hipoalergicznością, zapewniając absolutny komfort."
+      },
+      {
+        "q": "Rękawy 3/4 mogą być niepraktyczne w sezonie zimowym.",
+        "a": "Taka długość rękawa to wyrafinowany zabieg stylistyczny, pozwalający wyeksponować akcentowe bransoletki lub długie rękawiczki, co nadaje stylizacji wybiegowego szyku."
+      },
+      {
+        "q": "Sukienka z dzianiny może szybko stracić fason.",
+        "a": "Specjalna technologia gęstego splotu Luisa Spagnoli zapobiega deformacji wyrobu. Sukienka pewnie trzyma strukturę i nie wyciąga się podczas noszenia."
+      },
+      {
+        "q": "Trudno dobrać obuwie do takiego fasonu.",
+        "a": "Dzięki klasycznej sylwetce Meduna jest uniwersalna: świetnie komponuje się zarówno z prestiżowymi kozakami Ulisside, jak i eleganckimi czółenkami Uragano."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Сукня здається занадто простою за свою вартість.",
+        "a": "Справжня розкіш моделі Meduna полягає в техніці «punto stretto» та 100% натуральному складі. Це зразок 'тихої розкоші', який збереже свою актуальність і бездоганний вигляд десятиліттями."
+      },
+      {
+        "q": "Вовна може викликати поколювання або подразнення шкіри.",
+        "a": "Для цієї колекції використовується лише відбірна дівоча вовна найвищої очистки. Вона вирізняється шовковистою текстурою та гіпоалергенністю, забезпечуючи абсолютний комфорт."
+      },
+      {
+        "q": "Рукави 3/4 можуть бути непрактичними у зимовий сезон.",
+        "a": "Така довжина рукава — це вишуканий стилістичний прийом, що дозволяє продемонструвати акцентні браслети або довгі рукавички, що надає образу подіумного шику."
+      },
+      {
+        "q": "Трикотажна сукня може швидко втратити форму.",
+        "a": "Спеціальна технологія щільної в'язки Luisa Spagnoli запобігає деформації виробу. Сукня надійно тримає структуру і не розтягується в процесі носіння."
+      },
+      {
+        "q": "Складно підібрати взуття до такого фасону.",
+        "a": "Завдяки класичному силуету, Meduna універсальна: вона чудово поєднується як зі статусними чоботами Ulisside, так і з елегантними туфлями-човниками Uragano."
+      }
+    ]
+  }
+}

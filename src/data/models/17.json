@@ -1,0 +1,407 @@
+{
+  "id": 17,
+  "name": "Cufra",
+  "description": {
+    "en": "This exquisite cropped pullover from Luisa Spagnoli is the embodiment of contemporary glamour and tactile softness. The Cufra model, crafted from a luxurious blend of mohair and cotton, delicately illuminated with lurex threads that lend the classic rib knit an aristocratic shimmer. A soft turtleneck collar and raglan sleeves ensure flawless comfort and freedom of movement, while the on-trend cropped length allows for striking layered looks in the 'quiet luxury' aesthetic. This piece strikes the perfect balance between cozy everyday knitwear and a status-defining element of the evening wardrobe.",
+    "ru": "Этот изысканный укороченный пуловер от Luisa Spagnoli — воплощение современного гламура и тактильной нежности. Модель Cufra выполнена из роскошной смеси мохера и хлопка, деликатно подсвеченной нитями люрекса, которые придают классической вязке «в рубчик» аристократичное мерцание. Мягкий воротник-гольф и рукава реглан обеспечивают безупречный комфорт и свободу движений, а актуальная cropped-длина позволяет создавать эффектные многослойные образы в стиле «тихой роскоши». Это изделие идеально балансирует между уютным повседневным трикотажем и статусным элементом вечернего гардероба.",
+    "ar": "يُعد هذا البلوفر القصير والراقي من Luisa Spagnoli تجسيداً للسحر العصري والنعومة الملموسة. صُممت قطعة Cufra من مزيج فاخر من الموهير والقطن، مع خيوط لوريكس رقيقة تضفي بريقاً أرستقراطياً على الحياكة «المضلعة» الكلاسيكية. تضمن الياقة المرتفعة الناعمة وأكمام الراجلان راحة مطلقة وحرية في الحركة، بينما تتيح القصة القصيرة (cropped) العصرية ابتكار إطلالات مذهلة متعددة الطبقات بأسلوب «الفخامة الهادئة». توازن هذه القطعة بشكل مثالي بين تريكو الاسترخاء اليومي وعناصر خزانة الملابس المسائية الراقية.",
+    "ka": "Luisa Spagnoli-ს ეს დახვეწილი დამოკლებული პულოვერი თანამედროვე გლამურისა და ტაქტილური სინაზის განსახიერებაა. მოდელი Cufra დამზადებულია მოჰერისა და ბამბის ფუფუნების ნარევისგან, რომელიც დელიკატურად არის განათებული ლურექსის ძაფებით, რაც კლასიკურ „ნეკნებიან“ ქსოვას არისტოკრატიულ ციმციმს ანიჭებს. რბილი გოლფის საყელო და რეგლანის მკლავები უზრუნველყოფს უნაკლო კომფორტს და მოძრაობის თავისუფლებას, ხოლო აქტუალური cropped-სიგრძე საშუალებას იძლევა შეიქმნას ეფექტური მრავალფენიანი სახეები „ჩუმი ფუფუნების“ სტილში. ეს ნაკეთობა იდეალურად აბალანსებს მყუდრო ყოველდღიურ ტრიკოტაჟსა და საღამოს გარდერობის სტატუსურ ელემენტს შორის.",
+    "hy": "Luisa Spagnoli-ի այս նրբաճաշակ կարճացված պուլովերը ժամանակակից գլամուրի և շոշափելի նրբության մարմնացումն է։ Cufra մոդելը պատրաստված է մոհերի և բամբակի շքեղ համադրությունից, որը նրբորեն լուսավորված է լյուրեքսի թելերով, որոնք դասական «ռիբ» հյուսվածքին հաղորդում են արիստոկրատ փայլ։ Փափուկ գոլֆ-օձիքը և ռեգլան թևերը ապահովում են անթերի հարմարավետություն և շարժումների ազատություն, իսկ արդիական cropped-երկարությունը թույլ է տալիս ստեղծել էֆեկտիվ բազմաշերտ կերպարներ «հանգիստ շքեղության» ոճով։ Այս իրը կատարյալ հավասարակշռում է հարմարավետ առօրյա տրիկոտաժի և երեկոյան զգեստապահարանի կարգավիճակային տարրի միջև։",
+    "lv": "Šis izsmalcinātais saīsinātais džemperis no Luisa Spagnoli ir mūsdienīga glamūra un taktila maiguma iemiesojums. Modelis Cufra ir izgatavots no grezna mohēras un kokvilnas maisījuma, kas delikāti izgaismots ar lureksa diegiem, kuri klasiskajam \"rievotajam\" adījumam piešķir aristokrātisku mirdzumu. Mīksta bītlenes apkakle un reglana piedurknes nodrošina nevainojamu komfortu un kustību brīvību, bet aktuālais cropped garums ļauj radīt efektīvus daudzslāņu tēlus \"klusās greznības\" stilā. Šis izstrādājums ideāli balansē starp mājīgu ikdienas trikotāžu un statusa pilnu vakara garderobes elementu.",
+    "lt": "Šis rafinuotas Luisa Spagnoli trumpintas megztinis – modernaus glamūro ir taktilinio švelnumo įsikūnijimas. Modelis Cufra pasiūtas iš prabangaus moherio ir medvilnės mišinio, subtiliai paryškinto liurekso siūlais, kurie klasikiniam „briaunotam“ mezgimui suteikia aristokratiško žvilgesio. Minkšta golfuko tipo apykaklė ir reglano stiliaus rankovės užtikrina nepriekaištingą komfortą bei judesių laisvę, o aktualus cropped ilgis leidžia kurti įspūdingus sluoksniuotus derinius „tyliosios prabangos“ stiliumi. Tai gaminys, idealiai balansuojantis tarp jaukaus kasdienio trikotažo ir prabangaus vakarinio garderobo elemento.",
+    "pl": "Ten wyrafinowany skrócony sweter od Luisa Spagnoli to ucieleśnienie nowoczesnego glamouru i delikatności w dotyku. Model Cufra wykonano z luksusowej mieszanki moheru i bawełny, delikatnie rozświetlonej nitkami lureksu, które nadają klasycznemu splotowi w prążki arystokratyczny blask. Miękki golf oraz rękawy typu raglan zapewniają nieskazitelny komfort i swobodę ruchów, a modna długość cropped pozwala na tworzenie efektownych, warstwowych stylizacji w stylu „cichego luksusu”. Ten wyrób idealnie równoważy przytulną codzienną dzianinę ze statusowym elementem wieczorowej garderoby.",
+    "uk": "Цей вишуканий укорочений пуловер від Luisa Spagnoli — втілення сучасного гламуру та тактильної ніжності. Модель Cufra виконана з розкішної суміші мохеру та бавовни, делікатно підсвіченої нитками люрексу, які надають класичній в'язці «у рубчик» аристократичного мерехтіння. М'який комір-гольф і рукави реглан забезпечують бездоганний комфорт і свободу рухів, а актуальна cropped-довжина дозволяє створювати ефектні багатошарові образи у стилі «тихої розкоші». Цей виріб ідеально балансує між затишним повсякденним трикотажем і статусним елементом вечірнього гардероба."
+  },
+  "colors": [
+    {
+      "name": "Nero Oro",
+      "code": "0101 2302",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dcF6HOVdQ7iqWehI_upkTg_1751198497696f435dea6910_55225797_02830330XX1.jpg"
+    },
+    {
+      "name": "Nocciola Oro",
+      "code": "1105 2302",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VpGJSiTCR6KovTVV5ZpWMA_2113102145696f435e76c3d1_04142034_02830340XX1.jpg"
+    },
+    {
+      "name": "Panna Oro",
+      "code": "0202 0428",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dcF6HOVdQ7iqWehI_upkTg_1751198497696f435dea6910_55225797_02830330XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Black & Gold)",
+        "en": "Total Look (Black & Gold)",
+        "ar": "Total Look (Black & Gold)",
+        "ka": "Total Look (Black & Gold)",
+        "hy": "Total Look (Black & Gold)",
+        "lv": "Total Look (Black & Gold)",
+        "lt": "Total Look (Black & Gold)",
+        "pl": "Total Look (Black & Gold)",
+        "uk": "Total Look (Black & Gold)"
+      },
+      "text": {
+        "ru": "Cufra 0101 2302 в сочетании с кожаной юбкой Fidente 0996, дополненный тренчем Supporre 0995 и сумкой Idilliaco 0986 0002.",
+        "en": "Cufra 0101 2302 combined with a Fidente 0996 leather skirt, completed with a Supporre 0995 trench coat and an Idilliaco 0986 0002 bag.",
+        "ar": "Cufra 0101 2302 combined with a Fidente 0996 leather skirt, completed with a Supporre 0995 trench coat and an Idilliaco 0986 0002 bag.",
+        "ka": "Cufra 0101 2302 combined with a Fidente 0996 leather skirt, completed with a Supporre 0995 trench coat and an Idilliaco 0986 0002 bag.",
+        "hy": "Cufra 0101 2302 combined with a Fidente 0996 leather skirt, completed with a Supporre 0995 trench coat and an Idilliaco 0986 0002 bag.",
+        "lv": "Cufra 0101 2302 combined with a Fidente 0996 leather skirt, completed with a Supporre 0995 trench coat and an Idilliaco 0986 0002 bag.",
+        "lt": "Cufra 0101 2302 combined with a Fidente 0996 leather skirt, completed with a Supporre 0995 trench coat and an Idilliaco 0986 0002 bag.",
+        "pl": "Cufra 0101 2302 combined with a Fidente 0996 leather skirt, completed with a Supporre 0995 trench coat and an Idilliaco 0986 0002 bag.",
+        "uk": "Cufra 0101 2302 combined with a Fidente 0996 leather skirt, completed with a Supporre 0995 trench coat and an Idilliaco 0986 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Cufra",
+          "code": "0101 2302",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dcF6HOVdQ7iqWehI_upkTg_1751198497696f435dea6910_55225797_02830330XX1.jpg"
+        },
+        {
+          "name": "Fidente",
+          "code": "0996",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8yyxLDhfQoGPfXSuzRNYIA_109176338691c57c742f5e1_48030380_02780360XX1.jpg",
+          "modelId": 47
+        },
+        {
+          "name": "Supporre",
+          "code": "0995",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A-_m01BxSlCI2yq9LK3j-A_1990879054696f430060bf33_29956349_02821230XX1.jpg",
+          "modelId": 354
+        },
+        {
+          "name": "Idilliaco",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (Hazelnut Elegance)",
+        "en": "Total Look (Hazelnut Elegance)",
+        "ar": "Total Look (Hazelnut Elegance)",
+        "ka": "Total Look (Hazelnut Elegance)",
+        "hy": "Total Look (Hazelnut Elegance)",
+        "lv": "Total Look (Hazelnut Elegance)",
+        "lt": "Total Look (Hazelnut Elegance)",
+        "pl": "Total Look (Hazelnut Elegance)",
+        "uk": "Total Look (Hazelnut Elegance)"
+      },
+      "text": {
+        "ru": "Cufra 1105 2302 в паре с брюками Opaglio 0927, ботильонами Urbana 0981 и акцентной брошью Nellore 0001 0002.",
+        "en": "Cufra 1105 2302 paired with Opaglio 0927 trousers, Urbana 0981 ankle boots and an accent Nellore 0001 0002 brooch.",
+        "ar": "Cufra 1105 2302 paired with Opaglio 0927 trousers, Urbana 0981 ankle boots and an accent Nellore 0001 0002 brooch.",
+        "ka": "Cufra 1105 2302 paired with Opaglio 0927 trousers, Urbana 0981 ankle boots and an accent Nellore 0001 0002 brooch.",
+        "hy": "Cufra 1105 2302 paired with Opaglio 0927 trousers, Urbana 0981 ankle boots and an accent Nellore 0001 0002 brooch.",
+        "lv": "Cufra 1105 2302 paired with Opaglio 0927 trousers, Urbana 0981 ankle boots and an accent Nellore 0001 0002 brooch.",
+        "lt": "Cufra 1105 2302 paired with Opaglio 0927 trousers, Urbana 0981 ankle boots and an accent Nellore 0001 0002 brooch.",
+        "pl": "Cufra 1105 2302 paired with Opaglio 0927 trousers, Urbana 0981 ankle boots and an accent Nellore 0001 0002 brooch.",
+        "uk": "Cufra 1105 2302 paired with Opaglio 0927 trousers, Urbana 0981 ankle boots and an accent Nellore 0001 0002 brooch."
+      },
+      "items": [
+        {
+          "name": "Cufra",
+          "code": "1105 2302",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VpGJSiTCR6KovTVV5ZpWMA_2113102145696f435e76c3d1_04142034_02830340XX1.jpg"
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        },
+        {
+          "name": "Urbana",
+          "code": "0981",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7BoHBVbqTtCtxociDR_4dQ_2049283379696f42280ae740_09477040_02801350XX1.jpg"
+        },
+        {
+          "name": "Nellore",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/950855719691c57d948ff66_11592168_02800180XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (City Chic)",
+        "en": "Total Look (City Chic)",
+        "ar": "Total Look (City Chic)",
+        "ka": "Total Look (City Chic)",
+        "hy": "Total Look (City Chic)",
+        "lv": "Total Look (City Chic)",
+        "lt": "Total Look (City Chic)",
+        "pl": "Total Look (City Chic)",
+        "uk": "Total Look (City Chic)"
+      },
+      "text": {
+        "ru": "Cufra 0101 2302 стилизован с рубашкой Limonaia 0101 и плиссированной юбкой Fabula 0101.",
+        "en": "Cufra 0101 2302 styled with a Limonaia 0101 shirt and a Fabula 0101 pleated skirt.",
+        "ar": "Cufra 0101 2302 styled with a Limonaia 0101 shirt and a Fabula 0101 pleated skirt.",
+        "ka": "Cufra 0101 2302 styled with a Limonaia 0101 shirt and a Fabula 0101 pleated skirt.",
+        "hy": "Cufra 0101 2302 styled with a Limonaia 0101 shirt and a Fabula 0101 pleated skirt.",
+        "lv": "Cufra 0101 2302 styled with a Limonaia 0101 shirt and a Fabula 0101 pleated skirt.",
+        "lt": "Cufra 0101 2302 styled with a Limonaia 0101 shirt and a Fabula 0101 pleated skirt.",
+        "pl": "Cufra 0101 2302 styled with a Limonaia 0101 shirt and a Fabula 0101 pleated skirt.",
+        "uk": "Cufra 0101 2302 styled with a Limonaia 0101 shirt and a Fabula 0101 pleated skirt."
+      },
+      "items": [
+        {
+          "name": "Cufra",
+          "code": "0101 2302",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dcF6HOVdQ7iqWehI_upkTg_1751198497696f435dea6910_55225797_02830330XX1.jpg"
+        },
+        {
+          "name": "Limonaia",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg",
+          "modelId": 416
+        },
+        {
+          "name": "Fabula",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg",
+          "modelId": 386
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the distinctive texture: the blend of delicate mohair and shimmering lurex is a key trend that reflects the wearer's status and taste.",
+      "Recommend the piece as the ideal foundation for layered, runway-inspired looks — Cufra's cropped length looks striking over classic white shirts.",
+      "Draw attention to the composition: 49% mohair guarantees exceptional warmth with minimal weight, making it indispensable for the winter wardrobe."
+    ],
+    "ru": [
+      "Делайте акцент на уникальной фактуре: сочетание нежного мохера и мерцающего люрекса — это ключевой тренд, который подчеркивает статус и вкус владелицы.",
+      "Рекомендуйте модель как идеальную базу для многослойных подиумных образов — укороченная длина пуловера Cufra выигрышно смотрится поверх классических белых рубашек.",
+      "Акцентируйте внимание на составе: 49% мохера гарантируют исключительное тепло при минимальном весе изделия, что делает его незаменимым для зимнего гардероба."
+    ],
+    "ar": [
+      "ركزي على القوام الفريد: فالمزيج بين الموهير الناعم واللوريكس المتلألئ يمثل توجهاً أساسياً يبرز مكانة وذوق من ترتديها.",
+      "اقترحي هذه القطعة كأساس مثالي لإطلالات الطبقات الفاخرة، حيث يبدو بلوفر Cufra القصير رائعاً فوق القمصان البيضاء الكلاسيكية.",
+      "سلطي الضوء على التركيبة: فنسبة 49% من الموهير تضمن دفئاً استثنائياً مع وزن خفيف للغاية، مما يجعله قطعة لا غنى عنها في خزانة ملابس الشتاء."
+    ],
+    "ka": [
+      "გაამახვილეთ აქცენტი უნიკალურ ფაქტურაზე: ნაზი მოჰერისა და მოციმციმე ლურექსის კომბინაცია არის საკვანძო ტრენდი, რომელიც ხაზს უსვამს მფლობელის სტატუსსა და გემოვნებას.",
+      "რეკომენდაცია გაუწიეთ მოდელს, როგორც იდეალურ ბაზას პოდიუმის მრავალფენიანი სახეებისთვის — პულოვერ Cufra-ს შემოკლებული სიგრძე ეფექტურად გამოიყურება კლასიკური თეთრი პერანგების ზემოდან.",
+      "მიაქცევინეთ ყურადღება შემადგენლობას: 49% მოჰერი უზრუნველყოფს განსაკუთრებულ სითბოს მინიმალური წონის პირობებში, რაც მას ზამთრის გარდერობისთვის შეუცვლელს ხდის."
+    ],
+    "hy": [
+      "Շեշտադրում կատարեք յուրահատուկ ֆակտուրայի վրա. նուրբ մոհերի և փայլփլուն լյուրեքսի համադրությունը առանցքային թրենդ է, որն ընդգծում է տիրուհու կարգավիճակն ու ճաշակը:",
+      "Առաջարկեք մոդելը որպես իդեալական հիմք բազմաշերտ պոդիումային կերպարների համար. Cufra պուլովերի կարճ երկարությունը շահավետ է դիտվում դասական սպիտակ վերնաշապիկների վրա:",
+      "Կենտրոնացրեք ուշադրությունը կազմի վրա. 49% մոհերը երաշխավորում է բացառիկ ջերմություն՝ արտադրանքի նվազագույն քաշի դեպքում, ինչը այն դարձնում է անփոխարինելի ձմեռային զգեստապահարանի համար:"
+    ],
+    "lv": [
+      "Liekot uzsvaru uz unikālo faktūru: maiga mohēra un mirdzoša lureksa kombinācija ir galvenā tendence, kas pasvītro īpašnieces statusu un gaumi.",
+      "Iesakiet modeli kā ideālu bāzi daudzslāņainiem modes skates tēliem — īsinātais Cufra džempera garums izteiksmīgi izskatās virs klasiskiem baltiem krekliem.",
+      "Akcentējiet uzmanību uz sastāvu: 49% mohēras garantē izcilu siltumu pie minimāla izstrādājuma svara, kas padara to neaizstājamu ziemas garderobē."
+    ],
+    "lt": [
+      "Akcentuokite unikalią faktūrą: švelnaus moherio ir žėrinčio liurekso derinys — tai pagrindinė tendencija, pabrėžianti savininkės statusą ir skonį.",
+      "Rekomenduokite modelį kaip idealų pagrindą sluoksniuotiems podiumo įvaizdžiams — trumpintas Cufra puloverio ilgis puikiai atrodo vilkimas ant klasikinių baltų marškinių.",
+      "Atkreipkite dėmesį į sudėtį: 49% moherio garantuoja išskirtinę šilumą esant minimaliam gaminio svoriui, todėl jis tampa nepakeičiamas žiemos garderobe."
+    ],
+    "pl": [
+      "Połóż nacisk na unikalną fakturę: połączenie delikatnego moheru i mieniącego się lureksu to kluczowy trend, który podkreśla status i gust właścicielki.",
+      "Rekomenduj model jako idealną bazę dla warstwowych stylizacji wybiegowych — skrócona długość pulowera Cufra wygląda korzystnie założona na klasyczne białe koszule.",
+      "Zwróć uwagę na skład: 49% moheru gwarantuje wyjątkowe ciepło przy minimalnej wadze produktu, co czyni go niezastąpionym w zimowej garderobie."
+    ],
+    "uk": [
+      "Робіть акцент на унікальній фактурі: поєднання ніжного мохеру та мерехтливого люрексу — це ключовий тренд, який підкреслює статус та смак власниці.",
+      "Рекомендуйте модель як ідеальну базу для багатошарових подіумних образів — укорочена довжина пуловера Cufra виграшно виглядає поверх класичних білих сорочок.",
+      "Акцентуйте увагу на складі: 49% мохеру гарантують виняткове тепло за мінімальної ваги виробу, що робить його незамінним для зимового гардероба."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Lurex may cause prickling when worn.",
+        "a": "Cufra's composition uses a new-generation lurex woven into a soft mohair-and-cotton base, guaranteeing absolute smoothness and tactile comfort."
+      },
+      {
+        "q": "The cropped length seems impractical for cold weather.",
+        "a": "The model is designed to pair harmoniously with high-waisted trousers and skirts. Moreover, its high mohair content ensures excellent thermoregulation."
+      },
+      {
+        "q": "Mohair may shed fibers onto clothing.",
+        "a": "The addition of polyamide (26%) and cotton stabilizes the yarn's structure, significantly minimizing fiber shedding and preventing the piece from losing its shape."
+      },
+      {
+        "q": "A ribbed knit may visually add volume.",
+        "a": "On the contrary, the vertical knit lines and raglan sleeve structure the silhouette and create a soft, feminine shoulder line, without overburdening the look."
+      },
+      {
+        "q": "How should such a delicate, metallic-thread composition be cared for?",
+        "a": "We strongly recommend professional dry cleaning, to preserve mohair's plush texture and the lurex's original shimmer for a long time to come."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Люрекс может вызывать покалывание при носке.",
+        "a": "В составе Cufra используется люрекс нового поколения, который вплетен в мягкую основу из мохера и хлопка, что гарантирует абсолютную гладкость и тактильный комфорт."
+      },
+      {
+        "q": "Укороченная длина кажется непрактичной для холодов.",
+        "a": "Модель разработана для гармоничного сочетания с брюками и юбками на высокой талии. Кроме того, высокий процент мохера обеспечивает превосходную терморегуляцию."
+      },
+      {
+        "q": "Мохер может оставлять ворсинки на одежде.",
+        "a": "Добавление полиамида (26%) и хлопка стабилизирует структуру пряжи, значительно минимизируя выпадение волокон и предотвращая деформацию изделия."
+      },
+      {
+        "q": "Вязка в рубчик может визуально добавлять объема.",
+        "a": "Вертикальные линии вязки и рукав реглан, напротив, структурируют силуэт и создают мягкую, женственную линию плеча, не перегружая образ."
+      },
+      {
+        "q": "Как ухаживать за таким деликатным составом с металлизированной нитью?",
+        "a": "Мы настоятельно рекомендуем профессиональную химчистку, чтобы надолго сохранить пушистую текстуру мохера и первоначальный блеск люрекса."
+      }
+    ],
+    "ar": [
+      {
+        "q": "كوفرا",
+        "a": "(Cufra) على خيوط اللوريكس البراقة من الجيل الحديث، والمحبوكة ببراعة داخل قاعدة ناعمة من الموهير والقطن، مما يضمن ملمساً أملساً وراحة حسية مطلقة على البشرة. وقد صُمِّم هذا الطول القصير ليتناغم بتناسق تام مع البناطيل والتنانير ذات الخصر العالي، بينما توفر النسبة العالية من الموهير تنظيماً حرارياً ممتازاً يُلائم الأجواء الباردة. كما تُسهم إضافة ألياف البولياميد بنسبة (26%) والقطن في تثبيت بنية الغزل، مما يُقلل بشكل كبير من تساقط الشعيرات ويحمي القطعة من التفكك أو فقدان شكلها. وعلى عكس الفكرة السائدة عن النسيج المضلع، فإن الخطوط العمودية للحياكة إلى جانب قصّة أكمام."
+      },
+      {
+        "q": "راجلان",
+        "a": "(Raglan) تعيد هيكلة القوام ببراعة وتمنح الكتفين خطاً ناعماً وأنثوياً دون إثقال الإطلالة. وللإبقاء على هذه الخامات الدقيقة والألياف المعدنية في أبهى صورها، نوصي بالتنظيف الجاف المتخصص للحفاظ على كثافة الموهير وبريق اللوريكس الأخّاذ."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ლურექსმა ტარებისას შესაძლოა ჩხვლეტა გამოიწვიოს.",
+        "a": "Cufra-ს შემადგენლობაში გამოყენებულია ახალი თაობის ლურექსი, რომელიც ჩაქსოვილია მოჰერისა და ბამბის რბილ ფუძეში, რაც გარანტიას იძლევა აბსოლუტური სიგლუვისა და ტაქტილური კომფორტის შესახებ."
+      },
+      {
+        "q": "დამოკლებული სიგრძე სიცივეებისთვის არაპრაქტიკული ჩანს.",
+        "a": "მოდელი შექმნილია მაღალი წელის შარვლებთან და ქვედაბოლოებთან ჰარმონიული კომბინაციისთვის. გარდა ამისა, მოჰერის მაღალი პროცენტი უზრუნველყოფს თერმორეგულაციის შესანიშნავ დონეს."
+      },
+      {
+        "q": "მოჰერმა შესაძლოა ტანსაცმელზე ბუსუსები დატოვოს.",
+        "a": "პოლიამიდის (26%) და ბამბის დამატება ასტაბილურებს ძაფის სტრუქტურას, მნიშვნელოვნად ამცირებს ბოჭკოების ცვენას და ხელს უშლის ნაკეთობის დეფორმაციას."
+      },
+      {
+        "q": "რელიეფური ქსოვა შესაძლოა ვიზუალურად მოცულობას მატებდეს.",
+        "a": "ქსოვის ვერტიკალური ხაზები და რეგლანის სახელო, პირიქით, აწყობს სილუეტს და ქმნის მხრის რბილ, ქალურ ხაზს იმიჯის გადატვირთვის გარეშე."
+      },
+      {
+        "q": "როგორ მოვუაროთ მეტალიზებული ძაფის მქონე ასეთ დელიკატურ შემადგენლობას?",
+        "a": "ჩვენ მკაცრად გირჩევთ პროფესიონალურ ქიმწმენდას, რათა დიდხანს შეინარჩუნოთ მოჰერის ფუმფულა ტექსტურა და ლურექსის პირვანდელი ბზინვარება."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Լյուրեքսը կարող է ծակծկոց առաջացնել կրելիս։",
+        "a": "Cufra-ի կազմում օգտագործվում է նոր սերնդի լյուրեքս, որը հյուսված է մոհերի և բամբակի փափուկ հիմքի մեջ, ինչը երաշխավորում է բացարձակ հարթություն և շոշափողական հարմարավետություն։"
+      },
+      {
+        "q": "Կարճացված երկարությունը ցրտերի համար անգործնական է թվում։",
+        "a": "Մոդելը նախագծված է բարձր գոտկատեղով տաբատների և կիսաշրջազգեստների հետ ներդաշնակ համադրության համար։ Բացի այդ, մոհերի բարձր տոկոսը ապահովում է հիանալի ջերմակարգավորում։"
+      },
+      {
+        "q": "Մոհերը կարող է մազիկներ թողնել հագուստի վրա։",
+        "a": "Պոլիամիդի (26%) և բամբակի ավելացումը կայունացնում է թելի կառուցվածքը՝ զգալիորեն նվազեցնելով մանրաթելերի թափվելը և կանխելով իրի դեֆորմացիան։"
+      },
+      {
+        "q": "Ռետուշով հյուսվածքը կարող է տեսողականորեն ծավալ ավելացնել։",
+        "a": "Հյուսվածքի ուղղահայաց գծերը և ռեգլան թևը, ընդհակառակը, կառուցվածքավորում են ուրվագիծը և ստեղծում են ուսի նուրբ, կանացի գիծ՝ չծանրաբեռնելով կերպարը։"
+      },
+      {
+        "q": "Ինչպե՞ս խնամել մետաղացված թելով այսպիսի նուրբ կազմը։",
+        "a": "Մենք հորդորում ենք պրոֆեսիոնալ քիմմաքրում, որպեսզի երկար ժամանակ պահպանվի մոհերի փափուկ ֆակտուրան և լյուրեքսի սկզբնական փայլը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Lurekss var radīt kņudoņu valkāšanas laikā.",
+        "a": "Cufra sastāvā tiek izmantots jaunās paaudzes lurekss, kas ir ieausts mīkstā mohēras un kokvilnas pamata pamatnē, kas garantē absolūtu gludumu un taktilu komfortu."
+      },
+      {
+        "q": "Saīsinātais garums šķiet nepraktisks aukstam laikam.",
+        "a": "Modelis ir izstrādāts harmoniskai saskaņošanai ar biksēm un svārkiem ar augstu jostasvietu. Turklāt augstais mohēras procents nodrošina izcilu termoregulāciju."
+      },
+      {
+        "q": "Mohēra var atstāt plūksnas uz apģērba.",
+        "a": "Poliamīda (26%) un kokvilnas pievienošana stabilizē dzijas struktūru, ievērojami samazinot šķiedru izkrišanu un novēršot izstrādājuma deformāciju."
+      },
+      {
+        "q": "Adījums valnītī var vizuāli piešķirt apjomu.",
+        "a": "Vertikālās adījuma līnijas un reglāna piedurkne, gluži pretēji, strukturē siluetu un rada maigu, sievišķīgu plecu līniju, nepārslogojot tēlu."
+      },
+      {
+        "q": "Kā kopt šādu smalku sastāvu ar metāla diegu?",
+        "a": "Mēs stingri iesakām profesionālo ķīmisko tīrīšanu, lai ilgstoši saglabātu mohēras pūkaino tekstūru un lureksa sākotnējo mirdzumu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Liureksas gali kelti dilgčiojimą dėvint.",
+        "a": "Cufra sudėtyje naudojamas naujos kartos liureksas, įpintas į minkštą moherio ir medvilnės pagrindą, kas garantuoja absoliutų glotnumą ir lytėjimo komfortą."
+      },
+      {
+        "q": "Sutrumpintas ilgis atrodo nepraktiškas šaltajam sezonui.",
+        "a": "Modelis sukurtas harmoningam derinimui su aukšto liemens kelnėmis ir sijonais. Be to, didelis moherio procentas užtikrina puikią termoreguliaciją."
+      },
+      {
+        "q": "Moheris gali palikti pūkelius ant drabužių.",
+        "a": "Poliamido (26%) ir medvilnės pridėjimas stabilizuoja verpalų struktūrą, žymiai sumažindamas pluošto slinkimą ir užkirsdamas kelią gaminio deformacijai."
+      },
+      {
+        "q": "Rumbelių raštas gali vizualiai pridėti apimties.",
+        "a": "Vertikalios mezgimo linijos ir reglano tipo rankovės, priešingai, struktūrizuoja siluetą ir sukuria minkštą, moterišką pečių liniją, neapsunkindamos įvaizdžio."
+      },
+      {
+        "q": "Kaip prižiūrėti tokį subtilų metalizuotų siūlų sudėties gaminį?",
+        "a": "Primygtinai rekomenduojame profesionalų cheminį valymą, kad ilgam išsaugotumėte purią moherio tekstūrą ir pradinį liurekso žvilgesį."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Lureks może powodować kłucie podczas noszenia.",
+        "a": "W składzie Cufra użyto lureksu nowej generacji, który jest wpleciony w miękką bazę z moheru i bawełny, co gwarantuje absolutną gładkość i komfort dotyku."
+      },
+      {
+        "q": "Skrócona długość wydaje się niepraktyczna na chłody.",
+        "a": "Model został opracowany z myślą o harmonijnym łączeniu ze spodniami i spódnicami z wysokim stanem. Ponadto wysoki procent moheru zapewnia doskonałą termoregulację."
+      },
+      {
+        "q": "Moher może zostawiać kłaczki na ubraniach.",
+        "a": "Dodatek poliamidu (26%) i bawełny stabilizuje strukturę przędzy, znacząco minimalizując wypadanie włókien i zapobiegając deformacji produktu."
+      },
+      {
+        "q": "Dzianina w prążki może wizualnie dodawać objętości.",
+        "a": "Pionowe linie dzianiny oraz rękaw reglan wręcz przeciwnie – strukturyzują sylwetkę i tworzą miękką, kobiecą linię ramion, nie przeciążając stylizacji."
+      },
+      {
+        "q": "Jak dbać o tak delikatny skład z nicią metalizowaną?",
+        "a": "Zdecydowanie zalecamy profesjonalne czyszczenie chemiczne, aby na długo zachować puszystą fakturę moheru i pierwotny blask lureksu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Люрекс може викликати поколювання при носінні.",
+        "a": "У складі Cufra використовується люрекс нового покоління, який вплетений у м'яку основу з мохеру та бавовни, що гарантує абсолютну гладкість та тактильний комфорт."
+      },
+      {
+        "q": "Укорочена довжина здається непрактичною для холодів.",
+        "a": "Модель розроблена для гармонійного поєднання з брюками та спідницями на високій талії. Крім того, високий відсоток мохеру забезпечує чудову терморегуляцію."
+      },
+      {
+        "q": "Мохер може залишати ворсинки на одязі.",
+        "a": "Додавання поліаміду (26%) та бавовни стабілізує структуру пряжі, значно мінімізуючи випадання волокон та запобігаючи деформації виробу."
+      },
+      {
+        "q": "В'язка в рубчик може візуально додавати об'єму.",
+        "a": "Вертикальні лінії в'язки та рукав реглан, навпаки, структурують силует і створюють м'яку, жіночну лінію плеча, не перевантажуючи образ."
+      },
+      {
+        "q": "Як доглядати за таким делікатним складом з металізованою ниткою?",
+        "a": "Ми наполегливо рекомендуємо професійну хімчистку, щоб надовго зберегти пухнасту текстуру мохеру та первісний блиск люрексу."
+      }
+    ]
+  }
+}

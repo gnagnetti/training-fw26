@@ -1,0 +1,360 @@
+{
+  "id": 75,
+  "name": "Ghiglia",
+  "description": {
+    "en": "An embodiment of aristocratic chic and evening elegance: the exquisite Ghiglia midi dress, creating a flawless silhouette. The piece enchants with a contrast of textures: a finely wrought lace top with long sheer sleeves and a scalloped edge (smerlato) is paired with a clean-lined, straight-cut skirt in noble wool blend. A jewel-like accent is provided by an elegant belt with a radiant gummy buckle, while a back slit lends the gait grace and lightness.",
+    "ru": "Воплощение аристократичного шика и вечерней элегантности: изысканное платье-миди Ghiglia, создающее безупречный силуэт. Модель очаровывает контрастом фактур: филигранный топ из кружева с длинными полупрозрачными рукавами и фестончатым краем (смерлато) дополнен лаконичной юбкой прямого кроя из благородной смесовой шерсти. Ювелирным акцентом выступает изящный поясок с сияющей пряжкой-гумми, а разрез на спинке придает походке грацию и легкость.",
+    "ar": "تجسيد للفخامة الأرستقراطية والأناقة المسائية: فستان Ghiglia متوسط الطول (ميدي) الرائع، الذي يخلق صورة ظلية لا تشوبها شائبة. يأسرك الموديل بتباين الخامات: صدرية مخرمة (دانتيل) دقيقة بأكمام طويلة شبه شفافة وحواف مزينة بالنقوش (سيرلاتو)، تكملها تنورة بسيطة ذات قصة مستقيمة مصنوعة من مزيج الصوف الفاخر. يبرز كإكسسوار مجوهر حزام أنيق مع إبزيم متلألئ، بينما تضفي الفتحة في الخلف على مشيتكِ الرقي والخفة.",
+    "ka": "არისტოკრატული შიკისა და საღამოს ელეგანტურობის განსახიერება: დახვეწილი მიდი-კაბა Ghiglia, რომელიც ქმნის უნაკლო სილუეტს. მოდელი აჯადოებს ფაქტურათა კონტრასტით: მაქმანის ფილიგრანული ტოპი გრძელი ნახევრადგამჭვირვალე სახელოებითა და ფესტონური კიდით (სმერლატო) დამატებულია მატყლის ნარევის კეთილშობილური ქსოვილისგან შეკერილი ლაკონური, სწორი კროის ქვედაბოლოთი. საიუველირო აქცენტს წარმოადგენს ელეგანტური ქამარი მბზინავი ბალთით-გუმი, ხოლო ზურგზე არსებული ჭრილი სიარულს მატებს მადლსა და სიმსუბუქეს.",
+    "hy": "Արիստոկրատական շքեղության և երեկոյան նրբագեղության մարմնացում. Ghiglia նրբաճաշակ միդի-զգեստ՝ անթերի ուրվագծի համար: Մոդելը հմայում է հյուսվածքների հակադրությամբ՝ ժանյակից պատրաստված ֆիլիգրանային վերնամաս՝ երկար թափանցիկ թևերով և փնջաձև (սմերլատո) եզրով, համադրված բարձրակարգ խառը բրդից պատրաստված ուղիղ կտրվածքի հակիրճ կիսաշրջազգեստի հետ: Որպես ոսկերչական շեշտադրում հանդես է գալիս փայլուն գումմի-ճարմանդով նրբագեղ գոտին, իսկ մեջքի բացվածքը քայլվածքին հաղորդում է շնորհք և թեթևություն:",
+    "lv": "Aristokrātiska šika un vakara elegances iemiesojums: izsmalcināta midi kleita Ghiglia, kas rada nevainojamu siluetu. Modeli apbur faktūru kontrasts: filigrāns mežģīņu tops ar garām, puscaurspīdīgām piedurknēm un festonētu (smerlato) malu papildināts ar lakoniskiem, taisna piegriezuma svārkiem no cēla vilnas maisījuma. Kā juvelierizstrādājuma akcents kalpo gracioza jostiņa ar mirdzošu sprādzi-gummi, bet šķēlums mugurpusē piešķir gaitai eleganci un vieglumu.",
+    "lt": "Aristokratiško prašmatnumo ir vakarinės elegancijos įkūnijimas: išskirtinė midi suknelė Ghiglia, sukurianti nepriekaištingą siluetą. Modelis užburia faktūrų kontrastu: subtilus nėrinių viršus su ilgomis pusiau permatomomis rankovėmis ir banguotu krašteliu (smerlato) papildytas lakonišku tiesaus kirpimo sijonu iš taurios vilnos mišinio. Juvelyriniu akcentu tampa grakštus dirželis su žvilgančia sagtimi, o skeltukas nugarinėje dalyje suteikia eisenai grakštumo ir lengvumo.",
+    "pl": "Ucieleśnienie arystokratycznego szyku i wieczorowej elegancji: wyrafinowana sukienka midi Ghiglia, tworząca nienaganną sylwetkę. Model zachwyca kontrastem faktur: filigranowy top z koronki z długimi, półprzezroczystymi rękawami i wykończeniem typu smerlato został zestawiony z minimalistyczną spódnicą o prostym kroju, wykonaną ze szlachetnej mieszanki wełny. Jubilerskim akcentem jest delikatny pasek z lśniącą klamrą typu gummi, a rozcięcie z tyłu nadaje krokom wdzięku i lekkości.",
+    "uk": "Втілення аристократичного шику та вечірньої елегантності: вишукана сукня-міді Ghiglia, що створює бездоганний силует. Модель зачаровує контрастом фактур: філігранний топ із мережива з довгими напівпрозорими рукавами та фестончастим краєм (смерлато) доповнений лаконічною спідницею прямого крою з благородної сумішевої вовни. Ювелірним акцентом виступає витончений пасок із сяючою пряжкою-гуммі, а розріз на спинці додає ході грації та легкості."
+  },
+  "colors": [
+    {
+      "name": "Nero Nero Nero",
+      "code": "0101 0101 0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/_Ir3PSh3TSS-MC7SeRmEdw_776146626696f42310fe0b6_09808030_02820150XX1-2.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Luxurious Evening)",
+        "ar": "Look 1 (Luxurious Evening)",
+        "ka": "Look 1 (Luxurious Evening)",
+        "hy": "Look 1 (Luxurious Evening)",
+        "lv": "Look 1 (Luxurious Evening)",
+        "lt": "Look 1 (Luxurious Evening)",
+        "pl": "Look 1 (Luxurious Evening)",
+        "uk": "Look 1 (Luxurious Evening)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Роскошный вечер): Сочетание платья Ghiglia 0101 с укороченным кабаном из мягкого эко-меха Svista 0101 и лаконичным клатчем Iroise 0101 0002.",
+        "en": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "ar": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "ka": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "hy": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "lv": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "lt": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "pl": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "uk": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch."
+      },
+      "items": [
+        {
+          "name": "Ghiglia",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/_Ir3PSh3TSS-MC7SeRmEdw_776146626696f42310fe0b6_09808030_02820150XX1-2.jpg"
+        },
+        {
+          "name": "Svista",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Y5nVSE1gSb6SPip95-cHFA_898560113696f43013e28f4_95099051_02821250XX1.jpg"
+        },
+        {
+          "name": "Iroise",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cougRXqXSLCLpSH5I324CQ_361816691696f422261f4e8_02648203_02800700XX1.jpg",
+          "modelId": 96
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 1 (Luxurious Evening)",
+        "ar": "Look 1 (Luxurious Evening)",
+        "ka": "Look 1 (Luxurious Evening)",
+        "hy": "Look 1 (Luxurious Evening)",
+        "lv": "Look 1 (Luxurious Evening)",
+        "lt": "Look 1 (Luxurious Evening)",
+        "pl": "Look 1 (Luxurious Evening)",
+        "uk": "Look 1 (Luxurious Evening)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Роскошный вечер): Сочетание платья Ghiglia 0101 с укороченным кабаном из мягкого эко-меха Svista 0101 и лаконичным клатчем Iroise 0101 0002.",
+        "en": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "ar": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "ka": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "hy": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "lv": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "lt": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "pl": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch.",
+        "uk": "A combination of the Ghiglia 0101 dress with a cropped Svista 0101 soft eco-fur jacket and a minimalist Iroise 0101 0002 clutch."
+      },
+      "items": [
+        {
+          "name": "Ghiglia",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/_Ir3PSh3TSS-MC7SeRmEdw_776146626696f42310fe0b6_09808030_02820150XX1-2.jpg"
+        },
+        {
+          "name": "Udita",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png"
+        },
+        {
+          "name": "Notazione",
+          "code": "0068 0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/872948663691c57e1e0c368_23107522_02800300XX1.jpg"
+        },
+        {
+          "name": "Iroise",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cougRXqXSLCLpSH5I324CQ_361816691696f422261f4e8_02648203_02800700XX1.jpg",
+          "modelId": 96
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the 'complete set' effect: the pairing of a lace top with a fitted skirt creates a finished look that requires no additional styling effort.",
+      "Recommend this piece as the ideal investment for Cocktail or Black Tie dress codes, where understated status is essential.",
+      "Draw the client's attention to the jeweled belt buckle: a ready-made styling solution that removes the need to source a separate statement accessory for the waist."
+    ],
+    "ru": [
+      "Сделайте акцент на эффекте 'комплекта': сочетание кружевного верха и плотной юбки создает законченный образ, не требующий дополнительных усилий по стайлингу.",
+      "Рекомендуйте эту модель как идеальную инвестицию для мероприятий с дресс-кодом Cocktail или Black Tie, где важна статусная сдержанность.",
+      "Обратите внимание клиента на ювелирную пряжку на поясе: это готовое стилистическое решение, которое избавляет от необходимости подбирать акцентные аксессуары на талию."
+    ],
+    "ar": [
+      "ركزي على تأثير \"الإطلالة المتكاملة\": حيث يمنحك الجمع بين الجزء العلوي الدانتيل والتنورة ذات القوام المتماسك إطلالة مكتملة لا تتطلب جهداً إضافياً في التنسيق.",
+      "ننصح بهذا الموديل كاستثمار مثالي للمناسبات ذات قواعد اللباس Cocktail أو Black Tie، حيث تكون الرصانة الراقية هي الأساس.",
+      "لفتي انتباه العميل إلى الإبزيم الجوهري على الخصر: فهو لمسة تصميمية جاهزة تغني عن الحاجة إلى إضافة إكسسوارات أخرى لمنطقة الخصر."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი 'კომპლექტის' ეფექტზე: მაქმანებიანი ზედასა და მკვრივი ქვედაბოლოს შეხამება ქმნის დასრულებულ იმიჯს, რომელიც არ საჭიროებს დამატებით ძალისხმევას სტილიზებისთვის.",
+      "რეკომენდაცია გაუწიეთ ამ მოდელს, როგორც იდეალურ ინვესტიციას Cocktail ან Black Tie დრეს-კოდის მქონე ღონისძიებებისთვის, სადაც მნიშვნელოვანია სტატუსური თავშეკავებულობა.",
+      "ყურადღება მიაქციეთ კლიენტს ქამარზე არსებულ საიუველირო ბალთაზე: ეს არის მზა სტილისტური გადაწყვეტა, რომელიც ათავისუფლებს წელზე აქცენტირებული აქსესუარების შერჩევის აუცილებლობისგან."
+    ],
+    "hy": [
+      "Շեշտը դրեք «համադրված հավաքածուի» էֆեկտի վրա. ժանյակավոր վերնամասի և խիտ գործվածքով կիսաշրջազգեստի համադրությունը ստեղծում է ամբողջական կերպար, որը չի պահանջում ստայլինգի հավելյալ ջանքեր։",
+      "Առաջարկեք այս մոդելը որպես իդեալական ներդրում Cocktail կամ Black Tie դրես-կոդ ունեցող միջոցառումների համար, որտեղ կարևոր է կարգավիճակային զսպվածությունը։",
+      "Հաճախորդի ուշադրությունը հրավիրեք գոտկատեղի զարդանախշ ճարմանդի վրա. սա ոճային պատրաստի լուծում է, որը վերացնում է գոտկատեղի համար ակցենտային աքսեսուարներ ընտրելու անհրաժեշտությունը։"
+    ],
+    "lv": [
+      "Akcentējiet „komplekta” efektu: mežģīņu augšdaļas un blīvo svārku apvienojums rada pabeigtu tēlu, kam nav nepieciešama papildu ieveidošana.",
+      "Iesakiet šo modeli kā ideālu investīciju pasākumiem ar Cocktail vai Black Tie dreskodu, kur svarīga ir statusa pilna atturība.",
+      "Vērsiet klienta uzmanību uz juvelierizstrādājuma cienīgo sprādzi jostasvietā: tas ir gatavs stilistisks risinājums, kas atbrīvo no nepieciešamības piemeklēt akcentējošus aksesuārus viduklim."
+    ],
+    "lt": [
+      "Akcentuokite „komplekto“ efektą: nėriniuoto viršaus ir tankaus sijono derinys sukuria vientisą įvaizdį, nereikalaujantį papildomų stiliaus pastangų.",
+      "Rekomenduokite šį modelį kaip idealią investiciją „Cocktail“ arba „Black Tie“ aprangos kodo renginiams, kur svarbus statusinis santūrumas.",
+      "Atkreipkite kliento dėmesį į juvelyrinę sagtį ant diržo: tai paruoštas stilistinis sprendimas, išlaisvinantis nuo būtinybės derinti akcentinius aksesuarus liemeniui."
+    ],
+    "pl": [
+      "Połóż nacisk na efekt 'kompletu': połączenie koronkowego topu i gęstej spódnicy tworzy gotowy wizerunek, niewymagający dodatkowego wysiłku w stylizacji.",
+      "Rekomenduj ten model jako idealną inwestycję na wydarzenia z dress codem Cocktail lub Black Tie, gdzie liczy się statusowa powściągliwość.",
+      "Zwróć uwagę klientki na jubilerską klamrę w talii: to gotowe rozwiązanie stylistyczne, które eliminuje konieczność doboru akcentujących akcesoriów."
+    ],
+    "uk": [
+      "Зробіть акцент на ефекті 'комплекту': поєднання мереживного верху та щільної спідниці створює завершений образ, що не потребує додаткових зусиль зі стайлінгу.",
+      "Рекомендуйте цю модель як ідеальну інвестицію для заходів із дрес-кодом Cocktail або Black Tie, де важлива статусна стриманість.",
+      "Зверніть увагу клієнта на ювелірну пряжку на поясі: це готове стилістичне рішення, яке позбавляє необхідності підбирати акцентні аксесуари на талію."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The lace top looks too delicate for wear.",
+        "a": "The use of premium synthetic fibres in the lace composition (53% polyester) provides the necessary strength and shape retention, while visually remaining airy and couture in feel."
+      },
+      {
+        "q": "A mid-calf length may visually shorten the frame.",
+        "a": "The straight cut of the skirt and the high waistline, accentuated by the belt, in fact create a slender vertical line. We recommend pairing this dress with our classic pumps or Udita heeled sandals."
+      },
+      {
+        "q": "Black may seem too formal.",
+        "a": "The deep 'Nero' black in this piece is softened by the interplay of textures and the delicate sheerness of the lace sleeves, lending the look femininity and mystery."
+      },
+      {
+        "q": "The dress seems suitable only for festive occasions.",
+        "a": "Thanks to the understated design of the wool skirt, when paired with a structured jacket, this dress can be adapted for even the most formal business meetings."
+      },
+      {
+        "q": "Will it be comfortable to wear such a fitted skirt?",
+        "a": "The 4% elastane content in the fabric, together with the thoughtfully placed back slit, guarantees a flawless fit without restricting movement throughout the evening."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Кружевной верх выглядит слишком деликатным для носки.",
+        "a": "Использование высококачественных синтетических волокон в составе кружева (53% полиэстер) обеспечивает необходимую прочность и сохранение формы, при этом визуально оно остается воздушным и кутюрным."
+      },
+      {
+        "q": "Длина до середины икры может визуально уменьшать рост.",
+        "a": "Прямой крой юбки и высокая линия талии, подчеркнутая поясом, наоборот, создают стройную вертикаль. Мы рекомендуем сочетать это платье с нашими классическими лодочками или сандалиями на каблуке Udita."
+      },
+      {
+        "q": "Черный цвет может выглядеть слишком официально.",
+        "a": "Глубокий черный цвет 'Nero' в этой модели смягчен игрой фактур и деликатным просвечиванием кружева на рукавах, что придает образу женственность и загадочность."
+      },
+      {
+        "q": "Платье кажется только праздничным.",
+        "a": "Благодаря лаконичному дизайну юбки из шерсти, при дополнении образа строгим жакетом, это платье может быть адаптировано для самых торжественных деловых встреч."
+      },
+      {
+        "q": "Будет ли комфортно в облегающей юбке?",
+        "a": "Наличие 4% эластана в составе ткани и продуманный разрез сзади гарантируют безупречную посадку по фигуре без скованности движений в течение всего вечера."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الجزء العلوي من الدانتيل يبدو رقيقاً جداً للارتداء.",
+        "a": "استخدام الألياف الصناعية عالية الجودة في تركيبة الدانتيل (53% بوليستر) يوفر المتانة اللازمة والحفاظ على شكل القطعة، مع الحفاظ على مظهره الهوائي الفاخر."
+      },
+      {
+        "q": "الطول حتى منتصف الساق قد يقلل من القامة بصرياً.",
+        "a": "القصة المستقيمة للتنورة وخط الخصر المرتفع الذي يبرزه الحزام، يخلقان خطاً عمودياً يضفي رشاقة. ننصح بتنسيق هذا الفستان مع حذاء الكعب الكلاسيكي أو صنادل Udita ذات الكعب العالي."
+      },
+      {
+        "q": "اللون الأسود قد يبدو رسمياً أكثر من اللازم.",
+        "a": "تم تخفيف حدة اللون الأسود العميق 'Nero' في هذا الموديل من خلال تباين الخامات والشفافية الرقيقة للدانتيل على الأكمام، مما يضفي على الإطلالة طابعاً أنثوياً غامضاً."
+      },
+      {
+        "q": "الفستان يبدو مخصصاً للمناسبات فقط.",
+        "a": "بفضل التصميم البسيط للتنورة المصنوعة من الصوف، يمكن تكييف هذا الفستان لأكثر اجتماعات العمل رسمية عند تنسيقه مع سترة رسمية."
+      },
+      {
+        "q": "هل ستكون التنورة الضيقة مريحة؟",
+        "a": "وجود 4% من الإيلاستين في تركيبة القماش والفتحة المصممة بذكاء في الخلف يضمنان ملاءمة مثالية للجسم دون تقييد الحركة طوال المساء."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მაქმანებიანი ზედაპირი ზედმეტად დელიკატური ჩანს ტარებისთვის.",
+        "a": "მაქმანის შემადგენლობაში მაღალი ხარისხის სინთეტიკური ბოჭკოების (53% პოლიესტერი) გამოყენება უზრუნველყოფს აუცილებელ სიმტკიცეს და ფორმის შენარჩუნებას, თანაც ის ვიზუალურად ჰაეროვანი და კუტიურის სტილის რჩება."
+      },
+      {
+        "q": "სიგრძე წვივამდე შეიძლება ვიზუალურად ამცირებდეს სიმაღლეს.",
+        "a": "ქვედაბოლოს სწორი ჭრა და წელის მაღალი ხაზი, რომელიც ქამრით არის ხაზგასმული, პირიქით, ქმნის თხელ ვერტიკალს. ჩვენ გირჩევთ ეს კაბა შეუხამოთ ჩვენს კლასიკურ „ნავისებურ“ ფეხსაცმელს ან Udita-ს ქუსლიან სანდლებს."
+      },
+      {
+        "q": "შავი ფერი შეიძლება ზედმეტად ოფიციალურად გამოიყურებოდეს.",
+        "a": "ღრმა შავი ფერი 'Nero' ამ მოდელში დარბილებულია ფაქტურების თამაშით და სახელოებზე მაქმანის დელიკატური გამჭვირვალობით, რაც სახეს ქალურობასა და იდუმალებას ანიჭებს."
+      },
+      {
+        "q": "კაბა მხოლოდ სადღესასწაულოდ ჩანს.",
+        "a": "მატყლის ქვედაბოლოს ლაკონიური დიზაინის წყალობით, მკაცრ ჟაკეტთან შეხამებისას, ეს კაბა შეიძლება ადაპტირებული იქნას ყველაზე საზეიმო საქმიანი შეხვედრებისთვის."
+      },
+      {
+        "q": "იქნება თუ არა კომფორტული მომდგარ ქვედაბოლოში?",
+        "a": "ქსოვილში 4% ელასტანის არსებობა და უკან გათვალისწინებული ჩახსნილი ნაწილი უზრუნველყოფს უნაკლო მორგებას ფიგურაზე მოძრაობის შეზღუდვის გარეშე მთელი საღამოს განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ժանյակավոր վերնամասը չափազանց նուրբ է թվում կրելու համար։",
+        "a": "Ժանյակի կազմում բարձրորակ սինթետիկ մանրաթելերի (53% պոլիեսթեր) օգտագործումն ապահովում է անհրաժեշտ ամրություն և ձևի պահպանում, միաժամանակ այն տեսողականորեն մնում է օդային և կուտյուրային։"
+      },
+      {
+        "q": "Մինչև սրունքի կենտրոնը հասնող երկարությունը կարող է տեսողականորեն կարճացնել հասակը։",
+        "a": "Կիսաշրջազգեստի ուղիղ կտրվածքը և գոտկատեղի բարձր գիծը, որն ընդգծված է գոտիով, ընդհակառակը, ստեղծում են սլացիկ ուղղահայաց գիծ։ Մենք խորհուրդ ենք տալիս այս զգեստը համադրել մեր դասական լոդոչկա կոշիկների կամ Udita կրունկավոր սանդալների հետ։"
+      },
+      {
+        "q": "Սև գույնը կարող է չափազանց պաշտոնական երևալ։",
+        "a": "Այս մոդելում խորը 'Nero' սև գույնը մեղմված է ֆակտուրաների խաղով և թևերի վրա ժանյակի նուրբ թափանցիկությամբ, ինչը կերպարին հաղորդում է կանացիություն և առեղծվածայնություն։"
+      },
+      {
+        "q": "Զգեստը միայն տոնական է թվում։",
+        "a": "Բրդյա կիսաշրջազգեստի լակոնիկ դիզայնի շնորհիվ, կերպարը խիստ բաճկոնով լրացնելիս, այս զգեստը կարող է հարմարեցվել ամենահանդիսավոր գործնական հանդիպումների համար։"
+      },
+      {
+        "q": "Արդյո՞ք հարմարավետ կլինի կիպ կիսաշրջազգեստով։",
+        "a": "Գործվածքի կազմում 4% էլաստանի առկայությունը և հետևի մասում մտածված բացվածքը երաշխավորում են անթերի տեղավորում կազմվածքին՝ առանց շարժումները սահմանափակելու ողջ երեկոյի ընթացքում։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Mežģīņu augšdaļa izskatās pārāk delikāta valkāšanai.",
+        "a": "Augstas kvalitātes sintētisko šķiedru izmantošana mežģīņu sastāvā (53% poliesters) nodrošina nepieciešamo izturību un formas saglabāšanu, tajā pašā laikā vizuāli tā paliek gaisīga un izsmalcināta (kutūras stilā)."
+      },
+      {
+        "q": "Garums līdz ikru vidum var vizuāli samazināt augumu.",
+        "a": "Taisnais svārku piegriezums un augstā vidukļa līnija, ko pasvītro josta, gluži pretēji, rada slaidu vertikāli. Mēs iesakām šo kleitu kombinēt ar mūsu klasiskajām laiviņām vai sandalēm ar papēdi Udita."
+      },
+      {
+        "q": "Melnā krāsa var izskatīties pārāk oficiāla.",
+        "a": "Dziļā melnā krāsa 'Nero' šajā modelī ir mīkstināta ar faktūru spēli un delikātu mežģīņu caurspīdīgumu uz piedurknēm, kas piešķir tēlam sievišķību un noslēpumainību."
+      },
+      {
+        "q": "Kleita šķiet tikai svinīga.",
+        "a": "Pateicoties lakoniskajam vilnas svārku dizainam, papildinot tēlu ar stingru žaketi, šī kleita var tikt adaptēta visizsmalcinātākajām lietišķajām tikšanās reizēm."
+      },
+      {
+        "q": "Vai būs ērti piegulošos svārkos?",
+        "a": "4% elastāna klātbūtne auduma sastāvā un pārdomāts šķēlums aizmugurē garantē nevainojamu piegulumu figūrai bez kustību ierobežojumiem visa vakara garumā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Nėrinių viršus atrodo pernelyg trapus dėvėjimui.",
+        "a": "Aukštos kokybės sintetinių pluoštų naudojimas nėrinių sudėtyje (53% poliesteris) užtikrina reikiamą tvirtumą ir formos išlaikymą, tuo pačiu išlaikant vizualų lengvumą ir „couture“ įvaizdį."
+      },
+      {
+        "q": "Ilgis iki blauzdos vidurio gali vizualiai trumpinti ūgį.",
+        "a": "Tiesus sijono kirpimas ir aukšta liemens linija, pabrėžta diržu, priešingai, sukuria liekną vertikalę. Rekomenduojame derinti šią suknelę su mūsų klasikiniais laiveliais arba basutėmis su kulnu Udita."
+      },
+      {
+        "q": "Juoda spalva gali atrodyti pernelyg oficialiai.",
+        "a": "Sodri juoda spalva 'Nero' šiame modelyje sušvelninta faktūrų žaismu ir subtiliu nėrinių persišvietimu ant rankovių, kas suteikia įvaizdžiui moteriškumo ir paslapties."
+      },
+      {
+        "q": "Suknelė atrodo tik šventinė.",
+        "a": "Dėl lakoniško vilnonio sijono dizaino, papildžius įvaizdį griežtu švarku, ši suknelė gali būti pritaikyta patiems iškilmingiausiems verslo susitikimams."
+      },
+      {
+        "q": "Ar bus patogu su aptemptu sijonu?",
+        "a": "4% elastano audinio sudėtyje ir apgalvotas skeltukas nugaroje garantuoja nepriekaištingą prigludimą prie figūros nevaržant judesių visą vakarą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Koronkowa góra wygląda na zbyt delikatną do noszenia.",
+        "a": "Zastosowanie wysokiej jakości włókien syntetycznych w składzie koronki (53% poliester) zapewnia niezbędną wytrzymałość i utrzymanie formy, przy czym wizualnie pozostaje ona zwiewna i couture."
+      },
+      {
+        "q": "Długość do połowy łydki może optycznie skracać wzrost.",
+        "a": "Prosty krój spódnicy i wysoka linia talii, podkreślona paskiem, wręcz przeciwnie, tworzą smukłą linię pionową. Zalecamy łączenie tej sukienki z naszymi klasycznymi czółenkami lub sandałami na obcasie Udita."
+      },
+      {
+        "q": "Czarny kolor może wyglądać zbyt oficjalnie.",
+        "a": "Głęboki czarny kolor 'Nero' w tym modelu został złagodzony grą faktur i delikatnym prześwitywaniem koronki na rękawach, co nadaje stylizacji kobiecości i tajemniczości."
+      },
+      {
+        "q": "Sukienka wydaje się tylko na specjalne okazje.",
+        "a": "Dzięki minimalistycznemu designowi spódnicy z wełny, przy uzupełnieniu stylizacji eleganckim żakietem, ta sukienka może być zaadaptowana na najbardziej uroczyste spotkania biznesowe."
+      },
+      {
+        "q": "Czy będzie wygodnie w dopasowanej spódnicy?",
+        "a": "Obecność 4% elastanu w składzie tkaniny oraz przemyślane rozcięcie z tyłu gwarantują nienaganne dopasowanie do figury bez krępowania ruchów przez cały wieczór."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Мереживний верх виглядає занадто делікатним для носіння.",
+        "a": "Використання високоякісних синтетичних волокон у складі мережива (53% поліестер) забезпечує необхідну міцність та збереження форми, при цьому візуально воно залишається повітряним і кутюрним."
+      },
+      {
+        "q": "Довжина до середини литки може візуально зменшувати зріст.",
+        "a": "Прямий крій спідниці та висока лінія талії, підкреслена поясом, навпаки, створюють струнку вертикаль. Ми рекомендуємо поєднувати цю сукню з нашими класичними човниками або сандалями на підборах Udita."
+      },
+      {
+        "q": "Чорний колір може виглядати занадто офіційно.",
+        "a": "Глибокий чорний колір 'Nero' у цій моделі пом'якшений грою фактур і делікатним просвічуванням мережива на рукавах, що додає образу жіночності та загадковості."
+      },
+      {
+        "q": "Сукня здається тільки святковою.",
+        "a": "Завдяки лаконічному дизайну спідниці з вовни, при доповненні образу суворим жакетом, ця сукня може бути адаптована для найбільш урочистих ділових зустрічей."
+      },
+      {
+        "q": "Чи буде комфортно в облягаючій спідниці?",
+        "a": "Наявність 4% еластану у складі тканини та продуманий розріз ззаду гарантують бездоганну посадку по фігурі без скутості рухів протягом усього вечора."
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "id": 333,
+  "name": "Spareggio",
+  "description": {
+    "en": "This luxurious Spareggio jacket from Luisa Spagnoli is a contemporary reading of military style, reimagined through the lens of high Italian fashion. Crafted from 100% high-quality natural leather with a pronounced grain texture, lending the piece a noble appearance and lasting durability. The architectural double-breasted cut is accentuated by exquisite tone-matched leather-covered buttons, while raglan sleeves ensure unparalleled comfort and softness in the shoulder line. The piece's key feature is an integrated waist drawcord, allowing the silhouette to be instantly transformed from a relaxed 'boxy' shape into an elegantly fitted one, underscoring the femininity of the look.",
+    "ru": "Эта роскошная куртка Spareggio от Luisa Spagnoli является воплощением современной интерпретации стиля милитари, переосмысленной в ключе высокой итальянской моды. Модель выполнена из 100% натуральной высококачественной кожи с выраженной зернистой фактурой, что придает изделию благородный вид и долговечность. Архитектурный двубортный крой подчеркнут изысканными пуговицами, обтянутыми кожей в тон, а рукава реглан обеспечивают непревзойденный комфорт и мягкость линий плеча. Главная особенность модели — интегрированная кулиска на талии, позволяющая мгновенно трансформировать силуэт из свободного 'boxy' в элегантно приталенный, подчеркивая женственность образа.",
+    "ar": "تعد هذه السترة الفاخرة Spareggio من Luisa Spagnoli تجسيداً للتفسير المعاصر للنمط العسكري، المعاد صياغته بروح الأزياء الإيطالية الراقية. صُمم الموديل من جلد طبيعي عالي الجودة بنسبة 100% ذي ملمس محبب واضح، مما يضفي على القطعة مظهراً نبيلاً ومتانة استثنائية. يبرز التصميم المعماري مزدوج الصدر بأزرار رائعة مغطاة بنفس الجلد، بينما توفر أكمام الرجلان راحة لا تضاهى ونعومة في خطوط الأكتاف. الميزة الرئيسية للموديل هي الرباط المدمج عند الخصر، والذي يسمح بتحويل القصة فوراً من النمط الفضفاض 'boxy' إلى قصة أنيقة ومحددة للخصر، مما يبرز أنوثة المظهر.",
+    "ka": "Luisa Spagnoli-ის ეს მდიდრული куртка Spareggio წარმოადგენს სამხედრო სტილის თანამედროვე ინტერპრეტაციას, რომელიც გადააზრებულია მაღალი იტალიური მოდის ჭრილში. მოდელი დამზადებულია 100% ნატურალური, მაღალი ხარისხის, გამოკვეთილი მარცვლოვანი ფაქტურის ტყავისგან, რაც ნაკეთობას აძლევს დახვეწილ იერსა და გამძლეობას. არქიტექტურული ორბორტიანი ჭრილი ხაზგასმულია ტყავით შებმული ტონში გადაწყვეტილი ღილებით, ხოლო რეგლანის სახელოები უზრუნველყოფს უბადლო კომფორტს და მხრის ხაზის სირბილეს. მოდელის მთავარი თავისებურებაა წელზე დატანებული კულიშა, რომელიც საშუალებას იძლევა მყისიერად გარდაიქმნას სილუეტი თავისუფალი 'boxy'-დან ელეგანტურად შემოტმასნილამდე, რაც ხაზს უსვამს იმიჯის ქალურობას.",
+    "hy": "Luisa Spagnoli-ի այս շքեղ Spareggio բաճկոնը ռազմական ոճի ժամանակակից մեկնաբանության մարմնացումն է՝ վերաիմաստավորված իտալական բարձր նորաձևության տեսանկյունից։ Մոդելը պատրաստված է 100% բնական, բարձրորակ կաշվից՝ արտահայտիչ հատիկավոր հյուսվածքով, ինչը արտադրանքին հաղորդում է ազնվական տեսք և երկարակեցություն։ Ճարտարապետական կրկնակի կոճկվող ձևվածքն ընդգծված է կաշվով պատված նրբագեղ կոճակներով, իսկ ռեգլան թևերը ապահովում են անզուգական հարմարավետություն և ուսագծի փափկություն։ Մոդելի գլխավոր առանձնահատկությունը իրանի հատվածում ներկառուցված կուլիսկան է, որը թույլ է տալիս ակնթարթորեն փոխակերպել ուրվագիծը ազատ 'boxy' ոճից դեպի նրբագեղ ընդգծված իրան՝ շեշտելով կերպարի կանացիությունը։",
+    "lv": "Šī greznā Spareggio jaka no Luisa Spagnoli ir mūsdienīgas militārā stila interpretācijas iemiesojums, kas pārdomāts augstās itāļu modes atslēgā. Modelis ir izgatavots no 100% dabīgas augstas kvalitātes ādas ar izteiktu graudainu faktūru, kas piešķir izstrādājumam cēlu izskatu un izturību. Arhitektonisko divrindu piegriezumu izceļ izsmalcinātas, ar ādu apvilktas pogas tonī, bet reglana piedurknes nodrošina nepārspējamu komfortu un plecu līnijas mīkstumu. Galvenā modeļa īpatnība ir integrētā savelkamā aukla viduklī, kas ļauj acumirklī pārveidot siluetu no brīva 'boxy' uz eleganti piegulošu, izceļot tēla sievišķību.",
+    "lt": "Ši prabangi Spareggio striukė iš Luisa Spagnoli yra modernios karinio stiliaus interpretacijos įsikūnijimas, permąstytas aukštosios italų mados dvasia. Modelis pagamintas iš 100% natūralios aukščiausios kokybės odos su ryškia grūdėta faktūra, suteikiančia gaminiui kilnią išvaizdą ir ilgaamžiškumą. Architektūrinis dvieilis kirpimas pabrėžtas rafinuotomis, oda aptrauktomis sagomis tonas į toną, o reglaninės rankovės užtikrina neprilygstamą komfortą ir minkštas pečių linijas. Pagrindinė modelio ypatybė — integruota virvelė ties juosmeniu, leidžianti akimirksniu transformuoti siluetą iš laisvo 'boxy' į elegantiškai įliemenuotą, pabrėžiant įvaizdžio moteriškumą.",
+    "pl": "Ta luksusowa kurtka Spareggio od Luisa Spagnoli jest ucieleśnieniem nowoczesnej interpretacji stylu militarnego, przedstawionego w duchu wysokiej włoskiej mody. Model wykonany jest w 100% z naturalnej skóry wysokiej jakości o wyraźnie ziarnistej fakturze, co nadaje wyrobowi szlachetny wygląd i trwałość. Architektoniczny, dwurzędowy krój podkreślają wykwintne guziki obciągnięte skórą w tym samym odcieniu, a rękawy typu reglan zapewniają niezrównany komfort i miękkość linii ramion. Główną cechą modelu jest zintegrowany sznurek w talii, pozwalający natychmiast przekształcić sylwetkę z luźnej typu 'boxy' w elegancko dopasowaną, podkreślając kobiecość stylizacji.",
+    "uk": "Ця розкішна куртка Spareggio від Luisa Spagnoli є втіленням сучасної інтерпретації стилю мілітарі, переосмисленої в ключі високої італійської моди. Модель виконана зі 100% натуральної високоякісної шкіри з вираженою зернистою фактурою, що надає виробу благородного вигляду та довговічності. Архітектурний двобортний крій підкреслений вишуканими ґудзиками, обтягнутими шкірою в тон, а рукави реглан забезпечують неперевершений комфорт і м'якість ліній плеча. Головна особливість моделі — інтегрована куліска на талії, що дозволяє миттєво трансформувати силует із вільного 'boxy' в елегантно приталений, підкреслюючи жіночність образу."
+  },
+  "colors": [
+    {
+      "name": "Marrone",
+      "code": "0996",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2NiFlQdATsqtiyLCjMWh9Q_1848836899696f42fd755c70_44100840_02821130XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 'Urban Safari' (Look 48)",
+        "en": "Total Look 'Urban Safari' (Look 48)",
+        "ar": "Total Look 'Urban Safari' (Look 48)",
+        "ka": "Total Look 'Urban Safari' (Look 48)",
+        "hy": "Total Look 'Urban Safari' (Look 48)",
+        "lv": "Total Look 'Urban Safari' (Look 48)",
+        "lt": "Total Look 'Urban Safari' (Look 48)",
+        "pl": "Total Look 'Urban Safari' (Look 48)",
+        "uk": "Total Look 'Urban Safari' (Look 48)"
+      },
+      "text": {
+        "ru": "Куртка Spareggio 0996 в эффектном сочетании с пуловером Magnesite 3568 и кожаной юбкой Fidente 0996 для создания текстурного монохромного ансамбля.",
+        "en": "Spareggio 0996 jacket in a striking combination with the Magnesite 3568 pullover and Fidente 0996 leather skirt to create a textured monochromatic ensemble.",
+        "ar": "Spareggio 0996 jacket in a striking combination with the Magnesite 3568 pullover and Fidente 0996 leather skirt to create a textured monochromatic ensemble.",
+        "ka": "Spareggio 0996 jacket in a striking combination with the Magnesite 3568 pullover and Fidente 0996 leather skirt to create a textured monochromatic ensemble.",
+        "hy": "Spareggio 0996 jacket in a striking combination with the Magnesite 3568 pullover and Fidente 0996 leather skirt to create a textured monochromatic ensemble.",
+        "lv": "Spareggio 0996 jacket in a striking combination with the Magnesite 3568 pullover and Fidente 0996 leather skirt to create a textured monochromatic ensemble.",
+        "lt": "Spareggio 0996 jacket in a striking combination with the Magnesite 3568 pullover and Fidente 0996 leather skirt to create a textured monochromatic ensemble.",
+        "pl": "Spareggio 0996 jacket in a striking combination with the Magnesite 3568 pullover and Fidente 0996 leather skirt to create a textured monochromatic ensemble.",
+        "uk": "Spareggio 0996 jacket in a striking combination with the Magnesite 3568 pullover and Fidente 0996 leather skirt to create a textured monochromatic ensemble."
+      },
+      "items": [
+        {
+          "name": "Spareggio",
+          "code": "0996",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2NiFlQdATsqtiyLCjMWh9Q_1848836899696f42fd755c70_44100840_02821130XX1.jpg"
+        },
+        {
+          "name": "Magnesite",
+          "code": "3568",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281025%29.png",
+          "modelId": 138
+        },
+        {
+          "name": "Fidente",
+          "code": "0996",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8yyxLDhfQoGPfXSuzRNYIA_109176338691c57c742f5e1_48030380_02780360XX1.jpg",
+          "modelId": 47
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 'Contemporary Heritage' (Look 49)",
+        "en": "Total Look 'Contemporary Heritage' (Look 49)",
+        "ar": "Total Look 'Contemporary Heritage' (Look 49)",
+        "ka": "Total Look 'Contemporary Heritage' (Look 49)",
+        "hy": "Total Look 'Contemporary Heritage' (Look 49)",
+        "lv": "Total Look 'Contemporary Heritage' (Look 49)",
+        "lt": "Total Look 'Contemporary Heritage' (Look 49)",
+        "pl": "Total Look 'Contemporary Heritage' (Look 49)",
+        "uk": "Total Look 'Contemporary Heritage' (Look 49)"
+      },
+      "text": {
+        "ru": "Комбинация Spareggio 0996 с классической рубашкой Liceali 3200 и строгими брюками Odini 1789.",
+        "en": "Spareggio 0996 combination with a classic Liceali 3200 shirt and tailored Odini 1789 trousers.",
+        "ar": "Spareggio 0996 combination with a classic Liceali 3200 shirt and tailored Odini 1789 trousers.",
+        "ka": "Spareggio 0996 combination with a classic Liceali 3200 shirt and tailored Odini 1789 trousers.",
+        "hy": "Spareggio 0996 combination with a classic Liceali 3200 shirt and tailored Odini 1789 trousers.",
+        "lv": "Spareggio 0996 combination with a classic Liceali 3200 shirt and tailored Odini 1789 trousers.",
+        "lt": "Spareggio 0996 combination with a classic Liceali 3200 shirt and tailored Odini 1789 trousers.",
+        "pl": "Spareggio 0996 combination with a classic Liceali 3200 shirt and tailored Odini 1789 trousers.",
+        "uk": "Spareggio 0996 combination with a classic Liceali 3200 shirt and tailored Odini 1789 trousers."
+      },
+      "items": [
+        {
+          "name": "Spareggio",
+          "code": "0996",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2NiFlQdATsqtiyLCjMWh9Q_1848836899696f42fd755c70_44100840_02821130XX1.jpg"
+        },
+        {
+          "name": "Liceali",
+          "code": "3200",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/S82WH97wQzu4sRcO5wWaUQ_2103315294696f4306d83529_32198325_02821400XX1.jpg"
+        },
+        {
+          "name": "Odini",
+          "code": "1789",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg",
+          "modelId": 451
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 'Casual Luxury' (Look 47)",
+        "en": "Total Look 'Casual Luxury' (Look 47)",
+        "ar": "Total Look 'Casual Luxury' (Look 47)",
+        "ka": "Total Look 'Casual Luxury' (Look 47)",
+        "hy": "Total Look 'Casual Luxury' (Look 47)",
+        "lv": "Total Look 'Casual Luxury' (Look 47)",
+        "lt": "Total Look 'Casual Luxury' (Look 47)",
+        "pl": "Total Look 'Casual Luxury' (Look 47)",
+        "uk": "Total Look 'Casual Luxury' (Look 47)"
+      },
+      "text": {
+        "ru": "Куртка Spareggio 0996 поверх пуловера Cremona 3349 в паре с юбкой Formazione 0996.",
+        "en": "Spareggio 0996 jacket over a Cremona 3349 pullover paired with a Formazione 0996 skirt (Data not available in official sources).",
+        "ar": "Spareggio 0996 jacket over a Cremona 3349 pullover paired with a Formazione 0996 skirt (Data not available in official sources).",
+        "ka": "Spareggio 0996 jacket over a Cremona 3349 pullover paired with a Formazione 0996 skirt (Data not available in official sources).",
+        "hy": "Spareggio 0996 jacket over a Cremona 3349 pullover paired with a Formazione 0996 skirt (Data not available in official sources).",
+        "lv": "Spareggio 0996 jacket over a Cremona 3349 pullover paired with a Formazione 0996 skirt (Data not available in official sources).",
+        "lt": "Spareggio 0996 jacket over a Cremona 3349 pullover paired with a Formazione 0996 skirt (Data not available in official sources).",
+        "pl": "Spareggio 0996 jacket over a Cremona 3349 pullover paired with a Formazione 0996 skirt (Data not available in official sources).",
+        "uk": "Spareggio 0996 jacket over a Cremona 3349 pullover paired with a Formazione 0996 skirt (Data not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Spareggio",
+          "code": "0996",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2NiFlQdATsqtiyLCjMWh9Q_1848836899696f42fd755c70_44100840_02821130XX1.jpg"
+        },
+        {
+          "name": "Cremona",
+          "code": "3349",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eDNHV1c0RjWSZGmKSRYFrg_608445424696f436c3f19c0_12821392_02830820XX1.jpg",
+          "modelId": 15
+        },
+        {
+          "name": "Formazione",
+          "code": "0996",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the model's versatility: thanks to the adjustable waist drawstring, Spareggio adapts to any figure, allowing for both relaxed and more structured looks.",
+      "Highlight the status of the material — the use of natural grain-textured leather places this model among the wardrobe's investment pieces, which only grow more beautiful with age.",
+      "Recommend pairing different leather textures (as shown in Look 48) to showcase the season's key trend of layering and textural play."
+    ],
+    "ru": [
+      "Сделайте акцент на универсальности модели: благодаря регулируемой кулиске на талии, Spareggio адаптируется под любой тип фигуры, позволяя создавать как расслабленные, так и более структурированные образы.",
+      "Подчеркните статусность материала — использование натуральной кожи с зернистой фактурой ставит эту модель в разряд инвестиционных вещей гардероба, которые с годами выглядят только лучше.",
+      "Рекомендуйте сочетание кожи разной фактуры (как в Look 48), чтобы продемонстрировать актуальный тренд на многослойность и игру материалов."
+    ],
+    "ar": [
+      "ركزي على تعدد استخدامات هذا التصميم: فبفضل رباط الخصر القابل للتعديل، يتكيف موديل Spareggio مع أي شكل للجسم، مما يتيح لكِ ابتكار إطلالات تتراوح بين العصرية المريحة والأناقة الأكثر رسمية.",
+      "أبرزي فخامة الخامة؛ فاستخدام الجلد الطبيعي ذو الملمس المحبب يجعل من هذه القطعة استثماراً ذكياً في خزانة ملابسك تزداد جمالاً مع مرور السنين.",
+      "ننصحكِ بتنسيق خامات جلدية مختلفة (كما في Look 48) لتسليط الضوء على اتجاه تنسيق الطبقات الرائج واللعب بتنوع الأنسجة."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება მოდელის უნივერსალურობაზე: წელის არეში რეგულირებადი კულისის წყალობით, Spareggio ერგება ფიგურის ნებისმიერ ტიპს, რაც საშუალებას გაძლევთ შექმნათ როგორც თავისუფალი, ისე უფრო სტრუქტურირებული ლუქები.",
+      "ხაზი გაუსვით მასალის სტატუსს — მარცვლოვანი ფაქტურის ნატურალური ტყავის გამოყენება ამ მოდელს გარდერობის საინვესტიციო ნივთების კატეგორიაში ათავსებს, რომლებიც წლების განმავლობაში მხოლოდ უმჯობესდება.",
+      "რეკომენდაცია გაუწიეთ სხვადასხვა ფაქტურის ტყავის კომბინაციას (როგორც Look 48-ში), რათა წარმოაჩინოთ მრავალფენიანი სტილისა და მასალების თამაშის აქტუალური ტრენდი."
+    ],
+    "hy": [
+      "Շեշտադրեք մոդելի բազմակողմանիությունը. գոտկատեղի կարգավորվող կուլիսկայի շնորհիվ Spareggio-ն հարմարվում է ցանկացած տիպի կազմվածքի՝ հնարավորություն տալով ստեղծել ինչպես ազատ, այնպես էլ ավելի կառուցվածքային կերպարներ։",
+      "Ընդգծեք նյութի բարձրակարգությունը՝ հատիկավոր հյուսվածքով բնական կաշվի օգտագործումն այս մոդելը դասում է զգեստապահարանի այն ներդրումային իրերի շարքին, որոնք տարիների ընթացքում միայն ավելի գեղեցիկ տեսք են ստանում։",
+      "Առաջարկեք տարբեր հյուսվածքների կաշվի համադրություն (ինչպես Look 48-ում), որպեսզի ցուցադրեք շերտավորման և նյութերի խաղի արդիական միտումը։"
+    ],
+    "lv": [
+      "Vērsiet uzmanību modeļa daudzpusībai: pateicoties regulējamai savelkamai auklai jostasvietā, Spareggio pielāgojas jebkuram figūras tipam, ļaujot radīt gan nepiespiestus, gan strukturētākus tēlus.",
+      "Uzsveriet materiāla statusu — dabīgās ādas izmantošana ar graudainu tekstūru ierindo šo modeli investīciju vērto garderobes priekšmetu kategorijā, kuri ar gadiem izskatās tikai labāk.",
+      "Iesakiet dažādu tekstūru ādas kombināciju (kā Look 48), lai demonstrētu aktuālo slāņošanas un materiālu spēles tendenci."
+    ],
+    "lt": [
+      "Pabrėžkite modelio universalumą: dėl reguliuojamo raištelio ties liemeniu, Spareggio prisitaiko prie bet kokio figūros tipo, leisdamas kurti tiek laisvus, tiek labiau struktūruotus įvaizdžius.",
+      "Akcentuokite medžiagos statusą — natūralios grūdėtos faktūros odos naudojimas priskiria šį modelį prie investicinių garderobo elementų, kurie bėgant metams atrodo tik geriau.",
+      "Rekomenduokite derinti skirtingų faktūrų odą (kaip Look 48), kad pademonstruotumėte aktualią daugiasluoksniškumo ir medžiagų žaismo tendenciją."
+    ],
+    "pl": [
+      "Połóż akcent na uniwersalność modelu: dzięki regulowanemu sznurkowi w talii, Spareggio dopasowuje się do każdego typu sylwetki, pozwalając na tworzenie zarówno swobodnych, jak i bardziej strukturalnych stylizacji.",
+      "Podkreśl prestiżowy charakter materiału — zastosowanie naturalnej skóry o ziarnistej fakturze sprawia, że model ten należy do inwestycyjnych elementów garderoby, które z biegiem lat wyglądają tylko lepiej.",
+      "Rekomenduj łączenie skór o różnej fakturze (jak w Look 48), aby zaprezentować aktualny trend na wielowarstwowość i grę materiałów."
+    ],
+    "uk": [
+      "Зробіть акцент на універсальності моделі: завдяки регульованій кулісці на талії, Spareggio адаптується під будь-який тип фігури, дозволяючи створювати як розслаблені, так і більш структуровані образи.",
+      "Підкресліть статусність матеріалу — використання натуральної шкіри із зернистою фактурою ставить цю модель у розряд інвестиційних речей гардероба, які з роками виглядають тільки краще.",
+      "Рекомендуйте поєднання шкіри різної фактури (як у Look 48), щоб продемонструвати актуальний тренд на багатошаровість та гру матеріалів."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "I feel the leather jacket may be too heavy.",
+        "a": "Clarify that the raglan sleeve cut distributes weight evenly across the shoulders, while the softness of the leather ensures ease and freedom of movement."
+      },
+      {
+        "q": "The double-breasted cut visually widens the figure.",
+        "a": "Demonstrate how the waist drawstring works: it instantly removes excess volume, creating a clean, feminine silhouette."
+      },
+      {
+        "q": "Brown shade 0996 is difficult to pair with other tones.",
+        "a": "Show Look 49, where this noble shade harmonizes with the pastel palette of the Liceali shirt, becoming a neutral, stylish base."
+      },
+      {
+        "q": "Leather requires overly complex care.",
+        "a": "This model's grained texture is exceptionally resistant to minor scratches and abrasions, making Spareggio the ideal choice for an active city life."
+      },
+      {
+        "q": "This style looks too sporty for a classic wardrobe.",
+        "a": "Point out the details: the leather-covered buttons and welt pockets lend the jacket an aristocratic feel, allowing it to be worn even with the classic Odini trousers."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Мне кажется, кожаная куртка может быть слишком тяжелой.",
+        "a": "Уточните, что крой рукава реглан оптимально распределяет нагрузку на плечи, а мягкость выделки гарантирует легкость и свободу движений."
+      },
+      {
+        "q": "Двубортный крой визуально расширяет фигуру.",
+        "a": "Продемонстрируйте работу кулиски на талии: она мгновенно убирает лишний объем, создавая четкий женственный силуэт."
+      },
+      {
+        "q": "Коричневый цвет 0996 сложно сочетать с другими оттенками.",
+        "a": "Покажите Look 49, где этот благородный оттенок гармонирует с пастельной гаммой рубашки Liceali, становясь нейтральной и стильной базой."
+      },
+      {
+        "q": "Кожа требует слишком сложного ухода.",
+        "a": "Зернистая фактура этой модели чрезвычайно устойчива к мелким царапинам и повреждениям, что делает Spareggio идеальным выбором для активной городской жизни."
+      },
+      {
+        "q": "Этот фасон выглядит слишком спортивно для классического гардероба.",
+        "a": "Обратите внимание на детали: пуговицы, обтянутые кожей, и прорезные карманы придают куртке аристократичный вид, позволяя носить её даже с классическими брюками Odini."
+      }
+    ],
+    "ar": [
+      {
+        "q": "أشعر أن السترة الجلدية قد تكون ثقيلة جداً.",
+        "a": "وضحي أن تصميم الأكمام بنمط \"الراجلان\" يوزع الثقل بشكل مثالي على الكتفين، وأن نعومة المعالجة تضمن الخفة وحرية الحركة."
+      },
+      {
+        "q": "القصة مزدوجة الصدر توسع القوام بصرياً.",
+        "a": "استعرضي وظيفة رباط الخصر: فهو يزيل الحجم الزائد فوراً، مما يخلق صورة ظلية أنثوية دقيقة."
+      },
+      {
+        "q": "اللون البني 0996 يصعب تنسيقه مع درجات أخرى.",
+        "a": "اعرضي Look 49، حيث تتناغم هذه الدرجة النبيلة مع لوحة الألوان الباستيل لقميص Liceali، لتصبح أساساً محايداً وأنيقاً."
+      },
+      {
+        "q": "الجلد يتطلب عناية معقدة للغاية.",
+        "a": "القوام الحبيبي لهذا الطراز مقاوم للغاية للخدوش البسيطة والتلف، مما يجعل Spareggio الخيار المثالي لحياة المدينة النشطة."
+      },
+      {
+        "q": "هذا التصميم يبدو رياضياً أكثر من اللازم لخزانة الملابس الكلاسيكية.",
+        "a": "انتبهي إلى التفاصيل: الأزرار المغطاة بالجلد والجيوب المائلة تضفي على السترة مظهراً أرستقراطياً، مما يسمح بارتدائها حتى مع سراويل Odini الكلاسيكية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მგონი, ტყავის ქურთუკი შესაძლოა ზედმეტად მძიმე იყოს.",
+        "a": "დააკონკრეტეთ, რომ რეგლანის სახელოს კრაკი მხრებზე დატვირთვას ოპტიმალურად ანაწილებს, ხოლო დამუშავების სიმსუბუქე უზრუნველყოფს სიმსუბუქესა და მოძრაობის თავისუფლებას."
+      },
+      {
+        "q": "ორბორტიანი კრაკი ვიზუალურად აფართოებს ფიგურას.",
+        "a": "აჩვენეთ წელზე არსებული კულირის მუშაობა: ის მყისიერად აქრობს ზედმეტ მოცულობას და ქმნის მკაფიო, ქალურ სილუეტს."
+      },
+      {
+        "q": "ყავისფერი 0996 სხვა ტონებთან შეხამება რთულია.",
+        "a": "აჩვენეთ Look 49, სადაც ეს კეთილშობილური ტონი ჰარმონიაშია Liceali-ს პერანგის პასტელურ გამასთან და იქცევა ნეიტრალურ და სტილურ ბაზად."
+      },
+      {
+        "q": "ტყავი მოითხოვს ზედმეტად რთულ მოვლას.",
+        "a": "ამ მოდელის მარცვლოვანი ფაქტურა უკიდურესად მდგრადია წვრილი ნაკაწრებისა და დაზიანებების მიმართ, რაც Spareggio-ს აქტიური საქალაქო ცხოვრებისთვის იდეალურ არჩევანად აქცევს."
+      },
+      {
+        "q": "ეს ფასონი ზედმეტად სპორტულად გამოიყურება კლასიკური გარდერობისთვის.",
+        "a": "ყურადღება მიაქციეთ დეტალებს: ტყავით შემოსილი ღილები და ჭრილიანი ჯიბეები ქურთუკს არისტოკრატულ იერს ანიჭებს, რაც საშუალებას იძლევა ატაროთ ის თუნდაც კლასიკურ Odini-ს შარვალთან."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կարծում եմ՝ կաշվե բաճկոնը կարող է շատ ծանր լինել։",
+        "a": "Պարզաբանեք, որ ռեգլան թևքի կտրվածքն օպտիմալ կերպով բաշխում է ծանրաբեռնվածությունը ուսերին, իսկ մշակման փափկությունը երաշխավորում է թեթևություն և շարժումների ազատություն։"
+      },
+      {
+        "q": "Երկկողմանի կտրվածքը տեսողականորեն լայնացնում է կազմվածքը։",
+        "a": "Ցույց տվեք գոտկատեղի քուղի աշխատանքը. այն ակնթարթորեն հեռացնում է ավելորդ ծավալը՝ ստեղծելով հստակ, կանացի ուրվագիծ։"
+      },
+      {
+        "q": "0996 շագանակագույնը դժվար է համադրել այլ երանգների հետ։",
+        "a": "Ցույց տվեք Look 49-ը, որտեղ այս ազնվական երանգը ներդաշնակում է Liceali վերնաշապիկի պաստելային գամմային ՝ դառնալով չեզոք և նորաձև բազա։"
+      },
+      {
+        "q": "Կաշին պահանջում է շատ բարդ խնամք։",
+        "a": "Այս մոդելի հատիկավոր հյուսվածքը չափազանց դիմացկուն է մանր քերծվածքների և վնասվածքների նկատմամբ, ինչը Spareggio-ն դարձնում է իդեալական ընտրություն քաղաքային ակտիվ կյանքի համար։"
+      },
+      {
+        "q": "Այս ֆասոնը չափազանց սպորտային է դասական զգեստապահարանի համար։",
+        "a": "Ուշադրություն դարձրեք մանրուքներին. կաշվով պատված կոճակները և ներկարված գրպանները բաճկոնին հաղորդում են արիստոկրատ տեսք՝ թույլ տալով այն կրել նույնիսկ Odini դասական տաբատների հետ"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Man šķiet, ka ādas jaka var būt pārāk smaga.",
+        "a": "Precizējiet, ka reglāna piedurkņu piegriezums optimāli sadala slodzi uz pleciem, bet ādas apstrādes mīkstums garantē vieglumu un kustību brīvību."
+      },
+      {
+        "q": "Divrindu aizdare vizuāli paplašina figūru.",
+        "a": "Demonstrējiet jostasvietas savelkamās auklas darbību: tā acumirklī noņem lieko apjomu, veidojot skaidru un sievišķīgu siluetu."
+      },
+      {
+        "q": "Brūnā krāsa 0996 ir grūti kombinējama ar citiem toņiem.",
+        "a": "Parādiet Look 49, kur šis cēlais tonis harmonizē ar Liceali krekla pasteļtoņu gammu, kļūstot par neitrālu un stilīgu pamatu."
+      },
+      {
+        "q": "Āda prasa pārāk sarežģītu kopšanu.",
+        "a": "Šī modeļa graudainā faktūra ir ārkārtīgi noturīga pret sīkiem skrāpējumiem un bojājumiem, kas padara Spareggio par ideālu izvēli aktīvai pilsētas dzīvei."
+      },
+      {
+        "q": "Šis fasons izskatās pārāk sportisks klasiskai garderobei.",
+        "a": "Pievērsiet uzmanību detaļām: ar ādu apvilktās pogas un iegrieztās kabatas piešķir jakai aristokrātisku izskatu, ļaujot to nēsāt pat ar klasiskajām Odini biksēm."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Мне кажется, кожаная куртка может быть слишком тяжелой.",
+        "a": "Уточните, что крой рукава реглан оптимально распределяет нагрузку на плечи, а мягкость выделки гарантирует легкость и свободу движений."
+      },
+      {
+        "q": "Двубортный крой визуально расширяет фигуру.",
+        "a": "Продемонстрируйте работу кулиски на талии: она мгновенно убирает лишний объем, создавая четкий женственный силуэт."
+      },
+      {
+        "q": "Коричневый цвет 0996 сложно сочетать с другими оттенками.",
+        "a": "Покажите Look 49, где этот благородный оттенок гармонирует с пастельной гаммой рубашки Liceali, становясь нейтральной и стильной базой."
+      },
+      {
+        "q": "Кожа требует слишком сложного ухода.",
+        "a": "Зернистая фактура этой модели чрезвычайно устойчива к мелким царапинам и повреждениям, что делает Spareggio идеальным выбором для активной городской жизни."
+      },
+      {
+        "q": "Этот фасон выглядит слишком спортивно для классического гардероба.",
+        "a": "Обратите внимание на детали: пуговицы, обтянутые кожей, и прорезные карманы придают куртке аристократичный вид, позволяя носить её даже с классическими брюками Odini."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wydaje mi się, że skórzana kurtka może być zbyt ciężka.",
+        "a": "Wyjaśnij, że krój rękawa typu reglan optymalnie rozkłada obciążenie na ramiona, a miękkość wyprawy gwarantuje lekkość i swobodę ruchów."
+      },
+      {
+        "q": "Dwurzędowy krój optycznie poszerza sylwetkę.",
+        "a": "Zaprezentuj działanie ściągacza w talii: natychmiast niweluje on zbędną objętość, tworząc wyraźną, kobiecą sylwetkę."
+      },
+      {
+        "q": "Brązowy kolor 0996 jest trudny do łączenia z innymi odcieniami.",
+        "a": "Pokaż Look 49, gdzie ten szlachetny odcień harmonizuje z pastelową paletą koszuli Liceali, stając się neutralną i stylową bazą."
+      },
+      {
+        "q": "Skóra wymaga zbyt trudnej pielęgnacji.",
+        "a": "Ziarnista faktura tego modelu jest niezwykle odporna na drobne zadrapania i uszkodzenia, co czyni Spareggio idealnym wyborem dla aktywnego miejskiego stylu życia."
+      },
+      {
+        "q": "Ten fason wygląda zbyt sportowo jak na klasyczną garderobę.",
+        "a": "Zwróć uwagę na detale: guziki obszyte skórą oraz wpuszczane kieszenie nadają kurtce arystokratyczny wygląd, pozwalając nosić ją nawet z klasycznymi spodniami Odini."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Мені здається, шкіряна куртка може бути занадто важкою.",
+        "a": "Уточніть, що крій рукава реглан оптимально розподіляє навантаження на плечі, а м'якість вичинки гарантує легкість і свободу рухів."
+      },
+      {
+        "q": "Двобортний крій візуально розширює фігуру.",
+        "a": "Продемонструйте роботу куліски на талії: вона миттєво прибирає зайвий об'єм, створюючи чіткий жіночний силует."
+      },
+      {
+        "q": "Коричневий колір 0996 складно поєднувати з іншими відтінками.",
+        "a": "Покажіть Look 49, де цей благородний відтінок гармоніює з пастельною гамою сорочки Liceali, стаючи нейтральною і стильною базою."
+      },
+      {
+        "q": "Шкіра вимагає занадто складного догляду.",
+        "a": "Зерниста фактура цієї моделі надзвичайно стійка до дрібних подряпин і пошкоджень, що робить Spareggio ідеальним вибором для активного міського життя."
+      },
+      {
+        "q": "Цей фасон виглядає занадто спортивно для класичного гардероба.",
+        "a": "Зверніть увагу на деталі: ґудзики, обтягнуті шкірою, і прорізні кишені надають куртці аристократичного вигляду, дозволяючи носити її навіть із класичними брюками Odini."
+      }
+    ]
+  }
+}

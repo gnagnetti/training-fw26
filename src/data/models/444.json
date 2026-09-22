@@ -1,0 +1,546 @@
+{
+  "id": 444,
+  "name": "Messier",
+  "description": {
+    "en": "The Messier pullover is a triumph of architectural knitwear and tactile luxury, created for the true connoisseurs of the Luisa Spagnoli DNA. Crafted from noble pure virgin wool (pura lana vergine), whose natural softness is elevated to its fullest through a unique weave: an irregularly stepped flat-rib knit (coste piatte dall'andamento irregolare) creates a living, vibrant texture across the fabric. The classic dolcevita collar lends the look an intellectual discipline, masterfully balanced by the artistic volume of balloon sleeves (maniche bombate). The flawless Regular fit makes this pullover not merely a basic staple, but a standalone art object of the winter wardrobe, uniting comfort with high fashion.",
+    "ru": "Пуловер Messier --- это торжество архитектурного трикотажа и тактильной роскоши, созданное для истинных ценителей ДНК Luisa Spagnoli. Модель выполнена из благородной чистой девственной шерсти (pura lana vergine), чья природная мягкость возведена в абсолют благодаря уникальному переплетению: плоский рубчик с нерегулярным шагом (coste piatte dall\\'andamento irregolare) создает на полотне живую, вибрирующую фактуру. Классический воротник dolcevita придает образу интеллектуальную строгость, которая виртуозно уравновешивается артистичным объемом рукавов-баллонов (maniche bombate). Безупречная регулярная посадка (vestibilità regular) делает этот пуловер не просто базовым элементом, а самостоятельным арт-объектом зимнего гардероба, объединяющим уют и высокую моду.",
+    "ar": "يُعد بلوفر Messier احتفاءً بالتريكو الهندسي والرفاهية الملموسة، وقد صُمم خصيصاً لمحبي جوهر هوية Luisa Spagnoli. صُنعت القطعة من الصوف البكر الخالص (pura lana vergine)، حيث تم تعزيز نعومتها الطبيعية بنمط حياكة فريد: الحياكة المضلعة المسطحة ذات الفواصل غير المنتظمة (coste piatte dall'andamento irregolare) التي تضفي على القماش ملمساً حيوياً ونابضاً. تضفي الياقة الكلاسيكية dolcevita طابعاً من الرصانة الفكرية، والتي توازن ببراعة مع الحجم الفني للأكمام المنفوخة (maniche bombate). وبفضل القصة المنتظمة (vestibilità regular)، لا يعد هذا البلوفر مجرد قطعة أساسية، بل قطعة فنية مستقلة في خزانة ملابس الشتاء، تجمع بين الدفء والأزياء الراقية.",
+    "ka": "Messier პულოვერი არის არქიტექტურული ტრიკოტაჟისა და ტაქტილური ფუფუნების ზეიმი, რომელიც შექმნილია Luisa Spagnoli-ის დნმ-ის ნამდვილი მცოდნეებისთვის. მოდელი შესრულებულია კეთილშობილი სუფთა ქალწულებრივი მატყლისგან (pura lana vergine), რომლის ბუნებრივი სირბილე აყვანილია აბსოლუტამდე უნიკალური გადაწნვის წყალობით: ბრტყელი ნეკნები არარეგულარული ნაბიჯით (coste piatte dall'andamento irregolare) ქსოვილზე ქმნის ცოცხალ, ვიბრირებად ფაქტურას. კლასიკური dolcevita საყელო ლუქს ანიჭებს ინტელექტუალურ სიმკაცრეს, რომელიც ვირტუოზულად ბალანსდება „ბალონის“ ტიპის სახელოების არტისტული მოცულობით (maniche bombate). უნაკლო რეგულარული მორგება (vestibilità regular) ამ პულოვერს აქცევს არა უბრალოდ ბაზისურ ელემენტად, არამედ ზამთრის გარდერობის დამოუკიდებელ არტ-ობიექტად, რომელიც აერთიანებს სიმყუდროვესა და მაღალ მოდას.",
+    "hy": "Messier պուլովերը ճարտարապետական տրիկոտաժի և տակտիլ շքեղության հաղթանակ է, որը ստեղծված է Luisa Spagnoli-ի ԴՆԹ-ի իսկական գիտակների համար։ Մոդելը կատարված է ազնվական մաքուր կուսական բրդից (pura lana vergine), որի բնական փափկությունն աբսոլյուտի է հասցված յուրահատուկ հյուսվածքի շնորհիվ՝ ոչ կանոնավոր քայլով հարթ կողավոր հյուսվածքը (coste piatte dall\\'andamento irregolare) կտավի վրա ստեղծում է կենդանի, վիբրացիոն հյուսվածք։ Դասական dolcevita օձիքը կերպարին հաղորդում է ինտելեկտուալ խստություն, որը վիրտուոզ կերպով հավասարակշռվում է բալոն-թևքերի արտիստիկ ծավալով (maniche bombate)։ Անթերի կանոնավոր նստվածքը (vestibilità regular) այս պուլովերը դարձնում է ոչ միայն բազային տարր, այլ ձմեռային զգեստապահարանի ինքնուրույն արտ-օբյեկտ, որը միավորում է հարմարավետությունն ու բարձր նորաձևությունը։",
+    "lv": "Puloveris Messier --- ir arhitektonisko adījumu un taktilas greznības svinības, kas radītas patiesiem Luisa Spagnoli DNS cienītājiem. Modelis ir izgatavots no cēlas tīras jaunvilnas (pura lana vergine), kuras dabīgais mīkstums ir pacelts absolūtā pakāpē, pateicoties unikālam pinumam: plakanais rievojums ar neregulāru soli (coste piatte dall'andamento irregolare) rada uz auduma dzīvu, vibrējošu faktūru. Klasiskā dolcevita apkakle piešķir tēlam intelektuālu stingrību, kuru virtuozā veidā līdzsvaro «balonu» piedurkņu (maniche bombate) mākslinieciskais apjoms. Nevainojama regulāra piegriezuma (vestibilità regular) padara šo puloveri ne tikai par bāzes elementu, bet par patstāvīgu ziemas garderobes mākslas objektu, kas apvieno mājīgumu un augsto modi.",
+    "lt": "Megztinis Messier --- tai architektūrinio trikotažo ir lytėjimo prabangos triumfas, sukurtas tikriems Luisa Spagnoli DNR vertintojams. Modelis pagamintas iš kilnios grynos vilnos (pura lana vergine), kurios natūralus švelnumas išaukštintas iki absoliuto dėka unikalaus mezgimo: plokščias briaunotas raštas su nereguliariu žingsniu (coste piatte dall'andamento irregolare) sukuria gyvą, vibruojančią faktūrą. Klasikinė dolcevita apykaklė suteikia įvaizdžiui intelektualaus griežtumo, kurį virtuoziškai subalansuoja meniškas baliono formos rankovių tūris (maniche bombate). Nepriekaištingas reguliarus prigludimas (vestibilità regular) paverčia šį megztinį ne tik baziniu elementu, bet ir savarankišku žiemos garderobo meno objektu, sujungiančiu jaukumą ir aukštąją madą.",
+    "pl": "Pulower Messier to triumf architektonicznej dzianiny i zmysłowego luksusu, stworzony dla prawdziwych koneserów DNA Luisa Spagnoli. Model wykonany ze szlachetnej czystej żywej wełny (pura lana vergine), której naturalna miękkość została wyniesiona do absolutu dzięki unikalnemu splotowi: płaski prążek o nieregularnym rytmie (coste piatte dall\\'andamento irregolare) tworzy na tkaninie żywą, wibrującą fakturę. Klasyczny kołnierz dolcevita nadaje wizerunkowi intelektualnej surowości, która jest wirtuozersko równoważona artystyczną objętością rękawów typu balon (maniche bombate). Nienaganny regularny krój (vestibilità regular) sprawia, że ten pulower jest nie tylko podstawowym elementem, ale samodzielnym obiektem artystycznym zimowej garderoby, łączącym przytulność i haute couture.",
+    "uk": "Пуловер Messier --- це торжество архітектурного трикотажу та тактильної розкоші, створене для справжніх поціновувачів ДНК Luisa Spagnoli. Модель виконана з благородної чистої дівочої вовни (pura lana vergine), чия природна м'якість зведена в абсолют завдяки унікальному переплетенню: плоский рубчик із нерегулярним кроком (coste piatte dall\\'andamento irregolare) створює на полотні живу, вібруючу фактуру. Класичний комір dolcevita надає образу інтелектуальної суворості, яка віртуозно врівноважується артистичним об'ємом рукавів-балонів (maniche bombate). Бездоганна регулярна посадка (vestibilità regular) робить цей пуловер не просто базовим елементом, а самостійним арт-об'єктом зимового гардероба, що поєднує затишок та високу моду."
+  },
+  "colors": [
+    {
+      "name": "Bordeaux",
+      "code": "2439",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1009101303691c5790f2b730_18424116_02790070XX1.jpg"
+    },
+    {
+      "name": "Senape",
+      "code": "1936",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/745495074691c5795177578_49121809_02790460XX1.jpg"
+    },
+    {
+      "name": "Verde Militare",
+      "code": "1736",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/601058410691c5794a8b9e5_88791406_02790450XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают многогранные решения для пуловера Messier, подчеркивающие его фактурность: Вариант 1936 ( Серый): В lookbook (Look 42, 51): монохромный интеллектуальный сет с вельветовыми брюками Ornago 1947, создающий игру разных фактур в одной тональности.",
+        "en": "The brand's stylists offer multifaceted solutions for the Messier pullover that highlight its texture: Option 1936 ( Grey): In lookbook (Look 42, 51): a monochrome intellectual set with Ornago 1947 corduroy trousers, creating a play of different textures in a single tone.",
+        "ar": "The brand's stylists offer multifaceted solutions for the Messier pullover that highlight its texture: Option 1936 ( Grey): In lookbook (Look 42, 51): a monochrome intellectual set with Ornago 1947 corduroy trousers, creating a play of different textures in a single tone.",
+        "ka": "The brand's stylists offer multifaceted solutions for the Messier pullover that highlight its texture: Option 1936 ( Grey): In lookbook (Look 42, 51): a monochrome intellectual set with Ornago 1947 corduroy trousers, creating a play of different textures in a single tone.",
+        "hy": "The brand's stylists offer multifaceted solutions for the Messier pullover that highlight its texture: Option 1936 ( Grey): In lookbook (Look 42, 51): a monochrome intellectual set with Ornago 1947 corduroy trousers, creating a play of different textures in a single tone.",
+        "lv": "The brand's stylists offer multifaceted solutions for the Messier pullover that highlight its texture: Option 1936 ( Grey): In lookbook (Look 42, 51): a monochrome intellectual set with Ornago 1947 corduroy trousers, creating a play of different textures in a single tone.",
+        "lt": "The brand's stylists offer multifaceted solutions for the Messier pullover that highlight its texture: Option 1936 ( Grey): In lookbook (Look 42, 51): a monochrome intellectual set with Ornago 1947 corduroy trousers, creating a play of different textures in a single tone.",
+        "pl": "The brand's stylists offer multifaceted solutions for the Messier pullover that highlight its texture: Option 1936 ( Grey): In lookbook (Look 42, 51): a monochrome intellectual set with Ornago 1947 corduroy trousers, creating a play of different textures in a single tone.",
+        "uk": "The brand's stylists offer multifaceted solutions for the Messier pullover that highlight its texture: Option 1936 ( Grey): In lookbook (Look 42, 51): a monochrome intellectual set with Ornago 1947 corduroy trousers, creating a play of different textures in a single tone."
+      },
+      "items": [
+        {
+          "name": "Ornago",
+          "code": "1947",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1093474942692424e3cb5b28_19412306_02781790XX1.jpg",
+          "modelId": 465
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 79)",
+        "en": "In lookbook (Look 79)",
+        "ar": "In lookbook (Look 79)",
+        "ka": "In lookbook (Look 79)",
+        "hy": "In lookbook (Look 79)",
+        "lv": "In lookbook (Look 79)",
+        "lt": "In lookbook (Look 79)",
+        "pl": "In lookbook (Look 79)",
+        "uk": "In lookbook (Look 79)"
+      },
+      "text": {
+        "ru": "динамичный городской ансамбль под коротким пальто Soppalco 0733 в сочетании с широкими джинсами Opaglio 0927.",
+        "en": "a dynamic urban ensemble under a Soppalco 0733 short coat combined with wide-leg Opaglio 0927 jeans.",
+        "ar": "a dynamic urban ensemble under a Soppalco 0733 short coat combined with wide-leg Opaglio 0927 jeans.",
+        "ka": "a dynamic urban ensemble under a Soppalco 0733 short coat combined with wide-leg Opaglio 0927 jeans.",
+        "hy": "a dynamic urban ensemble under a Soppalco 0733 short coat combined with wide-leg Opaglio 0927 jeans.",
+        "lv": "a dynamic urban ensemble under a Soppalco 0733 short coat combined with wide-leg Opaglio 0927 jeans.",
+        "lt": "a dynamic urban ensemble under a Soppalco 0733 short coat combined with wide-leg Opaglio 0927 jeans.",
+        "pl": "a dynamic urban ensemble under a Soppalco 0733 short coat combined with wide-leg Opaglio 0927 jeans.",
+        "uk": "a dynamic urban ensemble under a Soppalco 0733 short coat combined with wide-leg Opaglio 0927 jeans."
+      },
+      "items": [
+        {
+          "name": "Soppalco",
+          "code": "0733",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1763425955691c57c36a48f3_35962156_02780270XX1.jpg",
+          "modelId": 329
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 112, Look 112)",
+        "en": "On display (Vetrina 112, Look 112)",
+        "ar": "On display (Vetrina 112, Look 112)",
+        "ka": "On display (Vetrina 112, Look 112)",
+        "hy": "On display (Vetrina 112, Look 112)",
+        "lv": "On display (Vetrina 112, Look 112)",
+        "lt": "On display (Vetrina 112, Look 112)",
+        "pl": "On display (Vetrina 112, Look 112)",
+        "uk": "On display (Vetrina 112, Look 112)"
+      },
+      "text": {
+        "ru": "подиумный выход под классическим пальто-халатом Stenografo 0101 поверх рубашки Localita 0201 в паре с юбкой из экокожи Fabula 0101. Вариант 2439 ( Черничный):",
+        "en": "a runway look under a classic Stenografo 0101 wrap coat over a Localita 0201 shirt paired with a Fabula 0101 eco-leather skirt. Option 2439 ( Blueberry):",
+        "ar": "a runway look under a classic Stenografo 0101 wrap coat over a Localita 0201 shirt paired with a Fabula 0101 eco-leather skirt. Option 2439 ( Blueberry):",
+        "ka": "a runway look under a classic Stenografo 0101 wrap coat over a Localita 0201 shirt paired with a Fabula 0101 eco-leather skirt. Option 2439 ( Blueberry):",
+        "hy": "a runway look under a classic Stenografo 0101 wrap coat over a Localita 0201 shirt paired with a Fabula 0101 eco-leather skirt. Option 2439 ( Blueberry):",
+        "lv": "a runway look under a classic Stenografo 0101 wrap coat over a Localita 0201 shirt paired with a Fabula 0101 eco-leather skirt. Option 2439 ( Blueberry):",
+        "lt": "a runway look under a classic Stenografo 0101 wrap coat over a Localita 0201 shirt paired with a Fabula 0101 eco-leather skirt. Option 2439 ( Blueberry):",
+        "pl": "a runway look under a classic Stenografo 0101 wrap coat over a Localita 0201 shirt paired with a Fabula 0101 eco-leather skirt. Option 2439 ( Blueberry):",
+        "uk": "a runway look under a classic Stenografo 0101 wrap coat over a Localita 0201 shirt paired with a Fabula 0101 eco-leather skirt. Option 2439 ( Blueberry):"
+      },
+      "items": [
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Localita",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1407561629692424cfaef943_59921062_02781240XX1.jpg",
+          "modelId": 422
+        },
+        {
+          "name": "Fabula",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg",
+          "modelId": 386
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 43)",
+        "en": "In lookbook (Look 43)",
+        "ar": "In lookbook (Look 43)",
+        "ka": "In lookbook (Look 43)",
+        "hy": "In lookbook (Look 43)",
+        "lv": "In lookbook (Look 43)",
+        "lt": "In lookbook (Look 43)",
+        "pl": "In lookbook (Look 43)",
+        "uk": "In lookbook (Look 43)"
+      },
+      "text": {
+        "ru": "статусный многослойный образ под кашемировое пальто Segreteria 1751 с вельветовыми брюками Ornago 2422.",
+        "en": "a status-oriented layered look under a Segreteria 1751 cashmere coat with Ornago 2422 corduroy trousers.",
+        "ar": "a status-oriented layered look under a Segreteria 1751 cashmere coat with Ornago 2422 corduroy trousers.",
+        "ka": "a status-oriented layered look under a Segreteria 1751 cashmere coat with Ornago 2422 corduroy trousers.",
+        "hy": "a status-oriented layered look under a Segreteria 1751 cashmere coat with Ornago 2422 corduroy trousers.",
+        "lv": "a status-oriented layered look under a Segreteria 1751 cashmere coat with Ornago 2422 corduroy trousers.",
+        "lt": "a status-oriented layered look under a Segreteria 1751 cashmere coat with Ornago 2422 corduroy trousers.",
+        "pl": "a status-oriented layered look under a Segreteria 1751 cashmere coat with Ornago 2422 corduroy trousers.",
+        "uk": "a status-oriented layered look under a Segreteria 1751 cashmere coat with Ornago 2422 corduroy trousers."
+      },
+      "items": [
+        {
+          "name": "Segreteria",
+          "code": "1751",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1177856364692424dbb18d31_39928106_02781600XX1.jpg",
+          "modelId": 479
+        },
+        {
+          "name": "Ornago",
+          "code": "2422",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1411997118692424e36bc306_32856579_02781780XX1.jpg",
+          "modelId": 465
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 108)",
+        "en": "On display (Vetrina 108)",
+        "ar": "On display (Vetrina 108)",
+        "ka": "On display (Vetrina 108)",
+        "hy": "On display (Vetrina 108)",
+        "lv": "On display (Vetrina 108)",
+        "lt": "On display (Vetrina 108)",
+        "pl": "On display (Vetrina 108)",
+        "uk": "On display (Vetrina 108)"
+      },
+      "text": {
+        "ru": "зимний аутфит под укороченным пальто Scalare 0101 в комплекте с белой рубашкой Leila 0201 и юбкой Fabula 0101. Вариант 1736 ( Бежевый):",
+        "en": "a winter outfit under a cropped Scalare 0101 coat complete with a white Leila 0201 shirt and a Fabula 0101 skirt. Option 1736 ( Beige):",
+        "ar": "a winter outfit under a cropped Scalare 0101 coat complete with a white Leila 0201 shirt and a Fabula 0101 skirt. Option 1736 ( Beige):",
+        "ka": "a winter outfit under a cropped Scalare 0101 coat complete with a white Leila 0201 shirt and a Fabula 0101 skirt. Option 1736 ( Beige):",
+        "hy": "a winter outfit under a cropped Scalare 0101 coat complete with a white Leila 0201 shirt and a Fabula 0101 skirt. Option 1736 ( Beige):",
+        "lv": "a winter outfit under a cropped Scalare 0101 coat complete with a white Leila 0201 shirt and a Fabula 0101 skirt. Option 1736 ( Beige):",
+        "lt": "a winter outfit under a cropped Scalare 0101 coat complete with a white Leila 0201 shirt and a Fabula 0101 skirt. Option 1736 ( Beige):",
+        "pl": "a winter outfit under a cropped Scalare 0101 coat complete with a white Leila 0201 shirt and a Fabula 0101 skirt. Option 1736 ( Beige):",
+        "uk": "a winter outfit under a cropped Scalare 0101 coat complete with a white Leila 0201 shirt and a Fabula 0101 skirt. Option 1736 ( Beige):"
+      },
+      "items": [
+        {
+          "name": "Scalare",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/obH9FrFkRoq3xbxDWF6Fsg_1888970026696f42f15a20d0_57909911_02820870XX1.jpg",
+          "modelId": 300
+        },
+        {
+          "name": "Leila",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "modelId": 414
+        },
+        {
+          "name": "Fabula",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg",
+          "modelId": 386
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 46)",
+        "en": "In lookbook (Look 46)",
+        "ar": "In lookbook (Look 46)",
+        "ka": "In lookbook (Look 46)",
+        "hy": "In lookbook (Look 46)",
+        "lv": "In lookbook (Look 46)",
+        "lt": "In lookbook (Look 46)",
+        "pl": "In lookbook (Look 46)",
+        "uk": "In lookbook (Look 46)"
+      },
+      "text": {
+        "ru": "артистичное сочетание с расшитой мини-юбкой из гобелена Fulcro 4606 и высокими сапогами Ulisside 2240 0038.",
+        "en": "an artistic combination with an embroidered Fulcro 4606 tapestry mini-skirt and tall Ulisside 2240 0038 boots.",
+        "ar": "an artistic combination with an embroidered Fulcro 4606 tapestry mini-skirt and tall Ulisside 2240 0038 boots.",
+        "ka": "an artistic combination with an embroidered Fulcro 4606 tapestry mini-skirt and tall Ulisside 2240 0038 boots.",
+        "hy": "an artistic combination with an embroidered Fulcro 4606 tapestry mini-skirt and tall Ulisside 2240 0038 boots.",
+        "lv": "an artistic combination with an embroidered Fulcro 4606 tapestry mini-skirt and tall Ulisside 2240 0038 boots.",
+        "lt": "an artistic combination with an embroidered Fulcro 4606 tapestry mini-skirt and tall Ulisside 2240 0038 boots.",
+        "pl": "an artistic combination with an embroidered Fulcro 4606 tapestry mini-skirt and tall Ulisside 2240 0038 boots.",
+        "uk": "an artistic combination with an embroidered Fulcro 4606 tapestry mini-skirt and tall Ulisside 2240 0038 boots."
+      },
+      "items": [
+        {
+          "name": "Fulcro",
+          "code": "4606",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2110185633692424cc20ba87_22073085_02781130XX1.jpg",
+          "modelId": 397
+        },
+        {
+          "name": "Ulisside",
+          "code": "2240 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 47)",
+        "en": "In lookbook (Look 47)",
+        "ar": "In lookbook (Look 47)",
+        "ka": "In lookbook (Look 47)",
+        "hy": "In lookbook (Look 47)",
+        "lv": "In lookbook (Look 47)",
+        "lt": "In lookbook (Look 47)",
+        "pl": "In lookbook (Look 47)",
+        "uk": "In lookbook (Look 47)"
+      },
+      "text": {
+        "ru": "функциональный люкс под технологичным парка Strumento 1575 1575 с брюками Ornago 1759.",
+        "en": "functional luxury under a technological Strumento 1575 1575 parka with Ornago 1759 trousers.",
+        "ar": "functional luxury under a technological Strumento 1575 1575 parka with Ornago 1759 trousers.",
+        "ka": "functional luxury under a technological Strumento 1575 1575 parka with Ornago 1759 trousers.",
+        "hy": "functional luxury under a technological Strumento 1575 1575 parka with Ornago 1759 trousers.",
+        "lv": "functional luxury under a technological Strumento 1575 1575 parka with Ornago 1759 trousers.",
+        "lt": "functional luxury under a technological Strumento 1575 1575 parka with Ornago 1759 trousers.",
+        "pl": "functional luxury under a technological Strumento 1575 1575 parka with Ornago 1759 trousers.",
+        "uk": "functional luxury under a technological Strumento 1575 1575 parka with Ornago 1759 trousers."
+      },
+      "items": [
+        {
+          "name": "Strumento",
+          "code": "1575 1575",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1565620198691f159d236851_64658413_02780910XX1.jpg",
+          "modelId": 498
+        },
+        {
+          "name": "Ornago",
+          "code": "1759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/85911319692424e42cbdc1_93438143_02781800XX1.jpg",
+          "modelId": 465
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- A textile exclusive: Direct the client's attention to the irregular rib knit. Explain that this is a sophisticated knitting technique that visually 'softens' the silhouette, concealing figure nuances, unlike standard smooth knitwear. - Focus on the neck"
+    ],
+    "ru": [
+      "- Текстильный эксклюзив: Акцентируйте внимание клиента на нерегулярном рубчике. Объясните, что это сложная техника вязки, которая визуально «размывает» силуэт, делая его более мягким и скрывая нюансы фигуры, в отличие от стандартного гладкого трикотажа. -"
+    ],
+    "ar": [
+      "- حصريّة النسيج: وجهي انتباه العميل إلى الضلوع غير المنتظمة. اشرحي أنها تقنية حياكة معقدة تعمل بصرياً على «تنعيم» القوام، مما يجعله أكثر انسيابية ويخفي تفاصيل الجسم غير المرغوبة، على عكس التريكو الأملس التقليدي. - التركيز على منطقة الوجه والصدر: أكدي على"
+    ],
+    "ka": [
+      "- ტექსტილის ექსკლუზივი: ყურადღება გაამახვილეთ მომხმარებლის არარეგულარულ ნეკნებზე. აუხსენით, რომ ეს არის ქსოვის რთული ტექნიკა, რომელიც ვიზუალურად «ბუნდოვანს» ხდის სილუეტს, უფრო რბილს ხდის მას და ფარავს ფიგურის ნიუანსებს, სტანდარტული გლუვი ტრიკოტაჟისგან გან"
+    ],
+    "hy": [
+      "- Տեքստիլ բացառիկություն. Հաճախորդի ուշադրությունը հրավիրեք ոչ կանոնավոր գծավորությանը: Բացատրեք, որ սա հյուսելու բարդ տեխնիկա է, որը տեսողականորեն «մշուշոտում» է ուրվագիծը՝ այն դարձնելով ավելի փափուկ և թաքցնելով կազմվածքի նրբերանգները՝ ի տարբերություն ստ"
+    ],
+    "lv": [
+      "- Tekstila ekskluzivitāte: Akcentējiet klienta uzmanību uz neregulāro rievojumu. Paskaidrojiet, ka tā ir sarežģīta adīšanas tehnika, kas vizuāli \"izpludina\" siluetu, padarot to mīkstāku un paslēpjot figūras nianses, atšķirībā no standarta gludās trikotāža"
+    ],
+    "lt": [
+      "- Tekstilinė išskirtinystė: Akcentuokite klientui netaisyklingą rumbelį. Paaiškinkite, kad tai sudėtinga mezgimo technika, kuri vizualiai „išsklaido“ siluetą, suteikdama jam minkštumo ir paslėpdama figūros niuansus, skirtingai nei standartinis lygus trikotažas. - Akcentas portretinei zonai: Pabrėžkite aukštos apykaklės ir apimtingų rankovių derinį. Tai perkelia dėmesį į veidą ir pečių liniją, sukuriant įspūdingą ir moterišką „smėlio laikrodžio“ siluetą, ypač derinant su siaura apatine dalimi. - Investicija į „Pura Lana“: Akcentuokite 100% pura lana vergine sudėtį. Tai pirmojo kirpimo pluoštas, garantuojantis išskirtinę termoreguliaciją: puloveris šildo, bet išlieka „kvėpuojantis“, išlaikydamas savo formą ir taurią išvaizdą daugelį metų."
+    ],
+    "pl": [
+      "- Tekstylny ekskluzyw: Zwróć uwagę klienta na nieregularny ściągacz. Wyjaśnij, że jest to złożona technika splotu, która wizualnie „rozmywa” sylwetkę, czyniąc ją bardziej miękką i ukrywając niuanse figury, w przeciwieństwie do standardowej gładkiej dziani"
+    ],
+    "uk": [
+      "- Текстильний ексклюзив: Акцентуйте увагу клієнта на нерегулярному рубчику. Поясніть, що це складна техніка в’язки, яка візуально «розмиває» силует, роблячи його м’якшим і приховуючи нюанси фігури, на відміну від стандартного гладкого трикотажу. - Акцент"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "voluminous Showcase Look 43: Luisa Spagnoli wool is sleeves won't fit incredibly supple. The sleeves drape gently under outerwear» under a coat (such as the Segreteria 1751) without causing discomfort. «The irregular rib Explain that this is a deliberate design choice for looks like a knit \"imperfect elegance.\" This texture is a marker of flaw» craftsmanship and premium production, characteristic of the \"Contemporary Luxe\" style. «The wool collar Suggest a tactile test of the lana vergine. This is might be scratchy» the gentlest category of wool, specially processed to ensure maximum comfort even in direct contact with the neck's skin. «The pullover Point out the regular fit through the body. seems too Volume is concentrated solely in the sleeves, voluminous» which, paired with the high-waisted Ornago trousers, only accentuates the slimness of the waist. «Shade 1936 Point out the play of light in the irregular looks too plain» stitches. This gray tone has a \"chameleon\" depth and becomes a luxurious canvas for jewelry or bold accessories, as in Look 112"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Объемные рукава",
+        "a": "Продемонстрируйте Look 43: шерсть Luisa Spagnoli не поместятся под невероятно пластична. Рукава мягко драпируются под верхнюю одежду пальто (например, Segreteria 1751), не создавая дискомфорта."
+      },
+      {
+        "q": "Нерегулярный",
+        "a": "Поясните, что это осознанный дизайнерский прием рубчик выглядит как «несовершенной элегантности . Такая фактура — брак вязки» маркер ручного подхода и дорогого производства, характерный для стиля."
+      },
+      {
+        "q": "Contemporary Luxe",
+        "a": "."
+      },
+      {
+        "q": "Шерстяной",
+        "a": "Предложите тактильно оценить lana vergine. Это воротник может самая нежная категория шерсти, специально колоться очищенная для обеспечения максимального комфорта даже при прямом контакте с кожей шеи."
+      },
+      {
+        "q": "Пуловер кажется",
+        "a": "Обратите внимание на регулярную посадку в зоне слишком объемным корпуса. Объем сосредоточен только в рукавах, что в сочетании с высокой посадкой брюк Ornago лишь подчеркивает стройность талии."
+      },
+      {
+        "q": "Цвет 1936",
+        "a": "Укажите на игру света в нерегулярных петлях. Этот выглядит слишком серый оттенок обладает глубиной «хамелеона и просто» становится роскошным холстом для украшений или ярких аксессуаров, как в Look 112."
+      }
+    ],
+    "ar": [
+      {
+        "q": "ال",
+        "a": "الأكمام الضخمة لا تناسب تحت الملابس الخارجية» اعرضي الإطلالة 43: صوف Luisa Spagnoli مرن للغاية. الأكمام تنسدل بنعومة تحت المعاطف (مثل Segreteria 1751) دون التسبب في أي إزعاج. «التضليع غير المنتظم يبدو كعيب في الحياكة» اشرحي أن هذا خيار تصميمي مقصود يجسد «الأناقة غير الكاملة». هذا الملمس هو علامة على النهج اليدوي والإنتاج الفاخر، وهو سمة لأسلوب «Contemporary Luxe». «ياقة الصوف قد توخز» اقترحي لمس lana vergine. هذه أرقى فئة من الصوف، منقاة خصيصاً لضمان أقصى درجات الراحة حتى عند التلامس المباشر مع جلد الرقبة. «البلوفر يبدو ضخماً أكثر من اللازم» لفتي الانتباه إلى المقاس المنتظم في منطقة الجذع. الحجم يتركز فقط في الأكمام، مما يبرز نحافة الخصر عند تنسيقه مع بنطال Ornago عالي الخصر. «اللون 1936 يبدو بسيطاً جداً» أشيري إلى تلاعب الضوء في الغرز غير المنتظمة. هذا اللون الرمادي يتمتع بعمق «الحرباء» ويصبح خلفية فاخرة للمجوهرات أو الإكسسوارات الزاهية، كما في الإطلالة 112"
+      }
+    ],
+    "ka": [
+      {
+        "q": "მოცულობითი სახელოები ზედა ტანსაცმლის ქვეშ არ დაეტევა",
+        "a": "წარმოადგინეთ Look 43: Luisa Spagnoli-ს შალი საოცრად პლასტიკურია. სახელოები რბილად დრაპირდება პალტოს ქვეშ (მაგალითად, Segreteria 1751), დისკომფორტის გარეშე."
+      },
+      {
+        "q": "არარეგულარული ნაქსოვი ისე გამოიყურება, თითქოს ქსოვის წუნი იყოს",
+        "a": "განუმარტეთ, რომ ეს არის."
+      },
+      {
+        "q": "არასრულყოფილი ელეგანტურობის“ გააზრებული დიზაინერული მიდგომა. ასეთი ფაქტურა არის ხელნაკეთი მიდგომისა და ძვირადღირებული წარმოების ნიშანი, რაც დამახასიათებელია „Contemporary Luxe“-ის სტილისთვის. «შალის საყელო შესაძლოა მჩხვლეტავი იყოს",
+        "a": "შესთავაზეთ ტაქტილურად შეაფასონ lana vergine. ეს არის შალის ყველაზე ნაზი კატეგორია, სპეციალურად გასუფთავებული კისრის კანთან პირდაპირი კონტაქტისას მაქსიმალური კომფორტის უზრუნველსაყოფად."
+      },
+      {
+        "q": "პულოვერი ზედმეტად მოცულობითი ჩანს",
+        "a": "ყურადღება მიაქციეთ ტანზე რეგულარულ მორგებას. მოცულობა კონცენტრირებულია მხოლოდ სახელოებში, რაც Ornago-ს შარვლის მაღალ წელთან კომბინაციაში მხოლოდ ხაზს უსვამს წელის სიგამხდრეს."
+      },
+      {
+        "q": "ფერი 1936 ზედმეტად უბრალოდ გამოიყურება",
+        "a": "მიუთითეთ სინათლის თამაშზე არარეგულარულ მარყუჟებში. ამ ნაცრისფერ ელფერს გააჩნია „ქამელეონის“ სიღრმე და ხდება მდიდრული ტილო სამკაულებისთვის ან ნათელი აქსესუარებისთვის, როგორც Look 112-ში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ծավալուն թևքերը չեն տեղավորվի վերնահագուստի տակ",
+        "a": "՝ Ցուցադրեք Look 43-ը. Luisa Spagnoli-ի բուրդը անհավանական պլաստիկ է։ Թևքերը մեղմորեն ծալքավորվում են վերարկուի տակ (օրինակ՝ Segreteria 1751)՝ առանց անհարմարություն ստեղծելու։."
+      },
+      {
+        "q": "Անկանոն կողագծերը թվում են որպես հյուսման թերություն",
+        "a": "՝ Բացատրեք, որ սա."
+      },
+      {
+        "q": "անկատար էլեգանտության",
+        "a": "գիտակցված դիզայներական մոտեցում է։ Նման հյուսվածքը ձեռքի աշխատանքի և թանկարժեք արտադրության նշան է, որը բնորոշ է."
+      },
+      {
+        "q": "Contemporary Luxe",
+        "a": "ոճին։."
+      },
+      {
+        "q": "Բրդյա օձիկը կարող է ծակել",
+        "a": "՝ Առաջարկեք շոշափելով գնահատել lana vergine-ը։ Սա բրդի ամենանուրբ կատեգորիան է, որը հատուկ մաքրված է պարանոցի մաշկի հետ անմիջական շփման ժամանակ առավելագույն հարմարավետություն ապահովելու համար։."
+      },
+      {
+        "q": "Պուլովերը չափազանց ծավալուն է թվում",
+        "a": "՝ Ուշադրություն դարձրեք իրանի հատվածում կանոնավոր ձևվածքին։ Ծավալը կենտրոնացած է միայն թևքերի վրա, ինչը Ornago տաբատների բարձր գոտկատեղի հետ համադրությամբ միայն ընդգծում է իրանի բարակությունը։."
+      },
+      {
+        "q": "1936 գույնը չափազանց պարզ է թվում",
+        "a": "՝ Մատնանշեք անկանոն օղակների վրա լույսի խաղը։ Այս մոխրագույն երանգը."
+      },
+      {
+        "q": "քամելեոնի",
+        "a": "խորություն ունի և դառնում է զարդերի կամ վառ աքսեսուարների համար շքեղ հիմք, ինչպես Look 112-ում։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Apjomīgās piedurknes",
+        "a": "Demonstrējiet Look 43: Luisa Spagnoli vilna ir neticami neietilps zem virsdrēbēm plastiska. Piedurknes maigi drapējas zem mēteļa (piemēram, Segreteria 1751), neradot diskomfortu."
+      },
+      {
+        "q": "Neregulārais rievojums",
+        "a": "Izskaidrojiet, ka šis ir apzināts dizaina paņēmiens izskatās pēc adījuma «nepilnīgai elegancei . Šāda faktūra ir roku darba brāķa» un dārgas ražošanas marķieris, kas raksturīgs."
+      },
+      {
+        "q": "Contemporary Luxe",
+        "a": "stilam."
+      },
+      {
+        "q": "Vilnas apkakle var",
+        "a": "Piedāvājiet taktilā veidā novērtēt lana vergine. Šī ir kost vismaigākā vilnas kategorija, kas īpaši attīrīta, lai nodrošinātu maksimālu komfortu pat tiešā kontaktā ar kakla ādu."
+      },
+      {
+        "q": "Pulovers šķiet",
+        "a": "Pievērsiet uzmanību regulāram piegriezumam korpusa pārāk apjomīgs zonā. Apjoms ir koncentrēts tikai piedurknēs, kas kombinācijā ar augsto Ornago bikšu jostasvietu tikai izceļ vidukļa slaidumu."
+      },
+      {
+        "q": "Krāsa 1936 izskatās",
+        "a": "Norādiet uz gaismas spēli neregulārajās cilpās. Šim pārāk vienkārša pelēkajam tonim piemīt."
+      },
+      {
+        "q": "hameleona",
+        "a": "dziļums, un tas kļūst par greznu fonu rotaslietām vai spilgtiem aksesuāriem, kā Look 112."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikti: „Tūrinės rankovės netilps",
+        "a": "Pademonstruokite Look 43: Luisa Spagnoli vilna po viršutiniais drabužiais“ yra neįtikėtinai plastiška. Rankovės švelniai drapiruojasi po paltu (pavyzdžiui, Segreteria 1751), nesukeldamos diskomforto. Look 43: Luisa Spagnoli vilna po viršutiniais drabužiais“ yra neįtikėtinai plastiška. Rankovės švelniai drapiruojasi po paltu (pavyzdžiui, Segreteria 1751), nesukeldamos diskomforto."
+      },
+      {
+        "q": "„Nereguliarus rumbelis",
+        "a": "Paaiškinkite, kad tai sąmoningas dizaino sprendimas, atrodo kaip mezgimo vadinamas „netobula elegancija“. Tokia faktūra — brokas“ rankų darbo ir prabangios gamybos ženklas, būdingas „Contemporary Luxe“ stiliui. , kad tai sąmoningas dizaino sprendimas, atrodo kaip mezgimo vadinamas „netobula elegancija“. Tokia faktūra — brokas“ rankų darbo ir prabangios gamybos ženklas, būdingas „Contemporary Luxe“ stiliui."
+      },
+      {
+        "q": "„Vilnonė apykaklė",
+        "a": "Pasiūlykite paliesti ir įvertinti lana vergine. Tai gali būti šiurkšti“ pati švelniausia vilnos kategorija, specialiai išgryninta užtikrinti maksimalų komfortą net tiesiogiai kontaktuojant su kaklo oda. paliesti ir įvertinti lana vergine. Tai gali būti šiurkšti“ pati švelniausia vilnos kategorija, specialiai išgryninta užtikrinti maksimalų komfortą net tiesiogiai kontaktuojant su kaklo oda."
+      },
+      {
+        "q": "„Puloveris atrodo per",
+        "a": "Atkreipkite dėmesį į taisyklingą prigludimą liemens daug tūrinis“ srityje. Apimtis sutelkta tik rankovėse, o tai derinant su aukšto liemens Ornago kelnėmis tik pabrėžia talijos grakštumą. į taisyklingą prigludimą liemens daug tūrinis“ srityje. Apimtis sutelkta tik rankovėse, o tai derinant su aukšto liemens Ornago kelnėmis tik pabrėžia talijos grakštumą."
+      },
+      {
+        "q": "„1936 spalva atrodo per",
+        "a": "Atkreipkite dėmesį į šviesos žaismą nereguliariose daug paprasta“ kilpelėse. Šis pilkšvas atspalvis turi „chameleono“ gelmę ir tampa prabangiu fonu papuošalams ar ryškiems aksesuarams, kaip Look 112."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Objętościowe rękawy Zaprezentuj Look 43: wełna Luisa Spagnoli nie zmieszczą się jest niezwykle plastyczna. Rękawy miękko pod odzieżą wierzchnią",
+        "a": "układają się pod płaszczem (na przykład Segreteria 1751), nie tworząc dyskomfortu."
+      },
+      {
+        "q": "Nieregularny prążek",
+        "a": "Wyjaśnij, że jest to świadomy zabieg projektowy wygląda jak wada „niedoskonałej elegancji . Taka faktura to marker splotu” ręcznego podejścia i drogiej produkcji, charakterystyczny dla stylu."
+      },
+      {
+        "q": "Contemporary Luxe",
+        "a": "."
+      },
+      {
+        "q": "Wełniany kołnierz",
+        "a": "Zaproponuj dotykową ocenę lana vergine. To może gryźć najdelikatniejsza kategoria wełny, specjalnie oczyszczona dla zapewnienia maksymalnego komfortu nawet przy bezpośrednim kontakcie ze skórą szyi."
+      },
+      {
+        "q": "Pulower wydaje",
+        "a": "Zwróć uwagę na regularny krój w okolicy się zbyt duży korpusu. Objętość skupiona jest tylko w rękawach, co w połączeniu z wysokim stanem spodni Ornago jedynie podkreśla smukłość talii."
+      },
+      {
+        "q": "Kolor 1936 wygląda",
+        "a": "Wskaż na grę światła w nieregularnych oczkach. zbyt prosto Ten szary odcień posiada głębię."
+      },
+      {
+        "q": "kameleona",
+        "a": "i staje się luksusowym tłem dla biżuterii lub wyrazistych dodatków, jak w Look 112."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Об'ємні рукави не помістяться під верхній одяг",
+        "a": "Продемонструйте Look 43: вовна Luisa Spagnoli неймовірно пластична. Рукави м'яко драпіруються під пальто (наприклад, Segreteria 1751), не створюючи дискомфорту."
+      },
+      {
+        "q": "Нерегулярний рубчик виглядає як брак в'язки",
+        "a": "Поясніть, що це усвідомлений дизайнерський прийом."
+      },
+      {
+        "q": "недосконалої елегантності",
+        "a": ". Така фактура — маркер ручного підходу і дорогого виробництва, характерний для стилю."
+      },
+      {
+        "q": "Contemporary Luxe",
+        "a": "."
+      },
+      {
+        "q": "Вовняний комір може колючий",
+        "a": "Запропонуйте тактильно оцінити lana vergine. Це найніжніша категорія вовни, спеціально очищена для забезпечення максимального комфорту навіть при прямому контакті зі шкірою шиї."
+      },
+      {
+        "q": "Пуловер здається надто об'ємним",
+        "a": "Зверніть увагу на регулярну посадку в зоні корпусу. Об'єм зосереджений лише в рукавах, що в поєднанні з високою посадкою штанів Ornago лише підкреслює стрункість талії."
+      },
+      {
+        "q": "Колір 1936 виглядає надто просто",
+        "a": "Вкажіть на гру світла в нерегулярних петлях. Цей сірий відтінок має глибину."
+      },
+      {
+        "q": "хамелеона",
+        "a": "і стає розкішним полотном для прикрас або яскравих аксесуарів, як у Look 112."
+      }
+    ]
+  }
+}

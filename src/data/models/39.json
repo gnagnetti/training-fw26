@@ -1,0 +1,423 @@
+{
+  "id": 39,
+  "name": "Faggi",
+  "description": {
+    "en": "The Faggi pencil skirt is the true embodiment of aristocratic restraint and impeccable Italian style from Luisa Spagnoli. Crafted from an exquisite mÃ©lange fabric combining noble wool and natural silk, it lends the piece an inimitable depth of color and a soft, noble sheen. The classic midi silhouette, with waist darts, perfectly sculpts the figure, creating a refined and feminine look. A central back vent and a concealed zip closure underscore the brand's attention to detail and functional comfort, making this skirt an indispensable wardrobe piece in the 'quiet luxury' aesthetic.",
+    "ru": "Юбка-карандаш Faggi — это истинное воплощение аристократичной сдержанности и безупречного итальянского стиля от Luisa Spagnoli. Модель выполнена из изысканной меланжевой ткани, в состав которой входят благородная шерсть и натуральный шелк, что придает изделию неповторимую глубину цвета и мягкое благородное сияние. Классический силуэт миди с вытачками на талии идеально моделирует фигуру, создавая утонченный и женственный образ. Наличие центральной шлицы сзади и скрытой застежки-молнии подчеркивает внимание бренда к деталям и функциональному комфорту, делая эту юбку незаменимым элементом гардероба в стиле «тихой роскоши».",
+    "ar": "تُجسّد تنورة \"فاجي\" (Faggi) ذات القصة المستقيمة (Pencil skirt) الجوهر الحقيقي للرزانة الأريستوقراطية والأناقة الإيطالية الخالصة من علامة لويزا سبانيولي (Luisa Spagnoli). حِيكَت هذه القطعة من نسيج ميلانج (Melange) فاخر يمزج بين الصوف الرفيع والحرير الطبيعي، مما يمنحها عمقاً لونياً فريداً وبريقاً هادئاً يفيض بالنبل. تأتي التنورة بطول متوسط (Midi) وقَصّة كلاسيكية مُعزّزة بطيّات عند الخصر لتنحيت القوام ببراعة، مُبرزةً أنوثة رقيقة وإطلالة مفعمة بالرقي. وتكتمل تفاصيل الفخامة بفتحة خلفية وسطية وسحّاب خفي، ما يعكس اهتمام الدار الفائق بالراحة والعملية، وتغدو هذه القطعة عنصراً لا غنى عنه لتجسيد مفهوم \"الفخامة الهادئة\" (Quiet Luxury).",
+    "ka": "ფანქარი-ქვედაბოლო Faggi — ეს არის არისტოკრატული თავშეკავებულობისა და Luisa Spagnoli-ს უნაკლო იტალიური სტილის ჭეშმარიტი განსახიერება. მოდელი შესრულებულია დახვეწილი მელანჟის ქსოვილისგან, რომელიც შეიცავს კეთილშობილურ მატყლსა და ნატურალურ აბრეშუმს, რაც ნაკეთობას განუმეორებელ ფერთა სიღრმესა და რბილ, კეთილშობილურ ბზინვარებას ანიჭებს. მიდი სიგრძის კლასიკური სილუეტი წელზე ჩამოსხმული ხაზებით იდეალურად მოდელირებს ფიგურას, რაც ქმნის დახვეწილ და ქალურ იმიჯს. უკანა მხარეს არსებული ცენტრალური ჭრილი და ფარული ელვა-შესაკრავი ხაზს უსვამს ბრენდის ყურადღებას დეტალებისა და ფუნქციური კომფორტის მიმართ, რაც ამ ქვედაბოლოს „ჩუმი ფუფუნების“ სტილის გარდერობის შეუცვლელ ელემენტად აქცევს.",
+    "hy": "Faggi մատիտ-կիսաշրջազգեստը Luisa Spagnoli-ի կողմից արիստոկրատ զսպվածության և անթերի իտալական ոճի իսկական մարմնացումն է։ Մոդելը պատրաստված է նրբագեղ մելանժ գործվածքից, որի բաղադրության մեջ մտնում են ազնիվ բուրդ և բնական մետաքս, ինչը հոդվածին հաղորդում է գույնի անկրկնելի խորություն և փափուկ ազնվական փայլ։ Գոտկատեղի վրա իջվածքներով դասական միդի ուրվագիծը իդեալականորեն մոդելավորում է կազմվածքը՝ ստեղծելով նուրբ և կանացի կերպար։ Հետևի կենտրոնական ճեղքի և թաքնված կայծակ-ճարմանդի առկայությունը ընդգծում է ապրանքանիշի ուշադրությունը դետալների և ֆունկցիոնալ հարմարավետության նկատմամբ՝ այս կիսաշրջազգեստը դարձնելով «հանգիստ շքեղության» ոճի զգեստապահարանի անփոխարինելի տարր։",
+    "lv": "Zīmuļsvārki Faggi ir patiesa aristokrātiskas atturības un nevainojama itāļu stila iemiesojums no Luisa Spagnoli. Modelis ir izgatavots no izsmalcināta melanžēta auduma, kura sastāvā ietilpst cēla vilna un dabīgais zīds, kas izstrādājumam piešķir neatkārtojamu krāsas dziļumu un maigu, cēlu spīdumu. Klasiskais midi siluets ar iešuvēm viduklī ideāli modelē figūru, radot izsmalcinātu un sievišķīgu tēlu. Centrālā šķēluma esamība aizmugurē un slēptais rāvējslēdzējs uzsver zīmola uzmanību detaļām un funkcionālajam komfortam, padarot šos svārkus par neaizstājamu «klusās greznības» stila garderobes elementu.",
+    "lt": "Pieštuko formos sijonas „Faggi“ – tai tikras aristokratiško santūrumo ir nepriekaištingo itališko „Luisa Spagnoli“ stiliaus įsikūnijimas. Modelis pagamintas iš rafinuoto melanžinio audinio, kurio sudėtyje yra kilnios vilnos ir natūralaus šilko, suteikiančio gaminiui nepakartojamo spalvų gylio ir švelnaus kilnaus spindesio. Klasikinis midi siluetas su įsiuvais ties juosmeniu idealiai modeliuoja figūrą, sukurdamas subtilų ir moterišką įvaizdį. Centrinis skeltukas nugaroje ir paslėptas užtrauktukas pabrėžia prekės ženklo dėmesį detalėms ir funkcionaliam patogumui, todėl šis sijonas tampa nepakeičiamu „tylios prabangos“ stiliaus garderobo elementu.",
+    "pl": "Spódnica ołówkowa Faggi to prawdziwe ucieleśnienie arystokratycznej powściągliwości i nienagannego włoskiego stylu od Luisa Spagnoli. Model wykonany jest z wykwintnej melanżowej tkaniny, w skład której wchodzi szlachetna wełna i naturalny jedwab, co nadaje wyrobowi niepowtarzalną głębię koloru i miękki, szlachetny blask. Klasyczna sylwetka midi z zaszewkami w talii idealnie modeluje sylwetkę, tworząc wyrafinowany i kobiecy wizerunek. Obecność centralnego rozporka z tyłu oraz ukrytego zamka błyskawicznego podkreśla dbałość marki o detale i funkcjonalny komfort, czyniąc tę spódnicę niezastąpionym elementem garderoby w stylu „cichego luksusu”.",
+    "uk": "Спідниця-олівець Faggi — це справжнє втілення аристократичної стриманості та бездоганного італійського стилю від Luisa Spagnoli. Модель виконана з вишуканої меланжевої тканини, до складу якої входять благородна вовна та натуральний шовк, що надає виробу неповторної глибини кольору та м'якого благородного сяйва. Класичний силует міді з витачками на талії ідеально моделює фігуру, створюючи витончений і жіночний образ. Наявність центральної шліци ззаду та прихованої застібки-блискавки підкреслює увагу бренду до деталей і функціонального комфорту, роблячи цю спідницю незамінним елементом гардероба в стилі «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Var Grigio Panna",
+      "code": "3331",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/rIMa5PphT0eVb-Z68ByGdQ_1038132126696f4302972469_22145110_02821280XX1.jpg"
+    },
+    {
+      "name": "Var Marrone",
+      "code": "3404",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/rIMa5PphT0eVb-Z68ByGdQ_1038132126696f4302972469_22145110_02821280XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look Vetrina 59",
+        "en": "Total Look Vetrina 59",
+        "ar": "Total Look Vetrina 59",
+        "ka": "Total Look Vetrina 59",
+        "hy": "Total Look Vetrina 59",
+        "lv": "Total Look Vetrina 59",
+        "lt": "Total Look Vetrina 59",
+        "pl": "Total Look Vetrina 59",
+        "uk": "Total Look Vetrina 59"
+      },
+      "text": {
+        "ru": "Сочетание юбки Faggi 3331 с жакетом Spettatore 3331 и топом Logge 1133. Образ дополнен сумкой Ls1928p A 0101 0038.",
+        "en": "Combination of Faggi 3331 skirt with Spettatore 3331 jacket and Logge 1133 top. The look is completed by an Ls1928p A 0101 0038 bag.",
+        "ar": "Combination of Faggi 3331 skirt with Spettatore 3331 jacket and Logge 1133 top. The look is completed by an Ls1928p A 0101 0038 bag.",
+        "ka": "Combination of Faggi 3331 skirt with Spettatore 3331 jacket and Logge 1133 top. The look is completed by an Ls1928p A 0101 0038 bag.",
+        "hy": "Combination of Faggi 3331 skirt with Spettatore 3331 jacket and Logge 1133 top. The look is completed by an Ls1928p A 0101 0038 bag.",
+        "lv": "Combination of Faggi 3331 skirt with Spettatore 3331 jacket and Logge 1133 top. The look is completed by an Ls1928p A 0101 0038 bag.",
+        "lt": "Combination of Faggi 3331 skirt with Spettatore 3331 jacket and Logge 1133 top. The look is completed by an Ls1928p A 0101 0038 bag.",
+        "pl": "Combination of Faggi 3331 skirt with Spettatore 3331 jacket and Logge 1133 top. The look is completed by an Ls1928p A 0101 0038 bag.",
+        "uk": "Combination of Faggi 3331 skirt with Spettatore 3331 jacket and Logge 1133 top. The look is completed by an Ls1928p A 0101 0038 bag."
+      },
+      "items": [
+        {
+          "name": "Faggi",
+          "code": "3331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/rIMa5PphT0eVb-Z68ByGdQ_1038132126696f4302972469_22145110_02821280XX1.jpg"
+        },
+        {
+          "name": "Spettatore",
+          "code": "3331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zwGI1zFWTrWaBDjRh3_05w_931393777696f430b4be833_87873246_02821500XX1.jpg",
+          "modelId": 336
+        },
+        {
+          "name": "Logge",
+          "code": "1133",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1660075475692424d0126fa6_77222965_02781250XX1.jpg",
+          "modelId": 118
+        },
+        {
+          "name": "Ls1928p A",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look Vetrina 60",
+        "en": "Total Look Vetrina 60",
+        "ar": "Total Look Vetrina 60",
+        "ka": "Total Look Vetrina 60",
+        "hy": "Total Look Vetrina 60",
+        "lv": "Total Look Vetrina 60",
+        "lt": "Total Look Vetrina 60",
+        "pl": "Total Look Vetrina 60",
+        "uk": "Total Look Vetrina 60"
+      },
+      "text": {
+        "ru": "Faggi 3331 в паре с поло Cips 0838 и пуловером Contagiri 0202. Акценты: сумка Iago 2240 и перчатки Uboldo 2218.",
+        "en": "Faggi 3331 paired with Cips 0838 polo and Contagiri 0202 pullover. Accents: Iago 2240 bag and Uboldo 2218 gloves.",
+        "ar": "Faggi 3331 paired with Cips 0838 polo and Contagiri 0202 pullover. Accents: Iago 2240 bag and Uboldo 2218 gloves.",
+        "ka": "Faggi 3331 paired with Cips 0838 polo and Contagiri 0202 pullover. Accents: Iago 2240 bag and Uboldo 2218 gloves.",
+        "hy": "Faggi 3331 paired with Cips 0838 polo and Contagiri 0202 pullover. Accents: Iago 2240 bag and Uboldo 2218 gloves.",
+        "lv": "Faggi 3331 paired with Cips 0838 polo and Contagiri 0202 pullover. Accents: Iago 2240 bag and Uboldo 2218 gloves.",
+        "lt": "Faggi 3331 paired with Cips 0838 polo and Contagiri 0202 pullover. Accents: Iago 2240 bag and Uboldo 2218 gloves.",
+        "pl": "Faggi 3331 paired with Cips 0838 polo and Contagiri 0202 pullover. Accents: Iago 2240 bag and Uboldo 2218 gloves.",
+        "uk": "Faggi 3331 paired with Cips 0838 polo and Contagiri 0202 pullover. Accents: Iago 2240 bag and Uboldo 2218 gloves."
+      },
+      "items": [
+        {
+          "name": "Faggi",
+          "code": "3331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/rIMa5PphT0eVb-Z68ByGdQ_1038132126696f4302972469_22145110_02821280XX1.jpg"
+        },
+        {
+          "name": "Cips",
+          "code": "0838",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/L3LH0y22TvKUJ1-PXhhWGg_921510504696f4359b2b916_48995210_02830160XX1.jpg",
+          "modelId": 11
+        },
+        {
+          "name": "Contagiri",
+          "code": "0202",
+          "imageUrl": null
+        },
+        {
+          "name": "Iago",
+          "code": "2240",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        },
+        {
+          "name": "Uboldo",
+          "code": "2218",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281020%29.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 235",
+        "en": "Total Look 235",
+        "ar": "Total Look 235",
+        "ka": "Total Look 235",
+        "hy": "Total Look 235",
+        "lv": "Total Look 235",
+        "lt": "Total Look 235",
+        "pl": "Total Look 235",
+        "uk": "Total Look 235"
+      },
+      "text": {
+        "ru": "Юбка Faggi 3331 стилизована с жакетом Spettatore 3331, сапогами Ustica A 101 и брошью Noseanite 0001 0038.",
+        "en": "Faggi 3331 skirt styled with Spettatore 3331 jacket, Ustica A 101 boots and Noseanite 0001 0038 brooch.",
+        "ar": "Faggi 3331 skirt styled with Spettatore 3331 jacket, Ustica A 101 boots and Noseanite 0001 0038 brooch.",
+        "ka": "Faggi 3331 skirt styled with Spettatore 3331 jacket, Ustica A 101 boots and Noseanite 0001 0038 brooch.",
+        "hy": "Faggi 3331 skirt styled with Spettatore 3331 jacket, Ustica A 101 boots and Noseanite 0001 0038 brooch.",
+        "lv": "Faggi 3331 skirt styled with Spettatore 3331 jacket, Ustica A 101 boots and Noseanite 0001 0038 brooch.",
+        "lt": "Faggi 3331 skirt styled with Spettatore 3331 jacket, Ustica A 101 boots and Noseanite 0001 0038 brooch.",
+        "pl": "Faggi 3331 skirt styled with Spettatore 3331 jacket, Ustica A 101 boots and Noseanite 0001 0038 brooch.",
+        "uk": "Faggi 3331 skirt styled with Spettatore 3331 jacket, Ustica A 101 boots and Noseanite 0001 0038 brooch."
+      },
+      "items": [
+        {
+          "name": "Faggi",
+          "code": "3331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/rIMa5PphT0eVb-Z68ByGdQ_1038132126696f4302972469_22145110_02821280XX1.jpg"
+        },
+        {
+          "name": "Spettatore",
+          "code": "3331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zwGI1zFWTrWaBDjRh3_05w_931393777696f430b4be833_87873246_02821500XX1.jpg",
+          "modelId": 336
+        },
+        {
+          "name": "Ustica A",
+          "code": "101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-kY3Y2KLSViF2xufxBbpgA_1050821030696f42287e3c47_60877874_02801390XX1.jpg"
+        },
+        {
+          "name": "Noseanite",
+          "code": "0001 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1033240925691c57e05e84b3_07304306_02800280XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the unique fabric composition: the presence of 10% silk lends the skirt a delicate sheen and enhanced comfort, synonymous with premium quality.",
+      "Highlight the versatility of the melange texture: it beautifully conceals minor fabric imperfections and pairs easily with both solid knitwear and elaborate jacquard jackets.",
+      "Recommend the classic pencil-skirt cut as a fundamental investment for the business and social wardrobe — a silhouette that flatters the figure and never falls out of fashion."
+    ],
+    "ru": [
+      "Делайте акцент на уникальном составе ткани: наличие 10% шелка обеспечивает юбке деликатный отлив и повышенный комфорт, что является синонимом премиального качества.",
+      "Подчеркните универсальность меланжевой фактуры: она идеально скрывает мелкие замины ткани и легко комбинируется как с однотонным трикотажем, так и со сложными жаккардовыми жакетами.",
+      "Рекомендуйте классический крой 'pencil skirt' как фундаментальную инвестицию в деловой и светский гардероб — это фасон, который визуально стройнит и никогда не выходит из моды."
+    ],
+    "ar": [
+      "ركزي على التركيبة الفريدة للنسيج: فوجود 10% من الحرير يمنح التنورة بريقاً رقيقاً وراحة فائقة، مما يعد مرادفاً للجودة الفاخرة.",
+      "أكدي على تعدد استخدامات الملمس الممزوج (Melange): فهو يخفي التجاعيد الدقيقة للنسيج ويمتزج بسهولة مع التريكو أحادي اللون وكذلك مع سترات الجاكار المعقدة.",
+      "نوصي بقصة 'pencil skirt' الكلاسيكية كاستثمار أساسي في خزانة الملابس الرسمية والمناسبات؛ فهي قصة تمنح القوام نحافة بصرية ولا تخرج أبداً عن الموضة."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი ქსოვილის უნიკალურ შემადგენლობაზე: 10% აბრეშუმის არსებობა ქვედაბოლოს ანიჭებს დელიკატურ ბზინვარებას და გაზრდილ კომფორტს, რაც პრემიუმ ხარისხის სინონიმია.",
+      "ხაზი გაუსვით მელანჟის ფაქტურის უნივერსალურობას: ის იდეალურად ფარავს ქსოვილის მცირე დაჭმუჭვნილობას და ადვილად კომბინირდება როგორც ერთფეროვან ტრიკოტაჟთან, ისე რთულ ჟაკარდის პიჯაკებთან.",
+      "გირჩევთ კლასიკური კროის 'pencil skirt', როგორც ფუნდამენტურ ინვესტიციას საქმიან და საერო გარდერობში — ეს არის ფასონი, რომელიც ვიზუალურად ათხელებს და არასოდეს გადადის მოდიდან."
+    ],
+    "hy": [
+      "Շեշտը դրեք գործվածքի եզակի բաղադրության վրա. 10% մետաքսի առկայությունը կիսաշրջազգեստին ապահովում է նուրբ փայլ և բարձր հարմարավետություն, ինչը պրեմիում որակի հոմանիշ է:",
+      "Ընդգծեք մելանժային հյուսվածքի ունիվերսալությունը. այն կատարելապես թաքցնում է գործվածքի փոքր ծալքերը և հեշտությամբ համադրվում է ինչպես միագույն տրիկոտաժի, այնպես էլ բարդ ժակարդե ժակետների հետ:",
+      "Առաջարկեք դասական 'pencil skirt' կտրվածքը որպես հիմնարար ներդրում գործնական և հասարակական զգեստապահարանում՝ սա ոճ է, որը տեսողականորեն սլացիկ է դարձնում կազմվածքը և երբեք դուրս չի գալիս նորաձևությունից:"
+    ],
+    "lv": [
+      "Lieciet akcentu uz unikālu auduma sastāvu: 10% zīda klātbūtne nodrošina svārkiem delikātu spīdumu un paaugstinātu komfortu, kas ir premium kvalitātes sinonīms.",
+      "Uzsveriet melanža faktūras universālumu: tā lieliski slēpj nelielas auduma burzīšanās un viegli kombinējas gan ar vienkrāsainu trikotāžu, gan ar sarežģītām žakarda žaketēm.",
+      "Iesakiet klasisko 'pencil skirt' piegriezumu kā fundamentālu investīciju lietišķajā un sabiedriskajā garderobē — tas ir fasons, kas vizuāli slaidina un nekad neiziet no modes."
+    ],
+    "lt": [
+      "Akcentuokite unikalią audinio sudėtį: 10% šilko suteikia sijonui subtilų žvilgesį ir didesnį komfortą, o tai yra aukščiausios kokybės sinonimas.",
+      "Pabrėžkite melanžinės faktūros universalumą: ji idealiai paslepia smulkius audinio susiglamžymus ir lengvai dera tiek su vienspalviu trikotažu, tiek su sudėtingais žakardais.",
+      "Rekomenduokite klasikinį 'pencil skirt' kirpimą kaip fundamentalią investiciją į dalykinį ir proginį garderobą — tai modelis, kuris vizualiai lieknina ir niekada neišeina iš mados."
+    ],
+    "pl": [
+      "Postaw na unikalny skład tkaniny: zawartość 10% jedwabiu zapewnia spódnicy delikatny połysk i zwiększony komfort, co jest synonimem jakości premium.",
+      "Podkreśl uniwersalność melanżowej faktury: idealnie ukrywa drobne zagniecenia tkaniny i łatwo łączy się zarówno z jednokolorową dzianiną, jak i ze złożonymi żakardowymi żakietami.",
+      "Rekomenduj klasyczny krój 'pencil skirt' jako fundamentalną inwestycję w garderobę biznesową i wyjściową — to fason, który wizualnie wysmukla i nigdy nie wychodzi z mody."
+    ],
+    "uk": [
+      "Робіть акцент на унікальному складі тканини: наявність 10% шовку забезпечує спідниці делікатний відлив та підвищений комфорт, що є синонімом преміальної якості.",
+      "Підкресліть універсальність меланжевої фактури: вона ідеально приховує дрібні замини тканини та легко комбінується як з однотонним трикотажем, так і зі складними жакардовими жакетами.",
+      "Рекомендуйте класичний крій 'pencil skirt' як фундаментальну інвестицію в діловий та світський гардероб — це фасон, який візуально стрункішає і ніколи не виходить із моди."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The skirt may restrict movement due to its narrow cut.",
+        "a": "The designers incorporated a centre back slit that preserves the clean lines of the silhouette while ensuring full freedom of stride and comfort when seated."
+      },
+      {
+        "q": "How should such a complex fibre blend (wool, silk, cotton) be cared for?",
+        "a": "We recommend exclusively professional dry cleaning to preserve the original texture of the melange and the shape of the darts over time."
+      },
+      {
+        "q": "A below-the-knee length may feel too formal.",
+        "a": "Paired with loafers or ankle boots on a sturdy heel, such as the Ustica A 101, the midi length transforms into an ultra-modern Urban Chic look."
+      },
+      {
+        "q": "Concern that the fabric may feel scratchy due to the wool content.",
+        "a": "The addition of silk and cotton to the fabric composition makes the inner surface smooth and pleasant to the touch, neutralising the traditional roughness of wool fibres."
+      },
+      {
+        "q": "The melange effect may seem less formal than a solid fabric.",
+        "a": "On the contrary, melange lends the look depth and understated sophistication. It is the choice of women who value individuality and exclusivity of material in everyday business style."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Юбка может сковывать движения из-за узкого кроя.",
+        "a": "Дизайнеры предусмотрели центральную шлицу сзади, которая сохраняет чистоту линий силуэта, при этом гарантируя полную свободу шага и комфорт при сидении."
+      },
+      {
+        "q": "Как ухаживать за такой сложной смесью волокон (шерсть, шелк, хлопок)?",
+        "a": "Мы рекомендуем исключительно профессиональную химчистку (dry clean only), чтобы надолго сохранить первозданную структуру меланжа и форму вытачек."
+      },
+      {
+        "q": "Длина ниже колена кажется слишком официальной.",
+        "a": "В сочетании с лоферами или ботильонами на устойчивом каблуке, такими как Ustica A 101, длина миди трансформируется в ультрамодный образ в стиле Urban Chic."
+      },
+      {
+        "q": "Боязнь, что ткань будет колоться из-за наличия шерсти.",
+        "a": "Добавление шелка и хлопка в состав полотна делает внутреннюю поверхность ткани гладкой и приятной на ощупь, нейтрализуя традиционную жесткость шерстяных волокон."
+      },
+      {
+        "q": "Меланжевый эффект выглядит менее формально, чем гладкая ткань.",
+        "a": "Напротив, меланж придает образу глубину и статусную сложность. Это выбор женщин, ценящих индивидуальность и эксклюзивность материалов в повседневном деловом стиле."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تعيق التنورة الحركة بسبب قصتها الضيقة.",
+        "a": "صمم المصممون فتحة مركزية خلفية تحافظ على نقاء خطوط القصة، مع ضمان حرية كاملة في الحركة والراحة عند الجلوس."
+      },
+      {
+        "q": "كيف يمكن العناية بمزيج الألياف المعقد هذا (الصوف، الحرير، القطن)؟",
+        "a": "نوصي حصرياً بالتنظيف الجاف الاحترافي (dry clean only) للحفاظ على بنية النسيج الممزوج وشكل الثنيات لفترة طويلة."
+      },
+      {
+        "q": "الطول الذي يتجاوز الركبة يبدو رسمياً أكثر من اللازم.",
+        "a": "عند تنسيقها مع أحذية الـ Loafers أو البوت القصير ذي الكعب الثابت، مثل Ustica A 101، يتحول الطول المتوسط (ميدي) إلى إطلالة عصرية بأسلوب Urban Chic."
+      },
+      {
+        "q": "القلق من أن القماش قد يسبب حكة بسبب وجود الصوف.",
+        "a": "إضافة الحرير والقطن إلى تركيبة النسيج تجعل السطح الداخلي للقماش ناعماً ولطيفاً على البشرة، مما يزيل الخشونة التقليدية لألياف الصوف."
+      },
+      {
+        "q": "تأثير النسيج الممزوج (الميلانج) يبدو أقل رسمية من القماش السادة.",
+        "a": "على العكس من ذلك، يضفي نسيج الميلانج عمقاً وتعقيداً راقياً على الإطلالة. إنه خيار السيدات اللواتي يقدّرن التميز وتفرد المواد في إطلالات العمل اليومية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "კალთამ შესაძლოა მოძრაობა შეზღუდოს ვიწრო კროის გამო.",
+        "a": "დიზაინერებმა გაითვალისწინეს ცენტრალური ჭრილი უკანა მხარეს, რომელიც ინარჩუნებს სილუეტის ხაზების სისუფთავეს და ამავდროულად გარანტიას იძლევა ნაბიჯის სრული თავისუფლებისა და ჯდომისას კომფორტის."
+      },
+      {
+        "q": "როგორ მოვუაროთ ბოჭკოების ასეთ რთულ ნარევს (მატყლი, აბრეშუმი, ბამბა)?",
+        "a": "ჩვენ გირჩევთ მხოლოდ პროფესიონალურ ქიმწმენდას (dry clean only), რათა დიდხანს შეინარჩუნოთ მელანჟის პირველადი სტრუქტურა და ნაკერების ფორმა."
+      },
+      {
+        "q": "მუხლს ქვემოთ სიგრძე ზედმეტად ოფიციალური ჩანს.",
+        "a": "ლოფერებთან ან მდგრად ქუსლიან ბოტილიონებთან ერთად, როგორიცაა Ustica A 101, მიდი სიგრძე გარდაიქმნება ულტრამოდურ Urban Chic სტილის იმიჯად."
+      },
+      {
+        "q": "შიში იმისა, რომ ქსოვილი იქნება ჩხვლეტია მატყლის არსებობის გამო.",
+        "a": "ქსოვილის შემადგენლობაში აბრეშუმისა და ბამბის დამატება ხდის ზედაპირის შიდა ნაწილს გლუვს და სასიამოვნოს შეხებისას, რაც ანეიტრალებს მატყლის ბოჭკოების ტრადიციულ სიმკაცრეს."
+      },
+      {
+        "q": "მელანჟის ეფექტი უფრო ნაკლებად ფორმალური ჩანს, ვიდრე გლუვი ქსოვილი.",
+        "a": "პირიქით, მელანჟი იმიჯს სძენს სიღრმესა და სტატუსურ სირთულეს. ეს არის იმ ქალების არჩევანი, რომლებიც აფასებენ ინდივიდუალობასა და მასალების ექსკლუზიურობას ყოველდღიურ საქმიან სტილში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կիսաշրջազգեստը կարող է սահմանափակել շարժումները նեղ կտրվածքի պատճառով",
+        "a": "Դիզայներները նախատեսել են հետևի մասում կենտրոնական ճեղքվածք, որը պահպանում է ուրվագծի գծերի մաքրությունը՝ միաժամանակ երաշխավորելով քայլքի լիարժեք ազատություն և հարմարավետություն նստած վիճակում"
+      },
+      {
+        "q": "Ինչպե՞ս խնամել թելերի այսպիսի բարդ խառնուրդը (բուրդ, մետաքս, բամբակ)",
+        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում (dry clean only), որպեսզի երկար ժամանակ պահպանվի մելանժի սկզբնական կառուցվածքը և նետվածքների ձևը"
+      },
+      {
+        "q": "Ծնկից ցածր երկարությունը չափազանց պաշտոնական է թվում",
+        "a": "Լոֆերների կամ կայուն կրունկով կիսաճտքավոր կոշիկների հետ համադրությամբ, ինչպիսիք են Ustica A 101, միդի երկարությունը վերածվում է Urban Chic ոճի գերժամանակակից կերպարի"
+      },
+      {
+        "q": "Վախ, որ գործվածքը բրդի առկայության պատճառով կծակի",
+        "a": "Գործվածքի կազմում մետաքսի և բամբակի ավելացումը դարձնում է գործվածքի ներքին մակերեսը հարթ և շոշափելիս հաճելի՝ չեզոքացնելով բրդյա թելերի ավանդական կոշտությունը"
+      },
+      {
+        "q": "Մելանժային էֆեկտը ավելի քիչ պաշտոնական է երևում, քան հարթ գործվածքը",
+        "a": "Ընդհակառակը, մելանժը կերպարին հաղորդում է խորություն և կարգավիճակային բարդություն: Սա այն կանանց ընտրությունն է, ովքեր գնահատում են անհատականությունը և նյութերի բացառիկությունը առօրյա գործնական ոճում"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Svārki var ierobežot kustības šaurā piegriezuma dēļ.",
+        "a": "Dizaineri ir paredzējuši centrālo šķēlumu aizmugurē, kas saglabā silueta līniju tīrību, vienlaikus garantējot pilnīgu soļa brīvību un komfortu sēžot."
+      },
+      {
+        "q": "Kā kopt tik sarežģītu šķiedru maisījumu (vilna, zīds, kokvilna)?",
+        "a": "Mēs iesakām tikai profesionālu ķīmisko tīrīšanu (dry clean only), lai uz ilgu laiku saglabātu melanžas sākotnējo struktūru un iešuves formu."
+      },
+      {
+        "q": "Garums zem ceļgala šķiet pārāk oficiāls.",
+        "a": "Kombinācijā ar loferiem vai potīšzābakiem uz stabila papēža, tādiem kā Ustica A 101, midi garums transformējas par ultramodernu tēlu Urban Chic stilā."
+      },
+      {
+        "q": "Bailes, ka audums būs ass vilnas klātbūtnes dēļ.",
+        "a": "Zīda un kokvilnas pievienošana auduma sastāvam padara auduma iekšējo virsmu gludu un patīkamu pieskārienam, neitralizējot tradicionālo vilnas šķiedru stingrību."
+      },
+      {
+        "q": "Melanžas efekts izskatās mazāk formāli nekā gluds audums.",
+        "a": "Gluži pretēji, melanža piešķir tēlam dziļumu un statusa sarežģītību. Tā ir izvēle sievietēm, kuras novērtē materiālu individualitāti un ekskluzivitāti ikdienas lietišķajā stilā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Sijonas gali varžyti judesius dėl siauro kirpimo.",
+        "a": "Dizaineriai numatė centrinį skeltuką nugarinėje dalyje, kuris išsaugo silueto linijų grynumą, kartu garantuodamas visišką žingsnio laisvę ir patogumą sėdint."
+      },
+      {
+        "q": "Kaip prižiūrėti tokį sudėtingą pluoštų mišinį (vilna, šilkas, medvilnė)?",
+        "a": "Rekomenduojame išskirtinai profesionalų cheminį valymą (dry clean only), kad ilgam išsaugotumėte pirminę melanžo struktūrą ir įsiuvų formą."
+      },
+      {
+        "q": "Ilgis žemiau kelių atrodo per daug oficialiai.",
+        "a": "Derinant su loaferiais ar aulinukais stabiliu kulnu, tokiais kaip Ustica A 101, midi ilgis virsta ultramoderniu Urban Chic stiliaus įvaizdžiu."
+      },
+      {
+        "q": "Baimė, kad audinys bus šiurkštus dėl vilnos sudėties.",
+        "a": "Šilko ir medvilnės įmaišymas į audinio sudėtį daro vidinį paviršių glotnų ir malonų liesti, neutralizuojant tradicinį vilnos pluošto kietumą."
+      },
+      {
+        "q": "Melanžo efektas atrodo mažiau formaliai nei glotnus audinys.",
+        "a": "Priešingai, melanžas suteikia įvaizdžiui gylio ir statuso. Tai pasirinkimas moterų, vertinančių individualumą ir medžiagų išskirtinumą kasdieniame verslo stiliuje."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Spódnica może krępować ruchy ze względu na wąski krój.",
+        "a": "Projektanci przewidzieli centralne rozcięcie z tyłu, które zachowuje czystość linii sylwetki, gwarantując jednocześnie pełną swobodę kroku i komfort podczas siedzenia."
+      },
+      {
+        "q": "Jak pielęgnować tak skomplikowaną mieszankę włókien (wełna, jedwab, bawełna)?",
+        "a": "Zalecamy wyłącznie profesjonalne czyszczenie chemiczne (dry clean only), aby na długo zachować pierwotną strukturę melanżu oraz formę zaszewek."
+      },
+      {
+        "q": "Długość poniżej kolana wydaje się zbyt oficjalna.",
+        "a": "W połączeniu z mokasynami lub botkami na stabilnym obcasie, takimi jak Ustica A 101, długość midi transformuje się w ultra modny look w stylu Urban Chic."
+      },
+      {
+        "q": "Obawa, że tkanina będzie drapać z powodu obecności wełny.",
+        "a": "Dodatek jedwabiu i bawełny do składu tkaniny sprawia, że wewnętrzna powierzchnia jest gładka i przyjemna w dotyku, neutralizując tradycyjną szorstkość włókien wełnianych."
+      },
+      {
+        "q": "Efekt melanżu wygląda mniej formalnie niż gładka tkanina.",
+        "a": "Wręcz przeciwnie, melanż dodaje stylizacji głębi i statusowej złożoności. To wybór kobiet ceniących indywidualność i ekskluzywność materiałów w codziennym stylu biznesowym."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Спідниця може сковувати рухи через вузький крій.",
+        "a": "Дизайнери передбачили центральну шліцу ззаду, яка зберігає чистоту ліній силуету, при цьому гарантуючи повну свободу кроку та комфорт при сидінні."
+      },
+      {
+        "q": "Як доглядати за такою складною сумішшю волокон (вовна, шовк, бавовна)?",
+        "a": "Ми рекомендуємо виключно професійну хімчистку (dry clean only), щоб надовго зберегти первозданну структуру меланжу та форму виточок."
+      },
+      {
+        "q": "Довжина нижче коліна здається занадто офіційною.",
+        "a": "У поєднанні з лоферами або ботильйонами на стійкому підборі, такими як Ustica A 101, довжина міді трансформується в ультрамодний образ у стилі Urban Chic."
+      },
+      {
+        "q": "Побоювання, що тканина буде колотися через наявність вовни.",
+        "a": "Додавання шовку та бавовни до складу полотна робить внутрішню поверхню тканини гладкою і приємною на дотик, нейтралізуючи традиційну жорсткість вовняних волокон."
+      },
+      {
+        "q": "Меланжевий ефект виглядає менш формально, ніж гладка тканина.",
+        "a": "Навпаки, меланж надає образу глибини та статусної складності. Це вибір жінок, які цінують індивідуальність та ексклюзивність матеріалів у повсякденному діловому стилі."
+      }
+    ]
+  }
+}

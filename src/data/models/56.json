@@ -1,0 +1,382 @@
+{
+  "id": 56,
+  "name": "Fragolino",
+  "description": {
+    "en": "The Fragolino midi skirt by Luisa Spagnoli is the quintessence of classic elegance within the Giorno line. Crafted from a noble wool-blend fabric in a timeless pied-de-poule pattern. The architectural design is accentuated by a deep central pleat that lends the piece runway-worthy volume and movement. A mid-calf length and concealed back zip closure ensure a flawless silhouette, making this skirt a foundational investment in the 'quiet luxury' wardrobe.",
+    "ru": "Юбка-миди Fragolino от Luisa Spagnoli — это квинтэссенция классической элегантности в линии Giorno. Модель выполнена из благородного смесового полотна на основе натуральной шерсти с вневременным узором pied-de-poule («гусиная лапка»). Архитектурный дизайн подчеркнут глубокой центральной складкой, которая придает изделию подиумный объем и динамику. Длина до середины икры и потайная застежка-молния на задней панели обеспечивают безупречный силуэт, делая эту юбку фундаментальной инвестицией в гардероб в стиле «тихой роскоши».",
+    "ar": "تنورة ميدي Fragolino من Luisa Spagnoli هي جوهر الأناقة الكلاسيكية في خط Giorno. صُنعت القطعة من قماش فاخر مخلوط يعتمد على الصوف الطبيعي بنمط pied-de-poule («نقشة قدم الطائر») الخالد. تم إبراز التصميم المعماري بكسرة مركزية عميقة تضفي على المنتج حجماً وديناميكية تليق بمنصات العرض. الطول الذي يصل إلى منتصف الساق وسحاب الإغلاق المخفي في الخلف يضمنان قصة مثالية، مما يجعل هذه التنورة استثماراً أساسياً في خزانة ملابس بأسلوب «الفخامة الهادئة» (quiet luxury).",
+    "ka": "Luisa Spagnoli-ის Fragolino-ს მიდი-ქვედაბოლო არის კლასიკური ელეგანტურობის კვინტესენცია Giorno-ს ხაზში. მოდელი დამზადებულია ბუნებრივი მატყლის ბაზაზე შექმნილი კეთილშობილი შერეული ქსოვილისგან, მარადიული pied-de-poule („ბატის ფეხის“) ნიმუშით. არქიტექტურული დიზაინი ხაზგასმულია ცენტრალური ღრმა ნაკეცით, რომელიც ნაკეთობას პოდიუმის მოცულობასა და დინამიკას სძენს. წვივამდე სიგრძე და უკანა პანელზე არსებული ფარული ელვა-შესაკრავი უზრუნველყოფს უნაკლო სილუეტს, რაც ამ ქვედაბოლოს აქცევს ფუნდამენტურ ინვესტიციად „მშვიდი ფუფუნების“ სტილის გარდერობში.",
+    "hy": "Luisa Spagnoli-ի Fragolino միդի-կիսաշրջազգեստը Giorno գծում դասական նրբագեղության քվինտեսենցիան է։ Մոդելը պատրաստված է բնական բրդի հիմքով ազնվական խառնուրդային կտավից՝ «սագի ոտնաթաթ» (pied-de-poule) հավերժական նախշով։ Ճարտարապետական դիզայնն ընդգծված է կենտրոնական խորը ծալքով, որը հագուստին հաղորդում է պոդիումային ծավալ և դինամիկա։ Մինչև սրունքի մեջտեղը հասնող երկարությունը և հետևի մասում գտնվող թաքնված կայծակաճարմանդը ապահովում են անթերի սիլուետ՝ այս կիսաշրջազգեստը դարձնելով հիմնարար ներդրում «լուռ շքեղության» ոճով զգեստապահարանում։",
+    "lv": "Vidēja garuma svārki Fragolino no Luisa Spagnoli ir klasiskās elegances kvintesence Giorno līnijā. Modelis ir izgatavots no cēla jaukta auduma uz dabiskas vilnas bāzes ar mūžīgu pied-de-poule („vārnu kājiņu”) rakstu. Arhitektonisko dizainu izceļ dziļa centrālā ieloce, kas izstrādājumam piešķir modes skates apjomu un dinamiku. Garums līdz ikru vidum un slēpts rāvējslēdzēja aizdare aizmugurējā panelī nodrošina nevainojamu siluetu, padarot šos svārkus par fundamentālu investīciju garderobē „klusās greznības” stilā.",
+    "lt": "„Fragolino“ midi sijonas iš Luisa Spagnoli — tai klasikinės elegancijos kvintesencija „Giorno“ linijoje. Modelis pasiūtas iš kilnaus mišraus audinio natūralios vilnos pagrindu su laikui nepavaldžiu „pied-de-poule“ („varnos kojelės“) raštu. Architektūrinį dizainą pabrėžia gili centrinė klostė, suteikianti gaminiui podiumo apimties ir dinamikos. Ilgis iki blauzdų vidurio ir paslėptas užtrauktukas galinėje dalyje užtikrina nepriekaištingą siluetą, todėl šis sijonas yra esminė investicija į „tylios prabangos“ stiliaus garderobą.",
+    "pl": "**Tłumaczenie:** „Spódnica midi Fragolino marki Luisa Spagnoli to kwintesencja klasycznej elegancji w linii Giorno. Model został wykonany ze szlachetnej dzianiny na bazie naturalnej wełny, ozdobionej ponadczasowym wzorem *pied-de-poule* (zebrana w jodełkę/psia stopka). Architektoniczny krój podkreśla głęboka, centralna kontrafałda, która nadaje całości objętość i wybiegową dynamikę. Długość do połowy łydki oraz kryty zamek błyskawiczny z tyłu dbają o nieskazitelną sylwetkę, czyniąc tę spódnicę fundamentalną inwestycją w garderobę w duchu *quiet luxury*.”",
+    "uk": "Спідниця-міді Fragolino від Luisa Spagnoli — це квінтесенція класичної елегантності в лінії Giorno. Модель виконана з благородного сумішевого полотна на основі натуральної вовни з позачасовим візерунком pied-de-poule («гусяча лапка»). Архітектурний дизайн підкреслений глибокою центральною складкою, яка додає виробу подіумного об'єму та динаміки. Довжина до середини ікри та потайна застібка-блискавка на задній панелі забезпечують бездоганний силует, роблячи цю спідницю фундаментальною інвестицією в гардероб у стилі «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Var Beige Nocciola",
+      "code": "3274",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7yuoR1bWTgyth5POk6xtow_2013389323696f422d086a32_26895525_02820060XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 77",
+        "en": "Total Look 77",
+        "ar": "Total Look 77",
+        "ka": "Total Look 77",
+        "hy": "Total Look 77",
+        "lv": "Total Look 77",
+        "lt": "Total Look 77",
+        "pl": "Total Look 77",
+        "uk": "Total Look 77"
+      },
+      "text": {
+        "ru": "юбка Fragolino 3274, жакет Merende 2234, рубашка Lucinda 0201, бейсболка Renno 0930 и сумка Iago 2240 0002.",
+        "en": "Fragolino 3274 skirt, Merende 2234 jacket, Lucinda 0201 shirt, Renno 0930 baseball cap and Iago 2240 0002 bag.",
+        "ar": "Fragolino 3274 skirt, Merende 2234 jacket, Lucinda 0201 shirt, Renno 0930 baseball cap and Iago 2240 0002 bag.",
+        "ka": "Fragolino 3274 skirt, Merende 2234 jacket, Lucinda 0201 shirt, Renno 0930 baseball cap and Iago 2240 0002 bag.",
+        "hy": "Fragolino 3274 skirt, Merende 2234 jacket, Lucinda 0201 shirt, Renno 0930 baseball cap and Iago 2240 0002 bag.",
+        "lv": "Fragolino 3274 skirt, Merende 2234 jacket, Lucinda 0201 shirt, Renno 0930 baseball cap and Iago 2240 0002 bag.",
+        "lt": "Fragolino 3274 skirt, Merende 2234 jacket, Lucinda 0201 shirt, Renno 0930 baseball cap and Iago 2240 0002 bag.",
+        "pl": "Fragolino 3274 skirt, Merende 2234 jacket, Lucinda 0201 shirt, Renno 0930 baseball cap and Iago 2240 0002 bag.",
+        "uk": "Fragolino 3274 skirt, Merende 2234 jacket, Lucinda 0201 shirt, Renno 0930 baseball cap and Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Fragolino",
+          "code": "3274",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7yuoR1bWTgyth5POk6xtow_2013389323696f422d086a32_26895525_02820060XX1.jpg"
+        },
+        {
+          "name": "Merende",
+          "code": "2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/748832174691f157692a0b6_36843969_02790440XX1.jpg",
+          "modelId": 442
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 138",
+        "en": "Total Look 138",
+        "ar": "Total Look 138",
+        "ka": "Total Look 138",
+        "hy": "Total Look 138",
+        "lv": "Total Look 138",
+        "lt": "Total Look 138",
+        "pl": "Total Look 138",
+        "uk": "Total Look 138"
+      },
+      "text": {
+        "ru": "юбка Fragolino 3274, жилет Cremina 2331 2219, пуловер Caprese B 2331, сапоги Ulisside 2240 0038, серьги Nagorno 0002 и сумка Iago 2240 0002.",
+        "en": "Fragolino 3274 skirt, Cremina 2331 2219 vest, Caprese B 2331 pullover, Ulisside 2240 0038 boots, Nagorno 0002 earrings and Iago 2240 0002 bag.",
+        "ar": "Fragolino 3274 skirt, Cremina 2331 2219 vest, Caprese B 2331 pullover, Ulisside 2240 0038 boots, Nagorno 0002 earrings and Iago 2240 0002 bag.",
+        "ka": "Fragolino 3274 skirt, Cremina 2331 2219 vest, Caprese B 2331 pullover, Ulisside 2240 0038 boots, Nagorno 0002 earrings and Iago 2240 0002 bag.",
+        "hy": "Fragolino 3274 skirt, Cremina 2331 2219 vest, Caprese B 2331 pullover, Ulisside 2240 0038 boots, Nagorno 0002 earrings and Iago 2240 0002 bag.",
+        "lv": "Fragolino 3274 skirt, Cremina 2331 2219 vest, Caprese B 2331 pullover, Ulisside 2240 0038 boots, Nagorno 0002 earrings and Iago 2240 0002 bag.",
+        "lt": "Fragolino 3274 skirt, Cremina 2331 2219 vest, Caprese B 2331 pullover, Ulisside 2240 0038 boots, Nagorno 0002 earrings and Iago 2240 0002 bag.",
+        "pl": "Fragolino 3274 skirt, Cremina 2331 2219 vest, Caprese B 2331 pullover, Ulisside 2240 0038 boots, Nagorno 0002 earrings and Iago 2240 0002 bag.",
+        "uk": "Fragolino 3274 skirt, Cremina 2331 2219 vest, Caprese B 2331 pullover, Ulisside 2240 0038 boots, Nagorno 0002 earrings and Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Fragolino",
+          "code": "3274",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7yuoR1bWTgyth5POk6xtow_2013389323696f422d086a32_26895525_02820060XX1.jpg"
+        },
+        {
+          "name": "Cremina",
+          "code": "2331 2219",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/BDt_ZIILRNmGizWnsP5YxA_412933266696f435c3f9cf4_66565473_02830290XX1.jpg",
+          "modelId": 14
+        },
+        {
+          "name": "Caprese B",
+          "code": "2331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q-dcDsRCTh-irYmaGwi0fg_1660235822696f430d81f0d5_01266196_02830040XX1.jpg",
+          "modelId": 3
+        },
+        {
+          "name": "Ulisside",
+          "code": "2240 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg"
+        },
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG",
+          "modelId": 198
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw attention to the pied-de-poule pattern: a symbol of status and belonging to European aristocracy that remains relevant regardless of seasonal trends.",
+      "Highlight the craftsmanship of the cut: the deep center pleat creates the essential vertical line that visually elongates the silhouette and lends the walk a particular grace.",
+      "Recommend Fragolino as the foundation for layered 'Urban Luxe' looks — paired with tall leather Ulisside boots and cashmere knitwear."
+    ],
+    "ru": [
+      "Акцентируйте внимание на паттерне pied-de-poule: это символ статуса и принадлежности к европейской аристократии, который остается актуальным вне зависимости от сезонных трендов.",
+      "Подчеркните мастерство кроя: глубокая центральная складка создает необходимую вертикаль, которая визуально вытягивает силуэт и придает походке особую грацию.",
+      "Рекомендуйте Fragolino как основу для создания многослойных образов в стиле 'Urban Luxe' — в сочетании с высокими кожаными сапогами Ulisside и кашемировым трикотажем."
+    ],
+    "ar": [
+      "سلطي الضوء على نقشة pied-de-poule: فهي رمز للمكانة والانتماء للأرستقراطية الأوروبية، وتظل مواكبة للموضة بغض النظر عن اتجاهات المواسم.",
+      "أبرزي براعة القصّة: فالطية المركزية العميقة تخلق خطاً عمودياً ضرورياً يعمل على إطالة القوام بصرياً ويمنح المشية أناقة خاصة.",
+      "رشحي Fragolino كأساس لابتكار إطلالات متعددة الطبقات بأسلوب 'Urban Luxe' عند تنسيقه مع أحذية Ulisside الجلدية الطويلة وملابس التريكو المصنوعة من الكشمير."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება pied-de-poule-ის პატერნზე: ეს არის სტატუსისა და ევროპულ არისტოკრატიასთან კუთვნილების სიმბოლო, რომელიც აქტუალური რჩება სეზონური ტენდენციების მიუხედავად.",
+      "ხაზი გაუსვით ჭრის ოსტატობას: ღრმა ცენტრალური ნაკეცი ქმნის აუცილებელ ვერტიკალს, რომელიც ვიზუალურად აგრძელებს სილუეტს და სიარულს განსაკუთრებულ გრაციოზულობას ანიჭებს.",
+      "რეკომენდაცია გაუწიეთ Fragolino-ს, როგორც 'Urban Luxe' სტილში მრავალფენიანი ლუქების შექმნის საფუძველს — მაღალყელიან ტყავის ჩექმა Ulisside-თან და ქაშმირის ტრიკოტაჟთან ერთად."
+    ],
+    "hy": [
+      "Շեշտը դրեք pied-de-poule նախշի վրա՝ սա կարգավիճակի և եվրոպական արիստոկրատիային պատկանելության խորհրդանիշ է, որը մնում է արդիական՝ անկախ սեզոնային թրենդներից։",
+      "Ընդգծեք ձևվածքի վարպետությունը՝ կենտրոնական խորը ծալքը ստեղծում է անհրաժեշտ ուղղահայաց գիծ, որը տեսողականորեն երկարացնում է սիլուետը և քայլվածքին հաղորդում առանձնահատուկ նրբագեղություն։",
+      "Առաջարկեք Fragolino-ն որպես 'Urban Luxe' ոճի բազմաշերտ կերպարներ ստեղծելու հիմք՝ համադրելով Ulisside բարձր կաշվե երկարաճիտ կոշիկների և քաշմիրե տրիկոտաժի հետ։"
+    ],
+    "lv": [
+      "Akcentējiet uzmanību uz pied-de-poule rakstu: tas ir statusa un piederības Eiropas aristokrātijai simbols, kas paliek aktuāls neatkarīgi no sezonas tendencēm.",
+      "Izceliet piegriezuma meistarību: dziļa centrālā ieloce rada nepieciešamo vertikāli, kas vizuāli pagarina siluetu un piešķir gaitai īpašu grāciju.",
+      "Iesakiet Fragolino kā pamatu daudzslāņainu tēlu veidošanai 'Urban Luxe' stilā — kombinācijā ar augstiem ādas zābakiem Ulisside un kašmira trikotāžu."
+    ],
+    "lt": [
+      "Akcentuokite „pied-de-poule“ raštą: tai statuso ir priklausymo Europos aristokratijai simbolis, išliekantis aktualus nepriklausomai nuo sezoninių tendencijų.",
+      "Pabrėžkite kirpimo meistriškumą: gili centrinė klostė sukuria būtiną vertikalę, kuri vizualiai ištęsia siluetą ir suteikia eisenai ypatingo grakštumo.",
+      "Rekomenduokite Fragolino kaip pagrindą kuriant daugiasluoksnius „Urban Luxe“ stiliaus derinius – kartu su aukštaauliais odiniais batais Ulisside ir kašmyro trikotažu."
+    ],
+    "pl": [
+      "Akcentuj uwagę na wzór pied-de-poule: to symbol statusu i przynależności do europejskiej arystokracji, który pozostaje aktualny niezależnie od sezonowych trendów.",
+      "Podkreśl mistrzostwo kroju: głęboka centralna fałda tworzy pożądaną linię pionową, która optycznie wysmukla sylwetkę i nadaje krokowi szczególną grację.",
+      "Rekomenduj Fragolino jako bazę do tworzenia warstwowych stylizacji w stylu 'Urban Luxe' — w połączeniu z wysokimi skórzanymi kozakami Ulisside oraz kaszmirowym dzianinami."
+    ],
+    "uk": [
+      "Акцентуйте увагу на паттерні pied-de-poule: це символ статусу та приналежності до європейської аристократії, який залишається актуальним незалежно від сезонних трендів.",
+      "Підкресліть майстерність крою: глибока центральна складка створює необхідну вертикаль, яка візуально витягує силует і додає ході особливої грації.",
+      "Рекомендуйте Fragolino як основу для створення багатошарових образів у стилі 'Urban Luxe' — у поєднанні з високими шкіряними чоботами Ulisside та кашеміровим трикотажем."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The houndstooth print may seem too conservative.",
+        "a": "The brand's designers reimagined this classic, giving the Fragolino skirt a fashion-forward midi length and a deep pleat. This creates a contemporary, dynamic look, particularly when styled with the Renno cap."
+      },
+      {
+        "q": "A mid-calf length seems challenging when it comes to choosing footwear.",
+        "a": "This is, in fact, the most prestigious length. We recommend pairing it with low-heeled Ulisside boots or ankle boots on a sturdy heel to achieve perfect proportions."
+      },
+      {
+        "q": "Concern that the fabric may lose its shape and the pleat may open.",
+        "a": "The wool blend (59% wool, 29% polyester) guarantees the piece retains its architectural shape and the pleat its crisp definition, even with active wear throughout the day."
+      },
+      {
+        "q": "How should such a textured fabric be cared for?",
+        "a": "To preserve the pristine structure of the wool fibres and the contrast of the pattern, we recommend exclusively professional cleaning, ensuring the longevity of the piece."
+      },
+      {
+        "q": "The Beige Nocciola colour may blend into the skin tone.",
+        "a": "Shade 3274 has sufficient depth thanks to its contrasting thread weave. It serves as a refined, neutral backdrop that can be brightened with a bold top or accessories."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Принт «гусиная лапка» может выглядеть слишком консервативно.",
+        "a": "Дизайнеры бренда переосмыслили классику, добавив в юбку Fragolino актуальную длину миди и глубокую складку. Это делает образ современным и динамичным, особенно при стилизации с кепкой Renno."
+      },
+      {
+        "q": "Длина до середины икры кажется сложной в подборе обуви.",
+        "a": "Именно эта длина является наиболее статусной. Мы рекомендуем сочетать её с сапогами Ulisside на низком ходу или ботильонами на устойчивом каблуке для достижения идеальных пропорций."
+      },
+      {
+        "q": "Боязнь, что ткань потеряет форму и складка разойдется.",
+        "a": "Использование смесовой шерсти (59% шерсть, 29% полиэстер) гарантирует сохранение архитектурной формы изделия и четкости складки даже при активной эксплуатации в течение дня."
+      },
+      {
+        "q": "Как правильно ухаживать за такой фактурной тканью?",
+        "a": "Для сохранения первозданной структуры волокон шерсти и контрастности рисунка мы рекомендуем исключительно профессиональную чистку, что обеспечит долговечность изделия."
+      },
+      {
+        "q": "Цвет Beige Nocciola может сливаться с тоном кожи.",
+        "a": "Оттенок 3274 обладает достаточной глубиной благодаря контрастному плетению нитей. Он служит благородным нейтральным фоном, который можно подсветить ярким топом или аксессуарами."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تبدو طبعة «أقدام الدجاج» تقليدية للغاية.",
+        "a": "أعاد مصممو العلامة التجارية صياغة الكلاسيكيات بإضافة طول الميدي العصري والكسرات العميقة لتنورة Fragolino، مما يضفي لمسة عصرية وديناميكية، خاصة عند تنسيقها مع قبعة Renno."
+      },
+      {
+        "q": "يبدو طول منتصف الساق صعباً في اختيار الحذاء المناسب.",
+        "a": "هذا الطول تحديداً هو الأكثر رقياً. ننصح بتنسيقها مع جزمة Ulisside ذات الكعب المسطح أو حذاء بوت بكعب ثابت لتحقيق التوازن المثالي."
+      },
+      {
+        "q": "الخوف من فقدان القماش لشكل الكسرات.",
+        "a": "استخدام الصوف المخلوط (59% صوف، 29% بوليستر) يضمن الحفاظ على الهيكل المعماري للقطعة ووضوح الكسرات حتى مع الاستخدام النشط طوال اليوم."
+      },
+      {
+        "q": "كيف يمكن العناية بمثل هذا القماش ذي الملمس البارز؟",
+        "a": "للحفاظ على الهيكل الأصلي لألياف الصوف وتباين النقوش، نوصي حصرياً بالتنظيف الاحترافي لضمان ديمومة القطعة."
+      },
+      {
+        "q": "قد يمتزج لون Beige Nocciola مع لون البشرة.",
+        "a": "يتمتع اللون 3274 بعمق كافٍ بفضل نسيج الخيوط المتباين. إنه يعمل كخلفية محايدة ونبيلة يمكن إبرازها بقطع علوية زاهية أو إكسسوارات مميزة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "პრინტი „ბატის ფეხი“ შეიძლება გამოიყურებოდეს ზედმეტად კონსერვატულად.",
+        "a": "ბრენდის დიზაინერებმა ხელახლა გაიაზრეს კლასიკა და ქვედაბოლო Fragolino-ს დაუმატეს აქტუალური მიდი-სიგრძე და ღრმა ნაკეცი. ეს იმიჯს ხდის თანამედროვე და დინამიურს, განსაკუთრებით კეპკა Renno-სთან სტილიზებისას."
+      },
+      {
+        "q": "შუა წვივამდე სიგრძე რთულად მოსაჩვენებელია ფეხსაცმლის შერჩევისას.",
+        "a": "სწორედ ეს სიგრძეა ყველაზე სტატუსური. ჩვენ გირჩევთ შეუხამოთ ის დაბალძირიან ჩექმებს Ulisside ან მდგრადი ქუსლის მქონე ბოტილიონებს იდეალური პროპორციების მისაღწევად."
+      },
+      {
+        "q": "შიში იმისა, რომ ქსოვილი დაკარგავს ფორმას და ნაკეცი გაიშლება.",
+        "a": "შერეული მატყლის (59% მატყლი, 29% პოლიესტერი) გამოყენება უზრუნველყოფს ნაკეთობის არქიტექტურული ფორმისა და ნაკეცის სიმკვეთრის შენარჩუნებას დღის განმავლობაში აქტიური ექსპლუატაციის დროსაც კი."
+      },
+      {
+        "q": "როგორ მოვუაროთ ასეთ ფაქტურულ ქსოვილს?",
+        "a": "მატყლის ბოჭკოების პირველადი სტრუქტურისა და ნახატის კონტრასტულობის შესანარჩუნებლად, ჩვენ გირჩევთ ექსკლუზიურად პროფესიონალურ წმენდას, რაც უზრუნველყოფს ნაკეთობის ხანგრძლივობას."
+      },
+      {
+        "q": "ფერი Beige Nocciola შესაძლოა კანის ტონს შეერწყას.",
+        "a": "ტონს 3274 გააჩნია საკმარისი სიღრმე ძაფების კონტრასტული წვნის წყალობით. იგი ემსახურება როგორც კეთილშობილური ნეიტრალური ფონი, რომლის გამოკვეთაც შესაძლებელია მკვეთრი ტოპით ან აქსესუარებით."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Սագի թաթ» պրինտը կարող է չափազանց պահպանողական թվալ",
+        "a": "Բրենդի դիզայներները վերաիմաստավորել են դասականը՝ Fragolino կիսաշրջազգեստին ավելացնելով արդիական միդի երկարություն և խորը ծալք։ Սա կերպարը դարձնում է ժամանակակից և դինամիկ, հատկապես Renno գլխարկի հետ համադրելիս։"
+      },
+      {
+        "q": "Միջին սրունքի երկարությունը բարդ է թվում կոշիկ ընտրելիս",
+        "a": "Հենց այս երկարությունն է ամենակարգավիճակայինը։ Մենք խորհուրդ ենք տալիս այն համադրել Ulisside ցածր կոշիկների կամ կայուն կրունկով կիսաճտքավոր կոշիկների հետ՝ իդեալական համամասնությունների հասնելու համար։"
+      },
+      {
+        "q": "Վախ, որ գործվածքը կկորցնի ձևը և ծալքը կբացվի",
+        "a": "Խառը բրդի օգտագործումը (59% բուրդ, 29% պոլիեսթեր) երաշխավորում է իրի ճարտարապետական ձևի և ծալքի հստակության պահպանումը նույնիսկ օրվա ընթացքում ակտիվ օգտագործման դեպքում։"
+      },
+      {
+        "q": "Ինչպե՞ս ճիշտ խնամել այսպիսի փաստուրային գործվածքը",
+        "a": "Բրդի մանրաթելերի սկզբնական կառուցվածքը և նախշի հակադրությունը պահպանելու համար մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ մաքրում, ինչը կապահովի իրի երկարակեցությունը։"
+      },
+      {
+        "q": "Beige Nocciola գույնը կարող է միաձուլվել մաշկի երանգի հետ",
+        "a": "3274 երանգն օժտված է բավարար խորությամբ՝ շնորհիվ թելերի հակադիր հյուսվածքի։ Այն ծառայում է որպես ազնիվ չեզոք ֆոն, որը կարելի է ընդգծել վառ տոպով կամ աքսեսուարներով։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "„Vistas kājiņas” raksts var izskatīties pārāk konservatīvi.",
+        "a": "Zīmola dizaineri ir pārvērtējuši klasiku, pievienojot svārkiem Fragolino aktuālo midi garumu un dziļu ieloci. Tas padara tēlu modernu un dinamisku, īpaši stilizējot ar cepuri Renno."
+      },
+      {
+        "q": "Garums līdz ikru vidum šķiet sarežģīts apavu izvēlē.",
+        "a": "Tieši šis garums ir visstatusiskākais. Mēs iesakām to kombinēt ar zābakiem Ulisside uz zemas zoles vai potīšzābakiem uz stabila papēža, lai sasniegtu ideālas proporcijas."
+      },
+      {
+        "q": "Bažas, ka audums zaudēs formu un ieloce atvērsies.",
+        "a": "Jauktās vilnas (59% vilna, 29% poliesteris) izmantošana garantē izstrādājuma arhitektoniskās formas un ieloces skaidrības saglabāšanu pat aktīvas lietošanas laikā visas dienas garumā."
+      },
+      {
+        "q": "Kā pareizi kopt tik faktūru bagātu audumu?",
+        "a": "Lai saglabātu vilnas šķiedru sākotnējo struktūru un raksta kontrastu, mēs iesakām tikai profesionālo tīrīšanu, kas nodrošinās izstrādājuma ilgmūžību."
+      },
+      {
+        "q": "Krāsa Beige Nocciola var saplūst ar ādas toni.",
+        "a": "Tonim 3274 piemīt pietiekams dziļums, pateicoties kontrastējošam diegu pinumam. Tas kalpo kā cēls neitrāls fons, ko var izcelt ar košu topu vai aksesuāriem."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Hanzos pėdos“ (varnos kojos) raštas gali atrodyti per daug konservatyviai.",
+        "a": "Prekės ženklo dizaineriai iš naujo interpretavo klasiką, pridėdami Fragolino sijonui aktualų midi ilgį ir gilią klostę. Tai daro įvaizdį modernų ir dinamišką, ypač derinant su kepuraite Renno."
+      },
+      {
+        "q": "Ilgis iki blauzdos vidurio atrodo sudėtingas derinant batus.",
+        "a": "Būtent šis ilgis yra pats solidžiausias. Rekomenduojame derinti jį su žemais aulinukais Ulisside arba botiljonais su stabiliu kulnu, kad pasiektumėte tobulas proporcijas."
+      },
+      {
+        "q": "Baimė, kad audinys praras formą ir klostė išsiskleis.",
+        "a": "Mišraus vilnos audinio (59 % vilna, 29 % poliesteris) naudojimas garantuoja gaminio architektūrinės formos išsaugojimą ir klostės ryškumą net ir aktyviai dėvint visą dieną."
+      },
+      {
+        "q": "Kaip tinkamai prižiūrėti tokį faktūrinį audinį?",
+        "a": "Kad išsaugotumėte pradinę vilnos pluoštų struktūrą ir rašto kontrastą, rekomenduojame tik profesionalų valymą, kuris užtikrins gaminio ilgaamžiškumą."
+      },
+      {
+        "q": "Beige Nocciola spalva gali susilieti su odos tonu.",
+        "a": "Atspalvis 3274 pasižymi pakankamu gyliu dėl kontrastingo siūlų pynimo. Jis tarnauja kaip kilnus neutralus fonas, kurį galima paryškinti ryškiu viršumi ar aksesuarais."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wzór w „kurzą łapkę” może wyglądać zbyt konserwatywnie.",
+        "a": "Projektanci marki zinterpretowali klasykę na nowo, dodając spódnicy Fragolino aktualną długość midi i głęboką plisę. Sprawia to, że stylizacja jest nowoczesna i dynamiczna, szczególnie w połączeniu z czapką Renno."
+      },
+      {
+        "q": "Długość do połowy łydki wydaje się trudna w doborze obuwia.",
+        "a": "Właśnie ta długość jest najbardziej prestiżowa. Zalecamy łączyć ją z kozakami Ulisside na płaskim obcasie lub botkami na stabilnym słupku dla osiągnięcia idealnych proporcji."
+      },
+      {
+        "q": "Obawa, że tkanina straci formę, a plisa się rozprostuje.",
+        "a": "Użycie mieszanki wełny (59% wełna, 29% poliester) gwarantuje zachowanie architektonicznej formy produktu i wyrazistości plisy nawet przy aktywnym użytkowaniu w ciągu dnia."
+      },
+      {
+        "q": "Jak prawidłowo dbać o tak fakturowaną tkaninę?",
+        "a": "Aby zachować pierwotną strukturę włókien wełny i kontrastowość wzoru, zalecamy wyłącznie profesjonalne czyszczenie, co zapewni trwałość produktu."
+      },
+      {
+        "q": "Kolor Beige Nocciola może zlewać się z odcieniem skóry.",
+        "a": "Odcień 3274 posiada wystarczającą głębię dzięki kontrastowemu splotowi nici. Służy on jako szlachetne neutralne tło, które można rozświetlić wyrazistym topem lub dodatkami."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Принт «гусяча лапка» може виглядати надто консервативно.",
+        "a": "Дизайнери бренду переосмислили класику, додавши у спідницю Fragolino актуальну довжину міді та глибоку складку. Це робить образ сучасним та динамічним, особливо при стилізації з кепкою Renno."
+      },
+      {
+        "q": "Довжина до середини ікри здається складною у підборі взуття.",
+        "a": "Саме ця довжина є найбільш статусною. Ми рекомендуємо поєднувати її з чоботами Ulisside на низькому ходу або ботильйонами на стійких підборах для досягнення ідеальних пропорцій."
+      },
+      {
+        "q": "Боязнь, що тканина втратить форму і складка розійдеться.",
+        "a": "Використання сумішевої вовни (59% вовна, 29% поліестер) гарантує збереження архітектурної форми виробу та чіткості складки навіть при активній експлуатації протягом дня."
+      },
+      {
+        "q": "Як правильно доглядати за такою фактурною тканиною?",
+        "a": "Для збереження первинної структури волокон вовни та контрастності малюнка ми рекомендуємо виключно професійну чистку, що забезпечить довговічність виробу."
+      },
+      {
+        "q": "Колір Beige Nocciola може зливатися з тоном шкіри.",
+        "a": "Відтінок 3274 володіє достатньою глибиною завдяки контрастному плетінню ниток. Він служить благородним нейтральним фоном, який можна підсвітити яскравим топом або аксесуарами."
+      }
+    ]
+  }
+}

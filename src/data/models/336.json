@@ -1,0 +1,416 @@
+{
+  "id": 336,
+  "name": "Spettatore",
+  "description": {
+    "en": "The flawless double-breasted Spettatore jacket from Luisa Spagnoli is an ode to classic style, reimagined through the lens of contemporary luxury. Crafted from an exquisite blended tweed, where noble wool is harmoniously interwoven with delicate cotton and precious silk, creating a distinctive texture and subtle shimmer. The architectural fitted silhouette (linea sfiancata) and classic lapels underscore the status of the look, while angled framed welt pockets add dynamism and refinement. Fabric composition: 35% polyester, 25% acrylic, 15% wool, 13% cotton, 10% silk.",
+    "ru": "Безупречный двубортный жакет Spettatore от Luisa Spagnoli — это ода классическому стилю, переосмысленному сквозь призму современной роскоши. Модель выполнена из изысканного смесового твида, где благородная шерсть гармонично переплетается с нежным хлопком и драгоценным шелком, создавая неповторимую фактуру и деликатное мерцание. Архитектурный приталенный силуэт (linea sfiancata) и классические лацканы подчеркивают статусность образа, а косые прорезные карманы «в рамку» добавляют динамичности и утонченности. Состав ткани: 35% полиэстер, 25% акрил, 15% шерсть, 13% хлопок, 10% шелк.",
+    "ar": "تعد سترة Spettatore المزدوجة الصدر التي لا تشوبها شائبة من Luisa Spagnoli قصيدة للأسلوب الكلاسيكي، المُعاد صياغته من خلال عدسة الفخامة المعاصرة. صُمم الموديل من تويد مخلوط رائع، حيث يتداخل الصوف النبيل بشكل متناغم مع القطن الناعم والحرير الثمين، مما يخلق ملمساً فريداً وبريقاً رقيقاً. تؤكد القصة المعمارية المحددة للخصر (linea sfiancata) والياقات الكلاسيكية على مكانة المظهر، بينما تضفي الجيوب المائلة المقطوعة \"في إطار\" ديناميكية ورقياً. تركيب القماش: 35% بوليستر، 25% أكريليك، 15% صوف، 13% قطن، 10% حرير.",
+    "ka": "Luisa Spagnoli-ის უნაკლო ორბორტიანი жакет Spettatore — ეს არის ოდა კლასიკური სტილისადმი, რომელიც გადააზრებულია თანამედროვე ფუფუნების პრიზმაში. მოდელი დამზადებულია დახვეწილი შერეული ტვიდისგან, სადაც არისტოკრატული მატყლი ჰარმონიულად იწვნება ნაზ ბამბასთან და ძვირფას აბრეშუმთან, რაც ქმნის უნიკალურ ფაქტურასა და დელიკატურ ციმციმს. არქიტექტურული შემოტმასნილი სილუეტი (linea sfiancata) და კლასიკური ლაცკანები ხაზს უსვამს იმიჯის სტატუსს, ხოლო ირიბი ჩაჭრილი ჯიბეები «ჩარჩოში» მატებს დინამიურობასა და დახვეწილობას. ქსოვილის შემადგენლობა: 35% პოლიესტერი, 25% აკრილი, 15% მატყლი, 13% ბამბა, 10% აბრეშუმი.",
+    "hy": "Luisa Spagnoli-ի անթերի Spettatore կրկնակի կոճկվող ժակետը ձոն է դասական ոճին, որը վերաիմաստավորվել է ժամանակակից շքեղության պրիզմայով։ Մոդելը պատրաստված է նրբագեղ խառը թվիդից, որտեղ ազնվական բուրդը ներդաշնակորեն միահյուսվում է նուրբ բամբակի և թանկարժեք մետաքսի հետ՝ ստեղծելով անկրկնելի հյուսվածք և նուրբ փայլ։ Ճարտարապետական ընդգծված իրանի ուրվագիծը (linea sfiancata) և դասական լացկանները շեշտում են կերպարի կարգավիճակը, իսկ թեք կտրվածքով «շրջանակի մեջ» գրպանները հավելում են դինամիկա և նրբագեղություն։ Գործվածքի կազմը՝ 35% պոլիեսթեր, 25% ակրիլ, 15% բուրդ, 13% բամբակ, 10% մետաքս։",
+    "lv": "Nevainojamā Spettatore divrindu jaka no Luisa Spagnoli ir oda klasiskajam stilam, kas pārdomāta caur mūsdienu greznības prizmu. Modelis ir izgatavots no izsmalcināta tvīda maisījuma, kur cēla vilna harmoniski savijas ar maigu kokvilnu un dārgu zīdu, radot neatkārtojamu faktūru un maigu mirdzumu. Arhitektoniskais piegulošais siluets (linea sfiancata) un klasiskie atlokai uzsver tēla statusu, bet slīpās iegrieztās kabatas «ar rāmīti» piešķir dinamiku un izsmalcinātību. Auduma sastāvs: 35% poliesters, 25% akrils, 15% vilna, 13% kokvilna, 10% zīds.",
+    "lt": "Nepriekaištingas dvieilis Spettatore švarkas iš Luisa Spagnoli — tai odė klasikiniam stiliui, permąstytam per modernios prabangos prizmę. Modelis pagamintas iš rafinuoto mišraus tvido, kuriame kilni vilna harmoningai persipina su švelnia medvilne ir brangiu šilku, sukurdama nepakartojamą faktūrą ir subtilų žvilgesį. Architektūrinis įliemenuotas siluetas (linea sfiancata) ir klasikiniai atlapai pabrėžia įvaizdžio statusą, o įstrižos įleidžiamos kišenės „į rėmelį“ suteikia dinamiškumo ir subtilumo. Audinio sudėtis: 35% poliesteris, 25% akrilas, 15% vilna, 13% medvilnė, 10% šilkas.",
+    "pl": "Nieskazitelny dwurzędowy żakiet Spettatore od Luisa Spagnoli to oda do klasycznego stylu, przedstawionego przez pryzmat współczesnego luksusu. Model wykonany jest z wykwintnego mieszanego tweedu, gdzie szlachetna wełna harmonijnie przeplata się z delikatną bawełną i drogocennym jedwabiem, tworząc niepowtarzalną fakturę i subtelny blask. Architektoniczna, dopasowana sylwetka (linea sfiancata) oraz klasyczne klapy podkreślają prestiżowy charakter, a skośne cięte kieszenie z wypustkami dodają dynamiki i wyrafinowania. Skład tkaniny: 35% poliester, 25% akryl, 15% wełna, 13% bawełna, 10% jedwab.",
+    "uk": "Бездоганний двобортний жакет Spettatore від Luisa Spagnoli — це ода класичному стилю, переосмисленому крізь призму сучасної розкоші. Модель виконана з вишуканого сумішевого твіду, де благородна вовна гармонійно переплітається з ніжною бавовною та дорогоцінним шовком, створюючи неповторну фактуру й делікатне мерехтіння. Архітектурний приталений силует (linea sfiancata) і класичні лацкани підкреслюють статусність образу, а косі прорізні кишені «в рамку» додають динамічності й витонченості. Склад тканини: 35% поліестер, 25% акрил, 15% вовна, 13% бавовна, 10% шовк."
+  },
+  "colors": [
+    {
+      "name": "Var Grigio Panna",
+      "code": "3331",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zwGI1zFWTrWaBDjRh3_05w_931393777696f430b4be833_87873246_02821500XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 'City Heritage' (Look 60)",
+        "en": "Total Look 'City Heritage' (Look 60)",
+        "ar": "Total Look 'City Heritage' (Look 60)",
+        "ka": "Total Look 'City Heritage' (Look 60)",
+        "hy": "Total Look 'City Heritage' (Look 60)",
+        "lv": "Total Look 'City Heritage' (Look 60)",
+        "lt": "Total Look 'City Heritage' (Look 60)",
+        "pl": "Total Look 'City Heritage' (Look 60)",
+        "uk": "Total Look 'City Heritage' (Look 60)"
+      },
+      "text": {
+        "ru": "Жакет Spettatore 3331 в ансамбле с классической рубашкой Lucinda 0201, пуловером Manos 2246 и юбкой Facoltoso 3331. Образ дополнен аксессуарами: кепи Renno 0814 и сумкой Iago 2240 0002.",
+        "en": "Spettatore 3331 jacket in an ensemble with a classic Lucinda 0201 shirt, Manos 2246 pullover and Facoltoso 3331 skirt (Data not available in official sources). The look is accessorized with: Renno 0814 cap and Iago 2240 0002 bag.",
+        "ar": "Spettatore 3331 jacket in an ensemble with a classic Lucinda 0201 shirt, Manos 2246 pullover and Facoltoso 3331 skirt (Data not available in official sources). The look is accessorized with: Renno 0814 cap and Iago 2240 0002 bag.",
+        "ka": "Spettatore 3331 jacket in an ensemble with a classic Lucinda 0201 shirt, Manos 2246 pullover and Facoltoso 3331 skirt (Data not available in official sources). The look is accessorized with: Renno 0814 cap and Iago 2240 0002 bag.",
+        "hy": "Spettatore 3331 jacket in an ensemble with a classic Lucinda 0201 shirt, Manos 2246 pullover and Facoltoso 3331 skirt (Data not available in official sources). The look is accessorized with: Renno 0814 cap and Iago 2240 0002 bag.",
+        "lv": "Spettatore 3331 jacket in an ensemble with a classic Lucinda 0201 shirt, Manos 2246 pullover and Facoltoso 3331 skirt (Data not available in official sources). The look is accessorized with: Renno 0814 cap and Iago 2240 0002 bag.",
+        "lt": "Spettatore 3331 jacket in an ensemble with a classic Lucinda 0201 shirt, Manos 2246 pullover and Facoltoso 3331 skirt (Data not available in official sources). The look is accessorized with: Renno 0814 cap and Iago 2240 0002 bag.",
+        "pl": "Spettatore 3331 jacket in an ensemble with a classic Lucinda 0201 shirt, Manos 2246 pullover and Facoltoso 3331 skirt (Data not available in official sources). The look is accessorized with: Renno 0814 cap and Iago 2240 0002 bag.",
+        "uk": "Spettatore 3331 jacket in an ensemble with a classic Lucinda 0201 shirt, Manos 2246 pullover and Facoltoso 3331 skirt (Data not available in official sources). The look is accessorized with: Renno 0814 cap and Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Spettatore",
+          "code": "3331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zwGI1zFWTrWaBDjRh3_05w_931393777696f430b4be833_87873246_02821500XX1.jpg"
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Manos",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/62874749691c57928c68a3_59975180_02790240XX1.jpg"
+        },
+        {
+          "name": "Facoltoso",
+          "code": "3331",
+          "imageUrl": null
+        },
+        {
+          "name": "Renno",
+          "code": "0814",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57693e01-fdb6-4b56-a73b-26c4b4d8ce61.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 'Sophisticated Textures' (Look 59)",
+        "en": "Total Look 'Sophisticated Textures' (Look 59)",
+        "ar": "Total Look 'Sophisticated Textures' (Look 59)",
+        "ka": "Total Look 'Sophisticated Textures' (Look 59)",
+        "hy": "Total Look 'Sophisticated Textures' (Look 59)",
+        "lv": "Total Look 'Sophisticated Textures' (Look 59)",
+        "lt": "Total Look 'Sophisticated Textures' (Look 59)",
+        "pl": "Total Look 'Sophisticated Textures' (Look 59)",
+        "uk": "Total Look 'Sophisticated Textures' (Look 59)"
+      },
+      "text": {
+        "ru": "Комбинация жакета Spettatore 3331 с лаконичным топом Logge 1133 и юбкой Faggi 3331.",
+        "en": "Combination of the Spettatore 3331 jacket with a sleek Logge 1133 top and Faggi 3331 skirt.",
+        "ar": "Combination of the Spettatore 3331 jacket with a sleek Logge 1133 top and Faggi 3331 skirt.",
+        "ka": "Combination of the Spettatore 3331 jacket with a sleek Logge 1133 top and Faggi 3331 skirt.",
+        "hy": "Combination of the Spettatore 3331 jacket with a sleek Logge 1133 top and Faggi 3331 skirt.",
+        "lv": "Combination of the Spettatore 3331 jacket with a sleek Logge 1133 top and Faggi 3331 skirt.",
+        "lt": "Combination of the Spettatore 3331 jacket with a sleek Logge 1133 top and Faggi 3331 skirt.",
+        "pl": "Combination of the Spettatore 3331 jacket with a sleek Logge 1133 top and Faggi 3331 skirt.",
+        "uk": "Combination of the Spettatore 3331 jacket with a sleek Logge 1133 top and Faggi 3331 skirt."
+      },
+      "items": [
+        {
+          "name": "Spettatore",
+          "code": "3331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zwGI1zFWTrWaBDjRh3_05w_931393777696f430b4be833_87873246_02821500XX1.jpg"
+        },
+        {
+          "name": "Logge",
+          "code": "1133",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1660075475692424d0126fa6_77222965_02781250XX1.jpg",
+          "modelId": 118
+        },
+        {
+          "name": "Faggi",
+          "code": "3331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/rIMa5PphT0eVb-Z68ByGdQ_1038132126696f4302972469_22145110_02821280XX1.jpg",
+          "modelId": 39
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 'Classic Elegance' (Look 151/154)",
+        "en": "Total Look 'Classic Elegance' (Look 151/154)",
+        "ar": "Total Look 'Classic Elegance' (Look 151/154)",
+        "ka": "Total Look 'Classic Elegance' (Look 151/154)",
+        "hy": "Total Look 'Classic Elegance' (Look 151/154)",
+        "lv": "Total Look 'Classic Elegance' (Look 151/154)",
+        "lt": "Total Look 'Classic Elegance' (Look 151/154)",
+        "pl": "Total Look 'Classic Elegance' (Look 151/154)",
+        "uk": "Total Look 'Classic Elegance' (Look 151/154)"
+      },
+      "text": {
+        "ru": "Жакет Spettatore 3331 поверх рубашки Lucinda 0201 с юбкой Facoltoso 3331 и кепи Renno 0814.",
+        "en": "Spettatore 3331 jacket over a Lucinda 0201 shirt with a Facoltoso 3331 skirt (Data not available in official sources) and Renno 0814 cap.",
+        "ar": "Spettatore 3331 jacket over a Lucinda 0201 shirt with a Facoltoso 3331 skirt (Data not available in official sources) and Renno 0814 cap.",
+        "ka": "Spettatore 3331 jacket over a Lucinda 0201 shirt with a Facoltoso 3331 skirt (Data not available in official sources) and Renno 0814 cap.",
+        "hy": "Spettatore 3331 jacket over a Lucinda 0201 shirt with a Facoltoso 3331 skirt (Data not available in official sources) and Renno 0814 cap.",
+        "lv": "Spettatore 3331 jacket over a Lucinda 0201 shirt with a Facoltoso 3331 skirt (Data not available in official sources) and Renno 0814 cap.",
+        "lt": "Spettatore 3331 jacket over a Lucinda 0201 shirt with a Facoltoso 3331 skirt (Data not available in official sources) and Renno 0814 cap.",
+        "pl": "Spettatore 3331 jacket over a Lucinda 0201 shirt with a Facoltoso 3331 skirt (Data not available in official sources) and Renno 0814 cap.",
+        "uk": "Spettatore 3331 jacket over a Lucinda 0201 shirt with a Facoltoso 3331 skirt (Data not available in official sources) and Renno 0814 cap."
+      },
+      "items": [
+        {
+          "name": "Spettatore",
+          "code": "3331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zwGI1zFWTrWaBDjRh3_05w_931393777696f430b4be833_87873246_02821500XX1.jpg"
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Facoltoso",
+          "code": "3331",
+          "imageUrl": null
+        },
+        {
+          "name": "Renno",
+          "code": "0814",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57693e01-fdb6-4b56-a73b-26c4b4d8ce61.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Direct the client's attention to the composition: the addition of 10% natural silk gives the Spettatore tweed a distinctive softness and delicate sheen unattainable in ordinary wool tweed.",
+      "Recommend this model as a key piece of the 'Day-to-Night' wardrobe — the fitted cut and richly textured fabric make the jacket equally suited to the office and evening occasions.",
+      "Suggest creating a layered look with the Manos pullover to highlight the interplay of different knit and woven textures, a signature of the Luisa Spagnoli style."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиентки на составе: добавление 10% натурального шелка придает твиду Spettatore особую мягкость и деликатный блеск, недоступный обычному шерстяному твиду.",
+      "Рекомендуйте эту модель как ключевой элемент гардероба «Day-to-Night» — благодаря приталенному крою и сложной фактуре жакет идеально подходит как для офиса, так и для вечернего выхода.",
+      "Предложите создать многослойный образ с пуловером Manos, чтобы подчеркнуть игру различных трикотажных и тканых фактур, что является визитной карточкой стиля Luisa Spagnoli."
+    ],
+    "ar": [
+      "ركزي على تركيبة القماش: إذ تمنح إضافة 10% من الحرير الطبيعي قماش التويد في Spettatore نعومة فائقة وبريقاً رقيقاً لا يتوفر في التويد الصوفي العادي.",
+      "ننصحكِ باعتماد هذا الموديل كقطعة أساسية في خزانة \"من النهار إلى الليل\"؛ فبفضل قصته المحددة وتفاصيل نسيجه المعقدة، يعد الجاكيت مثالياً لإطلالات العمل والمناسبات المسائية.",
+      "اقترحي ابتكار إطلالة متعددة الطبقات مع بلوفر Manos لإبراز التباين بين أنسجة التريكو والأقمشة المنسوجة، وهي السمة المميزة لأسلوب Luisa Spagnoli."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება შემადგენლობაზე: 10% ნატურალური აბრეშუმის დამატება Spettatore-ს ტვიდს განსაკუთრებულ სირბილესა და დელიკატურ ბზინვარებას სძენს, რაც ჩვეულებრივი შალის ტვიდისთვის მიუწვდომელია.",
+      "რეკომენდაცია გაუწიეთ ამ მოდელს, როგორც „Day-to-Night“ გარდერობის საკვანძო ელემენტს — წელში გამოყვანილი კროისა და რთული ფაქტურის წყალობით, პიჯაკი იდეალურია როგორც ოფისისთვის, ისე საღამოს გასვლებისთვის.",
+      "შესთავაზეთ მრავალფენიანი ლუქის შექმნა Manos პულოვერთან ერთად, რათა ხაზი გაუსვათ სხვადასხვა ტრიკოტაჟისა და ქსოვილის ფაქტურების თამაშს, რაც Luisa Spagnoli-ს სტილის სავიზიტო ბარათია."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք բաղադրության վրա. 10% բնական մետաքսի ավելացումը Spettatore թվիդին հաղորդում է հատուկ փափկություն և նուրբ փայլ, որը հասանելի չէ սովորական բրդյա թվիդին։",
+      "Առաջարկեք այս մոդելը որպես «Day-to-Night» զգեստապահարանի առանցքային տարր՝ կիպ կտրվածքի և բարդ հյուսվածքի շնորհիվ ժակետը կատարյալ է ինչպես գրասենյակի, այնպես էլ երեկոյան ելքերի համար։",
+      "Առաջարկեք ստեղծել բազմաշերտ կերպար Manos պուլովերի հետ՝ ընդգծելու տարբեր տրիկոտաժե և գործվածքային հյուսվածքների խաղը, ինչը Luisa Spagnoli ոճի այցեքարտն է։"
+    ],
+    "lv": [
+      "Vērsiet klientes uzmanību uz sastāvu: 10% dabīgā zīda pievienošana piešķir Spettatore tvīdam īpašu mīkstumu un delikātu spīdumu, kas nav raksturīgs parastam vilnas tvīdam.",
+      "Iesakiet šo modeli kā galveno „Day-to-Night” garderobes elementu — pateicoties pieguļošajam piegriezumam un sarežģītajai tekstūrai, žakete ir ideāli piemērota gan birojam, gan vakara izejai.",
+      "Piedāvājiet izveidot daudzslāņu tēlu ar puloveru Manos, lai uzsvērtu dažādu trikotāžas un audumu faktūru spēli, kas ir Luisa Spagnoli stila vizītkarte."
+    ],
+    "lt": [
+      "Atkreipkite klientės dėmesį į sudėtį: 10% natūralaus šilko priemaiša suteikia Spettatore tvidui ypatingo švelnumo ir subtilaus spindesio, būdingo tik aukščiausios kokybės audiniams.",
+      "Rekomenduokite šį modelį kaip pagrindinį „Day-to-Night“ garderobo elementą – dėl liemenuoto kirpimo ir sudėtingos faktūros švarkas idealiai tinka tiek darbui biure, tiek vakariniam išėjimui.",
+      "Pasiūlykite sukurti daugiasluoksnį įvaizdį su Manos megztiniu, kad pabrėžtumėte įvairių trikotažinių ir audinių faktūrų žaismą, kas yra Luisa Spagnoli stiliaus vizitinė kortelė."
+    ],
+    "pl": [
+      "Zwróć uwagę klientki na skład: dodatek 10% naturalnego jedwabiu nadaje tweedowi Spettatore szczególną miękkość i delikatny połysk, nieosiągalny dla zwykłego wełnianego tweedu.",
+      "Rekomenduj ten model jako kluczowy element garderoby „Day-to-Night” — dzięki taliowanemu krojowi i złożonej fakturze żakiet idealnie pasuje zarówno do biura, jak i na wieczorne wyjście.",
+      "Zaproponuj stworzenie wielowarstwowej stylizacji z pulowerem Manos, aby podkreślić grę różnych faktur dzianinowych i tkanych, co stanowi wizytówkę stylu Luisa Spagnoli."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнтки на складі: додавання 10% натурального шовку надає твіду Spettatore особливої м'якості та делікатного блиску, недоступного звичайному вовняному твіду.",
+      "Рекомендуйте цю модель як ключовий елемент гардероба «Day-to-Night» — завдяки приталеному крою та складній фактурі жакет ідеально підходить як для офісу, так і для вечірнього виходу.",
+      "Запропонуйте створити багатошаровий образ із пуловером Manos, щоб підкреслити гру різних трикотажних та тканих фактур, що є візитною карткою стилю Luisa Spagnoli."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Tweed jackets often look too heavy and bulky.",
+        "a": "Point out the carefully tailored, regular-fit cut. The use of lightweight cotton and silk in the composition makes the Spettatore jacket remarkably supple and comfortable."
+      },
+      {
+        "q": "The double-breasted closure may visually widen the silhouette.",
+        "a": "Thanks to the pronounced waistline (linea sfiancata) and the angled placement of the pockets, the jacket instead structures the figure, creating harmonious proportions."
+      },
+      {
+        "q": "I'm concerned about the presence of synthetic fibers in the composition.",
+        "a": "The use of high-tech polyester and acrylic is essential for maintaining the intricate structure of the tweed weave, ensuring durability and protection against deformation while preserving all the qualities of natural wool and silk."
+      },
+      {
+        "q": "This color (Grigio Panna) may be impractical.",
+        "a": "The melange texture of the tweed in this colorway is one of the most versatile: it beautifully conceals minor imperfections and serves as an ideal neutral backdrop for bold accessories or monochrome looks."
+      },
+      {
+        "q": "Tweed is too conservative a fabric.",
+        "a": "Showcase the contemporary styling options from the lookbook, such as pairing it with preppy-style accessories (the Renno cap, to give the look a current, urban character."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Твидовые жакеты часто выглядят слишком тяжелыми и громоздкими.",
+        "a": "Обратите внимание на выверенный приталенный крой и 'regular fit' посадку. Использование легкого хлопка и шелка в составе делает жакет Spettatore удивительно пластичным и комфортным."
+      },
+      {
+        "q": "Двубортная застежка может визуально расширять силуэт.",
+        "a": "Благодаря подчеркнутой линии талии (linea sfiancata) и косому расположению карманов, жакет, напротив, структурирует фигуру, создавая гармоничные пропорции."
+      },
+      {
+        "q": "Меня смущает наличие синтетических волокон в составе.",
+        "a": "Использование высокотехнологичного полиэстера и акрила необходимо для поддержания сложной структуры твидового плетения, обеспечивая долговечность изделия и защиту от деформации при сохранении всех свойств натуральной шерсти и шелка."
+      },
+      {
+        "q": "Этот цвет (Grigio Panna) может быть непрактичным.",
+        "a": "Меланжевая фактура твида в этой цветовой гамме является одной из самых универсальных: она прекрасно скрывает мелкие недочеты и служит идеальным нейтральным фоном для ярких аксессуаров или монохромных образов."
+      },
+      {
+        "q": "Твид — это слишком консервативный материал.",
+        "a": "Продемонстрируйте современные варианты стайлинга из лукбука, например, с аксессуарами в стиле 'preppy' (кепи Renno ), чтобы придать образу актуальный городской характер."
+      }
+    ],
+    "ar": [
+      {
+        "q": "سترات التويد غالباً ما تبدو ثقيلة وضخمة.",
+        "a": "انتبهي للقصة المخصرة الدقيقة ومقاس 'Regular fit'. استخدام القطن والحرير الخفيف في التركيبة يجعل سترة Spettatore مرنة ومريحة بشكل مدهش."
+      },
+      {
+        "q": "الإغلاق مزدوج الصدر قد يوسع القوام بصرياً.",
+        "a": "بفضل خط الخصر المحدد (linea sfiancata) والتموضع المائل للجيوب، تقوم السترة بدلاً من ذلك بهيكلة القوام وخلق نسب متناغمة."
+      },
+      {
+        "q": "يقلقني وجود ألياف صناعية في التركيبة.",
+        "a": "استخدام البوليستر والأكريليك عالي التقنية ضروري للحفاظ على الهيكل المعقد لنسيج التويد، مما يضمن متانة المنتج وحمايته من التشوه مع الحفاظ على جميع خصائص الصوف والحرير الطبيعي."
+      },
+      {
+        "q": "هذا اللون (Grigio Panna) قد يكون غير عملي.",
+        "a": "قوام التويد الممزوج في لوحة الألوان هذه هو الأكثر تنوعاً: فهو يخفي العيوب البسيطة بشكل رائع ويعمل كخلفية محايدة مثالية للإكسسوارات الزاهية أو الإطلالات أحادية اللون."
+      },
+      {
+        "q": "التويد مادة محافظة أكثر من اللازم.",
+        "a": "استعرضي خيارات التنسيق الحديثة من دليل الإطلالات (Lookbook)، على سبيل المثال، مع إكسسوارات بأسلوب 'preppy' (قبعة Renno )، لإضفاء طابع مدني عصري على الإطلالة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ტვიდის ჟაკეტები ხშირად ზედმეტად მძიმე და მოცულობითი ჩანს.",
+        "a": "ყურადღება მიაქციეთ კარგად გათვლილ ტანზე მომდგარ კრაკს და 'regular fit' ზომას. მსუბუქი ბამბისა და აბრეშუმის გამოყენება Spettatore-ს ჟაკეტს საოცრად პლასტიკურს და კომფორტულს ხდის."
+      },
+      {
+        "q": "ორბორტიანმა შესაკრავმა შესაძლოა ვიზუალურად გააფართოოს სილუეტი.",
+        "a": "წელის ხაზგასმული ხაზის (linea sfiancata) და ჯიბეების ირიბი განლაგების წყალობით, ჟაკეტი, პირიქით, აწყობს ფიგურას და ქმნის ჰარმონიულ პროპორციებს."
+      },
+      {
+        "q": "მაბნევს შემადგენლობაში სინთეზური ბოჭკოების არსებობა.",
+        "a": "მაღალტექნოლოგიური პოლიესტერისა და აკრილის გამოყენება აუცილებელია ტვიდის ქსოვის რთული სტრუქტურის შესანარჩუნებლად, რაც უზრუნველყოფს ნაკეთობის გამძლეობას და დეფორმაციისგან დაცვას, ნატურალური მატყლისა და აბრეშუმის ყველა თვისების შენარჩუნებით."
+      },
+      {
+        "q": "ეს ფერი (Grigio Panna) შესაძლოა არაპრაქტიკული იყოს.",
+        "a": "ტვიდის მელანჟის ფაქტურა ამ ფერთა გამაში ერთ-ერთი ყველაზე უნივერსალურია: ის შესანიშნავად ფარავს წვრილ ხარვეზებს და ემსახურება როგორც იდეალური ნეიტრალური ფონი მკვეთრი აქსესუარებისთვის ან მონოქრომული იერისთვის."
+      },
+      {
+        "q": "ტვიდი — ეს ზედმეტად კონსერვატიული მასალაა.",
+        "a": "წარმოაჩინეთ ლუქბუქიდან სტილიზაციის თანამედროვე ვარიანტები, მაგალითად, 'preppy' სტილის აქსესუარებით (კეპი Renno ), რათა იერს მიანიჭოთ აქტუალური საქალაქო ხასიათი."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Թվիդե ժակետները հաճախ չափազանց ծանր և մեծ են թվում։",
+        "a": "Ուշադրություն դարձրեք հղկված, գոտկատեղն ընդգծող կտրվածքին և 'regular fit' ձևվածքին։ Բաղադրության մեջ թեթև բամբակի և մետաքսի օգտագործումը Spettatore ժակետը դարձնում է զարմանալիորեն պլաստիկ և հարմարավետ։"
+      },
+      {
+        "q": "Երկկողմանի ճարմանդը կարող է տեսողականորեն լայնացնել ուրվագիծը։",
+        "a": "Գոտկատեղի ընդգծված գծի (linea sfiancata) և գրպանների թեք դասավորության շնորհիվ ժակետը, ընդհակառակը, կառուցվածք է հաղորդում կազմվածքին՝ ստեղծելով ներդաշնակ համամասնություններ։"
+      },
+      {
+        "q": "Ինձ անհանգստացնում է բաղադրության մեջ սինթետիկ թելերի առկայությունը։",
+        "a": "Բարձր տեխնոլոգիական պոլիեսթերի և ակրիլի օգտագործումն անհրաժեշտ է թվիդե հյուսվածքի բարդ կառուցվածքը պահպանելու համար՝ ապահովելով արտադրանքի երկարակեցությունը և պաշտպանությունը դեֆորմացիայից՝ բնական բրդի և մետաքսի բոլոր հատկությունները պահպանելով։"
+      },
+      {
+        "q": "Այս գույնը (Grigio Panna) կարող է ոչ գործնական լինել։",
+        "a": "Այս գունային գամմայում թվիդի մելանժային հյուսվածքը ամենատիեզերականներից է. այն հիանալի թաքցնում է մանր թերությունները և ծառայում է որպես իդեալական չեզոք ֆոն պայծառ աքսեսուարների կամ մոնոխրոմ կերպարների համար։"
+      },
+      {
+        "q": "Թվիդը չափազանց պահպանողական նյութ է։",
+        "a": "Ցույց տվեք 'lookbook'-ից ստայլինգի ժամանակակից տարբերակները, օրինակ՝ 'preppy' ոճի աքսեսուարներով (Renno գլխարկ ), որպեսզի կերպարին հաղորդեք արդիական քաղաքային բնույթ"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Tvīda žaketes bieži izskatās pārāk smagas un apjomīgas.",
+        "a": "Pievērsiet uzmanību precīzajam pieguļošajam piegriezumam un 'regular fit' formai. Vieglas kokvilnas un zīda izmantošana sastāvā padara Spettatore žaketi pārsteidzoši plastisku un ērtu."
+      },
+      {
+        "q": "Divrindu aizdare var vizuāli paplašināt siluetu.",
+        "a": "Pateicoties izceltajai jostasvietas līnijai (linea sfiancata) un slīpajam kabatu izvietojumam, žakete, gluži pretēji, strukturē figūru, radot harmoniskas proporcijas."
+      },
+      {
+        "q": "Mani mulsina sintētisko šķiedru klātbūtne sastāvā.",
+        "a": "Augsto tehnoloģiju poliestera un akrila izmantošana ir nepieciešama, lai saglabātu sarežģīto tvīda pinuma struktūru, nodrošinot izstrādājuma ilgmūžību un aizsardzību pret deformāciju, vienlaikus saglabājot visas dabīgās vilnas un zīda īpašības."
+      },
+      {
+        "q": "Šī krāsa (Grigio Panna) var būt nepraktiska.",
+        "a": "Tvīda melanža faktūra šajā krāsu gammā ir viena no pašām universālākajām: tā lieliski slēpj sīkus netīrumus un kalpo kā ideāls neitrāls fons košiem aksesuāriem vai monohromiem tēliem."
+      },
+      {
+        "q": "Tvīds ir pārāk konservatīvs materiāls.",
+        "a": "Demonstrējiet mūsdienīgus stila variantus no lookbook, piemēram, ar 'preppy' stila aksesuāriem (Renno cepuri ), lai piešķirtu tēlam aktuālu pilsētniecisku raksturu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Твидовые жакеты часто выглядят слишком тяжелыми и громоздкими.",
+        "a": "Обратите внимание на выверенный приталенный крой и 'regular fit' посадку. Использование легкого хлопка и шелка в составе делает жакет Spettatore удивительно пластичным и комфортным."
+      },
+      {
+        "q": "Двубортная застежка может визуально расширять силуэт.",
+        "a": "Благодаря подчеркнутой линии талии (linea sfiancata) и косому расположению карманов, жакет, напротив, структурирует фигуру, создавая гармоничные пропорции."
+      },
+      {
+        "q": "Меня смущает наличие синтетических волокон в составе.",
+        "a": "Использование высокотехнологичного полиэстера и акрила необходимо для поддержания сложной структуры твидового плетения, обеспечивая долговечность изделия и защиту от деформации при сохранении всех свойств натуральной шерсти и шелка."
+      },
+      {
+        "q": "Этот цвет (Grigio Panna) может быть непрактичным.",
+        "a": "Меланжевая фактура твида в этой цветовой гамме является одной из самых универсальных: она прекрасно скрывает мелкие недочеты и служит идеальным нейтральным фоном для ярких аксессуаров или монохромных образов."
+      },
+      {
+        "q": "Твид — это слишком консервативный материал.",
+        "a": "Продемонстрируйте современные варианты стайлинга из лукбука, например, с аксессуарами в стиле 'preppy' (кепи Renno ), чтобы придать образу актуальный городской характер."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Żakiety z tweedu często wyglądają na zbyt ciężkie i masywne.",
+        "a": "Zwróć uwagę na precyzyjny taliowany krój oraz dopasowanie 'regular fit'. Użycie lekkiej bawełny i jedwabiu w składzie sprawia, że żakiet Spettatore jest niezwykle plastyczny i komfortowy."
+      },
+      {
+        "q": "Dwurzędowe zapięcie może optycznie poszerzać sylwetkę.",
+        "a": "Dzięki podkreślonej linii talii (linea sfiancata) oraz skośnemu rozmieszczeniu kieszeni, żakiet wręcz przeciwnie – modeluje sylwetkę, tworząc harmonijne proporcje."
+      },
+      {
+        "q": "Niepokoi mnie obecność włókien syntetycznych w składzie.",
+        "a": "Zastosowanie zaawansowanego technologicznie poliestru i akrylu jest niezbędne do utrzymania złożonej struktury splotu tweedowego, co zapewnia trwałość produktu i ochronę przed odkształceniami przy zachowaniu wszystkich właściwości naturalnej wełny i jedwabiu."
+      },
+      {
+        "q": "Ten kolor (Grigio Panna) może być niepraktyczny.",
+        "a": "Melanżowa faktura tweedu w tej kolorystyce jest jedną z najbardziej uniwersalnych: doskonale ukrywa drobne mankamenty i służy jako idealne neutralne tło dla wyrazistych dodatków lub monochromatycznych stylizacji."
+      },
+      {
+        "q": "Tweed to zbyt konserwatywny materiał.",
+        "a": "Zaprezentuj nowoczesne propozycje stylizacji z lookbooka, na przykład z dodatkami w stylu 'preppy' (czapka Renno ), aby nadać stylizacji aktualny, miejski charakter."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Твідові жакети часто виглядають занадто важкими і громіздкими.",
+        "a": "Зверніть увагу на вивірений приталений крій і 'regular fit' посадку. Використання легкого бавовни і шовку в складі робить жакет Spettatore дивовижно пластичним і комфортним."
+      },
+      {
+        "q": "Двобортна застібка може візуально розширювати силует.",
+        "a": "Завдяки підкресленій лінії талії (linea sfiancata) і косому розташуванню кишень, жакет, навпаки, структурує фігуру, створюючи гармонійні пропорції."
+      },
+      {
+        "q": "Мене бентежить наявність синтетичних волокон у складі.",
+        "a": "Використання високотехнологічного поліестеру і акрилу необхідно для підтримки складної структури твідового плетіння, забезпечуючи довговічність виробу і захист від деформації при збереженні всіх властивостей натуральної вовни і шовку."
+      },
+      {
+        "q": "Цей колір (Grigio Panna) може бути непрактичним.",
+        "a": "Меланжева фактура твіду в цій колірній гамі є однією з найбільш універсальних: вона чудово приховує дрібні недоліки і служить ідеальним нейтральним фоном для яскравих аксесуарів або монохромних образів."
+      },
+      {
+        "q": "Твід — це занадто консервативний матеріал.",
+        "a": "Продемонструйте сучасні варіанти стайлінгу з лукбука, наприклад, з аксесуарами в стилі 'preppy' (кепі Renno ), щоб надати образу актуального міського характеру."
+      }
+    ]
+  }
+}

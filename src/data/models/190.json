@@ -1,0 +1,312 @@
+{
+  "id": 190,
+  "name": "Mormorare",
+  "description": {
+    "en": "An exquisite mini dress in 100% pure natural wool, embodying Luisa Spagnoli's aesthetic of contemporary luxury. The model is crafted using the dense \"punto stoffa\" knit technique, ensuring an impeccable fit and lasting shape retention. The principal decorative accent lies in the jewel-like details: embroidery complemented by delicate gold-tone chains, lending the look an aristocratic sparkle. Long raglan sleeves, neat patch pockets, and structured ribbed trim underscore the refinement of the fitted (aderente) silhouette, making this dress the ideal choice for the winter season.",
+    "ru": "Изысканное мини-платье из 100% чистой натуральной шерсти, воплощающее эстетику современной роскоши Luisa Spagnoli. Модель выполнена плотной вязкой 'punto stoffa', которая обеспечивает безупречную посадку и сохранение формы. Главным декоративным акцентом служат ювелирные детали: вышивка, дополненная изящными золотистыми цепочками, придающая образу аристократичный блеск. Длинные рукава реглан, аккуратные накладные карманы и структурированная отделка в рубчик подчеркивают утонченность силуэта 'aderente', делая это платье идеальным выбором для зимнего сезона.",
+    "ar": "فستان قصير فاخر مصنوع من صوف طبيعي نقي 100%، يجسد جماليات الفخامة العصرية لدار Luisa Spagnoli. صُمم الموديل بحبكة 'punto stoffa' الكثيفة التي تضمن قواماً مثالياً وثباتاً في الشكل. تبرز التفاصيل الجوهرية كعنصر تزييني رئيسي: تطريز مُكمل بسلاسل ذهبية رقيقة تضفي على الإطلالة بريقاً أرستقراطياً. تؤكد الأكمام الطويلة 'ريجلان'، والجيوب الخارجية الأنيقة، والتشطيب الهيكلي المضلع على دقة قصة 'aderente'، مما يجعل هذا الفستان خياراً مثالياً لموسم الشتاء.",
+    "ka": "დახვეწილი მინი-კაბა 100% სუფთა ნატურალური მატყლისგან, რომელიც განასახიერებს Luisa Spagnoli-ს თანამედროვე ფუფუნების ესთეტიკას. მოდელი შესრულებულია მკვრივი 'punto stoffa' ქსოვით, რომელიც უზრუნველყოფს უნაკლო მორგებას და ფორმის შენარჩუნებას. მთავარ დეკორატიულ აქცენტს წარმოადგენს საიუველირო დეტალები: ნაქარგობა, რომელიც დამატებულია მოხდენილი ოქროსფერი ჯაჭვებით, რაც იერსახეს არისტოკრატულ ბზინვარებას ანიჭებს. გრძელი რეგლანის სახელოები, მოწესრიგებული ზედდადები ჯიბეები და სტრუქტურირებული ნეკნებიანი მორთულობა ხაზს უსვამს 'aderente' სილუეტის დახვეწილობას, რაც ამ კაბას ზამთრის სეზონისთვის იდეალურ არჩევანად აქცევს.",
+    "hy": "Նրբագեղ մինի-զգեստ 100% մաքուր բնական բրդից, որը մարմնավորում է Luisa Spagnoli-ի ժամանակակից շքեղության էսթետիկան: Մոդելը պատրաստված է 'punto stoffa' խիտ հյուսվածքով, որն ապահովում է անթերի նստվածք և ձևի պահպանում: Գլխավոր դեկորատիվ շեշտադրումը ոսկերչական դետալներն են՝ նրբաճաշակ ոսկեգույն շղթաներով համալրված ասեղնագործությունը, որը կերպարին հաղորդում է արիստոկրատ փայլ: Երկար ռեգլան թևքերը, կոկիկ վերադիր գրպանները և ռելիեֆային կառուցվածքային հարդարանքը ընդգծում են 'aderente' ուրվագծի նրբությունը՝ այս զգեստը դարձնելով իդեալական ընտրություն ձմեռային սեզոնի համար:",
+    "lv": "Izsmalcināta mini kleita no 100% tīras dabīgas vilnas, kas iemieso mūsdienu Luisa Spagnoli greznības estētiku. Modelis izgatavots blīvā 'punto stoffa' adījumā, kas nodrošina nevainojamu piegulumu un formas saglabāšanu. Kā galvenais dekoratīvais akcents kalpo juvelierizstrādājumu detaļas: izšuvumi, ko papildina graciozas zeltītas ķēdītes, piešķirot tēlam aristokrātisku mirdzumu. Garas reglāna piedurknes, glītas uzšūtas kabatas un strukturēta rievota apdare uzsver 'aderente' silueta izsmalcinātību, padarot šo kleitu par ideālu izvēli ziemas sezonai.",
+    "lt": "Rafinuota mini suknelė iš 100% grynos natūralios vilnos, įkūnijanti modernią „Luisa Spagnoli“ prabangos estetiką. Modelis atliktas tankiu „punto stoffa“ mezgimu, kuris užtikrina nepriekaištingą prigludimą ir formos išlaikymą. Pagrindiniu dekoratyviniu akcentu tapo juvelyrinės detalės: išsiuvinėjimai, papildyti grakščiomis aukso spalvos grandinėlėmis, suteikiančiomis įvaizdžiui aristokratiško spindesio. Ilgos „reglan“ rankovės, tvarkingos prisiūtos kišenės ir struktūruota briaunota apdaila pabrėžia „aderente“ silueto grakštumą, todėl ši suknelė yra idealus pasirinkimas žiemos sezonui.",
+    "pl": "Wyrafinowana sukienka mini wykonana w 100% z czystej naturalnej wełny, ucieleśniająca estetykę nowoczesnego luksusu Luisa Spagnoli. Model wykonany jest ścisłym splotem typu 'punto stoffa', który zapewnia nienaganne dopasowanie i zachowanie formy. Głównym akcentem dekoracyjnym są jubilerskie detale: haft uzupełniony delikatnymi złotymi łańcuszkami, nadający stylizacji arystokratycznego blasku. Długie rękawy reglan, starannie wykonane naszywane kieszenie oraz strukturalne wykończenie w prążek podkreślają wyrafinowanie sylwetki 'aderente', czyniąc tę sukienkę idealnym wyborem na sezon zimowy.",
+    "uk": "Вишукана мінісукня зі 100% чистої натуральної вовни, що втілює естетику сучасної розкоші Luisa Spagnoli. Модель виконана щільною в'язкою 'punto stoffa', яка забезпечує бездоганну посадку та збереження форми. Головним декоративним акцентом слугують ювелірні деталі: вишивка, доповнена витонченими золотистими ланцюжками, що надає образу аристократичного блиску. Довгі рукави реглан, акуратні накладні кишені та структурована обробка в рубчик підкреслюють витонченість силуету 'aderente', роблячи цю сукню ідеальним вибором для зимового сезону."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1RNr5QUzRtKaPL1I1oH0jQ_1698339702696f436f52fc83_74006782_02830920XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Look 109)",
+        "en": "Total Look (Look 109)",
+        "ar": "Total Look (Look 109)",
+        "ka": "Total Look (Look 109)",
+        "hy": "Total Look (Look 109)",
+        "lv": "Total Look (Look 109)",
+        "lt": "Total Look (Look 109)",
+        "pl": "Total Look (Look 109)",
+        "uk": "Total Look (Look 109)"
+      },
+      "text": {
+        "ru": "Mormorare 0101 в сочетании с элегантным тренчем Samir 0101 и сумкой Importante 0101 0002.",
+        "en": "Mormorare 0101 combined with the elegant Samir 0101 trench coat and Importante 0101 0002 bag.",
+        "ar": "Mormorare 0101 combined with the elegant Samir 0101 trench coat and Importante 0101 0002 bag.",
+        "ka": "Mormorare 0101 combined with the elegant Samir 0101 trench coat and Importante 0101 0002 bag.",
+        "hy": "Mormorare 0101 combined with the elegant Samir 0101 trench coat and Importante 0101 0002 bag.",
+        "lv": "Mormorare 0101 combined with the elegant Samir 0101 trench coat and Importante 0101 0002 bag.",
+        "lt": "Mormorare 0101 combined with the elegant Samir 0101 trench coat and Importante 0101 0002 bag.",
+        "pl": "Mormorare 0101 combined with the elegant Samir 0101 trench coat and Importante 0101 0002 bag.",
+        "uk": "Mormorare 0101 combined with the elegant Samir 0101 trench coat and Importante 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Mormorare",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1RNr5QUzRtKaPL1I1oH0jQ_1698339702696f436f52fc83_74006782_02830920XX1.jpg"
+        },
+        {
+          "name": "Samir",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2125352506691c57cc4cb114_63347318_02780450XX3.jpg"
+        },
+        {
+          "name": "Importante",
+          "code": "0101 0002",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Data unavailable from official sources",
+      "Data unavailable from official sources",
+      "Data unavailable from official sources"
+    ],
+    "ru": [
+      "Сфокусируйте внимание на составе материала: 100% натуральная шерсть (lana vergine) мериносного типа гарантирует исключительное тепло и комфорт, что является ключевым требованием для взыскательных клиентов.",
+      "Акцентируйте внимание на уникальном декоре 'chain detail': золотистые цепочки интегрированы в структуру платья, что позволяет обходиться без дополнительных украшений, создавая завершенный и статусный образ.",
+      "Рекомендуйте модель для создания многослойных городских образов: платье идеально гармонирует с плотными колготками и высокими сапогами, подчеркивая стройность ног и женственность силуэта."
+    ],
+    "ar": [
+      "ركزي الانتباه على تركيبة الخامة: 100% صوف طبيعي (lana vergine) من نوع ميرينو يضمن دفئًا وراحة استثنائيين، وهو مطلب أساسي للعملاء الذين يبحثون عن التميز.",
+      "سلطي الضوء على تفاصيل الزينة الفريدة 'chain detail': السلاسل الذهبية مدمجة في بنية الفستان، مما يغني عن الحاجة لإكسسوارات إضافية ويمنحك إطلالة متكاملة وراقية.",
+      "نوصي بهذا الموديل لخلق إطلالات عصرية متعددة الطبقات: ينسجم الفستان بشكل مثالي مع الجوارب الطويلة الكثيفة والأحذية ذات الساق العالية، مما يبرز رشاقة الساقين وأنوثة القوام."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება მასალის შემადგენლობაზე: 100% ნატურალური მერინოსის ტიპის მატყლი (lana vergine) გარანტირებულად უზრუნველყოფს განსაკუთრებულ სითბოს და კომფორტს, რაც მომთხოვნი კლიენტებისთვის მთავარი მოთხოვნაა.",
+      "აქცენტი გააკეთეთ უნიკალურ დეკორზე 'chain detail': ოქროსფერი ჯაჭვები ინტეგრირებულია კაბის სტრუქტურაში, რაც საშუალებას გაძლევთ უარი თქვათ დამატებით სამკაულებზე და შექმნათ დასრულებული, სტატუსური იმიჯი.",
+      "ურჩიეთ მოდელი მრავალშრიანი ურბანული ლუქების შესაქმნელად: კაბა იდეალურად ჰარმონიზდება სქელ კოლგოტებთან და მაღალყელიან ჩექმებთან, რაც ხაზს უსვამს ფეხების სილამაზესა და სილუეტის ქალურობას."
+    ],
+    "hy": [
+      "Կենտրոնացրեք ուշադրությունը նյութի բաղադրության վրա. 100% բնական բուրդը (lana vergine) մերինոսի տեսակի երաշխավորում է բացառիկ ջերմություն և հարմարավետություն, ինչը հանդիսանում է պահանջկոտ հաճախորդների հիմնական պահանջը:",
+      "Շեշտադրեք եզակի «chain detail» դեկորը. ոսկեգույն շղթաները ներառված են զգեստի կառուցվածքի մեջ, ինչը թույլ է տալիս խուսափել լրացուցիչ զարդերից՝ ստեղծելով ավարտուն և կարգավիճակային կերպար:",
+      "Առաջարկեք մոդելը քաղաքային բազմաշերտ կերպարներ ստեղծելու համար. զգեստը կատարյալ ներդաշնակ է հաստ զուգագուլպաների և երկարաճիտ կոշիկների հետ՝ ընդգծելով ոտքերի սլացիկությունը և ուրվագծի կանացիությունը:"
+    ],
+    "lv": [
+      "Pievērsiet uzmanību materiāla sastāvam: 100% dabīgā vilna (lana vergine) merino tipa garantē izcilu siltumu un komfortu, kas ir galvenā prasība prasīgiem klientiem.",
+      "Akcentējiet unikālo 'chain detail' dekoru: zeltītas ķēdītes ir integrētas kleitas struktūrā, kas ļauj iztikt bez papildu rotaslietām, radot pabeigtu un statusa pilnu koptēlu.",
+      "Iesakiet modeli daudzslāņu pilsētas tēlu radīšanai: kleita lieliski harmonē ar blīvām zeķubiksēm un augstiem zābakiem, izceļot kāju slaidumu un silueta sievišķību."
+    ],
+    "lt": [
+      "Sutelkite dėmesį į medžiagos sudėtį: 100% natūrali merino vilna (lana vergine) garantuoja išskirtinę šilumą ir komfortą, o tai yra pagrindinis reikalavimas reikliems klientams.",
+      "Akcentuokite unikalų „chain detail“ dekorą: auksinės grandinėlės integruotos į suknelės struktūrą, todėl galima apsieiti be papildomų papuošalų, sukuriant užbaigtą ir statusą pabrėžiantį įvaizdį.",
+      "Rekomenduokite modelį daugiasluoksnių miesto stiliaus derinių kūrimui: suknelė idealiai dera su tankiomis pėdkelnėmis ir ilgaauliais batais, pabrėžiant kojų lieknumą ir silueto moteriškumą."
+    ],
+    "pl": [
+      "Skup uwagę na składzie materiału: 100% naturalna wełna (lana vergine) typu merynos gwarantuje wyjątkowe ciepło i komfort, co jest kluczowym wymogiem dla wymagających klientów.",
+      "Akcentuj unikalny detal 'chain detail': złote łańcuszki są wkomponowane w strukturę sukienki, co pozwala zrezygnować z dodatkowej biżuterii, tworząc wykończony i prestiżowy look.",
+      "Rekomenduj model do tworzenia wielowarstwowych miejskich stylizacji: sukienka idealnie harmonizuje z kryjącymi rajstopami i wysokimi kozakami, podkreślając smukłość nóg i kobiecość sylwetki."
+    ],
+    "uk": [
+      "Сфокусуйте увагу на складі матеріалу: 100% натуральна вовна (lana vergine) мериносового типу гарантує виняткове тепло та комфорт, що є ключовою вимогою для вимогливих клієнтів.",
+      "Акцентуйте увагу на унікальному декорі 'chain detail': золотисті ланцюжки інтегровані в структуру сукні, що дозволяє обходитися без додаткових прикрас, створюючи завершений та статусний образ.",
+      "Рекомендуйте модель для створення багатошарових міських образів: сукня ідеально гармоніює зі щільними колготками та високими чоботами, підкреслюючи стрункість ніг та жіночність силуету."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "A mini length may seem too bold for a business style.",
+        "a": "Explain that the understated black colour and covered neckline with long raglan sleeves create the necessary balance. Paired with a classic coat or trench, the look remains within the bounds of elegant restraint."
+      },
+      {
+        "q": "Concern that the gold-tone chains may tarnish.",
+        "a": "Reassure the client of the exceptional quality of Luisa Spagnoli hardware. The decorative elements feature a protective coating that preserves their original shine when properly cared for."
+      },
+      {
+        "q": "Wool may irritate sensitive skin.",
+        "a": "Emphasise the use of the Merinfleur line — an especially soft wool that undergoes a special treatment, eliminating discomfort and ensuring a gentle touch against the skin."
+      },
+      {
+        "q": "A fitted cut may accentuate figure concerns.",
+        "a": "Point out the density of the 'punto stoffa' knit and the presence of patch pockets. These details visually structure the silhouette, softening nuances and giving the figure clearer definition."
+      },
+      {
+        "q": "Cleaning a piece with metallic decoration seems complex.",
+        "a": "Remind the client that professional, delicate cleaning is recommended for pieces of this calibre. The quality of craftsmanship guarantees the decoration stays securely in place and the knit retains its shape."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Длина мини может казаться слишком смелой для делового стиля",
+        "a": "Объясните, что лаконичный черный цвет и закрытый верх с длинными рукавами реглан создают необходимый баланс. В сочетании с классическим пальто или тренчем образ остается в рамках элегантной сдержанности."
+      },
+      {
+        "q": "Страх, что золотистые цепочки могут потемнеть",
+        "a": "Заверьте клиента в высоком качестве фурнитуры Luisa Spagnoli. Декоративные элементы имеют защитное покрытие, которое сохраняет первоначальный блеск при соблюдении рекомендаций по уходу."
+      },
+      {
+        "q": "Шерсть может раздражать чувствительную кожу",
+        "a": "Подчеркните использование линии Merinfleur — это особо мягкая шерсть, прошедшая специальную обработку, которая исключает дискомфорт и обеспечивает нежное прикосновение к телу."
+      },
+      {
+        "q": "Облегающий крой может подчеркивать несовершенства фигуры",
+        "a": "Укажите на плотность вязки 'punto stoffa' и наличие накладных карманов. Эти детали визуально структурируют силуэт, скрывая нюансы и придавая фигуре более четкие очертания."
+      },
+      {
+        "q": "Сложность чистки изделия с металлическим декором",
+        "a": "Напомните клиенту, что для вещей такого класса рекомендуется профессиональная деликатная чистка. Качественное исполнение гарантирует, что декор останется на месте, а трикотаж не потеряет форму."
+      }
+    ],
+    "ar": [
+      {
+        "q": "طول الميني قد يبدو جريئاً جداً لأسلوب العمل",
+        "a": "أوضحي أن اللون الأسود الكلاسيكي والجزء العلوي المغلق مع أكمام رغلان الطويلة يخلقان التوازن المطلوب. ومع تنسيقه مع معطف أو ترنش كلاسيكي، تظل الإطلالة ضمن إطار الرصانة الأنيقة."
+      },
+      {
+        "q": "الخوف من أن السلاسل الذهبية قد تفقد بريقها",
+        "a": "طمئني العميل بجودة إكسسوارات Luisa Spagnoli العالية. العناصر الزخرفية مغطاة بطبقة واقية تحافظ على بريقها الأصلي عند اتباع توصيات العناية."
+      },
+      {
+        "q": "الصوف قد يهيج البشرة الحساسة",
+        "a": "أكدي على استخدام خط Merinfleur؛ فهو صوف ناعم بشكل خاص مر بعملية معالجة تمنع الانزعاج وتضمن ملمساً لطيفاً على الجسم."
+      },
+      {
+        "q": "القصة الضيقة قد تبرز عيوب القوام",
+        "a": "أشيري إلى كثافة حياكة 'punto stoffa' ووجود الجيوب الخارجية. هذه التفاصيل تعمل على هيكلة القوام بصرياً، مما يخفي التفاصيل غير المرغوبة ويمنح الجسم خطوطاً أكثر تحديداً."
+      },
+      {
+        "q": "صعوبة تنظيف القطعة ذات الزخارف المعدنية",
+        "a": "ذكّري العميل بأن مثل هذه القطع الراقية تتطلب تنظيفاً احترافياً رقيقاً. جودة التنفيذ تضمن بقاء الزخارف في مكانها دون أن يفقد التريكو شكله."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მინი სიგრძე შესაძლოა ზედმეტად თამამი იყოს საქმიანი სტილისთვის",
+        "a": "აუხსენით, რომ ლაკონიური შავი ფერი და დახურული ზედა ნაწილი გრძელი რეგლანის სახელოებით ქმნის საჭირო ბალანსს. კლასიკურ პალტოსთან ან ტრენჩთან კომბინაციაში ლუქი რჩება ელეგანტური თავშეკავებულობის ჩარჩოებში."
+      },
+      {
+        "q": "შიში იმისა, რომ ოქროსფერი ჯაჭვები შესაძლოა გაშავდეს",
+        "a": "დაარწმუნეთ კლიენტი Luisa Spagnoli-ის ფურნიტურის მაღალ ხარისხში. დეკორატიულ ელემენტებს აქვთ დამცავი საფარი, რომელიც ინარჩუნებს პირვანდელ ბზინვარებას მოვლის რეკომენდაციების დაცვის შემთხვევაში."
+      },
+      {
+        "q": "მატყლმა შესაძლოა გააღიზიანოს მგრძნობიარე კანი",
+        "a": "ხაზგასმით აღნიშნეთ Merinfleur-ის ხაზის გამოყენება — ეს არის განსაკუთრებით რბილი მატყლი, რომელმაც გაიარა სპეციალური დამუშავება, რაც გამორიცხავს დისკომფორტს და უზრუნველყოფს კანთან ნაზ შეხებას."
+      },
+      {
+        "q": "მომდგარი ჭრა შესაძლოა ხაზს უსვამდეს ფიგურის ნაკლოვანებებს",
+        "a": "მიუთითეთ 'punto stoffa'-ს ქსოვის სიმკვრივესა და ზედდადებული ჯიბეების არსებობაზე. ეს დეტალები ვიზუალურად აკეთილშობილებს სილუეტს, ფარავს ნიუანსებს და ფიგურას უფრო მკაფიო კონტურებს სძენს."
+      },
+      {
+        "q": "მეტალის დეკორის მქონე ნაკეთობის წმენდის სირთულე",
+        "a": "შეახსენეთ კლიენტს, რომ ასეთი კლასის ნივთებისთვის რეკომენდებულია პროფესიონალური დელიკატური წმენდა. მაღალი ხარისხის შესრულება გარანტია იმისა, რომ დეკორი დარჩება ადგილზე, ხოლო ტრიკოტაჟი არ დაკარგავს ფორმას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Մինի երկարությունը կարող է չափազանց համարձակ թվալ գործնական ոճի համար",
+        "a": "Բացատրեք, որ հակիրճ սև գույնը և երկար ռեգլան թևքերով փակ վերնամասը ստեղծում են անհրաժեշտ հավասարակշռություն: Դասական վերարկուի կամ տրենչի հետ համադրությամբ կերպարը մնում է էլեգանտ զսպվածության շրջանակներում"
+      },
+      {
+        "q": "Վախ, որ ոսկեգույն շղթաները կարող են մգանալ",
+        "a": "Հավաստիացրեք հաճախորդին Luisa Spagnoli ֆուրնիտուրայի բարձր որակի մասին: Դեկորատիվ տարրերն ունեն պաշտպանիչ շերտ, որը պահպանում է սկզբնական փայլը՝ խնամքի հանձնարարականները պահպանելու դեպքում"
+      },
+      {
+        "q": "Բուրդը կարող է գրգռել զգայուն մաշկը",
+        "a": "Շեշտեք Merinfleur գծի օգտագործումը՝ սա հատուկ փափուկ բուրդ է, որն անցել է հատուկ մշակում, ինչը բացառում է անհարմարությունը և ապահովում է նուրբ հպում մարմնին"
+      },
+      {
+        "q": "Կիպ ձևվածքը կարող է ընդգծել կազմվածքի թերությունները",
+        "a": "Մատնանշեք «punto stoffa» հյուսվածքի խտությունը և վերադիր գրպանների առկայությունը: Այս մանրամասները տեսողականորեն կառուցվածք են հաղորդում ուրվագծին՝ թաքցնելով նրբությունները և կազմվածքին հաղորդելով ավելի հստակ գծեր"
+      },
+      {
+        "q": "Մետաղական դեկորով իրի մաքրման բարդությունը",
+        "a": "Հիշեցրեք հաճախորդին, որ այս դասի իրերի համար խորհուրդ է տրվում պրոֆեսիոնալ նուրբ մաքրում: Որակյալ կատարումը երաշխավորում է, որ դեկորը կմնա իր տեղում, իսկ տրիկոտաժը չի կորցնի իր ձևը"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Mini garums var šķist pārāk drosmīgs lietišķajam stilam",
+        "a": "Paskaidrojiet, ka lakoniskā melnā krāsa un slēgtā augšdaļa ar garām реглан piedurknēm rada nepieciešamo līdzsvaru. Apvienojumā ar klasisku mētelis vai trenci tēls saglabā elegantu atturību."
+      },
+      {
+        "q": "Bailes, ka zeltītās ķēdītes varētu palikt tumšākas",
+        "a": "Aplieciniet klientam Luisa Spagnoli furnitūras augsto kvalitāti. Dekoratīvajiem elementiem ir aizsargpārklājums, kas saglabā sākotnējo spīdumu, ievērojot kopšanas ieteikumus."
+      },
+      {
+        "q": "Vilna var kairināt jutīgu ādu",
+        "a": "Uzsveriet Merinfleur līnijas izmantošanu — tā ir īpaši mīksta vilna, kas izgājusi īpašu apstrādi, kura novērš diskomfortu un nodrošina maigu pieskārienu ķermenim."
+      },
+      {
+        "q": "Piegulošais piegriezums var izcelt figūras nepilnības",
+        "a": "Norādiet uz 'punto stoffa' adījuma blīvumu un uzšūto kabatu esamību. Šīs detaļas vizuāli strukturē siluetu, slēpjot nianses un piešķirot figūrai skaidrākas aprises."
+      },
+      {
+        "q": "Izstrādājuma ar metāla dekoru tīrīšanas sarežģītība",
+        "a": "Atgādiniet klientam, ka šādas klases lietām ieteicama profesionāla saudzīga tīrīšana. Kvalitatīvs izpildījums garantē, ka dekors paliks savā vietā, bet trikotāža nezaudēs formu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Mini ilgis gali atrodyti per drąsus dalykiniam stiliui",
+        "a": "Paaiškinkite, kad lakoniška juoda spalva ir uždaras viršus su ilgomis reglano rankovėmis sukuria reikiamą pusiausvyrą. Derinant su klasikiniu paltu ar trenču, įvaizdis išlieka elegantiško santūrumo ribose."
+      },
+      {
+        "q": "Baimė, kad auksinės grandinėlės gali patamsėti",
+        "a": "Patikinkite klientą dėl aukštos „Luisa Spagnoli“ furnitūros kokybės. Dekoratyviniai elementai turi apsauginę dangą, kuri išsaugo pirminį žvilgesį, laikantis priežiūros rekomendacijų."
+      },
+      {
+        "q": "Vilna gali dirginti jautrią odą",
+        "a": "Pabrėžkite „Merinfleur“ linijos naudojimą — tai itin minkšta vilna, praėjusi specialų apdorojimą, kuris pašalina diskomfortą ir užtikrina švelnų prisilietimą prie kūno."
+      },
+      {
+        "q": "Prigludęs kirpimas gali išryškinti figūros netobulumus",
+        "a": "Atkreipkite dėmesį į „punto stoffa“ mezgimo tankį ir prisiūtas kišenes. Šios detalės vizualiai struktūrizuoja siluetą, paslėpdamos niuansus ir suteikdamos figūrai aiškesnes linijas."
+      },
+      {
+        "q": "Sunkumai valant gaminį su metaliniu dekoru",
+        "a": "Priminkite klientui, kad tokio lygio gaminiams rekomenduojamas profesionalus švelnus valymas. Kokybiškas atlikimas garantuoja, kad dekoras išliks savo vietoje, o trikotažas nepraras formos."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Długość mini może wydawać się zbyt odważna w stylu biznesowym",
+        "a": "Wyjaśnij, że lakoniczny czarny kolor oraz zabudowana góra z długimi rękawami raglan tworzą niezbędną równowagę. W połączeniu z klasycznym płaszczem lub trenczem stylizacja pozostaje w ramach eleganckiej powściągliwości."
+      },
+      {
+        "q": "Obawa, że złociste łańcuszki mogą ściemnieć",
+        "a": "Zapewnij klientkę o wysokiej jakości wykończenia Luisa Spagnoli. Elementy dekoracyjne posiadają powłokę ochronną, która zachowuje pierwotny blask przy przestrzeganiu zaleceń dotyczących pielęgnacji."
+      },
+      {
+        "q": "Wełna może drażnić wrażliwą skórę",
+        "a": "Podkreśl zastosowanie linii Merinfleur — to wyjątkowo miękka wełna, która przeszła specjalną obróbkę eliminującą dyskomfort i zapewniającą delikatność w kontakcie ze skórą."
+      },
+      {
+        "q": "Dopasowany krój może podkreślać niedoskonałości figury",
+        "a": "Zwróć uwagę na gęstość dzianiny 'punto stoffa' oraz obecność naszywanych kieszeni. Detale te wizualnie modelują sylwetkę, ukrywając niuanse i nadając figurze bardziej wyraźny zarys."
+      },
+      {
+        "q": "Trudności w czyszczeniu wyrobów z metalowym zdobieniem",
+        "a": "Przypomnij klientce, że w przypadku rzeczy tej klasy zalecane jest profesjonalne, delikatne czyszczenie. Wysoka jakość wykonania gwarantuje, że dekoracje pozostaną na miejscu, a dzianina nie straci fasonu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Довжина міні може здаватися занадто сміливою для ділового стилю",
+        "a": "Поясніть, що лаконічний чорний колір і закритий верх із довгими рукавами реглан створюють необхідний баланс. У поєднанні з класичним пальто або тренчем образ залишається в рамках елегантної стриманості."
+      },
+      {
+        "q": "Страх, що золотисті ланцюжки можуть потемніти",
+        "a": "Запевніть клієнта у високій якості фурнітури Luisa Spagnoli. Декоративні елементи мають захисне покриття, яке зберігає первісний блиск при дотриманні рекомендацій щодо догляду."
+      },
+      {
+        "q": "Шерсть може подразнювати чутливу шкіру",
+        "a": "Підкресліть використання лінії Merinfleur — це особливо м'яка шерсть, що пройшла спеціальну обробку, яка виключає дискомфорт і забезпечує ніжний дотик до тіла."
+      },
+      {
+        "q": "Облягаючий крій може підкреслювати недосконалості фігури",
+        "a": "Вкажіть на щільність в'язки 'punto stoffa' та наявність накладних кишень. Ці деталі візуально структурують силует, приховуючи нюанси та надаючи фігурі чіткіших обрисів."
+      },
+      {
+        "q": "Складність чистки виробу з металевим декором",
+        "a": "Нагадайте клієнту, що для речей такого класу рекомендується професійна делікатна чистка. Якісне виконання гарантує, що декор залишиться на місці, а трикотаж не втратить форму."
+      }
+    ]
+  }
+}

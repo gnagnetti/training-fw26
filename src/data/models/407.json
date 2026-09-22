@@ -1,0 +1,406 @@
+{
+  "id": 407,
+  "name": "Granulare",
+  "description": {
+    "en": "The Granulare dress is a true embodiment of evening magic and aristocratic sparkle from Luisa Spagnoli. The maxi-length piece captivates with a masterful play of textures: a weightless tulle bodice, fully embroidered with radiant tone-matched sequins, meets a fluid viscose-blend skirt. The piece's architecture is considered to create a status-defining look: a refined V-neckline flows into an intriguing teardrop back dÃ©colletage, while a high waistline, combined with three-quarter sleeves, underscores the delicacy and grace of the silhouette. This dress is created for the woman whose entrance should be marked by soft radiance and flawless taste, transforming every step into an elegant dance of fabric.",
+    "ru": "Платье Granulare --- это подлинное воплощение вечерней магии и аристократичного блеска от Luisa Spagnoli. Модель длины макси завораживает виртуозной игрой фактур: лиф из невесомого тюля, полностью расшитый сияющими пайетками в тон, встречается с текучей юбкой из смесовой вискозы. Архитектура изделия продумана для создания статусного образа: утонченный V-образный вырез переходит в интригующее декольте-каплю на спине, а завышенная линия талии в сочетании с рукавами 3/4 подчеркивает хрупкость и грацию силуэта. Это платье создано для женщины, чье появление должно быть отмечено мягким сиянием и безупречным вкусом, превращая каждый шаг в элегантный танец ткани.",
+    "ar": "فستان Granulare هو تجسيد أصيل لسحر السهرة والبريق الأرستقراطي من Luisa Spagnoli. يأسر الموديل الماكسي الحواس بتلاعبه المتقن بالأنسجة: حيث يلتقي الصدر المصنوع من التول الخفيف، المطرز بالكامل بترتر متلألئ بنفس اللون، مع تنورة انسيابية من خليط الفيسكوز. تم التفكير في هندسة القطعة لابتكار إطلالة ذات مكانة عالية: تتحول فتحة العنق العميقة على شكل حرف V إلى فتحة خلفية جذابة، بينما تبرز خطوط الخصر العالية مع الأكمام بطول 3/4 رقة القوام ورشاقته. صُمم هذا الفستان للمرأة التي تود أن يترك حضورها أثراً ببريق ناعم وذوق رفيع، ليحول كل خطوة إلى رقصة أنيقة من القماش.",
+    "ka": "კაბა Granulare --- ეს არის საღამოს მაგიისა და არისტოკრატული ბრწყინვალების ნამდვილი განსახიერება Luisa Spagnoli-სგან. მაქსი სიგრძის მოდელი მოხიბლავს ფაქტურების ვირტუოზული თამაშით: წონასწორობას მოკლებული ტიულის კორსაჟი, რომელიც სრულად არის გაწყობილი ტონში შესაბამისი მბზინავი ფეიეტებით, ხვდება ვისკოზის ნარევისგან დამზადებულ ფრიალა ქვედაბოლოს. ნაკეთობის არქიტექტურა გათვლილია სტატუსური იმიჯის შესაქმნელად: დახვეწილი V-სებრი ყელი გადადის ზურგზე არსებულ ინტრიგამებულ წვეთ-დეკოლტეში, ხოლო მაღალი წელი 3/4 სახელოებთან ერთად ხაზს უსვამს სილუეტის სისუსტესა და გრაციოზულობას. ეს კაბა შექმნილია იმ ქალისთვის, რომლის გამოჩენაც უნდა აღინიშნოს რბილი ბრწყინვალებითა და უნაკლო გემოვნებით, რაც ყოველ ნაბიჯს ქსოვილის ელეგანტურ ცეკვად აქცევს.",
+    "hy": "Granulare զգեստը Luisa Spagnoli-ի երեկոյան մոգության և արիստոկրատ փայլի իսկական մարմնացումն է։ Մաքսի երկարությամբ մոդելը հմայում է հյուսվածքների վիրտուոզ խաղով. անկշռելի տյուլից պատրաստված լանջապանակը, որն ամբողջությամբ ասեղնագործված է երանգային փայլուն փայլիկներով, համադրվում է վիսկոզայի խառնուրդից պատրաստված հոսուն կիսաշրջազգեստի հետ։ Իրի ճարտարապետությունը մտածված է կարգավիճակային կերպար ստեղծելու համար. նրբագեղ V-աձև բացվածքը վերածվում է մեջքի վրա առեղծվածային կաթիլ-դեկոլտեի, իսկ բարձր գոտկատեղը՝ 3/4 թևքերի հետ համատեղ, ընդգծում է սիլուետի փխրունությունն ու շնորհքը։ Այս զգեստը ստեղծված է այն կնոջ համար, ում հայտնվելը պետք է նշանավորվի մեղմ փայլով և անթերի ճաշակով՝ յուրաքանչյուր քայլը վերածելով գործվածքի էլեգանտ պարի։",
+    "lv": "Kleita Granulare — tas ir patiess vakara maģijas un aristokrātiska spožuma iemiesojums no Luisa Spagnoli. Maksi garuma modelis apbur ar virtuozu faktūru spēli: no viegla tilla darināta augšdaļa, kas pilnībā izšūta ar saskaņotiem mirdzošiem vizuļiem, savienojas ar plūstošiem viskozes maisījuma auduma svārkiem. Izstrādājuma arhitektūra ir pārdomāta, lai radītu statusa pilnu tēlu: izsmalcināts V-veida izgriezums pāriet intriģējošā dekoltē-lāsē uz muguras, savukārt paaugstinātā vidukļa līnija kombinācijā ar 3/4 garuma piedurknēm izceļ silueta trauslumu un grāciju. Šī kleita ir radīta sievietei, kuras parādīšanās ir jāatzīmē ar maigu mirdzumu un nevainojamu gaumi, pārvēršot katru soli elegantā auduma dejā.",
+    "lt": "Suknelė Granulare --- tai tikras vakaro magijos ir aristokratiško spindesio įsikūnijimas iš Luisa Spagnoli. Maksi ilgio modelis užburia meistrišku faktūrų žaismu: lengvo it oras tiulio liemuo, visiškai siuvinėtas tono atspalvio spindinčiais žvyneliais, susitinka su tekančiu viskozės mišinio sijonu. Gaminio architektūra apgalvota taip, kad sukurtų statusą pabrėžiantį įvaizdį: rafinuota V formos iškirptė pereina į intriguojančią lašo formos iškirptę nugaroje, o paaukštinta liemens linija kartu su 3/4 rankovėmis pabrėžia silueto trapumą ir grakštumą. Ši suknelė sukurta moteriai, kurios pasirodymas privalo būti pažymėtas švelniu spindesiu ir nepriekaištingu skoniu, paverčiant kiekvieną žingsnį elegantišku audinio šokiu.",
+    "pl": "Sukienka Granulare --- to prawdziwe ucieleśnienie wieczorowej magii i arystokratycznego blasku od Luisa Spagnoli. Model o długości maxi zachwyca wirtuozerską grą faktur: gorset z nieziemskiego tiulu, w całości wyszywany mieniącymi się cekinami w tonacji, łączy się z płynną spódnicą z mieszanki wiskozy. Architektura produktu została przemyślana tak, aby stworzyć pełen klasy wizerunek: wyrafinowany dekolt w kształcie litery V przechodzi w intrygujący dekolt typu łezka na plecach, a podwyższona linia talii w połączeniu z rękawami 3/4 podkreśla delikatność i grację sylwetki. Ta sukienka została stworzona dla kobiety, której pojawienie się powinno zostać podkreślone miękkim blaskiem i nienagannym gustem, zamieniając każdy krok w elegancki taniec tkaniny.",
+    "uk": "Сукня Granulare --- це справжнє втілення вечірньої магії та аристократичного блиску від Luisa Spagnoli. Модель довжини максі заворожує віртуозною грою фактур: ліф із невагомого тюлю, повністю розшитий сяючими паєтками в тон, зустрічається з плинною спідницею із сумішевої віскози. Архітектура виробу продумана для створення статусного образу: витончений V-подібний виріз переходить в інтригуюче декольте-краплю на спині, а завищена лінія талії у поєднанні з рукавами 3/4 підкреслює тендітність і грацію силуету. Ця сукня створена для жінки, чия поява має бути відзначена м'яким сяйвом та бездоганним смаком, перетворюючи кожен крок на елегантний танець тканини."
+  },
+  "colors": [
+    {
+      "name": "Blu",
+      "code": "1281",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/223995917691f1569d724c0_62116816_02780650XX1.jpg"
+    },
+    {
+      "name": "Verde Bottiglia",
+      "code": "2015",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/604043782691f1596e9bfd0_55503550_02780760XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Дизайнеры и стилисты бренда предлагают рассматривать платье как смысловой центр вечернего ансамбля: Вариант 1281: В lookbook (Look 120): платье представлено как самостоятельный шедевр, подчеркивающий чистоту линий и игру света на пайетках.",
+        "en": "The brand's designers and stylists suggest considering the dress as the semantic center of an evening ensemble: Option 1281: In the lookbook (Look 120): the dress is presented as an independent masterpiece, highlighting the purity of the lines and the play of light on the sequins.",
+        "ar": "The brand's designers and stylists suggest considering the dress as the semantic center of an evening ensemble: Option 1281: In the lookbook (Look 120): the dress is presented as an independent masterpiece, highlighting the purity of the lines and the play of light on the sequins.",
+        "ka": "The brand's designers and stylists suggest considering the dress as the semantic center of an evening ensemble: Option 1281: In the lookbook (Look 120): the dress is presented as an independent masterpiece, highlighting the purity of the lines and the play of light on the sequins.",
+        "hy": "The brand's designers and stylists suggest considering the dress as the semantic center of an evening ensemble: Option 1281: In the lookbook (Look 120): the dress is presented as an independent masterpiece, highlighting the purity of the lines and the play of light on the sequins.",
+        "lv": "The brand's designers and stylists suggest considering the dress as the semantic center of an evening ensemble: Option 1281: In the lookbook (Look 120): the dress is presented as an independent masterpiece, highlighting the purity of the lines and the play of light on the sequins.",
+        "lt": "The brand's designers and stylists suggest considering the dress as the semantic center of an evening ensemble: Option 1281: In the lookbook (Look 120): the dress is presented as an independent masterpiece, highlighting the purity of the lines and the play of light on the sequins.",
+        "pl": "The brand's designers and stylists suggest considering the dress as the semantic center of an evening ensemble: Option 1281: In the lookbook (Look 120): the dress is presented as an independent masterpiece, highlighting the purity of the lines and the play of light on the sequins.",
+        "uk": "The brand's designers and stylists suggest considering the dress as the semantic center of an evening ensemble: Option 1281: In the lookbook (Look 120): the dress is presented as an independent masterpiece, highlighting the purity of the lines and the play of light on the sequins."
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "ru": "Вариант 1281",
+        "en": "In window displays (Vetrina 119, 120)",
+        "ar": "In window displays (Vetrina 119, 120)",
+        "ka": "In window displays (Vetrina 119, 120)",
+        "hy": "In window displays (Vetrina 119, 120)",
+        "lv": "In window displays (Vetrina 119, 120)",
+        "lt": "In window displays (Vetrina 119, 120)",
+        "pl": "In window displays (Vetrina 119, 120)",
+        "uk": "In window displays (Vetrina 119, 120)"
+      },
+      "text": {
+        "ru": "На витринах (Vetrina 119, 120): модель выступает в составе эксклюзивной вечерней группы. Стилисты рекомендуют дополнять образ элегантными аксессуарами, такими как сумка Inofane 1227 0002.",
+        "en": "the model acts as part of an exclusive evening group. Stylists recommend complementing the look with elegant accessories, such as the Inofane 1227 0002 bag. Option 2015:",
+        "ar": "the model acts as part of an exclusive evening group. Stylists recommend complementing the look with elegant accessories, such as the Inofane 1227 0002 bag. Option 2015:",
+        "ka": "the model acts as part of an exclusive evening group. Stylists recommend complementing the look with elegant accessories, such as the Inofane 1227 0002 bag. Option 2015:",
+        "hy": "the model acts as part of an exclusive evening group. Stylists recommend complementing the look with elegant accessories, such as the Inofane 1227 0002 bag. Option 2015:",
+        "lv": "the model acts as part of an exclusive evening group. Stylists recommend complementing the look with elegant accessories, such as the Inofane 1227 0002 bag. Option 2015:",
+        "lt": "the model acts as part of an exclusive evening group. Stylists recommend complementing the look with elegant accessories, such as the Inofane 1227 0002 bag. Option 2015:",
+        "pl": "the model acts as part of an exclusive evening group. Stylists recommend complementing the look with elegant accessories, such as the Inofane 1227 0002 bag. Option 2015:",
+        "uk": "the model acts as part of an exclusive evening group. Stylists recommend complementing the look with elegant accessories, such as the Inofane 1227 0002 bag. Option 2015:"
+      },
+      "items": [
+        {
+          "name": "Inofane",
+          "code": "1227 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 2015",
+        "en": "In the lookbook (Look 121)",
+        "ar": "In the lookbook (Look 121)",
+        "ka": "In the lookbook (Look 121)",
+        "hy": "In the lookbook (Look 121)",
+        "lv": "In the lookbook (Look 121)",
+        "lt": "In the lookbook (Look 121)",
+        "pl": "In the lookbook (Look 121)",
+        "uk": "In the lookbook (Look 121)"
+      },
+      "text": {
+        "ru": "В lookbook (Look 121): торжественное прочтение модели, где акцент сделан на теплом сиянии фактуры.",
+        "en": "a formal interpretation of the model, where the focus is on the warm radiance of the texture.",
+        "ar": "a formal interpretation of the model, where the focus is on the warm radiance of the texture.",
+        "ka": "a formal interpretation of the model, where the focus is on the warm radiance of the texture.",
+        "hy": "a formal interpretation of the model, where the focus is on the warm radiance of the texture.",
+        "lv": "a formal interpretation of the model, where the focus is on the warm radiance of the texture.",
+        "lt": "a formal interpretation of the model, where the focus is on the warm radiance of the texture.",
+        "pl": "a formal interpretation of the model, where the focus is on the warm radiance of the texture.",
+        "uk": "a formal interpretation of the model, where the focus is on the warm radiance of the texture."
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "ru": "Вариант 2015",
+        "en": "In the window display (Vetrina 119)",
+        "ar": "In the window display (Vetrina 119)",
+        "ka": "In the window display (Vetrina 119)",
+        "hy": "In the window display (Vetrina 119)",
+        "lv": "In the window display (Vetrina 119)",
+        "lt": "In the window display (Vetrina 119)",
+        "pl": "In the window display (Vetrina 119)",
+        "uk": "In the window display (Vetrina 119)"
+      },
+      "text": {
+        "ru": "На витрине (Vetrina 119): платье демонстрируется на манекене в ансамбле с изысканной сумкой Inise 2004 0002, подчеркивающей глубину вечернего оттенка.",
+        "en": "the dress is displayed on a mannequin in an ensemble with the exquisite Inise 2004 0002 bag, which emphasizes the depth of the evening hue.",
+        "ar": "the dress is displayed on a mannequin in an ensemble with the exquisite Inise 2004 0002 bag, which emphasizes the depth of the evening hue.",
+        "ka": "the dress is displayed on a mannequin in an ensemble with the exquisite Inise 2004 0002 bag, which emphasizes the depth of the evening hue.",
+        "hy": "the dress is displayed on a mannequin in an ensemble with the exquisite Inise 2004 0002 bag, which emphasizes the depth of the evening hue.",
+        "lv": "the dress is displayed on a mannequin in an ensemble with the exquisite Inise 2004 0002 bag, which emphasizes the depth of the evening hue.",
+        "lt": "the dress is displayed on a mannequin in an ensemble with the exquisite Inise 2004 0002 bag, which emphasizes the depth of the evening hue.",
+        "pl": "the dress is displayed on a mannequin in an ensemble with the exquisite Inise 2004 0002 bag, which emphasizes the depth of the evening hue.",
+        "uk": "the dress is displayed on a mannequin in an ensemble with the exquisite Inise 2004 0002 bag, which emphasizes the depth of the evening hue."
+      },
+      "items": [
+        {
+          "name": "Inise",
+          "code": "2004 0002",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The 'Stardust' effect: Direct the client's attention to the fact that the sequins are hand-sewn onto tulle and matched precisely to the base fabric's tone. This creates a subtle, 'inner' glow that reads as noble and luxurious, in contrast to a bold, con"
+    ],
+    "ru": [
+      "- Эффект «Звездной пыли»: Акцентируйте внимание клиента на том, что пайетки нашиты на тюль и подобраны строго в тон основной ткани. Это создает деликатное, «внутреннее» сияние, которое выглядит благородно и дорого, в отличие от контрастного блеска. - Верт"
+    ],
+    "ar": [
+      "**تأثير \"غبار النجوم\" (Star Dust Effect):** * **تألق داخلي دقيق:** خيطت الحبيبات البراقة (Sequins) بعناية فائقة فوق نسيج التول الناعم بدرجة لونية مطابقة تماماً للون القماش الأساسي، مما يمنح التصميم وهجاً خافتاً ينبعث من الداخل بأسلوب أريستوقراطي رفيع.\n* **بريق فاخر بعيد عن التكلف:** يبتعد هذا الوهج المتناغم عن البهرجة واللمعان المتباين التقليدي، ليُجسد الفخامة الاستثنائية وينضح برقي مفهوم \"الفخامة الهادئة\" (Quiet Luxury). **الامتداد الرأسي وانسيابية الحركة:** * **تطويل بصري للقوام:** تتدفق الخطوط البراقة في اتجاه عمودي مدروس يُعطي انطباعاً فورياً بطول القوام ورشاقته، مما ينحت الجسد بأسلوب هندسي راقٍ.\n* **حركية ساحرة في المناسبات:** يتفاعل هذا النسيج المبتكر مع الإضاءة عند كل خطوة، ليمنحكِ حضوراً استثنائياً يُعبّر عن الجوهر الأصيل لعلامة لويزا سبانيولي (Luisa Spagnoli)."
+    ],
+    "ka": [
+      "- «ვარსკვლავური მტვრის» ეფექტი: მიაქცევინეთ კლიენტის ყურადღება იმ ფაქტზე, რომ ფაქიზი ქსოვილი (тюль) გაფორმებულია ძირითადი ქსოვილის ფერში შეხამებული პაიეტებით. ეს ქმნის დახვეწილ, „შიდა“ ბზინვარებას, რომელიც გამოიყურება არისტოკრატულად და მდიდრულად, განსხვავ"
+    ],
+    "hy": [
+      "- «Աստղային փոշու» էֆեկտ. հաճախորդի ուշադրությունը հրավիրեք այն բանին, որ փայլերը կարված են տյուլի վրա և խստորեն համապատասխանում են հիմնական կտորի երանգին: Սա ստեղծում է նուրբ, «ներքին» փայլ, որը, ի տարբերություն հակադրվող փայլի, թվում է վեհաշուք և թանկար"
+    ],
+    "lv": [
+      "- «Zvaigžņu putekļu» efekts: Akcentējiet klienta uzmanību uz to, ka vizuļi ir uzšūti uz tilla un piemeklēti strikti pamata auduma tonī. Tas rada smalku, «iekšēju» mirdzumu, kas izskatās cēli un dārgi, atšķirībā no kontrastējoša spīduma. - Auguma vertikāle"
+    ],
+    "lt": [
+      "- „Žvaigždžių dulkių“ efektas: atkreipkite kliento dėmesį į tai, kad blizgučiai prisiūti ant tiulio ir kruopščiai parinkti pagal pagrindinio audinio toną. Tai sukuria subtilų, „vidinį“ švytėjimą, kuris atrodo kilniai ir prabangiai, skirtingai nuo kontrastingo blizgesio. - Ūgio vertikalė: pabrėžkite aukšto liemens ir ilgio iki čiurnų derinį. Tokia konstrukcija vizualiai išilgina siluetą, suteikdama jo savininkei grakštumo ir didingumo. - Juvelyrinė rankovė: atkreipkite dėmesį į 3/4 ilgio rankoves. Tai idealus sprendimas iškilmingiems renginiams, nes leidžia pademonstruoti prabangius apyrankes ar laikrodžius ir suteikia įvaizdžiui reikalingo lengvumo."
+    ],
+    "pl": [
+      "- Efekt «Gwiezdnego pyłu»: Zwróć uwagę klientki na fakt, że cekiny naszyte są na tiul i dobrane ściśle w odcieniu tkaniny bazowej. Tworzy to subtelny, «wewnętrzny» blask, który wygląda szlachetnie i kosztownie, w przeciwieństwie do kontrastowego połysku."
+    ],
+    "uk": [
+      "- Ефект «Зоряного пилу»: Акцентуйте увагу клієнта на тому, що паєтки нашиті на тюль і підібрані суворо в тон основної тканини. Це створює делікатне, «внутрішнє» сяйво, яке виглядає благородно і дорого, на відміну від контрастного блиску. - Вертикаль зрост"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The sequins feel too flashy.",
+        "a": "Explain that the sequins on this piece are delicately sized with a matte sheen. Paired with the understated viscose skirt, this creates a balanced «Quiet Luxury » look."
+      },
+      {
+        "q": "I 'm concerned the back neckline is too revealing.",
+        "a": "Point out that the neckline is cut in a teardrop (goccia) shape — a classic, restrained detail that adds a touch of sensuality while preserving an aristocratic sense of coverage."
+      },
+      {
+        "q": "Viscose creases easily.",
+        "a": "Remind the client that this is a high-quality viscose blend (misto viscosa). It has sufficient body and weight to drape beautifully and recover its shape quickly."
+      },
+      {
+        "q": "The maxi length is impractical for movement.",
+        "a": "The ankle-length hem (alla caviglia) is the hallmark of contemporary evening dress codes. It reveals elegant shoes and allows complete freedom of stride."
+      },
+      {
+        "q": "It 's difficult to find the right undergarments for this top.",
+        "a": "Recommend specialised seamless underwear or cups. The tulle base and dense layer of sequins conceal all construction details, ensuring a flawless fit"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Пайетки",
+        "a": "Поясните, что пайетки в этой модели имеют деликатный выглядят слишком размер и матовый отблеск. В сочетании с лаконичной вызывающе вискозной юбкой это создает сбалансированный образ в стиле."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "."
+      },
+      {
+        "q": "Боюсь, что",
+        "a": "Укажите, что вырез выполнен в форме «капли (goccia). вырез на спине Это классический и сдержанный прием, который слишком открыт» добавляет образу ноту чувственности, сохраняя при этом аристократичную закрытость."
+      },
+      {
+        "q": "Вискоза может",
+        "a": "Напомните, что это высококачественное смесовое сильно мяться полотно (misto viscosa). Оно обладает достаточной плотностью и весом, чтобы красиво драпироваться и быстро восстанавливать форму."
+      },
+      {
+        "q": "Макси-длина Длина платья до щиколотки (alla caviglia) — это неудобна для эталон современного вечернего дресс-кода. Она движения",
+        "a": "открывает изящную обувь и обеспечивает полную свободу шага."
+      },
+      {
+        "q": "Сложно",
+        "a": "Рекомендуйте использование специального бесшовного подобрать белье белья или чашек. Тюлевая основа и плотный слой под такой верх пайеток позволяют скрыть все конструктивные детали, обеспечивая идеальную посадку."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الترتر يبدو موضّحي أن الترتر في هذا الموديل يتميز بحجم دقيق وبريق غير لامع. ومع التنورة الفسكوزية مبالغاً فيه",
+        "a": "ذات التصميم البسيط، يخلق هذا التنسيق إطلالة متوازنة بأسلوب."
+      },
+      {
+        "q": "الفخامة الهادئة",
+        "a": "(Quiet Luxury)."
+      },
+      {
+        "q": "أخشى أن فتحة اشيري إلى أن الفتحة مصممة على شكل",
+        "a": "قطرة."
+      },
+      {
+        "q": "(goccia). هذا الأسلوب كلاسيكي ووقور الظهر مكشوفة للغاية",
+        "a": "يضفي لمسة من الأنوثة مع الحفاظ على الرقي والاحتشام."
+      },
+      {
+        "q": "الفسكوز قد يتجعد ذكري العميل بأن هذا القماش من الألياف المختلطة عالية الجودة (misto viscosa)، بكثرة",
+        "a": "والذي يتمتع بكثافة ووزن كافيين لضمان انسدال جميل واستعادة القوام سريعاً."
+      },
+      {
+        "q": "طول الماكسي غير إن طول الفستان الذي يصل إلى الكاحل (alla caviglia) يعد معياراً لعصرنا مريح للحركة",
+        "a": "في قواعد اللباس المسائي؛ فهو يبرز جمال الحذاء ويمنح حرية كاملة في الحركة. «يصعب اختيار ملابس ننصح باستخدام ملابس داخلية خاصة غير ملحومة أو قوالب صدرية (أكواب). البطانة التولية داخلية تحت هذا والطبقة الكثيفة من الترتر تسمح بإخفاء كافة التفاصيل الهيكلية، مما يضمن مظهراً مثالياً."
+      }
+    ],
+    "ka": [
+      {
+        "q": "პაიეტკები ზედმეტად თამამად გამოიყურება",
+        "a": "განმარტეთ, რომ ამ მოდელში პაიეტკები დელიკატური ზომისაა და მქრქალი ბზინვარება აქვს. ლაკონიურ ვისკოზის ქვედაბოლოსთან ერთად, ეს ქმნის დაბალანსებულ სახეს."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "სტილში."
+      },
+      {
+        "q": "შიში მაქვს, რომ ზურგის ჭრილი ზედმეტად ღიაა",
+        "a": "მიუთითეთ, რომ ჭრილი შესრულებულია."
+      },
+      {
+        "q": "წვეთის",
+        "a": "(goccia) ფორმით. ეს არის კლასიკური და თავშეკავებული მიდგომა, რომელიც სახეს სენსუალურობის ნოტს მატებს, ამავდროულად ინარჩუნებს არისტოკრატულ დახურულობას."
+      },
+      {
+        "q": "ვისკოზა შეიძლება ძლიერად დაიჭმუჭნოს",
+        "a": "შეახსენეთ, რომ ეს არის მაღალი ხარისხის შერეული ქსოვილი (misto viscosa). მას გააჩნია საკმარისი სიმკვრივე და წონა, რათა ლამაზად ჩამოჯდეს და სწრაფად აღიდგინოს ფორმა."
+      },
+      {
+        "q": "მაქსი-სიგრძე მოუხერხებელია მოძრაობისთვის",
+        "a": "კოჭამდე სიგრძე (alla caviglia) — თანამედროვე საღამოს დრეს-კოდის ეტალონია. ის აჩენს დახვეწილ ფეხსაცმელს და უზრუნველყოფს ნაბიჯის სრულ თავისუფლებას."
+      },
+      {
+        "q": "რთულია თეთრეულის შერჩევა ასეთი ზედხედისთვის",
+        "a": "რეკომენდაცია გაუწიეთ სპეციალური უნაკერო თეთრეულის ან ჩაშენებული კაპების გამოყენებას. ტიულის ბაზა და პაიეტკების მკვრივი ფენა საშუალებას იძლევა დაიფაროს ყველა კონსტრუქციული დეტალი, რაც უზრუნველყოფს იდეალურ მორგებას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Փայլիկները չափազանց ցուցադրական են",
+        "a": "Պարզաբանեք, որ այս մոդելի փայլիկները նուրբ չափսի են և ունեն փայլատ արտացոլանք։ Համադրելով հակիրճ վիսկոզե կիսաշրջազգեստի հետ՝ ստեղծվում է հավասարակշռված."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "ոճի կերպար։."
+      },
+      {
+        "q": "Վախենում եմ, որ մեջքի բացվածքը չափազանց բաց է",
+        "a": "Նշեք, որ բացվածքը կատարված է."
+      },
+      {
+        "q": "կաթիլ",
+        "a": "(goccia) ձևով։ Սա դասական և զուսպ լուծում է, որը կերպարին հաղորդում է զգայականության նոտա՝ պահպանելով արիստոկրատիկ փակվածությունը։."
+      },
+      {
+        "q": "Վիսկոզեն կարող է շատ կնճռոտվել",
+        "a": "Հիշեցրեք, որ սա բարձրորակ խառը կտոր է (misto viscosa)։ Այն ունի բավարար խտություն և քաշ՝ գեղեցիկ ծալքավորվելու և արագ իր ձևը վերականգնելու համար։."
+      },
+      {
+        "q": "Մաքսի երկարությունը անհարմար է շարժման համար",
+        "a": "Զգեստի երկարությունը մինչև կոճը (alla caviglia) ժամանակակից երեկոյան դրես-կոդի չափանիշ է։ Այն ցուցադրում է նրբագեղ կոշիկները և ապահովում քայլքի լիակատար ազատություն։."
+      },
+      {
+        "q": "Դժվար է ընտրել ներքնազգեստ նման վերնամասի տակ",
+        "a": "Խորհուրդ տվեք օգտագործել հատուկ անկար ներքնազգեստ կամ կրծքակալներ։ Տյուլե հիմքը և փայլիկների խիտ շերտը թույլ են տալիս թաքցնել բոլոր կոնստրուկտիվ դետալները՝ ապահովելով կատարյալ տեսք։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vizuļi izskatās",
+        "a": "Paskaidrojiet, ka šī modeļa vizuļiem ir delikāts pārāk izaicinoši izmērs un matēts spīdums. Apvienojumā ar lakoniskiem viskozes svārkiem tas rada līdzsvarotu tēlu."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "stilā."
+      },
+      {
+        "q": "Baidos, ka izgriezums uz muguras ir pārāk atvērts",
+        "a": "Norādiet, ka izgriezums ir veidots."
+      },
+      {
+        "q": "piliena",
+        "a": "(goccia) formā. Tas ir klasisks un atturīgs paņēmiens, kas piešķir tēlam jutekliskuma noti, vienlaikus saglabājot aristokrātisku noslēgtību."
+      },
+      {
+        "q": "Viskoze var stipri burzīties",
+        "a": "Atgādiniet, ka tas ir augstas kvalitātes jaukta auduma materiāls (misto viscosa). Tam piemīt pietiekams blīvums un svars, lai tas skaisti drapētos un ātri atgūtu formu."
+      },
+      {
+        "q": "Maksi garums ir neērts kustībām",
+        "a": "Kleitas garums līdz potītei (alla caviglia) — tas ir mūsdienu vakara dreskoda etalons. Tas atklāj elegantus apavus un nodrošina pilnīgu soļa brīvību."
+      },
+      {
+        "q": "Grūti piemeklēt veļu šādai augšdaļai",
+        "a": "Iesakiet izmantot īpašu bezšuvju veļu vai krūšturus. Tilla pamats un blīvais vizuļu slānis ļauj noslēpt visas konstruktīvās detaļas, nodrošinot ideālu piegulumu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Blizgučiai atrodo per daug provokuojančiai",
+        "a": "Paaiškinkite, kad šio modelio blizgučiai yra subtilaus dydžio ir matinio žvilgesio. Derinant su lakonišku viskozės sijonu, tai sukuria subalansuotą „Quiet Luxury“ stiliaus įvaizdį. , kad šio modelio blizgučiai yra subtilaus dydžio ir matinio žvilgesio. Derinant su lakonišku viskozės sijonu, tai sukuria subalansuotą „Quiet Luxury“ stiliaus įvaizdį."
+      },
+      {
+        "q": "„Baiminuosi, kad iškirptė nugaroje per atvira",
+        "a": "Nurodykite, kad iškirptė suformuota „lašelio“ (goccia) forma. Tai klasikinis ir santūrus sprendimas, kuris suteikia įvaizdžiui jausmingumo, išlaikant aristokratišką uždarumą. , kad iškirptė suformuota „lašelio“ (goccia) forma. Tai klasikinis ir santūrus sprendimas, kuris suteikia įvaizdžiui jausmingumo, išlaikant aristokratišką uždarumą."
+      },
+      {
+        "q": "„Viskozė gali stipriai glamžytis",
+        "a": "Priminkite, kad tai aukštos kokybės mišrus audinys (misto viscosa). Jis yra pakankamai tankus ir sunkus, kad gražiai kristų ir greitai atgautų formą. „Maksi ilgis nepatogus judėjimui“ Suknelės ilgis iki kulkšnių (alla caviglia) — tai šiuolaikinio vakarinio aprangos kodo etalonas. Jis atidengia elegantišką avalynę ir užtikrina visišką judesių laisvę. „Sunku parinkti apatinius drabužius tokiam viršui“ Rekomenduokite naudoti specialius besiūlius apatinius ar kaušelius. Tiulio pagrindas ir tankus blizgučių sluoksnis leidžia paslėpti visas konstrukcines detales, užtikrinant idealų prigludimą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Cekiny wyglądają zbyt wyzywająco",
+        "a": "Wyjaśnij, że cekiny w tym modelu mają delikatny rozmiar i matowy połysk. W połączeniu z lakoniczną wiskozową spódnicą tworzy to zrównoważony wizerunek w stylu."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "."
+      },
+      {
+        "q": "Obawiam się, że wycięcie na plecach jest zbyt otwarte",
+        "a": "Wskaż, że wycięcie wykonane jest w formie."
+      },
+      {
+        "q": "kropli",
+        "a": "(goccia). To klasyczny i powściągliwy zabieg, który dodaje wizerunkowi nuty zmysłowości, zachowując jednocześnie arystokratyczną zamkniętość."
+      },
+      {
+        "q": "Wiskoza może się mocno gnieść",
+        "a": "Przypomnij, że to wysokiej jakości tkanina mieszana (misto viscosa). Posiada ona odpowiednią gęstość i wagę, aby pięknie się układać i szybko wracać do pierwotnego kształtu."
+      },
+      {
+        "q": "Długość maxi jest niewygodna w ruchu",
+        "a": "Długość sukni do kostek (alla caviglia) to standard współczesnego wieczorowego dress code'u. Odsłania ona eleganckie obuwie i zapewnia pełną swobodę kroków."
+      },
+      {
+        "q": "Trudno dobrać bieliznę do takiej góry",
+        "a": "Rekomenduj użycie specjalnej bezszwowej bielizny lub miseczek. Tiulowa baza i gęsta warstwa cekinów pozwalają ukryć wszystkie detale konstrukcyjne, zapewniając idealne dopasowanie."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Пайєтки",
+        "a": "Поясніть, що пайєтки у цій моделі мають делікатний виглядають надто розмір і матовий відблиск. У поєднанні з лаконічною зухвало віскозною спідницею це створює збалансований образ у стилі."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "."
+      },
+      {
+        "q": "Боюся, що",
+        "a": "Вкажіть, що виріз виконаний у формі «краплі (goccia). виріз на спині Це класичний і стриманий прийом, який надто відкритий» додає образу ноту чуттєвості, зберігаючи при цьому аристократичну закритість."
+      },
+      {
+        "q": "Віскоза може",
+        "a": "Нагадайте, що це високоякісне змісове сильно м’ятися полотно (misto viscosa). Воно володіє достатньою щільністю і вагою, щоб гарно драпіруватися і швидко відновлювати форму."
+      },
+      {
+        "q": "Максі-довжина Довжина сукні до щиколотки (alla caviglia) — це незручна для еталон сучасного вечірнього дрес-коду. Вона руху",
+        "a": "відкриває витончене взуття і забезпечує повну свободу кроку."
+      },
+      {
+        "q": "Складно Рекомендуйте використання спеціальної безшовної підібрати білизну білизни або чашок. Тюлева основа і щільний шар під такий верх",
+        "a": "пайєток дозволяють приховати всі конструктивні деталі, забезпечуючи ідеальну посадку."
+      }
+    ]
+  }
+}

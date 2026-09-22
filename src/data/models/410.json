@@ -1,0 +1,485 @@
+{
+  "id": 410,
+  "name": "Guanina",
+  "description": {
+    "en": "The Guanina dress is a precious jewel of the collection, in which an understated cut meets the dazzling brilliance of Italian textile craftsmanship. The mini-length piece is crafted from luxurious lamÃ© brocade with a delicate shimmer, adorned with a classic aristocratic Paisley motif. The dress's architecture draws inspiration from retro-glamour aesthetics: a high empire waistline (taglio vita a impero) masterfully sculpts the feminine silhouette, while small jewel-like buttons (bottoni gioiello) place exquisite accents, transforming the piece into a true art object. Functional side pockets and a Regular fit add contemporary ease to the look, making this dress the ideal choice for formal occasions where status and impeccable taste must be underscored.",
+    "ru": "Платье Guanina --- это драгоценная жемчужина коллекции, в которой лаконичность кроя встречается с ослепительным сиянием итальянского текстильного мастерства. Модель длины мини выполнена из роскошного парчового полотна (broccato lamé) с деликатным блеском, украшенного классическим аристократичным узором Пейсли. Архитектура платья вдохновлена эстетикой ретро-гламура: завышенная линия талии (taglio vita a impero) виртуозно моделирует женственный силуэт, а маленькие ювелирные пуговицы (bottoni gioiello) расставляют изысканные акценты, превращая изделие в настоящий арт-объект. Функциональные боковые карманы и регулярная посадка (regular fit) добавляют образу современной непринужденности, делая это платье идеальным выбором для торжественных выходов, где важно подчеркнуть статус и безупречный вкус.",
+    "ar": "فستان Guanina هو جوهرة ثمينة من المجموعة، حيث تلتقي بساطة القص مع البريق المبهر لمهارة النسيج الإيطالي. صُمم الموديل بطول قصير من قماش الديباج الفاخر (broccato lamé) بلمعان رقيق، ومزين بنقشة البيزلي الأرستقراطية الكلاسيكية. استوحيت هندسة الفستان من جماليات سحر الريترو: حيث يقوم خط الخصر العالي (taglio vita a impero) بتشكيل القوام الأنثوي ببراعة، بينما تضفي الأزرار الصغيرة المرصعة (bottoni gioiello) لمسات متطورة، مما يحول القطعة إلى عمل فني حقيقي. تضيف الجيوب الجانبية الوظيفية والقصة المعتادة (regular fit) لمسة من العفوية العصرية، مما يجعل هذا الفستان خياراً مثالياً للمناسبات الرسمية التي تتطلب إبراز المكانة والذوق الرفيع.",
+    "ka": "კაბა Guanina --- ეს არის კოლექციის ძვირფასი მარგალიტი, რომელშიც კერვის ლაკონიურობა ხვდება იტალიური ტექსტილის ოსტატობის კაშკაშა ბრწყინვალებას. მინი სიგრძის მოდელი დამზადებულია მდიდრული პარჩის ქსოვილისგან (broccato lamé) დელიკატური ბრწყინვალებით, რომელიც გაწყობილია კლასიკური არისტოკრატული პეისლის ნიმუშით. კაბის არქიტექტურა შთაგონებულია რეტრო-გლამურის ესთეტიკით: მაღალი წელი (taglio vita a impero) ვირტუოზულად აყალიბებს ქალურ სილუეტს, ხოლო პატარა საიუველირო ღილები (bottoni gioiello) ათავსებენ დახვეწილ აქცენტებს და ნაკეთობას ნამდვილ არტ-ობიექტად აქცევენ. ფუნქციური გვერდითი ჯიბეები და რეგულარული ჭრა (regular fit) იმიჯს მატებს თანამედროვე სიმსუბუქეს, რაც ამ კაბას აქცევს იდეალურ არჩევანად საზეიმო გამოსვლებისთვის, სადაც მნიშვნელოვანია სტატუსისა და უნაკლო გემოვნების ხაზგასმა.",
+    "hy": "Guanina զգեստը հավաքածուի թանկարժեք մարգարիտն է, որտեղ ձևվածքի լակոնիկությունը հանդիպում է իտալական տեքստիլ վարպետության շլացուցիչ փայլին։ Մինի երկարությամբ մոդելը պատրաստված է նուրբ փայլով շքեղ բրոկադային կտավից (broccato lamé), որը զարդարված է դասական արիստոկրատ Փեյսլի նախշով։ Զգեստի ճարտարապետությունը ոգեշնչված է ռետրո-գլամուրի էսթետիկայով. բարձր գոտկատեղը (taglio vita a impero) վիրտուոզ կերպով մոդելավորում է կանացի սիլուետը, իսկ փոքր ոսկերչական կոճակները (bottoni gioiello) դնում են նրբագեղ շեշտադրումներ՝ իրը վերածելով իսկական արտ-օբյեկտի։ Ֆունկցիոնալ կողային գրպանները և կանոնավոր նստվածքը (regular fit) կերպարին հաղորդում են ժամանակակից անկաշկանդություն՝ այս զգեստը դարձնելով իդեալական ընտրություն հանդիսավոր ելքերի համար, որտեղ կարևոր է ընդգծել կարգավիճակն ու անթերի ճաշակը.",
+    "lv": "Kleita Guanina — tā ir kolekcijas dārgakmens, kurā piegriezuma lakonisms sastopas ar itāļu tekstilmākslas žilbinošo mirdzumu. Mini garuma modelis ir darināts no grezna brokāta auduma (broccato lamé) ar smalku spīdumu, ko rotā klasisks, aristokrātisks Peislija raksts. Kleitas arhitektūru iedvesmojusi retro-glamūra estētika: paaugstināta vidukļa līnija (taglio vita a impero) virtuozi modelē sievišķīgu siluetu, bet mazas juvelierizstrādājumu tipa pogas (bottoni gioiello) izvieto izsmalcinātus akcentus, pārvēršot izstrādājumu par īstu mākslas objektu. Funkcionālas sānu kabatas un regulārs piegriezums (regular fit) piešķir tēlam mūsdienīgu vieglumu, padarot šo kleitu par ideālu izvēli svinīgiem izgājieniem, kur svarīgi uzsvērt statusu un nevainojamu gaumi.",
+    "lt": "Suknelė Guanina --- tai brangus kolekcijos perlas, kuriame lakoniškas kirpimas susitinka su akinančiu itališko tekstilės meistriškumo spindesiu. Mini ilgio modelis pagamintas iš prabangaus brokato audinio (broccato lamé) su subtiliu blizgesiu, papuošto klasikiniu aristokratišku Peisley raštu. Suknelės architektūra įkvėpta retro-glamūro estetikos: paaukštinta liemens linija (taglio vita a impero) meistriškai formuoja moterišką siluetą, o mažos juvelyrinės sagutės (bottoni gioiello) sudeda rafinuotus akcentus, paverčiant gaminį tikru meno objektu. Funkcionalios šoninės kišenės ir reguliarus sukirpimas (regular fit) suteikia įvaizdžiui šiuolaikiško atsipalaidavimo, todėl ši suknelė yra idealus pasirinkimas iškilmingiems išėjimams, kur svarbu pabrėžti statusą ir nepriekaištingą skonį.",
+    "pl": "Sukienka Guanina --- to cenna perła kolekcji, w której lakoniczność kroju spotyka się z olśniewającym blaskiem włoskiego kunsztu tekstylnego. Model o długości mini został wykonany z luksusowej tkaniny żakardowej (broccato lamé) o delikatnym połysku, ozdobionej klasycznym, arystokratycznym wzorem Paisley. Architektura sukienki zainspirowana jest estetyką retro-glamour: podwyższona linia talii (taglio vita a impero) wirtuozersko modeluje kobiecą sylwetkę, a małe jubilerskie guziki (bottoni gioiello) stanowią wyrafinowane akcenty, przekształcając produkt w prawdziwe dzieło sztuki. Funkcjonalne kieszenie boczne oraz regularny krój (regular fit) dodają wizerunkowi nowoczesnej swobody, czyniąc tę sukienkę idealnym wyborem na uroczyste wyjścia, gdzie ważne jest podkreślenie statusu i nienagannego gustu.",
+    "uk": "Сукня Guanina --- це дорогоцінна перлина колекції, в якій лаконічність крою зустрічається з осліпливим сяйвом італійської текстильної майстерності. Модель довжини міні виконана з розкішного парчового полотна (broccato lamé) з делікатним блиском, прикрашеного класичним аристократичним візерунком Пейслі. Архітектура сукні натхненна естетикою ретро-гламуру: завищена лінія талії (taglio vita a impero) віртуозно моделює жіночний силует, а маленькі ювелірні ґудзики (bottoni gioiello) розставляють вишукані акценти, перетворюючи виріб на справжній арт-об'єкт. Функціональні бічні кишені та регулярна посадка (regular fit) додають образу сучасної невимушеності, роблячи цю сукню ідеальним вибором для урочистих виходів, де важливо підкреслити статус та бездоганний смак."
+  },
+  "colors": [
+    {
+      "name": "Var Blu Lurex",
+      "code": "3357",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1683745759692424cd7a4258_80276067_02781160XX1.jpg"
+    },
+    {
+      "name": "Var Platino",
+      "code": "3312",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2031261838692424cdd10e92_93047328_02781170XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Дизайнеры Luisa Spagnoli предлагают использовать платье Guanina как основу для создания безупречных ансамблей в стиле Total Look: Вариант 3312: В lookbook (Look 105, 106): платье рекомендуется сочетать с пальто из аналогичной ткани Stenia 3312, создавая величественный и цельный образ для самых статусных мероприятий.",
+        "en": "Luisa Spagnoli designers suggest using the Guanina dress as a foundation for creating flawless Total Look ensembles: Option 3312: In the lookbook (Look 105, 106): it is recommended to pair the dress with a coat made of similar Stenia 3312 fabric, creating a majestic and cohesive look for the most high-status events.",
+        "ar": "Luisa Spagnoli designers suggest using the Guanina dress as a foundation for creating flawless Total Look ensembles: Option 3312: In the lookbook (Look 105, 106): it is recommended to pair the dress with a coat made of similar Stenia 3312 fabric, creating a majestic and cohesive look for the most high-status events.",
+        "ka": "Luisa Spagnoli designers suggest using the Guanina dress as a foundation for creating flawless Total Look ensembles: Option 3312: In the lookbook (Look 105, 106): it is recommended to pair the dress with a coat made of similar Stenia 3312 fabric, creating a majestic and cohesive look for the most high-status events.",
+        "hy": "Luisa Spagnoli designers suggest using the Guanina dress as a foundation for creating flawless Total Look ensembles: Option 3312: In the lookbook (Look 105, 106): it is recommended to pair the dress with a coat made of similar Stenia 3312 fabric, creating a majestic and cohesive look for the most high-status events.",
+        "lv": "Luisa Spagnoli designers suggest using the Guanina dress as a foundation for creating flawless Total Look ensembles: Option 3312: In the lookbook (Look 105, 106): it is recommended to pair the dress with a coat made of similar Stenia 3312 fabric, creating a majestic and cohesive look for the most high-status events.",
+        "lt": "Luisa Spagnoli designers suggest using the Guanina dress as a foundation for creating flawless Total Look ensembles: Option 3312: In the lookbook (Look 105, 106): it is recommended to pair the dress with a coat made of similar Stenia 3312 fabric, creating a majestic and cohesive look for the most high-status events.",
+        "pl": "Luisa Spagnoli designers suggest using the Guanina dress as a foundation for creating flawless Total Look ensembles: Option 3312: In the lookbook (Look 105, 106): it is recommended to pair the dress with a coat made of similar Stenia 3312 fabric, creating a majestic and cohesive look for the most high-status events.",
+        "uk": "Luisa Spagnoli designers suggest using the Guanina dress as a foundation for creating flawless Total Look ensembles: Option 3312: In the lookbook (Look 105, 106): it is recommended to pair the dress with a coat made of similar Stenia 3312 fabric, creating a majestic and cohesive look for the most high-status events."
+      },
+      "items": [
+        {
+          "name": "Stenia",
+          "code": "3312",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_331200000000%20%281%29.jpg",
+          "modelId": 495
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 3312",
+        "en": "In window displays (Vetrina 114, 115, 136, 137)",
+        "ar": "In window displays (Vetrina 114, 115, 136, 137)",
+        "ka": "In window displays (Vetrina 114, 115, 136, 137)",
+        "hy": "In window displays (Vetrina 114, 115, 136, 137)",
+        "lv": "In window displays (Vetrina 114, 115, 136, 137)",
+        "lt": "In window displays (Vetrina 114, 115, 136, 137)",
+        "pl": "In window displays (Vetrina 114, 115, 136, 137)",
+        "uk": "In window displays (Vetrina 114, 115, 136, 137)"
+      },
+      "text": {
+        "ru": "На витринах (Vetrina 114, 115, 136, 137): - Каноническое сочетание с пальто Stenia 3312 и сумкой Inise 0212 0002. - Вечерний вариант с клатчем Inesias 0001 0002. - Зимняя стилизация с меховым пальто или классическим пальто Scatto 0202 и сумкой Inolita 0094 0002.",
+        "en": "- Canonical combination with the Stenia 3312 coat and the Inise 0212 0002 bag. - Evening option with the Inesias 0001 0002 clutch. - Winter styling with a fur coat or the classic Scatto 0202 coat and the Inolita 0094 0002 bag. Option 3357:",
+        "ar": "- Canonical combination with the Stenia 3312 coat and the Inise 0212 0002 bag. - Evening option with the Inesias 0001 0002 clutch. - Winter styling with a fur coat or the classic Scatto 0202 coat and the Inolita 0094 0002 bag. Option 3357:",
+        "ka": "- Canonical combination with the Stenia 3312 coat and the Inise 0212 0002 bag. - Evening option with the Inesias 0001 0002 clutch. - Winter styling with a fur coat or the classic Scatto 0202 coat and the Inolita 0094 0002 bag. Option 3357:",
+        "hy": "- Canonical combination with the Stenia 3312 coat and the Inise 0212 0002 bag. - Evening option with the Inesias 0001 0002 clutch. - Winter styling with a fur coat or the classic Scatto 0202 coat and the Inolita 0094 0002 bag. Option 3357:",
+        "lv": "- Canonical combination with the Stenia 3312 coat and the Inise 0212 0002 bag. - Evening option with the Inesias 0001 0002 clutch. - Winter styling with a fur coat or the classic Scatto 0202 coat and the Inolita 0094 0002 bag. Option 3357:",
+        "lt": "- Canonical combination with the Stenia 3312 coat and the Inise 0212 0002 bag. - Evening option with the Inesias 0001 0002 clutch. - Winter styling with a fur coat or the classic Scatto 0202 coat and the Inolita 0094 0002 bag. Option 3357:",
+        "pl": "- Canonical combination with the Stenia 3312 coat and the Inise 0212 0002 bag. - Evening option with the Inesias 0001 0002 clutch. - Winter styling with a fur coat or the classic Scatto 0202 coat and the Inolita 0094 0002 bag. Option 3357:",
+        "uk": "- Canonical combination with the Stenia 3312 coat and the Inise 0212 0002 bag. - Evening option with the Inesias 0001 0002 clutch. - Winter styling with a fur coat or the classic Scatto 0202 coat and the Inolita 0094 0002 bag. Option 3357:"
+      },
+      "items": [
+        {
+          "name": "Stenia",
+          "code": "3312",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_331200000000%20%281%29.jpg",
+          "modelId": 495
+        },
+        {
+          "name": "Inise",
+          "code": "0212 0002",
+          "imageUrl": null
+        },
+        {
+          "name": "Inesias",
+          "code": "0001 0002",
+          "imageUrl": null
+        },
+        {
+          "name": "Scatto",
+          "code": "0202",
+          "imageUrl": null
+        },
+        {
+          "name": "Inolita",
+          "code": "0094 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 3357",
+        "en": "In the lookbook (Look 115)",
+        "ar": "In the lookbook (Look 115)",
+        "ka": "In the lookbook (Look 115)",
+        "hy": "In the lookbook (Look 115)",
+        "lv": "In the lookbook (Look 115)",
+        "lt": "In the lookbook (Look 115)",
+        "pl": "In the lookbook (Look 115)",
+        "uk": "In the lookbook (Look 115)"
+      },
+      "text": {
+        "ru": "В lookbook (Look 115): предлагается в дуэте с пальто-компаньоном Stenia 3357.",
+        "en": "it is proposed in a duet with the companion coat Stenia 3357.",
+        "ar": "it is proposed in a duet with the companion coat Stenia 3357.",
+        "ka": "it is proposed in a duet with the companion coat Stenia 3357.",
+        "hy": "it is proposed in a duet with the companion coat Stenia 3357.",
+        "lv": "it is proposed in a duet with the companion coat Stenia 3357.",
+        "lt": "it is proposed in a duet with the companion coat Stenia 3357.",
+        "pl": "it is proposed in a duet with the companion coat Stenia 3357.",
+        "uk": "it is proposed in a duet with the companion coat Stenia 3357."
+      },
+      "items": [
+        {
+          "name": "Stenia",
+          "code": "3357",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_335700000000.jpg",
+          "modelId": 495
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 3357",
+        "en": "In window displays (Vetrina 116, 117)",
+        "ar": "In window displays (Vetrina 116, 117)",
+        "ka": "In window displays (Vetrina 116, 117)",
+        "hy": "In window displays (Vetrina 116, 117)",
+        "lv": "In window displays (Vetrina 116, 117)",
+        "lt": "In window displays (Vetrina 116, 117)",
+        "pl": "In window displays (Vetrina 116, 117)",
+        "uk": "In window displays (Vetrina 116, 117)"
+      },
+      "text": {
+        "ru": "На витринах (Vetrina 116, 117): модель демонстрируется с элегантной сумкой Inofane 1227 0002, подчеркивающей холодное сияние парчи.",
+        "en": "the model is demonstrated with the elegant Inofane 1227 0002 bag, emphasizing the cold radiance of the brocade.",
+        "ar": "the model is demonstrated with the elegant Inofane 1227 0002 bag, emphasizing the cold radiance of the brocade.",
+        "ka": "the model is demonstrated with the elegant Inofane 1227 0002 bag, emphasizing the cold radiance of the brocade.",
+        "hy": "the model is demonstrated with the elegant Inofane 1227 0002 bag, emphasizing the cold radiance of the brocade.",
+        "lv": "the model is demonstrated with the elegant Inofane 1227 0002 bag, emphasizing the cold radiance of the brocade.",
+        "lt": "the model is demonstrated with the elegant Inofane 1227 0002 bag, emphasizing the cold radiance of the brocade.",
+        "pl": "the model is demonstrated with the elegant Inofane 1227 0002 bag, emphasizing the cold radiance of the brocade.",
+        "uk": "the model is demonstrated with the elegant Inofane 1227 0002 bag, emphasizing the cold radiance of the brocade."
+      },
+      "items": [
+        {
+          "name": "Inofane",
+          "code": "1227 0002",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The magic of the empire cut: Direct the client's attention to the empire line. This is one of the most flattering cuts, visually elongating the legs and creating an elegant silhouette while concealing nuances at the waist. - A textile investment: Highli"
+    ],
+    "ru": [
+      "- Магия имперского кроя: Акцентируйте внимание клиента на линии ампир. Это один из самых комплиментарных типов кроя, который визуально удлиняет ноги и создает изящный силуэт, скрывая нюансы в области талии. - Текстильная инвестиция: Подчеркните ценность м"
+    ],
+    "ar": [
+      "**سحر القَصّة الإمبراطورية (Empire Cut):** * **نحت الأنوثة وانسيابية القوام:** تُعد خطوط الإمبراطورية من أكثر القَصّات إبرازاً لجمال الجسم؛ حيث يعتمد رفع خط الخصر إلى ما تحت الصدر مباشرة على منح انطباع بصري بطول استثنائي للساقين وقوام مفعم بالرشاقة.\n* **تمويه متقن للتفاصيل:** تتيح هذه القَصّة الهندسية إخفاء عدم التناسق أو التفاصيل الدقيقة في منطقة البطن والخصر بفضل انسدال القماش الحر، مما يوفر راحة مطلقة وحضوراً يفيض بالثقة. **استثمار نسيجي مستدام:** * **خامة فاخرة عابرة للزمن:** يمثل هذا التصميم استثماراً حقيقياً في المنسوجات النبيلة؛ حيث تضمن جودة الحبكة العالية وطبيعة النسيج الاستثنائية الحفاظ على القوام والألوان مع مرور السنوات.\n* **قيمة استثنائية للخزانة:** تترفع هذه القطعة عن الصيحات العابرة، لتغدو خياراً كلاسيكياً يجسد الدقة الإيطالية والذوق الأريستوقراطي الراقي لعلامة لويزا سبانيولي (Luisa Spagnoli) ضمن مفهوم \"الفخامة الهادئة\" (Quiet Luxury)."
+    ],
+    "ka": [
+      "- იმპერიული კერვის მაგია: მიაქცევინეთ კლიენტის ყურადღება ამპირის სტილის ხაზს. ეს არის ერთ-ერთი ყველაზე მომგებიანი კერვის ტიპი, რომელიც ვიზუალურად აგრძელებს ფეხებს და ქმნის დახვეწილ სილუეტს, ფარავს რა ნიუანსებს წელის არეში. - ტექსტილის ინვესტიცია: ხაზი გაუ"
+    ],
+    "hy": [
+      "- Կայսերական ձևվածքի մոգություն. հաճախորդի ուշադրությունը հրավիրեք ամպիր ոճի գծին: Սա ձևվածքի ամենաոգեշնչող տեսակներից է, որը տեսողականորեն երկարացնում է ոտքերը և ստեղծում նրբագեղ ուրվագիծ՝ թաքցնելով գոտկատեղի հատվածի նրբերանգները: - Տեքստիլ ներդրում. ընդ"
+    ],
+    "lv": [
+      "- Impērijas piegriezuma maģija: Akcentējiet klienta uzmanību uz ampīra līniju. Tas ir viens no viskomplimentārākajiem piegriezuma veidiem, kas vizuāli pagarina kājas un rada graciozu siluetu, noslēpjot nianses jostasvietas zonā. - Tekstila investīcija: Uz"
+    ],
+    "lt": [
+      "- Imperijos stiliaus kirpimo magija: atkreipkite kliento dėmesį į amplua liniją. Tai vienas iš labiausiai komplimentų vertų kirpimo tipų, kuris vizualiai pailgina kojas ir sukuria grakštų siluetą, paslėpdamas niuansus liemens srityje. - Tekstilinė investicija: pabrėžkite medžiagos „broccato lamé“ vertę. Sudėtingas žakardinis audimas su metalizuotais siūlais daro suknelę atsparią glamžymuisi ir leidžia jai išlaikyti formą bei spindesį daugelį metų. - Užbaigto įvaizdžio efektas: atkreipkite dėmesį į sagas-brangenybes. Jos atlieka juvelyrinių dirbinių vaidmenį, kas leidžia klientui sumažinti aksesuarų kiekį, išlaikant įvaizdį švarų ir statusą pabrėžiantį."
+    ],
+    "pl": [
+      "- Magia imperialnego kroju: Zwróć uwagę klientki na linię empire. To jeden z najbardziej korzystnych typów kroju, który optycznie wydłuża nogi i tworzy wdzięczną sylwetkę, maskując niuanse w okolicy talii. - Tekstylna inwestycja: Podkreśl wartość materiał"
+    ],
+    "uk": [
+      "- Магія імперського крою: Акцентуйте увагу клієнта на лінії ампір. Це один з найбільш компліментарних типів крою, який візуально подовжує ноги і створює витончений силует, приховуючи нюанси в області талії. - Текстильна інвестиція: Підкресліть цінність ма"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The mini length feels too bold.",
+        "a": "Suggest trying the dress with dense matte tights and the Ulisside 0101 tall boots in smooth leather. This balances the length and lends the look a more composed, contemporary character."
+      },
+      {
+        "q": "The brocade feels too dressy for daily life.",
+        "a": "Demonstrate the styling from display case No. 136 with the Scatto 0202 coat. Wool outerwear tempers the shine of the brocade, allowing the dress to be worn to cocktail gatherings or brunches."
+      },
+      {
+        "q": "I 'm concerned the paisley print is too conservative.",
+        "a": "Point to the contemporary above-the-knee length and the side pockets. Combined with the classic print, these details create an on-trend «Contemporary Heritage » style."
+      },
+      {
+        "q": "The lamé sheen may visually add volume.",
+        "a": "Explain that the paisley motif in this piece has a vertical orientation, and the dense brocade structure disciplines the silhouette, functioning like a corset."
+      },
+      {
+        "q": "It 's difficult to find outerwear to match.",
+        "a": "Recommend the companion Stenia coat in the same fabric. This foolproof «coat-and-dress » pairing is the epitome of high-society elegance"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Длина мини",
+        "a": "Предложите примерить платье с плотными матовыми кажется слишком колготками и высокими сапогами из гладкой кожи смелой Ulisside 0101. Это сбалансирует длину и сделает образ более сдержанным и современным."
+      },
+      {
+        "q": "Парча выглядит",
+        "a": "Продемонстрируйте вариант из витрины №136 с пальто слишком нарядно для Scatto 0202. Верхняя одежда из шерсти жизни."
+      },
+      {
+        "q": "успокаивает",
+        "a": "блеск парчи, позволяя носить платье на коктейльные встречи или бранчи."
+      },
+      {
+        "q": "Боюсь, что Пейсли",
+        "a": "Укажите на современную длину выше колена и наличие — это слишком боковых карманов. Эти детали в сочетании с консервативно классическим принтом создают актуальный стиль."
+      },
+      {
+        "q": "Contemporary Heritage",
+        "a": "."
+      },
+      {
+        "q": "Блеск lamé может",
+        "a": "Объясните, что узор Пейсли в данной модели имеет визуально полнить вертикальную направленность, а плотная структура броккато дисциплинирует силуэт, работая как корсет."
+      },
+      {
+        "q": "Сложно подобрать",
+        "a": "Рекомендуйте пальто-компаньон Stenia из того верхнюю одежду же материала. Это беспроигрышное решение."
+      },
+      {
+        "q": "coat-and-dress",
+        "a": "которое является эталоном элегантности в высшем свете."
+      }
+    ],
+    "ar": [
+      {
+        "q": "طول الميني يبدو جريئاً",
+        "a": "اقترحي تجربة الفستان مع جوارب سميكة غير لامعة وجزمة طويلة من الجلد الناعم Ulisside 0101. أكثر من اللازم سيوازن هذا الطول ويجعل الإطلالة أكثر تحفظاً وعصرية."
+      },
+      {
+        "q": "الديباج يبدو متكلفاً اعرضي خياراً من الواجهة رقم 136 مع معطف Scatto 0202. الملابس الخارجية المصنوعة للغاية للحياة اليومية",
+        "a": "من الصوف."
+      },
+      {
+        "q": "تهدئ",
+        "a": "من بريق الديباج، مما يسمح بارتداء الفستان في لقاءات الكوكتيل أو حفلات البرانش."
+      },
+      {
+        "q": "أخشى أن نقشة البيزلي اشيري إلى الطول العصري فوق الركبة ووجود جيوب جانبية. هذه التفاصيل، مع النقشة كلاسيكية أكثر من اللازم",
+        "a": "الكلاسيكية، تخلق أسلوباً مواكباً يسمى."
+      },
+      {
+        "q": "التراث المعاصر",
+        "a": "(Contemporary Heritage)."
+      },
+      {
+        "q": "لمعان الـ lamé قد يزيده",
+        "a": "أظهري أن نقشة البيزلي في هذا الموديل ذات اتجاه عمودي، وأن هيكل البروكار الكثيف حجماً بصرياً يضبط القوام، ليعمل كالمشد."
+      },
+      {
+        "q": "يصعب اختيار ملابس ننصح بمعطف Stenia المرافق من نفس الخامة. إنه حل",
+        "a": "coat-and-dress."
+      },
+      {
+        "q": "لا يقبل الخطأ، خارجية مناسبة",
+        "a": "وهو معيار للأناقة في الأوساط الراقية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მინი-სიგრძე ზედმეტად გაბედული ჩანს",
+        "a": "შესთავაზეთ კაბის გასინჯვა მკვრივ მქრქალ კოლგოტებთან და გლუვი ტყავის მაღალ ჩექმებთან Ulisside 0101. ეს დააბალანსებს სიგრძეს და სახეს უფრო თავშეკავებულს და თანამედროვეს გახდის."
+      },
+      {
+        "q": "პარჩა ზედმეტად სადღესასწაულოდ გამოიყურება ცხოვრებისთვის",
+        "a": "წარმოაჩინეთ ვარიანტი №136 ვიტრინიდან Scatto 0202 პალტოსთან ერთად. შალის ზედა ტანსაცმელი."
+      },
+      {
+        "q": "ამშვიდებს",
+        "a": "პარჩის ბზინვარებას, რაც საშუალებას იძლევა კაბა ატაროთ კოქტეილის შეხვედრებზე ან ბრანჩებზე."
+      },
+      {
+        "q": "შიში მაქვს, რომ პეისლი ზედმეტად კონსერვატიულია",
+        "a": "მიუთითეთ თანამედროვე მუხლზედა სიგრძესა და გვერდითი ჯიბეების არსებობაზე. ეს დეტალები კლასიკურ პრინტთან ერთად ქმნიან აქტუალურ სტილს."
+      },
+      {
+        "q": "Contemporary Heritage",
+        "a": "."
+      },
+      {
+        "q": "lamé-ს ბზინვარებამ შეიძლება ვიზუალურად გაამსუქოს",
+        "a": "განმარტეთ, რომ ამ მოდელში პეისლის უზორს აქვს ვერტიკალური მიმართულება, ხოლო ბროკატოს მკვრივი სტრუქტურა დისციპლინას უკეთებს სილუეტს, მუშაობს როგორც კორსეტი."
+      },
+      {
+        "q": "რთულია ზედა ტანსაცმლის შერჩევა",
+        "a": "რეკომენდაცია გაუწიეთ პალტო-კომპანიონს Stenia იმავე მასალისგან. ეს არის."
+      },
+      {
+        "q": "coat-and-dress",
+        "a": "-ის წამგებიანი გადაწყვეტილება, რომელიც არის ელეგანტურობის ეტალონი მაღალ საზოგადოებაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Մինի երկարությունը չափազանց համարձակ է թվում",
+        "a": "Առաջարկեք չափել զգեստը խիտ փայլատ զուգագուլպաներով և հարթ կաշվից Ulisside 0101 բարձր կոշիկներով։ Սա կհավասարակշռի երկարությունը և կերպարը կդարձնի ավելի զուսպ և ժամանակակից։."
+      },
+      {
+        "q": "Ատլասը չափազանց տոնական է կյանքի համար",
+        "a": "Ցուցադրեք №136 ցուցափեղկից տարբերակը Scatto 0202 վերարկուով։ Բրդից վերնահագուստը."
+      },
+      {
+        "q": "հանգստացնում է",
+        "a": "ատլասի փայլը՝ թույլ տալով զգեստը կրել կոկտեյլային հանդիպումների կամ բրանչերի ժամանակ։."
+      },
+      {
+        "q": "Վախենում եմ, որ Փեյսլին չափազանց պահպանողական է",
+        "a": "Մատնանշեք ծնկից վեր ժամանակակից երկարությունը և կողային գրպանների առկայությունը։ Այս դետալները դասական պրինտի հետ համադրությամբ ստեղծում են արդիական."
+      },
+      {
+        "q": "Contemporary Heritage",
+        "a": "ոճը։."
+      },
+      {
+        "q": "Lamé-ի փայլը կարող է տեսողականորեն գիրացնել",
+        "a": "Բացատրեք, որ Փեյսլի նախշը այս մոդելում ունի ուղղահայաց ուղղվածություն, իսկ broccato-ի խիտ կառուցվածքը կարգավորում է ուրվագիծը՝ աշխատելով որպես կորսետ։."
+      },
+      {
+        "q": "Դժվար է ընտրել վերնահագուստ",
+        "a": "Խորհուրդ տվեք նույն նյութից Stenia ուղեկից-վերարկուն։ Սա անպարտելի."
+      },
+      {
+        "q": "coat-and-dress",
+        "a": "լուծում է, որը բարձր հասարակության մեջ էլեգանտության չափանիշ է։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Minigarums šķiet pārāk drosmīgs",
+        "a": "Piedāvājiet pielaikot kleitu ar blīvām matētām zeķubiksēm un augstiem zābakiem no gludas ādas Ulisside 0101. Tas līdzsvaros garumu un padarīs tēlu atturīgāku un mūsdienīgāku."
+      },
+      {
+        "q": "Brokāts izskatās pārāk grezni dzīvei",
+        "a": "Demonstrējiet variantu no vitrīnas №136 ar mēteli Scatto 0202. Virsdrēbes no vilnas."
+      },
+      {
+        "q": "nomierina",
+        "a": "brokāta spīdumu, ļaujot valkāt kleitu kokteiļtikšanās reizēs vai brančos."
+      },
+      {
+        "q": "Baidos, ka Peislijs — tas ir pārāk konservatīvi",
+        "a": "Norādiet uz mūsdienīgo garumu virs ceļgala un sānu kabatu esamību. Šīs detaļas apvienojumā ar klasisku apdruku rada aktuālu."
+      },
+      {
+        "q": "Contemporary Heritage",
+        "a": "stilu."
+      },
+      {
+        "q": "Lamé spīdums var vizuāli padarīt pilnīgāku",
+        "a": "Paskaidrojiet, ka Peislija rakstam šajā modelī ir vertikāla virzība, bet blīvā brokāta struktūra disciplinē siluetu, darbojoties kā korsete."
+      },
+      {
+        "q": "Grūti piemeklēt virsdrēbes",
+        "a": "Iesakiet mēteli-kompanjonu Stenia no tā paša materiāla. Tas ir drošs."
+      },
+      {
+        "q": "coat-and-dress",
+        "a": "risinājums, kas ir elegances etalons augstajā sabiedrībā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Mini ilgis atrodo per drąsiai",
+        "a": "Pasiūlykite pasimatuoti suknelę su tankiomis matinėmis pėdkelnėmis ir aukštais auliniais batais iš lygios odos Ulisside 0101. Tai subalansuos ilgį ir padarys įvaizdį santūresnį bei šiuolaikiškesnį. pasimatuoti suknelę su tankiomis matinėmis pėdkelnėmis ir aukštais auliniais batais iš lygios odos Ulisside 0101. Tai subalansuos ilgį ir padarys įvaizdį santūresnį bei šiuolaikiškesnį."
+      },
+      {
+        "q": "„Brokatas atrodo per daug puošniai kasdienybei",
+        "a": "Pademonstruokite variantą iš vitrinos Nr. 136 su paltu Scatto 0202. Vilnoniai viršutiniai drabužiai „ramina“ brokato blizgesį, leisdami suknelę dėvėti į kokteilių vakarėlius ar vėlyvuosius pusryčius. variantą iš vitrinos Nr. 136 su paltu Scatto 0202. Vilnoniai viršutiniai drabužiai „ramina“ brokato blizgesį, leisdami suknelę dėvėti į kokteilių vakarėlius ar vėlyvuosius pusryčius."
+      },
+      {
+        "q": "„Baiminuosi, kad Paisli raštas yra per daug konservatyvus",
+        "a": "Nurodykite šiuolaikišką ilgį virš kelių ir šoninių kišenių buvimą. Šios detalės derinamos su klasikiniu raštu sukuria aktualų „Contemporary Heritage“ stilių. šiuolaikišką ilgį virš kelių ir šoninių kišenių buvimą. Šios detalės derinamos su klasikiniu raštu sukuria aktualų „Contemporary Heritage“ stilių."
+      },
+      {
+        "q": "„Lamé blizgesys gali vizualiai stambinti",
+        "a": "Paaiškinkite, kad Paisli raštas šiame modelyje turi vertikalią kryptį, o tanki brokato struktūra disciplinuoja siluetą, veikdama kaip korsetas. „Sunku parinkti viršutinius drabužius“ Rekomenduokite paltą-kompanioną Stenia iš to paties audinio. Tai garantuotas „coat-and-dress“ sprendimas, kuris yra elegancijos etalonas aukštuomenėje."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Długość mini wydaje się zbyt śmiała",
+        "a": "Zaproponuj przymierzenie sukienki z gęstymi matowymi rajstopami i wysokimi kozakami z gładkiej skóry Ulisside 0101. Zrównoważy to długość i uczyni wizerunek bardziej powściągliwym i nowoczesnym."
+      },
+      {
+        "q": "Brokat wygląda zbyt wyjściowo na co dzień",
+        "a": "Zaprezentuj wariant z witryny nr 136 z płaszczem Scatto 0202. Odzież wierzchnia z wełny."
+      },
+      {
+        "q": "uspokaja",
+        "a": "połysk brokatu, pozwalając nosić sukienkę na spotkania koktajlowe lub brunche."
+      },
+      {
+        "q": "Obawiam się, że Paisley to zbyt konserwatywne",
+        "a": "Wskaż na nowoczesną długość powyżej kolana i obecność bocznych kieszeni. Te detale w połączeniu z klasycznym nadrukiem tworzą aktualny styl."
+      },
+      {
+        "q": "Contemporary Heritage",
+        "a": "."
+      },
+      {
+        "q": "Blask lamé może wizualnie pogrubiać",
+        "a": "Wyjaśnij, że wzór Paisley w tym modelu ma pionowy kierunek, a gęsta struktura brokatowa dyscyplinuje sylwetkę, działając jak gorset."
+      },
+      {
+        "q": "Trudno dobrać odzież wierzchnią",
+        "a": "Rekomenduj płaszcz-kompan Stenia z tego samego materiału. To pewne rozwiązanie."
+      },
+      {
+        "q": "coat-and-dress",
+        "a": "które jest wzorem elegancji w wyższych sferach."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Довжина міні",
+        "a": "Запропонуйте приміряти сукню зі щільними матовими здається надто колготками і високими чоботями з гладкої шкіри сміливою Ulisside 0101. Це збалансує довжину і зробить образ більш стриманим та сучасним."
+      },
+      {
+        "q": "Парча виглядає",
+        "a": "Продемонструйте варіант з вітрини №136 з пальто надто ошатно для Scatto 0202. Верхній одяг із вовни життя."
+      },
+      {
+        "q": "заспокоює",
+        "a": "блиск парчі, дозволяючи носити сукню на коктейльні зустрічі чи бранчі."
+      },
+      {
+        "q": "Боюся, що Пейслі",
+        "a": "Вкажіть на сучасну довжину вище коліна і наявність — це надто бічних кишень. Ці деталі у поєднанні з консервативно класичним принтом створюють актуальний стиль."
+      },
+      {
+        "q": "Contemporary Heritage",
+        "a": "."
+      },
+      {
+        "q": "Блиск lamé може",
+        "a": "Поясніть, що візерунок Пейслі в цій моделі має візуально повнити вертикальну спрямованість, а щільна структура броккато дисциплінує силует, працюючи як корсет."
+      },
+      {
+        "q": "Складно підібрати Рекомендуйте пальто-компаньйон Stenia з того верхній одяг",
+        "a": "ж матеріалу. Це безпрограшне рішення."
+      },
+      {
+        "q": "coat-and-dress",
+        "a": "яке є еталоном елегантності у вищому світі."
+      }
+    ]
+  }
+}

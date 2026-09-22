@@ -1,0 +1,393 @@
+{
+  "id": 247,
+  "name": "Olino",
+  "description": {
+    "en": "The elegant Olino trousers are the quintessence of timeless style and aristocratic restraint from Luisa Spagnoli. The high-waisted, straight-cut piece masterfully structures the silhouette, creating flawless lines and underscoring femininity without excess detail. Crafted from a noble viscose-based blend with a touch of elastane, these trousers offer the sensation of a 'second skin', ensuring exceptional comfort and ease of movement throughout the day. A concealed zip closure and a clean fascia piatta waistband make Olino the ideal foundation for creating looks in the 'quiet luxury' aesthetic.",
+    "ru": "Элегантные брюки Olino — это квинтэссенция вневременного стиля и аристократичной сдержанности от Luisa Spagnoli. Модель прямого кроя с высокой посадкой мастерски структурирует силуэт, создавая безупречные линии и подчеркивая женственность без лишних деталей. Выполненные из благородного смесового полотна на основе вискозы с добавлением эластана, эти брюки дарят ощущение «второй кожи», обеспечивая исключительный комфорт и легкость движений в течение всего дня. Потайная молния и лаконичная fascia piatta в поясе делают Olino идеальным фундаментом для создания образов в эстетике «тихой роскоши».",
+    "ar": "تعد سراويل Olino تجسيداً للأناقة الخالدة والوقار الأرستقراطي من دار Luisa Spagnoli. يتميز هذا الموديل بقصة مستقيمة وخصر مرتفع يبرز القوام ببراعة، مما يخلق خطوطاً انسيابية مثالية ويبرز الأنوثة دون تكلف. صُنعت هذه السراويل من نسيج فاخر مخلوط يعتمد على الفيسكوز مع إضافة الإيلاستين، مما يمنح إحساساً كـ«البشرة الثانية» ويوفر راحة استثنائية وسهولة في الحركة طوال اليوم. وبفضل السحاب المخفي وخصر fascia piatta البسيط، تُعد Olino أساساً مثالياً لإطلالات تعكس جمالية «الرفاهية الهادئة».",
+    "ka": "ელეგანტური შარვალი Olino — ეს არის Luisa Spagnoli-ს მუდმივი სტილისა და არისტოკრატული თავშეკავებულობის კვინტესენცია. სწორი კროის მოდელი მაღალი წელით ოსტატურად აყალიბებს სილუეტს, ქმნის უნაკლო ხაზებს და ზედმეტი დეტალების გარეშე უსვამს ხაზს ქალურობას. ვისკოზისა და ელასტანის ბაზაზე შექმნილი კეთილშობილური შერეული ქსოვილისგან დამზადებული ეს შარვალი „მეორე კანის“ შეგრძნებას ანიჭებს, რაც უზრუნველყოფს გამორჩეულ კომფორტს და მოძრაობის სიმსუბუქეს მთელი დღის განმავლობაში. ფარული ელვა-შესაკრავი და წელზე ლაკონიური fascia piatta ხდის Olino-ს იდეალურ საფუძვლად „ჩუმი ფუფუნების“ ესთეტიკის მქონე იმიჯების შესაქმნელად.",
+    "hy": "Olino էլեգանտ տաբատը Luisa Spagnoli-ի անժամանակ ոճի և արիստոկրատ զսպվածության կվինտեսենցիան է։ Ուղիղ կտրվածքով և բարձր գոտկատեղով այս մոդելը վարպետորեն կառուցվածքավորում է ուրվագիծը՝ ստեղծելով անթերի գծեր և ընդգծելով կանացիությունը առանց ավելորդ դետալների։ Վիսկոզայի հիմքով և էլաստանի հավելումով ազնիվ խառը կտորից կարված այս տաբատը «երկրորդ մաշկի» զգացողություն է հաղորդում՝ ապահովելով բացառիկ հարմարավետություն և շարժման ազատություն ամբողջ օրվա ընթացքում։ Թաքնված կայծակաճարմանդը և գոտկատեղի λαконичная fascia piatta-ն Olino-ն դարձնում են «հանգիստ շքեղության» էսթետիկայով կերպարներ ստեղծելու իդեալական հիմք։",
+    "lv": "Elegantās bikses Olino ir Luisa Spagnoli mūžīgā stila un aristokrātiskas atturības kvintesence. Taisna piegriezuma modelis ar augstu jostasvietu prasmīgi strukturē siluetu, radot nevainojamas līnijas un izceļot sievišķību bez liekām detaļām. Izgatavotas no cēla viskozes maisījuma auduma ar elastāna piejaukumu, šīs bikses sniedz „otrās ādas” sajūtu, nodrošinot izcilu komfortu un kustību brīvību visas dienas garumā. Slēpts rāvējslēdzējs un lakoniska fascia piatta jostasvietā padara Olino par ideālu pamatu tēlu veidošanai „klusās luksusa” estētikā.",
+    "lt": "Elegantiškos Olino kelnės – tai laikui nepavaldaus stiliaus ir aristokratiško santūrumo kvintesencija iš Luisa Spagnoli. Tiesaus kirpimo modelis aukštu liemeniu meistriškai struktūruoja siluetą, sukuriant nepriekaištingas linijas ir pabrėžiant moteriškumą be jokių nereikalingų detalių. Pagamintos iš tauraus viskozės ir elastano mišinio, šios kelnės suteikia „antros odos“ pojūtį, užtikrindamos išskirtinį komfortą ir judesių laisvę visą dieną. Nematomas užtrauktukas ir lakoniška fascia piatta ties liemeniu paverčia Olino idealiu pagrindu kuriant „tylios prabangos“ estetikos įvaizdžius.",
+    "pl": "Eleganckie spodnie Olino to kwintesencja ponadczasowego stylu i arystokratycznej powściągliwości od Luisa Spagnoli. Model o prostym kroju z wysokim stanem mistrzowsko strukturyzuje sylwetkę, tworząc nienaganne linie i podkreślając kobiecość bez zbędnych detali. Wykonane ze szlachetnej tkaniny z mieszanki wiskozy z dodatkiem elastanu, spodnie te dają uczucie „drugiej skóry”, zapewniając wyjątkowy komfort i swobodę ruchów przez cały dzień. Kryty zamek błyskawiczny i lakoniczna fascia piatta w talii czynią Olino idealną bazą do tworzenia stylizacji w estetyce „cichego luksusu”.",
+    "uk": "Елегантні брюки Olino — це квінтесенція позачасового стилю та аристократичної стриманості від Luisa Spagnoli. Модель прямого крою з високою посадкою майстерно структурує силует, створюючи бездоганні лінії та підкреслюючи жіночність без зайвих деталей. Виконані з благородного сумішевого полотна на основі віскози з додаванням еластану, ці брюки дарують відчуття «другої шкіри», забезпечуючи винятковий комфорт та легкість рухів протягом всього дня. Потайна блискавка та лаконічна fascia piatta в поясі роблять Olino ідеальним фундаментом для створення образів в естетиці «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WB3mUMP3TJawkC--cywg5A_1735184590696f42e77563b4_33170269_02820660XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Vetrina 126)",
+        "en": "Total Look (Vetrina 126)",
+        "ar": "Total Look (Vetrina 126)",
+        "ka": "Total Look (Vetrina 126)",
+        "hy": "Total Look (Vetrina 126)",
+        "lv": "Total Look (Vetrina 126)",
+        "lt": "Total Look (Vetrina 126)",
+        "pl": "Total Look (Vetrina 126)",
+        "uk": "Total Look (Vetrina 126)"
+      },
+      "text": {
+        "ru": "Olino 0101 в изысканном сочетании с укороченным меховым жакетом Svista 0101 и блузой Lotty 4625.",
+        "en": "Olino 0101 in an exquisite combination with a cropped faux fur jacket Svista 0101 and blouse Lotty 4625.",
+        "ar": "Olino 0101 in an exquisite combination with a cropped faux fur jacket Svista 0101 and blouse Lotty 4625.",
+        "ka": "Olino 0101 in an exquisite combination with a cropped faux fur jacket Svista 0101 and blouse Lotty 4625.",
+        "hy": "Olino 0101 in an exquisite combination with a cropped faux fur jacket Svista 0101 and blouse Lotty 4625.",
+        "lv": "Olino 0101 in an exquisite combination with a cropped faux fur jacket Svista 0101 and blouse Lotty 4625.",
+        "lt": "Olino 0101 in an exquisite combination with a cropped faux fur jacket Svista 0101 and blouse Lotty 4625.",
+        "pl": "Olino 0101 in an exquisite combination with a cropped faux fur jacket Svista 0101 and blouse Lotty 4625.",
+        "uk": "Olino 0101 in an exquisite combination with a cropped faux fur jacket Svista 0101 and blouse Lotty 4625."
+      },
+      "items": [
+        {
+          "name": "Olino",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WB3mUMP3TJawkC--cywg5A_1735184590696f42e77563b4_33170269_02820660XX1.jpg"
+        },
+        {
+          "name": "Svista",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Y5nVSE1gSb6SPip95-cHFA_898560113696f43013e28f4_95099051_02821250XX1.jpg"
+        },
+        {
+          "name": "Lotty",
+          "code": "4625",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2060285730692424d1328345_79543508_02781270XX1.jpg",
+          "modelId": 426
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sophisticated Ensemble (Vetrina 132)",
+        "en": "Sophisticated Ensemble (Vetrina 132)",
+        "ar": "Sophisticated Ensemble (Vetrina 132)",
+        "ka": "Sophisticated Ensemble (Vetrina 132)",
+        "hy": "Sophisticated Ensemble (Vetrina 132)",
+        "lv": "Sophisticated Ensemble (Vetrina 132)",
+        "lt": "Sophisticated Ensemble (Vetrina 132)",
+        "pl": "Sophisticated Ensemble (Vetrina 132)",
+        "uk": "Sophisticated Ensemble (Vetrina 132)"
+      },
+      "text": {
+        "ru": "Olino 0101 дополнены роскошной накидкой Situazione 0101 и элегантным топом Sostenuto 0101.",
+        "en": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "ar": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "ka": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "hy": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "lv": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "lt": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "pl": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "uk": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101."
+      },
+      "items": [
+        {
+          "name": "Olino",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WB3mUMP3TJawkC--cywg5A_1735184590696f42e77563b4_33170269_02820660XX1.jpg"
+        },
+        {
+          "name": "Situazione",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg",
+          "modelId": 321
+        },
+        {
+          "name": "Sostenuto",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/mAkglfhoRjyKto2oKLnpGw_480221988696f42fd108a62_86820326_02821120XX1.jpg",
+          "modelId": 332
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sophisticated Ensemble (Vetrina 132)",
+        "en": "Sophisticated Ensemble (Vetrina 132)",
+        "ar": "Sophisticated Ensemble (Vetrina 132)",
+        "ka": "Sophisticated Ensemble (Vetrina 132)",
+        "hy": "Sophisticated Ensemble (Vetrina 132)",
+        "lv": "Sophisticated Ensemble (Vetrina 132)",
+        "lt": "Sophisticated Ensemble (Vetrina 132)",
+        "pl": "Sophisticated Ensemble (Vetrina 132)",
+        "uk": "Sophisticated Ensemble (Vetrina 132)"
+      },
+      "text": {
+        "ru": "Olino 0101 дополнены роскошной накидкой Situazione 0101 и элегантным топом Sostenuto 0101.",
+        "en": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "ar": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "ka": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "hy": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "lv": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "lt": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "pl": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101.",
+        "uk": "Olino 0101 complemented by a luxurious cape Situazione 0101 and an elegant top Sostenuto 0101."
+      },
+      "items": [
+        {
+          "name": "Olino",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WB3mUMP3TJawkC--cywg5A_1735184590696f42e77563b4_33170269_02820660XX1.jpg"
+        },
+        {
+          "name": "Murice",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nMbjNxprSlaxb6Y8tn2aag_1487863338696f43702f3022_81636348_02830970XX1.jpg",
+          "modelId": 196
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Focus the client's attention on the tactile sensation: Luisa Spagnoli's cotton corduroy (velour) offers exceptional softness, making it the perfect alternative to denim in the colder months.",
+      "Draw attention to the slim fit: this five-pocket design is engineered to accentuate slender legs while maintaining a refined, elegant appearance.",
+      "Emphasise the value of the details: the heraldic rivets (rivetti araldici) are a jewel-like signature of the brand, elevating a basic pair of trousers into a piece of collectible interest."
+    ],
+    "ru": [
+      "Сфокусируйте внимание клиента на безупречной посадке Regular fit: прямой крой — это инвестиция вне времени, которая визуально удлиняет силуэт и подходит любому типу фигуры.",
+      "Подчеркните ценность материала: высокое содержание вискозы (95%) обеспечивает ткани шелковистость и благородный матовый блеск, характерный для люксового сегмента.",
+      "Рекомендуйте Olino как базовый элемент для капсульного гардероба: благодаря минималистичному дизайну, эти брюки легко трансформируются из строгого делового образа в вечерний при помощи смены аксессуаров."
+    ],
+    "ar": [
+      "ركزي انتباه العميل على قصة Regular fit المثالية: فالقصة المستقيمة تُعد استثماراً خالداً يطيل القامة بصرياً وتناسب كافة أشكال الجسم.",
+      "أبرزي قيمة الخامة: فالمحتوى العالي من الفيسكوز (95%) يمنح القماش ملمساً حريرياً ولمعة مطفية راقية تميز قطعنا الفاخرة.",
+      "رشحي Olino كقطعة أساسية في خزانة الملابس الكبسولية: بفضل تصميمها البسيط، تتحول هذه السراويل بسهولة من إطلالة عمل رسمية إلى إطلالة مسائية بفضل تغيير الإكسسوارات."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება Regular fit-ის უნაკლო მორგებაზე: სწორი კრავი — ეს არის დროზე გათვლილი ინვესტიცია, რომელიც ვიზუალურად აგრძელებს სილუეტს და უხდება ნებისმიერი ტიპის აღნაგობას.",
+      "ხაზი გაუსვით მასალის ღირებულებას: ვისკოზის მაღალი შემცველობა (95%) ქსოვილს ანიჭებს აბრეშუმისებრ ტექსტურას და არისტოკრატულ მქრქალ ბზინვარებას, რაც დამახასიათებელია ლუქს სეგმენტისთვის.",
+      "გაუწიეთ რეკომენდაცია Olino-ს, როგორც კაფსულური გარდერობის საბაზისო ელემენტს: მინიმალისტური დიზაინის წყალობით, ეს შარვალი ადვილად ტრანსფორმირდება მკაცრი საქმიანი იმიჯიდან საღამოს სტილად აქსესუარების შეცვლის გზით."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք Regular fit-ի անթերի նստվածքի վրա. ուղիղ ձևվածքը հավերժական ներդրում է, որը տեսողականորեն երկարացնում է սիլուետը և համապատասխանում է ցանկացած տեսակի կազմվածքին։",
+      "Ընդգծեք նյութի արժեքը. վիսկոզայի բարձր պարունակությունը (95%) գործվածքին հաղորդում է մետաքսանմանություն և ազնիվ փայլ՝ բնորոշ լյուքս դասի հագուստին։",
+      "Olino-ն առաջարկեք որպես կապսուլային զգեստապահարանի բազային տարր. մինիմալիստական դիզայնի շնորհիվ այս տաբատները հեշտությամբ փոխակերպվում են խիստ գործնական կերպարից երեկոյանի՝ աքսեսուարների փոփոխության միջոցով։"
+    ],
+    "lv": [
+      "Pievērsiet klienta uzmanību nevainojamajam Regular fit piegriezumam: taisns griezums ir mūžīga investīcija, kas vizuāli pagarina siluetu un piestāv jebkuram figūras tipam.",
+      "Uzsveriet materiāla vērtību: augsts viskozes saturs (95%) nodrošina audumam zīdainumu un cēlu matētu spīdumu, kas raksturīgs luksusa segmentam.",
+      "Iesakiet Olino kā pamatelementu kapsulas garderobei: pateicoties minimālistiskajam dizainam, šīs bikses ir viegli transformējamas no stingra lietišķā tēla uz vakara tēlu, nomainot aksesuārus."
+    ],
+    "lt": [
+      "Sutelkite kliento dėmesį į nepriekaištingą Regular fit kirpimą: tiesus siluetas – tai laikui nepavaldi investicija, kuri vizualiai ilgina figūrą ir tinka bet kokiam kūno tipui.",
+      "Pabrėžkite audinio vertę: didelis viskozės kiekis (95 %) suteikia audiniui švelnumo ir prabangaus matinio žvilgesio, būdingo aukščiausios klasės gaminiams.",
+      "Rekomenduokite Olino kaip bazinį kapsulinės spintos elementą: dėl minimalistinio dizaino šios kelnės lengvai transformuojasi iš griežto verslo stiliaus į vakarinį įvaizdį pakeitus aksesuarus."
+    ],
+    "pl": [
+      "Skup uwagę klienta na nienagannym dopasowaniu Regular fit: prosty krój to ponadczasowa inwestycja, która optycznie wydłuża sylwetkę i pasuje do każdego typu figury.",
+      "Podkreśl wartość materiału: wysoka zawartość wiskozy (95%) zapewnia tkaninie jedwabistość i szlachetny matowy połysk, charakterystyczny dla segmentu luksusowego.",
+      "Rekomenduj Olino jako bazowy element garderoby kapsułowej: dzięki minimalistycznemu designowi te spodnie łatwo zmieniają charakter ze ścisłego stylu biznesowego na wieczorowy poprzez zmianę akcesoriów."
+    ],
+    "uk": [
+      "Сфокусуйте увагу клієнта на бездоганній посадці Regular fit: прямий крій — це інвестиція поза часом, яка візуально подовжує силует і підходить будь-якому типу фігури.",
+      "Підкресліть цінність матеріалу: високий вміст віскози (95%) забезпечує тканині шовковистість і благородний матовий блиск, характерний для люксового сегмента.",
+      "Рекомендуйте Olino як базовий елемент для капсульного гардероба: завдяки мінімалістичному дизайну, ці штани легко трансформуються зі строгого ділового образу у вечірній за допомогою зміни аксесуарів."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The trousers seem too simple for their category.",
+        "a": "True elegance lies precisely in the understatement of the Olino cut. The absence of superfluous seams allows the fabric to take centre stage, showcasing the impeccable quality of its 'Made in Italy' craftsmanship."
+      },
+      {
+        "q": "Viscose-based fabric may lose its shape.",
+        "a": "The special fibre weave, with the addition of elastane (5%), guarantees the piece retains its shape and crisp lines, even after a long workday or a flight."
+      },
+      {
+        "q": "Black may look too conservative.",
+        "a": "The deep Nero 0101 shade is the perfect canvas. It allows the trousers to be paired with the boldest textures, such as Lotty lace or Svista fur, while preserving balance and refinement."
+      },
+      {
+        "q": "A concealed side zip feels less conventional.",
+        "a": "This construction choice allows the front panel of the trousers to remain perfectly smooth. This visually slims the midsection and creates a flawless silhouette beneath fitted tops and jackets."
+      },
+      {
+        "q": "The trousers seem too lightweight for a winter wardrobe.",
+        "a": "Despite their visual refinement, the density of the Olino fabric has been engineered with transitional-season comfort in mind, ensuring optimal temperature regulation indoors and beneath outerwear."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Брюки кажутся слишком простыми для своей категории",
+        "a": "Именно в лаконичности кроя Olino заключается истинная элегантность. Отсутствие лишних швов позволяет ткани играть главную роль, подчеркивая безупречное качество исполнения 'Made in Italy'."
+      },
+      {
+        "q": "Ткань на основе вискозы может деформироваться",
+        "a": "Специальное плетение волокон с добавлением эластана (5%) гарантирует, что изделие сохранит свою форму и четкость линий даже после длительного рабочего дня или перелета."
+      },
+      {
+        "q": "Черный цвет может выглядеть слишком консервативно",
+        "a": "Глубокий оттенок Nero 0101 — это идеальный холст. Он позволяет сочетать брюки с самыми смелыми фактурами, такими как кружево Lotty или мех Svista, сохраняя баланс и аристократизм."
+      },
+      {
+        "q": "Потайная молния сбоку кажется менее привычной",
+        "a": "Такое конструктивное решение позволяет оставить переднюю панель брюк абсолютно гладкой. Это визуально стройнит область живота и создает безупречный силуэт под облегающими топами и жакетами."
+      },
+      {
+        "q": "Брюки кажутся слишком легкими для зимнего гардероба",
+        "a": "Несмотря на визуальную утонченность, плотность полотна Olino разработана с учетом демисезонного комфорта, обеспечивая оптимальную терморегуляцию в помещении и под верхней одеждой."
+      }
+    ],
+    "ar": [
+      {
+        "q": "السروال يبدو بسيطاً للغاية بالنسبة لفئته",
+        "a": "تكمن الأناقة الحقيقية في تصميم Olino في بساطة قصته، حيث يتيح غياب الدرزات غير الضرورية للقماش أن يتصدر المشهد، مما يبرز الجودة التي لا تشوبها شائبة للصناعة الإيطالية 'Made in Italy'."
+      },
+      {
+        "q": "القماش المعتمد على الفيسكوز قد يتمدد أو يتغير شكله",
+        "a": "يضمن النسيج الخاص للألياف مع إضافة الإيلاستين (5%) احتفاظ القطعة بشكلها وخطوطها الحادة حتى بعد يوم عمل طويل أو رحلة طيران."
+      },
+      {
+        "q": "اللون الأسود قد يبدو محافظاً أكثر من اللازم",
+        "a": "يعتبر لون Nero 0101 العميق لوحة فنية مثالية، حيث يتيح تنسيق السروال مع أكثر الخامات جرأة، مثل دانتيل Lotty أو فراء Svista، مع الحفاظ على التوازن والرقي الأرستقراطي."
+      },
+      {
+        "q": "السحاب المخفي على الجانب يبدو غير مألوف",
+        "a": "يتيح هذا الحل الهندسي ترك الجزء الأمامي من السروال أملس تماماً، مما يمنح منطقة البطن مظهراً أكثر نحافة ويخلق صورة ظلية مثالية تحت القمصان والسترات الضيقة."
+      },
+      {
+        "q": "السروال يبدو خفيفاً جداً لخزانة الملابس الشتوية",
+        "a": "على الرغم من الرقة البصرية، تم تطوير كثافة قماش Olino لتلائم أجواء الفصول الانتقالية، مما يوفر توازناً حرارياً مثالياً داخل الأماكن المغلقة وتحت الملابس الخارجية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "შარვალი საკუთარი კატეგორიისთვის ზედმეტად მარტივი ჩანს",
+        "a": "Olino-ს ჭრის ლაკონიურობაშია ნამდვილი ელეგანტურობა. ზედმეტი ნაკერების არარსებობა ქსოვილს საშუალებას აძლევს შეასრულოს მთავარი როლი, რაც ხაზს უსვამს 'Made in Italy'-ს შესრულების უნაკლო ხარისხს."
+      },
+      {
+        "q": "ვისკოზაზე დაფუძნებული ქსოვილი შესაძლოა დეფორმირდეს",
+        "a": "ელასტანის (5%) დამატებით ბოჭკოების სპეციალური წნულები გარანტიას იძლევა, რომ ნაკეთობა შეინარჩუნებს თავის ფორმასა და ხაზების სიცხადეს ხანგრძლივი სამუშაო დღის ან ფრენის შემდეგაც კი."
+      },
+      {
+        "q": "შავი ფერი შესაძლოა ზედმეტად კონსერვატიულად გამოიყურებოდეს",
+        "a": "Nero 0101-ის ღრმა ტონი იდეალური ტილოა. ის საშუალებას იძლევა შეუხამოთ შარვალი ყველაზე თამამ ფაქტურებს, როგორიცაა Lotty-ს მაქმანი ან Svista-ს ბეწვი, ბალანსისა და არისტოკრატიზმის შენარჩუნებით."
+      },
+      {
+        "q": "გვერდითა ფარული ელვა შესაკრავი ნაკლებად ნაცნობად გამოიყურება",
+        "a": "ასეთი კონსტრუქციული გადაწყვეტა საშუალებას იძლევა შარვლის წინა პანელი დარჩეს აბსოლუტურად გლუვი. ეს ვიზუალურად ათხელებს მუცლის არეს და ქმნის უნაკლო სილუეტს მომდგარი ტოპებისა და პიჯაკების ქვეშ."
+      },
+      {
+        "q": "შარვალი ზამთრის გარდერობისთვის ზედმეტად მსუბუქი ჩანს",
+        "a": "ვიზუალური დახვეწილობის მიუხედავად, Olino-ს ქსოვილის სიმკვრივე დამუშავებულია დემი-სეზონური კომფორტის გათვალისწინებით, რაც უზრუნველყოფს ოპტიმალურ თერმორეგულაციას შენობაში და ზედა ტანსაცმლის ქვეშ."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Տաբատը չափազանց պարզ է թվում իր կատեգորիայի համար",
+        "a": "Olino-ի ձևվածքի լակոնիկության մեջ է կայանում իսկական նրբագեղությունը: Ավելորդ կարերի բացակայությունը թույլ է տալիս կտորին գլխավոր դեր խաղալ՝ ընդգծելով 'Made in Italy' կատարման անթերի որակը"
+      },
+      {
+        "q": "Վիսկոզայի հիմքով կտորը կարող է դեֆորմացվել",
+        "a": "Էլաստանի (5%) հավելումով թելերի հատուկ հյուսվածքը երաշխավորում է, որ իրը կպահպանի իր ձևն ու գծերի հստակությունը նույնիսկ երկար աշխատանքային օրից կամ թռիչքից հետո"
+      },
+      {
+        "q": "Սև գույնը կարող է չափազանց պահպանողական թվալ",
+        "a": "Nero 0101-ի խորը երանգը իդեալական կտավ է: Այն թույլ է տալիս համադրել տաբատը ամենահամարձակ հյուսվածքների հետ, ինչպիսիք են Lotty ժանյակը կամ Svista մուշտակը՝ պահպանելով հավասարակշռությունն ու արիստոկրատիզմը"
+      },
+      {
+        "q": "Կողքի թաքնված կայծակաճարմանդը պակաս սովորական է թվում",
+        "a": "Նման կառուցվածքային լուծումը թույլ է տալիս տաբատի առջևի հատվածը թողնել բացարձակ հարթ: Սա վիզուալ կերպով նիհարեցնում է որովայնի հատվածը և ստեղծում անթերի ուրվագիծ կիպ տոպերի և բաճկոնների տակ"
+      },
+      {
+        "q": "Տաբատը չափազանց թեթև է թվում ձմեռային զգեստապահարանի համար",
+        "a": "Չնայած վիզուալ նրբագեղությանը՝ Olino կտորի խտությունը մշակված է դեմիսեզոնային հարմարավետությունը հաշվի առնելով՝ ապահովելով օպտիմալ ջերմակարգավորում տարածքում և վերնահագուստի տակ"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Bikses šķiet pārāk vienkāršas savai kategorijai",
+        "a": "Tieši Olino piegriezuma lakoniskumā slēpjas patiesa elegance. Lieku vīļu neesamība ļauj audumam spēlēt galveno lomu, izceļot nevainojamo 'Made in Italy' izpildījuma kvalitāti."
+      },
+      {
+        "q": "Viskozes audums var deformēties",
+        "a": "Īpaša šķiedru aušana ar elastāna (5%) piejaukumu garantē, ka izstrādājums saglabās savu formu un līniju skaidrību pat pēc garas darba dienas vai pārlidojuma."
+      },
+      {
+        "q": "Melnā krāsa var izskatīties pārāk konservatīvi",
+        "a": "Dziļais Nero 0101 tonis ir ideāls audekls. Tas ļauj kombinēt bikses ar visdrosmīgākajām faktūrām, tādām kā Lotty mežģīnes vai Svista kažokāda, saglabājot balansu un aristokrātismu."
+      },
+      {
+        "q": "Slēptais rāvējslēdzējs sānos šķiet mazāk pierasts",
+        "a": "Šāds konstruktīvs risinājums ļauj atstāt bikšu priekšējo paneli pilnīgi gludu. Tas vizuāli slaidina vēdera zonu un rada nevainojamu siluetu zem pieguļošiem topiem un žaketēm."
+      },
+      {
+        "q": "Bikses šķiet pārāk vieglas ziemas garderobei",
+        "a": "Neskatoties uz vizuālo izsmalcinātību, Olino auduma blīvums ir izstrādāts, ņemot vērā starpsezonu komfortu, nodrošinot optimālu termoregulāciju telpās un zem virsdrēbēm."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Kelnės atrodo per daug paprastos savo kategorijai",
+        "a": "Būtent Olino kirpimo lakoniškume slypi tikroji elegancija. Nereikalingų siūlių nebuvimas leidžia audiniui atlikti pagrindinį vaidmenį, pabrėžiant nepriekaištingą 'Made in Italy' kokybę."
+      },
+      {
+        "q": "Viskozės pagrindo audinys gali deformuotis",
+        "a": "Specialus pluošto pynimas su 5 % elastano priemaiša garantuoja, kad gaminys išlaikys savo formą ir linijų aiškumą net po ilgos darbo dienos ar skrydžio."
+      },
+      {
+        "q": "Juoda spalva gali atrodyti per daug konservatyviai",
+        "a": "Gilus Nero 0101 atspalvis – tai tobula drobė. Jis leidžia derinti kelnes su pačiomis drąsiausiomis faktūromis, tokiomis kaip Lotty nėriniai ar Svista kailis, išlaikant balansą ir aristokratiškumą."
+      },
+      {
+        "q": "Šoninis paslėptas užtrauktukas atrodo neįprastai",
+        "a": "Toks konstrukcinis sprendimas leidžia priekinę kelnių dalį palikti visiškai lygią. Tai vizualiai lieknina pilvo sritį ir sukuria nepriekaištingą siluetą po prigludusiais viršutiniais drabužiais ir švarkais."
+      },
+      {
+        "q": "Kelnės atrodo per daug lengvos žiemos garderobui",
+        "a": "Nepaisant vizualaus grakštumo, Olino audinio tankis sukurtas atsižvelgiant į tarpsezoninį komfortą, užtikrinant optimalią termoreguliaciją patalpose ir po viršutiniais drabužiais."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Spodnie wydają się zbyt proste jak na swoją kategorię",
+        "a": "Właśnie w lakoniczności kroju Olino tkwi prawdziwa elegancja. Brak zbędnych szwów pozwala tkaninie odgrywać główną rolę, podkreślając nieskazitelną jakość wykonania 'Made in Italy'."
+      },
+      {
+        "q": "Tkanina na bazie wiskozy może ulec odkształceniu",
+        "a": "Specjalny splot włókien z dodatkiem elastanu (5%) gwarantuje, że produkt zachowa swój kształt i wyrazistość linii nawet po długim dniu pracy lub podróży samolotem."
+      },
+      {
+        "q": "Czarny kolor może wyglądać zbyt konserwatywnie",
+        "a": "Głęboki odcień Nero 0101 to idealne płótno. Pozwala on łączyć spodnie z najbardziej śmiałymi fakturami, takimi jak koronka Lotty czy futro Svista, zachowując balans i arystokratyczny styl."
+      },
+      {
+        "q": "Ukryty zamek błyskawiczny z boku wydaje się mniej typowy",
+        "a": "Takie rozwiązanie konstrukcyjne pozwala pozostawić przedni panel spodni absolutnie gładkim. Wyszczupla to optycznie okolicę brzucha i tworzy nieskazitelną sylwetkę pod dopasowanymi topami i żakietami."
+      },
+      {
+        "q": "Spodnie wydają się zbyt lekkie na zimową garderobę",
+        "a": "Mimo wizualnej finezji, gęstość tkaniny Olino została opracowana z myślą o komforcie w okresie przejściowym, zapewniając optymalną termoregulację w pomieszczeniach i pod odzieżą wierzchnią."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Брюки здаються занадто простими для своєї категорії",
+        "a": "Саме в лаконічності крою Olino полягає справжня елегантність. Відсутність зайвих швів дозволяє тканині відігравати головну роль, підкреслюючи бездоганну якість виконання 'Made in Italy'."
+      },
+      {
+        "q": "Тканина на основі віскози може деформуватися",
+        "a": "Спеціальне плетіння волокон із додаванням еластану (5%) гарантує, що виріб збереже свою форму та чіткість ліній навіть після тривалого робочого дня або перельоту."
+      },
+      {
+        "q": "Чорний колір може виглядати занадто консервативно",
+        "a": "Глибокий відтінок Nero 0101 — це ідеальне полотно. Він дозволяє поєднувати штани з найсміливішими фактурами, такими як мереживо Lotty або хутро Svista, зберігаючи баланс та аристократизм."
+      },
+      {
+        "q": "Потаємна блискавка збоку здається менш звичною",
+        "a": "Таке конструктивне рішення дозволяє залишити передню панель штанів абсолютно гладенькою. Це візуально робить стрункішою область живота та створює бездоганний силует під облягаючими топами та жакетами."
+      },
+      {
+        "q": "Штани здаються занадто легкими для зимового гардеробу",
+        "a": "Попри візуальну витонченість, щільність полотна Olino розроблена з урахуванням демісезонного комфорту, забезпечуючи оптимальну терморегуляцію в приміщенні та під верхнім одягом."
+      }
+    ]
+  }
+}

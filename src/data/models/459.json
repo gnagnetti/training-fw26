@@ -1,0 +1,464 @@
+{
+  "id": 459,
+  "name": "Onesta",
+  "description": {
+    "en": "The Onesta 2710 trousers are the quintessence of Luisa Spagnoli's sartorial mastery, embodied in a flawless classic cut. Crafted from noble pure virgin wool (pura lana vergine) with an exquisite mÃ©lange texture and a delicate micro-diagonal weave that lends the fabric depth and structural stability. The design is built on architectural discipline of line: a perfectly pressed crease (piega stirata) and a straight leg (gamba dritta) form a majestic vertical line that visually elongates the silhouette. Functional American-style pockets and belt loops underscore the piece's classic foundation, while the Regular fit guarantees absolute comfort and freedom of movement throughout the day.",
+    "ru": "Брюки Onesta 2710 --- это квинтэссенция сарториального мастерства Luisa Spagnoli, воплощенная в безупречном классическом крое. Модель выполнена из благородной чистой девственной шерсти (pura lana vergine) с изысканной меланжевой фактурой и деликатной микро-диагональной арматурой, придающей ткани глубину и структурную стабильность. Дизайн строится на архитектурной строгости линий: идеально заутюженная стрелка (piega stirata) и прямой крой штанин (gamba dritta) формируют величественную вертикаль, визуально вытягивающую силуэт. Функциональные американские карманы и шлевки для ремня подчеркивают классическую основу изделия, а регулярная посадка (vestibilità regular) гарантирует абсолютный комфорт и свободу движений в течение всего дня.",
+    "ar": "سراويل Onesta 2710 هي جوهر مهارة الخياطة لدى Luisa Spagnoli، تتجسد في قصة كلاسيكية لا تشوبها شائبة. صُنعت القطعة من الصوف البكر الخالص الفاخر (pura lana vergine) مع نسيج ملون دقيق ونسيج قطري مجهري يمنح القماش عمقاً وثباتاً في الهيكل. يعتمد التصميم على الصرامة المعمارية للخطوط: الكسرة المكوية المثالية (piega stirata) والقصة المستقيمة للساق (gamba dritta) تشكل خطاً عمودياً مهيباً يطيل القوام بصرياً. الجيوب الأمريكية العملية وحلقات الحزام تؤكد الأساس الكلاسيكي للقطعة، بينما تضمن القصة المنتظمة (vestibilità regular) راحة مطلقة وحرية في الحركة طوال اليوم.",
+    "ka": "Onesta 2710-ის შარვალი არის Luisa Spagnoli-ის მკერავის ოსტატობის კვინტესენცია, რომელიც განსახიერებულია უნაკლო კლასიკურ კროიში. მოდელი დამზადებულია კეთილშობილი სუფთა ქალწულის მატყლისგან (pura lana vergine) დახვეწილი მელანჟის ტექსტურით და დელიკატური მიკრო-დიაგონალური არმატურით, რომელიც ქსოვილს სიღრმესა და სტრუქტურულ სტაბილურობას მატებს. დიზაინი აგებულია ხაზების არქიტექტურულ სიმკაცრეზე: იდეალურად დაუთოებული ისარი (piega stirata) და სწორი კროის შარვლის ტოტები (gamba dritta) ქმნიან დიდებულ ვერტიკალს, რომელიც ვიზუალურად აგრძელებს სილუეტს. ფუნქციონალური ამერიკული ჯიბეები და ქამრისთვის განკუთვნილი ყულფები ხაზს უსვამს ნაკეთობის კლასიკურ საფუძველს, ხოლო რეგულარული მორგება (vestibilità regular) უზრუნველყოფს აბსოლუტურ კომფორტს და მოძრაობის თავისუფლებას მთელი დღის განმავლობაში.",
+    "hy": "Onesta 2710 տաբատը Luisa Spagnoli-ի սարտորիալ վարպետության էությունն է՝ մարմնավորված անթերի դասական կտրվածքի մեջ։ Մոդելը պատրաստված է ազնվական մաքուր բնական բրդից (pura lana vergine)՝ նուրբ մելանժային հյուսվածքով և նուրբ միկրո-անկյունագծային ամրաններով, որոնք կտորին հաղորդում են խորություն և կառուցվածքային կայունություն։ Դիզայնը հիմնված է գծերի ճարտարապետական խստության վրա. իդեալական արդուկված սլաքները (piega stirata) և տաբատի ուղիղ կտրվածքը (gamba dritta) ձևավորում են վեհաշուք ուղղահայաց գիծ, որը տեսողականորեն ձգում է ուրվագիծը։ Ամերիկյան ֆունկցիոնալ գրպանները և գոտկատեղի անցուղիները ընդգծում են հագուստի դասական հիմքը, իսկ կանոնավոր նստվածքը (vestibilità regular) երաշխավորում է բացարձակ հարմարավետություն և շարժումների ազատություն ողջ օրվա ընթացքում։",
+    "lv": "Onesta 2710 bikses ir Luisa Spagnoli sartoriālās meistarības kvintesence, kas iemiesota nevainojamā klasiskā piegriezumā. Modelis ir izgatavots no cēlas tīras jaunvilnas (pura lana vergine) ar izsmalcinātu melanžas faktūru un delikātu mikrodiagonālo armatūru, kas audumam piešķir dziļumu un strukturālu stabilitāti. Dizains balstās uz līniju arhitektonisko stingrību: perfekti nogludināta vīle (piega stirata) un taisns staru piegriezums (gamba dritta) veido majestātisku vertikāli, kas vizuāli pagarina siluetu. Funkcionālas amerikāņu kabatas un jostas cilpas uzsver izstrādājuma klasisko pamatu, bet regulārais piegulumums (vestibilità regular) garantē absolūtu komfortu un kustību brīvību visas dienas garumā.",
+    "lt": "Kelnės Onesta 2710 --- tai Luisa Spagnoli sartorialinio meistriškumo kvintesencija, įkūnyta nepriekaištingame klasikiniame kirpime. Modelis pagamintas iš taurios grynos naujos vilnos (pura lana vergine) su rafinuota melanžo faktūra ir subtilia mikro-įstrižine struktūra, suteikiančia audiniui gilumo ir struktūrinio stabilumo. Dizainas remiasi architektūriniu linijų griežtumu: idealiai išlyginta skersinė siūlė (piega stirata) ir tiesus kelnių kirpimas (gamba dritta) formuoja didingą vertikalę, vizualiai ilginančią siluetą. Funkcionalios amerikietiško stiliaus kišenės ir kilpos diržui pabrėžia klasikinį gaminio pagrindą, o reguliarus prigludimas (vestibilità regular) užtikrina absoliutų komfortą ir judesių laisvę visą dieną.",
+    "pl": "Spodnie Onesta 2710 to kwintesencja kunsztu krawieckiego Luisa Spagnoli, ucieleśniona w nienagannym, klasycznym kroju. Model wykonany ze szlachetnej czystej żywej wełny (pura lana vergine) o wyrafinowanej melanżowej fakturze i delikatnym splotem diagonalnym, nadającym tkaninie głębię i stabilność strukturalną. Projekt opiera się na architektonicznej surowości linii: idealnie zaprasowany kant (piega stirata) i proste nogawki (gamba dritta) tworzą majestatyczną linię pionową, wizualnie wydłużającą sylwetkę. Funkcjonalne kieszenie typu amerykańskiego oraz szlufki na pasek podkreślają klasyczną podstawę produktu, a regularny krój (vestibilità regular) gwarantuje absolutny komfort i swobodę ruchów przez cały dzień.",
+    "uk": "Брюки Onesta 2710 --- це квінтесенція сарторіальної майстерності Luisa Spagnoli, втілена в бездоганному класичному крої. Модель виконана з благородної чистої вовни (pura lana vergine) з вишуканою меланжевою фактурою та делікатною мікро-діагональною структурою, що надає тканині глибини та структурної стабільності. Дизайн будується на архітектурній строгості ліній: ідеально запрасована стрілка (piega stirata) та прямий крій штанин (gamba dritta) формують величну вертикаль, що візуально витягує силует. Функціональні американські кишені та шльовки для ременя підкреслюють класичну основу виробу, а регулярна посадка (vestibilità regular) гарантує абсолютний комфорт і свободу рухів протягом усього дня."
+  },
+  "colors": [
+    {
+      "name": "Fango",
+      "code": "2710",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/612412840691c578b4bc602_37755049_02780210XX1.jpg"
+    },
+    {
+      "name": "Grigio",
+      "code": "1046",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1311942934691c57c61a1f82_64535418_02780320XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать брюки Onesta 2710 ( как фундамент для создания статусных костюмных групп и функциональных многослойных ансамблей: Вариант 2710 ( Меланж): В lookbook: предлагается элегантное сочетание с классической рубашкой Legale B 0202.",
+        "en": "The brand's stylists suggest using Onesta 2710 trousers ( as a foundation for creating high-status tailored groups and functional layered ensembles: Option 2710 ( Melange): In the lookbook: an elegant combination with a classic Legale B 0202 shirt is suggested.",
+        "ar": "The brand's stylists suggest using Onesta 2710 trousers ( as a foundation for creating high-status tailored groups and functional layered ensembles: Option 2710 ( Melange): In the lookbook: an elegant combination with a classic Legale B 0202 shirt is suggested.",
+        "ka": "The brand's stylists suggest using Onesta 2710 trousers ( as a foundation for creating high-status tailored groups and functional layered ensembles: Option 2710 ( Melange): In the lookbook: an elegant combination with a classic Legale B 0202 shirt is suggested.",
+        "hy": "The brand's stylists suggest using Onesta 2710 trousers ( as a foundation for creating high-status tailored groups and functional layered ensembles: Option 2710 ( Melange): In the lookbook: an elegant combination with a classic Legale B 0202 shirt is suggested.",
+        "lv": "The brand's stylists suggest using Onesta 2710 trousers ( as a foundation for creating high-status tailored groups and functional layered ensembles: Option 2710 ( Melange): In the lookbook: an elegant combination with a classic Legale B 0202 shirt is suggested.",
+        "lt": "The brand's stylists suggest using Onesta 2710 trousers ( as a foundation for creating high-status tailored groups and functional layered ensembles: Option 2710 ( Melange): In the lookbook: an elegant combination with a classic Legale B 0202 shirt is suggested.",
+        "pl": "The brand's stylists suggest using Onesta 2710 trousers ( as a foundation for creating high-status tailored groups and functional layered ensembles: Option 2710 ( Melange): In the lookbook: an elegant combination with a classic Legale B 0202 shirt is suggested.",
+        "uk": "The brand's stylists suggest using Onesta 2710 trousers ( as a foundation for creating high-status tailored groups and functional layered ensembles: Option 2710 ( Melange): In the lookbook: an elegant combination with a classic Legale B 0202 shirt is suggested."
+      },
+      "items": [
+        {
+          "name": "Onesta",
+          "code": "2710",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/612412840691c578b4bc602_37755049_02780210XX1.jpg"
+        },
+        {
+          "name": "Legale B",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LEGALE_20200000000%20%281%29.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 9, Bambola 1)",
+        "en": "On display (Vetrina 9, Bambola 1)",
+        "ar": "On display (Vetrina 9, Bambola 1)",
+        "ka": "On display (Vetrina 9, Bambola 1)",
+        "hy": "On display (Vetrina 9, Bambola 1)",
+        "lv": "On display (Vetrina 9, Bambola 1)",
+        "lt": "On display (Vetrina 9, Bambola 1)",
+        "pl": "On display (Vetrina 9, Bambola 1)",
+        "uk": "On display (Vetrina 9, Bambola 1)"
+      },
+      "text": {
+        "ru": "канонический деловой образ с жакетом в тон Sarat 2710 и пуловером Manos 0204, дополненный шляпой Renno 0930 и сумкой Iri 0970 0002.",
+        "en": "a canonical business look with a matching Sarat 2710 jacket and a Manos 0204 pullover, complemented by a Renno 0930 hat and an Iri 0970 0002 bag.",
+        "ar": "a canonical business look with a matching Sarat 2710 jacket and a Manos 0204 pullover, complemented by a Renno 0930 hat and an Iri 0970 0002 bag.",
+        "ka": "a canonical business look with a matching Sarat 2710 jacket and a Manos 0204 pullover, complemented by a Renno 0930 hat and an Iri 0970 0002 bag.",
+        "hy": "a canonical business look with a matching Sarat 2710 jacket and a Manos 0204 pullover, complemented by a Renno 0930 hat and an Iri 0970 0002 bag.",
+        "lv": "a canonical business look with a matching Sarat 2710 jacket and a Manos 0204 pullover, complemented by a Renno 0930 hat and an Iri 0970 0002 bag.",
+        "lt": "a canonical business look with a matching Sarat 2710 jacket and a Manos 0204 pullover, complemented by a Renno 0930 hat and an Iri 0970 0002 bag.",
+        "pl": "a canonical business look with a matching Sarat 2710 jacket and a Manos 0204 pullover, complemented by a Renno 0930 hat and an Iri 0970 0002 bag.",
+        "uk": "a canonical business look with a matching Sarat 2710 jacket and a Manos 0204 pullover, complemented by a Renno 0930 hat and an Iri 0970 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Sarat",
+          "code": "2710",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1220159631692424d9d05f27_96853729_02781560XX1.jpg",
+          "modelId": 473
+        },
+        {
+          "name": "Manos",
+          "code": "0204",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1706098854691f156c37f925_68045055_02780700XX1.jpg"
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        },
+        {
+          "name": "Iri",
+          "code": "0970 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 13, Bambola 1)",
+        "en": "On display (Vetrina 13, Bambola 1)",
+        "ar": "On display (Vetrina 13, Bambola 1)",
+        "ka": "On display (Vetrina 13, Bambola 1)",
+        "hy": "On display (Vetrina 13, Bambola 1)",
+        "lv": "On display (Vetrina 13, Bambola 1)",
+        "lt": "On display (Vetrina 13, Bambola 1)",
+        "pl": "On display (Vetrina 13, Bambola 1)",
+        "uk": "On display (Vetrina 13, Bambola 1)"
+      },
+      "text": {
+        "ru": "статусный сет с жакетом Sarat 2710 и шелковой рубашкой Latteria 0218.",
+        "en": "a high-status set with a Sarat 2710 jacket and a Latteria 0218 silk shirt.",
+        "ar": "a high-status set with a Sarat 2710 jacket and a Latteria 0218 silk shirt.",
+        "ka": "a high-status set with a Sarat 2710 jacket and a Latteria 0218 silk shirt.",
+        "hy": "a high-status set with a Sarat 2710 jacket and a Latteria 0218 silk shirt.",
+        "lv": "a high-status set with a Sarat 2710 jacket and a Latteria 0218 silk shirt.",
+        "lt": "a high-status set with a Sarat 2710 jacket and a Latteria 0218 silk shirt.",
+        "pl": "a high-status set with a Sarat 2710 jacket and a Latteria 0218 silk shirt.",
+        "uk": "a high-status set with a Sarat 2710 jacket and a Latteria 0218 silk shirt."
+      },
+      "items": [
+        {
+          "name": "Sarat",
+          "code": "2710",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1220159631692424d9d05f27_96853729_02781560XX1.jpg",
+          "modelId": 473
+        },
+        {
+          "name": "Latteria",
+          "code": "0218",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1723971240691c57c79cc7c5_03631804_02780370XX1.jpg",
+          "modelId": 101
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 39, Bambola 2)",
+        "en": "On display (Vetrina 39, Bambola 2)",
+        "ar": "On display (Vetrina 39, Bambola 2)",
+        "ka": "On display (Vetrina 39, Bambola 2)",
+        "hy": "On display (Vetrina 39, Bambola 2)",
+        "lv": "On display (Vetrina 39, Bambola 2)",
+        "lt": "On display (Vetrina 39, Bambola 2)",
+        "pl": "On display (Vetrina 39, Bambola 2)",
+        "uk": "On display (Vetrina 39, Bambola 2)"
+      },
+      "text": {
+        "ru": "сложный зимний выход под пальто Stenografo 2716 в сочетании с пуловером Casistica 1151 1181 и рубашкой Lidia 0202.",
+        "en": "a sophisticated winter look under a Stenografo 2716 coat combined with a Casistica 1151 1181 pullover and a Lidia 0202 shirt.",
+        "ar": "a sophisticated winter look under a Stenografo 2716 coat combined with a Casistica 1151 1181 pullover and a Lidia 0202 shirt.",
+        "ka": "a sophisticated winter look under a Stenografo 2716 coat combined with a Casistica 1151 1181 pullover and a Lidia 0202 shirt.",
+        "hy": "a sophisticated winter look under a Stenografo 2716 coat combined with a Casistica 1151 1181 pullover and a Lidia 0202 shirt.",
+        "lv": "a sophisticated winter look under a Stenografo 2716 coat combined with a Casistica 1151 1181 pullover and a Lidia 0202 shirt.",
+        "lt": "a sophisticated winter look under a Stenografo 2716 coat combined with a Casistica 1151 1181 pullover and a Lidia 0202 shirt.",
+        "pl": "a sophisticated winter look under a Stenografo 2716 coat combined with a Casistica 1151 1181 pullover and a Lidia 0202 shirt.",
+        "uk": "a sophisticated winter look under a Stenografo 2716 coat combined with a Casistica 1151 1181 pullover and a Lidia 0202 shirt."
+      },
+      "items": [
+        {
+          "name": "Stenografo",
+          "code": "2716",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1584374153691c57c8052430_51905956_02780380XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Casistica",
+          "code": "1151 1181",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/550185212691f156b48c6a8_03674351_02780680XX1.jpg",
+          "modelId": 384
+        },
+        {
+          "name": "Lidia",
+          "code": "0202",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 66, Bambola 1)",
+        "en": "On display (Vetrina 66, Bambola 1)",
+        "ar": "On display (Vetrina 66, Bambola 1)",
+        "ka": "On display (Vetrina 66, Bambola 1)",
+        "hy": "On display (Vetrina 66, Bambola 1)",
+        "lv": "On display (Vetrina 66, Bambola 1)",
+        "lt": "On display (Vetrina 66, Bambola 1)",
+        "pl": "On display (Vetrina 66, Bambola 1)",
+        "uk": "On display (Vetrina 66, Bambola 1)"
+      },
+      "text": {
+        "ru": "современная интерпретация «Sport-Luxe» под паркой Strumento 0817 1022 в паре с пуловером Ciglia 1139 и рубашкой Barberino 0201.",
+        "en": "a modern interpretation of \"Sport-Luxe\" under a Strumento 0817 1022 parka paired with a Ciglia 1139 pullover and a Barberino 0201 shirt.",
+        "ar": "a modern interpretation of \"Sport-Luxe\" under a Strumento 0817 1022 parka paired with a Ciglia 1139 pullover and a Barberino 0201 shirt.",
+        "ka": "a modern interpretation of \"Sport-Luxe\" under a Strumento 0817 1022 parka paired with a Ciglia 1139 pullover and a Barberino 0201 shirt.",
+        "hy": "a modern interpretation of \"Sport-Luxe\" under a Strumento 0817 1022 parka paired with a Ciglia 1139 pullover and a Barberino 0201 shirt.",
+        "lv": "a modern interpretation of \"Sport-Luxe\" under a Strumento 0817 1022 parka paired with a Ciglia 1139 pullover and a Barberino 0201 shirt.",
+        "lt": "a modern interpretation of \"Sport-Luxe\" under a Strumento 0817 1022 parka paired with a Ciglia 1139 pullover and a Barberino 0201 shirt.",
+        "pl": "a modern interpretation of \"Sport-Luxe\" under a Strumento 0817 1022 parka paired with a Ciglia 1139 pullover and a Barberino 0201 shirt.",
+        "uk": "a modern interpretation of \"Sport-Luxe\" under a Strumento 0817 1022 parka paired with a Ciglia 1139 pullover and a Barberino 0201 shirt."
+      },
+      "items": [
+        {
+          "name": "Strumento",
+          "code": "0817 1022",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/144663504692424e1b33464_10342439_02781750XX1.jpg",
+          "modelId": 498
+        },
+        {
+          "name": "Ciglia",
+          "code": "1139",
+          "imageUrl": null
+        },
+        {
+          "name": "Barberino",
+          "code": "0201",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The magic of micro-texture: Direct the client's attention to the fabric's micro-diagonal weave. Explain that this nuance makes the wool more resistant to creasing and lends the color a noble depth, distinguishing Onesta favorably from ordinary smooth tr"
+    ],
+    "ru": [
+      "- Магия микро-фактуры: Акцентируйте внимание клиента на микро-диагональном плетении ткани. Объясните, что этот нюанс делает шерсть более устойчивой к сминанию и придает цвету благородную глубину, которая выигрышно отличает Onesta от простых гладких брюк."
+    ],
+    "ar": [
+      "- سحر النسيج الدقيق: ركزي انتباه العميل على النسيج ذي الحياكة القطرية الدقيقة. وضحي أن هذه التفصيلة تجعل الصوف أكثر مقاومة للتجعد وتضفي على اللون عمقاً راقياً يميز Onesta عن البناطيل العادية الملساء. - استثمار في البدلة المكونة من قطعتين: ننصح باقتناء الب"
+    ],
+    "ka": [
+      "- მიკრო-ფაქტურის მაგია: გაამახვილეთ კლიენტის ყურადღება ქსოვილის მიკრო-დიაგონალურ ქსოვაზე. აუხსენით, რომ ეს ნიუანსი მატყლს უფრო ნაოჭგამძლეს ხდის და ფერს სძენს კეთილშობილურ სიღრმეს, რომელიც Onesta-ს ჩვეულებრივი გლუვი შარვლებისგან განსხვავებულს და გამორჩეულს"
+    ],
+    "hy": [
+      "- Միկրո-ֆակտուրայի կախարդանքը. Հաճախորդի ուշադրությունը կենտրոնացրեք գործվածքի միկրո-անկյունագծային հյուսվածքի վրա: Բացատրեք, որ այս նրբությունը բրդյա գործվածքն ավելի դիմացկուն է դարձնում կնճռոտման նկատմամբ և գույնին հաղորդում է ազնիվ խորություն, որը շահե"
+    ],
+    "lv": [
+      "- Mikro-faktūras maģija: Vērsiet klienta uzmanību uz auduma mikro-diagonālo pinumu. Paskaidrojiet, ka šī nianse padara vilnu noturīgāku pret burzīšanos un piešķir krāsai cēlu dziļumu, kas izdevīgi atšķir Onesta no vienkāršām gludām biksēm. - Investīcija k"
+    ],
+    "lt": [
+      "- Mikro-faktūros magija: atkreipkite kliento dėmesį į mikro-įstrižinį audinio pynimą. Paaiškinkite, kad šis niuansas daro vilną atsparesnę glamžymuisi ir suteikia spalvai taurią gelmę, kuri palankiai išskiria Onesta nuo paprastų lygių kelnių. - Investicija į kostiumą: rekomenduokite įsigyti kelnes kartu su Sarat 2710 švarku. Tai leis klientui turėti galingą „Power Dressing“ įrankį, kurio detalės idealiai suderintos pagal faktūrą ir spalvą. - Lieknumo vertikalė: pabrėžkite tiesaus kirpimo ir užlygintos kantų linijos derinį. Ši kombinacija --- geriausias būdas vizualiai pakoreguoti ūgį ir sukurti harmoningas proporcijas, išlaikant klasikinį įvaizdžio statusą."
+    ],
+    "pl": [
+      "- Magia mikro-faktury: Zwróć uwagę klientki na mikro-diagonalny splot tkaniny. Wyjaśnij, że ten niuans sprawia, iż wełna jest bardziej odporna na gniecenie i nadaje kolorowi szlachetną głębię, która korzystnie odróżnia Onesta od zwykłych gładkich spodni."
+    ],
+    "uk": [
+      "- Магія мікрофактури: Акцентуйте увагу клієнта на мікродіагональному плетінні тканини. Поясніть, що цей нюанс робить вовну стійкішою до зминання та надає кольору благородної глибини, яка вигідно відрізняє Onesta від простих гладких штанів. - Інвестиція в"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The jacket looks too formal.",
+        "a": "Demonstrate Display Case 38: paired with a printed shirt and the soft Sarat 2710 knitwear, it takes on a relaxed, urban-chic character. |"
+      },
+      {
+        "q": "Wool might be high-maintenance.",
+        "a": "Luisa Spagnoli uses high-quality wool that holds its shape beautifully and resists wrinkling, which is essential for a structured jacket. |"
+      },
+      {
+        "q": "I'm concerned the short length won't suit me.",
+        "a": "This length (medio-corta) is designed specifically not to 'cut' the figure. It pairs perfectly with high-waisted trousers, such as the Onesta, visually elongating the legs. |"
+      },
+      {
+        "q": "The structured shoulders might add extra volume.",
+        "a": "On the contrary, the precisely calibrated shoulder line balances the proportions of the hips, making the overall architecture of the silhouette more harmonious and statuesque. |"
+      },
+      {
+        "q": "It's difficult to find accessories to match this color.",
+        "a": "The mélange texture of shade 2710 contains several nuances, which allows the jacket to pair effortlessly with accessories in tones 0970, 0920, or 1782."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шерсть может быть Luisa Spagnoli использует только колючей",
+        "a": "высококачественную pura lana vergine. Это первичная шерсть высшей очистки, которая отличается исключительной мягкостью и комфортом при контакте с кожей."
+      },
+      {
+        "q": "Прямой крой Напротив, это база «Quiet Luxury",
+        "a": ". (regular fit) Продемонстрируйте Vetrina 66: в сочетании с выглядит слишком паркой Strumento 0817 модель Onesta традиционно» выглядит остромодно и динамично."
+      },
+      {
+        "q": "Боюсь, что стрелки Микро-диагональная структура полотна в этой быстро разойдутся",
+        "a": "модели спроектирована так, чтобы лучше держать форму. При правильном уходе заутюженная линия останется четкой надолго."
+      },
+      {
+        "q": "Меланжевый оттенок Меланж — это «умный",
+        "a": "цвет. Он состоит из сложно нескольких нитей, что позволяет брюкам Onesta комбинировать» 2710 подстраиваться под разные оттенки верха: от молочного Legale B 0202 до глубоких тонов трикотажа."
+      },
+      {
+        "q": "Зачем мне еще одни Модель Onesta — это эталон посадки. Она классические объединяет комфорт регулярного кроя и строгость брюки?",
+        "a": "сарториальных деталей, что делает её незаменимой базой на многие сезоны."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الصوف قد يكون خشناً ومزعجاً",
+        "a": "- تستخدم Luisa Spagnoli فقط pura lana vergine عالية الجودة. هذا صوف بكر من أرقى الأنواع، يتميز بنعومة استثنائية وراحة عند ملامسة الجلد."
+      },
+      {
+        "q": "القصّة المستقيمة (regular fit) تبدو تقليدية أكثر من اللازم",
+        "a": "- على العكس من ذلك، هذا هو أساس الـ."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": ". استعرضوا Vetrina 66: مع سترة Strumento 0817، يبدو موديل Onesta عصرياً وديناميكياً للغاية."
+      },
+      {
+        "q": "أخشى أن تختفي ثنيات البنطال سريعاً",
+        "a": "- تم تصميم الهيكل الميكرو-قطري للقماش في هذا الموديل للحفاظ على شكله بشكل أفضل. مع العناية الصحيحة، ستبقى خطوط الكي حادة وواضحة لفترة طويلة."
+      },
+      {
+        "q": "لون الميلانج يبدو صعب التنسيق",
+        "a": "- الميلانج هو لون."
+      },
+      {
+        "q": "ذكي",
+        "a": ". فهو يتكون من عدة خيوط، مما يسمح لسروال Onesta 2710 بالتكيف مع مختلف ألوان القطع العلوية: بدءاً من Legale B 0202 الكريمي وحتى ألوان التريكو العميقة."
+      },
+      {
+        "q": "لماذا أحتاج إلى بنطال كلاسيكي آخر؟",
+        "a": "- موديل Onesta هو المعيار الذهبي للمقاس. فهو يجمع بين راحة القصّة العادية وصرامة التفاصيل الترزية، مما يجعله قطعة أساسية لا غنى عنها لمواسم عديدة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მატყლი შეიძლება ჩხვლეტდეს",
+        "a": "Luisa Spagnoli იყენებს მხოლოდ მაღალი ხარისხის pura lana vergine. ეს არის უმაღლესი ხარისხის პირველადი მატყლი, რომელიც გამოირჩევა განსაკუთრებული სირბილითა და კომფორტით კანთან კონტაქტისას."
+      },
+      {
+        "q": "სწორი ჭრა (regular fit) ზედმეტად ტრადიციულად გამოიყურება",
+        "a": "პირიქით, ეს არის."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "-ის ბაზა. წარმოაჩინეთ Vetrina 66: პარკთან Strumento 0817 კომბინაციაში მოდელი Onesta გამოიყურება მოდურად და დინამიურად."
+      },
+      {
+        "q": "მეშინია, რომ ისრები სწრაფად გაიხსნება",
+        "a": "ქსოვილის მიკრო-დიაგონალური სტრუქტურა ამ მოდელში ისეა დაპროექტებული, რომ უკეთ შეინარჩუნოს ფორმა. სწორი მოვლის შემთხვევაში დაუთოებული ხაზი დიდხანს დარჩება მკვეთრი."
+      },
+      {
+        "q": "მელანჟის ელფერი რთულია კომბინირებისთვის",
+        "a": "მელანჟი — ეს."
+      },
+      {
+        "q": "ჭკვიანი",
+        "a": "ფერია. ის შედგება რამდენიმე ძაფისგან, რაც საშუალებას აძლევს შარვალს Onesta 2710 მოერგოს ზედა ნაწილის სხვადასხვა ფერებს: რძისფერი Legale B 0202-დან დაწყებული, ნაქსოვის ღრმა ტონებამდე."
+      },
+      {
+        "q": "რად მინდა კიდევ ერთი კლასიკური შარვალი?",
+        "a": "მოდელი Onesta — ეს არის მორგების ეტალონი. ის აერთიანებს რეგულარული ჭრის კომფორტსა და სარტორული დეტალების სიმკაცრეს, რაც მას მრავალი სეზონის განმავლობაში შეუცვლელ ბაზად აქცევს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բուրդը կարող է ծակծկող լինել»։",
+        "a": "Luisa Spagnoli-ն օգտագործում է միայն բարձրորակ pura lana vergine: Սա բարձր մաքրության առաջնային բուրդ է, որը տարբերվում է բացառիկ փափկությամբ և մաշկի հետ շփման ժամանակ հարմարավետությամբ։ «Ուղիղ ձևվածքը (regular fit) շատ ավանդական է թվում»։ Ընդհակառակը, սա «Quiet Luxury»-ի հիմքն է։ Ցույց տվեք Vetrina 66-ը՝ Strumento 0817 պարկայի հետ համադրությամբ Onesta մոդելը թվում է սուր նորաձև և դինամիկ։ «Վախենում եմ, որ սլաքները արագ կբացվեն»։ Այս մոդելի կտորի միկրո-անկյունագծային կառուցվածքը նախագծված է այնպես, որպեսզի ավելի լավ պահպանի ձևը։ Ճիշտ խնամքի դեպքում արդուկված գիծը երկար ժամանակ կմնա հստակ։ «Մելանժային երանգը դժվար է համադրել»։ Մելանժը «խելացի» գույն է։ Այն բաղկացած է մի քանի թելերից, ինչը թույլ է տալիս Onesta 2710 տաբատներին հարմարվել վերնազգեստի տարբեր երանգներին՝ Legale B 0202 կաթնագույնից մինչև տրիկոտաժի խորը երանգներ։ «Ինչո՞ւ ինձ ևս մեկ դասական տաբատ»։ Onesta մոդելը նստվածքի չափանիշ է։ Այն միավորում է կանոնավոր ձևվածքի հարմարավետությունը և սարտորիալ դետալների խստությունը, ինչը այն դարձնում է անփոխարինելի բազա բազմաթիվ սեզոնների համար։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vilna var būt durstīga",
+        "a": "Luisa Spagnoli izmanto tikai augstas kvalitātes pura lana vergine. Tā ir pirmreizējā augstākās tīrīšanas vilna, kas izceļas ar izcilu mīkstumu un komfortu saskarē ar ādu."
+      },
+      {
+        "q": "Taisnais piegriezums (regular fit) izskatās pārāk tradicionāli",
+        "a": "Gluži pretēji, tā ir."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "bāze. Demonstrējiet Vetrina 66: kombinācijā ar parku Strumento 0817, modelis Onesta izskatās moderni un dinamiski."
+      },
+      {
+        "q": "Baidos, ka strelki ātri izjuks",
+        "a": "Auduma mikrodiagonālā struktūra šajā modelī ir izstrādāta tā, lai labāk noturētu formu. Pareizi kopjot, iegludinātā līnija paliks skaidra ilgu laiku."
+      },
+      {
+        "q": "Melanžēto toni ir grūti kombinēt",
+        "a": "Melanžs — tā ir."
+      },
+      {
+        "q": "gudra",
+        "a": "krāsa. Tas sastāv no vairākiem pavedieniem, kas ļauj biksēm Onesta 2710 pielāgoties dažādiem augšdaļas toņiem: no piena Legale B 0202 līdz dziļiem trikotāžas toņiem."
+      },
+      {
+        "q": "Kāpēc man vajadzīgas vēl vienas klasiskās bikses?",
+        "a": "Modelis Onesta — tas ir piegriezuma etalons. Tas apvieno regulārā piegriezuma komfortu un sartoriālo detaļu stingrību, kas padara to par neaizstājamu bāzi daudzām sezonām."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Vilna gali būti šiurkšti“ Luisa Spagnoli naudoja tik aukščiausios kokybės pura lana vergine. Tai pirminė aukščiausio išvalymo vilna, pasižyminti išskirtiniu minkštumu ir komfortu kontaktuojant su oda. „Tiesus kirpimas (regular fit) atrodo per tradiciškai“ Priešingai, tai „Quiet Luxury“ bazė.",
+        "a": "Pademonstruokite Vetrina 66: derinyje su parka Strumento 0817 modelis Onesta atrodo itin madingai ir dinamiškai. „Bijau, kad kantai greitai išsilygins“ Mikro-įstrižinė audinio struktūra šiame modelyje suprojektuota taip, kad geriau išlaikytų formą. Tinkamai prižiūrint, išlyginta linija išliks aiški ilgą laiką. „Melanžinis atspalvis sudėtingas derinti“ Melanžas — tai „išmani“ spalva. Jis susideda iš kelių siūlų, kas leidžia kelnėms Onesta 2710 prisitaikyti prie įvairių viršutinės dalies atspalvių: nuo pieninės Legale B 0202 iki gilių trikotažo tonų. „Kam man dar vienos klasikinės kelnės?“ Modelis Onesta — tai prigludimo etalonas. Jis sujungia reguliaraus kirpimo komfortą ir sartorialinių detalių griežtumą, kas daro jas nepakeičiama baze daugeliui sezonų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wełna może być kłująca",
+        "a": "Luisa Spagnoli używa wyłącznie wysokiej jakości pura lana vergine. Jest to wełna pierwotna najwyższej czystości, która wyróżnia się wyjątkową miękkością i komfortem w kontakcie ze skórą."
+      },
+      {
+        "q": "Prosty krój (regular fit) wygląda zbyt tradycyjnie",
+        "a": "Wręcz przeciwnie, to baza."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": ". Zaprezentuj Vetrina 66: w połączeniu z parką Strumento 0817 model Onesta wygląda ultra-modnie i dynamicznie."
+      },
+      {
+        "q": "Obawiam się, że kanty szybko się rozprasują",
+        "a": "Mikro-diagonalna struktura tkaniny w tym modelu została zaprojektowana tak, aby lepiej trzymać formę. Przy odpowiedniej pielęgnacji zaprasowana linia pozostanie wyraźna na długo."
+      },
+      {
+        "q": "Melanżowy odcień jest trudny do łączenia",
+        "a": "Melanż to."
+      },
+      {
+        "q": "inteligentny",
+        "a": "kolor. Składa się z kilku nici, co pozwala spodniom Onesta 2710 dopasować się do różnych odcieni góry: od mlecznego Legale B 0202 po głębokie tony dzianin."
+      },
+      {
+        "q": "Po co mi kolejne klasyczne spodnie?",
+        "a": "Model Onesta to wzorzec dopasowania. Łączy w sobie komfort regularnego kroju i surowość krawieckich detali, co czyni ją niezastąpioną bazą na wiele sezonów."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Шерсть може бути Luisa Spagnoli використовує лише колючою",
+        "a": "високоякісну pura lana vergine. Це первинна шерсть вищої очистки, яка відрізняється винятковою м'якістю та комфортом при контакті зі шкірою."
+      },
+      {
+        "q": "Прямий крій Навпаки, це база «Quiet Luxury",
+        "a": ". (regular fit) Продемонструйте Vetrina 66: у поєднанні з виглядає надто паркою Strumento 0817 модель Onesta традиційно» виглядає гостромодно та динамічно."
+      },
+      {
+        "q": "Боюся, що стрілки Мікро-діагональна структура полотна в цій швидко розійдуться",
+        "a": "моделі спроєктована так, щоб краще тримати форму. При правильному догляді запрасована лінія залишиться чіткою надовго."
+      },
+      {
+        "q": "Меланжевий відтінок Меланж — це «розумний",
+        "a": "колір. Він складається з складно кількох ниток, що дозволяє брюкам Onesta комбінувати» 2710 підлаштовуватися під різні відтінки верху: від молочного Legale B 0202 до глибоких тонів трикотажу."
+      },
+      {
+        "q": "Навіщо мені ще одні Модель Onesta — це еталон посадки. Вона класичні поєднує комфорт регулярного крою та строгість брюки?",
+        "a": "сарторіальних деталей, що робить її незамінною базою на багато сезонів."
+      }
+    ]
+  }
+}

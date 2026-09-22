@@ -1,0 +1,359 @@
+{
+  "id": 70,
+  "name": "Genialita",
+  "description": {
+    "en": "An exquisite midi dress, crafted from fluid viscose satin with a striking animal print. The piece embodies a contemporary interpretation of classic femininity through a lavalliÃ¨re collar that can be tied in a bow, and voluminous sleeves with high fitted cuffs. A fitted silhouette with an elasticated waist detail and a delicate teardrop back neckline underscore the refinement of the look, making it the ideal choice for both daytime occasions and social events.",
+    "ru": "Изысканное платье-миди, выполненное из струящегося вискозного сатина с эффектным анималистичным принтом. Модель воплощает современную интерпретацию классической женственности благодаря воротнику лавальер (lavallière), который можно завязывать бантом, и объемным рукавам с высокими приталенными манжетами. Приталенный силуэт с эластичной деталью на талии и деликатный вырез-капля на спинке подчеркивают утонченность образа, делая его идеальным выбором как для дневных выходов, так и для светских мероприятий.",
+    "ar": "فستان ميدي راقٍ، مصنوع من ساتان الفيسكوز الانسيابي بنقشة حيوانية جذابة. يجسد الموديل تفسيراً عصرياً للأنوثة الكلاسيكية بفضل ياقة لافالير (lavallière) التي يمكن ربطها على شكل عقدة (ببيون)، والأكمام الواسعة ذات الأساور الضيقة العالية. القصة المحددة للخصر مع تفصيلة مطاطية في الوسط وفتحة قطرة دقيقة في الخلف تبرز رقي المظهر، مما يجعله خياراً مثالياً لكل من الإطلالات النهارية والمناسبات الاجتماعية.",
+    "ka": "დახვეწილი მიდი-კაბა, დამზადებული მოძრავი ვისკოზის სატინისგან ეფექტური ცხოველური პრინტით. მოდელი განასახიერებს კლასიკური ქალურობის თანამედროვე ინტერპრეტაციას ლავალერის (lavallière) საყელოს წყალობით, რომლის შეკვრაც შესაძლებელია ბანტად, და მოცულობითი სახელოების წყალობით მაღალი შემოწელილი მანჟეტებით. წელში გამოყვანილი სილუეტი წელის ელასტიკური დეტალით და ზურგზე არსებული დელიკატური წვეთოვანი ფორმის ჭრილი ხაზს უსვამს სახის დახვეწილობას, რაც მას იდეალურ არჩევნად აქცევს როგორც დღის გასვლებისთვის, ისე საერო ღონისძიებებისთვის.",
+    "hy": "Նրբաճաշակ միդի-զգեստ՝ պատրաստված հոսուն վիսկոզային սատինից՝ տպավորիչ կենդանական պրինտով: Մոդելը մարմնավորում է դասական կանացիության ժամանակակից մեկնաբանությունը լավալիեր (lavallière) օձիքի շնորհիվ, որը կարելի է կապել ժապավենով, և բարձր ձգված մանժետներով ծավալուն թևքերի օգնությամբ: Գոտկատեղի հատվածում առաձգական դետալով ընդգծված ուրվագիծը և թիկունքի վրա նուրբ կաթիլաձև բացվածքը ընդգծում են կերպարի նրբագեղությունը՝ դարձնելով այն կատարյալ ընտրություն ինչպես ցերեկային զբոսանքների, այնպես էլ հանդիսավոր միջոցառումների համար:",
+    "lv": "Izsmalcināta midi kleita, kas izgatavota no krītoša viskozes satīna ar efektīgu dzīvnieku rakstu. Modelis iemieso mūsdienīgu klasiskās sievišķības interpretāciju, pateicoties lavallière apkaklei, kuru var sasiet bantē, un kuplām piedurknēm ar augstām, pieguļošām manšetēm. Piegulošs siluets ar elastīgu detaļu jostasvietā un smalks piliena veida izgriezums uz muguras uzsver tēla izsmalcinātību, padarot to par ideālu izvēli gan dienas izgājieniem, gan saviesīgiem pasākumiem.",
+    "lt": "Išskirtinė midi suknelė, pagaminta iš krentančio viskozės satino su efektingu gyvūniniu raštu. Modelis įkūnija modernią klasikinio moteriškumo interpretaciją dėl lavallière apykaklės, kurią galima surišti kaspinu, ir apimties suteikiančių rankovių su aukštais prigludusiais rankogaliais. Liemenuotas siluetas su elastine detale ties juosmeniu ir subtili lašo formos iškirptė nugarinėje dalyje pabrėžia įvaizdžio rafinuotumą, todėl tai yra idealus pasirinkimas tiek dieniniams išėjimams, tiek visuomeniniams renginiams.",
+    "pl": "Wyrafinowana sukienka midi, wykonana ze zwiewnej wiskozowej satyny z efektownym zwierzęcym wzorem. Model ucieleśnia nowoczesną interpretację klasycznej kobiecości dzięki kołnierzowi typu lavallière, który można wiązać w kokardę, oraz obszernym rękawom z wysokimi dopasowanymi mankietami. Talia podkreślona elastycznym detalem oraz delikatne wycięcie typu łezka na plecach podkreślają wyrafinowanie stylizacji, czyniąc ją idealnym wyborem zarówno na wyjścia dzienne, jak i na wieczorowe okazje.",
+    "uk": "Вишукана сукня-міді, виконана зі струмливого віскозного сатину з ефектним анімалістичним принтом. Модель втілює сучасну інтерпретацію класичної жіночності завдяки коміру лавальєр (lavallière), який можна зав'язувати бантом, і об'ємним рукавам із високими приталеними манжетами. Приталений силует з еластичною деталлю на талії та делікатний виріз-крапля на спинці підкреслюють витонченість образу, роблячи його ідеальним вибором як для денних виходів, так і для світських заходів."
+  },
+  "colors": [
+    {
+      "name": "Var Nero Marrone",
+      "code": "3350",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-IaN1H9ZSWmR6e-Yueowvg_608072851696f42303006c0_16679541_02820130XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1",
+        "ar": "Look 1",
+        "ka": "Look 1",
+        "hy": "Look 1",
+        "lv": "Look 1",
+        "lt": "Look 1",
+        "pl": "Look 1",
+        "uk": "Look 1",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1: Смелое сочетание платья Genialita 3350 с укороченным жакетом Scalare 0101 и высокими сапогами Ulisside 0101 0038.",
+        "en": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "ar": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "ka": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "hy": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "lv": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "lt": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "pl": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "uk": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots."
+      },
+      "items": [
+        {
+          "name": "Genialita",
+          "code": "3350",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-IaN1H9ZSWmR6e-Yueowvg_608072851696f42303006c0_16679541_02820130XX1.jpg"
+        },
+        {
+          "name": "Scalare",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/obH9FrFkRoq3xbxDWF6Fsg_1888970026696f42f15a20d0_57909911_02820870XX1.jpg",
+          "modelId": 300
+        },
+        {
+          "name": "Ulisside",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 1",
+        "ar": "Look 1",
+        "ka": "Look 1",
+        "hy": "Look 1",
+        "lv": "Look 1",
+        "lt": "Look 1",
+        "pl": "Look 1",
+        "uk": "Look 1",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1: Смелое сочетание платья Genialita 3350 с укороченным жакетом Scalare 0101 и высокими сапогами Ulisside 0101 0038.",
+        "en": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "ar": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "ka": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "hy": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "lv": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "lt": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "pl": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots.",
+        "uk": "A bold combination of a Genialita 3350 dress with a cropped Scalare 0101 jacket and high Ulisside 0101 0038 boots."
+      },
+      "items": [
+        {
+          "name": "Genialita",
+          "code": "3350",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-IaN1H9ZSWmR6e-Yueowvg_608072851696f42303006c0_16679541_02820130XX1.jpg"
+        },
+        {
+          "name": "Darsena",
+          "code": "0101 0002 1115",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1947413755691c57cf5fa1a0_68202804_02800030XX1.jpg"
+        },
+        {
+          "name": "Uragano A",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URAGANO_10100000000.jpg"
+        },
+        {
+          "name": "Ls1928p A",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the status of the animal print, which, as rendered by Luisa Spagnoli, reads as noble and luxurious thanks to the deep Nero Marrone palette.",
+      "Showcase the client the versatility of the bow collar: it can be tied crisply or left relaxed, shifting the character of the look from professional to romantic.",
+      "Highlight the comfort of the fabric: viscose satin offers a pleasant cooling effect and the noble sheen characteristic of silk, while being more practical to wear."
+    ],
+    "ru": [
+      "Сделайте акцент на статусности анималистичного принта, который в исполнении Luisa Spagnoli выглядит благородно и дорого благодаря глубокой палитре Nero Marrone.",
+      "Продемонстрируйте клиенту многогранность воротника-банта: его можно завязывать строго или оставлять расслабленным, меняя характер образа от делового до романтичного.",
+      "Подчеркните комфорт ткани: вискозный сатин обладает приятным охлаждающим эффектом и благородным блеском, характерным для шелка, но более практичен в носке."
+    ],
+    "ar": [
+      "ركزي على مكانة طبعة جلود الحيوانات التي تبدو في تصاميم Luisa Spagnoli أنيقة وفاخرة بفضل لوحة ألوان Nero Marrone العميقة.",
+      "استعرضي للعميلة تعدد طرق تنسيق الياقة ذات الربطة: حيث يمكن ربطها بأسلوب صارم أو تركها منسدلة، مما يغير طابع الإطلالة من رسمية إلى رومانسية.",
+      "أكدي على راحة القماش: فساتين الساتان الفسكوزي تتمتع بتأثير تبريد مريح وبريق نبيل يشبه الحرير، لكنه أكثر عملية في الارتداء."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება ცხოველური პრინტის სტატუსურობაზე, რომელიც Luisa Spagnoli-ს შესრულებით კეთილშობილურად და ძვირფასად გამოიყურება Nero Marrone-ს ღრმა პალიტრის წყალობით.",
+      "უჩვენეთ კლიენტს ბანტიანი საყელოს მრავალფეროვნება: მისი შეკვრა შესაძლებელია მკაცრად ან დატოვება თავისუფლად, რაც იმიჯის ხასიათს საქმიანიდან რომანტიკულამდე ცვლის.",
+      "ხაზი გაუსვით ქსოვილის კომფორტს: ვისკოზის სატინს აქვს სასიამოვნო გამაგრილებელი ეფექტი და აბრეშუმისთვის დამახასიათებელი კეთილშობილური ბზინვარება, თუმცა უფრო პრაქტიკულია ყოველდღიურ ტარებაში."
+    ],
+    "hy": [
+      "Շեշտադրեք կենդանական պրինտի կարգավիճակը, որը Luisa Spagnoli-ի կատարմամբ թվում է ազնիվ և թանկ՝ շնորհիվ Nero Marrone-ի խորը պալիտրայի։",
+      "Հաճախորդին ցուցադրեք աղեղ-օձիքի բազմակողմանիությունը. այն կարելի է կապել խիստ կամ թողնել ազատ՝ փոխելով կերպարի բնույթը գործնականից դեպի ռոմանտիկ։",
+      "Ընդգծեք գործվածքի հարմարավետությունը. վիսկոզային ատլասը ունի հաճելի սառեցնող էֆեկտ և մետաքսին բնորոշ ազնվական փայլ, սակայն այն ավելի գործնական է կրելու համար։"
+    ],
+    "lv": [
+      "Izceliet dzīvnieku raksta statusu, kas Luisa Spagnoli izpildījumā izskatās cēli un dārgi, pateicoties dziļajai Nero Marrone paletei.",
+      "Demonstrējiet klientam bantes veida apkakles daudzpusību: to var sasiet stingri vai atstāt brīvāku, mainot tēla raksturu no lietišķa uz romantisku.",
+      "Uzsveriet auduma komfortu: viskozes satīnam ir patīkams atvēsinošs efekts un cēls spīdums, kas raksturīgs zīdam, taču tas ir praktiskāks valkāšanā."
+    ],
+    "lt": [
+      "Akcentuokite gyvūniško rašto statusą, kuris Luisa Spagnoli interpretacijoje atrodo kilniai ir prabangiai dėl gilios Nero Marrone paletės.",
+      "Pademonstruokite klientui kaspino formos apykaklės daugialypiškumą: jį galima rišti griežtai arba palikti laisvą, keičiant įvaizdžio charakterį nuo dalykinio iki romantiško.",
+      "Pabrėžkite audinio patogumą: viskozės satinas pasižymi maloniu vėsinamuoju efektu ir kilniu žvilgesiu, būdingu šilkui, tačiau yra praktiškesnis dėvint."
+    ],
+    "pl": [
+      "Połóż nacisk na statusowy charakter zwierzęcego printu, który w wykonaniu Luisa Spagnoli prezentuje się szlachetnie i kosztownie dzięki głębokiej palecie Nero Marrone.",
+      "Zaprezentuj klientowi wielowymiarowość kołnierza z kokardą: można go zawiązywać ściśle lub pozostawić luźno, zmieniając charakter wizerunku od biznesowego po romantyczny.",
+      "Podkreśl komfort tkaniny: wiskozowa satyna posiada przyjemny efekt chłodzący i szlachetny połysk charakterystyczny dla jedwabiu, będąc jednocześnie bardziej praktyczną w noszeniu."
+    ],
+    "uk": [
+      "Зробіть акцент на статусності анімалістичного принту, який у виконанні Luisa Spagnoli виглядає благородно та дорого завдяки глибокій палітрі Nero Marrone.",
+      "Продемонструйте клієнту багатогранність коміра-банта: його можна зав'язувати суворо або залишати розслабленим, змінюючи характер образу від ділового до романтичного.",
+      "Підкресліть комфорт тканини: віскозний сатин володіє приємним охолоджувальним ефектом та благородним блиском, характерним для шовку, але є більш практичним у носінні."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The animal print seems too bold for me.",
+        "a": "In this piece, the print is rendered in understated classic tones (black and brown), making it timeless. Paired with the structured Scalare jacket, it creates a highly elegant and balanced look."
+      },
+      {
+        "q": "I'm not sure a mid-calf length will suit me.",
+        "a": "The dress features an exceptional cut with an emphasis on the waist, which visually elongates the silhouette. Paired with our Ulisside boots or heeled shoes, the proportions will look ideal."
+      },
+      {
+        "q": "Viscose satin may crease heavily.",
+        "a": "The premium viscose used, with the addition of elastane (3%), gives the fabric greater flexibility and resistance to creasing compared to standard satin, while maintaining a flawless appearance throughout the day."
+      },
+      {
+        "q": "The dress looks suitable only for evening wear.",
+        "a": "Thanks to its midi length and covered neckline, this dress can easily be adapted for daytime wardrobes, paired with understated outerwear and flat shoes."
+      },
+      {
+        "q": "It's difficult to find accessories to match such a bold pattern.",
+        "a": "We recommend keeping to minimalism or choosing accessories in a tone that echoes the print. A black leather belt or gold hoop earrings will provide the perfect finishing touch without overwhelming the look."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Анималистичный принт кажется слишком ярким для меня.",
+        "a": "В данной модели принт выполнен в сдержанных классических тонах (черный и коричневый), что делает его вневременным. В сочетании со строгим жакетом Scalare он создает очень элегантный и сбалансированный образ."
+      },
+      {
+        "q": "Я не уверена, что мне подойдет длина до середины икры.",
+        "a": "Платье имеет превосходный крой с акцентом на талии, что визуально вытягивает силуэт. В сочетании с нашими сапогами Ulisside или туфлями на каблуке пропорции будут выглядеть идеально."
+      },
+      {
+        "q": "Вискозный сатин может сильно мяться.",
+        "a": "Используемая высококачественная вискоза с добавлением эластана (3%) обеспечивает ткани большую пластичность и устойчивость к сминанию по сравнению с обычным сатином, сохраняя при этом безупречный внешний вид в течение дня."
+      },
+      {
+        "q": "Платье выглядит только как вечернее.",
+        "a": "Благодаря длине миди и закрытому верху, это платье легко адаптировать для дневного гардероба, сочетая его с лаконичной верхней одеждой и обувью на плоском ходу."
+      },
+      {
+        "q": "Сложно подобрать аксессуары к такому активному рисунку.",
+        "a": "Мы рекомендуем придерживаться минимализма или выбирать аксессуары в тон принта. Черный кожаный пояс или золотые серьги-кольца станут идеальным завершением, не перегружая образ."
+      }
+    ],
+    "ar": [
+      {
+        "q": "النقشة الحيوانية تبدو جريئة أكثر من اللازم بالنسبة لي.",
+        "a": "في هذا الموديل، تم تنفيذ النقشة بألوان كلاسيكية هادئة (الأسود والبني)، مما يجعلها خالدة. وبالتنسيق مع سترة Scalare الصارمة، تخلق إطلالة أنيقة ومتوازنة جداً."
+      },
+      {
+        "q": "لست متأكدة مما إذا كان الطول حتى منتصف الساق يناسبني.",
+        "a": "يتميز الفستان بتصميم ممتاز مع تركيز على الخصر، مما يطيل القوام بصرياً. وعند تنسيقه مع أحذية Ulisside أو أحذية الكعب العالي، ستكون النسب مثالية."
+      },
+      {
+        "q": "ساتان الفيسكوز قد يتجعد بسهولة.",
+        "a": "استخدام الفيسكوز عالي الجودة مع إضافة الإيلاستين (3%) يمنح القماش مرونة أكبر ومقاومة للتجعد مقارنة بالساتان العادي، مع الحفاظ على مظهر مثالي طوال اليوم."
+      },
+      {
+        "q": "الفستان يبدو مناسباً للسهرة فقط.",
+        "a": "بفضل طول الميدي والجزء العلوي المغلق، يمكن تكييف هذا الفستان بسهولة لخزانة الملابس النهارية من خلال تنسيقه مع ملابس خارجية بسيطة وأحذية مسطحة."
+      },
+      {
+        "q": "من الصعب اختيار إكسسوارات تناسب هذا الرسم النشط.",
+        "a": "ننصح بالالتزام بالبساطة أو اختيار إكسسوارات تتناغم مع ألوان النقشة. حزام جلدي أسود أو أقراط ذهبية دائرية ستكون اللمسة النهائية المثالية دون إثقال الإطلالة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ცხოველური პრინტი ჩემთვის ზედმეტად კაშკაშა ჩანს.",
+        "a": "ამ მოდელში პრინტი შესრულებულია თავშეკავებულ კლასიკურ ტონებში (შავი და ყავისფერი), რაც მას დროზე მაღლა მდგომს ხდის. მკაცრ პიჯაკთან Scalare შეხამებაში იგი ქმნის ძალიან ელეგანტურ და დაბალანსებულ იმიჯს."
+      },
+      {
+        "q": "არ ვარ დარწმუნებული, რომ მიხდება წვივამდე სიგრძე.",
+        "a": "კაბას აქვს შესანიშნავი ჭრილი წელზე აქცენტით, რაც ვიზუალურად აგრძელებს სილუეტს. ჩვენს ჩექმებთან Ulisside ან ქუსლიან ფეხსაცმელებთან ერთად პროპორციები იდეალურად გამოიყურება."
+      },
+      {
+        "q": "ვისკოზის სატინი შესაძლოა ძლიერად დაიჭმუჭნოს.",
+        "a": "გამოყენებული მაღალი ხარისხის ვისკოზა ელასტანის (3%) დამატებით, ქსოვილს უზრუნველყოფს მეტი პლასტიკურობითა და დაჭმუჭნვისადმი გამძლეობით ჩვეულებრივ სატინთან შედარებით, ამასთანავე ინარჩუნებს უნაკლო იერსახეს მთელი დღის განმავლობაში."
+      },
+      {
+        "q": "კაბა მხოლოდ საღამოს იმიჯს ჰგავს.",
+        "a": "მიდი სიგრძისა და დახურული ზედა ნაწილის წყალობით, ამ კაბის ადაპტირება ადვილია დღის გარდერობისთვის, შეახამებთ რა მას ლაკონიურ ზედა სამოსსა და დაბალძირიან ფეხსაცმელს."
+      },
+      {
+        "q": "რთულია აქსესუარების შერჩევა ასეთი აქტიური ნახატისთვის.",
+        "a": "ჩვენ გირჩევთ დაიცვათ მინიმალიზმი ან აირჩიოთ პრინტის ტონალობაში გადაწყვეტილი აქსესუარები. შავი ტყავის ქამარი ან ოქროსფერი საყურე-რგოლები გახდება იდეალური დასასრული, ისე რომ არ გადატვირთავს იმიჯს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կենդանական նախշը ինձ համար չափազանց վառ է թվում։",
+        "a": "Այս մոդելում նախշը կատարված է զուսպ դասական երանգներով (սև և շագանակագույն), ինչը այն դարձնում է անժամանակ։ Scalare խիստ ժակետի հետ համադրությամբ այն ստեղծում է շատ էլեգանտ և հավասարակշռված կերպար։"
+      },
+      {
+        "q": "Վստահ չեմ, որ ինձ կսազի սրունքի կեսին հասնող երկարությունը։",
+        "a": "Զգեստն ունի գերազանց ձևվածք՝ գոտկատեղի վրա շեշտադրումով, ինչը տեսողականորեն երկարացնում է ուրվագիծը։ Մեր Ulisside երկարաճիտ կոշիկների կամ կրունկավոր կոշիկների հետ համադրությամբ համաչափությունները կատարյալ կթվան։"
+      },
+      {
+        "q": "Վիսկոզե սատինը կարող է շատ ճմրթվել։",
+        "a": "Էլաստանի (3%) հավելումով օգտագործվող բարձրորակ վիսկոզեն գործվածքին ապահովում է ավելի մեծ պլաստիկություն և ճմրթման նկատմամբ կայունություն՝ սովորական սատինի համեմատ, միաժամանակ պահպանելով անթերի արտաքին տեսքը ողջ օրվա ընթացքում։"
+      },
+      {
+        "q": "Զգեստը միայն երեկոյան է թվում։",
+        "a": "Միդի երկարության և փակ վերնամասի շնորհիվ այս զգեստը հեշտ է հարմարեցնել ցերեկային զգեստապահարանին՝ այն համադրելով լակոնիկ վերնազգեստի և ցածր կրունկով կոշիկների հետ։"
+      },
+      {
+        "q": "Դժվար է աքսեսուարներ ընտրել նման ակտիվ նախշի համար։",
+        "a": "Մենք խորհուրդ ենք տալիս պահպանել մինիմալիզմ կամ ընտրել նախշի երանգին համահունչ աքսեսուարներ։ Սև կաշվե գոտին կամ ոսկեգույն օղակ-ականջօղերը կդառնան իդեալական ավարտ՝ առանց կերպարը ծանրաբեռնելու։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Dzīvnieciskā apdruka šķiet pārāk spilgta priekš manis.",
+        "a": "Šajā modelī apdruka ir izpildīta atturīgos klasiskos toņos (melns un brūns), kas padara to nezūdošu. Kombinācijā ar stingru žaketi Scalare tas rada ļoti elegantu un līdzsvarotu tēlu."
+      },
+      {
+        "q": "Es neesmu pārliecināta, ka man piestāvēs garums līdz ikru vidum.",
+        "a": "Kleitai ir lielisks piegriezums ar akcentu uz vidukli, kas vizuāli pagarina siluetu. Kombinācijā ar mūsu zābakiem Ulisside vai kurpēm uz papēža proporcijas izskatīsies ideāli."
+      },
+      {
+        "q": "Viskozes satīns var ļoti burzīties.",
+        "a": "Izmantotā augstas kvalitātes viskoze ar elastāna piejaukumu (3%) nodrošina audumam lielāku plastiku un noturību pret burzīšanos salīdzinājumā ar parastu satīnu, vienlaikus saglabājot nevainojamu ārējo izskatu dienas garumā."
+      },
+      {
+        "q": "Kleita izskatās tikai kā vakarkleita.",
+        "a": "Pateicoties midi garumam un slēgtai augšdaļai, šo kleitu ir viegli pielāgot dienas garderobei, kombinējot to ar lakoniskām virsdrēbēm un apaviem uz zoles bez papēža."
+      },
+      {
+        "q": "Grūti piemeklēt aksesuārus tik aktīvam rakstam.",
+        "a": "Mēs iesakām ievērot minimālismu vai izvēlēties aksesuārus apdrukas tonī. Melna ādas josta vai zelta riņķveida auskari kļūs par ideālu noslēgumu, nepārslogojot tēlu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Gyvūninis raštas atrodo per ryškus man.",
+        "a": "Šiame modelyje raštas atliktas santūriomis klasikinėmis spalvomis (juoda ir ruda), todėl jis yra laikui nepavaldus. Derinant su griežtu švarku Scalare, sukuriamas labai elegantiškas ir subalansuotas įvaizdis."
+      },
+      {
+        "q": "Nesu tikra, ar man tiks ilgis iki blauzdos vidurio.",
+        "a": "Suknelė pasižymi puikiu kirpimu su akcentu ties juosmeniu, kuris vizualiai ilgina siluetą. Derinant su mūsų batais Ulisside ar bateliais su kulniukais, proporcijos atrodys idealiai."
+      },
+      {
+        "q": "Viskozės satinas gali stipriai glamžytis.",
+        "a": "Naudojama aukštos kokybės viskozė su elastano priemaiša (3 %) suteikia audiniui didesnį plastiškumą ir atsparumą glamžymuisi, palyginus su įprastu satinu, išlaikant nepriekaištingą išvaizdą visą dieną."
+      },
+      {
+        "q": "Suknelė atrodo tik kaip vakarinė.",
+        "a": "Dėl midi ilgio ir uždaro viršaus šią suknelę lengva pritaikyti dieniniam garderobui, derinant ją su lakoniškais viršutiniais drabužiais ir lygiapadžiais batais."
+      },
+      {
+        "q": "Sunku parinkti aksesuarus prie tokio aktyvaus rašto.",
+        "a": "Rekomenduojame laikytis minimalizmo arba rinktis aksesuarus pagal rašto spalvas. Juodas odinis diržas arba auksiniai auskarai-žiedai taps idealiu užbaigimu, neperkraunant įvaizdžio."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Motyw zwierzęcy wydaje się dla mnie zbyt odważny.",
+        "a": "W tym modelu wzór utrzymany jest w stonowanej, klasycznej tonacji (czerń i brąz), co czyni go ponadczasowym. W połączeniu z surowym żakietem Scalare tworzy bardzo elegancką i zrównoważoną stylizację."
+      },
+      {
+        "q": "Nie jestem pewna, czy pasuje mi długość do połowy łydki.",
+        "a": "Sukienka ma doskonały krój z akcentem na talii, co wizualnie wydłuża sylwetkę. W zestawieniu z naszymi kozakami Ulisside lub czółenkami na obcasie proporcje będą wyglądać idealnie."
+      },
+      {
+        "q": "Wiskozowy satyn może się mocno gnieść.",
+        "a": "Zastosowana wysokogatunkowa wiskoza z domieszką elastanu (3%) zapewnia tkaninie większą plastyczność i odporność na gniecenie w porównaniu do zwykłego satynu, zachowując przy tym nienaganny wygląd przez cały dzień."
+      },
+      {
+        "q": "Sukienka wygląda tylko na wieczorową.",
+        "a": "Dzięki długości midi i zabudowanej górze sukienkę łatwo zaadaptować do dziennej garderoby, łącząc ją z minimalistyczną odzieżą wierzchnią i obuwiem na płaskiej podeszwie."
+      },
+      {
+        "q": "Trudno dobrać akcesoria do tak wyrazistego wzoru.",
+        "a": "Zalecamy zachowanie minimalizmu lub wybór dodatków w tonacji nadruku. Czarny skórzany pasek lub złote kolczyki koła staną się idealnym zwieńczeniem, nie przeciążając stylizacji."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Анімалістичний принт здається занадто яскравим для мене.",
+        "a": "У цій моделі принт виконаний у стриманих класичних тонах (чорний і коричневий), що робить його позачасовим. У поєднанні зі строгим жакетом Scalare він створює дуже елегантний і збалансований образ."
+      },
+      {
+        "q": "Я не впевнена, що мені підійде довжина до середини ікри.",
+        "a": "Сукня має чудовий крій з акцентом на талії, що візуально витягує силует. У поєднанні з нашими чобітьми Ulisside або туфлями на підборах пропорції будуть виглядати ідеально."
+      },
+      {
+        "q": "Віскозний сатин може сильно м'ятися.",
+        "a": "Використовувана високоякісна віскоза з додаванням еластану (3%) забезпечує тканині більшу пластичність і стійкість до зминання порівняно зі звичайним сатином, зберігаючи при цьому бездоганний зовнішній вигляд протягом дня."
+      },
+      {
+        "q": "Сукня виглядає тільки як вечірня.",
+        "a": "Завдяки довжині міді та закритому верху, цю сукню легко адаптувати для денного гардеробу, поєднуючи її з лаконічним верхнім одягом та взуттям на плоскому ходу."
+      },
+      {
+        "q": "Складно підібрати аксесуари до такого активного малюнка.",
+        "a": "Ми рекомендуємо дотримуватися мінімалізму або обирати аксесуари в тон принту. Чорний шкіряний пояс або золоті сережки-кільця стануть ідеальним завершенням, не перевантажуючи образ."
+      }
+    ]
+  }
+}

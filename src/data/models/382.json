@@ -1,0 +1,191 @@
+{
+  "id": 382,
+  "name": "Zoom F",
+  "description": {
+    "en": "Data not available in official sources.",
+    "ru": "Данные отсутствуют в официальных источниках",
+    "ar": "Data not available in official sources.",
+    "ka": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+    "hy": "Տվյալները բացակայում են պաշտոնական աղբյուրներում",
+    "lv": "Dati nav pieejami oficiālajos avotos",
+    "lt": "Duomenų oficialiuose šaltiniuose nėra",
+    "pl": "Brak danych w oficjalnych źródłach",
+    "uk": "Дані відсутні в офіційних джерелах"
+  },
+  "colors": [
+    {
+      "name": "Grigio Melange",
+      "code": "0856",
+      "imageUrl": null
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Данные отсутствуют в официальных источниках",
+        "en": "Data unavailable in official sources",
+        "ar": "Data unavailable in official sources",
+        "ka": "Data unavailable in official sources",
+        "hy": "Data unavailable in official sources",
+        "lv": "Data unavailable in official sources",
+        "lt": "Data unavailable in official sources",
+        "pl": "Data unavailable in official sources",
+        "uk": "Data unavailable in official sources"
+      },
+      "items": []
+    }
+  ],
+  "advice": {
+    "en": [
+      "Data not available from official sources",
+      "Data not available from official sources",
+      "Data not available from official sources"
+    ],
+    "ru": [
+      "Данные отсутствуют в официальных источниках",
+      "Данные отсутствуют в официальных источниках",
+      "Данные отсутствуют в официальных источниках"
+    ],
+    "ar": [
+      "البيانات غير متوفرة في المصادر الرسمية",
+      "البيانات غير متوفرة في المصادر الرسمية",
+      "البيانات غير متوفرة في المصادر الرسمية"
+    ],
+    "ka": [
+      "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+      "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+      "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+    ],
+    "hy": [
+      "Տվյալները բացակայում են պաշտոնական աղբյուրներում",
+      "Տվյալները բացակայում են պաշտոնական աղբյուրներում",
+      "Տվյալները բացակայում են պաշտոնական աղբյուրներում"
+    ],
+    "lv": [
+      "Dati nav pieejami oficiālajos avotos",
+      "Dati nav pieejami oficiālajos avotos",
+      "Dati nav pieejami oficiālajos avotos"
+    ],
+    "lt": [
+      "Duomenų oficialiuose šaltiniuose nėra",
+      "Duomenų oficialiuose šaltiniuose nėra",
+      "Duomenų oficialiuose šaltiniuose nėra"
+    ],
+    "pl": [
+      "Brak danych w oficjalnych źródłach",
+      "Brak danych w oficjalnych źródłach",
+      "Brak danych w oficjalnych źródłach"
+    ],
+    "uk": [
+      "Дані відсутні в офіційних джерелах",
+      "Дані відсутні в офіційних джерелах",
+      "Дані відсутні в офіційних джерелах"
+    ]
+  },
+  "objections": {
+    "en": [],
+    "ru": [],
+    "ar": [
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      }
+    ],
+    "ka": [
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      }
+    ],
+    "hy": [],
+    "lv": [
+      {
+        "q": "oficiālos avotos",
+        "a": "oficiālos avotos"
+      },
+      {
+        "q": "oficiālos avotos",
+        "a": "oficiālos avotos"
+      },
+      {
+        "q": "oficiālos avotos",
+        "a": "oficiālos avotos"
+      },
+      {
+        "q": "oficiālos avotos",
+        "a": "oficiālos avotos"
+      },
+      {
+        "q": "oficiālos avotos",
+        "a": "oficiālos avotos"
+      }
+    ],
+    "lt": [],
+    "pl": [
+      {
+        "q": "Dane niedostępne w oficjalnych źródłach",
+        "a": "Dane niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane niedostępne w oficjalnych źródłach",
+        "a": "Dane niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane niedostępne w oficjalnych źródłach",
+        "a": "Dane niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane niedostępne w oficjalnych źródłach",
+        "a": "Dane niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane niedostępne w oficjalnych źródłach",
+        "a": "Dane niedostępne w oficjalnych źródłach"
+      }
+    ],
+    "uk": []
+  }
+}

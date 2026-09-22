@@ -1,0 +1,424 @@
+{
+  "id": 159,
+  "name": "Matri",
+  "description": {
+    "en": "An embodiment of contemporary dynamism and refined Italian style: the Matri turtleneck from the exclusive Merinfleur line. The model is masterfully crafted from a noble blend of 70% virgin wool and high-tech fibres using the \"punto stoffa\" dense knit technique. The principal decorative accent is the luxurious long fringe along the hem, which lends the look runway chic and soaring lightness with every movement. The classic high collar and long sleeves harmoniously balance the avant-garde detail, making this piece the ideal choice for creating status-defining, layered ensembles.",
+    "ru": "Воплощение современной динамики и утонченного итальянского стиля: водолазка Matri из эксклюзивной линии Merinfleur. Модель мастерски выполнена из благородного сочетания 70% девственной шерсти и высокотехнологичных волокон в технике плотной вязки «punto stoffa». Главным декоративным акцентом выступает роскошная длинная бахрома по нижнему краю, которая придает образу подиумный шик и летящую легкость при каждом движении. Классический высокий воротник и длинные рукава гармонично уравновешивают авангардную деталь, делая это изделие идеальным выбором для создания статусных многослойных ансамблей.",
+    "ar": "تجسيد للديناميكية العصرية والأسلوب الإيطالي الراقي: توب بياقة عالية Matri من خط Merinfleur الحصري. صُممت القطعة ببراعة من مزيج نبيل من 70% صوف بكر وألياف عالية التقنية بتقنية الحياكة الكثيفة «punto stoffa». يتمثل العنصر الزخرفي الرئيسي في الشرابات الطويلة الفاخرة على الحافة السفلية، والتي تضفي على الإطلالة أناقة عروض الأزياء وخفة انسيابية مع كل حركة. تتوازن الياقة العالية الكلاسيكية والأكمام الطويلة بانسجام مع التفاصيل الطليعية، مما يجعل هذه القطعة خياراً مثالياً لابتكار أطقم متعددة الطبقات فاخرة.",
+    "ka": "თანამედროვე დინამიკისა და დახვეწილი იტალიური სტილის განსხეულება: Matri-ს გოლფი Merinfleur-ის ექსკლუზიური ხაზიდან. მოდელი ოსტატურადაა შექმნილი 70% ქალწული მატყლისა და მაღალტექნოლოგიური ბოჭკოების კეთილშობილური ნაზავით, მჭიდრო „punto stoffa“-ს ქსოვის ტექნიკით. მთავარ დეკორატიულ აქცენტს წარმოადგენს ქვედა კიდეზე დატანილი მდიდრული გრძელი ფოჩები, რაც იმიჯს პოდიუმის შიკსა და მოძრაობისას ჰაეროვან სიმსუბუქეს ანიჭებს. კლასიკური მაღალი საყელო და გრძელი სახელოები ჰარმონიულად აბალანსებს ავანგარდულ დეტალს, რაც ამ ნაკეთობას იდეალურ არჩევნად აქცევს სტატუსური მრავალშრიანი ანსამბლების შესაქმნელად.",
+    "hy": "Ժամանակակից դինամիկայի և նրբագեղ իտալական ոճի մարմնացում. Matri գլխաշոր-սվիտեր՝ Merinfleur բացառիկ հավաքածուից։ Մոդելը վարպետորեն պատրաստված է 70% կուսական բրդի և բարձր տեխնոլոգիական մանրաթելերի ազնիվ համադրությունից՝ «punto stoffa» խիտ հյուսվածքի տեխնիկայով։ Գլխավոր դեկորատիվ շեշտադրումը ներքևի եզրի շքեղ երկար ծոպերն են, որոնք կերպարին հաղորդում են պոդիումային շքեղություն և թեթևություն յուրաքանչյուր շարժման մեջ։ Դասական բարձր օձիքը և երկար թևերը ներդաշնակորեն հավասարակշռում են ավանգարդ դետալը՝ դարձնելով այս իրը իդեալական ընտրություն ստատուսային բազմաշերտ անսամբլներ ստեղծելու համար։",
+    "lv": "Mūsdienu dinamikas un izsmalcināta itāļu stila iemiesojums: Matri ūdenslīdēja tipa džemperis no ekskluzīvās Merinfleur līnijas. Modelis meistarīgi izgatavots no cēla 70% jaunvilnas un augsto tehnoloģiju šķiedru sajaukuma blīvā adījuma tehnikā «punto stoffa». Galvenais dekoratīvais akcents ir grezna gara bārkstis apakšmalā, kas piešķir tēlam modes skates šiku un lidojošu vieglumu katrā kustībā. Klasiska augsta apkakle un garas piedurknes harmoniski līdzsvaro avangardisko detaļu, padarot šo izstrādājumu par ideālu izvēli statusa pilnu daudzslāņu ansambļu radīšanai.",
+    "lt": "Šiuolaikinės dinamikos ir rafinuoto itališko stiliaus įsikūnijimas: Matri golfas iš išskirtinės Merinfleur linijos. Modelis meistriškai pagamintas iš tauraus 70 % merino vilnos ir aukštųjų technologijų pluošto derinio taikant tankų „punto stoffa“ mezgimo būdą. Pagrindinis dekoratyvinis akcentas – prabangūs ilgi kutai apačioje, suteikiantys įvaizdžiui podiumo šoko ir grakštaus lengvumo kiekviename judesyje. Klasikinis aukštas kaklas ir ilgos rankovės harmoningai subalansuoja avangardinę detalę, todėl šis gaminys yra idealus pasirinkimas kuriant statusą pabrėžiančius daugiasluoksnius derinius.",
+    "pl": "Ucieleśnienie nowoczesnej dynamiki i wyrafinowanego włoskiego stylu: golf Matri z ekskluzywnej linii Merinfleur. Model został mistrzowsko wykonany ze szlachetnego połączenia 70% dziewiczej wełny i zaawansowanych technologicznie włókien techniką gęstego splotu „punto stoffa”. Głównym dekoracyjnym akcentem są luksusowe długie frędzle u dołu, które nadają stylizacji wybiegowego szyku i lekkości przy każdym ruchu. Klasyczny wysoki kołnierz i długie rękawy harmonijnie równoważą awangardowy detal, czyniąc ten model idealnym wyborem do tworzenia pełnych klasy warstwowych stylizacji.",
+    "uk": "Втілення сучасної динаміки та витонченого італійського стилю: водолазка Matri з ексклюзивної лінії Merinfleur. Модель майстерно виконана з благородного поєднання 70% незайманої вовни та високотехнологічних волокон у техніці щільної в'язки «punto stoffa». Головним декоративним акцентом виступає розкішна довга бахрома по нижньому краю, яка надає образу подіумного шику та летючої легкості при кожному русі. Класичний високий комір і довгі рукави гармонійно врівноважують авангардну деталь, роблячи цей виріб ідеальним вибором для створення статусних багатошарових ансамблів."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JtRRfdrFQUCGzR-Doj_RsQ_1104211867696f4367122472_54397497_02830660XX1.jpg"
+    },
+    {
+      "name": "Panna",
+      "code": "0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/N2VwqYU7SyiQWu_pOy8eVQ_2103273485696f43677befb5_34138714_02830670XX1.jpg"
+    },
+    {
+      "name": "Cammello",
+      "code": "2246",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%2854%29.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Runway Contrast)",
+        "ar": "Look 1 (Runway Contrast)",
+        "ka": "Look 1 (Runway Contrast)",
+        "hy": "Look 1 (Runway Contrast)",
+        "lv": "Look 1 (Runway Contrast)",
+        "lt": "Look 1 (Runway Contrast)",
+        "pl": "Look 1 (Runway Contrast)",
+        "uk": "Look 1 (Runway Contrast)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Подиумный контраст): Сочетание водолазки Matri 0101 с юбкой Marsan 0101 под пальто Scansione 0961. Ансамбль дополняют рубашка Limana 3411 и сумка Iago 2240 0002.",
+        "en": "A combination of the Matri 0101 turtleneck with the Marsan 0101 skirt under a Scansione 0961 coat. The ensemble is complemented by the Limana 3411 shirt and Iago 2240 0002 bag.",
+        "ar": "A combination of the Matri 0101 turtleneck with the Marsan 0101 skirt under a Scansione 0961 coat. The ensemble is complemented by the Limana 3411 shirt and Iago 2240 0002 bag.",
+        "ka": "A combination of the Matri 0101 turtleneck with the Marsan 0101 skirt under a Scansione 0961 coat. The ensemble is complemented by the Limana 3411 shirt and Iago 2240 0002 bag.",
+        "hy": "A combination of the Matri 0101 turtleneck with the Marsan 0101 skirt under a Scansione 0961 coat. The ensemble is complemented by the Limana 3411 shirt and Iago 2240 0002 bag.",
+        "lv": "A combination of the Matri 0101 turtleneck with the Marsan 0101 skirt under a Scansione 0961 coat. The ensemble is complemented by the Limana 3411 shirt and Iago 2240 0002 bag.",
+        "lt": "A combination of the Matri 0101 turtleneck with the Marsan 0101 skirt under a Scansione 0961 coat. The ensemble is complemented by the Limana 3411 shirt and Iago 2240 0002 bag.",
+        "pl": "A combination of the Matri 0101 turtleneck with the Marsan 0101 skirt under a Scansione 0961 coat. The ensemble is complemented by the Limana 3411 shirt and Iago 2240 0002 bag.",
+        "uk": "A combination of the Matri 0101 turtleneck with the Marsan 0101 skirt under a Scansione 0961 coat. The ensemble is complemented by the Limana 3411 shirt and Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Matri",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JtRRfdrFQUCGzR-Doj_RsQ_1104211867696f4367122472_54397497_02830660XX1.jpg"
+        },
+        {
+          "name": "Marsan",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/T00vK7FtTzWuia1sFH06HQ_831410860696f43663e72c8_80944200_02830620XX1.jpg",
+          "modelId": 154
+        },
+        {
+          "name": "Scansione",
+          "code": "0961",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg",
+          "modelId": 302
+        },
+        {
+          "name": "Limana",
+          "code": "3411",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VaDc7K9EShGWeSN0KH67ww_450519383696f4306706641_82243983_02821390XX1.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Aristocratic Monochrome)",
+        "ar": "Look 2 (Aristocratic Monochrome)",
+        "ka": "Look 2 (Aristocratic Monochrome)",
+        "hy": "Look 2 (Aristocratic Monochrome)",
+        "lv": "Look 2 (Aristocratic Monochrome)",
+        "lt": "Look 2 (Aristocratic Monochrome)",
+        "pl": "Look 2 (Aristocratic Monochrome)",
+        "uk": "Look 2 (Aristocratic Monochrome)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Аристократичный монохром): Элегантная композиция из водолазки Matri 0202, накидки Mira 0202 и юбки Marsan 0202. Образ завершает сумка Importante 0986 0002.",
+        "en": "An elegant composition featuring the Matri 0202 turtleneck, Mira 0202 cape and Marsan 0202 skirt. The look is finished with the Importante 0986 0002 bag (Data not available in official sources).",
+        "ar": "An elegant composition featuring the Matri 0202 turtleneck, Mira 0202 cape and Marsan 0202 skirt. The look is finished with the Importante 0986 0002 bag (Data not available in official sources).",
+        "ka": "An elegant composition featuring the Matri 0202 turtleneck, Mira 0202 cape and Marsan 0202 skirt. The look is finished with the Importante 0986 0002 bag (Data not available in official sources).",
+        "hy": "An elegant composition featuring the Matri 0202 turtleneck, Mira 0202 cape and Marsan 0202 skirt. The look is finished with the Importante 0986 0002 bag (Data not available in official sources).",
+        "lv": "An elegant composition featuring the Matri 0202 turtleneck, Mira 0202 cape and Marsan 0202 skirt. The look is finished with the Importante 0986 0002 bag (Data not available in official sources).",
+        "lt": "An elegant composition featuring the Matri 0202 turtleneck, Mira 0202 cape and Marsan 0202 skirt. The look is finished with the Importante 0986 0002 bag (Data not available in official sources).",
+        "pl": "An elegant composition featuring the Matri 0202 turtleneck, Mira 0202 cape and Marsan 0202 skirt. The look is finished with the Importante 0986 0002 bag (Data not available in official sources).",
+        "uk": "An elegant composition featuring the Matri 0202 turtleneck, Mira 0202 cape and Marsan 0202 skirt. The look is finished with the Importante 0986 0002 bag (Data not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Matri",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/N2VwqYU7SyiQWu_pOy8eVQ_2103273485696f43677befb5_34138714_02830670XX1.jpg"
+        },
+        {
+          "name": "Mira",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A9uRxdXcRpiCkjgx3Y2pSw_1598015888696f43785c9df9_64067927_02831250XX1.jpg",
+          "modelId": 178
+        },
+        {
+          "name": "Marsan",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/hx3WK9DDSqCfJ-7vSg3gxA_2065746112696f4366a2fa89_92262596_02830630XX1.jpg",
+          "modelId": 154
+        },
+        {
+          "name": "Importante",
+          "code": "0986 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 3 (Urban Luxe)",
+        "ar": "Look 3 (Urban Luxe)",
+        "ka": "Look 3 (Urban Luxe)",
+        "hy": "Look 3 (Urban Luxe)",
+        "lv": "Look 3 (Urban Luxe)",
+        "lt": "Look 3 (Urban Luxe)",
+        "pl": "Look 3 (Urban Luxe)",
+        "uk": "Look 3 (Urban Luxe)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 3 (Городской люкс): Водолазка Matri 0101 в сочетании с юбкой Marsan 0101 и сумкой Idilliaco A 0101 0002.",
+        "en": "Matri 0101 turtleneck combined with the Marsan 0101 skirt and Idilliaco A 0101 0002 bag.",
+        "ar": "Matri 0101 turtleneck combined with the Marsan 0101 skirt and Idilliaco A 0101 0002 bag.",
+        "ka": "Matri 0101 turtleneck combined with the Marsan 0101 skirt and Idilliaco A 0101 0002 bag.",
+        "hy": "Matri 0101 turtleneck combined with the Marsan 0101 skirt and Idilliaco A 0101 0002 bag.",
+        "lv": "Matri 0101 turtleneck combined with the Marsan 0101 skirt and Idilliaco A 0101 0002 bag.",
+        "lt": "Matri 0101 turtleneck combined with the Marsan 0101 skirt and Idilliaco A 0101 0002 bag.",
+        "pl": "Matri 0101 turtleneck combined with the Marsan 0101 skirt and Idilliaco A 0101 0002 bag.",
+        "uk": "Matri 0101 turtleneck combined with the Marsan 0101 skirt and Idilliaco A 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Matri",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JtRRfdrFQUCGzR-Doj_RsQ_1104211867696f4367122472_54397497_02830660XX1.jpg"
+        },
+        {
+          "name": "Marsan",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/T00vK7FtTzWuia1sFH06HQ_831410860696f43663e72c8_80944200_02830620XX1.jpg",
+          "modelId": 154
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_10100020000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Highlight the exceptional composition: a high content of virgin wool (70%) guarantees outstanding softness and comfortable thermal regulation.",
+      "Present the fringe as a high-fashion element: this ready-made styling statement turns the knitwear piece into the architectural focal point of the outfit.",
+      "Recommend Maurilia as the ideal investment for a layered wardrobe: thanks to its relaxed cut, the cardigan drapes beautifully over our signature dresses and blouses without restricting movement."
+    ],
+    "ru": [
+      "Сделайте акцент на уникальной детали — бахроме: это готовое стилистическое решение, которое превращает базовую водолазку в центральный элемент образа, не требующий дополнительных украшений.",
+      "Продемонстрируйте преимущества техники «punto stoffa» — это высокотехнологичное трикотажное полотно обладает моделирующим эффектом и безупречно сохраняет форму даже при наличии подвижных элементов декора.",
+      "Рекомендуйте Matri для создания эффектных многослойных сетов: благодаря своей фактуре она идеально ложится под объемные кейпы (как Mira) или структурированные пальто коллекции, добавляя образу динамики."
+    ],
+    "ar": [
+      "ضعي تركيزاً على تفصيلة فريدة وهي الشراشيب: فبمثابة حل تنسيقي جاهز، تحول هذه اللمسة الياقة الأساسية (التي تلتف حول الرقبة) إلى قطعة مركزية في الإطلالة لا تتطلب أي زينة إضافية.",
+      "استعرضي مزايا تقنية \"punto stoffa\"، وهي نسيج تريكو عالي التقنية يتمتع بتأثير نحت للقوام ويحافظ على شكله المثالي حتى مع وجود عناصر ديكور متحركة.",
+      "رشيحي Matri لابتكار مجموعات طبقات جذابة، فبفضل قوامها، توضع بشكل مثالي تحت المعاطف الضخمة (مثل Mira) أو المعاطف ذات الهيكل المهيكل من المجموعة، مما يضفي ديناميكية على الإطلالة."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება უნიკალურ დეტალზე — ფოჩებზე: ეს არის მზა სტილისტური გადაწყვეტა, რომელიც საბაზისო კუსფეხა სვიტერს გარდაქმნის ლუქის ცენტრალურ ელემენტად, რომელიც არ საჭიროებს დამატებით აქსესუარებს.",
+      "წარმოაჩინეთ „punto stoffa“-ს ტექნიკის უპირატესობები — ეს მაღალტექნოლოგიური ნაქსოვი ქსოვილი ფლობს მოდელირების ეფექტს და უნაკლოდ ინარჩუნებს ფორმას მოძრავი დეკორატიული ელემენტების არსებობის შემთხვევაშიც კი.",
+      "რეკომენდაცია გაუწიეთ Matri-ს ეფექტური მრავალშრიანი სეტების შესაქმნელად: მისი ფაქტურის წყალობით, იგი იდეალურად ჯდება მოცულობითი კეიპების (როგორც Mira) ან კოლექციის სტრუქტურირებული პალტოების ქვეშ, რაც ლუქს დინამიკურობას მატებს."
+    ],
+    "hy": [
+      "Շեշտը դրեք եզակի դետալի՝ ծոպերի վրա. սա պատրաստի ոճային լուծում է, որը հիմնական գոլֆը դարձնում է կերպարի գլխավոր տարրը, որը լրացուցիչ զարդերի կարիք չունի։",
+      "Ցուցադրեք «punto stoffa» տեխնիկայի առավելությունները. այս բարձր տեխնոլոգիական տրիկոտաժե կտորն ունի մոդելավորող էֆեկտ և անթերի պահպանում է ձևը նույնիսկ շարժական դեկորատիվ տարրերի առկայության դեպքում։",
+      "Matri-ն առաջարկեք էֆեկտիվ բազմաշերտ հավաքածուներ ստեղծելու համար. իր հյուսվածքի շնորհիվ այն իդեալականորեն նստում է ծավալուն թիկնոցների (ինչպես Mira) կամ հավաքածուի կառուցվածքային վերարկուների տակ՝ կերպարին հաղորդելով դինամիկա։"
+    ],
+    "lv": [
+      "Vērsiet uzmanību uz unikālo detaļu — bārkstīm: tas ir gatavs stilistisks risinājums, kas pārvērš vienkāršu bītleni par tēla centrālo elementu, kuram nav nepieciešami papildu rotājumi.",
+      "Demonstrējiet «punto stoffa» tehnikas priekšrocības — šī augsto tehnoloģiju trikotāžas auduma tekstūra nodrošina modelējošu efektu un nevainojami saglabā formu pat ar kustīgiem dekora elementiem.",
+      "Iesakiet Matri efektīvu daudzslāņu komplektu radīšanai: pateicoties savai faktūrai, tas lieliski iederas zem apjomīgiem apmetņiem (kā Mira) vai kolekcijas strukturētajiem mēteļiem, piešķirot tēlam dinamiku."
+    ],
+    "lt": [
+      "Сделайте акцент на уникальной детали — бахроме: это готовое стилистическое решение, которое превращает базовую водолазку в центральный элемент образа, не требующий дополнительных украшений.",
+      "Продемонстрируйте преимущества техники «punto stoffa» — это высокотехнологичное трикотажное полотно обладает моделирующим эффектом и безупречно сохраняет форму даже при наличии подвижных элементов декора.",
+      "Рекомендуйте Matri для создания эффектных многослойных сетов: благодаря своей фактуре она идеально ложится под объемные кейпы (как Mira) или структурированные пальто коллекции, добавляя образу динамики."
+    ],
+    "pl": [
+      "Połóż akcent na unikalny detal — frędzle: to gotowe rozwiązanie stylistyczne, które zamienia bazowy golf w centralny element stylizacji, nie wymagający dodatkowej biżuterii.",
+      "Zaprezentuj zalety techniki „punto stoffa” — ta zaawansowana technologicznie dzianina posiada efekt modelujący i bezbłędnie zachowuje formę nawet przy obecności ruchomych elementów dekoracyjnych.",
+      "Rekomenduj Matri do tworzenia efektownych, warstwowych zestawów: dzięki swojej fakturze idealnie układa się pod obszernymi pelerynami (jak Mira) czy strukturalnymi płaszczami z kolekcji, dodając stylizacji dynamiki."
+    ],
+    "uk": [
+      "Зробіть акцент на унікальній деталі — бахромі: це готове стилістичне рішення, яке перетворює базову водолазку на центральний елемент образу, що не потребує додаткових прикрас.",
+      "Продемонструйте переваги техніки «punto stoffa» — це високотехнологічне трикотажне полотно має моделюючий ефект і бездоганно зберігає форму навіть за наявності рухливих елементів декору.",
+      "Рекомендуйте Matri для створення ефектних багатошарових сетів: завдяки своїй фактурі вона ідеально лягає під об'ємні кейпи (як Mira) або структуровані пальта колекції, додаючи образу динаміки."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Fringe may look too informal.",
+        "a": "On the Matri piece, the fringe is crafted from a noble wool yarn matched to the garment, transforming it from a boho-style element into a high-fashion detail, entirely fitting for an evening or statement daytime wardrobe."
+      },
+      {
+        "q": "Wool may cause skin irritation.",
+        "a": "For the Merinfleur line, we use only the most delicate, highly refined virgin wool (Lana Vergine). It is hypoallergenic and has a silky texture comparable in softness to cashmere."
+      },
+      {
+        "q": "The composition includes acrylic (30%).",
+        "a": "The addition of premium-quality acrylic is essential to achieving the dense-knit technique and ensuring the stability of the fringe. This guarantees the piece will not deform or lose its lustre, even with professional care."
+      },
+      {
+        "q": "I'm concerned the fringe may tangle or lose its appearance.",
+        "a": "The fringe on Luisa Spagnoli pieces is crafted to couture standards with a reinforced base. We recommend professional dry cleaning, which preserves the crisp definition of every strand."
+      },
+      {
+        "q": "How should this piece be styled with such a striking hemline?",
+        "a": "Our stylists recommend pairing it with understated straight-cut skirts (such as Marsan) or classic trousers, allowing the fringe to serve as the silhouette's principal architectural accent."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Бахрома может выглядеть слишком неформально.",
+        "a": "В модели Matri бахрома выполнена из благородной шерстяной пряжи в тон изделия, что превращает её из элемента бохо-стиля в деталь высокой моды, вполне уместную в вечернем или статусном дневном гардеробе."
+      },
+      {
+        "q": "Шерсть может вызывать раздражение кожи.",
+        "a": "Для линии Merinfleur мы используем только самую нежную девственную шерсть (Lana Vergine) высочайшей очистки. Она гипоаллергенна и обладает шелковистой текстурой, сравнимой по мягкости с кашемиром."
+      },
+      {
+        "q": "В составе присутствует акрил (30%).",
+        "a": "Добавление высококачественного акрила необходимо для реализации техники плотной вязки и обеспечения стабильности бахромы. Это гарантирует, что изделие не деформируется и не потеряет свой лоск после профессионального ухода."
+      },
+      {
+        "q": "Я боюсь, что бахрома запутается или потеряет вид.",
+        "a": "Бахрома в изделиях Luisa Spagnoli выполнена по кутюрным стандартам с укрепленным основанием. Мы рекомендуем профессиональную сухую чистку, которая сохранит первозданную четкость каждой нити."
+      },
+      {
+        "q": "Как стилизовать модель с таким активным низом?",
+        "a": "Наши стилисты рекомендуют сочетать её с лаконичными юбками прямого кроя (например, Marsan) или классическими брюками, чтобы бахрома выступала главным архитектурным акцентом силуэта."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تبدو الشراشيب غير رسمية بشكل مفرط.",
+        "a": "في تصميم Matri، صُنعت الشراشيب من خيوط صوفية فاخرة بنفس لون القطعة، مما يحولها من عنصر بوهيمي إلى تفصيلة من عناصر الموضة الراقية، والتي تضفي لمسة مناسبة تماماً لخزانة ملابسك المسائية أو لإطلالة النهار المرموقة."
+      },
+      {
+        "q": "قد يسبب الصوف تهيجاً للبشرة.",
+        "a": "نستخدم في خط Merinfleur أجود أنواع الصوف البكر (Lana Vergine) عالي النقاء فقط. فهو مضاد للحساسية ويمتاز بملمس حريري يضاهي نعومة الكشمير."
+      },
+      {
+        "q": "يحتوي التركيب على أكريليك (30%).",
+        "a": "إضافة الأكريليك عالي الجودة ضرورية لتنفيذ تقنية الحياكة الكثيفة وضمان ثبات الشراشيب. وهذا يضمن عدم تعرض القطعة للتشوه أو فقدان بريقها بعد العناية المهنية."
+      },
+      {
+        "q": "أخشى أن تتشابك الشراشيب أو تفقد مظهرها.",
+        "a": "صُممت الشراشيب في قطع Luisa Spagnoli وفقاً لمعايير الكوتور مع قاعدة مدعمة. نوصي بالتنظيف الجاف الاحترافي، الذي يحافظ على دقة وتناسق كل خيط من خيوطها."
+      },
+      {
+        "q": "كيف يمكن تنسيق موديل بهذا النوع من التصاميم في الأسفل؟",
+        "a": "ينصح خبراؤنا بتنسيقها مع تنانير ذات قصة مستقيمة وبسيطة (مثل Marsan) أو سراويل كلاسيكية، لتكون الشراشيب هي العنصر المعماري البارز في الصورة الظلية للزي."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ფოჩები შესაძლოა ზედმეტად არაფორმალურად გამოიყურებოდეს.",
+        "a": "Matri-ის მოდელში ფოჩები დამზადებულია კეთილშობილი შალის ძაფისგან, ნაკეთობის ტონალობაში, რაც მას ბოჰოს სტილის ელემენტიდან მაღალი მოდის დეტალად აქცევს, რომელიც სავსებით შეეფერება საღამოს ან სტატუსურ დღის გარდერობს."
+      },
+      {
+        "q": "შალმა შესაძლოა კანის გაღიზიანება გამოიწვიოს.",
+        "a": "Merinfleur-ის ხაზისთვის ჩვენ ვიყენებთ მხოლოდ ყველაზე ნაზ, უმაღლესი ხარისხის პირველად შალს (Lana Vergine). იგი ჰიპოალერგიულია და აქვს აბრეშუმისებრი ტექსტურა, რომელიც თავისი სირბილით ქაშმირს უტოლდება."
+      },
+      {
+        "q": "შემადგენლობაში არის აკრილი (30%).",
+        "a": "მაღალი ხარისხის აკრილის დამატება აუცილებელია მჭიდრო ქსოვის ტექნიკის განსახორციელებლად და ფოჩების სიმყარის უზრუნველსაყოფად. ეს გარანტიას იძლევა, რომ ნაკეთობა არ დეფორმირდება და არ დაკარგავს თავის ბრწყინვალებას პროფესიონალური მოვლის შემდეგ."
+      },
+      {
+        "q": "მეშინია, რომ ფოჩები აიხლართება ან დაკარგავს იერს.",
+        "a": "Luisa Spagnoli-ის ნაკეთობებში ფოჩები შესრულებულია კუტიურის სტანდარტების მიხედვით, გამაგრებული ფუძით. ჩვენ რეკომენდაციას ვუწევთ პროფესიონალურ წმენდას, რომელიც შეინარჩუნებს თითოეული ძაფის პირველად სიცხადეს."
+      },
+      {
+        "q": "როგორ მოვახდინოთ ასეთი აქტიური ქვედა ნაწილის მქონე მოდელის სტილიზება?",
+        "a": "ჩვენი სტილისტები გვირჩევენ მის შეხამებას ლაკონიურ, სწორი ჭრის ქვედაბოლოებთან (მაგალითად, Marsan) ან კლასიკურ შარვლებთან, რათა ფოჩები სილუეტის მთავარ არქიტექტურულ აქცენტად დარჩეს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ծոպերը կարող են չափազանց ոչ ֆորմալ տեսք ունենալ։",
+        "a": "Matri մոդելում ծոպերը պատրաստված են արտադրանքի երանգին համահունչ ազնիվ բրդյա թելերից, ինչը դրանք բոհո-ոճի տարրից վերածում է բարձր նորաձևության դետալի, որը միանգամայն տեղին է երեկոյան կամ կարգավիճակային ցերեկային զգեստապահարանում։"
+      },
+      {
+        "q": "Բուրդը կարող է մաշկի գրգռում առաջացնել։",
+        "a": "Merinfleur գծի համար մենք օգտագործում ենք միայն ամենանուրբ կուսական բուրդ (Lana Vergine)՝ ամենաբարձր մաքրությամբ։ Այն հիպոալերգեն է և ունի մետաքսանման հյուսվածք, որի փափկությունը համեմատելի է քաշմիրի հետ։"
+      },
+      {
+        "q": "Կազմի մեջ առկա է ակրիլ (30%)։",
+        "a": "Բարձրորակ ակրիլի ավելացումն անհրաժեշտ է խիտ հյուսման տեխնիկան իրականացնելու և ծոպերի կայունությունն ապահովելու համար։ Սա երաշխավորում է, որ արտադրանքը չի դեֆորմացվի և չի կորցնի իր փայլը պրոֆեսիոնալ խնամքից հետո։"
+      },
+      {
+        "q": "Ես վախենում եմ, որ ծոպերը կխճճվեն կամ կկորցնեն տեսքը։",
+        "a": "Luisa Spagnoli-ի արտադրանքներում ծոպերը պատրաստված են կուտյուրային ստանդարտներով՝ ամրացված հիմքով։ Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ քիմմաքրում, որը կպահպանի յուրաքանչյուր թելի սկզբնական հստակությունը։"
+      },
+      {
+        "q": "Ինչպե՞ս ոճավորել նման ակտիվ ստորին մաս ունեցող մոդելը։",
+        "a": "Մեր ոճաբանները խորհուրդ են տալիս այն համադրել ուղիղ կտրվածքի լակոնիկ կիսաշրջազգեստների (օրինակ՝ Marsan) կամ դասական տաբատների հետ, որպեսզի ծոպերը հանդես գան որպես սիլուետի գլխավոր ճարտարապետական շեշտադրում։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Bārkstis var izskatīties pārāk neformāli.",
+        "a": "Modelī Matri bārkstis ir izgatavotas no cēlas vilnas dzijas izstrādājuma tonī, kas tās pārvērš no boho stila elementa par augstās modes detaļu, kas ir pilnībā piemērota vakara vai statusam atbilstošai dienas garderobei."
+      },
+      {
+        "q": "Vilna var izraisīt ādas kairinājumu.",
+        "a": "Merinfleur līnijai mēs izmantojam tikai vismaigāko jaunvilnu (Lana Vergine) ar visaugstāko attīrīšanas pakāpi. Tā ir hipoalerģiska un tai ir zīdaina tekstūra, kas savā maigumā līdzinās kašmiram."
+      },
+      {
+        "q": "Sastāvā ir akrils (30%).",
+        "a": "Augstas kvalitātes akrila pievienošana ir nepieciešama, lai realizētu blīvās adīšanas tehniku un nodrošinātu bārkstu stabilitāti. Tas garantē, ka izstrādājums pēc profesionālas kopšanas nedeformēsies un nezaudēs savu spožumu."
+      },
+      {
+        "q": "Es baidos, ka bārkstis sapīsies vai zaudēs savu izskatu.",
+        "a": "Bārkstis Luisa Spagnoli izstrādājumos ir veidotas pēc kutūras standartiem ar nostiprinātu pamatni. Mēs iesakām profesionālo ķīmisko tīrīšanu, kas saglabās katra diega sākotnējo skaidrību."
+      },
+      {
+        "q": "Kā stilizēt modeli ar tik aktīvu apakšdaļu?",
+        "a": "Mūsu stilisti iesaka to kombinēt ar lakoniskām taisna piegriezuma svārkiem (piemēram, Marsan) vai klasiskām biksēm, lai bārkstis kalpotu par galveno silueta arhitektonisko akcentu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Kutas gali atrodyti per daug neformaliai.",
+        "a": "Matri modelyje kutai sukurti iš taurios vilnonių siūlų gijos, derančios prie gaminio spalvos, o tai paverčia juos iš boho stiliaus elemento į aukštosios mados detalę, visiškai tinkančią vakariniam ar reprezentatyviam dieniniam garderobui."
+      },
+      {
+        "q": "Vilna gali dirginti odą.",
+        "a": "Merinfleur linijai naudojame tik švelniausią aukščiausio grynumo pirminę vilną (Lana Vergine). Ji yra hipoalerginė ir pasižymi šilkine tekstūra, savo minkštumu prilygstama kašmyrui."
+      },
+      {
+        "q": "Sudėtyje yra akrilo (30%).",
+        "a": "Aukštos kokybės akrilo pridėjimas yra būtinas norint įgyvendinti tankaus mezgimo techniką ir užtikrinti kutų stabilumą. Tai garantuoja, kad gaminys neišsikraipys ir nepraras savo žvilgesio po profesionalios priežiūros."
+      },
+      {
+        "q": "Baiminuosi, kad kutai susivels arba praras išvaizdą.",
+        "a": "Luisa Spagnoli gaminiuose esantys kutai pagaminti pagal aukštosios mados standartus su sutvirtintu pagrindu. Rekomenduojame profesionalų sausą valymą, kuris išsaugos kiekvieno siūlo pirminį tikslumą."
+      },
+      {
+        "q": "Kaip stilizuoti modelį su tokia aktyvia apatine dalimi?",
+        "a": "Mūsų stilistai rekomenduoja derinti jį su lakoniškais tiesaus kirpimo sijonais (pavyzdžiui, Marsan) arba klasikinėmis kelnėmis, kad kutai taptų pagrindiniu architektūriniu silueto akcentu."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Frędzle mogą wyglądać zbyt nieformalnie.",
+        "a": "W modelu Matri frędzle wykonane są ze szlachetnej wełnianej przędzy w tonacji wyrobu, co zmienia je z elementu stylu boho w detal haute couture, w pełni odpowiedni do wieczorowej lub prestiżowej garderoby dziennej."
+      },
+      {
+        "q": "Wełna może powodować podrażnienie skóry.",
+        "a": "Dla linii Merinfleur używamy wyłącznie najdelikatniejszej dziewiczej wełny (Lana Vergine) najwyższego oczyszczenia. Jest ona hipoalergiczna i posiada jedwabistą teksturę, porównywalną pod względem miękkości z kaszmirem."
+      },
+      {
+        "q": "W składzie obecny jest akryl (30%).",
+        "a": "Dodatek wysokiej jakości akrylu jest niezbędny do realizacji techniki gęstego splotu i zapewnienia stabilności frędzli. Gwarantuje to, że wyrób nie odkształci się i nie straci swojego blasku po profesjonalnej pielęgnacji."
+      },
+      {
+        "q": "Obawiam się, że frędzle zaplączą się lub stracą wygląd.",
+        "a": "Frędzle w wyrobach Luisa Spagnoli wykonane są zgodnie ze standardami couture z wzmocnioną podstawą. Zalecamy profesjonalne czyszczenie chemiczne, które zachowa pierwotną wyrazistość każdej nitki."
+      },
+      {
+        "q": "Jak stylizować model z tak aktywnym dołem?",
+        "a": "Nasi styliści zalecają łączenie go z lakonicznymi spódnicami o prostym kroju (na przykład Marsan) lub klasycznymi spodniami, aby frędzle stanowiły główny architektoniczny akcent sylwetki."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Бахрома може виглядати надто неформально.",
+        "a": "У моделі Matri бахрома виконана з благородної вовняної пряжі в тон виробу, що перетворює її з елемента бохо-стилю на деталь високої моди, цілком доречну у вечірньому або статусному денному гардеробі."
+      },
+      {
+        "q": "Вовна може викликати подразнення шкіри.",
+        "a": "Для лінії Merinfleur ми використовуємо лише найніжнішу дівочу вовну (Lana Vergine) найвищої очистки. Вона гіпоалергенна і має шовковисту текстуру, порівнянну за м'якістю з кашеміром."
+      },
+      {
+        "q": "У складі присутній акрил (30%).",
+        "a": "Додавання високоякісного акрилу необхідне для реалізації техніки щільної в'язки та забезпечення стабільності бахроми. Це гарантує, що виріб не деформується і не втратить свій лиск після професійного догляду."
+      },
+      {
+        "q": "Я боюся, що бахрома заплутається або втратить вигляд.",
+        "a": "Бахрома у виробах Luisa Spagnoli виконана за кутюрними стандартами з укріпленою основою. Ми рекомендуємо професійну суху чистку, яка збереже первозданну чіткість кожної нитки."
+      },
+      {
+        "q": "Як стилізувати модель з таким активним низом?",
+        "a": "Наші стилісти рекомендують поєднувати її з лаконічними спідницями прямого крою (наприклад, Marsan) або класичними брюками, щоб бахрома виступала головним архітектурним акцентом силуету."
+      }
+    ]
+  }
+}

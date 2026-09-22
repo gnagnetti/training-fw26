@@ -1,0 +1,395 @@
+{
+  "id": 315,
+  "name": "Serieta",
+  "description": {
+    "en": "The double-breasted Serieta blazer by Luisa Spagnoli is the quintessence of neoclassical style and flawless Italian taste. Crafted from high-quality wool fabric in an exquisite check pattern in a noble beige-and-hazelnut palette. The architectural cut is accentuated by rounded peaked lapels (revers a lancia arrotondati) and functional flap pockets, lending the look structure and aristocratic chic. Side vents at the back ensure a perfect Regular fit and freedom of movement. Fabric composition: 59% wool, 29% polyester, 9% polyamide, 3% other fibers.",
+    "ru": "Двубортный блейзер Serieta от Luisa Spagnoli — это квинтэссенция неоклассического стиля и безупречного итальянского вкуса. Модель выполнена из высококачественной шерстяной ткани с изысканным клетчатым узором в благородной бежево-ореховой гамме. Архитектурный крой подчеркнут закругленными пикообразными лацканами (revers a lancia arrotondati) и функциональными карманами с клапанами, которые придают образу структурированность и аристократичный шик. Боковые разрезы на спинке обеспечивают идеальную посадку regular fit и свободу движений. Состав ткани: 59% шерсть, 29% полиэстер, 9% полиамид, 3% другие волокна.",
+    "ar": "يعد البليزر مزدوج الصدر Serieta من Luisa Spagnoli جوهر الأسلوب الكلاسيكي الجديد والذوق الإيطالي الرفيع. الموديل مصنوع من قماش صوفي عالي الجودة بنقشة مربعات راقية بدرجات اللون البيجي الجوزي النبيل. تم إبراز القصّة المعمارية بياقات مائلة مستديرة (revers a lancia arrotondati) وجيوب وظيفية ذات أغطية تضفي على الإطلالة هيكلية وأناقة أرستقراطية. تضمن الفتحات الجانبية على الظهر ملاءمة مثالية (regular fit) وحرية الحركة. تركيب القماش: 59% صوف، 29% بوليستر، 9% بولياميد، 3% ألياف أخرى.",
+    "ka": "ორბორტიანი ბლეიზერი Serieta Luisa Spagnoli-სგან — ეს არის ნეოკლასიკური სტილისა და უნაკლო იტალიური გემოვნების კვინტესენცია. მოდელი დამზადებულია მაღალი ხარისხის შალის ქსოვილისგან, დახვეწილი კუბოკრული უზორებით კეთილშობილურ კრემისფერ-თხილისფერ გამაში. არქიტექტურული ჭრა ხაზგასმულია მომრგვალებული პიკისებრი ლაცკანებით (revers a lancia arrotondati) და ფუნქციური ჯიბეებით კლაპნებით, რომლებიც იერსახეს სტრუქტურირებულობასა და არისტოკრატიულ შიკს ანიჭებს. გვერდითა ჭრილები ზურგზე უზრუნველყოფს იდეალურ regular fit მორგებასა და მოძრაობის თავისუფლებას. ქსოვილის შემადგენლობა: 59% მატყლი, 29% პოლიესტერი, 9% პოლიამიდი, 3% სხვა ბოჭკოები.",
+    "hy": "Luisa Spagnoli-ի Serieta երկկողմանի բլեյզերը նեոդասական ոճի և անթերի իտալական ճաշակի քվինտեսենցիան է: Մոդելը պատրաստված է բարձրորակ բրդյա գործվածքից՝ վանդակավոր նախշով՝ բեժ-ընկուզագույն ազնիվ գամմայով: Ճարտարապետական ձևվածքն ընդգծված է կլորացված սրածայր օձիքներով (revers a lancia arrotondati) և փականներով ֆունկցիոնալ գրպաններով, որոնք կերպարին հաղորդում են կառուցվածքայնություն և արիստոկրատական շքեղություն: Մեջքի հատվածի կողային բացվածքներն ապահովում են regular fit կատարյալ նստվածք և շարժման ազատություն: Գործվածքի կազմը՝ 59% բուրդ, 29% պոլիեսթեր, 9% պոլիամիդ, 3% այլ մանրաթելեր:",
+    "lv": "Luisa Spagnoli divrindu bleizers Serieta ir neoklasicisma stila un nevainojamas itāļu gaumes esence. Modelis ir izgatavots no augstas kvalitātes vilnas auduma ar izsmalcinātu rūtainu rakstu cēlā bēšīgi riekstkrāsas gammā. Arhitektonisko piegriezumu uzsver noapaļoti smaili atlokai (revers a lancia arrotondati) un funkcionālas kabatas ar pārlokiem, kas tēlam piešķir strukturētību un aristokrātisku šiku. Sānu šķēlumi aizmugurē nodrošina ideālu regular fit piegulumu un kustību brīvību. Auduma sastāvs: 59% vilna, 29% poliesters, 9% poliamīds, 3% citas šķiedras.",
+    "lt": "Dvieilis Serieta švarkas iš Luisa Spagnoli – tai neoklasikinio stiliaus ir nepriekaištingo itališko skonio esencija. Modelis pasiūtas iš aukščiausios kokybės vilnonio audinio su rafinuotu languotu raštu kilnioje smėlio ir riešuto spalvų gamoje. Architektūrinį kirpimą pabrėžia suapvalinti smailėjantys atlapai (revers a lancia arrotondati) ir funkcionalios kišenės su atvartais, suteikiančios įvaizdžiui struktūriškumo ir aristokratiško šiko. Šoniniai skeltukai nugarinėje dalyje užtikrina idealų regular fit prigludimą ir judesių laisvę. Audinio sudėtis: 59% vilna, 29% poliesteris, 9% poliamidas, 3% kiti pluoštai.",
+    "pl": "Dwurzędowy blazer Serieta od Luisa Spagnoli to kwintesencja neoklasycznego stylu i nieskazitelnego włoskiego smaku. Model wykonano z wysokiej jakości wełnianej tkaniny z wykwintnym wzorem w kratę w szlachetnej, beżowo-orzechowej gamie. Architektoniczny krój podkreślono zaokrąglonymi, szpiczastymi klapami (revers a lancia arrotondati) oraz funkcjonalnymi kieszeniami z patkami, które nadają stylizacji strukturalności i arystokratycznego szyku. Boczne rozcięcia z tyłu zapewniają idealne dopasowanie regular fit oraz swobodę ruchów. Skład tkaniny: 59% wełna, 29% poliester, 9% poliamid, 3% inne włókna.",
+    "uk": "Двобортний блейзер Serieta від Luisa Spagnoli — це квінтесенція неокласичного стилю та бездоганного італійського смаку. Модель виконана з високоякісної вовняної тканини з вишуканим картатим візерунком у благородній бежево-горіховій гамі. Архітектурний крій підкреслений заокругленими пікоподібними лацканами (revers a lancia arrotondati) та функціональними кишенями з клапанами, які надають образу структурованості й аристократичного шику. Бічні розрізи на спинці забезпечують ідеальну посадку regular fit і свободу рухів. Склад тканини: 59% вовна, 29% поліестер, 9% поліамід, 3% інші волокна."
+  },
+  "colors": [
+    {
+      "name": "Var Beige Nocciola",
+      "code": "3274",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/PqG9-FYmSSKd6ktSwYBrtw_1218135521696f42f58904d5_23806936_02820980XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Образ 'Power Suit' (Look 140)",
+        "en": "'Power Suit' look (Look 140)",
+        "ar": "'Power Suit' look (Look 140)",
+        "ka": "'Power Suit' look (Look 140)",
+        "hy": "'Power Suit' look (Look 140)",
+        "lv": "'Power Suit' look (Look 140)",
+        "lt": "'Power Suit' look (Look 140)",
+        "pl": "'Power Suit' look (Look 140)",
+        "uk": "'Power Suit' look (Look 140)"
+      },
+      "text": {
+        "ru": "Блейзер Serieta 3274 в сочетании с подходящими по фактуре брюками Odrisi 3274 и кашемировым пуловером Manos F 2246. Акцент — сумка Iago 2240 0002.",
+        "en": "Serieta 3274 blazer combined with matching textured Odrisi 3274 trousers and a cashmere Manos F 2246 pullover. Accent — Iago 2240 0002 bag.",
+        "ar": "Serieta 3274 blazer combined with matching textured Odrisi 3274 trousers and a cashmere Manos F 2246 pullover. Accent — Iago 2240 0002 bag.",
+        "ka": "Serieta 3274 blazer combined with matching textured Odrisi 3274 trousers and a cashmere Manos F 2246 pullover. Accent — Iago 2240 0002 bag.",
+        "hy": "Serieta 3274 blazer combined with matching textured Odrisi 3274 trousers and a cashmere Manos F 2246 pullover. Accent — Iago 2240 0002 bag.",
+        "lv": "Serieta 3274 blazer combined with matching textured Odrisi 3274 trousers and a cashmere Manos F 2246 pullover. Accent — Iago 2240 0002 bag.",
+        "lt": "Serieta 3274 blazer combined with matching textured Odrisi 3274 trousers and a cashmere Manos F 2246 pullover. Accent — Iago 2240 0002 bag.",
+        "pl": "Serieta 3274 blazer combined with matching textured Odrisi 3274 trousers and a cashmere Manos F 2246 pullover. Accent — Iago 2240 0002 bag.",
+        "uk": "Serieta 3274 blazer combined with matching textured Odrisi 3274 trousers and a cashmere Manos F 2246 pullover. Accent — Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Serieta",
+          "code": "3274",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/PqG9-FYmSSKd6ktSwYBrtw_1218135521696f42f58904d5_23806936_02820980XX1.jpg"
+        },
+        {
+          "name": "Odrisi",
+          "code": "3274",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VOlpN15mQ7-Gfc5_RcvCtQ_552888534696f42e48d4647_09441657_02820600XX1.jpg",
+          "modelId": 241
+        },
+        {
+          "name": "Manos F",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/62874749691c57928c68a3_59975180_02790240XX1.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 'Contemporary Preppy' (Look 156)",
+        "en": "'Contemporary Preppy' look (Look 156)",
+        "ar": "'Contemporary Preppy' look (Look 156)",
+        "ka": "'Contemporary Preppy' look (Look 156)",
+        "hy": "'Contemporary Preppy' look (Look 156)",
+        "lv": "'Contemporary Preppy' look (Look 156)",
+        "lt": "'Contemporary Preppy' look (Look 156)",
+        "pl": "'Contemporary Preppy' look (Look 156)",
+        "uk": "'Contemporary Preppy' look (Look 156)"
+      },
+      "text": {
+        "ru": "Блейзер Serieta 3274 поверх белой рубашки Lucinda 0201 (URL) в ансамбле с юбкой Fatalita 3274 (URL).",
+        "en": "Serieta 3274 blazer over a white Lucinda 0201 shirt (Data missing in official sources for URL) in an ensemble with the Fatalita 3274 skirt (Data missing in official sources for URL).",
+        "ar": "Serieta 3274 blazer over a white Lucinda 0201 shirt (Data missing in official sources for URL) in an ensemble with the Fatalita 3274 skirt (Data missing in official sources for URL).",
+        "ka": "Serieta 3274 blazer over a white Lucinda 0201 shirt (Data missing in official sources for URL) in an ensemble with the Fatalita 3274 skirt (Data missing in official sources for URL).",
+        "hy": "Serieta 3274 blazer over a white Lucinda 0201 shirt (Data missing in official sources for URL) in an ensemble with the Fatalita 3274 skirt (Data missing in official sources for URL).",
+        "lv": "Serieta 3274 blazer over a white Lucinda 0201 shirt (Data missing in official sources for URL) in an ensemble with the Fatalita 3274 skirt (Data missing in official sources for URL).",
+        "lt": "Serieta 3274 blazer over a white Lucinda 0201 shirt (Data missing in official sources for URL) in an ensemble with the Fatalita 3274 skirt (Data missing in official sources for URL).",
+        "pl": "Serieta 3274 blazer over a white Lucinda 0201 shirt (Data missing in official sources for URL) in an ensemble with the Fatalita 3274 skirt (Data missing in official sources for URL).",
+        "uk": "Serieta 3274 blazer over a white Lucinda 0201 shirt (Data missing in official sources for URL) in an ensemble with the Fatalita 3274 skirt (Data missing in official sources for URL)."
+      },
+      "items": [
+        {
+          "name": "Serieta",
+          "code": "3274",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/PqG9-FYmSSKd6ktSwYBrtw_1218135521696f42f58904d5_23806936_02820980XX1.jpg"
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Fatalita",
+          "code": "3274",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 'Urban Layers' (Look 146)",
+        "en": "'Urban Layers' look (Look 146)",
+        "ar": "'Urban Layers' look (Look 146)",
+        "ka": "'Urban Layers' look (Look 146)",
+        "hy": "'Urban Layers' look (Look 146)",
+        "lv": "'Urban Layers' look (Look 146)",
+        "lt": "'Urban Layers' look (Look 146)",
+        "pl": "'Urban Layers' look (Look 146)",
+        "uk": "'Urban Layers' look (Look 146)"
+      },
+      "text": {
+        "ru": "Блейзер Serieta 3274 в паре с пуловером Manos F 2435 для создания мягкого цветового контраста.",
+        "en": "Serieta 3274 blazer paired with a Manos F 2435 pullover to create a soft color contrast.",
+        "ar": "Serieta 3274 blazer paired with a Manos F 2435 pullover to create a soft color contrast.",
+        "ka": "Serieta 3274 blazer paired with a Manos F 2435 pullover to create a soft color contrast.",
+        "hy": "Serieta 3274 blazer paired with a Manos F 2435 pullover to create a soft color contrast.",
+        "lv": "Serieta 3274 blazer paired with a Manos F 2435 pullover to create a soft color contrast.",
+        "lt": "Serieta 3274 blazer paired with a Manos F 2435 pullover to create a soft color contrast.",
+        "pl": "Serieta 3274 blazer paired with a Manos F 2435 pullover to create a soft color contrast.",
+        "uk": "Serieta 3274 blazer paired with a Manos F 2435 pullover to create a soft color contrast."
+      },
+      "items": [
+        {
+          "name": "Serieta",
+          "code": "3274",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/PqG9-FYmSSKd6ktSwYBrtw_1218135521696f42f58904d5_23806936_02820980XX1.jpg"
+        },
+        {
+          "name": "Manos F",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasise the versatility of the 3274 check print: the neutral beige-and-brown palette allows the blazer to integrate seamlessly into a tailored office dress code as well as relaxed everyday looks with denim.",
+      "Draw attention to the cut's details: the rounded lapels soften the blazer's structured, masculine silhouette, adding a note of femininity and individuality.",
+      "Recommend building a complete suit with the Odrisi 3274 trousers — the monochromatic vertical pattern visually slims and elongates the silhouette."
+    ],
+    "ru": [
+      "Подчеркните универсальность клетчатого принта 3274: нейтральная бежево-коричневая палитра позволяет легко интегрировать блейзер как в строгий офисный дресс-код, так и в расслабленные повседневные образы с денимом.",
+      "Акцентируйте внимание на деталях кроя: закругленные лацканы смягчают строгий мужской силуэт блейзера, добавляя ему женственности и уникальности.",
+      "Рекомендуйте создание полного костюма с брюками Odrisi 3274 — монохромный вертикальный узор визуально стройнит и удлиняет силуэт."
+    ],
+    "ar": [
+      "أبرزي تنوع نقشة المربعات 3274: لوحة الألوان البيج والبني المحايدة تسمح بدمج السترة بسهولة في قواعد اللباس المكتبي الصارمة أو في الإطلالات اليومية المريحة مع الدنيم.",
+      "ركزي على تفاصيل القصة: اللياقة المستديرة تخفف من حدة القصة الرجالية للسترة، مما يضيف لمسة من الأنوثة والتفرد.",
+      "أوصي بإنشاء بدلة كاملة مع بنطال Odrisi 3274 — فالنقش العمودي الأحادي اللون يمنح قواماً أكثر رشاقة وطولاً."
+    ],
+    "ka": [
+      "ხაზი გაუსვით 3274 კლეტკოვანი პრინტის უნივერსალურობას: ნეიტრალური კრემისფერი-ყავისფერი პალიტრა საშუალებას გაძლევთ მარტივად მოარგოთ ბლეიზერი როგორც მკაცრ საოფისე დრეს-კოდს, ასევე ყოველდღიურ თავისუფალ ლუქებს დენიმით.",
+      "გაამახვილეთ ყურადღება ჭრის დეტალებზე: მომრგვალებული საყელოები არბილებს ბლეიზერის მკაცრ მამაკაცურ სილუეტს, მატებს მას ქალურობასა და უნიკალურობას.",
+      "რეკომენდაცია გაუწიეთ სრული კოსტიუმის შექმნას Odrisi 3274 შარვალთან ერთად — მონოქრომული ვერტიკალური ნიმუში ვიზუალურად ამხელს და აგრძელებს სილუეტს."
+    ],
+    "hy": [
+      "Ընդգծեք 3274 վանդակավոր նախշի բազմակողմանիությունը. չեզոք բեժ-շագանակագույն գունապնակը թույլ է տալիս հեշտությամբ ինտեգրել բլեյզերը ինչպես խիստ գրասենյակային դրես-կոդի, այնպես էլ դենիմով առօրյա հանգիստ կերպարների մեջ։",
+      "Շեշտադրեք ձևվածքի մանրամասները. կլորացված լացկանները մեղմացնում են բլեյզերի խիստ տղամարդկային ուրվագիծը՝ հավելելով կանացիություն և յուրահատկություն։",
+      "Խորհուրդ տվեք ստեղծել ամբողջական կոստյում Odrisi 3274 տաբատի հետ. մոնոխրոմ ուղղահայաց նախշը տեսողականորեն բարակեցնում և երկարացնում է ուրվագիծը։"
+    ],
+    "lv": [
+      "Uzsveriet rūtainās apdrukas 3274 universālumu: neitrālā bēši brūnā palete ļauj viegli integrēt bleizeri gan stingrā biroja dreskodā, gan nepiespiestos ikdienas tēlos ar džinsiem.",
+      "Vērsiet uzmanību uz piegriezuma detaļām: noapaļotie atloki mīkstina stingro vīrišķīgo bleizera siluetu, piešķirot tam sievišķību un unikalitāti.",
+      "Iesakiet izveidot pilnu kostīmu ar biksēm Odrisi 3274 — monohromais vertikālais raksts vizuāli slaidina un pagarina siluetu."
+    ],
+    "lt": [
+      "Pabrėžkite 3274 langelių rašto universalumą: neutrali smėlio ir rudos spalvų paletė leidžia lengvai integruoti švarką tiek į griežtą biuro aprangos kodą, tiek į laisvus kasdienius įvaizdžius su džinsais.",
+      "Akcentuokite kirpimo detales: užapvalinti atlapai sušvelnina griežtą vyriško stiliaus švarko siluetą, suteikdami jam moteriškumo ir unikalumo.",
+      "Rekomenduokite kurti vientisą kostiumą su Odrisi 3274 kelnėmis – vienspalvis vertikalus raštas vizualiai lieknina ir ilgina siluetą."
+    ],
+    "pl": [
+      "Podkreśl uniwersalność kraciastego wzoru 3274: neutralna beżowo-brązowa paleta pozwala łatwo wkomponować blazer zarówno w rygorystyczny biurowy dress code, jak i w luźne codzienne stylizacje z denimem.",
+      "Skup uwagę na detalach kroju: zaokrąglone klapy łagodzą surową, męską sylwetkę blazera, dodając mu kobiecości i unikalności.",
+      "Rekomenduj stworzenie pełnego kostiumu ze spodniami Odrisi 3274 — monochromatyczny pionowy wzór optycznie wysmukla i wydłuża sylwetkę."
+    ],
+    "uk": [
+      "Підкресліть універсальність картатого принту 3274: нейтральна бежево-коричнева палітра дозволяє легко інтегрувати блейзер як у суворий офісний дрес-код, так і в розслаблені повсякденні образи з денімом.",
+      "Акцентуйте увагу на деталях крою: заокруглені лацкани пом'якшують суворий чоловічий силует блейзера, додаючи йому жіночності та унікальності.",
+      "Рекомендуйте створення повного костюма з брюками Odrisi 3274 — монохромний вертикальний візерунок візуально стрункішає та подовжує силует."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "В составе ткани есть синтетические волокна, я предпочитаю 100% шерсть.",
+        "a": "Объясните, что добавление полиэстера и полиамида необходимо для сохранения архитектурной формы блейзера и предотвращения деформации ткани, что особенно важно для двубортных моделей."
+      },
+      {
+        "q": "Клетка может визуально полнить.",
+        "a": "Укажите на мелкий масштаб рисунка 'quadretto' и выверенный крой regular fit с боковыми разрезами, которые гармонизируют пропорции и не создают лишнего объема."
+      },
+      {
+        "q": "Двубортная застежка кажется мне слишком формальной.",
+        "a": "Продемонстрируйте стайлинг с пуловером Manos F. Это снизит градус формальности и превратит Serieta в стильный элемент 'smart casual' гардероба."
+      },
+      {
+        "q": "Закругленные лацканы выглядят необычно для классического блейзера.",
+        "a": "Подчеркните, что это эксклюзивная дизайнерская деталь бренда, которая выделяет владелицу и подчеркивает ее осведомленность в модных трендах сезона."
+      },
+      {
+        "q": "Этот цвет кажется сложным для сочетания.",
+        "a": "Покажите, как гармонично блейзер сочетается с базовыми цветами: белым, кремовым или шоколадным, представленными в коллекции пуловеров Manos F."
+      }
+    ],
+    "ru": [
+      {
+        "q": "В составе ткани есть синтетические волокна, я предпочитаю 100% шерсть.",
+        "a": "Объясните, что добавление полиэстера и полиамида необходимо для сохранения архитектурной формы блейзера и предотвращения деформации ткани, что особенно важно для двубортных моделей."
+      },
+      {
+        "q": "Клетка может визуально полнить.",
+        "a": "Укажите на мелкий масштаб рисунка 'quadretto' и выверенный крой regular fit с боковыми разрезами, которые гармонизируют пропорции и не создают лишнего объема."
+      },
+      {
+        "q": "Двубортная застежка кажется мне слишком формальной.",
+        "a": "Продемонстрируйте стайлинг с пуловером Manos F. Это снизит градус формальности и превратит Serieta в стильный элемент 'smart casual' гардероба."
+      },
+      {
+        "q": "Закругленные лацканы выглядят необычно для классического блейзера.",
+        "a": "Подчеркните, что это эксклюзивная дизайнерская деталь бренда, которая выделяет владелицу и подчеркивает ее осведомленность в модных трендах сезона."
+      },
+      {
+        "q": "Этот цвет кажется сложным для сочетания.",
+        "a": "Покажите, как гармонично блейзер сочетается с базовыми цветами: белым, кремовым или шоколадным, представленными в коллекции пуловеров Manos F."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يحتوي تركيب القماش على ألياف صناعية، وأنا أفضل الصوف بنسبة 100%.",
+        "a": "أوضحي أن إضافة البوليستر والبولي أميد ضرورية للحفاظ على الشكل المعماري للبليزر ومنع تشوه القماش، وهو أمر مهم بشكل خاص للموديلات مزدوجة الصدر."
+      },
+      {
+        "q": "قد تجعل النقوش المربعة (الكاروهات) الجسم يبدو أكثر امتلاءً بصرياً.",
+        "a": "أشيري إلى الحجم الصغير لنقشة 'quadretto' والقصة الدقيقة (regular fit) مع فتحات جانبية، والتي تعمل على موازنة النسب ولا تخلق حجماً إضافياً."
+      },
+      {
+        "q": "تبدو الأزرار مزدوجة الصدر رسمية للغاية بالنسبة لي.",
+        "a": "اعرضي التنسيق مع بلوفر Manos F. سيقلل هذا من درجة الرسمية ويحول Serieta إلى قطعة أنيقة ضمن أسلوب 'smart casual'."
+      },
+      {
+        "q": "تبدو الياقات المستديرة غير معتادة بالنسبة للبليزر الكلاسيكي.",
+        "a": "أكدي أن هذه تفصيلة تصميم حصرية للعلامة التجارية، تميز من ترتديها وتبرز وعيها بأحدث صيحات الموضة لهذا الموسم."
+      },
+      {
+        "q": "يبدو هذا اللون معقداً في تنسيقه.",
+        "a": "أظهري مدى تناغم البليزر مع الألوان الأساسية: الأبيض، الكريمي، أو الشوكولاتة، المعروضة في مجموعة بلوفرات Manos F."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ქსოვილის შემადგენლობაში არის სინთეტიკური ბოჭკოები, მე 100% მატყლს ვანიჭებ უპირატესობას.",
+        "a": "აუხსენით, რომ პოლიესტერისა და პოლიამიდის დამატება აუცილებელია ბლეიზერის არქიტექტურული ფორმის შესანარჩუნებლად და ქსოვილის დეფორმაციის თავიდან ასაცილებლად, რაც განსაკუთრებით მნიშვნელოვანია ორბორტიანი მოდელებისთვის."
+      },
+      {
+        "q": "უჯრედებმა შესაძლოა ვიზუალურად გაგასუქოთ.",
+        "a": "მიუთითეთ 'quadretto' ნახატის მცირე მასშტაბსა და რეგულარულ ფიტის გათვლილ კერვაზე გვერდითი ჭრილებით, რომლებიც აბალანსებს პროპორციებს და არ ქმნის ზედმეტ მოცულობას."
+      },
+      {
+        "q": "ორბორტიანი შესაკრავი ზედმეტად ფორმალური მეჩვენება.",
+        "a": "წარმოადგინეთ სტაილინგი პულოვერ Manos F-თან ერთად. ეს დაწევს ფორმალობის დონეს და აქცევს Serieta-ს 'smart casual' გარდერობის ელეგანტურ ელემენტად."
+      },
+      {
+        "q": "მომრგვალებული ლაპელები კლასიკური ბლეიზერისთვის უჩვეულოდ გამოიყურება.",
+        "a": "ხაზი გაუსვით, რომ ეს არის ბრენდის ექსკლუზიური დიზაინერული დეტალი, რომელიც გამოარჩევს მფლობელს და ხაზს უსვამს მის ცოდნას სეზონის მოდური ტრენდების შესახებ."
+      },
+      {
+        "q": "ეს ფერი შეხამებისთვის რთული მეჩვენება.",
+        "a": "აჩვენეთ, თუ რამდენად ჰარმონიულად ეხამება ბლეიზერი საბაზისო ფერებს: თეთრს, კრემისფერს ან შოკოლადისფერს, რომლებიც წარმოდგენილია Manos F პულოვერების კოლექციაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Գործվածքի բաղադրության մեջ կան սինթետիկ մանրաթելեր, ես նախընտրում եմ 100% բուրդ։",
+        "a": "Բացատրեք, որ պոլիեսթերի և պոլիամիդի ավելացումն անհրաժեշտ է բլեյզերի ճարտարապետական ձևը պահպանելու և գործվածքի դեֆորմացիան կանխելու համար, ինչը հատկապես կարևոր է երկկողմանի մոդելների դեպքում։"
+      },
+      {
+        "q": "Վանդակավոր նախշը կարող է տեսողականորեն գիրացնել։",
+        "a": "Մատնանշեք 'quadretto' նախշի մանր մասշտաբը և կողային բացվածքներով regular fit ճշգրիտ ձևվածքը, որոնք ներդաշնակեցնում են համամասնությունները և ավելորդ ծավալ չեն ստեղծում։"
+      },
+      {
+        "q": "Երկկողմանի կոճկումը ինձ չափազանց պաշտոնական է թվում։",
+        "a": "Ցուցադրեք ոճավորումը Manos F պուլովերով։ Սա կնվազեցնի պաշտոնականության աստիճանը և Serieta-ն կդարձնի 'smart casual' զգեստապահարանի ոճային տարր։"
+      },
+      {
+        "q": "Կլորացված լացկաններն անսովոր են թվում դասական բլեյզերի համար։",
+        "a": "Ընդգծեք, որ սա բրենդի էքսկլյուզիվ դիզայներական դետալն է, որն առանձնացնում է կրողին և ընդգծում նրա տեղեկացվածությունը սեզոնի նորաձևության թրենդներից։"
+      },
+      {
+        "q": "Այս գույնը բարդ է թվում համադրման համար։",
+        "a": "Ցույց տվեք, թե ինչպես է բլեյզերը ներդաշնակորեն համադրվում հիմնական գույների հետ՝ սպիտակ, կրեմագույն կամ շոկոլադե, որոնք ներկայացված են Manos F պուլովերների հավաքածուում։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Auduma sastāvā ir sintētiskās šķiedras, es dodu priekšroku 100% vilnai.",
+        "a": "Paskaidrojiet, ka poliestera un poliamīda pievienošana ir nepieciešama bleizera arhitektoniskās formas saglabāšanai un auduma deformācijas novēršanai, kas ir īpaši svarīgi divrindu modeļiem."
+      },
+      {
+        "q": "Rūtis var vizuāli padarīt resnāku.",
+        "a": "Norādiet uz smalka mēroga 'quadretto' rakstu un izsvērto regular fit piegriezumu ar sānu šķēlumiem, kas harmonizē proporcijas un nerada lieku apjomu."
+      },
+      {
+        "q": "Divrindu aizdare man šķiet pārāk formāla.",
+        "a": "Demonstrējiet stailingu ar Manos F puloveru. Tas samazinās formāluma pakāpi un pārvērtīs Serieta par stilīgu 'smart casual' garderobes elementu."
+      },
+      {
+        "q": "Noapaļoti atloki izskatās neierasti klasiskajam bleizeram.",
+        "a": "Uzsveriet, ka tā ir zīmola ekskluzīvā dizaina detaļa, kas izceļ īpašnieci un akcentē viņas zināšanas par sezonas modes tendencēm."
+      },
+      {
+        "q": "Šī krāsa šķiet sarežģīta kombinēšanai.",
+        "a": "Parādiet, cik harmoniski bleizers sader ar bāzes krāsām: baltu, krēmkrāsu vai šokolādes toni, kas pārstāvēti Manos F puloveru kolekcijā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Audinio sudėtyje yra sintetinių pluoštų, aš pirmenybę teikiu 100% vilnai.",
+        "a": "Paaiškinkite, kad poliesterio ir poliamido pridėjimas yra būtinas norint išsaugoti architektūrinę bleizerio formą ir apsaugoti audinį nuo deformacijos, o tai ypač svarbu dvieiliams modeliams."
+      },
+      {
+        "q": "Langeliai gali vizualiai stambinti.",
+        "a": "Nurodykite smulkų 'quadretto' rašto mastelį ir ištobulintą regular fit kirpimą su skeltukais šonuose, kurie subalansuoja proporcijas ir nesuteikia papildomos apimties."
+      },
+      {
+        "q": "Dvieilė užsegimo sistema man atrodo per daug formali.",
+        "a": "Pademonstruokite derinį su megztiniu Manos F. Tai sumažins oficialumą ir pavers Serieta stilingu 'smart casual' garderobo elementu."
+      },
+      {
+        "q": "Užapvalinti atlapai atrodo neįprastai klasikiniam bleizeriui.",
+        "a": "Pabrėžkite, kad tai išskirtinė prekės ženklo dizainerių detalė, kuri išskiria savininkę ir pabrėžia jos žinias apie sezono mados tendencijas."
+      },
+      {
+        "q": "Ši spalva atrodo sudėtinga derinti.",
+        "a": "Parodykite, kaip harmoningai bleizeris dera su bazinėmis spalvomis: balta, kremine ar šokoladine, kurios pristatytos Manos F megztinių kolekcijoje."
+      }
+    ],
+    "pl": [
+      {
+        "q": "W składzie tkaniny są włókna syntetyczne, preferuję 100% wełnę.",
+        "a": "Wyjaśnij, że dodatek poliestru i poliamidu jest niezbędny dla zachowania architektonicznej formy blezera i zapobiegania deformacji tkaniny, co jest szczególnie ważne w modelach dwurzędowych."
+      },
+      {
+        "q": "Krata może wizualnie pogrubiać.",
+        "a": "Wskaż na drobny wzór 'quadretto' oraz wyważony krój regular fit z rozcięciami po bokach, które harmonizują proporcje i nie tworzą zbędnej objętości."
+      },
+      {
+        "q": "Dwurzędowe zapięcie wydaje mi się zbyt formalne.",
+        "a": "Zaprezentuj stylizację z pulowerem Manos F. Obniży to stopień formalności i przekształci Serieta w stylowy element garderoby 'smart casual'."
+      },
+      {
+        "q": "Zaokrąglone klapy wyglądają nietypowo jak na klasyczny blezer.",
+        "a": "Podkreśl, że to ekskluzywny detal projektowy marki, który wyróżnia właścicielkę i podkreśla jej orientację w modowych trendach sezonu."
+      },
+      {
+        "q": "Ten kolor wydaje się trudny do łączenia.",
+        "a": "Pokaż, jak harmonijnie blezer łączy się z bazowymi kolorami: białym, kremowym lub czekoladowym, prezentowanymi w kolekcji pulowerów Manos F."
+      }
+    ],
+    "uk": [
+      {
+        "q": "У складі тканини є синтетичні волокна, я віддаю перевагу 100% вовні.",
+        "a": "Поясніть, що додавання поліестеру та поліаміду необхідне для збереження архітектурної форми блейзера та запобігання деформації тканини, що особливо важливо для двобортних моделей."
+      },
+      {
+        "q": "Клітинка може візуально повнити.",
+        "a": "Вкажіть на дрібний масштаб малюнка 'quadretto' та вивірений крій regular fit з бічними розрізами, які гармонізують пропорції і не створюють зайвого об'єму."
+      },
+      {
+        "q": "Двобортна застібка здається мені занадто формальною.",
+        "a": "Продемонструйте стайлінг із пуловером Manos F. Це знизить градус формальності та перетворить Serieta на стильний елемент 'smart casual' гардероба."
+      },
+      {
+        "q": "Заокруглені лацкани виглядають незвично для класичного блейзера.",
+        "a": "Підкресліть, що це ексклюзивна дизайнерська деталь бренду, яка виділяє власницю та підкреслює її обізнаність у модних трендах сезону."
+      },
+      {
+        "q": "Цей колір здається складним для поєднання.",
+        "a": "Покажіть, як гармонійно блейзер поєднується з базовими кольорами: білим, кремовим або шоколадним, представленими в колекції пуловерів Manos F."
+      }
+    ]
+  }
+}

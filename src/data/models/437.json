@@ -1,0 +1,460 @@
+{
+  "id": 437,
+  "name": "Masuria",
+  "description": {
+    "en": "The Masuria dress is an aesthetic manifesto of intellectual femininity and Luisa Spagnoli's flawless knitwear artistry. The midi-length piece is crafted from noble pure virgin wool (pura lana vergine) in a smooth knit (maglia rasata), whose delicate texture delivers a sense of soft luxury and warmth. The piece's architecture masterfully unites understatement and status: the sleeveless design is accentuated by a half-closure of exquisite gold-tone buttons and a collar that flows into long ties, which can be tied in a striking knot or bow, illuminating the neckline area. The dress's skirt is completed with a vertical decorative rib (nervatura) that not only disciplines the fabric but also lends the silhouette a proud, elongated vertical line. Thanks to the Regular fit, the dress becomes the ideal foundation for status-defining layered looks in the 'Quiet Luxury' style.",
+    "ru": "Платье Masuria --- это эстетический манифест интеллектуальной женственности и безупречного итальянского трикотажа Luisa Spagnoli. Модель длины миди выполнена из благородной чистой девственной шерсти (pura lana vergine) гладкой вязки (maglia rasata), чья деликатная фактура дарит ощущение мягкой роскоши и тепла. Архитектура изделия виртуозно сочетает лаконичность и статус: дизайн без рукавов акцентирован полузастежкой на изысканные золотистые пуговицы и воротником, переходящим в длинный ленты, которые можно завязать эффектным узлом или бантом, подсвечивая портретную зону. Юбка платья дополнена вертикальной декоративной нервюрой (nervatura), которая не только дисциплинирует полотно, но и придает силуэту гордую, вытянутую вертикаль. Благодаря регулярной посадке (vestibilità regular), платье становится идеальным фундаментом для статусных многослойных образов в стиле «Quiet Luxury».",
+    "ar": "فستان Masuria هو بيان جمالي للأنوثة الفكرية والتريكو الإيطالي المثالي لـ Luisa Spagnoli. صُمم الفستان بطول ميدي من الصوف البكر الخالص (pura lana vergine) بحياكة ناعمة (maglia rasata)، حيث يمنح قوامه الرقيق شعوراً بالفخامة الناعمة والدفء. هندسة القطعة تجمع ببراعة بين البساطة والمكانة: يتميز التصميم بدون أكمام بفتحة نصفية بأزرار ذهبية راقية، وياقة تتدفق إلى شريطين طويلين يمكن ربطهما بعقدة أو فيونكة جذابة، مما يسلط الضوء على منطقة الوجه. تنورة الفستان مزينة بخط عمودي زخرفي (nervatura) لا يقتصر دوره على ضبط القماش فحسب، بل يمنح الصورة الظلية خطاً عمودياً طويلاً ومهيباً. بفضل المقاس المنتظم (vestibilità regular)، يصبح الفستان أساساً مثالياً لإطلالات الطبقات الراقية بأسلوب «الفخامة الهادئة» (Quiet Luxury).",
+    "ka": "კაბა Masuria — ეს არის ინტელექტუალური ქალურობისა და Luisa Spagnoli-ის უნაკლო იტალიური ტრიკოტაჟის ესთეტიკური მანიფესტი. მიდი სიგრძის მოდელი დამზადებულია კეთილშობილი სუფთა ქალწულებრივი მატყლისგან (pura lana vergine) გლუვი ქსოვით (maglia rasata), რომლის დელიკატური ფაქტურა რბილი ფუფუნებისა და სითბოს შეგრძნებას ანიჭებს. ნაკეთობის არქიტექტურა ვირტუოზულად აერთიანებს ლაკონურობასა და სტატუსს: უსახელო დიზაინი აქცენტირებულია ნახევარშესაკრავით დახვეწილი ოქროსფერი ღილებით და საყელოთი, რომელიც გრძელ ბაფთებში გადადის; მათი შეკვრა შესაძლებელია ეფექტური კვანძით ან ბაფთით, რაც სახის ზონას ნათელს ხდის. კაბის ქვედაკაბა დამატებულია ვერტიკალური დეკორატიული ნაკერით (nervatura), რომელიც არა მხოლოდ დისციპლინირებს ტილოს, არამედ სილუეტს ამაყ, წაგრძელებულ ვერტიკალს სძენს. რეგულარული მორგების (vestibilità regular) წყალობით, კაბა ხდება იდეალური საფუძველი სტატუსური მრავალშრიანი ლუქებისთვის „Quiet Luxury“-ს სტილში.",
+    "hy": "Masuria զգեստը Luisa Spagnoli-ի ինտելեկտուալ կանացիության և անթերի իտալական տրիկոտաժի գեղագիտական մանիֆեստն է։ Միդի երկարությամբ այս մոդելը պատրաստված է ազնվական մաքուր կուսական բրդից (pura lana vergine)՝ հարթ հյուսվածքով (maglia rasata), որի նուրբ հյուսվածքը փափուկ շքեղության և ջերմության զգացողություն է պարգևում։ Իրի ճարտարապետությունը վիրտուոզ կերպով համադրում է լակոնիկությունն ու կարգավիճակը. անթև դիզայնն ընդգծված է նրբագեղ ոսկեգույն կոճակներով կիսաճարմանդով և օձիքով, որը վերածվում է երկար ժապավենների, որոնք կարելի է կապել տպավորիչ հանգույցով կամ փողկապով՝ լուսավորելով դեմքի հատվածը։ Զգեստի կիսաշրջազգեստը համալրված է ուղղահայաց դեկորատիվ կարով (nervatura), որը ոչ միայն կարգավորում է կտորը, այլև ուրվագծին հաղորդում է հպարտ, ձգված ուղղահայաց տեսք։ Շնորհիվ կանոնավոր նստվածքի (vestibilità regular), զգեստը դառնում է իդեալական հիմք «Quiet Luxury» ոճի կարգավիճակային բազմաշերտ կերպարների համար։",
+    "lv": "Kleita Masuria — tas ir intelektuālas sievišķības un nevainojama Luisa Spagnoli itāļu trikotāžas estētiskais manifests. Midi garuma modelis ir izgatavots no cēlas tīras jaunvilnas (pura lana vergine) gludā adījumā (maglia rasata), kura smalkā faktūra sniedz maiga luksusa un siltuma sajūtu. Izstrādājuma arhitektūra virtuozi apvieno lakonismu un statusu: bezpiedurkņu dizainu akcentē puspoga ar izsmalcinātām zeltītām pogām un apkakle, kas pāriet garās lentēs, kuras var sasiet efektīgā mezglā vai bantē, izceļot portreta zonu. Kleitas svārki ir papildināti ar vertikālu dekoratīvu šuvi (nervatura), kas ne tikai disciplinē audumu, bet arī piešķir siluetam lepnu, izstieptu vertikāli. Pateicoties regulāram piegriezumam (vestibilità regular), kleita kļūst par ideālu pamatu statusa pilniem daudzslāņu tēliem «Quiet Luxury» stilā.",
+    "lt": "Suknelė Masuria --- tai estetiškas intelektualaus moteriškumo ir nepriekaištingo Luisa Spagnoli itališko trikotažo manifestas. Midi ilgio modelis pasiūtas iš kilnaus, gryno pirminio vilnos pluošto (pura lana vergine) lygaus mezgimo (maglia rasata), kurio subtili faktūra suteikia švelnios prabangos ir šilumos pojūtį. Gaminio architektūra meistriškai sujungia lakoniškumą ir statusą: berankovį dizainą akcentuoja pusiau atvira užsegama dalis su išskirtinėmis auksinėmis sagomis bei apykaklė, pereinanti į ilgas juosteles, kurias galima surišti efektingu mazgu ar kaspinu, pabrėžiant veido zoną. Suknelės sijonas papildytas vertikalia dekoratyvine siūle (nervatura), kuri ne tik suformuoja audinį, bet ir suteikia siluetui grakščią, ištęstą vertikalę. Dėl reguliaraus sukirpimo (vestibilità regular), suknelė tampa idealiu pagrindu statusą pabrėžiantiems daugiasluoksniams deriniams „Quiet Luxury“ stiliumi.",
+    "pl": "Sukienka Masuria to estetyczny manifest intelektualnej kobiecości i bezbłędnego włoskiego dzianinowego kunsztu Luisa Spagnoli. Model o długości midi wykonany jest ze szlachetnej czystej dziewiczej wełny (pura lana vergine) o gładkim splocie (maglia rasata), której delikatna faktura zapewnia uczucie miękkiego luksusu i ciepła. Architektura modelu mistrzowsko łączy lakoniczność ze statusem: bezrękawnikowy design zaakcentowany jest półzapięciem na wykwintne złociste guziki oraz kołnierzem przechodzącym w długie wstążki, które można zawiązać w efektowny węzeł lub kokardę, podkreślając linię twarzy. Spódnica sukienki wzbogacona jest pionowym ozdobnym szwem (nervatura), który nie tylko dyscyplinuje tkaninę, ale także nadaje sylwetce dumną, wydłużoną linię. Dzięki regularnemu krojowi (vestibilità regular), sukienka staje się idealną bazą dla prestiżowych, wielowarstwowych stylizacji w stylu „Quiet Luxury”.",
+    "uk": "Платье Masuria --- это эстетический манифест интеллектуальной женственности и безупречного итальянского трикотажа Luisa Spagnoli. Модель длины миди выполнена из благородной чистой девственной шерсти (pura lana vergine) гладкой вязки (maglia rasata), чья деликатная фактура дарит ощущение мягкой роскоши и тепла. Архитектура изделия виртуозно сочетает лаконичность и статус: дизайн без рукавов акцентирован полузастежкой на изысканные золотистые пуговицы и воротником, переходящим в длинный ленты, которые можно завязать эффектным узлом или бантом, подсвечивая портретную зону. Юбка платья дополнена вертикальной декоративной нервюрой (nervatura), которая не только дисциплинирует полотно, но и придает силуэту гордую, вытянутую вертикаль. Благодаря регулярной посадке (vestibilità regular), платье становится идеальным фундаментом для статусных многослойных образов в стиле «Quiet Luxury»."
+  },
+  "colors": [
+    {
+      "name": "Bordeaux",
+      "code": "2435",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1508950954691f1573279819_84632151_02790340XX1.jpg"
+    },
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1598620794691f1572c6c042_61626902_02790330XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать платье Masuria как основу для монохромных и фактурных ансамблей: Вариант 2435 ( Бордо): Total Look (Look 21): каноническое подиумное сочетание с укороченным кардиганом из той же пряжи Madira 2435, дополненное черной сумкой из мартелированной кожи Iago 0101 0002 и кожаными сапогами Ulisside 0101 0038.",
+        "en": "The brand's stylists suggest using the Masuria dress as a base for monochrome and textured ensembles: Variant 2435 ( Bordeaux): Total Look (Look 21): a canonical runway combination with a cropped cardigan from the same Madira 2435 yarn, complemented by a black martellated leather Iago 0101 0002 bag and Ulisside 0101 0038 leather boots.",
+        "ar": "The brand's stylists suggest using the Masuria dress as a base for monochrome and textured ensembles: Variant 2435 ( Bordeaux): Total Look (Look 21): a canonical runway combination with a cropped cardigan from the same Madira 2435 yarn, complemented by a black martellated leather Iago 0101 0002 bag and Ulisside 0101 0038 leather boots.",
+        "ka": "The brand's stylists suggest using the Masuria dress as a base for monochrome and textured ensembles: Variant 2435 ( Bordeaux): Total Look (Look 21): a canonical runway combination with a cropped cardigan from the same Madira 2435 yarn, complemented by a black martellated leather Iago 0101 0002 bag and Ulisside 0101 0038 leather boots.",
+        "hy": "The brand's stylists suggest using the Masuria dress as a base for monochrome and textured ensembles: Variant 2435 ( Bordeaux): Total Look (Look 21): a canonical runway combination with a cropped cardigan from the same Madira 2435 yarn, complemented by a black martellated leather Iago 0101 0002 bag and Ulisside 0101 0038 leather boots.",
+        "lv": "The brand's stylists suggest using the Masuria dress as a base for monochrome and textured ensembles: Variant 2435 ( Bordeaux): Total Look (Look 21): a canonical runway combination with a cropped cardigan from the same Madira 2435 yarn, complemented by a black martellated leather Iago 0101 0002 bag and Ulisside 0101 0038 leather boots.",
+        "lt": "The brand's stylists suggest using the Masuria dress as a base for monochrome and textured ensembles: Variant 2435 ( Bordeaux): Total Look (Look 21): a canonical runway combination with a cropped cardigan from the same Madira 2435 yarn, complemented by a black martellated leather Iago 0101 0002 bag and Ulisside 0101 0038 leather boots.",
+        "pl": "The brand's stylists suggest using the Masuria dress as a base for monochrome and textured ensembles: Variant 2435 ( Bordeaux): Total Look (Look 21): a canonical runway combination with a cropped cardigan from the same Madira 2435 yarn, complemented by a black martellated leather Iago 0101 0002 bag and Ulisside 0101 0038 leather boots.",
+        "uk": "The brand's stylists suggest using the Masuria dress as a base for monochrome and textured ensembles: Variant 2435 ( Bordeaux): Total Look (Look 21): a canonical runway combination with a cropped cardigan from the same Madira 2435 yarn, complemented by a black martellated leather Iago 0101 0002 bag and Ulisside 0101 0038 leather boots."
+      },
+      "items": [
+        {
+          "name": "Madira",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/696491514691f1570375713_09110086_02790160XX1.jpg",
+          "modelId": 430
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        },
+        {
+          "name": "Ulisside",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Витрина (Vetrina 33, Bambola 3)",
+        "en": "Display (Vetrina 33, Bambola 3)",
+        "ar": "Display (Vetrina 33, Bambola 3)",
+        "ka": "Display (Vetrina 33, Bambola 3)",
+        "hy": "Display (Vetrina 33, Bambola 3)",
+        "lv": "Display (Vetrina 33, Bambola 3)",
+        "lt": "Display (Vetrina 33, Bambola 3)",
+        "pl": "Display (Vetrina 33, Bambola 3)",
+        "uk": "Display (Vetrina 33, Bambola 3)"
+      },
+      "text": {
+        "ru": "платье представлено в паре с сапогами, подчеркивая статусность оттенка бордо.",
+        "en": "the dress is presented paired with boots, emphasizing the prestige of the bordeaux shade.",
+        "ar": "the dress is presented paired with boots, emphasizing the prestige of the bordeaux shade.",
+        "ka": "the dress is presented paired with boots, emphasizing the prestige of the bordeaux shade.",
+        "hy": "the dress is presented paired with boots, emphasizing the prestige of the bordeaux shade.",
+        "lv": "the dress is presented paired with boots, emphasizing the prestige of the bordeaux shade.",
+        "lt": "the dress is presented paired with boots, emphasizing the prestige of the bordeaux shade.",
+        "pl": "the dress is presented paired with boots, emphasizing the prestige of the bordeaux shade.",
+        "uk": "the dress is presented paired with boots, emphasizing the prestige of the bordeaux shade."
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "ru": "Витрина (Vetrina 37, Bambola 1)",
+        "en": "Display (Vetrina 37, Bambola 1)",
+        "ar": "Display (Vetrina 37, Bambola 1)",
+        "ka": "Display (Vetrina 37, Bambola 1)",
+        "hy": "Display (Vetrina 37, Bambola 1)",
+        "lv": "Display (Vetrina 37, Bambola 1)",
+        "lt": "Display (Vetrina 37, Bambola 1)",
+        "pl": "Display (Vetrina 37, Bambola 1)",
+        "uk": "Display (Vetrina 37, Bambola 1)"
+      },
+      "text": {
+        "ru": "сложный городской образ, где платье дополнено жакетом Madira 2435 под защитой элегантного тренча Supporre 0995. Вариант 0101 ( Черный):",
+        "en": "a sophisticated urban look where the dress is complemented by a Madira 2435 jacket under the protection of an elegant Supporre 0995 trench coat. Variant 0101 ( Black):",
+        "ar": "a sophisticated urban look where the dress is complemented by a Madira 2435 jacket under the protection of an elegant Supporre 0995 trench coat. Variant 0101 ( Black):",
+        "ka": "a sophisticated urban look where the dress is complemented by a Madira 2435 jacket under the protection of an elegant Supporre 0995 trench coat. Variant 0101 ( Black):",
+        "hy": "a sophisticated urban look where the dress is complemented by a Madira 2435 jacket under the protection of an elegant Supporre 0995 trench coat. Variant 0101 ( Black):",
+        "lv": "a sophisticated urban look where the dress is complemented by a Madira 2435 jacket under the protection of an elegant Supporre 0995 trench coat. Variant 0101 ( Black):",
+        "lt": "a sophisticated urban look where the dress is complemented by a Madira 2435 jacket under the protection of an elegant Supporre 0995 trench coat. Variant 0101 ( Black):",
+        "pl": "a sophisticated urban look where the dress is complemented by a Madira 2435 jacket under the protection of an elegant Supporre 0995 trench coat. Variant 0101 ( Black):",
+        "uk": "a sophisticated urban look where the dress is complemented by a Madira 2435 jacket under the protection of an elegant Supporre 0995 trench coat. Variant 0101 ( Black):"
+      },
+      "items": [
+        {
+          "name": "Madira",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/696491514691f1570375713_09110086_02790160XX1.jpg",
+          "modelId": 430
+        },
+        {
+          "name": "Supporre",
+          "code": "0995",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A-_m01BxSlCI2yq9LK3j-A_1990879054696f430060bf33_29956349_02821230XX1.jpg",
+          "modelId": 354
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 102)",
+        "en": "In the lookbook (Look 102)",
+        "ar": "In the lookbook (Look 102)",
+        "ka": "In the lookbook (Look 102)",
+        "hy": "In the lookbook (Look 102)",
+        "lv": "In the lookbook (Look 102)",
+        "lt": "In the lookbook (Look 102)",
+        "pl": "In the lookbook (Look 102)",
+        "uk": "In the lookbook (Look 102)"
+      },
+      "text": {
+        "ru": "модель выступает как самостоятельный стейтмент-объект, где сияние золотистых пуговиц контрастирует с глубиной черного трикотажа.",
+        "en": "the model acts as an independent statement object, where the shine of golden buttons contrasts with the depth of the black knit.",
+        "ar": "the model acts as an independent statement object, where the shine of golden buttons contrasts with the depth of the black knit.",
+        "ka": "the model acts as an independent statement object, where the shine of golden buttons contrasts with the depth of the black knit.",
+        "hy": "the model acts as an independent statement object, where the shine of golden buttons contrasts with the depth of the black knit.",
+        "lv": "the model acts as an independent statement object, where the shine of golden buttons contrasts with the depth of the black knit.",
+        "lt": "the model acts as an independent statement object, where the shine of golden buttons contrasts with the depth of the black knit.",
+        "pl": "the model acts as an independent statement object, where the shine of golden buttons contrasts with the depth of the black knit.",
+        "uk": "the model acts as an independent statement object, where the shine of golden buttons contrasts with the depth of the black knit."
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "ru": "Витрина (Vetrina 52, Bambola 2)",
+        "en": "Display (Vetrina 52, Bambola 2)",
+        "ar": "Display (Vetrina 52, Bambola 2)",
+        "ka": "Display (Vetrina 52, Bambola 2)",
+        "hy": "Display (Vetrina 52, Bambola 2)",
+        "lv": "Display (Vetrina 52, Bambola 2)",
+        "lt": "Display (Vetrina 52, Bambola 2)",
+        "pl": "Display (Vetrina 52, Bambola 2)",
+        "uk": "Display (Vetrina 52, Bambola 2)"
+      },
+      "text": {
+        "ru": "зимняя интерпретация под роскошным пальто-халатом Sciroppo 0101 в паре с сумкой Iago 2240 0002.",
+        "en": "a winter interpretation under a luxurious Sciroppo 0101 wrap coat paired with an Iago 2240 0002 bag.",
+        "ar": "a winter interpretation under a luxurious Sciroppo 0101 wrap coat paired with an Iago 2240 0002 bag.",
+        "ka": "a winter interpretation under a luxurious Sciroppo 0101 wrap coat paired with an Iago 2240 0002 bag.",
+        "hy": "a winter interpretation under a luxurious Sciroppo 0101 wrap coat paired with an Iago 2240 0002 bag.",
+        "lv": "a winter interpretation under a luxurious Sciroppo 0101 wrap coat paired with an Iago 2240 0002 bag.",
+        "lt": "a winter interpretation under a luxurious Sciroppo 0101 wrap coat paired with an Iago 2240 0002 bag.",
+        "pl": "a winter interpretation under a luxurious Sciroppo 0101 wrap coat paired with an Iago 2240 0002 bag.",
+        "uk": "a winter interpretation under a luxurious Sciroppo 0101 wrap coat paired with an Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Sciroppo",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- A textile 'sculptor': Direct the client's attention to the vertical ribbing along the skirt. This design device visually elongates the frame and slims the figure, all while preserving the comfort of elastic knitwear. - A jewel-like accent: Highlight the"
+    ],
+    "ru": [
+      "- Текстильный «скульптор»: Акцентируйте внимание клиента на вертикальной нервюре вдоль юбки. Этот дизайнерский прием визуально вытягивает рост и делает фигуру стройнее, сохраняя при этом комфорт эластичного трикотажа. - Ювелирный акцент: Подчеркните роль"
+    ],
+    "ar": [
+      "- \"نحات\" الأنسجة: وجهي انتباه العميل إلى الخطوط العمودية البارزة على طول التنورة. يعمل هذا التصميم على إطالة القامة بصرياً وجعل القوام يبدو أكثر رشاقة مع الحفاظ على راحة التريكو المطاطي. - لمسة المجوهرات: سلطي الضوء على دور الأزرار الذهبية وربطة العنق. تس"
+    ],
+    "ka": [
+      "- „ტექსტილის მოქანდაკე“: ყურადღება გაამახვილეთ კლიენტის ყურადღება კალთის გასწვრივ არსებულ ვერტიკალურ ნერვიურებზე. ეს დიზაინერული გადაწყვეტა ვიზუალურად აგრძელებს ტანს და ფიგურას უფრო მოხდენილს ხდის, ამასთან ინარჩუნებს ელასტიური ტრიკოტაჟის კომფორტს. - საიუვ"
+    ],
+    "hy": [
+      "- Տեքստիլ «քանդակագործ». շեշտադրեք հաճախորդի ուշադրությունը կիսաշրջազգեստի երկայնքով անցնող ուղղահայաց կարերի վրա: Այս դիզայներական հնարքը տեսողականորեն երկարացնում է հասակը և ավելի սլացիկ դարձնում կազմվածքը՝ միաժամանակ պահպանելով առաձգական տրիկոտաժի հարմ"
+    ],
+    "lv": [
+      "- Tekstila «tēlnieks»: Akcentējiet klienta uzmanību uz vertikālo ribojumu gar svārkiem. Šis dizaina paņēmiens vizuāli pagarina augumu un padara figūru slaidāku, vienlaikus saglabājot elastīgā trikotāžas auduma komfortu. - Juvelierizstrādājumu akcents: Uzs"
+    ],
+    "lt": [
+      "- Tekstūrinis skulptorius: Atkreipkite kliento dėmesį į vertikalią briauną išilgai sijono. Šis dizaino sprendimas vizualiai ilgina ūgį ir lieknina figūrą, išlaikant elastingam trikotažui būdingą komfortą. - Juvelyrinis akcentas: Pabrėžkite auksinio atspalvio sagų ir apykaklės-juostelės vaidmenį. Sagos atstoja vėrinį, o juostelės leidžia transformuoti įvaizdį nuo griežto dalykinio (mazgas) iki romantiško vakarinio (kaspinas), kas padidina gaminio vertę garderobe. - Investicija į „Pura Lana“: Akcentuokite 100% pura lana vergine sudėtį. Šis pirmojo kirpimo pluoštas garantuoja nepriekaištingą termoreguliaciją ir sijono formos išlaikymą net aktyviai dėvint, kas yra aukštos Spagnoli kokybės ženklas."
+    ],
+    "pl": [
+      "- Tekstylny „rzeźbiarz”: Skup uwagę klientki na pionowym żebrowaniu wzdłuż spódnicy. Ten designerski zabieg optycznie wydłuża sylwetkę i wysmukla ją, zachowując przy tym komfort elastycznej dzianiny. - Jubilerski akcent: Podkreśl rolę złotych guzików i ko"
+    ],
+    "uk": [
+      "- Текстильний «скульптор»: Акцентуйте увагу клієнта на вертикальній нервюрі вздовж спідниці. Цей дизайнерський прийом візуально витягує зріст і робить фігуру стрункішою, зберігаючи при цьому комфорт еластичного трикотажу. - Ювелірний акцент: Підкресліть р"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "lack of Explain that the dress is designed for layering. sleeves isn't Paired with the Madira 2435 jacket or worn practical for under the Sciroppo 0101 coat, it creates a warm winter» yet streamlined look. «The knit skirt Point out the density of the \"maglia rasata\" might stretch out» knit and the vertical ribbing. This \"rib\" detail acts as a structural framework, helping the piece maintain a crisp silhouette. «The gold buttons On the contrary, they give the basic dress feel too a finished look. LS's gold hardware is an \"Old formal» Money\" marker that spares the client the need to spend time choosing accessories. «The wool might be Suggest a tactile test of the lana vergine. This is scratchy on the the softest category of wool, specially neck» processed for maximum comfort in sensitive areas. «The midi length Draw attention to the vertical line created by might visually the ribbing and the button placket. Paired with shorten my heeled boots (such as the Ulisside 0101 0038), height» the dress, in fact, creates a tall, statuesque silhouette"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Отсутствие",
+        "a": "Поясните, что платье создано для многослойности. В рукавов непрактично сочетании с жакетом Madira 2435 или под пальто для зимы Sciroppo 0101 оно создает теплый и при этом не громоздкий образ."
+      },
+      {
+        "q": "Вязаная юбка",
+        "a": "Укажите на плотность вязки «maglia rasata и может вытянуться» наличие вертикальной нервюры. Эта."
+      },
+      {
+        "q": "реберная",
+        "a": "деталь выступает в роли каркаса, помогая изделию сохранять четкость силуэта."
+      },
+      {
+        "q": "Золотые пуговицы Напротив, они придают базовому платью слишком законченность. Золотистая фурнитура LS — это обязывают",
+        "a": "маркер."
+      },
+      {
+        "q": "Old Money",
+        "a": "который позволяет не тратить время на подбор аксессуаров."
+      },
+      {
+        "q": "Шерсть может",
+        "a": "Предложите тактильно оценить lana vergine. Это колоться на шее самая мягкая категория шерсти, специально очищенная для максимального комфорта в чувствительных зонах."
+      },
+      {
+        "q": "Длина миди может",
+        "a": "Обратите внимание на вертикаль, создаваемую визуально нервюрой и застежкой на пуговицы. В сочетании с укорачивать рост сапогами на каблуке (как Ulisside 0101 0038) платье, напротив, создает статный силуэт."
+      }
+    ],
+    "ar": [
+      {
+        "q": "غياب الأكمام غير عملي لفصل الشتاء",
+        "a": "وضح أن الفستان مصمم ليتناسب مع الإطلالات متعددة الطبقات. عند تنسيقه مع سترة Madira 2435 أو تحت معطف Sciroppo 0101، فإنه يوفر مظهراً دافئاً وغير ضخم."
+      },
+      {
+        "q": "التنورة المحبوكة قد تتمدد",
+        "a": "أشر إلى كثافة الحياكة."
+      },
+      {
+        "q": "maglia rasata",
+        "a": "ووجود الضلوع العمودية. تعمل هذه التفاصيل."
+      },
+      {
+        "q": "المضلعة",
+        "a": "كهيكل داعم، مما يساعد القطعة على الحفاظ على دقة القوام."
+      },
+      {
+        "q": "الأزرار الذهبية تجعل الفستان رسمياً أكثر من اللازم",
+        "a": "على العكس تماماً، فهي تضفي لمسة نهائية متقنة على الفستان الأساسي. الإكسسوارات الذهبية من LS هي علامة على أسلوب."
+      },
+      {
+        "q": "Old Money",
+        "a": "الذي يغنيك عن عناء اختيار إكسسوارات إضافية."
+      },
+      {
+        "q": "قد تسبب الصوف حكة في الرقبة",
+        "a": "نقترح عليك تجربة ملمس lana vergine. إنها أرقى أنواع الصوف، وقد عولجت خصيصاً لضمان أقصى درجات الراحة للمناطق الحساسة."
+      },
+      {
+        "q": "طول الميدي قد يقلل من القامة بصرياً",
+        "a": "لاحظ الخط العمودي الذي تشكله الضلوع وتصميم الأزرار. عند تنسيقه مع حذاء برقبة طويلة (مثل Ulisside 0101 0038)، يمنح الفستان قامة ممشوقة ومثالية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მკლავების არქონა არაპრაქტიკულია",
+        "a": "განმარტეთ, რომ კაბა განკუთვნილია მრავალშრიანი სტილისთვის. Madira 2435-ის პიჯაკთან ან ზამთრის პალტოსთან Sciroppo 0101 ერთად, ის ქმნის თბილ და ამავდროულად დახვეწილ, მსუბუქ იერს."
+      },
+      {
+        "q": "ნაქსოვი ქვედაბოლო შეიძლება გაიწელოს",
+        "a": "მიუთითეთ."
+      },
+      {
+        "q": "maglia rasata“-ს ქსოვის სიმკვრივეზე და ვერტიკალური ნეკნების არსებობაზე. ეს „ნეკნოვანი“ დეტალი კარკასის როლს ასრულებს და ეხმარება ნაკეთობას შეინარჩუნოს სილუეტის მკვეთრი ფორმა. «ოქროს ღილები ძალიან მავალდებულებს",
+        "a": "პირიქით, ისინი ძირითად კაბას სრულყოფილ იერს სძენენ. LS-ის ოქროსფერი ფურნიტურა არის."
+      },
+      {
+        "q": "Old Money“-ს მარკერი, რაც საშუალებას გაძლევთ არ დაკარგოთ დრო აქსესუარების შერჩევაში. «მატყლმა შეიძლება ყელი გაღიზიანოს",
+        "a": "შესთავაზეთ ტაქტილურად შეაფასოთ lana vergine. ეს არის მატყლის ყველაზე რბილი კატეგორია, რომელიც სპეციალურად არის დამუშავებული მგრძნობიარე ზონებში მაქსიმალური კომფორტისთვის."
+      },
+      {
+        "q": "მიდი სიგრძემ შეიძლება ვიზუალურად დაამოკლოს ტანი",
+        "a": "ყურადღება გაამახვილეთ ვერტიკალზე, რომელსაც ქმნის ნეკნები და ღილებიანი შესაკრავი. ქუსლიან ჩექმებთან (როგორიცაა Ulisside 0101 0038) ერთად, კაბა, პირიქით, ქმნის სტატურ სილუეტს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Թևերի բացակայությունը գործնական չէ",
+        "a": "Բացատրեք, որ զգեստը նախատեսված է շերտավորման (layering) համար: Madira 2435 բաճկոնի կամ Sciroppo 0101 ձմեռային վերարկուի հետ համադրությամբ այն ստեղծում է ջերմ և ոչ ծանրաբեռնված կերպար."
+      },
+      {
+        "q": "Տրիկոտաժե կիսաշրջազգեստը կարող է ձգվել",
+        "a": "Մատնանշեք."
+      },
+      {
+        "q": "maglia rasata",
+        "a": "հյուսվածքի խտությունը և ուղղահայաց կողերի առկայությունը: Այս."
+      },
+      {
+        "q": "կողային",
+        "a": "դետալը հանդես է գալիս որպես հենք՝ օգնելով արտադրանքին պահպանել ուրվագծի հստակությունը."
+      },
+      {
+        "q": "Ոսկեգույն կոճակները պարտավորեցնող են",
+        "a": "Ընդհակառակը, դրանք հիմնական զգեստին հաղորդում են ավարտուն տեսք: LS ոսկեգույն աքսեսուարները."
+      },
+      {
+        "q": "Old Money",
+        "a": "ոճի նշան են, որը թույլ է տալիս ժամանակ չծախսել լրացուցիչ աքսեսուարներ ընտրելու վրա."
+      },
+      {
+        "q": "Բուրդը կարող է գրգռել պարանոցի հատվածը",
+        "a": "Առաջարկեք շոշափել lana vergine-ը: Սա բրդի ամենափափուկ տեսակն է, որը հատուկ մշակված է զգայուն հատվածներում առավելագույն հարմարավետություն ապահովելու համար."
+      },
+      {
+        "q": "Միդի երկարությունը կարող է տեսողականորեն կարճացնել հասակը",
+        "a": "Ուշադրություն դարձրեք ուղղահայաց գծին, որը ստեղծվում է կողերի և կոճակների շարքի միջոցով: Բարձրակրունկ կոշիկների հետ (ինչպես Ulisside 0101 0038-ը), զգեստը, ընդհակառակը, ստեղծում է վեհաշուք ուրվագիծ."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Bez piedurknēm",
+        "a": "Paskaidrojiet, ka kleita radīta vairākslāņu tēliem. Kombinācijā ir nepraktiski ar Madira 2435 žaketi vai zem mēteļa ziemai Sciroppo 0101 tā rada siltu un tajā pašā laikā neapjomīgu koptēlu."
+      },
+      {
+        "q": "Adīti svārki",
+        "a": "Norādiet uz «maglia rasata adījuma blīvumu var izstiepties» un vertikālo ribu klātbūtni. Šī."
+      },
+      {
+        "q": "rievotā",
+        "a": "detaļa darbojas kā karkass, palīdzot izstrādājumam saglabāt silueta skaidrību."
+      },
+      {
+        "q": "Zelta pogas Turpretī tās piešķir bāzes kleitai noslēgtību. Zeltītā uzliek par pienākumu",
+        "a": "LS furnitūra ir."
+      },
+      {
+        "q": "Old Money",
+        "a": "stila marķieris, kas ļauj netērēt laiku aksesuāru piemeklēšanai."
+      },
+      {
+        "q": "Vilna var",
+        "a": "Iesakiet taktilā veidā novērtēt lana vergine. Šī ir kost uz kakla vismīkstākā vilnas kategorija, kas īpaši attīrīta maksimālam komfortam jutīgās zonās."
+      },
+      {
+        "q": "Midi garums var",
+        "a": "Pievērsiet uzmanību vertikālei, ko rada ribojums un vizuāli saīsināt augumu aizdare ar pogām. Kombinācijā ar zābakiem uz papēža (kā Ulisside 0101 0038) kleita, gluži pretēji, rada staltu siluetu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikimui: „Be rankovių – nepraktiška žiemą",
+        "a": "Paaiškinkite, kad suknelė sukurta sluoksniavimui. Derinant su Madira 2435 švarkeliu ar po paltu Sciroppo 0101, sukuriamas šiltas ir ne griozdiškas įvaizdis. , kad suknelė sukurta sluoksniavimui. Derinant su Madira 2435 švarkeliu ar po paltu Sciroppo 0101, sukuriamas šiltas ir ne griozdiškas įvaizdis."
+      },
+      {
+        "q": "„Megztas sijonas gali išsitampyti",
+        "a": "Nurodykite „maglia rasata“ mezgimo tankį ir vertikalių briaunų buvimą. Ši „briaunota“ detalė veikia kaip karkasas, padedantis gaminiui išlaikyti silueto aiškumą. „Auksinės sagos per daug įpareigoja“ Priešingai, jos suteikia bazinei suknelei užbaigtumo. LS aukso spalvos furnitūra yra „Old Money“ stiliaus ženklas, leidžiantis negaišti laiko aksesuarų derinimui. „maglia rasata“ mezgimo tankį ir vertikalių briaunų buvimą. Ši „briaunota“ detalė veikia kaip karkasas, padedantis gaminiui išlaikyti silueto aiškumą. „Auksinės sagos per daug įpareigoja“ Priešingai, jos suteikia bazinei suknelei užbaigtumo. LS aukso spalvos furnitūra yra „Old Money“ stiliaus ženklas, leidžiantis negaišti laiko aksesuarų derinimui."
+      },
+      {
+        "q": "„Vilna gali badyti kaklą",
+        "a": "Pasiūlykite taktiškai įvertinti lana vergine. Tai minkščiausia vilnos kategorija, specialiai išvalyta maksimaliam komfortui jautriose zonose. taktiškai įvertinti lana vergine. Tai minkščiausia vilnos kategorija, specialiai išvalyta maksimaliam komfortui jautriose zonose."
+      },
+      {
+        "q": "„Midi ilgis gali vizualiai trumpinti ūgį",
+        "a": "Atkreipkite dėmesį į vertikalę, kurią sukuria briaunos ir sagų užsegimas. Derinant su ilgaauliais aukštakulniais (pvz. Ulisside 0101 0038), suknelė, priešingai, sukuria grakštų siluetą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Brak rękawów jest niepraktyczny",
+        "a": "Wyjaśnij, że sukienka została stworzona z myślą o stylizacjach warstwowych. W połączeniu z żakietem Madira 2435 lub pod płaszczem Sciroppo 0101 tworzy ciepłą, a jednocześnie nieprzeładowaną stylizację."
+      },
+      {
+        "q": "Dzianinowa spódnica może się rozciągnąć",
+        "a": "Wskaż na gęstość splotu."
+      },
+      {
+        "q": "maglia rasata",
+        "a": "oraz obecność pionowych żebrowań. Ten element pełni funkcję stelaża, pomagając odzieży zachować wyrazistość sylwetki."
+      },
+      {
+        "q": "Złote guziki do czegoś zobowiązują",
+        "a": "Wręcz przeciwnie, nadają bazowej sukience wykończenie. Złociste okucia LS to znak rozpoznawczy."
+      },
+      {
+        "q": "Old Money",
+        "a": "który pozwala zaoszczędzić czas na dobieraniu akcesoriów."
+      },
+      {
+        "q": "Wełna może drapać w szyję",
+        "a": "Zaproponuj dotykową ocenę lana vergine. To najdelikatniejsza kategoria wełny, specjalnie oczyszczona dla maksymalnego komfortu w wrażliwych strefach."
+      },
+      {
+        "q": "Długość midi może optycznie skracać wzrost",
+        "a": "Zwróć uwagę na pionową linię tworzoną przez żebrowanie i zapięcie na guziki. W połączeniu z butami na obcasie (jak Ulisside 0101 0038) sukienka tworzy dostojną sylwetkę."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Відсутність",
+        "a": "Поясніть, що сукню створено для багатошаровості. У рукавів непрактично поєднанні з жакетом Madira 2435 або під пальто для зими Sciroppo 0101 вона створює теплий і при цьому не громіздкий образ."
+      },
+      {
+        "q": "В’язана спідниця",
+        "a": "Вкажіть на щільність в’язки «maglia rasata та може витягнутися» наявність вертикальної нервюри. Ця."
+      },
+      {
+        "q": "реберна",
+        "a": "деталь виступає в ролі каркаса, допомагаючи виробу зберігати чіткість силуету."
+      },
+      {
+        "q": "Золоті ґудзики Навпаки, вони надають базовій сукні надто завершеність. Золотиста фурнітура LS — це зобов'язують",
+        "a": "маркер."
+      },
+      {
+        "q": "Old Money",
+        "a": "який дозволяє не витрачати час на підбір аксесуарів."
+      },
+      {
+        "q": "Вовна може",
+        "a": "Запропонуйте тактильно оцінити lana vergine. Це колотися на шиї найм'якша категорія вовни, спеціально очищена для максимального комфорту в чутливих зонах."
+      },
+      {
+        "q": "Довжина міді може",
+        "a": "Зверніть увагу на вертикаль, що створюється візуально нервюрою та застібкою на ґудзики. У поєднанні з укорочувати зріст чоботями на підборах (як Ulisside 0101 0038) сукня, навпаки, створює статний силует."
+      }
+    ]
+  }
+}

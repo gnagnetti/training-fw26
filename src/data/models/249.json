@@ -1,0 +1,404 @@
+{
+  "id": 249,
+  "name": "Olivetano",
+  "description": {
+    "en": "The Olivetano trousers are a harmony of everyday comfort and Luisa Spagnoli's aristocratic spirit. The slim-silhouette piece is crafted from soft cotton velour with a touch of elastane, ensuring a flawless fit and a delicate texture. The five-pocket cut, inspired by the classics, is completed with exquisite rivetti araldici â€” archival metal details bearing the house's monogram in an antique-gold finish, lending the piece status and a subtle vintage chic. This is a versatile choice for the winter wardrobe in the 'quiet luxury' style, uniting functionality with the nobility of its materials.",
+    "ru": "Брюки Olivetano — это гармония повседневного комфорта и аристократичного духа Luisa Spagnoli. Модель slim-силуэта выполнена из мягкого хлопкового велюра с добавлением эластана, что обеспечивает безупречную посадку и деликатную текстуру. Пятикарманный крой, вдохновленный классикой, дополнен изысканными rivetti araldici — архивными металлическими деталями с монограммой бренда в цвете античного золота, которые придают изделию статусность и легкий винтажный шик. Это универсальный выбор для зимнего гардероба в стиле 'quiet luxury', сочетающий в себе функциональность и благородство материалов.",
+    "ar": "تجمع سراويل Olivetano بين راحة الإطلالات اليومية والروح الأرستقراطية لعلامة Luisa Spagnoli. صُمم هذا الموديل بقصة slim من مخمل القطن الناعم الممزوج بالإيلاستين لضمان مقاس مثالي وملمس رقيق. تستلهم هذه السراويل تصميمها من الكلاسيكيات ذات الجيوب الخمسة، وتزدان بقطع rivetti araldici الفريدة، وهي تفاصيل معدنية أرشيفية تحمل شعار العلامة التجارية بلون الذهب العتيق، مما يضفي على القطعة لمسة من الفخامة والأناقة الكلاسيكية. إنها خيار متعدد الاستخدامات لخزانة ملابس الشتاء بأسلوب 'quiet luxury'، حيث تجمع بين العملية ورقي الخامات.",
+    "ka": "შარვალი Olivetano — ეს არის ყოველდღიური კომფორტისა და Luisa Spagnoli-ს არისტოკრატული სულის ჰარმონია. slim-სილუეტის მოდელი დამზადებულია რბილი ბამბის ველიურისგან ელასტანის დამატებით, რაც უზრუნველყოფს უნაკლო მორგებასა და დელიკატურ ტექსტურას. კლასიკით შთაგონებული ხუთჯიბიანი კროი დამატებულია დახვეწილი rivetti araldici-ით — ანტიკვარული ოქროსფერი ბრენდული მონოგრამით გაფორმებული არქივის მეტალის დეტალებით, რომლებიც ნაკეთობას სტატუსურობას და მსუბუქ ვინტაჟურ შიკს სძენს. ეს არის უნივერსალური არჩევანი ზამთრის გარდერობისთვის 'quiet luxury' სტილში, რომელიც აერთიანებს ფუნქციურობასა და მასალების კეთილშობილებას.",
+    "hy": "Olivetano տաբատը Luisa Spagnoli-ի առօրյա հարմարավետության և արիստոկրատական ոգու ներդաշնակությունն է։ Slim-ուրվագծով մոդելը կարված է էլաստանի հավելումով փափուկ բամբակյա վելյուրից, որն ապահովում է անթերի նստվածք և նուրբ հյուսվածք։ Դասականից ոգեշնչված հինգ գրպանանի կտրվածքը համալրված է նրբագեղ rivetti araldici-ով՝ անտիկ ոսկեգույն երանգով ապրանքանիշի մոնոգրամով արխիվային մետաղական դետալներով, որոնք արտադրանքին հաղորդում են կարգավիճակ և թեթև վինտաժային շքեղություն։ Սա «quiet luxury» ոճի ձմեռային զգեստապահարանի համար ունիվերսալ ընտրություն է, որը համատեղում է ֆունկցիոնալությունը և նյութերի ազնվությունը։",
+    "lv": "Bikses Olivetano ir ikdienas komforta un Luisa Spagnoli aristokrātiskā gara harmonija. Slim-silueta modelis ir izgatavots no mīksta kokvilnas velūra ar elastāna piejaukumu, kas nodrošina nevainojamu piegulumu un maigu tekstūru. Klasikas iedvesmotais piecu kabatu piegriezums ir papildināts ar izsmalcinātām rivetti araldici — zīmola arhīva metāla detaļām ar monogrammu antīkā zelta krāsā, kas piešķir izstrādājumam statusu un vieglu vintage šiku. Tā ir universāla izvēle ziemas garderobei 'quiet luxury' stilā, apvienojot funkcionalitāti un materiālu cēlumu.",
+    "lt": "Olivetano kelnės – tai kasdienio komforto ir aristokratiškos Luisa Spagnoli dvasios harmonija. Slim-silueto modelis pagamintas iš minkšto medvilninio veliūro su elastanu, užtikrinančio nepriekaištingą prigludimą ir švelnią tekstūrą. Penkių kišenių kirpimas, įkvėptas klasikos, papildytas išskirtiniais rivetti araldici – archyvinėmis metalinėmis detalėmis su prekės ženklo monograma antikvarinio aukso spalva, suteikiančiomis gaminiui statuso ir lengvo vintažinio prašmatnumo. Tai universalus pasirinkimas žiemos garderobui „quiet luxury“ stiliumi, derinantis funkcionalumą ir medžiagų kilnumą.",
+    "pl": "Spodnie Olivetano to harmonia codziennego komfortu i arystokratycznego ducha Luisa Spagnoli. Model o kroju slim wykonany jest z miękkiego bawełnianego weluru z dodatkiem elastanu, co zapewnia nienaganne dopasowanie i delikatną teksturę. Fason z pięcioma kieszeniami, inspirowany klasyką, został uzupełniony wykwintnymi rivetti araldici — archiwalnymi metalowymi detalami z monogramem marki w kolorze antycznego złota, które nadają produktowi prestiż i lekki, vintage szyk. To uniwersalny wybór do zimowej garderoby w stylu 'quiet luxury', łączący funkcjonalność i szlachetność materiałów.",
+    "uk": "Брюки Olivetano — це гармонія повсякденного комфорту та аристократичного духу Luisa Spagnoli. Модель slim-силуету виконана з м'якого бавовняного велюру з додаванням еластану, що забезпечує бездоганну посадку та делікатну текстуру. П'ятикарманний крій, натхненний класикою, доповнений вишуканими rivetti araldici — архівними металевими деталями з монограмою бренду в кольорі античного золота, які надають виробу статусності та легкого вінтажного шику. Це універсальний вибір для зимового гардероба в стилі 'quiet luxury', що поєднує в собі функціональність та благородство матеріалів."
+  },
+  "colors": [
+    {
+      "name": "Blu",
+      "code": "1251",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/QXBRddRtRfyF-CI0R37DgA_392918825696f43087b6123_57329480_02821450XX1.jpg"
+    },
+    {
+      "name": "Marrone Cioccolato",
+      "code": "0943",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qdI5UwLCT1OH3R6NaxIWHg_1650191426696f42e87b11a6_96447037_02820670XX1.jpg"
+    },
+    {
+      "name": "Verde Muschio",
+      "code": "1793",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cvNRdSSbR3uGZFsM3BKLqg_26644077696f42e8e0b843_49978902_02820680XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Look 89 (Urban Sophisticate)",
+        "en": "Look 89 (Urban Sophisticate)",
+        "ar": "Look 89 (Urban Sophisticate)",
+        "ka": "Look 89 (Urban Sophisticate)",
+        "hy": "Look 89 (Urban Sophisticate)",
+        "lv": "Look 89 (Urban Sophisticate)",
+        "lt": "Look 89 (Urban Sophisticate)",
+        "pl": "Look 89 (Urban Sophisticate)",
+        "uk": "Look 89 (Urban Sophisticate)"
+      },
+      "text": {
+        "ru": "Olivetano 0943 в благородном ансамбле с тренчем Supporre 0995 и пуловером Murcia 2544.",
+        "en": "Olivetano 0943 in a noble ensemble with a trench coat Supporre 0995 and pullover Murcia 2544.",
+        "ar": "Olivetano 0943 in a noble ensemble with a trench coat Supporre 0995 and pullover Murcia 2544.",
+        "ka": "Olivetano 0943 in a noble ensemble with a trench coat Supporre 0995 and pullover Murcia 2544.",
+        "hy": "Olivetano 0943 in a noble ensemble with a trench coat Supporre 0995 and pullover Murcia 2544.",
+        "lv": "Olivetano 0943 in a noble ensemble with a trench coat Supporre 0995 and pullover Murcia 2544.",
+        "lt": "Olivetano 0943 in a noble ensemble with a trench coat Supporre 0995 and pullover Murcia 2544.",
+        "pl": "Olivetano 0943 in a noble ensemble with a trench coat Supporre 0995 and pullover Murcia 2544.",
+        "uk": "Olivetano 0943 in a noble ensemble with a trench coat Supporre 0995 and pullover Murcia 2544."
+      },
+      "items": [
+        {
+          "name": "Olivetano",
+          "code": "0943",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qdI5UwLCT1OH3R6NaxIWHg_1650191426696f42e87b11a6_96447037_02820670XX1.jpg"
+        },
+        {
+          "name": "Supporre",
+          "code": "0995",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A-_m01BxSlCI2yq9LK3j-A_1990879054696f430060bf33_29956349_02821230XX1.jpg",
+          "modelId": 354
+        },
+        {
+          "name": "Murcia",
+          "code": "2544",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/965f2c29-676c-4192-8d8f-b78a724a8831-removebg-preview.png",
+          "modelId": 195
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 186 (Heritage Comfort)",
+        "en": "Look 186 (Heritage Comfort)",
+        "ar": "Look 186 (Heritage Comfort)",
+        "ka": "Look 186 (Heritage Comfort)",
+        "hy": "Look 186 (Heritage Comfort)",
+        "lv": "Look 186 (Heritage Comfort)",
+        "lt": "Look 186 (Heritage Comfort)",
+        "pl": "Look 186 (Heritage Comfort)",
+        "uk": "Look 186 (Heritage Comfort)"
+      },
+      "text": {
+        "ru": "Olivetano 1793 дополненный пуловером Cremona 3349 и классической белой рубашкой Localita 0201 ( Данные об URL отсутствуют в официальных источниках).",
+        "en": "Olivetano 1793 complemented by a pullover Cremona 3349 and a classic white shirt Localita 0201 ( URL data missing in official sources).",
+        "ar": "Olivetano 1793 complemented by a pullover Cremona 3349 and a classic white shirt Localita 0201 ( URL data missing in official sources).",
+        "ka": "Olivetano 1793 complemented by a pullover Cremona 3349 and a classic white shirt Localita 0201 ( URL data missing in official sources).",
+        "hy": "Olivetano 1793 complemented by a pullover Cremona 3349 and a classic white shirt Localita 0201 ( URL data missing in official sources).",
+        "lv": "Olivetano 1793 complemented by a pullover Cremona 3349 and a classic white shirt Localita 0201 ( URL data missing in official sources).",
+        "lt": "Olivetano 1793 complemented by a pullover Cremona 3349 and a classic white shirt Localita 0201 ( URL data missing in official sources).",
+        "pl": "Olivetano 1793 complemented by a pullover Cremona 3349 and a classic white shirt Localita 0201 ( URL data missing in official sources).",
+        "uk": "Olivetano 1793 complemented by a pullover Cremona 3349 and a classic white shirt Localita 0201 ( URL data missing in official sources)."
+      },
+      "items": [
+        {
+          "name": "Olivetano",
+          "code": "1793",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cvNRdSSbR3uGZFsM3BKLqg_26644077696f42e8e0b843_49978902_02820680XX1.jpg"
+        },
+        {
+          "name": "Cremona",
+          "code": "3349",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eDNHV1c0RjWSZGmKSRYFrg_608445424696f436c3f19c0_12821392_02830820XX1.jpg",
+          "modelId": 15
+        },
+        {
+          "name": "Localita",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1407561629692424cfaef943_59921062_02781240XX1.jpg",
+          "modelId": 422
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 207 (Status Monochrome)",
+        "en": "Look 207 (Status Monochrome)",
+        "ar": "Look 207 (Status Monochrome)",
+        "ka": "Look 207 (Status Monochrome)",
+        "hy": "Look 207 (Status Monochrome)",
+        "lv": "Look 207 (Status Monochrome)",
+        "lt": "Look 207 (Status Monochrome)",
+        "pl": "Look 207 (Status Monochrome)",
+        "uk": "Look 207 (Status Monochrome)"
+      },
+      "text": {
+        "ru": "Olivetano 1251 в сочетании с изысканным укороченным кардиганом Cetello 0637.",
+        "en": "Olivetano 1251 combined with an exquisite cropped cardigan Cetello 0637.",
+        "ar": "Olivetano 1251 combined with an exquisite cropped cardigan Cetello 0637.",
+        "ka": "Olivetano 1251 combined with an exquisite cropped cardigan Cetello 0637.",
+        "hy": "Olivetano 1251 combined with an exquisite cropped cardigan Cetello 0637.",
+        "lv": "Olivetano 1251 combined with an exquisite cropped cardigan Cetello 0637.",
+        "lt": "Olivetano 1251 combined with an exquisite cropped cardigan Cetello 0637.",
+        "pl": "Olivetano 1251 combined with an exquisite cropped cardigan Cetello 0637.",
+        "uk": "Olivetano 1251 combined with an exquisite cropped cardigan Cetello 0637."
+      },
+      "items": [
+        {
+          "name": "Olivetano",
+          "code": "1251",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/QXBRddRtRfyF-CI0R37DgA_392918825696f43087b6123_57329480_02821450XX1.jpg"
+        },
+        {
+          "name": "Cetello",
+          "code": "0637",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ippR9KCMQ_GOpzZe1V_CHA_2090121335696f4357bc02b2_65815731_02830110XX1.jpg",
+          "modelId": 9
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the topical fabric: eco-leather is a key trend of the season, adding a contemporary note to a classic wardrobe while offering exceptional practicality.",
+      "Emphasise the benefits of the loose-fit cut with open pleats: this construction allows freedom of movement and creates a fashionable volume that visually slims the waist.",
+      "Recommend styling the Oneta trousers with heeled or platform footwear, such as the Urbana ankle boots, to maximise the elongation of the silhouette and balance the width of the leg."
+    ],
+    "ru": [
+      "Сфокусируйте внимание клиента на тактильных ощущениях: хлопковый вельвет (velour) от Luisa Spagnoli обладает исключительной мягкостью, что делает его идеальной альтернативой джинсам в холодный сезон.",
+      "Акцентируйте внимание на крое slim fit: пятикарманная модель спроектирована так, чтобы подчеркивать стройность ног, сохраняя при этом сдержанный и элегантный вид.",
+      "Подчеркните ценность деталей:rivetti araldici — это ювелирный код бренда, превращающий базовые брюки в предмет коллекционного интереса."
+    ],
+    "ar": [
+      "ركزي انتباه العميل على الملمس الناعم: فمخمل القطن (velour) من Luisa Spagnoli يتمتع بنعومة استثنائية، مما يجعله بديلاً مثالياً للجينز في المواسم الباردة.",
+      "أكدي على قصة slim fit: صُمم هذا الموديل ذو الجيوب الخمسة ليبرز رشاقة الساقين مع الحفاظ على مظهر متزن وأنيق.",
+      "أبرزي قيمة التفاصيل: فـ rivetti araldici هي رمز العلامة التجارية الفاخر الذي يحول السروال الأساسي إلى قطعة تستحق الاقتناء."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება ტაქტილურ შეგრძნებებზე: Luisa Spagnoli-ს ბამბის ხავერდი (velour) გამოირჩევა განსაკუთრებული რბილობით, რაც მას ცივ სეზონში ჯინსის იდეალურ ალტერნატივად აქცევს.",
+      "აქცენტი გააკეთეთ slim fit-ის კრავიზე: ხუთჯიბიანი მოდელი გათვლილია ისე, რომ ხაზი გაუსვას ფეხების სიგამხდრეს და ამავდროულად შეინარჩუნოს თავშეკავებული და ელეგანტური იერსახე.",
+      "ხაზი გაუსვით დეტალების ღირებულებას: rivetti araldici — ეს არის ბრენდის საიუველირო კოდი, რომელიც საბაზისო შარვალს კოლექციურ ღირებულების ნივთად აქცევს."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք շոշափողական զգացողությունների վրա. Luisa Spagnoli-ի բամբակյա թավիշը (velour) օժտված է բացառիկ փափկությամբ, ինչը այն դարձնում է ջինսերի իդեալական այլընտրանք ցուրտ եղանակին։",
+      "Շեշտադրեք slim fit ձևվածքը. հինգ գրպանանի մոդելը նախագծված է այնպես, որպեսզի ընդգծի ոտքերի սլացիկությունը՝ միաժամանակ պահպանելով զուսպ և էլեգանտ տեսք։",
+      "Ընդգծեք դետալների արժեքը. rivetti araldici-ն բրենդի ոսկերչական կոդն է, որը բազային տաբատը վերածում է հավաքածուային հետաքրքրություն ներկայացնող իրի։"
+    ],
+    "lv": [
+      "Pievērsiet klienta uzmanību taustes sajūtām: kokvilnas velvets (velour) no Luisa Spagnoli ir izcili mīksts, kas padara to par ideālu alternatīvu džinsiem aukstajā sezonā.",
+      "Akcentējiet slim fit piegriezumu: piecu kabatu modelis ir izstrādāts tā, lai izceltu kāju slaidumu, vienlaikus saglabājot atturīgu un elegantu izskatu.",
+      "Uzsveriet detaļu vērtību: rivetti araldici — tas ir zīmola juvelierizstrādājumu kods, kas pārvērš vienkāršas bikses kolekcionējamā priekšmetā."
+    ],
+    "lt": [
+      "Sutelkite kliento dėmesį į pojūčius liečiant: medvilninis aksomas (velour) iš Luisa Spagnoli yra itin minkštas, todėl tai ideali alternatyva džinsams šaltuoju sezonu.",
+      "Akcentuokite slim fit kirpimą: penkių kišenių modelis sukurtas taip, kad pabrėžtų kojų grakštumą, išlaikant santūrų ir elegantišką vaizdą.",
+      "Pabrėžkite detalių vertę: rivetti araldici – tai juvelyrinis prekės ženklo kodas, paverčiantis bazines kelnes kolekcinio intereso verta detale."
+    ],
+    "pl": [
+      "Skup uwagę klienta na wrażeniach dotykowych: bawełniany aksamit (velour) od Luisa Spagnoli posiada wyjątkową miękkość, co czyni go idealną alternatywą dla jeansów w chłodnym sezonie.",
+      "Akcentuj uwagę na kroju slim fit: model z pięcioma kieszeniami został zaprojektowany tak, aby podkreślać smukłość nóg, zachowując przy tym powściągliwy i elegancki wygląd.",
+      "Podkreśl wartość detali: rivetti araldici to jubilerski kod marki, zmieniający bazowe spodnie w obiekt kolekcjonerskiego zainteresowania."
+    ],
+    "uk": [
+      "Сфокусуйте увагу клієнта на тактильних відчуттях: бавовняний вельвет (velour) від Luisa Spagnoli володіє винятковою м'якістю, що робить його ідеальною альтернативою джинсам у холодний сезон.",
+      "Акцентуйте увагу на крої slim fit: п'ятикишенькова модель спроєктована так, щоб підкреслювати стрункість ніг, зберігаючи при цьому стриманий та елегантний вигляд.",
+      "Підкресліть цінність деталей: rivetti araldici — це ювелірний код бренду, що перетворює базові штани на предмет колекційного інтересу."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Velour may seem like too casual a material.",
+        "a": "Point out the fabric's refined matte sheen and the signature LS hardware. These details allow Olivetano to be styled even for business meetings, paired with a silk blouse or a structured jacket."
+      },
+      {
+        "q": "Caring for cotton velour in winter seems complex.",
+        "a": "Explain that the dense weave and the addition of 2% elastane make the material durable. The trousers hold their shape beautifully and retain their colour depth with professional care."
+      },
+      {
+        "q": "A slim cut may be uncomfortable for an active day.",
+        "a": "Reassure the client of the fabric's elasticity. The composition (98% cotton, 2% elastane) guarantees freedom of movement and prevents deformation at the knees."
+      },
+      {
+        "q": "The Verde Muschio colour seems specific to pair with.",
+        "a": "Demonstrate how this deep, nature-inspired shade functions as a 'new neutral,' pairing beautifully with the beige, cream, and chocolate tones of the winter collection."
+      },
+      {
+        "q": "The material may attract lint.",
+        "a": "Clarify that Luisa Spagnoli uses a premium cotton treatment that minimises static and keeps the velour's texture pristine for a long time."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Велюр может казаться слишком повседневным материалом",
+        "a": "Укажите на благородный матовый блеск ткани и фирменную фурнитуру LS. Эти детали позволяют стилизовать Olivetano даже для деловых встреч в сочетании с шелковой блузой или строгим жакетом."
+      },
+      {
+        "q": "Сложность в уходе за хлопковым велюром в зимний период",
+        "a": "Объясните, что высокая плотность плетения и добавление 2% эластана делают материал износостойким. Брюки отлично держат форму и сохраняют глубину цвета при профессиональном уходе."
+      },
+      {
+        "q": "Узкий крой slim может быть некомфортным для активного дня",
+        "a": "Заверьте клиента в эластичности полотна. Состав ткани (98% хлопок, 2% эластан) гарантирует свободу движений и предотвращает деформацию в области коленей."
+      },
+      {
+        "q": "Цвет Verde Muschio кажется специфическим для сочетания",
+        "a": "Продемонстрируйте, как этот глубокий природный оттенок работает в качестве «новой базы», идеально дополняя палитру бежевых, кремовых и шоколадных тонов зимней коллекции."
+      },
+      {
+        "q": "Материал может притягивать ворсинки",
+        "a": "Поясните, что Luisa Spagnoli использует высококачественную обработку хлопка, которая минимизирует статический эффект и надолго сохраняет чистоту фактуры велюра."
+      }
+    ],
+    "ar": [
+      {
+        "q": "المخمل قد يبدو خامة يومية أكثر من اللازم",
+        "a": "أشيري إلى اللمعان المطفي الفاخر للقماش وإكسسوارات LS المميزة، فهذه التفاصيل تتيح ارتداء Olivetano حتى في الاجتماعات الرسمية عند تنسيقه مع بلوزة حريرية أو سترة رسمية."
+      },
+      {
+        "q": "صعوبة العناية بالمخمل القطني في فصل الشتاء",
+        "a": "وضحي أن الكثافة العالية للنسيج وإضافة 2% من الإيلاستين تجعل المادة مقاومة للاهتراء، حيث يحافظ السروال على شكله وعمق لونه مع العناية الاحترافية."
+      },
+      {
+        "q": "القصة الضيقة slim قد تكون غير مريحة ليوم حافل",
+        "a": "أكدي للعميلة على مرونة القماش، حيث تضمن تركيبة الأنسجة (98% قطن، 2% إيلاستين) حرية الحركة وتمنع تشوه القماش عند الركبتين."
+      },
+      {
+        "q": "لون Verde Muschio يبدو صعب التنسيق",
+        "a": "استعرضي كيف يعمل هذا اللون الطبيعي العميق كـ «أساس جديد»، حيث يكمل بشكل مثالي لوحة الألوان البيج والكريمية والبنية في التشكيلة الشتوية."
+      },
+      {
+        "q": "المادة قد تجذب الألياف والوبر",
+        "a": "أوضحي أن Luisa Spagnoli تستخدم معالجة عالية الجودة للقطن، مما يقلل من التأثير الساكن ويحافظ على نظافة ملمس المخمل لفترة طويلة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ხავერდი შესაძლოა ზედმეტად ყოველდღიურ მასალად მოგეჩვენოთ",
+        "a": "ყურადღება გაამახვილეთ ქსოვილის კეთილშობილურ მქრქალ ბზინვარებასა და LS-ის საფირმო ფურნიტურაზე. ეს დეტალები საშუალებას იძლევა Olivetano მოერგოს საქმიან შეხვედრებსაც კი აბრეშუმის ბლუზთან ან მკაცრ პიჯაკთან შეხამებით."
+      },
+      {
+        "q": "ზამთრის პერიოდში ბამბის ხავერდის მოვლის სირთულე",
+        "a": "განმარტეთ, რომ წნულის მაღალი სიმკვრივე და 2% ელასტანის დამატება მასალას მდგრადს ხდის ცვეთის მიმართ. შარვალი შესანიშნავად ინარჩუნებს ფორმასა და ფერის სიღრმეს პროფესიონალური მოვლისას."
+      },
+      {
+        "q": "ვიწრო slim-ჭრა შესაძლოა არაკომფორტული იყოს აქტიური დღისთვის",
+        "a": "დაარწმუნეთ კლიენტი ქსოვილის ელასტიურობაში. ქსოვილის შემადგენლობა (98% ბამბა, 2% ელასტანი) გარანტიას იძლევა მოძრაობის თავისუფლებისა და მუხლების არეში დეფორმაციის თავიდან აცილების."
+      },
+      {
+        "q": "Verde Muschio-ს ფერი შეხამებისთვის სპეციფიკურად მოგეჩვენებათ",
+        "a": "უჩვენეთ, როგორ მუშაობს ეს ღრმა ბუნებრივი ტონი როგორც „ახალი ბაზა“, იდეალურად ავსებს ზამთრის კოლექციის კრემისფერი, ნაღებისფერი და შოკოლადისფერი ტონების პალიტრას."
+      },
+      {
+        "q": "მასალა შესაძლოა იზიდავდეს ბუსუსებს",
+        "a": "განმარტეთ, რომ Luisa Spagnoli იყენებს ბამბის მაღალხარისხიან დამუშავებას, რომელიც ამცირებს სტატიკურ ეფექტს და დიდხანს ინარჩუნებს ხავერდის ფაქტურის სისუფთავეს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Թավիշը կարող է չափազանց առօրյա նյութ թվալ",
+        "a": "Մատնանշեք կտորի ազնվական փայլը և LS-ի ֆիրմային աքսեսուարները: Այս մանրամասները թույլ են տալիս Olivetano-ն ոճավորել նույնիսկ գործնական հանդիպումների համար՝ համադրելով մետաքսե բլուզի կամ խիստ բաճկոնի հետ"
+      },
+      {
+        "q": "Ձմեռային շրջանում բամբակյա թավիշի խնամքի բարդությունը",
+        "a": "Բացատրեք, որ հյուսվածքի բարձր խտությունը և 2% էլաստանի հավելումը նյութը դարձնում են դիմացկուն: Տաբատը հիանալի պահում է ձևը և պահպանում գույնի խորությունը պրոֆեսիոնալ խնամքի դեպքում"
+      },
+      {
+        "q": "Նեղ slim կտրվածքը կարող է անհարմար լինել ակտիվ օրվա համար",
+        "a": "Վստահեցրեք հաճախորդին կտորի առաձգականության մասին: Կտորի բաղադրությունը (98% բամբակ, 2% էլաստան) երաշխավորում է շարժման ազատություն և կանխում դեֆորմացիան ծնկների հատվածում"
+      },
+      {
+        "q": "Verde Muschio գույնը համադրության համար յուրահատուկ է թվում",
+        "a": "Ցույց տվեք, թե ինչպես է այս խորը բնական երանգը աշխատում որպես «նոր բազա»՝ իդեալապես լրացնելով ձմեռային հավաքածուի բեժ, կրեմագույն և շոկոլադե երանգների պալիտրան"
+      },
+      {
+        "q": "Նյութը կարող է թելեր հավաքել",
+        "a": "Պարզաբանեք, որ Luisa Spagnoli-ն օգտագործում է բամբակի բարձրորակ մշակում, որը նվազագույնի է հասցնում ստատիկ էֆեկտը և երկար ժամանակ պահպանում թավիշի հյուսվածքի մաքրությունը"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Velūrs var šķist pārāk ikdienišķs materiāls",
+        "a": "Norādiet uz auduma cēlo matēto spīdumu un firmas LS furnitūru. Šīs detaļas ļauj stilizēt Olivetano pat lietišķām tikšanās reizēm kombinācijā ar zīda blūzi vai stingru žaketi."
+      },
+      {
+        "q": "Grūtības ar kokvilnas velūra kopšanu ziemas periodā",
+        "a": "Paskaidrojiet, ka augstais aušanas blīvums un 2% elastāna piejaukums padara materiālu nodilumizturīgu. Bikses lieliski tur formu un saglabā krāsas dziļumu profesionālas kopšanas laikā."
+      },
+      {
+        "q": "Šaurais slim piegriezums var būt neērts aktīvai dienai",
+        "a": "Aplieciniet klientam auduma elastību. Auduma sastāvs (98% kokvilna, 2% elastāns) garantē kustību brīvību un novērš deformāciju ceļgalu zonā."
+      },
+      {
+        "q": "Verde Muschio krāsa šķiet specifiska kombinēšanai",
+        "a": "Demonstrējiet, kā šis dziļais dabiskais tonis darbojas kā «jauna bāze», ideāli papildinot ziemas kolekcijas bēšo, krēmkrāsas un šokolādes toņu paleti."
+      },
+      {
+        "q": "Materiāls var piesaistīt pūciņas",
+        "a": "Paskaidrojiet, ka Luisa Spagnoli izmanto augstas kvalitātes kokvilnas apstrādi, kas samazina statisko efektu un ilgstoši saglabā velūra faktūras tīrību."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Velūras gali pasirodyti per daug kasdienė medžiaga",
+        "a": "Atkreipkite dėmesį į kilnų matinį audinio spindesį ir firminę LS furnitūrą. Šios detalės leidžia stilizuoti Olivetano net verslo susitikimams, derinant su šilkine palaidine ar griežtu švarku."
+      },
+      {
+        "q": "Medvilninio velūro priežiūros sudėtingumas žiemos periodu",
+        "a": "Paaiškinkite, kad didelis audimo tankis ir 2 % elastano priemaiša daro medžiagą atsparią dėvėjimuisi. Kelnės puikiai išlaiko formą ir spalvos sodrumą profesionaliai prižiūrint."
+      },
+      {
+        "q": "Siauras slim kirpimas gali būti nepatogus aktyviai dienai",
+        "a": "Patikinkite klientę dėl audinio elastingumo. Audinio sudėtis (98 % medvilnė, 2 % elastanas) garantuoja judesių laisvę ir apsaugo nuo deformacijos kelių srityje."
+      },
+      {
+        "q": "Verde Muschio spalva atrodo specifinė derinimui",
+        "a": "Pademonstruokite, kaip šis gilus natūralus atspalvis veikia kaip „naujas pagrindas“, idealiai papildydamas smėlio, kreminių ir šokoladinių tonų žiemos kolekcijos paletę."
+      },
+      {
+        "q": "Medžiaga gali traukti pūkelius",
+        "a": "Paaiškinkite, kad Luisa Spagnoli naudoja aukštos kokybės medvilnės apdorojimą, kuris sumažina statinį efektą ir ilgam išsaugo velūro faktūros švarą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Welur może wydawać się zbyt codziennym materiałem",
+        "a": "Wskaż na szlachetny matowy połysk tkaniny oraz firmowe okucia LS. Te detale pozwalają wystylizować Olivetano nawet na spotkania biznesowe w połączeniu z jedwabną bluzką lub eleganckim żakietem."
+      },
+      {
+        "q": "Trudności w pielęgnacji weluru bawełnianego zimą",
+        "a": "Wyjaśnij, że wysoka gęstość splotu oraz dodatek 2% elastanu sprawiają, że materiał jest odporny na zużycie. Spodnie świetnie trzymają fason i zachowują głębię koloru przy profesjonalnej pielęgnacji."
+      },
+      {
+        "q": "Wąski krój slim może być niekomfortowy w aktywnym dniu",
+        "a": "Zapewnij klientkę o elastyczności tkaniny. Skład materiału (98% bawełna, 2% elastan) gwarantuje swobodę ruchów i zapobiega odkształceniom w okolicy kolan."
+      },
+      {
+        "q": "Kolor Verde Muschio wydaje się specyficzny w łączeniu",
+        "a": "Pokaż, jak ten głęboki naturalny odcień działa jako „nowa baza”, idealnie dopełniając paletę beżowych, kremowych i czekoladowych tonów zimowej kolekcji."
+      },
+      {
+        "q": "Materiał może przyciągać drobinki kurzu",
+        "a": "Wyjaśnij, że Luisa Spagnoli stosuje wysokiej jakości obróbkę bawełny, która minimalizuje efekt statyczny i na długo zachowuje czystość faktury weluru."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Велюр може здаватися занадто повсякденним матеріалом",
+        "a": "Вкажіть на благородний матовий блиск тканини та фірмову фурнітуру LS. Ці деталі дозволяють стилізувати Olivetano навіть для ділових зустрічей у поєднанні з шовковою блузою або суворим жакетом."
+      },
+      {
+        "q": "Складність у догляді за бавовняним велюром у зимовий період",
+        "a": "Поясніть, що висока щільність плетіння та додавання 2% еластану роблять матеріал зносостійким. Штани чудово тримають форму і зберігають глибину кольору при професійному догляді."
+      },
+      {
+        "q": "Вузький крій slim може бути некомфортним для активного дня",
+        "a": "Запевніть клієнта в еластичності полотна. Склад тканини (98% бавовна, 2% еластан) гарантує свободу рухів і запобігає деформації в області колін."
+      },
+      {
+        "q": "Колір Verde Muschio здається специфічним для поєднання",
+        "a": "Продемонструйте, як цей глибокий природний відтінок працює як «нова база», ідеально доповнюючи палітру бежевих, кремових та шоколадних тонів зимової колекції."
+      },
+      {
+        "q": "Матеріал може притягувати ворсинки",
+        "a": "Поясніть, що Luisa Spagnoli використовує високоякісну обробку бавовни, яка мінімізує статичний ефект і надовго зберігає чистоту фактури велюру."
+      }
+    ]
+  }
+}

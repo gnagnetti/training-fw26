@@ -1,0 +1,411 @@
+{
+  "id": 134,
+  "name": "Madelin",
+  "description": {
+    "en": "The epitome of refinement and contemporary knitwear artistry: the Madelin midi dress, masterfully crafted from 100% Merinfleur merino wool. The dense \"punto stoffa\" knit technique ensures an impeccably fitted silhouette and lasting shape retention. A clean boat neckline accentuates the grace of the shoulder line, while long sleeves adorned with openwork lace insertions and high, close-fitting cuffs lend the model couture charm, transforming it into a versatile masterpiece for both day and evening occasions.",
+    "ru": "Олицетворение утонченности и современного трикотажного искусства: платье-миди Madelin, мастерски выполненное из 100% мериносовой шерсти Merinfleur. Техника плотной вязки «punto stoffa» обеспечивает безупречный облегающий силуэт и сохранение формы. Лаконичный вырез-лодочка подчеркивает изящество линии плеч, а длинные рукава, декорированные ажурными вставками из кружева, и высокие прилегающие манжеты придают модели кутюрный шарм, превращая её в универсальный шедевр для дневных и вечерних выходов.",
+    "ar": "تجسيد للرقي وفن الحياكة المعاصر: فستان ميدي Madelin، المصنوع ببراعة من صوف ميرينو Merinfleur بنسبة 100%. تضمن تقنية الحياكة الكثيفة \"punto stoffa\" صورة ظلية متناسقة خالية من العيوب وحفاظًا مثاليًا على شكل القطعة. يبرز خط العنق الدائري البسيط رقة خط الكتفين، بينما تضفي الأكمام الطويلة المزينة بتفاصيل الدانتيل المخرم، والأصفاد العالية المتصلة، سحرًا راقيًا (كوتور) على الطراز، مما يجعله تحفة فنية متعددة الاستخدامات للإطلالات النهارية والمسائية.",
+    "ka": "დახვეწილობისა და თანამედროვე ტრიკოტაჟის ხელოვნების განსახიერება: მიდი-კაბა Madelin, ოსტატურად დამზადებული 100% Merinfleur-ის მერინოსის მატყლისგან. მკვრივი ქსოვის ტექნიკა „punto stoffa“ უზრუნველყოფს უნაკლო, მომდგარ სილუეტს და ფორმის შენარჩუნებას. ლაკონიური ნავისებური ყელი ხაზს უსვამს მხრების ხაზის მოხდენილობას, ხოლო გრძელი სახელოები, გაფორმებული მაქმანის აჟურული ჩანართებით და მაღალი, მომდგარი მანჟეტები მოდელს კუტიურულ შარმს ანიჭებს, რაც მას უნივერსალურ შედევრად აქცევს დღის და საღამოს გასვლებისთვის.",
+    "hy": "Նրբագեղության և ժամանակակից տրիկոտաժի արվեստի մարմնացում. Madelin միդի զգեստը, որը վարպետորեն պատրաստված է 100% Merinfleur մերինոսի բրդից: «Punto stoffa» խիտ հյուսքի տեխնիկան ապահովում է անթերի կիպ ուրվագիծ և ձևի պահպանում: Նավակաձև հակիրճ բացվածքը ընդգծում է ուսերի գծի նրբագեղությունը, իսկ ժանյակավոր ներդիրներով զարդարված երկար թևերը և բարձր, կիպ մանժետները մոդելին հաղորդում են կուտյուրային հմայք՝ այն դարձնելով ունիվերսալ գլուխգործոց՝ ցերեկային և երեկոյան ելքերի համար:",
+    "lv": "Izsmalcinātības un mūsdienu trikotāžas mākslas iemiesojums: Madelin midi kleita, kas meistarīgi izgatavota no 100% Merinfleur merino vilnas. Blīvā \"punto stoffa\" adīšanas tehnika nodrošina nevainojamu, pieguļošu siluetu un formas saglabāšanu. Lakoniskais laiviņveida izgriezums izceļ plecu līnijas grāciju, bet garās piedurknes, kas dekorētas ar ažūra mežģīņu ielaidumiem, un augstās, pieguļošās aproces modelim piešķir kutīra šarmu, padarot to par universālu šedevru dienas un vakara izgājieniem.",
+    "lt": "Rafinuotumo ir šiuolaikinio mezgimo meno įsikūnijimas: Madelin midi suknelė, meistriškai pagaminta iš 100% Merinfleur merino vilnos. Tankaus „punto stoffa“ mezgimo technika užtikrina nepriekaištingą prigludusį siluetą ir formos išlaikymą. Lakoniška laivelio formos iškirptė pabrėžia pečių linijos grakštumą, o ilgos rankovės, dekoruotos ažūriniais nėrinių įsiuvais, bei aukšti prigludę rankogaliai suteikia modeliui aukštosios mados žavesio, paversdami jį universaliu šedevru tiek dieniniam, tiek vakariniam įvaizdžiui.",
+    "pl": "Uosobienie wyrafinowania i nowoczesnej sztuki dziewiarskiej: sukienka midi Madelin, mistrzowsko wykonana ze 100% wełny merynosowej Merinfleur. Technika ścisłego splotu \"punto stoffa\" zapewnia nienaganną, dopasowaną sylwetkę oraz zachowanie formy. Lakoniczny dekolt w łódkę podkreśla wdzięk linii ramion, a długie rękawy, ozdobione ażurowymi wstawkami z koronki oraz wysokie, przylegające mankiety nadają modelowi krawiecki czar, czyniąc go uniwersalnym arcydziełem na wyjścia dzienne i wieczorowe.",
+    "uk": "Обличчя витонченості та сучасного трикотажного мистецтва: сукня-міді Madelin, майстерно виконана зі 100% мериносової вовни Merinfleur. Техніка щільної в'язки «punto stoffa» забезпечує бездоганний облягаючий силует та збереження форми. Лаконічний виріз-човник підкреслює витонченість лінії плечей, а довгі рукави, декоровані ажурними вставками з мережива, та високі прилеглі манжети надають моделі кутюрного шарму, перетворюючи її на універсальний шедевр для денних та вечірніх виходів."
+  },
+  "colors": [
+    {
+      "name": "Nero Nero",
+      "code": "0101 0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/g381HkZ0QFKHoK4V-FYjsg_2078295593696f4360460570_64319565_02830410XX1.jpg"
+    },
+    {
+      "name": "Beige Tortora",
+      "code": "1163 1122",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MADELIN_116399990000%20%282%29.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Intellectual Beige)",
+        "ar": "Look 1 (Intellectual Beige)",
+        "ka": "Look 1 (Intellectual Beige)",
+        "hy": "Look 1 (Intellectual Beige)",
+        "lv": "Look 1 (Intellectual Beige)",
+        "lt": "Look 1 (Intellectual Beige)",
+        "pl": "Look 1 (Intellectual Beige)",
+        "uk": "Look 1 (Intellectual Beige)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Интеллектуальный бежевый): Сочетание платья Madelin 1163 1122 со статусной сумкой Ls1928gp 1158 0038 или лаконичной моделью Ls1928p 0221 0038 для создания безупречного дневного ансамбля.",
+        "en": "A combination of the Madelin 1163 1122 dress with a status Ls1928gp 1158 0038 bag or a minimalist Ls1928p 0221 0038 model for creating an impeccable daytime ensemble.",
+        "ar": "A combination of the Madelin 1163 1122 dress with a status Ls1928gp 1158 0038 bag or a minimalist Ls1928p 0221 0038 model for creating an impeccable daytime ensemble.",
+        "ka": "A combination of the Madelin 1163 1122 dress with a status Ls1928gp 1158 0038 bag or a minimalist Ls1928p 0221 0038 model for creating an impeccable daytime ensemble.",
+        "hy": "A combination of the Madelin 1163 1122 dress with a status Ls1928gp 1158 0038 bag or a minimalist Ls1928p 0221 0038 model for creating an impeccable daytime ensemble.",
+        "lv": "A combination of the Madelin 1163 1122 dress with a status Ls1928gp 1158 0038 bag or a minimalist Ls1928p 0221 0038 model for creating an impeccable daytime ensemble.",
+        "lt": "A combination of the Madelin 1163 1122 dress with a status Ls1928gp 1158 0038 bag or a minimalist Ls1928p 0221 0038 model for creating an impeccable daytime ensemble.",
+        "pl": "A combination of the Madelin 1163 1122 dress with a status Ls1928gp 1158 0038 bag or a minimalist Ls1928p 0221 0038 model for creating an impeccable daytime ensemble.",
+        "uk": "A combination of the Madelin 1163 1122 dress with a status Ls1928gp 1158 0038 bag or a minimalist Ls1928p 0221 0038 model for creating an impeccable daytime ensemble."
+      },
+      "items": [
+        {
+          "name": "Madelin",
+          "code": "1163 1122",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MADELIN_116399990000%20%282%29.jpg"
+        },
+        {
+          "name": "Ls1928gp",
+          "code": "1158 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928GP_115800180000.jpg"
+        },
+        {
+          "name": "Ls1928p",
+          "code": "0221 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_22100380000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Graphic Black)",
+        "ar": "Look 2 (Graphic Black)",
+        "ka": "Look 2 (Graphic Black)",
+        "hy": "Look 2 (Graphic Black)",
+        "lv": "Look 2 (Graphic Black)",
+        "lt": "Look 2 (Graphic Black)",
+        "pl": "Look 2 (Graphic Black)",
+        "uk": "Look 2 (Graphic Black)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Графичный черный): Платье Madelin 0101 0101 в паре с нежной шелковой шарфом Mantisia 0101 0101 и сумкой Ls1928p 0101 0038.",
+        "en": "Madelin 0101 0101 dress paired with a delicate Mantisia 0101 0101 silk scarf and an Ls1928p 0101 0038 bag.",
+        "ar": "Madelin 0101 0101 dress paired with a delicate Mantisia 0101 0101 silk scarf and an Ls1928p 0101 0038 bag.",
+        "ka": "Madelin 0101 0101 dress paired with a delicate Mantisia 0101 0101 silk scarf and an Ls1928p 0101 0038 bag.",
+        "hy": "Madelin 0101 0101 dress paired with a delicate Mantisia 0101 0101 silk scarf and an Ls1928p 0101 0038 bag.",
+        "lv": "Madelin 0101 0101 dress paired with a delicate Mantisia 0101 0101 silk scarf and an Ls1928p 0101 0038 bag.",
+        "lt": "Madelin 0101 0101 dress paired with a delicate Mantisia 0101 0101 silk scarf and an Ls1928p 0101 0038 bag.",
+        "pl": "Madelin 0101 0101 dress paired with a delicate Mantisia 0101 0101 silk scarf and an Ls1928p 0101 0038 bag.",
+        "uk": "Madelin 0101 0101 dress paired with a delicate Mantisia 0101 0101 silk scarf and an Ls1928p 0101 0038 bag."
+      },
+      "items": [
+        {
+          "name": "Madelin",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/g381HkZ0QFKHoK4V-FYjsg_2078295593696f4360460570_64319565_02830410XX1.jpg"
+        },
+        {
+          "name": "Mantisia",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39a5d911-b2c6-4ed8-9b34-d8898a311c62-removebg-preview.png",
+          "modelId": 150
+        },
+        {
+          "name": "Ls1928p",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 3 (Evening Out)",
+        "ar": "Look 3 (Evening Out)",
+        "ka": "Look 3 (Evening Out)",
+        "hy": "Look 3 (Evening Out)",
+        "lv": "Look 3 (Evening Out)",
+        "lt": "Look 3 (Evening Out)",
+        "pl": "Look 3 (Evening Out)",
+        "uk": "Look 3 (Evening Out)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 3 (Вечерний выход): Драматичный ансамбль из платья Madelin 0101 0101, изысканных босоножек Udita 0101 0101 0002 и клатча Iroise 0101 0002. Ювелирные акценты: серьги Notazione 0068 0001 0002 и брошь Noematica 0101 0001 0002.",
+        "en": "A dramatic ensemble consisting of a Madelin 0101 0101 dress, exquisite Udita 0101 0101 0002 sandals and an Iroise 0101 0002 clutch. Jewelry accents: Notazione 0068 0001 0002 earrings and a Noematica 0101 0001 0002 brooch.",
+        "ar": "A dramatic ensemble consisting of a Madelin 0101 0101 dress, exquisite Udita 0101 0101 0002 sandals and an Iroise 0101 0002 clutch. Jewelry accents: Notazione 0068 0001 0002 earrings and a Noematica 0101 0001 0002 brooch.",
+        "ka": "A dramatic ensemble consisting of a Madelin 0101 0101 dress, exquisite Udita 0101 0101 0002 sandals and an Iroise 0101 0002 clutch. Jewelry accents: Notazione 0068 0001 0002 earrings and a Noematica 0101 0001 0002 brooch.",
+        "hy": "A dramatic ensemble consisting of a Madelin 0101 0101 dress, exquisite Udita 0101 0101 0002 sandals and an Iroise 0101 0002 clutch. Jewelry accents: Notazione 0068 0001 0002 earrings and a Noematica 0101 0001 0002 brooch.",
+        "lv": "A dramatic ensemble consisting of a Madelin 0101 0101 dress, exquisite Udita 0101 0101 0002 sandals and an Iroise 0101 0002 clutch. Jewelry accents: Notazione 0068 0001 0002 earrings and a Noematica 0101 0001 0002 brooch.",
+        "lt": "A dramatic ensemble consisting of a Madelin 0101 0101 dress, exquisite Udita 0101 0101 0002 sandals and an Iroise 0101 0002 clutch. Jewelry accents: Notazione 0068 0001 0002 earrings and a Noematica 0101 0001 0002 brooch.",
+        "pl": "A dramatic ensemble consisting of a Madelin 0101 0101 dress, exquisite Udita 0101 0101 0002 sandals and an Iroise 0101 0002 clutch. Jewelry accents: Notazione 0068 0001 0002 earrings and a Noematica 0101 0001 0002 brooch.",
+        "uk": "A dramatic ensemble consisting of a Madelin 0101 0101 dress, exquisite Udita 0101 0101 0002 sandals and an Iroise 0101 0002 clutch. Jewelry accents: Notazione 0068 0001 0002 earrings and a Noematica 0101 0001 0002 brooch."
+      },
+      "items": [
+        {
+          "name": "Madelin",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/g381HkZ0QFKHoK4V-FYjsg_2078295593696f4360460570_64319565_02830410XX1.jpg"
+        },
+        {
+          "name": "Udita",
+          "code": "0101 0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png"
+        },
+        {
+          "name": "Iroise",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cougRXqXSLCLpSH5I324CQ_361816691696f422261f4e8_02648203_02800700XX1.jpg",
+          "modelId": 96
+        },
+        {
+          "name": "Notazione",
+          "code": "0068 0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/872948663691c57e1e0c368_23107522_02800300XX1.jpg"
+        },
+        {
+          "name": "Noematica",
+          "code": "0101 0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1249986401691c57dd23a295_46516623_02800240XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the quality of Merinfleur wool: 100% pure wool delivers the softness and comfortable thermal exchange characteristic of premium knitwear.",
+      "Showcase the lace inserts on the sleeves — this detail lends the look a festive air and makes the dress an ideal choice for cocktail events.",
+      "Recommend the fitted cut as a tool for creating a feminine, confident silhouette that underscores the wearer's status."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на качестве шерсти Merinfleur: 100% чистая шерсть обеспечивает мягкость и комфортный теплообмен, характерные для трикотажа премиум-класса.",
+      "Продемонстрируйте кружевные вставки на рукавах — эта деталь делает образ более праздничным и позволяет рекомендовать платье как идеальный вариант для коктейльных мероприятий.",
+      "Рекомендуйте облегающий крой как инструмент для создания женственного и уверенного силуэта, подчеркивающего статус обладательницы."
+    ],
+    "ar": [
+      "سلطي الضوء على جودة صوف Merinfleur: الصوف النقي بنسبة 100% يوفر نعومة وتنظيماً حرارياً مريحاً، وهو ما يميز تريكو العلامة الفاخرة.",
+      "استعرضي تفاصيل الدانتيل على الأكمام؛ فهذه اللمسة تمنح القطعة طابعاً احتفالياً، مما يجعل الفستان خياراً مثالياً للمناسبات الكوكتيل.",
+      "رشيحي القصّة المحددة للقوام كأداة لإبراز ملامح الأنوثة والثقة، مما يعزز من مكانة وأناقة من ترتديه."
+    ],
+    "ka": [
+      "ყურადღება გაამახვილეთ მომხმარებლის ყურადღება Merinfleur-ის მატყლის ხარისხზე: 100% სუფთა მატყლი უზრუნველყოფს სირბილეს და კომფორტულ თბოგაცვლას, რაც პრემიუმ-კლასის ტრიკოტაჟისთვისაა დამახასიათებელი.",
+      "წარმოადგინეთ მკლავებზე არსებული მაქმანებიანი ჩანართები — ეს დეტალი იმიჯს უფრო სადღესასწაულოს ხდის და საშუალებას გაძლევთ, რეკომენდაცია გაუწიოთ კაბას, როგორც იდეალურ ვარიანტს კოქტეილის ღონისძიებებისთვის.",
+      "გაუწიეთ რეკომენდაცია ტანზე გამოყვანილ კროს, როგორც ქალური და თავდაჯერებული სილუეტის შექმნის ინსტრუმენტს, რომელიც ხაზს უსვამს მფლობელის სტატუსს."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք Merinfleur բրդի որակի վրա՝ 100% մաքուր բուրդը ապահովում է պրեմիում դասի տրիկոտաժին բնորոշ փափկություն և հարմարավետ ջերմափոխանակում։",
+      "Ցուցադրեք թևքերի ժանյակավոր ներդիրները՝ այս դետալը կերպարն ավելի տոնական է դարձնում և թույլ է տալիս զգեստը խորհուրդ տալ որպես իդեալական տարբերակ կոկտեյլային միջոցառումների համար։",
+      "Առաջարկեք կիպ կտրվածքը որպես կանացի և վստահ ուրվագիծ ստեղծելու գործիք, որն ընդգծում է կրողի կարգավիճակը։"
+    ],
+    "lv": [
+      "Акцентируйте внимание клиента на качестве шерсти Merinfleur: 100% чистая шерсть обеспечивает мягкость и комфортный теплообмен, характерные для трикотажа премиум-класса.",
+      "Продемонстрируйте кружевные вставки на рукавах — эта деталь делает образ более праздничным и позволяет рекомендовать платье как идеальный вариант для коктейльных мероприятий.",
+      "Рекомендуйте облегающий крой как инструмент для создания женственного и уверенного силуэта, подчеркивающего статус обладательницы."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į Merinfleur vilnos kokybę: 100% gryna vilna užtikrina švelnumą ir patogią termoreguliaciją, būdingą aukščiausios klasės trikotažui.",
+      "Pademonstruokite nėrinių intarpus ant rankovių — ši detalė suteikia įvaizdžiui šventiškumo ir leidžia rekomenduoti suknelę kaip idealų variantą kokteilių vakarėliams.",
+      "Rekomenduokite prigludusį kirpimą kaip įrankį moteriškam ir pasitikinčiam siluetui sukurti, pabrėžiantį savininkės statusą."
+    ],
+    "pl": [
+      "Skup uwagę klienta na jakości wełny Merinfleur: 100% czysta wełna zapewnia miękkość i komfortową termoregulację, charakterystyczną dla dzianin klasy premium.",
+      "Zaprezentuj koronkowe wstawki na rękawach — ten detal czyni stylizację bardziej odświętną i pozwala rekomendować sukienkę jako idealną opcję na koktajlowe wydarzenia.",
+      "Rekomenduj dopasowany krój jako narzędzie do tworzenia kobiecej i pewnej siebie sylwetki, podkreślającej status właścicielki."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на якості вовни Merinfleur: 100% чиста вовна забезпечує м'якість і комфортний теплообмін, характерні для трикотажу преміум-класу.",
+      "Продемонструйте мереживні вставки на рукавах — ця деталь робить образ святковішим і дозволяє рекомендувати сукню як ідеальний варіант для коктейльних заходів.",
+      "Рекомендуйте облягаючий крій як інструмент для створення жіночного та впевненого силуету, що підкреслює статус власниці."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "A fitted silhouette may accentuate figure concerns.",
+        "a": "The dense 'punto stoffa' knit offers a gentle shaping effect, softly supporting the silhouette. We also suggest completing the look with one of our structured jackets for added confidence."
+      },
+      {
+        "q": "Wool may be scratchy or cause discomfort.",
+        "a": "The Madelin piece uses the finest merino wool with an exceptionally fine fibre, making it remarkably smooth and pleasant even for the most sensitive skin."
+      },
+      {
+        "q": "Lace on the sleeves looks too formal for daytime wear.",
+        "a": "Thanks to the matte texture of the wool, the lace serves as a delicate accent. Paired with our Ulisside boots, the look becomes understated and stylish."
+      },
+      {
+        "q": "A below-the-knee length may visually shorten the frame.",
+        "a": "The classic midi length, paired with the boat neckline, in fact elongates the vertical line. We recommend heeled footwear, such as our Udita model, for perfect proportions."
+      },
+      {
+        "q": "Knitwear may stretch out with wear.",
+        "a": "The distinctive feature of Luisa Spagnoli's 'punto stoffa' technique is the enhanced density and stability of the fabric, which guarantees the dress retains its original shape for many seasons."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Облегающий силуэт может подчеркнуть недостатки фигуры.",
+        "a": "Плотная вязка «punto stoffa» обладает легким моделирующим эффектом, мягко поддерживая силуэт. Мы также предлагаем дополнить образ нашими структурированными жакетами для большей уверенности."
+      },
+      {
+        "q": "Шерсть может колоться или вызывать дискомфорт.",
+        "a": "В модели Madelin используется мериносовая шерсть высочайшего качества с очень тонким волокном, что делает её невероятно гладкой и приятной даже для самой чувствительной кожи."
+      },
+      {
+        "q": "Кружево на рукавах выглядит слишком официально для дневного ношения.",
+        "a": "Благодаря матовой фактуре шерсти, кружево выступает деликатным акцентом. В сочетании с сапогами Ulisside образ становится сдержанным и стильным."
+      },
+      {
+        "q": "Длина ниже колена может визуально уменьшить рост.",
+        "a": "Классическая длина миди в сочетании с вырезом-лодочкой, напротив, вытягивает вертикаль. Мы рекомендуем использовать обувь на каблуке, например, модель Udita, для идеальных пропорций."
+      },
+      {
+        "q": "Трикотаж может растянуться в процессе носки.",
+        "a": "Особенность техники «punto stoffa» Luisa Spagnoli заключается в повышенной плотности и стабильности полотна, что гарантирует сохранение первоначальной формы платья в течение многих сезонов."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يبرز التصميم الضيق عيوب القوام.",
+        "a": "تتميز حياكة \"punto stoffa\" الكثيفة بتأثير نحت خفيف يبرز القوام بنعومة. كما نقترح تنسيق المظهر مع ستراتنا المهيكلة لمزيد من الثقة."
+      },
+      {
+        "q": "قد يسبب الصوف حكة أو انزعاجاً.",
+        "a": "يستخدم في موديل Madelin صوف الميرينو فائق الجودة ذو ألياف دقيقة للغاية، مما يجعله ناعماً ومريحاً بشكل لا يصدق حتى على البشرة الحساسة."
+      },
+      {
+        "q": "تبدو الدانتيل على الأكمام رسمية جداً للارتداء النهاري.",
+        "a": "بفضل الملمس المطفي للصوف، يعمل الدانتيل كإضافة رقيقة وأنيقة. ومع تنسيقه مع أحذية Ulisside يصبح المظهر متزناً وعصرياً."
+      },
+      {
+        "q": "قد يقلل الطول تحت الركبة من المظهر الطولي للقوام.",
+        "a": "على العكس، فإن طول الميدي الكلاسيكي مع فتحة العنق الدائرية يمنح طولاً عمودياً للجسم. نوصي بارتداء أحذية بكعب، مثل موديل Udita، للحصول على تناسق مثالي."
+      },
+      {
+        "q": "قد يتمدد التريكو أثناء الارتداء.",
+        "a": "تتميز تقنية \"punto stoffa\" من Luisa Spagnoli بكثافة وثبات النسيج، مما يضمن الحفاظ على الشكل الأصلي للفستان لعدة مواسم."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მომდგარმა სილუეტმა შეიძლება ფიგურის ნაკლოვანებები გამოკვეთოს.",
+        "a": "punto stoffa»-ს მკვრივ ქსოვას გააჩნია მსუბუქი მოდელირების ეფექტი, რომელიც რბილად უჭერს მხარს სილუეტს. ჩვენ ასევე გთავაზობთ იმიჯს დაუმატოთ ჩვენი სტრუქტურირებული პიჯაკები მეტი თავდაჯერებულობისთვის."
+      },
+      {
+        "q": "მატყლი შეიძლება ჩხვლეტდეს ან დისკომფორტს იწვევდეს.",
+        "a": "მოდელ Madelin-ში გამოყენებულია უმაღლესი ხარისხის მერინოსის მატყლი ძალიან თხელი ბოჭკოთი, რაც მას წარმოუდგენლად გლუვსა და სასიამოვნოს ხდის ყველაზე მგრძნობიარე კანისთვისაც კი."
+      },
+      {
+        "q": "მკლავებზე არსებული მაქმანი ზედმეტად ოფიციალურად გამოიყურება დღისით სატარებლად.",
+        "a": "მატყლის მქრქალი ფაქტურის წყალობით, მაქმანი დელიკატური აქცენტის როლს ასრულებს. ჩექმა Ulisside-თან კომბინაციაში იმიჯი ხდება თავშეკავებული და ელეგანტური."
+      },
+      {
+        "q": "მუხლს ქვემოთ სიგრძემ შეიძლება ვიზუალურად დაგვაპატარაოთ.",
+        "a": "კლასიკური მიდი სიგრძე ნავისებრ საყელოსთან კომბინაციაში, პირიქით, ჭიმავს ვერტიკალს. ჩვენ გირჩევთ გამოიყენოთ ქუსლიანი ფეხსაცმელი, მაგალითად მოდელი Udita, იდეალური პროპორციებისთვის."
+      },
+      {
+        "q": "ტრიკოტაჟი შეიძლება გაიწელოს ტარების პროცესში.",
+        "a": "Luisa Spagnoli-ის «punto stoffa» ტექნიკის თავისებურება მდგომარეობს ტილოს გაზრდილ სიმკვრივესა და სტაბილურობაში, რაც გარანტიას იძლევა, რომ კაბა მრავალი სეზონის განმავლობაში შეინარჩუნებს პირვანდელ ფორმას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կիպ ուրվագիծը կարող է ընդգծել կազմվածքի թերությունները։",
+        "a": "punto stoffa» խիտ հյուսվածքը օժտված է թեթև մոդելավորող էֆեկտով՝ մեղմորեն պահպանելով ուրվագիծը։ Մենք նաև առաջարկում ենք կերպարը լրացնել մեր կառուցվածքային ժակետներով՝ ավելի մեծ վստահության համար։"
+      },
+      {
+        "q": "Բուրդը կարող է ծակել կամ անհարմարություն առաջացնել։",
+        "a": "Madelin մոդելում օգտագործվում է ամենաբարձր որակի մերինոսի բուրդ՝ շատ նուրբ թելով, ինչը այն դարձնում է անհավանական հարթ և հաճելի նույնիսկ ամենազգայուն մաշկի համար։"
+      },
+      {
+        "q": "Թևքերի ժանյակը չափազանց պաշտոնական է թվում ցերեկային հագուստի համար։",
+        "a": "Բրդի փայլատ հյուսվածքի շնորհիվ ժանյակը հանդես է գալիս որպես նուրբ շեշտադրում։ Ulisside երկարաճիտ կոշիկների հետ համադրությամբ՝ կերպարը դառնում է զուսպ և ոճային։"
+      },
+      {
+        "q": "Ծնկից ներքև երկարությունը կարող է վիզուալ կերպով կարճացնել հասակը։",
+        "a": "Միդի դասական երկարությունը՝ նավակաձև բացվածքի հետ համադրությամբ, ընդհակառակը՝ ձգում է ուղղահայաց գիծը։ Մենք խորհուրդ ենք տալիս օգտագործել կրունկով կոշիկներ, օրինակ՝ Udita մոդելը, իդեալական համամասնությունների համար։"
+      },
+      {
+        "q": "Տրիկոտաժը կարող է ձգվել կրելու ընթացքում։",
+        "a": "Luisa Spagnoli «punto stoffa» տեխնիկայի առանձնահատկությունը կայանում է կտորի բարձր խտության և կայունության մեջ, ինչը երաշխավորում է զգեստի սկզբնական ձևի պահպանումը բազմաթիվ սեզոնների ընթացքում։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Piegulošais siluets var izcelt figūras nepilnības.",
+        "a": "Blīvais „punto stoffa” adījums piemīt viegls modelējošs efekts, maigi atbalstot siluetu. Mēs arī piedāvājam papildināt tēlu ar mūsu strukturētajām žaketēm lielākai pārliecībai."
+      },
+      {
+        "q": "Vilna var durt vai izraisīt diskomfortu.",
+        "a": "Modelī Madelin tiek izmantota augstākās kvalitātes merino vilna ar ļoti smalku šķiedru, kas padara to neticami gludu un patīkamu pat visjutīgākajai ādai."
+      },
+      {
+        "q": "Mežģīnes uz piedurknēm izskatās pārāk oficiāli dienas gaitām.",
+        "a": "Pateicoties vilnas matētajai faktūrai, mežģīnes kalpo kā delikāts akcents. Kombinācijā ar zābakiem Ulisside tēls kļūst atturīgs un stilīgs."
+      },
+      {
+        "q": "Garums zem ceļgala var vizuāli samazināt augumu.",
+        "a": "Klasiskais midi garums kombinācijā ar laiviņveida izgriezumu, gluži pretēji, izstiepj vertikāli. Mēs iesakām izmantot apavus uz papēža, piemēram, modeli Udita, ideālām proporcijām."
+      },
+      {
+        "q": "Trikotāža var izstiepties valkāšanas procesā.",
+        "a": "Luisa Spagnoli „punto stoffa” tehnikas īpatnība ir auduma paaugstināts blīvums un stabilitāte, kas garantē kleitas sākotnējās formas saglabāšanos daudzu sezonu garumā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prigludęs siluetas gali pabrėžti figūros trūkumus.",
+        "a": "Tankus „punto stoffa“ mezgimas turi lengvą modeliuojantį efektą, švelniai palaikydamas siluetą. Taip pat siūlome papildyti įvaizdį mūsų struktūriniais švarkais didesniam pasitikėjimui."
+      },
+      {
+        "q": "Vilna gali būti šiurkšti ar kelti diskomfortą.",
+        "a": "Modelyje Madelin naudojama aukščiausios kokybės merino vilna su itin plonu pluoštu, todėl ji yra neįtikėtinai glotni ir maloni net jautriausiai odai."
+      },
+      {
+        "q": "Nėriniai ant rankovių atrodo per oficialiai kasdieniam nešiojimui.",
+        "a": "Dėl matinės vilnos faktūros nėriniai tampa subtiliu akcentu. Derinant su ilgaauliais batais Ulisside, įvaizdis tampa santūrus ir stilingas."
+      },
+      {
+        "q": "Ilgis žemiau kelių gali vizualiai sumažinti ūgį.",
+        "a": "Klasikinis midi ilgis kartu su laivelio formos iškirpte, priešingai, vizualiai ilgina siluetą. Rekomenduojame rinktis avalynę su kulnu, pavyzdžiui, modelį Udita, kad pasiektumėte tobulas proporcijas."
+      },
+      {
+        "q": "Trikotažas gali išsitampyti nešiojimo metu.",
+        "a": "Luisa Spagnoli „punto stoffa“ technikos ypatybė yra padidintas tankis ir audinio stabilumas, o tai garantuoja, kad suknelė išlaikys pirminę formą daugelį sezonų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Dopasowany fason może podkreślić mankamenty sylwetki.",
+        "a": "Gęsty splot „punto stoffa” posiada delikatny efekt modelujący, miękko wspierający sylwetkę. Sugerujemy również uzupełnienie stylizacji naszymi strukturalnymi żakietami dla większej pewności siebie."
+      },
+      {
+        "q": "Wełna może gryźć lub powodować dyskomfort.",
+        "a": "W modelu Madelin wykorzystano wełnę merynosową najwyższej jakości z bardzo cienkim włóknem, co czyni ją niezwykle gładką i przyjemną nawet dla najbardziej wrażliwej skóry."
+      },
+      {
+        "q": "Koronka na rękawach wygląda zbyt oficjalnie do noszenia w ciągu dnia.",
+        "a": "Dzięki matowej fakturze wełny, koronka stanowi jedynie delikatny akcent. W połączeniu z kozakami Ulisside stylizacja staje się stonowana i stylowa."
+      },
+      {
+        "q": "Długość za kolano może optycznie skrócić sylwetkę.",
+        "a": "Klasyczna długość midi w połączeniu z dekoltem typu łódka, wręcz przeciwnie, wydłuża pionową linię. Dla uzyskania idealnych proporcji polecamy obuwie na obcasie, na przykład model Udita."
+      },
+      {
+        "q": "Dzianina może się rozciągnąć w trakcie noszenia.",
+        "a": "Cechą techniki „punto stoffa” marki Luisa Spagnoli jest podwyższona gęstość i stabilność materiału, co gwarantuje zachowanie pierwotnego kształtu sukienki przez wiele sezonów."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Облягаючий силует може підкреслити недоліки фігури.",
+        "a": "Щільна в'язка «punto stoffa» має легкий моделюючий ефект, м'яко підтримуючи силует. Ми також пропонуємо доповнити образ нашими структурованими жакетами для більшої впевненості."
+      },
+      {
+        "q": "Вовна може колотися або викликати дискомфорт.",
+        "a": "У моделі Madelin використовується мериносова вовна найвищої якості з дуже тонким волокном, що робить її неймовірно гладкою та приємною навіть для найчутливішої шкіри."
+      },
+      {
+        "q": "Мереживо на рукавах виглядає надто офіційно для денного носіння.",
+        "a": "Завдяки матовій фактурі вовни, мереживо виступає делікатним акцентом. У поєднанні з чоботями Ulisside образ стає стриманим і стильним."
+      },
+      {
+        "q": "Довжина нижче коліна може візуально зменшити зріст.",
+        "a": "Класична довжина міді в поєднанні з вирізом-човником, навпаки, витягує вертикаль. Ми рекомендуємо використовувати взуття на підборах, наприклад, модель Udita, для ідеальних пропорцій."
+      },
+      {
+        "q": "Трикотаж може розтягнутися у процесі носіння.",
+        "a": "Особливість техніки «punto stoffa» Luisa Spagnoli полягає у підвищеній щільності та стабільності полотна, що гарантує збереження початкової форми сукні протягом багатьох сезонів."
+      }
+    ]
+  }
+}

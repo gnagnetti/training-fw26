@@ -1,0 +1,564 @@
+{
+  "id": 440,
+  "name": "Menelao",
+  "description": {
+    "en": "The Menelao pullover is a refined embodiment of intellectual romanticism and Luisa Spagnoli's knitwear artistry. Crafted from pure virgin wool (pura lana vergine), whose noble texture is underscored by an exquisite flat-rib weave (coste piatte). The piece's principal stylistic accent is a stand collar (lupetto), decorated with artistically 'raw-edge' ruffles (rouches sgranate) that bring a note of contemporary femininity and effortless 'bohemian chic' to the look. The front placket is adorned with the signature metal buttons bearing the LS logo, transforming this understated top into a status-defining wardrobe object. Thanks to the Regular fit, the pullover sits flawlessly on the figure, ensuring comfort while underscoring its wearer's aristocratic silhouette.",
+    "ru": "Пуловер Menelao --- это утонченное воплощение интеллектуального романтизма и трикотажного мастерства Luisa Spagnoli. Модель выполнена из чистой девственной шерсти (pura lana vergine), чья благородная фактура подчеркнута изысканным переплетением в плоский рубчик (coste piatte). Главным стилистическим акцентом изделия выступает воротник-стойка (lupetto), декорированный артистичными «необработанными» рюшами (rouches sgranate), которые привносят в образ ноту современной женственности и легкой небрежности в стиле «богемный шик». Передняя планка украшена фирменными металлическими пуговицами с логотипом LS, превращающими этот лаконичный топ в статусный объект гардероба. Благодаря «регулярной посадке» (vestibilità regular), пуловер безупречно ложится по фигуре, обеспечивая комфорт и подчеркивая аристократичный силуэт владелицы.",
+    "ar": "يعد بلوفر Menelao تجسيداً رقيقاً للرومانسية الفكرية وبراعة الحياكة لدى Luisa Spagnoli. صُمم الموديل من صوف بكر خالص (pura lana vergine)، حيث يبرز قوامه النبيل بفضل نسيج الضلع المسطح (coste piatte) الرائع. اللمسة الأنيقة الرئيسية للقطعة هي الياقة القائمة (lupetto) المزينة بـ «كشكشة» فنية غير مكتملة (rouches sgranate)، والتي تضفي على الإطلالة لمسة من الأنوثة المعاصرة والإهمال الخفيف بأسلوب «البوهيمي الشيك». الشريط الأمامي مزين بأزرار معدنية تحمل شعار LS، مما يجعل هذا التوب البسيط قطعة ذات مكانة في خزانة الملابس. بفضل «المقاس المنتظم» (vestibilità regular)، ينسدل البلوفر بشكل مثالي على الجسم، مما يوفر الراحة ويبرز الصورة الظلية الأرستقراطية لمرتديته.",
+    "ka": "პულოვერი Menelao — ეს არის ინტელექტუალური რომანტიზმისა და Luisa Spagnoli-ის ტრიკოტაჟული ოსტატობის დახვეწილი განსახიერება. მოდელი დამზადებულია სუფთა ქალწულებრივი მატყლისგან (pura lana vergine), რომლის კეთილშობილი ფაქტურა ხაზგასმულია დახვეწილი ბრტყელი ნეკნებით ქსოვით (coste piatte). ნაკეთობის მთავარ სტილისტურ აქცენტად გვევლინება საყელო-სადგარი (lupetto), დეკორირებული არტისტული «დაუმუშავებელი» ბიბილოებით (rouches sgranate), რომლებსაც ლუქში შემოაქვს თანამედროვე ქალურობისა და «ბოჰემური შიკის» სტილის მსუბუქი დაუდევრობის ნოტა. წინა თასმა გაფორმებულია ბრენდული მეტალის ღილებით LS ლოგოტიპით, რაც ამ ლაკონურ ტოპს აქცევს გარდერობის სტატუსურ ობიექტად. «რეგულარული მორგების» (vestibilità regular) წყალობით, პულოვერი უნაკლოდ ერგება ფიგურას, უზრუნველყოფს კომფორტს და ხაზს უსვამს მფლობელის არისტოკრატულ სილუეტს.",
+    "hy": "Menelao պուլովերը ինտելեկտուալ ռոմանտիզմի և Luisa Spagnoli-ի տրիկոտաժային վարպետության նրբագեղ մարմնացումն է։ Մոդելը պատրաստված է մաքուր կուսական բրդից (pura lana vergine), որի ազնվական հյուսվածքն ընդգծված է հարթ կողագծերով (coste piatte) նրբագեղ հյուսվածքով։ Իրի գլխավոր ոճային շեշտադրումը կանգնած օձիքն է (lupetto)՝ զարդարված արտիստիկ «չմշակված» ժանյակներով (rouches sgranate), որոնք կերպարին հաղորդում են ժամանակակից կանացիության և «բոհեմական շիկ» ոճի թեթև անփութության նոտա։ Առջևի գոտին զարդարված է LS լոգոտիպով ֆիրմային մետաղական կոճակներով, որոնք այս լակոնիկ տոպը վերածում են զգեստապահարանի կարգավիճակային օբյեկտի։ Շնորհիվ «կանոնավոր նստվածքի» (vestibilità regular), պուլովերն անթերի նստում է կազմվածքին՝ ապահովելով հարմարավետություն և ընդգծելով տիրուհու արիստոկրատ ուրվագիծը։",
+    "lv": "Pulovers Menelao — tas ir intelektuālā romantisma un Luisa Spagnoli trikotāžas meistarības izsmalcināts iemiesojums. Modelis ir izgatavots no tīras jaunvilnas (pura lana vergine), kuras cēlo faktūru izceļ izsmalcināts pinums plakanās ribiņās (coste piatte). Izstrādājuma galvenais stilistiskais akcents ir stāvapkakle (lupetto), kas dekorēta ar mākslinieciskām «neapstrādātām» volāniem (rouches sgranate), kas ienes tēlā mūsdienu sievišķības noti un vieglu paviršību «bohēmas šika» stilā. Priekšējā līste ir rotāta ar zīmola metāla pogām ar LS logo, kas pārvērš šo lakonisko topu par statusa garderobes objektu. Pateicoties «regulāram piegriezumam» (vestibilità regular), pulovers nevainojami pieguļ figūrai, nodrošinot komfortu un izceļot īpašnieces aristokrātisko siluetu.",
+    "lt": "Megztinis Menelao --- tai rafinuotas intelektualaus romantizmo ir Luisa Spagnoli mezgimo meistriškumo įsikūnijimas. Modelis pasiūtas iš gryno pirminio vilnos pluošto (pura lana vergine), kurio kilnią faktūrą pabrėžia išskirtinis plokščio rumbelio pynimas (coste piatte). Pagrindiniu stilistiniu gaminio akcentu tampa stačia apykaklė (lupetto), dekoruota artistiškais „neapdorotais“ raukiniais (rouches sgranate), kurie įvaizdžiui suteikia šiuolaikiško moteriškumo ir lengvo nerūpestingumo „bohemiško prašmatnumo“ stiliumi. Priekinę juostą puošia firminės metalinės sagos su LS logotipu, paverčiančios šį lakonišką viršutinės aprangos dalį statuso objektu. Dėl „reguliaraus sukirpimo“ (vestibilità regular), megztinis nepriekaištingai priglunda prie figūros, užtikrindamas komfortą ir pabrėždamas aristokratišką savininkės siluetą.",
+    "pl": "Pulower Menelao to wyrafinowane ucieleśnienie intelektualnego romantyzmu i dzianinowego kunsztu Luisa Spagnoli. Model wykonany jest z czystej dziewiczej wełny (pura lana vergine), której szlachetna faktura podkreślona jest wykwintnym splotem w płaski prążek (coste piatte). Głównym akcentem stylistycznym wyrobu jest kołnierz-stójka (lupetto), ozdobiony artystycznymi „surowymi” falbanami (rouches sgranate), które wprowadzają do stylizacji nutę nowoczesnej kobiecości i lekkiej nonszalancji w stylu „boho chic”. Przednia plisa ozdobiona jest firmowymi metalowymi guzikami z logo LS, przekształcającymi ten lakoniczny top w prestiżowy element garderoby. Dzięki „regularnemu krojowi” (vestibilità regular), pulower nienagannie układa się na sylwetce, zapewniając komfort i podkreślając arystokratyczną linię właścicielki.",
+    "uk": "Пуловер Menelao --- это утонченное воплощение интеллектуального романтизма и трикотажного мастерства Luisa Spagnoli. Модель выполнена из чистой девственной шерсти (pura lana vergine), чья благородная фактура подчеркнута изысканным переплетением в плоский рубчик (coste piatte). Главным стилистическим акцентом изделия выступает воротник-стойка (lupetto), декорированный артистичными «необработанными» рюшами (rouches sgranate), которые привносят в образ ноту современной женственности и легкой небрежности в стиле «богемный шик». Передняя планка украшена фирменными металлическими пуговицами с логотипом LS, превращающими этот лаконичный топ в статусный объект гардероба. Благодаря «регулярной посадке» (vestibilità regular), пуловер безупречно ложится по фигуре, обеспечивая комфорт и подчеркивая аристократичный силуэт владелицы."
+  },
+  "colors": [
+    {
+      "name": "Crema Nero",
+      "code": "0204 0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/494185053691c57941ac2e3_15558577_02790400XX1.jpg"
+    },
+    {
+      "name": "Nero Panna",
+      "code": "0101 0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1906230012691c57936a4ba0_72020696_02790390XX1.jpg"
+    },
+    {
+      "name": "Rosa",
+      "code": "0319",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/363191265691f1575414b17_64019449_02790410XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда демонстрируют исключительную универсальность пуловера Menelao, предлагая как уютные трикотажные сеты, так и эффектные контрастные образы: Вариант 0319 ( Голубой): Look 58: канонический трикотажный «twin-set» с кардиганом в тон Madira 0319 и широкими джинсами-палаццо Opaglio 0927.",
+        "en": "The brand's stylists demonstrate the exceptional versatility of the Menelao pullover, offering both cozy knit sets and striking contrast looks: Variant 0319 ( Light Blue): Look 58: a canonical knit \"twin-set\" with a matching Madira 0319 cardigan and wide-leg Opaglio 0927 palazzo jeans.",
+        "ar": "The brand's stylists demonstrate the exceptional versatility of the Menelao pullover, offering both cozy knit sets and striking contrast looks: Variant 0319 ( Light Blue): Look 58: a canonical knit \"twin-set\" with a matching Madira 0319 cardigan and wide-leg Opaglio 0927 palazzo jeans.",
+        "ka": "The brand's stylists demonstrate the exceptional versatility of the Menelao pullover, offering both cozy knit sets and striking contrast looks: Variant 0319 ( Light Blue): Look 58: a canonical knit \"twin-set\" with a matching Madira 0319 cardigan and wide-leg Opaglio 0927 palazzo jeans.",
+        "hy": "The brand's stylists demonstrate the exceptional versatility of the Menelao pullover, offering both cozy knit sets and striking contrast looks: Variant 0319 ( Light Blue): Look 58: a canonical knit \"twin-set\" with a matching Madira 0319 cardigan and wide-leg Opaglio 0927 palazzo jeans.",
+        "lv": "The brand's stylists demonstrate the exceptional versatility of the Menelao pullover, offering both cozy knit sets and striking contrast looks: Variant 0319 ( Light Blue): Look 58: a canonical knit \"twin-set\" with a matching Madira 0319 cardigan and wide-leg Opaglio 0927 palazzo jeans.",
+        "lt": "The brand's stylists demonstrate the exceptional versatility of the Menelao pullover, offering both cozy knit sets and striking contrast looks: Variant 0319 ( Light Blue): Look 58: a canonical knit \"twin-set\" with a matching Madira 0319 cardigan and wide-leg Opaglio 0927 palazzo jeans.",
+        "pl": "The brand's stylists demonstrate the exceptional versatility of the Menelao pullover, offering both cozy knit sets and striking contrast looks: Variant 0319 ( Light Blue): Look 58: a canonical knit \"twin-set\" with a matching Madira 0319 cardigan and wide-leg Opaglio 0927 palazzo jeans.",
+        "uk": "The brand's stylists demonstrate the exceptional versatility of the Menelao pullover, offering both cozy knit sets and striking contrast looks: Variant 0319 ( Light Blue): Look 58: a canonical knit \"twin-set\" with a matching Madira 0319 cardigan and wide-leg Opaglio 0927 palazzo jeans."
+      },
+      "items": [
+        {
+          "name": "Madira",
+          "code": "0319",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/109519432691f156fcf7e25_35913854_02790150XX1.jpg",
+          "modelId": 430
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 62, 63 (Bambola 3)",
+        "en": "Vetrina 62, 63 (Bambola 3)",
+        "ar": "Vetrina 62, 63 (Bambola 3)",
+        "ka": "Vetrina 62, 63 (Bambola 3)",
+        "hy": "Vetrina 62, 63 (Bambola 3)",
+        "lv": "Vetrina 62, 63 (Bambola 3)",
+        "lt": "Vetrina 62, 63 (Bambola 3)",
+        "pl": "Vetrina 62, 63 (Bambola 3)",
+        "uk": "Vetrina 62, 63 (Bambola 3)"
+      },
+      "text": {
+        "ru": "женственный ансамбль с укороченным жакетом Madira 0319 и длинной юбкой из экокожи с сатиновым финишем Fabula 0101.",
+        "en": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "ar": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "ka": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "hy": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "lv": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "lt": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "pl": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "uk": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101."
+      },
+      "items": [
+        {
+          "name": "Madira",
+          "code": "0319",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/109519432691f156fcf7e25_35913854_02790150XX1.jpg",
+          "modelId": 430
+        },
+        {
+          "name": "Fabula",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg",
+          "modelId": 386
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 68 (Bambola 1)",
+        "en": "Vetrina 68 (Bambola 1)",
+        "ar": "Vetrina 68 (Bambola 1)",
+        "ka": "Vetrina 68 (Bambola 1)",
+        "hy": "Vetrina 68 (Bambola 1)",
+        "lv": "Vetrina 68 (Bambola 1)",
+        "lt": "Vetrina 68 (Bambola 1)",
+        "pl": "Vetrina 68 (Bambola 1)",
+        "uk": "Vetrina 68 (Bambola 1)"
+      },
+      "text": {
+        "ru": "зимний городской образ под структурным пальто Scansione 0961 в сочетании с брюками Olivetano 0943. Вариант 0204 0101 ( Бежевый/Черный):",
+        "en": "a winter urban look under a structured Scansione 0961 coat combined with Olivetano 0943 trousers. Variant 0204 0101 ( Beige/Black):",
+        "ar": "a winter urban look under a structured Scansione 0961 coat combined with Olivetano 0943 trousers. Variant 0204 0101 ( Beige/Black):",
+        "ka": "a winter urban look under a structured Scansione 0961 coat combined with Olivetano 0943 trousers. Variant 0204 0101 ( Beige/Black):",
+        "hy": "a winter urban look under a structured Scansione 0961 coat combined with Olivetano 0943 trousers. Variant 0204 0101 ( Beige/Black):",
+        "lv": "a winter urban look under a structured Scansione 0961 coat combined with Olivetano 0943 trousers. Variant 0204 0101 ( Beige/Black):",
+        "lt": "a winter urban look under a structured Scansione 0961 coat combined with Olivetano 0943 trousers. Variant 0204 0101 ( Beige/Black):",
+        "pl": "a winter urban look under a structured Scansione 0961 coat combined with Olivetano 0943 trousers. Variant 0204 0101 ( Beige/Black):",
+        "uk": "a winter urban look under a structured Scansione 0961 coat combined with Olivetano 0943 trousers. Variant 0204 0101 ( Beige/Black):"
+      },
+      "items": [
+        {
+          "name": "Scansione",
+          "code": "0961",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg",
+          "modelId": 302
+        },
+        {
+          "name": "Olivetano",
+          "code": "0943",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qdI5UwLCT1OH3R6NaxIWHg_1650191426696f42e87b11a6_96447037_02820670XX1.jpg",
+          "modelId": 249
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 100",
+        "en": "Look 100",
+        "ar": "Look 100",
+        "ka": "Look 100",
+        "hy": "Look 100",
+        "lv": "Look 100",
+        "lt": "Look 100",
+        "pl": "Look 100",
+        "uk": "Look 100"
+      },
+      "text": {
+        "ru": "современный сет с кожаным блейзером Solarita 0101 и широкими джинсами Olla 1073.",
+        "en": "a modern set with a Solarita 0101 leather blazer and wide-leg Olla 1073 jeans.",
+        "ar": "a modern set with a Solarita 0101 leather blazer and wide-leg Olla 1073 jeans.",
+        "ka": "a modern set with a Solarita 0101 leather blazer and wide-leg Olla 1073 jeans.",
+        "hy": "a modern set with a Solarita 0101 leather blazer and wide-leg Olla 1073 jeans.",
+        "lv": "a modern set with a Solarita 0101 leather blazer and wide-leg Olla 1073 jeans.",
+        "lt": "a modern set with a Solarita 0101 leather blazer and wide-leg Olla 1073 jeans.",
+        "pl": "a modern set with a Solarita 0101 leather blazer and wide-leg Olla 1073 jeans.",
+        "uk": "a modern set with a Solarita 0101 leather blazer and wide-leg Olla 1073 jeans."
+      },
+      "items": [
+        {
+          "name": "Solarita",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1355459512691f1569150990_65095974_02780630XX1.jpg",
+          "modelId": 486
+        },
+        {
+          "name": "Olla",
+          "code": "1073",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png",
+          "modelId": 456
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 25, 26 (Bambola 3)",
+        "en": "Vetrina 25, 26 (Bambola 3)",
+        "ar": "Vetrina 25, 26 (Bambola 3)",
+        "ka": "Vetrina 25, 26 (Bambola 3)",
+        "hy": "Vetrina 25, 26 (Bambola 3)",
+        "lv": "Vetrina 25, 26 (Bambola 3)",
+        "lt": "Vetrina 25, 26 (Bambola 3)",
+        "pl": "Vetrina 25, 26 (Bambola 3)",
+        "uk": "Vetrina 25, 26 (Bambola 3)"
+      },
+      "text": {
+        "ru": "статусная стилизация с жакетом Solarita 0101 и юбкой миди с оптическим принтом Fulvia 3410. Вариант 0101 0202 ( Черный/Бежевый):",
+        "en": "a prestigious styling with a Solarita 0101 jacket and a midi skirt with an optical Fulvia 3410 print. Variant 0101 0202 ( Black/Beige):",
+        "ar": "a prestigious styling with a Solarita 0101 jacket and a midi skirt with an optical Fulvia 3410 print. Variant 0101 0202 ( Black/Beige):",
+        "ka": "a prestigious styling with a Solarita 0101 jacket and a midi skirt with an optical Fulvia 3410 print. Variant 0101 0202 ( Black/Beige):",
+        "hy": "a prestigious styling with a Solarita 0101 jacket and a midi skirt with an optical Fulvia 3410 print. Variant 0101 0202 ( Black/Beige):",
+        "lv": "a prestigious styling with a Solarita 0101 jacket and a midi skirt with an optical Fulvia 3410 print. Variant 0101 0202 ( Black/Beige):",
+        "lt": "a prestigious styling with a Solarita 0101 jacket and a midi skirt with an optical Fulvia 3410 print. Variant 0101 0202 ( Black/Beige):",
+        "pl": "a prestigious styling with a Solarita 0101 jacket and a midi skirt with an optical Fulvia 3410 print. Variant 0101 0202 ( Black/Beige):",
+        "uk": "a prestigious styling with a Solarita 0101 jacket and a midi skirt with an optical Fulvia 3410 print. Variant 0101 0202 ( Black/Beige):"
+      },
+      "items": [
+        {
+          "name": "Solarita",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1355459512691f1569150990_65095974_02780630XX1.jpg",
+          "modelId": 486
+        },
+        {
+          "name": "Fulvia",
+          "code": "3410",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/722670603691f1561b51c63_70556303_02780490XX1.jpg",
+          "modelId": 392
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 62, 63 (Bambola 3)",
+        "en": "Vetrina 62, 63 (Bambola 3)",
+        "ar": "Vetrina 62, 63 (Bambola 3)",
+        "ka": "Vetrina 62, 63 (Bambola 3)",
+        "hy": "Vetrina 62, 63 (Bambola 3)",
+        "lv": "Vetrina 62, 63 (Bambola 3)",
+        "lt": "Vetrina 62, 63 (Bambola 3)",
+        "pl": "Vetrina 62, 63 (Bambola 3)",
+        "uk": "Vetrina 62, 63 (Bambola 3)"
+      },
+      "text": {
+        "ru": "женственный ансамбль с укороченным жакетом Madira 0319 и длинной юбкой из экокожи с сатиновым финишем Fabula 0101.",
+        "en": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "ar": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "ka": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "hy": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "lv": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "lt": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "pl": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101.",
+        "uk": "a feminine ensemble with a cropped Madira 0319 jacket and a long eco-leather skirt with a satin finish, Fabula 0101."
+      },
+      "items": [
+        {
+          "name": "Madira",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/127431599691f156f750070_99744006_02790140XX1.jpg",
+          "modelId": 430
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 107 (Bambola 3)",
+        "en": "Vetrina 107 (Bambola 3)",
+        "ar": "Vetrina 107 (Bambola 3)",
+        "ka": "Vetrina 107 (Bambola 3)",
+        "hy": "Vetrina 107 (Bambola 3)",
+        "lv": "Vetrina 107 (Bambola 3)",
+        "lt": "Vetrina 107 (Bambola 3)",
+        "pl": "Vetrina 107 (Bambola 3)",
+        "uk": "Vetrina 107 (Bambola 3)"
+      },
+      "text": {
+        "ru": "сложный многослойный выход с жакетом Madira 0101 под пальто Scalare 0101 в паре со светлыми брюками Osten 0202.",
+        "en": "a complex layered outfit with a Madira 0101 jacket under a Scalare 0101 coat paired with light-colored Osten 0202 trousers.",
+        "ar": "a complex layered outfit with a Madira 0101 jacket under a Scalare 0101 coat paired with light-colored Osten 0202 trousers.",
+        "ka": "a complex layered outfit with a Madira 0101 jacket under a Scalare 0101 coat paired with light-colored Osten 0202 trousers.",
+        "hy": "a complex layered outfit with a Madira 0101 jacket under a Scalare 0101 coat paired with light-colored Osten 0202 trousers.",
+        "lv": "a complex layered outfit with a Madira 0101 jacket under a Scalare 0101 coat paired with light-colored Osten 0202 trousers.",
+        "lt": "a complex layered outfit with a Madira 0101 jacket under a Scalare 0101 coat paired with light-colored Osten 0202 trousers.",
+        "pl": "a complex layered outfit with a Madira 0101 jacket under a Scalare 0101 coat paired with light-colored Osten 0202 trousers.",
+        "uk": "a complex layered outfit with a Madira 0101 jacket under a Scalare 0101 coat paired with light-colored Osten 0202 trousers."
+      },
+      "items": [
+        {
+          "name": "Madira",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/127431599691f156f750070_99744006_02790140XX1.jpg",
+          "modelId": 430
+        },
+        {
+          "name": "Scalare",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/obH9FrFkRoq3xbxDWF6Fsg_1888970026696f42f15a20d0_57909911_02820870XX1.jpg",
+          "modelId": 300
+        },
+        {
+          "name": "Osten",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000%20%284%29.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The 'Sculptural Collar' effect: Direct the client's attention to the collar's distinctive finish. The 'raw-edge' ruffles create a soft yet expressive frame for the face, functioning as an adornment in their own right. This is the ideal solution for thos"
+    ],
+    "ru": [
+      "- Эффект «Скульптурного воротника»: Акцентируйте внимание клиента на уникальной отделке воротника. «Необработанные» рюши создают мягкую, но выразительную рамку для лица, выполняя роль украшения. Это идеальное решение для тех, кто предпочитает минимализм в"
+    ],
+    "ar": [
+      "- تأثير \"الياقة النحتية\": وجهي انتباه العميل إلى اللمسة الفريدة في الياقة. تخلق الكرانيش ذات الحواف \"غير المعالجة\" إطاراً ناعماً ومعبراً للوجه، وتعمل كقطعة زينة بحد ذاتها. إنه حل مثالي لمن يفضلون البساطة في الإكسسوارات. - إتقان طقم الـ Twin-set: اقترحي عل"
+    ],
+    "ka": [
+      "- „სკულპტურული საყელოს“ ეფექტი: ყურადღება გაამახვილეთ კლიენტის ყურადღება საყელოს უნიკალურ გაფორმებაზე. „დაუმუშავებელი“ ბალთები სახისთვის ქმნის რბილ, მაგრამ გამოკვეთილ ჩარჩოს და ასრულებს სამკაულის როლს. ეს იდეალური გადაწყვეტაა მათთვის, ვინც აქსესუარებში მი"
+    ],
+    "hy": [
+      "- «Քանդակային օձիք» էֆեկտ. շեշտադրեք հաճախորդի ուշադրությունը օձիքի յուրահատուկ հարդարման վրա: «Չմշակված» ժանյակները դեմքի համար ստեղծում են փափուկ, բայց արտահայտիչ շրջանակ՝ կատարելով զարդի դեր: Սա իդեալական լուծում է նրանց համար, ովքեր նախընտրում են մինի"
+    ],
+    "lv": [
+      "- «Tēlnieciskās apkakles» efekts: Akcentējiet klienta uzmanību uz unikālo apkakles apdari. «Neapstrādāti» volāni rada maigu, bet izteiksmīgu ietvaru sejai, pildot rotaslietas lomu. Tas ir ideāls risinājums tiem, kas dod priekšroku minimālismam aksesuāros."
+    ],
+    "lt": [
+      "- Skulptūrinės apykaklės efektas: Atkreipkite kliento dėmesį į unikalų apykaklės apdailą. „Neapdoroti“ raukiniai sukuria minkštą, bet išraiškingą rėmelį veidui, atlikdami papuošalo funkciją. Tai idealus sprendimas tiems, kurie renkasi minimalizmą aksesuaruose. - Twin-set meistriškumas: Pasiūlykite klientui įsigyti megztinį poroje su Madira kardiganu. Tai klasikinė investicija į „Old Money“ stilių, kuri leidžia varijuoti įvaizdžio formalumu, išlaikant ansamblio vientisumą ir aukštą statusą. - Bekompromisė kokybė: Akcentuokite 100% pura lana vergine sudėtį. Paaiškinkite, kad pirmojo kirpimo vilna – tai aukščiausios prabos pluoštas, pasižymintis natūraliu žvilgesiu, išskirtiniu minkštumu ir ilgaamžiškumu, kas yra Luisa Spagnoli vizitinė kortelė."
+    ],
+    "pl": [
+      "- Efekt „Rzeźbiarskiego kołnierza”: Skup uwagę klientki na unikalnym wykończeniu kołnierza. „Surowe” falbanki tworzą miękką, lecz wyrazistą ramę dla twarzy, pełniąc rolę biżuterii. To idealne rozwiązanie dla tych, którzy preferują minimalizm w akcesoriach"
+    ],
+    "uk": [
+      "- Ефект «Скульптурного коміра»: Акцентуйте увагу клієнта на унікальній оздобі коміра. «Необроблені» рюші створюють м’яку, але виразну рамку для обличчя, виконуючи роль прикраси. Це ідеальне рішення для тих, хто віддає перевагу мінімалізму в аксесуарах. -"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "ruffles look Explain that the \"sgranate\" technique is a as if the edge deliberate design choice that gives classic isn't finished» knitwear a contemporary, artistic character and highlights the handwork involved. «I'm worried the Point out that the flat-rib knit (coste piatte) is stand collar will highly elastic. The collar hugs softly without get in the way» applying pressure and adapts to the neck's movements. «The logos on Emphasize that LS's metal hardware is crafted in the buttons feel too the style of fine jewelry and serves as a subtle noticeable» marker of belonging to the world of high fashion, taking the place of a brooch or necklace. «The fine knit Remind the client that Luisa Spagnoli uses a might quickly lose dense knit made of premium wool. Following the its shape» care instructions for \"pura lana vergine,\" the piece will keep its structure and density for many seasons to come. «What should I pair Showcase Look 100: contrasting ruffles come these contrasting together beautifully when paired with black models with leather pieces or dark denim, (0204/0101)?» creating a graphic vertical line"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Рюши выглядят",
+        "a": "Поясните, что техника «sgranate — это осознанный так, будто край не дизайнерский прием, придающий классическому обработан» трикотажу современный артистичный характер и подчеркивающий ручную работу."
+      },
+      {
+        "q": "Боюсь, что",
+        "a": "Укажите на то, что вязка в плоский рубчик (coste воротник-стойка piatte) обладает высокой эластичностью. Воротник будет мешать мягко облегает, не создавая давления, и адаптируется к движениям шеи."
+      },
+      {
+        "q": "Логотипы на",
+        "a": "Подчеркните, что металлическая фурнитура LS пуговицах — это выполнена в стиле ювелирных изделий и служит слишком заметно деликатным маркером принадлежности к миру высокой моды, заменяя собой брошь или колье."
+      },
+      {
+        "q": "Тонкий трикотаж",
+        "a": "Напомните, что Luisa Spagnoli использует плотную может быстро вязку из высококачественной шерсти. При соблюдении потерять форму рекомендаций по уходу за."
+      },
+      {
+        "q": "pura lana vergine",
+        "a": "изделие сохранит свою структуру и плотность на протяжении многих сезонов."
+      },
+      {
+        "q": "С чем носить",
+        "a": "Продемонстрируйте Look 100: контрастные рюши такие контрастные великолепно «собирают образ, если сочетать их с модели черными кожаными изделиями или темным денимом, (0204/0101)?» создавая графичную вертикаль."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الكشكشة تبدو كأن الحواف غير معالجة",
+        "a": "وضح أن تقنية."
+      },
+      {
+        "q": "sgranate",
+        "a": "هي خيار تصميم مقصود يضفي طابعاً فنياً وعصرياً على التريكو الكلاسيكي، مبرزاً جودة العمل اليدوي."
+      },
+      {
+        "q": "أخشى أن تكون الياقة العالية مزعجة",
+        "a": "أشر إلى أن الحياكة بالضلوع المسطحة (coste piatte) تتمتع بمرونة عالية. فهي تحتضن الرقبة بنعومة دون التسبب بأي ضغط، وتتكيف مع حركتها."
+      },
+      {
+        "q": "الشعارات على الأزرار واضحة جداً",
+        "a": "أكد أن الإكسسوارات المعدنية لعلامة LS مصممة بأسلوب المجوهرات، وتعمل كعلامة دقيقة على الانتماء لعالم الأزياء الراقية، لتحل محل البروش أو القلادة."
+      },
+      {
+        "q": "التريكو الرقيق قد يفقد شكله بسرعة",
+        "a": "تذكر أن Luisa Spagnoli تستخدم حياكة كثيفة من الصوف عالي الجودة. مع اتباع تعليمات العناية بـ."
+      },
+      {
+        "q": "pura lana vergine",
+        "a": "ستحتفظ القطعة بقوامها وكثافتها لعدة مواسم."
+      },
+      {
+        "q": "مع ماذا يمكن تنسيق هذه الموديلات المتباينة (0204/0101)؟",
+        "a": "استعرض Look 100: الكشكشة المتباينة تضفي لمسة."
+      },
+      {
+        "q": "ترابط",
+        "a": "رائعة للإطلالة عند تنسيقها مع قطع جلدية سوداء أو جينز داكن، مما يخلق خطاً عمودياً انسيابياً."
+      }
+    ],
+    "ka": [
+      {
+        "q": "რუშები ისე გამოიყურება, თითქოს კიდეები დაუმუშავებელია",
+        "a": "განმარტეთ, რომ."
+      },
+      {
+        "q": "sgranate“-ს ტექნიკა შეგნებული დიზაინერული გადაწყვეტილებაა, რომელიც კლასიკურ ნაქსოვ სამოსს ანიჭებს თანამედროვე არტისტულ ხასიათს და ხაზს უსვამს ხელნაკეთ მუშაობას. «მეშინია, რომ საყელო-სადგარი ხელს შემიშლის",
+        "a": "მიუთითეთ, რომ ბრტყელ ღარებში ნაქსოვი (coste piatte) ქსოვილი მაღალი ელასტიურობით გამოირჩევა. საყელო რბილად ერგება ყელს, არ ახდენს ზეწოლას და ადაპტირდება კისრის მოძრაობებთან."
+      },
+      {
+        "q": "ღილებზე ლოგოები ზედმეტად შესამჩნევია",
+        "a": "ხაზგასმით აღნიშნეთ, რომ LS-ის მეტალის ფურნიტურა შესრულებულია საიუველირო ნაწარმის სტილში და ემსახურება მაღალი მოდის სამყაროსადმი კუთვნილების დელიკატურ მარკერს, რაც ანაცვლებს ბროშს ან ყელსაბამს."
+      },
+      {
+        "q": "თხელი ნაქსოვი შეიძლება სწრაფად დეფორმირდეს",
+        "a": "შეახსენეთ, რომ Luisa Spagnoli იყენებს მაღალი ხარისხის მატყლის მკვრივ ქსოვას."
+      },
+      {
+        "q": "pura lana vergine“-ს მოვლის რეკომენდაციების დაცვით, ნაკეთობა შეინარჩუნებს თავის სტრუქტურასა და სიმკვრივეს მრავალი სეზონის განმავლობაში. «რით ვატარო ასეთი კონტრასტული მოდელები (0204/0101)?",
+        "a": "წარმოაჩინეთ Look 100: კონტრასტული რუშები შესანიშნავად „კრავს“ იმიჯს, თუ მათ შეუხამებთ შავ ტყავის ნაკეთობებს ან მუქ ჯინსს, რაც ქმნის გრაფიკულ ვერტიკალს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ժանյակները (ռյուշները) այնպես են երևում, կարծես եզրը մշակված չէ",
+        "a": "Բացատրեք, որ."
+      },
+      {
+        "q": "sgranate",
+        "a": "տեխնիկան դիտավորյալ դիզայներական հնարք է, որը դասական տրիկոտաժին հաղորդում է ժամանակակից արվեստային բնույթ և ընդգծում ձեռքի աշխատանքը."
+      },
+      {
+        "q": "Վախենում եմ, որ օձիք-կանգնակը կխանգարի",
+        "a": "Մատնանշեք, որ հարթ կողերով հյուսվածքը (coste piatte) օժտված է բարձր առաձգականությամբ: Օձիքը փափուկ է գրկում՝ առանց ճնշում գործադրելու, և հարմարվում է պարանոցի շարժումներին."
+      },
+      {
+        "q": "Կոճակների վրայի լոգոտիպերը չափազանց նկատելի են",
+        "a": "Ընդգծեք, որ LS մետաղական աքսեսուարները կատարված են ոսկերչական իրերի ոճով և ծառայում են որպես բարձր նորաձևության աշխարհին պատկանելության նուրբ նշան՝ փոխարինելով բրոշին կամ վզնոցին."
+      },
+      {
+        "q": "Բարակ տրիկոտաժը կարող է արագ կորցնել ձևը",
+        "a": "Հիշեցրեք, որ Luisa Spagnoli-ն օգտագործում է բարձրորակ բրդից խիտ հյուսվածք."
+      },
+      {
+        "q": "Pura lana vergine",
+        "a": "-ի խնամքի հանձնարարականները պահպանելու դեպքում, արտադրանքը կպահպանի իր կառուցվածքն ու խտությունը բազմաթիվ սեզոնների ընթացքում."
+      },
+      {
+        "q": "Ի՞նչ կրել նման հակադրվող մոդելների (0204/0101) հետ",
+        "a": "Ցուցադրեք Look 100-ը. հակադրվող ժանյակները հիանալի կերպով."
+      },
+      {
+        "q": "հավաքում",
+        "a": "են կերպարը, եթե դրանք համադրեք սև կաշվե իրերի կամ մուգ ջինսի հետ՝ ստեղծելով գրաֆիկական ուղղահայաց գիծ."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Volāni izskatās tā",
+        "a": "Paskaidrojiet, ka «sgranate tehnika — ir apzināts it kā mala nav apstrādāta» dizainera paņēmiens, kas klasiskajai trikotāžai piešķir mūsdienīgu, māksliniecisku raksturu un izceļ roku darbu."
+      },
+      {
+        "q": "Baidos, ka stāvapkakle",
+        "a": "Norādiet uz to, ka adījums plakanā ribojumā (coste piatte) traucēs piemīt augsta elastība. Apkakle maigi pieguļ, neradot spiedienu, un pielāgojas kakla kustībām."
+      },
+      {
+        "q": "Logotipi uz pogām —",
+        "a": "Uzsveriet, ka LS metāla furnitūra ir izgatavota ir pārāk pamanāmi juvelierizstrādājumu stilā un kalpo kā delikāts piederības augstās modes pasaulei marķieris, aizstājot brošu vai kaklarotu."
+      },
+      {
+        "q": "Plāna trikotāža var",
+        "a": "Atgādiniet, ka Luisa Spagnoli izmanto blīvu adījumu ātri zaudēt formu no augstas kvalitātes vilnas. Ievērojot kopšanas ieteikumus."
+      },
+      {
+        "q": "pura lana vergine",
+        "a": "izstrādājums saglabās savu struktūru un blīvumu daudzu sezonu garumā."
+      },
+      {
+        "q": "Ar ko valkāt tik kontras-",
+        "a": "Demonstrējiet Look 100: kontrastējoši volāni lieliski tas modeļus (0204/0101)?"
+      },
+      {
+        "q": "savāc",
+        "a": "koptēlu, ja tos kombinē ar melniem ādas izstrādājumiem vai tumšu džinsu, radot grafisku vertikāli."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikimui: „Raukiniai atrodo taip, lyg kraštas nebūtų apdorotas",
+        "a": "Paaiškinkite, kad „sgranate“ technika yra apgalvotas dizainerio sprendimas, suteikiantis klasikiniam trikotažui šiuolaikiško artistiškumo ir pabrėžiantis rankų darbą. , kad „sgranate“ technika yra apgalvotas dizainerio sprendimas, suteikiantis klasikiniam trikotažui šiuolaikiško artistiškumo ir pabrėžiantis rankų darbą."
+      },
+      {
+        "q": "„Bijau, kad stačia apykaklė trukdys",
+        "a": "Nurodykite, kad mezgimas plokščiais dryžiais (coste piatte) pasižymi dideliu elastingumu. Apykaklė minkštai priglunda, nespaudžia ir prisitaiko prie kaklo judesių. , kad mezgimas plokščiais dryžiais (coste piatte) pasižymi dideliu elastingumu. Apykaklė minkštai priglunda, nespaudžia ir prisitaiko prie kaklo judesių."
+      },
+      {
+        "q": "„Logotipai ant sagų atrodo per ryškiai",
+        "a": "Pabrėžkite, kad metalinė LS furnitūra pagaminta juvelyrinių dirbinių stiliumi ir tarnauja kaip subtilus aukštosios mados priklausomybės ženklas, pakeičiantis sagę ar vėrinį. , kad metalinė LS furnitūra pagaminta juvelyrinių dirbinių stiliumi ir tarnauja kaip subtilus aukštosios mados priklausomybės ženklas, pakeičiantis sagę ar vėrinį."
+      },
+      {
+        "q": "„Plonas trikotažas gali greitai prarasti formą",
+        "a": "Priminkite, kad Luisa Spagnoli naudoja tankų mezgimą iš aukštos kokybės vilnos. Laikantis „pura lana vergine“ priežiūros rekomendacijų, gaminys išlaikys savo struktūrą ir tankį daugelį sezonų. , kad Luisa Spagnoli naudoja tankų mezgimą iš aukštos kokybės vilnos. Laikantis „pura lana vergine“ priežiūros rekomendacijų, gaminys išlaikys savo struktūrą ir tankį daugelį sezonų."
+      },
+      {
+        "q": "„Su kuo nešioti tokius kontrastingus modelius (0204/0101)?",
+        "a": "Pademonstruokite Look 100: kontrastingi raukiniai puikiai „sujungia“ įvaizdį, jei derinsite juos su juodais odiniais gaminiais ar tamsiu džinsu, taip sukuriant grafišką vertikalę."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Falbanki wyglądają, jakby brzeg nie był wykończony",
+        "a": "Wyjaśnij, że technika."
+      },
+      {
+        "q": "sgranate",
+        "a": "to świadomy zabieg designerski, nadający klasycznej dzianinie nowoczesny, artystyczny charakter i podkreślający ręczne wykonanie."
+      },
+      {
+        "q": "Obawiam się, że kołnierz typu stójka będzie przeszkadzał",
+        "a": "Wskaż na to, że splot w płaski prążek (coste piatte) posiada wysoką elastyczność. Kołnierz miękko przylega, nie tworząc ucisku i dostosowuje się do ruchów szyi."
+      },
+      {
+        "q": "Logotypy na guzikach są zbyt widoczne",
+        "a": "Podkreśl, że metalowe okucia LS wykonane są w stylu biżuterii i służą jako delikatny wyznacznik przynależności do świata wysokiej mody, zastępując broszkę lub naszyjnik."
+      },
+      {
+        "q": "Cienka dzianina może szybko stracić formę",
+        "a": "Przypomnij, że Luisa Spagnoli stosuje gęsty splot z wysokiej jakości wełny. Przy przestrzeganiu zaleceń dotyczących pielęgnacji."
+      },
+      {
+        "q": "pura lana vergine",
+        "a": "odzież zachowa swoją strukturę i gęstość przez wiele sezonów."
+      },
+      {
+        "q": "Z czym nosić tak kontrastowe modele (0204/0101)?",
+        "a": "Zaprezentuj Look 100: kontrastowe falbanki wspaniale."
+      },
+      {
+        "q": "zbierają",
+        "a": "stylizację, jeśli połączy się je z czarnymi skórzanymi elementami lub ciemnym denimem, tworząc graficzną pionową linię."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Рюші виглядають",
+        "a": "Поясніть, що техніка «sgranate — це свідомий так, ніби край не дизайнерський прийом, що надає класичному оброблений» трикотажу сучасний артистичний характер і підкреслює ручну роботу."
+      },
+      {
+        "q": "Боюся, що",
+        "a": "Вкажіть на те, що в’язка в плоский рубчик (coste комір-стійка piatte) володіє високою еластичністю. Комір буде заважати м'яко облягає, не створюючи тиску, і адаптується до рухів шиї."
+      },
+      {
+        "q": "Логотипи на",
+        "a": "Підкресліть, що металева фурнітура LS ґудзиках — це виконана в стилі ювелірних виробів і слугує надто помітно делікатним маркером приналежності до світу високої моди, замінюючи собою брошку або кольє."
+      },
+      {
+        "q": "Тонкий трикотаж",
+        "a": "Нагадайте, що Luisa Spagnoli використовує щільну може швидко в’язку з високоякісної вовни. При дотриманні втратити форму рекомендацій щодо догляду за."
+      },
+      {
+        "q": "pura lana vergine",
+        "a": "виріб збереже свою структуру та щільність протягом багатьох сезонів."
+      },
+      {
+        "q": "З чим носити",
+        "a": "Продемонструйте Look 100: контрастні рюші такі контрастні чудово «збирають образ, якщо поєднувати їх з моделі чорними шкіряними виробами або темним денімом, (0204/0101)?» створюючи графічну вертикаль."
+      }
+    ]
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "id": 2,
+  "name": "Capire",
+  "description": {
+    "en": "This pullover from the Luisa Spagnoli collection is the embodiment of sensuous elegance and gentle comfort. Crafted from a luxurious blend of mohair, wool and polyamide, it offers airy lightness paired with tender warmth. The defining detail is an exquisite collar that reveals the shoulder line, lending the silhouette an aristocratic femininity and refinement. The Regular fit silhouette and flawlessly smooth knit make this piece a versatile addition to any contemporary wardrobe, equally suited to daytime ensembles and evening occasions.",
+    "ru": "Этот пуловер из коллекции Luisa Spagnoli — воплощение чувственной элегантности и мягкого комфорта. Модель выполнена из роскошной смеси мохера, шерсти и полиамида, обеспечивающей воздушную легкость и нежное тепло. Главная деталь — изысканный воротник, открывающий линию плеч, что придает образу аристократичную женственность и утонченность. Прямой силуэт (Regular fit) и безупречно гладкая вязка делают это изделие универсальным дополнением к любому современному гардеробу, идеально подходящим как для дневных образов, так и для вечерних выходов.",
+    "ar": "يُعد هذا البلوفر من مجموعة Luisa Spagnoli تجسيداً للأناقة الحسية والراحة الناعمة. صُممت القطعة من مزيج فاخر من الموهير والصوف والبولياميد، مما يمنحها خفة هوائية ودفئاً لطيفاً. التفصيلة الرئيسية هي الياقة المتقنة التي تكشف عن خط الكتفين، مما يمنح المظهر طابعاً أرستقراطياً أنثوياً وراقياً. بفضل قصته المستقيمة (Regular fit) وحياكته الملساء المثالية، يُعتبر هذا التصميم إضافة مثالية لأي خزانة ملابس عصرية، سواء للإطلالات النهارية أو السهرات المسائية.",
+    "ka": "Luisa Spagnoli-ს კოლექციის ეს პულოვერი სენსუალური ელეგანტურობისა და რბილი კომფორტის განსახიერებაა. მოდელი შესრულებულია მოჰერის, მატყლისა და პოლიამიდის ფუფუნების ნაზავით, რაც უზრუნველყოფს ჰაეროვან სიმსუბუქესა და ნაზ სითბოს. მთავარი დეტალია დახვეწილი საყელო, რომელიც მხრების ხაზს აშიშვლებს, რაც იმიჯს არისტოკრატულ ქალურობასა და დახვეწილობას ანიჭებს. სწორი სილუეტი (Regular fit) და უნაკლოდ გლუვი ქსოვა ამ ნაკეთობას ნებისმიერი თანამედროვე გარდერობის უნივერსალურ დამატებად აქცევს, რომელიც იდეალურია როგორც დღის იმიჯისთვის, ისე საღამოს გასვლებისთვის.",
+    "hy": "Luisa Spagnoli հավաքածուի այս պուլովերը զգայուն էլեգանտության և փափուկ հարմարավետության մարմնացումն է։ Մոդելը պատրաստված է մոհերի, բրդի և պոլիամիդի շքեղ խառնուրդից, որն ապահովում է օդային թեթևություն և նուրբ ջերմություն։ Գլխավոր դետալը նրբաճաշակ օձիքն է, որը բացում է ուսերի գիծը՝ կերպարին հաղորդելով արիստոկրատական կանացիություն և նրբագեղություն։ Ուղիղ ուրվագիծը (Regular fit) և անթերի հարթ գործվածքը այս հագուստը դարձնում են ցանկացած ժամանակակից զգեստապահարանի բազմակողմանի հավելում, որն իդեալական է ինչպես ցերեկային, այնպես էլ երեկոյան կերպարների համար։",
+    "lv": "Šis Luisa Spagnoli kolekcijas džemperis ir jutekliskas elegances un maiga komforta iemiesojums. Modelis ir izgatavots no grezna mohēras, vilnas un poliamīda maisījuma, kas nodrošina gaisīgu vieglumu un maigu siltumu. Galvenā detaļa ir izsmalcināta apkakle, kas atsedz plecu līniju, piešķirot tēlam aristokrātisku sievišķību un izsmalcinātību. Taisnais siluets (Regular fit) un nevainojami gludais adījums padara šo izstrādājumu par universālu papildinājumu jebkurai mūsdienīgai garderobei, kas ir ideāli piemērots gan dienas tēliem, gan vakara izgājieniem.",
+    "lt": "Šis Luisa Spagnoli kolekcijos puloveris – jausmingos elegancijos ir švelnaus komforto įsikūnijimas. Modelis pagamintas iš prabangaus moherio, vilnos ir poliamido mišinio, suteikiančio lengvumo bei švelnios šilumos. Pagrindinė detalė – išskirtinė apykaklė, atidengianti pečių liniją, kuri suteikia įvaizdžiui aristokratiško moteriškumo ir rafinuotumo. Tiesioginis siluetas (Regular fit) ir nepriekaištingai lygus mezgimas paverčia šį gaminį universaliu priedu prie bet kokio šiuolaikinio garderobo, idealiai tinkančiu tiek dieniniams įvaizdžiams, tiek vakariniams išėjimams.",
+    "pl": "Ten pulower z kolekcji Luisa Spagnoli to ucieleśnienie zmysłowej elegancji i delikatnego komfortu. Model wykonany jest z luksusowej mieszanki moheru, wełny i poliamidu, zapewniającej przewiewną lekkość i subtelne ciepło. Główny detal to wykwintny kołnierz odkrywający linię ramion, co nadaje stylizacji arystokratycznej kobiecości i wyrafinowania. Prosty krój (Regular fit) oraz nieskazitelnie gładki splot sprawiają, że ten model jest uniwersalnym dodatkiem do każdej nowoczesnej garderoby, idealnym zarówno do dziennych stylizacji, jak i wieczorowych wyjść.",
+    "uk": "Цей пуловер з колекції Luisa Spagnoli — втілення чуттєвої елегантності та м'якого комфорту. Модель виконана з розкішної суміші мохеру, вовни та поліаміду, що забезпечує повітряну легкість та ніжне тепло. Головна деталь — вишуканий комір, що відкриває лінію плечей, що додає образу аристократичної жіночності та витонченості. Прямий силует (Regular fit) і бездоганно гладка в'язка роблять цей виріб універсальним доповненням до будь-якого сучасного гардероба, що ідеально підходить як для денних образів, так і для вечірніх виходів."
+  },
+  "colors": [
+    {
+      "name": "Bordeaux",
+      "code": "2452",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tpx4YIVOQIiHt8_Igw7clQ_966025813696f430ca6aa01_65494584_02830020XX1.jpg"
+    },
+    {
+      "name": "Grigio Melange",
+      "code": "0829",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eb047c27-acac-4b5a-a97c-f54ad6d9fd9d.jpg"
+    },
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7gE-VLFDQvq9vexaNQ3bxw_2132901143696f430c387c93_50366657_02830010XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Bordeaux)",
+        "en": "Total Look (Bordeaux)",
+        "ar": "Total Look (Bordeaux)",
+        "ka": "Total Look (Bordeaux)",
+        "hy": "Total Look (Bordeaux)",
+        "lv": "Total Look (Bordeaux)",
+        "lt": "Total Look (Bordeaux)",
+        "pl": "Total Look (Bordeaux)",
+        "uk": "Total Look (Bordeaux)"
+      },
+      "text": {
+        "ru": "Capire 2452 в сочетании с юбкой Fumaiolo 3417, браслетом Niassesi 2449 0002 и туфлями Uragano A 0986.",
+        "en": "Capire 2452 paired with the Fumaiolo 3417 skirt, Niassesi 2449 0002 bracelet and Uragano A 0986 shoes.",
+        "ar": "Capire 2452 paired with the Fumaiolo 3417 skirt, Niassesi 2449 0002 bracelet and Uragano A 0986 shoes.",
+        "ka": "Capire 2452 paired with the Fumaiolo 3417 skirt, Niassesi 2449 0002 bracelet and Uragano A 0986 shoes.",
+        "hy": "Capire 2452 paired with the Fumaiolo 3417 skirt, Niassesi 2449 0002 bracelet and Uragano A 0986 shoes.",
+        "lv": "Capire 2452 paired with the Fumaiolo 3417 skirt, Niassesi 2449 0002 bracelet and Uragano A 0986 shoes.",
+        "lt": "Capire 2452 paired with the Fumaiolo 3417 skirt, Niassesi 2449 0002 bracelet and Uragano A 0986 shoes.",
+        "pl": "Capire 2452 paired with the Fumaiolo 3417 skirt, Niassesi 2449 0002 bracelet and Uragano A 0986 shoes.",
+        "uk": "Capire 2452 paired with the Fumaiolo 3417 skirt, Niassesi 2449 0002 bracelet and Uragano A 0986 shoes."
+      },
+      "items": [
+        {
+          "name": "Capire",
+          "code": "2452",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tpx4YIVOQIiHt8_Igw7clQ_966025813696f430ca6aa01_65494584_02830020XX1.jpg"
+        },
+        {
+          "name": "Fumaiolo",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg",
+          "modelId": 64
+        },
+        {
+          "name": "Niassesi",
+          "code": "2449 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2449.png"
+        },
+        {
+          "name": "Uragano A",
+          "code": "0986",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URAGANO_98600000000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (Grigio Melange)",
+        "en": "Total Look (Grigio Melange)",
+        "ar": "Total Look (Grigio Melange)",
+        "ka": "Total Look (Grigio Melange)",
+        "hy": "Total Look (Grigio Melange)",
+        "lv": "Total Look (Grigio Melange)",
+        "lt": "Total Look (Grigio Melange)",
+        "pl": "Total Look (Grigio Melange)",
+        "uk": "Total Look (Grigio Melange)"
+      },
+      "text": {
+        "ru": "Capire 0829 дополнен юбкой Franchezza 0863, брюками Ustica A 0101, серьгами Neanide 0002 и очками Xnina A 0101 0002.",
+        "en": "Capire 0829 complemented by the Franchezza 0863 skirt, Ustica A 0101 trousers, Neanide 0002 earrings and Xnina A 0101 0002 glasses.",
+        "ar": "Capire 0829 complemented by the Franchezza 0863 skirt, Ustica A 0101 trousers, Neanide 0002 earrings and Xnina A 0101 0002 glasses.",
+        "ka": "Capire 0829 complemented by the Franchezza 0863 skirt, Ustica A 0101 trousers, Neanide 0002 earrings and Xnina A 0101 0002 glasses.",
+        "hy": "Capire 0829 complemented by the Franchezza 0863 skirt, Ustica A 0101 trousers, Neanide 0002 earrings and Xnina A 0101 0002 glasses.",
+        "lv": "Capire 0829 complemented by the Franchezza 0863 skirt, Ustica A 0101 trousers, Neanide 0002 earrings and Xnina A 0101 0002 glasses.",
+        "lt": "Capire 0829 complemented by the Franchezza 0863 skirt, Ustica A 0101 trousers, Neanide 0002 earrings and Xnina A 0101 0002 glasses.",
+        "pl": "Capire 0829 complemented by the Franchezza 0863 skirt, Ustica A 0101 trousers, Neanide 0002 earrings and Xnina A 0101 0002 glasses.",
+        "uk": "Capire 0829 complemented by the Franchezza 0863 skirt, Ustica A 0101 trousers, Neanide 0002 earrings and Xnina A 0101 0002 glasses."
+      },
+      "items": [
+        {
+          "name": "Capire",
+          "code": "0829",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eb047c27-acac-4b5a-a97c-f54ad6d9fd9d.jpg"
+        },
+        {
+          "name": "Franchezza",
+          "code": "0863",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG",
+          "modelId": 57
+        },
+        {
+          "name": "Ustica A",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg"
+        },
+        {
+          "name": "Neanide",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1605403396691c57d8aee920_21613301_02800170XX1.jpg"
+        },
+        {
+          "name": "Xnina A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-10%20at%2014.20.26%20%281%29.jpeg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (Nero)",
+        "en": "Total Look (Nero)",
+        "ar": "Total Look (Nero)",
+        "ka": "Total Look (Nero)",
+        "hy": "Total Look (Nero)",
+        "lv": "Total Look (Nero)",
+        "lt": "Total Look (Nero)",
+        "pl": "Total Look (Nero)",
+        "uk": "Total Look (Nero)"
+      },
+      "text": {
+        "ru": "Capire 0101 со стильной юбкой Faustin 0101, туфлями Udita 0101 0101 0002, браслетом Necessario 0101 0002 и серьгами Nordici 0068 0002.",
+        "en": "Capire 0101 with a stylish Faustin 0101 skirt, Udita 0101 0101 0002 shoes, Necessario 0101 0002 bracelet and Nordici 0068 0002 earrings.",
+        "ar": "Capire 0101 with a stylish Faustin 0101 skirt, Udita 0101 0101 0002 shoes, Necessario 0101 0002 bracelet and Nordici 0068 0002 earrings.",
+        "ka": "Capire 0101 with a stylish Faustin 0101 skirt, Udita 0101 0101 0002 shoes, Necessario 0101 0002 bracelet and Nordici 0068 0002 earrings.",
+        "hy": "Capire 0101 with a stylish Faustin 0101 skirt, Udita 0101 0101 0002 shoes, Necessario 0101 0002 bracelet and Nordici 0068 0002 earrings.",
+        "lv": "Capire 0101 with a stylish Faustin 0101 skirt, Udita 0101 0101 0002 shoes, Necessario 0101 0002 bracelet and Nordici 0068 0002 earrings.",
+        "lt": "Capire 0101 with a stylish Faustin 0101 skirt, Udita 0101 0101 0002 shoes, Necessario 0101 0002 bracelet and Nordici 0068 0002 earrings.",
+        "pl": "Capire 0101 with a stylish Faustin 0101 skirt, Udita 0101 0101 0002 shoes, Necessario 0101 0002 bracelet and Nordici 0068 0002 earrings.",
+        "uk": "Capire 0101 with a stylish Faustin 0101 skirt, Udita 0101 0101 0002 shoes, Necessario 0101 0002 bracelet and Nordici 0068 0002 earrings."
+      },
+      "items": [
+        {
+          "name": "Capire",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7gE-VLFDQvq9vexaNQ3bxw_2132901143696f430c387c93_50366657_02830010XX1.jpg"
+        },
+        {
+          "name": "Faustin",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dGH9ZaVFQbyTxVct5sWatA_1894557478696f422c166df5_93606032_02820020XX1.jpg",
+          "modelId": 42
+        },
+        {
+          "name": "Udita",
+          "code": "0101 0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png"
+        },
+        {
+          "name": "Necessario",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3.png"
+        },
+        {
+          "name": "Nordici",
+          "code": "0068 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nordici.png"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the season's key trend of the off-shoulder neckline: this silhouette visually elongates the neck, creating a captivating yet understated look.",
+      "Recommend this piece to clients who value tactile sensation: the high mohair content makes the knit remarkably soft and inviting.",
+      "Suggest a play of textures: the pullover pairs beautifully with leather, lace, or heavy tweed, as confirmed by our runway looks."
+    ],
+    "ru": [
+      "Делайте акцент на актуальном тренде открытых плеч: этот фасон визуально удлиняет шею и создает притягательный, но сдержанный образ.",
+      "Рекомендуйте модель клиентам, ценящим тактильные ощущения: высокое содержание мохера делает трикотаж невероятно мягким и уютным.",
+      "Предлагайте игру фактур: пуловер идеально сочетается с кожей, кружевом или плотным твидом, что подтверждается нашими подиумными образами."
+    ],
+    "ar": [
+      "ركزي على اتجاه الأكتاف المكشوفة الرائج: هذا التصميم يمنح العنق طولاً بصريًا ويخلق إطلالة جذابة ومحتشمة في آن واحد.",
+      "رشحي هذا الموديل للعميلات اللواتي يقدرن الملمس الفاخر: نسبة الموهير العالية تجعل التريكو فائق النعومة والراحة.",
+      "اقترحي تجربة تباين الأنسجة: البلوفر يمتزج بشكل مثالي مع الجلد، الدانتيل، أو التويد السميك، كما هو معتمد في إطلالات منصات العرض الخاصة بنا."
+    ],
+    "ka": [
+      "გაამახვილეთ აქცენტი ღია მხრების აქტუალურ ტრენდზე: ეს ფასონი ვიზუალურად აგრძელებს კისერს და ქმნის მიმზიდველ, მაგრამ თავშეკავებულ იმიჯს.",
+      "ურჩიეთ მოდელი კლიენტებს, რომლებიც აფასებენ ტაქტილურ შეგრძნებებს: მოჰერის მაღალი შემცველობა ტრიკოტაჟს წარმოუდგენლად რბილს და მყუდროს ხდის.",
+      "შესთავაზეთ ფაქტურების თამაში: პულოვერი იდეალურად ეხამება ტყავს, მაქმანს ან მკვრივ ტვიდს, რაც დასტურდება ჩვენი პოდიუმის იმიჯებით."
+    ],
+    "hy": [
+      "Շեշտը դրեք բաց ուսերի արդիական միտման վրա. այս ձևվածքը տեսողականորեն երկարացնում է պարանոցը և ստեղծում գրավիչ, բայց զուսպ կերպար:",
+      "Առաջարկեք մոդելը այն հաճախորդներին, ովքեր գնահատում են շոշափելի զգացողությունները. մոհերի բարձր պարունակությունը տրիկոտաժը դարձնում է անհավանական փափուկ և հարմարավետ:",
+      "Առաջարկեք ֆակտուրաների խաղ. պուլովերը կատարյալ համադրվում է կաշվի, ժանյակի կամ խիտ թվիդի հետ, ինչը հաստատվում է մեր պոդիումային կերպարներով:"
+    ],
+    "lv": [
+      "Lieciet uzsvaru uz aktuālo atvērto plecu tendenci: šis fasons vizuāli pagarina kaklu un rada pievilcīgu, taču atturīgu tēlu.",
+      "Iesakiet modeli klientēm, kuras novērtē taktilās sajūtas: augsts mohēras saturs padara trikotāžu neticami mīkstu un mājīgu.",
+      "Piedāvājiet faktūru spēli: pulovers ideāli sader ar ādu, mežģīnēm vai blīvu tvīdu, ko apstiprina mūsu modes skatēs redzamie tēli."
+    ],
+    "lt": [
+      "Akcentuokite aktualų atvirų pečių trendą: šis siluetas vizualiai ilgina kaklą ir sukuria patrauklų, tačiau santūrų įvaizdį.",
+      "Rekomenduokite modelį klientėms, vertinančioms taktilinius pojūčius: didelis moherio kiekis daro trikotažą neįtikėtinai švelnų ir jaukų.",
+      "Pasiūlykite faktūrų žaismą: megztinis idealiai dera su oda, nėriniais ar storu tvidu, ką patvirtina mūsų podiumo įvaizdžiai."
+    ],
+    "pl": [
+      "Połóż nacisk na aktualny trend odsłoniętych ramion: ten fason optycznie wydłuża szyję i tworzy pociągający, lecz powściągliwy wizerunek.",
+      "Rekomenduj ten model klientom ceniącym wrażenia dotykowe: wysoka zawartość moheru sprawia, że dzianina jest niezwykle miękka i przytulna.",
+      "Zaproponuj grę faktur: pulower idealnie komponuje się ze skórą, koronką lub grubym tweedem, co potwierdzają nasze stylizacje z wybiegów."
+    ],
+    "uk": [
+      "Робіть акцент на актуальному тренді відкритих плечей: цей фасон візуально подовжує шию та створює привабливий, але стриманий образ.",
+      "Рекомендуйте модель клієнтам, що цінують тактильні відчуття: високий вміст мохеру робить трикотаж неймовірно м'яким та затишним.",
+      "Пропонуйте гру фактур: пуловер ідеально поєднується зі шкірою, мереживом або щільним твідом, що підтверджується нашими подіумними образами."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Mohair may cause a prickling sensation.",
+        "a": "The piece is made with high-quality mohair blended with 35% polyamide, which lends the yarn a silky quality and minimizes any skin irritation."
+      },
+      {
+        "q": "Off-the-shoulder styling seems impractical for the cold season.",
+        "a": "The 'collo rovesciato' (folded collar) design allows the degree of coverage to be adjusted. Moreover, mohair offers excellent thermoregulating properties."
+      },
+      {
+        "q": "The burgundy shade seems too bold.",
+        "a": "Shade 2452 is a deep, classic wine tone that this season has become the new neutral, pairing beautifully with the core wardrobe palette."
+      },
+      {
+        "q": "The Regular fit cut may look shapeless.",
+        "a": "It is precisely the emphasis at the shoulders that balances the silhouette, creating an elegant vertical line, while the soft drape of the knit delicately flatters the figure."
+      },
+      {
+        "q": "How should such a delicate fiber blend be cared for?",
+        "a": "We recommend professional dry cleaning or hand-washing in cool water with specialized wool detergents, to preserve the fibers' plush texture."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Мохер может вызывать покалывание.",
+        "a": "В составе изделия используется высококачественный мохер в сочетании с 35% полиамида, что придает нити шелковистость и минимизирует раздражение кожи."
+      },
+      {
+        "q": "Открытые плечи — это непрактично для холодного времени года.",
+        "a": "Дизайн 'collo rovesciato' (отвернутый воротник) позволяет регулировать степень открытости. К тому же, мохер обладает отличными терморегулирующими свойствами."
+      },
+      {
+        "q": "Бордовый цвет кажется слишком ярким.",
+        "a": "Оттенок 2452 — это глубокий, классический винный тон, который в этом сезоне признан новым нейтральным цветом, идеально сочетающимся с базовой гаммой."
+      },
+      {
+        "q": "Прямой крой (Regular fit) может выглядеть мешковато.",
+        "a": "Именно акцент на плечах балансирует силуэт, создавая элегантную вертикаль, а мягкая драпировка трикотажа деликатно подчеркивает фигуру."
+      },
+      {
+        "q": "Как ухаживать за таким деликатным составом?",
+        "a": "Мы рекомендуем профессиональную химчистку или ручную стирку в прохладной воде со специальными средствами для шерсти, чтобы сохранить пушистую структуру волокон."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يسبب الموهير وخزاً.",
+        "a": "يتم استخدام الموهير عالي الجودة في تكوين القطعة مع 35% من البولي أميد، مما يمنح الخيط نعومة حريرية ويقلل من تهيج الجلد."
+      },
+      {
+        "q": "الأكتاف المكشوفة غير عملية للموسم البارد.",
+        "a": "يسمح تصميم 'collo rovesciato' (الياقة المطوية) بتعديل مستوى الانكشاف. علاوة على ذلك، يتمتع الموهير بخصائص ممتازة لتنظيم الحرارة."
+      },
+      {
+        "q": "اللون العنابي يبدو ساطعاً جداً.",
+        "a": "درجة اللون 2452 هي لون نبيذي كلاسيكي وعميق، معتمد هذا الموسم كلون محايد جديد يتماشى تماماً مع الألوان الأساسية."
+      },
+      {
+        "q": "القصة المستقيمة (Regular fit) قد تبدو فضفاضة.",
+        "a": "التركيز على الأكتاف هو ما يوازن القوام، مما يخلق خطاً عمودياً أنيقاً، بينما تبرز انسيابية التريكو القوام بنعومة."
+      },
+      {
+        "q": "كيفية العناية بهذا التكوين الرقيق؟",
+        "a": "نوصي بالتنظيف الجاف الاحترافي أو الغسيل اليدوي في ماء بارد باستخدام منظفات خاصة بالصوف للحفاظ على بنية الألياف المنفوشة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მოჰერმა შეიძლება ჩხვლეტა გამოიწვიოს.",
+        "a": "ნაკეთობის შემადგენლობაში გამოყენებულია მაღალი ხარისხის მოჰერი 35% პოლიამიდთან კომბინაციაში, რაც ძაფს აბრეშუმისებრ ელფერს აძლევს და ამცირებს კანის გაღიზიანებას."
+      },
+      {
+        "q": "შიშველი მხრები — ეს არაპრაქტიკულია ცივი სეზონისთვის.",
+        "a": "დიზაინი 'collo rovesciato' (გადაკეცილი საყელო) საშუალებას გაძლევთ დაარეგულიროთ ღიაობის ხარისხი. გარდა ამისა, მოჰერს გააჩნია შესანიშნავი თერმორეგულაციური თვისებები."
+      },
+      {
+        "q": "ბორდოსფერი ზედმეტად მკვეთრი ჩანს.",
+        "a": "ტონი 2452 — ეს არის ღრმა, კლასიკური ღვინისფერი ტონი, რომელიც ამ სეზონზე აღიარებულია ახალ ნეიტრალურ ფერად, რომელიც იდეალურად ეხამება საბაზისო გამას."
+      },
+      {
+        "q": "სწორი კროი (Regular fit) შეიძლება უფორმოდ გამოიყურებოდეს.",
+        "a": "სწორედ მხრებზე გაკეთებული აქცენტი აბალანსებს სილუეტს, ქმნის ელეგანტურ ვერტიკალს, ხოლო ნაქსოვის რბილი დრეპირება დელიკატურად უსვამს ხაზს ფიგურას."
+      },
+      {
+        "q": "როგორ მოვუაროთ ასეთ დელიკატურ შემადგენლობას?",
+        "a": "ჩვენ გირჩევთ პროფესიონალურ ქიმწმენდას ან ხელის დაბანას გრილ წყალში მატყლისთვის განკუთვნილი სპეციალური საშუალებებით, რათა შევინარჩუნოთ ბოჭკოების ფუმფულა სტრუქტურა."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Մոհերը կարող է ծակծկել։",
+        "a": "Արտադրանքի կազմում օգտագործվում է բարձրորակ մոհեր՝ 35% պոլիամիդի հետ համակցությամբ, ինչը թելին հաղորդում է մետաքսանմանություն և նվազագույնի հասցնում մաշկի գրգռվածությունը։"
+      },
+      {
+        "q": "Բաց ուսերը պրակտիկ չեն ցուրտ եղանակի համար։",
+        "a": "collo rovesciato» (ծալվող օձիք) դիզայնը թույլ է տալիս կարգավորել բացվածքի աստիճանը։ Բացի այդ, մոհերը ունի գերազանց ջերմակարգավորող հատկություններ։"
+      },
+      {
+        "q": "Բորդո գույնը չափազանց վառ է թվում։",
+        "a": "2452 երանգը խորը, դասական գինու երանգ է, որն այս մրցաշրջանում ճանաչվել է որպես նոր չեզոք գույն՝ իդեալականորեն համադրվող բազային գամմայի հետ։"
+      },
+      {
+        "q": "Ուղիղ կտրվածքը (Regular fit) կարող է պարկանման թվալ։",
+        "a": "Հենց ուսերի վրա արված շեշտադրումն է հավասարակշռում ուրվագիծը՝ ստեղծելով էլեգանտ ուղղահայաց գիծ, իսկ տրիկոտաժի փափուկ դրապիրովկան նրբորեն ընդգծում է կազմվածքը։"
+      },
+      {
+        "q": "Ինչպե՞ս խնամել այսպիսի նուրբ կազմը։",
+        "a": "Մենք խորհուրդ ենք տալիս մասնագիտական քիմմաքրում կամ ձեռքով լվացում սառը ջրով՝ բրդի համար նախատեսված հատուկ միջոցներով՝ թելերի փափուկ կառուցվածքը պահպանելու համար։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Mohēra var radīt kņudošu sajūtu.",
+        "a": "Izstrādājuma sastāvā ir izmantota augstas kvalitātes mohēra kombinācijā ar 35% poliamīda, kas diegam piešķir zīdainumu un mazina ādas kairinājumu."
+      },
+      {
+        "q": "Atsegti pleci nav praktiski aukstajam gadalaikam.",
+        "a": "collo rovesciato' (atlocītā apkakle) dizains ļauj regulēt atvērtības pakāpi. Turklāt mohērai ir lieliskas termoregulācijas īpašības."
+      },
+      {
+        "q": "Bordo krāsa šķiet pārāk spilgta.",
+        "a": "Tonis 2452 ir dziļš, klasisks vīna tonis, kas šajā sezonā atzīts par jauno neitrālo krāsu, kas lieliski sader ar bāzes gammu."
+      },
+      {
+        "q": "Taisnais piegriezums (Regular fit) var izskatīties maisveidīgs.",
+        "a": "Tieši akcents uz pleciem līdzsvaro siluetu, radot elegantu vertikāli, bet mīkstais trikotāžas drapējums delikāti izceļ figūru."
+      },
+      {
+        "q": "Kā kopt tik delikātu sastāvu?",
+        "a": "Mēs iesakām profesionālu ķīmisko tīrīšanu vai mazgāšanu ar rokām vēsā ūdenī ar īpašiem vilnai paredzētiem līdzekļiem, lai saglabātu šķiedru pūkaino struktūru."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Moheris gali kelti niežulį.",
+        "a": "Gaminio sudėtyje naudojamas aukščiausios kokybės moheris su 35% poliamido, kas suteikia siūlui švelnumo ir sumažina odos dirginimą."
+      },
+      {
+        "q": "Bordo spalva atrodo pernelyg ryški.",
+        "a": "2452 atspalvis — tai gilus, klasikinis vyno tonas, šį sezoną pripažintas nauja neutralia spalva, idealiai derančia su bazine gama."
+      },
+      {
+        "q": "Tiesus kirpimas (Regular fit) gali atrodyti maišingai.",
+        "a": "Būtent akcentas pečių srityje subalansuoja siluetą, kurdamas elegantišką vertikalę, o minkšta trikotažo draperija subtiliai išryškina figūrą."
+      },
+      {
+        "q": "Kaip prižiūrėti tokios delikačios sudėties gaminį?",
+        "a": "Rekomenduojame profesionalų cheminį valymą arba rankinį skalbimą vėsiame vandenyje su specialiomis vilnai skirtomis priemonėmis, kad išsaugotumėte purią pluošto struktūrą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Moher może powodować kłucie.",
+        "a": "W składzie produktu zastosowano wysokiej jakości moher w połączeniu z 35% poliamidu, co nadaje nitce jedwabistość i minimalizuje podrażnienia skóry."
+      },
+      {
+        "q": "Odsłonięte ramiona nie są praktyczne na chłodniejsze pory roku.",
+        "a": "Design 'collo rovesciato' (wywijany kołnierz) pozwala regulować stopień odsłonięcia. Ponadto moher posiada doskonałe właściwości termoregulacyjne."
+      },
+      {
+        "q": "Bordowy kolor wydaje się zbyt jaskrawy.",
+        "a": "Odcień 2452 to głęboki, klasyczny winny ton, który w tym sezonie uznawany jest za nowy neutralny kolor, idealnie łączący się z bazową gamą."
+      },
+      {
+        "q": "Prosty krój (Regular fit) może wyglądać workowato.",
+        "a": "To właśnie akcent na ramionach równoważy sylwetkę, tworząc elegancką pionową linię, a miękkie drapowanie dzianiny delikatnie podkreśla figurę."
+      },
+      {
+        "q": "Jak dbać o tak delikatny skład?",
+        "a": "Zalecamy profesjonalne czyszczenie chemiczne lub pranie ręczne w chłodnej wodzie ze specjalnymi środkami do wełny, aby zachować puszystą strukturę włókien."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Мохер може викликати поколювання.",
+        "a": "У складі виробу використовується високоякісний мохер у поєднанні з 35% поліаміду, що додає нитці шовковистості та мінімізує подразнення шкіри."
+      },
+      {
+        "q": "Відкриті плечі — це непрактично для холодної пори року.",
+        "a": "Дизайн 'collo rovesciato' (відгорнутий комір) дозволяє регулювати ступінь відкритості. До того ж, мохер володіє чудовими терморегулюючими властивостями."
+      },
+      {
+        "q": "Бордовий колір здається занадто яскравим.",
+        "a": "Відтінок 2452 — це глибокий, класичний винний тон, який у цьому сезоні визнаний новим нейтральним кольором, що ідеально поєднується з базовою гамою."
+      },
+      {
+        "q": "Прямий крій (Regular fit) може виглядати мішкувато.",
+        "a": "Саме акцент на плечах балансує силует, створюючи елегантну вертикаль, а м'яка драпіровка трикотажу делікатно підкреслює фігуру."
+      },
+      {
+        "q": "Як доглядати за таким делікатним складом?",
+        "a": "Ми рекомендуємо професійну хімчистку або ручне прання в прохолодній воді зі спеціальними засобами для вовни, щоб зберегти пухнасту структуру волокон."
+      }
+    ]
+  }
+}

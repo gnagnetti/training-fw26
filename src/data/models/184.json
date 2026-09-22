@@ -1,0 +1,424 @@
+{
+  "id": 184,
+  "name": "Mity",
+  "description": {
+    "en": "The exquisite Mity cardigan is an ode to the classic Fair Isle style, reimagined through the lens of Luisa Spagnoli's contemporary luxury. The model is crafted from 100% pure natural wool of the highest quality, guaranteeing exceptional warmth, softness, and longevity. The fine jacquard knit creates an intricate graphic pattern, lending the piece visual depth and an aristocratic character. Ribbed edge details and buttons with a natural horn effect underscore fidelity to the traditions of Italian craftsmanship. The Regular fit makes this cardigan a versatile piece for creating status-defining, layered looks in the \"quiet luxury\" style.",
+    "ru": "Изысканный кардиган Mity — это ода классическому стилю Fair Isle, переосмысленному в ключе современной роскоши Luisa Spagnoli. Модель выполнена из 100% чистой натуральной шерсти высшего качества, что гарантирует исключительное тепло, мягкость и долговечность. Тонкая жаккардовая вязка создает сложный графический узор, придающий изделию визуальную глубину и аристократичный характер. Детали в рубчик по краям и пуговицы с эффектом натурального рога подчеркивают верность традициям итальянского мастерства. Стандартная посадка (Regular fit) делает этот кардиган универсальным элементом для создания статусных многослойных образов в стиле «тихой роскоши».",
+    "ar": "كارديغان Mity الفاخر هو قصيدة بأسلوب Fair Isle الكلاسيكي، الذي أُعيد ابتكاره في إطار الرفاهية المعاصرة لـ Luisa Spagnoli. القطعة مصنوعة من صوف طبيعي خالص بنسبة 100% عالي الجودة، مما يضمن الدفء الاستثنائي والنعومة والمتانة. تخلق حياكة الجاكار الدقيقة نمطاً رسومياً معقداً يمنح القطعة عمقاً بصرياً وطابعاً أرستقراطياً. تؤكد التفاصيل المضلعة عند الحواف والأزرار ذات تأثير القرن الطبيعي على الإخلاص لتقاليد الحرفية الإيطالية. تجعل القصة القياسية (Regular fit) هذا الكارديغان عنصراً متعدد الاستخدامات لابتكار إطلالات متعددة الطبقات بأسلوب «الرفاهية الهادئة».",
+    "ka": "დახვეწილი კარდიგანი Mity — ეს არის ოდა კლასიკური Fair Isle სტილისადმი, რომელიც Luisa Spagnoli-ის თანამედროვე ფუფუნების ჭრილშია გადააზრებული. მოდელი დამზადებულია 100%-ით სუფთა, უმაღლესი ხარისხის ნატურალური მატყლისგან, რაც უზრუნველყოფს გამორჩეულ სითბოს, სირბილეს და გამძლეობას. თხელი ჟაკარდის ქსოვა ქმნის რთულ გრაფიკულ ორნამენტს, რომელიც ნაკეთობას ვიზუალურ სიღრმეს და არისტოკრატულ ხასიათს ანიჭებს. კიდეების ნეკნებიანი დეტალები და ნატურალური რქის ეფექტის მქონე ღილები ხაზს უსვამს ერთგულებას იტალიური ოსტატობის ტრადიციებისადმი. სტანდარტული ზომა (Regular fit) ამ კარდიგანს უნივერსალურ ელემენტად აქცევს „მდუმარე ფუფუნების“ სტილში სტატუსური, მრავალშრიანი სახეების შესაქმნელად.",
+    "hy": "Mity նրբաճաշակ կարդիգանը դասական Fair Isle ոճի ձոն է, որը վերաիմաստավորված է Luisa Spagnoli-ի ժամանակակից շքեղության տեսանկյունից։ Մոդելը պատրաստված է 100% բարձրորակ մաքուր բնական բրդից, ինչը երաշխավորում է բացառիկ ջերմություն, փափկություն և երկարակեցություն։ Նուրբ ժակարդային հյուսվածքը ստեղծում է բարդ գրաֆիկական նախշ՝ հագուստին հաղորդելով վիզուալ խորություն և ազնվական բնույթ։ Եզրերի ռետինե դետալները և բնական եղջյուրի էֆեկտով կոճակներն ընդգծում են իտալական վարպետության ավանդույթներին հավատարմությունը։ Regular fit կտրվածքը այս կարդիգանը դարձնում է ունիվերսալ տարր՝ «լուռ շքեղության» ոճով կարգավիճակային բազմաշերտ կերպարներ ստեղծելու համար։",
+    "lv": "Izsmalcinātais Mity jaciņa ir oda klasiskajam Fair Isle stilam, kas pārinterpretēts Luisa Spagnoli mūsdienu luksusa atslēgā. Modelis ir izgatavots no 100% tīras, augstākās kvalitātes dabīgās vilnas, kas garantē izcilu siltumu, mīkstumu un izturību. Smalkais žakarda adījums rada sarežģītu grafisku rakstu, kas izstrādājumam piešķir vizuālu dziļumu un aristokrātisku raksturu. Ribotās detaļas malās un pogas ar dabīgā raga efektu uzsver uzticību itāļu meistarības tradīcijām. Standarta piegriezums (Regular fit) padara šo jaciņu par universālu elementu statusa pilnu, daudzslāņu tēlu radīšanai \"klusā luksusa\" stilā.",
+    "lt": "Rafinuotas Mity megztinis – tai odė klasikiniam Fair Isle stiliui, interpretuotam per šiuolaikinės Luisa Spagnoli prabangos prizmę. Modelis pagamintas iš 100 % grynos aukščiausios kokybės natūralios vilnos, garantuojančios išskirtinę šilumą, minkštumą ir ilgaamžiškumą. Subtilus žakardinis mezgimas sukuria sudėtingą grafinį raštą, suteikiantį gaminiui vizualinį gylį ir aristokratišką charakterį. Briaunuotos detalės kraštuose ir natūralaus rago efektą turinčios sagos pabrėžia ištikimybę italų meistriškumo tradicijoms. Standartinis kirpimas (Regular fit) daro šį megztinį universaliu elementu kuriant stilingus, sluoksniuotus „tylios prabangos“ stiliaus įvaizdžius.",
+    "pl": "Wyrafinowany kardigan Mity to oda do klasycznego stylu Fair Isle, zinterpretowanego w duchu współczesnego luksusu Luisa Spagnoli. Model wykonany w 100% z czystej, naturalnej wełny najwyższej jakości, co gwarantuje wyjątkowe ciepło, miękkość i trwałość. Subtelny żakardowy splot tworzy złożony wzór graficzny, nadający wyrobowi wizualną głębię i arystokratyczny charakter. Detale w postaci ściągaczy na brzegach oraz guziki imitujące naturalny róg podkreślają wierność tradycjom włoskiego rzemiosła. Standardowy krój (Regular fit) sprawia, że ten kardigan jest uniwersalnym elementem do tworzenia prestiżowych, warstwowych stylizacji w stylu „quiet luxury”.",
+    "uk": "Вишуканий кардиган Mity — це ода класичному стилю Fair Isle, переосмисленому в ключі сучасної розкоші Luisa Spagnoli. Модель виконана зі 100% чистої натуральної вовни найвищої якості, що гарантує виняткове тепло, м'якість і довговічність. Тонка жакардова в'язка створює складний графічний візерунок, що надає виробу візуальної глибини та аристократичного характеру. Деталі в рубчик по краях і ґудзики з ефектом натурального рогу підкреслюють вірність традиціям італійської майстерності. Стандартна посадка (Regular fit) робить цей кардиган універсальним елементом для створення статусних багатошарових образів у стилі «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Var Bluette",
+      "code": "3441",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/w7ia5WvoTAeZwlznKmkrsw_293308709696f4377880a32_37996036_02831200XX1.jpg"
+    },
+    {
+      "name": "Var Cammello",
+      "code": "3374",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/figTUWpoTa2gZPu9oRzUfA_931594082696f43771a2813_21938047_02831190XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Look 137)",
+        "en": "Total Look (Look 137)",
+        "ar": "Total Look (Look 137)",
+        "ka": "Total Look (Look 137)",
+        "hy": "Total Look (Look 137)",
+        "lv": "Total Look (Look 137)",
+        "lt": "Total Look (Look 137)",
+        "pl": "Total Look (Look 137)",
+        "uk": "Total Look (Look 137)"
+      },
+      "text": {
+        "ru": "Mity 3374 в сочетании с курткой Socio 0963 1161, брюками Olap 1168, серьгами Nagorno 0002 и аксессуарами Urial 0952.",
+        "en": "Mity 3374 combined with the Socio 0963 1161 jacket, Olap 1168 trousers, Nagorno 0002 earrings and Urial 0952 accessories.",
+        "ar": "Mity 3374 combined with the Socio 0963 1161 jacket, Olap 1168 trousers, Nagorno 0002 earrings and Urial 0952 accessories.",
+        "ka": "Mity 3374 combined with the Socio 0963 1161 jacket, Olap 1168 trousers, Nagorno 0002 earrings and Urial 0952 accessories.",
+        "hy": "Mity 3374 combined with the Socio 0963 1161 jacket, Olap 1168 trousers, Nagorno 0002 earrings and Urial 0952 accessories.",
+        "lv": "Mity 3374 combined with the Socio 0963 1161 jacket, Olap 1168 trousers, Nagorno 0002 earrings and Urial 0952 accessories.",
+        "lt": "Mity 3374 combined with the Socio 0963 1161 jacket, Olap 1168 trousers, Nagorno 0002 earrings and Urial 0952 accessories.",
+        "pl": "Mity 3374 combined with the Socio 0963 1161 jacket, Olap 1168 trousers, Nagorno 0002 earrings and Urial 0952 accessories.",
+        "uk": "Mity 3374 combined with the Socio 0963 1161 jacket, Olap 1168 trousers, Nagorno 0002 earrings and Urial 0952 accessories."
+      },
+      "items": [
+        {
+          "name": "Mity",
+          "code": "3374",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/figTUWpoTa2gZPu9oRzUfA_931594082696f43771a2813_21938047_02831190XX1.jpg"
+        },
+        {
+          "name": "Socio",
+          "code": "0963 1161",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e0r4p7GdTVyJ63LSWEZZjQ_823327549696f42fa6897f3_01024722_02821060XX1.jpg",
+          "modelId": 323
+        },
+        {
+          "name": "Olap",
+          "code": "1168",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ynGKN9IHR7KZkKRYYDtgyg_1991141854696f42e6826470_95751980_02820640XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG",
+          "modelId": 198
+        },
+        {
+          "name": "Urial",
+          "code": "0952",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/38266ccf-be3d-428f-90ab-61b64acd7b64-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Outdoor Elegant (Look 141)",
+        "en": "Outdoor Elegant (Look 141)",
+        "ar": "Outdoor Elegant (Look 141)",
+        "ka": "Outdoor Elegant (Look 141)",
+        "hy": "Outdoor Elegant (Look 141)",
+        "lv": "Outdoor Elegant (Look 141)",
+        "lt": "Outdoor Elegant (Look 141)",
+        "pl": "Outdoor Elegant (Look 141)",
+        "uk": "Outdoor Elegant (Look 141)"
+      },
+      "text": {
+        "ru": "Mity 3374 дополненный пуховиком Salicornia 2262, брюками Olap 0214 и обувью Usuale A 0901 0002.",
+        "en": "Mity 3374 complemented by the Salicornia 2262 down jacket, Olap 0214 trousers and Usuale A 0901 0002 footwear.",
+        "ar": "Mity 3374 complemented by the Salicornia 2262 down jacket, Olap 0214 trousers and Usuale A 0901 0002 footwear.",
+        "ka": "Mity 3374 complemented by the Salicornia 2262 down jacket, Olap 0214 trousers and Usuale A 0901 0002 footwear.",
+        "hy": "Mity 3374 complemented by the Salicornia 2262 down jacket, Olap 0214 trousers and Usuale A 0901 0002 footwear.",
+        "lv": "Mity 3374 complemented by the Salicornia 2262 down jacket, Olap 0214 trousers and Usuale A 0901 0002 footwear.",
+        "lt": "Mity 3374 complemented by the Salicornia 2262 down jacket, Olap 0214 trousers and Usuale A 0901 0002 footwear.",
+        "pl": "Mity 3374 complemented by the Salicornia 2262 down jacket, Olap 0214 trousers and Usuale A 0901 0002 footwear.",
+        "uk": "Mity 3374 complemented by the Salicornia 2262 down jacket, Olap 0214 trousers and Usuale A 0901 0002 footwear."
+      },
+      "items": [
+        {
+          "name": "Mity",
+          "code": "3374",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/figTUWpoTa2gZPu9oRzUfA_931594082696f43771a2813_21938047_02831190XX1.jpg"
+        },
+        {
+          "name": "Salicornia",
+          "code": "2262",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bsANrcajRV23YcQN_03KVw_1493745328696f42eeaa4df0_98253593_02820820XX1.jpg"
+        },
+        {
+          "name": "Olap",
+          "code": "0214",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YfLJIN9OTCCGsGAaoXfqug_610004726696f4308184709_09444034_02821440XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Usuale A",
+          "code": "0901 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USUALE_90100020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina Styling (V9-2)",
+        "en": "Vetrina Styling (V9-2)",
+        "ar": "Vetrina Styling (V9-2)",
+        "ka": "Vetrina Styling (V9-2)",
+        "hy": "Vetrina Styling (V9-2)",
+        "lv": "Vetrina Styling (V9-2)",
+        "lt": "Vetrina Styling (V9-2)",
+        "pl": "Vetrina Styling (V9-2)",
+        "uk": "Vetrina Styling (V9-2)"
+      },
+      "text": {
+        "ru": "Mity 3441 в ансамбле с пуловером Contagiri 0202, джинсами Onega 1204 и кепкой Renno 0930.",
+        "en": "Mity 3441 in an ensemble with the Contagiri 0202 pullover, Onega 1204 jeans and Renno 0930 cap.",
+        "ar": "Mity 3441 in an ensemble with the Contagiri 0202 pullover, Onega 1204 jeans and Renno 0930 cap.",
+        "ka": "Mity 3441 in an ensemble with the Contagiri 0202 pullover, Onega 1204 jeans and Renno 0930 cap.",
+        "hy": "Mity 3441 in an ensemble with the Contagiri 0202 pullover, Onega 1204 jeans and Renno 0930 cap.",
+        "lv": "Mity 3441 in an ensemble with the Contagiri 0202 pullover, Onega 1204 jeans and Renno 0930 cap.",
+        "lt": "Mity 3441 in an ensemble with the Contagiri 0202 pullover, Onega 1204 jeans and Renno 0930 cap.",
+        "pl": "Mity 3441 in an ensemble with the Contagiri 0202 pullover, Onega 1204 jeans and Renno 0930 cap.",
+        "uk": "Mity 3441 in an ensemble with the Contagiri 0202 pullover, Onega 1204 jeans and Renno 0930 cap."
+      },
+      "items": [
+        {
+          "name": "Mity",
+          "code": "3441",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/w7ia5WvoTAeZwlznKmkrsw_293308709696f4377880a32_37996036_02831200XX1.jpg"
+        },
+        {
+          "name": "Contagiri",
+          "code": "0202",
+          "imageUrl": null
+        },
+        {
+          "name": "Onega",
+          "code": "1204",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1917785367692424d5743365_23685218_02781410XX1.jpg",
+          "modelId": 458
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Focus the client's attention on the composition: 100% natural merino wool (lana vergine) ensures ideal thermal regulation and lasting durability.",
+      "Draw attention to the design: with its voluminous sleeves and statement buttons, this cardigan can fully substitute for a jacket in both business and evening looks.",
+      "Recommend building a layered look: suggest wearing the cardigan over the classic Lucinda shirt to evoke an aristocratic, 'old money' aesthetic."
+    ],
+    "ru": [
+      "Сфокусируйте внимание клиента на материале: 100% шерсть (lana vergine) обеспечивает естественную терморегуляцию, что делает кардиган идеальным для зимних прогулок и загородного отдыха.",
+      "Акцентируйте эксклюзивность узора Fair Isle: этот орнамент является ключевым трендом сезона 'Heritage', подчеркивающим связь с традициями и высокий статус бренда.",
+      "Предложите стилизовать кардиган поверх классической белой рубашки Lucinda 0201, чтобы создать элегантный дневной образ, подходящий как для офиса, так и для неформальных встреч."
+    ],
+    "ar": [
+      "ركزي انتباه العميل على الخامة: 100% من الصوف (lana vergine) يضمن تنظيمًا حراريًا طبيعيًا، مما يجعل الكارديجان مثاليًا للمشي في الشتاء والأنشطة الريفية.",
+      "أكدي على حصرية نمط Fair Isle: هذا الزخرف هو اتجاه رئيسي لموسم 'Heritage'، مما يؤكد الارتباط بالتقاليد والمكانة العالية للعلامة التجارية.",
+      "اقترحي تنسيق الكارديجان فوق قميص أبيض كلاسيكي Lucinda 0201 ، لخلق إطلالة نهارية أنيقة مناسبة لكل من المكتب واللقاءات غير الرسمية."
+    ],
+    "ka": [
+      "ფოკუსირება მოახდინეთ კლიენტის ყურადღებაზე მასალაზე: 100% მატყლი (lana vergine) უზრუნველყოფს ბუნებრივ თერმორეგულაციას, რაც კარდიგანს იდეალურს ხდის ზამთრის სეირნობისა და ქალაქგარეთ დასვენებისთვის.",
+      "აქცენტი გააკეთეთ Fair Isle-ის ნიმუშის ექსკლუზიურობაზე: ეს ორნამენტი 'Heritage'-ის სეზონის მთავარი ტრენდია, რომელიც ხაზს უსვამს ტრადიციებთან კავშირს და ბრენდის მაღალ სტატუსს.",
+      "შესთავაზეთ კარდიგანის სტილიზაცია კლასიკურ თეთრ პერანგ Lucinda 0201 -ზე, რათა შეიქმნას ელეგანტური დღის იერსახე, რომელიც გამოდგება როგორც ოფისისთვის, ისე არაფორმალური შეხვედრებისთვის."
+    ],
+    "hy": [
+      "Կենտրոնացրեք հաճախորդի ուշադրությունը նյութի վրա. 100% բուրդը (lana vergine) ապահովում է բնական ջերմակարգավորում, ինչը կարդիգանը դարձնում է իդեալական ձմեռային զբոսանքների և հանգստի համար։",
+      "Շեշտեք Fair Isle նախշի բացառիկությունը. այս զարդանախշը 'Heritage' սեզոնի հիմնական թրենդն է, որն ընդգծում է կապը ավանդույթների հետ և ապրանքանիշի բարձր կարգավիճակը։",
+      "Առաջարկեք կարդիգանը հագնել դասական սպիտակ Lucinda 0201 վերնաշապիկի վրայից՝ ստեղծելու էլեգանտ ցերեկային կերպար, որը հարմար է ինչպես գրասենյակի, այնպես էլ ոչ պաշտոնական հանդիպումների համար։"
+    ],
+    "lv": [
+      "Vērsiet klienta uzmanību uz materiālu: 100% vilna (lana vergine) nodrošina dabisku termoregulāciju, kas padara kardiganu ideālu ziemas pastaigām un atpūtai pie dabas.",
+      "Akcentējiet Fair Isle raksta ekskluzivitāti: šis ornaments ir 'Heritage' sezonas galvenā tendence, kas pasvītro saikni ar tradīcijām un augsto zīmola statusu.",
+      "Piedāvājiet stilizēt kardiganu virs klasiska balta krekla Lucinda 0201, lai radītu elegantu dienas tēlu, kas piemērots gan birojam, gan neformālām tikšanās reizēm."
+    ],
+    "lt": [
+      "Sutelkite kliento dėmesį į medžiagą: 100% vilna (lana vergine) užtikrina natūralią termoreguliaciją, todėl kardiganas yra idealus žiemos pasivaikščiojimams ir poilsiui užmiestyje.",
+      "Akcentuokite „Fair Isle“ rašto išskirtinumą: šis ornamentas yra svarbiausia sezono „Heritage“ tendencija, pabrėžianti ryšį su tradicijomis ir aukštą prekės ženklo statusą.",
+      "Pasiūlykite derinti kardiganą ant klasikinės baltos palaidinės Lucinda 0201, norint sukurti elegantišką dienos įvaizdį, tinkantį tiek biurui, tiek neformaliems susitikimams."
+    ],
+    "pl": [
+      "Skup uwagę klientki na materiale: 100% wełna (lana vergine) zapewnia naturalną termoregulację, co czyni kardigan idealnym wyborem na zimowe spacery i wyjazdy za miasto.",
+      "Podkreśl ekskluzywność wzoru Fair Isle: ten ornament jest kluczowym trendem sezonu 'Heritage', podkreślającym przywiązanie do tradycji oraz wysoki status marki.",
+      "Zaproponuj stylizację kardiganu na klasyczną białą koszulę Lucinda 0201, aby stworzyć elegancki dzienny zestaw, odpowiedni zarówno do biura, jak i na nieformalne spotkania."
+    ],
+    "uk": [
+      "Сфокусуйте увагу клієнта на матеріалі: 100% вовна (lana vergine) забезпечує природну терморегуляцію, що робить кардиган ідеальним для зимових прогулянок та заміського відпочинку.",
+      "Акцентуйте ексклюзивність візерунка Fair Isle: цей орнамент є ключовим трендом сезону 'Heritage', що підкреслює зв'язок із традиціями та високий статус бренду.",
+      "Запропонуйте стилізувати кардиган поверх класичної білої сорочки Lucinda 0201, щоб створити елегантний денний образ, який підходить як для офісу, так і для неформальних зустрічей."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The jacquard pattern seems too bold.",
+        "a": "Explain that the noble colour palette (Cammello or Bluette) makes it easy to integrate the cardigan into a wardrobe, pairing it with the understated, solid-colour Olino 0101 trousers for balance."
+      },
+      {
+        "q": "Wool may require demanding care.",
+        "a": "Emphasise that premium-grade natural wool has self-cleaning properties and, with delicate care, retains its shape and the vibrancy of its pattern for decades."
+      },
+      {
+        "q": "The Fair Isle style looks too traditional.",
+        "a": "Demonstrate a contemporary interpretation of the look by adding dynamic accessories, such as the Xariel A 3307 0002 sunglasses or statement earrings."
+      },
+      {
+        "q": "The cardigan may add bulk due to the knit.",
+        "a": "Point out the structured ribbed edges and regular fit, which clearly define the silhouette without adding unnecessary volume, unlike an oversize style."
+      },
+      {
+        "q": "The buttons may look plain.",
+        "a": "Draw the client's attention to the quality of the finishing: horn-effect buttons are a detail characteristic of fine handcrafted pieces, underscoring the cardigan's premium quality."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Жаккардовый узор кажется слишком насыщенным",
+        "a": "Объясните, что благородная цветовая гамма (Cammello или Bluette) позволяет легко интегрировать кардиган в гардероб, сочетая его с базовыми однотонными брюками Olino 0101 для баланса."
+      },
+      {
+        "q": "Шерсть может требовать сложного ухода",
+        "a": "Подчеркните, что натуральная шерсть премиум-класса обладает свойством самоочищения и при деликатном уходе сохраняет форму и яркость узора десятилетиями."
+      },
+      {
+        "q": "Стиль Fair Isle выглядит слишком традиционным",
+        "a": "Продемонстрируйте современную интерпретацию образа, добавив динамичные аксессуары, такие как солнцезащитные очки Xariel A 3307 0002 или массивные серьги."
+      },
+      {
+        "q": "Кардиган может полнить из-за вязки",
+        "a": "Укажите на структурированные края в рубчик и регулярную посадку, которые четко очерчивают силуэт, не создавая лишнего объема, в отличие от моделей oversize."
+      },
+      {
+        "q": "Пуговицы могут выглядеть просто",
+        "a": "Обратите внимание клиента на качество отделки: пуговицы с эффектом рога — это деталь, характерная для дорогих изделий ручной работы, подчеркивающая премиальность кардигана."
+      }
+    ],
+    "ar": [
+      {
+        "q": "نقشة الجاكار تبدو مزدحمة بالتفاصيل",
+        "a": "وضحوا أن لوحة الألوان الراقية (Cammello أو Bluette) تسهّل تنسيق الكارديغان مع سراويل Olino 0101 ذات اللون الموحد لتحقيق التوازن المثالي."
+      },
+      {
+        "q": "الصوف قد يحتاج لعناية معقدة",
+        "a": "شددوا على أن صوف الميرينو الفاخر يتمتع بخاصية التنظيف الذاتي، ومع العناية الرقيقة سيحتفظ بشكله ونضارة نقوشه لعقود."
+      },
+      {
+        "q": "طراز Fair Isle يبدو تقليدياً أكثر من اللازم",
+        "a": "أبرزوا حداثة هذا التصميم من خلال إضافة إكسسوارات عصرية، مثل نظارات Xariel A 3307 0002 Image 2025-12-10 at 14.20.26 (2).jpeg أو أقراط ضخمة."
+      },
+      {
+        "q": "الكارديغان قد يبرز الامتلاء بسبب الحياكة",
+        "a": "لفتوا الانتباه إلى الحواف المنظمة والقصّة القياسية التي تحدد القوام بوضوح دون إضافة أي حجم زائد، خلافاً للموديلات الفضفاضة."
+      },
+      {
+        "q": "الأزرار قد تبدو بسيطة",
+        "a": "وجهوا نظر العميل إلى جودة التشطيب: الأزرار بتأثير قرن الحيوان هي تفصيل مميز للقطع الفاخرة المصنوعة يدوياً، مما يعكس رقي الكارديغان."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ჟაკარდის ორნამენტი მეტისმეტად დატვირთულად ჩანს",
+        "a": "განუმარტეთ, რომ კეთილშობილური ფერთა გამა (Cammello ან Bluette) საშუალებას იძლევა კარდიგანი მარტივად ინტეგრირდეს გარდერობში, შეუხამოთ რა ის Olino 0101-ის საბაზისო ერთტონიან შარვლებს ბალანსისათვის."
+      },
+      {
+        "q": "მატყლი შესაძლოა მოითხოვდეს რთულ მოვლას",
+        "a": "ხაზგასმით აღნიშნეთ, რომ პრემიუმ-კლასის ნატურალურ მატყლს გააჩნია თვითწმენდის თვისება და დელიკატური მოვლისას ათწლეულების განმავლობაში ინარჩუნებს ფორმასა და ორნამენტის სიკაშკაშეს."
+      },
+      {
+        "q": "Fair Isle-ს სტილი მეტისმეტად ტრადიციულად გამოიყურება",
+        "a": "აჩვენეთ იმიჯის თანამედროვე ინტერპრეტაცია, დინამიური აქსესუარების დამატებით, როგორიცაა მზის სათვალე Xariel A 3307 0002 ან მასიური საყურეები."
+      },
+      {
+        "q": "ქსოვის გამო კარდიგანმა შესაძლოა გაასუქოს",
+        "a": "მიუთითეთ სტრუქტურირებულ კიდეებსა და რეგულარულ მორგებაზე, რომლებიც მკაფიოდ კვეთს სილუეტს და არ ქმნის ზედმეტ მოცულობას, განსხვავებით oversize მოდელებისგან."
+      },
+      {
+        "q": "ღილები შესაძლოა გამოიყურებოდეს მარტივად",
+        "a": "ყურადღება გაამახვილებინეთ კლიენტს დამუშავების ხარისხზე: რქის ეფექტის მქონე ღილები — ეს არის დეტალი, რომელიც დამახასიათებელია ძვირადღირებული ხელნაკეთი ნაკეთობებისთვის და ხაზს უსვამს კარდიგანის პრემიალურობას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ժակարդային նախշը չափազանց հագեցած է թվում",
+        "a": "Բացատրեք, որ ազնիվ գունային գամման (Cammello կամ Bluette) թույլ է տալիս հեշտությամբ ինտեգրել կարդիգանը զգեստապահարանում՝ համադրելով այն Olino 0101 բազային միագույն տաբատների հետ հավասարակշռության համար։"
+      },
+      {
+        "q": "Բուրդը կարող է պահանջել բարդ խնամք",
+        "a": "Ընդգծեք, որ պրեմիում դասի բնական բուրդը օժտված է ինքնամաքրման հատկությամբ և նուրբ խնամքի դեպքում տասնամյակներ շարունակ պահպանում է իր ձևը և նախշի վառությունը։"
+      },
+      {
+        "q": "Fair Isle ոճը չափազանց ավանդական է թվում",
+        "a": "Ցուցադրեք կերպարի ժամանակակից մեկնաբանությունը՝ ավելացնելով դինամիկ աքսեսուարներ, ինչպիսիք են Xariel A 3307 0002 արևային ակնոցները կամ զանգվածեղ ականջօղերը։"
+      },
+      {
+        "q": "Կարդիգանը կարող է գիրացնել հյուսվածքի պատճառով",
+        "a": "Մատնանշեք կառուցվածքային, ռետինե եզրերը և կանոնավոր ձևվածքը, որոնք հստակ ընդգծում են սիլուետը՝ չստեղծելով ավելորդ ծավալ՝ ի տարբերություն oversize մոդելների։"
+      },
+      {
+        "q": "Կոճակները կարող են պարզ թվալ",
+        "a": "Հաճախորդի ուշադրությունը հրավիրեք հարդարման որակի վրա. եղջյուրի էֆեկտով կոճակները թանկարժեք ձեռագործ իրերին բնորոշ մանրամասն են, որն ընդգծում է կարդիգանի պրեմիում լինելը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Žakarda raksts šķiet pārāk piesātināts",
+        "a": "Paskaidrojiet, ka cēla krāsu gamma (Cammello vai Bluette) ļauj viegli integrēt kardigānu garderobē, kombinējot to ar pamata vienkrāsainajām Olino 0101 biksēm līdzsvaram."
+      },
+      {
+        "q": "Vilnai var būt nepieciešama sarežģīta kopšana",
+        "a": "Uzsveriet, ka dabīgajai premium klases vilnai piemīt pašattīrīšanās īpašība, un ar delikātu kopšanu tā saglabā formu un raksta spilgtumu gadu desmitiem."
+      },
+      {
+        "q": "Fair Isle stils izskatās pārāk tradicionāls",
+        "a": "Demonstrējiet modernu tēla interpretāciju, pievienojot dinamiskus aksesuārus, piemēram, saulesbrilles Xariel A 3307 0002 vai masīvus auskarus."
+      },
+      {
+        "q": "Kardigāns var padarīt pilnīgāku adījuma dēļ",
+        "a": "Norādiet uz strukturētajām malām ar rievojumu un regulāru piegulumu, kas skaidri iezīmē siluetu, neveidojot lieku apjomu, atšķirībā no oversize modeļiem."
+      },
+      {
+        "q": "Pogas var izskatīties vienkārši",
+        "a": "Vērsiet klienta uzmanību uz apdares kvalitāti: pogas ar raga efektu ir detaļa, kas raksturīga dārgiem ar rokām darinātiem izstrādājumiem, uzsverot kardigāna ekskluzivitāti."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Žakardinis raštas atrodo per daug ryškus",
+        "a": "Paaiškinkite, kad tauri spalvų gama (Cammello arba Bluette) leidžia lengvai integruoti kardiganą į garderobą, derinant jį su bazinėmis vienspalvėmis Olino 0101 kelnėmis pusiausvyrai išlaikyti."
+      },
+      {
+        "q": "Vilnai gali būti reikalinga sudėtinga priežiūra",
+        "a": "Pabrėžkite, kad aukščiausios kokybės natūrali vilna pasižymi savaiminio išsivalymo savybe ir tinkamai prižiūrint išsaugo formą bei rašto ryškumą dešimtmečius."
+      },
+      {
+        "q": "„Fair Isle“ stilius atrodo per daug tradiciškai",
+        "a": "Pademonstruokite modernią įvaizdžio interpretaciją pridėdami dinamiškų aksesuarų, tokių kaip Xariel A 3307 0002 akiniai nuo saulės arba masyvūs auskarai."
+      },
+      {
+        "q": "Kardiganas gali storinti dėl mezgimo",
+        "a": "Atkreipkite dėmesį į struktūruotus briaunotus kraštus ir reguliarų sukirpimą, kurie aiškiai apibrėžia siluetą nesukurdami nereikalingos apimties, skirtingai nei „oversize“ modeliai."
+      },
+      {
+        "q": "Sagos gali atrodyti paprastai",
+        "a": "Atkreipkite kliento dėmesį į apdailos kokybę: sagos su rago efektu – tai detalė, būdinga brangiems rankų darbo gaminiams, pabrėžianti kardigano prabangą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wzór żakardowy wydaje się zbyt wyrazisty",
+        "a": "Proszę wyjaśnić, że szlachetna paleta barw (Cammello lub Bluette) pozwala na łatwe wkomponowanie kardigana do garderoby, łącząc go z bazowymi gładkimi spodniami Olino 0101 dla zachowania balansu."
+      },
+      {
+        "q": "Wełna może wymagać skomplikowanej pielęgnacji",
+        "a": "Proszę podkreślić, że naturalna wełna klasy premium posiada właściwości samoczyszczące i przy odpowiedniej, delikatnej pielęgnacji zachowuje swój kształt oraz intensywność wzoru przez dekady."
+      },
+      {
+        "q": "Styl Fair Isle wydaje się zbyt tradycyjny",
+        "a": "Proszę zaprezentować nowoczesną interpretację wizerunku, dodając dynamiczne akcesoria, takie jak okulary przeciwsłoneczne Xariel A 3307 0002 lub masywne kolczyki."
+      },
+      {
+        "q": "Kardigan może pogrubiać przez rodzaj splotu",
+        "a": "Proszę wskazać na strukturalne wykończenie ściągaczami oraz regularny krój, które wyraźnie zarysowują sylwetkę, nie dodając jej zbędnej objętości w przeciwieństwie do modeli typu oversize."
+      },
+      {
+        "q": "Guziki mogą wydawać się zbyt proste",
+        "a": "Proszę zwrócić uwagę klientki na jakość wykończenia: guziki z efektem rogu to detal charakterystyczny dla luksusowej odzieży typu handmade, podkreślający premium charakter kardigana."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Жаккардовий візерунок здається занадто насиченим",
+        "a": "Поясніть, що благородна кольорова гама (Cammello або Bluette) дозволяє легко інтегрувати кардиган у гардероб, поєднуючи його з базовими однотонними брюками Olino 0101 для балансу."
+      },
+      {
+        "q": "Вовна може вимагати складного догляду",
+        "a": "Підкресліть, що натуральна вовна преміумкласу має властивість самоочищення і при делікатному догляді зберігає форму та яскравість візерунка десятиліттями."
+      },
+      {
+        "q": "Стиль Fair Isle виглядає занадто традиційним",
+        "a": "Продемонструйте сучасну інтерпретацію образу, додавши динамічні аксесуари, такі як сонцезахисні окуляри Xariel A 3307 0002 або масивні сережки."
+      },
+      {
+        "q": "Кардиган може повнити через в'язку",
+        "a": "Вкажіть на структуровані краї в рубчик та регулярну посадку, які чітко окреслюють силует, не створюючи зайвого об'єму, на відміну від моделей oversize."
+      },
+      {
+        "q": "Ґудзики можуть виглядати просто",
+        "a": "Зверніть увагу клієнта на якість оздоблення: ґудзики з ефектом рогу — це деталь, характерна для дорогих виробів ручної роботи, що підкреслює преміальність кардигана."
+      }
+    ]
+  }
+}

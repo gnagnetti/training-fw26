@@ -1,0 +1,319 @@
+{
+  "id": 88,
+  "name": "Guizzante",
+  "description": {
+    "en": "An embodiment of absolute evening grace and couture mastery: the majestic Guizzante long dress, created for the most triumphant entrances. The sleeveless piece enchants with an exquisite bodice of the finest point d'esprit tulle (plumetis), finely adorned with embroidery and scalloped lace inserts. A deep black hue underscores the nobility of the texture, while a teardrop back neckline lends the look an aristocratic sensuality. A multi-layered skirt with a wide, flowing floor-length hem guarantees flawless dynamism with every movement.",
+    "ru": "Воплощение абсолютной вечерней грации и кутюрного мастерства: величественное длинное платье Guizzante, созданное для самых триумфальных выходов. Модель без рукавов очаровывает изысканным лифом из нежнейшего тюля пуан-д’эспри (plumetis), филигранно украшенным вышивкой и вставками из фестончатого кружева. Глубокий черный цвет подчеркивает благородство фактуры, а вырез-капля на спинке придает образу аристократичную чувственность. Многослойная юбка с широким летящим подолом в пол гарантирует безупречную динамику каждого движения.",
+    "ar": "تجسيد للأناقة المسائية المطلقة وحرفية الكوتور: فستان Guizzante الطويل المهيب، صُمم للمناسبات الأكثر انتصاراً. يأسرك الموديل بدون أكمام بصدرية رائعة مصنوعة من أدق أنواع التول (بوان دي إسبري/بلوميتي)، مزينة بدقة بتطريز وإضافات من الدانتيل المخرم. يؤكد اللون الأسود العميق على نبل الخامات، بينما تضفي فتحة الظهر على شكل قطرة لمسة من الأنوثة الأرستقراطية. تضمن التنورة متعددة الطبقات ذات الذيل الواسع المتدفق حركة مثالية مع كل خطوة.",
+    "ka": "საღამოს აბსოლუტური გრაციოზულობისა და კუტურიე ოსტატობის განსახიერება: დიდებული გრძელი კაბა Guizzante, შექმნილი ყველაზე ტრიუმფალური გამოსვლებისთვის. უსახელო მოდელი ხიბლავს უნაზესი პუან-დ’ესპრის (plumetis) ტიულის დახვეწილი ტანით, რომელიც ფილიგრანულად არის გაფორმებული ნაქარგებითა და ფესტონებიანი მაქმანის ჩანართებით. ღრმა შავი ფერი ხაზს უსვამს ფაქტურის კეთილშობილებას, ხოლო ზურგზე არსებული წვეთის ფორმის ჭრილი იერს არისტოკრატულ სენსუალურობას ანიჭებს. მრავალშრიანი ქვედაბოლო ფართო, ფრიალა ბოლოკით იატაკამდე, უზრუნველყოფს ყოველი მოძრაობის უნაკლო დინამიკას.",
+    "hy": "Երեկոյան բացարձակ շնորհքի և կուտյուրային վարպետության մարմնացում. Guizzante վեհաշուք երկար զգեստ՝ ստեղծված ամենատրիումֆալ ելույթների համար: Առանց թևերի մոդելը հմայում է պուան-դ’էսպրի (plumetis) նուրբ տյուլից պատրաստված նրբագեղ լանջապանակով, որը ֆիլիգրանորեն զարդարված է ասեղնագործությամբ և ժանյակավոր ներդիրներով: Խորը սև գույնն ընդգծում է հյուսվածքի ազնվությունը, իսկ մեջքի կաթիլաձև բացվածքը կերպարին հաղորդում է արիստոկրատ զգայունություն: Հատակին հասնող լայն և թեթև փեշով բազմաշերտ կիսաշրջազգեստը երաշխավորում է յուրաքանչյուր շարժման անթերի դինամիկան:",
+    "lv": "Absolūtas vakara grācijas un «haute couture» meistarības iemiesojums: majestātiska Guizzante gara kleita, kas radīta pašiem triumfālākajiem iznācieniem. Bezpiedurkņu modelis apbur ar izsmalcinātu ņieburu no vismaigākā plumetis tilla, kas filigrāni rotāts ar izšuvumiem un robota mežģīņu ielaidumiem. Dziļi melnā krāsa izceļ faktūras cēlumu, bet pilienveida izgriezums mugurpusē piešķir tēlam aristokrātisku jutekliskumu. Daudzslāņu svārki ar platu, lidojošu apakšmalu līdz grīdai garantē nevainojamu katras kustības dinamiku.",
+    "lt": "Absoliučios vakaro grakštumo ir aukštosios mados meistriškumo įkūnijimas: didinga Guizzante ilga suknelė, sukurta patiems triumfuojantiems išėjimams. Berankovis modelis žavi rafinuotu liemeniu iš švelniausio point-d’esprit (plumetis) tiulio, filigraniškai papuošto siuvinėjimais ir faktūriniais nėrinių intarpais. Gili juoda spalva pabrėžia faktūros kilnumą, o lašo formos iškirptė nugaroje suteikia įvaizdžiui aristokratiško jausmingumo. Daugiasluoksnis sijonas su plačiu skriejančiu iki žemės kraštu garantuoja nepriekaištingą kiekvieno judesio dinamiką.",
+    "pl": "Ucieleśnienie absolutnej wieczorowej gracji i mistrzostwa haute couture: majestatyczna długa sukienka Guizzante, stworzona na najbardziej triumfalne wyjścia. Model bez rękawów zachwyca wyrafinowanym gorsetem z delikatnego tiulu point-d’esprit (plumetis), filigranowo ozdobionym haftem i wstawkami z koronki z motywem festonów. Głęboka czerń podkreśla szlachetność faktury, a wycięcie w kształcie kropli na plecach dodaje stylizacji arystokratycznej zmysłowości. Wielowarstwowa spódnica z szerokim, powłóczystym dołem do ziemi gwarantuje nieskazitelną dynamikę każdego ruchu.",
+    "uk": "Втілення абсолютної вечірньої грації та кутюрної майстерності: велична довга сукня Guizzante, створена для найтріумфальніших виходів. Модель без рукавів зачаровує вишуканим ліфом з найніжнішого тюлю пуан-д’еспрі (plumetis), філігранно оздобленим вишивкою та вставками з фестончастого мережива. Глибокий чорний колір підкреслює благородство фактури, а виріз-крапля на спинці надає образу аристократичної чуттєвості. Багатошарова спідниця з широким летючим подолом у підлогу гарантує бездоганну динаміку кожного руху."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/mEFnF067RdGnE9GzfNThEA_1115403616696f4234b83040_67225808_02820250XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Total Black Gala)",
+        "ar": "Look 1 (Total Black Gala)",
+        "ka": "Look 1 (Total Black Gala)",
+        "hy": "Look 1 (Total Black Gala)",
+        "lv": "Look 1 (Total Black Gala)",
+        "lt": "Look 1 (Total Black Gala)",
+        "pl": "Look 1 (Total Black Gala)",
+        "uk": "Look 1 (Total Black Gala)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Total Black Gala): Безупречный вечерний ансамбль, объединяющий платье Guizzante 0101 с ювелирными акцентами — серьгами Notazione 0068 0001 0002 и мерцающим браслетом Norreni 0001 0002. Образ завершают роскошный клатч Ialofane 0101 0002 и туфли Unica A 0101 0002.",
+        "en": "An impeccable evening ensemble uniting the Guizzante 0101 dress with jewelry accents — Notazione 0068 0001 0002 earrings and a shimmering Norreni 0001 0002 bracelet. The look is finished with a luxurious Ialofane 0101 0002 clutch and Unica A 0101 0002 pumps.",
+        "ar": "An impeccable evening ensemble uniting the Guizzante 0101 dress with jewelry accents — Notazione 0068 0001 0002 earrings and a shimmering Norreni 0001 0002 bracelet. The look is finished with a luxurious Ialofane 0101 0002 clutch and Unica A 0101 0002 pumps.",
+        "ka": "An impeccable evening ensemble uniting the Guizzante 0101 dress with jewelry accents — Notazione 0068 0001 0002 earrings and a shimmering Norreni 0001 0002 bracelet. The look is finished with a luxurious Ialofane 0101 0002 clutch and Unica A 0101 0002 pumps.",
+        "hy": "An impeccable evening ensemble uniting the Guizzante 0101 dress with jewelry accents — Notazione 0068 0001 0002 earrings and a shimmering Norreni 0001 0002 bracelet. The look is finished with a luxurious Ialofane 0101 0002 clutch and Unica A 0101 0002 pumps.",
+        "lv": "An impeccable evening ensemble uniting the Guizzante 0101 dress with jewelry accents — Notazione 0068 0001 0002 earrings and a shimmering Norreni 0001 0002 bracelet. The look is finished with a luxurious Ialofane 0101 0002 clutch and Unica A 0101 0002 pumps.",
+        "lt": "An impeccable evening ensemble uniting the Guizzante 0101 dress with jewelry accents — Notazione 0068 0001 0002 earrings and a shimmering Norreni 0001 0002 bracelet. The look is finished with a luxurious Ialofane 0101 0002 clutch and Unica A 0101 0002 pumps.",
+        "pl": "An impeccable evening ensemble uniting the Guizzante 0101 dress with jewelry accents — Notazione 0068 0001 0002 earrings and a shimmering Norreni 0001 0002 bracelet. The look is finished with a luxurious Ialofane 0101 0002 clutch and Unica A 0101 0002 pumps.",
+        "uk": "An impeccable evening ensemble uniting the Guizzante 0101 dress with jewelry accents — Notazione 0068 0001 0002 earrings and a shimmering Norreni 0001 0002 bracelet. The look is finished with a luxurious Ialofane 0101 0002 clutch and Unica A 0101 0002 pumps."
+      },
+      "items": [
+        {
+          "name": "Guizzante",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/mEFnF067RdGnE9GzfNThEA_1115403616696f4234b83040_67225808_02820250XX1.jpg"
+        },
+        {
+          "name": "Notazione",
+          "code": "0068 0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/872948663691c57e1e0c368_23107522_02800300XX1.jpg"
+        },
+        {
+          "name": "Norreni",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/912272238691c57debb0715_18614146_02800260XX1.jpg"
+        },
+        {
+          "name": "Ialofane",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000%20%281%29.jpg",
+          "modelId": 90
+        },
+        {
+          "name": "Unica A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/4483ad1f-c43d-46bf-b39f-94464e4f7a6e.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the distinctive point d'esprit tulle texture and the hand-embroidered detailing: this dress moves beyond mere apparel into the realm of a collectible Luisa Spagnoli masterpiece.",
+      "Recommend this piece for Black Tie or Gala dress codes, highlighting how the combination of a covered front and an open back detail creates an intriguing and statuesque look.",
+      "Showcase the client the lightness of the hem — the dress is constructed to create a 'floating walk' effect, elevating the grandeur of the moment."
+    ],
+    "ru": [
+      "Сделайте акцент на уникальной фактуре тюля пуан-д’эспри и ручной работе вышивки: это платье переходит из разряда одежды в категорию коллекционного шедевра Luisa Spagnoli.",
+      "Рекомендуйте эту модель для мероприятий с дресс-кодом Black Tie или Gala, подчеркивая, что сочетание закрытого переда и открытой детали на спине создает интригующий и статусный образ.",
+      "Продемонстрируйте клиенту легкость подола — платье сконструировано так, чтобы создавать эффект 'парящей походки', подчеркивая величие момента."
+    ],
+    "ar": [
+      "ركزي على الملمس الفريد لتول \"بوان-د’يسبيري\" (point d’esprit) والتطريز اليدوي: حيث يرتقي هذا الفستان من مجرد قطعة ملابس ليصبح تحفة فنية من مقتنيات Luisa Spagnoli.",
+      "ننصح بهذا الموديل للمناسبات ذات قواعد اللباس Black Tie أو Gala، مع التأكيد على أن الجمع بين الجزء الأمامي المغلق وتفاصيل الظهر المفتوحة يخلق إطلالة جذابة ومفعمة بالرقي.",
+      "استعرضي أمام العميل خفة الحافة السفلية - فقد صُمم الفستان ليخلق تأثيراً \"انسيابياً\" يبرز عظمة اللحظة."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება პუან-დ’ესპრის ტიულის უნიკალურ ფაქტურაზე და ხელით შესრულებულ ნაქარგზე: ეს კაბა გადადის ტანსაცმლის კატეგორიიდან Luisa Spagnoli-ის საკოლექციო შედევრების კატეგორიაში.",
+      "ურჩიეთ ეს მოდელი Black Tie ან Gala დრეს-კოდის მქონე ღონისძიებებისთვის და ხაზი გაუსვით, რომ დახურული წინა ნაწილისა და ზურგზე არსებული ღია დეტალის კომბინაცია ქმნის ინტრიგასა და სტატუსურ იმიჯს.",
+      "დაანახეთ კლიენტს ქვედაბოლოს სიმსუბუქე — კაბა ისეა კონსტრუირებული, რომ ქმნის 'ლივლივის' ეფექტს და ხაზს უსვამს მომენტის სიდიადეს."
+    ],
+    "hy": [
+      "Շեշտադրեք պուան-դ’էսպրի տուլի յուրահատուկ հյուսվածքը և ձեռագործ ասեղնագործությունը. այս զգեստը հագուստի կարգից վերածվում է Luisa Spagnoli-ի կոլեկցիոն գլուխգործոցի։",
+      "Խորհուրդ տվեք այս մոդելը Black Tie կամ Gala դրես-կոդով միջոցառումների համար՝ ընդգծելով, որ փակ առջևի մասի և մեջքի բաց դետալի համադրությունը ստեղծում է ինտրիգային և կարգավիճակային կերպար։",
+      "Հաճախորդին ցույց տվեք փեշի թեթևությունը. զգեստը նախագծված է այնպես, որ ստեղծի «ճախրող քայլքի» էֆեկտ՝ ընդգծելով պահի վեհությունը։"
+    ],
+    "lv": [
+      "Vērsiet uzmanību uz point-d’esprit tilla unikālo faktūru un roku darba izšuvumiem: šī kleita pāriet no apģērba kategorijas kolekcionējamā Luisa Spagnoli šedevra statusā.",
+      "Iesakiet šo modeli pasākumiem ar Black Tie vai Gala dreskodu, uzsverot, ka slēgtas priekšpuses un atklātas muguras daļas apvienojums rada intriģējošu un statusu apliecinošu tēlu.",
+      "Demonstrējiet klientam svārku daļas vieglumu — kleita ir konstruēta tā, lai radītu 'peldošas gaitas' efektu, uzsverot brīža varenību."
+    ],
+    "lt": [
+      "Akcentuokite unikalų point-d'esprit tiulį ir rankų darbo siuvinėjimus: ši suknelė peržengia drabužio ribas ir tampa Luisa Spagnoli kolekcijos šedevru.",
+      "Rekomenduokite šį modelį Black Tie ar Gala renginiams, pabrėždami, kad uždaro priekio ir atviros nugaros detalės derinys kuria intriguojantį bei statusą pabrėžiantį įvaizdį.",
+      "Pademonstruokite klientui sijono lengvumą – suknelė sukonstruota taip, kad sukurtų „sklendžiančios eisenos“ efektą, pabrėžiantį akimirkos didingumą."
+    ],
+    "pl": [
+      "Połóż nacisk na unikalną fakturę tiulu point-d’esprit oraz ręczną pracę przy hafcie: ta sukienka przechodzi z kategorii odzieży do kategorii kolekcjonerskiego arcydzieła Luisa Spagnoli.",
+      "Rekomenduj ten model na wydarzenia z dress code'em Black Tie lub Gala, podkreślając, że połączenie zabudowanego przodu i otwartego detalu na plecach tworzy intrygujący i prestiżowy wizerunek.",
+      "Zaprezentuj klientce lekkość dołu sukienki — została ona skonstruowana tak, aby tworzyć efekt 'unoszącego się chodu', podkreślając doniosłość chwili."
+    ],
+    "uk": [
+      "Зробіть акцент на унікальній фактурі тюлю пуан-д’еспрі та ручній роботі вишивки: ця сукня переходить із розряду одягу в категорію колекційного шедевра Luisa Spagnoli.",
+      "Рекомендуйте цю модель для заходів із дрес-кодом Black Tie або Gala, підкреслюючи, що поєднання закритого переду та відкритої деталі на спині створює інтригуючий і статусний образ.",
+      "Продемонструйте клієнту легкість подолу — сукня сконструйована так, щоб створювати ефект 'паруючої ходи', підкреслюючи велич моменту."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Tulle and lace seem too delicate for a long evening.",
+        "a": "The Guizzante piece is crafted from premium-grade materials with a densely woven structure, and the embroidery is securely fastened, guaranteeing the piece's longevity with professional care."
+      },
+      {
+        "q": "The absence of sleeves may be uncomfortable in a cool room.",
+        "a": "This piece pairs beautifully with our fur Richiesta stoles, which add warmth and luxury to your evening look."
+      },
+      {
+        "q": "A floor-length hem seems too impractical for movement.",
+        "a": "The cut of the dress is designed to be worn with a high heel, such as our Unica A shoes, allowing the hem to glide elegantly and create a slender vertical silhouette."
+      },
+      {
+        "q": "Concern that the dress may appear too sheer.",
+        "a": "The piece is fully lined with an opaque under-slip, ensuring absolute comfort and impeccable propriety even under the brightest lighting."
+      },
+      {
+        "q": "Black may seem too dull for a celebration.",
+        "a": "In this instance, black serves as a canvas for the interplay of textures: the contrast between matte tulle, textured lace, and shimmering embroidery lends the look depth and dimension."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Тюль и кружево кажутся слишком хрупкими для долгого вечера.",
+        "a": "Для модели Guizzante используются материалы премиум-класса с высокой плотностью плетения, а вышивка надежно зафиксирована, что гарантирует долговечность изделия при профессиональном уходе."
+      },
+      {
+        "q": "Отсутствие рукавов может быть некомфортным в прохладном помещении.",
+        "a": "Эта модель идеально сочетается с нашими меховыми столами Richiesta, которые добавят тепла и роскоши вашему выходу."
+      },
+      {
+        "q": "Длина в пол кажется слишком сложной для передвижения.",
+        "a": "Крой платья рассчитан на использование высокого каблука, например, наших туфель Unica A, что позволяет подолу изящно скользить, создавая стройную вертикаль силуэта."
+      },
+      {
+        "q": "Боюсь, что платье будет выглядеть слишком прозрачным.",
+        "a": "Модель полностью посажена на непрозрачный чехол-подкладку, обеспечивая абсолютный комфорт и соблюдение этикета даже при самом ярком освещении."
+      },
+      {
+        "q": "Черный цвет может выглядеть скучно для торжества.",
+        "a": "В данном случае черный цвет служит полотном для игры фактур: контраст между матовым тюлем, рельефным кружевом и мерцающей вышивкой делает образ глубоким и многогранным."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يبدو التول والدانتيل هشين جداً لأمسية طويلة.",
+        "a": "نستخدم في موديل Guizzante خامات فاخرة ذات كثافة حياكة عالية، كما أن التطريز مثبت بإحكام، مما يضمن متانة القطعة مع العناية الاحترافية."
+      },
+      {
+        "q": "قد يكون عدم وجود أكمام غير مريح في مكان بارد.",
+        "a": "يتماشى هذا الموديل بشكل مثالي مع أوشحة الفرو Richiesta التي تضفي الدفء والفخامة على إطلالتك."
+      },
+      {
+        "q": "يبدو الطول الذي يصل للأرض صعباً في الحركة.",
+        "a": "تم حساب قصة الفستان لتناسب ارتداء كعب عالٍ، مثل حذاء Unica A الخاص بنا، مما يسمح للحاشية بالانسياب برقة، مما يخلق خطاً طولياً متناسقاً للقوام."
+      },
+      {
+        "q": "أخشى أن يبدو الفستان شفافاً أكثر من اللازم.",
+        "a": "الموديل مبطن بالكامل ببطانة غير شفافة، مما يضمن الراحة المطلقة والالتزام بقواعد اللياقة حتى تحت أقوى الإضاءات."
+      },
+      {
+        "q": "قد يبدو اللون الأسود مملاً للمناسبات.",
+        "a": "في هذه الحالة، يعمل اللون الأسود كلوحة تبرز تباين الأنسجة: فالتباين بين التول المطفأ، والدانتيل البارز، والتطريز اللامع يضفي على الإطلالة عمقاً وتعدداً في الأبعاد."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ტიული და მაქმანი ზედმეტად მყიფე ჩანს გრძელი საღამოსთვის.",
+        "a": "Guizzante-ს მოდელისთვის გამოიყენება პრემიუმ-კლასის მასალები მაღალი სიმკვრივის ქსოვით, ხოლო ნაქარგები მყარად არის დაფიქსირებული, რაც გარანტიას იძლევა ნაკეთობის გამძლეობისა პროფესიონალური მოვლის პირობებში."
+      },
+      {
+        "q": "სახელოების არარსებობა შეიძლება არაკომფორტული იყოს გრილ სათავსოში.",
+        "a": "ეს მოდელი იდეალურად ეხამება ჩვენს Richiesta-ს ბეწვის მოსასხამებს, რომლებიც სითბოსა და ფუფუნებას შემატებს თქვენს გასასვლელს."
+      },
+      {
+        "q": "იატაკამდე სიგრძე გადაადგილებისთვის ზედმეტად რთული ჩანს.",
+        "a": "კაბის ჭრილი გათვლილია მაღალი ქუსლის გამოყენებაზე, მაგალითად, ჩვენი Unica A ფეხსაცმელების, რაც საშუალებას აძლევს კაბის ბოლოს მოხდენილად დასრიალდეს და შექმნას სილუეტის წვრილი ვერტიკალი."
+      },
+      {
+        "q": "მეშინია, რომ კაბა ზედმეტად გამჭვირვალე გამოჩნდება.",
+        "a": "მოდელი სრულად არის დასმული გაუმჭვირვალე სარჩულზე, რაც უზრუნველყოფს აბსოლუტურ კომფორტს და ეტიკეტის დაცვას ყველაზე კაშკაშა განათების დროსაც კი."
+      },
+      {
+        "q": "შავი ფერი ზეიმისთვის შეიძლება მოსაწყენად გამოიყურებოდეს.",
+        "a": "ამ შემთხვევაში შავი ფერი ემსახურება როგორც ტილო ფაქტურების თამაშისთვის: კონტრასტი მქრქალ ტიულს, რელიეფურ მაქმანსა და მოციმციმე ნაქარგს შორის იმიჯს სიღრმესა და მრავალფეროვნებას სძენს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Տյուլն ու ժանյակը չափազանց փխրուն են թվում երկար երեկոյի համար",
+        "a": "Guizzante մոդելի համար օգտագործվում են բարձր խտության հյուսվածքով պրեմիում դասի նյութեր, իսկ ասեղնագործությունը հուսալիորեն ֆիքսված է, ինչը երաշխավորում է արտադրանքի երկարակեցությունը պրոֆեսիոնալ խնամքի դեպքում։"
+      },
+      {
+        "q": "Թևերի բացակայությունը կարող է անհարմար լինել սառը տարածքում",
+        "a": "Այս մոդելը կատարյալ համադրվում է մեր Richiesta մորթե շալերի հետ, որոնք ջերմություն և շքեղություն կհաղորդեն ձեր ելքին։"
+      },
+      {
+        "q": "Գետնին հասնող երկարությունը չափազանց բարդ է թվում տեղաշարժվելու համար",
+        "a": "Զգեստի ձևվածքը հաշվարկված է բարձր կրունկի օգտագործման համար, օրինակ՝ մեր Unica A կոշիկները, ինչը թույլ է տալիս փեշին նրբագեղ սահել՝ ստեղծելով ուրվագծի բարակ ուղղահայաց գիծ։"
+      },
+      {
+        "q": "Վախենում եմ, որ զգեստը չափազանց թափանցիկ կլինի",
+        "a": "Մոդելը լիովին նստեցված է ոչ թափանցիկ աստառ-պատյանի վրա՝ ապահովելով բացարձակ հարմարավետություն և էթիկայի պահպանում նույնիսկ ամենավառ լուսավորության ներքո։"
+      },
+      {
+        "q": "Սև գույնը կարող է ձանձրալի թվալ հանդիսության համար",
+        "a": "Այս դեպքում սև գույնը ծառայում է որպես կտավ հյուսվածքների խաղի համար. մատու տյուլի, ռելիեֆային ժանյակի և փայլփլող ասեղնագործության միջև հակադրությունը կերպարը դարձնում է խորը և բազմակողմանի։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Tills un mežģīnes šķiet pārāk trausli garam vakaram.",
+        "a": "Modelim Guizzante tiek izmantoti augstākās klases materiāli ar augstu pinuma blīvumu, un izšuvumi ir droši nostiprināti, kas garantē izstrādājuma ilgmūžību, veicot profesionālu kopšanu."
+      },
+      {
+        "q": "Piedurkņu trūkums var būt neērti vēsās telpās.",
+        "a": "Šis modelis lieliski saskan ar mūsu kažokādas stolām Richiesta, kas piešķirs siltumu un greznību jūsu tēlam."
+      },
+      {
+        "q": "Garums līdz grīdai šķiet pārāk sarežģīts pārvietošanās laikā.",
+        "a": "Kleitas piegriezums ir rēķināts augsta papēža izmantošanai, piemēram, mūsu kurpēm Unica A, kas ļauj apakšmalai graciozi slīdēt, veidojot slaidu silueta vertikāli."
+      },
+      {
+        "q": "Baidos, ka kleita izskatīsies pārāk caurspīdīga.",
+        "a": "Modelis ir pilnībā uzlikts uz necaurspīdīgas odere-kārtas, nodrošinot absolūtu komfortu un etiķetes ievērošanu pat pie visspilgtākā apgaismojuma."
+      },
+      {
+        "q": "Melnā krāsa var izskatīties garlaicīgi svinībām.",
+        "a": "Šajā gadījumā melnā krāsa kalpo kā audekls faktūru spēlei: kontrasts starp matētu tillu, reljefām mežģīnēm un mirdzošiem izšuvumiem padara tēlu dziļu un daudzpusīgu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Tiulis ir nėriniai atrodo pernelyg trapūs ilgam vakarui.",
+        "a": "Modeliui Guizzante naudojamos aukščiausios klasės medžiagos su dideliu audimo tankiu, o siuvinėjimas patikimai užfiksuotas, kas garantuoja gaminio ilgaamžiškumą profesionaliai prižiūrint."
+      },
+      {
+        "q": "Rankovių nebuvimas gali būti nepatogus vėsioje patalpoje.",
+        "a": "Šis modelis idealiai dera su mūsų kailine skraiste Richiesta, kuri suteiks jūsų įvaizdžiui šilumos ir prabangos."
+      },
+      {
+        "q": "Ilgis iki žemės atrodo pernelyg sudėtingas judėjimui.",
+        "a": "Suknelės kirpimas pritaikytas aukštam kulnui, pavyzdžiui, mūsų bateliams Unica A, kas leidžia apvadui grakščiai slysti, sukuriant liekną vertikalią silueto liniją."
+      },
+      {
+        "q": "Bijau, kad suknelė atrodys pernelyg perregima.",
+        "a": "Modelis turi nepermatomą pamušalą, užtikrinantį visišką komfortą ir etiketo laikymąsi net esant ryškiausiam apšvietimui."
+      },
+      {
+        "q": "Juoda spalva gali atrodyti nuobodi šventei.",
+        "a": "Šiuo atveju juoda spalva tarnauja kaip drobė faktūrų žaismui: kontrastas tarp matinio tiulio, reljefinių nėrinių ir žvilgančių siuvinėjimų suteikia įvaizdžiui gylio ir daugialypiškumo."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Tiul i koronka wydają się zbyt delikatne na długi wieczór.",
+        "a": "W modelu Guizzante zastosowano materiały klasy premium o wysokiej gęstości splotu, a hafty są solidnie zamocowane, co gwarantuje trwałość produktu przy profesjonalnej pielęgnacji."
+      },
+      {
+        "q": "Brak rękawów może być niekomfortowy w chłodniejszym pomieszczeniu.",
+        "a": "Ten model idealnie komponuje się z naszymi futrzanymi etolami Richiesta, które dodadzą ciepła i luksusu Twojej stylizacji."
+      },
+      {
+        "q": "Długość do ziemi wydaje się zbyt skomplikowana w poruszaniu się.",
+        "a": "Krój sukni został przewidziany pod wysoki obcas, na przykład nasze czółenka Unica A, co pozwala dołowi sukni wytwornie się układać, tworząc smukłą pionową linię sylwetki."
+      },
+      {
+        "q": "Obawiam się, że sukienka będzie wyglądać na zbyt przezroczystą.",
+        "a": "Model posiada pełną, nieprzezroczystą halkę-podszewkę, zapewniając absolutny komfort i zachowanie etykiety nawet w bardzo jasnym oświetleniu."
+      },
+      {
+        "q": "Czarny kolor może wyglądać zbyt nudno na uroczystość.",
+        "a": "W tym przypadku czerń służy jako płótno dla gry faktur: kontrast między matowym tiulem, wypukłą koronką a mieniącymi się haftami nadaje stylizacji głębi i wielowymiarowości."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Тюль і мереживо здаються занадто крихкими для довгого вечора.",
+        "a": "Для моделі Guizzante використовуються матеріали преміумкласу з високою щільністю плетіння, а вишивка надійно зафіксована, що гарантує довговічність виробу при професійному догляді."
+      },
+      {
+        "q": "Довжина в підлогу здається занадто складною для пересування.",
+        "a": "Крій сукні розрахований на використання високих підборів, наприклад, наших туфель Unica A, що дозволяє подолу витончено ковзати, створюючи струнку вертикаль силуету."
+      },
+      {
+        "q": "Боюся, що сукня виглядатиме занадто прозорою.",
+        "a": "Модель повністю посаджена на непрозорий чохол-підкладку, забезпечуючи абсолютний комфорт і дотримання етикету навіть при найяскравішому освітленні."
+      },
+      {
+        "q": "Чорний колір може виглядати нудно для урочистості.",
+        "a": "У даному випадку чорний колір слугує полотном для гри фактур: контраст між матовим тюлем, рельєфним мереживом і мерехтливою вишивкою робить образ глибоким та багатогранним."
+      }
+    ]
+  }
+}

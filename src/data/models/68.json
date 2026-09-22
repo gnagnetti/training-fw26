@@ -1,0 +1,313 @@
+{
+  "id": 68,
+  "name": "Gardana",
+  "description": {
+    "en": "The quintessence of evening elegance: the exquisite Gardana mini dress, crafted from precious lace with a delicate floral motif. The piece is defined by a flawless cut with a round neckline and long sheer sleeves that highlight the airiness of the fabric's texture. A couture accent in the form of a scalloped edge (smerlato) at the hem and sleeves lends the look finish, while a concealed back zip guarantees perfect purity of silhouette.",
+    "ru": "Квинтэссенция вечерней элегантности: изысканное мини-платье Gardana, выполненное из драгоценного кружева с деликатным цветочным мотивом. Модель отличается безупречным кроем с круглым вырезом и длинными прозрачными рукавами, подчеркивающими воздушность фактуры. Кутюрный акцент в виде фестончатого края (смерлато) по низу изделия и рукавов придает образу завершенность, а потайная молния на спинке гарантирует идеальную чистоту силуэта.",
+    "ar": "جوهر أناقة السهرة: فستان ميني راقٍ Gardana، مصنوع من الدانتيل الثمين بنقشة زهور دقيقة. يتميز الموديل بقصة مثالية مع ياقة مستديرة وأكمام طويلة شفافة تبرز خفة الملمس. اللمسة الراقية المتمثلة في الحافة المقوّسة (smerlato) في أسفل الفستان والأكمام تضفي اكتمالاً على المظهر، بينما يضمن السحاب المخفي في الخلف نقاءً مثالياً للقوام.",
+    "ka": "საღამოს ელეგანტურობის კვინტესენცია: დახვეწილი მინი-კაბა Gardana, დამზადებული დელიკატური ყვავილოვანი მოტივის მქონე ძვირფასი მაქმანისგან. მოდელი გამოირჩევა უნაკლო ჭრით, მრგვალი ყელითა და გრძელი გამჭვირვალე სახელოებით, რომლებიც ხაზს უსვამს ფაქტურის ჰაეროვნებას. კუტიურული აქცენტი ფესტონური კიდის (смерлато) სახით ნაკეთობის ქვედა ნაწილსა და სახელოებზე სახეს სისრულეს ანიჭებს, ხოლო ზურგზე არსებული ფარული ელვა უზრუნველყოფს სილუეტის იდეალურ სისუფთავეს.",
+    "hy": "Երեկոյան էլեգանտության քվինտեսենցիա. Gardana նրբաճաշակ մինի-զգեստ՝ պատրաստված թանկարժեք ժանյակից՝ ծաղկային նուրբ մոտիվներով: Մոդելը առանձնանում է կլոր բացվածքով և երկար թափանցիկ թևքերով անթերի ձևվածքով, որոնք ընդգծում են հյուսվածքի օդային լինելը: Ներքևի մասում և թևքերի վրա ֆեստոնաձև եզրի (smerlato) տեսքով կուտյուրային շեշտադրումը կերպարին հաղորդում է ամբողջականություն, իսկ թիկունքի թաքնված շղթան երաշխավորում է ուրվագծի կատարյալ մաքրությունը:",
+    "lv": "Vakara elegances kvintesence: izsmalcināta Gardana mini kleita, izgatavota no dārgām mežģīnēm ar smalku ziedu motīvu. Modeli raksturo nevainojams piegriezums ar apaļu izgriezumu un garām caurspīdīgām piedurknēm, kas uzsver faktūras gaisīgumu. Kūtūras akcents festonētas malas (smerlato) veidā izstrādājuma apakšdaļā un uz piedurknēm piešķir tēlam noslēgtību, bet slēptais rāvējslēdzējs uz muguras garantē ideālu silueta tīrību.",
+    "lt": "Vakarinės elegancijos kvintesencija: išskirtinė mini suknelė Gardana, pagaminta iš brangaus nėrinio su subtiliu gėlių motyvu. Modelis išsiskiria nepriekaištingu kirpimu su apvalia iškirpte ir ilgomis permatomomis rankovėmis, pabrėžiančiomis faktūros lengvumą. „Couture“ akcentas – kraštelis (smerlato) apatinėje gaminio dalyje ir ant rankovių suteikia įvaizdžiui užbaigtumo, o paslėptas užtrauktukas nugarinėje dalyje garantuoja tobulą silueto švarą.",
+    "pl": "Kwintesencja wieczorowej elegancji: wyrafinowana sukienka mini Gardana, wykonana z drogocennej koronki z delikatnym motywem kwiatowym. Model wyróżnia się nienagannym krojem z okrągłym dekoltem i długimi, przezroczystymi rękawami, podkreślającymi lekkość faktury. Krawiecki akcent w postaci wykończonego ząbkami brzegu (smerlato) u dołu sukienki oraz przy rękawach nadaje całości wykończenia, a ukryty zamek na plecach gwarantuje idealną czystość sylwetki.",
+    "uk": "Квінтесенція вечірньої елегантності: вишукана мінісукня Gardana, виконана з дорогоцінного мережива з делікатним квітковим мотивом. Модель вирізняється бездоганним кроєм із круглим вирізом і довгими прозорими рукавами, що підкреслюють легкість фактури. Кутюрний акцент у вигляді фестончастого краю (смерлато) по низу виробу та рукавів додає образу завершеності, а потайна блискавка на спинці гарантує ідеальну чистоту силуету."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/gardana%20nero.PNG"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Total Black Elegance)",
+        "ar": "Look 1 (Total Black Elegance)",
+        "ka": "Look 1 (Total Black Elegance)",
+        "hy": "Look 1 (Total Black Elegance)",
+        "lv": "Look 1 (Total Black Elegance)",
+        "lt": "Look 1 (Total Black Elegance)",
+        "pl": "Look 1 (Total Black Elegance)",
+        "uk": "Look 1 (Total Black Elegance)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Total Black Elegance): Роскошный вечерний ансамбль, объединяющий кружевное платье Gardana 0101 и укороченный кабан из мягкого эко-меха Svista 0101. Завершает образ лаконичный клатч Iroise 0101 0002.",
+        "en": "A luxurious evening ensemble combining a Gardana 0101 lace dress and a cropped jacket made of soft Svista 0101 faux fur. The look is finished with a concise Iroise 0101 0002 clutch.",
+        "ar": "A luxurious evening ensemble combining a Gardana 0101 lace dress and a cropped jacket made of soft Svista 0101 faux fur. The look is finished with a concise Iroise 0101 0002 clutch.",
+        "ka": "A luxurious evening ensemble combining a Gardana 0101 lace dress and a cropped jacket made of soft Svista 0101 faux fur. The look is finished with a concise Iroise 0101 0002 clutch.",
+        "hy": "A luxurious evening ensemble combining a Gardana 0101 lace dress and a cropped jacket made of soft Svista 0101 faux fur. The look is finished with a concise Iroise 0101 0002 clutch.",
+        "lv": "A luxurious evening ensemble combining a Gardana 0101 lace dress and a cropped jacket made of soft Svista 0101 faux fur. The look is finished with a concise Iroise 0101 0002 clutch.",
+        "lt": "A luxurious evening ensemble combining a Gardana 0101 lace dress and a cropped jacket made of soft Svista 0101 faux fur. The look is finished with a concise Iroise 0101 0002 clutch.",
+        "pl": "A luxurious evening ensemble combining a Gardana 0101 lace dress and a cropped jacket made of soft Svista 0101 faux fur. The look is finished with a concise Iroise 0101 0002 clutch.",
+        "uk": "A luxurious evening ensemble combining a Gardana 0101 lace dress and a cropped jacket made of soft Svista 0101 faux fur. The look is finished with a concise Iroise 0101 0002 clutch."
+      },
+      "items": [
+        {
+          "name": "Gardana",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/gardana%20nero.PNG"
+        },
+        {
+          "name": "Svista",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Y5nVSE1gSb6SPip95-cHFA_898560113696f43013e28f4_95099051_02821250XX1.jpg"
+        },
+        {
+          "name": "Iroise",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cougRXqXSLCLpSH5I324CQ_361816691696f422261f4e8_02648203_02800700XX1.jpg",
+          "modelId": 96
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the timeless aesthetic of floral lace: an investment for the wardrobe that will remain relevant for social occasions for seasons to come.",
+      "Recommend the piece as the ideal choice for cocktail events, highlighting the balance between its mini length and refined, covered neckline.",
+      "Draw attention to the play of textures: the combination of the dress's fitted base and sheer sleeves creates a striking and refined look."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на вневременной эстетике цветочного кружева: это инвестиция в гардероб, которая сохранит актуальность для светских выходов на долгие сезоны.",
+      "Рекомендуйте модель как идеальный выбор для коктейльных мероприятий, подчеркивая баланс между длиной мини и закрытым благородным верхом.",
+      "Обратите внимание на игру фактур: сочетание плотного чехла платья и полупрозрачных рукавов создает эффектный и утонченный образ."
+    ],
+    "ar": [
+      "سلطي الضوء على الجمالية الخالدة لدانتيل الزهور: فهو استثمار في خزانة الملابس يحافظ على تألقه للمناسبات الاجتماعية لسنوات طويلة.",
+      "رشحي الموديل كخيار مثالي لحفلات الكوكتيل، مع التأكيد على التوازن بين طول الميني والجزء العلوي المغلق والأنيق.",
+      "انتبهي إلى تباين القوام: فمزيج البطانة الكثيفة للفستان مع الأكمام شبه الشفافة يخلق مظهراً جذاباً وراقياً."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება ყვავილოვანი მაქმანის მარადიულ ესთეტიკაზე: ეს არის ინვესტიცია გარდერობში, რომელიც აქტუალობას შეინარჩუნებს საერო გამოსვლებისთვის მრავალი სეზონის განმავლობაში.",
+      "ურჩიეთ მოდელი, როგორც იდეალური არჩევანი კოქტეილის ღონისძიებებისთვის, მინი სიგრძესა და დახურულ კეთილშობილურ ზედა ნაწილს შორის ბალანსის ხაზგასმით.",
+      "მიაქციეთ ყურადღება ფაქტურების თამაშს: კაბის მკვრივი სარჩულისა და ნახევრად გამჭვირვალე სახელოების შეხამება ქმნის ეფექტურ და დახვეწილ იმიჯს."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք ծաղկային ժանյակի անժամանակ էսթետիկայի վրա. սա ներդրում է զգեստապահարանում, որը արդիական կմնա հասարակական ելքերի համար երկար սեզոնների ընթացքում։",
+      "Մոդելը խորհուրդ տվեք որպես իդեալական ընտրություն կոկտեյլային միջոցառումների համար՝ ընդգծելով մինի երկարության և փակ ազնվական վերնամասի միջև հավասարակշռությունը։",
+      "Ուշադրություն դարձրեք հյուսվածքների խաղին. զգեստի խիտ աստառի և կիսաթափանցիկ թևքերի համադրությունը ստեղծում է տպավորիչ և նրբագեղ կերպար։"
+    ],
+    "lv": [
+      "Vērsiet klienta uzmanību uz ziedu mežģīņu mūžīgo estētiku: tā ir investīcija garderobē, kas saglabās savu aktualitāti sabiedriskām iziešanām vēl daudzas sezonas.",
+      "Iesakiet modeli kā ideālu izvēli kokteiļpasākumiem, uzsverot līdzsvaru starp mini garumu un slēgto, cēlo augšdaļu.",
+      "Pievērsiet uzmanību faktūru spēlei: kleitas blīvā apakšslāņa un caurspīdīgo piedurkņu kombinācija rada efektīvu un izsmalcinātu tēlu."
+    ],
+    "lt": [
+      "Akcentuokite nesenstančią gėlių rašto nėrinių estetiką: tai investicija į garderobą, kuri išliks aktuali socialiniams renginiams daugelį sezonų.",
+      "Rekomenduokite modelį kaip idealų pasirinkimą kokteilių renginiams, pabrėždami pusiausvyrą tarp mini ilgio ir uždaro, kilnaus viršaus.",
+      "Atkreipkite dėmesį į faktūrų žaismą: tankaus suknelės pamušalo ir pusiau permatomų rankovių derinys sukuria įspūdingą ir rafinuotą įvaizdį."
+    ],
+    "pl": [
+      "Zwróć uwagę klienta na ponadczasową estetykę kwiatowej koronki: to inwestycja w garderobę, która zachowa aktualność na wieczorowe wyjścia przez wiele sezonów.",
+      "Rekomenduj model jako idealny wybór na przyjęcia koktajlowe, podkreślając balans między długością mini a zabudowaną, szlachetną górą.",
+      "Zwróć uwagę na grę faktur: połączenie gęstej podszewki sukienki i półprzezroczystych rękawów tworzy efektowny i wyrafinowany wizerunek."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на позачасовій естетиці квіткового мережива: це інвестиція в гардероб, яка збереже актуальність для світських виходів на довгі сезони.",
+      "Рекомендуйте модель як ідеальний вибір для коктейльних заходів, підкреслюючи баланс між довжиною міні та закритим благородним верхом.",
+      "Зверніть увагу на гру фактур: поєднання щільного чохла сукні та напівпрозорих рукавів створює ефектний та витончений образ."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "A length above the knee seems insufficiently formal.",
+        "a": "Thanks to the high quality of the lace and the long sleeves, the piece retains an aristocratic appearance, fully in keeping with the dress code of elegant evening events."
+      },
+      {
+        "q": "Lace requires overly delicate care.",
+        "a": "The complex fabric composition, with the addition of polyamide, makes Gardana lace more durable and resistant to deformation, while preserving its visual delicacy."
+      },
+      {
+        "q": "Will it be comfortable to wear a lace dress all evening?",
+        "a": "The piece is fully lined with a soft lining, ensuring perfect comfort against the skin and a flawless fit."
+      },
+      {
+        "q": "A black lace look may seem too severe.",
+        "a": "The floral lace pattern lends the fabric volume and softness. We recommend completing the dress with gold Luisa Spagnoli accessories to add brightness and shine."
+      },
+      {
+        "q": "It's difficult to find outerwear to match such a texture.",
+        "a": "The brand's designers recommend pairing the dress with our Svista 0101 fur jacket, which beautifully accentuates the luxury of the lace."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Длина выше колена кажется недостаточно формальной.",
+        "a": "Благодаря высокому качеству кружева и длинным рукавам, модель сохраняет аристократичный вид, полностью соответствуя дресс-коду элегантных вечеринок."
+      },
+      {
+        "q": "Кружево требует слишком деликатного ухода.",
+        "a": "Сложный состав ткани с добавлением полиамида делает кружево Gardana более прочным и устойчивым к деформации, при этом сохраняя его визуальную хрупкость."
+      },
+      {
+        "q": "Будет ли комфортно в кружевном платье весь вечер?",
+        "a": "Изделие полностью посажено на мягкую подкладку, что обеспечивает идеальный комфорт при контакте с кожей и безупречную посадку по фигуре."
+      },
+      {
+        "q": "Черный кружевной образ может выглядеть слишком строго.",
+        "a": "Цветочный узор кружева придает ткани объем и мягкость. Мы рекомендуем дополнить платье золотыми аксессуарами Luisa Spagnoli, чтобы добавить яркости и блеска."
+      },
+      {
+        "q": "Сложно подобрать верхнюю одежду к такой фактуре.",
+        "a": "Дизайнеры бренда рекомендуют сочетать платье с нашим меховым жакетом Svista 0101, который подчеркивает роскошь кружева."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الطول فوق الركبة يبدو غير رسمي بما يكفي.",
+        "a": "بفضل جودة الدانتيل العالية والأكمام الطويلة، يحافظ الموديل على مظهر أرستقراطي، مما يجعله مطابقاً تماماً لقواعد الزي في الحفلات الأنيقة."
+      },
+      {
+        "q": "الدانتيل يتطلب عناية دقيقة جداً.",
+        "a": "التركيبة المعقدة للقماش مع إضافة البولي أميد تجعل دانتيل Gardana أكثر متانة ومقاومة للتشوه، مع الحفاظ على رقته البصرية في الوقت نفسه."
+      },
+      {
+        "q": "هل سيكون الارتداء مريحاً في فستان الدانتيل طوال الأمسية؟",
+        "a": "القطعة مبطنة بالكامل ببطانة ناعمة، مما يوفر راحة مثالية عند ملامسة الجلد ومظهراً متقناً على القوام."
+      },
+      {
+        "q": "إطلالة الدانتيل الأسود قد تبدو صارمة للغاية.",
+        "a": "نقش الزهور في الدانتيل يضفي على القماش حجماً ونعومة. ننصح بتنسيق الفستان مع إكسسوارات Luisa Spagnoli الذهبية لإضافة لمسة من الإشراق والبريق."
+      },
+      {
+        "q": "من الصعب اختيار ملابس خارجية تناسب هذا الملمس.",
+        "a": "ينصح مصممو العلامة التجارية بتنسيق الفستان مع سترتنا الفرو Svista 0101، التي تبرز فخامة الدانتيل."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მუხლს ზემოთ სიგრძე არასაკმარისად ფორმალური ჩანს.",
+        "a": "მაქმანის მაღალი ხარისხისა და გრძელი სახელოების წყალობით, მოდელი ინარჩუნებს არისტოკრატულ იერსახეს, სრულად შეესაბამება რა ელეგანტური წვეულებების დრეს-კოდს."
+      },
+      {
+        "q": "მაქმანი ზედმეტად დელიკატურ მოვლას მოითხოვს.",
+        "a": "პოლიამიდის დამატებით შექმნილი ქსოვილის რთული შემადგენლობა მაქმან Gardana-ს ხდის უფრო მტკიცეს და მდგრადს დეფორმაციის მიმართ, ამასთანავე ინარჩუნებს მის ვიზუალურ სიმყიფეს."
+      },
+      {
+        "q": "იქნება თუ არა კომფორტული მაქმანის კაბაში მთელი საღამო?",
+        "a": "ნივთი სრულად არის დატანილი რბილ სარჩულზე, რაც უზრუნველყოფს იდეალურ კომფორტს კანთან კონტაქტისას და ფიგურაზე უნაკლო მორგებას."
+      },
+      {
+        "q": "შავი მაქმანის იმიჯი შესაძლოა ზედმეტად მკაცრად გამოიყურებოდეს.",
+        "a": "მაქმანის ყვავილოვანი ორნამენტი ქსოვილს ანიჭებს მოცულობასა და რბილობას. ჩვენ გირჩევთ კაბა შეავსოთ Luisa Spagnoli-ს ოქროსფერი აქსესუარებით, რათა შემატოთ სიკაშკაშე და ბზინვარება."
+      },
+      {
+        "q": "რთულია ზედა სამოსის შერჩევა ასეთი ფაქტურისთვის.",
+        "a": "ბრენდის დიზაინერები გირჩევენ კაბა შეახამოთ ჩვენს ბეწვიან პიჯაკთან Svista 0101, რომელიც ხაზს უსვამს მაქმანის ფუფუნებას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ծնկից վեր երկարությունը ոչ այնքան պաշտոնական է թվում։",
+        "a": "Ժանյակի բարձր որակի և երկար թևքերի շնորհիվ մոդելը պահպանում է ազնվական տեսքը՝ լիովին համապատասխանելով էլեգանտ երեկույթների դրես-կոդին։"
+      },
+      {
+        "q": "Ժանյակը չափազանց նուրբ խնամք է պահանջում։",
+        "a": "Պոլիամիդի հավելումով գործվածքի բարդ կազմը Gardana ժանյակը դարձնում է ավելի ամուր և դիմացկուն դեֆորմացիայի նկատմամբ՝ միաժամանակ պահպանելով դրա տեսողական փխրունությունը։"
+      },
+      {
+        "q": "Արդյո՞ք հարմարավետ կլինի ժանյակե զգեստով ողջ երեկոյի ընթացքում։",
+        "a": "Արտադրանքն ամբողջությամբ ունի փափուկ աստառ, ինչն ապահովում է կատարյալ հարմարավետություն մաշկի հետ շփման ժամանակ և անթերի նստվածք կազմվածքին։"
+      },
+      {
+        "q": "Սև ժանյակե կերպարը կարող է չափազանց խիստ թվալ։",
+        "a": "Ժանյակի ծաղկային նախշը գործվածքին հաղորդում է ծավալ և փափկություն։ Մենք խորհուրդ ենք տալիս զգեստը համալրել Luisa Spagnoli-ի ոսկեգույն աքսեսուարներով՝ պայծառություն և փայլ հաղորդելու համար։"
+      },
+      {
+        "q": "Դժվար է նման հյուսվածքին վերնազգեստ ընտրել։",
+        "a": "Բրենդի դիզայներները խորհուրդ են տալիս զգեստը համադրել մեր Svista 0101 մորթյա ժակետի հետ, որն ընդգծում է ժանյակի շքեղությունը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Garums virs ceļa šķiet nepietiekami formāls.",
+        "a": "Pateicoties mežģīņu augstajai kvalitātei un garajām piedurknēm, modelis saglabā aristokrātisku izskatu, pilnībā atbilstot eleganto ballīšu dreskodam."
+      },
+      {
+        "q": "Mežģīnes prasa pārāk smalku kopšanu.",
+        "a": "Sarežģītais auduma sastāvs ar poliamīda piejaukumu padara mežģīnes Gardana izturīgākas un noturīgākas pret deformāciju, vienlaikus saglabājot to vizuālo trauslumu."
+      },
+      {
+        "q": "Vai mežģīņu kleitā būs ērti visu vakaru?",
+        "a": "Izstrādājums ir pilnībā uzlikts uz mīkstas oderes, kas nodrošina ideālu komfortu saskarē ar ādu un nevainojamu piegulumu figūrai."
+      },
+      {
+        "q": "Melns mežģīņu tēls var izskatīties pārāk stingri.",
+        "a": "Mežģīņu ziedu raksts piešķir audumam apjomu un mīkstumu. Mēs iesakām papildināt kleitu ar zelta Luisa Spagnoli aksesuāriem, lai pievienotu spilgtumu un mirdzumu."
+      },
+      {
+        "q": "Grūti piemeklēt virsdrēbes šādai faktūrai.",
+        "a": "Zīmola dizaineri iesaka kombinēt kleitu ar mūsu kažokādas jaku Svista 0101, kura izceļ mežģīņu greznību."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Ilgis virš kelių atrodo nepakankamai formalus.",
+        "a": "Dėl aukštos nėrinių kokybės ir ilgų rankovių modelis išlaiko aristokratišką išvaizdą, visiškai atitikdamas elegantiškų vakarėlių aprangos kodą."
+      },
+      {
+        "q": "Nėriniams reikia per daug subtilios priežiūros.",
+        "a": "Sudėtinga audinio sudėtis su poliamido priemaiša daro nėrinius Gardana tvirtesnius ir atsparesnius deformacijai, kartu išsaugant jų vizualų trapumą."
+      },
+      {
+        "q": "Ar bus patogu su nėriniuota suknele visą vakarą?",
+        "a": "Gaminys turi pilną minkštą pamušalą, kuris užtikrina idealų komfortą kontaktuojant su oda ir nepriekaištingą prigludimą prie figūros."
+      },
+      {
+        "q": "Juodas nėrinių įvaizdis gali atrodyti per daug griežtai.",
+        "a": "Gėlių raštas nėriniuose suteikia audiniui tūrio ir minkštumo. Rekomenduojame suknelę papildyti auksiniais Luisa Spagnoli aksesuarais, kad suteiktumėte ryškumo ir žvilgesio."
+      },
+      {
+        "q": "Sunku parinkti viršutinius drabužius prie tokios faktūros.",
+        "a": "Prekės ženklo dizaineriai rekomenduoja suknelę derinti su mūsų kailiniu švarkeliu Svista 0101, kuris pabrėžia nėrinių prabangą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Długość powyżej kolana wydaje się zbyt mało formalna.",
+        "a": "Dzięki wysokiej jakości koronki i długim rękawom model zachowuje arystokratyczny wygląd, w pełni wpisując się w dress code eleganckich przyjęć."
+      },
+      {
+        "q": "Koronka wymaga zbyt delikatnej pielęgnacji.",
+        "a": "Złożony skład tkaniny z dodatkiem poliamidu czyni koronkę Gardana bardziej wytrzymałą i odporną na odkształcenia, zachowując jednocześnie jej wizualną subtelność."
+      },
+      {
+        "q": "Czy w koronkowej sukience będzie wygodnie przez cały wieczór?",
+        "a": "Produkt jest w całości wykończony miękką podszewką, co zapewnia idealny komfort przy kontakcie ze skórą oraz nienaganne dopasowanie do sylwetki."
+      },
+      {
+        "q": "Stylizacja z czarną koronką może wyglądać zbyt surowo.",
+        "a": "Kwiatowy wzór koronki nadaje tkaninie objętości i miękkości. Zalecamy uzupełnienie sukienki złotymi akcesoriami Luisa Spagnoli, aby dodać jej blasku i wyrazistości."
+      },
+      {
+        "q": "Trudno dobrać odzież wierzchnią do takiej faktury.",
+        "a": "Projektanci marki zalecają łączenie sukienki z naszym futrzanym żakietem Svista 0101, który podkreśla luksusowy charakter koronki."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Довжина вище коліна здається недостатньо формальною.",
+        "a": "Завдяки високій якості мережива та довгим рукавам, модель зберігає аристократичний вигляд, повністю відповідаючи дрес-коду елегантних вечірок."
+      },
+      {
+        "q": "Мереживо вимагає занадто делікатного догляду.",
+        "a": "Складний склад тканини з додаванням поліаміду робить мереживо Gardana міцнішим і стійкішим до деформації, при цьому зберігаючи його візуальну тендітність."
+      },
+      {
+        "q": "Чи буде комфортно у мереживній сукні весь вечір?",
+        "a": "Виріб повністю посаджений на м'яку підкладку, що забезпечує ідеальний комфорт при контакті зі шкірою та бездоганну посадку по фігурі."
+      },
+      {
+        "q": "Чорний мереживний образ може виглядати занадто строго.",
+        "a": "Квітковий візерунок мережива надає тканині об'єму та м'якості. Ми рекомендуємо доповнити сукню золотими аксесуарами Luisa Spagnoli, щоб додати яскравості та блиску."
+      },
+      {
+        "q": "Складно підібрати верхній одяг до такої фактури.",
+        "a": "Дизайнери бренду рекомендують поєднувати сукню з нашим хутряним жакетом Svista 0101, який підкреслює розкіш мережива."
+      }
+    ]
+  }
+}

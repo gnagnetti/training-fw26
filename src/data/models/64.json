@@ -1,0 +1,398 @@
+{
+  "id": 64,
+  "name": "Fumaiolo",
+  "description": {
+    "en": "An exquisite midi skirt in a wool blend, embodying Luisa Spagnoli's philosophy of fine tailoring artistry. Crafted from a fabric with a classic herringbone weave (spigato) and adorned with lavish floral embroidery, masterfully rendered in velvet and shimmering beadwork. A mid-calf midi silhouette and a concealed side zip closure underscore flawless purity of line, transforming this piece into a true masterpiece of the daytime wardrobe.",
+    "ru": "Изысканная юбка-миди из смесовой шерсти, воплощающая философию высокого портновского искусства Luisa Spagnoli. Модель выполнена из ткани с классическим переплетением «елочка» (spigato) и украшена роскошной цветочной вышивкой, мастерски исполненной из бархата и мерцающего бисера. Силуэт миди длиной до середины икры и потайная застежка-молния сбоку подчеркивают безупречную чистоту линий, превращая эту модель в истинный шедевр дневного гардероба.",
+    "ar": "تنورة ميدي راقية من الصوف المخلوط، تجسد فلسفة فن الخياطة الرفيع لدى Luisa Spagnoli. القطعة مصنوعة من قماش بنسيج «عظمة السمكة» (spigato) الكلاسيكي ومزينة بتطريز زهري فاخر، منفذ ببراعة من المخمل والخرز المتلألئ. قصة الميدي التي تصل إلى منتصف الساق وسحاب الإغلاق الجانبي المخفي يبرزان نقاء الخطوط، مما يجعل هذا الموديل تحفة حقيقية في خزانة الملابس النهارية.",
+    "ka": "დახვეწილი მიდი-ქვედაბოლო შერეული მატყლისგან, რომელიც Luisa Spagnoli-ის მაღალი მკერავის ხელოვნების ფილოსოფიას ასახავს. მოდელი დამზადებულია კლასიკური «ნაძვისებრი» (spigato) ქსოვილისგან და გაფორმებულია ხავერდისა და მოციმციმე მძივებით ოსტატურად შესრულებული მდიდრული ყვავილოვანი ნაქარგით. წვივამდე სიგრძის მიდი-სილუეტი და გვერდითა ფარული ელვა-შესაკრავი ხაზს უსვამს ხაზების უნაკლო სისუფთავეს, რაც ამ მოდელს დღის გარდერობის ნამდვილ შედევრად აქცევს.",
+    "hy": "Luisa Spagnoli-ի բարձր դերձակային արվեստի փիլիսոփայությունը մարմնավորող բրդյա խառնուրդից պատրաստված նրբաճաշակ միդի-կիսաշրջազգեստ: Մոդելը պատրաստված է «եղևնու» (spigato) դասական հյուսվածքով գործվածքից և զարդարված է թավշից ու փայլուն ուլունքներից վարպետորեն կատարված ծաղկային շքեղ ասեղնագործությամբ: Մինչև սրունքի կեսը հասնող միդի ուրվագիծը և կողային թաքնված շղթա-ճարմանդը ընդգծում են գծերի անթերի մաքրությունը՝ այս մոդելը վերածելով ցերեկային զգեստապահարանի իսկական գլուխգործոցի:",
+    "lv": "Izsmalcināti midi svārki no vilnas maisījuma, kas iemieso Luisa Spagnoli augstās šūšanas mākslas filozofiju. Modelis ir izgatavots no auduma ar klasisko \"skujiņas\" rakstu (spigato) un rotāts ar greznu ziedu izšuvumu, kas meistarīgi izpildīts no samta un mirdzošām pērlītēm. Midi siluets līdz ikru vidum un slēptais rāvējslēdzējs sānos uzsver līniju nevainojamo tīrību, pārvēršot šo modeli par īstu dienas garderobes šedevru.",
+    "lt": "Išskirtinis midi sijonas iš vilnos mišinio, įkūnijantis aukštojo siuvimo meno filosofiją Luisa Spagnoli. Modelis pagamintas iš audinio su klasikiniu „eglutės“ (spigato) pynimu ir papuoštas prabangiais gėlių motyvais, meistriškai išsiuvinėtais aksomu ir žvilgančiais karoliukais. Midi siluetas iki pusės blauzdų ir paslėptas šoninis užtrauktukas pabrėžia nepriekaištingą linijų švarą, paversdami šį modelį tikru dieninio garderobo šedevru.",
+    "pl": "Wyrafinowana spódnica midi z mieszanki wełny, ucieleśniająca filozofię wysokiego krawiectwa Luisa Spagnoli. Model wykonany z tkaniny o klasycznym splocie w jodełkę (spigato) i ozdobiony luksusowym kwiatowym haftem, mistrzowsko wykonanym z aksamitu i mieniących się koralików. Sylwetka midi sięgająca połowy łydki oraz ukryty zamek błyskawiczny z boku podkreślają nienaganną czystość linii, czyniąc ten model prawdziwym arcydziełem codziennej garderoby.",
+    "uk": "Вишукана спідниця-міді зі змішаної вовни, що втілює філософію високого кравецького мистецтва Luisa Spagnoli. Модель виконана з тканини з класичним переплетенням «ялинка» (spigato) і прикрашена розкішною квітковою вишивкою, майстерно виконаною з оксамиту та мерехтливого бісеру. Силует міді довжиною до середини ікри та потайна застібка-блискавка збоку підкреслюють бездоганну чистоту ліній, перетворюючи цю модель на справжній шедевр денного гардероба."
+  },
+  "colors": [
+    {
+      "name": "Var Spinato Bordeaux",
+      "code": "3417",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1",
+        "ar": "Look 1",
+        "ka": "Look 1",
+        "hy": "Look 1",
+        "lv": "Look 1",
+        "lt": "Look 1",
+        "pl": "Look 1",
+        "uk": "Look 1",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1: Сочетание жакета Sarmoneta 2445, пуловера Manos 2435 и юбки Fumaiolo 3417 с классической блузой Lucinda 0201.",
+        "en": "A combination of the Sarmoneta 2445 jacket, Manos 2435 pullover and Fumaiolo 3417 skirt with a classic Lucinda 0201 (Data unavailable in official sources) blouse.",
+        "ar": "A combination of the Sarmoneta 2445 jacket, Manos 2435 pullover and Fumaiolo 3417 skirt with a classic Lucinda 0201 (Data unavailable in official sources) blouse.",
+        "ka": "A combination of the Sarmoneta 2445 jacket, Manos 2435 pullover and Fumaiolo 3417 skirt with a classic Lucinda 0201 (Data unavailable in official sources) blouse.",
+        "hy": "A combination of the Sarmoneta 2445 jacket, Manos 2435 pullover and Fumaiolo 3417 skirt with a classic Lucinda 0201 (Data unavailable in official sources) blouse.",
+        "lv": "A combination of the Sarmoneta 2445 jacket, Manos 2435 pullover and Fumaiolo 3417 skirt with a classic Lucinda 0201 (Data unavailable in official sources) blouse.",
+        "lt": "A combination of the Sarmoneta 2445 jacket, Manos 2435 pullover and Fumaiolo 3417 skirt with a classic Lucinda 0201 (Data unavailable in official sources) blouse.",
+        "pl": "A combination of the Sarmoneta 2445 jacket, Manos 2435 pullover and Fumaiolo 3417 skirt with a classic Lucinda 0201 (Data unavailable in official sources) blouse.",
+        "uk": "A combination of the Sarmoneta 2445 jacket, Manos 2435 pullover and Fumaiolo 3417 skirt with a classic Lucinda 0201 (Data unavailable in official sources) blouse."
+      },
+      "items": [
+        {
+          "name": "Sarmoneta",
+          "code": "2445",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1368746391691f159ba2d2d8_92724591_02780870XX1.jpg",
+          "modelId": 474
+        },
+        {
+          "name": "Manos",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+        },
+        {
+          "name": "Fumaiolo",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg"
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2",
+        "ar": "Look 2",
+        "ka": "Look 2",
+        "hy": "Look 2",
+        "lv": "Look 2",
+        "lt": "Look 2",
+        "pl": "Look 2",
+        "uk": "Look 2",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2: Элегантный дуэт пальто Scansione 0961, мягкого пуловера Capire 2452 и юбки Fumaiolo 3417.",
+        "en": "An elegant duo of the Scansione 0961 coat, a soft Capire 2452 pullover and a Fumaiolo 3417 skirt.",
+        "ar": "An elegant duo of the Scansione 0961 coat, a soft Capire 2452 pullover and a Fumaiolo 3417 skirt.",
+        "ka": "An elegant duo of the Scansione 0961 coat, a soft Capire 2452 pullover and a Fumaiolo 3417 skirt.",
+        "hy": "An elegant duo of the Scansione 0961 coat, a soft Capire 2452 pullover and a Fumaiolo 3417 skirt.",
+        "lv": "An elegant duo of the Scansione 0961 coat, a soft Capire 2452 pullover and a Fumaiolo 3417 skirt.",
+        "lt": "An elegant duo of the Scansione 0961 coat, a soft Capire 2452 pullover and a Fumaiolo 3417 skirt.",
+        "pl": "An elegant duo of the Scansione 0961 coat, a soft Capire 2452 pullover and a Fumaiolo 3417 skirt.",
+        "uk": "An elegant duo of the Scansione 0961 coat, a soft Capire 2452 pullover and a Fumaiolo 3417 skirt."
+      },
+      "items": [
+        {
+          "name": "Scansione",
+          "code": "0961",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg",
+          "modelId": 302
+        },
+        {
+          "name": "Capire",
+          "code": "2452",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tpx4YIVOQIiHt8_Igw7clQ_966025813696f430ca6aa01_65494584_02830020XX1.jpg",
+          "modelId": 2
+        },
+        {
+          "name": "Fumaiolo",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 3",
+        "ar": "Look 3",
+        "ka": "Look 3",
+        "hy": "Look 3",
+        "lv": "Look 3",
+        "lt": "Look 3",
+        "pl": "Look 3",
+        "uk": "Look 3",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 3: Лаконичный и эффектный комплект из блузы Latteria 2417 и юбки Fumaiolo 3417.",
+        "en": "A concise and striking set consisting of a Latteria 2417 blouse and a Fumaiolo 3417 skirt.",
+        "ar": "A concise and striking set consisting of a Latteria 2417 blouse and a Fumaiolo 3417 skirt.",
+        "ka": "A concise and striking set consisting of a Latteria 2417 blouse and a Fumaiolo 3417 skirt.",
+        "hy": "A concise and striking set consisting of a Latteria 2417 blouse and a Fumaiolo 3417 skirt.",
+        "lv": "A concise and striking set consisting of a Latteria 2417 blouse and a Fumaiolo 3417 skirt.",
+        "lt": "A concise and striking set consisting of a Latteria 2417 blouse and a Fumaiolo 3417 skirt.",
+        "pl": "A concise and striking set consisting of a Latteria 2417 blouse and a Fumaiolo 3417 skirt.",
+        "uk": "A concise and striking set consisting of a Latteria 2417 blouse and a Fumaiolo 3417 skirt."
+      },
+      "items": [
+        {
+          "name": "Latteria",
+          "code": "2417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3Mx2ef25TdugVXg2-i0IIg_1643286833696f42dfd5b5f6_19897444_02820400XX1.jpg",
+          "modelId": 101
+        },
+        {
+          "name": "Fumaiolo",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the distinctive embroidery: the combination of velvet and beading elevates the piece from everyday wear into the realm of collectible fashion.",
+      "Showcase the client the richness of the herringbone (spigato) wool texture, which holds its shape beautifully and underscores the brand's prestige.",
+      "Suggest creating a monochrome look in burgundy tones using Luisa Spagnoli knitwear for maximum visual impact."
+    ],
+    "ru": [
+      "Сделайте акцент на уникальной вышивке: сочетание бархата и бисера переводит изделие из разряда повседневных в категорию коллекционных вещей.",
+      "Продемонстрируйте клиенту богатство фактуры шерсти «елочка» (spigato), которая идеально держит форму и подчеркивает статусность бренда.",
+      "Предложите создать монохромный образ в бордовых тонах с использованием трикотажа Luisa Spagnoli для максимального визуального эффекта."
+    ],
+    "ar": [
+      "ركزي على التطريز الفريد: فمزيج المخمل والخرز ينقل القطعة من فئة الملابس اليومية إلى فئة القطع القابلة للاقتناء.",
+      "استعرضي للعميلة غنى قوام صوف «عظمة السمكة» (spigato) الذي يحافظ على شكله المثالي ويؤكد على مكانة العلامة التجارية.",
+      "اقترحي إطلالة أحادية اللون بدرجات البرغندي باستخدام تريكو Luisa Spagnoli للحصول على أقصى تأثير بصري."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება უნიკალურ ნაქარგზე: ხავერდისა და ბისერების შეხამება ნაკეთობას ყოველდღიური სამოსიდან საკოლექციო ნივთების კატეგორიაში გადაიყვანს.",
+      "უჩვენეთ კლიენტს „ნაძვისებრი“ (spigato) მატყლის ფაქტურის სიმდიდრე, რომელიც იდეალურად ინარჩუნებს ფორმას და ხაზს უსვამს ბრენდის სტატუსს.",
+      "შესთავაზეთ მონოქრომული იმიჯის შექმნა ბორდოსფერ ტონებში Luisa Spagnoli-ს ტრიკოტაჟის გამოყენებით მაქსიმალური ვიზუალური ეფექტისთვის."
+    ],
+    "hy": [
+      "Շեշտադրեք յուրօրինակ ասեղնագործությունը. թավշի և ուլունքների համադրությունը արտադրանքը առօրյա իրերի շարքից տեղափոխում է հավաքածուային իրերի կատեգորիա։",
+      "Հաճախորդին ցուցադրեք «եղևնաձև» (spigato) բրդի հյուսվածքի հարստությունը, որը կատարյալ պահպանում է ձևը և ընդգծում ապրանքանիշի կարգավիճակը։",
+      "Առաջարկեք ստեղծել մոնոխրոմ կերպար բորդոյի երանգներով՝ օգտագործելով Luisa Spagnoli տրիկոտաժը՝ առավելագույն տեսողական էֆեկտի համար։"
+    ],
+    "lv": [
+      "Izceliet unikālo izšuvumu: samta un pērlīšu kombinācija paceļ šo izstrādājumu no ikdienas apģērba līmeņa uz kolekcijas priekšmetu kategoriju.",
+      "Demonstrējiet klientam «eglītes» (spigato) vilnas faktūras bagātību, kas lieliski saglabā formu un izceļ zīmola statusu.",
+      "Piedāvājiet izveidot monohromu tēlu bordo toņos, izmantojot Luisa Spagnoli trikotāžu maksimālam vizuālajam efektam."
+    ],
+    "lt": [
+      "Akcentuokite unikalų siuvinėjimą: aksomo ir karoliukų derinys pakelia šį gaminį iš kasdienių drabužių į kolekcinę kategoriją.",
+      "Pademonstruokite klientui „eglutės“ (spigato) vilnos faktūros turtingumą, kuri tobulai išlaiko formą ir pabrėžia prekės ženklo statusą.",
+      "Pasiūlykite sukurti vienspalvį bordinės spalvos įvaizdį, naudojant Luisa Spagnoli trikotažą maksimaliam vizualiniam efektui."
+    ],
+    "pl": [
+      "Połóż nacisk na unikalny haft: połączenie aksamitu i koralików sprawia, że produkt przechodzi z kategorii codziennych do kolekcji przedmiotów kolekcjonerskich.",
+      "Zaprezentuj klientowi bogactwo faktury wełny w jodełkę (spigato), która idealnie trzyma formę i podkreśla status marki.",
+      "Zaproponuj stworzenie monochromatycznego wizerunku w odcieniach burgunda z wykorzystaniem dzianin Luisa Spagnoli dla maksymalnego efektu wizualnego."
+    ],
+    "uk": [
+      "Зробіть акцент на унікальній вишивці: поєднання оксамиту та бісеру переводить виріб із розряду повсякденних до категорії колекційних речей.",
+      "Продемонструйте клієнту багатство фактури вовни «ялинка» (spigato), яка ідеально тримає форму та підкреслює статусність бренду.",
+      "Запропонуйте створити монохромний образ у бордових тонах із використанням трикотажу Luisa Spagnoli для максимального візуального ефекту."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The decoration seems too delicate for everyday wear.",
+        "a": "The beaded and velvet embroidery is executed to the very highest quality standards. With proper professional care, the piece will retain its flawless appearance for years to come."
+      },
+      {
+        "q": "The herringbone pattern may look too formal.",
+        "a": "In this piece, the classic austerity of the fabric is softened by artisanal embroidery and deep wine tones, making it suitable for both the office and social occasions."
+      },
+      {
+        "q": "A mid-calf length may visually shorten the frame.",
+        "a": "The skirt's high-waisted cut, in fact, creates a slender vertical line and elegant proportions, particularly when paired with our heeled shoes or Ulisside boots."
+      },
+      {
+        "q": "It will be difficult to find a top given the bold pattern and embellishment.",
+        "a": "The Fumaiolo skirt is the centrepiece of the look. It pairs beautifully with essential cashmere pullovers or silk blouses in a tone that echoes the embroidery, both available within our collection."
+      },
+      {
+        "q": "Wool fabric may be scratchy or heavy.",
+        "a": "The blended composition, with the addition of acetate and polyester, makes the fabric pleasant to the touch and ensures a comfortable lightness, while preserving all the warmth-retaining properties of natural wool."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Декор кажется слишком деликатным для повседневной носки.",
+        "a": "Вышивка бисером и бархатом выполнена с соблюдением высочайших стандартов качества. При соблюдении рекомендаций по профессиональному уходу изделие сохранит свой безупречный вид на долгие годы."
+      },
+      {
+        "q": "Узор «елочка» может выглядеть слишком официально.",
+        "a": "В данной модели классическая строгость ткани смягчена художественной вышивкой и глубокими винными оттенками, что делает её подходящей как для офиса, так и для светских мероприятий."
+      },
+      {
+        "q": "Длина до середины икры может визуально уменьшать рост.",
+        "a": "Крой юбки с высокой посадкой и акцентом на талии, особенно в сочетании с нашими туфлями на каблуке или сапогами Ulisside, наоборот, создает стройную вертикаль и элегантные пропорции."
+      },
+      {
+        "q": "Будет сложно подобрать верх из-за активного рисунка и декора.",
+        "a": "Юбка Fumaiolo является центральным элементом образа. Она идеально сочетается с базовыми кашемировыми пуловерами или шелковыми блузами в тон вышивки, которые представлены в нашей коллекции."
+      },
+      {
+        "q": "Шерстяная ткань может быть колючей или тяжелой.",
+        "a": "Смесовый состав с добавлением ацетата и полиэстера делает ткань приятной на ощупь и обеспечивает комфортную легкость, сохраняя при этом все теплосберегающие свойства натуральной шерсти."
+      }
+    ],
+    "ar": [
+      {
+        "q": "تبدو الزخرفة رقيقة أكثر من اللازم للاستخدام اليومي.",
+        "a": "تم تنفيذ التطريز بالخرز والمخمل وفقاً لأعلى معايير الجودة. ومع اتباع توصيات العناية المهنية، سيحافظ هذا القطعة على مظهرها المثالي لسنوات طويلة."
+      },
+      {
+        "q": "قد يبدو نقش «عظم السمكة» رسمياً أكثر من اللازم.",
+        "a": "في هذا الموديل، تم تلطيف حدة القماش الكلاسيكية بالتطريز الفني ودرجات ألوان النبيذ العميقة، مما يجعلها مناسبة للمكتب وللمناسبات الاجتماعية على حد سواء."
+      },
+      {
+        "q": "طول التنورة حتى منتصف الساق قد يجعل القامة تبدو أقصر.",
+        "a": "إن تصميم التنورة بخصر مرتفع مع التركيز على الخصر، خاصة عند تنسيقها مع أحذيتنا ذات الكعب العالي أو أحذية Ulisside، يخلق توازناً طولياً أنيقاً وتناسباً مثالياً في القوام."
+      },
+      {
+        "q": "سيكون من الصعب اختيار قطعة علوية بسبب كثرة النقوش والزخارف.",
+        "a": "تنورة Fumaiolo هي القطعة المركزية في الإطلالة. وهي تتناغم بشكل مثالي مع كنزات الكشمير الأساسية أو البلوزات الحريرية التي تتناسب مع ألوان التطريز، والموجودة ضمن مجموعتنا."
+      },
+      {
+        "q": "قد يكون نسيج الصوف خشناً أو ثقيلاً.",
+        "a": "التركيبة الممزوجة مع إضافة الأسيتات والبوليستر تجعل القماش لطيفاً على الملمس وتوفر خفة مريحة، مع الحفاظ في الوقت نفسه على جميع خصائص الصوف الطبيعي في حفظ الحرارة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "დეკორი ზედმეტად დელიკატური ჩანს ყოველდღიური ტარებისთვის.",
+        "a": "მძივებითა და ხავერდით შესრულებული ნაქარგი უმაღლესი ხარისხის სტანდარტების დაცვით არის დამზადებული. პროფესიონალური მოვლის რეკომენდაციების გათვალისწინების შემთხვევაში, ნივთი თავის უნაკლო იერსახეს მრავალი წლის განმავლობაში შეინარჩუნებს."
+      },
+      {
+        "q": "„ნაძვის ხის“ებრი ორნამენტი შესაძლოა ზედმეტად ოფიციალურად გამოიყურებოდეს.",
+        "a": "ამ მოდელში ქსოვილის კლასიკური სიმკაცრე შერბილებულია მხატვრული ქარგვითა და ღვინის ღრმა ტონალობებით, რაც მას როგორც ოფისისთვის, ისე საერო ღონისძიებებისთვის შესაფერისს ხდის."
+      },
+      {
+        "q": "წვივამდე სიგრძემ შესაძლოა ვიზუალურად დაამციროს სიმაღლე.",
+        "a": "მაღალწელიანი ქვედაბოლოს ჭრილი და წელზე აქცენტი, განსაკუთრებით ჩვენს ქუსლიან ფეხსაცმელებთან ან ჩექმებთან Ulisside, პირიქით, ქმნის მოხდენილ ვერტიკალს და ელეგანტურ პროპორციებს."
+      },
+      {
+        "q": "აქტიური ნახატისა და დეკორის გამო რთული იქნება ზედა ნაწილის შერჩევა.",
+        "a": "ქვედაბოლო Fumaiolo იმიჯის ცენტრალური ელემენტია. იგი იდეალურად ეხამება საბაზისო ქაშმირის პულოვერებს ან ნაქარგის ტონალობაში გადაწყვეტილ აბრეშუმის ბლუზებს, რომლებიც წარმოდგენილია ჩვენს კოლექციაში."
+      },
+      {
+        "q": "მატყლის ქსოვილი შესაძლოა იყოს უხეში ან მძიმე.",
+        "a": "აცეტატისა და პოლიესტერის დამატებით შექმნილი ნარევი ქსოვილს სასიამოვნოს ხდის შეხებისას და უზრუნველყოფს კომფორტულ სიმსუბუქეს, ამასთანავე ინარჩუნებს ნატურალური მატყლის ყველა თბომგრძნობიარე თვისებას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Դեկորը չափազանց նուրբ է թվում ամենօրյա կրման համար։",
+        "a": "Ուլունքներով և թավիշով ասեղնագործությունը կատարված է որակի ամենաբարձր չափանիշներին համապատասխան։ Մասնագիտական խնամքի առաջարկությունները պահպանելու դեպքում արտադրանքը երկար տարիներ կպահպանի իր անթերի տեսքը։"
+      },
+      {
+        "q": "Ձկնոսկր» նախշը կարող է չափազանց պաշտոնական թվալ։",
+        "a": "Այս մոդելում գործվածքի դասական խստությունը մեղմացված է գեղարվեստական ասեղնագործությամբ և գինեգույն խորը երանգներով, ինչը այն դարձնում է հարմար ինչպես գրասենյակի, այնպես էլ հասարակական միջոցառումների համար։"
+      },
+      {
+        "q": "Մինչև սրունքի կեսը հասնող երկարությունը կարող է տեսողականորեն ցածրացնել հասակը։",
+        "a": "Բարձր գոտկատեղով և իրանի վրա շեշտադրումով կիսաշրջազգեստի ձևվածքը, հատկապես մեր կրունկավոր կոշիկների կամ Ulisside երկարաճիտ կոշիկների հետ համադրությամբ, հակառակը՝ ստեղծում է սլացիկ ուղղահայաց գիծ և էլեգանտ համաչափություններ։"
+      },
+      {
+        "q": "Ակտիվ նախշի և դեկորի պատճառով դժվար կլինի վերնաշոր ընտրել։",
+        "a": "Fumaiolo կիսաշրջազգեստն образ-ի կենտրոնական տարրն է։ Այն կատարյալ համադրվում է բազային քաշմիրե պուլովերների կամ ասեղնագործության երանգին համահունչ մետաքսե բլուզների հետ, որոնք ներկայացված են մեր հավաքածուում։"
+      },
+      {
+        "q": "Բրդյա գործվածքը կարող է ծակծկող կամ ծանր լինել։",
+        "a": "Ացետատի և պոլիեսթերի հավելումով խառը կազմը գործվածքը դարձնում է դիպչելիս հաճելի և ապահովում է հարմարավետ թեթևություն՝ միաժամանակ պահպանելով բնական բրդի ջերմապահպան բոլոր հատկությունները։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Dekors šķiet pārāk smalks ikdienas valkāšanai.",
+        "a": "Pērļu un samta izšuvums ir izpildīts, ievērojot visaugstākos kvalitātes standartus. Ievērojot profesionālās kopšanas ieteikumus, izstrādājums saglabās savu nevainojamo izskatu daudzus gadus."
+      },
+      {
+        "q": "„Eglītes” raksts var izskatīties pārāk oficiāli.",
+        "a": "Šajā modelī klasiskais auduma stingrums ir mīkstināts ar māksliniecisku izšuvumu un dziļiem vīna toņiem, kas padara to piemērotu gan birojam, gan saviesīgiem pasākumiem."
+      },
+      {
+        "q": "Garums līdz ikru vidum var vizuāli samazināt augumu.",
+        "a": "Svārku piegriezums ar augstu jostasvietu un akcentu uz vidukli, īpaši kombinācijā ar mūsu kurpēm uz papēža vai zābakiem Ulisside, gluži pretēji, rada slaidu vertikāli un elegantas proporcijas."
+      },
+      {
+        "q": "Būs grūti piemeklēt augšdaļu aktīvā raksta un dekora dēļ.",
+        "a": "Svārki Fumaiolo ir tēla centrālais elements. Tie lieliski sader ar bāzes kašmira puloveriem vai zīda blūzēm izšuvuma tonī, kas ir pārstāvēti mūsu kolekcijā."
+      },
+      {
+        "q": "Vilnas audums var būt durstīgs vai smags.",
+        "a": "Jauktais sastāvs ar acetāta un poliestera piejaukumu padara audumu patīkamu pieskārienam un nodrošina komfortablu vieglumu, vienlaikus saglabājot visas dabīgās vilnas siltumizolācijas īpašības."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Dekoras atrodo per daug subtilus kasdieniam dėvėjimui.",
+        "a": "Karoliukų ir aksomo siuvinėjimas atliktas laikantis aukščiausių kokybės standartų. Laikantis profesionalios priežiūros rekomendacijų, gaminys išlaikys savo nepriekaištingą išvaizdą daugelį metų."
+      },
+      {
+        "q": "„Eglutės“ raštas gali atrodyti per daug oficialiai.",
+        "a": "Šiame modelyje klasikinis audinio griežtumas sušvelnintas menišku siuvinėjimu ir giliais vyno atspalviais, todėl jis tinkamas tiek biurui, tiek reprezentaciniams renginiams."
+      },
+      {
+        "q": "Ilgis iki blauzdos vidurio gali vizualiai mažinti ūgį.",
+        "a": "Sijono kirpimas su aukštu liemeniu ir akcentu ties juosmeniu, ypač derinant su mūsų bateliais su kulniukais ar batais Ulisside, priešingai, sukuria grakščią vertikalę ir elegantiškas proporcijas."
+      },
+      {
+        "q": "Bus sunku parinkti viršutinę dalį dėl aktyvaus rašto ir dekoro.",
+        "a": "Sijonas Fumaiolo yra centrinis įvaizdžio elementas. Jis idealiai dera su baziniais kašmyro megztiniais ar šilko palaidinėmis, derančiomis prie siuvinėjimo spalvos, kurias pristatome savo kolekcijoje."
+      },
+      {
+        "q": "Vilnonis audinys gali būti šiurkštus arba sunkus.",
+        "a": "Mišri sudėtis su acetato ir poliesterio priemaiša daro audinį malonų liesti ir užtikrina komfortišką lengvumą, kartu išlaikant visas natūralios vilnos šilumines savybes."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Dekoracje wydają się zbyt delikatne do codziennego noszenia.",
+        "a": "Haft koralikowy i aksamitny wykonano z zachowaniem najwyższych standardów jakości. Przy przestrzeganiu zaleceń dotyczących profesjonalnej pielęgnacji, model zachowa swój nieskazitelny wygląd przez wiele lat."
+      },
+      {
+        "q": "Wzór „jodełki” może wyglądać zbyt oficjalnie.",
+        "a": "W tym modelu klasyczna surowość tkaniny została złagodzona artystycznym haftem i głębokimi winnymi odcieniami, co sprawia, że nadaje się on zarówno do biura, jak i na uroczyste wydarzenia."
+      },
+      {
+        "q": "Długość do połowy łydki może wizualnie skracać sylwetkę.",
+        "a": "Krój spódnicy z wysokim stanem i akcentem na talii, szczególnie w połączeniu z naszymi czółenkami na obcasie lub kozakami Ulisside, tworzy wręcz przeciwnie – smukłą linię pionową i eleganckie proporcje."
+      },
+      {
+        "q": "Trudno będzie dobrać górę ze względu na wyrazisty wzór i zdobienia.",
+        "a": "Spódnica Fumaiolo jest centralnym elementem stylizacji. Idealnie komponuje się z bazowymi kaszmirowymi swetrami lub jedwabnymi bluzkami w tonacji haftu, które prezentujemy w naszej kolekcji."
+      },
+      {
+        "q": "Wełniana tkanina może być gryząca lub ciężka.",
+        "a": "Mieszany skład z dodatkiem octanu i poliestru sprawia, że tkanina jest przyjemna w dotyku i zapewnia komfortową lekkość, zachowując przy tym wszystkie właściwości termoregulacyjne naturalnej wełny."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Декор здається занадто делікатним для повсякденного носіння.",
+        "a": "Вишивка бісером та оксамитом виконана з дотриманням найвищих стандартів якості. При дотриманні рекомендацій щодо професійного догляду виріб збереже свій бездоганний вигляд на довгі роки."
+      },
+      {
+        "q": "Візерунок «ялинка» може виглядати занадто офіційно.",
+        "a": "У цій моделі класична строгість тканини пом'якшена художньою вишивкою та глибокими винними відтінками, що робить її придатною як для офісу, так і для світських заходів."
+      },
+      {
+        "q": "Довжина до середини ікри може візуально зменшувати зріст.",
+        "a": "Крій спідниці з високою посадкою та акцентом на талії, особливо у поєднанні з нашими туфлями на підборах або чобітьми Ulisside, навпаки, створює струнку вертикаль та елегантні пропорції."
+      },
+      {
+        "q": "Буде складно підібрати верх через активний малюнок і декор.",
+        "a": "Спідниця Fumaiolo є центральним елементом образу. Вона ідеально поєднується з базовими кашеміровими пуловерами або шовковими блузами в тон вишивки, які представлені в нашій колекції."
+      },
+      {
+        "q": "Вовняна тканина може бути колючою або важкою.",
+        "a": "Сумішевий склад із додаванням ацетату та поліестеру робить тканину приємною на дотик і забезпечує комфортну легкість, зберігаючи при цьому всі теплозберігаючі властивості натуральної вовни."
+      }
+    ]
+  }
+}

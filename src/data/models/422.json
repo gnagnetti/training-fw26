@@ -1,0 +1,554 @@
+{
+  "id": 422,
+  "name": "Localita",
+  "description": {
+    "en": "The Localita 0201 shirt is the embodiment of aristocratic romanticism and flawless freshness within Luisa Spagnoli's DNA. Crafted from high-quality pure cotton poplin, the piece delivers a sense of crisp purity and structure characteristic of premium tailoring. The principal decorative accent is a luxurious jabot and collar, adorned with delicate ruffles that create expressive volume in the neckline area. The refinement of the cut is underscored by a concealed placket (finta inglese) and soft gathering at the cuffs, while the Regular fit ensures a flawless balance between comfort and elegance, transforming this shirt into a centerpiece for both everyday and formal ensembles.",
+    "ru": "Рубашка Localita 0201 --- это воплощение аристократичного романтизма и безупречной свежести в ДНК Luisa Spagnoli. Выполненная из высококачественного поплина из чистого хлопка, модель дарит ощущение хрустящей чистоты и структурности, характерной для премиального тейлоринга. Главным декоративным акцентом выступает роскошное жабо и воротник, украшенные деликатными рюшами, которые создают выразительный объем в портретной зоне. Изысканность кроя подчеркнута скрытой планкой (finta inglese) и мягкой сборкой на манжетах, а «регулярная посадка» (regular fit) обеспечивает безупречный баланс между комфортом и элегантностью, превращая эту рубашку в центральный элемент как повседневных, так и торжественных ансамблей.",
+    "ar": "قميص Localita 0201 --- هو تجسيد للرومانسية الأرستقراطية والانتعاش الذي لا تشوبه شائبة في جوهر Luisa Spagnoli. صُمم هذا الطراز من قماش البوبلين عالي الجودة والمصنوع من القطن الخالص، ليمنح شعوراً بالنقاء الملموس والبنية المتماسكة التي تميز الخياطة الفاخرة. وتبرز الزخرفة الرئيسية في الياقة الرائعة والصدر المزين بكسرات دقيقة تضفي حجماً تعبيرياً على منطقة الوجه. تزداد أناقة القصّة بفضل الفتحة المخفية (finta inglese) والتزمام الناعم عند الأكمام، بينما تضمن \"القَصّة المنتظمة\" (regular fit) توازناً مثالياً بين الراحة والأناقة، مما يجعل هذا القميص قطعة مركزية في الإطلالات اليومية والمناسبات الرسمية على حد سواء.",
+    "ka": "Localita 0201 პერანგი --- ეს არის არისტოკრატული რომანტიზმისა და უნაკლო სიახლის განსახიერება Luisa Spagnoli-ს დნმ-ში. მაღალი ხარისხის სუფთა ბამბის პოპლინისგან დამზადებული მოდელი გვჩუქნის სუფთა, ხრაშუნა შეგრძნებასა და სტრუქტურულობას, რაც პრემიუმ კლასის მკერავთა ხელოვნებისთვისაა დამახასიათებელი. მთავარი დეკორატიული აქცენტი არის მდიდრული ჟაბო და საყელო, რომელიც გაფორმებულია ნაზი ფრიალით, რაც პორტრეტულ ზონაში გამომსახველ მოცულობას ქმნის. ნაკერის დახვეწილობას ხაზს უსვამს ფარული ღილები (finta inglese) და სახელოებზე არსებული ნაზი შეკუმშვა, ხოლო „რეგულარული მორგება“ (regular fit) უზრუნველყოფს უნაკლო ბალანსს კომფორტსა და ელეგანტურობას შორის, რაც ამ პერანგს ყოველდღიური და საზეიმო ანსამბლების ცენტრალურ ელემენტად აქცევს.",
+    "hy": "Localita 0201 վերնաշապիկը Luisa Spagnoli-ի ԴՆԹ-ում արիստոկրատ ռոմանտիզմի և անթերի թարմության մարմնացումն է: Մաքուր բամբակյա բարձրորակ պոպլինից պատրաստված այս մոդելը պարգևում է փխրուն մաքրության և կառուցվածքային զգացողություն, որը բնորոշ է պրեմիում դասի դերձակությանը: Դեկորատիվ գլխավոր շեշտադրումը շքեղ ժաբոն և օձիքն են՝ զարդարված նուրբ ծալքաթերթիկներով, որոնք արտահայտիչ ծավալ են հաղորդում դիմանկարային գոտուն: Ձևվածքի նրբագեղությունն ընդգծված է թաքնված պլանկայով (finta inglese) և թևքերի փափուկ հավաքվածքներով, իսկ «կանոնավոր ձևվածքը» (regular fit) ապահովում է անթերի հավասարակշռություն հարմարավետության և էլեգանտության միջև՝ այս վերնաշապիկը դարձնելով առօրյա և հանդիսավոր համադրությունների կենտրոնական տարրը:",
+    "lv": "Krekls Localita 0201 --- ir aristokrātiskā romantisma un nevainojama svaiguma iemiesojums Luisa Spagnoli DNS. Izgatavots no augstākās kvalitātes tīras kokvilnas poplīna, modelis sniedz kraukšķīgas tīrības un strukturētības sajūtu, kas raksturīga premium klases drēbniecībai. Galvenais dekoratīvais akcents ir grezna žabo un apkakle, kas rotāta ar smalkiem volāniem, radot izteiksmīgu apjomu portreta zonā. Piepgriezuma izsmalcinātību pasvītro slēptā planka (finta inglese) un maiga krokojuma aproces, savukārt «регулярная посадка» (regular fit) nodrošina nevainojamu līdzsvaru starp komfortu un eleganci, padarot šo kreklu par centrālo elementu gan ikdienas, gan svinīgos ansambļos.",
+    "lt": "Marškiniai Localita 0201 --- tai aristokratiško romantizmo ir nepriekaištingo gaivumo įsikūnijimas Luisa Spagnoli DNR. Pagamintas iš aukščiausios kokybės grynos medvilnės poplino, modelis suteikia traškios švaros ir struktūriškumo pojūtį, būdingą aukščiausios klasės siuvimui. Pagrindinis dekoratyvinis akcentas yra prabangus žabo ir apykaklė, papuošti subtiliais raukiniais, kurie sukuria išraiškingą tūrį portretinėje zonoje. Kirpimo rafinuotumą pabrėžia paslėpta saga (finta inglese) ir minkštas surauukimas ties rankogaliais, o „reguliarus prigludimas“ (regular fit) užtikrina tobulą pusiausvyrą tarp patogumo ir elegancijos, paversdamas šiuos marškinius centriniu elementu tiek kasdieniuose, tiek proginiuose ansambliuose.",
+    "pl": "Koszula Localita 0201 to ucieleśnienie arystokratycznego romantyzmu i nienagannej świeżości w DNA Luisa Spagnoli. Wykonany z wysokiej jakości popeliny z czystej bawełny, model zapewnia uczucie rześkiej czystości i strukturalności charakterystycznej dla krawiectwa premium. Głównym akcentem dekoracyjnym jest luksusowe żabot oraz kołnierz ozdobiony delikatnymi falbankami, które tworzą wyrazistą objętość w strefie portretowej. Wyrafinowanie kroju podkreśla kryta plisa (finta inglese) oraz miękkie marszczenia na mankietach, a „regularny krój” (regular fit) zapewnia idealną równowagę między komfortem a elegancją, czyniąc tę koszulę centralnym elementem zarówno codziennych, jak i uroczystych stylizacji.",
+    "uk": "Рубашка Localita 0201 --- это воплощение аристократичного романтизма и безупречной свежести в ДНК Luisa Spagnoli. Выполненная из высококачественного поплина из чистого хлопка, модель дарит ощущение хрустящей чистоты и структурности, характерной для премиального тейлоринга. Главным декоративным акцентом выступает роскошное жабо и воротник, украшенные деликатными рюшами, которые создают выразительный объем в портретной зоне. Изысканность кроя подчеркнута скрытой планкой (finta inglese) и мягкой сборкой на манжетах, а «регулярная посадка» (regular fit) обеспечивает безупречный баланс между комфортом и элегантностью, превращая эту рубашку в центральный элемент как повседневных, так и торжественных ансамблей."
+  },
+  "colors": [
+    {
+      "name": "Bianco",
+      "code": "0201",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1407561629692424cfaef943_59921062_02781240XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Дизайнеры и стилисты бренда предлагают использовать рубашку Localita как инструмент для создания многослойных образов с богатой игрой фактур: Вариант 0201 ( Белый): В lookbook:",
+        "en": "Дизайнеры и стилисты бренда предлагают использовать рубашку Localita как инструмент для создания многослойных образов с богатой игрой фактур: Вариант 0201 ( Белый): В lookbook:",
+        "ar": "Дизайнеры и стилисты бренда предлагают использовать рубашку Localita как инструмент для создания многослойных образов с богатой игрой фактур: Вариант 0201 ( Белый): В lookbook:",
+        "ka": "Дизайнеры и стилисты бренда предлагают использовать рубашку Localita как инструмент для создания многослойных образов с богатой игрой фактур: Вариант 0201 ( Белый): В lookbook:",
+        "hy": "Дизайнеры и стилисты бренда предлагают использовать рубашку Localita как инструмент для создания многослойных образов с богатой игрой фактур: Вариант 0201 ( Белый): В lookbook:",
+        "lv": "Дизайнеры и стилисты бренда предлагают использовать рубашку Localita как инструмент для создания многослойных образов с богатой игрой фактур: Вариант 0201 ( Белый): В lookbook:",
+        "lt": "Дизайнеры и стилисты бренда предлагают использовать рубашку Localita как инструмент для создания многослойных образов с богатой игрой фактур: Вариант 0201 ( Белый): В lookbook:",
+        "pl": "Дизайнеры и стилисты бренда предлагают использовать рубашку Localita как инструмент для создания многослойных образов с богатой игрой фактур: Вариант 0201 ( Белый): В lookbook:",
+        "uk": "Дизайнеры и стилисты бренда предлагают использовать рубашку Localita как инструмент для создания многослойных образов с богатой игрой фактур: Вариант 0201 ( Белый): В lookbook:"
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "ru": "Look 25",
+        "en": "Look 25",
+        "ar": "Look 25",
+        "ka": "Look 25",
+        "hy": "Look 25",
+        "lv": "Look 25",
+        "lt": "Look 25",
+        "pl": "Look 25",
+        "uk": "Look 25"
+      },
+      "text": {
+        "ru": "в дерзком сочетании с широкими джинсами Olla 1073, подчеркивающем современный стиль «city chic».",
+        "en": "в дерзком сочетании с широкими джинсами Olla 1073, подчеркивающем современный стиль «city chic».",
+        "ar": "в дерзком сочетании с широкими джинсами Olla 1073, подчеркивающем современный стиль «city chic».",
+        "ka": "в дерзком сочетании с широкими джинсами Olla 1073, подчеркивающем современный стиль «city chic».",
+        "hy": "в дерзком сочетании с широкими джинсами Olla 1073, подчеркивающем современный стиль «city chic».",
+        "lv": "в дерзком сочетании с широкими джинсами Olla 1073, подчеркивающем современный стиль «city chic».",
+        "lt": "в дерзком сочетании с широкими джинсами Olla 1073, подчеркивающем современный стиль «city chic».",
+        "pl": "в дерзком сочетании с широкими джинсами Olla 1073, подчеркивающем современный стиль «city chic».",
+        "uk": "в дерзком сочетании с широкими джинсами Olla 1073, подчеркивающем современный стиль «city chic»."
+      },
+      "items": [
+        {
+          "name": "Olla",
+          "code": "1073",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png",
+          "modelId": 456
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 53",
+        "en": "Look 53",
+        "ar": "Look 53",
+        "ka": "Look 53",
+        "hy": "Look 53",
+        "lv": "Look 53",
+        "lt": "Look 53",
+        "pl": "Look 53",
+        "uk": "Look 53"
+      },
+      "text": {
+        "ru": "в составе женственного ансамбля с юбкой-карандаш в клетку тартан Fanny 3372.",
+        "en": "в составе женственного ансамбля с юбкой-карандаш в клетку тартан Fanny 3372.",
+        "ar": "в составе женственного ансамбля с юбкой-карандаш в клетку тартан Fanny 3372.",
+        "ka": "в составе женственного ансамбля с юбкой-карандаш в клетку тартан Fanny 3372.",
+        "hy": "в составе женственного ансамбля с юбкой-карандаш в клетку тартан Fanny 3372.",
+        "lv": "в составе женственного ансамбля с юбкой-карандаш в клетку тартан Fanny 3372.",
+        "lt": "в составе женственного ансамбля с юбкой-карандаш в клетку тартан Fanny 3372.",
+        "pl": "в составе женственного ансамбля с юбкой-карандаш в клетку тартан Fanny 3372.",
+        "uk": "в составе женственного ансамбля с юбкой-карандаш в клетку тартан Fanny 3372."
+      },
+      "items": [
+        {
+          "name": "Fanny",
+          "code": "3372",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/871464939692424c95958b1_55824848_02781050XX1.jpg",
+          "modelId": 387
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 55",
+        "en": "Look 55",
+        "ar": "Look 55",
+        "ka": "Look 55",
+        "hy": "Look 55",
+        "lv": "Look 55",
+        "lt": "Look 55",
+        "pl": "Look 55",
+        "uk": "Look 55"
+      },
+      "text": {
+        "ru": "под уютный кардиган Merende 2234 в дуэте с юбкой макси Francobollo 3372.",
+        "en": "под уютный кардиган Merende 2234 в дуэте с юбкой макси Francobollo 3372.",
+        "ar": "под уютный кардиган Merende 2234 в дуэте с юбкой макси Francobollo 3372.",
+        "ka": "под уютный кардиган Merende 2234 в дуэте с юбкой макси Francobollo 3372.",
+        "hy": "под уютный кардиган Merende 2234 в дуэте с юбкой макси Francobollo 3372.",
+        "lv": "под уютный кардиган Merende 2234 в дуэте с юбкой макси Francobollo 3372.",
+        "lt": "под уютный кардиган Merende 2234 в дуэте с юбкой макси Francobollo 3372.",
+        "pl": "под уютный кардиган Merende 2234 в дуэте с юбкой макси Francobollo 3372.",
+        "uk": "под уютный кардиган Merende 2234 в дуэте с юбкой макси Francobollo 3372."
+      },
+      "items": [
+        {
+          "name": "Merende",
+          "code": "2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/748832174691f157692a0b6_36843969_02790440XX1.jpg",
+          "modelId": 442
+        },
+        {
+          "name": "Francobollo",
+          "code": "3372",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2132636636691f15621c8939_14393259_02780500XX1.jpg",
+          "modelId": 394
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 185",
+        "en": "Look 185",
+        "ar": "Look 185",
+        "ka": "Look 185",
+        "hy": "Look 185",
+        "lv": "Look 185",
+        "lt": "Look 185",
+        "pl": "Look 185",
+        "uk": "Look 185"
+      },
+      "text": {
+        "ru": "в сложном многослойном образе с пуловером Cremona 3349, классическими брюками Olivetano 1793 и пальто Salottino 0916.",
+        "en": "в сложном многослойном образе с пуловером Cremona 3349, классическими брюками Olivetano 1793 и пальто Salottino 0916.",
+        "ar": "в сложном многослойном образе с пуловером Cremona 3349, классическими брюками Olivetano 1793 и пальто Salottino 0916.",
+        "ka": "в сложном многослойном образе с пуловером Cremona 3349, классическими брюками Olivetano 1793 и пальто Salottino 0916.",
+        "hy": "в сложном многослойном образе с пуловером Cremona 3349, классическими брюками Olivetano 1793 и пальто Salottino 0916.",
+        "lv": "в сложном многослойном образе с пуловером Cremona 3349, классическими брюками Olivetano 1793 и пальто Salottino 0916.",
+        "lt": "в сложном многослойном образе с пуловером Cremona 3349, классическими брюками Olivetano 1793 и пальто Salottino 0916.",
+        "pl": "в сложном многослойном образе с пуловером Cremona 3349, классическими брюками Olivetano 1793 и пальто Salottino 0916.",
+        "uk": "в сложном многослойном образе с пуловером Cremona 3349, классическими брюками Olivetano 1793 и пальто Salottino 0916."
+      },
+      "items": [
+        {
+          "name": "Cremona",
+          "code": "3349",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eDNHV1c0RjWSZGmKSRYFrg_608445424696f436c3f19c0_12821392_02830820XX1.jpg",
+          "modelId": 15
+        },
+        {
+          "name": "Olivetano",
+          "code": "1793",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cvNRdSSbR3uGZFsM3BKLqg_26644077696f42e8e0b843_49978902_02820680XX1.jpg",
+          "modelId": 249
+        },
+        {
+          "name": "Salottino",
+          "code": "0916",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VqxAzOL8QAGWP0QqgMeEIw_563511883696f42f017b3c2_69472272_02820840XX1.jpg",
+          "modelId": 293
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 263",
+        "en": "Look 263",
+        "ar": "Look 263",
+        "ka": "Look 263",
+        "hy": "Look 263",
+        "lv": "Look 263",
+        "lt": "Look 263",
+        "pl": "Look 263",
+        "uk": "Look 263"
+      },
+      "text": {
+        "ru": "в вечернем прочтении под сияющий жакет Strass 0101 с брюками Offida 0101.",
+        "en": "в вечернем прочтении под сияющий жакет Strass 0101 с брюками Offida 0101.",
+        "ar": "в вечернем прочтении под сияющий жакет Strass 0101 с брюками Offida 0101.",
+        "ka": "в вечернем прочтении под сияющий жакет Strass 0101 с брюками Offida 0101.",
+        "hy": "в вечернем прочтении под сияющий жакет Strass 0101 с брюками Offida 0101.",
+        "lv": "в вечернем прочтении под сияющий жакет Strass 0101 с брюками Offida 0101.",
+        "lt": "в вечернем прочтении под сияющий жакет Strass 0101 с брюками Offida 0101.",
+        "pl": "в вечернем прочтении под сияющий жакет Strass 0101 с брюками Offida 0101.",
+        "uk": "в вечернем прочтении под сияющий жакет Strass 0101 с брюками Offida 0101."
+      },
+      "items": [
+        {
+          "name": "Strass",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YqwkwyA5QMqJiZQWrpBl9g_1744343220696f42ff2d54e7_32709159_02821200XX1.jpg",
+          "modelId": 348
+        },
+        {
+          "name": "Offida",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YFFY1s4iR8mmZlK3FNEjEQ_850058026696f42e4f083b6_29969679_02820610XX1.jpg",
+          "modelId": 242
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 47 (Bambola 1 & 3)",
+        "en": "Vetrina 47 (Bambola 1 & 3)",
+        "ar": "Vetrina 47 (Bambola 1 & 3)",
+        "ka": "Vetrina 47 (Bambola 1 & 3)",
+        "hy": "Vetrina 47 (Bambola 1 & 3)",
+        "lv": "Vetrina 47 (Bambola 1 & 3)",
+        "lt": "Vetrina 47 (Bambola 1 & 3)",
+        "pl": "Vetrina 47 (Bambola 1 & 3)",
+        "uk": "Vetrina 47 (Bambola 1 & 3)"
+      },
+      "text": {
+        "ru": "стилизована как нижний слой под трикотажное платье Met 1781 или под пуловер Mirko 1781 с джинсами Opaglio 0927, где жабо выступает финальным штрихом.",
+        "en": "стилизована как нижний слой под трикотажное платье Met 1781 или под пуловер Mirko 1781 с джинсами Opaglio 0927, где жабо выступает финальным штрихом.",
+        "ar": "стилизована как нижний слой под трикотажное платье Met 1781 или под пуловер Mirko 1781 с джинсами Opaglio 0927, где жабо выступает финальным штрихом.",
+        "ka": "стилизована как нижний слой под трикотажное платье Met 1781 или под пуловер Mirko 1781 с джинсами Opaglio 0927, где жабо выступает финальным штрихом.",
+        "hy": "стилизована как нижний слой под трикотажное платье Met 1781 или под пуловер Mirko 1781 с джинсами Opaglio 0927, где жабо выступает финальным штрихом.",
+        "lv": "стилизована как нижний слой под трикотажное платье Met 1781 или под пуловер Mirko 1781 с джинсами Opaglio 0927, где жабо выступает финальным штрихом.",
+        "lt": "стилизована как нижний слой под трикотажное платье Met 1781 или под пуловер Mirko 1781 с джинсами Opaglio 0927, где жабо выступает финальным штрихом.",
+        "pl": "стилизована как нижний слой под трикотажное платье Met 1781 или под пуловер Mirko 1781 с джинсами Opaglio 0927, где жабо выступает финальным штрихом.",
+        "uk": "стилизована как нижний слой под трикотажное платье Met 1781 или под пуловер Mirko 1781 с джинсами Opaglio 0927, где жабо выступает финальным штрихом."
+      },
+      "items": [
+        {
+          "name": "Met",
+          "code": "1781",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MET_178100000000.jpg",
+          "modelId": 173
+        },
+        {
+          "name": "Mirko",
+          "code": "1781",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2cb9e06d-bc91-4421-8a96-49701b4a0bdf-removebg-preview.png",
+          "modelId": 180
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 112 (Bambola 1)",
+        "en": "Vetrina 112 (Bambola 1)",
+        "ar": "Vetrina 112 (Bambola 1)",
+        "ka": "Vetrina 112 (Bambola 1)",
+        "hy": "Vetrina 112 (Bambola 1)",
+        "lv": "Vetrina 112 (Bambola 1)",
+        "lt": "Vetrina 112 (Bambola 1)",
+        "pl": "Vetrina 112 (Bambola 1)",
+        "uk": "Vetrina 112 (Bambola 1)"
+      },
+      "text": {
+        "ru": "классическое зимнее сочетание под пуловер Messier 1936 с юбкой из экокожи Fabula 0101 и пальто Stenografo 0101.",
+        "en": "классическое зимнее сочетание под пуловер Messier 1936 с юбкой из экокожи Fabula 0101 и пальто Stenografo 0101.",
+        "ar": "классическое зимнее сочетание под пуловер Messier 1936 с юбкой из экокожи Fabula 0101 и пальто Stenografo 0101.",
+        "ka": "классическое зимнее сочетание под пуловер Messier 1936 с юбкой из экокожи Fabula 0101 и пальто Stenografo 0101.",
+        "hy": "классическое зимнее сочетание под пуловер Messier 1936 с юбкой из экокожи Fabula 0101 и пальто Stenografo 0101.",
+        "lv": "классическое зимнее сочетание под пуловер Messier 1936 с юбкой из экокожи Fabula 0101 и пальто Stenografo 0101.",
+        "lt": "классическое зимнее сочетание под пуловер Messier 1936 с юбкой из экокожи Fabula 0101 и пальто Stenografo 0101.",
+        "pl": "классическое зимнее сочетание под пуловер Messier 1936 с юбкой из экокожи Fabula 0101 и пальто Stenografo 0101.",
+        "uk": "классическое зимнее сочетание под пуловер Messier 1936 с юбкой из экокожи Fabula 0101 и пальто Stenografo 0101."
+      },
+      "items": [
+        {
+          "name": "Messier",
+          "code": "1936",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/745495074691c5795177578_49121809_02790460XX1.jpg",
+          "modelId": 444
+        },
+        {
+          "name": "Fabula",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg",
+          "modelId": 386
+        },
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- An architectural accent: Draw the client's attention to the ruffled jabot. This element creates a powerful vertical line that visually elongates the silhouette and lends the look a more formal quality without the need for additional jewelry. - The maste"
+    ],
+    "ru": [
+      "- Архитектурный акцент: Обратите внимание клиента на жабо с рюшами. Этот элемент создает мощную вертикаль, которая визуально вытягивает силуэт и делает образ более торжественным без использования дополнительных украшений. - Мастерство многослойности: Реко"
+    ],
+    "ar": [
+      "- لمسة معمارية: وجهي انتباه العميل إلى الكشكشة (jabot) ذات الثنيات. يبتكر هذا العنصر خطًا عموديًا قويًا يعمل على إطالة القوام بصريًا ويضفي طابعًا رسميًا وفخمًا دون الحاجة إلى إكسسوارات إضافية. - فن الطبقات: رشيحي هذا الموديل للارتداء تحت التريكو أو السترا"
+    ],
+    "ka": [
+      "- არქიტექტურული აქცენტი: ყურადღება გაამახვილეთ მომხმარებლის ყურადღება ნაოჭებიან ჟაბოზე. ეს ელემენტი ქმნის მძლავრ ვერტიკალს, რომელიც ვიზუალურად ჭიმავს სილუეტს და ლუქს უფრო საზეიმო იერს აძლევს დამატებითი აქსესუარების გარეშე. - მრავალფენიანი სტილი: ურჩიეთ მო"
+    ],
+    "hy": [
+      "- Ճարտարապետական շեշտադրում. Հաճախորդի ուշադրությունը հրավիրեք ժանյակավոր ժաբոյի վրա։ Այս տարրը ստեղծում է հզոր ուղղահայաց գիծ, որը տեսողականորեն երկարացնում է ուրվագիծը և կերպարը դարձնում ավելի հանդիսավոր՝ առանց հավելյալ զարդերի օգտագործման։ - Բազմաշերտո"
+    ],
+    "lv": [
+      "- Arhitektonisks akcents: Vērsiet klienta uzmanību uz volāniem ar krokām. Šis elements rada spēcīgu vertikāli, kas vizuāli pagarina siluetu un padara tēlu svinīgāku bez papildu rotaslietu izmantošanas. - Slāņošanas meistarība: Iesakiet modeli valkāšanai z"
+    ],
+    "lt": [
+      "- Architektūrinis akcentas: Atkreipkite kliento dėmesį į raukiniais puoštą žabo. Šis elementas sukuria galingą vertikalę, kuri vizualiai ištęsia siluetą ir suteikia įvaizdžiui iškilmingumo be jokių papildomų papuošalų. - Daugiasluoksniškumo meistriškumas: Rekomenduokite šį modelį dėvėti po trikotažu ar švarkais. Ištraukta apykaklė ir žabo akimirksniu „atgaivina“ veidą ir suteikia sudėtingumo net ir pačiam paprasčiausiam baziniam megztiniui. - Tekstilės statusas: Akcentuokite medžiagą --- 100% medvilninis poplinas. Jis pasižymi kilniu matiniu žvilgesiu ir puikiai išlaiko raukinių formą, pabrėždamas aukštą luxury segmento gaminio kokybę."
+    ],
+    "pl": [
+      "- Akcent architektoniczny: Zwróć uwagę klienta na żabot z falbanami. Ten element tworzy mocną linię pionową, która optycznie wydłuża sylwetkę i dodaje stylizacji bardziej uroczystego charakteru bez konieczności stosowania dodatkowej biżuterii. - Mistrzost"
+    ],
+    "uk": [
+      "- Архітектурний акцент: Зверніть увагу клієнта на жабо з рюшами. Цей елемент створює потужну вертикаль, яка візуально видовжує силует і робить образ більш урочистим без використання додаткових прикрас. - Майстерність багатошаровості: Рекомендуйте модель д"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "jabot looks Showcase Look 25 with the Olla 1073 jeans. too formal The contrast between crisp poplin and denim is the most for city life» on-trend technique, making the look relaxed yet elevated. «Cotton poplin Explain that Luisa's high-density poplin will crease Spagnoli allows the fabric to recover its easily» shape faster. A slight softness in natural fabrics is a hallmark of their refined origin. «The ruffles might Point out that the ruffles run along the add unwanted vertical jabot line. This creates a directional line volume around the that slims rather than widens, disciplining bust» the silhouette. «A white shirt Remind the client that natural cotton takes to requires too frequent cleaning beautifully and retains its whiteness with proper care» care, and the luminous effect white brings to the complexion is invaluable. «The jabot will Explain that poplin is a supple fabric, and the get in the way under jabot is designed to lie flat outerwear» beneath the lapels of a coat or jacket, without causing any discomfort"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Жабо выглядит",
+        "a": "Продемонстрируйте Look 25 с джинсами Olla 1073. слишком официально Контраст строгого поплина и денима — это самый для города актуальный прием, делающий образ расслабленным, но статусным."
+      },
+      {
+        "q": "Хлопковый поплин",
+        "a": "Объясните, что высокая плотность поплина Luisa будет сильно Spagnoli позволяет ткани быстрее восстанавливать мяться форму. Легкая помятость в натуральных тканях — признак их благородного происхождения."
+      },
+      {
+        "q": "Рюши могут",
+        "a": "Укажите на то, что рюши расположены вдоль добавить лишний вертикального жабо. Это создает направленную линию, объем в области которая не расширяет, а, напротив, дисциплинирует и груди стройнит силуэт."
+      },
+      {
+        "q": "Белая рубашка",
+        "a": "Напомните, что натуральный хлопок прекрасно требует слишком переносит чистку и сохраняет белизну при правильном частого ухода уходе, а эффект."
+      },
+      {
+        "q": "подсветки",
+        "a": "лица, который дает белый цвет, неоценим."
+      },
+      {
+        "q": "Жабо будет",
+        "a": "Поясните, что поплин — пластичный материал, а мешать под верхней жабо сконструировано таким образом, чтобы плоско одеждой ложиться под лацканы пальто или жакета, не создавая дискомфорта."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الكرانيش (Jabot) تبدو رسمية للغاية بالنسبة للمدينة",
+        "a": "استعرضي Look 25 مع جينز Olla 1073. التباين بين البوبلين الصارم والدينيم هو الأسلوب الأكثر عصرية، مما يضفي على المظهر طابعاً مريحاً وراقياً في آن واحد."
+      },
+      {
+        "q": "قطن البوبلين سيجعله يتجعد كثيراً",
+        "a": "اشرحي أن الكثافة العالية لبوبلين Luisa Spagnoli تسمح للنسيج باستعادة شكله بشكل أسرع. التجعد الطفيف في الأقمشة الطبيعية هو علامة على أصلها النبيل."
+      },
+      {
+        "q": "الكرانيش قد تضيف حجماً زائداً في منطقة الصدر",
+        "a": "أشيري إلى أن الكرانيش تقع على طول خط رأسي. هذا يخلق خطاً موجهاً لا يوسع القوام، بل على العكس، يجعله أكثر تناسقاً ونحافة."
+      },
+      {
+        "q": "القميص الأبيض يتطلب عناية متكررة جداً",
+        "a": "ذكريها بأن القطن الطبيعي يتحمل التنظيف بشكل ممتاز ويحافظ على بياضه مع العناية الصحيحة، كما أن تأثير."
+      },
+      {
+        "q": "إضاءة",
+        "a": "الوجه الذي يمنحه اللون الأبيض لا يقدر بثمن."
+      },
+      {
+        "q": "الكرانيش ستعيق الحركة تحت الملابس الخارجية",
+        "a": "وضحي أن البوبلين مادة مرنة، وأن الكرانيش مصممة بطريقة تجعلها مسطحة تحت طيات المعاطف أو السترات، دون التسبب في أي انزعاج."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ჟაბო ზედმეტად ოფიციალურად",
+        "a": "აჩვენეთ Look 25 ჯინსებთან Olla 1073 ერთად. გამოიყურება ქალაქისთვის მკაცრი პოპლინისა და დენიმის კონტრასტი ყველაზე აქტუალური მიდგომაა, რომელიც სახეს ხდის თავისუფალს, მაგრამ სტატუსურს."
+      },
+      {
+        "q": "ბამბის პოპლინი",
+        "a": "განუმარტეთ, რომ Luisa Spagnoli-ის პოპლინის მაღალი სიმჭიდროვე ზედმეტად იჭმუჭნება საშუალებას აძლევს ქსოვილს სწრაფად აღიდგინოს ფორმა. ნატურალურ ქსოვილებში მსუბუქი დაჭმუჭნულობა მათი კეთილშობილური წარმოშობის ნიშანია."
+      },
+      {
+        "q": "ჟაბომ შესაძლოა",
+        "a": "მიუთითეთ იმაზე, რომ ჟაბო განლაგებულია ვერტიკალური ზედმეტი მოცულობა ჟაბოს გასწვრივ. ეს ქმნის მიმართულ ხაზს, რომელიც არ აფართოებს, შემატოს მკერდის არეში არამედ, პირიქით, დისციპლინირებას უკეთებს და აწვრილებს სილუეტს."
+      },
+      {
+        "q": "თეთრი პერანგი გაიხსენეთ, რომ ნატურალური ბამბა შესანიშნავად იტანს წმენდას და ზედმეტად ხშირ მოვლას ინარჩუნებს სითეთრეს სწორი მოვლის პირობებში, ხოლო სახის «განათების",
+        "a": "საჭიროებს» ეფექტი, რომელსაც თეთრი ფერი იძლევა, ფასდაუდებელია."
+      },
+      {
+        "q": "ჟაბო ხელს შეუშლის",
+        "a": "განუმარტეთ, რომ პოპლინი პლასტიკური მასალაა, ხოლო ჟაბო ისეა ზედა ტანსაცმლის ქვეშ კონსტრუირებული, რომ ბრტყლად დაიდოს პალტოს ან პიჯაკის საყელოების ქვეშ, დისკომფორტის შექმნის გარეშე."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ժաբոն շատ պաշտոնական է երևում քաղաքի համար",
+        "a": "Ցուցադրեք Look 25-ը Olla 1073 ջինսերով։ Խիստ պոպլինի և դենիմի հակադրությունը ամենաարդիական հնարքն է, որը կերպարը դարձնում է ազատ, բայց կարգավիճակային։."
+      },
+      {
+        "q": "Բամբակյա պոպլինը շատ կկնճռոտվի",
+        "a": "Բացատրեք, որ Luisa Spagnoli-ի պոպլինի բարձր խտությունը թույլ է տալիս կտորին արագ վերականգնել իր ձևը։ Բնական գործվածքների թեթև կնճռոտվածությունը դրանց ազնիվ ծագման նշանն է։."
+      },
+      {
+        "q": "Ժանյակները կարող են ավելորդ ծավալ հաղորդել կրծքավանդակի հատվածում",
+        "a": "Մատնանշեք, որ ժանյակները տեղադրված են ուղղահայաց ժաբոյի երկայնքով։ Սա ստեղծում է ուղղորդված գիծ, որը չի լայնացնում, այլ ընդհակառակը, կարգավորում և նեղացնում է ուրվագիծը։."
+      },
+      {
+        "q": "Սպիտակ վերնաշապիկը չափազանց հաճախակի խնամք է պահանջում",
+        "a": "Հիշեցրեք, որ բնական բամբակը հիանալի է հանդուրժում մաքրումը և պահպանում է սպիտակությունը ճիշտ խնամքի դեպքում, իսկ դեմքի."
+      },
+      {
+        "q": "լուսավորման",
+        "a": "էֆեկտը, որը տալիս է սպիտակ գույնը, անգնահատելի է։."
+      },
+      {
+        "q": "Ժաբոն կխանգարի վերնահագուստի տակ",
+        "a": "Պարզաբանեք, որ պոպլինը պլաստիկ նյութ է, իսկ ժաբոն կառուցված է այնպես, որ հարթ տեղավորվի վերարկուի կամ բաճկոնի լանջապանակների տակ՝ առանց անհարմարություն ստեղծելու։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Žabo izskatās",
+        "a": "Demonstrējiet Look 25 ar Olla 1073 džinsiem. pārāk oficiāli Kontrasts starp stingro poplīnu un džinsu audumu — ir pats pilsētai aktuālākais paņēmiens, kas padara tēlu atslābinātu, bet statusa cienīgu."
+      },
+      {
+        "q": "Kokvilnas poplīns",
+        "a": "Paskaidrojiet, ka Luisa Spagnoli poplīna augstais blīvums būs ļoti burzīgs ļauj audumam ātrāk atgūt formu. Viegls burzījums dabiskajos audumos — ir to cēlās izcelsmes pazīme."
+      },
+      {
+        "q": "Volāni var pievienot",
+        "a": "Norādiet uz to, ka volāni ir izvietoti gar vertikālo žabo. lieku apjomu krūšu Tas rada virzītu līniju, kas nepaplašina, bet, gluži rajonā pretēji, disciplinē un slaidina siluetu."
+      },
+      {
+        "q": "Baltais krekls",
+        "a": "Atgādiniet, ka dabiskā kokvilna lieliski panes tīrīšanu un prasa pārāk biežu saglabā baltumu pareizas kopšanas gadījumā, un kopšanu."
+      },
+      {
+        "q": "izgaismošanas",
+        "a": "efekts, ko dod baltā krāsa, ir nenovērtējams."
+      },
+      {
+        "q": "Žabo traucēs zem",
+        "a": "Paskaidrojiet, ka poplīns — ir plastisks materiāls, bet virsdrēbēm žabo ir konstruēts tā, lai plakaniski gultos zem mēteļa vai žaketes atlokiem, neradot diskomfortu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Žabo atrodo per Demonstruokite Look 25 su Olla 1073 džinsais. Griežto poplino ir oficialiai miestui“ denimo kontrastas — tai pats aktualiausias būdas sukurti įvaizdį, kuris yra laisvas, bet statusiškas. „Medvilninis poplinas",
+        "a": "Paaiškinkite, kad didelis Luisa Spagnoli poplino tankis leidžia stipriai glemžiasi“ audiniui greičiau atgauti formą. Lengvas glamžymasis natūraliuose audiniuose — tai jų kilmingos kilmės požymis. , kad didelis Luisa Spagnoli poplino tankis leidžia stipriai glemžiasi“ audiniui greičiau atgauti formą. Lengvas glamžymasis natūraliuose audiniuose — tai jų kilmingos kilmės požymis."
+      },
+      {
+        "q": "„Raukiniai gali",
+        "a": "Nurodykite, kad raukiniai išdėstyti išilgai vertikalios žabo linijos. Tai sukuria pridėti papildomos kryptingą liniją, kuri ne platina, o priešingai, disciplinuoja ir lieknina apimties krūtinės siluetą. , kad raukiniai išdėstyti išilgai vertikalios žabo linijos. Tai sukuria pridėti papildomos kryptingą liniją, kuri ne platina, o priešingai, disciplinuoja ir lieknina apimties krūtinės siluetą."
+      },
+      {
+        "q": "srityje“ „Balta palaidinė",
+        "a": "Priminkite, kad natūrali medvilnė puikiai toleruoja valymą ir reikalauja per dažnos išsaugo baltumą tinkamai prižiūrint, o veido „pašvietimo“ efektas, kurį priežiūros“ suteikia balta spalva, yra neįkainojamas. , kad natūrali medvilnė puikiai toleruoja valymą ir reikalauja per dažnos išsaugo baltumą tinkamai prižiūrint, o veido „pašvietimo“ efektas, kurį priežiūros“ suteikia balta spalva, yra neįkainojamas."
+      },
+      {
+        "q": "„Žabo trukdys po",
+        "a": "Paaiškinkite, kad poplinas — plastiškas audinys, o žabo sukonstruotas viršutiniais rūbais“ taip, kad lygiai priglustų po palto ar švarko atlapais, nesukeldamas diskomforto."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Żabot wygląda zbyt oficjalnie do miasta",
+        "a": ". Zaprezentuj Look 25 z dżinsami Olla 1073. Kontrast surowej popeliny i dżinsu to najaktualniejszy zabieg, który czyni stylizację swobodną, ale pełną klasy."
+      },
+      {
+        "q": "Bawełniana popelina będzie się mocno gniotła",
+        "a": ". Wyjaśnij, że wysoka gęstość popeliny Luisa Spagnoli pozwala tkaninie szybciej odzyskać formę. Lekkie zagniecenia w naturalnych tkaninach to oznaka ich szlachetnego pochodzenia."
+      },
+      {
+        "q": "Falbanki mogą dodać zbędnej objętości w okolicach biustu",
+        "a": ". Wskaż na to, że falbanki są umieszczone wzdłuż pionowego żabota. Tworzy to ukierunkowaną linię, która nie poszerza, a wręcz przeciwnie, dyscyplinuje i wysmukla sylwetkę."
+      },
+      {
+        "q": "Biała koszula wymaga zbyt częstej pielęgnacji",
+        "a": ". Przypomnij, że naturalna bawełna świetnie znosi czyszczenie i zachowuje biel przy odpowiedniej pielęgnacji, a efekt."
+      },
+      {
+        "q": "rozświetlenia",
+        "a": "twarzy, jaki daje biały kolor, jest nieoceniony."
+      },
+      {
+        "q": "Żabot będzie przeszkadzać pod odzieżą wierzchnią",
+        "a": ". Wyjaśnij, że popelina to plastyczny materiał, a żabot jest skonstruowany w taki sposób, aby płasko układać się pod klapami płaszcza lub żakietu, nie powodując dyskomfortu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Жабо виглядає",
+        "a": "Продемонструйте Look 25 з джинсами Olla 1073. занадто офіційно Контраст суворого попліну та деніму — це най для міста актуальний прийом, що робить образ розслабленим, але статусним."
+      },
+      {
+        "q": "Бавовняний поплін",
+        "a": "Поясніть, що висока щільність попліну Luisa буде сильно Spagnoli дозволяє тканині швидше відновлювати м'ятися форму. Легка пом'ятість у натуральних тканинах — ознака їхнього благородного походження."
+      },
+      {
+        "q": "Рюші можуть",
+        "a": "Вкажіть на те, що рюші розташовані вздовж додати зайвий вертикального жабо. Це створює спрямовану лінію, об'єм у ділянці яка не розширює, а, навпаки, дисциплінує і грудей робить силует стрункішим."
+      },
+      {
+        "q": "Біла сорочка",
+        "a": "Нагадайте, що натуральна бавовна чудово вимагає занадто переносить чищення та зберігає білизну при частого догляду правильному догляді, а ефект."
+      },
+      {
+        "q": "підсвічування",
+        "a": "обличчя, який дає білий колір, є неоціненним."
+      },
+      {
+        "q": "Жабо буде",
+        "a": "Поясніть, що поплін — пластичний матеріал, а заважати під верхнім жабо сконструйовано таким чином, щоб пласко одягом лягати під лацкани пальта або жакета, не створюючи дискомфорту."
+      }
+    ]
+  }
+}

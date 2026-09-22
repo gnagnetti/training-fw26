@@ -1,0 +1,296 @@
+{
+  "id": 33,
+  "name": "Discordia",
+  "description": {
+    "en": "The Discordia jewel-belt by Luisa Spagnoli is the quintessence of Italian jewelry craftsmanship applied to accessories. The piece takes the form of a luxurious multi-tier chain in gold-tone metal, finished with elegant cascading links that create a captivating dynamism in movement. The principal aesthetic accent is a noble setting with a topaz-hued crystal, lending the piece status and polish. Entirely made in Italy, this accessory is destined to become the centerpiece of a look in the 'quiet luxury' aesthetic, underscoring its wearer's refined taste.",
+    "ru": "Пояс-украшение Discordia от Luisa Spagnoli — это квинтэссенция итальянского ювелирного мастерства в аксессуарах. Модель представляет собой роскошную многоярусную цепочку из золотистого металла, дополненную изысканными ниспадающими звеньями, которые создают завораживающую динамику при движении. Главным эстетическим акцентом выступает благородный каст с кристаллом цвета топаза, придающий изделию статусность и завершенность. Этот аксессуар, полностью изготовленный в Италии, призван стать центральным элементом образа в стиле «тихой роскоши», подчеркивая утонченный вкус своей владелицы.",
+    "ar": "يُعدّ حزام \"ديسكورديا\" (Discordia) المزخرف من علامة لويزا سبانيولي (Luisa Spagnoli) تجسيداً أبهى لجوهر الصياغة الرفيعة والبراعة الإيطالية في عالم الإكسسوارات. يتألق هذا التصميم كسلسلة ذهبية متعددة الطبقات تفيض بالفخامة، تتداعى منها حلقات متناسقة تضفي حركية ساحرة وانسيابية أسيَرة مع كل خطوة. ويبرز الإطار المعدني المزدان ببلورة لؤلؤية بلون التوباز كرمز جمالي رئيسي يضفي على القطعة هيبة واكتماًلاً استثنائياً. صُنِعت هذه القطعة بالكامل في إيطاليا لتقود مظهر \"الفخامة الهادئة\" (Quiet Luxury)، مُعلنةً بأناقة عن الذوق الرفيع لسيدتها.",
+    "ka": "Luisa Spagnoli-ს ქამარი-აქსესუარი Discordia — ეს არის იტალიური საიუველირო ხელოვნების კვინტესენცია აქსესუარებში. მოდელი წარმოადგენს ოქროსფერი ლითონისგან დამზადებულ მდიდრულ მრავალფენიან ჯაჭვს, რომელიც დახვეწილი ჩამოსული რგოლებითაა გაფორმებული, რაც მოძრაობისას მომაჯადოებელ დინამიკას ქმნის. მთავარ ესთეტიკურ აქცენტს წარმოადგენს ტოპაზის ფერის კრისტალით გაფორმებული კეთილშობილური მთა, რომელიც ნაკეთობას სტატუსურ და დასრულებულ იერს ანიჭებს. ეს აქსესუარი, რომელიც მთლიანად იტალიაშია დამზადებული, „ჩუმი ფუფუნების“ სტილის იმიჯის ცენტრალური ელემენტია და ხაზს უსვამს მისი მფლობელის დახვეწილ გემოვნებას.",
+    "hy": "Luisa Spagnoli-ի Discordia գոտի-զարդը աքսեսուարներում իտալական ոսկերչական վարպետության կվինտեսենցիան է։ Մոդելը ներկայացնում է ոսկեգույն մետաղից պատրաստված շքեղ բազմաշերտ շղթա՝ համալրված նուրբ կախովի օղակներով, որոնք շարժման ժամանակ ստեղծում են հիպնոսացնող դինամիկա։ Գլխավոր էսթետիկ շեշտադրումը տոպազ գույնի բյուրեղով ազնիվ շրջանակն է, որը հոդվածին հաղորդում է կարգավիճակ և ամբողջականություն։ Ամբողջությամբ Իտալիայում արտադրված այս աքսեսուարը կոչված է դառնալու «հանգիստ շքեղության» ոճի կերպարի կենտրոնական տարրը՝ ընդգծելով իր տիրուհու նրբաճաշակությունը։",
+    "lv": "Luisa Spagnoli jostas rotājums Discordia ir itāļu juvelierizstrādājumu meistarības kvintesence aksesuāru pasaulē. Modelis ir grezna daudzslāņu ķēdīte no zeltīta metāla, ko papildina izsmalcināti krītoši posmi, kas kustoties rada aizraujošu dinamiku. Galvenais estētiskais akcents ir cēls ietvars ar topāza krāsas kristālu, kas izstrādājumam piešķir statusu un noslēgtību. Šis aksesuārs, kas pilnībā ražots Itālijā, ir radīts, lai kļūtu par «klusās greznības» stila tēla centrālo elementu, uzsverot tā īpašnieces izsmalcināto gaumi.",
+    "lt": "„Luisa Spagnoli“ diržas-papuošalas „Discordia“ – tai itališko juvelyrinio meistriškumo aksesuaruose kvintesencija. Modelis yra prabangi kelių lygių aukso spalvos metalo grandinėlė, papildyta rafinuotomis krintančiomis grandimis, kurios judant sukuria užburiančią dinamiką. Pagrindiniu estetiniu akcentu tampa kilnus įtvaras su topazo spalvos kristalu, suteikiantis gaminiui statuso ir užbaigtumo. Šis aksesuaras, visiškai pagamintas Italijoje, sukurtas tapti centriniu „tylios prabangos“ stiliaus įvaizdžio elementu, pabrėžiančiu subtilų savo savininkės skonį.",
+    "pl": "Ozdobny pasek Discordia od Luisa Spagnoli to kwintesencja włoskiego jubilerstwa w akcesoriach. Model stanowi luksusowy wielowarstwowy łańcuszek z metalu w kolorze złota, uzupełniony wykwintnymi opadającymi ogniwami, które tworzą hipnotyzującą dynamikę podczas ruchu. Głównym akcentem estetycznym jest szlachetna oprawa z kryształem w kolorze topazu, nadająca wyrobowi statusu i wykończenia. Ten dodatek, w całości wyprodukowany we Włoszech, ma stać się centralnym elementem stylizacji w duchu „cichego luksusu”, podkreślając wyrafinowany gust właścicielki.",
+    "uk": "Пояс-прикраса Discordia від Luisa Spagnoli — це квінтесенція італійської ювелірної майстерності в аксесуарах. Модель являє собою розкішний багатоярусний ланцюжок із золотистого металу, доповнений вишуканими спадаючими ланками, що створюють захопливу динаміку під час руху. Головним естетичним акцентом виступає благородний каст із кристалом кольору топазу, що надає виробу статусності та завершеності. Цей аксесуар, повністю виготовлений в Італії, покликаний стати центральним елементом образу в стилі «тихої розкоші», підкреслюючи витончений смак своєї власниці."
+  },
+  "colors": [
+    {
+      "name": "Oro Topazio",
+      "code": "0002 0069",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/discordia.PNG"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Данные отсутствуют в официальных источниках",
+        "en": "Data not available in official sources",
+        "ar": "Data not available in official sources",
+        "ka": "Data not available in official sources",
+        "hy": "Data not available in official sources",
+        "lv": "Data not available in official sources",
+        "lt": "Data not available in official sources",
+        "pl": "Data not available in official sources",
+        "uk": "Data not available in official sources"
+      },
+      "items": []
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the unique composition: 85% aluminum ensures remarkable lightness, allowing this visually substantial belt to be worn with total comfort throughout the evening.",
+      "Recommend Discordia as a versatile tool for transforming a look — it instantly elevates an understated knit dress or tailored jacket to Couture-level status.",
+      "Draw attention to the 'Made in Italy' quality: the flawless execution of every detail and the secure setting of the crystal underscore the accessory's premium status."
+    ],
+    "ru": [
+      "Делайте ставку на уникальный состав: 85% алюминия гарантируют невероятную легкость изделия, что позволяет носить этот массивный на вид пояс с максимальным комфортом в течение всего вечера.",
+      "Рекомендуйте Discordia как универсальный инструмент для трансформации образа — он мгновенно превращает лаконичное трикотажное платье или строгий жакет в наряд уровня Couture.",
+      "Акцентируйте внимание на качестве «Made in Italy»: безупречное исполнение каждой детали и надежность крепления кристалла подчеркивают премиальный статус аксессуара."
+    ],
+    "ar": [
+      "راهني على التركيبة الفريدة: حيث تضمن نسبة 85% من الألمنيوم خفة مذهلة للقطعة، مما يسمح بارتداء هذا الحزام ذي المظهر الضخم بأقصى درجات الراحة طوال الأمسية.",
+      "نوصي بـ Discordia كأداة متعددة الاستخدامات لتغيير الإطلالة؛ فهو يحول فوراً فستاناً بسيطاً من التريكو أو سترة رسمية إلى زي بمستوى Couture.",
+      "سلطي الضوء على جودة «Made in Italy»: فالتنفيذ المثالي لكل تفصيل ومتانة تثبيت الكريستال يؤكدان على المكانة الفاخرة للإكسسوار."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი უნიკალურ შემადგენლობაზე: 85% ალუმინი უზრუნველყოფს ნაკეთობის წარმოუდგენელ სიმსუბუქეს, რაც საშუალებას გაძლევთ ატაროთ ეს მასიური შესახედაობის ქამარი მაქსიმალური კომფორტით მთელი საღამოს განმავლობაში.",
+      "გირჩევთ Discordia, როგორც იმიჯის ტრანსფორმაციის უნივერსალურ ინსტრუმენტს — ის მყისიერად აქცევს ლაკონურ ტრიკოტაჟის კაბას ან მკაცრ პიჯაკს Couture-ის დონის სამოსად.",
+      "გაამახვილეთ ყურადღება „Made in Italy“-ს ხარისხზე: თითოეული დეტალის უნაკლო შესრულება და კრისტალის სამაგრის საიმედოობა ხაზს უსვამს აქსესუარის პრემიუმ სტატუსს."
+    ],
+    "hy": [
+      "Կատարեք ձեր ընտրությունը եզակի բաղադրության օգտին. 85% ալյումինը երաշխավորում է իրի անհավանական թեթևությունը, ինչը թույլ է տալիս կրել այս զանգվածային տեսք ունեցող գոտին առավելագույն հարմարավետությամբ ամբողջ երեկոյի ընթացքում:",
+      "Առաջարկեք Discordia-ն որպես կերպարը փոխակերպելու ունիվերսալ գործիք՝ այն ակնթարթորեն վերածում է լակոնիկ տրիկոտաժե զգեստը կամ խիստ ժակետը Couture մակարդակի հանդերձանքի:",
+      "Շեշտը դրեք «Made in Italy» որակի վրա. յուրաքանչյուր դետալի անթերի կատարումը և բյուրեղի ամրացման հուսալիությունն ընդգծում են աքսեսուարի պրեմիում կարգավիճակը:"
+    ],
+    "lv": [
+      "Lieciet likmi uz unikālu sastāvu: 85% alumīnija garantē izstrādājuma neticamu vieglumu, kas ļauj valkāt šo masīvā izskata jostu ar maksimālu komfortu visa vakara garumā.",
+      "Iesakiet Discordia kā universālu instrumentu tēla transformācijai — tas acumirklī pārvērš lakonisku trikotāžas kleitu vai stingru žaketi par Couture līmeņa tērpu.",
+      "Akcentējiet uzmanību uz «Made in Italy» kvalitāti: katras detaļas nevainojamais izpildījums un kristāla stiprinājuma uzticamība uzsver aksesuāra premium statusu."
+    ],
+    "lt": [
+      "Statykite už unikalią sudėtį: 85% aliuminio garantuoja neįtikėtiną gaminio lengvumą, todėl šį masyviai atrodantį diržą galima patogiai dėvėti visą vakarą.",
+      "Rekomenduokite Discordia kaip universalų įvaizdžio transformavimo įrankį — jis akimirksniu paverčia lakonišką trikotažinę suknelę ar griežtą švarką Couture lygio apdaru.",
+      "Akcentuokite „Made in Italy“ kokybę: nepriekaištingas kiekvienos detalės atlikimas ir kristalo tvirtinimo patikimumas pabrėžia aukščiausią aksesuaro statusą."
+    ],
+    "pl": [
+      "Postaw na unikalny skład: 85% aluminium gwarantuje niesamowitą lekkość produktu, co pozwala nosić ten masywnie wyglądający pasek z maksymalnym komfortem przez cały wieczór.",
+      "Rekomenduj Discordia jako uniwersalne narzędzie do transformacji wizerunku — natychmiast zamienia lakoniczną dzianinową sukienkę lub surowy żakiet w strój na poziomie Couture.",
+      "Zwróć uwagę na jakość „Made in Italy”: nienaganne wykonanie każdego detalu i niezawodność mocowania kryształu podkreślają prestiżowy status akcesorium."
+    ],
+    "uk": [
+      "Робіть ставку на унікальний склад: 85% алюмінію гарантують неймовірну легкість виробу, що дозволяє носити цей масивний на вигляд пояс із максимальним комфортом протягом усього вечора.",
+      "Рекомендуйте Discordia як універсальний інструмент для трансформації образу — він миттєво перетворює лаконічну трикотажну сукню або строгий жакет на вбрання рівня Couture.",
+      "Акцентуйте увагу на якості «Made in Italy»: бездоганне виконання кожної деталі та надійність кріплення кристала підкреслюють преміальний статус аксесуара."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "A chain belt may seem too heavy for delicate fabrics.",
+        "a": "Thanks to the use of aluminium as the primary material (85%), the belt is remarkably lightweight. It drapes softly at the waist without pulling on the garment."
+      },
+      {
+        "q": "Difficulty in finding the precise size for this type of accessory.",
+        "a": "The carabiner-fastening construction allows the length to be adjusted along the entire chain, ensuring a perfect fit for any figure — whether worn at the waist or on the hips."
+      },
+      {
+        "q": "The gold shine and crystal detail may appear too festive.",
+        "a": "In contemporary luxury aesthetics, such accessories are often used to create contrast within everyday looks, adding a note of refinement to essential pieces."
+      },
+      {
+        "q": "How can the original appearance of the metal and stone be preserved?",
+        "a": "We recommend storing the piece in its signature dust bag and avoiding direct contact with perfume. The high-quality galvanic coating reliably protects the metal from tarnishing."
+      },
+      {
+        "q": "The crystal colour (Topaz) may not suit my colour palette.",
+        "a": "The topaz tone was selected by the designers as one of the most harmonious and refined shades. It pairs beautifully with both warm beige tones and cool blue or grey knitwear."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Цепочка может казаться слишком тяжелой для деликатных тканей.",
+        "a": "Благодаря использованию алюминия в качестве основного материала (85%), пояс обладает минимальным весом. Он мягко драпируется на талии, не создавая лишнего натяжения на одежде."
+      },
+      {
+        "q": "Сложность в подборе точного размера для такого типа аксессуаров.",
+        "a": "Конструкция с застежкой-карабином позволяет регулировать длину по всей протяженности цепочки, обеспечивая идеальную посадку на любую фигуру — как на талии, так и на бедрах."
+      },
+      {
+        "q": "Золотистый блеск и кристалл могут выглядеть слишком празднично.",
+        "a": "В современной luxury-эстетике такие аксессуары часто используются для создания контраста в повседневных образах, добавляя ноту изысканности к базовым вещам."
+      },
+      {
+        "q": "Как сохранить первоначальный вид металла и камня?",
+        "a": "Мы рекомендуем хранить изделие в фирменном пыльнике и избегать прямого контакта с парфюмерными средствами. Высококачественное гальваническое покрытие надежно защищает металл от потемнения."
+      },
+      {
+        "q": "Цвет кристалла (Топаз) может не подойти к моей цветовой гамме.",
+        "a": "Оттенок топаза выбран дизайнерами как один из самых гармоничных и благородных. Он идеально сочетается как с теплыми бежевыми тонами, так и с холодным синим или серым трикотажем."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تبدو السلسلة ثقيلة على الأقمشة الرقيقة.",
+        "a": "بفضل استخدام الألمنيوم كمادة أساسية (85%)، يتميز الحزام بوزن خفيف للغاية. فهو ينسدل بنعومة على الخصر دون أن يسبب أي شد غير مرغوب فيه على الملابس."
+      },
+      {
+        "q": "صعوبة اختيار القياس المناسب لهذا النوع من الإكسسوارات.",
+        "a": "يسمح تصميم المشبك بتعديل الطول على طول السلسلة، مما يضمن ملاءمة مثالية لأي قوام، سواء تم ارتداؤه على الخصر أو على الأرداف."
+      },
+      {
+        "q": "البريق الذهبي والحجر قد يبدوان رسميين أكثر من اللازم.",
+        "a": "في جماليات الفخامة المعاصرة، تُستخدم هذه الإكسسوارات غالباً لإضفاء تباين على الإطلالات اليومية، مما يمنح لمسة من الرقي على الملابس الأساسية."
+      },
+      {
+        "q": "كيف يمكن الحفاظ على المظهر الأصلي للمعدن والحجر؟",
+        "a": "نوصي بحفظ القطعة في الحقيبة القماشية المخصصة وتجنب ملامستها المباشرة للعطور. فالطلاء الجلفاني عالي الجودة يحمي المعدن بفعالية من التغير في اللون."
+      },
+      {
+        "q": "قد لا يناسب لون الحجر (توباز) تنسيقات ألواني.",
+        "a": "اختار المصممون درجة التوباز لتكون واحدة من أكثر الألوان تناغماً ونبلاً. فهي تتناسب بشكل مثالي مع درجات البيج الدافئة وكذلك مع الملابس المحبوكة باللون الأزرق البارد أو الرمادي."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ჯაჭვი შესაძლოა ზედმეტად მძიმე ჩანდეს დელიკატური ქსოვილებისთვის.",
+        "a": "ძირითად მასალად ალუმინის (85%) გამოყენების წყალობით, ქამარი მინიმალური წონით გამოირჩევა. იგი რბილად ეფინება წელს და არ ქმნის ზედმეტ დაჭიმულობას სამოსზე."
+      },
+      {
+        "q": "სირთულე ასეთი ტიპის აქსესუარებისთვის ზუსტი ზომის შერჩევისას.",
+        "a": "კარაბინის შესაკრავის კონსტრუქცია საშუალებას გაძლევთ დაარეგულიროთ სიგრძე ჯაჭვის მთელ გაყოლებაზე, რაც უზრუნველყოფს იდეალურ მორგებას ნებისმიერ ფიგურაზე — როგორც წელზე, ისე თეძოებზე."
+      },
+      {
+        "q": "მოოქროსფერი ბზინვარება და კრისტალი შესაძლოა ზედმეტად სადღესასწაულოდ გამოიყურებოდეს.",
+        "a": "თანამედროვე luxury-ესთეტიკაში ასეთი აქსესუარები ხშირად გამოიყენება ყოველდღიურ იმიჯში კონტრასტის შესაქმნელად, რაც ბაზისურ ნივთებს დახვეწილობის ნოტს მატებს."
+      },
+      {
+        "q": "როგორ შევინარჩუნოთ ლითონისა და ქვის პირველადი იერსახე?",
+        "a": "ჩვენ გირჩევთ შეინახოთ ნაკეთობა ბრენდულ ჩასადებში და მოერიდოთ პირდაპირ კონტაქტს პარფიუმერულ საშუალებებთან. მაღალი ხარისხის გალვანური საფარი საიმედოდ იცავს ლითონს გაშავებისგან."
+      },
+      {
+        "q": "კრისტალის ფერი (ტოპაზი) შესაძლოა არ მოუხდეს ჩემს ფერთა გამას.",
+        "a": "ტოპაზის ფერი დიზაინერების მიერ არჩეულია, როგორც ერთ-ერთი ყველაზე ჰარმონიული და კეთილშობილური. იგი იდეალურად ეხამება როგორც თბილ კრემისფერ ტონებს, ისე ცივ ლურჯ ან ნაცრისფერ ტრიკოტაჟს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Շղթան կարող է չափազանց ծանր թվալ նուրբ գործվածքների համար",
+        "a": "Ալյումինի՝ որպես հիմնական նյութի (85%) կիրառման շնորհիվ գոտին ունի նվազագույն քաշ: Այն մեղմորեն դրապիրվում է իրանին՝ հագուստի վրա ավելորդ լարվածություն չստեղծելով"
+      },
+      {
+        "q": "Այս տեսակի աքսեսուարների համար ճշգրիտ չափս ընտրելու բարդությունը",
+        "a": "Կարաբին-ճարմանդով կառուցվածքը թույլ է տալիս կարգավորել երկարությունը շղթայի ամբողջ երկայնքով՝ ապահովելով կատարյալ հարմարեցում ցանկացած կազմվածքի՝ ինչպես իրանին, այնպես էլ կոնքերին"
+      },
+      {
+        "q": "Ոսկեգույն փայլը և բյուրեղը կարող են չափազանց տոնական երևալ",
+        "a": "Ժամանակակից luxury-էսթետիկայում նման աքսեսուարները հաճախ օգտագործվում են առօրյա կերպարներում հակադրություն ստեղծելու համար՝ բազային հագուստին հաղորդելով նրբագեղության նոտա"
+      },
+      {
+        "q": "Ինչպե՞ս պահպանել մետաղի և քարի սկզբնական տեսքը",
+        "a": "Մենք խորհուրդ ենք տալիս իրը պահել ֆիրմային տոպրակի մեջ և խուսափել պարֆյումերիայի հետ ուղղակի շփումից: Բարձրորակ գալվանական պատվածքը հուսալիորեն պաշտպանում է մետաղը մգանալուց"
+      },
+      {
+        "q": "Բյուրեղի գույնը (Տոպազ) կարող է չհամապատասխանել իմ գունային գամմային",
+        "a": "Տոպազի երանգը դիզայներների կողմից ընտրվել է որպես ամենաներդաշնակ և ազնիվ երանգներից մեկը: Այն կատարյալ համադրվում է ինչպես տաք բեժ երանգների, այնպես էլ սառը կապույտ կամ մոխրագույն տրիկոտաժի հետ"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Ķēdīte var šķist pārāk smaga delikātiem audumiem.",
+        "a": "Pateicoties alumīnija izmantošanai kā galvenajam materiālam (85%), jostai ir minimāls svars. Tā maigi drapējas uz jostasvietas, neradot lieku spriegumu uz apģērba."
+      },
+      {
+        "q": "Sarežģītība precīza izmēra piemeklēšanā šāda tipa aksesuāriem.",
+        "a": "Konstrukcija ar karabīnes aizdari ļauj regulēt garumu visā ķēdītes garumā, nodrošinot ideālu piegulšanu jebkurai figūrai — gan uz vidukļa, gan uz gurniem."
+      },
+      {
+        "q": "Zeltītais spīdums un kristāls var izskatīties pārāk svinīgi.",
+        "a": "Mūsdienu luxury-estētikā šādi aksesuāri bieži tiek izmantoti kontrasta radīšanai ikdienas tēlos, pievienojot izsmalcinātības noti pamata garderobes lietām."
+      },
+      {
+        "q": "Kā saglabāt metāla un akmens sākotnējo izskatu?",
+        "a": "Mēs iesakām uzglabāt izstrādājumu firmas putekļu maisiņā un izvairīties no tieša kontakta ar parfimērijas līdzekļiem. Augstas kvalitātes galvaniskais pārklājums droši aizsargā metālu no tumšanas."
+      },
+      {
+        "q": "Kristāla krāsa (Topāzs) var nepiestāvēt manai krāsu gammai.",
+        "a": "Topāza toni dizaineri izvēlējušies kā vienu no harmoniskākajiem un cēlākajiem. Tas ideāli sader gan ar siltiem bēšiem toņiem, gan ar aukstu zilu vai pelēku trikotāžu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Grandinėlė gali atrodyti per sunki subtiliems audiniams.",
+        "a": "Dėl aliuminio naudojimo kaip pagrindinės medžiagos (85%), diržas yra itin lengvas. Jis švelniai krinta ant liemens, nesudarydamas perteklinės įtampos drabužiams."
+      },
+      {
+        "q": "Sudėtinga parinkti tikslų dydį tokio tipo aksesuarams.",
+        "a": "Konstrukcija su karabino užsegimu leidžia reguliuoti ilgį per visą grandinėlės ilgį, užtikrinant idealų prigludimą prie bet kokios figūros — tiek ant liemens, tiek ant klubų."
+      },
+      {
+        "q": "Auksinis blizgesys ir kristalas gali atrodyti per daug šventiškai.",
+        "a": "Šiuolaikinėje prabangos estetikoje tokie aksesuarai dažnai naudojami kontrastui sukurti kasdieniuose įvaizdžiuose, pridedant rafinuotumo baziniams drabužiams."
+      },
+      {
+        "q": "Kaip išsaugoti pirminę metalo ir akmens išvaizdą?",
+        "a": "Rekomenduojame laikyti gaminį firminiame maišelyje ir vengti tiesioginio kontakto su kvepalais. Aukštos kokybės galvaninė danga patikimai apsaugo metalą nuo patamsėjimo."
+      },
+      {
+        "q": "Kristalo spalva (Topazas) gali netikti prie mano spalvų gamos.",
+        "a": "Topazo atspalvį dizaineriai pasirinko kaip vieną harmoningiausių ir kilniausių. Jis idealiai dera tiek su šiltais smėlio tonais, tiek su šaltu mėlynu ar pilku trikotažu."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Łańcuszek może wydawać się zbyt ciężki dla delikatnych tkanin.",
+        "a": "Dzięki zastosowaniu aluminium jako głównego materiału (85%), pasek posiada minimalną wagę. Miękko układa się na talii, nie obciążając materiału ubrania."
+      },
+      {
+        "q": "Trudności w doborze dokładnego rozmiaru dla tego typu akcesoriów.",
+        "a": "Konstrukcja z zapięciem typu karabińczyk pozwala na regulację długości na całej długości łańcuszka, zapewniając idealne dopasowanie do każdej sylwetki — zarówno w talii, jak i na biodrach."
+      },
+      {
+        "q": "Złocisty blask i kryształ mogą wyglądać zbyt odświętnie.",
+        "a": "We współczesnej luksusowej estetyce takie akcesoria są często wykorzystywane do tworzenia kontrastu w codziennych stylizacjach, dodając nutę wyrafinowania do bazowych elementów garderoby."
+      },
+      {
+        "q": "Jak zachować pierwotny wygląd metalu i kamienia?",
+        "a": "Zalecamy przechowywanie produktu w firmowym woreczku przeciwkurzowym i unikanie bezpośredniego kontaktu z perfumami. Wysokiej jakości powłoka galwaniczna skutecznie chroni metal przed ciemnieniem."
+      },
+      {
+        "q": "Kolor kryształu (Topaz) może nie pasować do mojej palety kolorystycznej.",
+        "a": "Odcień topazu został wybrany przez projektantów jako jeden z najbardziej harmonijnych i szlachetnych. Idealnie łączy się zarówno z ciepłymi odcieniami beżu, jak i z chłodnym niebieskim lub szarym dzianinami."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Ланцюжок може здаватися занадто важким для делікатних тканин.",
+        "a": "Завдяки використанню алюмінію як основного матеріалу (85%), пояс має мінімальну вагу. Він м'яко драпірується на талії, не створюючи зайвого натягу на одязі."
+      },
+      {
+        "q": "Складність у підборі точного розміру для такого типу аксесуарів.",
+        "a": "Конструкція із застібкою-карабіном дозволяє регулювати довжину по всій протяжності ланцюжка, забезпечуючи ідеальну посадку на будь-яку фігуру — як на талії, так і на стегнах."
+      },
+      {
+        "q": "Золотистий блиск і кристал можуть виглядати занадто святково.",
+        "a": "У сучасній luxury-естетиці такі аксесуари часто використовуються для створення контрасту в повсякденних образах, додаючи ноту вишуканості до базових речей."
+      },
+      {
+        "q": "Як зберегти початковий вигляд металу та каміння?",
+        "a": "Ми рекомендуємо зберігати виріб у фірмовому пильовику та уникати прямого контакту з парфумерними засобами. Високоякісне гальванічне покриття надійно захищає метал від потемніння."
+      },
+      {
+        "q": "Колір кристала (Топаз) може не підійти до моєї кольорової гами.",
+        "a": "Відтінок топазу обраний дизайнерами як один із найбільш гармонійних і благородних. Він ідеально поєднується як із теплими бежевими тонами, так і з холодним синім або сірим трикотажем."
+      }
+    ]
+  }
+}

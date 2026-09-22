@@ -1,0 +1,431 @@
+{
+  "id": 164,
+  "name": "Meleti",
+  "description": {
+    "en": "The embodiment of intellectual knitwear style and impeccable Italian comfort: the Meleti pullover from the exclusive Merinfleur line. The model enchants with its architectural simplicity, where the central accent is a noble volcano collar and a delicately wrought textured knit with a central braided motif. A dropped shoulder line lends the silhouette a contemporary ease, while the high-quality virgin wool blend guarantees a soft touch and impeccable thermoregulation, making this piece a true masterpiece for the cold season.",
+    "ru": "Воплощение интеллектуального трикотажного стиля и безупречного итальянского комфорта: пуловер Meleti из эксклюзивной линии Merinfleur. Модель очаровывает своей архитектурной лаконичностью, где центральным акцентом выступает благородный воротник-вулкан и филигранная рельефная вязка с центральным плетеным мотивом. Спущенная линия плеча придает силуэту современную расслабленность, а высококачественная смесь девственной шерсти гарантирует нежное прикосновение и безупречную терморегуляцию, делая это изделие истинным шедевром для холодного сезона.",
+    "ar": "تجسيد لأسلوب التريكو الفكري والراحة الإيطالية التي لا تشوبها شائبة: بلوفر Meleti من خط Merinfleur الحصري. تأسر القطعة بفضل بساطتها المعمارية، حيث يبرز العنصر المركزي المتمثل في الياقة البركانية النبيلة والحياكة البارزة المخرمة مع نمط الضفيرة المركزي. يضفي خط الكتف المنسدل على الصورة الظلية استرخاءً عصرياً، بينما يضمن مزيج الصوف البكر عالي الجودة لمسة ناعمة وتنظيماً حرارياً مثالياً، مما يجعل هذه القطعة تحفة حقيقية لموسم البرد.",
+    "ka": "ინტელექტუალური ნაქსოვი სტილისა და უნაკლო იტალიური კომფორტის განსხეულება: Meleti-ს პულოვერი Merinfleur-ის ექსკლუზიური ხაზიდან. მოდელი ხიბლავს თავისი არქიტექტურული ლაკონიურობით, სადაც მთავარ აქცენტს წარმოადგენს კეთილშობილური ვულკანისებური საყელო და ფილიგრანული რელიეფური ქსოვა ცენტრალური დაწნული მოტივით. მხრის დაშვებული ხაზი სილუეტს თანამედროვე მოდუნებულ იერს ანიჭებს, ხოლო ქალწული მატყლის მაღალი ხარისხის ნაზავი უზრუნველყოფს ნაზ შეხებასა და უნაკლო თერმორეგულაციას, რაც ამ ნაკეთობას ცივი სეზონის ნამდვილ შედევრად აქცევს.",
+    "hy": "Ինտելեկտուալ տրիկոտաժային ոճի և անթերի իտալական հարմարավետության մարմնացում. Meleti պուլովեր՝ Merinfleur բացառիկ հավաքածուից։ Մոդելը հիացնում է իր ճարտարապետական հակիրճությամբ, որտեղ կենտրոնական շեշտադրումը ազնիվ հրաբուխ-օձիքն է և կենտրոնական հյուսված մոտիվով ֆիլիգրան ռելիեֆային հյուսվածքը։ Իջեցված ուսագիծը ուրվագծին հաղորդում է ժամանակակից թուլացած տեսք, իսկ կուսական բրդի բարձրորակ խառնուրդը երաշխավորում է նուրբ հպում և անթերի ջերմակարգավորում՝ այս իրը դարձնելով ցուրտ սեզոնի իսկական գլուխգործոց։",
+    "lv": "Intelektuāla trikotāžas stila un nevainojama itāļu komforta iemiesojums: Meleti pulovers no ekskluzīvās Merinfleur līnijas. Modelis apbur ar savu arhitektonisko lakonismu, kur centrālais akcents ir cēla vulkānveida apkakle un filigrāns reljefa adījums ar centrālo pīto motīvu. Nolaistā plecu līnija piešķir siluetam mūsdienīgu atslābinātību, bet augstas kvalitātes jaunvilnas sajaukums garantē maigu pieskārienu un nevainojamu termoregulāciju, padarot šo izstrādājumu par patiesu šedevru aukstajai sezonai.",
+    "lt": "Intelektualaus trikotažo stiliaus ir nepriekaištingo itališko komforto įsikūnijimas: Meleti megztinis iš išskirtinės Merinfleur linijos. Modelis žavi savo architektūrišku lakoniškumu, kur pagrindiniu akcentu tampa taurus „vulkano“ stiliaus kaklas ir filigraninis reljefinis mezgimas su centriniu pynės motyvu. Nuleista pečių linija suteikia siluetui šiuolaikiško atsipalaidavimo, o aukštos kokybės merino vilnos mišinys garantuoja švelnų prisilietimą ir nepriekaištingą termoreguliaciją, todėl šis gaminys yra tikras šedevras šaltajam sezonui.",
+    "pl": "Ucieleśnienie intelektualnego dzianinowego stylu i nienagannego włoskiego komfortu: sweter Meleti z ekskluzywnej linii Merinfleur. Model zachwyca architektoniczną oszczędnością formy, gdzie głównym akcentem jest szlachetny kołnierz typu „wulkan” oraz kunsztowny, reliefowy splot z centralnym warkoczowym motywem. Obniżona linia ramion nadaje sylwetce nowoczesnego luzu, a wysokiej jakości mieszanka dziewiczej wełny gwarantuje delikatność w dotyku i doskonałą termoregulację, czyniąc ten model prawdziwym arcydziełem na zimny sezon.",
+    "uk": "Втілення інтелектуального трикотажного стилю та бездоганного італійського комфорту: пуловер Meleti з ексклюзивної лінії Merinfleur. Модель зачаровує своєю архітектурною лаконічністю, де центральним акцентом виступає благородний комір-вулкан і філігранна рельєфна в'язка з центральним плетеним мотивом. Спущена лінія плеча надає силуету сучасної розслабленості, а високоякісна суміш незайманої вовни гарантує ніжний дотик і бездоганну терморегуляцію, роблячи цей виріб справжнім шедевром для холодного сезону."
+  },
+  "colors": [
+    {
+      "name": "Celeste",
+      "code": "0620",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1hGKdyecTBqaCk9fqoZ-fw_1206728860696f4369a3c3b5_02291338_02830730XX1.jpg"
+    },
+    {
+      "name": "Marrone",
+      "code": "0970",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/O6mLi2foTByXD_ntjMO28w_111968251696f436a2c6170_84066799_02830740XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Sky Azure)",
+        "ar": "Look 1 (Sky Azure)",
+        "ka": "Look 1 (Sky Azure)",
+        "hy": "Look 1 (Sky Azure)",
+        "lv": "Look 1 (Sky Azure)",
+        "lt": "Look 1 (Sky Azure)",
+        "pl": "Look 1 (Sky Azure)",
+        "uk": "Look 1 (Sky Azure)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Небесная лазурь): Сочетание пуловера Meleti 0620 с кабаном Sigilli 1294 0235 и джинсами Olla 1248. Ансамбль дополняют классическая рубашка Leila 0201 и кепи Renno 0930.",
+        "en": "A combination of the Meleti 0620 pullover with Sigilli 1294 0235 trousers and Olla 1248 jeans. The ensemble is complemented by the Leila 0201 classic shirt and Renno 0930 cap.",
+        "ar": "A combination of the Meleti 0620 pullover with Sigilli 1294 0235 trousers and Olla 1248 jeans. The ensemble is complemented by the Leila 0201 classic shirt and Renno 0930 cap.",
+        "ka": "A combination of the Meleti 0620 pullover with Sigilli 1294 0235 trousers and Olla 1248 jeans. The ensemble is complemented by the Leila 0201 classic shirt and Renno 0930 cap.",
+        "hy": "A combination of the Meleti 0620 pullover with Sigilli 1294 0235 trousers and Olla 1248 jeans. The ensemble is complemented by the Leila 0201 classic shirt and Renno 0930 cap.",
+        "lv": "A combination of the Meleti 0620 pullover with Sigilli 1294 0235 trousers and Olla 1248 jeans. The ensemble is complemented by the Leila 0201 classic shirt and Renno 0930 cap.",
+        "lt": "A combination of the Meleti 0620 pullover with Sigilli 1294 0235 trousers and Olla 1248 jeans. The ensemble is complemented by the Leila 0201 classic shirt and Renno 0930 cap.",
+        "pl": "A combination of the Meleti 0620 pullover with Sigilli 1294 0235 trousers and Olla 1248 jeans. The ensemble is complemented by the Leila 0201 classic shirt and Renno 0930 cap.",
+        "uk": "A combination of the Meleti 0620 pullover with Sigilli 1294 0235 trousers and Olla 1248 jeans. The ensemble is complemented by the Leila 0201 classic shirt and Renno 0930 cap."
+      },
+      "items": [
+        {
+          "name": "Meleti",
+          "code": "0620",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1hGKdyecTBqaCk9fqoZ-fw_1206728860696f4369a3c3b5_02291338_02830730XX1.jpg"
+        },
+        {
+          "name": "Sigilli",
+          "code": "1294 0235",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WzYXb10kQQaRbo3srKWFvA_1873521069696f42f6059416_18779616_02820990XX1.jpg",
+          "modelId": 316
+        },
+        {
+          "name": "Olla",
+          "code": "1248",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1890676542692424d4b4f858_36560463_02781390XX1.jpg",
+          "modelId": 456
+        },
+        {
+          "name": "Leila",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "modelId": 414
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Aristocratic Chestnut)",
+        "ar": "Look 2 (Aristocratic Chestnut)",
+        "ka": "Look 2 (Aristocratic Chestnut)",
+        "hy": "Look 2 (Aristocratic Chestnut)",
+        "lv": "Look 2 (Aristocratic Chestnut)",
+        "lt": "Look 2 (Aristocratic Chestnut)",
+        "pl": "Look 2 (Aristocratic Chestnut)",
+        "uk": "Look 2 (Aristocratic Chestnut)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Аристократичный каштановый): Элегантный дуэт из пуловера Meleti 0970 и брюк Odrisi 3274. Образ завершают лоферы Uramaky 0990, браслет Navigero 0002 и классическая рубашка Leila 0201.",
+        "en": "An elegant duo of the Meleti 0970 pullover and Odrisi 3274 trousers. The look is finished with Uramaky 0990 loafers, Navigero 0002 bracelet and Leila 0201 classic shirt.",
+        "ar": "An elegant duo of the Meleti 0970 pullover and Odrisi 3274 trousers. The look is finished with Uramaky 0990 loafers, Navigero 0002 bracelet and Leila 0201 classic shirt.",
+        "ka": "An elegant duo of the Meleti 0970 pullover and Odrisi 3274 trousers. The look is finished with Uramaky 0990 loafers, Navigero 0002 bracelet and Leila 0201 classic shirt.",
+        "hy": "An elegant duo of the Meleti 0970 pullover and Odrisi 3274 trousers. The look is finished with Uramaky 0990 loafers, Navigero 0002 bracelet and Leila 0201 classic shirt.",
+        "lv": "An elegant duo of the Meleti 0970 pullover and Odrisi 3274 trousers. The look is finished with Uramaky 0990 loafers, Navigero 0002 bracelet and Leila 0201 classic shirt.",
+        "lt": "An elegant duo of the Meleti 0970 pullover and Odrisi 3274 trousers. The look is finished with Uramaky 0990 loafers, Navigero 0002 bracelet and Leila 0201 classic shirt.",
+        "pl": "An elegant duo of the Meleti 0970 pullover and Odrisi 3274 trousers. The look is finished with Uramaky 0990 loafers, Navigero 0002 bracelet and Leila 0201 classic shirt.",
+        "uk": "An elegant duo of the Meleti 0970 pullover and Odrisi 3274 trousers. The look is finished with Uramaky 0990 loafers, Navigero 0002 bracelet and Leila 0201 classic shirt."
+      },
+      "items": [
+        {
+          "name": "Meleti",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/O6mLi2foTByXD_ntjMO28w_111968251696f436a2c6170_84066799_02830740XX1.jpg"
+        },
+        {
+          "name": "Odrisi",
+          "code": "3274",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VOlpN15mQ7-Gfc5_RcvCtQ_552888534696f42e48d4647_09441657_02820600XX1.jpg",
+          "modelId": 241
+        },
+        {
+          "name": "Uramaky",
+          "code": "0990",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky%20nero.PNG"
+        },
+        {
+          "name": "Navigero",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1112265162691c57d765cee8_66461141_02800150XX1.jpg"
+        },
+        {
+          "name": "Leila",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "modelId": 414
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 3 (Urban Layering)",
+        "ar": "Look 3 (Urban Layering)",
+        "ka": "Look 3 (Urban Layering)",
+        "hy": "Look 3 (Urban Layering)",
+        "lv": "Look 3 (Urban Layering)",
+        "lt": "Look 3 (Urban Layering)",
+        "pl": "Look 3 (Urban Layering)",
+        "uk": "Look 3 (Urban Layering)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 3 (Городская многослойность): Тандем пуловера Meleti 0970 под курткой Scanio 2219 0908 в паре с брюками Olivetano 0943 и рубашкой Lucinda 0201.",
+        "en": "A tandem of the Meleti 0970 pullover worn under a Scanio 2219 0908 jacket paired with Olivetano 0943 trousers and Lucinda 0201 shirt.",
+        "ar": "A tandem of the Meleti 0970 pullover worn under a Scanio 2219 0908 jacket paired with Olivetano 0943 trousers and Lucinda 0201 shirt.",
+        "ka": "A tandem of the Meleti 0970 pullover worn under a Scanio 2219 0908 jacket paired with Olivetano 0943 trousers and Lucinda 0201 shirt.",
+        "hy": "A tandem of the Meleti 0970 pullover worn under a Scanio 2219 0908 jacket paired with Olivetano 0943 trousers and Lucinda 0201 shirt.",
+        "lv": "A tandem of the Meleti 0970 pullover worn under a Scanio 2219 0908 jacket paired with Olivetano 0943 trousers and Lucinda 0201 shirt.",
+        "lt": "A tandem of the Meleti 0970 pullover worn under a Scanio 2219 0908 jacket paired with Olivetano 0943 trousers and Lucinda 0201 shirt.",
+        "pl": "A tandem of the Meleti 0970 pullover worn under a Scanio 2219 0908 jacket paired with Olivetano 0943 trousers and Lucinda 0201 shirt.",
+        "uk": "A tandem of the Meleti 0970 pullover worn under a Scanio 2219 0908 jacket paired with Olivetano 0943 trousers and Lucinda 0201 shirt."
+      },
+      "items": [
+        {
+          "name": "Meleti",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/O6mLi2foTByXD_ntjMO28w_111968251696f436a2c6170_84066799_02830740XX1.jpg"
+        },
+        {
+          "name": "Scanio",
+          "code": "2219 0908",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1382076925692424da8dd0a9_52339721_02781580XX1.jpg",
+          "modelId": 475
+        },
+        {
+          "name": "Olivetano",
+          "code": "0943",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qdI5UwLCT1OH3R6NaxIWHg_1650191426696f42e87b11a6_96447037_02820670XX1.jpg",
+          "modelId": 249
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Highlight the fabric: 100% pure virgin wool (lana vergine) guarantees warmth without weight, a key criterion for discerning clients.",
+      "The heraldic LS buttons are a symbol of belonging to an elite fashion house, serving as a powerful visual selling point.",
+      "Versatility: show the client how the open cuff allows blouse or shirt sleeves to peek through, creating a stylish layered look."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на уникальном воротнике-вулкане: эта деталь не только защищает от холода, но и создает выразительную вертикаль, визуально удлиняя шею и подчеркивая статус образа.",
+      "Продемонстрируйте сложную фактурную вязку: центральный переплетенный узор свидетельствует о высоком мастерстве итальянских мастеров Luisa Spagnoli и делает пуловер Meleti самодостаточным акцентом.",
+      "Рекомендуйте модель как идеальную базу для многослойности в эстетике «тихой роскоши»: благодаря спущенному плечу и регулярной посадке, пуловер идеально ложится под наши знаковые кабаны и пальто коллекции."
+    ],
+    "ar": [
+      "سلطي الضوء على الياقة البركانية الفريدة: فهذه التفصيلة لا تحمي من البرد فحسب، بل تخلق خطاً عمودياً معبراً، مما يطيل الرقبة بصرياً ويؤكد على مكانة الإطلالة.",
+      "استعرضي الحياكة المنسوجة المعقدة: فالنمط المتداخل في المركز يشهد على مهارة الحرفيين الإيطاليين في Luisa Spagnoli ويجعل من بلوفر Meleti قطعة مركزية قائمة بذاتها.",
+      "رشيحي الموديل كقاعدة مثالية للطبقات بأسلوب \"الفخامة الهادئة\": بفضل الكتف المنخفض والمقاس المنتظم، ينسدل البلوفر بشكل مثالي تحت معاطفنا الأيقونية ومعاطف المجموعة."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება უნიკალურ ვულკან-საყელოზე: ეს დეტალი არა მხოლოდ იცავს სიცივისგან, არამედ ქმნის გამომსახველ ვერტიკალს, ვიზუალურად აგრძელებს ყელს და ხაზს უსვამს ლუქის სტატუსს.",
+      "წარმოაჩინეთ რთული ფაქტურული ქსოვა: ცენტრალური წნული ნიმუში მოწმობს Luisa Spagnoli-ს იტალიელი ოსტატების მაღალ კვალიფიკაციაზე და Meleti-ს პულოვერს თვითკმარ აქცენტად აქცევს.",
+      "რეკომენდაცია გაუწიეთ მოდელს, როგორც იდეალურ ბაზას „მდუმარე ფუფუნების“ ესთეტიკაში მრავალშრიანობისთვის: ჩამოწეული მხრისა და რეგულარული ჭრის წყალობით, პულოვერი იდეალურად ჯდება ჩვენს საკულტო კაბანებსა და კოლექციის პალტოების ქვეშ."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք եզակի օձիք-հրաբխի վրա. այս դետալը ոչ միայն պաշտպանում է ցրտից, այլև ստեղծում է արտահայտիչ ուղղահայաց գիծ՝ տեսողականորեն երկարացնելով պարանոցը և ընդգծելով կերպարի կարգավիճակը։",
+      "Ցուցադրեք բարդ հյուսվածքը. կենտրոնական հյուսված նախշը վկայում է Luisa Spagnoli-ի իտալացի վարպետների բարձր հմտության մասին և Meleti պուլովերը դարձնում ինքնաբավ շեշտադրում։",
+      "Մոդելն առաջարկեք որպես «հանգիստ շքեղության» էսթետիկայում բազմաշերտության համար իդեալական հիմք. իջեցված ուսի և կանոնավոր ձևվածքի շնորհիվ պուլովերը կատարյալ նստում է մեր նշանավոր վերարկուների և հավաքածուի այլ վերնազգեստների տակ։"
+    ],
+    "lv": [
+      "Akcentējiet klienta uzmanību uz unikālo vulkāna apkakli: šī detaļa ne tikai pasargā no aukstuma, bet arī rada izteiksmīgu vertikāli, vizuāli pagarinot kaklu un pasvītrojot tēla statusu.",
+      "Demonstrējiet sarežģīto faktūras adījumu: centrālais pītais raksts liecina par Luisa Spagnoli itāļu meistaru augsto meistarību un padara Meleti džemperi par pašpietiekamu akcentu.",
+      "Iesakiet modeli kā ideālu bāzi daudzslāņu tēliem «klusās greznības» estētikā: pateicoties nolaistajai plecu līnijai un regulāram piegriezumam, džemperis ideāli klājas zem mūsu ikoniskajām jakām un kolekcijas mēteļiem."
+    ],
+    "lt": [
+      "Акцентируйте внимание клиента на уникальном воротнике-вулкане: эта деталь не только защищает от холода, но и создает выразительную вертикаль, визуально удлиняя шею и подчеркивая статус образа.",
+      "Продемонстрируйте сложную фактурную вязку: центральный переплетенный узор свидетельствует о высоком мастерстве итальянских мастеров Luisa Spagnoli и делает пуловер Meleti самодостаточным акцентом.",
+      "Рекомендуйте модель как идеальную базу для многослойности в эстетике «тихой роскоши»: благодаря спущенному плечу и регулярной посадке, пуловер идеально ложится под наши знаковые кабаны и пальто коллекции."
+    ],
+    "pl": [
+      "Skup uwagę klienta na unikalnym kołnierzu typu „wulkan”: ten detal nie tylko chroni przed chłodem, ale także tworzy wyrazistą linię pionową, optycznie wydłużając szyję i podkreślając status stylizacji.",
+      "Zaprezentuj złożony splot fakturalny: centralny, spleciony wzór świadczy o wysokim kunszcie włoskich mistrzów Luisa Spagnoli i czyni pulower Meleti samodzielnym akcentem.",
+      "Rekomenduj model jako idealną bazę do warstwowości w estetyce „cichego luksusu”: dzięki obniżonej linii ramion i regularnemu dopasowaniu, pulower idealnie układa się pod naszymi ikonicznymi kabaniami i płaszczami z kolekcji."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на унікальному комірі-вулкані: ця деталь не тільки захищає від холоду, а й створює виразну вертикаль, візуально подовжуючи шию та підкреслюючи статус образу.",
+      "Продемонструйте складну фактурну в'язку: центральний переплетений візерунок свідчить про високу майстерність італійських майстрів Luisa Spagnoli і робить пуловер Meleti самодостатнім акцентом.",
+      "Рекомендуйте модель як ідеальну базу для багатошаровості в естетиці «тихої розкоші»: завдяки спущеному плечу та регулярній посадці, пуловер ідеально лягає під наші знакові кабани та пальта колекції."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The composition includes acrylic (30%).",
+        "a": "The addition of a high-technology fibre is essential to preserving the stability and volume of such an intricate textured knit. This guarantees the piece retains its shape and pristine appearance even after repeated cleaning."
+      },
+      {
+        "q": "Wool may cause discomfort or tingling.",
+        "a": "For the Merinfleur line, we use only select, highly refined virgin wool. It is hypoallergenic and has a silky texture, ensuring exceptional softness in contact with the skin."
+      },
+      {
+        "q": "The pullover looks too voluminous.",
+        "a": "The Meleti design is engineered to accentuate the delicacy of the female figure through a play of volumes. The dropped shoulder and ribbed knit create a harmonious silhouette that never weighs the look down."
+      },
+      {
+        "q": "The funnel-neck collar may be uncomfortable when worn with outerwear.",
+        "a": "On the contrary, the softness of the knit allows the collar to drape delicately beneath a coat's lapels or a jacket's collar, providing additional comfort and warmth without the need for a scarf."
+      },
+      {
+        "q": "How should such an intricate knit be cared for?",
+        "a": "We recommend professional dry cleaning. This is an investment in the longevity of your wardrobe, preserving the knit structure and the unique softness of the 100% Merinfleur wool."
+      }
+    ],
+    "ru": [
+      {
+        "q": "В составе изделия присутствует акрил (30%).",
+        "a": "Добавление высокотехнологичного волокна необходимо для сохранения стабильности и объема такой сложной фактурной вязки. Это гарантирует, что изделие сохранит свою форму и первозданный вид даже после многократных чисток."
+      },
+      {
+        "q": "Шерсть может вызывать дискомфорт или покалывание.",
+        "a": "Для линии Merinfleur мы используем только отборную девственную шерсть высочайшей очистки. Она гипоаллергенна и обладает шелковистой текстурой, обеспечивая исключительную мягкость при контакте с кожей."
+      },
+      {
+        "q": "Пуловер выглядит слишком объемным.",
+        "a": "Дизайн Meleti спроектирован так, чтобы подчеркивать хрупкость женской фигуры за счет игры объемов. Спущенное плечо и вязка в рубчик создают гармоничный силуэт, который не утяжеляет образ."
+      },
+      {
+        "q": "Воротник-вулкан может быть неудобен при ношении с верхней одеждой.",
+        "a": "Напротив, мягкость вязки позволяет воротнику деликатно драпироваться под лацканами пальто или воротником куртки, обеспечивая дополнительный комфорт и тепло без использования шарфа."
+      },
+      {
+        "q": "Как ухаживать за таким сложным трикотажем?",
+        "a": "Мы рекомендуем профессиональную сухую чистку. Это инвестиция в долговечность вашего гардероба, которая позволит сохранить структуру плетения и уникальную мягкость 100% шерсти Merinfleur."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يحتوي تركيب القطعة على أكريليك (30%).",
+        "a": "إضافة ألياف عالية التقنية ضرورية للحفاظ على ثبات وحجم هذه الحياكة المنسوجة المعقدة. وهذا يضمن احتفاظ القطعة بشكلها ومظهرها الأصلي حتى بعد عمليات التنظيف المتكررة."
+      },
+      {
+        "q": "قد يسبب الصوف عدم ارتياح أو وخزاً.",
+        "a": "نستخدم في خط Merinfleur الصوف البكر المختار بعناية فائقة النقاء فقط. فهو مضاد للحساسية ويمتاز بملمس حريري، مما يوفر نعومة استثنائية عند ملامسته للجلد."
+      },
+      {
+        "q": "يبدو البلوفر ضخماً جداً.",
+        "a": "صُمم تصميم Meleti ليبرز رقة القوام الأنثوي من خلال التلاعب بالأحجام. الأكتاف المنسدلة والحياكة المضلعة تخلق صورة ظلية متناغمة لا تثقل كاهل الإطلالة."
+      },
+      {
+        "q": "قد تكون الياقة العالية غير مريحة عند ارتدائها مع الملابس الخارجية.",
+        "a": "على العكس تماماً، تسمح نعومة الحياكة للياقة بالانسدال بدقة تحت طية صدر السترة أو طوق الجاكيت، مما يوفر دفئاً وراحة إضافية دون الحاجة لاستخدام وشاح."
+      },
+      {
+        "q": "كيف يتم الاعتناء بهذا التريكو المعقد؟",
+        "a": "نوصي بالتنظيف الجاف الاحترافي. إنه استثمار في متانة خزانة ملابسك، مما يسمح بالحفاظ على هيكل النسيج والنعومة الفريدة لصوف Merinfleur الطبيعي بنسبة 100%."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ნაკეთობის შემადგენლობაში არის აკრილი (30%).",
+        "a": "მაღალტექნოლოგიური ბოჭკოს დამატება აუცილებელია ასეთი რთული ფაქტურული ქსოვის სტაბილურობისა და მოცულობის შესანარჩუნებლად. ეს გარანტიას იძლევა, რომ ნაკეთობა შეინარჩუნებს თავის ფორმას და პირველად იერს მრავალჯერადი წმენდის შემდეგაც კი."
+      },
+      {
+        "q": "შალმა შესაძლოა გამოიწვიოს დისკომფორტი ან ჩხვლეტის შეგრძნება.",
+        "a": "Merinfleur-ის ხაზისთვის ჩვენ ვიყენებთ მხოლოდ რჩეულ, უმაღლესი ხარისხის პირველად შალს. იგი ჰიპოალერგიულია და აქვს აბრეშუმისებრი ტექსტურა, რაც უზრუნველყოფს განსაკუთრებულ სირბილეს კანთან შეხებისას."
+      },
+      {
+        "q": "პულოვერი ზედმეტად მოცულობითი ჩანს.",
+        "a": "Meleti-ის დიზაინი ისეა დაპროექტებული, რომ მოცულობებით თამაშის ხარჯზე ხაზი გაუსვას ქალის ფიგურის სინაზეს. დაშვებული მხარი და ნეკნებიანი ქსოვა ქმნის ჰარმონიულ სილუეტს, რომელიც არ ამძიმებს იერს."
+      },
+      {
+        "q": "საყელო-ვულკანი შესაძლოა მოუხერხებელი იყოს ზედა ტანსაცმელთან ერთად ტარებისას.",
+        "a": "პირიქით, ქსოვის სირბილე საშუალებას აძლევს საყელოს დელიკატურად მოეწყოს პალტოს ლაცკანების ან ქურთუკის საყელოს ქვეშ, რაც უზრუნველყოფს დამატებით კომფორტს და სითბოს შარფის გამოყენების გარეშე."
+      },
+      {
+        "q": "როგორ მოვუაროთ ასეთ რთულ ტრიკოტაჟს?",
+        "a": "ჩვენ გირჩევთ პროფესიონალურ წმენდას. ეს არის ინვესტიცია თქვენი გარდერობის გამძლეობაში, რაც საშუალებას მოგცემთ შეინარჩუნოთ ქსოვის სტრუქტურა და 100%-იანი Merinfleur-ის შალის უნიკალური სირბილე."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Արտադրանքի կազմում առկա է ակրիլ (30%)։",
+        "a": "Բարձրտեխնոլոգիական մանրաթելերի ավելացումն անհրաժեշտ է նման բարդ ֆակտուրային հյուսվածքի կայունությունը և ծավալը պահպանելու համար։ Սա երաշխավորում է, որ արտադրանքը կպահպանի իր ձևը և սկզբնական տեսքը նույնիսկ բազմակի մաքրումներից հետո։"
+      },
+      {
+        "q": "Բուրդը կարող է անհարմարություն կամ ծակծկոց առաջացնել։",
+        "a": "Merinfleur գծի համար մենք օգտագործում ենք միայն ընտիր կուսական բուրդ՝ ամենաբարձր մաքրությամբ։ Այն հիպոալերգեն է և ունի մետաքսանման հյուսվածք՝ ապահովելով բացառիկ փափկություն մաշկի հետ շփման ժամանակ։"
+      },
+      {
+        "q": "Պուլովերը չափազանց ծավալուն է թվում։",
+        "a": "Meleti դիզայնը նախագծված է այնպես, որ ընդգծի կանացի կազմվածքի նրբությունը՝ ծավալների խաղի հաշվին։ Իջեցված ուսը և կողքերի հյուսվածքը ստեղծում են ներդաշնակ սիլուետ, որը չի ծանրացնում կերպարը։"
+      },
+      {
+        "q": "Հրաբուխ-օձիքը կարող է անհարմար լինել վերնահագուստի հետ կրելիս։",
+        "a": "Ընդհակառակը, հյուսվածքի փափկությունը թույլ է տալիս օձիքին նրբորեն դրապիրվել վերարկուի լացկանների կամ բաճկոնի օձիքի տակ՝ ապահովելով լրացուցիչ հարմարավետություն և ջերմություն՝ առանց շարֆի օգտագործման։"
+      },
+      {
+        "q": "Ինչպե՞ս խնամել նման բարդ տրիկոտաժը։",
+        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ քիմմաքրում։ Սա ձեր զգեստապահարանի երկարակեցության մեջ ներդրում է, որը թույլ կտա պահպանել հյուսվածքի կառուցվածքը և 100% Merinfleur բրդի յուրահատուկ փափկությունը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "В составе изделия присутствует акрил (30%).",
+        "a": "Добавление высокотехнологичного волокна необходимо для сохранения стабильности и объема такой сложной фактурной вязки. Это гарантирует, что изделие сохранит свою форму и первозданный вид даже после многократных чисток."
+      },
+      {
+        "q": "Шерсть может вызывать дискомфорт или покалывание.",
+        "a": "Для линии Merinfleur мы используем только отборную девственную шерсть высочайшей очистки. Она гипоаллергенна и обладает шелковистой текстурой, обеспечивая исключительную мягкость при контакте с кожей."
+      },
+      {
+        "q": "Пуловер выглядит слишком объемным.",
+        "a": "Дизайн Meleti спроектирован так, чтобы подчеркивать хрупкость женской фигуры за счет игры объемов. Спущенное плечо и вязка в рубчик создают гармоничный силуэт, который не утяжеляет образ."
+      },
+      {
+        "q": "Воротник-вулкан может быть неудобен при ношении с верхней одеждой.",
+        "a": "Напротив, мягкость вязки позволяет воротнику деликатно драпироваться под лацканами пальто или воротником куртки, обеспечивая дополнительный комфорт и тепло без использования шарфа."
+      },
+      {
+        "q": "Как ухаживать за таким сложным трикотажем?",
+        "a": "Мы рекомендуем профессиональную сухую чистку. Это инвестиция в долговечность вашего гардероба, которая позволит сохранить структуру плетения и уникальную мягкость 100% шерсти Merinfleur."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Gaminio sudėtyje yra akrilo (30%).",
+        "a": "Aukštųjų technologijų pluošto pridėjimas būtinas norint išlaikyti tokio sudėtingo faktūrinio mezgimo stabilumą ir apimtį. Tai garantuoja, kad gaminys išlaikys savo formą ir pirminę išvaizdą net po daugkartinio valymo."
+      },
+      {
+        "q": "Vilna gali kelti diskomfortą ar kutenimą.",
+        "a": "Merinfleur linijai mes naudojame tik atrinktą aukščiausio grynumo pirminę vilną. Ji yra hipoalerginė ir pasižymi šilkine tekstūra, užtikrinančia išskirtinį minkštumą kontaktuojant su oda."
+      },
+      {
+        "q": "Megztinis atrodo per daug tūrinis.",
+        "a": "Meleti dizainas suprojektuotas taip, kad pabrėžtų moteriškos figūros trapumą pasitelkiant apimčių žaismą. Nuleistas petys ir rantuotas mezgimas sukuria harmoningą siluetą, kuris neapsunkina įvaizdžio."
+      },
+      {
+        "q": "Vulkano tipo apykaklė gali būti nepatogi dėvint su viršutiniais drabužiais.",
+        "a": "Priešingai, mezgimo minkštumas leidžia apykaklei subtiliai drapiruotis po palto atlapais ar striukės apykakle, suteikiant papildomo komforto ir šilumos be būtinybės naudoti šaliką."
+      },
+      {
+        "q": "Kaip prižiūrėti tokį sudėtingą trikotažą?",
+        "a": "Rekomenduojame profesionalų sausą valymą. Tai investicija į jūsų garderobo ilgaamžiškumą, kuri leis išsaugoti audimo struktūrą ir unikalų 100% Merinfleur vilnos minkštumą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "W składzie wyrobu obecny jest akryl (30%).",
+        "a": "Dodatek zaawansowanego technologicznie włókna jest niezbędny dla zachowania stabilności i objętości tak złożonego splotu fakturowego. Gwarantuje to, że wyrób zachowa swój kształt i pierwotny wygląd nawet po wielokrotnym czyszczeniu."
+      },
+      {
+        "q": "Wełna może powodować dyskomfort lub kłucie.",
+        "a": "Dla linii Merinfleur używamy wyłącznie wyselekcjonowanej dziewiczej wełny najwyższego oczyszczenia. Jest ona hipoalergiczna i posiada jedwabistą teksturę, zapewniając wyjątkową miękkość przy kontakcie ze skórą."
+      },
+      {
+        "q": "Pulower wygląda na zbyt obszerny.",
+        "a": "Design Meleti zaprojektowano tak, aby podkreślać delikatność kobiecej sylwetki poprzez grę objętości. Obniżona linia ramion i splot w prążek tworzą harmonijną sylwetkę, która nie przytłacza stylizacji."
+      },
+      {
+        "q": "Kołnierz typu wulkan może być niewygodny przy noszeniu z odzieżą wierzchnią.",
+        "a": "Wręcz przeciwnie, miękkość splotu pozwala kołnierzowi delikatnie układać się pod klapami płaszcza lub kołnierzem kurtki, zapewniając dodatkowy komfort i ciepło bez użycia szalika."
+      },
+      {
+        "q": "Jak dbać o tak złożoną dzianinę?",
+        "a": "Zalecamy profesjonalne czyszczenie chemiczne. To inwestycja w trwałość Państwa garderoby, która pozwoli zachować strukturę splotu i unikalną miękkość 100% wełny Merinfleur."
+      }
+    ],
+    "uk": [
+      {
+        "q": "У складі виробу присутній акрил (30%).",
+        "a": "Додавання високотехнологічного волокна необхідне для збереження стабільності та об'єму такої складної фактурної в'язки. Це гарантує, що виріб збереже свою форму та первозданний вигляд навіть після багаторазових чисток."
+      },
+      {
+        "q": "Вовна може викликати дискомфорт або поколювання.",
+        "a": "Для лінії Merinfleur ми використовуємо лише відбірну дівочу вовну найвищої очистки. Вона гіпоалергенна і має шовковисту текстуру, забезпечуючи виняткову м'якість при контакті зі шкірою."
+      },
+      {
+        "q": "Пуловер виглядає надто об'ємним.",
+        "a": "Дизайн Meleti спроєктований так, щоб підкреслювати тендітність жіночої фігури за рахунок гри об'ємів. Спущене плече та в'язка у рубчик створюють гармонійний силует, який не обтяжує образ."
+      },
+      {
+        "q": "Комір-вулкан може бути незручним при носінні з верхнім одягом.",
+        "a": "Навпаки, м'якість в'язки дозволяє коміру делікатно драпіруватися під лацканами пальта або коміром куртки, забезпечуючи додатковий комфорт і тепло без використання шарфа."
+      },
+      {
+        "q": "Як доглядати за таким складним трикотажем?",
+        "a": "Ми рекомендуємо професійну суху чистку. Це інвестиція в довговічність вашого гардероба, яка дозволить зберегти структуру плетіння та унікальну м'якість 100% вовни Merinfleur."
+      }
+    ]
+  }
+}

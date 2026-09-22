@@ -1,0 +1,498 @@
+{
+  "id": 476,
+  "name": "Schedario",
+  "description": {
+    "en": "The Schedario jacket is the quintessence of intellectual elegance and flawless Italian tailoring, the architectural centerpiece of the Luisa Spagnoli collection. Crafted from a noble viscose-blend fabric with a pronounced textured weave (misto viscosa armaturato), which lends the piece depth and sartorial stature. The design is built on a canonical double-breasted cut, which, as interpreted by the house, takes on a contemporary lightness through a gently fitted silhouette (linea leggermente avvitata). Traditional details â€” a breast pocket, classic flap pockets, and horn-effect buttons â€” underscore fidelity to the traditions of 'Quiet Luxury', while the Regular fit guarantees flawless comfort, making this blazer an ideal investment piece for the business and social wardrobe.",
+    "ru": "Жакет Schedario --- это квинтэссенция интеллектуальной элегантности и безупречного итальянского тейлоринга, ставшая архитектурным центром коллекции Luisa Spagnoli. Модель выполнена из благородного смесового вискозного полотна с выраженной фактурной выделкой (misto viscosa armaturato), которая придает изделию глубину и сарториальную стать. Дизайн строится на каноническом двубортном крое, который в прочтении бренда обретает современную легкость благодаря слегка приталенному силуэту (linea leggermente avvitata). Традиционные детали --- нагрудный карман, классические карманы с клапанами и пуговицы с эффектом натурального рога --- подчеркивают верность традициям «Quiet Luxury», а регулярная посадка (vestibilità regular) гарантирует безупречный комфорт, делая этот блейзер идеальным инвестиционным объектом для делового и светского гардероба.",
+    "ar": "تعد سترة Schedario جوهر الأناقة الفكرية والخياطة الإيطالية التي لا تشوبها شائبة، لتصبح المركز المعماري لمجموعة Luisa Spagnoli. صُنعت القطعة من نسيج فسكوز فاخر بملمس بارز (misto viscosa armaturato)، مما يضفي على القطعة عمقاً وهيبة خياطة عالية. يعتمد التصميم على القصّة الكلاسيكية مزدوجة الصدر، التي تكتسب في رؤية العلامة خفة عصرية بفضل خط الخصر المحدد قليلاً (linea leggermente avvitata). التفاصيل التقليدية - جيب الصدر، الجيوب الكلاسيكية ذات القلابات، والأزرار ذات تأثير القرن الطبيعي - تؤكد على الولاء لتقاليد «Quiet Luxury»، بينما يضمن المقاس المعتاد (vestibilità regular) راحة مثالية، مما يجعل هذا البليزر قطعة استثمارية مثالية لخزانة الملابس العملية والرسمية.",
+    "ka": "Жакет Schedario — ეს არის ინტელექტუალური ელეგანტურობისა და უნაკლო იტალიური მკერავის ხელოვნების კვინტესენცია, რომელიც გახდა Luisa Spagnoli-ს კოლექციის არქიტექტურული ცენტრი. მოდელი შესრულებულია კეთილშობილი შერეული ვისკოზის ტილოსგან გამოკვეთილი ფაქტურული დამუშავებით (misto viscosa armaturato), რომელიც ნაკეთობას სიღრმესა და სარტორიულ ღირსებას ანიჭებს. დიზაინი ეფუძნება კანონიკურ ორბორტიან ჭრილს, რომელიც ბრენდის ინტერპრეტაციით იძენს თანამედროვე სიმსუბუქეს ოდნავ შემოტანილი სილუეტის (linea leggermente avvitata) წყალობით. ტრადიციული დეტალები — გულმკერდის ჯიბე, კლასიკური ჯიბეები სარქვლებით და ბუნებრივი რქის ეფექტის მქონე ღილები — ხაზს უსვამს „Quiet Luxury“-ს ტრადიციების ერთგულებას, ხოლო რეგულარული მორგება (vestibilità regular) უზრუნველყოფს უნაკლო კომფორტს, რაც ამ ბლეიზერს იდეალურ საინვესტიციო ობიექტად აქცევს საქმიანი და საერო გარდერობისთვის.",
+    "hy": "Schedario ժակետը ինտելեկտուալ նրբագեղության և անթերի իտալական թեյլորինգի էությունն է, որը դարձել է Luisa Spagnoli հավաքածուի ճարտարապետական կենտրոնը։ Մոդելը պատրաստված է արտահայտված հյուսվածքային մշակմամբ (misto viscosa armaturato) ազնիվ վիսկոզային խառնուրդ գործվածքից, որը արտադրանքին հաղորդում է խորություն և սարտորիալ վեհություն։ Դիզայնը կառուցված է կանոնիկ երկփեղկանի կտրվածքի վրա, որը ապրանքանիշի մեկնաբանմամբ ձեռք է բերում ժամանակակից թեթևություն՝ թեթևակի մարմնին հարմարեցված ուրվագծի (linea leggermente avvitata) շնորհիվ։ Ավանդական դետալները՝ կրծքի գրպանը, փականներով դասական գրպանները և բնական եղջյուրի էֆեկտով կոճակները ընդգծում են «Quiet Luxury» ավանդույթներին հավատարմությունը, իսկ կանոնավոր ձևվածքը (vestibilità regular) երաշխավորում է անթերի հարմարավետություն՝ այս բլեյզերը դարձնելով գործնական և հասարակական զգեստապահարանի համար կատարյալ ներդրումային օբյեկտ։",
+    "lv": "Žakete Schedario --- ir intelektuālas elegances un nevainojamas itāļu drēbniecības mākslas kvintesence, kas kļuvusi par Luisa Spagnoli kolekcijas arhitektonisko centru. Modelis ir izgatavots no cēla viskozes auduma maisījuma ar izteiktu faktūru (misto viscosa armaturato), kas piešķir izstrādājumam dziļumu un sartoriālu staltumu. Dizains ir balstīts uz kanonisko divrindu piegriezumu, kas zīmola izpildījumā iegūst mūsdienīgu vieglumu, pateicoties nedaudz pieglaustajam siluetam (linea leggermente avvitata). Tradicionālās detaļas --- krūšu kabata, klasiskas kabatas ar pārlikām un pogas ar dabīgā raga efektu --- uzsver uzticību «Quiet Luxury» tradīcijām, bet regulārs piegriezums (vestibilità regular) garantē nevainojamu komfortu, padarot šo bleizeru par ideālu investīciju objektu lietišķajai un saviesīgajai garderobei.",
+    "lt": "Žaketas Schedario --- tai intelektualios elegancijos ir nepriekaištingo itališko siuvimo kvintesencija, tapusi architektūriniu Luisa Spagnoli kolekcijos centru. Modelis pagamintas iš kilnaus viskozės mišinio audinio su ryškia faktūrine apdaila (misto viscosa armaturato), suteikiančia gaminiui gylio ir siuvimo grakštumo. Dizainas remiasi kanoniniu dvieiliu kirpimu, kuris prekės ženklo interpretacijoje įgauna šiuolaikinio lengvumo dėl šiek tiek prigludusio silueto (linea leggermente avvitata). Tradicinės detalės --- krūtinės kišenė, klasikinės kišenės su atvartais ir sagos su natūralaus rago efektu --- pabrėžia ištikimybę „Quiet Luxury“ tradicijoms, o reguliarus prigludimas (vestibilità regular) garantuoja nepriekaištingą komfortą, paverčiant šį švarką idealiu investiciniu objektu dalykiniam ir proginiam garderobui.",
+    "pl": "Żakiet Schedario --- to kwintesencja intelektualnej elegancji i bezbłędnego włoskiego krawiectwa, która stała się architektonicznym centrum kolekcji Luisa Spagnoli. Model wykonano ze szlachetnej mieszanej tkaniny wiskozowej o wyraźnej fakturowanej obróbce (misto viscosa armaturato), która nadaje produktowi głębię i krawiecki szyk. Projekt opiera się na klasycznym dwurzędowym kroju, który w interpretacji marki zyskuje nowoczesną lekkość dzięki lekko dopasowanej sylwetce (linea leggermente avvitata). Tradycyjne detale --- brustasza, klasyczne kieszenie z patkami i guziki o efekcie naturalnego rogu --- podkreślają wierność tradycjom „Quiet Luxury”, a regularny krój (vestibilità regular) gwarantuje nieskazitelny komfort, czyniąc ten blezer idealnym obiektem inwestycyjnym dla biznesowej i wizytowej garderoby.",
+    "uk": "Жакет Schedario --- це квінтесенція інтелектуальної елегантності та бездоганного італійського тейлорингу, що стала архітектурним центром колекції Luisa Spagnoli. Модель виконана з благородного сумішевого віскозного полотна з вираженою фактурною обробкою (misto viscosa armaturato), яка надає виробу глибини та сарторіальної стати. Дизайн будується на канонічному двобортному крої, який у прочитанні бренду набуває сучасної легкості завдяки злегка приталеному силуету (linea leggermente avvitata). Традиційні деталі --- нагрудна кишеня, класичні кишені з клапанами та ґудзики з ефектом натурального рогу --- підкреслюють вірність традиціям «Quiet Luxury», а регулярна посадка (vestibilità regular) гарантує бездоганний комфорт, роблячи цей блейзер ідеальним інвестиційним об'єктом для ділового та світського гардероба."
+  },
+  "colors": [
+    {
+      "name": "Beige",
+      "code": "1163",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/981465343691f1565eeadf9_14743025_02780570XX1.jpg"
+    },
+    {
+      "name": "Vinaccia",
+      "code": "2453",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1420033006692424db3acc67_50477509_02781590XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать жакет Schedario как основу для статусных монохромных ансамблей и сложных многослойных образов: Вариант 1163 ( Нейтральный): В lookbook (Look 5): безупречный костюмный ансамбль с брюками в тон Olite 1163.",
+        "en": "The brand's stylists suggest using the Schedario jacket as a foundation for high-status monochromatic ensembles and complex layered looks: Variant 1163 ( Neutral): In the lookbook (Look 5): an impeccable suit ensemble with matching Olite 1163 trousers.",
+        "ar": "The brand's stylists suggest using the Schedario jacket as a foundation for high-status monochromatic ensembles and complex layered looks: Variant 1163 ( Neutral): In the lookbook (Look 5): an impeccable suit ensemble with matching Olite 1163 trousers.",
+        "ka": "The brand's stylists suggest using the Schedario jacket as a foundation for high-status monochromatic ensembles and complex layered looks: Variant 1163 ( Neutral): In the lookbook (Look 5): an impeccable suit ensemble with matching Olite 1163 trousers.",
+        "hy": "The brand's stylists suggest using the Schedario jacket as a foundation for high-status monochromatic ensembles and complex layered looks: Variant 1163 ( Neutral): In the lookbook (Look 5): an impeccable suit ensemble with matching Olite 1163 trousers.",
+        "lv": "The brand's stylists suggest using the Schedario jacket as a foundation for high-status monochromatic ensembles and complex layered looks: Variant 1163 ( Neutral): In the lookbook (Look 5): an impeccable suit ensemble with matching Olite 1163 trousers.",
+        "lt": "The brand's stylists suggest using the Schedario jacket as a foundation for high-status monochromatic ensembles and complex layered looks: Variant 1163 ( Neutral): In the lookbook (Look 5): an impeccable suit ensemble with matching Olite 1163 trousers.",
+        "pl": "The brand's stylists suggest using the Schedario jacket as a foundation for high-status monochromatic ensembles and complex layered looks: Variant 1163 ( Neutral): In the lookbook (Look 5): an impeccable suit ensemble with matching Olite 1163 trousers.",
+        "uk": "The brand's stylists suggest using the Schedario jacket as a foundation for high-status monochromatic ensembles and complex layered looks: Variant 1163 ( Neutral): In the lookbook (Look 5): an impeccable suit ensemble with matching Olite 1163 trousers."
+      },
+      "items": [
+        {
+          "name": "Olite",
+          "code": "1163",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1756645311691c578501f8e2_57865369_02780060XX1.jpg",
+          "modelId": 455
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 14, Bambola 3)",
+        "en": "In displays (Vetrina 14, Bambola 3)",
+        "ar": "In displays (Vetrina 14, Bambola 3)",
+        "ka": "In displays (Vetrina 14, Bambola 3)",
+        "hy": "In displays (Vetrina 14, Bambola 3)",
+        "lv": "In displays (Vetrina 14, Bambola 3)",
+        "lt": "In displays (Vetrina 14, Bambola 3)",
+        "pl": "In displays (Vetrina 14, Bambola 3)",
+        "uk": "In displays (Vetrina 14, Bambola 3)"
+      },
+      "text": {
+        "ru": "многослойный городской выход под кабаном Soppalco 1153 в сочетании с рубашкой Limonaia 1171 и брюками Olite 1163.",
+        "en": "a layered urban outfit worn under a Soppalco 1153 caban combined with a Limonaia 1171 shirt and Olite 1163 trousers.",
+        "ar": "a layered urban outfit worn under a Soppalco 1153 caban combined with a Limonaia 1171 shirt and Olite 1163 trousers.",
+        "ka": "a layered urban outfit worn under a Soppalco 1153 caban combined with a Limonaia 1171 shirt and Olite 1163 trousers.",
+        "hy": "a layered urban outfit worn under a Soppalco 1153 caban combined with a Limonaia 1171 shirt and Olite 1163 trousers.",
+        "lv": "a layered urban outfit worn under a Soppalco 1153 caban combined with a Limonaia 1171 shirt and Olite 1163 trousers.",
+        "lt": "a layered urban outfit worn under a Soppalco 1153 caban combined with a Limonaia 1171 shirt and Olite 1163 trousers.",
+        "pl": "a layered urban outfit worn under a Soppalco 1153 caban combined with a Limonaia 1171 shirt and Olite 1163 trousers.",
+        "uk": "a layered urban outfit worn under a Soppalco 1153 caban combined with a Limonaia 1171 shirt and Olite 1163 trousers."
+      },
+      "items": [
+        {
+          "name": "Soppalco",
+          "code": "1153",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1488849942691c57caedbdf3_57620623_02780430XX1.jpg",
+          "modelId": 329
+        },
+        {
+          "name": "Limonaia",
+          "code": "1171",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIA_117100000000.jpg",
+          "modelId": 416
+        },
+        {
+          "name": "Olite",
+          "code": "1163",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1756645311691c578501f8e2_57865369_02780060XX1.jpg",
+          "modelId": 455
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Интеллектуальный Casual (Vetrina 40, Bambola 3)",
+        "en": "Intellectual Casual (Vetrina 40, Bambola 3)",
+        "ar": "Intellectual Casual (Vetrina 40, Bambola 3)",
+        "ka": "Intellectual Casual (Vetrina 40, Bambola 3)",
+        "hy": "Intellectual Casual (Vetrina 40, Bambola 3)",
+        "lv": "Intellectual Casual (Vetrina 40, Bambola 3)",
+        "lt": "Intellectual Casual (Vetrina 40, Bambola 3)",
+        "pl": "Intellectual Casual (Vetrina 40, Bambola 3)",
+        "uk": "Intellectual Casual (Vetrina 40, Bambola 3)"
+      },
+      "text": {
+        "ru": "сочетание с мягким пуловером Manos 1736 и брюками Olite 1163. Вариант 2453 ( Цветной):",
+        "en": "a combination with a soft Manos 1736 pullover and Olite 1163 trousers. Variant 2453 ( Colored):",
+        "ar": "a combination with a soft Manos 1736 pullover and Olite 1163 trousers. Variant 2453 ( Colored):",
+        "ka": "a combination with a soft Manos 1736 pullover and Olite 1163 trousers. Variant 2453 ( Colored):",
+        "hy": "a combination with a soft Manos 1736 pullover and Olite 1163 trousers. Variant 2453 ( Colored):",
+        "lv": "a combination with a soft Manos 1736 pullover and Olite 1163 trousers. Variant 2453 ( Colored):",
+        "lt": "a combination with a soft Manos 1736 pullover and Olite 1163 trousers. Variant 2453 ( Colored):",
+        "pl": "a combination with a soft Manos 1736 pullover and Olite 1163 trousers. Variant 2453 ( Colored):",
+        "uk": "a combination with a soft Manos 1736 pullover and Olite 1163 trousers. Variant 2453 ( Colored):"
+      },
+      "items": [
+        {
+          "name": "Manos",
+          "code": "1736",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+        },
+        {
+          "name": "Olite",
+          "code": "1163",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1756645311691c578501f8e2_57865369_02780060XX1.jpg",
+          "modelId": 455
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 23)",
+        "en": "In the lookbook (Look 23)",
+        "ar": "In the lookbook (Look 23)",
+        "ka": "In the lookbook (Look 23)",
+        "hy": "In the lookbook (Look 23)",
+        "lv": "In the lookbook (Look 23)",
+        "lt": "In the lookbook (Look 23)",
+        "pl": "In the lookbook (Look 23)",
+        "uk": "In the lookbook (Look 23)"
+      },
+      "text": {
+        "ru": "классическая подиумная пара с широкими брюками Olite 2453.",
+        "en": "a classic runway pair with wide-leg Olite 2453 trousers.",
+        "ar": "a classic runway pair with wide-leg Olite 2453 trousers.",
+        "ka": "a classic runway pair with wide-leg Olite 2453 trousers.",
+        "hy": "a classic runway pair with wide-leg Olite 2453 trousers.",
+        "lv": "a classic runway pair with wide-leg Olite 2453 trousers.",
+        "lt": "a classic runway pair with wide-leg Olite 2453 trousers.",
+        "pl": "a classic runway pair with wide-leg Olite 2453 trousers.",
+        "uk": "a classic runway pair with wide-leg Olite 2453 trousers."
+      },
+      "items": [
+        {
+          "name": "Olite",
+          "code": "2453",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1239459315692424d45defb9_58553134_02781380XX1.jpg",
+          "modelId": 455
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 33, Bambola 2)",
+        "en": "In displays (Vetrina 33, Bambola 2)",
+        "ar": "In displays (Vetrina 33, Bambola 2)",
+        "ka": "In displays (Vetrina 33, Bambola 2)",
+        "hy": "In displays (Vetrina 33, Bambola 2)",
+        "lv": "In displays (Vetrina 33, Bambola 2)",
+        "lt": "In displays (Vetrina 33, Bambola 2)",
+        "pl": "In displays (Vetrina 33, Bambola 2)",
+        "uk": "In displays (Vetrina 33, Bambola 2)"
+      },
+      "text": {
+        "ru": "артистичный сет под роскошной мантией Rivolo 3295 в сочетании с брюками Olite 2453.",
+        "en": "an artistic set under a luxurious Rivolo 3295 mantle combined with Olite 2453 trousers.",
+        "ar": "an artistic set under a luxurious Rivolo 3295 mantle combined with Olite 2453 trousers.",
+        "ka": "an artistic set under a luxurious Rivolo 3295 mantle combined with Olite 2453 trousers.",
+        "hy": "an artistic set under a luxurious Rivolo 3295 mantle combined with Olite 2453 trousers.",
+        "lv": "an artistic set under a luxurious Rivolo 3295 mantle combined with Olite 2453 trousers.",
+        "lt": "an artistic set under a luxurious Rivolo 3295 mantle combined with Olite 2453 trousers.",
+        "pl": "an artistic set under a luxurious Rivolo 3295 mantle combined with Olite 2453 trousers.",
+        "uk": "an artistic set under a luxurious Rivolo 3295 mantle combined with Olite 2453 trousers."
+      },
+      "items": [
+        {
+          "name": "Rivolo",
+          "code": "3295",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b4b9fa4d-aa65-43d6-9097-a5cea3e38070-removebg-preview.png"
+        },
+        {
+          "name": "Olite",
+          "code": "2453",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1239459315692424d45defb9_58553134_02781380XX1.jpg",
+          "modelId": 455
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Статусный образ (Vetrina 34, Bambola 3)",
+        "en": "High-status look (Vetrina 34, Bambola 3)",
+        "ar": "High-status look (Vetrina 34, Bambola 3)",
+        "ka": "High-status look (Vetrina 34, Bambola 3)",
+        "hy": "High-status look (Vetrina 34, Bambola 3)",
+        "lv": "High-status look (Vetrina 34, Bambola 3)",
+        "lt": "High-status look (Vetrina 34, Bambola 3)",
+        "pl": "High-status look (Vetrina 34, Bambola 3)",
+        "uk": "High-status look (Vetrina 34, Bambola 3)"
+      },
+      "text": {
+        "ru": "комбинация с шелковой рубашкой Limonaia 1171 и брюками Olite 2453.",
+        "en": "a combination with a silk Limonaia 1171 shirt and Olite 2453 trousers.",
+        "ar": "a combination with a silk Limonaia 1171 shirt and Olite 2453 trousers.",
+        "ka": "a combination with a silk Limonaia 1171 shirt and Olite 2453 trousers.",
+        "hy": "a combination with a silk Limonaia 1171 shirt and Olite 2453 trousers.",
+        "lv": "a combination with a silk Limonaia 1171 shirt and Olite 2453 trousers.",
+        "lt": "a combination with a silk Limonaia 1171 shirt and Olite 2453 trousers.",
+        "pl": "a combination with a silk Limonaia 1171 shirt and Olite 2453 trousers.",
+        "uk": "a combination with a silk Limonaia 1171 shirt and Olite 2453 trousers."
+      },
+      "items": [
+        {
+          "name": "Limonaia",
+          "code": "1171",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIA_117100000000.jpg",
+          "modelId": 416
+        },
+        {
+          "name": "Olite",
+          "code": "2453",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1239459315692424d45defb9_58553134_02781380XX1.jpg",
+          "modelId": 455
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- Sartorial architecture: Direct the client's attention to the 'armaturato' fabric texture. Explain that this weave not only reads as luxurious, but also beautifully holds the shape of the double-breasted cut, preventing the jacket from losing its form th"
+    ],
+    "ru": [
+      "- Сарториальная архитектура: Акцентируйте внимание клиента на фактуре ткани «armaturato». Объясните, что это плетение не только выглядит дорого, но и великолепно держит форму двубортного кроя, предотвращая деформацию жакета в течение дня. - Секрет стройно"
+    ],
+    "ar": [
+      "- الهندسة السارتورية: ركزي انتباه العميل على ملمس قماش الـ \"armaturato\". اشرحي أن هذا النسيج لا يبدو فاخراً فحسب، بل يحافظ على شكل القصة المزدوجة الصدر بشكل رائع، مما يمنع حدوث أي تشوه في السترة خلال ساعات الارتداء الطويلة. - سر الرشاقة في التصميم المزدوج"
+    ],
+    "ka": [
+      "- სარტორიული არქიტექტურა: ყურადღება გაამახვილეთ კლიენტის იმაზე, თუ როგორია „armaturato“-ს ქსოვილის ფაქტურა. აუხსენით, რომ ეს ქსოვა არა მხოლოდ ძვირადღირებულად გამოიყურება, არამედ შესანიშნავად ინარჩუნებს ორბორტიანი მოდელის ფორმას და ხელს უშლის პიჯაკის დეფორ"
+    ],
+    "hy": [
+      "- Սարտորիալ ճարտարապետություն. Հաճախորդի ուշադրությունը հրավիրեք «armaturato» կտորի հյուսվածքի վրա։ Բացատրեք, որ այս հյուսվածքը ոչ միայն թանկ է երևում, այլև հիանալի պահում է երկկողմանի ձևվածքի (двубортный крой) ձևը՝ կանխելով բաճկոնի դեֆորմացումը օրվա ընթա"
+    ],
+    "lv": [
+      "- Сарториальная архитектура: Акцентируйте внимание клиента на фактуре ткани «armaturato». Объясните, что это плетение не только выглядит дорого, но и великолепно держит форму двубортного кроя, предотвращая деформацию жакета в течение дня. - Секрет стройно"
+    ],
+    "lt": [
+      "- Siuvimo architektūra: Akcentuokite klientui „armaturato“ audinio faktūrą. Paaiškinkite, kad toks pynimas ne tik atrodo prabangiai, bet ir puikiai išlaiko dvieilio kirpimo formą, neleisdamas švarkui deformuotis per dieną. - Lieknumo paslaptis dvieiliame kirpime: Pabrėžkite, kad modelis Schedario turi „šiek tiek prigludusią liniją“. Tai apsaugo dvieilį švarką nuo nereikalingo masyvumo, leidžiant išsaugoti moteriškas proporcijas net ir griežtame biuro stiliuje. - Sluoksniavimo (Layering) daugialypiškumas: Pasiūlykite klientui švarką kaip idealų „vidurinį sluoksnį“. Pademonstruokite Vetrina 14, kur Schedario dėvimas po „cabane“ Soppalco --- tai įrodo, kad modelis yra pakankamai plastiškas sudėtingų žieminių įvaizdžių kūrimui neprarandant komforto."
+    ],
+    "pl": [
+      "- Krawiecka architektura: Zwróć uwagę klientki na fakturę tkaniny «armaturato». Wyjaśnij, że ten splot nie tylko wygląda szlachetnie, ale także doskonale utrzymuje formę dwurzędowego kroju, zapobiegając deformacji żakietu w ciągu dnia. - Sekret smukłości"
+    ],
+    "uk": [
+      "- Сарторіальна архітектура: Акцентуйте увагу клієнта на фактурі тканини «armaturato». Поясніть, що це плетіння не тільки виглядає дорого, але й чудово тримає форму двобортного крою, запобігаючи деформації жакета протягом дня. - Секрет стрункості у двоборт"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Двубортные Напротив, легкая приталенность (linea leggermente жакеты обычно avvitata) и вертикаль пуговиц в модели полнят",
+        "a": "Schedario визуально собирают силуэт, создавая стройный и собранный образ."
+      },
+      {
+        "q": "Вискоза в Данное полотно имеет специальную фактурную выделку составе может (armaturato), которая делает ткань более мяться",
+        "a": "стабильной и устойчивой к сминанию по сравнению с гладкими материалами."
+      },
+      {
+        "q": "Жакет выглядит Продемонстрируйте Vetrina 40: в сочетании с слишком трикотажем Manos и широкими брюками жакет официально",
+        "a": "мгновенно переходит в разряд расслабленного стиля Business Casual."
+      },
+      {
+        "q": "Пуговицы под Это ключевой элемент стиля «Heritage",
+        "a": ". Такие детали рог выглядят подчеркивают аутентичность и благородство материалов, простовато» переводя изделие в категорию вневременной классики."
+      },
+      {
+        "q": "Сложно Идеальным решением станет «Total Look",
+        "a": "с брюками подобрать низ к Olite, выполненными из той же ткани. Это готовая такой фактуре» формула безупречного стиля, предложенная нашими дизайнерами."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Двубортные Напротив, легкая приталенность (linea leggermente жакеты обычно avvitata) и вертикаль пуговиц в модели полнят",
+        "a": "Schedario визуально собирают силуэт, создавая стройный и собранный образ."
+      },
+      {
+        "q": "Вискоза в Данное полотно имеет специальную фактурную выделку составе может (armaturato), которая делает ткань более мяться",
+        "a": "стабильной и устойчивой к сминанию по сравнению с гладкими материалами."
+      },
+      {
+        "q": "Жакет выглядит",
+        "a": "Продемонстрируйте Vetrina 40: в сочетании с слишком трикотажем Manos и широкими брюками жакет официально мгновенно переходит в разряд расслабленного стиля Business Casual."
+      },
+      {
+        "q": "Пуговицы под Это ключевой элемент стиля «Heritage",
+        "a": ". Такие детали рог выглядят подчеркивают аутентичность и благородство материалов, простовато» переводя изделие в категорию вневременной классики."
+      },
+      {
+        "q": "Сложно Идеальным решением станет «Total Look",
+        "a": "с брюками подобрать низ к Olite, выполненными из той же ткани. Это готовая такой фактуре» формула безупречного стиля, предложенная нашими дизайнерами."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الجاكيتات مزدوجة الصدر عادة ما تزيد الوزن",
+        "a": "على العكس، الخصر الخفيف (linea leggermente avvitata) وخط الأزرار العمودي في موديل Schedario يجمع القوام بصرياً، مما يخلق مظهراً نحيفاً ومتناسقاً."
+      },
+      {
+        "q": "الفيسكوز في التركيبة قد يتجعد",
+        "a": "هذا القماش يتمتع بمعالجة هيكلية خاصة (armaturato)، مما يجعل النسيج أكثر استقراراً ومقاومة للتجعد مقارنة بالمواد الملساء."
+      },
+      {
+        "q": "الجاكيت يبدو رسمياً جداً",
+        "a": "اعرض Vetrina 40: عند دمجه مع تريكو Manos وسراويل واسعة ينتقل الجاكيت فوراً إلى فئة الأناقة المريحة (Business Casual)."
+      },
+      {
+        "q": "أزرار قرن الحيوان تبدو بسيطة",
+        "a": "هذا عنصر أساسي في أسلوب."
+      },
+      {
+        "q": "Heritage",
+        "a": ". هذه التفاصيل تؤكد على أصالة ونبل المواد، ناقلة القطعة إلى فئة الكلاسيكيات الخالدة."
+      },
+      {
+        "q": "من الصعب اختيار قطعة سفلية لمثل هذه الخامة",
+        "a": "الحل المثالي سيكون."
+      },
+      {
+        "q": "Total Look",
+        "a": "مع سراويل Olite، المصنوعة من نفس القماش. إنها وصفة جاهزة للأناقة المثالية التي يقترحها مصممونا."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ორბორტიანი ჟაკეტები ჩვეულებრივ მსუქანს აჩენს",
+        "a": "პირიქით, მსუბუქი შემოტანილობა (linea leggermente avvitata) და ღილების ვერტიკალი მოდელში Schedario ვიზუალურად კრავს სილუეტს, ქმნის გამხდარ და შეკრულ იმიჯს."
+      },
+      {
+        "q": "ვისკოზა შემადგენლობაში შეიძლება დაჭმუჭნოს",
+        "a": "ამ ტილოზე არსებობს სპეციალური ფაქტურული დამუშავება (armaturato), რომელიც ქსოვილს უფრო სტაბილურს და დაჭმუჭვნისადმი მდგრადს ხდის გლუვ მასალებთან შედარებით."
+      },
+      {
+        "q": "ჟაკეტი ზედმეტად ოფიციალურად გამოიყურება",
+        "a": "წარმოადგინეთ Vetrina 40: Manos-ის ტრიკოტაჟთან და ფართო შარვალთან ერთად ჟაკეტი მომენტალურად გადადის Business Casual-ის მოდუნებული სტილის კატეგორიაში."
+      },
+      {
+        "q": "რქის მსგავსი ღილები ზედმეტად მარტივად გამოიყურება",
+        "a": "ეს."
+      },
+      {
+        "q": "Heritage",
+        "a": "-ის სტილის საკვანძო ელემენტია. ასეთი დეტალები ხაზს უსვამს მასალების ავთენტურობასა და კეთილშობილებას, რაც ნაკეთობას მარადიული კლასიკის კატეგორიაში გადაიყვანს."
+      },
+      {
+        "q": "ძნელია ასეთი ფაქტურისთვის ქვედა ნაწილის შეხამება",
+        "a": "იდეალური გადაწყვეტა იქნება."
+      },
+      {
+        "q": "Total Look",
+        "a": "შარვალ Olite-სთან ერთად, რომელიც იმავე ქსოვილისგანაა დამზადებული. ეს უნაკლო სტილის მზა ფორმულაა, რომელიც შემოთავაზებულია ჩვენი დიზაინერების მიერ."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Երկկողմանի Ընդհակառակը, թեթև մարմնակազմվածքը (linea leggermente բաճկոնները սովորաբար ավելացնում են քաշ",
+        "a": "avvitata) և կոճակների ուղղահայացը Schedario մոդելում տեսողականորեն հավաքում են սիլուետը՝ ստեղծելով նիհար և հավաքված կերպար։."
+      },
+      {
+        "q": "Վիսկոզան կազմի Այս կտորն ունի հատուկ նախշավոր մշակում մեջ կարող է կնճռոտվել",
+        "a": "(armaturato), որը կտորն ավելի կայուն և դիմացկուն է դարձնում կնճռոտման նկատմամբ՝ համեմատած հարթ նյութերի հետ։."
+      },
+      {
+        "q": "Բաճկոնը թվում է",
+        "a": "Ցուցադրեք Vetrina 40-ը՝ Manos տրիկոտաժի և լայն չափազանց պաշտոնական տաբատների հետ համադրությամբ բաճկոնը ակնթարթորեն անցնում է Business Casual հանգիստ ոճի կատեգորիա։."
+      },
+      {
+        "q": "Եղջյուրից պատրաստված Սա «Heritage",
+        "a": "ոճի հիմնական տարրն է։ Նման կոճակները թվում են պարզունակ» դետալները ընդգծում են նյութերի իսկությունը և ազնվությունը՝ արտադրանքը տեղափոխելով հավերժական դասականի կատեգորիա։."
+      },
+      {
+        "q": "Դժվար է ընտրել ներքևի մասը նման հյուսվածքին",
+        "a": "Իդեալական լուծում կդառնա."
+      },
+      {
+        "q": "Total Look",
+        "a": "-ը նույն կտորից պատրաստված Olite տաբատների հետ։ Սա մեր դիզայներների կողմից առաջարկված անթերի ոճի պատրաստի բանաձևն է։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Divrindu jakas parasti padara resnāku",
+        "a": "Gluži pretēji, viegla iešūšana (linea leggermente avvitata) un pogu vertikāle modelī Schedario vizuāli savāc siluetu, radot slaidu un sakārtotu tēlu."
+      },
+      {
+        "q": "Viskoze sastāvā var burzīties",
+        "a": "Šim audumam ir speciāla faktūras apdare (armaturato), kas padara to stabilāku un noturīgāku pret burzīšanos salīdzinājumā ar gludiem materiāliem."
+      },
+      {
+        "q": "Jaka izskatās pārāk oficiāli",
+        "a": "Demonstrējiet Vetrina 40: kombinācijā ar trikotāžu Manos un platām biksēm jaka uzreiz pāriet Business Casual stila kategorijā."
+      },
+      {
+        "q": "Raga imitācijas pogas izskatās vienkārši",
+        "a": "Tas ir."
+      },
+      {
+        "q": "Heritage",
+        "a": "stila galvenais elements. Šādas detaļas uzsver materiālu autentiskumu un cēlumu, paceļot izstrādājumu mūžīgās klasikas kategorijā."
+      },
+      {
+        "q": "Grūti piemeklēt apakšdaļu šādai faktūrai",
+        "a": "Ideāls risinājums būs."
+      },
+      {
+        "q": "Total Look",
+        "a": "ar biksēm Olite, kas izgatavotas no tā paša auduma. Tā ir mūsu dizaineru piedāvātā nevainojama stila gatavā formula."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Dvigubi švarkai paprastai storina“ Priešingai, lengvas liemenuotumas (linea leggermente avvitata) ir sagų vertikalė Schedario modelyje vizualiai surenka siluetą, sukurdami liekną ir tvarkingą įvaizdį. „Viskozė sudėtyje gali glamžytis“ Šis audinys turi specialų faktūrinį apdirbimą (armaturato), kuris daro audinį stabilesnį ir atsparesnį glamžymuisi, lyginant su lygiais audiniais. „Švarkas atrodo per daug oficialiai",
+        "a": "Pademonstruokite Vetrina 40: derinyje su trikotažu Manos ir plačiomis kelnėmis švarkas akimirksniu pereina į atpalaiduotą Business Casual stilių. „Rago imitacijos sagos atrodo per paprastai“ Tai pagrindinis „Heritage“ stiliaus elementas. Tokios detalės pabrėžia medžiagų autentiškumą ir kilnumą, perkeldamos gaminį į nesenstančios klasikos kategoriją. „Sunku parinkti apačią prie tokios faktūros“ Idealiu sprendimu taps „Total Look“ su kelnėmis Olite, pagamintomis iš to paties audinio. Tai mūsų dizainerių pasiūlyta nepriekaištingo stiliaus formulė."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Dwurzędowe żakiety zazwyczaj pogrubiają",
+        "a": ". Wręcz przeciwnie, lekkie dopasowanie (linea leggermente avvitata) i pion guzików w modelu Schedario optycznie zbierają sylwetkę, tworząc smukły i uporządkowany wygląd."
+      },
+      {
+        "q": "Wiskoza w składzie może się gnieść",
+        "a": ". Ta tkanina posiada specjalną fakturową obróbkę (armaturato), która czyni materiał bardziej stabilnym i odpornym na gniecenie w porównaniu z gładkimi tkaninami."
+      },
+      {
+        "q": "Żakiet wygląda zbyt oficjalnie",
+        "a": ". Zaprezentuj Vetrina 40: w połączeniu z dzianiną Manos i szerokimi spodniami żakiet błyskawicznie przechodzi do kategorii swobodnego stylu Business Casual."
+      },
+      {
+        "q": "Guziki imitujące róg wyglądają zbyt prosto",
+        "a": ". To kluczowy element stylu."
+      },
+      {
+        "q": "Heritage",
+        "a": ". Takie detale podkreślają autentyczność i szlachetność materiałów, przenosząc produkt do kategorii ponadczasowej klasyki."
+      },
+      {
+        "q": "Trudno dobrać dół do takiej faktury",
+        "a": ". Idealnym rozwiązaniem będzie."
+      },
+      {
+        "q": "Total Look",
+        "a": "ze spodniami Olite, wykonanymi z tej samej tkaniny. To gotowa formuła nienagannego stylu, zaproponowana przez naszych projektantów."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Двобортні Навпаки, легка приталеність (linea leggermente жакети зазвичай avvitata) та вертикаль ґудзиків у моделі повнять",
+        "a": "Schedario візуально збирають силует, створюючи стрункий та зібраний образ."
+      },
+      {
+        "q": "Віскоза у Дане полотно має спеціальну фактурну вичинку складі може (armaturato), яка робить тканину більш зминатися",
+        "a": "стабільною та стійкою до зминання порівняно з гладкими матеріалами."
+      },
+      {
+        "q": "Жакет виглядає",
+        "a": "Продемонструйте Vetrina 40: у поєднанні з занадто трикотажем Manos та широкими штанами жакет офіційно миттєво переходить у розряд розслабленого стилю Business Casual."
+      },
+      {
+        "q": "Ґудзики під Це ключовий елемент стилю «Heritage",
+        "a": ". Такі деталі ріг виглядають підкреслюють автентичність та благородство матеріалів, простовато» переводячи виріб у категорію позачасової класики."
+      },
+      {
+        "q": "Складно Ідеальним рішенням стане «Total Look",
+        "a": "зі штанами підібрати низ до Olite, виконаними з тієї ж тканини. Це готова такої фактури» формула бездоганного стилю, запропонована нашими дизайнерами."
+      }
+    ]
+  }
+}

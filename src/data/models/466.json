@@ -1,0 +1,304 @@
+{
+  "id": 466,
+  "name": "Ortiga",
+  "description": {
+    "en": "The Ortiga 3261 trousers are the embodiment of contemporary 'Power Dressing' in the Luisa Spagnoli aesthetic, where classic sartorial discipline meets exceptional comfort. Crafted from high-tech stretch viscose (viscosa stretch), ensuring a flawless fit and freedom of movement throughout the day. The fabric's surface is adorned with a graphic pinstripe motif (disegno gessato), which lends the look a dynamic rhythm and aristocratic restraint. The piece's design is oriented toward creating an architecturally precise vertical line, transforming a traditional business wardrobe staple into a symbol of feminine confidence and elevated style.",
+    "ru": "Брюки Ortiga 3261 --- это воплощение современного «Power Dressing» в эстетике Luisa Spagnoli, где классическая сарториальная строгость встречается с исключительным комфортом. Модель выполнена из высокотехнологичной эластичной вискозы (viscosa stretch), которая обеспечивает безупречную посадку по фигуре и свободу движений в течение всего дня. Поверхность ткани украшена графичным рисунком в тонкую полоску (disegno gessato), который задает образу динамичный ритм и аристократичную сдержанность. Дизайн модели ориентирован на создание архитектурно выверенной вертикали, превращая традиционный деловой элемент гардероба в символ женской уверенности и высокого стиля.",
+    "ar": "بنطال Ortiga 3261 هو تجسيد لـ «Power Dressing» المعاصر بجماليات Luisa Spagnoli، حيث تلتقي الصرامة التيلورية الكلاسيكية بالراحة الاستثنائية. الموديل مصنوع من الفسكوز المطاطي عالي التقنية (viscosa stretch)، الذي يضمن مقاساً مثالياً يتبع شكل الجسم وحرية الحركة طوال اليوم. سطح القماش مزين بنقشة مخططة دقيقة (disegno gessato)، تضفي على الإطلالة إيقاعاً ديناميكياً وتحفظاً أرستقراطياً. يركز تصميم الموديل على خلق خط رأسي دقيق هندسياً، محولاً عنصراً تقليدياً في خزانة الملابس الرسمية إلى رمز للثقة النسائية والأسلوب الرفيع.",
+    "ka": "Ortiga 3261 შარვალი --- ეს არის თანამედროვე „Power Dressing“-ის განსახიერება Luisa Spagnoli-ს ესთეტიკაში, სადაც კლასიკური სარტორიალური სიმკაცრე ხვდება განსაკუთრებულ კომფორტს. მოდელი დამზადებულია მაღალტექნოლოგიური ელასტიური ვისკოზისგან (viscosa stretch), რომელიც უზრუნველყოფს ფიგურაზე უნაკლო მორგებას და მოძრაობის თავისუფლებას მთელი დღის განმავლობაში. ქსოვილის ზედაპირი გაფორმებულია წვრილ ზოლებში გადაწყვეტილი გრაფიკული ნახატით (disegno gessato), რომელიც იმიჯს ანიჭებს დინამიურ რიტმს და არისტოკრატულ თავშეკავებულობას. მოდელის დიზაინი ორიენტირებულია არქიტექტურულად გამართული ვერტიკალის შექმნაზე, რაც გარდერობის ტრადიციულ საქმიან ელემენტს აქცევს ქალური თავდაჯერებულობისა და მაღალი სტილის სიმბოლოდ.",
+    "hy": "Ortiga 3261 տաբատը ժամանակակից «Power Dressing»-ի մարմնացումն է Luisa Spagnoli-ի էսթետիկայում, որտեղ դասական սարտորիալ խստությունը հանդիպում է բացառիկ հարմարավետությանը։ Մոդելը պատրաստված է բարձրտեխնոլոգիական առաձգական վիսկոզայից (viscosa stretch), որն ապահովում է անթերի նստվածք կազմվածքի վրա և շարժման ազատություն ողջ օրվա ընթացքում։ Գործվածքի մակերեսը զարդարված է նուրբ գծավոր գրաֆիկական նախշով (disegno gessato), որը կերպարին հաղորդում է դինամիկ ռիթմ և արիստոկրատական զսպվածություն։ Մոդելի դիզայնը կողմնորոշված է ճարտարապետորեն հստակ ուղղահայաց գծի ստեղծմանը՝ վերածելով զգեստապահարանի ավանդական գործնական տարրը կանացի վստահության և բարձր ոճի խորհրդանիշի։",
+    "lv": "Ortiga 3261 bikses --- tas ir mūsdienu «Power Dressing» iemiesojums Luisa Spagnoli estētikā, kur klasiskā sartoriālā stingrība satiekas ar izcilu komfortu. Modelis ir izgatavots no augsto tehnoloģiju elastīgas viskozes (viscosa stretch), kas nodrošina nevainojamu piegulumu augumam un kustību brīvību visas dienas garumā. Auduma virsmu rotā grafisks smalkas strīpiņas raksts (disegno gessato), kas tēlam piešķir dinamisku ritmu un aristokrātisku atturību. Modeļa dizains ir vērsts uz arhitektoniski izsvērtas vertikāles radīšanu, pārvēršot tradicionālo lietišķā garderobes elementu par sieviešu pārliecības un augsta stila simbolu.",
+    "lt": "Kelnės Ortiga 3261 --- tai šiuolaikinio „Power Dressing“ įkūnijimas Luisa Spagnoli estetikoje, kur klasikinis sartorialus griežtumas susitinka su išskirtiniu patogumu. Modelis pagamintas iš aukštųjų technologijų elastinės viskozės (viscosa stretch), kuri užtikrina nepriekaištingą prigludimą prie figūros ir judesių laisvę visą dieną. Audinio paviršių puošia grafiškas smulkaus dryželio raštas (disegno gessato), kuris įvaizdžiui suteikia dinamišką ritmą ir aristokratišką santūrumą. Modelio dizainas orientuotas į architektūriškai tikslios vertikalės sukūrimą, paverčiant tradicinį dalykinio garderobo elementą moteriško pasitikėjimo ir aukšto stiliaus simboliu.",
+    "pl": "Spodnie Ortiga 3261 --- to ucieleśnienie nowoczesnego „Power Dressing” w estetyce Luisa Spagnoli, gdzie klasyczna krawiecka surowość spotyka się z wyjątkowym komfortem. Model wykonany z zaawansowanej technologicznie elastycznej wiskozy (viscosa stretch), która zapewnia nienaganne dopasowanie do figury i swobodę ruchów przez cały dzień. Powierzchnię tkaniny zdobi graficzny wzór w delikatne paski (disegno gessato), który nadaje wizerunkowi dynamiczny rytm i arystokratyczną powściągliwość. Projekt modelu koncentruje się na stworzeniu architektonicznie wyważonej linii pionowej, zmieniając tradycyjny element biznesowej garderoby w symbol kobiecej pewności siebie i wysokiego stylu.",
+    "uk": "Брюки Ortiga 3261 --- це втілення сучасного «Power Dressing» в естетиці Luisa Spagnoli, де класична сарторіальна строгість зустрічається з винятковим комфортом. Модель виконана з високотехнологічної еластичної віскози (viscosa stretch), яка забезпечує бездоганну посадку по фігурі та свободу рухів протягом усього дня. Поверхня тканини прикрашена графічним малюнком у тонку смужку (disegno gessato), який задає образу динамічний ритм і аристократичну стриманість. Дизайн моделі орієнтований на створення архітектурно вивіреної вертикалі, перетворюючи традиційний діловий елемент гардероба на символ жіночої впевненості та високого стилю."
+  },
+  "colors": [
+    {
+      "name": "Var Gess.Blu Notte",
+      "code": "3261",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/84252206691c578561a766_94450101_02780080XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда позиционируют модель как центральный элемент строгого костюмного ансамбля: Вариант 3261 (Gessato): В lookbook (Look 14): каноническое сочетание «костюм-двойка» с двубортным блейзером в тон Stafilo 3261.",
+        "en": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "ar": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "ka": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "hy": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "lv": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "lt": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "pl": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "uk": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant."
+      },
+      "items": [
+        {
+          "name": "Stafilo",
+          "code": "3261",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/746502062691c578981c1c3_14675480_02780170XX1.jpg",
+          "modelId": 491
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда позиционируют модель как центральный элемент строгого костюмного ансамбля: Вариант 3261 (Gessato): В lookbook (Look 14): каноническое сочетание «костюм-двойка» с двубортным блейзером в тон Stafilo 3261.",
+        "en": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "ar": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "ka": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "hy": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "lv": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "lt": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "pl": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant.",
+        "uk": "The brand's stylists position the model as a central element of a strict suit ensemble: Variant 3261 (Pinstripe): - In lookbook (Look 14): a canonical \"two-piece suit\" combination with the matching Stafilo 3261 double-breasted blazer. - In showrooms: Data on the use of the Ortiga 3261 model in mannequin displays is missing from official sources. *Note:* According to the brand's commercial note, for retail sale, instead of the Ortiga model from the photoshoot, a model with a similar fit and fabric will be supplied --- the classic Odorico variant."
+      },
+      "items": [
+        {
+          "name": "Ortiga",
+          "code": "3261",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/84252206691c578561a766_94450101_02780080XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The graphics of silhouette: Direct the client's attention to the 'gessato' pattern. The vertical pinstripe is a time-tested tool of visual correction that instantly elongates the silhouette, adding height and composure. - Intelligent comfort: Highlight"
+    ],
+    "ru": [
+      "- Графика силуэта: Акцентируйте внимание клиента на рисунке «gessato». Вертикальная полоска --- это проверенный инструмент визуальной коррекции, который мгновенно вытягивает силуэт, добавляя роста и статичности. - Интеллектуальный комфорт: Подчеркните пре"
+    ],
+    "ar": [
+      "- جرافيك القوام: ركزي انتباه العميل على نقشة «gessato». الخطوط الطولية هي أداة مثبتة للتصحيح البصري، حيث تعمل على إطالة القوام فوراً، مما يضفي طولاً وتوازناً. - الراحة الذكية: أكدي على مزايا تركيبة «viscosa stretch». على عكس أقمشة البدلات القاسية، فإن هذه"
+    ],
+    "ka": [
+      "- სილუეტის გრაფიკა: ყურადღება გაამახვილეთ კლიენტის მხრიდან «gessato»-ს ნახატზე. ვერტიკალური ზოლი --- ეს არის ვიზუალური კორექციის დადასტურებული ინსტრუმენტი, რომელიც მომენტალურად აგრძელებს სილუეტს, მატებს სიმაღლესა და სტატიკურობას. - ინტელექტუალური კომფორტი"
+    ],
+    "hy": [
+      "- Ուրվագծի գրաֆիկա. Շեշտադրեք հաճախորդի ուշադրությունը «gessato» նախշի վրա: Ուղղահայաց գիծը վիզուալ շտկման ստուգված գործիք է, որն ակնթարթորեն երկարացնում է ուրվագիծը՝ ավելացնելով հասակ և պաշտոնական տեսք: - Ինտելեկտուալ հարմարավետություն. Ընդգծեք viscosa s"
+    ],
+    "lv": [
+      "- Silueta grafika: Akcentējiet klienta uzmanību uz «gessato» rakstu. Vertikālā svītra --- tas ir pārbaudīts vizuālās korekcijas rīks, kas acumirklī izstiepj siluetu, piešķirot garumu un statiskumu. - Intelektuālais komforts: Uzsveriet viscosa stretch sast"
+    ],
+    "lt": [
+      "- Silueto grafika: atkreipkite kliento dėmesį į „gessato“ raštą. Vertikali juostelė --- tai patikrintas vizualios korekcijos įrankis, kuris akimirksniu ištęsia siluetą, suteikdamas ūgio ir statikos. - Intelektualus komfortas: pabrėžkite „viscosa stretch“ sudėties privalumus. Priešingai nei standūs kostiuminiai audiniai, ši medžiaga „kvėpuoja“ ir prisitaiko prie kūno linkių, todėl kelnės yra idealus pasirinkimas ilgoms darbo kelionėms ir skrydžiams. - Investicija į „Total Look“: rekomenduokite įsigyti kartu su švarku Stafilo 3261. Kostiumas dryžuotu raštu --- tai nesenstanti klasika, transliuojanti statusą ir profesionalumą, išliekanti aktuali nepriklausomai nuo sezoninių tendencijų."
+    ],
+    "pl": [
+      "- Grafika sylwetki: Zwróć uwagę klientki na wzór «gessato». Pionowy prążek --- to sprawdzone narzędzie wizualnej korekcji, które natychmiast wydłuża sylwetkę, dodając wzrostu i posągowości. - Intelektualny komfort: Podkreśl zalety składu viscosa stretch."
+    ],
+    "uk": [
+      "- Графіка силуету: Акцентуйте увагу клієнта на малюнку «gessato». Вертикальна смужка --- це перевірений інструмент візуальної корекції, який миттєво витягує силует, додаючи зросту та статичності. - Інтелектуальний комфорт: Підкресліть переваги складу visc"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Denim looks too casual.",
+        "a": "Point to the sartorial details: the fitted cut and the signature LS buttons. Paired with the white Lucinda 0201 shirt, the vest takes on a dressy, status-defining character. |"
+      },
+      {
+        "q": "The vest might fit too snugly.",
+        "a": "The piece has a Regular fit, ensuring freedom of movement. You can easily adjust the fit using the back martingale strap. |"
+      },
+      {
+        "q": "It's difficult to find a bottom to pair with the vest.",
+        "a": "The house's designers recommend the perfect pairing — the Onirico 1224 trousers. A Total Denim Look is one of the season's leading trends, projecting a confident style. |"
+      },
+      {
+        "q": "The fabric feels too stiff.",
+        "a": "The high-quality cotton used in Luisa Spagnoli pieces undergoes special treatment, ensuring softness while preserving the piece's architectural shape. |"
+      },
+      {
+        "q": "This piece is only suited to warm weather.",
+        "a": "On the contrary, see the styling in Display Case 87: the vest is a key element of winter layering, securely trapping warmth between the shirt and a warm parka."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Полоска выглядит",
+        "a": "Предложите разбавить строгость трикотажем. Брюки слишком Ortiga 3261 в сочетании с мягким пуловером официально Manos (как показано в других сетах коллекции) превращаются в элемент расслабленного стиля Business Casual."
+      },
+      {
+        "q": "Вискоза может",
+        "a": "Поясните, что в данной модели используется именно быстро потерять viscosa stretch. Добавление эластана форму обеспечивает высокую формоустойчивость: брюки не вытягиваются на коленях и сохраняют четкость линий после носки."
+      },
+      {
+        "q": "Я ищу модель для",
+        "a": "Продемонстрируйте, как Ortiga 3261 вечернего выхода преображается с шелковым топом и аксессуарами с золотым логотипом LS. Благородный блеск ткани и тонкий рисунок позволяют носить их на деловой ужин."
+      },
+      {
+        "q": "Мне нужны брюки Успокойте клиента: модель Odorico является Odorico, которые розничным воплощением подиумной Ortiga. Она обещаны в сохраняет ту же великолепную ткань 3261 и поставке",
+        "a": "безупречную посадку, адаптированную для ежедневного использования."
+      },
+      {
+        "q": "Ткань в полоску «Gessato",
+        "a": "— это база. Она идеально гармонирует с сложно сочетать с однотонными рубашками Legale или Localita, другими принтами» а также со сдержанными геометрическими аксессуарами коллекции."
+      }
+    ],
+    "ar": [
+      {
+        "q": "التقليمات تبدو رسمية للغاية",
+        "a": "اقترحي كسر الرسمية بالتريكو. سروال Ortiga 3261 عند تنسيقه مع كنزة ناعمة من نوع Manos (كما هو موضح في مجموعات أخرى) يتحول إلى عنصر من أسلوب Business Casual المريح."
+      },
+      {
+        "q": "الفيسكوز قد يفقد شكله بسرعة",
+        "a": "وضحي أن هذا الموديل يستخدم viscosa stretch. إضافة الإيلاستين توفر ثباتاً عالياً للشكل؛ فالسروال لا يتمدد عند الركبتين ويحافظ على حدة الخطوط بعد الارتداء."
+      },
+      {
+        "q": "أبحث عن موديل لسهرة مسائية",
+        "a": "أظهري كيف يتحول Ortiga 3261 عند تنسيقه مع توب حريري وإكسسوارات تحمل شعار LS الذهبي. لمعان القماش النبيل والنقش الدقيق يسمحان بارتدائه في عشاء عمل."
+      },
+      {
+        "q": "أحتاج إلى سراويل Odorico التي وُعدنا بوصولها",
+        "a": "طمئني العميل: موديل Odorico هو التجسيد التجاري لموديل Ortiga الموجود على منصات العرض، فهو يحتفظ بنفس القماش الرائع 3261 والمقاس المثالي، مع تكييفه للاستخدام اليومي."
+      },
+      {
+        "q": "Gessato",
+        "a": "هو أساس. إنه يتناغم بشكل مثالي مع قمصان Legale أو Localita ذات اللون الواحد، وكذلك مع إكسسوارات المجموعة ذات الأشكال الهندسية الهادئة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ზოლიანი ქსოვილი ზედმეტად ოფიციალურად გამოიყურება",
+        "a": "შესთავაზეთ სიმკაცრის განზავება ტრიკოტაჟით. Ortiga 3261-ის შარვალი რბილ Manos-ის პულოვერთან ერთად (როგორც ნაჩვენებია კოლექციის სხვა სეტებში) გარდაიქმნება მოდუნებული Business Casual სტილის ელემენტად."
+      },
+      {
+        "q": "ვისკოზამ შეიძლება სწრაფად დაკარგოს ფორმა",
+        "a": "განმარტეთ, რომ ამ მოდელში გამოიყენება სწორედ viscosa stretch. ელასტანის დამატება უზრუნველყოფს მაღალ ფორმამდგრადობას: შარვალი არ იწელება მუხლებში და ინარჩუნებს ხაზების სიმკვეთრეს ტარების შემდეგაც."
+      },
+      {
+        "q": "ვეძებ მოდელს საღამოს გასვლისთვის",
+        "a": "აჩვენეთ, თუ როგორ გარდაიქმნება Ortiga 3261 აბრეშუმის ტოპთან და ოქროსფერი LS-ის ლოგოიანი აქსესუარებით. ქსოვილის კეთილშობილური ბზინვარება და თხელი ნახატი საშუალებას იძლევა ჩაიცვათ ის საქმიან ვახშამზე."
+      },
+      {
+        "q": "მჭირდება Odorico-ს შარვლები, რომლებიც დაპირებული იყო მიწოდებაში",
+        "a": "დაამშვიდეთ კლიენტი: Odorico-ს მოდელი არის პოდიუმის Ortiga-ს საცალო განსახიერება. ის ინარჩუნებს იმავე ბრწყინვალე 3261 ქსოვილს და უნაკლო მორგებას, ადაპტირებულს ყოველდღიური გამოყენებისთვის."
+      },
+      {
+        "q": "Gessato",
+        "a": "— ეს ბაზაა. ის იდეალურად ჰარმონიზდება Legale ან Localita-ს სადა პერანგებთან, ასევე კოლექციის თავშეკავებულ გეომეტრიულ აქსესუარებთან."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Գծավոր նախշը չափազանց պաշտոնական է",
+        "a": "Առաջարկեք նոսրացնել խստությունը տրիկոտաժով։ Ortiga 3261 տաբատը փափուկ Manos պուլովերի հետ համադրությամբ (ինչպես ցույց է տրված հավաքածուի այլ հավաքածուներում) վերածվում է հանգիստ Business Casual ոճի տարրի։."
+      },
+      {
+        "q": "Վիսկոզան կարող է արագ կորցնել ձևը",
+        "a": "Բացատրեք, որ այս մոդելում օգտագործվում է հենց viscosa stretch։ Էլաստանի ավելացումն ապահովում է բարձր ձևակայունություն. տաբատը չի ձգվում ծնկների հատվածում և պահպանում է գծերի հստակությունը կրելուց հետո։."
+      },
+      {
+        "q": "Ես փնտրում եմ մոդել երեկոյան ելքի համար",
+        "a": "Ցուցադրեք, թե ինչպես է Ortiga 3261-ը փոխակերպվում մետաքսե տոպի և LS ոսկեգույն լոգոտիպով աքսեսուարների հետ։ Գործվածքի ազնվական փայլը և նուրբ նախշը թույլ են տալիս դրանք կրել գործնական ընթրիքի։."
+      },
+      {
+        "q": "Ինձ անհրաժեշտ են Odorico տաբատները, որոնք խոստացված են մատակարարման մեջ",
+        "a": "Հանգստացրեք հաճախորդին. Odorico մոդելը պոդիումային Ortiga-ի մանրածախ մարմնացումն է։ Այն պահպանում է նույն հիանալի 3261 գործվածքը և անթերի նստվածքը, որոնք հարմարեցված են ամենօրյա օգտագործման համար։."
+      },
+      {
+        "q": "Gessato",
+        "a": "-ն բազային է։ Այն իդեալականորեն ներդաշնակվում է Legale կամ Localita միագույն վերնաշապիկների, ինչպես նաև հավաքածուի զուսպ երկրաչափական աքսեսուարների հետ։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Svītra izskatās pārāk",
+        "a": "Piedāvājiet atšķaidīt stingrību ar trikotāžu. Bikses Ortiga 3261 oficiāli kombinācijā ar mīkstu puloveru Manos (kā parādīts citos kolekcijas komplektos) pārvēršas par atbrīvota Business Casual stila elementu."
+      },
+      {
+        "q": "Viskoze var ātri",
+        "a": "Izskaidrojiet, ka šajā modelī tiek izmantota tieši viscosa stretch. zaudēt formu Elastāna pievienošana nodrošina augstu formas noturību: bikses neizstiepjas ceļgalos un saglabā līniju skaidrību pēc valkāšanas."
+      },
+      {
+        "q": "Es meklēju modeli",
+        "a": "Demonstrējiet, kā Ortiga 3261 pārveidojas ar zīda topu un aksesuāriem vakara iznācienam ar zelta LS logotipu. Cēlais auduma spīdums un smalkais raksts ļauj valkāt tos uz lietišķām vakariņām."
+      },
+      {
+        "q": "Man ir vajadzīgas bikses Nomieriniet klientu: Odorico modelis ir mazumtirdzniecības versija no Odorico, kuras ir pjedestāla Ortiga. Tā saglabā to pašu lielisko 3261 audumu un solītas piegādē",
+        "a": "nevainojamo piegulumu, kas pielāgots ikdienas lietošanai."
+      },
+      {
+        "q": "Audumu svītrās «Gessato",
+        "a": "— ir bāze. Tas ideāli harmonē ar vienkrāsainiem krekliem."
+      },
+      {
+        "q": "Grūti kombinēt ar Legale vai Localita, kā arī ar atturīgiem ģeometriskiem kolekcijas citiem printiem",
+        "a": "aksesuāriem."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Įveikimo",
+        "a": "„Dryžiai atrodo per daug oficialiai“ Pasiūlykite praskiesti griežtumą trikotažu. Kelnės Ortiga 3261 derinyje su minkštu megztiniu Manos (kaip parodyta kituose kolekcijos komplektuose) virsta atpalaiduoto Business Casual stiliaus elementu. „Viskozė gali greitai prarasti formą“ Paaiškinkite, kad šiame modelyje naudojama būtent viscosa stretch. Elastano pridėjimas užtikrina aukštą atsparumą deformacijoms: kelnės neišsitampo ties keliais ir išsaugo linijų ryškumą po dėvėjimo. „Ieškau modelio vakariniam išėjimui“ Pademonstruokite, kaip Ortiga 3261 transformuojasi su šilkiniu topu ir aksesuarais su auksiniu LS logotipu. Tauras audinio žvilgesys ir smulkus raštas leidžia dėvėti jas dalykinei vakarienei. „Man reikia kelnių Odorico, kurios žadėtos pristatyme“ Nuraminkite klientą: modelis Odorico yra mažmeninis podiumo Ortiga įsikūnijimas. Jis išsaugo tą patį puikų 3261 audinį ir nepriekaištingą prigludimą, pritaikytą kasdieniam naudojimui. „Dryžuotą audinį „Gessato“ sunku derinti su kitais raštais“ Tai – bazė. Ji idealiai harmonizuoja su vienspalviais marškiniais Legale arba Localita, taip pat su santūriais kolekcijos geometriniais aksesuarais"
+      }
+    ],
+    "pl": [
+      {
+        "q": "Pasek wygląda zbyt oficjalnie",
+        "a": "Zaproponuj rozcieńczenie surowości dzianiną. Spodnie Ortiga 3261 w połączeniu z miękkim swetrem Manos (jak pokazano w innych zestawach kolekcji) zmieniają się w element swobodnego stylu Business Casual."
+      },
+      {
+        "q": "Wiskoza może szybko stracić formę",
+        "a": "Wyjaśnij, że w tym modelu użyto właśnie viscosa stretch. Dodatek elastanu zapewnia wysoką odporność na odkształcenia: spodnie nie wyciągają się na kolanach i zachowują wyrazistość linii po noszeniu."
+      },
+      {
+        "q": "Szukam modelu na wieczorne wyjście",
+        "a": "Zademonstruj, jak Ortiga 3261 zmienia się z jedwabnym topem i akcesoriami ze złotym logo LS. Szlachetny połysk tkaniny i delikatny wzór pozwalają nosić je na biznesową kolację."
+      },
+      {
+        "q": "Potrzebuję spodni Odorico, które są obiecane w dostawie",
+        "a": "Uspokój klienta: model Odorico jest detalicznym ucieleśnieniem wybiegowego modelu Ortiga. Zachowuje tę samą wspaniałą tkaninę 3261 i nienaganne dopasowanie, zaadaptowane do codziennego użytku."
+      },
+      {
+        "q": "Gessato",
+        "a": "— to baza. Idealnie współgra z jednolitymi koszulami Legale lub Localita, a także ze stonowanymi geometrycznymi akcesoriami z kolekcji."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Смужка виглядає",
+        "a": "Запропонуйте розбавити строгість трикотажем. Брюки занадто Ortiga 3261 у поєднанні з м'яким пуловером офіційно Manos (як показано в інших сетах колекції) перетворюються на елемент розслабленого стилю Business Casual."
+      },
+      {
+        "q": "Віскоза може",
+        "a": "Поясніть, що в даній моделі використовується саме швидко втратити viscosa stretch. Додавання еластану форму забезпечує високу формостійкість: брюки не витягуються на колінах і зберігають чіткість ліній після носіння."
+      },
+      {
+        "q": "Я шукаю модель для",
+        "a": "Продемонструйте, як Ortiga 3261 вечірнього виходу перетворюється з шовковим топом і аксесуарами із золотим логотипом LS. Благородний блиск тканини і тонкий малюнок дозволяють носити їх на ділову вечерю."
+      },
+      {
+        "q": "Мені потрібні брюки Заспокойте клієнта: модель Odorico є Odorico, які роздрібним втіленням подіумної Ortiga. Вона обіцяні в зберігає ту ж чудову тканину 3261 і поставці",
+        "a": "бездоганну посадку, адаптовану для щоденного використання."
+      },
+      {
+        "q": "Тканина у смужку «Gessato",
+        "a": "— це база. Вона ідеально гармоніює з складно поєднувати з однотонними сорочками Legale або Localita, іншими принтами» а також зі стриманими геометричними аксесуарами колекції."
+      }
+    ]
+  }
+}

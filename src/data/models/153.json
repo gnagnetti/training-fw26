@@ -1,0 +1,364 @@
+{
+  "id": 153,
+  "name": "Marostica",
+  "description": {
+    "en": "An embodiment of contemporary chic and aristocratic comfort: the Marostica pullover, created from the exclusive Merinfleur knit blend. The model enchants with a bold animal print in a noble coffee-brown palette, which gains particular depth through the addition of 12% delicate mohair. An exquisite detail in the form of functional sleeve slits, along with signature gold-tone LS medallion buttons at the shoulders, underscores its place in the world of high fashion, transforming this pullover into a centrepiece of the status-defining daytime wardrobe.",
+    "ru": "Воплощение современного шика и аристократичного уюта: пуловер Marostica, созданный из эксклюзивного смесового трикотажа Merinfleur. Модель очаровывает смелым анималистичным принтом в благородной кофейно-коричневой гамме, который обретает особую глубину благодаря добавлению 12% нежного мохера. Изысканная деталь в виде функциональных разрезов на рукавах и знаковые золотистые пуговицы-медальоны LS на плечах подчеркивают принадлежность к миру высокой моды, превращая этот пуловер в центральный элемент статусного дневного гардероба.",
+    "ar": "تجسيد للأناقة العصرية والراحة الأرستقراطية: بلوفر Marostica، صُنع من تريكو Merinfleur الحصري. تأسر القطعة بطبعة الحيوانات الجريئة في لوحة ألوان بنية قهوية نبيلة، والتي تكتسب عمقاً خاصاً بفضل إضافة 12% من الموهير الناعم. التفاصيل الراقية المتمثلة في الفتحات الوظيفية على الأكمام وأزرار LS الميدالية الذهبية الأيقونية على الأكتاف تؤكد على الانتماء إلى عالم الأزياء الراقية، مما يجعل هذا البلوفر عنصراً مركزياً في خزانة الملابس النهارية الفاخرة.",
+    "ka": "თანამედროვე შიკისა და არისტოკრატული კომფორტის განსხეულება: პულოვერი Marostica, შექმნილი ექსკლუზიური შერეული ნაქსოვისგან Merinfleur. მოდელი ხიბლავს თამამი ცხოველური პრინტით კეთილშობილურ ყავისფერ-ყავისფერ გამაში, რომელიც განსაკუთრებულ სიღრმეს იძენს 12% ნაზი მოჰერის დამატების წყალობით. სახელოებზე არსებული ფუნქციური ჭრილებისა და მხრებზე LS-ის საკულტო ოქროსფერი მედალიონ-ღილების დახვეწილი დეტალი ხაზს უსვამს მაღალი მოდის სამყაროსთან კუთვნილებას და ამ პულოვერს აქცევს სტატუსური დღის გარდერობის ცენტრალურ ელემენტად.",
+    "hy": "Ժամանակակից շիկի և արիստոկրատական հարմարավետության մարմնացում. Marostica պուլովեր՝ ստեղծված Merinfleur բացառիկ խառը տրիկոտաժից: Մոդելը հմայում է ազնիվ սուրճ-դարչնագույն գամմայով համարձակ կենդանական պրինտով, որն ստանում է հատուկ խորություն՝ 12% նուրբ մոհերի հավելման շնորհիվ: Թևքերի ֆունկցիոնալ բացվածքների տեսքով նրբագեղ դետալը և ուսերին առկա LS ոսկեգույն մեդալիոն-կոճակներն ընդգծում են բարձր նորաձևության աշխարհին պատկանելությունը՝ այս պուլովերը վերածելով կարգավիճակային ցերեկային զգեստապահարանի կենտրոնական տարրի:",
+    "lv": "Mūsdienīga šika un aristokrātiska mājīguma iemiesojums: Marostica džemperis, kas radīts no ekskluzīvā Merinfleur trikotāžas sajaukuma. Modelis valdzina ar drosmīgu dzīvnieku apdruku cēlā kafijas un brūnā tonī, kas iegūst īpašu dziļumu, pateicoties 12% maigas mohēras pievienojumam. Izsmalcināta detaļa funkcionālu šķēlumu veidā uz piedurknēm un ikoniskās zeltītās LS medaljonu pogas uz pleciem uzsver piederību augstās modes pasaulei, pārvēršot šo džemperi par statusiska dienas garderobes centrālo elementu.",
+    "lt": "Šiuolaikinio prašmatnumo ir aristokratiško jaukumo įsikūnijimas: Marostica megztinis, sukurtas iš išskirtinio Merinfleur mišinio trikotažo. Modelis žavi drąsiu gyvūnų raštu kilnioje kavos-rudų spalvų gamoj, kuris įgauna ypatingą gylį dėka 12% švelnaus moherio priemaišos. Rafinuota detalė funkcionalių įpjovų pavidalu rankovėse ir ikoniškos auksinės LS medalionų sagos ant pečių pabrėžia priklausymą aukštosios mados pasauliui, paverčiant šį megztinį centriniu statusą turinčio dienos garderobo elementu.",
+    "pl": "Ucieleśnienie nowoczesnego szyku i arystokratycznej wygody: pulower Marostica, stworzony z ekskluzywnej dzianiny z domieszką Merinfleur. Model zachwyca śmiałym zwierzęcym printem w szlachetnej kawowo-brązowej gamie, która zyskuje szczególną głębię dzięki dodatkowi 12% delikatnego moheru. Wyrafinowany detal w postaci funkcjonalnych rozcięć na rękawach oraz charakterystyczne złote guziki-medaliony LS na ramionach podkreślają przynależność do świata wysokiej mody, czyniąc ten pulower centralnym elementem prestiżowej garderoby dziennej.",
+    "uk": "Втілення сучасного шику та аристократичного затишку: пуловер Marostica, створений з ексклюзивного сумішевого трикотажу Merinfleur. Модель зачаровує сміливим анімалістичним принтом у благородній кавово-коричневій гамі, який набуває особливої глибини завдяки додаванню 12% ніжного мохеру. Вишукана деталь у вигляді функціональних розрізів на рукавах і знакові золотисті ґудзики-медальйони LS на плечах підкреслюють приналежність до світу високої моди, перетворюючи цей пуловер на центральний елемент статусного денного гардероба."
+  },
+  "colors": [
+    {
+      "name": "Var Maculato Marrone",
+      "code": "3390",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/sf_X_8TcR-ObvSuGMf6O6A_1152017837696f4365c601d6_48411476_02830610XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Образ 1 (Total Animalier Look)",
+        "en": "Look 1 (Total Animalier Look)",
+        "ar": "Look 1 (Total Animalier Look)",
+        "ka": "Look 1 (Total Animalier Look)",
+        "hy": "Look 1 (Total Animalier Look)",
+        "lv": "Look 1 (Total Animalier Look)",
+        "lt": "Look 1 (Total Animalier Look)",
+        "pl": "Look 1 (Total Animalier Look)",
+        "uk": "Look 1 (Total Animalier Look)"
+      },
+      "text": {
+        "ru": "Изысканный ансамбль, объединяющий пуловер Marostica 3390 с базовой водолазкой Manos 0101 и юбкой Marsica 0101. Завершает выход статусная сумка из мартеллированной кожи Iago 2240 0002.",
+        "en": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "ar": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "ka": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "hy": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "lv": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "lt": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "pl": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "uk": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Marostica",
+          "code": "3390",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/sf_X_8TcR-ObvSuGMf6O6A_1152017837696f4365c601d6_48411476_02830610XX1.jpg"
+        },
+        {
+          "name": "Manos",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Marsica",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 1 (Total Animalier Look)",
+        "en": "Look 1 (Total Animalier Look)",
+        "ar": "Look 1 (Total Animalier Look)",
+        "ka": "Look 1 (Total Animalier Look)",
+        "hy": "Look 1 (Total Animalier Look)",
+        "lv": "Look 1 (Total Animalier Look)",
+        "lt": "Look 1 (Total Animalier Look)",
+        "pl": "Look 1 (Total Animalier Look)",
+        "uk": "Look 1 (Total Animalier Look)"
+      },
+      "text": {
+        "ru": "Изысканный ансамбль, объединяющий пуловер Marostica 3390 с базовой водолазкой Manos 0101 и юбкой Marsica 0101. Завершает выход статусная сумка из мартеллированной кожи Iago 2240 0002.",
+        "en": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "ar": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "ka": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "hy": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "lv": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "lt": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "pl": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag.",
+        "uk": "A sophisticated ensemble combining the Marostica 3390 pullover with the Manos 0101 base-layer turtleneck and Marsica 0101 skirt (Data not available in official sources). The look is finished with a statement hammered leather Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Marostica",
+          "code": "3390",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/sf_X_8TcR-ObvSuGMf6O6A_1152017837696f4365c601d6_48411476_02830610XX1.jpg"
+        },
+        {
+          "name": "Manos",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Fabula",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg",
+          "modelId": 386
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Highlight the distinctive 'punto stoffa' technique: this dense knit fabric offers a subtle shaping effect, ensuring a flawless silhouette alongside the exceptional comfort of virgin wool.",
+      "Recommend Marsan as a key piece for constructing runway-inspired layered looks — the fringe detailing adds texture and visual interest when paired with long cardigans or capes.",
+      "Underscore the versatility of the midi length: paired with the statement Ulisside boots, the piece reads distinctly elegant, while loafers lend it a contemporary 'quiet luxury' aesthetic."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на уникальной фактуре Merinfleur: сочетание 71% девственной шерсти и мохера обеспечивает исключительный теплообмен и тактильный комфорт класса люкс.",
+      "Подчеркните ценность фурнитуры: золотистые пуговицы-медальоны с логотипом LS являются ювелирным завершением образа, избавляя от необходимости подбирать аксессуары для зоны декольте.",
+      "Рекомендуйте Marostica как инвестиционную вещь: анималистичный принт в интерпретации Luisa Spagnoli — это вневременная классика, которая легко адаптируется под разные стили."
+    ],
+    "ar": [
+      "سلطي الضوء على قوام Merinfleur الفريد: فالمزيج بين 71% من الصوف البكر والموهير يضمن تبادلاً حرارياً استثنائياً وراحة ملموسة بمستوى الرفاهية العالي.",
+      "أكدي على قيمة الإكسسوارات المعدنية: فأزرار الميداليات الذهبية التي تحمل شعار LS تضفي لمسة نهائية أشبه بالمجوهرات، مما يغني عن الحاجة لاختيار إكسسوارات إضافية لمنطقة الصدر.",
+      "رشيحي Marostica كقطعة استثمارية: فالنقش الحيواني بأسلوب Luisa Spagnoli هو كلاسيكية خالدة تتكيف بسهولة مع مختلف الأساليب."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება Merinfleur-ის უნიკალურ ფაქტურაზე: 71% ქალწულებრივი მატყლისა და მოჰერის კომბინაცია უზრუნველყოფს გამორჩეულ თბოგაცვლასა და ლუქსის კლასის ტაქტილურ კომფორტს.",
+      "ხაზი გაუსვით ფურნიტურის ღირებულებას: LS-ის ლოგოიანი ოქროსფერი მედალიონ-ღილები წარმოადგენს იმიჯის საიუველირო დასრულებას, რაც გათავისუფლებთ დეკოლტეს ზონისთვის აქსესუარების შერჩევის აუცილებლობისგან.",
+      "რეკომენდაცია გაუწიეთ Marostica-ს, როგორც საინვესტიციო ნივთს: ცხოველური პრინტი Luisa Spagnoli-ს ინტერპრეტაციით — ეს არის დროზე აცდენილი კლასიკა, რომელიც ადვილად ადაპტირდება სხვადასხვა სტილთან."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք Merinfleur յուրահատուկ ֆակտուրայի վրա. 71% անարատ բրդի և մոհերի համադրությունը ապահովում է բացառիկ ջերմափոխանակում և լյուքս դասի տակտիլ հարմարավետություն:",
+      "Ընդգծեք ֆուրնիտուրայի արժեքը. լոգոտիպով ոսկեգույն մեդալիոն-կոճակները հանդիսանում են կերպարի ոսկերչական ավարտը՝ ազատելով դեկոլտեի գոտու համար աքսեսուարներ ընտրելու անհրաժեշտությունից:",
+      "Խորհուրդ տվեք Marostica-ն որպես ներդրումային իր. Luisa Spagnoli-ի մեկնաբանմամբ կենդանական պրինտը հավերժական դասական է, որը հեշտությամբ հարմարվում է տարբեր ոճերի:"
+    ],
+    "lv": [
+      "Vērsiet klienta uzmanību uz Merinfleur unikālo faktūru: 71% pirmreizējās vilnas un mohēras savienojums nodrošina izcilu siltumapmaiņu un luksusa klases taktilu komfortu.",
+      "Uzsveriet furnitūras vērtību: zeltainās medaljonpogas ar LS logotipu ir tēla juvelierizstrādājums, kas atbrīvo no nepieciešamības piemeklēt aksesuārus dekoltē zonai.",
+      "Iesakiet Marostica kā investīcijas vērstu lietu: dzīvnieku raksts Luisa Spagnoli interpretācijā ir mūžīga klasika, kas viegli adaptējas dažādiem stiliem."
+    ],
+    "lt": [
+      "Akcentuokite kliento dėmesį į unikalią Merinfleur faktūrą: 71% avies vilnos ir moheros derinys užtikrina išskirtinį šilumos balansą ir prabangų taktilinį komfortą.",
+      "Pabrėžkite furnitūros vertę: auksinės sagos-medaljonai su LS logotipu yra juvelyrinis įvaizdžio akcentas, panaikinantis būtinybę derinti aksesuarus dekoltė zonai.",
+      "Rekomenduokite Marostica kaip investicinį pirkinį: gyvūninis raštas Luisa Spagnoli interpretacijoje — tai nesenstanti klasika, kuri lengvai prisitaiko prie įvairių stilių."
+    ],
+    "pl": [
+      "Zwróć uwagę klientki na unikalną fakturę Merinfleur: połączenie 71% wełny dziewiczej i moheru zapewnia wyjątkową termoregulację oraz luksusowy komfort w dotyku.",
+      "Podkreśl wartość detali: złociste guziki-medaliony z logo LS stanowią biżuteryjne wykończenie stylizacji, eliminując konieczność dobierania dodatków w okolicy dekoltu.",
+      "Rekomenduj Marostica jako inwestycję: zwierzęcy nadruk w interpretacji Luisa Spagnoli to ponadczasowa klasyka, która z łatwością adaptuje się do różnych stylów."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на унікальній фактурі Merinfleur: поєднання 71% вовни virgin та мохеру забезпечує винятковий теплообмін і тактильний комфорт класу люкс.",
+      "Підкресліть цінність фурнітури: золотисті ґудзики-медальйони з логотипом LS є ювелірним завершенням образу, позбавляючи від необхідності підбирати аксесуари для зони декольте.",
+      "Рекомендуйте Marostica як інвестиційну річ: анімалістичний принт в інтерпретації Luisa Spagnoli — це позачасова класика, яка легко адаптується під різні стилі."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Mohair content may cause prickling.",
+        "a": "We use the finest mohair in a delicate proportion with virgin wool. This guarantees a remarkably soft fabric that remains comfortable even in contact with sensitive skin."
+      },
+      {
+        "q": "The leopard print seems too bold for everyday wear.",
+        "a": "Thanks to the matte texture of the wool and the noble coffee tones, the print looks understated and elegant, fitting perfectly within a 'quiet luxury' aesthetic."
+      },
+      {
+        "q": "Slits on the sleeves may be impractical in cold weather.",
+        "a": "This is a fashion-forward design detail that creates a fluid silhouette. When worn with outerwear, the pullover retains all of its thermal-insulating properties thanks to its dense knit."
+      },
+      {
+        "q": "I'm concerned the knitwear will lose its shape due to the mohair content.",
+        "a": "Merinfleur technology ensures fibre stability. The pullover holds its structure beautifully and retains its pristine appearance across many seasons."
+      },
+      {
+        "q": "It's difficult to find bottoms to match such a striking top.",
+        "a": "Our stylists recommend pairing this piece with the understated black Fabula skirt or classic trousers from the collection, to balance the look and let the pullover take centre stage."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Мохер в составе может вызывать покалывание.",
+        "a": "Мы используем мохер высочайшего качества в деликатной пропорции с девственной шерстью. Это гарантирует невероятную нежность полотна, которое комфортно даже при контакте с чувствительной кожей."
+      },
+      {
+        "q": "Принт 'леопард' кажется слишком смелым для повседневного ношения.",
+        "a": "Благодаря матовой фактуре шерсти и благородным кофейным оттенкам, принт выглядит сдержанно и элегантно, идеально вписываясь в эстетику 'тихой роскоши'."
+      },
+      {
+        "q": "Разрезы на рукавах могут быть непрактичны в холодную погоду.",
+        "a": "Это актуальный дизайнерский прием, создающий летящий силуэт. При ношении с верхней одеждой пуловер сохраняет все теплоизоляционные свойства благодаря высокой плотности вязки."
+      },
+      {
+        "q": "Я боюсь, что трикотаж потеряет форму из-за наличия мохера.",
+        "a": "Технология Merinfleur обеспечивает стабильность волокон. Пуловер превосходно держит структуру и сохраняет первозданный вид на протяжении многих сезонов."
+      },
+      {
+        "q": "Сложно подобрать низ к такому активному верху.",
+        "a": "Наши стилисты рекомендуют сочетать модель с лаконичной черной юбкой Fabula или классическими брюками коллекции, что позволит сбалансировать образ и сделать пуловер главным акцентом."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يسبب الموهير في التكوين شعوراً بالوخز.",
+        "a": "نحن نستخدم موهير عالي الجودة بنسبة دقيقة مع الصوف البكر. وهذا يضمن نعومة فائقة للقماش، مما يجعله مريحاً حتى عند ملامسة البشرة الحساسة."
+      },
+      {
+        "q": "تبدو نقشة 'النمر' جريئة جداً للاستخدام اليومي.",
+        "a": "بفضل الملمس المطفأ للصوف والألوان القهوائية النبيلة، تبدو النقشة رصينة وأنيقة، لتنسجم بشكل مثالي مع جماليات 'الرفاهية الهادئة'."
+      },
+      {
+        "q": "قد تكون الفتحات على الأكمام غير عملية في الطقس البارد.",
+        "a": "هذا أسلوب تصميمي عصري يخلق قواماً انسيابياً. عند ارتدائه مع ملابس خارجية، يحافظ البلوفر على جميع خصائص العزل الحراري بفضل كثافة الحياكة العالية."
+      },
+      {
+        "q": "أخشى أن يفقد التريكو شكله بسبب وجود الموهير.",
+        "a": "تضمن تقنية Merinfleur ثبات الألياف. يحافظ البلوفر بشكل ممتاز على هيكله ويحتفظ بمظهره الأصلي لعدة مواسم."
+      },
+      {
+        "q": "من الصعب اختيار قطعة سفلية لتتناسب مع هذا الجزء العلوي البارز.",
+        "a": "يوصي خبراؤنا بتنسيق الطراز مع تنورة سوداء بسيطة من طراز Fabula أو سراويل كلاسيكية من المجموعة، مما سيسمح بتوازن الإطلالة وجعل البلوفر العنصر الأساسي."
+      }
+    ],
+    "ka": [
+      {
+        "q": "შემადგენლობაში არსებულმა მოჰერმა შეიძლება გამოიწვიოს ჩხვლეტა.",
+        "a": "ჩვენ ვიყენებთ უმაღლესი ხარისხის მოჰერს ხელუხლებელ მატყლთან დელიკატური პროპორციით. ეს უზრუნველყოფს ქსოვილის წარმოუდგენელ სირბილეს, რომელიც კომფორტულია მგრძნობიარე კანთან შეხებისასაც კი."
+      },
+      {
+        "q": "ლეოპარდის' პრინტი ზედმეტად თამამად გვეჩვენება ყოველდღიური ტარებისთვის.",
+        "a": "მატყლის მქრქალი ფაქტურისა და კეთილშობილური ყავისფერი ტონების წყალობით, პრინტი გამოიყურება თავშეკავებულად და ელეგანტურად, რაც იდეალურად ჯდება 'ჩუმი ფუფუნების' ესთეტიკაში."
+      },
+      {
+        "q": "სახელოების ჭრილები შეიძლება არაპრაქტიკული იყოს ცივ ამინდში.",
+        "a": "ეს არის აქტუალური დიზაინერული ხერხი, რომელიც ქმნის მოფარფატე სილუეტს. ზედა ტანსაცმელთან ტარებისას პულოვერი ინარჩუნებს სითბოს შემანარჩუნებელ ყველა თვისებას ქსოვის მაღალი სიმკვრივის წყალობით."
+      },
+      {
+        "q": "მეშინია, რომ ტრიკოტაჟი დაკარგავს ფორმას მოჰერის შემცველობის გამო.",
+        "a": "Merinfleur-ის ტექნოლოგია უზრუნველყოფს ბოჭკოების სტაბილურობას. პულოვერი შესანიშნავად ინარჩუნებს სტრუქტურას და პირვანდელ იერს მრავალი სეზონის განმავლობაში."
+      },
+      {
+        "q": "რთულია ასეთი აქტიური ზედა ნაწილისთვის ქვედაბოლოს შერჩევა.",
+        "a": "ჩვენი სტილისტები გვირჩევენ მოდელის შეხამებას ლაკონურ შავ ქვედაბოლო Fabula-სთან ან კოლექციის კლასიკურ შარვლებთან, რაც საშუალებას მოგცემთ დააბალანსოთ სახე და პულოვერი აქციოთ მთავარ აქცენტად."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կազմի մեջ առկա մոհերը կարող է ծակծկել։",
+        "a": "Մենք օգտագործում ենք ամենաբարձր որակի մոհեր՝ կուսական բրդի հետ նուրբ համամասնությամբ։ Սա երաշխավորում է կտորի անհավատալի նրբությունը, որը հարմարավետ է նույնիսկ զգայուն մաշկի հետ շփվելիս։"
+      },
+      {
+        "q": "Ընձառյուծի» պրինտը չափազանց համարձակ է թվում առօրյա կրման համար։",
+        "a": "Բրդի փայլատ հյուսվածքի և սուրճի ազնվական երանգների շնորհիվ պրինտը զուսպ և նրբագեղ է թվում՝ կատարելապես տեղավորվելով «լուռ շքեղության» գեղագիտության մեջ։"
+      },
+      {
+        "q": "Թևքերի բացվածքները կարող են ոչ գործնական լինել ցուրտ եղանակին։",
+        "a": "Սա արդիական դիզայներական հնարք է, որը ստեղծում է օդային սիլուետ։ Վերնազգեստի հետ կրելիս պուլովերը պահպանում է ջերմամեկուսիչ բոլոր հատկությունները՝ հյուսվածքի բարձր խտության շնորհիվ։"
+      },
+      {
+        "q": "Վախենում եմ, որ տրիկոտաժը մոհերի առկայության պատճառով կկորցնի ձևը։",
+        "a": "Merinfleur տեխնոլոգիան ապահովում է մանրաթելերի կայունությունը։ Պուլովերը հիանալի պահում է կառուցվածքը և պահպանում սկզբնական տեսքը բազմաթիվ սեզոնների ընթացքում։"
+      },
+      {
+        "q": "Դժվար է ընտրել ներքնազգեստ այսքան ակտիվ վերնազգեստի համար։",
+        "a": "Մեր ոճաբանները խորհուրդ են տալիս մոդելը համադրել լակոնիկ սև Fabula կիսաշրջազգեստի կամ հավաքածուի դասական տաբատների հետ, ինչը թույլ կտա հավասարակշռել կերպարը և պուլովերը դարձնել գլխավոր շեշտադրում։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Mohēra sastāvā var izraisīt kņudēšanu.",
+        "a": "Mēs izmantojam visaugstākās kvalitātes mohēru delikātās proporcijās ar jaunvilnu. Tas garantē neticamu auduma maigumu, kas ir komfortabls pat saskarē ar jutīgu ādu."
+      },
+      {
+        "q": "Leoparda raksts šķiet pārāk drosmīgs ikdienas valkāšanai.",
+        "a": "Pateicoties vilnas matētajai faktūrai un cēlajiem kafijas toņiem, raksts izskatās atturīgi un eleganti, ideāli iekļaujoties 'klusās greznības' estētikā."
+      },
+      {
+        "q": "Šķēlumi uz piedurknēm var būt nepraktiski aukstā laikā.",
+        "a": "Tas ir aktuāls dizaina paņēmiens, kas rada lidojošu siluetu. Valkājot ar virsdrēbēm, pulovers saglabā visas siltumizolācijas īpašības, pateicoties augstajam adījuma blīvumam."
+      },
+      {
+        "q": "Es baidos, ka trikotāža zaudēs formu mohēras klātbūtnes dēļ.",
+        "a": "Merinfleur tehnoloģija nodrošina šķiedru stabilitāti. Pulovers lieliski notur struktūru un saglabā sākotnējo izskatu daudzu sezonu garumā."
+      },
+      {
+        "q": "Grūti piemeklēt apakšējo daļu tik aktīvam augšējam apģērbam.",
+        "a": "Mūsu stilisti iesaka kombinēt modeli ar lakoniskiem melniem svārkiem Fabula vai klasiskām kolekcijas biksēm, kas ļaus līdzsvarot tēlu un padarīt puloveru par galveno akcentu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Sudėtyje esantis moheris gali dirginti odą.",
+        "a": "Naudojame aukščiausios kokybės moherį subtilia proporcija su pirmaprade vilna. Tai garantuoja neįtikėtiną audinio švelnumą, kuris yra patogus net kontaktuojant su jautria oda."
+      },
+      {
+        "q": "Leopardo raštas atrodo per drąsus kasdieniam dėvėjimui.",
+        "a": "Dėl matinės vilnos faktūros ir taurių kavos atspalvių raštas atrodo santūriai ir elegantiškai, idealiai įsiliedamas į „tylios prabangos“ estetiką."
+      },
+      {
+        "q": "Pjūviai rankovėse gali būti nepraktiški šaltu oru.",
+        "a": "Tai aktualus dizaino sprendimas, sukuriantis lengvą siluetą. Dėvint su viršutiniais drabužiais, megztinis išsaugo visas šilumines savybes dėl didelio mezgimo tankio."
+      },
+      {
+        "q": "Bijau, kad trikotažas praras formą dėl moherio sudėties.",
+        "a": "Merinfleur technologija užtikrina pluošto stabilumą. Megztinis puikiai išlaiko struktūrą ir pirminę išvaizdą daugelį sezonų."
+      },
+      {
+        "q": "Sunku parinkti apačią tokiam aktyviam viršui.",
+        "a": "Mūsų stilistai rekomenduoja derinti modelį su lakonišku juodu Fabula sijonu arba klasikinėmis kolekcijos kelnėmis, kas leis subalansuoti įvaizdį ir paversti megztinį pagrindiniu akcentu."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Moher w składzie może powodować drapanie.",
+        "a": "Używamy moheru najwyższej jakości w delikatnej proporcji z dziewiczą wełną. Gwarantuje to niesamowitą delikatność dzianiny, która jest komfortowa nawet w kontakcie z wrażliwą skórą."
+      },
+      {
+        "q": "Wzór 'leopard' wydaje się zbyt śmiały do noszenia na co dzień.",
+        "a": "Dzięki matowej fakturze wełny i szlachetnym kawowym odcieniom, wzór wygląda powściągliwie i elegancko, idealnie wpisując się w estetykę 'cichego luksusu'."
+      },
+      {
+        "q": "Rozcięcia na rękawach mogą być niepraktyczne w zimną pogodę.",
+        "a": "To aktualny zabieg designerski, tworzący lekki fason. Podczas noszenia z odzieżą wierzchnią sweter zachowuje wszystkie właściwości termoizolacyjne dzięki wysokiej gęstości splotu."
+      },
+      {
+        "q": "Obawiam się, że dzianina straci fason z powodu dodatku moheru.",
+        "a": "Technologia Merinfleur zapewnia stabilność włókien. Sweter doskonale trzyma strukturę i zachowuje nieskazitelny wygląd przez wiele sezonów."
+      },
+      {
+        "q": "Trudno dobrać dół do tak wyrazistej góry.",
+        "a": "Nasi styliści zalecają łączyć model z minimalistyczną czarną spódnicą Fabula lub klasycznymi spodniami z kolekcji, co pozwoli zrównoważyć stylizację i uczynić sweter głównym akcentem."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Мохер у складі може викликати поколювання.",
+        "a": "Ми використовуємо мохер найвищої якості у делікатній пропорції з дівочою вовною. Це гарантує неймовірну ніжність полотна, яке є комфортним навіть при контакті з чутливою шкірою."
+      },
+      {
+        "q": "Принт «леопард» здається занадто сміливим для повсякденного носіння.",
+        "a": "Завдяки матовій фактурі вовни та благородним кавовим відтінкам, принт виглядає стримано та елегантно, ідеально вписуючись в естетику «тихої розкоші»."
+      },
+      {
+        "q": "Розрізи на рукавах можуть бути непрактичними в холодну погоду.",
+        "a": "Це актуальний дизайнерський прийом, що створює летючий силует. При носінні з верхнім одягом пуловер зберігає всі теплоізоляційні властивості завдяки високій щільності в'язки."
+      },
+      {
+        "q": "Я боюся, що трикотаж втратить форму через наявність мохеру.",
+        "a": "Технологія Merinfleur забезпечує стабільність волокон. Пуловер чудово тримає структуру та зберігає первісний вигляд упродовж багатьох сезонів."
+      },
+      {
+        "q": "Складно підібрати низ до такого активного верху.",
+        "a": "Наші стилісти рекомендують поєднувати модель з лаконічною чорною спідницею Fabula або класичними штанами колекції, що дозволить збалансувати образ і зробити пуловер головним акцентом."
+      }
+    ]
+  }
+}

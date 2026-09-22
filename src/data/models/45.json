@@ -1,0 +1,417 @@
+{
+  "id": 45,
+  "name": "Ferriera",
+  "description": {
+    "en": "The Ferriera midi skirt by Luisa Spagnoli is the impeccable embodiment of Italian craftsmanship and classic elegance within the Giorno line. Cut in a flared circle silhouette (ruota), the piece is crafted from a noble wool blend that delivers exceptional softness and structured, gentle folds. The design is defined by architectural clarity: a flat waistband accentuates the delicacy of the silhouette, while a concealed side zip closure guarantees a flawless fit. A mid-calf length and fluid cut transform this skirt into a foundational wardrobe piece for creating status-defining looks in the 'quiet luxury' aesthetic.",
+    "ru": "Юбка-миди Ferriera от Luisa Spagnoli — это безупречное воплощение итальянского мастерства и классической элегантности в линии Giorno. Модель силуэта «солнце» (ruota) выполнена из благородной смеси шерсти, которая обеспечивает исключительную мягкость и структурность мягких складок. Дизайн отличается архитектурной чистотой: плоская фасция на талии подчеркивает хрупкость силуэта, а скрытая боковая застежка-молния гарантирует безупречную посадку. Длина до середины икры и летящий крой превращают эту юбку в фундаментальный элемент гардероба для создания статусных образов в эстетике «тихой роскоши».",
+    "ar": "تُجسّد تنورة \"فيريرا\" (Ferriera) المتوسطة الطول (Midi) من مجموعة النهار (Giorno) لعلامة لويزا سبانيولي (Luisa Spagnoli) الإتقان الإيطالي والأناقة الكلاسيكية في أبهى صورهما. تأتي القطعة بقَصّة دائرية واسعة (Ruota) حِيكَت من مزيج الصوف الفاخر، مما يمنح طيّاتها انسيابية ناعمة وبنية متماسكة في آن واحد. ويتألق التصميم بنقاء معماري مُتقن؛ حيث تُبرز الحافة الملساء عند الخصر رشاقة القوام، بينما يضمن السحّاب الجانبي الخفي ملاءمة مثالية. وبفضل طولها الذي يصل إلى منتصف الساق وقَصّتها المتطايرة، تغدو هذه التنورة قطعة جوهرية لابتكار إطلالات رفيعة المستوى تعكس مفهوم \"الفخامة الهادئة\" (Quiet Luxury).",
+    "ka": "Luisa Spagnoli-ს მიდი ქვედაბოლო Ferriera არის იტალიური ოსტატობისა და კლასიკური ელეგანტურობის უნაკლო განსახიერება Giorno-ს ხაზში. „მზის“ (ruota) სილუეტის მოდელი დამზადებულია მატყლის კეთილშობილური ნაზავით, რაც უზრუნველყოფს განსაკუთრებულ სირბილესა და რბილი ნაკეცების სტრუქტურულობას. დიზაინი გამოირჩევა არქიტექტურული სისუფთავით: წელზე არსებული ბრტყელი ფასცია ხაზს უსვამს სილუეტის სისუსტეს, ხოლო ფარული გვერდითი ელვა-შესაკრავი უზრუნველყოფს უნაკლო მორგებას. კოჭამდე სიგრძე და ფრიალა ჭრა ამ ქვედაბოლოს „ჩუმი ფუფუნების“ ესთეტიკით სტატუსური იმიჯის შესაქმნელად გარდერობის ფუნდამენტურ ელემენტად აქცევს.",
+    "hy": "Luisa Spagnoli-ի Ferriera միդի-կիսաշրջազգեստը իտալական վարպետության և Giorno գծի դասական նրբագեղության անթերի մարմնացումն է։ «Արև» (ruota) ուրվագծով մոդելը պատրաստված է բրդի ազնվական խառնուրդից, որն ապահովում է բացառիկ փափկություն և փափուկ ծալքերի կառուցվածքային տեսք։ Դիզայնը առանձնանում է ճարտարապետական մաքրությամբ. իրանի հարթ ժապավենն ընդգծում է ուրվագծի նրբությունը, իսկ թաքնված կողային կայծակաճարմանդը երաշխավորում է կատարյալ հարմարեցումը։ Մինչև սրունքի կեսը հասնող երկարությունը և թեթև ձևվածքը այս կիսաշրջազգեստը դարձնում են «լուռ շքեղություն» էսթետիկայում կարգավիճակային կերպարներ ստեղծելու համար զգեստապահարանի հիմնարար տարր։",
+    "lv": "Midi svārki Ferriera no Luisa Spagnoli ir itāļu meistarības un klasiskas elegances nevainojams iemiesojums Giorno līnijā. „Saules” silueta (ruota) modelis ir izgatavots no cēla vilnas maisījuma, kas nodrošina izcilu mīkstumu un mīksto kroku struktūru. Dizains izceļas ar arhitektonisku tīrību: plakana josta viduklī uzsver silueta trauslumu, bet slēpts sānu rāvējslēdzējs garantē nevainojamu piegulumu. Garums līdz ikru vidum un lidojošs piegriezums padara šos svārkus par fundamentālu garderobes elementu statusa tēlu radīšanai „klusās greznības” estētikā.",
+    "lt": "„Ferriera“ midi sijonas iš „Luisa Spagnoli“ – tai nepriekaištingas itališko meistriškumo ir klasikinės elegancijos įsikūnijimas „Giorno“ linijoje. „Saulės“ (ruota) silueto modelis pagamintas iš kilnaus vilnos mišinio, kuris užtikrina išskirtinį minkštumą ir minkštų klosčių struktūriškumą. Dizainas išsiskiria architektūriniu grynumu: plati juosta ties liemeniu pabrėžia silueto trapumą, o paslėptas šoninis užtrauktukas garantuoja nepriekaištingą prigludimą. Ilgis iki blauzdos vidurio ir skriejantis kirpimas paverčia šį sijoną fundamentaliu garderobo elementu kuriant statusinius įvaizdžius „tylios prabangos“ estetikoje.",
+    "pl": "Spódnica midi Ferriera od Luisa Spagnoli to nienaganna definicja włoskiego kunsztu i klasycznej elegancji w linii Giorno. Model o kroju rozkloszowanym (ruota) wykonany jest ze szlachetnej mieszanki wełny, która zapewnia wyjątkową miękkość i strukturalność miękkich fałd. Design wyróżnia się architektoniczną czystością: płaski pas w talii podkreśla delikatność sylwetki, a ukryty boczny zamek błyskawiczny gwarantuje idealne dopasowanie. Długość do połowy łydki i lekki krój czynią tę spódnicę fundamentalnym elementem garderoby do tworzenia prestiżowych stylizacji w estetyce „cichego luksusu”.",
+    "uk": "Спідниця-міді Ferriera від Luisa Spagnoli — це бездоганне втілення італійської майстерності та класичної елегантності в лінії Giorno. Модель силуету «сонце» (ruota) виконана з благородної суміші вовни, яка забезпечує виняткову м'якість і структурність м'яких складок. Дизайн вирізняється архітектурною чистотою: пласка фасція на талії підкреслює тендітність силуету, а прихована бокова застібка-блискавка гарантує бездоганну посадку. Довжина до середини ікри та летючий крій перетворюють цю спідницю на фундаментальний елемент гардероба для створення статусних образів в естетиці «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Grigio Melange",
+      "code": "0813",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/egax8JISQYK6_qkM5jsxng_821559414696f4304481fb1_06686794_02821320XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Urban Chic)",
+        "en": "Total Look (Urban Chic)",
+        "ar": "Total Look (Urban Chic)",
+        "ka": "Total Look (Urban Chic)",
+        "hy": "Total Look (Urban Chic)",
+        "lv": "Total Look (Urban Chic)",
+        "lt": "Total Look (Urban Chic)",
+        "pl": "Total Look (Urban Chic)",
+        "uk": "Total Look (Urban Chic)"
+      },
+      "text": {
+        "ru": "Scalare 0817, Loggiate 4575, Ferriera 0813, Renno 0814 и сумка Idilliaco A 0986 0002.",
+        "en": "Scalare 0817, Loggiate 4575, Ferriera 0813, Renno 0814 and Idilliaco A 0986 0002 bag.",
+        "ar": "Scalare 0817, Loggiate 4575, Ferriera 0813, Renno 0814 and Idilliaco A 0986 0002 bag.",
+        "ka": "Scalare 0817, Loggiate 4575, Ferriera 0813, Renno 0814 and Idilliaco A 0986 0002 bag.",
+        "hy": "Scalare 0817, Loggiate 4575, Ferriera 0813, Renno 0814 and Idilliaco A 0986 0002 bag.",
+        "lv": "Scalare 0817, Loggiate 4575, Ferriera 0813, Renno 0814 and Idilliaco A 0986 0002 bag.",
+        "lt": "Scalare 0817, Loggiate 4575, Ferriera 0813, Renno 0814 and Idilliaco A 0986 0002 bag.",
+        "pl": "Scalare 0817, Loggiate 4575, Ferriera 0813, Renno 0814 and Idilliaco A 0986 0002 bag.",
+        "uk": "Scalare 0817, Loggiate 4575, Ferriera 0813, Renno 0814 and Idilliaco A 0986 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Scalare",
+          "code": "0817",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/579467540691c57cb581b12_63734955_02780440XX1.jpg",
+          "modelId": 300
+        },
+        {
+          "name": "Loggiate",
+          "code": "4575",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1961687562691f15665852c3_99168484_02780580XX1.jpg",
+          "modelId": 424
+        },
+        {
+          "name": "Ferriera",
+          "code": "0813",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/egax8JISQYK6_qkM5jsxng_821559414696f4304481fb1_06686794_02821320XX1.jpg"
+        },
+        {
+          "name": "Renno",
+          "code": "0814",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57693e01-fdb6-4b56-a73b-26c4b4d8ce61.jpg"
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (Luxury Comfort)",
+        "en": "Total Look (Luxury Comfort)",
+        "ar": "Total Look (Luxury Comfort)",
+        "ka": "Total Look (Luxury Comfort)",
+        "hy": "Total Look (Luxury Comfort)",
+        "lv": "Total Look (Luxury Comfort)",
+        "lt": "Total Look (Luxury Comfort)",
+        "pl": "Total Look (Luxury Comfort)",
+        "uk": "Total Look (Luxury Comfort)"
+      },
+      "text": {
+        "ru": "Situazione 0809, Murcia 0802, Ferriera 0813, серьги Nagorno 0002 и сапоги Uranio A 0101.",
+        "en": "Situazione 0809, Murcia 0802, Ferriera 0813, Nagorno 0002 earrings and Uranio A 0101 boots.",
+        "ar": "Situazione 0809, Murcia 0802, Ferriera 0813, Nagorno 0002 earrings and Uranio A 0101 boots.",
+        "ka": "Situazione 0809, Murcia 0802, Ferriera 0813, Nagorno 0002 earrings and Uranio A 0101 boots.",
+        "hy": "Situazione 0809, Murcia 0802, Ferriera 0813, Nagorno 0002 earrings and Uranio A 0101 boots.",
+        "lv": "Situazione 0809, Murcia 0802, Ferriera 0813, Nagorno 0002 earrings and Uranio A 0101 boots.",
+        "lt": "Situazione 0809, Murcia 0802, Ferriera 0813, Nagorno 0002 earrings and Uranio A 0101 boots.",
+        "pl": "Situazione 0809, Murcia 0802, Ferriera 0813, Nagorno 0002 earrings and Uranio A 0101 boots.",
+        "uk": "Situazione 0809, Murcia 0802, Ferriera 0813, Nagorno 0002 earrings and Uranio A 0101 boots."
+      },
+      "items": [
+        {
+          "name": "Situazione",
+          "code": "0809",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/N4kpuTJgRrqVtJEHXUVbtw_2745288696f42f948f606_55872285_02821040XX1.jpg",
+          "modelId": 321
+        },
+        {
+          "name": "Murcia",
+          "code": "0802",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/l5Z0et8oRpG_yhMCrEQ3ZA_2006503328696f436fb9b4d9_08969134_02830950XX1.jpg",
+          "modelId": 195
+        },
+        {
+          "name": "Ferriera",
+          "code": "0813",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/egax8JISQYK6_qkM5jsxng_821559414696f4304481fb1_06686794_02821320XX1.jpg"
+        },
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG",
+          "modelId": 198
+        },
+        {
+          "name": "Uranio A",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_10100000000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (Evening Glow)",
+        "en": "Total Look (Evening Glow)",
+        "ar": "Total Look (Evening Glow)",
+        "ka": "Total Look (Evening Glow)",
+        "hy": "Total Look (Evening Glow)",
+        "lv": "Total Look (Evening Glow)",
+        "lt": "Total Look (Evening Glow)",
+        "pl": "Total Look (Evening Glow)",
+        "uk": "Total Look (Evening Glow)"
+      },
+      "text": {
+        "ru": "Cromatura 0835 в паре с Ferriera 0813, дополненные сумкой Ls1928p A 0101 0038 и обувью Uranio A 0101.",
+        "en": "Cromatura 0835 paired with Ferriera 0813, complemented by an Ls1928p A 0101 0038 bag and Uranio A 0101 footwear.",
+        "ar": "Cromatura 0835 paired with Ferriera 0813, complemented by an Ls1928p A 0101 0038 bag and Uranio A 0101 footwear.",
+        "ka": "Cromatura 0835 paired with Ferriera 0813, complemented by an Ls1928p A 0101 0038 bag and Uranio A 0101 footwear.",
+        "hy": "Cromatura 0835 paired with Ferriera 0813, complemented by an Ls1928p A 0101 0038 bag and Uranio A 0101 footwear.",
+        "lv": "Cromatura 0835 paired with Ferriera 0813, complemented by an Ls1928p A 0101 0038 bag and Uranio A 0101 footwear.",
+        "lt": "Cromatura 0835 paired with Ferriera 0813, complemented by an Ls1928p A 0101 0038 bag and Uranio A 0101 footwear.",
+        "pl": "Cromatura 0835 paired with Ferriera 0813, complemented by an Ls1928p A 0101 0038 bag and Uranio A 0101 footwear.",
+        "uk": "Cromatura 0835 paired with Ferriera 0813, complemented by an Ls1928p A 0101 0038 bag and Uranio A 0101 footwear."
+      },
+      "items": [
+        {
+          "name": "Cromatura",
+          "code": "0835",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/g6CbitMFTEGqcztLAAoCYw_1947595878696f435d144b56_98907042_02830310XX1.jpg",
+          "modelId": 16
+        },
+        {
+          "name": "Ferriera",
+          "code": "0813",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/egax8JISQYK6_qkM5jsxng_821559414696f4304481fb1_06686794_02821320XX1.jpg"
+        },
+        {
+          "name": "Ls1928p A",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        },
+        {
+          "name": "Uranio A",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_10100000000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Embrace the versatility of Grigio Melange: this hue serves as the perfect canvas for playing with texture — from cashmere Murcia pullovers to embellished Cromatura cardigans.",
+      "Draw attention to the 'ruota' silhouette: the flared cut visually narrows the waist, creating a feminine look with effortless ease.",
+      "Highlight the fabric composition: 60% pure wool provides warmth in the cold season, while 2% elastane preserves the shape of the pleats and prevents deformation."
+    ],
+    "ru": [
+      "Делайте ставку на универсальность Grigio Melange: этот оттенок служит идеальным фоном для игры с фактурами — от кашемировых пуловеров Murcia до декорированных кардиганов Cromatura.",
+      "Акцентируйте внимание на силуэте 'ruota': расширяющийся к низу крой визуально сужает талию, создавая женственный образ без лишних усилий.",
+      "Подчеркните состав ткани: 60% натуральной шерсти обеспечивают тепловой комфорт в холодный сезон, а 2% эластана сохраняют форму складок и препятствуют деформации."
+    ],
+    "ar": [
+      "راهني على تعدد استخدامات Grigio Melange: فهذا اللون يعمل كخلفية مثالية للعب بالأنسجة - بدءاً من كنزات الكشمير Murcia وصولاً إلى الكارديغان المزخرف Cromatura.",
+      "أكدي على قصة 'ruota': فالقصة التي تتسع نحو الأسفل تضيق الخصر بصرياً، مما يخلق إطلالة أنثوية دون أي مجهود.",
+      "أكدي على تكوين القماش: 60% من الصوف الطبيعي توفر راحة حرارية في الموسم البارد، بينما تحافظ نسبة 2% من الإيلاستين على شكل الثنيات وتمنع التشوه."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი Grigio Melange-ის უნივერსალურობაზე: ეს ფერი წარმოადგენს იდეალურ ფონს ფაქტურებთან ექსპერიმენტებისთვის — Murcia-ს ქაშმირის პულოვერებიდან დაწყებული, Cromatura-ს დეკორირებული კარდიგანებით დამთავრებული.",
+      "ყურადღება გაამახვილეთ 'ruota' სილუეტზე: ქვემოთ გაშლილი კროი ვიზუალურად აწვრილებს წელს და ძალისხმევის გარეშე ქმნის ქალურ იერსახეს.",
+      "ხაზი გაუსვით ქსოვილის შემადგენლობას: 60% ნატურალური მატყლი უზრუნველყოფს სითბოს ცივ სეზონზე, ხოლო 2% ელასტანი ინარჩუნებს ნაკეცების ფორმას და ხელს უშლის დეფორმაციას."
+    ],
+    "hy": [
+      "Խաղադրույք կատարեք Grigio Melange-ի համընդհանուրության վրա. այս երանգը ծառայում է որպես իդեալական ֆոն՝ ֆակտուրաների հետ խաղալու համար՝ Murcia կաշմիրե պուլովերներից մինչև Cromatura զարդարված կարդիգաններ։",
+      "Շեշտադրեք 'ruota' սիլուետը. դեպի ներքև լայնացող ձևվածքը տեսողականորեն նեղացնում է գոտկատեղը՝ առանց ավելորդ ջանքերի ստեղծելով կանացի կերպար։",
+      "Ընդգծեք գործվածքի կազմը. 60% բնական բուրդը ապահովում է ջերմային հարմարավետություն ցուրտ եղանակին, իսկ 2% էլաստանը պահպանում է ծալքերի ձևը և կանխում դեֆորմացիան։"
+    ],
+    "lv": [
+      "Liekiet likmi uz Grigio Melange daudzpusību: šis tonis kalpo kā ideāls fons saspēlei ar faktūrām — sākot no Murcia kašmira džemperiem līdz rotātiem Cromatura kardiganiem.",
+      "Akcentējiet 'ruota' siluetu: uz leju paplašinātais piegriezums vizuāli sašaurina vidukli, bez pūlēm radot sievišķīgu tēlu.",
+      "Uzsveriet auduma sastāvu: 60% dabīgās vilnas nodrošina siltumu aukstajā sezonā, bet 2% elastāna saglabā ieloču formu un novērš deformāciju."
+    ],
+    "lt": [
+      "Statykite už Grigio Melange universalumą: šis atspalvis tarnauja kaip idealus fonas faktūrų žaismui – nuo kašmyrinių Murcia megztinių iki dekoruotų Cromatura kardiganų.",
+      "Akcentuokite „ruota“ siluetą: į apačią platėjantis kirpimas vizualiai lieknina liemenį, be vargo sukuriant moterišką įvaizdį.",
+      "Pabrėžkite audinio sudėtį: 60% natūralios vilnos užtikrina šiluminį komfortą šaltuoju sezonu, o 2% elastano išlaiko klosčių formą ir saugo nuo deformacijos."
+    ],
+    "pl": [
+      "Postaw na uniwersalność Grigio Melange: ten odcień stanowi idealne tło dla zabawy fakturami — od kaszmirowych pulowerów Murcia po zdobione kardigany Cromatura.",
+      "Akcentuj sylwetkę 'ruota': rozszerzany ku dołowi krój optycznie zwęża talię, tworząc kobiecy wizerunek bez zbędnego wysiłku.",
+      "Podkreśl skład tkaniny: 60% naturalnej wełny zapewnia komfort termiczny w chłodnym sezonie, a 2% elastanu utrzymuje kształt plis i zapobiega deformacji."
+    ],
+    "uk": [
+      "Робіть ставку на універсальність Grigio Melange: цей відтінок служить ідеальним фоном для гри з фактурами — від кашемірових пуловерів Murcia до декорованих кардиганів Cromatura.",
+      "Акцентуйте увагу на силуеті 'ruota': крій, що розширюється до низу, візуально звужує талію, створюючи жіночний образ без зайвих зусиль.",
+      "Підкресліть склад тканини: 60% натуральної вовни забезпечують тепловий комфорт у холодний сезон, а 2% еластану зберігають форму складок і перешкоджають деформації."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The model may appear too voluminous due to its circle cut.",
+        "a": "The fabric holds sufficient body for the pleats to fall vertically, without adding volume at the hips. We recommend pairing it with a fitted top, such as the Logge top."
+      },
+      {
+        "q": "A mid-calf length may visually shorten the frame.",
+        "a": "Paired with heeled footwear, such as the Uranio A 0101 boots, the skirt's high waist in fact visually elongates the vertical line of the silhouette."
+      },
+      {
+        "q": "Wool fabric may be difficult to care for in daily life.",
+        "a": "The addition of polyester to the fabric composition (38%) significantly improves durability and minimises creasing, making the skirt practical for a busy workday."
+      },
+      {
+        "q": "Grey melange looks too casual.",
+        "a": "It is precisely the refinement of the melange yarn that allows this piece to transition into eveningwear with the addition of statement jewellery, such as the Nagorno 0002 earrings."
+      },
+      {
+        "q": "No official data is available regarding the presence of pockets.",
+        "a": "The skirt's design is focused on clean lines and a fluid silhouette. For functionality, we suggest completing the look with a statement bag, such as the Idilliaco A 0986 0002."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Модель кажется слишком объемной из-за кроя «солнце».",
+        "a": "Ткань обладает достаточной плотностью, чтобы складки ниспадали вертикально, не создавая лишнего объема на бедрах. Рекомендуется сочетать с приталенным верхом, например топом Logge."
+      },
+      {
+        "q": "Длина до середины икры может визуально укорачивать рост.",
+        "a": "В сочетании с обувью на каблуке, такой как сапоги Uranio A 0101, высокая посадка юбки, наоборот, визуально вытягивает вертикаль силуэта."
+      },
+      {
+        "q": "Шерстяная ткань может быть сложной в повседневном уходе.",
+        "a": "Добавление полиэстера в состав полотна (38%) значительно повышает износостойкость и минимизирует сминаемость, что делает юбку практичной для активного рабочего дня."
+      },
+      {
+        "q": "Серый меланж выглядит слишком повседневно.",
+        "a": "Именно благородство меланжевой нити позволяет этой модели трансформироваться в вечернюю при добавлении акцентных украшений, таких как серьги Nagorno 0002."
+      },
+      {
+        "q": "относительно наличия карманов.",
+        "a": "Конструкция юбки сфокусирована на чистоте линий и летящем силуэте. Для функциональности мы предлагаем дополнить образ статусными сумками, такими как Idilliaco A 0986 0002."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يبدو الموديل ضخماً للغاية بسبب قصة «كلوش».",
+        "a": "يتمتع القماش بكثافة كافية لتنسدل الثنيات عمودياً دون خلق حجم إضافي عند الوركين. يُنصح بتنسيقه مع قطعة علوية ضيقة، مثل توب Logge."
+      },
+      {
+        "q": "طول التنورة حتى منتصف الساق قد يقلل من الطول بصرياً.",
+        "a": "عند تنسيقها مع أحذية بكعب، مثل حذاء Uranio A 0101، فإن الخصر العالي للتنورة يعمل على إطالة القوام عمودياً."
+      },
+      {
+        "q": "القماش الصوفي قد يكون صعباً في العناية اليومية.",
+        "a": "إضافة البوليستر إلى تركيب القماش (38%) تزيد بشكل كبير من المتانة وتقلل من التجعد، مما يجعل التنورة عملية ليوم عمل حافل."
+      },
+      {
+        "q": "اللون الرمادي الممزوج يبدو عادياً جداً.",
+        "a": "إن رقي الخيط الممزوج (ميلانج) هو ما يسمح لهذا الموديل بالتحول إلى إطلالة مسائية عند إضافة إكسسوارات بارزة، مثل أقراط Nagorno 0002."
+      },
+      {
+        "q": "لا توجد بيانات في المصادر الرسمية بخصوص وجود جيوب.",
+        "a": "تركز بنية التنورة على نقاء الخطوط والقوام المنسدل. ولإضفاء الطابع العملي، نقترح إكمال الإطلالة بحقائب ذات مكانة مميزة، مثل Idilliaco A 0986 0002."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მოდელი ზედმეტად მოცულობითი ჩანს «მზის» (ე.წ. «სოლნცე») ჭრის გამო.",
+        "a": "ქსოვილს გააჩნია საკმარისი სიმკვრივე იმისთვის, რომ ნაკეცები ვერტიკალურად დაეშვას და არ შექმნას ზედმეტი მოცულობა თეძოებზე. რეკომენდებულია შეხამება შემოტმასნილ ზედასთან, მაგალითად ტოპთან Logge."
+      },
+      {
+        "q": "სიგრძე წვივამდე შესაძლოა ვიზუალურად ამოკლებდეს ტანს.",
+        "a": "ქუსლიან ფეხსაცმელთან კომბინაციაში, როგორიცაა ჩექმები Uranio A 0101, ქვედაბოლოს მაღალი დაშვება, პირიქით, ვიზუალურად აგრძელებს სილუეტის ვერტიკალს."
+      },
+      {
+        "q": "მატყლის ქსოვილი შესაძლოა რთული იყოს ყოველდღიურ მოვლაში.",
+        "a": "ქსოვილის შემადგენლობაში პოლიესტერის დამატება (38%) მნიშვნელოვნად ზრდის ცვეთამედეგობას და ამცირებს დაჭმუჭვნადობას, რაც ქვედაბოლოს პრაქტიკულს ხდის აქტიური სამუშაო დღისთვის."
+      },
+      {
+        "q": "ნაცრისფერი მელანჟი ზედმეტად ყოველდღიურად გამოიყურება.",
+        "a": "სწორედ მელანჟის ძაფის კეთილშობილება აძლევს ამ მოდელს ტრანსფორმირების საშუალებას საღამოს მოდელად, აქცენტური სამკაულების დამატებისას, როგორიცაა საყურეები Nagorno 0002."
+      },
+      {
+        "q": "ოფიციალურ წყაროებში მონაცემები ჯიბეების არსებობის შესახებ არ მოიპოვება.",
+        "a": "ქვედაბოლოს კონსტრუქცია ფოკუსირებულია ხაზების სისუფთავესა და ჰაეროვან სილუეტზე. ფუნქციონალურობისთვის ჩვენ გთავაზობთ სახის შევსებას სტატუსური ჩანთებით, როგორიცაა Idilliaco A 0986 0002."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Մոդելը չափազանց ծավալուն է թվում «արև» ձևվածքի պատճառով",
+        "a": "Գործվածքն ունի բավարար խտություն, որպեսզի ծալքերը թափվեն ուղղահայաց՝ առանց ազդրերի հատվածում ավելորդ ծավալ ստեղծելու: Խորհուրդ է տրվում համադրել կիպ վերնամասի հետ, օրինակ՝ Logge տոպի հետ"
+      },
+      {
+        "q": "Մինչև սրունքի միջնամասը հասնող երկարությունը կարող է տեսողականորեն կարճացնել հասակը",
+        "a": "Uranio A 0101 կոշիկների նման կրունկներով կոշիկների հետ համադրելիս՝ կիսաշրջազգեստի բարձր գոտկատեղը, ընդհակառակը, տեսողականորեն երկարացնում է կազմվածքի ուղղահայաց գիծը"
+      },
+      {
+        "q": "Բրդյա գործվածքը կարող է բարդ լինել ամենօրյա խնամքի մեջ",
+        "a": "Գործվածքի կազմի մեջ պոլիեսթերի ավելացումը (38%) զգալիորեն բարձրացնում է մաշվածքակայունությունը և նվազագույնի է հասցնում կնճռոտումը, ինչը կիսաշրջազգեստը դարձնում է գործնական ակտիվ աշխատանքային օրվա համար"
+      },
+      {
+        "q": "Մոխրագույն մելանժը չափազանց առօրեական տեսք ունի",
+        "a": "Հենց մելանժային թելի ազնվությունն է թույլ տալիս այս մոդելին վերափոխվել երեկոյան հագուստի՝ շեշտադրող զարդերի ավելացման դեպքում, ինչպիսիք են Nagorno 0002 ականջօղերը"
+      },
+      {
+        "q": "Պաշտոնական աղբյուրներում տվյալներ չկան գրպանների առկայության վերաբերյալ",
+        "a": "Կիսաշրջազգեստի կառուցվածքը կենտրոնացած է գծերի մաքրության և թռիչքային ուրվագծի վրա: Ֆունկցիոնալության համար մենք առաջարկում ենք կերպարը լրացնել կարգավիճակային պայուսակներով, ինչպիսիք են Idilliaco A 0986 0002"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Modelis šķiet pārāk apjomīgs «saules» piegriezuma dēļ.",
+        "a": "Audumam piemīt pietiekams blīvums, lai krokas kristu vertikāli, neradot lieku apjomu uz gurniem. Ieteicams kombinēt ar pieguļošu augšdaļu, piemēram, topu Logge."
+      },
+      {
+        "q": "Garums līdz ikru vidum var vizuāli saīsināt augumu.",
+        "a": "Kombinācijā ar apaviem uz papēža, piemēram, zābakiem Uranio A 0101, svārku augstā piegriezuma līnija, gluži pretēji, vizuāli pagarina silueta vertikāli."
+      },
+      {
+        "q": "Vilnas audums var būt sarežģīts ikdienas kopšanā.",
+        "a": "Poliestera pievienošana auduma sastāvam (38%) ievērojami palielina nodilumizturību un samazina burzīšanos, kas padara svārkus praktiskus aktīvai darba dienai."
+      },
+      {
+        "q": "Pelēkais melanžs izskatās pārāk ikdienišķi.",
+        "a": "Tieši melanža diega cēlums ļauj šim modelim transformēties uz vakara tērpu, pievienojot akcentētas rotaslietas, piemēram, auskarus Nagorno 0002."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Modelis atrodo per daug apimties suteikiantis dėl „saulės“ kirpimo.",
+        "a": "Audinys yra pakankamai tankus, kad klostės kristų vertikaliai, nesudarydamos nereikalingos apimties ties klubais. Rekomenduojama derinti su prigludusiu viršumi, pavyzdžiui, Logge viršutine dalimi."
+      },
+      {
+        "q": "Ilgis iki blauzdos vidurio gali vizualiai trumpinti ūgį.",
+        "a": "Derinant su avalyne su kulnu, pavyzdžiui, Uranio A 0101 batais, aukštas sijono liemuo, priešingai, vizualiai ilgina silueto vertikalę."
+      },
+      {
+        "q": "Vilnonis audinys gali būti sudėtingas kasdienei priežiūrai.",
+        "a": "Poliesterio pridėjimas į audinio sudėtį (38 %) žymiai padidina atsparumą nusidėvėjimui ir sumažina glamžymąsi, todėl sijonas tampa praktiškas aktyviai darbo dienai."
+      },
+      {
+        "q": "Pilkas melanžas atrodo per daug kasdieniškai.",
+        "a": "Būtent melanžinio siūlo kilnumas leidžia šiam modeliui transformuotis į vakarinį, pridėjus akcentinius papuošalus, tokius kaip Nagorno 0002 auskarai."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Model wydaje się zbyt obszerny przez krój typu „słońce”.",
+        "a": "Tkanina posiada odpowiednią gęstość, dzięki której fałdy układają się pionowo, nie tworząc nadmiernej objętości na biodrach. Zalecamy łączyć z dopasowaną górą, na przykład topem Logge."
+      },
+      {
+        "q": "Długość do połowy łydki może optycznie skracać wzrost.",
+        "a": "W połączeniu z obuwiem na obcasie, takim jak kozaki Uranio A 0101, wysoki stan spódnicy wręcz przeciwnie, optycznie wydłuża linię sylwetki."
+      },
+      {
+        "q": "Wełniana tkanina może być kłopotliwa w codziennej pielęgnacji.",
+        "a": "Dodatek poliestru w składzie tkaniny (38%) znacząco podnosi odporność na zużycie i minimalizuje gniecenie się, co czyni spódnicę praktycznym wyborem na aktywny dzień pracy."
+      },
+      {
+        "q": "Szary melanż wygląda zbyt codziennie.",
+        "a": "To właśnie szlachetność melanżowej nici pozwala temu modelowi transformować się w wieczorowy przy dodaniu akcentujących ozdób, takich jak kolczyki Nagorno 0002."
+      },
+      {
+        "q": "dotyczących obecności kieszeni.",
+        "a": "Konstrukcja spódnicy skupia się na czystości linii i zwiewnej sylwetce. Dla zapewnienia funkcjonalności proponujemy uzupełnić stylizację prestiżowymi torebkami, takimi jak Idilliaco A 0986 0002."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Модель здається занадто об'ємною через крій «сонце».",
+        "a": "Тканина має достатню щільність, щоб складки спадали вертикально, не створюючи зайвого об'єму на стегнах. Рекомендується поєднувати з приталеним верхом, наприклад топом Logge."
+      },
+      {
+        "q": "Довжина до середини ікри може візуально вкорочувати зріст.",
+        "a": "У поєднанні з взуттям на підборах, таким як чоботи Uranio A 0101, висока посадка спідниці, навпаки, візуально витягує вертикаль силуету."
+      },
+      {
+        "q": "Вовняна тканина може бути складною у повсякденному догляді.",
+        "a": "Додавання поліестеру до складу полотна (38%) значно підвищує зносостійкість і мінімізує зминання, що робить спідницю практичною для активного робочого дня."
+      },
+      {
+        "q": "Сірий меланж виглядає занадто повсякденно.",
+        "a": "Саме благородство меланжевої нитки дозволяє цій моделі трансформуватися у вечірню при додаванні акцентних прикрас, таких як сережки Nagorno 0002."
+      },
+      {
+        "q": "щодо наявності кишень.",
+        "a": "Конструкція спідниці сфокусована на чистоті ліній та летячому силуеті. Для функціональності ми пропонуємо доповнити образ статусними сумками, такими як Idilliaco A 0986 0002."
+      }
+    ]
+  }
+}

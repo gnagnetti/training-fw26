@@ -1,0 +1,504 @@
+{
+  "id": 446,
+  "name": "Mirziana",
+  "description": {
+    "en": "The Mirziana dress is the quintessence of refined simplicity and aristocratic comfort, embodied in flawless Italian knitwear. The midi-length piece is crafted from pure virgin wool (pura lana vergine), whose noble texture is completed with delicate flat-rib details (coste piatte). The dress's design masterfully balances discipline and femininity: a high stand collar (lupetto), adorned with the signature heraldic LS buttons, illuminates the neckline area, creating a striking, status-defining accent. The flawless Regular fit and long sleeves form a slender, elongated silhouette that adapts perfectly to the rhythm of life of the contemporary woman who values the 'Quiet Luxury' style.",
+    "ru": "Платье Mirziana --- это квинтэссенция изысканной простоты и аристократичного уюта, воплощенная в безупречном итальянском трикотаже. Модель длины миди выполнена из чистой девственной шерсти (pura lana vergine), чья благородная фактура дополнена деликатными деталями в плоский рубчик (coste piatte). Дизайн платья виртуозно балансирует между строгостью и женственностью: высокий воротник-стойка (lupetto), украшенный фирменными геральдическими пуговицами LS, подсвечивает портретную зону, создавая эффектный статусный акцент. Безупречная регулярная посадка (vestibilità regular) и длинные рукава формируют стройный, вытянутый силуэт, который идеально адаптируется к ритму жизни современной женщины, ценящей стиль «Quiet Luxury».",
+    "ar": "فستان Mirziana هو جوهر البساطة الراقية والدفء الأرستقراطي، متجسداً في تريكو إيطالي لا تشوبه شائبة. صُمم الفستان بطول ميدي من الصوف البكر الخالص (pura lana vergine)، مع تفاصيل رقيقة من الحياكة المضلعة المسطحة (coste piatte). يوازن تصميم الفستان ببراعة بين الصرامة والأنوثة: حيث تبرز الياقة العالية (lupetto)، المزينة بأزرار LS الشعارية، منطقة الوجه وتضفي لمسة فخامة مميزة. تضمن القصة المنتظمة (vestibilità regular) والأكمام الطويلة مظهراً رشيقاً ومنسجماً، يتكيف بمرونة مع إيقاع حياة المرأة العصرية التي تقدر أسلوب «Quiet Luxury».",
+    "ka": "Mirziana კაბა არის დახვეწილი სიმარტივისა და არისტოკრატული სიმყუდროვის კვინტესენცია, რომელიც განსახიერებულია უნაკლო იტალიურ ტრიკოტაჟში. მიდი სიგრძის მოდელი შესრულებულია სუფთა ქალწულებრივი მატყლისგან (pura lana vergine), რომლის კეთილშობილური ფაქტურა დამატებულია ბრტყელი ნეკნების დელიკატური დეტალებით (coste piatte). კაბის დიზაინი ვირტუოზულად ბალანსირებს სიმკაცრესა და ქალურობას შორის: მაღალი საყელო (lupetto), რომელიც მორთულია ბრენდული ჰერალდიკური LS ღილებით, ანათებს პორტრეტულ ზონას და ქმნის ეფექტურ სტატუსურ აქცენტს. უნაკლო რეგულარული მორგება (vestibilità regular) და გრძელი სახელოები ქმნის ტანწერწეტა, დაგრძელებულ სილუეტს, რომელიც იდეალურად ერგება თანამედროვე ქალის ცხოვრების რიტმს, რომელიც აფასებს „Quiet Luxury“-ის სტილს.",
+    "hy": "Mirziana զգեստը նրբագեղ պարզության և արիստոկրատ հարմարավետության քվինտեսենցիան է՝ մարմնավորված անթերի իտալական տրիկոտաժում։ Միդի երկարությամբ մոդելը կատարված է մաքուր կուսական բրդից (pura lana vergine), որի ազնվական հյուսվածքը լրացված է հարթ կողավոր հյուսվածքի (coste piatte) նուրբ մանրուքներով։ Զգեստի դիզայնը վիրտուոզ կերպով հավասարակշռում է խստության և կանացիության միջև. LS ֆիրմային հերալդիկ կոճակներով զարդարված բարձր կանգնած օձիքը (lupetto) ընդգծում է դիմանկարային գոտին՝ ստեղծելով էֆեկտիվ կարգավիճակային շեշտադրում։ Անթերի կանոնավոր նստվածքը (vestibilità regular) և երկար թևքերը ձևավորում են բարակ, ձգված սիլուետ, որն իդեալականորեն հարմարվում է ժամանակակից կնոջ կյանքի ռիթմին, ով գնահատում է «Quiet Luxury» ոճը։",
+    "lv": "Kleita Mirziana --- ir izsmalcinātas vienkāršības un aristokrātiska mājīguma kvintesence, kas iemiesota nevainojamā itāļu adījumā. Midi garuma modelis ir izgatavots no tīras jaunvilnas (pura lana vergine), kuras cēlā faktūra ir papildināta ar delikātām detaļām plakanajā rievojumā (coste piatte). Kleitas dizains virtuozā veidā balansē starp stingrību un sievišķību: augstā stāvapkakle (lupetto), ko rotā firmas heraldiskās LS pogas, izceļ portreta zonu, radot efektīvu statusa akcentu. Nevainojama regulāra piegriezuma (vestibilità regular) un garās piedurknes veido slaidu, izstieptu siluetu, kas ideāli adaptējas mūsdienu sievietes dzīves ritmam, kura novērtē «Quiet Luxury» stilu.",
+    "lt": "Suknelė Mirziana --- tai rafinuoto paprastumo ir aristokratiško jaukumo kvintesencija, įkūnyta nepriekaištingame itališkame trikotaže. Midi ilgio modelis pagamintas iš grynos vilnos (pura lana vergine), kurios kilni faktūra papildyta subtiliomis plokščiomis briaunuotomis detalėmis (coste piatte). Suknelės dizainas virtuoziškai balansuoja tarp griežtumo ir moteriškumo: aukšta stovinti apykaklė (lupetto), papuošta firminėmis herbinėmis LS sagomis, išryškina portretinę zoną, sukurdama efektingą statuso akcentą. Nepriekaištingas reguliarus prigludimas (vestibilità regular) ir ilgos rankovės formuoja grakštų, ištęstą siluetą, kuris idealiai prisitaiko prie šiuolaikinės moters, vertinančios „Quiet Luxury“ stilių, gyvenimo ritmo.",
+    "pl": "Sukienka Mirziana to kwintesencja wyrafinowanej prostoty i arystokratycznej przytulności, ucieleśniona w nienagannej włoskiej dzianinie. Model o długości midi wykonany z czystej żywej wełny (pura lana vergine), której szlachetną fakturę uzupełniają delikatne detale w płaski prążek (coste piatte). Design sukienki balansuje wirtuozersko między surowością a kobiecością: wysoki kołnierz typu stójka (lupetto), ozdobiony firmowymi heraldycznymi guzikami LS, rozświetla okolicę twarzy, tworząc efektowny, prestiżowy akcent. Nienaganny regularny krój (vestibilità regular) i długie rękawy tworzą smukłą, wydłużoną sylwetkę, która idealnie adaptuje się do rytmu życia współczesnej kobiety ceniącej styl „Quiet Luxury”.",
+    "uk": "Сукня Mirziana --- це квінтесенція вишуканої простоти та аристократичного затишку, втілена в бездоганному італійському трикотажі. Модель довжини міді виконана з чистої дівочої вовни (pura lana vergine), чия благородна фактура доповнена делікатними деталями в плоский рубчик (coste piatte). Дизайн сукні віртуозно балансує між суворістю та жіночністю: високий комір-стійка (lupetto), прикрашений фірмовими геральдичними ґудзиками LS, підсвічує портретну зону, створюючи ефектний статусний акцент. Бездоганна регулярна посадка (vestibilità regular) і довгі рукави формують стрункий, витягнутий силует, який ідеально адаптується до ритму життя сучасної жінки, що цінує стиль «Quiet Luxury»."
+  },
+  "colors": [
+    {
+      "name": "Verde Militare",
+      "code": "1736",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000%20%285%29.jpg"
+    },
+    {
+      "name": "Melanzana",
+      "code": "0759",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2069679827691f1578acc705_27521813_02790530XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты Luisa Spagnoli предлагают использовать платье Mirziana как основу для создания многослойных подиумных и городских образов: Вариант 1736 ( Бежевый): В lookbook (Look 49): выступает как самостоятельный объект роскоши, подчеркивающий чистоту линий.",
+        "en": "Luisa Spagnoli stylists suggest using the Mirziana dress as a base for creating layered runway and urban looks: Option 1736 ( Beige): In lookbook (Look 49): stands as an independent luxury object, emphasizing the purity of the lines.",
+        "ar": "Luisa Spagnoli stylists suggest using the Mirziana dress as a base for creating layered runway and urban looks: Option 1736 ( Beige): In lookbook (Look 49): stands as an independent luxury object, emphasizing the purity of the lines.",
+        "ka": "Luisa Spagnoli stylists suggest using the Mirziana dress as a base for creating layered runway and urban looks: Option 1736 ( Beige): In lookbook (Look 49): stands as an independent luxury object, emphasizing the purity of the lines.",
+        "hy": "Luisa Spagnoli stylists suggest using the Mirziana dress as a base for creating layered runway and urban looks: Option 1736 ( Beige): In lookbook (Look 49): stands as an independent luxury object, emphasizing the purity of the lines.",
+        "lv": "Luisa Spagnoli stylists suggest using the Mirziana dress as a base for creating layered runway and urban looks: Option 1736 ( Beige): In lookbook (Look 49): stands as an independent luxury object, emphasizing the purity of the lines.",
+        "lt": "Luisa Spagnoli stylists suggest using the Mirziana dress as a base for creating layered runway and urban looks: Option 1736 ( Beige): In lookbook (Look 49): stands as an independent luxury object, emphasizing the purity of the lines.",
+        "pl": "Luisa Spagnoli stylists suggest using the Mirziana dress as a base for creating layered runway and urban looks: Option 1736 ( Beige): In lookbook (Look 49): stands as an independent luxury object, emphasizing the purity of the lines.",
+        "uk": "Luisa Spagnoli stylists suggest using the Mirziana dress as a base for creating layered runway and urban looks: Option 1736 ( Beige): In lookbook (Look 49): stands as an independent luxury object, emphasizing the purity of the lines."
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 40, Bambola 1)",
+        "en": "On display (Vetrina 40, Bambola 1)",
+        "ar": "On display (Vetrina 40, Bambola 1)",
+        "ka": "On display (Vetrina 40, Bambola 1)",
+        "hy": "On display (Vetrina 40, Bambola 1)",
+        "lv": "On display (Vetrina 40, Bambola 1)",
+        "lt": "On display (Vetrina 40, Bambola 1)",
+        "pl": "On display (Vetrina 40, Bambola 1)",
+        "uk": "On display (Vetrina 40, Bambola 1)"
+      },
+      "text": {
+        "ru": "предлагается в паре с объемным коротким пальто Soppalco 1153 и функциональной сумкой LS1928GP 1158 0038.",
+        "en": "offered paired with a voluminous short Soppalco 1153 coat and a functional LS1928GP 1158 0038 bag.",
+        "ar": "offered paired with a voluminous short Soppalco 1153 coat and a functional LS1928GP 1158 0038 bag.",
+        "ka": "offered paired with a voluminous short Soppalco 1153 coat and a functional LS1928GP 1158 0038 bag.",
+        "hy": "offered paired with a voluminous short Soppalco 1153 coat and a functional LS1928GP 1158 0038 bag.",
+        "lv": "offered paired with a voluminous short Soppalco 1153 coat and a functional LS1928GP 1158 0038 bag.",
+        "lt": "offered paired with a voluminous short Soppalco 1153 coat and a functional LS1928GP 1158 0038 bag.",
+        "pl": "offered paired with a voluminous short Soppalco 1153 coat and a functional LS1928GP 1158 0038 bag.",
+        "uk": "offered paired with a voluminous short Soppalco 1153 coat and a functional LS1928GP 1158 0038 bag."
+      },
+      "items": [
+        {
+          "name": "Soppalco",
+          "code": "1153",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1488849942691c57caedbdf3_57620623_02780430XX1.jpg",
+          "modelId": 329
+        },
+        {
+          "name": "LS1928GP",
+          "code": "1158 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928GP_115800180000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 41, Bambola 1)",
+        "en": "On display (Vetrina 41, Bambola 1)",
+        "ar": "On display (Vetrina 41, Bambola 1)",
+        "ka": "On display (Vetrina 41, Bambola 1)",
+        "hy": "On display (Vetrina 41, Bambola 1)",
+        "lv": "On display (Vetrina 41, Bambola 1)",
+        "lt": "On display (Vetrina 41, Bambola 1)",
+        "pl": "On display (Vetrina 41, Bambola 1)",
+        "uk": "On display (Vetrina 41, Bambola 1)"
+      },
+      "text": {
+        "ru": "статусный зимний сет с фактурным пальто Segnalibro 3335 и шляпой Rotterdam 1744.",
+        "en": "a status-oriented winter set with a textured Segnalibro 3335 coat and a Rotterdam 1744 hat.",
+        "ar": "a status-oriented winter set with a textured Segnalibro 3335 coat and a Rotterdam 1744 hat.",
+        "ka": "a status-oriented winter set with a textured Segnalibro 3335 coat and a Rotterdam 1744 hat.",
+        "hy": "a status-oriented winter set with a textured Segnalibro 3335 coat and a Rotterdam 1744 hat.",
+        "lv": "a status-oriented winter set with a textured Segnalibro 3335 coat and a Rotterdam 1744 hat.",
+        "lt": "a status-oriented winter set with a textured Segnalibro 3335 coat and a Rotterdam 1744 hat.",
+        "pl": "a status-oriented winter set with a textured Segnalibro 3335 coat and a Rotterdam 1744 hat.",
+        "uk": "a status-oriented winter set with a textured Segnalibro 3335 coat and a Rotterdam 1744 hat."
+      },
+      "items": [
+        {
+          "name": "Segnalibro",
+          "code": "3335",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1723709550691f1567c75ea0_11725074_02780600XX1.jpg",
+          "modelId": 478
+        },
+        {
+          "name": "Rotterdam",
+          "code": "1744",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/4a285c9d-a925-493b-b06c-8d85ec87d02a.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 44, Bambola 3)",
+        "en": "On display (Vetrina 44, Bambola 3)",
+        "ar": "On display (Vetrina 44, Bambola 3)",
+        "ka": "On display (Vetrina 44, Bambola 3)",
+        "hy": "On display (Vetrina 44, Bambola 3)",
+        "lv": "On display (Vetrina 44, Bambola 3)",
+        "lt": "On display (Vetrina 44, Bambola 3)",
+        "pl": "On display (Vetrina 44, Bambola 3)",
+        "uk": "On display (Vetrina 44, Bambola 3)"
+      },
+      "text": {
+        "ru": "сложная стилизация с сумкой Imele 2203 0002 и шляпой Renno 0930. Вариант 0759 ( Сливовый):",
+        "en": "a complex styling with an Imele 2203 0002 bag and a Renno 0930 hat. Option 0759 ( Plum):",
+        "ar": "a complex styling with an Imele 2203 0002 bag and a Renno 0930 hat. Option 0759 ( Plum):",
+        "ka": "a complex styling with an Imele 2203 0002 bag and a Renno 0930 hat. Option 0759 ( Plum):",
+        "hy": "a complex styling with an Imele 2203 0002 bag and a Renno 0930 hat. Option 0759 ( Plum):",
+        "lv": "a complex styling with an Imele 2203 0002 bag and a Renno 0930 hat. Option 0759 ( Plum):",
+        "lt": "a complex styling with an Imele 2203 0002 bag and a Renno 0930 hat. Option 0759 ( Plum):",
+        "pl": "a complex styling with an Imele 2203 0002 bag and a Renno 0930 hat. Option 0759 ( Plum):",
+        "uk": "a complex styling with an Imele 2203 0002 bag and a Renno 0930 hat. Option 0759 ( Plum):"
+      },
+      "items": [
+        {
+          "name": "Imele",
+          "code": "2203 0002",
+          "imageUrl": null
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 82)",
+        "en": "In lookbook (Look 82)",
+        "ar": "In lookbook (Look 82)",
+        "ka": "In lookbook (Look 82)",
+        "hy": "In lookbook (Look 82)",
+        "lv": "In lookbook (Look 82)",
+        "lt": "In lookbook (Look 82)",
+        "pl": "In lookbook (Look 82)",
+        "uk": "In lookbook (Look 82)"
+      },
+      "text": {
+        "ru": "платье дополнено эффектной золотистой сумкой-цепью и высокими сапогами, демонстрируя торжественность оттенка. Часто стилизуется с поясом-цепью Dedizione 0002 для акцента на талии.",
+        "en": "the dress is complemented by a striking gold chain bag and tall boots, demonstrating the solemnity of the shade. Often styled with a Dedizione 0002 chain belt to accentuate the waist.",
+        "ar": "the dress is complemented by a striking gold chain bag and tall boots, demonstrating the solemnity of the shade. Often styled with a Dedizione 0002 chain belt to accentuate the waist.",
+        "ka": "the dress is complemented by a striking gold chain bag and tall boots, demonstrating the solemnity of the shade. Often styled with a Dedizione 0002 chain belt to accentuate the waist.",
+        "hy": "the dress is complemented by a striking gold chain bag and tall boots, demonstrating the solemnity of the shade. Often styled with a Dedizione 0002 chain belt to accentuate the waist.",
+        "lv": "the dress is complemented by a striking gold chain bag and tall boots, demonstrating the solemnity of the shade. Often styled with a Dedizione 0002 chain belt to accentuate the waist.",
+        "lt": "the dress is complemented by a striking gold chain bag and tall boots, demonstrating the solemnity of the shade. Often styled with a Dedizione 0002 chain belt to accentuate the waist.",
+        "pl": "the dress is complemented by a striking gold chain bag and tall boots, demonstrating the solemnity of the shade. Often styled with a Dedizione 0002 chain belt to accentuate the waist.",
+        "uk": "the dress is complemented by a striking gold chain bag and tall boots, demonstrating the solemnity of the shade. Often styled with a Dedizione 0002 chain belt to accentuate the waist."
+      },
+      "items": [
+        {
+          "name": "Dedizione",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/T9Jr79OvTs6Rvtv2A7a1tA_997560146696f4218381d29_53393842_02800550XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 73, Bambola 3)",
+        "en": "On display (Vetrina 73, Bambola 3)",
+        "ar": "On display (Vetrina 73, Bambola 3)",
+        "ka": "On display (Vetrina 73, Bambola 3)",
+        "hy": "On display (Vetrina 73, Bambola 3)",
+        "lv": "On display (Vetrina 73, Bambola 3)",
+        "lt": "On display (Vetrina 73, Bambola 3)",
+        "pl": "On display (Vetrina 73, Bambola 3)",
+        "uk": "On display (Vetrina 73, Bambola 3)"
+      },
+      "text": {
+        "ru": "многослойный образ под классическим тренчем Supporre 2328 в сочетании с шелковым платком Rocchero 4693 и сумкой Iago 2240 0002.",
+        "en": "a layered look under a classic Supporre 2328 trench coat combined with a Rocchero 4693 silk scarf and an Iago 2240 0002 bag.",
+        "ar": "a layered look under a classic Supporre 2328 trench coat combined with a Rocchero 4693 silk scarf and an Iago 2240 0002 bag.",
+        "ka": "a layered look under a classic Supporre 2328 trench coat combined with a Rocchero 4693 silk scarf and an Iago 2240 0002 bag.",
+        "hy": "a layered look under a classic Supporre 2328 trench coat combined with a Rocchero 4693 silk scarf and an Iago 2240 0002 bag.",
+        "lv": "a layered look under a classic Supporre 2328 trench coat combined with a Rocchero 4693 silk scarf and an Iago 2240 0002 bag.",
+        "lt": "a layered look under a classic Supporre 2328 trench coat combined with a Rocchero 4693 silk scarf and an Iago 2240 0002 bag.",
+        "pl": "a layered look under a classic Supporre 2328 trench coat combined with a Rocchero 4693 silk scarf and an Iago 2240 0002 bag.",
+        "uk": "a layered look under a classic Supporre 2328 trench coat combined with a Rocchero 4693 silk scarf and an Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Supporre",
+          "code": "2328",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dy8XIV3dSJKeLAiihND0GQ_1780848425696f4300c29220_26044595_02821240XX1.jpg",
+          "modelId": 354
+        },
+        {
+          "name": "Rocchero",
+          "code": "4693",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/UeTI07JEQnuybrvsR-bv5g_2080263624691c57e8aaf160_18464595_02800370XX7.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 75, 75 A, 76)",
+        "en": "On display (Vetrina 75, 75 A, 76)",
+        "ar": "On display (Vetrina 75, 75 A, 76)",
+        "ka": "On display (Vetrina 75, 75 A, 76)",
+        "hy": "On display (Vetrina 75, 75 A, 76)",
+        "lv": "On display (Vetrina 75, 75 A, 76)",
+        "lt": "On display (Vetrina 75, 75 A, 76)",
+        "pl": "On display (Vetrina 75, 75 A, 76)",
+        "uk": "On display (Vetrina 75, 75 A, 76)"
+      },
+      "text": {
+        "ru": "подиумный выход под структурным пальто Scansione 0961 со шляпой Renno 0930 и сумкой Iago 2240 0002.",
+        "en": "a runway look under a structural Scansione 0961 coat with a Renno 0930 hat and an Iago 2240 0002 bag.",
+        "ar": "a runway look under a structural Scansione 0961 coat with a Renno 0930 hat and an Iago 2240 0002 bag.",
+        "ka": "a runway look under a structural Scansione 0961 coat with a Renno 0930 hat and an Iago 2240 0002 bag.",
+        "hy": "a runway look under a structural Scansione 0961 coat with a Renno 0930 hat and an Iago 2240 0002 bag.",
+        "lv": "a runway look under a structural Scansione 0961 coat with a Renno 0930 hat and an Iago 2240 0002 bag.",
+        "lt": "a runway look under a structural Scansione 0961 coat with a Renno 0930 hat and an Iago 2240 0002 bag.",
+        "pl": "a runway look under a structural Scansione 0961 coat with a Renno 0930 hat and an Iago 2240 0002 bag.",
+        "uk": "a runway look under a structural Scansione 0961 coat with a Renno 0930 hat and an Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Scansione",
+          "code": "0961",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg",
+          "modelId": 302
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- A jewel-like detail: Direct the client's attention to the LS heraldic buttons. They serve as a statement accessory in their own right, allowing a necklace to be forgone in favor of the pure elegance of the lupetto collar. - The magic of pure fiber: Emph"
+    ],
+    "ru": [
+      "- Ювелирная деталь: Акцентируйте внимание клиента на геральдических пуговицах LS. Они выполняют роль самостоятельного украшения, позволяя отказаться от колье в пользу чистой элегантности воротника-лупетто. - Магия чистого волокна: Сделайте упор на состав"
+    ],
+    "ar": [
+      "- تفصيلة الجواهر: وجهي انتباه العميل إلى أزرار LS الشعارية. فهي تلعب دور الزينة المستقلة، مما يتيح الاستغناء عن القلائد لصالح الأناقة البسيطة لياقة اللوبيتو (لو-بيت). - سحر الألياف النقية: ركزي على تركيب 100% pura lana vergine. إنه صوف القصة الأولى الذي ي"
+    ],
+    "ka": [
+      "- საიუველირო დეტალი: ყურადღება გაამახვილეთ მომხმარებლის LS-ის ჰერალდიკურ ღილებზე. ისინი ასრულებენ დამოუკიდებელი სამკაულის როლს, რაც საშუალებას გაძლევთ უარი თქვათ ყელსაბამზე ლუპეტოს საყელოს სუფთა ელეგანტურობის სასარგებლოდ. - სუფთა ბოჭკოს მაგია: გაამახვილეთ"
+    ],
+    "hy": [
+      "- Ոսկերչական մանրուք. Հաճախորդի ուշադրությունը հրավիրեք LS զինանշանային կոճակներին: Դրանք կատարում են ինքնուրույն զարդի դեր՝ թույլ տալով հրաժարվել վզնոցից՝ ի օգուտ լուպետտո օձիքի մաքուր էլեգանտության: - Մաքուր թելի մոգությունը. Շեշտը դրեք 100% pura lana v"
+    ],
+    "lv": [
+      "- Juvelierizstrādājuma detaļa: Akcentējiet klienta uzmanību uz heraldiskajām LS pogām. Tās pilda patstāvīgas rotaslietas lomu, ļaujot atteikties no kaklarotas par labu lupetto apkakles tīrajai elegancei. - Tīras šķiedras maģija: Lieciet uzsvaru uz 100% pu"
+    ],
+    "lt": [
+      "- Juvelyrinė detalė: Akcentuokite klientui heraldiškas LS sagas. Jos atlieka savarankiško papuošalo vaidmenį, leidžiančio atsisakyti vėrinio lupetto apykaklės elegancijos naudai. - Gryno pluošto magija: Akcentuokite 100% pura lana vergine sudėtį. Tai pirmojo kirpimo vilna, kuri garantuoja ne tik išskirtinį minkštumą, bet ir tobulą termoreguliaciją --- suknelė išlaiko šilumą, leisdama odai kvėpuoti. - Vizualinė korekcija: Pabrėžkite vertikalią plokščio rumbelio struktūrą. Derinant su ilgio iki kelių/blauzdų, šis dizainerio sprendimas vizualiai ilgina ūgį ir disciplinuoja siluetą, suteikdamas figūrai lieknumo."
+    ],
+    "pl": [
+      "- Jubilerski detal: Zwróć uwagę klienta na heraldyczne guziki LS. Pełnią one rolę samodzielnej ozdoby, pozwalając zrezygnować z naszyjnika na rzecz czystej elegancji kołnierza-lupetto. - Magia czystego włókna: Połóż nacisk na skład 100% pura lana vergine."
+    ],
+    "uk": [
+      "- Ювелірна деталь: Акцентуйте увагу клієнта на геральдичних ґудзиках LS. Вони виконують роль самостійної прикраси, дозволяючи відмовитися від кольє на користь чистої елегантності коміра-лупетто. - Магія чистого волокна: Зробіть акцент на складі 100% pura"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "knit dress Explain that this piece has a regular fit made might cling too from dense wool. It softly accentuates the figure much» without excess clinging, characteristic of premium knitwear. «The wool will be Suggest a tactile test of the delicate lana vergine. scratchy against This is the highest grade of wool, specifically the neck» developed for comfortable contact even with sensitive skin. «The midi length Showcase Look 82: pairing the dress with tall visually shortens boots (such as the Ulisside) creates an my legs» uninterrupted vertical line of color that, on the contrary, makes the legs appear endless. «The dress looks Add a Dedizione 0002 chain belt and a Renno too plain for a 0930 hat to the look. Accessories instantly night out» transform a basic dress into a fashion-forward, runway-ready \"Total Look.\" «The knit might Point out the density of the flat-rib knit. This stretch out in the fiber structure has a \"memory effect,\" helping back» the piece keep its shape and crisp lines even with active wear"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Вязаное платье",
+        "a": "Поясните, что модель выполнена в регулярной посадке может слишком (regular fit) из плотной шерсти. Она мягко облегать подчеркивает достоинства, не создавая излишнего облегания, что характерно для премиального трикотажа."
+      },
+      {
+        "q": "Шерсть будет",
+        "a": "Предложите тактильно оценить деликатность lana колоться в зоне vergine. Это самая высокая категория очистки шеи шерсти, разработанная специально для комфортного контакта даже с чувствительной кожей."
+      },
+      {
+        "q": "Длина миди",
+        "a": "Продемонстрируйте Look 82: сочетание платья с визуально высокими сапогами (например, Ulisside) создает укорачивает непрерывную цветовую вертикаль, которая, напротив, ноги делает ноги бесконечными."
+      },
+      {
+        "q": "Total Look",
+        "a": "."
+      },
+      {
+        "q": "Трикотаж может",
+        "a": "Укажите на плотность вязки в плоский рубчик. Такая вытянуться структура волокна обладает «эффектом памяти , помогая сзади» изделию сохранять форму и четкость линий даже при активной носке."
+      }
+    ],
+    "ar": [
+      {
+        "q": "ال",
+        "a": "فستان التريكو قد يلتصق بالجسم كثيراً» اشرحي أن الموديل مصمم بمقاس منتظم (regular fit) من الصوف الكثيف. هو يبرز ملامح القوام بنعومة دون التسبب في التصاق زائد، وهو ما يميز التريكو الفاخر. «الصوف سيسبب وخزاً في منطقة الرقبة» اقترحي لمس نعومة lana vergine. هذه أعلى فئة من الصوف المنقى، مصممة خصيصاً للراحة حتى مع البشرة الحساسة. «طول الميدي يجعل الساقين تبدوان أقصر» اعرضي الإطلالة 82: تنسيق الفستان مع أحذية عالية بصرياً (مثل Ulisside) يخلق خطاً لونياً عمودياً متصلاً، مما يجعل الساقين تبدوان بلا نهاية. «الفستان يبدو بسيطاً جداً للخروج» أضيفي للحزام سلسلة Dedizione 0002 وقبعة Renno 0930. الإكسسوارات تحول الفستان الأساسي فوراً إلى «Total Look» عصري وعلى طراز منصات العرض. «التريكو قد يتمدد من الخلف» أشيري إلى كثافة الحياكة المضلعة المسطحة. هذه البنية تتمتع «بذاكرة شكل»، مما يساعد القطعة على الحفاظ على قوامها وخطوطها الحادة حتى مع الاستخدام النشط"
+      }
+    ],
+    "ka": [
+      {
+        "q": "ნაქსოვი კაბა შესაძლოა ზედმეტად მომდგარი იყოს",
+        "a": "განუმარტეთ, რომ მოდელი შესრულებულია რეგულარული მორგებით (regular fit) მჭიდრო შალისგან. ის რბილად უსვამს ხაზს ღირსებებს, ზედმეტი მოტმასნის გარეშე, რაც დამახასიათებელია პრემიუმ კლასის ტრიკოტაჟისთვის."
+      },
+      {
+        "q": "შალი კისრის ზონაში მჩხვლეტავი იქნება",
+        "a": "შესთავაზეთ ტაქტილურად შეაფასონ lana vergine-ს დელიკატურობა. ეს არის შალის გასუფთავების ყველაზე მაღალი კატეგორია, შემუშავებული სპეციალურად მგრძნობიარე კანთან კომფორტული კონტაქტისთვის."
+      },
+      {
+        "q": "მიდი სიგრძე ფეხებს ამოკლებს",
+        "a": "წარმოადგინეთ Look 82: კაბის ვიზუალურად მაღალ ჩექმებთან (მაგალითად, Ulisside) შეხამება ქმნის უწყვეტ ფერად ვერტიკალს, რომელიც, პირიქით, ფეხებს დაუსრულებელს აჩენს."
+      },
+      {
+        "q": "კაბა გასასვლელისთვის ზედმეტად უბრალოდ გამოიყურება",
+        "a": "შემატეთ იერსახეს ჯაჭვი-სარტყელი Dedizione 0002 და ქუდი Renno 0930. აქსესუარები მყისიერად გარდაქმნის ბაზურ კაბას უახლეს მოდურ პოდიუმის."
+      },
+      {
+        "q": "Total Look“-ად. «ტრიკოტაჟი შესაძლოა ზურგის მხარეს გაიწელოს",
+        "a": "მიუთითეთ ბრტყელ ნაქსოვში ქსოვის სიმკვრივეს. ბოჭკოს ასეთ სტრუქტურას გააჩნია „მეხსიერების ეფექტი“, რომელიც ეხმარება ნაწარმს შეინარჩუნოს ფორმა და ხაზების სიცხადე აქტიური ტარების დროსაც კი."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Տրիկոտաժե զգեստը կարող է չափազանց կիպ լինել",
+        "a": "՝ Բացատրեք, որ մոդելը պատրաստված է կանոնավոր ձևվածքով (regular fit)՝ խիտ բրդից։ Այն մեղմորեն ընդգծում է առավելությունները՝ առանց չափազանց կիպ լինելու, ինչը բնորոշ է պրեմիում տրիկոտաժին։."
+      },
+      {
+        "q": "Բուրդը պարանոցի հատվածում կծակի",
+        "a": "՝ Առաջարկեք շոշափելով գնահատել lana vergine-ի նրբությունը։ Սա բրդի մաքրման ամենաբարձր կատեգորիան է, որը նախատեսված է հատուկ զգայուն մաշկի հետ անգամ հարմարավետ շփման համար։."
+      },
+      {
+        "q": "Միդի երկարությունը տեսողականորեն կարճացնում է ոտքերը",
+        "a": "՝ Ցուցադրեք Look 82-ը. զգեստի համադրությունը տեսողականորեն բարձր երկարաճիտ կոշիկների հետ (օրինակ՝ Ulisside) ստեղծում է անընդհատ գունային ուղղահայաց գիծ, որը, ընդհակառակը, ոտքերը դարձնում է անվերջանալի։."
+      },
+      {
+        "q": "Զգեստը չափազանց պարզ է թվում ելքի համար",
+        "a": "՝ Կերպարին ավելացրեք Dedizione 0002 շղթա-գոտին և Renno 0930 գլխարկը։ Աքսեսուարները ակնթարթորեն բազային զգեստը վերածում են նորաձև պոդիումային."
+      },
+      {
+        "q": "Total Look",
+        "a": "-ի։."
+      },
+      {
+        "q": "Տրիկոտաժը կարող է ձգվել հետևի մասում",
+        "a": "՝ Մատնանշեք հարթ կողագծերով հյուսվածքի խտությունը։ Մանրաթելի նման կառուցվածքը."
+      },
+      {
+        "q": "հիշողության էֆեկտ",
+        "a": "ունի՝ օգնելով արտադրանքին պահպանել ձևը և գծերի հստակությունը նույնիսկ ակտիվ կրելու ընթացքում։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Adīta kleita var",
+        "a": "Izskaidrojiet, ka modelis ir izpildīts regulārā piegriezumā pārāk cieši piegult (regular fit) no blīvas vilnas. Tas maigi izceļ priekšrocības, neradot lieku ciešumu, kas raksturīgs premium klases trikotāžai."
+      },
+      {
+        "q": "Vilna kakla zonā",
+        "a": "Piedāvājiet taktilā veidā novērtēt lana vergine delikātumu. var kost Tā ir visaugstākā vilnas attīrīšanas kategorija, kas izstrādāta īpaši komfortablam kontaktam pat ar jutīgu ādu."
+      },
+      {
+        "q": "Midi garums vizuāli",
+        "a": "Demonstrējiet Look 82: kleitas kombinācija ar vizuāli saīsina kājas gariem zābakiem (piemēram, Ulisside) rada nepārtrauktu krāsu vertikāli, kas, gluži pretēji, padara kājas bezgalīgi garas."
+      },
+      {
+        "q": "Kleita šķiet pārāk Pievienojiet tēlam ķēdes jostu Dedizione 0002 un cepuri vienkārša iziešanai",
+        "a": "Renno 0930. Aksesuāri acumirklī transformē bāzes kleitu par īpaši modernu, mēles cienīgu."
+      },
+      {
+        "q": "Total Look",
+        "a": "."
+      },
+      {
+        "q": "Trikotāža var izstiepties",
+        "a": "Norādiet uz plakano rievoto adījumu. Šādai šķiedras aizmugurē struktūrai piemīt."
+      },
+      {
+        "q": "atmiņas efekts",
+        "a": "palīdzot izstrādājumam saglabāt formu un līniju skaidrību pat aktīvas valkāšanas laikā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikti: „Megzta suknelė gali per",
+        "a": "Paaiškinkite, kad modelis yra taisyklingo prigludimo daug aptempti“ (regular fit) iš tankios vilnos. Ji švelniai pabrėžia privalumus, per daug neaptempdama, kas būdinga aukščiausios klasės trikotažui. , kad modelis yra taisyklingo prigludimo daug aptempti“ (regular fit) iš tankios vilnos. Ji švelniai pabrėžia privalumus, per daug neaptempdama, kas būdinga aukščiausios klasės trikotažui."
+      },
+      {
+        "q": "„Vilna bus šiurkšti kaklo",
+        "a": "Pasiūlykite paliesti ir įvertinti lana vergine srityje“ švelnumą. Tai aukščiausia vilnos valymo kategorija, sukurta specialiai patogiam kontaktui net su jautria oda. paliesti ir įvertinti lana vergine srityje“ švelnumą. Tai aukščiausia vilnos valymo kategorija, sukurta specialiai patogiam kontaktui net su jautria oda."
+      },
+      {
+        "q": "„Midi ilgis vizualiai",
+        "a": "Pademonstruokite Look 82: suknelės derinimas su ilgaauliais trumpina kojas“ batais (pavyzdžiui, Ulisside) sukuria vientisą spalvinę vertikalę, kuri, priešingai, daro kojas begalinėmis. „Suknelė atrodo per Pridėkite prie įvaizdžio Dedizione 0002 grandinėlę-diržą paprasta išėjimui“ ir Renno 0930 skrybėlę. Aksesuarai akimirksniu paverčia bazinę suknelę madinga „Total Look“ podiumo išvaizda. Look 82: suknelės derinimas su ilgaauliais trumpina kojas“ batais (pavyzdžiui, Ulisside) sukuria vientisą spalvinę vertikalę, kuri, priešingai, daro kojas begalinėmis. „Suknelė atrodo per Pridėkite prie įvaizdžio Dedizione 0002 grandinėlę-diržą paprasta išėjimui“ ir Renno 0930 skrybėlę. Aksesuarai akimirksniu paverčia bazinę suknelę madinga „Total Look“ podiumo išvaizda."
+      },
+      {
+        "q": "„Trikotažas gali",
+        "a": "Atkreipkite dėmesį į tankų plokščių rumbelių mezgimą. išsitampyti nugaroje“ Tokia pluošto struktūra turi „atminties efektą“, padedantį gaminiui išlaikyti formą ir linijų aiškumą net aktyviai dėvint."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Dzianinowa sukienka",
+        "a": "Wyjaśnij, że model wykonany jest w regularnym może zbyt mocno kroju (regular fit) z gęstej wełny. Miękko opływa, opinać nie tworząc nadmiernego obciskania, co jest charakterystyczne dla dzianin premium."
+      },
+      {
+        "q": "Wełna będzie gryźć",
+        "a": "Zaproponuj dotykową ocenę delikatności lana w okolicach szyi vergine. To najwyższa kategoria oczyszczonej wełny, opracowana specjalnie dla komfortowego kontaktu nawet z wrażliwą skórą."
+      },
+      {
+        "q": "Długość midi Zaprezentuj Look 82: połączenie sukienki z wizualnie skraca nogi",
+        "a": "wysokimi kozakami (na przykład Ulisside) tworzy ciągłą pionową linię kolorystyczną, która, wręcz przeciwnie, sprawia, że nogi wydają się nieskończenie długie."
+      },
+      {
+        "q": "Sukienka wygląda Dodaj do stylizacji pasek-łańcuszek Dedizione 0002 zbyt prosto na i kapelusz Renno 0930. Akcesoria błyskawicznie wyjście",
+        "a": "transformują bazową sukienkę w ultranowoczesny, wybiegowy."
+      },
+      {
+        "q": "Total Look",
+        "a": "."
+      },
+      {
+        "q": "Dzianina może",
+        "a": "Wskaż na gęstość splotu w płaski prążek. Taka wyciągnąć się z tyłu struktura włókna posiada."
+      },
+      {
+        "q": "efekt pamięci",
+        "a": "pomagając produktowi zachować formę i wyrazistość linii nawet przy aktywnym noszeniu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "В'язане плаття може надто облягати",
+        "a": "Поясніть, що модель виконана в регулярній посадці (regular fit) зі щільної вовни. Вона м'яко підкреслює переваги, не створюючи зайвого облягання, що характерно для преміального трикотажу."
+      },
+      {
+        "q": "Вовна буде колючий в зоні шиї",
+        "a": "Запропонуйте тактильно оцінити делікатність lana vergine. Це найвища категорія очищення вовни, розроблена спеціально для комфортного контакту навіть із чутливою шкірою."
+      },
+      {
+        "q": "Довжина міді вкорочує ноги",
+        "a": "Продемонструйте Look 82: поєднання плаття з візуально високими чоботами (наприклад, Ulisside) створює безперервну кольорову вертикаль, яка, навпаки, робить ноги безкінечними."
+      },
+      {
+        "q": "Плаття виглядає надто просто для виходу",
+        "a": "Додайте до образу пояс-ланцюг Dedizione 0002 і капелюх Renno 0930. Аксесуари миттєво трансформують базове плаття в гостромодний подіумний."
+      },
+      {
+        "q": "Total Look",
+        "a": "."
+      },
+      {
+        "q": "Трикотаж може витягнутися ззаду",
+        "a": "Вкажіть на щільність в'язки в плоский рубчик. Така структура волокна має."
+      },
+      {
+        "q": "ефект пам'яті",
+        "a": "допомагаючи виробу зберігати форму та чіткість ліній навіть при активному носінні."
+      }
+    ]
+  }
+}

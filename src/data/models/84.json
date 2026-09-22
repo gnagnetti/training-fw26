@@ -1,0 +1,396 @@
+{
+  "id": 84,
+  "name": "Gray",
+  "description": {
+    "en": "An embodiment of evening luxury and neoclassical style: the elegant Gray midi dress, exquisitely crafted from precious silk velvet. The piece enchants with a deep, sculptural C-shaped dÃ©colletage and graceful short puff sleeves with high fitted cuffs. An exquisite accent of enamelled buttons lends the look couture finish, while a flawless cut underscores the grace and status of its wearer.",
+    "ru": "Воплощение вечерней роскоши и неоклассического стиля: элегантное платье-миди Gray, искусно выполненное из драгоценного шелкового бархата. Модель очаровывает глубоким скульптурным декольте в форме буквы «С» и изящными короткими рукавами-буфами с высокими прилегающими манжетами. Изысканный акцент в виде эмалированных пуговиц придает образу кутюрную завершенность, а безупречный крой подчеркивает грацию и статус обладательницы.",
+    "ar": "تجسيد لفخامة السهرة والأسلوب الكلاسيكي الجديد: فستان Gray متوسط الطول (ميدي) الأنيق، المنفذ ببراعة من مخمل الحرير الثمين. يأسرك الموديل بفتحة صدر منحوتة وعميقة على شكل حرف \"C\" وأكمام قصيرة منفوخة أنيقة مع أساور ضيقة وعالية. تضفي اللمسة الراقية المتمثلة في الأزرار المطلية بالمينا على الإطلالة طابعاً من الكوتور، بينما يؤكد القص المتقن على رقي ومكانة من ترتديه.",
+    "ka": "საღამოს ფუფუნებისა და ნეოკლასიკური სტილის განსხეულება: ელეგანტური მიდი-კაბა Gray, ოსტატურად შესრულებული ძვირფასი აბრეშუმის ხავერდისგან. მოდელი ხიბლავს „С“-ს ფორმის ღრმა სკულპტურული დეკოლტეთი და მოკლე, დახვეწილი ბუშტ-სახელოებით მაღალი, მომდგარი მანჟეტებით. ემალირებული ღილების სახით წარმოდგენილი დახვეწილი აქცენტი იერს კუტურიეს დასრულებულ სახეს სძენს, ხოლო უნაკლო კერვა ხაზს უსვამს მფლობელის გრაციოზულობასა და სტატუსს.",
+    "hy": "Երեկոյան շքեղության և նեոդասական ոճի մարմնացում. Gray միդի զգեստ, որը հմտորեն պատրաստված է թանկարժեք մետաքսե թավշից: Մոդելը հմայում է «C» տառի ձևով խորը քանդակային դեկոլտեով և բարձր կիպ ծալքերով նուրբ կարճ թևերով: Էմալապատ կոճակների տեսքով նրբագեղ շեշտադրումը կերպարին հաղորդում է կուտյուրային ավարտունություն, իսկ անթերի ձևվածքն ընդգծում է կրողի շնորհքն ու կարգավիճակը:",
+    "lv": "Vakara greznības un neoklasicisma stila iemiesojums: eleganta Gray midi kleita, kas prasmīgi izgatavota no vērtīga zīda samta. Modeli apbur dziļš, skulpturāls «C» formas dekoltē un graciozas, īsas bufete-piedurknes ar augstām, piegulošām manšetēm. Izsmalcināts akcents emaljētu pogu veidā piešķir tēlam «haute couture» noslēgtību, bet nevainojamais piegriezums izceļ īpašnieces grāciju un statusu.",
+    "lt": "Vakaro prabangos ir neoklasikinio stiliaus įkūnijimas: elegantiška Gray midi suknelė, meistriškai pagaminta iš brangaus šilkinio aksomo. Modelį žavi gili, skulptūriška „C“ formos iškirptė ir grakščios trumpos pūstos rankovės su aukštais prigludusiais rankogaliais. Rafinuotas emaliuotų sagų akcentas suteikia įvaizdžiui aukštosios mados užbaigtumą, o nepriekaištingas kirpimas pabrėžia savininkės grakštumą ir statusą.",
+    "pl": "Ucieleśnienie wieczorowego luksusu i neoklasycznego stylu: elegancka sukienka midi Gray, kunsztownie wykonana ze szlachetnego jedwabnego aksamitu. Model zachwyca głębokim, rzeźbiarskim dekoltem w kształcie litery „C” oraz pełnymi wdzięku krótkimi bufiastymi rękawami z wysokimi, dopasowanymi mankietami. Wyrafinowany akcent w postaci emaliowanych guzików nadaje stylizacji krawiecki sznyt, a nieskazitelny krój podkreśla grację i status właścicielki.",
+    "uk": "Втілення вечірньої розкоші та неокласичного стилю: елегантна сукня-міді Gray, майстерно виконана з дорогоцінного шовкового оксамиту. Модель зачаровує глибоким скульптурним декольте у формі літери «С» та витонченими короткими рукавами-буфами з високими прилеглими манжетами. Вишуканий акцент у вигляді емальованих ґудзиків надає образу кутюрної завершеності, а бездоганний крій підкреслює грацію та статус власниці."
+  },
+  "colors": [
+    {
+      "name": "Blu",
+      "code": "1221",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/34IyXtSAR4CJtxDFA-DPzA_561762010696f4233e21800_36810259_02820230XX1.jpg"
+    },
+    {
+      "name": "Rubino",
+      "code": "2446",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/5L0bs7ShT2uANKpC-gGERA_1540420326696f42344ed410_23001950_02820240XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Evening Ruby)",
+        "ar": "Look 1 (Evening Ruby)",
+        "ka": "Look 1 (Evening Ruby)",
+        "hy": "Look 1 (Evening Ruby)",
+        "lv": "Look 1 (Evening Ruby)",
+        "lt": "Look 1 (Evening Ruby)",
+        "pl": "Look 1 (Evening Ruby)",
+        "uk": "Look 1 (Evening Ruby)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Вечерний рубин): Сочетание платья Gray 2446 с мерцающим браслетом Norreni 0001 0002 и туфлями Ullano A 0002. Дополнено сумкой Iglesias B 2422 0002.",
+        "en": "A combination of the Gray 2446 dress with a shimmering Norreni 0001 0002 bracelet and Ullano A 0002 pumps. Completed with an Iglesias B 2422 0002 bag ( Data not available in official sources).",
+        "ar": "A combination of the Gray 2446 dress with a shimmering Norreni 0001 0002 bracelet and Ullano A 0002 pumps. Completed with an Iglesias B 2422 0002 bag ( Data not available in official sources).",
+        "ka": "A combination of the Gray 2446 dress with a shimmering Norreni 0001 0002 bracelet and Ullano A 0002 pumps. Completed with an Iglesias B 2422 0002 bag ( Data not available in official sources).",
+        "hy": "A combination of the Gray 2446 dress with a shimmering Norreni 0001 0002 bracelet and Ullano A 0002 pumps. Completed with an Iglesias B 2422 0002 bag ( Data not available in official sources).",
+        "lv": "A combination of the Gray 2446 dress with a shimmering Norreni 0001 0002 bracelet and Ullano A 0002 pumps. Completed with an Iglesias B 2422 0002 bag ( Data not available in official sources).",
+        "lt": "A combination of the Gray 2446 dress with a shimmering Norreni 0001 0002 bracelet and Ullano A 0002 pumps. Completed with an Iglesias B 2422 0002 bag ( Data not available in official sources).",
+        "pl": "A combination of the Gray 2446 dress with a shimmering Norreni 0001 0002 bracelet and Ullano A 0002 pumps. Completed with an Iglesias B 2422 0002 bag ( Data not available in official sources).",
+        "uk": "A combination of the Gray 2446 dress with a shimmering Norreni 0001 0002 bracelet and Ullano A 0002 pumps. Completed with an Iglesias B 2422 0002 bag ( Data not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Gray",
+          "code": "2446",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/5L0bs7ShT2uANKpC-gGERA_1540420326696f42344ed410_23001950_02820240XX1.jpg"
+        },
+        {
+          "name": "Norreni",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/912272238691c57debb0715_18614146_02800260XX1.jpg"
+        },
+        {
+          "name": "Ullano A",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ab7471c9-c1c6-4a62-b524-62d471856f2c-removebg-preview.png"
+        },
+        {
+          "name": "Iglesias B",
+          "code": "2422 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1284.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Aristocratic Blue)",
+        "ar": "Look 2 (Aristocratic Blue)",
+        "ka": "Look 2 (Aristocratic Blue)",
+        "hy": "Look 2 (Aristocratic Blue)",
+        "lv": "Look 2 (Aristocratic Blue)",
+        "lt": "Look 2 (Aristocratic Blue)",
+        "pl": "Look 2 (Aristocratic Blue)",
+        "uk": "Look 2 (Aristocratic Blue)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Аристократичный синий): Платье Gray 1221 в ансамбле с клатчем Invitata D 0001 0002 и браслетом Norreni 0001 0002.",
+        "en": "Gray 1221 dress paired with an Invitata D 0001 0002 clutch and Norreni 0001 0002 bracelet.",
+        "ar": "Gray 1221 dress paired with an Invitata D 0001 0002 clutch and Norreni 0001 0002 bracelet.",
+        "ka": "Gray 1221 dress paired with an Invitata D 0001 0002 clutch and Norreni 0001 0002 bracelet.",
+        "hy": "Gray 1221 dress paired with an Invitata D 0001 0002 clutch and Norreni 0001 0002 bracelet.",
+        "lv": "Gray 1221 dress paired with an Invitata D 0001 0002 clutch and Norreni 0001 0002 bracelet.",
+        "lt": "Gray 1221 dress paired with an Invitata D 0001 0002 clutch and Norreni 0001 0002 bracelet.",
+        "pl": "Gray 1221 dress paired with an Invitata D 0001 0002 clutch and Norreni 0001 0002 bracelet.",
+        "uk": "Gray 1221 dress paired with an Invitata D 0001 0002 clutch and Norreni 0001 0002 bracelet."
+      },
+      "items": [
+        {
+          "name": "Gray",
+          "code": "1221",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/34IyXtSAR4CJtxDFA-DPzA_561762010696f4233e21800_36810259_02820230XX1.jpg"
+        },
+        {
+          "name": "Invitata D",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/oro.png"
+        },
+        {
+          "name": "Norreni",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/912272238691c57debb0715_18614146_02800260XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 3 (Total Velvet Look)",
+        "en": "Look 3 (Total Velvet Look)",
+        "ar": "Look 3 (Total Velvet Look)",
+        "ka": "Look 3 (Total Velvet Look)",
+        "hy": "Look 3 (Total Velvet Look)",
+        "lv": "Look 3 (Total Velvet Look)",
+        "lt": "Look 3 (Total Velvet Look)",
+        "pl": "Look 3 (Total Velvet Look)",
+        "uk": "Look 3 (Total Velvet Look)"
+      },
+      "text": {
+        "ru": "Композиция из платья Gray 2446 и изысканной сумки Ialofane 2446 0002.",
+        "en": "A composition featuring the Gray 2446 dress and an exquisite Ialofane 2446 0002 bag ( Data not available in official sources).",
+        "ar": "A composition featuring the Gray 2446 dress and an exquisite Ialofane 2446 0002 bag ( Data not available in official sources).",
+        "ka": "A composition featuring the Gray 2446 dress and an exquisite Ialofane 2446 0002 bag ( Data not available in official sources).",
+        "hy": "A composition featuring the Gray 2446 dress and an exquisite Ialofane 2446 0002 bag ( Data not available in official sources).",
+        "lv": "A composition featuring the Gray 2446 dress and an exquisite Ialofane 2446 0002 bag ( Data not available in official sources).",
+        "lt": "A composition featuring the Gray 2446 dress and an exquisite Ialofane 2446 0002 bag ( Data not available in official sources).",
+        "pl": "A composition featuring the Gray 2446 dress and an exquisite Ialofane 2446 0002 bag ( Data not available in official sources).",
+        "uk": "A composition featuring the Gray 2446 dress and an exquisite Ialofane 2446 0002 bag ( Data not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Gray",
+          "code": "2446",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/5L0bs7ShT2uANKpC-gGERA_1540420326696f42344ed410_23001950_02820240XX1.jpg"
+        },
+        {
+          "name": "Ialofane",
+          "code": "2446 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000.jpg",
+          "modelId": 90
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the distinctive texture of silk velvet: this material is synonymous with luxury and lends the color (Blu or Rubino) remarkable depth and a noble sheen.",
+      "Recommend the dress as the ideal choice for formal occasions (Gala, Black Tie) thanks to its combination of a tailored midi silhouette and a sensual décolletage.",
+      "Highlight the craftsmanship of the details: the enameled buttons and the puffed sleeve shape reflect the superior tailoring artistry of Luisa Spagnoli."
+    ],
+    "ru": [
+      "Сделайте акцент на уникальной фактуре шелкового бархата: этот материал является синонимом роскоши и придает цвету (Blu или Rubino) невероятную глубину и благородное сияние.",
+      "Рекомендуйте платье как идеальный выбор для торжественных мероприятий (Gala, Black Tie) благодаря сочетанию строгого миди-силуэта и чувственного декольте.",
+      "Подчеркните мастерство исполнения деталей: эмалированные пуговицы и форма рукавов-буф свидетельствуют о высоком уровне портновского искусства Luisa Spagnoli."
+    ],
+    "ar": [
+      "ركزي على الملمس الفريد للمخمل الحريري: فهذه الخامة مرادف للرفاهية وتمنح الألوان (مثل Blu أو Rubino) عمقاً لا يصدق وبريقاً ملكياً.",
+      "ننصح بالفستان كخيار مثالي للمناسبات الرسمية (Gala, Black Tie) بفضل المزيج بين قصة الميدي الرصينة وفتحة الصدر الحسية.",
+      "أكدي على حرفية التفاصيل: فالأزرار المطلية بالمينا وشكل الأكمام المنفوخة دليل على المستوى الرفيع لمهارة الخياطة في Luisa Spagnoli."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება აბრეშუმის ხავერდის უნიკალურ ფაქტურაზე: ეს მასალა ფუფუნების სინონიმია და Blu ან Rubino ფერებს ანიჭებს წარმოუდგენელ სიღრმესა და დახვეწილ ბზინვარებას.",
+      "ურჩიეთ კაბა როგორც იდეალური არჩევანი საზეიმო ღონისძიებებისთვის (Gala, Black Tie) მკაცრი მიდი-სილუეტისა და მგრძნობიარე დეკოლტეს კომბინაციის წყალობით.",
+      "ხაზი გაუსვით დეტალების შესრულების ოსტატობას: ემალირებული ღილები და ბუფ-მკლავების ფორმა Luisa Spagnoli-ის მაღალი სამკერვალო ხელოვნების დასტურია."
+    ],
+    "hy": [
+      "Շեշտադրեք մետաքսե թավշի յուրահատուկ հյուսվածքը. այս նյութը շքեղության հոմանիշ է և (Blu կամ Rubino) գույներին հաղորդում է անհավանական խորություն ու ազնվական փայլ։",
+      "Խորհուրդ տվեք զգեստը որպես կատարյալ ընտրություն հանդիսավոր միջոցառումների համար (Gala, Black Tie)՝ շնորհիվ խիստ միդի-ուրվագծի և զգայական դեկոլտեի համադրության։",
+      "Ընդգծեք դետալների կատարման վարպետությունը. էմալապատ կոճակները և բուֆ-թևքերի ձևը վկայում են Luisa Spagnoli-ի դերձակագործական արվեստի բարձր մակարդակի մասին։"
+    ],
+    "lv": [
+      "Vērsiet uzmanību uz zīda samta unikālo faktūru: šis materiāls ir greznības sinonīms un piešķir krāsai (Blu vai Rubino) neticamu dziļumu un cēlu mirdzumu.",
+      "Iesakiet kleitu kā ideālu izvēli svinīgiem pasākumiem (Gala, Black Tie), pateicoties stingra midi silueta un jutekliska dekoltē apvienojumam.",
+      "Uzsveriet detaļu izpildījuma meistarību: emaljētās pogas un bufete piedurkņu forma liecina par Luisa Spagnoli augstāko drēbniecības mākslas līmeni."
+    ],
+    "lt": [
+      "Akcentuokite unikalią šilkinio aksomo faktūrą: ši medžiaga yra prabangos sinonimas, suteikiantis spalvai (Blu arba Rubino) neįtikėtino gylio ir kilnaus žvilgesio.",
+      "Rekomenduokite suknelę kaip idealų pasirinkimą iškilmingiems renginiams (Gala, Black Tie) dėl griežto midi silueto ir jausmingos iškirptės derinio.",
+      "Pabrėžkite detalių atlikimo meistriškumą: emaliuotos sagos ir pūstų rankovių forma liudija aukštą Luisa Spagnoli siuvimo meno lygį."
+    ],
+    "pl": [
+      "Połóż nacisk na unikalną fakturę aksamitu jedwabnego: ten materiał jest synonimem luksusu i nadaje kolorom (Blu lub Rubino) niesamowitą głębię oraz szlachetny blask.",
+      "Rekomenduj sukienkę jako idealny wybór na uroczyste wydarzenia (Gala, Black Tie) dzięki połączeniu surowej sylwetki midi i zmysłowego dekoltu.",
+      "Podkreśl mistrzostwo wykonania detali: emaliowane guziki i kształt rękawów typu bufki świadczą o wysokim poziomie kunsztu krawieckiego Luisa Spagnoli."
+    ],
+    "uk": [
+      "Зробіть акцент на унікальній фактурі шовкового оксамиту: цей матеріал є синонімом розкоші та надає кольору (Blu або Rubino) неймовірної глибини та благородного сяйва.",
+      "Рекомендуйте сукню як ідеальний вибір для урочистих заходів (Gala, Black Tie) завдяки поєднанню суворого міді-силуету та чуттєвого декольте.",
+      "Підкресліть майстерність виконання деталей: емальовані ґудзики та форма рукавів-буф свідчать про високий рівень кравецького мистецтва Luisa Spagnoli."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "A deep neckline may seem too bold.",
+        "a": "The 'C' neckline is designed to softly accentuate the bustline while preserving elegance and refinement. We recommend completing it with one of our necklaces to add a note of restraint."
+      },
+      {
+        "q": "Velvet is a challenging material to care for.",
+        "a": "The Gray dress is crafted from the finest silk-and-viscose velvet, ensuring the piece's longevity when cared for through professional dry cleaning."
+      },
+      {
+        "q": "Short sleeves are not entirely practical for a winter evening.",
+        "a": "This piece is designed for indoor formal occasions. As a complement for your evening out, we suggest our luxurious Richiesta stoles from the collection."
+      },
+      {
+        "q": "A below-the-knee length may call for a certain height.",
+        "a": "Thanks to its fitted silhouette and emphasis at the neckline, the Gray dress visually elongates the proportions. Paired with our Ullano A heeled pumps, the look will be flawless for any figure type."
+      },
+      {
+        "q": "The dress looks suitable only for evening wear.",
+        "a": "This is indeed a statement piece for special occasions. However, its classic midi silhouette also lends itself to cocktail events, simply by exchanging the accessories for something more understated."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Глубокое декольте может выглядеть слишком смело.",
+        "a": "Дизайн выреза в форме «С» разработан так, чтобы мягко подчеркивать линию груди, сохраняя при этом элегантность и благородство образа. Мы рекомендуем дополнить его нашими колье, чтобы добавить сдержанности."
+      },
+      {
+        "q": "Бархат — сложный материал в уходе.",
+        "a": "Для изготовления платья Gray используется бархат высочайшего качества на основе шелка и вискозы, что обеспечивает долговечность изделия при условии профессиональной сухой чистки."
+      },
+      {
+        "q": "Короткие рукава не совсем практичны для зимнего вечера.",
+        "a": "Эта модель предназначена для закрытых торжественных мероприятий. В качестве дополнения для выхода мы предлагаем роскошные столы Richiesta из нашей коллекции."
+      },
+      {
+        "q": "Длина ниже колена может требовать определенного роста.",
+        "a": "Благодаря приталенному силуэту и акценту на верху, платье Gray визуально вытягивает пропорции. В сочетании с нашими лодочками на каблуке Ullano A образ будет безупречным для любого типа фигуры."
+      },
+      {
+        "q": "Платье выглядит только как вечернее.",
+        "a": "Это действительно статусная вещь для особых случаев. Однако классическая форма миди позволяет использовать его и для коктейльных выходов, меняя лишь аксессуары на более лаконичные."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تبدو قصة الصدر العميقة جريئة أكثر من اللازم.",
+        "a": "صُمم تصميم الفتحة على شكل حرف «C» ليعزز خط الصدر بنعومة مع الحفاظ على الأناقة والرقي في الإطلالة. ننصح بتنسيقها مع قلائدنا لإضفاء لمسة من الرزانة."
+      },
+      {
+        "q": "المخمل مادة تتطلب عناية فائقة.",
+        "a": "يُصنع فستان Gray من أجود أنواع المخمل القائم على الحرير والفيسكوز، مما يضمن متانة القطعة بشرط العناية بها عبر التنظيف الجاف الاحترافي."
+      },
+      {
+        "q": "الأكمام القصيرة ليست عملية تماماً لأمسية شتوية.",
+        "a": "هذا الموديل مخصص للمناسبات الرسمية المغلقة. وكإضافة مثالية للخروج، نقترح أوشحة Richiesta الفاخرة من مجموعتنا."
+      },
+      {
+        "q": "قد يتطلب الطول تحت الركبة قامة معينة.",
+        "a": "بفضل القصة المحددة للجسم والتركيز على الجزء العلوي، يمنح فستان Gray قواماً ممشوقاً بصرياً. وبالتنسيق مع أحذيتنا ذات الكعب العالي Ullano A، ستكون الإطلالة مثالية لأي شكل من أشكال الجسم."
+      },
+      {
+        "q": "يبدو الفستان كفستان سهرة فقط.",
+        "a": "إنها بالفعل قطعة استثنائية للمناسبات الخاصة. ومع ذلك، فإن القصة الكلاسيكية بطول ميدي تسمح بارتدائه في حفلات الكوكتيل أيضاً، مع تغيير الإكسسوارات فقط لتكون أكثر بساطة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ღრმა დეკოლტე შეიძლება ზედმეტად თამამად გამოიყურებოდეს.",
+        "a": "C» ფორმის დეკოლტეს დიზაინი შექმნილია ისე, რომ რბილად გაუსვას ხაზი გულმკერდის ხაზს, შეინარჩუნოს რა იმიჯის ელეგანტურობა და კეთილშობილება. ჩვენ გირჩევთ შეავსოთ ის ჩვენი ყელსაბამებით, რათა მცირე სიმკაცრე შემატოთ."
+      },
+      {
+        "q": "ხავერდი რთულად მოსავლელი მასალაა.",
+        "a": "Gray კაბის დასამზადებლად გამოიყენება უმაღლესი ხარისხის ხავერდი აბრეშუმისა და ვისკოზის საფუძველზე, რაც უზრუნველყოფს ნაკეთობის გამძლეობას პროფესიონალური ქიმწმენდის პირობებში."
+      },
+      {
+        "q": "მოკლე სახელოები არცთუ ისე პრაქტიკულია ზამთრის საღამოსთვის.",
+        "a": "ეს მოდელი განკუთვნილია დახურული საზეიმო ღონისძიებებისთვის. როგორც დამატება გასასვლელისთვის, ჩვენ გთავაზობთ Richiesta-ს მდიდრულ მოსასხამებს ჩვენი კოლექციიდან."
+      },
+      {
+        "q": "მუხლს ქვემოთ სიგრძე შეიძლება მოითხოვდეს გარკვეულ სიმაღლეს.",
+        "a": "გამოყვანილი სილუეტისა და ზედა ნაწილზე აქცენტის წყალობით, Gray კაბა ვიზუალურად აგრძელებს პროპორციებს. ჩვენს Ullano A ქუსლიან ფეხსაცმელებთან ერთად იმიჯი უნაკლო იქნება ნებისმიერი ტიპის ფიგურისთვის."
+      },
+      {
+        "q": "კაბა მხოლოდ საღამოს კაბად გამოიყურება.",
+        "a": "ეს მართლაც სტატუსური ნივთია განსაკუთრებული შემთხვევებისთვის. თუმცა, მიდი კლასიკური ფორმა საშუალებას იძლევა ის კოქტეილის წვეულებებისთვისაც გამოიყენოთ, მხოლოდ უფრო ლაკონიური აქსესუარებით ჩანაცვლების გზით."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Խորը դեկոլտեն կարող է չափազանց համարձակ թվալ",
+        "a": "C» ձևի բացվածքի դիզայնը մշակված է այնպես, որ մեղմորեն ընդգծի կրծքի գիծը՝ պահպանելով կերպարի նրբագեղությունն ու ազնվականությունը։ Մենք խորհուրդ ենք տալիս լրացնել այն մեր վզնոցներով՝ զսպվածություն հաղորդելու համար։"
+      },
+      {
+        "q": "Թավիշը խնամքի մեջ բարդ նյութ է",
+        "a": "Gray զգեստի պատրաստման համար օգտագործվում է մետաքսի և վիսկոզայի հիմքով ամենաբարձր որակի թավիշ, ինչն ապահովում է արտադրանքի երկարակեցությունը պրոֆեսիոնալ քիմմաքրման պայմաններում։"
+      },
+      {
+        "q": "Կարճ թևերը լիովին գործնական չեն ձմեռային երեկոյի համար",
+        "a": "Այս մոդելը նախատեսված է փակ հանդիսավոր միջոցառումների համար։ Ելքի համար որպես հավելում՝ մենք առաջարկում ենք շքեղ Richiesta շալեր մեր հավաքածուից։"
+      },
+      {
+        "q": "Ծնկից ներքև երկարությունը կարող է պահանջել որոշակի հասակ",
+        "a": "Շնորհիվ մարմնին կպած ուրվագծի և վերևի հատվածի վրա դրված շեշտադրման՝ Gray զգեստը տեսողականորեն ձգում է համամասնությունները։ Մեր Ullano A կրունկավոր նավակ-կոշիկների հետ համադրությամբ կերպարը կլինի անթերի ցանկացած տեսակի կազմվածքի համար։"
+      },
+      {
+        "q": "Զգեստը միայն երեկոյան տեսք ունի",
+        "a": "Սա իսկապես կարգավիճակային իր է հատուկ առիթների համար։ Այնուամենայնիվ, միդի դասական ձևը թույլ է տալիս այն օգտագործել նաև կոկտեյլային ելքերի համար՝ փոխելով միայն աքսեսուարներն ավելի լակոնիկներով։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Dziļš dekoltē var izskatīties pārāk drosmīgi.",
+        "a": "C\" formas izgriezuma dizains ir izstrādāts tā, lai maigi izceltu krūšu līniju, vienlaikus saglabājot tēla eleganci un cēlumu. Mēs iesakām to papildināt ar mūsu kaklarotām, lai piešķirtu atturību."
+      },
+      {
+        "q": "Samts ir sarežģīts materiāls kopšanā.",
+        "a": "Kleitas Gray izgatavošanai tiek izmantots augstākās kvalitātes samts uz zīda un viskozes bāzes, kas nodrošina izstrādājuma ilgmūžību, ja tiek veikta profesionāla ķīmiskā tīrīšana."
+      },
+      {
+        "q": "Īsas piedurknes nav īsti praktiskas ziemas vakaram.",
+        "a": "Šis modelis ir paredzēts slēgtiem svinīgiem pasākumiem. Kā papildinājumu iziešanai mēs piedāvājam greznas stolas Richiesta no mūsu kolekcijas."
+      },
+      {
+        "q": "Garums zem ceļgala var prasīt noteiktu augumu.",
+        "a": "Pateicoties piegulošajam siluetam un akcentam uz augšdaļu, kleita Gray vizuāli pagarina proporcijas. Kombinācijā ar mūsu laiviņām uz papēža Ullano A tēls būs nevainojams jebkura tipa figūrai."
+      },
+      {
+        "q": "Kleita izskatās tikai kā vakarkleita.",
+        "a": "Šī patiešām ir statusa lieta īpašiem gadījumiem. Tomēr klasiskā midi forma ļauj to izmantot arī kokteiļpasākumiem, mainot tikai aksesuārus uz lakoniskākiem."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Gili iškirptė gali atrodyti pernelyg drąsiai.",
+        "a": "„C“ formos iškirptės dizainas sukurtas taip, kad švelniai pabrėžtų krūtinės liniją, kartu išlaikant įvaizdžio eleganciją ir kilnumą. Rekomenduojame ją papildyti mūsų vėriniais, kad suteiktumėte daugiau santūrumo."
+      },
+      {
+        "q": "Aksomas — sudėtinga prižiūrima medžiaga.",
+        "a": "Suknelei Gray naudojamas aukščiausios kokybės aksomas šilko ir viskozės pagrindu, užtikrinantis gaminio ilgaamžiškumą tinkamai profesionaliai sausam valymui."
+      },
+      {
+        "q": "Ilgis žemiau kelių gali reikalauti tam tikro ūgio.",
+        "a": "Dėl prigludusio silueto ir akcento viršutinėje dalyje, suknelė Gray vizualiai ilgina proporcijas. Derinant su mūsų bateliais aukštu kulnu Ullano A, įvaizdis bus nepriekaištingas bet kokio tipo figūrai."
+      },
+      {
+        "q": "Suknelė atrodo tik kaip vakarinė.",
+        "a": "Tai išties statusą pabrėžiantis drabužis ypatingoms progoms. Tačiau klasikinė midi forma leidžia jį naudoti ir kokteilių vakarėliams, tereikia pakeisti aksesuarus į lakoniškesnius."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Głęboki dekolt może wydawać się zbyt śmiały.",
+        "a": "Design wycięcia w kształcie litery „C” został zaprojektowany tak, aby subtelnie podkreślać linię biustu, zachowując jednocześnie elegancję i szlachetność stylizacji. Rekomendujemy uzupełnienie go naszymi naszyjnikami, aby dodać całości powściągliwości."
+      },
+      {
+        "q": "Aksamit to materiał wymagający w pielęgnacji.",
+        "a": "Do wykonania sukni Gray wykorzystano aksamit najwyższej jakości na bazie jedwabiu i wiskozy, co zapewnia trwałość produktu pod warunkiem profesjonalnego czyszczenia chemicznego."
+      },
+      {
+        "q": "Krótkie rękawy nie są zbyt praktyczne na zimowy wieczór.",
+        "a": "Ten model przeznaczony jest na oficjalne uroczystości odbywające się wewnątrz pomieszczeń. Jako dodatek na wyjście proponujemy luksusowe etole Richiesta z naszej kolekcji."
+      },
+      {
+        "q": "Długość za kolano może wymagać określonego wzrostu.",
+        "a": "Dzięki dopasowanemu krojowi i akcentowi na górnej części, sukienka Gray optycznie wydłuża proporcje. W połączeniu z naszymi czółenkami na obcasie Ullano A stylizacja będzie nienaganna dla każdego typu sylwetki."
+      },
+      {
+        "q": "Sukienka wygląda tylko na wieczorową.",
+        "a": "To rzeczywiście sukienka o statusowym charakterze na specjalne okazje. Jednak klasyczny fason midi pozwala na wykorzystanie jej również podczas koktajlowych wyjść, zmieniając jedynie dodatki na bardziej minimalistyczne."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Глибоке декольте може виглядати занадто сміливо.",
+        "a": "Дизайн вирізу у формі «С» розроблений так, щоб м'яко підкреслювати лінію грудей, зберігаючи при цьому елегантність та благородство образу. Ми рекомендуємо доповнити його нашими кольє, щоб додати стриманості."
+      },
+      {
+        "q": "Оксамит — складний матеріал у догляді.",
+        "a": "Для виготовлення сукні Gray використовується оксамит найвищої якості на основі шовку та віскози, що забезпечує довговічність виробу за умови професійної сухої чистки."
+      },
+      {
+        "q": "Короткі рукави не зовсім практичні для зимового вечора.",
+        "a": "Ця модель призначена для закритих урочистих заходів. Як доповнення для виходу ми пропонуємо розкішні столи Richiesta з нашої колекції."
+      },
+      {
+        "q": "Довжина нижче коліна може вимагати певного зросту.",
+        "a": "Завдяки приталеному силуету та акценту на верху, сукня Gray візуально витягує пропорції. У поєднанні з нашими човниками на підборах Ullano A образ буде бездоганним для будь-якого типу фігури."
+      },
+      {
+        "q": "Сукня виглядає тільки як вечірня.",
+        "a": "Це справді статусна річ для особливих випадків. Проте класична форма міді дозволяє використовувати її і для коктейльних виходів, змінюючи лише аксесуари на більш лаконічні."
+      }
+    ]
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "id": 479,
+  "name": "Segreteria",
+  "description": {
+    "en": "The Segreteria 1751 car coat is a majestic interpretation of classic loden style, where the rugged aesthetic of alpine heritage meets Luisa Spagnoli's jewel-like sparkle. Crafted from dense wool-blend loden fabric (tessuto loden misto lana), possessing a unique ability to protect against the elements while preserving an aristocratic stature. The piece's design is rich with sartorial detail: decorative frog fastenings (alamari) at the sleeves and shoulders nod to military-chic style, while a structured, overlapping shoulder line creates a commanding, architectural silhouette. Particular charm is lent to the piece by jewel-like buttons (bottoni gioiello), transforming the car coat into a precious wardrobe object. Functionality is underscored by a detachable hood with a contrasting lining, a back yoke (carrÃ©), and patch pockets, while the interior finish in shimmering saglia cangiante twill delivers a sense of hidden luxury with every movement.",
+    "ru": "Кабан Segreteria 1751 --- это величественная интерпретация классического стиля лоден, где суровая эстетика альпийского наследия встречается с ювелирным блеском Luisa Spagnoli. Модель выполнена из плотной шерстяной ткани лоден (tessuto loden misto lana), обладающей уникальной способностью защищать от непогоды, сохраняя при этом аристократичную стать. Дизайн изделия изобилует сарториальными деталями: декоративные аламары (alamari) на рукавах и плечах отсылают к стилю милитари-шик, а структурированная линия плеча с нахлестом создает властный, архитектурный силуэт. Особое очарование модели придают пуговицы-жойелло (bottoni gioiello), превращающие кабан в драгоценный объект гардероба. Функциональность подчеркнута съемным капюшоном с контрастной подкладкой, задней кокеткой (carré) и накладными карманами, в то время как внутренняя отделка из переливающейся саржи (saglia cangiante) дарит ощущение скрытой роскоши при каждом движении.",
+    "ar": "تعد معطف الكابان Segreteria 1751 تفسيراً مهيباً لأسلوب اللودن الكلاسيكي، حيث تلتقي جماليات التراث الألبي الصارمة ببريق المجوهرات من Luisa Spagnoli. صُممت القطعة من نسيج اللودن الصوفي الكثيف (tessuto loden misto lana)، الذي يتمتع بقدرة فريدة على الحماية من الطقس السيئ مع الحفاظ على الهيبة الأرستقراطية. يزخر تصميم القطعة بتفاصيل الخياطة الفاخرة: الأزرار الزخرفية (alamari) على الأكمام والأكتاف تحاكي أسلوب الميليتاري-شيك، بينما تشكل خطوط الأكتاف المهيكلة صورة ظلية قوية ومعمارية. تضفي أزرار المجوهرات (bottoni gioiello) سحراً خاصاً على القطعة، مما يحولها إلى تحفة فنية في خزانة الملابس. وتبرز الوظيفة من خلال غطاء الرأس القابل للفصل ببطانة متباينة، والقطعة الخلفية (carré)، والجيوب الخارجية، بينما تمنح البطانة الداخلية من التويل اللامع (saglia cangiante) شعوراً بالفخامة الخفية مع كل حركة.",
+    "ka": "Кабан Segreteria 1751 --- წარმოადგენს კლასიკური ლოდენის სტილის დიდებულ ინტერპრეტაციას, სადაც ალპური მემკვიდრეობის მკაცრი ესთეტიკა Luisa Spagnoli-ს საიუველირო ბრწყინვალებას ხვდება. მოდელი შესრულებულია მკვრივი მატყლის ლოდენის ქსოვილისგან (tessuto loden misto lana), რომელსაც გააჩნია ცუდ ამინდთან გამკლავების უნიკალური უნარი, არისტოკრატული წყობის შენარჩუნებით. ნაკეთობის დიზაინი სავსეა მკერავის დეტალებით: დეკორატიული ალამარები (alamari) სახელოებზე და მხრებზე მიგვანიშნებს მილიტარი-შიკის სტილზე, ხოლო მხრის სტრუქტურირებული ხაზი ნაწყობით ქმნის ძალაუფლებიან, არქიტექტურულ სილუეტს. მოდელს განსაკუთრებულ მომხიბვლელობას ანიჭებს ღილები-ჟოიელო (bottoni gioiello), რომლებიც კაბანს გარდერობის ძვირფას ობიექტად აქცევს. ფუნქციონალობა ხაზგასმულია მოსახსნელი კაპიუშონით კონტრასტული უგულებელყოფით, უკანა კოკეტით (carré) და ნაკერული ჯიბეებით, მაშინ როდესაც მოელვარე სარჟის შიდა გაფორმება (saglia cangiante) ფარული ფუფუნების შეგრძნებას ჩუქნის ყოველი მოძრაობისას.",
+    "hy": "Segreteria 1751 կաբանը դասական լոդեն ոճի վեհաշուք մեկնաբանություն է, որտեղ ալպյան ժառանգության խիստ էսթետիկան հանդիպում է Luisa Spagnoli-ի ոսկերչական փայլին։ Մոդելը պատրաստված է խիտ բրդյա լոդեն գործվածքից (tessuto loden misto lana), որն ունի եղանակային անբարենպաստ պայմաններից պաշտպանվելու եզակի ունակություն՝ պահպանելով ազնվական կեցվածքը։ Արտադրանքի դիզայնը հագեցած է սարտորիալ մանրուքներով. թևերի և ուսերի դեկորատիվ ալամարները (alamari) հղում են կատարում միլիտարի-շիկ ոճին, իսկ ուսի կառուցվածքային գիծը ստեղծում է իշխող, ճարտարապետական ուրվագիծ։ Մոդելին առանձնահատուկ հմայք են հաղորդում ջոյելո-կոճակները (bottoni gioiello), որոնք կաբանը վերածում են զգեստապահարանի թանկարժեք օբյեկտի։ Ֆունկցիոնալությունը ընդգծված է հակադիր աստառով հանովի գլխարկով, հետևի կոկետայով (carré) և վերադիր գրպաններով, մինչդեռ փայլփլող սարժայից (saglia cangiante) ներքին հարդարանքը յուրաքանչյուր շարժման ժամանակ թաքնված շքեղության զգացողություն է պարգևում։",
+    "lv": "Kabāns Segreteria 1751 --- tā ir majestātiska klasiskā loden stila interpretācija, kur skarbā Alpu mantojuma estētika satiekas ar Luisa Spagnoli juvelierizstrādājumu mirdzumu. Modelis izgatavots no blīva loden vilnas auduma (tessuto loden misto lana), kam piemīt unikāla spēja pasargāt no nelabvēlīgiem laikapstākļiem, vienlaikus saglabājot aristokrātisku stāju. Izstrādājuma dizains ir bagāts ar sartoriālām detaļām: dekoratīvi alamari (alamari) uz piedurknēm un pleciem atsaucas uz militāro šiku, bet strukturēta plecu līnija ar pārlaidumu rada valdonīgu, arhitektonisku siluetu. Īpašu šarmu modelim piešķir dārglietu-pogas (bottoni gioiello), kas pārvērš kabānu par dārgu garderobes objektu. Funkcionalitāti izceļ noņemama kapuce ar kontrastējošu oderi, muguras juka (carré) un uzšūtas kabatas, savukārt iekšējā apdare no mirdzoša sarža (saglia cangiante) sniedz apslēptas greznības sajūtu ar katru kustību.",
+    "lt": "Striukė-kaban Segreteria 1751 – tai didinga klasikinio „loden“ stiliaus interpretacija, kurioje griežta Alpių paveldo estetika susitinka su Luisa Spagnoli juvelyriniu spindesiu. Modelis pagamintas iš tankaus vilnonio „loden“ audinio (tessuto loden misto lana), pasižyminčio unikalia savybe apsaugoti nuo nepalankių oro sąlygų, išlaikant aristokratišką laikyseną. Gaminio dizainas gausus siuvinėjimo detalių: dekoratyviniai alamari (alamari) ant rankovių ir pečių primena „military-chic“ stilių, o struktūrizuota pečių linija su persidengimu sukuria valdingą, architektūrinį siluetą. Ypatingo žavesio modeliui suteikia „bottoni gioiello“ sagos, paverčiančios šią striukę brangiu garderobo objektu. Funkcionalumą pabrėžia nuimamas gobtuvas su kontrastingu pamušalu, nugaros koketė (carré) ir uždėtos kišenės, o vidinė apdaila iš žvilgančio ruoželinio audinio (saglia cangiante) suteikia paslėptos prabangos pojūtį kiekvienu judesiu.",
+    "pl": "Kaban Segreteria 1751 --- to majestatyczna interpretacja klasycznego stylu loden, gdzie surowa estetyka alpejskiego dziedzictwa spotyka się z jubilerskim blaskiem Luisa Spagnoli. Model wykonany z gęstej wełnianej tkaniny loden (tessuto loden misto lana), posiadającej unikalną zdolność ochrony przed niepogodą, przy zachowaniu arystokratycznego charakteru. Design modelu obfituje w sartorialne detale: ozdobne alamary (alamari) na rękawach i ramionach nawiązują do stylu militarny szyk, a strukturalna linia ramion z zakładką tworzy władczą, architektoniczną sylwetkę. Szczególnego uroku modelowi dodają guziki-klejnoty (bottoni gioiello), zmieniające kaban w drogocenny obiekt garderoby. Funkcjonalność podkreśla odpinany kaptur z kontrastową podszewką, tylny karczek (carré) oraz kieszenie nakładane, podczas gdy wewnętrzne wykończenie z mieniącej się satyny (saglia cangiante) daje poczucie ukrytego luksusu przy każdym ruchu.",
+    "uk": "Кабан Segreteria 1751 --- це велична інтерпретація класичного стилю лоден, де сувора естетика альпійської спадщини зустрічається з ювелірним блиском Luisa Spagnoli. Модель виконана з цупкої вовняної тканини лоден (tessuto loden misto lana), що володіє унікальною здатністю захищати від негоди, зберігаючи при цьому аристократичну поставу. Дизайн виробу рясніє сарторіальними деталями: декоративні аламари (alamari) на рукавах та плечах відсилають до стилю мілітарі-шик, а структурована лінія плеча з напуском створює владний, архітектурний силует. Особливого шарму моделі додають ґудзики-жоєлло (bottoni gioiello), що перетворюють кабан на коштовний об'єкт гардероба. Функціональність підкреслена знімним каптуром з контрастною підкладкою, задньою кокеткою (carré) та накладними кишенями, тоді як внутрішнє оздоблення з переливчастої саржі (saglia cangiante) дарує відчуття прихованої розкоші при кожному русі."
+  },
+  "colors": [
+    {
+      "name": "Verde Militare",
+      "code": "1751",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1177856364692424dbb18d31_39928106_02781600XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать Segreteria 1751 ( как главный акцент в сложных многослойных образах, играя на контрастах фактур: Вариант 1751 ( Зеленый): В lookbook (Look 43): статусный ансамбль с уютным пуловером Messier 2439 в винных тонах и вельветовыми брюками Ornago 2422.",
+        "en": "The brand's stylists suggest using Segreteria 1751 ( as the main accent in complex layered looks, playing on contrasting textures: Variant 1751 ( Green): In the lookbook (Look 43): a high-status ensemble with a cozy Messier 2439 pullover in wine tones and corduroy Ornago 2422 trousers.",
+        "ar": "The brand's stylists suggest using Segreteria 1751 ( as the main accent in complex layered looks, playing on contrasting textures: Variant 1751 ( Green): In the lookbook (Look 43): a high-status ensemble with a cozy Messier 2439 pullover in wine tones and corduroy Ornago 2422 trousers.",
+        "ka": "The brand's stylists suggest using Segreteria 1751 ( as the main accent in complex layered looks, playing on contrasting textures: Variant 1751 ( Green): In the lookbook (Look 43): a high-status ensemble with a cozy Messier 2439 pullover in wine tones and corduroy Ornago 2422 trousers.",
+        "hy": "The brand's stylists suggest using Segreteria 1751 ( as the main accent in complex layered looks, playing on contrasting textures: Variant 1751 ( Green): In the lookbook (Look 43): a high-status ensemble with a cozy Messier 2439 pullover in wine tones and corduroy Ornago 2422 trousers.",
+        "lv": "The brand's stylists suggest using Segreteria 1751 ( as the main accent in complex layered looks, playing on contrasting textures: Variant 1751 ( Green): In the lookbook (Look 43): a high-status ensemble with a cozy Messier 2439 pullover in wine tones and corduroy Ornago 2422 trousers.",
+        "lt": "The brand's stylists suggest using Segreteria 1751 ( as the main accent in complex layered looks, playing on contrasting textures: Variant 1751 ( Green): In the lookbook (Look 43): a high-status ensemble with a cozy Messier 2439 pullover in wine tones and corduroy Ornago 2422 trousers.",
+        "pl": "The brand's stylists suggest using Segreteria 1751 ( as the main accent in complex layered looks, playing on contrasting textures: Variant 1751 ( Green): In the lookbook (Look 43): a high-status ensemble with a cozy Messier 2439 pullover in wine tones and corduroy Ornago 2422 trousers.",
+        "uk": "The brand's stylists suggest using Segreteria 1751 ( as the main accent in complex layered looks, playing on contrasting textures: Variant 1751 ( Green): In the lookbook (Look 43): a high-status ensemble with a cozy Messier 2439 pullover in wine tones and corduroy Ornago 2422 trousers."
+      },
+      "items": [
+        {
+          "name": "Segreteria",
+          "code": "1751",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1177856364692424dbb18d31_39928106_02781600XX1.jpg"
+        },
+        {
+          "name": "Messier",
+          "code": "2439",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1009101303691c5790f2b730_18424116_02790070XX1.jpg",
+          "modelId": 444
+        },
+        {
+          "name": "Ornago",
+          "code": "2422",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1411997118692424e36bc306_32856579_02781780XX1.jpg",
+          "modelId": 465
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 45, Bambola 3)",
+        "en": "In displays (Vetrina 45, Bambola 3)",
+        "ar": "In displays (Vetrina 45, Bambola 3)",
+        "ka": "In displays (Vetrina 45, Bambola 3)",
+        "hy": "In displays (Vetrina 45, Bambola 3)",
+        "lv": "In displays (Vetrina 45, Bambola 3)",
+        "lt": "In displays (Vetrina 45, Bambola 3)",
+        "pl": "In displays (Vetrina 45, Bambola 3)",
+        "uk": "In displays (Vetrina 45, Bambola 3)"
+      },
+      "text": {
+        "ru": "современная классика с пуловером Cremona 3349, шелковой рубашкой Latteria 2417 и брюками Olivetano 0943. Образ дополнен сумкой Iago 2240 0002 и шляпой Renno 0930.",
+        "en": "modern classic with a Cremona 3349 pullover, a Latteria 2417 silk shirt and Olivetano 0943 trousers. The look is complemented by an Iago 2240 0002 bag and a Renno 0930 hat.",
+        "ar": "modern classic with a Cremona 3349 pullover, a Latteria 2417 silk shirt and Olivetano 0943 trousers. The look is complemented by an Iago 2240 0002 bag and a Renno 0930 hat.",
+        "ka": "modern classic with a Cremona 3349 pullover, a Latteria 2417 silk shirt and Olivetano 0943 trousers. The look is complemented by an Iago 2240 0002 bag and a Renno 0930 hat.",
+        "hy": "modern classic with a Cremona 3349 pullover, a Latteria 2417 silk shirt and Olivetano 0943 trousers. The look is complemented by an Iago 2240 0002 bag and a Renno 0930 hat.",
+        "lv": "modern classic with a Cremona 3349 pullover, a Latteria 2417 silk shirt and Olivetano 0943 trousers. The look is complemented by an Iago 2240 0002 bag and a Renno 0930 hat.",
+        "lt": "modern classic with a Cremona 3349 pullover, a Latteria 2417 silk shirt and Olivetano 0943 trousers. The look is complemented by an Iago 2240 0002 bag and a Renno 0930 hat.",
+        "pl": "modern classic with a Cremona 3349 pullover, a Latteria 2417 silk shirt and Olivetano 0943 trousers. The look is complemented by an Iago 2240 0002 bag and a Renno 0930 hat.",
+        "uk": "modern classic with a Cremona 3349 pullover, a Latteria 2417 silk shirt and Olivetano 0943 trousers. The look is complemented by an Iago 2240 0002 bag and a Renno 0930 hat."
+      },
+      "items": [
+        {
+          "name": "Cremona",
+          "code": "3349",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eDNHV1c0RjWSZGmKSRYFrg_608445424696f436c3f19c0_12821392_02830820XX1.jpg",
+          "modelId": 15
+        },
+        {
+          "name": "Latteria",
+          "code": "2417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3Mx2ef25TdugVXg2-i0IIg_1643286833696f42dfd5b5f6_19897444_02820400XX1.jpg",
+          "modelId": 101
+        },
+        {
+          "name": "Olivetano",
+          "code": "0943",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qdI5UwLCT1OH3R6NaxIWHg_1650191426696f42e87b11a6_96447037_02820670XX1.jpg",
+          "modelId": 249
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 46, Bambola 2)",
+        "en": "In displays (Vetrina 46, Bambola 2)",
+        "ar": "In displays (Vetrina 46, Bambola 2)",
+        "ka": "In displays (Vetrina 46, Bambola 2)",
+        "hy": "In displays (Vetrina 46, Bambola 2)",
+        "lv": "In displays (Vetrina 46, Bambola 2)",
+        "lt": "In displays (Vetrina 46, Bambola 2)",
+        "pl": "In displays (Vetrina 46, Bambola 2)",
+        "uk": "In displays (Vetrina 46, Bambola 2)"
+      },
+      "text": {
+        "ru": "интеллектуальный городской шик с принтованной рубашкой Lusia 3406 1740 и вельветовыми брюками Olap 2259. Акцент --- сумка Imele 1744 0002.",
+        "en": "intellectual urban chic with a printed Lusia 3406 1740 shirt and corduroy Olap 2259 trousers. Accent --- Imele 1744 0002 bag.",
+        "ar": "intellectual urban chic with a printed Lusia 3406 1740 shirt and corduroy Olap 2259 trousers. Accent --- Imele 1744 0002 bag.",
+        "ka": "intellectual urban chic with a printed Lusia 3406 1740 shirt and corduroy Olap 2259 trousers. Accent --- Imele 1744 0002 bag.",
+        "hy": "intellectual urban chic with a printed Lusia 3406 1740 shirt and corduroy Olap 2259 trousers. Accent --- Imele 1744 0002 bag.",
+        "lv": "intellectual urban chic with a printed Lusia 3406 1740 shirt and corduroy Olap 2259 trousers. Accent --- Imele 1744 0002 bag.",
+        "lt": "intellectual urban chic with a printed Lusia 3406 1740 shirt and corduroy Olap 2259 trousers. Accent --- Imele 1744 0002 bag.",
+        "pl": "intellectual urban chic with a printed Lusia 3406 1740 shirt and corduroy Olap 2259 trousers. Accent --- Imele 1744 0002 bag.",
+        "uk": "intellectual urban chic with a printed Lusia 3406 1740 shirt and corduroy Olap 2259 trousers. Accent --- Imele 1744 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Lusia",
+          "code": "3406 1740",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1396325310692424d1b4d2c2_05847867_02781300XX1.jpg",
+          "modelId": 428
+        },
+        {
+          "name": "Olap",
+          "code": "2259",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/894988827691f15a03fcb79_08463233_02780960XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Imele",
+          "code": "1744 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 49, Bambola 2)",
+        "en": "In displays (Vetrina 49, Bambola 2)",
+        "ar": "In displays (Vetrina 49, Bambola 2)",
+        "ka": "In displays (Vetrina 49, Bambola 2)",
+        "hy": "In displays (Vetrina 49, Bambola 2)",
+        "lv": "In displays (Vetrina 49, Bambola 2)",
+        "lt": "In displays (Vetrina 49, Bambola 2)",
+        "pl": "In displays (Vetrina 49, Bambola 2)",
+        "uk": "In displays (Vetrina 49, Bambola 2)"
+      },
+      "text": {
+        "ru": "сложная костюмная многослойность с жакетом Salve 1789, рубашкой Lucinda 0201, пуловером Manos 0970 и брюками Odini 1789.",
+        "en": "complex suit layering with a Salve 1789 jacket, a Lucinda 0201 shirt, a Manos 0970 pullover and Odini 1789 trousers.",
+        "ar": "complex suit layering with a Salve 1789 jacket, a Lucinda 0201 shirt, a Manos 0970 pullover and Odini 1789 trousers.",
+        "ka": "complex suit layering with a Salve 1789 jacket, a Lucinda 0201 shirt, a Manos 0970 pullover and Odini 1789 trousers.",
+        "hy": "complex suit layering with a Salve 1789 jacket, a Lucinda 0201 shirt, a Manos 0970 pullover and Odini 1789 trousers.",
+        "lv": "complex suit layering with a Salve 1789 jacket, a Lucinda 0201 shirt, a Manos 0970 pullover and Odini 1789 trousers.",
+        "lt": "complex suit layering with a Salve 1789 jacket, a Lucinda 0201 shirt, a Manos 0970 pullover and Odini 1789 trousers.",
+        "pl": "complex suit layering with a Salve 1789 jacket, a Lucinda 0201 shirt, a Manos 0970 pullover and Odini 1789 trousers.",
+        "uk": "complex suit layering with a Salve 1789 jacket, a Lucinda 0201 shirt, a Manos 0970 pullover and Odini 1789 trousers."
+      },
+      "items": [
+        {
+          "name": "Salve",
+          "code": "1789",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/vxWux3ofS5SFEVbTaGH9Cg_99445790696f42f07c9277_19680844_02820850XX1.jpg"
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Manos",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+        },
+        {
+          "name": "Odini",
+          "code": "1789",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg",
+          "modelId": 451
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The nobility of genuine loden: Direct the client's attention to the material. Loden fabric in the Luisa Spagnoli collection is a symbol of durability and status. It resists wind and moisture, making the Segreteria 1751 car-coat the ideal choice for chan"
+    ],
+    "ru": [
+      "- Благородство настоящего лодена: Акцентируйте внимание клиента на материале. Ткань лоден в коллекции Luisa Spagnoli --- это символ долговечности и статуса. Она устойчива к ветру и влаге, что делает кабан Segreteria 1751 идеальным выбором для переменчивог"
+    ],
+    "ar": [
+      "- نبل قماش اللودين (Loden) الأصلي: ركزي انتباه العميل على خامة القماش. قماش اللودين في مجموعة Luisa Spagnoli هو رمز للمتانة والمكانة. إنه مقاوم للرياح والرطوبة، مما يجعل المعطف القصير (caban) Segreteria 1751 خياراً مثالياً للمناخ الشتوي المتقلب. - تحول ال"
+    ],
+    "ka": [
+      "- ნამდვილი ლოდენის კეთილშობილება: გაამახვილეთ კლიენტის ყურადღება მასალაზე. ლოდენის ქსოვილი Luisa Spagnoli-ს კოლექციაში --- ეს არის გამძლეობის და სტატუსის სიმბოლო. ის მდგრადია ქარისა და ნესტის მიმართ, რაც Segreteria 1751 კაბანს იდეალურ არჩევანად აქცევს ზამ"
+    ],
+    "hy": [
+      "- Իսկական լոդենի ազնվությունը. Շեշտադրեք հաճախորդի ուշադրությունը նյութի վրա: Luisa Spagnoli հավաքածուի լոդեն գործվածքը երկարակեցության և կարգավիճակի խորհրդանիշ է: Այն դիմացկուն է քամուն և խոնավությանը, ինչը Segreteria 1751 կաբանը դարձնում է իդեալական ընտ"
+    ],
+    "lv": [
+      "- Благородство настоящего лодена: Акцентируйте внимание клиента на материале. Ткань лоден в коллекции Luisa Spagnoli --- это символ долговечности и статуса. Она устойчива к ветру и влаге, что делает кабан Segreteria 1751 идеальным выбором для переменчивог"
+    ],
+    "lt": [
+      "- Tikrojo lodeno kilnumas: akcentuokite kliento dėmesį į medžiagą. Lodeno audinys Luisa Spagnoli kolekcijoje --- tai ilgaamžiškumo ir statuso simbolis. Jis atsparus vėjui ir drėgmei, todėl Segreteria 1751 puspaltis yra idealus pasirinkimas permainingam žiemos klimatui. - Stiliaus transformacija: pabrėžkite nuimamo gobtuvo buvimą. Su juo gaminys atrodo kaip funkcionalus miesto viršutinis drabužis, o be jo --- kaip griežtas, puošnus puspaltis su atvira apykaklės linija, tinkantis vakariniams išėjimams. - Juvelyrinis siuvimas: atkreipkite dėmesį į „joyello“ sagas. Šios detalės leidžia atsisakyti nereikalingų papuošalų: metalo ir akmenų spindesys matinio lodeno vilnos fone sukuria užbaigtą ir prabangų „Quiet Luxury“ stiliaus įvaizdį."
+    ],
+    "pl": [
+      "- Szlachetność prawdziwego loden: Skup uwagę klienta na materiale. Tkanina loden w kolekcji Luisa Spagnoli --- to symbol trwałości i statusu. Jest ona odporna na wiatr i wilgoć, co czyni kaban Segreteria 1751 idealnym wyborem na zmienny zimowy klimat. - T"
+    ],
+    "uk": [
+      "- Благородство справжнього лодена: Акцентуйте увагу клієнта на матеріалі. Тканина лоден у колекції Luisa Spagnoli --- це символ довговічності та статусу. Вона стійка до вітру та вологи, що робить кабан Segreteria 1751 ідеальним вибором для мінливого зимов"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Лоден кажется Поясните, что это профессиональная ткань с высокой слишком грубой плотностью, необходимая для поддержания тканью",
+        "a": "архитектурной формы кабана. Внутренняя подкладка из saglia cangiante гарантирует мягкость и комфорт при носке."
+      },
+      {
+        "q": "Капюшон делает Напомните клиенту, что капюшон съемный. Без него образ слишком модель Segreteria превращается в элегантное повседневным",
+        "a": "укороченное пальто, которое великолепно сочетается даже с вечерними шелковыми блузами."
+      },
+      {
+        "q": "Боюсь, что Хвойный зеленый — это «новая база",
+        "a": "сезона. зеленый цвет 1751 Продемонстрируйте Look 43: он идеально гармонирует сложно сочетать» с бордовыми (Messier 2439) и коричневыми оттенками коллекции."
+      },
+      {
+        "q": "Аламары выглядят Аламары в данной модели выполнены в лаконичном слишком стиле. Они структурируют силуэт и придают ему специфично",
+        "a": "подиумную динамику, выделяя владелицу из толпы."
+      },
+      {
+        "q": "Регулярный крой Напротив, благодаря четкой линии плеча с нахлестом может добавить и вертикальным линиям застежки, модель «собирает",
+        "a": "объема» фигуру, создавая статный и подтянутый силуэт."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Лоден кажется",
+        "a": "Поясните, что это профессиональная ткань с высокой слишком грубой плотностью, необходимая для поддержания тканью архитектурной формы кабана. Внутренняя подкладка из saglia cangiante гарантирует мягкость и комфорт при носке."
+      },
+      {
+        "q": "Капюшон делает",
+        "a": "Напомните клиенту, что капюшон съемный. Без него образ слишком модель Segreteria превращается в элегантное повседневным укороченное пальто, которое великолепно сочетается даже с вечерними шелковыми блузами."
+      },
+      {
+        "q": "Боюсь, что Хвойный зеленый — это «новая база",
+        "a": "сезона. зеленый цвет 1751 Продемонстрируйте Look 43: он идеально гармонирует сложно сочетать» с бордовыми (Messier 2439) и коричневыми оттенками коллекции."
+      },
+      {
+        "q": "Аламары выглядят Аламары в данной модели выполнены в лаконичном слишком стиле. Они структурируют силуэт и придают ему специфично",
+        "a": "подиумную динамику, выделяя владелицу из толпы."
+      },
+      {
+        "q": "Регулярный крой Напротив, благодаря четкой линии плеча с нахлестом может добавить и вертикальным линиям застежки, модель «собирает",
+        "a": "объема» фигуру, создавая статный и подтянутый силуэт."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يبدو قماش اللودين خشناً جداً",
+        "a": "وضحي أن هذا القماش يتميز بكثافة عالية وضروري للحفاظ على الشكل المعماري للمعطف (كابان). البطانة الداخلية من saglia cangiante تضمن النعومة والراحة عند الارتداء."
+      },
+      {
+        "q": "غطاء الرأس يجعل الموديل يبدو كاجوال أكثر من اللازم",
+        "a": "ذكري العميل بأن غطاء الرأس قابل للإزالة. بدونه، يتحول موديل Segreteria إلى معطف قصير أنيق يتناسب ببراعة حتى مع بلوزات الحرير المسائية."
+      },
+      {
+        "q": "أخشى أن اللون الأخضر 1751 صعب التنسيق",
+        "a": "اللون الأخضر الصنوبري هو."
+      },
+      {
+        "q": "الأساس الجديد",
+        "a": "لهذا الموسم. استعرضي Look 43: فهو يتناغم بامتياز مع درجات العنابي (Messier 2439) والبني في المجموعة."
+      },
+      {
+        "q": "تبدو مشابك الأزرار (ألامار) غريبة جداً",
+        "a": "تم تنفيذ المشابك في هذا الموديل بأسلوب بسيط؛ فهي تمنح القوام هيكلية وتضفي عليه طابع عروض الأزياء، مما يميز مرتدية القطعة عن الآخرين."
+      },
+      {
+        "q": "القصة العادية قد تزيد من حجم الجسم",
+        "a": "على العكس، بفضل خط الكتف المحدد والتداخل مع خطوط الأزرار العمودية، يقوم الموديل."
+      },
+      {
+        "q": "بجمع",
+        "a": "القوام، مما يخلق صورة ظلية ممشوقة وأنيقة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "შეწინააღმდეგება სტრატეგია გადალახვისა „ლოშენი ზედმეტად უხეშ",
+        "a": "განმარტეთ, რომ ეს არის მაღალი სიმკვრივის პროფესიონალური ქსოვილად ჩანს“ ქსოვილი, რომელიც აუცილებელია კაბანის არქიტექტურული ფორმის შესანარჩუნებლად. saglia cangiante-ს შიდა უგულებელყოფა უზრუნველყოფს რბილობას და კომფორტს ტარებისას. , რომ ეს არის მაღალი სიმკვრივის პროფესიონალური ქსოვილად ჩანს“ ქსოვილი, რომელიც აუცილებელია კაბანის არქიტექტურული ფორმის შესანარჩუნებლად. saglia cangiante-ს შიდა უგულებელყოფა უზრუნველყოფს რბილობას და კომფორტს ტარებისას."
+      },
+      {
+        "q": "„კაპიუშონი მოდელს ზედმეტად",
+        "a": "შეახსენეთ კლიენტს, რომ კაპიუშონი მოსახსნელია. მის გარეშე ყოველდღიურს ხდის“ Segreteria-ს მოდელი გარდაიქმნება ელეგანტურ მოკლე პალტოდ, რომელიც შესანიშნავად შეეხამება საღამოს აბრეშუმის ბლუზებსაც კი. „მეშინია, რომ წიწვოვანი მწვანე — სეზონის „ახალი ბაზაა“. კლიენტს, რომ კაპიუშონი მოსახსნელია. მის გარეშე ყოველდღიურს ხდის“ Segreteria-ს მოდელი გარდაიქმნება ელეგანტურ მოკლე პალტოდ, რომელიც შესანიშნავად შეეხამება საღამოს აბრეშუმის ბლუზებსაც კი. „მეშინია, რომ წიწვოვანი მწვანე — სეზონის „ახალი ბაზაა“."
+      },
+      {
+        "q": "მწვანე ფერი 1751-ის",
+        "a": "აჩვენეთ Look 43: ის იდეალურად ჰარმონიზდება კოლექციის ბორდოსფერ (Messier 2439) და ყავისფერ ელფერებთან. „ალამარები ზედმეტად ამ მოდელში ალამარები შესრულებულია ლაკონიურ სტილში. ისინი სპეციფიკურად გამოიყურება“ სტრუქტურირებას უკეთებენ სილუეტს და მატებენ მას პოდიუმის დინამიკას, რაც მფლობელს ბრბოსგან გამოარჩევს. „რეგულარული ჭრილი პირიქით, მხრის მკაფიო ხაზისა და შესაკრავის ვერტიკალური ხაზების შესაძლოა მოცულობას შემატოს“ წყალობით, მოდელი „კრებს“ ფიგურას და ქმნის სტატურ და გამოკვეთილ სილუეტს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Լոդենը չափազանց կոպիտ գործվածք է թվում»։",
+        "a": "Պարզաբանեք, որ սա բարձր խտությամբ պրոֆեսիոնալ գործվածք է, որն անհրաժեշտ է կաբանի ճարտարապետական ձևը պահպանելու համար: Saglia cangiante-ի ներքին աստառը երաշխավորում է փափկություն և հարմարավետություն կրելիս: «Գլխարկը մոդելը դարձնում է չափազանց առօրյա»։ Հիշեցրեք հաճախորդին, որ գլխարկը հանովի է: Առանց դրա՝ Segreteria մոդելը վերածվում է նրբագեղ կարճ վերարկուի, որը հիանալի համադրվում է նույնիսկ երեկոյան մետաքսյա բլուզների հետ: «Վախենում եմ, որ 1751 կանաչ գույնը դժվար է համադրել»։ Փշատերև կանաչը սեզոնի «նոր բազան» է: Ցուցադրեք Look 43-ը. այն իդեալականորեն ներդաշնակվում է հավաքածուի բորդո (Messier 2439) և շագանակագույն երանգների հետ: «Ալամարները չափազանց յուրահատուկ տեսք ունեն»։ Այս մոդելի ալամարները կատարված են լակոնիկ ոճով: Դրանք կառուցվածք են հաղորդում ուրվագծին և պոդիումային դինամիկա են տալիս՝ առանձնացնելով կրողին ամբոխից: «Կանոնավոր կտրվածքը կարող է ծավալ ավելացնել»։ Հակառակը, ուսի հստակ գծի և ճարմանդի ուղղահայաց գծերի շնորհիվ, մոդելը «հավաքում» է կազմվածքը՝ ստեղծելով կանգուն և ձիգ ուրվագիծ"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Lodēns šķiet pārāk raupjš audums",
+        "a": "Paskaidrojiet, ka tas ir profesionāls audums ar augstu blīvumu, kas nepieciešams mēteļa arhitektoniskās formas uzturēšanai. Iekšējā odere no saglia cangiante garantē mīkstumu un komfortu valkāšanas laikā."
+      },
+      {
+        "q": "Kapuce padara modeli pārāk ikdienišķu",
+        "a": "Atgādiniet klientam, ka kapuce ir noņemama. Bez tās modelis Segreteria pārvēršas par elegantu īsu mēteli, kas lieliski sader pat ar vakara zīda blūzēm."
+      },
+      {
+        "q": "Baidos, ka zaļo krāsu 1751 ir grūti kombinēt",
+        "a": "Skuju zaļā krāsa ir sezonas."
+      },
+      {
+        "q": "jaunā bāze",
+        "a": ". Demonstrējiet Look 43: tas ideāli harmonē ar bordo (Messier 2439) un kolekcijas brūnajiem toņiem."
+      },
+      {
+        "q": "Alamari izskatās pārāk specifiski",
+        "a": "Alamari šajā modelī ir izpildīti lakoniskā stilā. Tie strukturē siluetu un piešķir tam podija dinamiku, izceļot īpašnieci no pūļa."
+      },
+      {
+        "q": "Regulārais piegriezums var pievienot apjomu",
+        "a": "Gluži pretēji, pateicoties skaidrai plecu līnijai ar pārlaidumu un vertikālām aizdares līnijām, modelis."
+      },
+      {
+        "q": "savāc",
+        "a": "figūru, radot staltu un pievilcīgu siluetu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "kaip įveikti „Lodenas atrodo per grubus audinys",
+        "a": "Paaiškinkite, kad tai profesionalus, didelio tankio audinys, būtinas išlaikyti architektoninę kaban paltų formą. Vidinis saglia cangiante pamušalas garantuoja švelnumą ir komfortą dėvint. , kad tai profesionalus, didelio tankio audinys, būtinas išlaikyti architektoninę kaban paltų formą. Vidinis saglia cangiante pamušalas garantuoja švelnumą ir komfortą dėvint."
+      },
+      {
+        "q": "„Gobtuvas daro modelį per daug kasdienišką",
+        "a": "Priminkite klientui, kad gobtuvas yra nuimamas. Be jo, Segreteria modelis virsta elegantišku trumpintu paltu, kuris puikiai dera net su vakarinėmis šilko palaidinėmis. klientui, kad gobtuvas yra nuimamas. Be jo, Segreteria modelis virsta elegantišku trumpintu paltu, kuris puikiai dera net su vakarinėmis šilko palaidinėmis."
+      },
+      {
+        "q": "„Bijau, kad žalią spalvą 1751 sunku derinti“ Spygliuočių žalia — tai „naujoji sezono bazė“.",
+        "a": "Pademonstruokite Look 43: ji idealiai dera su kolekcijos bordo (Messier 2439) ir rudais atspalviais. „Alamaro sagos atrodo per daug specifiškai“ Šio modelio alamaro sagos yra lakoniško stiliaus. Jos struktūruoja siluetą ir suteikia jam podiumo dinamikos, išskirdamos savininkę iš minios. „Reguliarus kirpimas gali pridėti apimties“ Priešingai, dėl aiškios pečių linijos su užleidimu ir vertikalių užsegimo linijų, modelis „surenka“ figūrą, sukuriant stotingą ir grakštų siluetą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Loden wydaje się zbyt grubą tkaniną",
+        "a": "-> Proszę wyjaśnić, że to profesjonalna tkanina o wysokiej gęstości, niezbędna do utrzymania architektonicznej formy kabana. Wewnętrzna podszewka z saglia cangiante gwarantuje miękkość i komfort noszenia."
+      },
+      {
+        "q": "Kaptur czyni model zbyt codziennym",
+        "a": "-> Należy przypomnieć klientce, że kaptur jest odpinany. Bez niego model Segreteria zmienia się w elegancki krótki płaszcz, który wspaniale łączy się nawet z wieczorowymi jedwabnymi bluzkami."
+      },
+      {
+        "q": "Obawiam się, że zielony kolor 1751 jest trudny do łączenia",
+        "a": "-> Leśna zieleń to."
+      },
+      {
+        "q": "nowa baza",
+        "a": "sezonu. Proszę zaprezentować Look 43: idealnie harmonizuje z bordowymi (Messier 2439) i brązowymi odcieniami kolekcji."
+      },
+      {
+        "q": "Alamary wyglądają zbyt specyficznie",
+        "a": "-> Alamary w tym modelu wykonane są w lakonicznym stylu. Strukturyzują sylwetkę i nadają jej wybiegową dynamikę, wyróżniając właścicielkę z tłumu."
+      },
+      {
+        "q": "Regularny krój może dodawać objętości",
+        "a": "-> Wręcz przeciwnie, dzięki wyraźnej linii ramion z zakładką i pionowym liniom zapięcia, model."
+      },
+      {
+        "q": "zbiera",
+        "a": "sylwetkę, tworząc posągową i szczupłą figurę."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Лоден здається",
+        "a": "Поясніть, що це професійна тканина з високою занадто грубою щільністю, необхідна для підтримки тканиною архітектурної форми кабана. Внутрішня підкладка з saglia cangiante гарантує м’якість і комфорт при носінні."
+      },
+      {
+        "q": "Капюшон робить",
+        "a": "Нагадайте клієнту, що капюшон знімний. Без нього образ занадто модель Segreteria перетворюється на елегантне повсякденним укорочене пальто, яке чудово поєднується навіть з вечірніми шовковими блузами."
+      },
+      {
+        "q": "Боюся, що Хвойний зелений — це «нова база",
+        "a": "сезону. зелений колір 1751 Продемонструйте Look 43: він ідеально гармоніює складно поєднувати» з бордовими (Messier 2439) та коричневими відтінками колекції."
+      },
+      {
+        "q": "Аламари виглядають Аламари в даній моделі виконані в лаконічному занадто стилі. Вони структурують силует і надають йому специфічно",
+        "a": "подіумну динаміку, виділяючи власницю з натовпу."
+      },
+      {
+        "q": "Регулярний крій Навпаки, завдяки чіткій лінії плеча з нахлестом може додати та вертикальним лініям застібки, модель «збирає",
+        "a": "об’єму» фігуру, створюючи статний та підтягнутий силует."
+      }
+    ]
+  }
+}

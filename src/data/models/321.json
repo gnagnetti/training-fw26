@@ -1,0 +1,406 @@
+{
+  "id": 321,
+  "name": "Situazione",
+  "description": {
+    "en": "The elegant Situazione cape by Luisa Spagnoli is the embodiment of refined winter comfort and a contemporary reading of a classic silhouette. The piece, styled after a robe coat and crafted from a soft wool-blend cloth (80% wool, 20% polyester), is defined by a relaxed yet status-defining cut. The shawl collar flows seamlessly into soft lines, while a detachable, tone-matched belt allows the waist to be accentuated, creating a feminine silhouette. Particular luxury is lent by cuffs trimmed with high-quality tone-matched faux fur, making Situazione the ideal choice for both status-defining daytime outings and formal evening occasions.",
+    "ru": "Элегантная капа Situazione от Luisa Spagnoli — это воплощение изысканного зимнего комфорта и современной интерпретации классического силуэта. Модель, выполненная в стиле «халат» из мягкого сукна на основе смесовой шерсти (80% шерсть, 20% полиэстер), отличается расслабленным, но при этом статусным кроем. Шалевый воротник плавно переходит в мягкие линии, а съемный пояс в тон позволяет акцентировать талию, создавая женственный силуэт. Особую роскошь изделию придают манжеты, отороченные высококачественным эко-мехом (faux fur) в тон, что делает Situazione идеальным выбором как для статусных повседневных выходов, так и для торжественных вечерних мероприятий.",
+    "ar": "تعد كابا Situazione الأنيقة من Luisa Spagnoli تجسيداً للراحة الشتوية الراقية وتفسيراً عصرياً للتصميم الكلاسيكي. تتميز القطعة بأسلوب \"رداء الحمام\" المصنوع من القماش الناعم المعتمد على مزيج الصوف (80% صوف، 20% بوليستر)، وتتميز بقصة مريحة ولكنها ذات طابع رفيع. تنساب الياقة الشال بنعومة، بينما يسمح الحزام القابل للإزالة بنفس اللون بإبراز الخصر، مما يخلق قواماً أنثوياً. تضفي الأصفاد المزدانة بفرو صناعي عالي الجودة (faux fur) بنفس اللون فخامة خاصة على القطعة، مما يجعل Situazione الخيار المثالي للإطلالات اليومية المرموقة وللمناسبات المسائية الاحتفالية.",
+    "ka": "Luisa Spagnoli-ის ელეგანტური კაპა Situazione — ეს არის დახვეწილი ზამთრის კომფორტისა და კლასიკური სილუეტის თანამედროვე ინტერპრეტაციის განსახიერება. შალის ნარევის (80% მატყლი, 20% პოლიესტერი) რბილი სუხნოსგან დამზადებული „ხალათის“ სტილის მოდელი გამოირჩევა თავისუფალი, თუმცა სტატუსური კერვით. შალისებური საყელო რბილად გადადის საერთო ხაზებში, ხოლო ტონში შეხამებული მოსახსნელი ქამარი საშუალებას იძლევა ხაზი გაუსვათ წელს, რითაც იქმნება ქალური სილუეტი. განსაკუთრებულ ფუფუნებას ნივთს ანიჭებს მაღალი ხარისხის ეკო-ბეწვით (faux fur) გაწყობილი მანჟეტები, რაც Situazione-ს იდეალურ არჩევანად აქცევს როგორც სტატუსური ყოველდღიური გამოსვლებისთვის, ისე საზეიმო საღამოს ღონისძიებებისთვის.",
+    "hy": "Luisa Spagnoli-ի Situazione էլեգանտ թիկնոցը ձմեռային նրբագեղ հարմարավետության և դասական ուրվագծի ժամանակակից մեկնաբանության մարմնացում է։ «Խալաթ» ոճով մոդելը, որը պատրաստված է փափուկ բրդյա խառնուրդից (80% բուրդ, 20% պոլիեսթեր), առանձնանում է ազատ, բայց միևնույն ժամանակ հեղինակավոր ձևվածքով։ Շալակերպ օձիքը սահուն անցնում է դեպի փափուկ գծեր, իսկ նույն երանգի հանովի գոտին թույլ է տալիս ընդգծել իրանը՝ ստեղծելով կանացի ուրվագիծ։ Արտադրանքին առանձնահատուկ շքեղություն են հաղորդում նույն երանգի բարձրորակ էկո-մորթով (faux fur) հարդարված թևքերը, ինչը Situazione-ն դարձնում է իդեալական ընտրություն ինչպես հեղինակավոր առօրյա ելքերի, այնպես էլ տոնական երեկոյան միջոցառումների համար։",
+    "lv": "Eleganta kapuce/apmetnis Situazione no Luisa Spagnoli — tas ir izsmalcināta ziemas komforta un klasiska silueta mūsdienīgas interpretācijas iemiesojums. Modelis, kas izpildīts \"halāta\" stilā no mīksta auduma uz jaukta vilnas auduma bāzes (80% vilna, 20% poliesters), izceļas ar brīvu, bet vienlaikus statusīgu piegriezumu. Šalles veida apkakle plūstoši pāriet mīkstās līnijās, bet noņemama josta tonī ļauj akcentēt vidukli, radot sievišķīgu siluetu. Īpašu greznību izstrādājumam piešķir aproces, kas apstrādātas ar augstas kvalitātes eko-kažokādu (faux fur) tonī, kas padara Situazione par ideālu izvēli gan statusīgiem ikdienas izgājieniem, gan svinīgiem vakara pasākumiem.",
+    "lt": "Elegantiška kapa Situazione iš Luisa Spagnoli – tai rafinuoto žiemos komforto ir modernios klasikinio silueto interpretacijos įsikūnijimas. „Chalato“ stiliaus modelis iš minkšto audinio mišrios vilnos pagrindu (80% vilna, 20% poliesteris) pasižymi laisvu, bet solidžiu kirpimu. Šalio tipo apykaklė sklandžiai pereina į minkštas linijas, o nuimamas diržas tonas į toną leidžia akcentuoti liemenį, sukuriant moterišką siluetą. Ypatingos prabangos gaminiui suteikia rankogaliai, apsiūti aukščiausios kokybės ekologišku kailiu (faux fur) tonas į toną, todėl Situazione yra idealus pasirinkimas tiek solidžiam kasdieniam įvaizdžiui, tiek iškilmingiems vakariniams renginiams.",
+    "pl": "Elegancka peleryna Situazione od Luisa Spagnoli — to ucieleśnienie wyrafinowanego zimowego komfortu i nowoczesnej interpretacji klasycznej sylwetki. Model wykonany w stylu szlafrokowym z miękkiego sukna na bazie mieszanki wełny (80% wełna, 20% poliester), wyróżnia się swobodnym, ale prestiżowym krojem. Szalowy kołnierz płynnie przechodzi w miękkie linie, a odpinany pasek w tym samym kolorze pozwala podkreślić talię, tworząc kobiecą sylwetkę. Szczególnego luksusu dodają mankiety wykończone wysokiej jakości ekofutrem (faux fur) w tym samym odcieniu, co czyni Situazione idealnym wyborem zarówno na prestiżowe wyjścia codzienne, jak i na uroczyste wieczorowe okazje.",
+    "uk": "Елегантна капа Situazione від Luisa Spagnoli — це втілення вишуканого зимового комфорту та сучасної інтерпретації класичного силуету. Модель, виконана в стилі «халат» із м'якого сукна на основі сумішевої вовни (80% вовна, 20% поліестер), відрізняється розслабленим, але при цьому статусним кроєм. Шалевий комір плавно переходить у м'які лінії, а знімний пояс у тон дозволяє акцентувати талію, створюючи жіночний силует. Особливу розкіш виробу надають манжети, оздоблені високоякісним еко-хутром (faux fur) у тон, що робить Situazione ідеальним вибором як для статусних повсякденних виходів, так і для урочистих вечірніх заходів."
+  },
+  "colors": [
+    {
+      "name": "Grigio Perla",
+      "code": "0809",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/N4kpuTJgRrqVtJEHXUVbtw_2745288696f42f948f606_55872285_02821040XX1.jpg"
+    },
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Образ 'Perla Elegance' (Vetrina 32)",
+        "en": "'Perla Elegance' look (Vetrina 32)",
+        "ar": "'Perla Elegance' look (Vetrina 32)",
+        "ka": "'Perla Elegance' look (Vetrina 32)",
+        "hy": "'Perla Elegance' look (Vetrina 32)",
+        "lv": "'Perla Elegance' look (Vetrina 32)",
+        "lt": "'Perla Elegance' look (Vetrina 32)",
+        "pl": "'Perla Elegance' look (Vetrina 32)",
+        "uk": "'Perla Elegance' look (Vetrina 32)"
+      },
+      "text": {
+        "ru": "Капа Situazione 0809 в безупречном ансамбле с блузой Latteria 1005 и юбкой Fattura 0809. Завершает лук сумка Idilliaco 0101.",
+        "en": "Situazione 0809 cape in an impeccable ensemble with a Latteria 1005 blouse and Fattura 0809 skirt. The look is completed with an Idilliaco 0101 bag.",
+        "ar": "Situazione 0809 cape in an impeccable ensemble with a Latteria 1005 blouse and Fattura 0809 skirt. The look is completed with an Idilliaco 0101 bag.",
+        "ka": "Situazione 0809 cape in an impeccable ensemble with a Latteria 1005 blouse and Fattura 0809 skirt. The look is completed with an Idilliaco 0101 bag.",
+        "hy": "Situazione 0809 cape in an impeccable ensemble with a Latteria 1005 blouse and Fattura 0809 skirt. The look is completed with an Idilliaco 0101 bag.",
+        "lv": "Situazione 0809 cape in an impeccable ensemble with a Latteria 1005 blouse and Fattura 0809 skirt. The look is completed with an Idilliaco 0101 bag.",
+        "lt": "Situazione 0809 cape in an impeccable ensemble with a Latteria 1005 blouse and Fattura 0809 skirt. The look is completed with an Idilliaco 0101 bag.",
+        "pl": "Situazione 0809 cape in an impeccable ensemble with a Latteria 1005 blouse and Fattura 0809 skirt. The look is completed with an Idilliaco 0101 bag.",
+        "uk": "Situazione 0809 cape in an impeccable ensemble with a Latteria 1005 blouse and Fattura 0809 skirt. The look is completed with an Idilliaco 0101 bag."
+      },
+      "items": [
+        {
+          "name": "Situazione",
+          "code": "0809",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/N4kpuTJgRrqVtJEHXUVbtw_2745288696f42f948f606_55872285_02821040XX1.jpg"
+        },
+        {
+          "name": "Latteria",
+          "code": "1005",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/w6zktmV2RaKBA33RIkfKZA_988814576696f4237c7d779_89171727_02820370XX1.jpg",
+          "modelId": 101
+        },
+        {
+          "name": "Fattura",
+          "code": "0809",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ba0btBLgStO6Pd88Oq5xKA_1456819530696f4303741303_85497843_02821300XX1.jpg"
+        },
+        {
+          "name": "Idilliaco",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_10100020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 'Monochrome Chic' (Look 131)",
+        "en": "'Monochrome Chic' look (Look 131)",
+        "ar": "'Monochrome Chic' look (Look 131)",
+        "ka": "'Monochrome Chic' look (Look 131)",
+        "hy": "'Monochrome Chic' look (Look 131)",
+        "lv": "'Monochrome Chic' look (Look 131)",
+        "lt": "'Monochrome Chic' look (Look 131)",
+        "pl": "'Monochrome Chic' look (Look 131)",
+        "uk": "'Monochrome Chic' look (Look 131)"
+      },
+      "text": {
+        "ru": "Капа Situazione 0101 поверх элегантного платья Ghisalba 0101 в сочетании с вечерней сумкой Iglesias 0101.",
+        "en": "Situazione 0101 cape over an elegant Ghisalba 0101 dress combined with an Iglesias 0101 evening bag.",
+        "ar": "Situazione 0101 cape over an elegant Ghisalba 0101 dress combined with an Iglesias 0101 evening bag.",
+        "ka": "Situazione 0101 cape over an elegant Ghisalba 0101 dress combined with an Iglesias 0101 evening bag.",
+        "hy": "Situazione 0101 cape over an elegant Ghisalba 0101 dress combined with an Iglesias 0101 evening bag.",
+        "lv": "Situazione 0101 cape over an elegant Ghisalba 0101 dress combined with an Iglesias 0101 evening bag.",
+        "lt": "Situazione 0101 cape over an elegant Ghisalba 0101 dress combined with an Iglesias 0101 evening bag.",
+        "pl": "Situazione 0101 cape over an elegant Ghisalba 0101 dress combined with an Iglesias 0101 evening bag.",
+        "uk": "Situazione 0101 cape over an elegant Ghisalba 0101 dress combined with an Iglesias 0101 evening bag."
+      },
+      "items": [
+        {
+          "name": "Situazione",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg"
+        },
+        {
+          "name": "Ghisalba",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/517709194692424c8761803_70152623_02780770XX1.jpg",
+          "modelId": 403
+        },
+        {
+          "name": "Iglesias",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0101.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 'Urban Sophistication' (Look 82)",
+        "en": "'Urban Sophistication' look (Look 82)",
+        "ar": "'Urban Sophistication' look (Look 82)",
+        "ka": "'Urban Sophistication' look (Look 82)",
+        "hy": "'Urban Sophistication' look (Look 82)",
+        "lv": "'Urban Sophistication' look (Look 82)",
+        "lt": "'Urban Sophistication' look (Look 82)",
+        "pl": "'Urban Sophistication' look (Look 82)",
+        "uk": "'Urban Sophistication' look (Look 82)"
+      },
+      "text": {
+        "ru": "Капа Situazione 0101 дополненная пуловером Manos 0101 и шелковым аксессуаром Roaschia 3359.",
+        "en": "Situazione 0101 cape complemented by a Manos 0101 pullover and a Roaschia 3359 silk accessory.",
+        "ar": "Situazione 0101 cape complemented by a Manos 0101 pullover and a Roaschia 3359 silk accessory.",
+        "ka": "Situazione 0101 cape complemented by a Manos 0101 pullover and a Roaschia 3359 silk accessory.",
+        "hy": "Situazione 0101 cape complemented by a Manos 0101 pullover and a Roaschia 3359 silk accessory.",
+        "lv": "Situazione 0101 cape complemented by a Manos 0101 pullover and a Roaschia 3359 silk accessory.",
+        "lt": "Situazione 0101 cape complemented by a Manos 0101 pullover and a Roaschia 3359 silk accessory.",
+        "pl": "Situazione 0101 cape complemented by a Manos 0101 pullover and a Roaschia 3359 silk accessory.",
+        "uk": "Situazione 0101 cape complemented by a Manos 0101 pullover and a Roaschia 3359 silk accessory."
+      },
+      "items": [
+        {
+          "name": "Situazione",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg"
+        },
+        {
+          "name": "Manos",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Roaschia",
+          "code": "3359",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/roaschi.png"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the versatility of the robe-style cut: the Situazione model adapts beautifully to any figure, allowing the client to define her own degree of fit with the belt.",
+      "Highlight the functionality of the dropped shoulder line: this design detail makes the cape perfect for layered winter looks, comfortably accommodating even bulky knitwear or jackets underneath.",
+      "Draw attention to the premium finish: matching fur cuffs are a couture touch that instantly elevates the style and removes the need for elaborate accessories."
+    ],
+    "ru": [
+      "Сделайте акцент на универсальности кроя «халат»: модель Situazione идеально адаптируется к любому типу фигуры, позволяя клиентке самой определять степень прилегания с помощью пояса.",
+      "Подчеркните функциональность спущенной линии плеча: это конструктивное решение делает капу идеальной для многослойных зимних образов, позволяя комфортно носить под ней даже объемный трикотаж или жакеты.",
+      "Обратите внимание на премиальную отделку: меховые манжеты в тон — это кутюрный штрих, который мгновенно повышает градус стиля и избавляет от необходимости подбирать сложные аксессуары."
+    ],
+    "ar": [
+      "سلطي الضوء على تنوع قصة «الروب»: موديل Situazione يتكيف بشكل مثالي مع أي نوع من القوام، مما يسمح للعميلة بتحديد درجة الضيق بنفسها باستخدام الحزام.",
+      "أكدي على عملية خط الكتف المنخفض: هذا الحل التصميمي يجعل الكاب مثالياً لإطلالات الشتاء ذات الطبقات المتعددة، مما يسمح بارتداء قطع تريكو ضخمة أو سترات تحته براحة.",
+      "لاحظي اللمسات النهائية الفاخرة: الأساور المصنوعة من الفرو بنفس اللون هي لمسة كوتور ترفع مستوى الأناقة فوراً وتغني عن الحاجة لاختيار إكسسوارات معقدة."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი „ხალათის“ სტილის კატის უნივერსალურობაზე: მოდელი Situazione იდეალურად ერგება ფიგურის ნებისმიერ ტიპს, რაც კლიენტს საშუალებას აძლევს თავად განსაზღვროს მოტკეცილობის ხარისხი ქამრის დახმარებით.",
+      "ხაზი გაუსვით ჩამოშვებული მხრის ხაზის ფუნქციონალურობას: ეს კონსტრუქციული გადაწყვეტა კაპას იდეალურს ხდის მრავალშრიანი ზამთრის იმიჯებისთვის, რაც საშუალებას იძლევა მის ქვეშ კომფორტულად ჩაიცვათ თუნდაც მოცულობითი ტრიკოტაჟი ან პიჯაკები.",
+      "ყურადღება მიაქციეთ პრემიუმ დასრულებას: ბეწვის მანჟეტები ტონში — ეს არის კუტიურის შტრიხი, რომელიც მომენტალურად ზრდის სტილის ხარისხს და გარიდებთ რთული აქსესუარების შერჩევის აუცილებლობას."
+    ],
+    "hy": [
+      "Շեշտը դրեք «խալաթ» ոճի կտրվածքի ունիվերսալության վրա. Situazione մոդելը իդեալականորեն հարմարվում է կազմվածքի ցանկացած տեսակին՝ թույլ տալով հաճախորդին ինքնուրույն որոշել հպման աստիճանը գոտու միջոցով։",
+      "Ընդգծեք ուսի իջեցված գծի ֆունկցիոնալությունը. այս կոնստրուկտիվ լուծումը կապան դարձնում է կատարյալ բազմաշերտ ձմեռային կերպարների համար՝ թույլ տալով հարմարավետորեն կրել դրա տակ նույնիսկ ծավալուն տրիկոտաժ կամ ժակետներ։",
+      "Ուշադրություն դարձրեք պրեմիում հարդարանքին. երանգային մորթյա թևքերը կուտյուրային շտրիխ են, որն ակնթարթորեն բարձրացնում է ոճի մակարդակը և ազատում բարդ աքսեսուարներ ընտրելու անհրաժեշտությունից։"
+    ],
+    "lv": [
+      "Akcentējiet „halāta” piegriezuma universālumu: modelis Situazione lieliski pielāgojas jebkuram figūras tipam, ļaujot klientei pašai noteikt piegulumu ar jostas palīdzību.",
+      "Uzsveriet pazeminātās plecu līnijas funkcionalitāti: šis konstruktīvais risinājums padara apmetni ideālu daudzslāņu ziemas tēliem, ļaujot ērti valkāt zem tā pat apjomīgu trikotāžu vai žaketes.",
+      "Pievērsiet uzmanību augstākās klases apdarei: kažokādas aproces tonī — tas ir „couture” akcents, kas acumirklī paaugstina stila līmeni un atbrīvo no nepieciešamības piemeklēt sarežģītus aksesuārus."
+    ],
+    "lt": [
+      "Padarykite akcentą į chalato tipo kirpimo universalumą: modelis Situazione idealiai prisitaiko prie bet kokio figūros tipo, leisdamas klientei pačiai nuspręsti, kokio prigludimo ji nori, naudojant diržą.",
+      "Pabrėžkite nuleistos pečių linijos funkcionalumą: šis konstrukcinis sprendimas daro kapą idealia daugiasluoksniams žiemos įvaizdžiams, leidžiant patogiai dėvėti po ja net stambaus mezgimo trikotažą ar švarkus.",
+      "Atkreipkite dėmesį į aukščiausios kokybės apdailą: tono spalvos kailiniai rankogaliai – tai „couture“ akcentas, kuris akimirksniu pakelia stiliaus kartelę ir panaikina būtinybę rinktis sudėtingus aksesuarus."
+    ],
+    "pl": [
+      "Połóż nacisk na uniwersalność kroju typu „szlafrok”: model Situazione idealnie adaptuje się do każdego typu sylwetki, pozwalając klientce samodzielnie określać stopień dopasowania za pomocą paska.",
+      "Podkreśl funkcjonalność obniżonej linii ramion: to rozwiązanie konstrukcyjne czyni ten płaszcz idealnym do warstwowych zimowych stylizacji, pozwalając na wygodne noszenie pod nim nawet obszernej dzianiny lub żakietów.",
+      "Zwróć uwagę na wykończenie premium: futrzane mankiety w tonacji to krawiecki akcent, który natychmiast podnosi poziom stylu i eliminuje konieczność dobierania skomplikowanych akcesoriów."
+    ],
+    "uk": [
+      "Зробіть акцент на універсальності крою «халат»: модель Situazione ідеально адаптується до будь-якого типу фігури, дозволяючи клієнтці самій визначати ступінь прилягання за допомогою пояса.",
+      "Підкресліть функціональність спущеної лінії плеча: це конструктивне рішення робить капу ідеальною для багатошарових зимових образів, дозволяючи комфортно носити під нею навіть об'ємний трикотаж або жакети.",
+      "Зверніть увагу на преміальне оздоблення: хутряні манжети в тон — це кутюрний штрих, який миттєво підвищує градус стилю і позбавляє від необхідності підбирати складні аксесуари."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Мне кажется, что свободный крой капы будет выглядеть слишком громоздко.",
+        "a": "Продемонстрируйте работу съемного пояса. Он позволяет мягко собрать объем на талии, создавая гармоничный и стройный силуэт «песочные часы»."
+      },
+      {
+        "q": "Я опасаюсь, что искусственный мех на манжетах быстро потеряет вид.",
+        "a": "Уточните, что Luisa Spagnoli использует эко-мех высочайшего качества, который отличается повышенной износостойкостью и сохраняет свою фактуру даже в условиях городской зимы."
+      },
+      {
+        "q": "Будет ли эта модель достаточно теплой для холодной погоды?",
+        "a": "Сделайте акцент на составе: 80% натуральной шерсти обеспечивают превосходную терморегуляцию. Кроме того, фасон позволяет надеть под низ теплый пуловер Manos."
+      },
+      {
+        "q": "Открытый шалевый воротник кажется непрактичным.",
+        "a": "Предложите дополнить образ шелковым платком Roaschia 3359. Это не только защитит от ветра, но и добавит образу утонченности, как показано в Look 82."
+      },
+      {
+        "q": "Эта вещь кажется слишком нарядной для повседневной носки.",
+        "a": "Покажите варианты стилизации с денимом или базовыми брюками. Благодаря лаконичному дизайну, Situazione легко трансформируется из вечернего предмета гардероба в элемент роскошного стиля 'casual luxury'."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Мне кажется, что свободный крой капы будет выглядеть слишком громоздко.",
+        "a": "Продемонстрируйте работу съемного пояса. Он позволяет мягко собрать объем на талии, создавая гармоничный и стройный силуэт «песочные часы»."
+      },
+      {
+        "q": "Я опасаюсь, что искусственный мех на манжетах быстро потеряет вид.",
+        "a": "Уточните, что Luisa Spagnoli использует эко-мех высочайшего качества, который отличается повышенной износостойкостью и сохраняет свою фактуру даже в условиях городской зимы."
+      },
+      {
+        "q": "Будет ли эта модель достаточно теплой для холодной погоды?",
+        "a": "Сделайте акцент на составе: 80% натуральной шерсти обеспечивают превосходную терморегуляцию. Кроме того, фасон позволяет надеть под низ теплый пуловер Manos."
+      },
+      {
+        "q": "Открытый шалевый воротник кажется непрактичным.",
+        "a": "Предложите дополнить образ шелковым платком Roaschia 3359. Это не только защитит от ветра, но и добавит образу утонченности, как показано в Look 82."
+      },
+      {
+        "q": "Эта вещь кажется слишком нарядной для повседневной носки.",
+        "a": "Покажите варианты стилизации с денимом или базовыми брюками. Благодаря лаконичному дизайну, Situazione легко трансформируется из вечернего предмета гардероба в элемент роскошного стиля 'casual luxury'."
+      }
+    ],
+    "ar": [
+      {
+        "q": "أعتقد أن القصة الواسعة للـ كابا ستبدو ضخمة جداً.",
+        "a": "وضحي كيفية عمل الحزام القابل للفصل، فهو يسمح بجمع الحجم عند الخصر برفق، مما يخلق قوام الساعة الرملية المتناسق والممشوق."
+      },
+      {
+        "q": "أخشى أن الفرو الصناعي على الأكمام سيفقد مظهره الجيد سريعاً.",
+        "a": "وضحي أن Luisa Spagnoli تستخدم فرواً صناعياً فائق الجودة، يتميز بمقاومة عالية للاهتراء ويحافظ على قوامه حتى في ظروف الشتاء الحضري."
+      },
+      {
+        "q": "هل سيكون هذا الموديل دافئاً بما يكفي للطقس البارد؟",
+        "a": "ركزي على التركيبة: 80% من الصوف الطبيعي يضمن تنظيماً حرارياً ممتازاً. بالإضافة إلى ذلك، يسمح التصميم بارتداء سترة Manos الدافئة تحته."
+      },
+      {
+        "q": "تبدو الياقة المفتوحة على شكل شال غير عملية.",
+        "a": "اقترحي إكمال الإطلالة بوشاح حريري من طراز Roaschia 3359، فهذا لا يحمي من الرياح فحسب، بل يضيف لمسة من الرقي، كما هو موضح في Look 82."
+      },
+      {
+        "q": "تبدو هذه القطعة رسمية جداً للاستخدام اليومي.",
+        "a": "اعرضي خيارات تنسيق مع الدنيم أو البناطيل الأساسية. بفضل التصميم البسيط، تتحول Situazione بسهولة من قطعة مسائية إلى عنصر من عناصر أسلوب 'الرفاهية العملية' (casual luxury)."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მგონია, რომ კაპას თავისუფალი ჭრა ზედმეტად მოცულობითი გამოჩნდება.",
+        "a": "აჩვენეთ მოხსნადი ქამრის ფუნქციონირება. ის საშუალებას გაძლევთ ნაზად შეკრათ მოცულობა წელზე და შექმნათ ჰარმონიული და მოხდენილი «ქვიშის საათის» სილუეტი."
+      },
+      {
+        "q": "მეშინია, რომ მანჟეტებზე არსებული ხელოვნური ბეწვი სწრაფად დაკარგავს იერს.",
+        "a": "დააზუსტეთ, რომ Luisa Spagnoli იყენებს უმაღლესი ხარისხის ეკო-ბეწვს, რომელიც გამოირჩევა გაზრდილი ცვეთამედეგობით და ინარჩუნებს თავის ფაქტურას ქალაქის ზამთრის პირობებშიც კი."
+      },
+      {
+        "q": "იქნება თუ არა ეს მოდელი საკმარისად თბილი ცივი ამინდისთვის?",
+        "a": "გააკეთეთ აქცენტი შემადგენლობაზე: 80% ნატურალური მატყლი უზრუნველყოფს თერმორეგულაციის შესანიშნავ დონეს. გარდა ამისა, ფასონი საშუალებას გაძლევთ შიგნით ჩაიცვათ თბილი Manos-ის პულოვერი."
+      },
+      {
+        "q": "ღია შალისებური საყელო არაპრაქტიკული მგონია.",
+        "a": "შესთავაზეთ იმიჯის შევსება Roaschia 3359-ის აბრეშუმის შარფით. ეს არა მხოლოდ დაიცავს ქარისგან, არამედ შემატებს იმიჯს დახვეწილობას, როგორც ეს Look 82-შია ნაჩვენები."
+      },
+      {
+        "q": "ეს ნივთი ზედმეტად მდიდრული ჩანს ყოველდღიური ტარებისთვის.",
+        "a": "უჩვენეთ სტილიზაციის ვარიანტები დენიმთან ან საბაზისო შარვლებთან. ლაკონური დიზაინის წყალობით, Situazione ადვილად ტრანსფორმირდება საღამოს გარდერობის ნივთიდან 'casual luxury' სტილის მდიდრულ ელემენტად."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ինձ թվում է, որ թիկնոցի ազատ ձևվածքը չափազանց ծանր կլինի։",
+        "a": "Ցույց տվեք հանովի գոտու աշխատանքը։ Այն թույլ է տալիս մեղմորեն հավաքել ծավալը գոտկատեղին՝ ստեղծելով ներդաշնակ և սլացիկ «ավազե ժամացույց» ուրվագիծ։"
+      },
+      {
+        "q": "Ես մտավախություն ունեմ, որ թևքերի արհեստական մորթին արագ կկորցնի տեսքը։",
+        "a": "Պարզաբանեք, որ Luisa Spagnoli-ն օգտագործում է բարձրագույն որակի էկո-մորթի, որն առանձնանում է բարձր մաշվածակայունությամբ և պահպանում է իր հյուսվածքը նույնիսկ քաղաքային ձմռան պայմաններում։"
+      },
+      {
+        "q": "Արդյո՞ք այս մոդելը բավական տաք կլինի ցուրտ եղանակի համար։",
+        "a": "Շեշտադրեք կազմը. 80% բնական բուրդն ապահովում է գերազանց ջերմակարգավորում։ Բացի այդ, ֆասոնը թույլ է տալիս ներքևից հագնել տաք Manos պուլովեր ։"
+      },
+      {
+        "q": "Բաց շալային օձիքը անգործնական է թվում։",
+        "a": "Առաջարկեք կերպարը լրացնել Roaschia 3359 մետաքսյա շարֆով ։ Սա ոչ միայն կպաշտպանի քամուց, այլև կերպարին կհաղորդի նրբագեղություն, ինչպես ցույց է տրված Look 82-ում։"
+      },
+      {
+        "q": "Այս իրը չափազանց շքեղ է թվում ամենօրյա կրման համար։",
+        "a": "Ցույց տվեք դենիմի կամ բազային տաբատների հետ ոճավորման տարբերակներ։ Լակոնիկ դիզայնի շնորհիվ Situazione-ն հեշտությամբ վերափոխվում է երեկոյան հագուստից 'casual luxury' շքեղ ոճի տարրի։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Man šķiet, ka capas brīvais piegriezums izskatīsies pārāk masīvi.",
+        "a": "Demonstrējiet noņemamās jostas darbību. Tā ļauj maigi savākt apjomu viduklī, radot harmonisku un slaidu «smilšu pulksteņa» siluetu."
+      },
+      {
+        "q": "Baidos, ka mākslīgā kažokāda uz aprocēm ātri zaudēs izskatu.",
+        "a": "Precizējiet, ka Luisa Spagnoli izmanto augstākās kvalitātes eko-kažokādu, kas izceļas ar paaugstinātu nodilumizturību un saglabā savu faktūru pat pilsētas ziemas apstākļos."
+      },
+      {
+        "q": "Vai šis modelis būs pietiekami silts aukstam laikam?",
+        "a": "Lieciet uzsvaru uz sastāvu: 80% dabīgā vilna nodrošina lielisku termoregulāciju. Turklāt fasons ļauj uzvilkt apakšā siltu Manos džemperi."
+      },
+      {
+        "q": "Atvērtā šalles veida apkakle šķiet nepraktiska.",
+        "a": "Piedāvājiet papildināt tēlu ar zīda lakatu Roaschia 3359. Tas ne tikai pasargās no vēja, bet arī piešķirs tēlam izsmalcinātību, kā parādīts Look 82."
+      },
+      {
+        "q": "Šī lieta šķiet pārāk grezna ikdienas valkāšanai.",
+        "a": "Parādiet stilizācijas variantus ar džinsiem vai bāzes biksēm. Pateicoties lakoniskajam dizainam, Situazione viegli transformējas no vakara garderobes priekšmeta par greznā 'casual luxury' stila elementu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Man atrodo, kad laisvas apsiausto kirpimas atrodys pernelyg griozdiškai.",
+        "a": "Pademonstruokite nuimamo diržo veikimą. Jis leidžia švelniai suimti apimtį ties juosmeniu, sukuriant harmoningą ir grakštų „smėlio laikrodžio“ siluetą."
+      },
+      {
+        "q": "Baiminuosi, kad dirbtinis kailis ant rankogalių greitai praras išvaizdą.",
+        "a": "Patikslinkite, kad Luisa Spagnoli naudoja aukščiausios kokybės eko-kailį, kuris pasižymi padidintu atsparumu dėvėjimuisi ir išlaiko savo faktūrą net ir miesto žiemos sąlygomis."
+      },
+      {
+        "q": "Ar šis modelis bus pakankamai šiltas šaltam orui?",
+        "a": "Padarykite akcentą į sudėtį: 80% natūralios vilnos užtikrina puikią termoreguliaciją. Be to, fasonas leidžia po apačia apsirengti šiltą megztinį Manos."
+      },
+      {
+        "q": "Atvira šalinė apykaklė atrodo nepraktiška.",
+        "a": "Pasiūlykite įvaizdį papildyti šilkine skarele Roaschia 3359. Tai ne tik apsaugos nuo vėjo, bet ir suteiks įvaizdžiui rafinuotumo, kaip parodyta 82 stiliaus derinyje."
+      },
+      {
+        "q": "Šis drabužis atrodo pernelyg puošnus kasdieniam nešiojimui.",
+        "a": "Parodykite stilizavimo variantus su džinsiniu audiniu ar bazinėmis kelnėmis. Dėl lakoniško dizaino, Situazione lengvai transformuojasi iš vakarinio garderobo elemento į prabangaus „casual luxury“ stiliaus detalę."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wydaje mi się, że luźny krój peleryny będzie wyglądać zbyt masywnie.",
+        "a": "Pokaż działanie zdejmowanego paska. Pozwala on miękko zebrać objętość w talii, tworząc harmonijną i smukłą sylwetkę typu „klepsydra”."
+      },
+      {
+        "q": "Obawiam się, że sztuczne futro na mankietach szybko straci wygląd.",
+        "a": "Wyjaśnij, że Luisa Spagnoli stosuje eko-futro najwyższej jakości, które wyróżnia się zwiększoną odpornością na ścieranie i zachowuje swoją fakturę nawet w warunkach miejskiej zimy."
+      },
+      {
+        "q": "Czy ten model będzie wystarczająco ciepły na chłodną pogodę?",
+        "a": "Połóż nacisk na skład: 80% naturalnej wełny zapewnia doskonałą termoregulację. Ponadto krój pozwala założyć pod spód ciepły pulower Manos."
+      },
+      {
+        "q": "Otwarty kołnierz szalowy wydaje się niepraktyczny.",
+        "a": "Zaproponuj uzupełnienie stylizacji jedwabną chustą Roaschia 3359. Nie tylko ochroni przed wiatrem, ale także doda stylizacji wyrafinowania, jak pokazano w Look 82."
+      },
+      {
+        "q": "Ta rzecz wydaje się zbyt strojna do noszenia na co dzień.",
+        "a": "Pokaż opcje stylizacji z denimem lub bazowymi spodniami. Dzięki lakonicznemu wzornictwu, Situazione łatwo przekształca się z wieczorowego elementu garderoby w część luksusowego stylu 'casual luxury'."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Мені здається, що вільний крій капи виглядатиме занадто громіздко.",
+        "a": "Продемонструйте роботу знімного пояса. Він дозволяє м'яко зібрати об'єм на талії, створюючи гармонійний та стрункий силует «пісочний годинник»."
+      },
+      {
+        "q": "Я побоююся, що штучне хутро на манжетах швидко втратить вигляд.",
+        "a": "Уточніть, що Luisa Spagnoli використовує еко-хутро найвищої якості, яке відрізняється підвищеною зносостійкістю та зберігає свою фактуру навіть в умовах міської зими."
+      },
+      {
+        "q": "Чи буде ця модель достатньо теплою для холодної погоди?",
+        "a": "Зробіть акцент на складі: 80% натуральної вовни забезпечують чудову терморегуляцію. Крім того, фасон дозволяє одягнути під низ теплий пуловер Manos."
+      },
+      {
+        "q": "Відкритий шалевий комір здається непрактичним.",
+        "a": "Запропонуйте доповнити образ шовковою хусткою Roaschia 3359. Це не тільки захистить від вітру, а й додасть образу витонченості, як показано у Look 82."
+      },
+      {
+        "q": "Ця річ здається занадто ошатною для повсякденного носіння.",
+        "a": "Покажіть варіанти стилізації з денімом або базовими штанами. Завдяки лаконічному дизайну, Situazione легко трансформується з вечірнього предмета гардероба в елемент розкішного стилю 'casual luxury'."
+      }
+    ]
+  }
+}

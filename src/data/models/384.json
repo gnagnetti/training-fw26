@@ -1,0 +1,455 @@
+{
+  "id": 384,
+  "name": "Casistica",
+  "description": {
+    "en": "This luxurious pullover from Luisa Spagnoli is the true embodiment of artistic elegance and uncompromising comfort. Masterfully crafted from a noble blend of wool and cashmere, it delivers the gentlest touch against the skin and exceptional warmth. The piece is defined by a classic round neckline and a flawless Regular fit, making it a versatile foundation for any look. The principal decorative accent is striking contrasting embroidery, which transforms the understated silhouette into a true art object, while ribbed edge finishing at the hem (fondo a coste) ensures a perfect fit and finished form.",
+    "ru": "Этот роскошный пуловер от Luisa Spagnoli --- истинное воплощение артистичной элегантности и бескомпромиссного комфорта. Мастерски выполненный из благородного сочетания шерсти и кашемира, он дарит коже нежнейшее прикосновение и исключительное тепло. Модель отличается классическим круглым вырезом и безупречной стандартной посадкой (regular fit), что делает её универсальной основой любого образа. Главным декоративным акцентом выступает выразительная контрастная вышивка, которая превращает лаконичный силуэт в настоящий арт-объект, в то время как ребристая отделка по низу изделия (fondo a coste) обеспечивает идеальное прилегание и завершенность формы.",
+    "ar": "يُجسّد هذا البلوفر الفاخر من علامة لويزا سبانيولي (Luisa Spagnoli) الجوهر الحقيقي للأناقة الفنية والراحة الاستثنائية التي لا تُضاهى. صُنِع ببراعة من مزيج فاخر يجمع بين الصوف الخالص والكاكشمير النبيل، ليمنح البشرة لمسة في غاية النعومة ودفئاً فائقاً. يتميز التصميم بياقة دائرية كلاسيكية وقَصّة قياسية متقنة (Regular fit)، مما يجعل منه قاعدة أسلوبية مرنة لمختلف الإطلالات. وتبرز التطريزات المتباينة والمعبرة كعنصر جمالي رئيسي يحوّل هذا القوام البسيط إلى تحفة فنية قائمة بذاتها، بينما تضمن الحواف المضلعة عند الأسفل (Fondo a coste) إحكاماً مثالياً واكتمالاً شاملاً للشكل.",
+    "ka": "ეს მდიდრული პულოვერი Luisa Spagnoli-სგან არის არტისტული ელეგანტურობისა და უკომპრომისო კომფორტის ჭეშმარიტი განსახიერება. ოსტატურად შესრულებული მატყლისა და ქაშმირის კეთილშობილური ნაზავისგან, ის კანს უნაზეს შეხებას და განსაკუთრებულ სითბოს სჩუქნის. მოდელი გამოირჩევა კლასიკური მრგვალი ყელით და უნაკლო სტანდარტული მორგებით (regular fit), რაც მას ნებისმიერი იერსახის უნივერსალურ საფუძვლად აქცევს. მთავარ დეკორატიულ აქცენტად გვევლინება გამომსახველობითი კონტრასტული ნაქარგობა, რომელიც ლაკონურ სილუეტს ნამდვილ ხელოვნების ნიმუშად აქცევს, ხოლო ნაკეთობის ქვედა ნაწილის რეზინისებური დასრულება (fondo a coste) უზრუნველყოფს იდეალურ მორგებასა და ფორმის სრულყოფილებას.",
+    "hy": "Luisa Spagnoli-ի այս շքեղ պուլովերը արտիստիկ նրբագեղության և անզիջում հարմարավետության իրական մարմնացումն է: Վարպետորեն պատրաստված բրդի և կաշմիրի ազնվական համադրությունից՝ այն մաշկին պարգևում է նուրբ հպում և բացառիկ ջերմություն: Մոդելն առանձնանում է դասական կլոր բացվածքով և անթերի regular fit կտրվածքով, ինչը այն դարձնում է ցանկացած կերպարի ունիվերսալ հիմք: Գլխավոր դեկորատիվ շեշտադրումը արտահայտիչ կոնտրաստային ասեղնագործությունն է, որը լակոնիկ ուրվագիծը վերածում է իրական արվեստի գործի, մինչդեռ արտադրանքի ներքևի մասի ребристая отделка-ն (fondo a coste) ապահովում է կատարյալ հարմարում և ձևի ամբողջականություն:",
+    "lv": "Šis greznais Luisa Spagnoli džemperis ir pati mākslinieciskās elegances un bezkompromisa komforta būtība. Meistarīgi izgatavots no cēla vilnas un kašmira maisījuma, tas dāvā ādai vissmalkāko pieskārienu un izcilu siltumu. Modelis izceļas ar klasisku apaļu izgriezumu un nevainojamu standarta piegriezumu (regular fit), kas padara to par universālu jebkura tēla pamatu. Galvenais dekoratīvais akcents ir izteiksmīga kontrastējoša izšūšana, kas pārvērš lakonisko siluetu īstā mākslas objektā, savukārt rievotā apdare izstrādājuma apakšdaļā (fondo a coste) nodrošina ideālu piegulšanu un formas pilnīgumu.",
+    "lt": "Šis prabangus Luisa Spagnoli megztinis – tikras artistiškos elegancijos ir bekompromisio komforto įsikūnijimas. Meistriškai pagamintas iš tauriojo vilnos ir kašmyro derinio, jis dovanoja odai švelniausią prisilietimą ir išskirtinę šilumą. Modelis pasižymi klasikine apvalia iškirpte ir nepriekaištingu standartiniu kirpimu (regular fit), todėl yra universalus bet kokio įvaizdžio pagrindas. Pagrindiniu dekoratyviniu akcentu tampa išraiškingas kontrastingas siuvinėjimas, kuris lakonišką siluetą paverčia tikru meno kūriniu, o briaunota apdaila gaminio apačioje (fondo a coste) užtikrina idealų prigludimą ir formos užbaigtumą.",
+    "pl": "Ten luksusowy sweter od Luisa Spagnoli to prawdziwe ucieleśnienie artystycznej elegancji i bezkompromisowego komfortu. Mistrzowsko wykonany ze szlachetnego połączenia wełny i kaszmiru, pieści skórę delikatnym dotykiem i zapewnia wyjątkowe ciepło. Model wyróżnia się klasycznym okrągłym dekoltem oraz nienagannym standardowym krojem (regular fit), co czyni go uniwersalną bazą każdej stylizacji. Głównym akcentem dekoracyjnym jest wyrazisty, kontrastujący haft, który przekształca minimalistyczną sylwetkę w prawdziwy obiekt sztuki, podczas gdy żebrowane wykończenie u dołu (fondo a coste) zapewnia idealne dopasowanie i doskonałą formę.",
+    "uk": "Цей розкішний пуловер від Luisa Spagnoli — справжнє втілення артистичної елегантності та безкомпромісного комфорту. Майстерно виконаний із благородного поєднання вовни та кашеміру, він дарує шкірі найніжніше дотик та виняткове тепло. Модель вирізняється класичним круглим вирізом та бездоганною стандартною посадкою (regular fit), що робить її універсальною основою будь-якого образу. Головним декоративним акцентом виступає виразна контрастна вишивка, яка перетворює лаконічний силует на справжній арт-об'єкт, тоді як ребристе оздоблення по низу виробу (fondo a coste) забезпечує ідеальне прилягання та завершеність форми."
+  },
+  "colors": [
+    {
+      "name": "Beige Beige",
+      "code": "1151 1181",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/550185212691f156b48c6a8_03674351_02780680XX1.jpg"
+    },
+    {
+      "name": "Nero Cammello",
+      "code": "0101 2352",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/698663437691f156a654f44_71053554_02780660XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null
+      },
+      "text": {
+        "ru": "Для варианта Casistica 1151 1181: Lookbook: Дизайнеры предлагают сочетать модель с пальто Segnalibro 3335 и вельветовыми брюками Olap 1119.",
+        "en": "Для варианта Casistica 1151 1181: Lookbook: Дизайнеры предлагают сочетать модель с пальто Segnalibro 3335 и вельветовыми брюками Olap 1119.",
+        "ar": "Для варианта Casistica 1151 1181: Lookbook: Дизайнеры предлагают сочетать модель с пальто Segnalibro 3335 и вельветовыми брюками Olap 1119.",
+        "ka": "Для варианта Casistica 1151 1181: Lookbook: Дизайнеры предлагают сочетать модель с пальто Segnalibro 3335 и вельветовыми брюками Olap 1119.",
+        "hy": "Для варианта Casistica 1151 1181: Lookbook: Дизайнеры предлагают сочетать модель с пальто Segnalibro 3335 и вельветовыми брюками Olap 1119.",
+        "lv": "Для варианта Casistica 1151 1181: Lookbook: Дизайнеры предлагают сочетать модель с пальто Segnalibro 3335 и вельветовыми брюками Olap 1119.",
+        "lt": "Для варианта Casistica 1151 1181: Lookbook: Дизайнеры предлагают сочетать модель с пальто Segnalibro 3335 и вельветовыми брюками Olap 1119.",
+        "pl": "Для варианта Casistica 1151 1181: Lookbook: Дизайнеры предлагают сочетать модель с пальто Segnalibro 3335 и вельветовыми брюками Olap 1119.",
+        "uk": "Для варианта Casistica 1151 1181: Lookbook: Дизайнеры предлагают сочетать модель с пальто Segnalibro 3335 и вельветовыми брюками Olap 1119."
+      },
+      "items": [
+        {
+          "name": "Casistica",
+          "code": "1151 1181",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/550185212691f156b48c6a8_03674351_02780680XX1.jpg"
+        },
+        {
+          "name": "Segnalibro",
+          "code": "3335",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1723709550691f1567c75ea0_11725074_02780600XX1.jpg",
+          "modelId": 478
+        },
+        {
+          "name": "Olap",
+          "code": "1119",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg",
+          "modelId": 243
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null
+      },
+      "text": {
+        "ru": "Витрины (Bambola): - На манекене 1 в витрине №8 пуловер представлен с рубашкой Limonaia 0202, брюками Olap 1119 и пальто Segnalibro 3335. - В витрине №38 (Bambola 2) предложен женственный образ с пальто Scansione 2046 и юбкой Festone 2046. - В витрине №39 (Bambola 2) модель дополнена пальто Stenografo 2716, рубашкой Lidia 0202 и классическими брюками Onesta 2710. - Для варианта Casistica 0101 2352:",
+        "en": "Витрины (Bambola): - На манекене 1 в витрине №8 пуловер представлен с рубашкой Limonaia 0202, брюками Olap 1119 и пальто Segnalibro 3335. - В витрине №38 (Bambola 2) предложен женственный образ с пальто Scansione 2046 и юбкой Festone 2046. - В витрине №39 (Bambola 2) модель дополнена пальто Stenografo 2716, рубашкой Lidia 0202 и классическими брюками Onesta 2710. - Для варианта Casistica 0101 2352:",
+        "ar": "Витрины (Bambola): - На манекене 1 в витрине №8 пуловер представлен с рубашкой Limonaia 0202, брюками Olap 1119 и пальто Segnalibro 3335. - В витрине №38 (Bambola 2) предложен женственный образ с пальто Scansione 2046 и юбкой Festone 2046. - В витрине №39 (Bambola 2) модель дополнена пальто Stenografo 2716, рубашкой Lidia 0202 и классическими брюками Onesta 2710. - Для варианта Casistica 0101 2352:",
+        "ka": "Витрины (Bambola): - На манекене 1 в витрине №8 пуловер представлен с рубашкой Limonaia 0202, брюками Olap 1119 и пальто Segnalibro 3335. - В витрине №38 (Bambola 2) предложен женственный образ с пальто Scansione 2046 и юбкой Festone 2046. - В витрине №39 (Bambola 2) модель дополнена пальто Stenografo 2716, рубашкой Lidia 0202 и классическими брюками Onesta 2710. - Для варианта Casistica 0101 2352:",
+        "hy": "Витрины (Bambola): - На манекене 1 в витрине №8 пуловер представлен с рубашкой Limonaia 0202, брюками Olap 1119 и пальто Segnalibro 3335. - В витрине №38 (Bambola 2) предложен женственный образ с пальто Scansione 2046 и юбкой Festone 2046. - В витрине №39 (Bambola 2) модель дополнена пальто Stenografo 2716, рубашкой Lidia 0202 и классическими брюками Onesta 2710. - Для варианта Casistica 0101 2352:",
+        "lv": "Витрины (Bambola): - На манекене 1 в витрине №8 пуловер представлен с рубашкой Limonaia 0202, брюками Olap 1119 и пальто Segnalibro 3335. - В витрине №38 (Bambola 2) предложен женственный образ с пальто Scansione 2046 и юбкой Festone 2046. - В витрине №39 (Bambola 2) модель дополнена пальто Stenografo 2716, рубашкой Lidia 0202 и классическими брюками Onesta 2710. - Для варианта Casistica 0101 2352:",
+        "lt": "Витрины (Bambola): - На манекене 1 в витрине №8 пуловер представлен с рубашкой Limonaia 0202, брюками Olap 1119 и пальто Segnalibro 3335. - В витрине №38 (Bambola 2) предложен женственный образ с пальто Scansione 2046 и юбкой Festone 2046. - В витрине №39 (Bambola 2) модель дополнена пальто Stenografo 2716, рубашкой Lidia 0202 и классическими брюками Onesta 2710. - Для варианта Casistica 0101 2352:",
+        "pl": "Витрины (Bambola): - На манекене 1 в витрине №8 пуловер представлен с рубашкой Limonaia 0202, брюками Olap 1119 и пальто Segnalibro 3335. - В витрине №38 (Bambola 2) предложен женственный образ с пальто Scansione 2046 и юбкой Festone 2046. - В витрине №39 (Bambola 2) модель дополнена пальто Stenografo 2716, рубашкой Lidia 0202 и классическими брюками Onesta 2710. - Для варианта Casistica 0101 2352:",
+        "uk": "Витрины (Bambola): - На манекене 1 в витрине №8 пуловер представлен с рубашкой Limonaia 0202, брюками Olap 1119 и пальто Segnalibro 3335. - В витрине №38 (Bambola 2) предложен женственный образ с пальто Scansione 2046 и юбкой Festone 2046. - В витрине №39 (Bambola 2) модель дополнена пальто Stenografo 2716, рубашкой Lidia 0202 и классическими брюками Onesta 2710. - Для варианта Casistica 0101 2352:"
+      },
+      "items": [
+        {
+          "name": "Limonaia",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIA_117100000000.jpg",
+          "modelId": 416
+        },
+        {
+          "name": "Olap",
+          "code": "1119",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Segnalibro",
+          "code": "3335",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1723709550691f1567c75ea0_11725074_02780600XX1.jpg",
+          "modelId": 478
+        },
+        {
+          "name": "Scansione",
+          "code": "2046",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1221525958691c57c296ff08_45494514_02780250XX1.jpg",
+          "modelId": 302
+        },
+        {
+          "name": "Festone",
+          "code": "2046",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/121628858691f15615a1fa3_04898646_02780480XX1.jpg",
+          "modelId": 389
+        },
+        {
+          "name": "Stenografo",
+          "code": "2716",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1584374153691c57c8052430_51905956_02780380XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Lidia",
+          "code": "0202",
+          "imageUrl": null
+        },
+        {
+          "name": "Onesta",
+          "code": "2710",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/612412840691c578b4bc602_37755049_02780210XX1.jpg",
+          "modelId": 459
+        },
+        {
+          "name": "Casistica",
+          "code": "0101 2352",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/698663437691f156a654f44_71053554_02780660XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Lookbook",
+        "en": "Lookbook",
+        "ar": "Lookbook",
+        "ka": "Lookbook",
+        "hy": "Lookbook",
+        "lv": "Lookbook",
+        "lt": "Lookbook",
+        "pl": "Lookbook",
+        "uk": "Lookbook"
+      },
+      "text": {
+        "ru": "Рекомендуется ансамбль с накидкой Rivolo 3278 и брюками из чистой шерсти Optare 3326.",
+        "en": "Рекомендуется ансамбль с накидкой Rivolo 3278 и брюками из чистой шерсти Optare 3326.",
+        "ar": "Рекомендуется ансамбль с накидкой Rivolo 3278 и брюками из чистой шерсти Optare 3326.",
+        "ka": "Рекомендуется ансамбль с накидкой Rivolo 3278 и брюками из чистой шерсти Optare 3326.",
+        "hy": "Рекомендуется ансамбль с накидкой Rivolo 3278 и брюками из чистой шерсти Optare 3326.",
+        "lv": "Рекомендуется ансамбль с накидкой Rivolo 3278 и брюками из чистой шерсти Optare 3326.",
+        "lt": "Рекомендуется ансамбль с накидкой Rivolo 3278 и брюками из чистой шерсти Optare 3326.",
+        "pl": "Рекомендуется ансамбль с накидкой Rivolo 3278 и брюками из чистой шерсти Optare 3326.",
+        "uk": "Рекомендуется ансамбль с накидкой Rivolo 3278 и брюками из чистой шерсти Optare 3326."
+      },
+      "items": [
+        {
+          "name": "Rivolo",
+          "code": "3278",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1314012229691c57e6740925_61753167_02800350XX1.jpg"
+        },
+        {
+          "name": "Optare",
+          "code": "3326",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1697710587691f1560afa628_65630327_02780070XX1.jpg",
+          "modelId": 463
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null
+      },
+      "text": {
+        "ru": "Витрины (Bambola): В витрине №18 (Bambola 1) пуловер эффектно дополнен накидкой Rivolo 3278, рубашкой Bacche 0201 и юбкой из экокожи Fabula 0101.",
+        "en": "Витрины (Bambola): В витрине №18 (Bambola 1) пуловер эффектно дополнен накидкой Rivolo 3278, рубашкой Bacche 0201 и юбкой из экокожи Fabula 0101.",
+        "ar": "Витрины (Bambola): В витрине №18 (Bambola 1) пуловер эффектно дополнен накидкой Rivolo 3278, рубашкой Bacche 0201 и юбкой из экокожи Fabula 0101.",
+        "ka": "Витрины (Bambola): В витрине №18 (Bambola 1) пуловер эффектно дополнен накидкой Rivolo 3278, рубашкой Bacche 0201 и юбкой из экокожи Fabula 0101.",
+        "hy": "Витрины (Bambola): В витрине №18 (Bambola 1) пуловер эффектно дополнен накидкой Rivolo 3278, рубашкой Bacche 0201 и юбкой из экокожи Fabula 0101.",
+        "lv": "Витрины (Bambola): В витрине №18 (Bambola 1) пуловер эффектно дополнен накидкой Rivolo 3278, рубашкой Bacche 0201 и юбкой из экокожи Fabula 0101.",
+        "lt": "Витрины (Bambola): В витрине №18 (Bambola 1) пуловер эффектно дополнен накидкой Rivolo 3278, рубашкой Bacche 0201 и юбкой из экокожи Fabula 0101.",
+        "pl": "Витрины (Bambola): В витрине №18 (Bambola 1) пуловер эффектно дополнен накидкой Rivolo 3278, рубашкой Bacche 0201 и юбкой из экокожи Fabula 0101.",
+        "uk": "Витрины (Bambola): В витрине №18 (Bambola 1) пуловер эффектно дополнен накидкой Rivolo 3278, рубашкой Bacche 0201 и юбкой из экокожи Fabula 0101."
+      },
+      "items": [
+        {
+          "name": "Rivolo",
+          "code": "3278",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1314012229691c57e6740925_61753167_02800350XX1.jpg"
+        },
+        {
+          "name": "Bacche",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Fabula",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg",
+          "modelId": 386
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "1. An investment in tactile luxury: Direct the client's attention to the garment's composition. The blend of wool and cashmere is the guarantee of durability and unparalleled comfort characteristic of Luisa Spagnoli's premium knitwear. 2. Visual focal point: Highlight the uniqueness of the contrast embroidery. It makes the pullover a statement piece on its own, allowing the client to create striking looks using only wardrobe essentials. 3. The art of layering: Suggest pairing the model with our classic shirts, such as Limonaia 0202 or Lidia 0202. This adds status to the look and allows the cozy knitwear to be adapted to a business dress code."
+    ],
+    "ru": [
+      "1. Инвестиция в тактильный люкс: Акцентируйте внимание клиента на составе изделия. Сочетание шерсти и кашемира --- это залог долговечности и непревзойденного комфорта, характерного для премиального трикотажа Luisa Spagnoli. 2. Визуальный фокус: Подчеркните уникальность контрастной вышивки. Она делает пуловер самодостаточным, позволяя клиенту создавать яркие образы, используя лишь базовые элементы гардероба. 3. Искусство многослойности: Предлагайте модель в сочетании с нашими классическими рубашками, такими как Limonaia 0202 или Lidia 0202. Это добавит образу статусности и позволит адаптировать уютный трикотаж под деловой дресс-код."
+    ],
+    "ar": [
+      "1. استثمار في الرفاهية الملموسة: ركزي على تركيبة القطعة، حيث يضمن مزيج الصوف والكشمير المتانة والراحة الفائقة التي تشتهر بها أزياء التريكو الفاخرة من Luisa Spagnoli. 2. التركيز البصري: أبرزي تفرد التطريز المتباين الذي يجعل هذا البلوفر قطعة قائمة بذاتها، مما يتيح للعميلة تنسيق إطلالات لافتة باستخدام قطع أساسية من خزانة ملابسها. 3. فن الطبقات: اقترحي تنسيق هذا الموديل مع قمصاننا الكلاسيكية مثل Limonaia 0202 أو Lidia 0202، مما يضفي لمسة من الوقار ويجعل تريكو الشتاء الدافئ مناسباً لبيئة العمل الرسمية."
+    ],
+    "ka": [
+      "1. ინვესტიცია ტაქტილურ ფუფუნებაში: გაამახვილეთ კლიენტის ყურადღება ნაკეთობის შემადგენლობაზე. მატყლისა და ქაშმირის კომბინაცია --- ეს არის გამძლეობისა და შეუდარებელი კომფორტის გარანტი, რომელიც დამახასიათებელია Luisa Spagnoli-ს პრემიუმ ტრიკოტაჟისთვის. 2. ვიზუალური ფოკუსი: ხაზი გაუსვით კონტრასტული ნაქარგის უნიკალურობას. ის პულოვერს თვითკმარს ხდის და კლიენტს საშუალებას აძლევს შექმნას ეფექტური იმიჯი გარდერობის მხოლოდ საბაზისო ელემენტების გამოყენებით. 3. მრავალფენიანი სტილის ხელოვნება: შესთავაზეთ მოდელი ჩვენს კლასიკურ პერანგებთან კომბინაციაში, როგორიცაა Limonaia 0202 ან Lidia 0202. ეს იმიჯს სტატუსურობას შემატებს და საშუალებას მოგცემთ მოარგოთ მყუდრო ტრიკოტაჟი საქმიან დრეს-კოდს."
+    ],
+    "hy": [
+      "1. Ներդրում շոշափելի շքեղության մեջ. Հաճախորդի ուշադրությունը հրավիրեք իրի կազմի վրա: Բրդի և քաշմիրի համադրությունը երկարակեցության և անզուգական հարմարավետության երաշխիք է, որը բնորոշ է Luisa Spagnoli պրեմիում տրիկոտաժին: 2. Վիզուալ կիզակետ. Ընդգծեք կոնտրաստային ասեղնագործության յուրահատկությունը: Այն պուլովերը դարձնում է ինքնաբավ՝ թույլ տալով հաճախորդին ստեղծել վառ կերպարներ՝ օգտագործելով միայն զգեստապահարանի բազային տարրերը: 3. Շերտավորման արվեստ. Առաջարկեք մոդելը մեր դասական վերնաշապիկների հետ համադրությամբ, ինչպիսիք են Limonaia 0202 կամ Lidia 0202: Սա կերպարին կհաղորդի հեղինակություն և թույլ կտա հարմարեցնել հարմարավետ տրիկոտաժը գործնական դրես-կոդին:"
+    ],
+    "lv": [
+      "1. Investīcija taktilajā luksusā: Akcentējiet klienta uzmanību uz izstrādājuma sastāvu. Vilnas un kašmira apvienojums --- tas ir ilgmūžības un nepārspējama komforta garants, kas raksturīgs Luisa Spagnoli premium trikotāžai. 2. Vizuālais fokuss: Uzsveriet kontrastējošās izšuvuma unikalitāti. Tas padara puloveru pašpietiekamu, ļaujot klientam radīt spilgtus tēlus, izmantojot tikai garderobes bāzes elementus. 3. Daudzslāņainības māksla: Piedāvājiet modeli kombinācijā ar mūsu klasiskajiem krekliem, tādiem kā Limonaia 0202 vai Lidia 0202. Tas piešķirs tēlam statusu un ļaus pielāgot mājīgo trikotāžu lietišķajam dreskodam."
+    ],
+    "lt": [
+      "1. Investicija į taktilinę prabangą: atkreipkite kliento dėmesį į gaminio sudėtį. Vilnos ir kašmyro derinys – tai ilgaamžiškumo ir neprilygstamo komforto garantija, būdinga Luisa Spagnoli trikotažui. 2. Vizualinis akcentas: pabrėžkite kontrastingų siuvinėjimų unikalumą. Tai daro puloverį savarankišku drabužiu, leidžiančiu klientui kurti ryškius įvaizdžius naudojant tik bazinius garderobo elementus. 3. Sluoksniavimo menas: pasiūlykite modelį derinti su mūsų klasikiniais marškiniais, tokiais kaip Limonaia 0202 arba Lidia 0202. Tai suteiks įvaizdžiui solidumo ir leis pritaikyti jaukų trikotažą dalykiniam aprangos kodui."
+    ],
+    "pl": [
+      "1. Inwestycja w luksus dotyku: Zwróć uwagę klientki na skład produktu. Połączenie wełny i kaszmiru --- to gwarancja trwałości i niezrównanego komfortu, charakterystycznego dla dzianin premium Luisa Spagnoli. 2. Wizualny fokus: Podkreśl unikalność kontrastowego haftu. Czyni on pulower samowystarczalnym, pozwalając klientce tworzyć wyraziste stylizacje przy użyciu jedynie podstawowych elementów garderoby. 3. Sztuka wielowarstwowości: Zaproponuj model w połączeniu z naszymi klasycznymi koszulami, takimi jak Limonaia 0202 lub Lidia 0202. Doda to stylizacji prestiżu i pozwoli dostosować przytulną dzianinę do biurowego dress code'u."
+    ],
+    "uk": [
+      "1. Інвестиція в тактильний люкс: Акцентуйте увагу клієнта на складі виробу. Поєднання вовни та кашеміру --- це запорука довговічності та неперевершеного комфорту, характерного для преміального трикотажу Luisa Spagnoli. 2. Візуальний фокус: Підкресліть унікальність контрастної вишивки. Вона робить пуловер самодостатнім, дозволяючи клієнту створювати яскраві образи, використовуючи лише базові елементи гардероба. 3. Мистецтво багатошаровості: Пропонуйте модель у поєднанні з нашими класичними сорочками, такими як Limonaia 0202 або Lidia 0202. Це додасть образу статусності та дозволить адаптувати затишний трикотаж під діловий дрес-код."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The embroidery feels too ornate.",
+        "a": "Explain that the contrasting details are a stylish way to refresh a classic wardrobe. The embroidery pairs beautifully with the essential Olap 1119 or Optare 3326 trousers."
+      },
+      {
+        "q": "Cashmere requires delicate care.",
+        "a": "Remind the client that, by following a few simple care guidelines, Luisa Spagnoli's high-quality yarn keeps its softness and shape for decades."
+      },
+      {
+        "q": "Concern that the piece will add bulk.",
+        "a": "Point out the standard regular fit. It's designed to gently follow the body's lines without adding excess volume, making it ideal for layering under a coat."
+      },
+      {
+        "q": "The piece seems too warm.",
+        "a": "Emphasize the natural properties of cashmere and wool — they provide ideal thermoregulation, ensuring comfort both outdoors and indoors."
+      },
+      {
+        "q": "Difficulty choosing complementary pieces.",
+        "a": "Demonstrate the pullover's versatility: it looks equally luxurious paired with the bold eco-leather Fabula 0101 skirt or with the tailored Onesta 2710 trousers."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Вышивка кажется",
+        "a": "Объясните, что контрастные детали — это стильный слишком способ освежить классический гардероб. Вышивка обязывающей гармонирует с базовыми брюками Olap 1119 или Optare 3326. , что контрастные детали — это стильный слишком способ освежить классический гардероб. Вышивка обязывающей гармонирует с базовыми брюками Olap 1119 или Optare 3326."
+      },
+      {
+        "q": "Кашемир требует",
+        "a": "Напомните клиенту, что при соблюдении простых правил деликатного ухода высококачественная пряжа Luisa Spagnoli ухода сохраняет свою мягкость и форму на десятилетия. клиенту, что при соблюдении простых правил деликатного ухода высококачественная пряжа Luisa Spagnoli ухода сохраняет свою мягкость и форму на десятилетия."
+      },
+      {
+        "q": "Опасение, что",
+        "a": "Укажите на стандартную посадку regular fit. Она модель будет разработана так, чтобы мягко следовать линиям тела, полнить не создавая лишнего объема, что идеально для многослойных луков под пальто. на стандартную посадку regular fit. Она модель будет разработана так, чтобы мягко следовать линиям тела, полнить не создавая лишнего объема, что идеально для многослойных луков под пальто."
+      },
+      {
+        "q": "Изделие кажется",
+        "a": "Подчеркните природные свойства кашемира и шерсти — слишком теплым они обеспечивают идеальную терморегуляцию, позволяя чувствовать себя комфортно как на улице, так и в помещении. природные свойства кашемира и шерсти — слишком теплым они обеспечивают идеальную терморегуляцию, позволяя чувствовать себя комфортно как на улице, так и в помещении."
+      },
+      {
+        "q": "Сложность в",
+        "a": "Продемонстрируйте универсальность: пуловер одинаково выборе дополняющих роскошно смотрится и с дерзкой юбкой из экокожи вещей Fabula 0101, и со строгими брюками Onesta 2710."
+      }
+    ],
+    "ar": [
+      {
+        "q": "استراتيجية التجاوز: التطريز يبدو متكلفاً للغاية",
+        "a": "اشرحي أن التفاصيل المتباينة هي طريقة أنيقة لتجديد خزانة الملابس الكلاسيكية. يتناغم التطريز مع السراويل الأساسية Olap 1119 أو Optare 3326. أن التفاصيل المتباينة هي طريقة أنيقة لتجديد خزانة الملابس الكلاسيكية. يتناغم التطريز مع السراويل الأساسية Olap 1119 أو Optare 3326."
+      },
+      {
+        "q": "الكشمير يتطلب عناية فائقة",
+        "a": "ذكّري العميل بأن اتباع قواعد العناية البسيطة واللطيفة يضمن احتفاظ خيوط Luisa Spagnoli عالية الجودة بنعومتها وشكلها لعقود. العميل بأن اتباع قواعد العناية البسيطة واللطيفة يضمن احتفاظ خيوط Luisa Spagnoli عالية الجودة بنعومتها وشكلها لعقود."
+      },
+      {
+        "q": "مخاوف من أن الموديل قد يزيد الوزن",
+        "a": "أشيري إلى المقاس العادي (regular fit)، فهو مصمم ليتبع خطوط الجسم بنعومة دون إضافة حجم غير ضروري، مما يجعله مثالياً للإطلالات متعددة الطبقات تحت المعطف. إلى المقاس العادي (regular fit)، فهو مصمم ليتبع خطوط الجسم بنعومة دون إضافة حجم غير ضروري، مما يجعله مثالياً للإطلالات متعددة الطبقات تحت المعطف."
+      },
+      {
+        "q": "القطعة تبدو دافئة جداً",
+        "a": "أكدي على الخصائص الطبيعية للكشمير والصوف، حيث يوفران تنظيمًا حراريًا مثاليًا، مما يتيح الشعور بالراحة في الهواء الطلق وداخل الأماكن المغلقة. على الخصائص الطبيعية للكشمير والصوف، حيث يوفران تنظيمًا حراريًا مثاليًا، مما يتيح الشعور بالراحة في الهواء الطلق وداخل الأماكن المغلقة."
+      },
+      {
+        "q": "صعوبة اختيار قطع مكملة",
+        "a": "أظهري التنوع في التصميم، فالكنزة تبدو فاخرة بنفس القدر مع تنورة من الجلد النباتي Fabula 0101، أو مع السراويل الرسمية Onesta 2710."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ქარგვა ჩანს",
+        "a": "განუმარტეთ, რომ კონტრასტული დეტალები — ეს არის სტილური ზედმეტად ხერხი კლასიკური გარდერობის გასაახლებლად. ქარგვა მავალდებულებელი ჰარმონიზდება საბაზისო შარვალთან Olap 1119 ან Optare 3326. , რომ კონტრასტული დეტალები — ეს არის სტილური ზედმეტად ხერხი კლასიკური გარდერობის გასაახლებლად. ქარგვა მავალდებულებელი ჰარმონიზდება საბაზისო შარვალთან Olap 1119 ან Optare 3326."
+      },
+      {
+        "q": "ქაშმირი მოითხოვს",
+        "a": "შეახსენეთ კლიენტს, რომ დელიკატური მოვლის წესების დაცვისას, Luisa Spagnoli-ს მაღალი ხარისხის ძაფი მოვლას ინარჩუნებს სირბილესა და ფორმას ათწლეულების განმავლობაში. კლიენტს, რომ დელიკატური მოვლის წესების დაცვისას, Luisa Spagnoli-ს მაღალი ხარისხის ძაფი მოვლას ინარჩუნებს სირბილესა და ფორმას ათწლეულების განმავლობაში."
+      },
+      {
+        "q": "შიში იმისა, რომ",
+        "a": "მიუთითეთ სტანდარტულ მორგებაზე regular fit. ის მოდელი იქნება შემუშავებულია ისე, რომ რბილად მიჰყვეს სხეულის ხაზებს, სავსე ზედმეტი მოცულობის შექმნის გარეშე, რაც იდეალურია პალტოს ქვეშ მრავალშრიანი ლუქებისთვის. სტანდარტულ მორგებაზე regular fit. ის მოდელი იქნება შემუშავებულია ისე, რომ რბილად მიჰყვეს სხეულის ხაზებს, სავსე ზედმეტი მოცულობის შექმნის გარეშე, რაც იდეალურია პალტოს ქვეშ მრავალშრიანი ლუქებისთვის."
+      },
+      {
+        "q": "ნაკეთობა ჩანს",
+        "a": "ხაზი გაუსვით ქაშმირისა და მატყლის ბუნებრივ თვისებებს — ზედმეტად თბილი ისინი უზრუნველყოფენ იდეალურ თერმორეგულაციას, რაც გაძლევთ კომფორტის შეგრძნებას როგორც გარეთ, ისე შენობაში. ქაშმირისა და მატყლის ბუნებრივ თვისებებს — ზედმეტად თბილი ისინი უზრუნველყოფენ იდეალურ თერმორეგულაციას, რაც გაძლევთ კომფორტის შეგრძნებას როგორც გარეთ, ისე შენობაში."
+      },
+      {
+        "q": "სირთულე",
+        "a": "აჩვენეთ მრავალმხრივობა: პულოვერი თანაბრად შერჩევაში დამხმარე მდიდრულად გამოიყურება როგორც ეკო-ტყავის თამამ ქვედაბოლოსთან Fabula 0101, ისე მკაცრ შარვალთან Onesta 2710."
+      }
+    ],
+    "hy": [
+      {
+        "q": "ռազմավարություն Вышивка кажется",
+        "a": "Объясните, что контрастные детали — это стильный слишком способ освежить классический гардероб. Вышивка обязывающей гармонирует с базовыми брюками Olap 1119 или Optare 3326. , что контрастные детали — это стильный слишком способ освежить классический гардероб. Вышивка обязывающей гармонирует с базовыми брюками Olap 1119 или Optare 3326."
+      },
+      {
+        "q": "Кашемир требует",
+        "a": "Напомните клиенту, что при соблюдении простых правил деликатного ухода высококачественная пряжа Luisa Spagnoli ухода сохраняет свою мягкость и форму на десятилетия. клиенту, что при соблюдении простых правил деликатного ухода высококачественная пряжа Luisa Spagnoli ухода сохраняет свою мягкость и форму на десятилетия."
+      },
+      {
+        "q": "Опасение, что",
+        "a": "Укажите на стандартную посадку regular fit. Она модель будет разработана так, чтобы мягко следовать линиям тела, полнить не создавая лишнего объема, что идеально для многослойных луков под пальто. на стандартную посадку regular fit. Она модель будет разработана так, чтобы мягко следовать линиям тела, полнить не создавая лишнего объема, что идеально для многослойных луков под пальто."
+      },
+      {
+        "q": "Изделие кажется",
+        "a": "Подчеркните природные свойства кашемира и шерсти — слишком теплым они обеспечивают идеальную терморегуляцию, позволяя чувствовать себя комфортно как на улице, так и в помещении. природные свойства кашемира и шерсти — слишком теплым они обеспечивают идеальную терморегуляцию, позволяя чувствовать себя комфортно как на улице, так и в помещении."
+      },
+      {
+        "q": "Сложность в",
+        "a": "Продемонстрируйте универсальность: пуловер одинаково выборе дополняющих роскошно смотрится и с дерзкой юбкой из экокожи вещей Fabula 0101, и со строгими брюками Onesta 2710."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Izšuvums šķiet",
+        "a": "Izskaidrojiet, ka kontrastējošas detaļas ir stilīgs pārāk uzliekošs veids, kā atsvaidzināt klasisko garderobi. Izšuvums harmonē ar bāzes biksēm Olap 1119 vai Optare 3326. , ka kontrastējošas detaļas ir stilīgs pārāk uzliekošs veids, kā atsvaidzināt klasisko garderobi. Izšuvums harmonē ar bāzes biksēm Olap 1119 vai Optare 3326."
+      },
+      {
+        "q": "Kašmiram ir",
+        "a": "Atgādiniet klientam, ka, ievērojot vienkāršus nepieciešama kopšana delikātas kopšanas noteikumus, augstas kvalitātes Luisa Spagnoli dzija saglabā savu mīkstumu un formu gadu desmitiem. klientam, ka, ievērojot vienkāršus nepieciešama kopšana delikātas kopšanas noteikumus, augstas kvalitātes Luisa Spagnoli dzija saglabā savu mīkstumu un formu gadu desmitiem."
+      },
+      {
+        "q": "Bažas, ka модель",
+        "a": "Izceliet standarta regular fit piegriezumu. Tas ir būs pilnīgs izstrādāts tā, lai maigi sekotu ķermeņa līnijām, neradot lieku apjomu, kas ir ideāli piemērots daudzslāņu tēliem zem mēteļa. standarta regular fit piegriezumu. Tas ir būs pilnīgs izstrādāts tā, lai maigi sekotu ķermeņa līnijām, neradot lieku apjomu, kas ir ideāli piemērots daudzslāņu tēliem zem mēteļa."
+      },
+      {
+        "q": "Izstrādājums šķiet",
+        "a": "Uzsveriet kašmira un vilnas dabiskās īpašības — pārāk silts tās nodrošina ideālu termoregulāciju, ļaujot justies ērti gan ārā, gan iekštelpās. kašmira un vilnas dabiskās īpašības — pārāk silts tās nodrošina ideālu termoregulāciju, ļaujot justies ērti gan ārā, gan iekštelpās."
+      },
+      {
+        "q": "Sarežģītība papildinošu",
+        "a": "Nodemonstrējiet universālumu: pulovers vienlīdz lietu izvēlē grezni izskatās gan ar drosmīgus ekoloģiskās ādas svārkiem Fabula 0101, gan ar stingrām biksēm Onesta 2710."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas Įveikimo strategija Siuvinėjimas atrodo",
+        "a": "Paaiškinkite, kad kontrastingos detalės – tai stilingas per daug būdas atnaujinti klasikinę garderobą. Siuvinėjimas įpareigojantis dera su bazinėmis kelnėmis Olap 1119 arba Optare 3326. , kad kontrastingos detalės – tai stilingas per daug būdas atnaujinti klasikinę garderobą. Siuvinėjimas įpareigojantis dera su bazinėmis kelnėmis Olap 1119 arba Optare 3326."
+      },
+      {
+        "q": "Kašmyras reikalauja",
+        "a": "Priminkite klientui, kad laikantis paprastų subtilios priežiūros taisyklių, aukščiausios kokybės Luisa Spagnoli siūlai priežiūros išsaugo savo švelnumą ir formą dešimtmečius. klientui, kad laikantis paprastų subtilios priežiūros taisyklių, aukščiausios kokybės Luisa Spagnoli siūlai priežiūros išsaugo savo švelnumą ir formą dešimtmečius."
+      },
+      {
+        "q": "Baimė, kad",
+        "a": "Atkreipkite dėmesį į standartinį regular fit modelį. Jis modelis gali stambinti sukurtas taip, kad švelniai sektų kūno linijas, nesukuriant papildomos apimties, o tai idealu sluoksniuotiems deriniams po paltu. į standartinį regular fit modelį. Jis modelis gali stambinti sukurtas taip, kad švelniai sektų kūno linijas, nesukuriant papildomos apimties, o tai idealu sluoksniuotiems deriniams po paltu."
+      },
+      {
+        "q": "Gaminys atrodo",
+        "a": "Pabrėžkite natūralias kašmyro ir vilnos savybes – per šiltas jos užtikrina idealią termoreguliaciją, leidžiančią jaustis patogiai tiek lauke, tiek patalpoje. natūralias kašmyro ir vilnos savybes – per šiltas jos užtikrina idealią termoreguliaciją, leidžiančią jaustis patogiai tiek lauke, tiek patalpoje."
+      },
+      {
+        "q": "Sudėtingumas",
+        "a": "Parodykite universalumą: megztinis vienodai renkantis derinius prabangiai atrodo ir su drąsiu eko-odos sijonu Fabula 0101, ir su griežtomis kelnėmis Onesta 2710."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Haft wydaje się",
+        "a": "Wyjaśnij, że kontrastowe detale to stylowy zbyt zobowiązujący sposób na odświeżenie klasycznej garderoby. Haft harmonizuje z bazowymi spodniami Olap 1119 lub Optare 3326. , że kontrastowe detale to stylowy zbyt zobowiązujący sposób na odświeżenie klasycznej garderoby. Haft harmonizuje z bazowymi spodniami Olap 1119 lub Optare 3326."
+      },
+      {
+        "q": "Kaszmir wymaga",
+        "a": "Przypomnij klientce, że przy przestrzeganiu prostych zasad delikatnej pielęgnacji wysokiej jakości przędza Luisa Spagnoli pielęgnacji zachowuje swoją miękkość i formę na dziesięciolecia. klientce, że przy przestrzeganiu prostych zasad delikatnej pielęgnacji wysokiej jakości przędza Luisa Spagnoli pielęgnacji zachowuje swoją miękkość i formę na dziesięciolecia."
+      },
+      {
+        "q": "Obawa, że",
+        "a": "Wskaż na standardowy krój regular fit. Został model będzie pogrubiał on zaprojektowany tak, aby delikatnie podążać za liniami ciała, nie tworząc zbędnej objętości, co jest idealne dla warstwowych stylizacji pod płaszcz. na standardowy krój regular fit. Został model będzie pogrubiał on zaprojektowany tak, aby delikatnie podążać za liniami ciała, nie tworząc zbędnej objętości, co jest idealne dla warstwowych stylizacji pod płaszcz."
+      },
+      {
+        "q": "Produkt wydaje się",
+        "a": "Podkreśl naturalne właściwości kaszmiru i wełny — zbyt ciepły zapewniają one idealną termoregulację, pozwalając czuć się komfortowo zarówno na zewnątrz, jak i w pomieszczeniu. naturalne właściwości kaszmiru i wełny — zbyt ciepły zapewniają one idealną termoregulację, pozwalając czuć się komfortowo zarówno na zewnątrz, jak i w pomieszczeniu."
+      },
+      {
+        "q": "Trudności w",
+        "a": "Pokaż uniwersalność: sweter wygląda równie doborze pasujących luksusowo z odważną spódnicą z eko-skóry rzeczy Fabula 0101, jak i ze spodniami Onesta 2710."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Вишивка здається",
+        "a": "Поясніть, що контрастні деталі — це стильний занадто спосіб освіжити класичний гардероб. Вишивка обтяжливою гармоніює з базовими брюками Olap 1119 або Optare 3326. , що контрастні деталі — це стильний занадто спосіб освіжити класичний гардероб. Вишивка обтяжливою гармоніює з базовими брюками Olap 1119 або Optare 3326."
+      },
+      {
+        "q": "Кашемір потребує",
+        "a": "Нагадайте клієнту, що при дотриманні простих правил делікатного догляду високоякісна пряжа Luisa Spagnoli догляду зберігає свою м'якість і форму на десятиліття. клієнту, що при дотриманні простих правил делікатного догляду високоякісна пряжа Luisa Spagnoli догляду зберігає свою м'якість і форму на десятиліття."
+      },
+      {
+        "q": "Побоювання, що",
+        "a": "Вкажіть на стандартну посадку regular fit. Вона модель буде розроблена так, щоб м'яко слідувати лініям тіла, повнити не створюючи зайвого об'єму, що ідеально для багатошарових луків під пальто. на стандартну посадку regular fit. Вона модель буде розроблена так, щоб м'яко слідувати лініям тіла, повнити не створюючи зайвого об'єму, що ідеально для багатошарових луків під пальто."
+      },
+      {
+        "q": "Виріб здається",
+        "a": "Підкресліть природні властивості кашеміру та вовни — занадто теплим вони забезпечують ідеальну терморегуляцію, дозволяючи почуватися комфортно як на вулиці, так і в приміщенні. природні властивості кашеміру та вовни — занадто теплим вони забезпечують ідеальну терморегуляцію, дозволяючи почуватися комфортно як на вулиці, так і в приміщенні."
+      },
+      {
+        "q": "Складність у",
+        "a": "Продемонструйте універсальність: пуловер однаково виборі доповнюючих розкішно виглядає і з зухвалою спідницею з екошкіри речей Fabula 0101, і зі строгими брюками Onesta 2710."
+      }
+    ]
+  }
+}

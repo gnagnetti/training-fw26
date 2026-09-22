@@ -1,0 +1,352 @@
+{
+  "id": 14,
+  "name": "Cremina",
+  "description": {
+    "en": "The Cremina vest is the quintessence of contemporary Italian style, uniting sporty dynamism with tactile luxury. Crafted from a noble blend of 90% pure wool and 10% cashmere, it delivers exceptional warmth and softness to the touch. A textured rib knit lends the piece architectural volume, while exquisite eco-leather pocket trims add a note of boldness and status. A functional hood and a secure zip closure make this vest an indispensable element for creating layered ensembles in the 'quiet luxury' aesthetic.",
+    "ru": "Жилет Cremina от Luisa Spagnoli — это квинтэссенция современного итальянского стиля, сочетающая в себе спортивную динамику и тактильную роскошь. Модель выполнена из благородной смеси 90% натуральной шерсти и 10% кашемира, что обеспечивает исключительное тепло и нежность прикосновения. Фактурная вязка «в рубчик» придает изделию архитектурный объем, а изысканная отделка карманов экокожей добавляет образу ноту решительности и статуса. Наличие функционального капюшона и надежной застежки-молнии делает этот жилет незаменимым элементом для создания многослойных ансамблей в эстетике «тихой роскоши».",
+    "ar": "يُعد فيست Cremina من Luisa Spagnoli تجسيداً للطراز الإيطالي العصري، حيث يجمع بين الديناميكية الرياضية والفخامة الملموسة. صُممت القطعة من مزيج فاخر من 90% صوف طبيعي و10% كشمير، مما يوفر دفئاً استثنائياً وملمساً ناعماً. تمنح الحياكة البارزة «المضلعة» القطعة حجماً معمارياً، بينما تضيف التشطيبات المتقنة للجيوب بجلد إيكولوجي لمسة من الحزم والرقي. وجود غطاء الرأس العملي والسحاب المتين يجعل من هذا الفيست قطعة لا غنى عنها لتنسيق إطلالات متعددة الطبقات في إطار جمالية «الفخامة الهادئة».",
+    "ka": "Luisa Spagnoli-ს ჟილეტი Cremina თანამედროვე იტალიური სტილის კვინტესენციაა, რომელიც აერთიანებს სპორტულ დინამიკასა და ტაქტილურ ფუფუნებას. მოდელი დამზადებულია 90% ნატურალური მატყლისა და 10% ქაშმირის კეთილშობილური ნარევისგან, რაც უზრუნველყოფს განსაკუთრებულ სითბოს და შეხების სინაზეს. „ნეკნებიანი“ ფაქტურული ქსოვა ნაკეთობას არქიტექტურულ მოცულობას ანიჭებს, ხოლო ჯიბეების ეკოტყავით დახვეწილი გაფორმება სახეს გადაწყვეტილებისა და სტატუსის ნოტს მატებს. ფუნქციური კაპიუშონისა და საიმედო ელვა-შესაკრავის არსებობა ამ ჟილეტს შეუცვლელ ელემენტად აქცევს „ჩუმი ფუფუნების“ ესთეტიკაში მრავალფენიანი ანსამბლების შესაქმნელად.",
+    "hy": "Luisa Spagnoli-ի Cremina ժիլետը ժամանակակից իտալական ոճի կվինտեսենցիան է, որը միավորում է սպորտային դինամիկան և շոշափելի շքեղությունը։ Մոդելը պատրաստված է 90% բնական բրդի և 10% քաշմիրի վեհաշուք համադրությունից, ինչն ապահովում է բացառիկ ջերմություն և հպման նրբություն։ «Ռիբ» տեսակի ֆակտուրային հյուսվածքը իրին հաղորդում է ճարտարապետական ծավալ, իսկ գրպանների էկոկաշվե նրբաճաշակ ձևավորումը կերպարին ավելացնում է վճռականության և կարգավիճակի նոտա։ Ֆունկցիոնալ գլխարկի և հուսալի կայծակաճարմանդի առկայությունը այս ժիլետը դարձնում է անփոխարինելի տարր՝ «հանգիստ շքեղության» էսթետիկայով բազմաշերտ համադրություններ ստեղծելու համար։",
+    "lv": "Cremina veste no Luisa Spagnoli ir mūsdienīga itāļu stila kvintesence, kas apvieno sevī sportisku dinamiku un taktilu greznību. Modelis ir izgatavots no cēla 90% dabīgas vilnas un 10% kašmira maisījuma, kas nodrošina izcilu siltumu un pieskāriena maigumu. Fakturētais adījums \"rievotajā\" stilā piešķir izstrādājumam arhitektonisku apjomu, bet izsmalcinātā kabatu apdare ar ekoādu piešķir tēlam apņēmības un statusa noti. Funkcionālās kapuces un uzticama rāvējslēdzēja klātbūtne padara šo vesti par neaizstājamu elementu daudzslāņu ansambļu radīšanai \"klusās greznības\" estētikā.",
+    "lt": "Luisa Spagnoli liemenė Cremina – tai šiuolaikinio itališko stiliaus kvintesencija, jungianti sportišką dinamiką ir taktilinę prabangą. Modelis pasiūtas iš tauraus 90% natūralios vilnos ir 10% kašmyro mišinio, užtikrinančio išskirtinę šilumą ir švelnumą. Faktūrinis „briaunotas“ mezgimas suteikia gaminiui architektūrinio tūrio, o rafinuota dirbtinės odos kišenių apdaila įvaizdžiui prideda ryžtingumo ir statuso. Funkcionalus gobtuvas ir patikimas užtrauktukas paverčia šią liemenę nepakeičiamu elementu kuriant sluoksniuotus derinius „tyliosios prabangos“ estetikoje.",
+    "pl": "Kamizelka Cremina od Luisa Spagnoli to kwintesencja nowoczesnego włoskiego stylu, łącząca w sobie sportową dynamikę i zmysłowy luksus. Model wykonano ze szlachetnej mieszanki 90% naturalnej wełny i 10% kaszmiru, co zapewnia wyjątkowe ciepło i delikatność w dotyku. Faktura w prążki nadaje modelowi architektoniczną objętość, a wyrafinowane wykończenie kieszeni ekoskórą dodaje stylizacji nuty zdecydowania i prestiżu. Obecność funkcjonalnego kaptura oraz niezawodnego zapięcia na zamek błyskawiczny czyni tę kamizelkę niezastąpionym elementem do tworzenia warstwowych zestawów w estetyce „cichego luksusu”.",
+    "uk": "Жилет Cremina від Luisa Spagnoli — це квінтесенція сучасного італійського стилю, що поєднує в собі спортивну динаміку та тактильну розкіш. Модель виконана з благородної суміші 90% натуральної вовни та 10% кашеміру, що забезпечує виняткове тепло та ніжність дотику. Фактурна в'язка «у рубчик» додає виробу архітектурного об'єму, а вишукане оздоблення кишень екошкірою додає образу ноту рішучості та статусу. Наявність функціонального каптура та надійної застібки-блискавки робить цей жилет незамінним елементом для створення багатошарових ансамблів в естетиці «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Cammello Tabacco",
+      "code": "2331 2219",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/BDt_ZIILRNmGizWnsP5YxA_412933266696f435c3f9cf4_66565473_02830290XX1.jpg"
+    },
+    {
+      "name": "Nero Nero",
+      "code": "0101 0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/968GUVoMR7eNk2H7UQeWPg_345108726696f435bd28378_65218503_02830280XX1.jpg"
+    },
+    {
+      "name": "Panna Cammello",
+      "code": "0202 2320",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/a3692c00-4893-4bee-8424-c8bfd369f380-removebg-preview.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Luxury Sport)",
+        "en": "Total Look (Luxury Sport)",
+        "ar": "Total Look (Luxury Sport)",
+        "ka": "Total Look (Luxury Sport)",
+        "hy": "Total Look (Luxury Sport)",
+        "lv": "Total Look (Luxury Sport)",
+        "lt": "Total Look (Luxury Sport)",
+        "pl": "Total Look (Luxury Sport)",
+        "uk": "Total Look (Luxury Sport)"
+      },
+      "text": {
+        "ru": "Cremina 2331 2219 в сочетании с пуловером Caprese B 2331 и брюками Ontani 1262. Образ дополнен аксессуаром Muni 1270.",
+        "en": "Cremina 2331 2219 combined with a Caprese B 2331 pullover and Ontani 1262 trousers. The look is completed with a Muni 1270 accessory ( Data not available in official sources).",
+        "ar": "Cremina 2331 2219 combined with a Caprese B 2331 pullover and Ontani 1262 trousers. The look is completed with a Muni 1270 accessory ( Data not available in official sources).",
+        "ka": "Cremina 2331 2219 combined with a Caprese B 2331 pullover and Ontani 1262 trousers. The look is completed with a Muni 1270 accessory ( Data not available in official sources).",
+        "hy": "Cremina 2331 2219 combined with a Caprese B 2331 pullover and Ontani 1262 trousers. The look is completed with a Muni 1270 accessory ( Data not available in official sources).",
+        "lv": "Cremina 2331 2219 combined with a Caprese B 2331 pullover and Ontani 1262 trousers. The look is completed with a Muni 1270 accessory ( Data not available in official sources).",
+        "lt": "Cremina 2331 2219 combined with a Caprese B 2331 pullover and Ontani 1262 trousers. The look is completed with a Muni 1270 accessory ( Data not available in official sources).",
+        "pl": "Cremina 2331 2219 combined with a Caprese B 2331 pullover and Ontani 1262 trousers. The look is completed with a Muni 1270 accessory ( Data not available in official sources).",
+        "uk": "Cremina 2331 2219 combined with a Caprese B 2331 pullover and Ontani 1262 trousers. The look is completed with a Muni 1270 accessory ( Data not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Cremina",
+          "code": "2331 2219",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/BDt_ZIILRNmGizWnsP5YxA_412933266696f435c3f9cf4_66565473_02830290XX1.jpg"
+        },
+        {
+          "name": "Caprese B",
+          "code": "2331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q-dcDsRCTh-irYmaGwi0fg_1660235822696f430d81f0d5_01266196_02830040XX1.jpg",
+          "modelId": 3
+        },
+        {
+          "name": "Ontani",
+          "code": "1262",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Hby2QBOFTFG-bN-jqmGYeg_671233607696f42e9b32a60_97200211_02820700XX1.jpg",
+          "modelId": 256
+        },
+        {
+          "name": "Muni",
+          "code": "1270",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MUNI_244200000000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (City Chic)",
+        "en": "Total Look (City Chic)",
+        "ar": "Total Look (City Chic)",
+        "ka": "Total Look (City Chic)",
+        "hy": "Total Look (City Chic)",
+        "lv": "Total Look (City Chic)",
+        "lt": "Total Look (City Chic)",
+        "pl": "Total Look (City Chic)",
+        "uk": "Total Look (City Chic)"
+      },
+      "text": {
+        "ru": "Cremina 0101 0101 дополнен пуловером Mossa G 0101 и строгими брюками Optare 3326.",
+        "en": "Cremina 0101 0101 complemented by a Mossa G 0101 pullover and tailored Optare 3326 trousers.",
+        "ar": "Cremina 0101 0101 complemented by a Mossa G 0101 pullover and tailored Optare 3326 trousers.",
+        "ka": "Cremina 0101 0101 complemented by a Mossa G 0101 pullover and tailored Optare 3326 trousers.",
+        "hy": "Cremina 0101 0101 complemented by a Mossa G 0101 pullover and tailored Optare 3326 trousers.",
+        "lv": "Cremina 0101 0101 complemented by a Mossa G 0101 pullover and tailored Optare 3326 trousers.",
+        "lt": "Cremina 0101 0101 complemented by a Mossa G 0101 pullover and tailored Optare 3326 trousers.",
+        "pl": "Cremina 0101 0101 complemented by a Mossa G 0101 pullover and tailored Optare 3326 trousers.",
+        "uk": "Cremina 0101 0101 complemented by a Mossa G 0101 pullover and tailored Optare 3326 trousers."
+      },
+      "items": [
+        {
+          "name": "Cremina",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/968GUVoMR7eNk2H7UQeWPg_345108726696f435bd28378_65218503_02830280XX1.jpg"
+        },
+        {
+          "name": "Mossa G",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAB_10100000000%20%284%29.jpg",
+          "modelId": 192
+        },
+        {
+          "name": "Optare",
+          "code": "3326",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1697710587691f1560afa628_65630327_02780070XX1.jpg",
+          "modelId": 463
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the premium composition: 10% cashmere makes the vest remarkably soft, elevating it from a practical piece to an object of true indulgence.",
+      "Highlight the statement detail — the eco-leather trim. It sets the piece apart from classic knitwear, lending it a modern and refined appearance.",
+      "Recommend Cremina as the ideal layering solution: the vest sits beautifully over fine sweaters and shirts, allowing freedom of movement without compromising style."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на премиальном составе: 10% кашемира делают жилет невероятно нежным, превращая его из практичного элемента в объект истинного удовольствия.",
+      "Подчеркните статусную деталь — отделку из экокожи. Это выделяет модель на фоне классического трикотажа, придавая ей современный и дорогой вид.",
+      "Рекомендуйте Cremina как идеальное решение для многослойности: жилет превосходно садится поверх тонких свитеров и рубашек, обеспечивая свободу движений и стиль."
+    ],
+    "ar": [
+      "سلطي الضوء على تركيبة المادة الفاخرة: فنسبة 10% من الكشمير تضفي على الصديرية نعومة لا تضاهى، محولة إياها من قطعة عملية إلى قطعة توفر متعة حقيقية عند ارتدائها.",
+      "أبرزي التفصيلة التي تعزز المكانة وهي الحواف المصنوعة من الجلد الصناعي؛ فهذا يمنح القطعة تميزاً عن التريكو التقليدي ويضفي عليها طابعاً عصرياً وفخماً.",
+      "ركشي على Cremina كحل مثالي لإطلالات الطبقات: فالصديرية تتناغم ببراعة فوق القمصان والسترات الرقيقة، مما يضمن حرية الحركة والأناقة."
+    ],
+    "ka": [
+      "მიაქცევინეთ კლიენტის ყურადღება პრემიუმ შემადგენლობაზე: 10% ქაშმირი ჟილეტს წარმოუდგენლად ნაზს ხდის და მას პრაქტიკული ელემენტიდან ნამდვილი სიამოვნების ობიექტად გარდაქმნის.",
+      "ხაზი გაუსვით სტატუსურ დეტალს — ეკოტყავის მორთულობას. ეს მოდელს გამოარჩევს კლასიკური ტრიკოტაჟის ფონზე და ანიჭებს მას თანამედროვე და ძვირადღირებულ იერს.",
+      "რეკომენდაცია გაუწიეთ Cremina-ს, როგორც მრავალფენიანი სტილის იდეალურ გადაწყვეტას: ჟილეტი შესანიშნავად ჯდება თხელი სვიტერებისა და პერანგების ზემოდან, რაც უზრუნველყოფს მოძრაობის თავისუფლებასა და სტილს."
+    ],
+    "hy": [
+      "Կենտրոնացրեք հաճախորդի ուշադրությունը պրեմիում կազմի վրա. 10% քաշմիրը ժիլետը դարձնում է անհավանական նուրբ՝ այն գործնական տարրից վերածելով իսկական հաճույքի առարկայի:",
+      "Ընդգծեք կարգավիճակային դետալը՝ էկոկաշվե երիզավորումը: Սա առանձնացնում է մոդելը դասական տրիկոտաժի ֆոնին՝ հաղորդելով նրան ժամանակակից և թանկարժեք տեսք:",
+      "Առաջարկեք Cremina-ն որպես բազմաշերտության իդեալական լուծում. ժիլետը հիանալի նստում է բարակ սվիտերների և վերնաշապիկների վրա՝ ապահովելով շարժումների ազատություն և ոճ:"
+    ],
+    "lv": [
+      "Akcentējiet klienta uzmanību uz sastāva kvalitāti: 10% kašmira padara vesti neticami maigu, pārvēršot to no praktiska elementa par patiesa baudījuma objektu.",
+      "Uzsveriet statusa detaļu — apdari no ekoādas. Tas izceļ modeli uz klasiskās trikotāžas fona, piešķirot tam mūsdienīgu un dārgu izskatu.",
+      "Iesakiet Cremina kā ideālu risinājumu daudzslāņainībai: veste lieliski pieguļ virs plāniem džemperiem un krekliem, nodrošinot kustību brīvību un stilu."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į aukščiausios kokybės sudėtį: 10% kašmyro daro liemenę neįtikėtinai švelnią, paverčiant ją iš praktiško elemento tikro malonumo objektu.",
+      "Pabrėžkite prabangią detalę — dirbtinės odos apdailą. Tai išskiria modelį iš klasikinio trikotažo fono, suteikiant jam modernią ir prabangią išvaizdą.",
+      "Rekomenduokite Cremina kaip idealų sprendimą sluoksniavimui: liemenė puikiai priglunda virš plonų megztinių ir marškinių, užtikrindama judesių laisvę ir stilių."
+    ],
+    "pl": [
+      "Zwróć uwagę klientki na skład premium: 10% kaszmiru sprawia, że kamizelka jest niezwykle delikatna, zmieniając ją z praktycznego elementu w przedmiot prawdziwej przyjemności.",
+      "Podkreśl statusowy detal — wykończenie z ekoskóry. Wyróżnia to model na tle klasycznej dzianiny, nadając mu nowoczesny i luksusowy wygląd.",
+      "Rekomenduj Cremina jako idealne rozwiązanie dla warstwowych stylizacji: kamizelka doskonale układa się na cienkich swetrach i koszulach, zapewniając swobodę ruchów i styl."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на преміальному складі: 10% кашеміру роблять жилет неймовірно ніжним, перетворюючи його з практичного елемента на об'єкт справжнього задоволення.",
+      "Підкресліть статусну деталь — оздоблення з екошкіри. Це виділяє модель на фоні класичного трикотажу, надаючи їй сучасного та дорогого вигляду.",
+      "Рекомендуйте Cremina як ідеальне рішення для багатошаровості: жилет чудово сідає поверх тонких светрів та сорочок, забезпечуючи свободу рухів та стиль."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The absence of sleeves makes the model insufficiently warm for winter.",
+        "a": "The waistcoat is specifically designed for an active lifestyle and for driving. The wool-and-cashmere blend guarantees flawless thermoregulation across the torso."
+      },
+      {
+        "q": "A ribbed knit may visually add unwanted volume.",
+        "a": "On the contrary, the vertical knit pattern creates a clean vertical line that elongates the silhouette, while the straight Regular fit cut ensures a perfect fit."
+      },
+      {
+        "q": "The eco-leather pocket trim may crack or lose its appearance.",
+        "a": "Luisa Spagnoli uses high-tech eco-leather, resistant to wear and external factors, guaranteeing the aesthetic is preserved for many seasons to come."
+      },
+      {
+        "q": "The hood makes the piece too sporty.",
+        "a": "Thanks to the noble texture of the cashmere blend, the hood reads as elegant. This is the embodiment of the 'sport-chic' style currently at the height of fashion."
+      },
+      {
+        "q": "How should such combined knitwear be cared for?",
+        "a": "We recommend professional dry cleaning. This will preserve the softness of the cashmere fibers and the piece's original shape for a long time to come."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Отсутствие рукавов делает модель недостаточно теплой для зимы.",
+        "a": "Жилет специально спроектирован для активного образа жизни и вождения. Сочетание шерсти и кашемира гарантирует безупречную терморегуляцию в области корпуса."
+      },
+      {
+        "q": "Вязка в рубчик может визуально добавлять лишний объем.",
+        "a": "Вертикальный рисунок вязки, напротив, создает четкую вертикаль, которая вытягивает силуэт, а прямой крой Regular fit обеспечивает идеальную посадку."
+      },
+      {
+        "q": "Экокожа на карманах может потрескаться или потерять вид.",
+        "a": "Luisa Spagnoli использует высокотехнологичную экокожу, устойчивую к износу и внешним воздействиям, что гарантирует сохранение эстетики на долгие сезоны."
+      },
+      {
+        "q": "Капюшон делает вещь слишком спортивной.",
+        "a": "Благодаря благородной фактуре кашемировой смеси, капюшон выглядит элегантно. Это воплощение стиля 'sport-chic', который сейчас находится на пике моды."
+      },
+      {
+        "q": "Как ухаживать за таким комбинированным трикотажем?",
+        "a": "Мы рекомендуем профессиональную химчистку. Это позволит надолго сохранить мягкость кашемировых волокон и первоначальную форму изделия."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الرياضي الراقي",
+        "a": "(Sport-chic) المتألق في عالم الموضة. وللعناية بهذه القطعة المحبوكة المركبة، نوصي بالتنظيف الجاف المتخصص لضمان الاستدامة والحفاظ على نعومة ألياف الكشمير وشكل القطعة الأصلي."
+      }
+    ],
+    "ka": [
+      {
+        "q": "სახელოების არარსებობა მოდელს ზამთრისთვის არასაკმარისად თბილს ხდის.",
+        "a": "ჟილეტი სპეციალურად არის შექმნილი აქტიური ცხოვრების წესისა და მართვისთვის. მატყლისა და ქაშმირის კომბინაცია გარანტიას იძლევა უნაკლო თერმორეგულაციის შესახებ ტანის მიდამოში."
+      },
+      {
+        "q": "რელიეფური ქსოვა შესაძლოა ვიზუალურად ზედმეტ მოცულობას მატებდეს.",
+        "a": "პირიქით, ქსოვის ვერტიკალური ნახატი ქმნის მკაფიო ვერტიკალს, რომელიც აგრძელებს სილუეტს, ხოლო პირდაპირი Regular fit კროი უზრუნველყოფს იდეალურ მორგებას."
+      },
+      {
+        "q": "ჯიბეებზე არსებული ეკოტყავი შესაძლოა გაიბზაროს ან სახე დაკარგოს.",
+        "a": "Luisa Spagnoli იყენებს მაღალტექნოლოგიურ ეკოტყავს, რომელიც მდგრადია ცვეთისა და გარეგანი ზემოქმედების მიმართ, რაც გარანტიას იძლევა ესთეტიკის შენარჩუნების მრავალი სეზონის განმავლობაში."
+      },
+      {
+        "q": "კაპიუშონი სამოსს ზედმეტად სპორტულს ხდის.",
+        "a": "ქაშმირის ნარევის კეთილშობილური ფაქტურის წყალობით კაპიუშონი ელეგანტურად გამოიყურება. ეს არის 'sport-chic' სტილის განსახიერება, რომელიც ახლა მოდის პიკზეა."
+      },
+      {
+        "q": "როგორ მოვუაროთ ასეთ კომბინირებულ ტრიკოტაჟს?",
+        "a": "ჩვენ გირჩევთ პროფესიონალურ ქიმწმენდას. ეს საშუალებას მოგცემთ დიდი ხნით შეინარჩუნოთ ქაშმირის ბოჭკოების სირბილე და ნაკეთობის პირვანდელი ფორმა."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Թևերի բացակայությունը մոդելը դարձնում է ոչ բավարար տաք ձմռան համար։",
+        "a": "Ժիլետը հատուկ նախագծված է ակտիվ կենսակերպի և մեքենա վարելու համար։ Բրդի և կաշմիրի համադրությունը երաշխավորում է անթերի ջերմակարգավորում իրանի հատվածում։"
+      },
+      {
+        "q": "Ռետուշով հյուսվածքը կարող է տեսողականորեն ավելորդ ծավալ հաղորդել։",
+        "a": "Հյուսվածքի ուղղահայաց նախշը, ընդհակառակը, ստեղծում է հստակ ուղղահայաց գիծ, որը ձգում է ուրվագիծը, իսկ ուղիղ Regular fit ձևվածքը ապահովում է իդեալական նստվածք։"
+      },
+      {
+        "q": "Գրպանների էկոկաշին կարող է ճաքճքել կամ կորցնել տեսքը։",
+        "a": "Luisa Spagnoli-ն օգտագործում է բարձրտեխնոլոգիական էկոկաշի, որը կայուն է մաշվածության և արտաքին ազդեցությունների նկատմամբ, ինչը երաշխավորում է էսթետիկայի պահպանումը երկար սեզոնների ընթացքում։"
+      },
+      {
+        "q": "Կափույրը իրը դարձնում է չափազանց սպորտային։",
+        "a": "Կաշմիրային խառնուրդի ազնվական ֆակտուրայի շնորհիվ կափույրը էլեգանտ տեսք ունի։ Սա 'sport-chic' ոճի մարմնացումն է, որն այժմ նորաձևության գագաթնակետին է։"
+      },
+      {
+        "q": "Ինչպե՞ս խնամել այսպիսի համակցված տրիկոտաժը։",
+        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ քիմմաքրում։ Դա թույլ կտա երկար ժամանակ պահպանել կաշմիրային մանրաթելերի փափկությունը և իրի սկզբնական ձևը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Piedurkņu trūkums padara modeli nepietiekami siltu ziemai.",
+        "a": "Vestes modelis ir īpaši izstrādāts aktīvam dzīvesveidam un braukšanai ar auto. Vilnas un kašmira kombinācija garantē nevainojamu ķermeņa termoregulāciju."
+      },
+      {
+        "q": "Adījums valnītī var vizuāli piešķirt lieku apjomu.",
+        "a": "Vertikālais adījuma raksts, gluži pretēji, rada skaidru vertikāli, kas pagarina siluetu, bet taisnais Regular fit piegriezums nodrošina nevainojamu izskatu."
+      },
+      {
+        "q": "Ekoāda uz kabatām var ieplaisāt vai zaudēt savu izskatu.",
+        "a": "Luisa Spagnoli izmanto augsto tehnoloģiju ekoādu, kas ir izturīga pret nodilumu un ārējām iedarbībām, kas garantē estētikas saglabāšanu daudzām sezonām."
+      },
+      {
+        "q": "Kapuce padara apģērbu pārāk sportisku.",
+        "a": "Pateicoties cēlajai kašmira maisījuma faktūrai, kapuce izskatās eleganti. Tas ir “sport-chic” stila iemiesojums, kas šobrīd atrodas modes virsotnē."
+      },
+      {
+        "q": "Kā kopt šādu kombinētu trikotāžu?",
+        "a": "Mēs iesakām profesionālo ķīmisko tīrīšanu. Tas ļaus ilgstoši saglabāt kašmira šķiedru maigumu un izstrādājuma sākotnējo formu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Rankovių nebuvimas daro modelį nepakankamai šiltą žiemai.",
+        "a": "Liemenė specialiai suprojektuota aktyviam gyvenimo būdui ir vairavimui. Vilnos ir kašmyro derinys garantuoja nepriekaištingą termoreguliaciją liemens srityje."
+      },
+      {
+        "q": "Rumbelių raštas gali vizualiai pridėti papildomos apimties.",
+        "a": "Vertikalus mezgimo raštas, priešingai, sukuria aiškią vertikalę, kuri išilgina siluetą, o tiesus kirpimas Regular fit užtikrina idealų prigludimą."
+      },
+      {
+        "q": "Ekooda ant kišenių gali suskilinėti arba prarasti išvaizdą.",
+        "a": "Luisa Spagnoli naudoja aukštųjų technologijų ekoodą, atsparią nusidėvėjimui ir aplinkos poveikiui, kas garantuoja estetikos išsaugojimą ilgiems sezonams."
+      },
+      {
+        "q": "Gobtuvas daro gaminį pernelyg sportišką.",
+        "a": "Dėl kilnios kašmyro mišinio faktūros gobtuvas atrodo elegantiškai. Tai „sport-chic“ stiliaus įkūnijimas, kuris šiuo metu yra mados viršūnėje."
+      },
+      {
+        "q": "Kaip prižiūrėti tokį kombinuotą trikotažą?",
+        "a": "Rekomenduojame profesionalų cheminį valymą. Tai leis ilgam išsaugoti kašmyro pluošto minkštumą ir pradinę gaminio formą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Brak rękawów sprawia, że model nie jest wystarczająco ciepły na zimę.",
+        "a": "Kamizelka została specjalnie zaprojektowana z myślą o aktywnym trybie życia i prowadzeniu samochodu. Połączenie wełny i kaszmiru gwarantuje nienaganną termoregulację w obszarze korpusu."
+      },
+      {
+        "q": "Dzianina w prążki może wizualnie dodawać objętości.",
+        "a": "Pionowy wzór dzianiny wręcz przeciwnie – tworzy wyraźną linię pionową, która wydłuża sylwetkę, a prosty krój Regular fit zapewnia idealne dopasowanie."
+      },
+      {
+        "q": "Ekoskóra na kieszeniach może popękać lub stracić wygląd.",
+        "a": "Luisa Spagnoli wykorzystuje zaawansowaną technologicznie ekoskórę, odporną na zużycie i czynniki zewnętrzne, co gwarantuje zachowanie estetyki przez długie sezony."
+      },
+      {
+        "q": "Kaptur sprawia, że rzecz wydaje się zbyt sportowa.",
+        "a": "Dzięki szlachetnej fakturze mieszanki kaszmirowej kaptur wygląda elegancko. To uosobienie stylu 'sport-chic', który obecnie znajduje się w szczytowym momencie mody."
+      },
+      {
+        "q": "Jak dbać o taki kombinowany trykot?",
+        "a": "Zalecamy profesjonalne czyszczenie chemiczne. Pozwoli to na długo zachować miękkość włókien kaszmirowych i pierwotny kształt produktu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "В'язка в рубчик може візуально додавати зайвий об'єм.",
+        "a": "Вертикальний малюнок в'язки, навпаки, створює чітку вертикаль, яка витягує силует, а прямий крій Regular fit забезпечує ідеальну посадку."
+      },
+      {
+        "q": "Екошкіра на кишенях може потріскатися або втратити вигляд.",
+        "a": "Luisa Spagnoli використовує високотехнологічну екошкіру, стійку до зносу та зовнішніх впливів, що гарантує збереження естетики на довгі сезони."
+      },
+      {
+        "q": "Капюшон робить річ занадто спортивною.",
+        "a": "Завдяки благородній фактурі кашемірової суміші, капюшон виглядає елегантно. Це втілення стилю 'sport-chic', який зараз знаходиться на піку моди."
+      },
+      {
+        "q": "Як доглядати за таким комбінованим трикотажем?",
+        "a": "Ми рекомендуємо професійну хімчистку. Це дозволить надовго зберегти м'якість кашемірових волокон та первісну форму виробу."
+      }
+    ]
+  }
+}

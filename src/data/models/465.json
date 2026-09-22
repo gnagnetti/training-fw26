@@ -1,0 +1,526 @@
+{
+  "id": 465,
+  "name": "Ornago",
+  "description": {
+    "en": "The Ornago trousers are a refined reading of everyday luxury, where the functionality of five pockets meets the nobility of sartorial materials. Crafted from an exceptionally soft cotton-and-modal velvet blend (velluto di cotone e modal), featuring a delicate fine-rib pattern (coste fini). The intelligent fabric composition lends the piece not only a pleasing matte sheen but also unparalleled pliancy, allowing the slim silhouette to trace the lines of the figure flawlessly. The single yet significant embellishment is a flat gold-tone button bearing the LS logo, serving as a jewel-like accent against the textured fabric. These trousers are created for the woman who chooses the dynamism of city life while remaining true to the 'Quiet Luxury' aesthetic.",
+    "ru": "Брюки Ornago --- это изысканное прочтение повседневной роскоши, где функциональность пяти карманов встречается с благородством сарториальных материалов. Модель выполнена из исключительного по своей мягкости смесового вельвета на основе хлопка и модала (velluto di cotone e modal), обладающего деликатным паттерном в мелкий рубчик (coste fini). Интеллектуальный состав ткани дарит изделию не только приятный матовый блеск, но и непревзойденную пластичность, позволяя силуэту «slim» безупречно очерчивать линии фигуры. Единственным, но весомым украшением служит плоская золотистая пуговица с логотипом LS, выступающая как ювелирный акцент на фоне фактурного полотна. Эти брюки созданы для женщины, которая выбирает динамику городской жизни, сохраняя верность эстетике «Quiet Luxury».",
+    "ar": "بنطال Ornago هو قراءة راقية للفخامة اليومية، حيث تلتقي وظائفية الجيوب الخمسة بنبل المواد التيلورية. الموديل مصنوع من مخمل ممزوج فائق النعومة يعتمد على القطن والمودال (velluto di cotone e modal)، ويتميز بنمط دقيق ومضلع (coste fini). يمنح التركيب الذكي للقماش القطعة ليس فقط بريقاً مطفياً لطيفاً، بل أيضاً مرونة لا تضاهى، مما يسمح للقصة الضيقة (slim) بتحديد خطوط القامة بشكل مثالي. الزينة الوحيدة، ولكن المؤثرة، هي زر ذهبي مسطح يحمل شعار LS، والذي يعمل كلمسة مجوهرات على خلفية القماش الملمسي. صُمم هذا البنطال للمرأة التي تختار ديناميكية الحياة الحضرية مع الحفاظ على وفائها لجماليات «Quiet Luxury».",
+    "ka": "Ornago შარვალი --- ეს არის ყოველდღიური ფუფუნების დახვეწილი ხედვა, სადაც ხუთი ჯიბის ფუნქციურობა ხვდება სარტორიალური მასალების კეთილშობილებას. მოდელი დამზადებულია ბამბისა და მოდალის ბაზაზე არსებული, განსაკუთრებით რბილი შერეული ხავერდისგან (velluto di cotone e modal), რომელსაც გააჩნია დელიკატური წვრილზოლიანი პატერნი (coste fini). ქსოვილის ინტელექტუალური შემადგენლობა ნაკეთობას სძენს არა მხოლოდ სასიამოვნო მქრქალ ბზინვარებას, არამედ შეუდარებელ პლასტიკურობას, რაც „slim“ სილუეტს საშუალებას აძლევს უნაკლოდ მოხაზოს ფიგურის ხაზები. ერთადერთ, მაგრამ მნიშვნელოვან დეკორაციად გვევლინება LS ლოგოიანი ბრტყელი ოქროსფერი ღილი, რომელიც საიუველირო აქცენტის როლს ასრულებს ფაქტურული ქსოვილის ფონზე. ეს შარვალი შექმნილია იმ ქალბატონისთვის, რომელიც ირჩევს ქალაქური ცხოვრების დინამიკას და ინარჩუნებს ერთგულებას „Quiet Luxury“-ს ესთეტიკისადმი.",
+    "hy": "Ornago տաբատը առօրյա շքեղության նուրբ ընկալում է, որտեղ հինգ գրպանների գործառնականությունը հանդիպում է սարտորիալ նյութերի ազնվությանը։ Մոդելը պատրաստված է բամբակի և մոդալի (velluto di cotone e modal) հիմքի վրա՝ իր փափկությամբ բացառիկ խառը թավիշից, որն օժտված է նուրբ մանր զոլավոր նախշով (coste fini)։ Գործվածքի մտավոր բաղադրությունը արտադրանքին հաղորդում է ոչ միայն հաճելի փայլատ փայլ, այլև անգերազանցելի պլաստիկություն՝ թույլ տալով «slim» ուրվագծին անթերի ընդգծել կազմվածքի գծերը։ Միակ, բայց ծանրակշիռ զարդարանքը LS տարբերանշանով հարթ ոսկեգույն կոճակն է, որը հանդես է գալիս որպես ոսկերչական շեշտադրում հյուսվածքային կտավի ֆոնին։ Այս տաբատները ստեղծված են այն կնոջ համար, ով ընտրում է քաղաքային կյանքի դինամիկան՝ պահպանելով հավատարմությունը «Quiet Luxury» էսթետիկային։",
+    "lv": "Ornago bikses --- tā ir ikdienas greznības izsmalcināta interpretācija, kur piecu kabatu funkcionalitāte satiekas ar sartoriālo materiālu cēlu dabu. Modelis ir izgatavots no izcili mīksta kokvilnas un modāla (velluto di cotone e modal) samta maisījuma, kam piemīt delikāts smalku rievojumu raksts (coste fini). Auduma intelektuālais sastāvs piešķir izstrādājumam ne tikai patīkamu matētu spīdumu, bet arī nepārspējamu plastiskumu, ļaujot «slim» siluetam nevainojami iezīmēt figūras līnijas. Kā vienīgais, bet nozīmīgs rotājums kalpo plakana zeltaina poga ar LS logotipu, kas izceļas kā juvelierizstrādājuma akcents uz teksturētā auduma fona. Šīs bikses ir radītas sievietei, kura izvēlas pilsētas dzīves dinamiku, saglabājot uzticību «Quiet Luxury» estētikai.",
+    "lt": "Kelnės Ornago --- tai subtili kasdienės prabangos interpretacija, kur penkių kišenių funkcionalumas susitinka su sartorialių medžiagų taurumu. Modelis pagamintas iš išskirtinio minkštumo medvilnės ir modalio mišinio aksomo (velluto di cotone e modal), pasižyminčio subtiliu smulkaus briaunojimo raštu (coste fini). Intelektuali audinio sudėtis suteikia gaminiui ne tik malonų matinį žvilgesį, bet ir neprilygstamą plastiškumą, leidžiantį „slim“ siluetui nepriekaištingai pabrėžti figūros linijas. Vieninteliu, bet svariu papuošimu tampa plokščia auksinė saga su LS logotipu, kuri tarnauja kaip juvelyrinis akcentas faktūrinio audinio fone. Šios kelnės sukurtos moteriai, kuri renkasi dinamišką miesto gyvenimą, išlaikydama ištikimybę „Quiet Luxury“ estetikai.",
+    "pl": "Spodnie Ornago --- to wyrafinowana interpretacja codziennego luksusu, gdzie funkcjonalność pięciu kieszeni spotyka się ze szlachetnością krawieckich materiałów. Model wykonany z wyjątkowo miękkiego sztruksu z mieszanki bawełny i modalu (velluto di cotone e modal), posiadającego delikatny wzór w drobne prążki (coste fini). Intelektualny skład tkaniny nadaje produktowi nie tylko przyjemny matowy połysk, ale także niezrównaną plastyczność, pozwalając sylwetce „slim” nienagannie podkreślać linie figury. Jedyną, lecz istotną ozdobą jest płaski złocisty guzik z logo LS, pełniący rolę jubilerskiego akcentu na tle fakturowanego materiału. Te spodnie stworzono dla kobiety, która wybiera dynamikę miejskiego życia, pozostając wierną estetyce „Quiet Luxury”.",
+    "uk": "Брюки Ornago --- це вишукане прочитання повсякденної розкоші, де функціональність п'яти кишень зустрічається з благородством сарторіальних матеріалів. Модель виконана з виняткового за своєю м'якістю сумішевого оксамиту на основі бавовни та модалу (velluto di cotone e modal), що володіє делікатним паттерном у дрібний рубчик (coste fini). Інтелектуальний склад тканини дарує виробу не лише приємний матовий блиск, а й неперевершену пластичність, дозволяючи силуету «slim» бездоганно окреслювати лінії фігури. Єдиною, але вагомою прикрасою служить плаский золотистий ґудзик з логотипом LS, що виступає як ювелірний акцент на фоні фактурного полотна. Ці брюки створені для жінки, яка обирає динаміку міського життя, зберігаючи вірність естетиці «Quiet Luxury»."
+  },
+  "colors": [
+    {
+      "name": "Bordeaux",
+      "code": "2422",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1411997118692424e36bc306_32856579_02781780XX1.jpg"
+    },
+    {
+      "name": "Salvia",
+      "code": "1759",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/85911319692424e42cbdc1_93438143_02781800XX1.jpg"
+    },
+    {
+      "name": "Senape",
+      "code": "1947",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1093474942692424e3cb5b28_19412306_02781790XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать фактурный вельвет Ornago как в монохромных ансамблях, так и в сложных многослойных образах: Вариант 2422 ( Бордо): В lookbook (Look 22): каноническое сочетание с кожаной курткой-рубашкой Sarmoneta 2445, дополненное сумкой Iago 0101 0002 и сапогами Ulisside 0101 0038.",
+        "en": "The brand's stylists suggest using the textured velvet Ornago both in monochromatic ensembles and in sophisticated layered looks: Variant 2422 ( Bordeaux): In lookbook (Look 22): a canonical combination with the Sarmoneta 2445 leather shirt-jacket, complemented by the Iago 0101 0002 bag and the Ulisside 0101 0038 boots.",
+        "ar": "The brand's stylists suggest using the textured velvet Ornago both in monochromatic ensembles and in sophisticated layered looks: Variant 2422 ( Bordeaux): In lookbook (Look 22): a canonical combination with the Sarmoneta 2445 leather shirt-jacket, complemented by the Iago 0101 0002 bag and the Ulisside 0101 0038 boots.",
+        "ka": "The brand's stylists suggest using the textured velvet Ornago both in monochromatic ensembles and in sophisticated layered looks: Variant 2422 ( Bordeaux): In lookbook (Look 22): a canonical combination with the Sarmoneta 2445 leather shirt-jacket, complemented by the Iago 0101 0002 bag and the Ulisside 0101 0038 boots.",
+        "hy": "The brand's stylists suggest using the textured velvet Ornago both in monochromatic ensembles and in sophisticated layered looks: Variant 2422 ( Bordeaux): In lookbook (Look 22): a canonical combination with the Sarmoneta 2445 leather shirt-jacket, complemented by the Iago 0101 0002 bag and the Ulisside 0101 0038 boots.",
+        "lv": "The brand's stylists suggest using the textured velvet Ornago both in monochromatic ensembles and in sophisticated layered looks: Variant 2422 ( Bordeaux): In lookbook (Look 22): a canonical combination with the Sarmoneta 2445 leather shirt-jacket, complemented by the Iago 0101 0002 bag and the Ulisside 0101 0038 boots.",
+        "lt": "The brand's stylists suggest using the textured velvet Ornago both in monochromatic ensembles and in sophisticated layered looks: Variant 2422 ( Bordeaux): In lookbook (Look 22): a canonical combination with the Sarmoneta 2445 leather shirt-jacket, complemented by the Iago 0101 0002 bag and the Ulisside 0101 0038 boots.",
+        "pl": "The brand's stylists suggest using the textured velvet Ornago both in monochromatic ensembles and in sophisticated layered looks: Variant 2422 ( Bordeaux): In lookbook (Look 22): a canonical combination with the Sarmoneta 2445 leather shirt-jacket, complemented by the Iago 0101 0002 bag and the Ulisside 0101 0038 boots.",
+        "uk": "The brand's stylists suggest using the textured velvet Ornago both in monochromatic ensembles and in sophisticated layered looks: Variant 2422 ( Bordeaux): In lookbook (Look 22): a canonical combination with the Sarmoneta 2445 leather shirt-jacket, complemented by the Iago 0101 0002 bag and the Ulisside 0101 0038 boots."
+      },
+      "items": [
+        {
+          "name": "Sarmoneta",
+          "code": "2445",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1368746391691f159ba2d2d8_92724591_02780870XX1.jpg",
+          "modelId": 474
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        },
+        {
+          "name": "Ulisside",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 43)",
+        "en": "In lookbook (Look 43)",
+        "ar": "In lookbook (Look 43)",
+        "ka": "In lookbook (Look 43)",
+        "hy": "In lookbook (Look 43)",
+        "lv": "In lookbook (Look 43)",
+        "lt": "In lookbook (Look 43)",
+        "pl": "In lookbook (Look 43)",
+        "uk": "In lookbook (Look 43)"
+      },
+      "text": {
+        "ru": "статусный сет с двубортным кабаном Segreteria 1751 и уютным пуловером Messier 2439.",
+        "en": "a high-status set with the Segreteria 1751 double-breasted pea coat and the cozy Messier 2439 pullover.",
+        "ar": "a high-status set with the Segreteria 1751 double-breasted pea coat and the cozy Messier 2439 pullover.",
+        "ka": "a high-status set with the Segreteria 1751 double-breasted pea coat and the cozy Messier 2439 pullover.",
+        "hy": "a high-status set with the Segreteria 1751 double-breasted pea coat and the cozy Messier 2439 pullover.",
+        "lv": "a high-status set with the Segreteria 1751 double-breasted pea coat and the cozy Messier 2439 pullover.",
+        "lt": "a high-status set with the Segreteria 1751 double-breasted pea coat and the cozy Messier 2439 pullover.",
+        "pl": "a high-status set with the Segreteria 1751 double-breasted pea coat and the cozy Messier 2439 pullover.",
+        "uk": "a high-status set with the Segreteria 1751 double-breasted pea coat and the cozy Messier 2439 pullover."
+      },
+      "items": [
+        {
+          "name": "Segreteria",
+          "code": "1751",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1177856364692424dbb18d31_39928106_02781600XX1.jpg",
+          "modelId": 479
+        },
+        {
+          "name": "Messier",
+          "code": "2439",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1009101303691c5790f2b730_18424116_02790070XX1.jpg",
+          "modelId": 444
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витрине (Vetrina 19, Bambola 3)",
+        "en": "In the showcase (Vetrina 19, Bambola 3)",
+        "ar": "In the showcase (Vetrina 19, Bambola 3)",
+        "ka": "In the showcase (Vetrina 19, Bambola 3)",
+        "hy": "In the showcase (Vetrina 19, Bambola 3)",
+        "lv": "In the showcase (Vetrina 19, Bambola 3)",
+        "lt": "In the showcase (Vetrina 19, Bambola 3)",
+        "pl": "In the showcase (Vetrina 19, Bambola 3)",
+        "uk": "In the showcase (Vetrina 19, Bambola 3)"
+      },
+      "text": {
+        "ru": "артистичный городской выход с курткой Sarmoneta 2445, поло Mlacaria 0101 и шляпой Rotterdam 2439. Вариант 1947 ( Темно-серый):",
+        "en": "an artistic urban outfit with the Sarmoneta 2445 jacket, the Mlacaria 0101 polo and the Rotterdam 2439 hat. Variant 1947 ( Dark grey):",
+        "ar": "an artistic urban outfit with the Sarmoneta 2445 jacket, the Mlacaria 0101 polo and the Rotterdam 2439 hat. Variant 1947 ( Dark grey):",
+        "ka": "an artistic urban outfit with the Sarmoneta 2445 jacket, the Mlacaria 0101 polo and the Rotterdam 2439 hat. Variant 1947 ( Dark grey):",
+        "hy": "an artistic urban outfit with the Sarmoneta 2445 jacket, the Mlacaria 0101 polo and the Rotterdam 2439 hat. Variant 1947 ( Dark grey):",
+        "lv": "an artistic urban outfit with the Sarmoneta 2445 jacket, the Mlacaria 0101 polo and the Rotterdam 2439 hat. Variant 1947 ( Dark grey):",
+        "lt": "an artistic urban outfit with the Sarmoneta 2445 jacket, the Mlacaria 0101 polo and the Rotterdam 2439 hat. Variant 1947 ( Dark grey):",
+        "pl": "an artistic urban outfit with the Sarmoneta 2445 jacket, the Mlacaria 0101 polo and the Rotterdam 2439 hat. Variant 1947 ( Dark grey):",
+        "uk": "an artistic urban outfit with the Sarmoneta 2445 jacket, the Mlacaria 0101 polo and the Rotterdam 2439 hat. Variant 1947 ( Dark grey):"
+      },
+      "items": [
+        {
+          "name": "Sarmoneta",
+          "code": "2445",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1368746391691f159ba2d2d8_92724591_02780870XX1.jpg",
+          "modelId": 474
+        },
+        {
+          "name": "Mlacaria",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Rotterdam",
+          "code": "2439",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b4568a5d-6591-432e-a116-f6e5247f5b6f.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 42)",
+        "en": "In lookbook (Look 42)",
+        "ar": "In lookbook (Look 42)",
+        "ka": "In lookbook (Look 42)",
+        "hy": "In lookbook (Look 42)",
+        "lv": "In lookbook (Look 42)",
+        "lt": "In lookbook (Look 42)",
+        "pl": "In lookbook (Look 42)",
+        "uk": "In lookbook (Look 42)"
+      },
+      "text": {
+        "ru": "современный функциональный образ под защитой парки Strumento 1206 1206 в паре с пуловером Messier 1936.",
+        "en": "a modern functional look protected by the Strumento 1206 1206 parka paired with the Messier 1936 pullover.",
+        "ar": "a modern functional look protected by the Strumento 1206 1206 parka paired with the Messier 1936 pullover.",
+        "ka": "a modern functional look protected by the Strumento 1206 1206 parka paired with the Messier 1936 pullover.",
+        "hy": "a modern functional look protected by the Strumento 1206 1206 parka paired with the Messier 1936 pullover.",
+        "lv": "a modern functional look protected by the Strumento 1206 1206 parka paired with the Messier 1936 pullover.",
+        "lt": "a modern functional look protected by the Strumento 1206 1206 parka paired with the Messier 1936 pullover.",
+        "pl": "a modern functional look protected by the Strumento 1206 1206 parka paired with the Messier 1936 pullover.",
+        "uk": "a modern functional look protected by the Strumento 1206 1206 parka paired with the Messier 1936 pullover."
+      },
+      "items": [
+        {
+          "name": "Strumento",
+          "code": "1206 1206",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/437278670691f159e0d1786_03754090_02780920XX1.jpg",
+          "modelId": 498
+        },
+        {
+          "name": "Messier",
+          "code": "1936",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/745495074691c5795177578_49121809_02790460XX1.jpg",
+          "modelId": 444
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 51)",
+        "en": "In lookbook (Look 51)",
+        "ar": "In lookbook (Look 51)",
+        "ka": "In lookbook (Look 51)",
+        "hy": "In lookbook (Look 51)",
+        "lv": "In lookbook (Look 51)",
+        "lt": "In lookbook (Look 51)",
+        "pl": "In lookbook (Look 51)",
+        "uk": "In lookbook (Look 51)"
+      },
+      "text": {
+        "ru": "загородный шик с замшевым жакетом Scanio 2219 0908 и фактурным трикотажем Messier 1936. Вариант 1759 ( Зеленый):",
+        "en": "country chic with the Scanio 2219 0908 suede jacket and textured knitwear Messier 1936. Variant 1759 ( Green):",
+        "ar": "country chic with the Scanio 2219 0908 suede jacket and textured knitwear Messier 1936. Variant 1759 ( Green):",
+        "ka": "country chic with the Scanio 2219 0908 suede jacket and textured knitwear Messier 1936. Variant 1759 ( Green):",
+        "hy": "country chic with the Scanio 2219 0908 suede jacket and textured knitwear Messier 1936. Variant 1759 ( Green):",
+        "lv": "country chic with the Scanio 2219 0908 suede jacket and textured knitwear Messier 1936. Variant 1759 ( Green):",
+        "lt": "country chic with the Scanio 2219 0908 suede jacket and textured knitwear Messier 1936. Variant 1759 ( Green):",
+        "pl": "country chic with the Scanio 2219 0908 suede jacket and textured knitwear Messier 1936. Variant 1759 ( Green):",
+        "uk": "country chic with the Scanio 2219 0908 suede jacket and textured knitwear Messier 1936. Variant 1759 ( Green):"
+      },
+      "items": [
+        {
+          "name": "Scanio",
+          "code": "2219 0908",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1382076925692424da8dd0a9_52339721_02781580XX1.jpg",
+          "modelId": 475
+        },
+        {
+          "name": "Messier",
+          "code": "1936",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/745495074691c5795177578_49121809_02790460XX1.jpg",
+          "modelId": 444
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 44, 45, 47)",
+        "en": "In lookbook (Look 44, 45, 47)",
+        "ar": "In lookbook (Look 44, 45, 47)",
+        "ka": "In lookbook (Look 44, 45, 47)",
+        "hy": "In lookbook (Look 44, 45, 47)",
+        "lv": "In lookbook (Look 44, 45, 47)",
+        "lt": "In lookbook (Look 44, 45, 47)",
+        "pl": "In lookbook (Look 44, 45, 47)",
+        "uk": "In lookbook (Look 44, 45, 47)"
+      },
+      "text": {
+        "ru": "предлагается сочетать с коротким жакетом Sommaria 4606 0943 или кардиганом Merende 1736 под объемным парка Strumento 1575 1575.",
+        "en": "it is suggested to combine with the Sommaria 4606 0943 short jacket or the Merende 1736 cardigan under the voluminous Strumento 1575 1575 parka.",
+        "ar": "it is suggested to combine with the Sommaria 4606 0943 short jacket or the Merende 1736 cardigan under the voluminous Strumento 1575 1575 parka.",
+        "ka": "it is suggested to combine with the Sommaria 4606 0943 short jacket or the Merende 1736 cardigan under the voluminous Strumento 1575 1575 parka.",
+        "hy": "it is suggested to combine with the Sommaria 4606 0943 short jacket or the Merende 1736 cardigan under the voluminous Strumento 1575 1575 parka.",
+        "lv": "it is suggested to combine with the Sommaria 4606 0943 short jacket or the Merende 1736 cardigan under the voluminous Strumento 1575 1575 parka.",
+        "lt": "it is suggested to combine with the Sommaria 4606 0943 short jacket or the Merende 1736 cardigan under the voluminous Strumento 1575 1575 parka.",
+        "pl": "it is suggested to combine with the Sommaria 4606 0943 short jacket or the Merende 1736 cardigan under the voluminous Strumento 1575 1575 parka.",
+        "uk": "it is suggested to combine with the Sommaria 4606 0943 short jacket or the Merende 1736 cardigan under the voluminous Strumento 1575 1575 parka."
+      },
+      "items": [
+        {
+          "name": "Sommaria",
+          "code": "4606 0943",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/svcK70kjTJ6nl3dBFxBhTQ_881375690691f1568ab2b44_04266070_02780620XX1.jpg",
+          "modelId": 487
+        },
+        {
+          "name": "Merende",
+          "code": "1736",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1929290977691f15a3cde391_66200932_02790790XX1.jpg",
+          "modelId": 442
+        },
+        {
+          "name": "Strumento",
+          "code": "1575 1575",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1565620198691f159d236851_64658413_02780910XX1.jpg",
+          "modelId": 498
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витрине (Vetrina 44, Bambola 2)",
+        "en": "In the showcase (Vetrina 44, Bambola 2)",
+        "ar": "In the showcase (Vetrina 44, Bambola 2)",
+        "ka": "In the showcase (Vetrina 44, Bambola 2)",
+        "hy": "In the showcase (Vetrina 44, Bambola 2)",
+        "lv": "In the showcase (Vetrina 44, Bambola 2)",
+        "lt": "In the showcase (Vetrina 44, Bambola 2)",
+        "pl": "In the showcase (Vetrina 44, Bambola 2)",
+        "uk": "In the showcase (Vetrina 44, Bambola 2)"
+      },
+      "text": {
+        "ru": "подиумная стилизация под паркой Spy 1934 в паре с пуловером Messier 1736 и аксессуарами в коньячных тонах.",
+        "en": "a runway styling under the Spy 1934 parka paired with the Messier 1736 pullover and accessories in cognac tones.",
+        "ar": "a runway styling under the Spy 1934 parka paired with the Messier 1736 pullover and accessories in cognac tones.",
+        "ka": "a runway styling under the Spy 1934 parka paired with the Messier 1736 pullover and accessories in cognac tones.",
+        "hy": "a runway styling under the Spy 1934 parka paired with the Messier 1736 pullover and accessories in cognac tones.",
+        "lv": "a runway styling under the Spy 1934 parka paired with the Messier 1736 pullover and accessories in cognac tones.",
+        "lt": "a runway styling under the Spy 1934 parka paired with the Messier 1736 pullover and accessories in cognac tones.",
+        "pl": "a runway styling under the Spy 1934 parka paired with the Messier 1736 pullover and accessories in cognac tones.",
+        "uk": "a runway styling under the Spy 1934 parka paired with the Messier 1736 pullover and accessories in cognac tones."
+      },
+      "items": [
+        {
+          "name": "Spy",
+          "code": "1934",
+          "imageUrl": null
+        },
+        {
+          "name": "Messier",
+          "code": "1736",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/601058410691c5794a8b9e5_88791406_02790450XX1.jpg",
+          "modelId": 444
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The tactile excellence of modal: Direct the client's attention to the fabric composition. The addition of modal to cotton makes Ornago's corduroy considerably softer and more resistant to fading than ordinary cotton corduroy, offering 'second-skin' comf"
+    ],
+    "ru": [
+      "- Тактильное превосходство модала: Акцентируйте внимание клиента на составе ткани. Добавление модала к хлопку делает вельвет Ornago намного мягче и устойчивее к выцветанию, чем обычный хлопковый вельвет, обеспечивая комфорт «второй кожи». - Секрет стройно"
+    ],
+    "ar": [
+      "- التفوق اللمسي للمودال: ركزي انتباه العميل على تركيبة القماش. إن إضافة المودال إلى القطن تجعل قماش المخمل Ornago أنعم بكثير وأكثر مقاومة للبهتان من المخمل القطني العادي، مما يوفر راحة كأنها «بشرة ثانية». - سر القوام الرشيق: أكدي على أن الضلوع الدقيقة (co"
+    ],
+    "ka": [
+      "- მოდალის ტაქტილური უპირატესობა: ყურადღება გაამახვილეთ კლიენტის მხრიდან ქსოვილის შემადგენლობაზე. ბამბისთვის მოდალის დამატება Ornago-ს ხავერდს ბევრად უფრო რბილსა და გაუფერულების მიმართ მდგრადს ხდის, ვიდრე ჩვეულებრივი ბამბის ხავერდი, რაც უზრუნველყოფს «მეორე"
+    ],
+    "hy": [
+      "- Մոդալի մարմնային գերազանցություն. Շեշտադրեք հաճախորդի ուշադրությունը կտորի բաղադրության վրա: Բամբակին մոդալի ավելացումը Ornago թավիշը դարձնում է շատ ավելի փափուկ և գունաթափման նկատմամբ կայուն, քան սովորական բամբակյա թավիշը՝ ապահովելով «երկրորդ մաշկի» հա"
+    ],
+    "lv": [
+      "- Modāla taktilais pārākums: Akcentējiet klienta uzmanību uz auduma sastāvu. Modāla pievienošana kokvilnai padara Ornago samtu daudz mīkstāku un noturīgāku pret izbalēšanu nekā parasto kokvilnas samtu, nodrošinot «otrās ādas» komfortu. - Slaidā silueta no"
+    ],
+    "lt": [
+      "- Modalo taktilinis pranašumas: atkreipkite kliento dėmesį į audinio sudėtį. Modalo pridėjimas prie medvilnės daro Ornago velvetą daug minkštesnį ir atsparesnį blukimui nei įprastas medvilninis velvetas, užtikrinant „antros odos“ komfortą. - Grakštaus silueto paslaptis: pabrėžkite, kad smulkus dryželis (coste fini) kartu su „slim“ kirpimu vizualiai ilgina kojas, nepridedant papildomos apimties, kas dažnai kelia nerimą renkantis velvetinius audinius. - Hibridinis garderobas: pasiūlykite šį modelį kaip idealų ryšį tarp griežto biuro stiliaus ir atsipalaidavusios laisvadienio dienos. Auksinė LS saga leidžia nešioti šias kelnes su šilku ir švarkais, o „5 kišenių“ kirpimas daro jas patogias pasivaikščiojimams."
+    ],
+    "pl": [
+      "- Taktylna wyższość modalu: Zwróć uwagę klientki na skład tkaniny. Dodatek modalu do bawełny sprawia, że sztruks Ornago jest o wiele bardziej miękki i odporny na blaknięcie niż zwykły sztruks bawełniany, zapewniając komfort «drugiej skóry». - Sekret smukł"
+    ],
+    "uk": [
+      "- Тактильна перевага модалу: Акцентуйте увагу клієнта на складі тканини. Додавання модалу до бавовни робить вельвет Ornago набагато м'якшим і стійкішим до вицвітання, ніж звичайний бавовняний вельвет, забезпечуючи комфорт «другої шкіри». - Секрет струнког"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Loden feels like too coarse a fabric.",
+        "a": "Explain that this is a technical, high-density fabric essential for maintaining the architectural shape of the car coat. The interior saglia cangiante lining guarantees softness and comfort in wear. |"
+      },
+      {
+        "q": "The hood makes the look feel too casual.",
+        "a": "Remind the client that the hood is detachable. Without it, the Segreteria model becomes an elegant cropped coat that pairs beautifully even with evening silk blouses. |"
+      },
+      {
+        "q": "I'm concerned green shade 1751 is difficult to pair.",
+        "a": "Pine green is the season's 'new neutral.' Demonstrate Look 43: it pairs beautifully with the collection's burgundy (Messier 2439) and brown tones. |"
+      },
+      {
+        "q": "The frog fastenings feel too specific.",
+        "a": "The frog fastenings on this piece are rendered in an understated style. They structure the silhouette and lend it runway-worthy dynamism, setting the wearer apart. |"
+      },
+      {
+        "q": "The Regular fit might add volume.",
+        "a": "On the contrary, thanks to the crisp overlapping shoulder line and the vertical lines of the closure, the piece 'gathers in' the figure, creating a statuesque, composed silhouette."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Вельвет обычно",
+        "a": "Укажите на использование самого мелкого рубчика полнит фигуру (coste fini) и крой slim fit. Эта комбинация работает как вертикальная графическая линия, дисциплинирующая силуэт."
+      },
+      {
+        "q": "Ткань может",
+        "a": "Поясните, что бленд хлопка и модала в коллекции вытянуться на Luisa Spagnoli разработан с учетом сохранения коленях формы. Ткань обладает высокой плотностью и восстанавливающей способностью."
+      },
+      {
+        "q": "Сложно подобрать Напротив, вельвет — идеальный партнер для гладких верх к такой фактур: кожи (Sarmoneta 2445) или кашемира активной фактуре",
+        "a": "(Messier 1936), что наглядно продемонстрировано в наших Look 22 и 42."
+      },
+      {
+        "q": "Модель 5-pocket",
+        "a": "Обратите внимание на статусную деталь — золотую выглядит слишком пуговицу LS и благородный блеск ткани. В сочетании повседневно с кабаном Segreteria 1751 модель приобретает вид дорогого тейлоринга."
+      },
+      {
+        "q": "Темные оттенки Качество выделки вельвета в модели Ornago вельвета собирают минимизирует этот эффект. Кроме того, насыщенные ворс",
+        "a": "цвета (2422, 1947) скрывают мелкие недочеты, сохраняя глубокий тон."
+      }
+    ],
+    "ar": [
+      {
+        "q": "المخمل (الكوردروي) عادة ما يزيد القوام حجماً",
+        "a": "أشيري إلى استخدام أدق ملمس للنسيج (coste fini) وقصة slim fit. هذا المزيج يعمل كخط رسومي عمودي ينظم القوام."
+      },
+      {
+        "q": "القماش قد يتمدد عند الركبتين",
+        "a": "وضحي أن مزيج القطن والمودال في مجموعة Luisa Spagnoli تم تطويره مع مراعاة الحفاظ على الشكل، حيث يتمتع القماش بكثافة عالية وقدرة على استعادة حالته الأصلية."
+      },
+      {
+        "q": "من الصعب تنسيق قطعة علوية مع قوام بارز كهذا",
+        "a": "على العكس، المخمل هو شريك مثالي للأقمشة الملساء: الجلد (Sarmoneta 2445) أو الكشمير (Messier 1936)، وهو ما تم توضيحه في Look 22 و 42."
+      },
+      {
+        "q": "موديل 5-pocket يبدو غير رسمي جداً",
+        "a": "انتبهي للتفاصيل الفخمة مثل زر LS الذهبي واللمعان النبيل للقماش. عند تنسيقه مع سترة Segreteria 1751، يكتسب الموديل طابعاً كلاسيكياً راقياً."
+      },
+      {
+        "q": "الألوان الداكنة من المخمل تجمع الأتربة والوبر",
+        "a": "جودة معالجة المخمل في موديل Ornago تقلل من هذا التأثير. بالإضافة إلى ذلك، الألوان المشبعة (2422، 1947) تخفي العيوب البسيطة وتحافظ على عمق اللون."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ხავერდი ჩვეულებრივ ასუქებს ფიგურას",
+        "a": "მიუთითეთ ყველაზე წვრილი ზოლების (coste fini) გამოყენებაზე და slim fit ჭრაზე. ეს კომბინაცია მუშაობს როგორც ვერტიკალური გრაფიკული ხაზი, რომელიც აწესრიგებს სილუეტს."
+      },
+      {
+        "q": "ქსოვილი შეიძლება გაიწელოს მუხლებში",
+        "a": "განმარტეთ, რომ Luisa Spagnoli-ის კოლექციაში ბამბისა და მოდალის ნაზავი შემუშავებულია ფორმის შენარჩუნების გათვალისწინებით. ქსოვილს გააჩნია მაღალი სიმკვრივე და აღდგენის უნარი."
+      },
+      {
+        "q": "რთულია ასეთი აქტიური ფაქტურისთვის ზედა ნაწილის შერჩევა",
+        "a": "პირიქით, ხავერდი იდეალური პარტნიორია გლუვი ფაქტურებისთვის: ტყავის (Sarmoneta 2445) ან ქაშმირის (Messier 1936), რაც ნათლად არის ნაჩვენები ჩვენს Look 22 და 42-ში."
+      },
+      {
+        "q": "5-pocket მოდელი ზედმეტად ყოველდღიურად გამოიყურება",
+        "a": "ყურადღება მიაქციეთ სტატუსურ დეტალს — ოქროსფერ LS-ის ღილაკს და ქსოვილის კეთილშობილურ ბზინვარებას. Segreteria 1751-ის პიჯაკთან კომბინაციაში მოდელი იძენს ძვირადღირებული ტეილორინგის იერს."
+      },
+      {
+        "q": "ხავერდის მუქი ტონები ბუსუსებს იკრავს",
+        "a": "Ornago-ს მოდელში ხავერდის დამუშავების ხარისხი ამ ეფექტს მინიმუმამდე ამცირებს. გარდა ამისა, გაჯერებული ფერები (2422, 1947) მალავს მცირე ხარვეზებს და ინარჩუნებს ღრმა ტონს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Թավիշը (վելվետ) սովորաբար գիրացնում է կազմվածքը",
+        "a": "Մատնանշեք ամենափոքր գծերով հյուսվածքի (coste fini) և slim fit ձևվածքի օգտագործումը։ Այս համադրությունը աշխատում է որպես ուղղահայաց գրաֆիկական գիծ՝ կարգավորելով ուրվագիծը։."
+      },
+      {
+        "q": "Գործվածքը կարող է ձգվել ծնկների հատվածում",
+        "a": "Բացատրեք, որ Luisa Spagnoli հավաքածուի բամբակի և մոդալի բլենդը մշակված է ձևը պահպանելու հաշվարկով։ Գործվածքն ունի բարձր խտություն և վերականգնողական ունակություն։."
+      },
+      {
+        "q": "Բարդ է վերնահագուստ ընտրել նման ակտիվ ֆակտուրայի համար",
+        "a": "Ընդհակառակը, թավիշը հարթ ֆակտուրաների՝ կաշվի (Sarmoneta 2445) կամ քաշմիրի (Messier 1936) իդեալական գործընկերն է, ինչը ակնհայտորեն ցուցադրված է մեր Look 22 և 42-ում։."
+      },
+      {
+        "q": "5-pocket մոդելը չափազանց առօրյա տեսք ունի",
+        "a": "Ուշադրություն դարձրեք կարգավիճակային դետալին՝ LS ոսկեգույն կոճակին և գործվածքի ազնվական փայլին։ Segreteria 1751 կաշվե բաճկոնի հետ համադրությամբ մոդելը ստանում է թանկարժեք թեյլորինգի տեսք։."
+      },
+      {
+        "q": "Թավիշի մուգ երանգները հավաքում են աղվամազը",
+        "a": "Ornago մոդելում թավիշի մշակման որակը նվազագույնի է հասցնում այս էֆեկտը։ Բացի այդ, հագեցած գույները (2422, 1947) թաքցնում են մանր թերությունները՝ պահպանելով խորը երանգը։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Velvets parasti",
+        "a": "Norādiet uz vissmalkākās rievas (coste fini) izmantošanu un slim fit padara figūru piegriezumu. Šī kombinācija darbojas kā vertikāla grafiska līnija, kas pilnīgāku disciplinē siluetu."
+      },
+      {
+        "q": "Audums var izstiepties",
+        "a": "Izskaidrojiet, ka kokvilnas un modāla maisījums Luisa Spagnoli ceļgalos kolekcijā ir izstrādāts, ņemot vērā formas saglabāšanu. Audumam ir augsts blīvums un atjaunošanās spēja."
+      },
+      {
+        "q": "Grūti piemeklēt Turpretim, velvets — ir ideāls partneris gludām faktūrām: ādas augšdaļu tādai aktīvai (Sarmoneta 2445) vai kašmira (Messier 1936), kas uzskatāmi faktūrai",
+        "a": "demonstrēts mūsu Look 22 un 42."
+      },
+      {
+        "q": "Modelis 5-pocket",
+        "a": "Pievērsiet uzmanību statusa detaļai — zelta LS pogai un cēlajam izskatās pārāk ikdienišķi auduma spīdumam. Kombinācijā ar kabanu Segreteria 1751 modelis iegūst dārga teiloriga izskatu."
+      },
+      {
+        "q": "Tumšie velveta toņi Velveta apstrādes kvalitāte Ornago modelī samazina šo efektu. Turklāt, uzsūc pūkas",
+        "a": "piesātinātās krāsas (2422, 1947) slēpj sīkus trūkumus, saglabājot dziļu toni."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Įveikimo",
+        "a": "„Velvetas dažniausiai storina figūrą“ Nurodykite smulkiausio rumbelio (coste fini) naudojimą ir slim fit kirpimą. Ši kombinacija veikia kaip vertikali grafinė linija, drausminanti siluetą. „Audinys gali išsitampyti ties keliais“ Paaiškinkite, kad medvilnės ir modalio mišinys Luisa Spagnoli kolekcijoje sukurtas atsižvelgiant į formos išsaugojimą. Audinys pasižymi dideliu tankiu ir gebėjimu atsistatyti. „Sunku parinkti viršutinę dalį tokiai aktyviai faktūrai“ Priešingai, velvetas – idealus partneris lygioms faktūroms: odai (Sarmoneta 2445) arba kašmyrui (Messier 1936), kas vaizdžiai demonstruojama mūsų Look 22 ir 42. „5-pocket modelis atrodo per kasdieniškai“ Atkreipkite dėmesį į statuso detalę – auksinę LS sagą ir taurų audinio žvilgesį. Derinant su švarku Segreteria 1751, modelis įgauna brangaus tailorinio išvaizdą. „Tamsūs velveto atspalviai renka pūkus“ Velveto apdirbimo kokybė Ornago modelyje sumažina šį efektą. Be to, sodrios spalvos (2422, 1947) slepia smulkius trūkumus, išsaugodamos gilų toną"
+      }
+    ],
+    "pl": [
+      {
+        "q": "Aksamit zazwyczaj dodaje figurze objętości",
+        "a": "Wskaż na użycie najdrobniejszego prążka (coste fini) i krój slim fit. Ta kombinacja działa jak pionowa linia graficzna, dyscyplinująca sylwetkę."
+      },
+      {
+        "q": "Tkanina może wyciągnąć się na kolanach",
+        "a": "Wyjaśnij, że mieszanka bawełny i modalu w kolekcji Luisa Spagnoli została zaprojektowana z myślą o zachowaniu formy. Tkanina posiada wysoką gęstość i zdolność regeneracji."
+      },
+      {
+        "q": "Trudno dobrać górę do tak aktywnej faktury",
+        "a": "Wręcz przeciwnie, aksamit — to idealny partner dla gładkich faktur: skóry (Sarmoneta 2445) lub kaszmiru (Messier 1936), co zostało wyraźnie pokazane w naszych Look 22 i 42."
+      },
+      {
+        "q": "Model 5-pocket wygląda zbyt codziennie",
+        "a": "Zwróć uwagę na statusowy detal — złoty guzik LS i szlachetny połysk tkaniny. W połączeniu z marynarką Segreteria 1751 model nabiera wyglądu drogiego krawiectwa."
+      },
+      {
+        "q": "Ciemne odcienie aksamitu przyciągają kłaczki",
+        "a": "Jakość wykończenia aksamitu w modelu Ornago minimalizuje ten efekt. Ponadto nasycone kolory (2422, 1947) ukrywają drobne niedoskonałości, zachowując głęboki ton."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Вельвет зазвичай",
+        "a": "Вкажіть на використання найменшого рубчика повнить фігуру (coste fini) і крій slim fit. Ця комбінація працює як вертикальна графічна лінія, що дисциплінує силует."
+      },
+      {
+        "q": "Тканина може",
+        "a": "Поясніть, що бленд бавовни та модалу в колекції витягнутися на Luisa Spagnoli розроблений з урахуванням збереження колінах форми. Тканина володіє високою щільністю та відновлювальною здатністю."
+      },
+      {
+        "q": "Складно підібрати Навпаки, вельвет — ідеальний партнер для гладких верх до такої фактур: шкіри (Sarmoneta 2445) або кашеміру активної фактури",
+        "a": "(Messier 1936), що наочно продемонстровано в наших Look 22 і 42."
+      },
+      {
+        "q": "Модель 5-pocket",
+        "a": "Зверніть увагу на статусну деталь — золоту виглядає занадто ґудзик LS і благородний блиск тканини. У поєднанні повсякденно з кабаном Segreteria 1751 модель набуває вигляду дорогого тейлорингу."
+      },
+      {
+        "q": "Темні відтінки Якість вичинки вельвету в моделі Ornago вельвету збирають мінімізує цей ефект. Крім того, насичені ворс",
+        "a": "кольори (2422, 1947) приховують дрібні недоліки, зберігаючи глибокий тон."
+      }
+    ]
+  }
+}

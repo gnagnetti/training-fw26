@@ -1,0 +1,363 @@
+{
+  "id": 41,
+  "name": "Fattura B",
+  "description": {
+    "en": "Data not available in official sources.",
+    "ru": "Данные отсутствуют в официальных источниках",
+    "ar": "Data not available in official sources.",
+    "ka": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+    "hy": "Տվյալները բացակայում են պաշտոնական աղբյուրներում",
+    "lv": "Dati nav pieejami oficiālajos avotos",
+    "lt": "Duomenų oficialiuose šaltiniuose nėra",
+    "pl": "Dane niedostępne w oficjalnych źródłach",
+    "uk": "Дані відсутні в офіційних джерелах"
+  },
+  "colors": [
+    {
+      "name": "Caramello",
+      "code": "2344",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/npwuJO7hRQuzf6ozTsXGMg_739106457696f4303d8f447_76122020_02821310XX1.jpg"
+    },
+    {
+      "name": "Grigio Perla",
+      "code": "0809",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ba0btBLgStO6Pd88Oq5xKA_1456819530696f4303741303_85497843_02821300XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 32 (Grigio Perla)",
+        "en": "Total Look 32 (Grigio Perla)",
+        "ar": "Total Look 32 (Grigio Perla)",
+        "ka": "Total Look 32 (Grigio Perla)",
+        "hy": "Total Look 32 (Grigio Perla)",
+        "lv": "Total Look 32 (Grigio Perla)",
+        "lt": "Total Look 32 (Grigio Perla)",
+        "pl": "Total Look 32 (Grigio Perla)",
+        "uk": "Total Look 32 (Grigio Perla)"
+      },
+      "text": {
+        "ru": "Situazione 0809 в ансамбле с рубашкой Latteria A 1005 и юбкой Fattura B 0809.",
+        "en": "Situazione 0809 paired with a Latteria A 1005 shirt and Fattura B 0809 skirt.",
+        "ar": "Situazione 0809 paired with a Latteria A 1005 shirt and Fattura B 0809 skirt.",
+        "ka": "Situazione 0809 paired with a Latteria A 1005 shirt and Fattura B 0809 skirt.",
+        "hy": "Situazione 0809 paired with a Latteria A 1005 shirt and Fattura B 0809 skirt.",
+        "lv": "Situazione 0809 paired with a Latteria A 1005 shirt and Fattura B 0809 skirt.",
+        "lt": "Situazione 0809 paired with a Latteria A 1005 shirt and Fattura B 0809 skirt.",
+        "pl": "Situazione 0809 paired with a Latteria A 1005 shirt and Fattura B 0809 skirt.",
+        "uk": "Situazione 0809 paired with a Latteria A 1005 shirt and Fattura B 0809 skirt."
+      },
+      "items": [
+        {
+          "name": "Situazione",
+          "code": "0809",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/N4kpuTJgRrqVtJEHXUVbtw_2745288696f42f948f606_55872285_02821040XX1.jpg",
+          "modelId": 321
+        },
+        {
+          "name": "Latteria A",
+          "code": "1005",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/w6zktmV2RaKBA33RIkfKZA_988814576696f4237c7d779_89171727_02820370XX1.jpg",
+          "modelId": 412
+        },
+        {
+          "name": "Fattura B",
+          "code": "0809",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ba0btBLgStO6Pd88Oq5xKA_1456819530696f4303741303_85497843_02821300XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 93 (Caramello)",
+        "en": "Total Look 93 (Caramello)",
+        "ar": "Total Look 93 (Caramello)",
+        "ka": "Total Look 93 (Caramello)",
+        "hy": "Total Look 93 (Caramello)",
+        "lv": "Total Look 93 (Caramello)",
+        "lt": "Total Look 93 (Caramello)",
+        "pl": "Total Look 93 (Caramello)",
+        "uk": "Total Look 93 (Caramello)"
+      },
+      "text": {
+        "ru": "Socio 0963 1161, дополненный жилетом Maica 2246, пуловером Manos F 2246 и юбкой Fattura B 2344.",
+        "en": "Socio 0963 1161, complemented by a Maica 2246 vest, Manos F 2246 pullover and Fattura B 2344 skirt.",
+        "ar": "Socio 0963 1161, complemented by a Maica 2246 vest, Manos F 2246 pullover and Fattura B 2344 skirt.",
+        "ka": "Socio 0963 1161, complemented by a Maica 2246 vest, Manos F 2246 pullover and Fattura B 2344 skirt.",
+        "hy": "Socio 0963 1161, complemented by a Maica 2246 vest, Manos F 2246 pullover and Fattura B 2344 skirt.",
+        "lv": "Socio 0963 1161, complemented by a Maica 2246 vest, Manos F 2246 pullover and Fattura B 2344 skirt.",
+        "lt": "Socio 0963 1161, complemented by a Maica 2246 vest, Manos F 2246 pullover and Fattura B 2344 skirt.",
+        "pl": "Socio 0963 1161, complemented by a Maica 2246 vest, Manos F 2246 pullover and Fattura B 2344 skirt.",
+        "uk": "Socio 0963 1161, complemented by a Maica 2246 vest, Manos F 2246 pullover and Fattura B 2344 skirt."
+      },
+      "items": [
+        {
+          "name": "Socio",
+          "code": "0963 1161",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e0r4p7GdTVyJ63LSWEZZjQ_823327549696f42fa6897f3_01024722_02821060XX1.jpg",
+          "modelId": 323
+        },
+        {
+          "name": "Maica",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1432544873691c578f43e2f2_96288006_02790030XX1.jpg",
+          "modelId": 431
+        },
+        {
+          "name": "Manos F",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/62874749691c57928c68a3_59975180_02790240XX1.jpg"
+        },
+        {
+          "name": "Fattura B",
+          "code": "2344",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/npwuJO7hRQuzf6ozTsXGMg_739106457696f4303d8f447_76122020_02821310XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the aristocratic palette: the Caramello and Grigio Perla tones are foundational colors for an autumn-winter wardrobe rooted in 'quiet luxury'.",
+      "Recommend the Fattura B skirt as the perfect base for layered ensembles with capes and richly textured knitwear, allowing for looks that feel both cozy and elevated.",
+      "Draw attention to the impeccable cut, which allows the skirt to sit perfectly on the figure while preserving the rigor and elegance of the silhouette."
+    ],
+    "ru": [
+      "Делайте акцент на аристократичной палитре: оттенки Caramello и Grigio Perla являются фундаментальными цветами осенне-зимнего гардероба в стиле «тихой роскоши».",
+      "Рекомендуйте юбку Fattura B как идеальную базу для многослойных ансамблей с капами и фактурным трикотажем, что позволяет создавать уютные, но статусные образы.",
+      "Акцентируйте внимание на безупречности кроя, который позволяет юбке идеально садиться по фигуре, сохраняя при этом строгость и элегантность силуэта."
+    ],
+    "ar": [
+      "ركزي على لوحة الألوان الأرستقراطية: فتدرجات Caramello و Grigio Perla هي ألوان أساسية لخزانة الخريف والشتاء بأسلوب «الرفاهية الهادئة».",
+      "نوصي بتنورة Fattura B كقاعدة مثالية للتنسيقات متعددة الطبقات مع الأغطية (Capes) والتريكو ذي الملمس البارز، مما يسمح بخلق إطلالات مريحة وذات مكانة عالية.",
+      "أكدي على مثالية القصة التي تسمح للتنورة بأن تتناسب تماماً مع القوام، مع الحفاظ على صرامة وأناقة القوام."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი არისტოკრატიულ პალიტრაზე: ტონები Caramello და Grigio Perla წარმოადგენს «ჩუმი ფუფუნების» სტილის შემოდგომა-ზამთრის გარდერობის ფუნდამენტურ ფერებს.",
+      "გირჩევთ ქვედაბოლო Fattura B, როგორც იდეალურ ბაზას მრავალშრიანი ანსამბლებისთვის კაპებთან და ფაქტურულ ტრიკოტაჟთან ერთად, რაც საშუალებას იძლევა შექმნათ მყუდრო, მაგრამ სტატუსური იმიჯი.",
+      "გაამახვილეთ ყურადღება კროის უნაკლოობაზე, რომელიც საშუალებას აძლევს ქვედაბოლოს იდეალურად მოერგოს ფიგურას, ამავდროულად შეინარჩუნოს სილუეტის სიმკაცრე და ელეგანტურობა."
+    ],
+    "hy": [
+      "Շեշտը դրեք ազնվական պալիտրայի վրա. Caramello և Grigio Perla երանգները «լուռ շքեղության» ոճով աշուն-ձմեռ զգեստապահարանի հիմնարար գույներն են:",
+      "Առաջարկեք Fattura B կիսաշրջազգեստը որպես կապաների և հյուսվածքային տրիկոտաժի հետ բազմաշերտ անսամբլների համար կատարյալ հիմք, ինչը թույլ է տալիս ստեղծել հարմարավետ, բայց կարգավիճակային կերպարներ:",
+      "Շեշտը դրեք կտրվածքի անթերիության վրա, որը թույլ է տալիս կիսաշրջազգեստին կատարելապես նստել կազմվածքին՝ միաժամանակ պահպանելով ուրվագծի խստությունն ու էլեգանտությունը:"
+    ],
+    "lv": [
+      "Lieciet akcentu uz aristokrātisku paleti: toņi Caramello un Grigio Perla ir «klusās luksusa» stila rudens-ziemas garderobes pamatkrāsas.",
+      "Iesakiet svārkus Fattura B kā ideālu bāzi daudzslāņu ansambļiem ar kapēm un faktūru trikotāžu, kas ļauj izveidot mājīgus, bet statusa cienīgus tēlus.",
+      "Akcentējiet uzmanību uz piegriezuma nevainojamību, kas ļauj svārkiem perfekti piegulēt figūrai, saglabājot silueta stingrību un eleganci."
+    ],
+    "lt": [
+      "Akcentuokite aristokratišką paletę: Caramello ir Grigio Perla atspalviai yra fundamentalios „tyliosios prabangos“ stiliaus rudens-žiemos garderobo spalvos.",
+      "Rekomenduokite sijoną Fattura B kaip idealų pagrindą sluoksniuotiems ansambliams su apsiaustais ir tekstūriniu trikotažu, kas leidžia kurti jaukius, tačiau statusą pabrėžiančius įvaizdžius.",
+      "Akcentuokite nepriekaištingą kirpimą, kuris leidžia sijonui idealiai priglusti prie figūros, išlaikant silueto griežtumą ir eleganciją."
+    ],
+    "pl": [
+      "Postaw na arystokratyczną paletę: odcienie Caramello i Grigio Perla są fundamentalnymi kolorami jesienno-zimowej garderoby w stylu „cichego luksusu”.",
+      "Rekomenduj spódnicę Fattura B jako idealną bazę do wielowarstwowych zestawów z pelerynami i teksturowaną dzianiną, co pozwala tworzyć przytulne, ale pełne klasy stylizacje.",
+      "Zwróć uwagę na nienaganność kroju, który pozwala spódnicy idealnie układać się na sylwetce, zachowując przy tym surowość i elegancję linii."
+    ],
+    "uk": [
+      "Робіть акцент на аристократичній палітрі: відтінки Caramello та Grigio Perla є фундаментальними кольорами осінньо-зимового гардероба у стилі «тихої розкоші».",
+      "Рекомендуйте спідницю Fattura B як ідеальну базу для багатошарових ансамблів із капами та фактурним трикотажем, що дозволяє створювати затишні, але статусні образи.",
+      "Акцентуйте увагу на бездоганності крою, який дозволяє спідниці ідеально сідати по фігурі, зберігаючи при цьому строгість та елегантність силуету."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The pale grey shade (0809) may appear too washed out.",
+        "a": "The Grigio Perla shade is the embodiment of refinement. Paired with the Situazione 0809 cape, it creates a noble monochrome look that brightens the complexion."
+      },
+      {
+        "q": "Concern that the Caramello (2344) colour is difficult to match with accessories.",
+        "a": "This warm tone pairs beautifully with the gold-tone hardware of Luisa Spagnoli accessories and with chocolate-toned footwear, creating a polished, elevated ensemble."
+      },
+      {
+        "q": "The skirt seems too formal for everyday wear.",
+        "a": "Style it with the relaxed Maica 2246 waistcoat to create a contemporary Casual-Chic look, suitable for both the office and a day in the city."
+      },
+      {
+        "q": "No official data is available regarding the precise fabric composition.",
+        "a": "Luisa Spagnoli's Giorno line pieces are traditionally crafted from premium wool-and-viscose blends, ensuring excellent temperature regulation and durability."
+      },
+      {
+        "q": "Will this style suit different figure types?",
+        "a": "The classic straight cut of the Fattura B skirt is designed with the female figure in mind, gently shaping the silhouette while ensuring ease of movement."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Светлый серый оттенок (0809) может выглядеть слишком блекло.",
+        "a": "Оттенок Grigio Perla — это воплощение изысканности. В сочетании с капой Situazione 0809 он создает благородный монохромный образ, освежающий цвет лица."
+      },
+      {
+        "q": "Боязнь, что цвет Caramello (2344) сложно комбинировать с аксессуарами.",
+        "a": "Этот теплый оттенок идеально гармонирует с золотистой фурнитурой аксессуаров Luisa Spagnoli и шоколадной палитрой обуви, создавая дорогой и завершенный ансамбль."
+      },
+      {
+        "q": "Юбка кажется слишком официальной для повседневной носки.",
+        "a": "Стилизуйте ее с расслабленным жилетом Maica 2246 для создания современного образа в стиле Casual-Chic, подходящего как для офиса, так и для встречи в городе."
+      },
+      {
+        "q": "относительно точного состава ткани.",
+        "a": "Изделия Luisa Spagnoli линейки Giorno традиционно выполняются из премиальных смесовых тканей на основе шерсти и вискозы, что гарантирует превосходную терморегуляцию и износостойкость."
+      },
+      {
+        "q": "Подойдет ли модель для разного типа фигур?",
+        "a": "Классический прямой крой юбки Fattura B разработан с учетом особенностей женской фигуры, мягко моделируя силуэт и обеспечивая комфорт при движении."
+      }
+    ],
+    "ar": [
+      {
+        "q": "درجة الرمادي الفاتح (0809) قد تبدو باهتة.",
+        "a": "تُعد درجة Grigio Perla تجسيداً للأناقة. وبالتنسيق مع وشاح Situazione 0809، فهي تخلق مظهراً أحادياً نبيلاً يمنح إشراقة للبشرة."
+      },
+      {
+        "q": "القلق من صعوبة تنسيق لون Caramello (2344) مع الإكسسوارات.",
+        "a": "هذا اللون الدافئ يتناغم بشكل مثالي مع الإكسسوارات الذهبية من Luisa Spagnoli ولوحة ألوان الشوكولاتة في الأحذية، مما يخلق طقماً متكاملاً وفاخراً."
+      },
+      {
+        "q": "التنورة تبدو رسمية جداً للاستخدام اليومي.",
+        "a": "نسقيها مع سترة Maica 2246 ذات القصة المريحة للحصول على إطلالة عصرية بأسلوب Casual-Chic، تناسب المكتب واللقاءات الاجتماعية في المدينة."
+      },
+      {
+        "q": "لا توجد بيانات في المصادر الرسمية حول تركيبة القماش الدقيقة.",
+        "a": "تُصنع قطع مجموعة Giorno من Luisa Spagnoli تقليدياً من أقمشة فاخرة ممزوجة من الصوف والفسكوز، مما يضمن تنظيماً حرارياً فائقاً ومقاومة عالية للتآكل."
+      },
+      {
+        "q": "هل تناسب القصة أنواع الأجسام المختلفة؟",
+        "a": "تم تطوير قصة التنورة المستقيمة الكلاسيكية Fattura B مع مراعاة تفاصيل قوام المرأة، حيث تشكل الصورة الظلية بنعومة وتضمن الراحة عند الحركة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ღია ნაცრისფერი ელფერი (0809) შესაძლოა ზედმეტად ფერმკრთალი ჩანდეს.",
+        "a": "ელფერი Grigio Perla — ეს არის დახვეწილობის განსახიერება. კეპ Situazione 0809-თან ერთად იგი ქმნის კეთილშობილურ მონოქრომულ იმიჯს, რომელიც აცოცხლებს სახის ფერს."
+      },
+      {
+        "q": "შიში იმისა, რომ ფერი Caramello (2344) რთული კომბინირებადია აქსესუარებთან.",
+        "a": "ეს თბილი ელფერი იდეალურად ჰარმონიზდება Luisa Spagnoli-ს აქსესუარების მოოქროსფერ ფურნიტურასთან და ფეხსაცმლის შოკოლადისფერ პალიტრასთან, რაც ქმნის ძვირადღირებულ და დასრულებულ ანსამბლს."
+      },
+      {
+        "q": "კალთა ზედმეტად ოფიციალური ჩანს ყოველდღიური ტარებისთვის.",
+        "a": "შეუხამეთ ის თავისუფალ ჟილეტს Maica 2246 თანამედროვე Casual-Chic სტილის იმიჯის შესაქმნელად, რომელიც შესაფერისია როგორც ოფისისთვის, ისე ქალაქში შეხვედრებისთვის."
+      },
+      {
+        "q": "ოფიციალურ წყაროებში მონაცემები ქსოვილის ზუსტი შემადგენლობის შესახებ არ მოიპოვება.",
+        "a": "Luisa Spagnoli-ს ხაზის Giorno ნაკეთობები ტრადიციულად შესრულებულია მატყლისა და ვისკოზის ბაზაზე შექმნილი პრემიუმ კლასის შერეული ქსოვილებისგან, რაც გარანტიას იძლევა თერმორეგულაციისა და ცვეთამედეგობის."
+      },
+      {
+        "q": "მოუხდება თუ არა მოდელი სხვადასხვა ტიპის ფიგურას?",
+        "a": "კალთა Fattura B-ს კლასიკური სწორი კროი შემუშავებულია ქალის ფიგურის თავისებურებების გათვალისწინებით, რბილად აყალიბებს სილუეტს და უზრუნველყოფს კომფორტს მოძრაობისას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բաց մոխրագույն երանգը (0809) կարող է չափազանց գունատ երևալ",
+        "a": "Grigio Perla երանգը նրբագեղության մարմնացում է: Situazione 0809 կապայի հետ համադրությամբ այն ստեղծում է ազնիվ մոնոխրոմ կերպար, որը թարմացնում է դեմքի գույնը"
+      },
+      {
+        "q": "Վախ, որ Caramello (2344) գույնը դժվար է համադրել աքսեսուարների հետ",
+        "a": "Այս տաք երանգը կատարյալ ներդաշնակվում է Luisa Spagnoli աքսեսուարների ոսկեգույն ֆուրնիտուրայի և կոշիկների շոկոլադե գամմայի հետ՝ ստեղծելով թանկարժեք և ամբողջական անսամբլ"
+      },
+      {
+        "q": "Կիսաշրջազգեստը չափազանց պաշտոնական է թվում առօրյա հագուստի համար",
+        "a": "Ոճավորեք այն Maica 2246 ազատ ժիլետով՝ Casual-Chic ոճի ժամանակակից կերպար ստեղծելու համար, որը հարմար է ինչպես գրասենյակի, այնպես էլ քաղաքում հանդիպման համար"
+      },
+      {
+        "q": "Պաշտոնական աղբյուրներում տվյալներ չկան գործվածքի ճշգրիտ բաղադրության վերաբերյալ",
+        "a": "Luisa Spagnoli-ի Giorno շարքի իրերը ավանդաբար կատարվում են բրդի և վիսկոզայի հիմքով պրեմիում խառը գործվածքներից, ինչը երաշխավորում է գերազանց ջերմակարգավորում և մաշվածադիմացկունություն"
+      },
+      {
+        "q": "Մոդելը կհամապատասխանի՞ տարբեր տեսակի կազմվածքներին",
+        "a": "Fattura B կիսաշրջազգեստի դասական ուղիղ կտրվածքը մշակված է կանացի կազմվածքի առանձնահատկությունները հաշվի առնելով՝ մեղմորեն մոդելավորելով ուրվագիծը և ապահովելով հարմարավետություն շարժման ընթացքում"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Gaiši pelēkais tonis (0809) var izskatīties pārāk bāli.",
+        "a": "Grigio Perla tonis ir izsmalcinātības iemiesojums. Kombinācijā ar Situazione 0809 apmetni tas rada cēlu monohromu tēlu, kas atsvaidzina sejas krāsu."
+      },
+      {
+        "q": "Bailes, ka Caramello (2344) krāsu ir grūti kombinēt ar aksesuāriem.",
+        "a": "Šis siltais tonis ideāli harmonē ar Luisa Spagnoli aksesuāru zeltīto furnitūru un šokolādes toņu apaviem, radot dārgu un pabeigtu ansambli."
+      },
+      {
+        "q": "Svārki šķiet pārāk oficiāli ikdienas valkāšanai.",
+        "a": "Stilojiet tos ar atbrīvotu Maica 2246 vesti, lai radītu modernu Casual-Chic stila tēlu, kas piemērots gan birojam, gan tikšanās reizēm pilsētā."
+      },
+      {
+        "q": "Oficiālajos avotos trūkst datu par precīzu auduma sastāvu.",
+        "a": "Luisa Spagnoli Giorno līnijas izstrādājumi tradicionāli tiek izgatavoti no premium klases jauktajiem audumiem uz vilnas un viskozes bāzes, kas garantē izcilu termoregulāciju un nodilumizturību."
+      },
+      {
+        "q": "Vai modelis būs piemērots dažādiem figūru tipiem?",
+        "a": "Klasiskais taisnais Fattura B svārku piegriezums izstrādāts, ņemot vērā sievietes figūras īpatnības, maigi modelējot siluetu un nodrošinot komfortu kustību laikā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Šviesiai pilkas atspalvis (0809) gali atrodyti per blankiai.",
+        "a": "Grigio Perla atspalvis — tai rafinuotumo įsikūnijimas. Derinant su Situazione 0809 kapa jis sukuria kilnų monochrominį įvaizdį, pagyvinantį veido spalvą."
+      },
+      {
+        "q": "Baimė, kad Caramello (2344) spalvą sunku derinti su aksesuarais.",
+        "a": "Šis šiltas atspalvis idealiai dera su Luisa Spagnoli aksesuarų auksine furnitūra bei šokoladine avalynės palete, sukuriant prabangų ir užbaigtą ansamblį."
+      },
+      {
+        "q": "Sijonas atrodo per daug oficialus kasdieniam dėvėjimui.",
+        "a": "Stilizuokite jį su laisva liemene Maica 2246, kad sukurtumėte šiuolaikišką Casual-Chic stiliaus įvaizdį, tinkantį tiek biurui, tiek susitikimui mieste."
+      },
+      {
+        "q": "Ar modelis tiks įvairiems figūrų tipams?",
+        "a": "Klasikinis tiesus Fattura B sijono kirpimas sukurtas atsižvelgiant į moteriškos figūros ypatumus, švelniai modeliuojant siluetą ir užtikrinant patogumą judant."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Jasnoszary odcień (0809) może wyglądać zbyt blado.",
+        "a": "Odcień Grigio Perla to ucieleśnienie wyrafinowania. W połączeniu z narzutką Situazione 0809 tworzy szlachetny, monochromatyczny zestaw, który rozświetla cerę."
+      },
+      {
+        "q": "Obawa, że kolor Caramello (2344) jest trudny do łączenia z akcesoriami.",
+        "a": "Ten ciepły odcień idealnie harmonizuje ze złotymi okuciami akcesoriów Luisa Spagnoli oraz czekoladową paletą obuwia, tworząc kosztowny i kompletny zestaw."
+      },
+      {
+        "q": "Spódnica wydaje się zbyt oficjalna do noszenia na co dzień.",
+        "a": "Stylizuj ją z luźną kamizelką Maica 2246, aby uzyskać nowoczesny look w stylu Casual-Chic, odpowiedni zarówno do biura, jak i na spotkanie w mieście."
+      },
+      {
+        "q": "dotyczących dokładnego składu tkaniny.",
+        "a": "Produkty Luisa Spagnoli z linii Giorno są tradycyjnie wykonywane z wysokogatunkowych tkanin mieszanych na bazie wełny i wiskozy, co gwarantuje doskonałą termoregulację i odporność na zużycie."
+      },
+      {
+        "q": "Czy model sprawdzi się przy różnych typach sylwetek?",
+        "a": "Klasyczny, prosty krój spódnicy Fattura B został opracowany z uwzględnieniem specyfiki kobiecej sylwetki, miękko modelując jej linię i zapewniając komfort podczas ruchu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Світлий сірий відтінок (0809) може виглядати занадто блідо.",
+        "a": "Відтінок Grigio Perla — це втілення вишуканості. У поєднанні з капою Situazione 0809 він створює благородний монохромний образ, що освіжає колір обличчя."
+      },
+      {
+        "q": "Побоювання, що колір Caramello (2344) складно комбінувати з аксесуарами.",
+        "a": "Цей теплий відтінок ідеально гармоніює із золотистою фурнітурою аксесуарів Luisa Spagnoli та шоколадною палітрою взуття, створюючи дорогий і завершений ансамбль."
+      },
+      {
+        "q": "Спідниця здається занадто офіційною для повсякденного носіння.",
+        "a": "Стилізуйте її з розслабленим жилетом Maica 2246 для створення сучасного образу в стилі Casual-Chic, що підходить як для офісу, так і для зустрічі в місті."
+      },
+      {
+        "q": "щодо точного складу тканини.",
+        "a": "Вироби Luisa Spagnoli лінійки Giorno традиційно виконуються з преміальних сумішевих тканин на основі вовни та віскози, що гарантує чудову терморегуляцію та зносостійкість."
+      },
+      {
+        "q": "Чи підійде модель для різного типу фігур?",
+        "a": "Класичний прямий крій спідниці Fattura B розроблений з урахуванням особливостей жіночої фігури, м'яко моделюючи силует і забезпечуючи комфорт під час руху."
+      }
+    ]
+  }
+}

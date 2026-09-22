@@ -1,0 +1,372 @@
+{
+  "id": 105,
+  "name": "Leonidas",
+  "description": {
+    "en": "An embodiment of contemporary romance and impeccable Italian style: the exquisite Leonidas blouse, crafted from a noble blend of cotton and silk. The model enchants with a delicate striped print and a refined Korean-style stand collar. The principal decorative accent is the layered cascading flounces at the cuffs, lending the silhouette a soaring dynamism and couture charm. Genuine mother-of-pearl buttons underscore the piece's exclusive status and the brand's attention to every detail.",
+    "ru": "Воплощение современной романтики и безупречного итальянского стиля: изысканная блуза Leonidas, выполненная из благородного сочетания хлопка и шелка. Модель очаровывает деликатным принтом в полоску и утонченным воротником-стойкой в корейском стиле. Главным декоративным акцентом выступают многослойные каскадные воланы на манжетах, придающие образу летящую динамику и кутюрный шарм. Пуговицы из натурального перламутра подчеркивают эксклюзивный статус изделия и внимание бренда к каждой детали.",
+    "ar": "تجسيد للرومانسية العصرية والأناقة الإيطالية التي لا تشوبها شائبة: بلوزة Leonidas الراقية، المصنوعة من مزيج فاخر من القطن والحرير. يأسر الموديل الألباب بنقشة مقلمة دقيقة وياقة قائمة أنيقة على الطراز الكوري. وتأتي الكشكشة المتتالية متعددة الطبقات على الأساور كعنصر تزييني رئيسي، مما يضفي ديناميكية انسيابية وسحراً فاخراً على الإطلالة. كما تؤكد الأزرار المصنوعة من اللؤلؤ الطبيعي على المكانة الحصرية للقطعة واهتمام العلامة التجارية بأدق التفاصيل.",
+    "ka": "თანამედროვე რომანტიკისა და უნაკლო იტალიური სტილის განსახიერება: დახვეწილი ბლუზა Leonidas, შექმნილი ბამბისა და აბრეშუმის კეთილშობილური ნაზავისგან. მოდელი ხიბლავს დელიკატური ზოლიანი პრინტითა და კორეული სტილის დახვეწილი საყელო-стойка-თი. მთავარ დეკორატიულ აქცენტს წარმოადგენს მანჟეტებზე განთავსებული მრავალფენიანი კასკადური ვოლანები, რომლებიც გამოსახულებას ჰაეროვან დინამიკასა და კუტიურ შარმს სძენს. ნატურალური მარგალიტის ღილები ხაზს უსვამს ნაკეთობის ექსკლუზიურ სტატუსსა და ბრენდის ყურადღებას თითოეული დეტალის მიმართ.",
+    "hy": "Ժամանակակից ռոմանտիկայի և անթերի իտալական ոճի մարմնացում. Leonidas նրբաճաշակ բլուզ, որը պատրաստված է բամբակի և մետաքսի ազնիվ համադրությունից: Մոդելը հմայում է գծավոր նուրբ պրինտով և կորեական ոճի նրբագեղ կանգնած օձիքով: Գլխավոր դեկորատիվ շեշտադրումը թևքերի վրայի բազմաշերտ կասկադային ծալազարդերն են, որոնք կերպարին հաղորդում են թռչող դինամիկա և կուտյուրային շարմ: Բնական մարգարտյա կոճակներն ընդգծում են արտադրանքի բացառիկ կարգավիճակը և ապրանքանիշի ուշադրությունը յուրաքանչյուր մանրուքի նկատմամբ:",
+    "lv": "Mūsdienīgas romantikas un nevainojama itāļu stila iemiesojums: izsmalcināta blūze Leonidas, kas darināta no cēla kokvilnas un zīda maisījuma. Modeli apbur smalkais svītru raksts un izsmalcinātā stāvapkakle korejiešu stilā. Galvenais dekoratīvais akcents ir daudzslāņu kaskādes volāni uz aprocēm, kas tēlam piešķir gaisīgu dinamiku un kutīra šarmu. Dabīgā perlamutra pogas izceļ izstrādājuma ekskluzīvo statusu un zīmola uzmanību pret katru detaļu.",
+    "lt": "Modernios romantikos ir nepriekaištingo itališko stiliaus įsikūnijimas: rafinuota Leonidas palaidinė, pagaminta iš prabangaus medvilnės ir šilko derinio. Modelį žavi subtilus dryžuotas raštas ir grakšti korėjietiško stiliaus apykaklė-stovelis. Pagrindinis dekoratyvinis akcentas – daugiasluoksniai kaskadiniai raukiniai ant rankogalių, suteikiantys įvaizdžiui lengvumo, dinamikos bei „couture“ žavesio. Natūralaus perlamutro sagos pabrėžia išskirtinį gaminio statusą ir prekės ženklo dėmesį kiekvienai detalei.",
+    "pl": "Ucieleśnienie nowoczesnego romantyzmu i nienagannego włoskiego stylu: wyrafinowana bluzka Leonidas, wykonana ze szlachetnego połączenia bawełny i jedwabiu. Model zachwyca delikatnym nadrukiem w paski oraz subtelnym kołnierzykiem typu stójka w stylu koreańskim. Głównym akcentem dekoracyjnym są wielowarstwowe kaskadowe falbany na mankietach, nadające stylizacji lekkości i krawieckiego szyku. Guziki z naturalnej masy perłowej podkreślają ekskluzywny status modelu oraz dbałość marki o każdy detal.",
+    "uk": "Втілення сучасної романтики та бездоганного італійського стилю: вишукана блуза Leonidas, виконана з благородного поєднання бавовни та шовку. Модель зачаровує делікатним принтом у смужку та витонченим коміром-стійкою в корейському стилі. Головним декоративним акцентом виступають багатошарові каскадні волани на манжетах, що надають образу легкої динаміки та кутюрного шарму. Ґудзики з натурального перламутру підкреслюють ексклюзивний статус виробу та увагу бренду до кожної деталі."
+  },
+  "colors": [
+    {
+      "name": "Var Panna Ruggine",
+      "code": "3173",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2hzpCfH4RfeaLd4HduSNWg_1540085088696f42e0485205_82454446_02820410XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Urban chic)",
+        "ar": "Look 1 (Urban chic)",
+        "ka": "Look 1 (Urban chic)",
+        "hy": "Look 1 (Urban chic)",
+        "lv": "Look 1 (Urban chic)",
+        "lt": "Look 1 (Urban chic)",
+        "pl": "Look 1 (Urban chic)",
+        "uk": "Look 1 (Urban chic)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Городской шик): Сочетание блузы Leonidas 3173 с клетчатым блейзером Serieta 3274 и кожаными брюками Overt 0978. Образ дополнен брошью Nanterre 0002 0001 и лоферами Uramaky 0990.",
+        "en": "A combination of the Leonidas 3173 blouse with the plaid Serieta 3274 blazer and the Overt 0978 leather trousers. The look is complemented by the Nanterre 0002 0001 brooch and Uramaky 0990 loafers.",
+        "ar": "A combination of the Leonidas 3173 blouse with the plaid Serieta 3274 blazer and the Overt 0978 leather trousers. The look is complemented by the Nanterre 0002 0001 brooch and Uramaky 0990 loafers.",
+        "ka": "A combination of the Leonidas 3173 blouse with the plaid Serieta 3274 blazer and the Overt 0978 leather trousers. The look is complemented by the Nanterre 0002 0001 brooch and Uramaky 0990 loafers.",
+        "hy": "A combination of the Leonidas 3173 blouse with the plaid Serieta 3274 blazer and the Overt 0978 leather trousers. The look is complemented by the Nanterre 0002 0001 brooch and Uramaky 0990 loafers.",
+        "lv": "A combination of the Leonidas 3173 blouse with the plaid Serieta 3274 blazer and the Overt 0978 leather trousers. The look is complemented by the Nanterre 0002 0001 brooch and Uramaky 0990 loafers.",
+        "lt": "A combination of the Leonidas 3173 blouse with the plaid Serieta 3274 blazer and the Overt 0978 leather trousers. The look is complemented by the Nanterre 0002 0001 brooch and Uramaky 0990 loafers.",
+        "pl": "A combination of the Leonidas 3173 blouse with the plaid Serieta 3274 blazer and the Overt 0978 leather trousers. The look is complemented by the Nanterre 0002 0001 brooch and Uramaky 0990 loafers.",
+        "uk": "A combination of the Leonidas 3173 blouse with the plaid Serieta 3274 blazer and the Overt 0978 leather trousers. The look is complemented by the Nanterre 0002 0001 brooch and Uramaky 0990 loafers."
+      },
+      "items": [
+        {
+          "name": "Leonidas",
+          "code": "3173",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2hzpCfH4RfeaLd4HduSNWg_1540085088696f42e0485205_82454446_02820410XX1.jpg"
+        },
+        {
+          "name": "Serieta",
+          "code": "3274",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/PqG9-FYmSSKd6ktSwYBrtw_1218135521696f42f58904d5_23806936_02820980XX1.jpg",
+          "modelId": 315
+        },
+        {
+          "name": "Overt",
+          "code": "0978",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/aRhuWFmbR-y2VnGMh2DLyQ_818557080696f42ee1851b3_58178703_02820810XX1.jpg"
+        },
+        {
+          "name": "Nanterre",
+          "code": "0002 0001",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1676812417691c57e99be247_53570234_02800390XX1.jpg"
+        },
+        {
+          "name": "Uramaky",
+          "code": "0990",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky%20nero.PNG"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Layering)",
+        "ar": "Look 2 (Layering)",
+        "ka": "Look 2 (Layering)",
+        "hy": "Look 2 (Layering)",
+        "lv": "Look 2 (Layering)",
+        "lt": "Look 2 (Layering)",
+        "pl": "Look 2 (Layering)",
+        "uk": "Look 2 (Layering)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Многослойность): Ансамбль из блузы Leonidas 3173, трикотажного кардигана Merende 2234 и джинсов Onega 1204 под реверсивным пальто Socio 0963 1161.",
+        "en": "An ensemble featuring the Leonidas 3173 blouse, the Merende 2234 knit cardigan and the Onega 1204 jeans under the Socio 0963 1161 reversible coat.",
+        "ar": "An ensemble featuring the Leonidas 3173 blouse, the Merende 2234 knit cardigan and the Onega 1204 jeans under the Socio 0963 1161 reversible coat.",
+        "ka": "An ensemble featuring the Leonidas 3173 blouse, the Merende 2234 knit cardigan and the Onega 1204 jeans under the Socio 0963 1161 reversible coat.",
+        "hy": "An ensemble featuring the Leonidas 3173 blouse, the Merende 2234 knit cardigan and the Onega 1204 jeans under the Socio 0963 1161 reversible coat.",
+        "lv": "An ensemble featuring the Leonidas 3173 blouse, the Merende 2234 knit cardigan and the Onega 1204 jeans under the Socio 0963 1161 reversible coat.",
+        "lt": "An ensemble featuring the Leonidas 3173 blouse, the Merende 2234 knit cardigan and the Onega 1204 jeans under the Socio 0963 1161 reversible coat.",
+        "pl": "An ensemble featuring the Leonidas 3173 blouse, the Merende 2234 knit cardigan and the Onega 1204 jeans under the Socio 0963 1161 reversible coat.",
+        "uk": "An ensemble featuring the Leonidas 3173 blouse, the Merende 2234 knit cardigan and the Onega 1204 jeans under the Socio 0963 1161 reversible coat."
+      },
+      "items": [
+        {
+          "name": "Leonidas",
+          "code": "3173",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2hzpCfH4RfeaLd4HduSNWg_1540085088696f42e0485205_82454446_02820410XX1.jpg"
+        },
+        {
+          "name": "Merende",
+          "code": "2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/748832174691f157692a0b6_36843969_02790440XX1.jpg",
+          "modelId": 442
+        },
+        {
+          "name": "Onega",
+          "code": "1204",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1917785367692424d5743365_23685218_02781410XX1.jpg",
+          "modelId": 458
+        },
+        {
+          "name": "Socio",
+          "code": "0963 1161",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e0r4p7GdTVyJ63LSWEZZjQ_823327549696f42fa6897f3_01024722_02821060XX1.jpg",
+          "modelId": 323
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the composition: 24% natural silk lends the fabric a refined matte sheen and an exceptionally pleasant feel against the skin, while the cotton ensures comfort and easy care.",
+      "Showcase the client the ruffled cuffs — the ideal solution for creating a focal point in a layered look, as the ruffles peek out playfully from beneath the sleeves of a jacket or coat.",
+      "Recommend the Korean collar as a contemporary alternative to the classic style, visually elongating the neck and lending the face a fresh appearance."
+    ],
+    "ru": [
+      "Сделайте акцент на составе: 24% натурального шелка придают ткани благородный матовый блеск и делают ее невероятно приятной к телу, а хлопок обеспечивает комфорт и легкость в уходе.",
+      "Продемонстрируйте клиенту манжеты с воланами — это идеальное решение для создания акцента в многослойном образе, когда воланы кокетливо выглядывают из-под рукавов жакета или пальто.",
+      "Рекомендуйте корейский воротник как современную альтернативу классике, которая визуально удлиняет шею и придает лицу свежесть."
+    ],
+    "ar": [
+      "ركزي على التركيبة: 24% من الحرير الطبيعي يمنح القماش بريقاً مطفياً نبيلاً ويجعله ناعماً للغاية على البشرة، بينما يضمن القطن الراحة وسهولة العناية.",
+      "اعرضي على العميل الأكمام ذات الكشكشة، فهي الحل الأمثل لإضافة لمسة مميزة على الإطلالات متعددة الطبقات، حيث تبرز الكشكشة بدلال من تحت أكمام السترة أو المعطف.",
+      "انصحي بياقة الكوري (الواقفة) كبديل عصري للتصاميم الكلاسيكية، فهي تمنح العنق مظهراً أطول وتضفي نضارة على الوجه."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება შემადგენლობაზე: 24% ნატურალური აბრეშუმი ქსოვილს ანიჭებს კეთილშობილურ მქრქალ ბზინვარებას და ხდის მას წარმოუდგენლად სასიამოვნოს სხეულისთვის, ხოლო ბამბა უზრუნველყოფს კომფორტს და მოვლის სიმარტივეს.",
+      "უჩვენეთ მომხმარებელს მანჟეტები ნაოჭებით (ვოლანებით) — ეს არის იდეალური გადაწყვეტა მრავალშრიან იმიჯში აქცენტის შესაქმნელად, როდესაც ვოლანები კეკლუცად მოჩანს პიჯაკის ან პალტოს სახელოებიდან.",
+      "რეკომენდაცია გაუწიეთ კორეულ საყელოს, როგორც კლასიკის თანამედროვე ალტერნატივას, რომელიც ვიზუალურად აგრძელებს კისერს და სახეს ანიჭებს სიახლეს."
+    ],
+    "hy": [
+      "Շեշտը դրեք բաղադրության վրա. 24% բնական մետաքսը գործվածքին հաղորդում է ազնիվ փայլատ փայլ և այն դարձնում անչափ հաճելի մարմնին, իսկ բամբակն ապահովում է հարմարավետություն և խնամքի հեշտություն:",
+      "Հաճախորդին ցույց տվեք ծալքերով թևքերը. սա իդեալական լուծում է շերտավոր կերպարում շեշտադրում ստեղծելու համար, երբ ծալքերը գեղեցիկ երևում են ժակետի կամ վերարկուի թևքերի տակից:",
+      "Խորհուրդ տվեք կորեական օձիքը որպես դասականի ժամանակակից այլընտրանք, որը տեսողականորեն երկարացնում է պարանոցը և դեմքին թարմություն հաղորդում:"
+    ],
+    "lv": [
+      "Akcentējiet sastāvu: 24% dabīgā zīda piešķir audumam cēlu matētu spīdumu un padara to neticami patīkamu ķermenim, savukārt kokvilna nodrošina komfortu un vieglu kopšanu.",
+      "Demonstrējiet klientam manšetes ar volāniem — tas ir ideāls risinājums akcenta izveidošanai daudzslāņu tēlā, kad volāni koķeti skatās ārā no žaketes vai mēteļa piedurknēm.",
+      "Iesakiet stāvapkakli kā mūsdienīgu alternatīvu klasikai, kas vizuāli pagarina kaklu un piešķir sejai svaigumu."
+    ],
+    "lt": [
+      "Pabrėžkite sudėtį: 24 % natūralaus šilko suteikia audiniui taurų matinį blizgesį ir užtikrina nepakartojamą švelnumą prisilietus, o medvilnė suteikia komforto bei lengvos priežiūros pojūtį.",
+      "Pademonstruokite klientui rankogalius su raukiniais — tai idealus sprendimas kuriant akcentą sluoksniuotame įvaizdyje, kai raukiniai žaismingai kyšo iš po švarko ar palto rankovių.",
+      "Rekomenduokite korėjietiško stiliaus apykaklę kaip šiuolaikišką klasikos alternatyvą, kuri vizualiai ilgina kaklą ir suteikia veidui gaivumo."
+    ],
+    "pl": [
+      "Połóż nacisk na skład: 24% naturalnego jedwabiu nadaje tkaninie szlachetny matowy połysk i sprawia, że jest niezwykle przyjemna dla ciała, a bawełna zapewnia komfort i łatwość w pielęgnacji.",
+      "Zaprezentuj klientce mankiety z falbankami — to idealne rozwiązanie, aby stworzyć akcent w wielowarstwowej stylizacji, w której falbanki kokieteryjnie wystają spod rękawów żakietu lub płaszcza.",
+      "Zaproponuj koreański kołnierzyk jako nowoczesną alternatywę dla klasyki, która optycznie wydłuża szyję i dodaje twarzy świeżości."
+    ],
+    "uk": [
+      "Зробіть акцент на складі: 24% натурального шовку надають тканині благородного матового блиску та роблять її неймовірно приємною до тіла, а бавовна забезпечує комфорт і легкість у догляді.",
+      "Продемонструйте клієнту манжети з воланами — це ідеальне рішення для створення акценту в багатошаровому образі, коли волани кокетливо визирають з-під рукавів жакета чи пальта.",
+      "Рекомендуйте корейський комір як сучасну альтернативу класиці, яка візуально подовжує шию та надає обличчю свіжості."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Silk content may make the blouse too demanding to care for.",
+        "a": "Thanks to the predominance of cotton (76%), the Leonidas fabric is more practical and resistant to wear than pure silk, while preserving a luxurious appearance."
+      },
+      {
+        "q": "Ruffled sleeves may look too voluminous under a jacket.",
+        "a": "The ruffles are crafted from a lightweight material that drapes softly. They are designed specifically to make a stylish 'appearance' from beneath a jacket sleeve, without creating any discomfort."
+      },
+      {
+        "q": "Stripes may seem too casual for a brand of this calibre.",
+        "a": "In this piece, the delicate graphic pattern and the distinctive 'Panna Ruggine' colourway, combined with mother-of-pearl hardware, elevate the blouse into the realm of luxury casual."
+      },
+      {
+        "q": "A stand collar may not be entirely comfortable.",
+        "a": "The Leonidas stand collar has been calibrated to a precise height with a soft fit, ensuring freedom of movement and a contemporary, understated look without the need to tie restrictive bows."
+      },
+      {
+        "q": "Light-coloured fabric may be sheer.",
+        "a": "The density of the cotton-and-silk weave has been carefully calibrated to achieve the noble translucency characteristic of fine fabrics, while preserving the necessary discretion of the look."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шелк в составе может сделать блузу слишком сложной в уходе.",
+        "a": "Благодаря преобладанию хлопка (76%), ткань Leonidas более практична и устойчива к износу, чем чистый шелк, сохраняя при этом роскошный внешний вид."
+      },
+      {
+        "q": "Воланы на рукавах могут выглядеть слишком объемно под жакетом.",
+        "a": "Воланы выполнены из легкого материала, который мягко драпируется. Они созданы специально для того, чтобы стать стильным 'выходом' из-под рукава верхней одежды, не создавая дискомфорта."
+      },
+      {
+        "q": "Полоска кажется слишком повседневной для бренда такого уровня.",
+        "a": "В данной модели используется деликатная графика и уникальное цветовое решение 'Panna Ruggine', что в сочетании с перламутровой фурнитурой переводит блузу в категорию 'luxury casual'."
+      },
+      {
+        "q": "Корейский воротник может быть не слишком удобным.",
+        "a": "Воротник-стойка Leonidas имеет выверенную высоту и мягкую посадку, обеспечивая свободу движений и современный лаконичный вид без необходимости завязывать тугие банты."
+      },
+      {
+        "q": "Светлая ткань может просвечивать.",
+        "a": "Плотность плетения хлопка и шелка подобрана таким образом, чтобы обеспечить благородную полупрозрачность, характерную для дорогих тканей, сохраняя при этом необходимую сдержанность образа."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يجعل الحرير البلوزة صعبة العناية.",
+        "a": "بفضل نسبة القطن العالية (76%)، يتميز قماش Leonidas بكونه أكثر عملية ومقاومة للاهتراء مقارنة بالحرير الخالص، مع الاحتفاظ بمظهره الفاخر."
+      },
+      {
+        "q": "قد تبدو الكشكشة على الأكمام ضخمة جداً تحت السترة.",
+        "a": "صُممت الكشكشة من قماش خفيف ينسدل بنعومة، وهي مخصصة لتكون لمسة أنيقة تبرز من تحت أكمام الملابس الخارجية دون التسبب في أي إزعاج."
+      },
+      {
+        "q": "يبدو التخطيط بسيطاً للغاية بالنسبة لعلامة تجارية بهذا المستوى.",
+        "a": "يستخدم هذا الموديل رسومات دقيقة وتوليفة ألوان فريدة 'Panna Ruggine'، والتي تجعل البلوزة، مقترنة بالأزرار الصدفية، تندرج تحت فئة 'الفخامة اليومية'."
+      },
+      {
+        "q": "قد لا تكون الياقة الكورية مريحة للغاية.",
+        "a": "تتميز الياقة القائمة في موديل Leonidas بارتفاع مدروس ومقاس مريح، مما يمنح حرية الحركة ومظهراً عصرياً بسيطاً دون الحاجة إلى عقد ربطات العنق المعقدة."
+      },
+      {
+        "q": "قد تكون القماش الفاتح شفافاً.",
+        "a": "تم اختيار كثافة نسيج القطن والحرير بعناية لتوفير شفافية راقية تشتهر بها الأقمشة الفاخرة، مع الحفاظ على الوقار اللازم للإطلالة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "შემადგენლობაში არსებული აბრეშუმის გამო ბლუზას შესაძლოა რთული მოვლა სჭირდებოდეს.",
+        "a": "ბამბის (76%) მაღალი წილის წყალობით, Leonidas-ის ქსოვილი უფრო პრაქტიკული და ცვეთაგამძლეა, ვიდრე სუფთა აბრეშუმი, ამავდროულად ინარჩუნებს ფუფუნების იერს."
+      },
+      {
+        "q": "სახელოებზე არსებული ფრიალი ქურთუკის ქვეშ შესაძლოა ზედმეტად მოცულობითი ჩანდეს.",
+        "a": "ფრიალი დამზადებულია მსუბუქი მასალისგან, რომელიც რბილად დრაპირდება. ისინი სპეციალურად იმისთვის შეიქმნა, რომ ზედა სამოსის სახელოდან ელეგანტურად გამოჩნდეს, ყოველგვარი დისკომფორტის გარეშე."
+      },
+      {
+        "q": "ზოლები ამ დონის ბრენდისთვის შესაძლოა ზედმეტად ყოველდღიურად გამოიყურებოდეს.",
+        "a": "ამ მოდელში გამოყენებულია დელიკატური გრაფიკა და უნიკალური ფერთა გამა 'Panna Ruggine', რაც სადაფის ფურნიტურასთან ერთად ბლუზას 'luxury casual' კატეგორიაში გადაიყვანს."
+      },
+      {
+        "q": "კორეული ტიპის საყელო შესაძლოა არ იყოს მაინცდამაინც მოსახერხებელი.",
+        "a": "Leonidas-ის საყელო-სადგარს გააჩნია ზუსტად გათვლილი სიმაღლე და რბილი მორგება, რაც მოძრაობის თავისუფლებას უზრუნველყოფს და ქმნის თანამედროვე, ლაკონურ იერს, მჭიდრო ბაფთების შეკვრის საჭიროების გარეშე."
+      },
+      {
+        "q": "ღია ფერის ქსოვილი შესაძლოა გამჭვირვალე იყოს.",
+        "a": "ბამბისა და აბრეშუმის ქსოვის სიმკვრივე ისეა შერჩეული, რომ უზრუნველყოს ძვირფასი ქსოვილებისთვის დამახასიათებელი კეთილშობილური ნახევარგამჭვირვალობა, ამავდროულად შეინარჩუნოს იმიჯისთვის აუცილებელი თავშეკავებულობა."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կազմի մեջ առկա մետաքսը կարող է բլուզի խնամքը չափազանց բարդացնել",
+        "a": "Բամբակի (76%) գերակշռության շնորհիվ Leonidas գործվածքն ավելի գործնական է և մաշվածության նկատմամբ կայուն, քան մաքուր մետաքսը, միաժամանակ պահպանելով շքեղ տեսքը"
+      },
+      {
+        "q": "Թևքերի վոլանները կարող են չափազանց ծավալուն երևալ ժակետի տակ",
+        "a": "Վոլանները պատրաստված են թեթև նյութից, որը մեղմորեն դրեյրվում է: Դրանք ստեղծված են հատուկ նրա համար, որպեսզի դառնան վերնահագուստի թևքից դուրս եկող նորաձև դետալ՝ առանց անհարմարություն ստեղծելու"
+      },
+      {
+        "q": "Գծավոր պրինտը չափազանց առօրյա է թվում նման մակարդակի բրենդի համար",
+        "a": "Այս մոդելում օգտագործվում է նուրբ գրաֆիկա և «Panna Ruggine» յուրահատուկ գունային լուծում, որը սադափե ֆուրնիտուրայի հետ համադրությամբ բլուզը տեղափոխում է «luxury casual» կատեգորիա"
+      },
+      {
+        "q": "Կորեական օձիքը կարող է ոչ այնքան հարմարավետ լինել",
+        "a": "Leonidas-ի կանգնած օձիքն ունի ճշգրիտ բարձրություն և փափուկ նստվածք, ինչն ապահովում է շարժումների ազատություն և ժամանակակից լակոնիկ տեսք՝ առանց պինդ ժապավեններ կապելու անհրաժեշտության"
+      },
+      {
+        "q": "Բաց գույնի գործվածքը կարող է թափանցիկ լինել",
+        "a": "Բամբակի և մետաքսի հյուսվածքի խտությունն ընտրված է այնպես, որ ապահովի թանկարժեք գործվածքներին բնորոշ ազնվական կիսաթափանցիկություն՝ պահպանելով կերպարի անհրաժեշտ զուսպությունը"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Zīds sastāvā var padarīt blūzi pārāk sarežģīti kopjamu.",
+        "a": "Pateicoties kokvilnas pārsvaram (76%), Leonidas audums ir praktiskāks un izturīgāks pret nodilumu nekā tīrs zīds, vienlaikus saglabājot greznu izskatu."
+      },
+      {
+        "q": "Volāni uz piedurknēm zem žaketes var izskatīties pārāk apjomīgi.",
+        "a": "Volāni ir izgatavoti no viegla materiāla, kas maigi drapējas. Tie ir radīti speciāli tam, lai kļūtu par stilīgu 'iznācienu' no virsdrēbju piedurknes, neradot diskomfortu."
+      },
+      {
+        "q": "Svītras šķiet pārāk ikdienišķas šāda līmeņa zīmolam.",
+        "a": "Šajā modelī tiek izmantota smalka grafika un unikāls krāsu risinājums 'Panna Ruggine', kas apvienojumā ar pērļmātes furnitūru pārceļ blūzi 'luxury casual' kategorijā."
+      },
+      {
+        "q": "Korejiešu apkakle var nebūt pārāk ērta.",
+        "a": "Leonidas stāvapkaklei ir rūpīgi izsvērts augstums un mīksta piekļaušanās, nodrošinot kustību brīvību un modernu, lakonisku izskatu bez nepieciešamības siet ciešas lentes."
+      },
+      {
+        "q": "Gaišs audums var būt caurspīdīgs.",
+        "a": "Kokvilnas un zīda pinuma blīvums ir izvēlēts tā, lai nodrošinātu cēlu caurspīdīgumu, kas raksturīgs dārgiem audumiem, vienlaikus saglabājot tēla nepieciešamo atturību."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Šilkas sudėtyje gali apsunkinti palaidinės priežiūrą.",
+        "a": "Dėl vyraujančio medvilnės kiekio (76 %), Leonidas audinys yra praktiškesnis ir atsparesnis nusidėvėjimui nei grynas šilkas, tačiau išlaiko prabangią išvaizdą."
+      },
+      {
+        "q": "Rankovių raukiniai gali atrodyti per daug dideli po švarku.",
+        "a": "Raukiniai pagaminti iš lengvos medžiagos, kuri minkštai krenta. Jie sukurti specialiai tam, kad taptų stilinga detale, išlendančia iš po viršutinio drabužio rankovės, nesukeliant jokio diskomforto."
+      },
+      {
+        "q": "Dryžiai atrodo per daug kasdieniški tokio lygio prekės ženklui.",
+        "a": "Šiame modelyje naudojama subtili grafika ir unikalus spalvų derinys „Panna Ruggine“, kurie kartu su perlamutrine furnitūra perkelia palaidinę į „luxury casual“ kategoriją."
+      },
+      {
+        "q": "Koreietiška apykaklė gali būti ne itin patogi.",
+        "a": "Leonidas stačios apykaklės aukštis yra puikiai subalansuotas, ji patogiai priglunda, suteikdama judėjimo laisvę ir modernų, minimalistinį įvaizdį be poreikio rišti sudėtingus kaspinus."
+      },
+      {
+        "q": "Šviesus audinys gali persišviesti.",
+        "a": "Medvilnės ir šilko pynimo tankis parinktas taip, kad būtų užtikrintas kilnus, brangiems audiniams būdingas pusiau permatomas efektas, kartu išlaikant būtiną įvaizdžio santūrumą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Jedwab w składzie może sprawiać, że bluzka będzie trudna w pielęgnacji.",
+        "a": "Dzięki przewadze bawełny (76%), tkanina Leonidas jest bardziej praktyczna i odporna na zużycie niż czysty jedwab, zachowując przy tym luksusowy wygląd."
+      },
+      {
+        "q": "Falbanki na rękawach mogą wydawać się zbyt obszerne pod żakietem.",
+        "a": "Falbanki wykonano z lekkiego materiału, który miękko się układa. Stworzono je specjalnie po to, aby stanowiły stylowy akcent wystający spod rękawa odzieży wierzchniej, nie powodując dyskomfortu."
+      },
+      {
+        "q": "Paski wydają się zbyt codzienne dla marki tej klasy.",
+        "a": "W tym modelu zastosowano delikatną grafikę i unikalną kolorystykę 'Panna Ruggine', co w połączeniu z perłową biżuterią przesuwa bluzkę do kategorii 'luxury casual'."
+      },
+      {
+        "q": "Koreański kołnierzyk może nie być zbyt wygodny.",
+        "a": "Stójka w modelu Leonidas ma precyzyjnie dobraną wysokość i miękkie dopasowanie, zapewniając swobodę ruchów oraz nowoczesny, minimalistyczny wygląd bez konieczności wiązania ciasnych kokard."
+      },
+      {
+        "q": "Jasna tkanina może prześwitywać.",
+        "a": "Gęstość splotu bawełny i jedwabiu została dobrana tak, aby zapewnić szlachetną półprzezroczystość, charakterystyczną dla drogich tkanin, zachowując przy tym niezbędną powściągliwość stylizacji."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Шовк у складі може зробити блузу занадто складною у догляді.",
+        "a": "Завдяки переважанню бавовни (76%), тканина Leonidas більш практична та стійка до зношування, ніж чистий шовк, зберігаючи при цьому розкішний зовнішній вигляд."
+      },
+      {
+        "q": "Волани на рукавах можуть виглядати занадто об'ємно під жакетом.",
+        "a": "Волани виконані з легкого матеріалу, який м'яко драпірується. Вони створені спеціально для того, щоб стати стильним 'виходом' з-під рукава верхнього одягу, не створюючи дискомфорту."
+      },
+      {
+        "q": "Смужка здається занадто повсякденною для бренду такого рівня.",
+        "a": "У цій моделі використовується делікатна графіка та унікальне колірне рішення 'Panna Ruggine', що у поєднанні з перламутровою фурнітурою переводить блузу в категорію 'luxury casual'."
+      },
+      {
+        "q": "Корейський комір може бути не надто зручним.",
+        "a": "Комір-стійка Leonidas має вивірену висоту та м'яку посадку, забезпечуючи свободу рухів і сучасний лаконічний вигляд без необхідності зав'язувати тугі банти."
+      },
+      {
+        "q": "Світла тканина може просвічуватися.",
+        "a": "Щільність плетіння бавовни та шовку підібрана таким чином, щоб забезпечити благородну напівпрозорість, характерну для дорогих тканин, зберігаючи при цьому необхідну стриманість образу."
+      }
+    ]
+  }
+}

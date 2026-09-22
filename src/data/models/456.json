@@ -1,0 +1,557 @@
+{
+  "id": 456,
+  "name": "Olla",
+  "description": {
+    "en": "The Olla jeans are the embodiment of effortless Italian chic and a contemporary interpretation of classic denim within the Luisa Spagnoli DNA. Crafted from high-quality cotton denim (denim di cotone), possessing the ideal density for creating an expressive silhouette. A characteristic feature of the piece is its 'artistically faded' effect (sbiaditure ad arte), which lends the fabric depth and vintage charm. The piece's architecture is built on a wide cut (vestibilitÃ wide) and a classic five-pocket design, which, combined with a high waist, masterfully elongates the leg line. A status-defining accent is provided by the signature LS appliquÃ© in silver-tone metal, delicately adorning one of the hip belt loops, elevating basic denim into an object of intellectual luxury.",
+    "ru": "Джинсы Olla --- это воплощение непринужденного итальянского шика и современной интерпретации классического денима в ДНК Luisa Spagnoli. Модель выполнена из высококачественного хлопкового денима (denim di cotone), обладающего идеальной плотностью для создания выразительного силуэта. Характерной чертой изделия выступают «артистичные высветления» (sbiaditure ad arte), которые придают полотну глубину и винтажный шарм. Архитектура модели базируется на широком покрое (vestibilità wide) и классическом дизайне с пятью карманами, что в сочетании с высокой посадкой виртуозно удлиняет линию ног. Статусный акцент вносит фирменная аппликация LS из серебристого металла, деликатно украшающая один из паховых шлевок, превращая базовый деним в объект интеллектуальной роскоши.",
+    "ar": "جينز Olla هو تجسيد للأناقة الإيطالية العفوية وتفسير عصري للدنيم الكلاسيكي في جوهر هوية Luisa Spagnoli. صُنعت القطعة من الدنيم القطني عالي الجودة (denim di cotone) بكثافة مثالية لخلق صورة ظلية معبرة. السمة المميزة هي \"التفتيح الفني\" (sbiaditure ad arte) الذي يمنح القماش عمقاً وسحراً كلاسيكياً. تعتمد بنية القطعة على القصة الواسعة (vestibilità wide) والتصميم الكلاسيكي بخمسة جيوب، مما يطيل خط الساق ببراعة مع الخصر العالي. تضفي التطريزات المعدنية الفضية LS لمسة فاخرة، مما يحول الدنيم الأساسي إلى قطعة من الرفاهية الذكية.",
+    "ka": "Olla ჯინსი Luisa Spagnoli-ს დნმ-ში კლასიკური დენიმის მოდუნებული იტალიური შიკისა და თანამედროვე ინტერპრეტაციის განსახიერებაა. მოდელი დამზადებულია მაღალი ხარისხის ბამბის დენიმისგან (denim di cotone), რომელსაც გამომხატველი სილუეტის შესაქმნელად იდეალური სიმკვრივე გააჩნია. ნივთის დამახასიათებელ ნიშანს წარმოადგენს „არტისტული გაუფერულებები“ (sbiaditure ad arte), რომლებიც ქსოვილს სიღრმესა და ვინტაჟურ შარმს მატებს. მოდელის არქიტექტურა ეფუძნება ფართო კერვას (vestibilità wide) და ხუთი ჯიბის მქონე კლასიკურ დიზაინს, რაც მაღალ წელთან კომბინაციაში ვირტუოზულად აგრძელებს ფეხების ხაზს. სტატუსურ აქცენტს ქმნის ვერცხლისფერი ლითონის ბრენდირებული აპლიკაცია LS, რომელიც ნაზად ამშვენებს ქამრის ერთ-ერთ მარყუჟს და საბაზისო დენიმს ინტელექტუალური ფუფუნების ობიექტად გარდაქმნის.",
+    "hy": "Olla ջինսերը Luisa Spagnoli-ի ԴՆԹ-ում առկա անկաշկանդ իտալական շքեղության և դասական ջինսի ժամանակակից մեկնաբանության մարմնավորումն են։ Մոդելը պատրաստված է բարձրորակ բամբակյա ջինսե գործվածքից (denim di cotone), որն ունի արտահայտիչ ուրվագիծ ստեղծելու համար իդեալական խտություն։ Արտադրանքի բնորոշ գիծն են «արտիստիկ բաց գույնի հատվածները» (sbiaditure ad arte), որոնք գործվածքին հաղորդում են խորություն և վինտաժային հմայք։ Մոդելի ճարտարապետությունը հիմնված է լայն ձևվածքի (vestibilità wide) և հինգ գրպաններով դասական դիզայնի վրա, ինչը բարձր գոտկատեղի հետ համակցված վարպետորեն երկարացնում է ոտքերի գիծը։ Կարգավիճակային շեշտադրում է հաղորդում արծաթագույն մետաղից պատրաստված LS ապրանքանիշի ապլիկացիան, որը նրբորեն զարդարում է գոտկատեղի անցքերից մեկը՝ բազային ջինսը վերածելով մտավոր շքեղության օբյեկտի։",
+    "lv": "Džinsi Olla --- tas ir nepiespiesta itāļu šika un klasiskā džinsa modernās interpretācijas iemiesojums Luisa Spagnoli DNS. Modelis ir izgatavots no augstas kvalitātes kokvilnas džinsa (denim di cotone), kuram piemīt ideāls blīvums izteiksmīga silueta radīšanai. Izstrādājuma raksturīga iezīme ir «mākslinieciskie izgaismojumi» (sbiaditure ad arte), kas audumam piešķir dziļumu un vintage šarmu. Modeļa arhitektūra balstās uz platu piegriezumu (vestibilità wide) un klasisku piecu kabatu dizainu, kas apvienojumā ar augsto jostasvietu virtuozi pagarina kāju līniju. Statusīgu akcentu piešķir firmas LS aplikācija no sudrabota metāla, kas smalki rotā vienu no jostas cilpām, pārvēršot pamata džinsu par intelektuālas greznības objektu.",
+    "lt": "Džinsai Olla – tai neįpareigojančio itališko šiko ir šiuolaikiškos klasikinio džinsinio audinio interpretacijos įsikūnijimas Luisa Spagnoli DNR. Modelis pasiūtas iš aukštos kokybės medvilninio džinsinio audinio (denim di cotone), pasižyminčio idealu tankiu raiškiam siluetui sukurti. Charakteringu gaminio bruožu tampa „meniški pašviesinimai“ (sbiaditure ad arte), kurie audiniui suteikia gylio ir vintažinio žavesio. Modelio architektūra remiasi plačiu kirpimu (vestibilità wide) ir klasikiniu penkių kišenių dizainu, kurie kartu su aukštu liemeniu virtuoziškai ilgina kojų liniją. Solidų akcentą suteikia firminė LS aplikacija iš sidabro spalvos metalo, subtiliai puošianti vieną iš kilpų diržui, paverčiant bazinį džinsą intelektualios prabangos objektu.",
+    "pl": "Jeansy Olla to ucieleśnienie swobodnego włoskiego szyku i nowoczesnej interpretacji klasycznego denimu w DNA marki Luisa Spagnoli. Model wykonany jest z wysokiej jakości bawełnianego denimu (denim di cotone), posiadającego idealną gęstość do stworzenia wyrazistej sylwetki. Cechą charakterystyczną wyrobu są „artystyczne przetarcia” (sbiaditure ad arte), które nadają tkaninie głębi i vintage'owego uroku. Architektura modelu opiera się na szerokim kroju (vestibilità wide) i klasycznym designie z pięcioma kieszeniami, co w połączeniu z wysokim stanem wirtuozersko wydłuża linię nóg. Prestiżowy akcent wnosi firmowa aplikacja LS z metalu w srebrnym kolorze, delikatnie zdobiąca jedną ze szlufek, przekształcając podstawowy denim w obiekt intelektualnego luksusu.",
+    "uk": "Джинси Olla — це втілення невимушеного італійського шику та сучасної інтерпретації класичного деніму в ДНК Luisa Spagnoli. Модель виконана з високоякісного бавовняного деніму (denim di cotone), що володіє ідеальною щільністю для створення виразного силуету. Характерною рисою виробу виступають «артистичні висвітлення» (sbiaditure ad arte), які надають полотну глибини та вінтажного шарму. Архітектура моделі базується на широкому крої (vestibilità wide) та класичному дизайні з п'ятьма кишенями, що в поєднанні з високою посадкою віртуозно подовжує лінію ніг. Статусний акцент вносить фірмова аплікація LS зі сріблястого металу, яка делікатно прикрашає одну з пахових шльовок, перетворюючи базовий денім на об'єкт інтелектуальної розкоші."
+  },
+  "colors": [
+    {
+      "name": "Blu",
+      "code": "1248",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1890676542692424d4b4f858_36560463_02781390XX1.jpg"
+    },
+    {
+      "name": "Grigio",
+      "code": "1073",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда демонстрируют исключительную универсальность Olla, предлагая образы от романтичных до строго-деловых: Вариант 1073 ( Синий деним): Look 20: современный интеллектуальный сет с трикотажным поло Morenita 2435.",
+        "en": "The brand's stylists demonstrate the exceptional versatility of Olla, offering looks ranging from romantic to strictly professional: Option 1073 ( Blue denim): Look 20: a modern intellectual set with a Morenita 2435 knit polo.",
+        "ar": "The brand's stylists demonstrate the exceptional versatility of Olla, offering looks ranging from romantic to strictly professional: Option 1073 ( Blue denim): Look 20: a modern intellectual set with a Morenita 2435 knit polo.",
+        "ka": "The brand's stylists demonstrate the exceptional versatility of Olla, offering looks ranging from romantic to strictly professional: Option 1073 ( Blue denim): Look 20: a modern intellectual set with a Morenita 2435 knit polo.",
+        "hy": "The brand's stylists demonstrate the exceptional versatility of Olla, offering looks ranging from romantic to strictly professional: Option 1073 ( Blue denim): Look 20: a modern intellectual set with a Morenita 2435 knit polo.",
+        "lv": "The brand's stylists demonstrate the exceptional versatility of Olla, offering looks ranging from romantic to strictly professional: Option 1073 ( Blue denim): Look 20: a modern intellectual set with a Morenita 2435 knit polo.",
+        "lt": "The brand's stylists demonstrate the exceptional versatility of Olla, offering looks ranging from romantic to strictly professional: Option 1073 ( Blue denim): Look 20: a modern intellectual set with a Morenita 2435 knit polo.",
+        "pl": "The brand's stylists demonstrate the exceptional versatility of Olla, offering looks ranging from romantic to strictly professional: Option 1073 ( Blue denim): Look 20: a modern intellectual set with a Morenita 2435 knit polo.",
+        "uk": "The brand's stylists demonstrate the exceptional versatility of Olla, offering looks ranging from romantic to strictly professional: Option 1073 ( Blue denim): Look 20: a modern intellectual set with a Morenita 2435 knit polo."
+      },
+      "items": [
+        {
+          "name": "Morenita",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/685167938691f1579ca7f61_38779162_02790620XX1.jpg",
+          "modelId": 449
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 25",
+        "en": "Look 25",
+        "ar": "Look 25",
+        "ka": "Look 25",
+        "hy": "Look 25",
+        "lv": "Look 25",
+        "lt": "Look 25",
+        "pl": "Look 25",
+        "uk": "Look 25"
+      },
+      "text": {
+        "ru": "женственный контраст с белоснежной рубашкой Localita 0201, украшенной рюшами.",
+        "en": "a feminine contrast with a snow-white Localita 0201 shirt, decorated with ruffles.",
+        "ar": "a feminine contrast with a snow-white Localita 0201 shirt, decorated with ruffles.",
+        "ka": "a feminine contrast with a snow-white Localita 0201 shirt, decorated with ruffles.",
+        "hy": "a feminine contrast with a snow-white Localita 0201 shirt, decorated with ruffles.",
+        "lv": "a feminine contrast with a snow-white Localita 0201 shirt, decorated with ruffles.",
+        "lt": "a feminine contrast with a snow-white Localita 0201 shirt, decorated with ruffles.",
+        "pl": "a feminine contrast with a snow-white Localita 0201 shirt, decorated with ruffles.",
+        "uk": "a feminine contrast with a snow-white Localita 0201 shirt, decorated with ruffles."
+      },
+      "items": [
+        {
+          "name": "Localita",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1407561629692424cfaef943_59921062_02781240XX1.jpg",
+          "modelId": 422
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 100",
+        "en": "Look 100",
+        "ar": "Look 100",
+        "ka": "Look 100",
+        "hy": "Look 100",
+        "lv": "Look 100",
+        "lt": "Look 100",
+        "pl": "Look 100",
+        "uk": "Look 100"
+      },
+      "text": {
+        "ru": "статусный городской ансамбль с кожаным блейзером Solarita 0101 и пуловером с рюшами Menelao 0204 0101.",
+        "en": "a high-status city ensemble with a Solarita 0101 leather blazer and a Menelao 0204 0101 ruffled pullover.",
+        "ar": "a high-status city ensemble with a Solarita 0101 leather blazer and a Menelao 0204 0101 ruffled pullover.",
+        "ka": "a high-status city ensemble with a Solarita 0101 leather blazer and a Menelao 0204 0101 ruffled pullover.",
+        "hy": "a high-status city ensemble with a Solarita 0101 leather blazer and a Menelao 0204 0101 ruffled pullover.",
+        "lv": "a high-status city ensemble with a Solarita 0101 leather blazer and a Menelao 0204 0101 ruffled pullover.",
+        "lt": "a high-status city ensemble with a Solarita 0101 leather blazer and a Menelao 0204 0101 ruffled pullover.",
+        "pl": "a high-status city ensemble with a Solarita 0101 leather blazer and a Menelao 0204 0101 ruffled pullover.",
+        "uk": "a high-status city ensemble with a Solarita 0101 leather blazer and a Menelao 0204 0101 ruffled pullover."
+      },
+      "items": [
+        {
+          "name": "Solarita",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1355459512691f1569150990_65095974_02780630XX1.jpg",
+          "modelId": 486
+        },
+        {
+          "name": "Menelao",
+          "code": "0204 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/494185053691c57941ac2e3_15558577_02790400XX1.jpg",
+          "modelId": 440
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 101",
+        "en": "Look 101",
+        "ar": "Look 101",
+        "ka": "Look 101",
+        "hy": "Look 101",
+        "lv": "Look 101",
+        "lt": "Look 101",
+        "pl": "Look 101",
+        "uk": "Look 101"
+      },
+      "text": {
+        "ru": "уютный подиумный образ с укороченным кардиганом Madira 0101 и пуловером Menelao 0101 0202.",
+        "en": "a cozy runway look with a cropped Madira 0101 cardigan and a Menelao 0101 0202 pullover.",
+        "ar": "a cozy runway look with a cropped Madira 0101 cardigan and a Menelao 0101 0202 pullover.",
+        "ka": "a cozy runway look with a cropped Madira 0101 cardigan and a Menelao 0101 0202 pullover.",
+        "hy": "a cozy runway look with a cropped Madira 0101 cardigan and a Menelao 0101 0202 pullover.",
+        "lv": "a cozy runway look with a cropped Madira 0101 cardigan and a Menelao 0101 0202 pullover.",
+        "lt": "a cozy runway look with a cropped Madira 0101 cardigan and a Menelao 0101 0202 pullover.",
+        "pl": "a cozy runway look with a cropped Madira 0101 cardigan and a Menelao 0101 0202 pullover.",
+        "uk": "a cozy runway look with a cropped Madira 0101 cardigan and a Menelao 0101 0202 pullover."
+      },
+      "items": [
+        {
+          "name": "Madira",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/127431599691f156f750070_99744006_02790140XX1.jpg",
+          "modelId": 430
+        },
+        {
+          "name": "Menelao",
+          "code": "0101 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1906230012691c57936a4ba0_72020696_02790390XX1.jpg",
+          "modelId": 440
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 30 (Bambola 2)",
+        "en": "Vetrina 30 (Bambola 2)",
+        "ar": "Vetrina 30 (Bambola 2)",
+        "ka": "Vetrina 30 (Bambola 2)",
+        "hy": "Vetrina 30 (Bambola 2)",
+        "lv": "Vetrina 30 (Bambola 2)",
+        "lt": "Vetrina 30 (Bambola 2)",
+        "pl": "Vetrina 30 (Bambola 2)",
+        "uk": "Vetrina 30 (Bambola 2)"
+      },
+      "text": {
+        "ru": "классика вне времени под тренчем Single 1210 0844 в сочетании с молочным гольфом Meritare 0823. Вариант 1248 ( Темный/Серый деним):",
+        "en": "timeless classic under a Single 1210 0844 trench coat paired with a creamy Meritare 0823 turtleneck. Option 1248 ( Dark/Grey denim):",
+        "ar": "timeless classic under a Single 1210 0844 trench coat paired with a creamy Meritare 0823 turtleneck. Option 1248 ( Dark/Grey denim):",
+        "ka": "timeless classic under a Single 1210 0844 trench coat paired with a creamy Meritare 0823 turtleneck. Option 1248 ( Dark/Grey denim):",
+        "hy": "timeless classic under a Single 1210 0844 trench coat paired with a creamy Meritare 0823 turtleneck. Option 1248 ( Dark/Grey denim):",
+        "lv": "timeless classic under a Single 1210 0844 trench coat paired with a creamy Meritare 0823 turtleneck. Option 1248 ( Dark/Grey denim):",
+        "lt": "timeless classic under a Single 1210 0844 trench coat paired with a creamy Meritare 0823 turtleneck. Option 1248 ( Dark/Grey denim):",
+        "pl": "timeless classic under a Single 1210 0844 trench coat paired with a creamy Meritare 0823 turtleneck. Option 1248 ( Dark/Grey denim):",
+        "uk": "timeless classic under a Single 1210 0844 trench coat paired with a creamy Meritare 0823 turtleneck. Option 1248 ( Dark/Grey denim):"
+      },
+      "items": [
+        {
+          "name": "Single",
+          "code": "1210 0844",
+          "imageUrl": null
+        },
+        {
+          "name": "Meritare",
+          "code": "0823",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1244194360691f156e0b6c67_05072027_02780750XX1.jpg",
+          "modelId": 443
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 204",
+        "en": "Look 204",
+        "ar": "Look 204",
+        "ka": "Look 204",
+        "hy": "Look 204",
+        "lv": "Look 204",
+        "lt": "Look 204",
+        "pl": "Look 204",
+        "uk": "Look 204"
+      },
+      "text": {
+        "ru": "минималистичный образ с пуловером в тон Meleti 0620.",
+        "en": "a minimalist look with a matching Meleti 0620 pullover.",
+        "ar": "a minimalist look with a matching Meleti 0620 pullover.",
+        "ka": "a minimalist look with a matching Meleti 0620 pullover.",
+        "hy": "a minimalist look with a matching Meleti 0620 pullover.",
+        "lv": "a minimalist look with a matching Meleti 0620 pullover.",
+        "lt": "a minimalist look with a matching Meleti 0620 pullover.",
+        "pl": "a minimalist look with a matching Meleti 0620 pullover.",
+        "uk": "a minimalist look with a matching Meleti 0620 pullover."
+      },
+      "items": [
+        {
+          "name": "Meleti",
+          "code": "0620",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1hGKdyecTBqaCk9fqoZ-fw_1206728860696f4369a3c3b5_02291338_02830730XX1.jpg",
+          "modelId": 164
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 5 (Bambola 1)",
+        "en": "Vetrina 5 (Bambola 1)",
+        "ar": "Vetrina 5 (Bambola 1)",
+        "ka": "Vetrina 5 (Bambola 1)",
+        "hy": "Vetrina 5 (Bambola 1)",
+        "lv": "Vetrina 5 (Bambola 1)",
+        "lt": "Vetrina 5 (Bambola 1)",
+        "pl": "Vetrina 5 (Bambola 1)",
+        "uk": "Vetrina 5 (Bambola 1)"
+      },
+      "text": {
+        "ru": "сложный многослойный сет под курткой-кабаном Sigilli 1294 0235 с рубашкой Leila 0201 и пуловером Meleti 0620.",
+        "en": "a complex layered set under a Sigilli 1294 0235 caban jacket with a Leila 0201 shirt and a Meleti 0620 pullover.",
+        "ar": "a complex layered set under a Sigilli 1294 0235 caban jacket with a Leila 0201 shirt and a Meleti 0620 pullover.",
+        "ka": "a complex layered set under a Sigilli 1294 0235 caban jacket with a Leila 0201 shirt and a Meleti 0620 pullover.",
+        "hy": "a complex layered set under a Sigilli 1294 0235 caban jacket with a Leila 0201 shirt and a Meleti 0620 pullover.",
+        "lv": "a complex layered set under a Sigilli 1294 0235 caban jacket with a Leila 0201 shirt and a Meleti 0620 pullover.",
+        "lt": "a complex layered set under a Sigilli 1294 0235 caban jacket with a Leila 0201 shirt and a Meleti 0620 pullover.",
+        "pl": "a complex layered set under a Sigilli 1294 0235 caban jacket with a Leila 0201 shirt and a Meleti 0620 pullover.",
+        "uk": "a complex layered set under a Sigilli 1294 0235 caban jacket with a Leila 0201 shirt and a Meleti 0620 pullover."
+      },
+      "items": [
+        {
+          "name": "Sigilli",
+          "code": "1294 0235",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WzYXb10kQQaRbo3srKWFvA_1873521069696f42f6059416_18779616_02820990XX1.jpg",
+          "modelId": 316
+        },
+        {
+          "name": "Leila",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "modelId": 414
+        },
+        {
+          "name": "Meleti",
+          "code": "0620",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1hGKdyecTBqaCk9fqoZ-fw_1206728860696f4369a3c3b5_02291338_02830730XX1.jpg",
+          "modelId": 164
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 91 (Bambola 1)",
+        "en": "Vetrina 91 (Bambola 1)",
+        "ar": "Vetrina 91 (Bambola 1)",
+        "ka": "Vetrina 91 (Bambola 1)",
+        "hy": "Vetrina 91 (Bambola 1)",
+        "lv": "Vetrina 91 (Bambola 1)",
+        "lt": "Vetrina 91 (Bambola 1)",
+        "pl": "Vetrina 91 (Bambola 1)",
+        "uk": "Vetrina 91 (Bambola 1)"
+      },
+      "text": {
+        "ru": "зимний аутфит под коротким пальто Soncio 0963 1161 с жакетом Mity 3374 и пуловером Mano 0202.",
+        "en": "a winter outfit under a short Soncio 0963 1161 coat with a Mity 3374 jacket and a Mano 0202 pullover.",
+        "ar": "a winter outfit under a short Soncio 0963 1161 coat with a Mity 3374 jacket and a Mano 0202 pullover.",
+        "ka": "a winter outfit under a short Soncio 0963 1161 coat with a Mity 3374 jacket and a Mano 0202 pullover.",
+        "hy": "a winter outfit under a short Soncio 0963 1161 coat with a Mity 3374 jacket and a Mano 0202 pullover.",
+        "lv": "a winter outfit under a short Soncio 0963 1161 coat with a Mity 3374 jacket and a Mano 0202 pullover.",
+        "lt": "a winter outfit under a short Soncio 0963 1161 coat with a Mity 3374 jacket and a Mano 0202 pullover.",
+        "pl": "a winter outfit under a short Soncio 0963 1161 coat with a Mity 3374 jacket and a Mano 0202 pullover.",
+        "uk": "a winter outfit under a short Soncio 0963 1161 coat with a Mity 3374 jacket and a Mano 0202 pullover."
+      },
+      "items": [
+        {
+          "name": "Soncio",
+          "code": "0963 1161",
+          "imageUrl": null
+        },
+        {
+          "name": "Mity",
+          "code": "3374",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/figTUWpoTa2gZPu9oRzUfA_931594082696f43771a2813_21938047_02831190XX1.jpg",
+          "modelId": 184
+        },
+        {
+          "name": "Mano",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281019%29.png"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The 'Endless Legs' effect: Direct the client's attention to the wide-fit cut. Explain that wide legs beginning at the hip, combined with a high waist, create an uninterrupted vertical line that visually adds height and lends the silhouette a more statue"
+    ],
+    "ru": [
+      "- Эффект «Бесконечных ног»: Акцентируйте внимание клиента на крое wide fit. Объясните, что широкие штанины, начинающиеся от бедра, в сочетании с высокой посадкой создают непрерывную вертикаль, которая визуально добавляет роста и делает силуэт более статны"
+    ],
+    "ar": [
+      "- تأثير «الأرجل اللامتناهية»: وجهي انتباه العميل إلى قصّة wide fit. وضحي أن الساقين العريضتين اللتين تبدآن من الأرداف، مع الخصر العالي، تخلقان خطاً عمودياً مستمراً يضيف طولاً بصرياً ويجعل القوام يبدو أكثر شموخاً. - الدنيم الذكي: اقترحي جينز Olla كأساس لـ"
+    ],
+    "ka": [
+      "- «უსასრულო ფეხების» ეფექტი: გაამახვილეთ კლიენტის ყურადღება wide fit ჭრაზე. აუხსენით, რომ ფართო ტოტები, რომლებიც თეძოდან იწყება, მაღალ წელთან კომბინაციაში ქმნის უწყვეტ ვერტიკალს, რომელიც ვიზუალურად მატებს სიმაღლეს და სილუეტს უფრო დიდებულს ხდის. - ინტელექტ"
+    ],
+    "hy": [
+      "- «Անվերջ ոտքերի» էֆեկտը. Հաճախորդի ուշադրությունը հրավիրեք wide fit ձևվածքի վրա: Բացատրեք, որ ազդրից սկսվող լայն տաբատները բարձր գոտկատեղի հետ համատեղ ստեղծում են անընդհատ ուղղահայաց, որը տեսողականորեն ավելացնում է հասակը և ուրվագիծը դարձնում ավելի կայտա"
+    ],
+    "lv": [
+      "- «Bezgalīgo kāju» efekts: Akcentējiet klienta uzmanību uz wide fit piegriezumu. Paskaidrojiet, ka platas staras, kas sākas no gurna, apvienojumā ar augsto jostasvietu veido nepārtrauktu vertikāli, kas vizuāli piešķir augumu un padara siluetu cildenāku. -"
+    ],
+    "lt": [
+      "- „Nesibaigiančių kojų“ efektas: atkreipkite kliento dėmesį į wide fit kirpimą. Paaiškinkite, kad plačios klešnės, prasidedančios nuo klubų, kartu su aukštu liemeniu sukuria nepertraukiamą vertikalę, kuri vizualiai prideda ūgio ir daro siluetą grakštesnį. - Intelektualus džinsas: pasiūlykite Olla džinsus kaip bazę „minkštam siuvimui“ (soft tailoring). Dėl sidabrinio logotipo ir nepriekaištingos apdailos kokybės jie idealiai pakeičia klasikines kelnes derinant su švarkais (pavyzdžiui, Solarita 0101), kartu išlaikant įvaizdžio atsipalaidavimą. - Šviesinimo meistriškumas: pabrėžkite, kad sbiaditure ad arte efektas atliekamas rankomis. Tai garantuoja kiekvienos poros unikalumą ir pabrėžia aukščiausią kolekcijos lygį, kur net džinsinis audinys apdorojamas su sartoriniu požiūriu."
+    ],
+    "pl": [
+      "- Efekt «nieskończenie długich nóg»: Skoncentruj uwagę klientki na kroju wide fit. Wyjaśnij, że szerokie nogawki zaczynające się od bioder, w połączeniu z wysokim stanem, tworzą ciągłą wertykalność, która optycznie dodaje wzrostu i czyni sylwetkę bardziej"
+    ],
+    "uk": [
+      "- Ефект «Нескінченних ніг»: Акцентуйте увагу клієнта на крої wide fit. Поясніть, що широкі холоші, які починаються від стегна, у поєднанні з високою посадкою створюють безперервну вертикаль, яка візуально додає зросту і робить силует більш статним. - Інте"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Wide-leg",
+        "a": "jeans Point out the density of the denim and the precise might look baggy» fit at the waist. The Olla model disciplines the figure through the upper body, allowing the volume below to work in the piece's favor rather than adding bulk. «The distressing Explain that the fading technique on this model looks too casual» is a \"Quiet Luxury\" design choice. Showcase Look 100: paired with leather and silk, these jeans look fashion-forward and expensive. «What should I Recommend platform shoes or a stable heel (such wear with such wide as the Ulisside boots). This maximizes the trouser legs?» runway effect and prevents the trouser hem from dragging on the ground. «The silver logo On the contrary, LS's understated hardware is might limit my a mark of quality. Silver metal on denim is jewelry choices» considered neutral and pairs beautifully with both cool and warm-toned accessories. «I'm worried that Luisa Spagnoli's high-quality cotton has 100% cotton will natural elasticity and \"breathes,\" ensuring be uncomfortable to comfort all day long, while the jeans won't wear» stretch out at the knees, keeping their shape"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Широкие джинсы",
+        "a": "Укажите на плотность денима и выверенную посадку могут выглядеть в области талии. Модель Olla дисциплинирует мешковато фигуру в верхней части, позволяя объему внизу работать на динамику, а не на лишний вес."
+      },
+      {
+        "q": "Потертости",
+        "a": "Поясните, что техника высветления в данной модели выглядят слишком — это дизайнерский прием «Quiet Luxury . повседневно» Продемонстрируйте Look 100: в сочетании с кожей и шелком такие джинсы выглядят остромодно и дорого."
+      },
+      {
+        "q": "С чем носить такую",
+        "a": "Рекомендуйте обувь на платформе или устойчивом ширину брючин? каблуке (например, сапоги Ulisside). Это максимизирует подиумный эффект и предотвращает соприкосновение края брюк с землей."
+      },
+      {
+        "q": "Серебристый Напротив, деликатная фурнитура LS — это знак логотип может качества. Серебристый металл на дениме считается ограничивать в выборе нейтральным и отлично гармонирует как с украшений",
+        "a": "холодными, так и с теплыми оттенками аксессуаров."
+      },
+      {
+        "q": "Боюсь, что 100% Высококачественный хлопок Luisa Spagnoli обладает хлопок будет неудобен естественной эластичностью и «дышит",
+        "a": "обеспечивая в носке» комфорт в течение всего дня, при этом джинсы не вытягиваются на коленях, сохраняя форму."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الجينز الواسع قد يبدو مترهلاً",
+        "a": "أشيري إلى كثافة الدنيم والمقاس المضبوط في منطقة الخصر. موديل Olla يضبط القوام في الجزء العلوي، مما يسمح للحجم في الأسفل بالعمل على إبراز الديناميكية وليس زيادة الوزن."
+      },
+      {
+        "q": "آثار البلى تبدو كاجوال أكثر من اللازم",
+        "a": "وضح أن تقنية التفتيح في هذا الموديل هي أسلوب تصميمي يندرج تحت."
+      },
+      {
+        "q": "الرفاهية الهادئة",
+        "a": "(Quiet Luxury). استعرضي Look 100: عند تنسيقه مع الجلد والحرير، يبدو هذا الجينز عصرياً وفائق الأناقة."
+      },
+      {
+        "q": "مع ماذا ننسق هذا العرض في البنطال؟",
+        "a": "اقترحي أحذية بنعل سميك أو كعب عريض (مثل أحذية Ulisside). هذا يعظم من تأثير منصات العرض ويمنع ملامسة حافة البنطال للأرض."
+      },
+      {
+        "q": "الشعار الفضي قد يقيدني في اختيار المجوهرات",
+        "a": "على العكس، إكسسوارات LS الرقيقة هي علامة على الجودة. يُعتبر المعدن الفضي على الدنيم محايداً ويتناغم تماماً مع درجات الإكسسوارات الباردة والدافئة."
+      },
+      {
+        "q": "أخشى أن يكون القطن 100% غير مريح في الارتداء",
+        "a": "يتمتع قطن Luisa Spagnoli عالي الجودة بمرونة طبيعية و."
+      },
+      {
+        "q": "يتنفس",
+        "a": "مما يضمن الراحة طوال اليوم، مع عدم تمدد الجينز عند الركبتين، مما يحافظ على شكله."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ფართო ჯინსები შეიძლება",
+        "a": "მიუთითეთ დენიმის სიმკვრივესა და წელის მიდამოში ტომრისებურად გამოიყურებოდეს კარგად მორგებაზე. მოდელი Olla აწესრიგებს ფიგურას ზედა ნაწილში, რაც საშუალებას აძლევს ქვედა ნაწილის მოცულობას იმუშაოს დინამიკაზე და არა ზედმეტ წონაზე."
+      },
+      {
+        "q": "დაძველებები ზედმეტად",
+        "a": "განმარტეთ, რომ ამ მოდელში განათების ტექნიკა — ეს ყოველდღიურად გამოიყურება არის დიზაინერული მიღება."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": ". წარმოადგინეთ Look 100: ტყავთან და აბრეშუმთან კომბინაციაში ასეთი ჯინსები გამოიყურება მოდურად და ძვირფასად."
+      },
+      {
+        "q": "რითი ვატაროთ ასეთი გირჩევთ პლატფორმის ან მდგრადი ქუსლის მქონე სიგანის შარვლები?",
+        "a": "ფეხსაცმელს (მაგალითად, ჩექმები Ulisside). ეს მაქსიმუმს აღწევს პოდიუმის ეფექტის და ხელს უშლის შარვლის კიდის მიწასთან შეხებას."
+      },
+      {
+        "q": "ვერცხლისფერი ლოგო პირიქით, LS-ის დელიკატური ფურნიტურა — ეს ხარისხის შეიძლება ზღუდავდეს ნიშანია. დენიმზე ვერცხლისფერი მეტალი ითვლება სამკაულების არჩევანში",
+        "a": "ნეიტრალურად და შესანიშნავად ჰარმონიზდება როგორც ცივ, ისე თბილი ტონის აქსესუარებთან."
+      },
+      {
+        "q": "მეშინია, რომ 100% Luisa Spagnoli-ს მაღალი ხარისხის ბამბა ფლობს ბამბა არ იქნება კომფორტული ბუნებრივ ელასტიკურობას და «სუნთქავს",
+        "a": "რაც უზრუნველყოფს ტარებისას» კომფორტს მთელი დღის განმავლობაში, ამასთან ჯინსები არ იწელება მუხლებში და ინარჩუნებს ფორმას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Լայն ջինսերը կարող են անփույթ երևալ",
+        "a": "Նշեք դենիմի խտությունը և գոտկատեղի հատվածում հաշվարկված ձևվածքը: Olla մոդելը կարգապահում է մարմնի կազմվածքը վերին հատվածում՝ թույլ տալով ներքևի ծավալին աշխատել դինամիկայի, այլ ոչ թե ավելորդ քաշի վրա."
+      },
+      {
+        "q": "Մաշվածությունը չափազանց առօրյա է երևում",
+        "a": "Պարզաբանեք, որ տվյալ մոդելում բացագույնման տեխնիկան."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "դիզայներական հնարք է: Ցուցադրեք Look 100-ը. կաշվի և մետաքսի հետ համադրությամբ այս ջինսերը թվում են գերնորաձև և թանկարժեք."
+      },
+      {
+        "q": "Ի՞նչով կրել նման լայնությամբ տաբատները",
+        "a": "Առաջարկեք հարթակավոր կամ կայուն կրունկով կոշիկներ (օրինակ՝ Ulisside երկարաճիտ կոշիկներ): Սա առավելագույնի է հասցնում պոդիումային էֆեկտը և կանխում տաբատի եզրի շփումը գետնի հետ."
+      },
+      {
+        "q": "Արծաթագույն լոգոտիպը կարող է սահմանափակել զարդերի ընտրությունը",
+        "a": "Ընդհակառակը, LS-ի նուրբ ֆուրնիտուրան որակի նշան է: Դենիմի վրայի արծաթագույն մետաղը համարվում է չեզոք և հիանալի ներդաշնակվում է ինչպես սառը, այնպես էլ տաք երանգի աքսեսուարների հետ."
+      },
+      {
+        "q": "Վախենում եմ, որ 100% բամբակը կրելիս անհարմար կլինի",
+        "a": "Luisa Spagnoli-ի բարձրորակ բամբակն ունի բնական առաձգականություն և."
+      },
+      {
+        "q": "շնչում է",
+        "a": "՝ ապահովելով հարմարավետություն ողջ օրվա ընթացքում, ընդ որում ջինսերը ծնկների հատվածում չեն ձգվում՝ պահպանելով ձևը."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Plati džinsi var",
+        "a": "Norādiet uz džinsa blīvumu un izsvērtu piegulumu izskatīties maisveidīgi jostasvietas zonā. Olla modelis disciplinē figūru augšdaļā, ļaujot apjomam apakšā strādāt uz dinamiku, nevis uz lieko svaru."
+      },
+      {
+        "q": "Nolietojuma",
+        "a": "Paskaidrojiet, ka balināšanas tehnika šajā modelī — tas pazīmes izskatās ir «Quiet Luxury dizainera paņēmiens. pārāk ikdienišķi» Demonstrējiet Look 100: apvienojumā ar ādu un zīdu šādi džinsi izskatās ļoti moderni un dārgi."
+      },
+      {
+        "q": "Ar ko nēsāt šādu",
+        "a": "Iesakiet apavus uz platformas vai stabila papēža bikšu staru platumu? (piemēram, zābaki Ulisside). Tas maksimizē podija efektu un novērš bikšu malas saskari ar zemi."
+      },
+      {
+        "q": "Sudrabots logotips Pretēji, LS smalkā furnitūra — tā ir kvalitātes var ierobežot zīme. Sudrabots metāls uz džinsa tiek uzskatīts par rotaslietu izvēli",
+        "a": "neitrālu un lieliski harmonē gan ar aukstiem, gan ar siltiem aksesuāru toņiem."
+      },
+      {
+        "q": "Baidos, ka 100% Luisa Spagnoli augstas kvalitātes kokvilnai piemīt kokvilna būs neērta dabiska elastība, un tas «elpo",
+        "a": "nodrošinot komfortu nēsāšanā» visas dienas garumā, turklāt džinsi neizstaipās uz ceļgaliem, saglabājot formu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Plačios džinsinės kelnės gali atrodyti maišingai",
+        "a": "Nurodykite džinso tankį ir išdirbtą prigludimą ties liemeniu. Modelis Olla disciplinuoja figūrą viršutinėje dalyje, leisdamas apimčiai apačioje veikti dinamikai, o ne papildomam svoriui. džinso tankį ir išdirbtą prigludimą ties liemeniu. Modelis Olla disciplinuoja figūrą viršutinėje dalyje, leisdamas apimčiai apačioje veikti dinamikai, o ne papildomam svoriui."
+      },
+      {
+        "q": "„Patrynimai atrodo per daug kasdieniškai",
+        "a": "Paaiškinkite, kad šio modelio šviesinimo technika – tai dizainerių „Quiet Luxury“ priėmimas."
+      },
+      {
+        "q": "– tai dizainerių „Quiet Luxury“ priėmimas.",
+        "a": "Pademonstruokite Look 100: derinyje su oda ir šilku tokie džinsai atrodo madingai ir prabangiai. „Su kuo nešioti tokius plačius klešnių galus?“ Rekomenduokite avalynę su platforma ar stabiliu kulnu (pavyzdžiui, ilgaaulius Ulisside). Tai maksimizuoja podiumo efektą ir apsaugo nuo kelnių krašto kontakto su žeme. „Sidabrinis logotipas gali riboti papuošalų pasirinkimą“ Priešingai, subtili LS furnitūra – tai kokybės ženklas. Sidabrinis metalas ant džinso laikomas neutraliu ir puikiai dera tiek su šaltais, tiek su šiltais aksesuarų atspalviais. „Bijau, kad 100% medvilnė bus nepatogi nešiojant“ Aukščiausios kokybės Luisa Spagnoli medvilnė pasižymi natūraliu elastingumu ir „kvėpuoja“, užtikrindama komfortą visą dieną, kartu džinsai neišsitampo ties keliais, išsaugodami formą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Szerokie jeansy mogą wyglądać workowato",
+        "a": "Wskaż na gęstość denimu i wyważone dopasowanie w okolicy talii. Model Olla dyscyplinuje figurę w górnej części, pozwalając objętości na dole pracować na dynamikę, a nie na zbędne kilogramy."
+      },
+      {
+        "q": "Przetarcia wyglądają zbyt codziennie",
+        "a": "Wyjaśnij, że technika rozjaśniania w tym modelu to designerski zabieg."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": ". Zaprezentuj Look 100: w połączeniu ze skórą i jedwabiem takie jeansy wyglądają modnie i drogo."
+      },
+      {
+        "q": "Z czym nosić taką szerokość nogawek?",
+        "a": "Polecaj obuwie na platformie lub stabilnym obcasie (na przykład kozaki Ulisside). Maksymalizuje to efekt wybiegowy i zapobiega dotykaniu brzegiem spodni ziemi."
+      },
+      {
+        "q": "Srebrzyste logo może ograniczać w wyborze biżuterii",
+        "a": "Przeciwnie, delikatne okucia LS to znak jakości. Srebrzysty metal na denimie uważany jest za neutralny i doskonale współgra zarówno z chłodnymi, jak i ciepłymi odcieniami akcesoriów."
+      },
+      {
+        "q": "Obawiam się, że 100% bawełna będzie niewygodna w noszeniu",
+        "a": "Wysokiej jakości bawełna Luisa Spagnoli posiada naturalną elastyczność i."
+      },
+      {
+        "q": "oddycha",
+        "a": "zapewniając komfort przez cały dzień, przy czym jeansy nie wypychają się na kolanach, zachowując formę."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Широкі джинси",
+        "a": "Вкажіть на щільність деніму та вивірену посадку можуть виглядати в області талії. Модель Olla дисциплінує мішкувато фігуру у верхній частині, дозволяючи об'єму внизу працювати на динаміку, а не на зайву вагу."
+      },
+      {
+        "q": "Потертості",
+        "a": "Поясніть, що техніка висвітлення у цій моделі виглядають занадто — це дизайнерський прийом «Quiet Luxury . повсякденно» Продемонструйте Look 100: у поєднанні зі шкірою та шовком такі джинси виглядають гостромодно і дорого."
+      },
+      {
+        "q": "З чим носити таку Рекомендуйте взуття на платформі або стійкому ширину штанин?",
+        "a": "підборі (наприклад, чоботи Ulisside). Це максимізує подіумний ефект і запобігає зіткненню краю брюк із землею."
+      },
+      {
+        "q": "Сріблястий Навпаки, делікатна фурнітура LS — це знак логотип може якості. Сріблястий метал на денімі вважається обмежувати у виборі нейтральним і відмінно гармоніює як з прикрас",
+        "a": "холодними, так і з теплими відтінками аксесуарів."
+      },
+      {
+        "q": "Боюся, що 100% Високоякісна бавовна Luisa Spagnoli володіє бавовна буде незручна природною еластичністю і «дихає",
+        "a": "забезпечуючи у носінні» комфорт протягом усього дня, при цьому джинси не витягуються на колінах, зберігаючи форму."
+      }
+    ]
+  }
+}

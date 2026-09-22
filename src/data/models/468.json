@@ -1,0 +1,594 @@
+{
+  "id": 468,
+  "name": "Ostiolo",
+  "description": {
+    "en": "The Ostiolo trousers are the embodiment of flawless sartorial mastery and timeless classicism as interpreted by Luisa Spagnoli. The piece is defined by an architecturally precise slim cut (vestibilitÃ slim), which delicately traces the silhouette while preserving discipline of line. The traditional design is underscored by a perfectly pressed crease (piega stirata), creating a powerful vertical line for visually elongated legs. The trousers feature functional French pockets, belt loops, and a classic zip-and-hook closure. This piece is a foundation of the contemporary woman's wardrobe, masterfully balancing status-defining business style with runway-worthy chic.",
+    "ru": "Брюки Ostiolo --- это воплощение безупречного сарториального мастерства и вневременной классики в прочтении Luisa Spagnoli. Модель отличается архитектурно выверенным узким кроем (vestibilità slim), который деликатно очерчивает силуэт, сохраняя строгость линий. Традиционный дизайн подчеркнут идеально заутюженной стрелкой (piega stirata), создающей мощную вертикаль для визуального удлинения ног. Брюки оснащены функциональными французскими карманами, шлевками для ремня и классической застежкой на молнию и крючок. Эта модель --- фундамент гардероба современной женщины, виртуозно балансирующий между статусным деловым стилем и подиумным шиком.",
+    "ar": "بنطال Ostiolo هو تجسيد لمهارة الخياطة الرفيعة والكلاسيكية الخالدة برؤية Luisa Spagnoli. يتميز الموديل بقصة ضيقة مصممة هندسياً (vestibilità slim)، تحدد الصورة الظلية برقة مع الحفاظ على صرامة الخطوط. يبرز التصميم التقليدي بكسرة مكوية مثالية (piega stirata)، مما يخلق خطاً عمودياً قوياً لإطالة الساقين بصرياً. البنطال مجهز بجيوب فرنسية وظيفية، وعراوي للحزام، وإغلاق كلاسيكي بالسحاب والخطاف. هذا الموديل هو حجر الأساس في خزانة الملابس للمرأة العصرية، ويوازن ببراعة بين الأسلوب العملي المرموق وأناقة منصات العرض.",
+    "ka": "შარვალი Ostiolo — ეს არის მკერავის უნაკლო ოსტატობისა და მარადიული კლასიკის განსახიერება Luisa Spagnoli-ს ინტერპრეტაციით. მოდელი გამოირჩევა არქიტექტურულად გათვლილი ვიწრო კროით (vestibilità slim), რომელიც ნაზად შემოწერს სილუეტს, ხაზების სიმკაცრის შენარჩუნებით. ტრადიციული დიზაინი ხაზგასმულია იდეალურად გაუთოებული ისრით (piega stirata), რომელიც ქმნის მძლავრ ვერტიკალს ფეხების ვიზუალური დაგრძელებისთვის. შარვალი აღჭურვილია ფუნქციური ფრანგული ჯიბეებით, ქამრისთვის განკუთვნილი ყულფებით და კლასიკური შესაკრავით ელვაზე და კაუჭზე. ეს მოდელი — თანამედროვე ქალის გარდერობის საფუძველია, რომელიც ვირტუოზულად ბალანსირებს სტატუსურ საქმიან სტილსა და პოდიუმის შიკს შორის.",
+    "hy": "Ostiolo տաբատը Luisa Spagnoli-ի կողմից մեկնաբանված անթերի սարտորիալ վարպետության և հավերժական դասականի մարմնացումն է։ Մոդելն առանձնանում է ճարտարապետորեն հաշվարկված նեղ կտրվածքով (vestibilità slim), որը նրբորեն ընդգծում է ուրվագիծը՝ պահպանելով գծերի խստությունը։ Ավանդական դիզայնն ընդգծված է կատարյալ արդուկված սլաքով (piega stirata), որը ստեղծում է հզոր ուղղահայաց գիծ՝ ոտքերը տեսողականորեն երկարացնելու համար։ Տաբատը հագեցած է ֆրանսիական գրպաններով, գոտու համար նախատեսված անցակներով և շղթայով ու կեռիկով դասական ամրակով։ Այս մոդելը ժամանակակից կնոջ զգեստապահարանի հիմքն է, որը վիրտուոզ կերպով հավասարակշռում է կարգավիճակային գործնական ոճի և պոդիումային շքեղության միջև։",
+    "lv": "Bikses Ostiolo --- tas ir nevainojamas sartoriālās meistarības un mūžīgās klasikas iemiesojums Luisa Spagnoli interpretācijā. Modeli izceļ arhitektoniski izsvērts šaurais piegriezums (vestibilità slim), kas maigi apvelk siluetu, saglabājot līniju stingrību. Tradicionālo dizainu pasvītro ideāli nogludināta vīle (piega stirata), kas rada spēcīgu vertikāli kāju vizuālai pagarināšanai. Bikses ir aprīkotas ar funkcionālām franču kabatām, jostas cilpām un klasisku aizdari ar rāvējslēdzēju un āķīti. Šis modelis --- mūsdienīgas sievietes garderobes pamats, kas virtuozi balansē starp statusa biznesa stilu un mēles šiku.",
+    "lt": "Kelnės Ostiolo --- tai nepriekaištingo sartorinio meistriškumo ir nesenstančios klasikos įsikūnijimas Luisa Spagnoli interpretacijoje. Modelis pasižymi architektiškai išmatuotu siauru kirpimu (vestibilità slim), kuris subtiliai apibrėžia siluetą, išsaugodamas linijų griežtumą. Tradicinį dizainą pabrėžia idealiai išlyginta skersinė klostė (piega stirata), kurianti galingą vertikalę vizualiam kojų ilginimui. Kelnės turi funkcionalias prancūziško stiliaus kišenes, diržo kilpas ir klasikinį užsegimą užtrauktuku bei kabliuku. Šis modelis --- tai šiuolaikinės moters garderobo pagrindas, meistriškai balansuojantis tarp statuso reikalaujančio verslo stiliaus ir podiumo prašmatnumo.",
+    "pl": "Spodnie Ostiolo --- to ucieleśnienie nienagannego krawieckiego mistrzostwa i ponadczasowej klasyki w interpretacji Luisa Spagnoli. Model wyróżnia się architektonicznie wyważonym wąskim krojem (vestibilità slim), który delikatnie podkreśla sylwetkę, zachowując surowość linii. Tradycyjny design podkreślono idealnie zaprasowanym kancem (piega stirata), tworzącym mocną linię pionową dla optycznego wydłużenia nóg. Spodnie wyposażono w funkcjonalne francuskie kieszenie, szlufki na pasek oraz klasyczne zapięcie na zamek i haftkę. Ten model --- to fundament garderoby nowoczesnej kobiety, wirtuozersko balansujący między prestiżowym stylem biznesowym a wybiegowym szykiem.",
+    "uk": "Брюки Ostiolo --- це втілення бездоганної сарторіальної майстерності та позачасової класики в прочитанні Luisa Spagnoli. Модель відрізняється архітектурно вивіреним вузьким кроєм (vestibilità slim), який делікатно окреслює силует, зберігаючи строгість ліній. Традиційний дизайн підкреслений ідеально запрасованою стрілкою (piega stirata), що створює потужну вертикаль для візуального подовження ніг. Брюки оснащені функціональними французькими кишенями, шльовками для ременя та класичною застібкою на блискавку і гачок. Ця модель --- фундамент гардероба сучасної жінки, що віртуозно балансує між статусним діловим стилем і подіумним шиком."
+  },
+  "colors": [
+    {
+      "name": "Melanzana",
+      "code": "0733",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/212434150691c57c6790734_66577885_02780330XX1.jpg"
+    },
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1281132529691c5785e00d35_92819205_02780090XX1.jpg"
+    },
+    {
+      "name": "Verde Bottiglia",
+      "code": "2046",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/564070198691c578643a479_28272705_02780100XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать Ostiolo как часть безупречного костюма-двойки или в сложных многослойных образах: Вариант 2046 ( Фиолетовый): Look 78: идеальный костюмный ансамбль с двубортным жакетом Serafica 2046 и шелковой блузой Lisella 4614.",
+        "en": "The brand's stylists suggest using Ostiolo as part of an impeccable two-piece suit or in sophisticated layered looks: Variant 2046 ( Violet): Look 78: an ideal suit ensemble with the Serafica 2046 double-breasted jacket and the Lisella 4614 silk blouse.",
+        "ar": "The brand's stylists suggest using Ostiolo as part of an impeccable two-piece suit or in sophisticated layered looks: Variant 2046 ( Violet): Look 78: an ideal suit ensemble with the Serafica 2046 double-breasted jacket and the Lisella 4614 silk blouse.",
+        "ka": "The brand's stylists suggest using Ostiolo as part of an impeccable two-piece suit or in sophisticated layered looks: Variant 2046 ( Violet): Look 78: an ideal suit ensemble with the Serafica 2046 double-breasted jacket and the Lisella 4614 silk blouse.",
+        "hy": "The brand's stylists suggest using Ostiolo as part of an impeccable two-piece suit or in sophisticated layered looks: Variant 2046 ( Violet): Look 78: an ideal suit ensemble with the Serafica 2046 double-breasted jacket and the Lisella 4614 silk blouse.",
+        "lv": "The brand's stylists suggest using Ostiolo as part of an impeccable two-piece suit or in sophisticated layered looks: Variant 2046 ( Violet): Look 78: an ideal suit ensemble with the Serafica 2046 double-breasted jacket and the Lisella 4614 silk blouse.",
+        "lt": "The brand's stylists suggest using Ostiolo as part of an impeccable two-piece suit or in sophisticated layered looks: Variant 2046 ( Violet): Look 78: an ideal suit ensemble with the Serafica 2046 double-breasted jacket and the Lisella 4614 silk blouse.",
+        "pl": "The brand's stylists suggest using Ostiolo as part of an impeccable two-piece suit or in sophisticated layered looks: Variant 2046 ( Violet): Look 78: an ideal suit ensemble with the Serafica 2046 double-breasted jacket and the Lisella 4614 silk blouse.",
+        "uk": "The brand's stylists suggest using Ostiolo as part of an impeccable two-piece suit or in sophisticated layered looks: Variant 2046 ( Violet): Look 78: an ideal suit ensemble with the Serafica 2046 double-breasted jacket and the Lisella 4614 silk blouse."
+      },
+      "items": [
+        {
+          "name": "Serafica",
+          "code": "2046",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/220670995691f1564c8d998_07274629_02780540XX1.jpg",
+          "modelId": 482
+        },
+        {
+          "name": "Lisella",
+          "code": "4614",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1485719605691c57c5803bf2_13495966_02780310XX1.jpg",
+          "modelId": 419
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 38 (Bambola 1)",
+        "en": "Vetrina 38 (Bambola 1)",
+        "ar": "Vetrina 38 (Bambola 1)",
+        "ka": "Vetrina 38 (Bambola 1)",
+        "hy": "Vetrina 38 (Bambola 1)",
+        "lv": "Vetrina 38 (Bambola 1)",
+        "lt": "Vetrina 38 (Bambola 1)",
+        "pl": "Vetrina 38 (Bambola 1)",
+        "uk": "Vetrina 38 (Bambola 1)"
+      },
+      "text": {
+        "ru": "статусный зимний выход под пальто Stenografo 2716 в паре с трикотажной туникой Mascate 2050 и шляпой Renno 0930.",
+        "en": "a high-status winter outfit under the Stenografo 2716 coat paired with the Mascate 2050 knit tunic and the Renno 0930 hat.",
+        "ar": "a high-status winter outfit under the Stenografo 2716 coat paired with the Mascate 2050 knit tunic and the Renno 0930 hat.",
+        "ka": "a high-status winter outfit under the Stenografo 2716 coat paired with the Mascate 2050 knit tunic and the Renno 0930 hat.",
+        "hy": "a high-status winter outfit under the Stenografo 2716 coat paired with the Mascate 2050 knit tunic and the Renno 0930 hat.",
+        "lv": "a high-status winter outfit under the Stenografo 2716 coat paired with the Mascate 2050 knit tunic and the Renno 0930 hat.",
+        "lt": "a high-status winter outfit under the Stenografo 2716 coat paired with the Mascate 2050 knit tunic and the Renno 0930 hat.",
+        "pl": "a high-status winter outfit under the Stenografo 2716 coat paired with the Mascate 2050 knit tunic and the Renno 0930 hat.",
+        "uk": "a high-status winter outfit under the Stenografo 2716 coat paired with the Mascate 2050 knit tunic and the Renno 0930 hat."
+      },
+      "items": [
+        {
+          "name": "Stenografo",
+          "code": "2716",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1584374153691c57c8052430_51905956_02780380XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Mascate",
+          "code": "2050",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39848814691c579160a923_62691960_02790080XX1.jpg",
+          "modelId": 436
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 39 (Bambola 1)",
+        "en": "Vetrina 39 (Bambola 1)",
+        "ar": "Vetrina 39 (Bambola 1)",
+        "ka": "Vetrina 39 (Bambola 1)",
+        "hy": "Vetrina 39 (Bambola 1)",
+        "lv": "Vetrina 39 (Bambola 1)",
+        "lt": "Vetrina 39 (Bambola 1)",
+        "pl": "Vetrina 39 (Bambola 1)",
+        "uk": "Vetrina 39 (Bambola 1)"
+      },
+      "text": {
+        "ru": "динамичный городской сет с кожаной курткой Stelle 0919 и жакетом Serafica 2046. Вариант 0733 ( Горчичный):",
+        "en": "a dynamic urban set with the Stelle 0919 leather jacket and the Serafica 2046 jacket. Variant 0733 ( Mustard):",
+        "ar": "a dynamic urban set with the Stelle 0919 leather jacket and the Serafica 2046 jacket. Variant 0733 ( Mustard):",
+        "ka": "a dynamic urban set with the Stelle 0919 leather jacket and the Serafica 2046 jacket. Variant 0733 ( Mustard):",
+        "hy": "a dynamic urban set with the Stelle 0919 leather jacket and the Serafica 2046 jacket. Variant 0733 ( Mustard):",
+        "lv": "a dynamic urban set with the Stelle 0919 leather jacket and the Serafica 2046 jacket. Variant 0733 ( Mustard):",
+        "lt": "a dynamic urban set with the Stelle 0919 leather jacket and the Serafica 2046 jacket. Variant 0733 ( Mustard):",
+        "pl": "a dynamic urban set with the Stelle 0919 leather jacket and the Serafica 2046 jacket. Variant 0733 ( Mustard):",
+        "uk": "a dynamic urban set with the Stelle 0919 leather jacket and the Serafica 2046 jacket. Variant 0733 ( Mustard):"
+      },
+      "items": [
+        {
+          "name": "Stelle",
+          "code": "0919",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/v0SMZo0VQaKGpkN_-N_65w_698883230696f42feb83970_50231303_02821190XX1.jpg"
+        },
+        {
+          "name": "Serafica",
+          "code": "2046",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/220670995691f1564c8d998_07274629_02780540XX1.jpg",
+          "modelId": 482
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 85",
+        "en": "Look 85",
+        "ar": "Look 85",
+        "ka": "Look 85",
+        "hy": "Look 85",
+        "lv": "Look 85",
+        "lt": "Look 85",
+        "pl": "Look 85",
+        "uk": "Look 85"
+      },
+      "text": {
+        "ru": "выразительный монохромный сет с жакетом в тон Serafica 0733 и блузой Lisella 4618.",
+        "en": "an expressive monochrome set with a matching Serafica 0733 jacket and the Lisella 4618 blouse.",
+        "ar": "an expressive monochrome set with a matching Serafica 0733 jacket and the Lisella 4618 blouse.",
+        "ka": "an expressive monochrome set with a matching Serafica 0733 jacket and the Lisella 4618 blouse.",
+        "hy": "an expressive monochrome set with a matching Serafica 0733 jacket and the Lisella 4618 blouse.",
+        "lv": "an expressive monochrome set with a matching Serafica 0733 jacket and the Lisella 4618 blouse.",
+        "lt": "an expressive monochrome set with a matching Serafica 0733 jacket and the Lisella 4618 blouse.",
+        "pl": "an expressive monochrome set with a matching Serafica 0733 jacket and the Lisella 4618 blouse.",
+        "uk": "an expressive monochrome set with a matching Serafica 0733 jacket and the Lisella 4618 blouse."
+      },
+      "items": [
+        {
+          "name": "Serafica",
+          "code": "0733",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/607627786691f15652daa90_90514398_02780550XX1.jpg",
+          "modelId": 482
+        },
+        {
+          "name": "Lisella",
+          "code": "4618",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/69418737691c57c4e42b85_83034833_02780300XX1.jpg",
+          "modelId": 419
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 74 (Bambola 1)",
+        "en": "Vetrina 74 (Bambola 1)",
+        "ar": "Vetrina 74 (Bambola 1)",
+        "ka": "Vetrina 74 (Bambola 1)",
+        "hy": "Vetrina 74 (Bambola 1)",
+        "lv": "Vetrina 74 (Bambola 1)",
+        "lt": "Vetrina 74 (Bambola 1)",
+        "pl": "Vetrina 74 (Bambola 1)",
+        "uk": "Vetrina 74 (Bambola 1)"
+      },
+      "text": {
+        "ru": "элегантная многослойность под классическим пальто Salottino 0916 с жакетом Serafica 0733 и рубашкой Lindas 0202 0202. Вариант 0101 ( Черный):",
+        "en": "elegant layering under the classic Salottino 0916 coat with the Serafica 0733 jacket and the Lindas 0202 0202 shirt. Variant 0101 ( Black):",
+        "ar": "elegant layering under the classic Salottino 0916 coat with the Serafica 0733 jacket and the Lindas 0202 0202 shirt. Variant 0101 ( Black):",
+        "ka": "elegant layering under the classic Salottino 0916 coat with the Serafica 0733 jacket and the Lindas 0202 0202 shirt. Variant 0101 ( Black):",
+        "hy": "elegant layering under the classic Salottino 0916 coat with the Serafica 0733 jacket and the Lindas 0202 0202 shirt. Variant 0101 ( Black):",
+        "lv": "elegant layering under the classic Salottino 0916 coat with the Serafica 0733 jacket and the Lindas 0202 0202 shirt. Variant 0101 ( Black):",
+        "lt": "elegant layering under the classic Salottino 0916 coat with the Serafica 0733 jacket and the Lindas 0202 0202 shirt. Variant 0101 ( Black):",
+        "pl": "elegant layering under the classic Salottino 0916 coat with the Serafica 0733 jacket and the Lindas 0202 0202 shirt. Variant 0101 ( Black):",
+        "uk": "elegant layering under the classic Salottino 0916 coat with the Serafica 0733 jacket and the Lindas 0202 0202 shirt. Variant 0101 ( Black):"
+      },
+      "items": [
+        {
+          "name": "Salottino",
+          "code": "0916",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VqxAzOL8QAGWP0QqgMeEIw_563511883696f42f017b3c2_69472272_02820840XX1.jpg",
+          "modelId": 293
+        },
+        {
+          "name": "Serafica",
+          "code": "0733",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/607627786691f15652daa90_90514398_02780550XX1.jpg",
+          "modelId": 482
+        },
+        {
+          "name": "Lindas",
+          "code": "0202 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/957906673691f15644561f7_84414523_02780530XX1.jpg",
+          "modelId": 417
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 132",
+        "en": "Look 132",
+        "ar": "Look 132",
+        "ka": "Look 132",
+        "hy": "Look 132",
+        "lv": "Look 132",
+        "lt": "Look 132",
+        "pl": "Look 132",
+        "uk": "Look 132"
+      },
+      "text": {
+        "ru": "вечерний образ с жакетом Serafica 0101 и кружевным топом Lisiana 0202 0101.",
+        "en": "an evening look with the Serafica 0101 jacket and the Lisiana 0202 0101 lace top.",
+        "ar": "an evening look with the Serafica 0101 jacket and the Lisiana 0202 0101 lace top.",
+        "ka": "an evening look with the Serafica 0101 jacket and the Lisiana 0202 0101 lace top.",
+        "hy": "an evening look with the Serafica 0101 jacket and the Lisiana 0202 0101 lace top.",
+        "lv": "an evening look with the Serafica 0101 jacket and the Lisiana 0202 0101 lace top.",
+        "lt": "an evening look with the Serafica 0101 jacket and the Lisiana 0202 0101 lace top.",
+        "pl": "an evening look with the Serafica 0101 jacket and the Lisiana 0202 0101 lace top.",
+        "uk": "an evening look with the Serafica 0101 jacket and the Lisiana 0202 0101 lace top."
+      },
+      "items": [
+        {
+          "name": "Serafica",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/838290756691f15659973f8_28663137_02780560XX1.jpg",
+          "modelId": 482
+        },
+        {
+          "name": "Lisiana",
+          "code": "0202 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2011163024691f15627d28c4_95648135_02780510XX1.jpg",
+          "modelId": 420
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 63 (Bambola 1)",
+        "en": "Vetrina 63 (Bambola 1)",
+        "ar": "Vetrina 63 (Bambola 1)",
+        "ka": "Vetrina 63 (Bambola 1)",
+        "hy": "Vetrina 63 (Bambola 1)",
+        "lv": "Vetrina 63 (Bambola 1)",
+        "lt": "Vetrina 63 (Bambola 1)",
+        "pl": "Vetrina 63 (Bambola 1)",
+        "uk": "Vetrina 63 (Bambola 1)"
+      },
+      "text": {
+        "ru": "строгий деловой выход с жакетом Serafica 0101 и рубашкой Latteria 0356.",
+        "en": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "ar": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "ka": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "hy": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "lv": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "lt": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "pl": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "uk": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt."
+      },
+      "items": [
+        {
+          "name": "Serafica",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/838290756691f15659973f8_28663137_02780560XX1.jpg",
+          "modelId": 482
+        },
+        {
+          "name": "Latteria",
+          "code": "0356",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3Mx2ef25TdugVXg2-i0IIg_1643286833696f42dfd5b5f6_19897444_02820400XX1.jpg",
+          "modelId": 101
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 63 (Bambola 1)",
+        "en": "Vetrina 63 (Bambola 1)",
+        "ar": "Vetrina 63 (Bambola 1)",
+        "ka": "Vetrina 63 (Bambola 1)",
+        "hy": "Vetrina 63 (Bambola 1)",
+        "lv": "Vetrina 63 (Bambola 1)",
+        "lt": "Vetrina 63 (Bambola 1)",
+        "pl": "Vetrina 63 (Bambola 1)",
+        "uk": "Vetrina 63 (Bambola 1)"
+      },
+      "text": {
+        "ru": "строгий деловой выход с жакетом Serafica 0101 и рубашкой Latteria 0356.",
+        "en": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "ar": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "ka": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "hy": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "lv": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "lt": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "pl": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt.",
+        "uk": "a strict business outfit with the Serafica 0101 jacket and the Latteria 0356 shirt."
+      },
+      "items": [
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Serafica",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/838290756691f15659973f8_28663137_02780560XX1.jpg",
+          "modelId": 482
+        },
+        {
+          "name": "Luogo",
+          "code": "0101",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- Mastery of the vertical line: Direct the client's attention to the combination of the slim cut and pressed crease. This combination masterfully elongates the silhouette, adding height and composure, making the model ideal for any figure type. - The powe"
+    ],
+    "ru": [
+      "- Мастерство вертикали: Акцентируйте внимание клиента на сочетании кроя slim и заутюженной стрелки. Эта комбинация виртуозно вытягивает силуэт, добавляя роста и статичности, что делает модель идеальной для любого типа фигуры. - Сила цвета: Предложите отте"
+    ],
+    "ar": [
+      "- براعة الخط العمودي: ركزي انتباه العميل على دمج قصة «سليم» (slim) مع الكسرة المكوية. هذا المزيج يطيل القوام ببراعة ويضيف طولاً وتوازناً، مما يجعل هذا الموديل مثالياً لأي نوع من القوام. - قوة اللون: اقترحي درجتي 2046 أو 0733 كبديل للون الأسود. تعمل هذه ال"
+    ],
+    "ka": [
+      "- ვერტიკალის ოსტატობა: გაამახვილეთ კლიენტის ყურადღება slim-ის ჭრილისა და დაუთოებული ისრის კომბინაციაზე. ეს შეხამება ვირტუოზულად ჭიმავს სილუეტს, მატებს სიმაღლეს და სტატიკურობას, რაც მოდელს იდეალურს ხდის ნებისმიერი ტიპის ფიგურისთვის. - ფერის ძალა: შესთავაზე"
+    ],
+    "hy": [
+      "- Ուղղահայացի վարպետություն. Հաճախորդի ուշադրությունը հրավիրեք slim ձևվածքի և արդուկված սլաքի համադրության վրա: Այս համակցությունը վիրտուոզ կերպով երկարացնում է սիլուետը՝ ավելացնելով հասակ և կայունություն, ինչը մոդելը դարձնում է իդեալական ցանկացած տիպի կա"
+    ],
+    "lv": [
+      "- Vertikāles meistarība: Akcentējiet klienta uzmanību uz slim piegriezuma un ielocītās bultiņas savienojumu. Šī kombinācija virtuozi izstiepj siluetu, piešķirot augumu un statiskumu, kas padara modeli ideālu jebkura tipa figūrai. - Krāsas spēks: Piedāvāji"
+    ],
+    "lt": [
+      "- Vertikalės meistriškumas: akcentuokite kliento dėmesį į slim kirpimo ir užlygintos kantų linijos derinį. Ši kombinacija meistriškai ištęsia siluetą, suteikdama ūgio ir grakštumo, todėl modelis yra idealus bet kokio tipo figūrai. - Spalvos galia: pasiūlykite 2046 arba 0733 atspalvius kaip alternatyvą juodai spalvai. Šios spalvos FW 26 kolekcijoje veikia kaip „naujasis pagrindas“, leidžiantis kurti intelektualius ir įsimintinus įvaizdžius neperžengiant aprangos kodo ribų. - Funkcionalus elegantiškumas: pabrėžkite klasikinio liemens su diržu ir prancūziškomis kišenėmis patogumą. Ostiolo kelnės idealiai priglunda prie figūros, užtikrindamos lygią klubų liniją po Serafica serijos švarkais."
+    ],
+    "pl": [
+      "- Mistrzostwo wertykalności: Zwróć uwagę klientki na połączenie kroju slim i zaprasowanego kantu. Ta kombinacja wirtuozersko wydłuża sylwetkę, dodając wzrostu i posągowości, co czyni model idealnym dla każdego typu figury. - Siła koloru: Zaproponuj odcien"
+    ],
+    "uk": [
+      "- Майстерність вертикалі: Акцентуйте увагу клієнта на поєднанні крою slim та запрасованої стрілки. Ця комбінація віртуозно витягує силует, додаючи зросту та статичності, що робить модель ідеальною для будь-якого типу фігури. - Сила кольору: Запропонуйте в"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The double-breasted cut will add volume.",
+        "a": "On the Serafica model, the diagonal overlap and the V-shaped opening at the hem create strong vertical lines that, in fact, discipline and elongate the silhouette. |"
+      },
+      {
+        "q": "The jacket looks too severe.",
+        "a": "See the styling in Look 132: paired with the delicate lace Lisiana top, the jacket's severity transforms into refined sensuality and evening chic. |"
+      },
+      {
+        "q": "I'm concerned structured shoulders will look harsh.",
+        "a": "A clean shoulder line is the foundation of correct posture and balanced proportions. On this piece, the shoulders simply frame the figure, underscoring its delicacy. |"
+      },
+      {
+        "q": "Mustard is difficult to pair.",
+        "a": "On the contrary, see Display Case 74: this shade (0733) pairs beautifully with light-toned blouses and a classic beige coat, serving as a noble accent. |"
+      },
+      {
+        "q": "Welt pockets feel impractical.",
+        "a": "The a filetto pockets are specifically chosen to preserve the purity of the architectural lines. They are functional yet lie perfectly flat, maintaining the jacket's flawless smoothness."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Slim Fit может Лекала Luisa Spagnoli разработаны для комфортной быть слишком посадки. Крой slim здесь означает «аккуратное облегающим",
+        "a": "прилегание», которое дисциплинирует фигуру, не сковывая движений."
+      },
+      {
+        "q": "У меня уже Модель Ostiolo выделяется своей сарториальной много классических чистотой. Отсутствие лишних деталей и наличие брюк",
+        "a": "безупречной стрелки делают её эталоном."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "."
+      },
+      {
+        "q": "Яркие цвета Напротив, эти оттенки — ключевые акценты сезона. (2046/0733) сложно Они великолепно гармонируют с молочными, серыми и сочетать",
+        "a": "черными тонами, представленными в нашей коллекции аксессуаров."
+      },
+      {
+        "q": "Стрелки требуют Высококачественная шерстяная группа бренда отлично постоянного держит форму. Стрелка зафиксирована по стандартам ухода",
+        "a": "высокого тейлоринга, что облегчает уход за изделием."
+      },
+      {
+        "q": "Эта модель",
+        "a": "Продемонстрируйте Vetrina 39: в сочетании с кожаной выглядит слишком курткой Stelle 0919 классические брюки официально Ostiolo мгновенно приобретают современный и дерзкий характер."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يكون Slim Fit ضيقاً جداً",
+        "a": "تم تصميم قوالب Luisa Spagnoli لمقاس مريح. قصة الـ Slim هنا تعني."
+      },
+      {
+        "q": "ملاءمة أنيقة",
+        "a": "تضبط القوام دون تقييد الحركة."
+      },
+      {
+        "q": "لدي بالفعل العديد من السراويل الكلاسيكية",
+        "a": "يتميز موديل Ostiolo بنقائه الحِرفي. غياب التفاصيل الزائدة ووجود كسرة لا تشوبها شائبة تجعله معياراً للفخامة الهادئة (Quiet Luxury)."
+      },
+      {
+        "q": "الألوان الزاهية (2046/0733) يصعب تنسيقها",
+        "a": "على العكس، هذه الألوان هي عناصر أساسية لهذا الموسم. إنها تتناغم بشكل رائع مع درجات الحليبي، والرمادي، والأسود الموجودة في مجموعتنا من الإكسسوارات."
+      },
+      {
+        "q": "الكسرات تتطلب عناية مستمرة",
+        "a": "مجموعة الصوف عالية الجودة من العلامة التجارية تحافظ على شكلها بامتياز. الكسرة مثبتة وفقاً لمعايير الخياطة الرفيعة، مما يسهل العناية بالقطعة."
+      },
+      {
+        "q": "هذا الموديل يبدو رسمياً جداً",
+        "a": "استعرضي موديل Vetrina 39: عند تنسيقه مع سترة جلدية Stelle 0919، تكتسب سراويل Ostiolo الكلاسيكية طابعاً عصرياً وجريئاً في لحظة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "Slim Fit შეიძლება Luisa Spagnoli-ს ლეკალები შექმნილია კომფორტული ძალიან მჭიდროდ გამოიყურებოდეს",
+        "a": "მორგებისთვის. slim აქ ნიშნავს."
+      },
+      {
+        "q": "მოხდენილ მორგებას",
+        "a": "რომელიც აწესრიგებს სილუეტს, მოძრაობის შეზღუდვის გარეშე."
+      },
+      {
+        "q": "მე უკვე ბევრი კლასიკური მოდელი Ostiolo გამოირჩევა თავისი სარტორიული შარვალი მაქვს",
+        "a": "სიწმინდით. ზედმეტი დეტალების არარსებობა და უნაკლო ისარი მას."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "-ის ეტალონად აქცევს."
+      },
+      {
+        "q": "კაშკაშა ფერების პირიქით, ეს ტონები — სეზონის საკვანძო (2046/0733) შეხამება აქცენტებია. ისინი შესანიშნავად ჰარმონიზდება რთულია",
+        "a": "რძისფერ, ნაცრისფერ და შავ ტონებთან, რომლებიც წარმოდგენილია ჩვენი აქსესუარების კოლექციაში."
+      },
+      {
+        "q": "ისრები მუდმივ მოვლას ბრენდის მაღალხარისხიანი მატყლის ჯგუფი შესანიშნავად ითხოვს",
+        "a": "ინარჩუნებს ფორმას. ისარი დაფიქსირებულია მაღალი ტეილორინგის სტანდარტებით, რაც აადვილებს ნაკეთობის მოვლას."
+      },
+      {
+        "q": "ეს მოდელი ზედმეტად",
+        "a": "აჩვენეთ Vetrina 39: ტყავის ქურთუკთან Stelle 0919 ოფიციალურად გამოიყურება შეხამებისას კლასიკური შარვალი Ostiolo მყისიერად იძენს თანამედროვე და გაბედულ ხასიათს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Slim Fit-ը կարող է շատ Luisa Spagnoli-ի լեկալները մշակված են հարմարավետ նստվածքի համար։ Slim կտրվածքն այստեղ նշանակում է «կոկիկ գրկող",
+        "a": "որը կարգավորում է կազմվածքը՝ չկաշկանդելով շարժումները։ կիպ լինել."
+      },
+      {
+        "q": "Ես արդեն շատ դասական Ostiolo մոդելն առանձնանում է իր սարտորիալ մաքրությամբ։ Ավելորդ դետալների բացակայությունը և անթերի սլաքների առկայությունը այն դարձնում են «Quiet Luxury",
+        "a": "-ի չափանիշ։ տաբատներ ունեմ."
+      },
+      {
+        "q": "Այս մոդելը շատ պաշտոնական",
+        "a": "Ցույց տվեք Vetrina 39-ը. կաշվե Stelle 0919 բաճկոնի հետ համադրությամբ դասական Ostiolo տաբատները ակնթարթորեն ձեռք են բերում ժամանակակից և համարձակ բնույթ։ է թվում."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Slim Fit var būt pārāk cieši pieguļošs",
+        "a": "Luisa Spagnoli piegrieztnes ir izstrādātas komfortablam piegulumam. Slim piegriezums šeit nozīmē."
+      },
+      {
+        "q": "kārtīgu piegulumu",
+        "a": "kas disciplinē figūru, neierobežojot kustības."
+      },
+      {
+        "q": "Man jau ir daudz klasisku bikšu",
+        "a": "Modelis Ostiolo izceļas ar savu sartoriālo tīrību. Lieku detaļu trūkums un nevainojama vīle padara tās par."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "etalonu."
+      },
+      {
+        "q": "Spilgtas krāsas (2046/0733) ir grūti kombinēt",
+        "a": "Gluži pretēji, šie toņi — ir sezonas galvenie akcenti. Tie lieliski harmonē ar piena, pelēkiem un melniem toņiem, kas prezentēti mūsu aksesuāru kolekcijā."
+      },
+      {
+        "q": "Vīles prasa pastāvīgu kopšanu",
+        "a": "Augstas kvalitātes zīmola vilnas grupa lieliski saglabā formu. Vīle ir fiksēta pēc augstās šūšanas standartiem, kas atvieglo izstrādājuma kopšanu."
+      },
+      {
+        "q": "Šis modelis izskatās pārāk oficiāli",
+        "a": "Demonstrējiet Vetrina 39: kombinācijā ar ādas jaku Stelle 0919 klasiskās bikses Ostiolo acumirklī iegūst mūsdienīgu un drosmīgu raksturu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikti: „Slim Fit gali būti per daug prigludęs“ – Luisa Spagnoli lekalai sukurti patogiam dėvėjimui. Kirpimas slim čia reiškia „tvarkingą prigludimą“, kuris drausmina figūrą nevaržydamas judesių. „Jau turiu daug klasikinių kelnių“ – Modelis Ostiolo išsiskiria savo siuvimo švara. Detalių gausos nebuvimas ir nepriekaištinga kantuotė daro jas „Quiet Luxury“ etalonu. „Ryškias spalvas (2046/0733) sunku derinti“ – Priešingai, šie atspalviai – pagrindiniai sezono akcentai. Jie puikiai dera su pieno, pilkais ir juodais tonais, pristatytais mūsų aksesuarų kolekcijoje. „Kantams reikia nuolatinės priežiūros“ – Aukštos kokybės vilnos grupė puikiai išlaiko formą. Kantuotė užfiksuota pagal aukštojo siuvimo standartus, kas palengvina gaminio priežiūrą. „Šis modelis atrodo per daug oficialiai“ –",
+        "a": "Pademonstruokite Vetrina 39: derinant su odine striuke Stelle 0919, klasikinės kelnės Ostiolo akimirksniu įgauna šiuolaikišką ir drąsų charakterį."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Slim Fit może być zbyt obcisły",
+        "a": "Kroje Luisa Spagnoli zostały opracowane z myślą o komfortowym dopasowaniu. Krój slim oznacza tutaj."
+      },
+      {
+        "q": "schludne przyleganie",
+        "a": "które dyscyplinuje sylwetkę, nie krępując ruchów."
+      },
+      {
+        "q": "Mam już wiele klasycznych spodni",
+        "a": "Model Ostiolo wyróżnia się swoją sartorialną czystością. Brak zbędnych detali i obecność nieskazitelnego zaprasowania czynią go wzorem."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "."
+      },
+      {
+        "q": "Jasne kolory (2046/0733) są trudne do łączenia",
+        "a": "Przeciwnie, te odcienie to kluczowe akcenty sezonu. Wspaniale harmonizują z mlecznymi, szarymi i czarnymi tonami, prezentowanymi w naszej kolekcji akcesoriów."
+      },
+      {
+        "q": "Zaprasowanie wymaga ciągłej pielęgnacji",
+        "a": "Wysokiej jakości grupa wełniana marki doskonale trzyma formę. Zaprasowanie jest utrwalone zgodnie ze standardami wysokiego krawiectwa, co ułatwia pielęgnację wyrobu."
+      },
+      {
+        "q": "Ten model wygląda zbyt oficjalnie",
+        "a": "Zaprezentuj Vetrina 39: w połączeniu ze skórzaną kurtką Stelle 0919 klasyczne spodnie Ostiolo błyskawicznie nabierają nowoczesnego i odważnego charakteru."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Slim Fit може Лекала Luisa Spagnoli розроблені для комфортної бути занадто посадки. Крій slim тут означає «акуратне облягаючим",
+        "a": "прилягання», яке дисциплінує фігуру, не обмежуючи рухів."
+      },
+      {
+        "q": "У мене вже Модель Ostiolo виділяється своєю сарторіальною багато класичних чистотою. Відсутність зайвих деталей і наявність брюк",
+        "a": "бездоганної стрілки роблять її еталоном."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "."
+      },
+      {
+        "q": "Яскраві кольори Навпаки, ці відтінки — ключові акценти сезону. (2046/0733) важко Вони чудово гармоніюють з молочними, сірими та поєднувати",
+        "a": "чорними тонами, представленими в нашій колекції аксесуарів."
+      },
+      {
+        "q": "Стрілки вимагають Високоякісна вовняна група бренду чудово постійного тримає форму. Стрілка зафіксована за стандартами догляду",
+        "a": "високого тейлорингу, що полегшує догляд за виробом."
+      },
+      {
+        "q": "Ця модель",
+        "a": "Продемонструйте Vetrina 39: у поєднанні зі шкіряною виглядає занадто курткою Stelle 0919 класичні штани офіційно Ostiolo миттєво набувають сучасного та зухвалого характеру."
+      }
+    ]
+  }
+}

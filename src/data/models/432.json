@@ -1,0 +1,368 @@
+{
+  "id": 432,
+  "name": "Mamas",
+  "description": {
+    "en": "The Mamas 0101 jacket is the embodiment of contemporary luxury and a jewelry-inspired approach to knitwear, characteristic of the Luisa Spagnoli aesthetic. The cropped piece is crafted from an exquisite wool-blend bouclÃ©, whose rich texture is underscored by delicate mohair trim. The principal stylistic accent is filigree silver-tone metal chain finishing along the front edges and hem of the piece, which transforms the jacket into a standalone adornment. A construction with open cuff slits and a concealed hook closure ensures flawless purity of line and a contemporary Regular fit. This jacket is the perfect balance between classic French chic and dynamic Italian temperament.",
+    "ru": "Жакет Mamas 0101 --- это воплощение современной роскоши и ювелирного подхода к трикотажу, характерных для эстетики Luisa Spagnoli. Укороченная модель (cropped) выполнена из изысканной смесовой шерсти букле, чья богатая фактура подчеркнута деликатной отделкой из мохера. Главным стилистическим акцентом выступает филигранная отделка серебристой металлической цепью вдоль бортов и краев изделия, которая превращает жакет в самостоятельное украшение. Конструкция с открытыми разрезами на манжетах и скрытой застежкой на крючках обеспечивает безупречную чистоту линий и современную «регулярную посадку» (vestibilità regular). Этот жакет --- идеальный баланс между классическим французским шиком и динамичным итальянским темпераментом.",
+    "ar": "تعد سترة Mamas 0101 تجسيداً للفخامة المعاصرة والنهج الجوهري في الحياكة الذي يميز جماليات Luisa Spagnoli. هذا التصميم القصير (cropped) مصنوع من صوف البوكلي المخلوط الفاخر، حيث تبرز ملمسه الغني لمسات دقيقة من الموهير. وتتمثل اللمسة الأنيقة الأساسية في الحواف المزينة بسلسلة معدنية فضية على طول أطراف القطعة، مما يحول السترة إلى قطعة مجوهرات بحد ذاتها. يضمن التصميم ذو الفتحات المكشوفة عند الأكمام والإغلاق المخفي بالمشابك نقاءً مثالياً للخطوط ومقاساً عصرياً منتظماً (vestibilità regular). هذه السترة تمثل توازناً مثالياً بين الأناقة الفرنسية الكلاسيكية والمزاج الإيطالي الديناميكي.",
+    "ka": "ჟაკეტი Mamas 0101 --- ეს არის თანამედროვე ფუფუნებისა და ტრიკოტაჟისადმი საიუველირო მიდგომის განსახიერება, რაც Luisa Spagnoli-ის ესთეტიკისთვისაა დამახასიათებელი. შემოკლებული მოდელი (cropped) დამზადებულია დახვეწილი ბუკლეს შერეული მატყლისგან, რომლის მდიდარი ფაქტურა ხაზგასმულია მოჰერის დელიკატური დასრულებით. მთავარი სტილისტური აქცენტია ნაკეთობის გვერდებსა და კიდეებზე დატანილი ვერცხლისფერი ლითონის ჯაჭვის ფილიგრანული დეკორი, რომელიც ჟაკეტს დამოუკიდებელ სამკაულად აქცევს. მანჟეტებზე ღია ჭრილებისა და ფარული კაუჭიანი შესაკრავის კონსტრუქცია უზრუნველყოფს ხაზების უნაკლო სისუფთავეს და თანამედროვე „რეგულარულ მორგებას“ (vestibilità regular). ეს ჟაკეტი --- იდეალური ბალანსია კლასიკურ ფრანგულ შიკსა და დინამიურ იტალიურ ტემპერამენტს შორის.",
+    "hy": "Mamas 0101 բաճկոնը ժամանակակից շքեղության և տրիկոտաժի հանդեպ ոսկերչական մոտեցման մարմնացումն է, որոնք բնորոշ են Luisa Spagnoli-ի էսթետիկային: Կարճացված մոդելը (cropped) կատարված է նրբաճաշակ բուկլե բրդի խառնուրդից, որի հարուստ հյուսվածքն ընդգծված է մոհերի նուրբ երիզով: Ոճային գլխավոր շեշտադրումը հանդիսանում է արծաթագույն մետաղյա շղթայով ֆիլիգրան հարդարանքը՝ եզրագծերի և արտադրանքի ծայրերի երկայնքով, որը բաճկոնը վերածում է ինքնուրույն զարդի: Մանժետների բաց բացվածքներով և կեռիկների վրա թաքնված կոճկվածքով կառուցվածքը ապահովում է գծերի անթերի մաքրություն և ժամանակակից «կանոնավոր նստվածք» (vestibilità regular): Այս բաճկոնը կատարյալ հավասարակշռություն է դասական ֆրանսիական շիկի և իտալական դինամիկ խառնվածքի միջև:",
+    "lv": "Jaka Mamas 0101 --- ir mūsdienu greznības un juvelierizstrādājumu līmeņa pieejas adījumiem iemiesojums, kas raksturīgs Luisa Spagnoli estētikai. Saīsinātais modelis (cropped) ir izgatavots no izsmalcinātas buklē vilnas maisījuma, kura bagātīgo faktūru izceļ delikāta mohēras apdare. Galvenais stilistiskais akcents ir filigrāna sudrabotas metāla ķēdes apdare gar izstrādājuma malām, kas pārvērš jaku par patstāvīgu rotaslietu. Konstrukcija ar atvērtiem šķēlumiem aprocēs un slēptu aizdari ar āķīšiem nodrošina nevainojamu līniju tīrību un mūsdienīgu «regulāru piegulumu» (vestibilità regular). Šī jaka --- ir ideāls līdzsvars starp klasisku franču šiku un dinamisku itāļu temperamentu.",
+    "lt": "Žaketas Mamas 0101 --- tai šiuolaikinės prabangos ir juvelyrinio požiūrio į trikotažą įkūnijimas, būdingas Luisa Spagnoli estetikai. Trumpintas modelis (cropped) pagamintas iš rafinuoto buklė vilnos mišinio, kurio turtingą faktūrą pabrėžia subtili mohero apdaila. Pagrindiniu stilistiniu akcentu tampa filigraninė apdaila sidabrine metaline grandinėle išilgai bortų ir gaminio kraštų, kuri paverčia žaketą savarankišku papuošalu. Konstrukcija su atvirais skeltukais ant rankogalių ir paslėptu užsegimu kabliukais užtikrina nepriekaištingą linijų švarą ir šiuolaikišką „reguliaraus prigludimo“ (vestibilità regular) siluetą. Šis žaketas --- idealus balansas tarp klasikinio prancūziško šiko ir dinamiško itališko temperamento.",
+    "pl": "Żakiet Mamas 0101 to ucieleśnienie nowoczesnego luksusu i jubilerskiego podejścia do dzianiny, charakterystycznych dla estetyki Luisa Spagnoli. Krótszy model (cropped) został wykonany ze szlachetnej mieszanki wełny boucle, której bogatą fakturę podkreśla delikatne wykończenie z moheru. Głównym akcentem stylistycznym jest filigranowe wykończenie srebrzystym metalowym łańcuchem wzdłuż krawędzi i brzegów produktu, co zmienia żakiet w samodzielną biżuterię. Konstrukcja z otwartymi rozcięciami na mankietach i ukrytym zapięciem na haftki zapewnia nieskazitelną czystość linii oraz nowoczesny krój (vestibilità regular). Ten żakiet to idealna równowaga między klasycznym francuskim szykiem a dynamicznym włoskim temperamentem.",
+    "uk": "Жакет Mamas 0101 --- це втілення сучасної розкоші та ювелірного підходу до трикотажу, характерних для естетики Luisa Spagnoli. Укорочена модель (cropped) виконана з вишуканої сумішевої вовни букле, чия багата фактура підкреслена делікатним оздобленням з мохеру. Головним стилістичним акцентом виступає філігранне оздоблення сріблястим металевим ланцюгом уздовж бортів та країв виробу, яке перетворює жакет на самостійну прикрасу. Конструкція з відкритими розрізами на манжетах і прихованою застібкою на гачках забезпечує бездоганну чистоту ліній і сучасну «регулярну посадку» (vestibilità regular). Цей жакет --- ідеальний баланс між класичним французьким шиком і динамічним італійським темпераментом."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1764487439691f15708da0e4_68043488_02790180XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать жакет Mamas как для создания остромодных городских образов, так и для канонических вечерних выходов: Вариант 0101 ( Черный): Стиль «City Chic» (Look 99): виртуозная игра контрастов --- фактурный жакет сочетается с романтичной шелковой рубашкой Lindas 0202 0202 и широкими джинсами Olla 1073, создавая расслабленный, но статусный образ.",
+        "en": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "ar": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "ka": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "hy": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "lv": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "lt": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "pl": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "uk": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look."
+      },
+      "items": [
+        {
+          "name": "Lindas",
+          "code": "0202 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/957906673691f15644561f7_84414523_02780530XX1.jpg",
+          "modelId": 417
+        },
+        {
+          "name": "Olla",
+          "code": "1073",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png",
+          "modelId": 456
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": null,
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать жакет Mamas как для создания остромодных городских образов, так и для канонических вечерних выходов: Вариант 0101 ( Черный): Стиль «City Chic» (Look 99): виртуозная игра контрастов --- фактурный жакет сочетается с романтичной шелковой рубашкой Lindas 0202 0202 и широкими джинсами Olla 1073, создавая расслабленный, но статусный образ.",
+        "en": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "ar": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "ka": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "hy": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "lv": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "lt": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "pl": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look.",
+        "uk": "The brand's stylists suggest using the Mamas jacket both for creating trendsetting urban looks and for iconic evening outings: Variant 0101 ( Black): \"City Chic\" style (Look 99): a masterful play on contrasts --- the textured jacket is combined with a romantic Lindas 0202 0202 silk shirt and wide-leg Olla 1073 jeans, creating a relaxed yet sophisticated look."
+      },
+      "items": [
+        {
+          "name": "Lindas",
+          "code": "0202 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/957906673691f15644561f7_84414523_02780530XX1.jpg",
+          "modelId": 417
+        },
+        {
+          "name": "Orville",
+          "code": "0101",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The 'Jewelry Jacket' effect: Direct the client's attention to the silver-tone chain trim. Explain that this detail allows the use of a necklace to be minimized, as the jacket itself serves as the central jeweled accent in the neckline area. - A textile"
+    ],
+    "ru": [
+      "- Эффект «Жакета-Украшения»: Акцентируйте внимание клиента на отделке серебристой цепью. Объясните, что такая деталь позволяет минимизировать использование колье, так как жакет сам по себе является центральным ювелирным акцентом в портретной зоне. - Текст"
+    ],
+    "ar": [
+      "- تأثير \"سترة الزينة\": وجهي انتباه العميل إلى تفاصيل السلسلة الفضية. اشرحي أن هذه القطعة تغني عن الحاجة إلى قلادة، حيث تعمل السترة بحد ذاتها كقطعة مجوهرات مركزية تبرز منطقة الوجه والرقبة. - مزيج الأنسجة: سلطي الضوء على التناغم الفريد بين قماش البوكليه وال"
+    ],
+    "ka": [
+      "- „ჟაკეტ-სამკაულის“ ეფექტი: ყურადღება გაამახვილეთ მომხმარებლისთვის ვერცხლისფერი ჯაჭვით გაფორმებაზე. აუხსენით, რომ მსგავსი დეტალი ამცირებს ყელსაბამის საჭიროებას, რადგან ჟაკეტი თავისთავად წარმოადგენს ცენტრალურ საიუველირო აქცენტს პორტრეტულ ზონაში. - ტექსტილუ"
+    ],
+    "hy": [
+      "- «Ժակետ-զարդ» էֆեկտ. Կենտրոնացրեք հաճախորդի ուշադրությունը արծաթագույն շղթայով հարդարման վրա: Բացատրեք, որ նման դետալը թույլ է տալիս նվազագույնի հասցնել վզնոցների օգտագործումը, քանի որ ժակետն ինքնին հանդիսանում է դիմանկարային գոտու կենտրոնական ոսկերչական"
+    ],
+    "lv": [
+      "- Efekts «Žakete-Rotaslieta»: Akcentējiet klienta uzmanību uz sudrabotas ķēdes apdari. Paskaidrojiet, ka šāda detaļa ļauj samazināt kaklarotu lietošanu, jo žakete pati par sevi ir centrālais juvelierizstrādājuma akcents portreta zonā. - Tekstila mikss: Uz"
+    ],
+    "lt": [
+      "- „Švarko-papuošalo“ efektas: Akcentuokite klientės dėmesį į apdailą sidabrine grandinėle. Paaiškinkite, kad tokia detalė leidžia apsieiti be vėrinio, nes pats švarkas tampa centriniu juvelyriniu akcentu portretinėje zonoje. - Tekstūrinis derinys: Pabrėžkite unikalų faktūrų derinį --- buklė ir moherį. Tai suteikia gaminiui gylio bei minkštumo, vizualiai padarydami jį įdomesniu ir prabangesniu, palyginti su įprastais lygiais audiniais. - Proporcijų meistriškumas: Rekomenduokite šį modelį derinti su aukšto liemens drabužiais (kaip Olla 1073 džinsų atveju). Trumpintas Mamas kirpimas vizualiai ilgina kojas ir struktūruoja siluetą, išlaikydamas judesių lengvumą."
+    ],
+    "pl": [
+      "- Efekt «Żakietu-Biżuterii»: Skup uwagę klientki na wykończeniu srebrnym łańcuchem. Wyjaśnij, że taki detal pozwala zminimalizować użycie naszyjnika, ponieważ żakiet sam w sobie stanowi centralny biżuteryjny akcent w strefie portretowej. - Tekstylny mix:"
+    ],
+    "uk": [
+      "- Ефект «Жакета-Прикраси»: Акцентуйте увагу клієнта на оздобленні сріблястим ланцюгом. Поясніть, що така деталь дозволяє мінімізувати використання кольє, оскільки жакет сам по собі є центральним ювелірним акцентом у портретній зоні. - Текстильний мікс: Пі"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "bouclé might Point out the cropped cut and open cuffs. add bulk» These details \"open up\" the slender zones of the body (waist and wrists), which, combined with the regular fit, creates a slim, modern silhouette. «The metal chain On the contrary, showcase Look 99 with denim. looks too Pairing the eye-catching trim with simple Olla flashy» 1073 jeans \"grounds\" the look, moving it from formal occasionwear into everyday-luxury territory. «The hook Explain that the concealed hooks were chosen closure is specifically so as not to overload the jacket's uncomfortable» front with extra details, preserving the continuous line of the decorative chain and creating a \"Haute Couture\" effect. «The fabric seems Remind the client that Luisa Spagnoli uses a too delicate» premium wool blend with mohair, known for its durability and its ability to hold the bouclé's voluminous texture for a long time. «What can I wear Suggest trying the jacket over a simple silk besides a white top, or even directly against the skin under a closed shirt?» closure, for a sharper, evening-ready look, as is often done in runway styling"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Букле может",
+        "a": "Укажите на укороченный крой (cropped) и открытые полнить манжеты. Эти детали."
+      },
+      {
+        "q": "открывают",
+        "a": "тонкие зоны тела (талию и запястья), что в сочетании с регулярной посадкой создает стройный и современный силуэт."
+      },
+      {
+        "q": "Металлическая",
+        "a": "Продемонстрируйте Look 99 с денимом. Сочетание цепь выглядит активной отделки с простыми джинсами Olla 1073 слишком «приземляет образ, переводя его из разряда претенциозно» парадных в категорию повседневной роскоши."
+      },
+      {
+        "q": "Застежка на",
+        "a": "Объясните, что скрытые крючки выбраны специально, крючках неудобна чтобы не перегружать фасад жакета лишними деталями и сохранить непрерывную линию декоративной цепи, создавая эффект."
+      },
+      {
+        "q": "Haute Couture",
+        "a": "."
+      },
+      {
+        "q": "Ткань кажется",
+        "a": "Напомните, что Luisa Spagnoli использует слишком высококачественную смесовую шерсть с добавлением деликатной мохера, которая отличается износостойкостью и способностью сохранять объемную фактуру букле в течение долгого времени."
+      },
+      {
+        "q": "С чем носить",
+        "a": "Предложите примерить жакет на лаконичный шелковый кроме белой топ или даже на голое тело под закрытую застежку рубашки? для создания более острого, вечернего образа, как это часто практикуется в подиумных стилизациях."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قماش البوكلي قد يضيف حجماً للجسم",
+        "a": "أشر إلى قصة الـ (cropped) والأساور المفتوحة. هذه التفاصيل تبرز المناطق الرشيقة في الجسم (الخصر والمعصمين)، مما يخلق مع التصميم المتناسق صورة ظلية عصرية ورشيقة."
+      },
+      {
+        "q": "السلسلة المعدنية تبدو متكلفة أكثر من اللازم",
+        "a": "استعرض Look 99 مع الدنيم. الجمع بين اللمسات البارزة وبنطال الجينز البسيط Olla 1073 يضفي على المظهر طابعاً يومياً فاخراً بعيداً عن الرسمية المفرطة."
+      },
+      {
+        "q": "سحاب الإغلاق بالخطافات غير مريح",
+        "a": "وضح أن الخطافات المخفية اختيرت بعناية كي لا تثقل تصميم الجاكيت بتفاصيل إضافية وللحفاظ على الخط المستمر للسلسلة الزخرفية، مما يمنح تأثيراً كلاسيكياً من الـ."
+      },
+      {
+        "q": "Haute Couture",
+        "a": "."
+      },
+      {
+        "q": "القماش يبدو رقيقاً أكثر من اللازم",
+        "a": "ذكر العميل بأن Luisa Spagnoli تستخدم صوفاً ممزوجاً عالي الجودة مع إضافة الموهير، والذي يتميز بالمتانة والقدرة على الحفاظ على قوام البوكلي لفترة طويلة."
+      },
+      {
+        "q": "كيف يمكن تنسيقه بعيداً عن القميص الأبيض؟",
+        "a": "اقترح تجربة الجاكيت فوق قميص حريري بسيط أو مباشرة على الجلد مع إغلاق الأزرار بالكامل لخلق مظهر مسائي حاد وعصري، كما هو متبع في عروض الأزياء."
+      }
+    ],
+    "ka": [
+      {
+        "q": "წინააღმდეგობა: სტრატეგია გადალახვისთვის: „ბუკლე შეიძლება მსუქნავდეს",
+        "a": "მიუთითეთ შემოკლებულ კროზე (cropped) და ღია მანჟეტებზე. ეს დეტალები „ხსნის“ სხეულის თხელ ზონებს (წელსა და მაჯებს), რაც რეგულარულ მორგებასთან ერთად ქმნის ტანწერწეტა და თანამედროვე სილუეტს. შემოკლებულ კროზე (cropped) და ღია მანჟეტებზე. ეს დეტალები „ხსნის“ სხეულის თხელ ზონებს (წელსა და მაჯებს), რაც რეგულარულ მორგებასთან ერთად ქმნის ტანწერწეტა და თანამედროვე სილუეტს."
+      },
+      {
+        "q": "„მეტალის ჯაჭვი ზედმეტად პრეტენზიულად გამოიყურება",
+        "a": "წარმოაჩინეთ Look 99 დენიმთან ერთად. აქტიური დასრულების შეხამება მარტივ Olla 1073 ჯინსებთან „აადვილებს“ ლუქს, გადაჰყავს ის სადღესასწაულო კატეგორიიდან ყოველდღიური ფუფუნების კატეგორიაში. Look 99 დენიმთან ერთად. აქტიური დასრულების შეხამება მარტივ Olla 1073 ჯინსებთან „აადვილებს“ ლუქს, გადაჰყავს ის სადღესასწაულო კატეგორიიდან ყოველდღიური ფუფუნების კატეგორიაში."
+      },
+      {
+        "q": "„კაკვებზე შესაკრავი მოუხერხებელია",
+        "a": "განუმარტეთ, რომ ფარული კაკვები არჩეულია სპეციალურად იმისთვის, რომ არ გადაიტვირთოს ჟაკეტის ფასადი ზედმეტი დეტალებით და შენარჩუნდეს დეკორატიული ჯაჭვის უწყვეტი ხაზი, რაც „Haute Couture“-ის ეფექტს ქმნის. , რომ ფარული კაკვები არჩეულია სპეციალურად იმისთვის, რომ არ გადაიტვირთოს ჟაკეტის ფასადი ზედმეტი დეტალებით და შენარჩუნდეს დეკორატიული ჯაჭვის უწყვეტი ხაზი, რაც „Haute Couture“-ის ეფექტს ქმნის."
+      },
+      {
+        "q": "„ქსოვილი ზედმეტად ნაზი ჩანს",
+        "a": "შეახსენეთ, რომ Luisa Spagnoli იყენებს მაღალი ხარისხის შერეულ მატყლს მოჰერის დამატებით, რომელიც გამოირჩევა ცვეთამედეგობით და ბუკლეს მოცულობითი ფაქტურის შენარჩუნების უნარით დიდი ხნის განმავლობაში. , რომ Luisa Spagnoli იყენებს მაღალი ხარისხის შერეულ მატყლს მოჰერის დამატებით, რომელიც გამოირჩევა ცვეთამედეგობით და ბუკლეს მოცულობითი ფაქტურის შენარჩუნების უნარით დიდი ხნის განმავლობაში."
+      },
+      {
+        "q": "„რასთან ვატარო, გარდა თეთრი პერანგისა?",
+        "a": "შესთავაზეთ მოიზომოთ ჟაკეტი ლაკონიურ აბრეშუმის ტოპზე ან თუნდაც შიშველ სხეულზე, დახურულ შესაკრავთან ერთად, უფრო მახვილი, საღამოს ლუქის შესაქმნელად, როგორც ეს ხშირად ხდება პოდიუმის სტილიზაციებში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բուկլեն կարող է գիրացնել",
+        "a": "՝ Մատնանշեք կարճացված կտրվածքը (cropped) և բաց մանժետները: Այս դետալները."
+      },
+      {
+        "q": "բացում են",
+        "a": "մարմնի բարակ հատվածները (իրանը և դաստակները), ինչը կանոնավոր նստվածքի հետ համատեղ ստեղծում է սլացիկ և ժամանակակից ուրվագիծ."
+      },
+      {
+        "q": "Մետաղական շղթան շատ պաթետիկ է թվում",
+        "a": "՝ Ցուցադրեք Look 99-ը դենիմի հետ: Դեկորի համադրությունը պարզ Olla 1073 ջինսերի հետ."
+      },
+      {
+        "q": "իջեցնում է",
+        "a": "կերպարը՝ այն հանդիսավորից վերածելով ամենօրյա շքեղության."
+      },
+      {
+        "q": "Կեռիկներով ամրացումը անհարմար է",
+        "a": "՝ Բացատրեք, որ թաքնված կեռիկներն ընտրվել են հատուկ, որպեսզի չծանրաբեռնեն բաճկոնի ճակատային մասը ավելորդ դետալներով և պահպանեն դեկորատիվ շղթայի անընդհատ գիծը՝ ստեղծելով."
+      },
+      {
+        "q": "Haute Couture",
+        "a": "էֆեկտ."
+      },
+      {
+        "q": "Գործվածքը չափազանց նուրբ է թվում",
+        "a": "՝ Հիշեցրեք, որ Luisa Spagnoli-ն օգտագործում է բարձրորակ խառնուրդային բուրդ՝ մոհերի հավելումով, որն աչքի է ընկնում մաշվածադիմացկունությամբ և բուկլեի ծավալային ֆակտուրան երկար ժամանակ պահպանելու ունակությամբ."
+      },
+      {
+        "q": "Ինչի՞ հետ կրել, բացի շապիկի սպիտակ օձիքից",
+        "a": "՝ Առաջարկեք բաճկոնը փորձել լակոնիկ մետաքսե տոպի կամ նույնիսկ մերկ մարմնի վրա՝ փակ ամրացումով, ավելի սուր, երեկոյան կերպար ստեղծելու համար, ինչպես հաճախ արվում է պոդիումային ոճավորումներում."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Buklē var",
+        "a": "Norādiet uz saīsināto piegriezumu (cropped) un atvērtajām padarīt pilnīgāku aprocēm. Šīs detaļas."
+      },
+      {
+        "q": "atklāj",
+        "a": "smalkās ķermeņa zonas (vidukli un plaukstu locītavas), kas apvienojumā ar regulāro piegriezumu rada slaidu un modernu siluetu."
+      },
+      {
+        "q": "Metāliska",
+        "a": "Demonstrējiet Look 99 ar džinsu audumu. ķēde izskatās pārāk Kombinējot izteiksmīgo apdari ar vienkāršiem Olla 1073 pretenziozi džinsiem, tēls kļūst piezemētāks, pārejot no svinīgo kategorijas uz ikdienas luksusa kategoriju."
+      },
+      {
+        "q": "Aizdare uz",
+        "a": "Izskaidrojiet, ka slēptās āķītes ir izvēlētas āķītēm ir neērta speciāli, lai nepārslogotu jakas priekšpusi ar liekām detaļām un saglabātu nepārtrauktu dekoratīvās ķēdes līniju, radot."
+      },
+      {
+        "q": "Haute Couture",
+        "a": "efektu."
+      },
+      {
+        "q": "Audums šķiet",
+        "a": "Atgādiniet, ka Luisa Spagnoli izmanto pārāk delikāts augstas kvalitātes vilnas maisījumu ar mohēras piejaukumu, kas izceļas ar nodilumizturību un spēju saglabāt buklē apjomīgo faktūru ilgstošā laika posmā."
+      },
+      {
+        "q": "Ar ko valkāt",
+        "a": "Piedāvājiet pielaikot jaku pie lakoniska zīda topiņa izņemot baltu vai pat uz kailas miesas zem aizpogātas aizdares, kreklu? lai radītu asāku, vakara tēlu, kā tas bieži tiek praktizēts modes skatēs."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikti „Bukle audinys gali didinti apimtis“ –",
+        "a": "Atkreipkite dėmesį į sutrumpintą kirpimą (cropped) ir atvirus rankogalius. Šios detalės „atidengia“ lieknas kūno vietas (juosmenį ir riešus), o tai kartu su reguliariu sukirpimu sukuria grakštų ir šiuolaikišką siluetą. į sutrumpintą kirpimą (cropped) ir atvirus rankogalius. Šios detalės „atidengia“ lieknas kūno vietas (juosmenį ir riešus), o tai kartu su reguliariu sukirpimu sukuria grakštų ir šiuolaikišką siluetą."
+      },
+      {
+        "q": "„Metalinė grandinėlė atrodo pernelyg pretenzingai“ –",
+        "a": "Pademonstruokite Look 99 su džinsiniu audiniu. Šios puošnios detalės derinimas su paprastais Olla 1073 džinsais „sužemina“ įvaizdį, perkeldamas jį iš proginių kategorijos į kasdienės prabangos lygį. Look 99 su džinsiniu audiniu. Šios puošnios detalės derinimas su paprastais Olla 1073 džinsais „sužemina“ įvaizdį, perkeldamas jį iš proginių kategorijos į kasdienės prabangos lygį."
+      },
+      {
+        "q": "„Užsegimas kabliukais yra nepatogus“ –",
+        "a": "Paaiškinkite, kad paslėpti kabliukai parinkti specialiai tam, kad neperkrautų švarko priekio nereikalingomis detalėmis ir išlaikytų vientisą dekoratyvinės grandinėlės liniją, sukuriant „Haute Couture“ efektą. , kad paslėpti kabliukai parinkti specialiai tam, kad neperkrautų švarko priekio nereikalingomis detalėmis ir išlaikytų vientisą dekoratyvinės grandinėlės liniją, sukuriant „Haute Couture“ efektą."
+      },
+      {
+        "q": "„Audinys atrodo pernelyg gležnas“ –",
+        "a": "Priminkite, kad Luisa Spagnoli naudoja aukščiausios kokybės vilnos mišinį su moheriu, kuris pasižymi atsparumu dėvėjimuisi ir gebėjimu ilgą laiką išlaikyti tūrinę bukle faktūrą. , kad Luisa Spagnoli naudoja aukščiausios kokybės vilnos mišinį su moheriu, kuris pasižymi atsparumu dėvėjimuisi ir gebėjimu ilgą laiką išlaikyti tūrinę bukle faktūrą."
+      },
+      {
+        "q": "„Su kuo derinti, jei ne su baltais marškiniais?“ –",
+        "a": "Pasiūlykite pasimatuoti švarką ant minimalistinio šilkinio topelio arba tiesiog ant nuogo kūno užsegus visas sagas, sukuriant aštresnį, vakarinį įvaizdį, kaip dažnai praktikuojama podiumo stiliuose."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Bukle może pogrubiać",
+        "a": "Wskaż na skrócony krój (cropped) oraz odkryte mankiety. Te detale."
+      },
+      {
+        "q": "otwierają",
+        "a": "smukłe partie ciała (talię i nadgarstki), co w połączeniu z regularnym dopasowaniem tworzy smukłą i nowoczesną sylwetkę."
+      },
+      {
+        "q": "Metalowy łańcuch wygląda zbyt pretensjonalnie",
+        "a": "Zaprezentuj Look 99 z denimem. Połączenie szlachetnego wykończenia z prostymi jeansami Olla 1073."
+      },
+      {
+        "q": "uziemia",
+        "a": "stylizację, przenosząc ją z kategorii wieczorowej do codziennego luksusu."
+      },
+      {
+        "q": "Zapięcie na haftki jest niewygodne",
+        "a": "Wyjaśnij, że ukryte haftki zostały wybrane celowo, aby nie przeładowywać frontu żakietu zbędnymi detalami i zachować ciągłą linię ozdobnego łańcucha, tworząc efekt."
+      },
+      {
+        "q": "Haute Couture",
+        "a": "."
+      },
+      {
+        "q": "Tkanina wydaje się zbyt delikatna",
+        "a": "Przypomnij, że Luisa Spagnoli używa wysokiej jakości wełny mieszanej z dodatkiem moheru, która wyróżnia się wytrzymałością oraz zdolnością do zachowania przestrzennej faktury bukle przez długi czas."
+      },
+      {
+        "q": "Z czym nosić poza białą koszulą?",
+        "a": "Zaproponuj przymierzenie żakietu na minimalistyczny jedwabny top lub bezpośrednio na ciało pod zapiętą marynarkę, dla uzyskania bardziej wyrazistego, wieczorowego charakteru, jak często praktykuje się w stylizacjach z wybiegów."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Букле може «повнити",
+        "a": "Вкажіть на вкорочений крій (cropped) та відкриті манжети. Ці деталі."
+      },
+      {
+        "q": "відкривають",
+        "a": "тонкі зони тіла (талію та зап'ястя), що в поєднанні з регулярною посадкою створює стрункий і сучасний силует."
+      },
+      {
+        "q": "Металевий ланцюг виглядає надто претензійно",
+        "a": "Продемонструйте Look 99 з денімом. Поєднання активної обробки з простими джинсами Olla 1073."
+      },
+      {
+        "q": "приземлює",
+        "a": "образ, переводячи його з розряду парадних у категорію повсякденної розкоші."
+      },
+      {
+        "q": "Застібка на гачках незручна",
+        "a": "Поясніть, що приховані гачки обрані спеціально, щоб не перевантажувати фасад жакета зайвими деталями та зберегти безперервну лінію декоративного ланцюга, створюючи ефект."
+      },
+      {
+        "q": "Haute Couture",
+        "a": "."
+      },
+      {
+        "q": "Тканина здається надто делікатною",
+        "a": "Нагадайте, що Luisa Spagnoli використовує високоякісну сумішеву вовну з додаванням мохеру, яка вирізняється зносостійкістю та здатністю зберігати об'ємну фактуру букле протягом тривалого часу."
+      },
+      {
+        "q": "З чим носити, окрім білої сорочки?",
+        "a": "Запропонуйте приміряти жакет на лаконічний шовковий топ або навіть на голе тіло під закриту застібку для створення більш гострого, вечірнього образу, як це часто практикується в подіумних стилізаціях."
+      }
+    ]
+  }
+}

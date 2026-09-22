@@ -1,0 +1,790 @@
+{
+  "id": 243,
+  "name": "Olap",
+  "description": {
+    "en": "The Olap trousers are the embodiment of refined retro chic and flawless comfort from Luisa Spagnoli. Crafted from soft cotton corduroy with a touch of elastane, ensuring a perfect fit and freedom of movement. The flared silhouette visually elongates the legs, lending the look femininity and refinement. French pockets at the front and welt pockets at the back underscore the classic cut, while the exclusive gold-tone LS monogram detail adds status and aristocratic character. These trousers will become a centerpiece of both an everyday city look and a more formal ensemble. | The Olap trousers are the embodiment of refined style and flawless comfort, created for the contemporary woman who values Luisa Spagnoli's aristocratic aesthetic. Crafted from soft ribbed cotton corduroy (97% cotton, 3% elastane), ensuring a perfect fit and freedom of movement. The flared silhouette, combined with meticulously considered details â€” French pockets at the front and welt pockets at the back â€” visually elongates the figure, lending it particular slenderness. The finishing touch in the 'quiet luxury' style is the exclusive gold-tone LS monogram detail, underscoring the piece's elevated status.",
+    "ru": "Брюки Olap — это воплощение изысканного ретро-шика и безупречного комфорта от Luisa Spagnoli. Модель выполнена из мягкого хлопкового вельвета с добавлением эластана, что обеспечивает идеальную посадку по фигуре и свободу движений. Расклешенный силуэт (flared) визуально удлиняет ноги, придавая образу женственность и утонченность. Французские карманы спереди и прорезные карманы «листочка» сзади подчеркивают классический крой, а эксклюзивная золотистая деталь с монограммой LS добавляет изделию статусности и аристократизма. Эти брюки станут центральным элементом как повседневного городского образа, так и более формального ансамбля. | Брюки Olap — это воплощение изысканного стиля и безупречного комфорта, созданное для современной женщины, ценящей аристократичную эстетику Luisa Spagnoli. Модель выполнена из мягкого хлопкового вельвета в рубчик (97% хлопок, 3% эластан), что обеспечивает идеальную посадку и свободу движений. Расклешенный силуэт (flared) в сочетании с тщательно проработанными деталями — французскими карманами спереди и прорезными карманами «листочка» сзади — визуально вытягивает фигуру, придавая ей особую стройность. Финальный штрих в стиле «тихой роскоши» — эксклюзивная золотистая деталь с монограммой LS, подчеркивающая высокий статус изделия.",
+    "ar": "تُعد بنطلونات Olap تجسيداً للأناقة القديمة (ريترو) والراحة التي لا تشوبها شائبة من Luisa Spagnoli. الموديل مصنوع من مخمل القطن الناعم مع إضافة الإيلاستين، مما يضمن ملاءمة مثالية للجسم وحرية في الحركة. القصة الواسعة (flared) تزيد من طول الساقين بصرياً، مما يضفي على الإطلالة أنوثة ورقة. تبرز الجيوب الفرنسية في الأمام والجيوب الخلفية المائلة «بشكل ورقة الشجر» القصة الكلاسيكية، بينما تضيف التفاصيل الذهبية الحصرية مع شعار LS لمسة من المكانة والأرستقراطية. ستصبح هذه البنطلونات العنصر المركزي في الإطلالات اليومية الحضرية وكذلك في التنسيقات الأكثر رسمية. | تُعد بنطلونات Olap تجسيداً للأناقة الراقية والراحة المطلقة، وهي مصممة للمرأة العصرية التي تقدر الجماليات الأرستقراطية لـ Luisa Spagnoli. الموديل مصنوع من مخمل القطن المضلع الناعم (97% قطن، 3% إيلاستين)، مما يوفر ملاءمة مثالية وحرية في الحركة. القصة الواسعة (flared) جنباً إلى جنب مع التفاصيل المدروسة بعناية — الجيوب الفرنسية في الأمام والجيوب الخلفية المائلة — تبرز القوام وتمنحه نحافة خاصة. اللمسة النهائية بأسلوب «الفخامة الهادئة» هي التفاصيل الذهبية الحصرية مع شعار LS، التي تؤكد على المكانة العالية للقطعة.",
+    "ka": "Olap-ის შარვალი Luisa Spagnoli-ს დახვეწილი რეტრო-შიკისა და უნაკლო კომფორტის განსახიერებაა. მოდელი დამზადებულია ელასტანის დამატებით რბილი ბამბის ხავერდისგან, რაც უზრუნველყოფს სხეულზე იდეალურ მორგებას და მოძრაობის თავისუფლებას. გაშლილი სილუეტი (flared) ვიზუალურად აგრძელებს ფეხებს და გამოსახულებას ანიჭებს ქალურობას და დახვეწილობას. ფრანგული ჯიბეები წინ და ჭრილი ჯიბეები „ფურცელი“ უკან ხაზს უსვამს კლასიკურ კროის, ხოლო ექსკლუზიური მოოქროსფრო დეტალი LS-ის მონოგრამით ნაკეთობას სძენს სტატუსურობას და არისტოკრატიზმს. ეს შარვალი გახდება როგორც ყოველდღიური ურბანული იმიჯის, ისე უფრო ფორმალური ანსამბლის ცენტრალური ელემენტი. | Olap-ის შარვალი არის დახვეწილი სტილისა და უნაკლო კომფორტის განსახიერება, რომელიც შექმნილია თანამედროვე ქალისთვის, რომელიც აფასებს Luisa Spagnoli-ს არისტოკრატულ ესთეტიკას. მოდელი დამზადებულია ნეკნებიან რბილ ბამბის ხავერდში (97% ბამბა, 3% ელასტანი), რაც უზრუნველყოფს იდეალურ მორგებას და მოძრაობის თავისუფლებას. გაშლილი სილუეტი (flared) საგულდაგულოდ დამუშავებულ დეტალებთან ერთად — წინა ფრანგული ჯიბეებით და უკანა ჭრილი ჯიბეებით „ფურცელი“ — ვიზუალურად აგრძელებს სილუეტს და მას ანიჭებს განსაკუთრებულ სიგამხდრეს. საბოლოო შტრიხი „ჩუმი ფუფუნების“ სტილში — ექსკლუზიური მოოქროსფრო დეტალი LS-ის მონოგრამით, რომელიც ხაზს უსვამს ნაკეთობის მაღალ სტატუსს.",
+    "hy": "Olap տաբատը Luisa Spagnoli-ի նրբագեղ ռետրո-շիկի և անթերի հարմարավետության մարմնացումն է: Մոդելը պատրաստված է փափուկ բամբակյա թավիշից՝ էլաստանի հավելումով, որն ապահովում է իդեալական նստվածք մարմնին և շարժումների ազատություն: Լայնացող ուրվագիծը (flared) տեսողականորեն երկարացնում է ոտքերը՝ կերպարին հաղորդելով կանացիություն և նրբինություն: Առջևի ֆրանսիական գրպանները և հետևի «տերևիկ» ճեղքվածքով գրպանները ընդգծում են դասական կտրվածքը, իսկ LS մոնոգրամով բացառիկ ոսկեգույն դետալը հագուստին հաղորդում է կարգավիճակ և արիստոկրատիզմ: Այս տաբատները կդառնան ինչպես առօրյա քաղաքային կերպարի, այնպես էլ ավելի պաշտոնական անսամբլի կենտրոնական տարրը: | Olap տաբատը Luisa Spagnoli-ի արիստոկրատական գեղագիտությունը գնահատող ժամանակակից կնոջ համար ստեղծված նրբագեղ ոճի և անթերի հարմարավետության մարմնացումն է: Մոդելը պատրաստված է փափուկ բամբակյա թավիշից (97% բամբակ, 3% էլաստան), ինչն ապահովում է իդեալական նստվածք և շարժումների ազատություն: Լայնացող ուրվագիծը (flared)՝ մանրակրկիտ մշակված դետալների՝ առջևի ֆրանսիական գրպանների և հետևի «տերևիկ» ճեղքվածքով գրպանների հետ համատեղ, տեսողականորեն ձգում է կազմվածքը՝ նրան հաղորդելով հատուկ սլացիկություն: «Լուռ շքեղության» ոճի վերջին շտրիխը LS մոնոգրամով բացառիկ ոսկեգույն դետալն է, որն ընդգծում է հագուստի բարձր կարգավիճակը:",
+    "lv": "Bikses Olap — tas ir izsmalcināta retro šika un nevainojama komforta iemiesojums no Luisa Spagnoli. Modelis ir izgatavots no mīksta kokvilnas samta ar elastāna piejaukumu, kas nodrošina ideālu piegulumu augumam un kustību brīvību. Paplatinātais siluets (flared) vizuāli pagarina kājas, piešķirot tēlam sievišķību un izsmalcinātību. Franču kabatas priekšpusē un iegrieztās „lapiņas” kabatas aizmugurē izceļ klasisko piegriezumu, bet ekskluzīvā zeltainā detaļa ar LS monogrammu izstrādājumam piešķir statusu un aristokrātismu. Šīs bikses kļūs par centrālo elementu gan ikdienas pilsētas tēlam, gan formālākam ansamblim. | Bikses Olap — tas ir izsmalcināta stila un nevainojama komforta iemiesojums, kas radīts mūsdienu sievietei, kura novērtē Luisa Spagnoli aristokrātisko estētiku. Modelis ir izgatavots no mīksta, rievota kokvilnas samta (97% kokvilna, 3% elastāns), kas nodrošina ideālu piegulumu un kustību brīvību. Paplatinātais siluets (flared) kombinācijā ar rūpīgi izstrādātām detaļām — franču kabatām priekšpusē un iegrieztajām „lapiņas” kabatām aizmugurē — vizuāli pagarina figūru, piešķirot tai īpašu slaidumu. Noslēdzošais pieskāriens „klusās greznības” stilā — ekskluzīvā zeltainā detaļa ar LS monogrammu, kas uzsver izstrādājuma augsto statusu.",
+    "lt": "Olap kelnės – tai rafinuoto retro stiliaus ir nepriekaištingo komforto įkūnijimas iš Luisa Spagnoli. Modelis pagamintas iš minkšto medvilninio velveto su elastano priedu, kas užtikrina idealų prigludimą prie figūros ir judesių laisvę. Platėjantis siluetas (flared) vizualiai ilgina kojas, suteikdamas įvaizdžiui moteriškumo ir grakštumo. Prancūziškos kišenės priekyje ir įstrižos „lapelio“ tipo kišenės nugaroje pabrėžia klasikinį kirpimą, o išskirtinė auksinė detalė su LS monograma gaminiui prideda statuso ir aristokratiškumo. Šios kelnės taps centriniu tiek kasdienio miesto įvaizdžio, tiek oficialesnio ansamblio elementu. | Olap kelnės – tai rafinuoto stiliaus ir nepriekaištingo komforto įkūnijimas, sukurtas šiuolaikinei moteriai, vertinančiai aristokratišką Luisa Spagnoli estetiką. Modelis pagamintas iš minkšto briaunuoto medvilninio velveto (97% medvilnė, 3% elastanas), kas užtikrina idealų prigludimą ir judesių laisvę. Platėjantis siluetas (flared) kartu su kruopščiai apgalvotomis detalėmis – prancūziškomis kišenėmis priekyje ir įstrižomis „lapelio“ tipo kišenėmis nugaroje – vizualiai ilgina figūrą, suteikdamas jai ypatingo lieknumo. Paskutinis „tylios prabangos“ stiliaus akcentas – išskirtinė auksinė detalė su LS monograma, pabrėžianti aukštą gaminio statusą.",
+    "pl": "Spodnie Olap to ucieleśnienie wyrafinowanego stylu retro i nienagannego komfortu od Luisa Spagnoli. Model wykonano z miękkiego bawełnianego sztruksu z dodatkiem elastanu, co zapewnia idealne dopasowanie do figury i swobodę ruchów. Rozkloszowana sylwetka (flared) optycznie wydłuża nogi, dodając stylizacji kobiecości i subtelności. Francuskie kieszenie z przodu oraz wpuszczane kieszenie z wypustką z tyłu podkreślają klasyczny krój, a ekskluzywny złocisty detal z monogramem LS dodaje produktowi statusu i arystokratycznego charakteru. Te spodnie staną się centralnym elementem zarówno codziennej miejskiej stylizacji, jak i bardziej formalnego zestawu. | Spodnie Olap to ucieleśnienie wyrafinowanego stylu i nienagannego komfortu, stworzone dla nowoczesnej kobiety, która ceni arystokratyczną estetykę Luisa Spagnoli. Model wykonano z miękkiego bawełnianego sztruksu w prążki (97% bawełna, 3% elastan), co zapewnia idealne dopasowanie i swobodę ruchów. Rozkloszowana sylwetka (flared) w połączeniu ze starannie opracowanymi detalami — francuskimi kieszeniami z przodu i wpuszczanymi kieszeniami z wypustką z tyłu — optycznie wydłuża sylwetkę, nadając jej wyjątkowej smukłości. Finalny akcent w stylu «cichego luksusu» to ekskluzywny złocisty detal z monogramem LS, podkreślający wysoki status produktu.",
+    "uk": "Брюки Olap — це втілення вишуканого ретро-шику та бездоганного комфорту від Luisa Spagnoli. Модель виконана з м'якого бавовняного вельвету з додаванням еластану, що забезпечує ідеальну посадку по фігурі та свободу рухів. Розкльошений силует (flared) візуально подовжує ноги, надаючи образу жіночності та витонченості. Французькі кишені спереду та прорізні кишені «листочка» ззаду підкреслюють класичний крій, а ексклюзивна золотиста деталь із монограмою LS додає виробу статусності та аристократизму. Ці брюки стануть центральним елементом як повсякденного міського образу, так і більш формального ансамблю. | Брюки Olap — це втілення вишуканого стилю та бездоганного комфорту, створене для сучасної жінки, що цінує аристократичну естетику Luisa Spagnoli. Модель виконана з м'якого бавовняного вельвету в рубчик (97% бавовна, 3% еластан), що забезпечує ідеальну посадку та свободу рухів. Розкльошений силует (flared) у поєднанні з ретельно опрацьованими деталями — французькими кишенями спереду та прорізними кишенями «листочка» ззаду — візуально витягує фігуру, надаючи їй особливої стрункості. Фінальний штрих у стилі «тихої розкоші» — ексклюзивна золотиста деталь із монограмою LS, що підкреслює високий статус виробу."
+  },
+  "colors": [
+    {
+      "name": "Sabbia",
+      "code": "1168",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ynGKN9IHR7KZkKRYYDtgyg_1991141854696f42e6826470_95751980_02820640XX1.jpg"
+    },
+    {
+      "name": "Meringa",
+      "code": "0214",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YfLJIN9OTCCGsGAaoXfqug_610004726696f4308184709_09444034_02821440XX1.jpg"
+    },
+    {
+      "name": "Beige Freddo",
+      "code": "1119",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg"
+    },
+    {
+      "name": "Blu Colore",
+      "code": "1296",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/293172957691f15a1048f00_73901415_02780980XX1.jpg"
+    },
+    {
+      "name": "Grigio",
+      "code": "1031",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/601963602691f15a15f3cd2_56066529_02780990XX1.jpg"
+    },
+    {
+      "name": "Tabacco",
+      "code": "2259",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/894988827691f15a03fcb79_08463233_02780960XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Beige Freddo)",
+        "en": "Total Look (Beige Freddo)",
+        "ar": "Total Look (Beige Freddo)",
+        "ka": "Total Look (Beige Freddo)",
+        "hy": "Total Look (Beige Freddo)",
+        "lv": "Total Look (Beige Freddo)",
+        "lt": "Total Look (Beige Freddo)",
+        "pl": "Total Look (Beige Freddo)",
+        "uk": "Total Look (Beige Freddo)"
+      },
+      "text": {
+        "ru": "Olap 1119 в сочетании с тренчем Sigle 2731 1167 и пуловером Manos F 0204.",
+        "en": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "ar": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "ka": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "hy": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "lv": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "lt": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "pl": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "uk": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover."
+      },
+      "items": [
+        {
+          "name": "Olap",
+          "code": "1119",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg"
+        },
+        {
+          "name": "Sigle",
+          "code": "2731 1167",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1331191701691c578853baa0_07542947_02780150XX1.jpg",
+          "modelId": 483
+        },
+        {
+          "name": "Manos F",
+          "code": "0204",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1706098854691f156c37f925_68045055_02780700XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Sophisticated Day (Sabbia): Olap 1168 с кардиганом Mity 3374 и жакетом Socio 0963 1161.",
+        "en": "Sophisticated Day (Sabbia): Olap 1168 with the Mity 3374 cardigan and Socio 0963 1161 jacket.",
+        "ar": "Sophisticated Day (Sabbia): Olap 1168 with the Mity 3374 cardigan and Socio 0963 1161 jacket.",
+        "ka": "Sophisticated Day (Sabbia): Olap 1168 with the Mity 3374 cardigan and Socio 0963 1161 jacket.",
+        "hy": "Sophisticated Day (Sabbia): Olap 1168 with the Mity 3374 cardigan and Socio 0963 1161 jacket.",
+        "lv": "Sophisticated Day (Sabbia): Olap 1168 with the Mity 3374 cardigan and Socio 0963 1161 jacket.",
+        "lt": "Sophisticated Day (Sabbia): Olap 1168 with the Mity 3374 cardigan and Socio 0963 1161 jacket.",
+        "pl": "Sophisticated Day (Sabbia): Olap 1168 with the Mity 3374 cardigan and Socio 0963 1161 jacket.",
+        "uk": "Sophisticated Day (Sabbia): Olap 1168 with the Mity 3374 cardigan and Socio 0963 1161 jacket."
+      },
+      "items": [
+        {
+          "name": "Olap",
+          "code": "1168",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ynGKN9IHR7KZkKRYYDtgyg_1991141854696f42e6826470_95751980_02820640XX1.jpg"
+        },
+        {
+          "name": "Mity",
+          "code": "3374",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/figTUWpoTa2gZPu9oRzUfA_931594082696f43771a2813_21938047_02831190XX1.jpg",
+          "modelId": 184
+        },
+        {
+          "name": "Socio",
+          "code": "0963 1161",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e0r4p7GdTVyJ63LSWEZZjQ_823327549696f42fa6897f3_01024722_02821060XX1.jpg",
+          "modelId": 323
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Winter Chic (Meringa): Olap 0214 дополнен пуховиком Salicornia 2262 или жакетом Modici 0202.",
+        "en": "Winter Chic (Meringa): Olap 0214 complemented by the Salicornia 2262 down jacket or Modici 0202 jacket.",
+        "ar": "Winter Chic (Meringa): Olap 0214 complemented by the Salicornia 2262 down jacket or Modici 0202 jacket.",
+        "ka": "Winter Chic (Meringa): Olap 0214 complemented by the Salicornia 2262 down jacket or Modici 0202 jacket.",
+        "hy": "Winter Chic (Meringa): Olap 0214 complemented by the Salicornia 2262 down jacket or Modici 0202 jacket.",
+        "lv": "Winter Chic (Meringa): Olap 0214 complemented by the Salicornia 2262 down jacket or Modici 0202 jacket.",
+        "lt": "Winter Chic (Meringa): Olap 0214 complemented by the Salicornia 2262 down jacket or Modici 0202 jacket.",
+        "pl": "Winter Chic (Meringa): Olap 0214 complemented by the Salicornia 2262 down jacket or Modici 0202 jacket.",
+        "uk": "Winter Chic (Meringa): Olap 0214 complemented by the Salicornia 2262 down jacket or Modici 0202 jacket."
+      },
+      "items": [
+        {
+          "name": "Olap",
+          "code": "0214",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YfLJIN9OTCCGsGAaoXfqug_610004726696f4308184709_09444034_02821440XX1.jpg"
+        },
+        {
+          "name": "Salicornia",
+          "code": "2262",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bsANrcajRV23YcQN_03KVw_1493745328696f42eeaa4df0_98253593_02820820XX1.jpg"
+        },
+        {
+          "name": "Modici",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3t9WU6qrQtWjIPAxBEDX0Q_1339733322696f436ee64bb3_28064893_02830870XX1.jpg",
+          "modelId": 185
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Heritage Style (Grigio): Olap 1031 в ансамбле с пуловером Cremona 3421.",
+        "en": "Heritage Style (Grigio): Olap 1031 paired with the Cremona 3421 pullover.",
+        "ar": "Heritage Style (Grigio): Olap 1031 paired with the Cremona 3421 pullover.",
+        "ka": "Heritage Style (Grigio): Olap 1031 paired with the Cremona 3421 pullover.",
+        "hy": "Heritage Style (Grigio): Olap 1031 paired with the Cremona 3421 pullover.",
+        "lv": "Heritage Style (Grigio): Olap 1031 paired with the Cremona 3421 pullover.",
+        "lt": "Heritage Style (Grigio): Olap 1031 paired with the Cremona 3421 pullover.",
+        "pl": "Heritage Style (Grigio): Olap 1031 paired with the Cremona 3421 pullover.",
+        "uk": "Heritage Style (Grigio): Olap 1031 paired with the Cremona 3421 pullover."
+      },
+      "items": [
+        {
+          "name": "Olap",
+          "code": "1031",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/601963602691f15a15f3cd2_56066529_02780990XX1.jpg"
+        },
+        {
+          "name": "Cremona",
+          "code": "3421",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yyz2fwI3TfaYHxif56HoIw_1683337760696f4379690928_47645276_02831270XX1.jpg",
+          "modelId": 15
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (Beige Freddo)",
+        "en": "Total Look (Beige Freddo)",
+        "ar": "Total Look (Beige Freddo)",
+        "ka": "Total Look (Beige Freddo)",
+        "hy": "Total Look (Beige Freddo)",
+        "lv": "Total Look (Beige Freddo)",
+        "lt": "Total Look (Beige Freddo)",
+        "pl": "Total Look (Beige Freddo)",
+        "uk": "Total Look (Beige Freddo)"
+      },
+      "text": {
+        "ru": "Olap 1119 в сочетании с тренчем Sigle 2731 1167 и пуловером Manos F 0204.",
+        "en": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "ar": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "ka": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "hy": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "lv": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "lt": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "pl": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover.",
+        "uk": "Olap 1119 combined with the Sigle 2731 1167 trench coat and Manos F 0204 pullover."
+      },
+      "items": [
+        {
+          "name": "Olap",
+          "code": "1119",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg"
+        },
+        {
+          "name": "Sigle",
+          "code": "2731 1167",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1331191701691c578853baa0_07542947_02780150XX1.jpg",
+          "modelId": 483
+        },
+        {
+          "name": "Manos F",
+          "code": "0204",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1706098854691f156c37f925_68045055_02780700XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Sophisticated Heritage: Olap 1031 в сочетании с паркой Strumento 0817 1022 и серьгами Neanide 0002.",
+        "en": "Sophisticated Heritage: Olap 1031 combined with the Strumento 0817 1022 parka and Neanide 0002 earrings.",
+        "ar": "Sophisticated Heritage: Olap 1031 combined with the Strumento 0817 1022 parka and Neanide 0002 earrings.",
+        "ka": "Sophisticated Heritage: Olap 1031 combined with the Strumento 0817 1022 parka and Neanide 0002 earrings.",
+        "hy": "Sophisticated Heritage: Olap 1031 combined with the Strumento 0817 1022 parka and Neanide 0002 earrings.",
+        "lv": "Sophisticated Heritage: Olap 1031 combined with the Strumento 0817 1022 parka and Neanide 0002 earrings.",
+        "lt": "Sophisticated Heritage: Olap 1031 combined with the Strumento 0817 1022 parka and Neanide 0002 earrings.",
+        "pl": "Sophisticated Heritage: Olap 1031 combined with the Strumento 0817 1022 parka and Neanide 0002 earrings.",
+        "uk": "Sophisticated Heritage: Olap 1031 combined with the Strumento 0817 1022 parka and Neanide 0002 earrings."
+      },
+      "items": [
+        {
+          "name": "Olap",
+          "code": "1031",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/601963602691f15a15f3cd2_56066529_02780990XX1.jpg"
+        },
+        {
+          "name": "Strumento",
+          "code": "0817 1022",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/144663504692424e1b33464_10342439_02781750XX1.jpg",
+          "modelId": 498
+        },
+        {
+          "name": "Neanide",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1605403396691c57d8aee920_21613301_02800170XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Urban Chic (Meringa): Olap 0214 дополненный жилетом Scalare 0817 и пуловером Manos F 0204.",
+        "en": "Urban Chic (Meringa): Olap 0214 complemented by the Scalare 0817 vest and Manos F 0204 pullover.",
+        "ar": "Urban Chic (Meringa): Olap 0214 complemented by the Scalare 0817 vest and Manos F 0204 pullover.",
+        "ka": "Urban Chic (Meringa): Olap 0214 complemented by the Scalare 0817 vest and Manos F 0204 pullover.",
+        "hy": "Urban Chic (Meringa): Olap 0214 complemented by the Scalare 0817 vest and Manos F 0204 pullover.",
+        "lv": "Urban Chic (Meringa): Olap 0214 complemented by the Scalare 0817 vest and Manos F 0204 pullover.",
+        "lt": "Urban Chic (Meringa): Olap 0214 complemented by the Scalare 0817 vest and Manos F 0204 pullover.",
+        "pl": "Urban Chic (Meringa): Olap 0214 complemented by the Scalare 0817 vest and Manos F 0204 pullover.",
+        "uk": "Urban Chic (Meringa): Olap 0214 complemented by the Scalare 0817 vest and Manos F 0204 pullover."
+      },
+      "items": [
+        {
+          "name": "Olap",
+          "code": "0214",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YfLJIN9OTCCGsGAaoXfqug_610004726696f4308184709_09444034_02821440XX1.jpg"
+        },
+        {
+          "name": "Scalare",
+          "code": "0817",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/579467540691c57cb581b12_63734955_02780440XX1.jpg",
+          "modelId": 300
+        },
+        {
+          "name": "Manos F",
+          "code": "0204",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1706098854691f156c37f925_68045055_02780700XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Focus the client's attention on the distinctive fabric composition: the presence of natural silk (10% of the blend) gives the Olinda trousers a status-affirming sheen and remarkable durability.",
+      "Emphasise the benefits of the pleated cut (pinces): this detail not only reflects current runway trends but also guarantees an impeccable fit, gracefully concealing figure nuances while allowing freedom of movement.",
+      "Recommend the Marrone Mélange shade as a flawless foundation for a winter wardrobe: this complex hue harmonises beautifully with both warm beige tones and the collection's deeper, contrasting shades."
+    ],
+    "ru": [
+      "Сфокусируйте внимание клиента на расклешенном крое (flared line): это идеальный способ визуально скорректировать пропорции, сделать ноги стройнее и длиннее.",
+      "Акцентируйте внимание на материале: вельвет в рубчик — ключевой тренд сезона, который сочетает в себе уют трикотажа и элегантность классических брюк.",
+      "Предложите создание монохромного образа в светлых оттенках (например, Meringa): это беспроигрышный вариант в стиле 'quiet luxury', подчеркивающий благородство тканей.",
+      "Акцентируйте внимание на расклешенном силуэте (flared), который является ключевым трендом сезона и обладает исключительным свойством визуально удлинять ноги и корректировать пропорции фигуры.",
+      "Сделайте ставку на материал: вельвет в рубчик от Luisa Spagnoli сочетает в себе теплоту натурального хлопка и эластичность, что делает брюки Olap идеальной базой для зимнего гардероба.",
+      "Рекомендуйте модель как универсальный элемент для создания монохромных образов в стиле 'quiet luxury', подчеркивая благородство оттенков Meringa и Beige Freddo."
+    ],
+    "ar": [
+      "ركزي انتباه العميل على القصّة الواسعة (flared line): إنها الطريقة المثالية لتصحيح نسب الجسم بصرياً، وجعل الساقين تبدوان أكثر نحافة وطولاً.",
+      "سلطي الضوء على الخامة: المخمل المضلع (corduroy) هو الاتجاه الرئيسي لهذا الموسم، حيث يجمع بين دفء التريكو وأناقة البنطال الكلاسيكي.",
+      "اقترحي خلق إطلالة أحادية اللون بألوان فاتحة (مثل Meringa): هذا خيار مثالي بأسلوب 'quiet luxury'، يبرز رقي الأقمشة.",
+      "أكدي على القصّة الواسعة (flared)، والتي تعد اتجاهاً رئيسياً لهذا الموسم وتتمتع بخاصية استثنائية لإطالة الساقين وتصحيح نسب القوام.",
+      "راهني على الخامة: المخمل المضلع من Luisa Spagnoli يجمع بين دفء القطن الطبيعي والمرونة، مما يجعل بنطال Olap أساساً مثالياً لخزانة الملابس الشتوية.",
+      "رشحي هذا الموديل كعنصر متعدد الاستخدامات لخلق إطلالات أحادية اللون بأسلوب 'quiet luxury'، مع التأكيد على رقي درجات Meringa و Beige Freddo."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება გაშლილ ჭრილზე (flared line): ეს არის იდეალური გზა პროპორციების ვიზუალურად კორექტირებისთვის, ფეხების უფრო გამხდრისა და გრძელის გამოსაჩენად.",
+      "გაამახვილეთ ყურადღება მასალაზე: ხავერდი ზოლებით — სეზონის მთავარი ტრენდია, რომელიც აერთიანებს ტრიკოტაჟის მყუდროებასა და კლასიკური შარვლების ელეგანტურობას.",
+      "შესთავაზეთ მონოქრომული იერსახის შექმნა ღია ფერებში (მაგალითად, Meringa): ეს არის მომგებიანი ვარიანტი 'quiet luxury' სტილში, რომელიც ხაზს უსვამს ქსოვილების კეთილშობილებას.",
+      "გაამახვილეთ ყურადღება გაშლილ სილუეტზე (flared), რომელიც სეზონის მთავარი ტრენდია და გააჩნია ფეხების ვიზუალურად დაგრძელებისა და ფიგურის პროპორციების კორექტირების გამორჩეული თვისება.",
+      "გააკეთეთ აქცენტი მასალაზე: Luisa Spagnoli-ს ხავერდი ზოლებით აერთიანებს ნატურალური ბამბის სითბოსა და ელასტიკურობას, რაც Olap-ის შარვლებს ზამთრის გარდერობის იდეალურ ბაზად აქცევს.",
+      "რეკომენდაცია გაუწიეთ მოდელს, როგორც უნივერსალურ ელემენტს 'quiet luxury' სტილის მონოქრომული იერსახეების შესაქმნელად, რაც ხაზს უსვამს Meringa-სა და Beige Freddo-ს ფერების კეთილშობილებას."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք լայնացող ձևվածքի (flared line) վրա. սա համամասնությունները տեսողականորեն շտկելու, ոտքերն ավելի սլացիկ և երկար դարձնելու իդեալական միջոց է:",
+      "Շեշտադրեք նյութի վրա. զոլավոր թավիշը սեզոնի հիմնական թրենդն է, որը միավորում է տրիկոտաժի հարմարավետությունն ու դասական տաբատների էլեգանտությունը:",
+      "Առաջարկեք ստեղծել մոնոքրոմ կերպար բաց երանգներով (օրինակ՝ Meringa). սա «quiet luxury» ոճով հաղթական տարբերակ է, որն ընդգծում է գործվածքների ազնվականությունը:",
+      "Շեշտադրեք լայնացող ուրվագծի (flared) վրա, որը սեզոնի հիմնական թրենդն է և օժտված է ոտքերը տեսողականորեն երկարացնելու և կազմվածքի համամասնությունները շտկելու բացառիկ հատկությամբ:",
+      "Խաղադրույք կատարեք նյութի վրա. Luisa Spagnoli-ի զոլավոր թավիշը համատեղում է բնական բամբակի ջերմությունն ու առաձգականությունը, ինչը Olap տաբատը դարձնում է ձմեռային զգեստապահարանի կատարյալ հիմք:",
+      "Խորհուրդ տվեք մոդելը որպես համընդհանուր տարր «quiet luxury» ոճով մոնոքրոմ կերպարներ ստեղծելու համար՝ ընդգծելով Meringa և Beige Freddo երանգների ազնվականությունը:"
+    ],
+    "lv": [
+      "Fokusējiet klienta uzmanību uz piegulošo un uz leju paplašināto piegriezumu (flared line): tas ir ideāls veids, kā vizuāli koriģēt proporcijas, padarot kājas slaidākas un garākas.",
+      "Akcentējiet uzmanību uz materiālu: rievotais samts ir sezonas galvenā tendence, kas apvieno trikotāžas mājīgumu un klasisko bikšu eleganci.",
+      "Piedāvājiet izveidot vienkrāsainu tēlu gaišos toņos (piemēram, Meringa): tas ir nevainojams variants 'quiet luxury' stilā, kas uzsver audumu cēlumu.",
+      "Akcentējiet uzmanību uz paplašināto siluetu (flared), kas ir sezonas galvenā tendence un kam piemīt izcila īpašība vizuāli pagarināt kājas un koriģēt figūras proporcijas.",
+      "Lieciet uzsvaru uz materiālu: Luisa Spagnoli rievotais samts apvieno dabīgās kokvilnas siltumu un elastību, kas padara bikses Olap par ideālu pamatu ziemas garderobei.",
+      "Iesakiet modeli kā universālu elementu vienkrāsainu tēlu radīšanai 'quiet luxury' stilā, uzsverot Meringa un Beige Freddo toņu cēlumu."
+    ],
+    "lt": [
+      "Sufokusuokite kliento dėmesį į platėjantį kirpimą (flared line): tai idealus būdas vizualiai pakoreguoti proporcijas, padaryti kojas lieknesnes ir ilgesnes.",
+      "Akcentuokite dėmesį į medžiagą: velvetas smulkiais grioveliais – pagrindinė sezono tendencija, kuri sujungia trikotažo jaukumą ir klasikinių kelnių eleganciją.",
+      "Pasiūlykite kurti vienspalvį įvaizdį šviesiais atspalviais (pavyzdžiui, Meringa): tai garantuotas „quiet luxury“ stiliaus variantas, pabrėžiantis audinių kilnumą.",
+      "Akcentuokite dėmesį į platėjantį siluetą (flared), kuris yra pagrindinė sezono tendencija ir pasižymi išskirtine savybe vizualiai pailginti kojas bei koreguoti figūros proporcijas.",
+      "Statykite ant medžiagos: Luisa Spagnoli velvetas smulkiais grioveliais sujungia natūralios medvilnės šilumą ir elastingumą, todėl kelnės Olap yra idealus pagrindas žiemos garderobui.",
+      "Rekomenduokite modelį kaip universalų elementą vienspalviams įvaizdžiams „quiet luxury“ stiliumi kurti, pabrėžiant Meringa ir Beige Freddo atspalvių kilnumą."
+    ],
+    "pl": [
+      "Skup uwagę klientki na kroju rozszerzanym (flared line): to idealny sposób na optyczną korektę proporcji, wysmuklenie i wydłużenie nóg.",
+      "Połóż nacisk na materiał: sztruks w prążki to kluczowy trend sezonu, który łączy w sobie przytulność dzianiny i elegancję klasycznych spodni.",
+      "Zaproponuj stworzenie monochromatycznej stylizacji w jasnych odcieniach (na przykład Meringa): to bezbłędny wariant w stylu „quiet luxury”, podkreślający szlachetność tkanin.",
+      "Połóż nacisk na rozszerzany krój (flared), który jest kluczowym trendem sezonu i posiada wyjątkową właściwość optycznego wydłużania nóg oraz korygowania proporcji sylwetki.",
+      "Postaw na materiał: sztruks w prążki od Luisa Spagnoli łączy w sobie ciepło naturalnej bawełny i elastyczność, co czyni spodnie Olap idealną bazą zimowej garderoby.",
+      "Polecaj model jako uniwersalny element do tworzenia monochromatycznych stylizacji w stylu „quiet luxury”, podkreślając szlachetność odcieni Meringa i Beige Freddo."
+    ],
+    "uk": [
+      "Сфокусуйте увагу клієнта на розкльошеному крої (flared line): це ідеальний спосіб візуально скоригувати пропорції, зробити ноги стрункішими та довшими.",
+      "Акцентуйте увагу на матеріалі: вельвет у рубчик — ключовий тренд сезону, який поєднує в собі затишок трикотажу та елегантність класичних штанів.",
+      "Запропонуйте створення монохромного образу у світлих відтінках (наприклад, Meringa): це безпрограшний варіант у стилі 'quiet luxury', що підкреслює благородство тканин.",
+      "Акцентуйте увагу на розкльошеному силуеті (flared), який є ключовим трендом сезону і володіє винятковою властивістю візуально подовжувати ноги та коригувати пропорції фігури.",
+      "Зробіть ставку на матеріал: вельвет у рубчик від Luisa Spagnoli поєднує в собі теплоту натуральної бавовни та еластичність, що робить штани Olap ідеальною базою для зимового гардероба.",
+      "Рекомендуйте модель як універсальний елемент для створення монохромних образів у стилі 'quiet luxury', підкреслюючи благородство відтінків Meringa та Beige Freddo."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Corduroy may look too casual.",
+        "a": "Draw attention to the gold-tone LS hardware and the fabric's deep texture, which, depending on the light, evokes velvet. This makes the Olap trousers suitable even for evening occasions."
+      },
+      {
+        "q": "A flared cut is difficult to pair with footwear.",
+        "a": "Recommend wearing this style with heeled or platform shoes (such as the Urbana ankle boots), to make the most of the cut's potential for elongating the silhouette."
+      },
+      {
+        "q": "Light shades, such as Meringa, are impractical for winter.",
+        "a": "Emphasise that a light winter palette is a marker of high status. Luisa Spagnoli's corduroy has a high density and durability, and cleans easily with professional care."
+      },
+      {
+        "q": "The trousers may stretch out with wear.",
+        "a": "Point out the fabric composition: 3% elastane has been added specifically to help the piece retain its shape and the crisp lines of its flared silhouette throughout the day."
+      },
+      {
+        "q": "Corduroy may visually add volume to the hips.",
+        "a": "Clarify that the vertical ribbing of the corduroy, on the contrary, acts as an optical device, elongating the lines and slimming the figure, unlike smooth fabrics. |"
+      },
+      {
+        "q": "Corduroy may look too casual for evening occasions.",
+        "a": "Point out the gold-tone hardware with the LS monogram and the fabric's deep texture, which takes on a refined sheen under artificial lighting, making the style suitable for social occasions."
+      },
+      {
+        "q": "The trousers may quickly lose their shape due to the fabric composition.",
+        "a": "Clarify that the addition of elastane (3%) is specifically calculated to preserve crisp lines and prevent deformation at the knees, even with extended wear."
+      },
+      {
+        "q": "Light shades, such as Meringa, are impractical for the winter season.",
+        "a": "Emphasise that a light palette is a marker of high status. Luisa Spagnoli corduroy has a high density and durability, and cleans easily with professional care."
+      },
+      {
+        "q": "A flared cut is difficult to pair with outerwear.",
+        "a": "Demonstrate ready-made looks from the lookbook: the Olap trousers pair beautifully with cropped jackets or maxi coats, creating a balanced, contemporary silhouette."
+      },
+      {
+        "q": "Ribbed corduroy may visually add volume around the hips.",
+        "a": "Explain that the vertical orientation of the ribbing, on the contrary, acts as an optical device, elongating the lines and slimming the figure."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Вельвет может выглядеть слишком повседневно",
+        "a": "Обратите внимание на золотистую фурнитуру LS и глубокую фактуру ткани, которая при разном освещении напоминает бархат. Это делает брюки Olap подходящими даже для вечерних выходов."
+      },
+      {
+        "q": "Расклешенный крой сложно сочетать с обувью",
+        "a": "Рекомендуйте носить эту модель с обувью на каблуке или платформе (например, ботильонами Urbana), чтобы максимально использовать потенциал кроя для удлинения силуэта."
+      },
+      {
+        "q": "Светлые оттенки, такие как Meringa, непрактичны для зимы",
+        "a": "Подчеркните, что светлая зимняя палитра — это признак высокого статуса. Вельвет от Luisa Spagnoli обладает высокой плотностью и износостойкостью, легко поддается профессиональной чистке."
+      },
+      {
+        "q": "Брюки могут растянуться в процессе носки",
+        "a": "Укажите на состав ткани: 3% эластана добавлены именно для того, чтобы изделие сохраняло свою форму и четкость линий flared-силуэта на протяжении всего дня."
+      },
+      {
+        "q": "Вельвет может визуально добавлять объем бедрам",
+        "a": "Поясните, что вертикальный рубчик вельвета, напротив, работает как оптический фильтр, вытягивая линии и стройня фигуру, в отличие от гладких тканей. |"
+      },
+      {
+        "q": "Вельвет может выглядеть слишком повседневно для вечерних выходов",
+        "a": "Укажите на золотистую фурнитуру с монограммой LS и глубокую фактуру ткани, которая при искусственном освещении приобретает благородный блеск, делая модель подходящей для светских мероприятий."
+      },
+      {
+        "q": "Брюки могут быстро потерять форму из-за состава ткани",
+        "a": "Поясните, что добавление эластана (3%) специально рассчитано на сохранение четкости линий и предотвращение деформации коленей даже при длительной носке."
+      },
+      {
+        "q": "Светлые оттенки, такие как Meringa, непрактичны для зимнего сезона",
+        "a": "Подчеркните, что светлая палитра — это маркер высокого статуса. Вельвет Luisa Spagnoli обладает высокой плотностью и износостойкостью, легко поддаваясь профессиональной чистке."
+      },
+      {
+        "q": "Расклешенный крой сложно сочетать с верхней одеждой",
+        "a": "Продемонстрируйте готовые решения из лукбука: брюки Olap идеально гармонируют с укороченными жакетами или пальто-макси, создавая сбалансированный и современный силуэт."
+      },
+      {
+        "q": "Вельвет в рубчик может визуально добавлять объем в области бедер",
+        "a": "Объясните, что вертикальная направленность рубчика, напротив, работает как оптический фильтр, вытягивая линии и стройня фигуру."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يبدو المخمل المضلع (Velvet) يومياً جداً",
+        "a": "لفت الانتباه إلى الإكسسوارات الذهبية LS والملمس العميق للقماش الذي يشبه المخمل عند اختلاف الإضاءة، مما يجعل سراويل Olap مناسبة حتى للسهرات."
+      },
+      {
+        "q": "يصعب تنسيق القص الواسع مع الأحذية",
+        "a": "يوصى بارتداء هذا الموديل مع أحذية ذات كعب أو منصة (مثل بوت Urbana) للاستفادة القصوى من إمكانات القص في إطالة القامة."
+      },
+      {
+        "q": "الألوان الفاتحة مثل Meringa غير عملية للشتاء",
+        "a": "أكد أن اللوحة الشتوية الفاتحة هي علامة على المكانة العالية، حيث يتميز المخمل من Luisa Spagnoli بكثافة عالية ومقاومة للتآكل، ويسهل تنظيفه احترافياً."
+      },
+      {
+        "q": "قد تتمدد السراويل أثناء الارتداء",
+        "a": "أشر إلى تركيبة القماش: حيث تمت إضافة 3% من الإيلاستين خصيصاً للحفاظ على شكل المنتج ووضوح خطوط قصّة flared طوال اليوم."
+      },
+      {
+        "q": "قد يضيف المخمل حجماً بصرياً للفخذين",
+        "a": "وضح أن التضليع العمودي للمخمل يعمل كمرشح بصري يطيل الخطوط ويجعل القوام أكثر رشاقة، على عكس الأقمشة الملساء."
+      },
+      {
+        "q": "قد يبدو المخمل يومياً جداً للسهرات",
+        "a": "أشر إلى الإكسسوارات الذهبية بشعار LS والملمس العميق للقماش الذي يكتسب بريقاً نبيلاً تحت الإضاءة الصناعية، مما يجعل الموديل مناسباً للمناسبات الاجتماعية."
+      },
+      {
+        "q": "قد تفقد السراويل شكلها بسرعة بسبب تركيبة القماش",
+        "a": "وضح أن إضافة الإيلاستين (3%) محسوبة خصيصاً للحفاظ على وضوح الخطوط ومنع تشوه الركبتين حتى مع الارتداء الطويل."
+      },
+      {
+        "q": "الألوان الفاتحة مثل Meringa غير عملية للموسم الشتوي",
+        "a": "أكد أن اللوحة الفاتحة هي رمز للمكانة العالية، حيث يتميز مخمل Luisa Spagnoli بكثافة عالية ومقاومة للتآكل، ويسهل تنظيفه احترافياً."
+      },
+      {
+        "q": "يصعب تنسيق القص الواسع مع الملابس الخارجية",
+        "a": "اعرض حلولاً جاهزة من كتيب التنسيقات: تتناغم سراويل Olap تماماً مع الجاكيتات القصيرة أو معاطف الماكسي، مما يخلق قواماً متوازناً وعصرياً."
+      },
+      {
+        "q": "قد يضيف المخمل المضلع حجماً بصرياً في منطقة الفخذين",
+        "a": "اشرح أن التوجيه العمودي للتضليع يعمل كمرشح بصري يطيل الخطوط ويجعل القوام أكثر رشاقة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ხავერდი შეიძლება ზედმეტად ყოველდღიურად გამოიყურებოდეს",
+        "a": "ყურადღება გაამახვილეთ LS-ის ოქროსფერ ფურნიტურაზე და ქსოვილის ღრმა ფაქტურაზე, რომელიც სხვადასხვა განათებისას ხავერდს წააგავს. ეს Olap-ის შარვალს საღამოს გასვლებისთვისაც შესაფერისს ხდის."
+      },
+      {
+        "q": "გაშლილი კროის შეხამება რთულია ფეხსაცმელთან",
+        "a": "გირჩევთ, ეს მოდელი ატაროთ ქუსლიან ან პლატფორმიან ფეხსაცმელთან (მაგალითად, Urbana-ს ბოტილიონებთან), რათა მაქსიმალურად გამოიყენოთ კროის პოტენციალი სილუეტის დაგრძელებისთვის."
+      },
+      {
+        "q": "ღია ფერის ტონები, როგორიცაა Meringa, არაპრაქტიკულია ზამთრისთვის",
+        "a": "ხაზგასმით აღნიშნეთ, რომ ღია ზამთრის პალიტრა — მაღალი სტატუსის ნიშანია. Luisa Spagnoli-ს ხავერდს აქვს მაღალი სიმკვრივე და ცვეთამედეგობა, ადვილად ექვემდებარება პროფესიონალურ წმენდას."
+      },
+      {
+        "q": "შარვალი შეიძლება გაიწელოს ტარების პროცესში",
+        "a": "მიუთითეთ ქსოვილის შემადგენლობაზე: 3% ელასტანი დამატებულია სწორედ იმისთვის, რომ ნაკეთობამ შეინარჩუნოს თავისი ფორმა და flared-სილუეტის ხაზების სიცხადე მთელი დღის განმავლობაში."
+      },
+      {
+        "q": "ხავერდმა შეიძლება ვიზუალურად შესძინოს მოცულობა თეძოებს",
+        "a": "განუმარტეთ, რომ ხავერდის ვერტიკალური ზოლები, პირიქით, მუშაობს როგორც ოპტიკური ფილტრი, ჭიმავს ხაზებს და აწვრილებს ფიგურას, გლუვი ქსოვილებისგან განსხვავებით. |"
+      },
+      {
+        "q": "ხავერდი შეიძლება ზედმეტად ყოველდღიურად გამოიყურებოდეს საღამოს გამოსვლებისთვის",
+        "a": "მიუთითეთ LS-ის მონოგრამიან ოქროსფერ ფურნიტურაზე და ქსოვილის ღრმა ფაქტურაზე, რომელიც ხელოვნური განათებისას კეთილშობილურ ბზინვარებას იძენს და მოდელს შესაფერისს ხდის საერო ღონისძიებებისთვის."
+      },
+      {
+        "q": "შარვალმა შეიძლება სწრაფად დაკარგოს ფორმა ქსოვილის შემადგენლობის გამო",
+        "a": "განუმარტეთ, რომ ელასტანის (3%) დამატება სპეციალურად არის გათვლილი ხაზების სიცხადის შენარჩუნებასა და მუხლების დეფორმაციის თავიდან ასაცილებლად, ხანგრძლივი ტარების დროსაც კი."
+      },
+      {
+        "q": "ღია ფერის ტონები, როგორიცაა Meringa, არაპრაქტიკულია ზამთრის სეზონისთვის",
+        "a": "ხაზგასმით აღნიშნეთ, რომ ღია პალიტრა — მაღალი სტატუსის მარკერია. Luisa Spagnoli-ს ხავერდს აქვს მაღალი სიმკვრივე და ცვეთამედეგობა, ადვილად ექვემდებარება პროფესიონალურ წმენდას."
+      },
+      {
+        "q": "გაშლილი კროის შეხამება რთულია ზედა ტანსაცმელთან",
+        "a": "აჩვენეთ მზა გადაწყვეტილებები ლუქბუქიდან: Olap-ის შარვალი იდეალურად ჰარმონირებს შემოკლებულ პიჯაკებთან ან მაქსი-პალტოებთან, რაც ქმნის დაბალანსებულ და თანამედროვე სილუეტს."
+      },
+      {
+        "q": "ზოლიანმა ხავერდმა შეიძლება ვიზუალურად შესძინოს მოცულობა თეძოების არეში",
+        "a": "აუხსენით, რომ ზოლების ვერტიკალური მიმართულება, პირიქით, მუშაობს როგორც ოპტიკური ფილტრი, ჭიმავს ხაზებს და აწვრილებს ფიგურას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Թավիշը կարող է չափազանց առօրյա թվալ",
+        "a": "Ուշադրություն դարձրեք LS ոսկեգույն աքսեսուարներին և գործվածքի խորը հյուսվածքին, որը տարբեր լուսավորության պայմաններում հիշեցնում է թավիշ։ Սա Olap տաբատը դարձնում է հարմար նույնիսկ երեկոյան ելքերի համար։"
+      },
+      {
+        "q": "Փողքավոր կտրվածքը դժվար է համադրել կոշիկի հետ",
+        "a": "Խորհուրդ տվեք կրել այս մոդելը կրունկով կամ հարթակով կոշիկներով (օրինակ՝ Urbana կիսաճտքավոր կոշիկներով), որպեսզի առավելագույնս օգտագործեք սիլուետը երկարացնելու կտրվածքի ներուժը։"
+      },
+      {
+        "q": "Բաց երանգները, ինչպիսիք են Meringa-ն, անգործնական են ձմռան համար",
+        "a": "Ընդգծեք, որ բաց ձմեռային գունապնակը բարձր կարգավիճակի նշան է։ Luisa Spagnoli-ի թավիշը ունի բարձր խտություն և մաշվածակայունություն, հեշտությամբ ենթարկվում է պրոֆեսիոնալ մաքրման։"
+      },
+      {
+        "q": "Տաբատը կարող է ձգվել կրելու ընթացքում",
+        "a": "Մատնանշեք գործվածքի կազմը. 3% էլաստանն ավելացված է հենց նրա համար, որ արտադրանքը պահպանի իր ձևը և flared-սիլուետի գծերի հստակությունը ամբողջ օրվա ընթացքում։"
+      },
+      {
+        "q": "Թավիշը կարող է վիզուալ ավելացնել ծավալ ազդրերին",
+        "a": "Բացատրեք, որ թավշի ուղղահայաց գծերը, ընդհակառակը, աշխատում են որպես օպտիկական ֆիլտր՝ երկարացնելով գծերը և նիհարեցնելով կազմվածքը, ի տարբերություն հարթ գործվածքների։ |"
+      },
+      {
+        "q": "Թավիշը կարող է չափազանց առօրյա թվալ երեկոյան ելքերի համար",
+        "a": "Մատնանշեք LS մոնոգրամով ոսկեգույն ֆուրնիտուրան և գործվածքի խորը հյուսվածքը, որը արհեստական լուսավորության ներքո ձեռք է բերում ազնվական փայլ՝ մոդելը դարձնելով հարմար հասարակական միջոցառումների համար։"
+      },
+      {
+        "q": "Տաբատը կարող է արագ կորցնել ձևը գործվածքի կազմի պատճառով",
+        "a": "Պարզաբանեք, որ էլաստանի ավելացումը (3%) հատուկ հաշվարկված է գծերի հստակությունը պահպանելու և ծնկների դեֆորմացումը կանխելու համար նույնիսկ երկարատև կրելու դեպքում։"
+      },
+      {
+        "q": "Բաց երանգները, ինչպիսիք են Meringa-ն, անգործնական են ձմեռային սեզոնի համար",
+        "a": "Ընդգծեք, որ բաց գունապնակը բարձր կարգավիճակի նշան է։ Luisa Spagnoli-ի թավիշը ունի բարձր խտություն և մաշվածակայունություն, հեշտությամբ ենթարկվելով պրոֆեսիոնալ մաքրման։"
+      },
+      {
+        "q": "Փողքավոր կտրվածքը դժվար է համադրել վերնահագուստի հետ",
+        "a": "Ցույց տվեք պատրաստի լուծումներ lookbook-ից. Olap տաբատները իդեալականորեն ներդաշնակում են կարճ պիջակների կամ մաքսի վերարկուների հետ՝ ստեղծելով հավասարակշռված և ժամանակակից սիլուետ։"
+      },
+      {
+        "q": "Գծավոր թավիշը կարող է վիզուալ ավելացնել ծավալ ազդրերի հատվածում",
+        "a": "Բացատրեք, որ գծերի ուղղահայաց ուղղվածությունը, ընդհակառակը, աշխատում է որպես օպտիկական ֆիլտր՝ երկարացնելով գծերը և նիհարեցնելով կազմվածքը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Velvets var izskatīties pārāk ikdienišķi",
+        "a": "Pievērsiet uzmanību zeltītajai LS furnitūrai un dziļajai auduma faktūrai, kas dažādā apgaismojumā atgādina samtu. Tas padara bikses Olap piemērotas pat vakara iznācieniem."
+      },
+      {
+        "q": "Paplatināto piegriezumu ir grūti kombinēt ar apaviem",
+        "a": "Iesakiet nēsāt šo modeli ar apaviem uz papēža vai platformas (piemēram, potīšu zābakiem Urbana), lai maksimāli izmantotu piegriezuma potenciālu silueta pagarināšanai."
+      },
+      {
+        "q": "Gaišie toņi, tādi kā Meringa, ir nepraktiski ziemai",
+        "a": "Uzsveriet, ka gaišā ziemas palete ir augsta statusa pazīme. Velvets no Luisa Spagnoli piemīt augsts blīvums un nodilumizturība, tas ir viegli pakļaujams profesionālai tīrīšanai."
+      },
+      {
+        "q": "Bikses var izstiepties nēsāšanas procesā",
+        "a": "Norādiet uz auduma sastāvu: 3% elastāna ir pievienoti tieši tāpēc, lai izstrādājums saglabātu savu formu un flared-silueta līniju skaidrību visas dienas garumā."
+      },
+      {
+        "q": "Velvets var vizuāli pievienot apjomu gurniem",
+        "a": "Paskaidrojiet, ka velveta vertikālā rievotība, pretēji, darbojas kā optiskais filtrs, izstiepjot līnijas un slaidinot figūru, atšķirībā no gludiem audumiem. |"
+      },
+      {
+        "q": "Velvets var izskatīties pārāk ikdienišķi vakara iznācieniem",
+        "a": "Norādiet uz zeltīto furnitūru ar LS monogrammu un dziļo auduma faktūru, kas mākslīgajā apgaismojumā iegūst cēlu spīdumu, padarot modeli piemērotu saviesīgiem pasākumiem."
+      },
+      {
+        "q": "Bikses var ātri zaudēt formu auduma sastāva dēļ",
+        "a": "Paskaidrojiet, ka elastāna pievienošana (3%) ir īpaši aprēķināta līniju skaidrības saglabāšanai un ceļgalu deformācijas novēršanai pat ilgstošas nēsāšanas laikā."
+      },
+      {
+        "q": "Gaišie toņi, tādi kā Meringa, ir nepraktiski ziemas sezonai",
+        "a": "Uzsveriet, ka gaišā palete ir augsta statusa marķieris. Velvets Luisa Spagnoli piemīt augsts blīvums un nodilumizturība, viegli padodoties profesionālai tīrīšanai."
+      },
+      {
+        "q": "Paplatināto piegriezumu ir grūti kombinēt ar virsdrēbēm",
+        "a": "Demonstrējiet gatavus risinājumus no lookbook: bikses Olap ideāli harmonē ar īsām žaketēm vai mēteli-maksi, radot līdzsvarotu un modernu siluetu."
+      },
+      {
+        "q": "Rievotais velvets var vizuāli pievienot apjomu gurnu zonā",
+        "a": "Paskaidrojiet, ka rievojuma vertikālais virziens, pretēji, darbojas kā optiskais filtrs, izstiepjot līnijas un slaidinot figūru."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Velvetas gali atrodyti per daug kasdieniškai",
+        "a": "Atkreipkite dėmesį į auksinę LS furnitūrą ir gilią audinio faktūrą, kuri esant skirtingam apšvietimui primena aksomą. Tai daro Olap kelnes tinkamas net vakariniams išėjimams."
+      },
+      {
+        "q": "Platėjantį kirpimą sunku derinti su avalyne",
+        "a": "Rekomenduokite nešioti šį modelį su aukštakulniais ar platforma (pavyzdžiui, aulinukais Urbana), kad maksimaliai išnaudotumėte kirpimo potencialą silueto ilginimui."
+      },
+      {
+        "q": "Šviesūs atspalviai, tokie kaip Meringa, nepraktiški žiemai",
+        "a": "Pabrėžkite, kad šviesi žiemos paletė — tai aukšto statuso ženklas. Luisa Spagnoli velvetas pasižymi dideliu tankiu ir atsparumu dėvėjimuisi, lengvai pasiduoda profesionaliam valymui."
+      },
+      {
+        "q": "Kelnės gali išsitampyti dėvėjimo metu",
+        "a": "Nurodykite audinio sudėtį: 3% elastano pridėta būtent tam, kad gaminys išlaikytų savo formą ir flared-silueto linijų ryškumą visą dieną."
+      },
+      {
+        "q": "Velvetas gali vizualiai pridėti apimties klubams",
+        "a": "Paaiškinkite, kad vertikali velveto briaunelė, priešingai, veikia kaip optinis filtras, ilgindama linijas ir lieknindama figūrą, skirtingai nei lygūs audiniai. |"
+      },
+      {
+        "q": "Velvetas gali atrodyti per daug kasdieniškai vakariniams išėjimams",
+        "a": "Nurodykite auksinę furnitūrą su LS monograma ir gilią audinio faktūrą, kuri dirbtiniame apšvietime įgauna kilnų žvilgesį, todėl modelis tinka iškilmingiems renginiams."
+      },
+      {
+        "q": "Kelnės gali greitai prarasti formą dėl audinio sudėties",
+        "a": "Paaiškinkite, kad elastano (3%) pridėjimas specialiai apskaičiuotas linijų ryškumui išsaugoti ir kelių deformacijos išvengimui net ir ilgai nešiojant."
+      },
+      {
+        "q": "Šviesūs atspalviai, tokie kaip Meringa, nepraktiški žiemos sezonui",
+        "a": "Pabrėžkite, kad šviesi paletė — tai aukšto statuso žymuo. Luisa Spagnoli velvetas pasižymi dideliu tankiu ir atsparumu dėvėjimuisi, lengvai valomas profesionaliu būdu."
+      },
+      {
+        "q": "Platėjantį kirpimą sunku derinti su viršutiniais drabužiais",
+        "a": "Pademonstruokite paruoštus sprendimus iš lukbooko: Olap kelnės idealiai dera su trumpintais švarkais ar maxi paltais, sukuriant subalansuotą ir modernų siluetą."
+      },
+      {
+        "q": "Briaunuotas velvetas gali vizualiai pridėti apimties klubų srityje",
+        "a": "Paaiškinkite, kad vertikali briaunelės kryptis, priešingai, veikia kaip optinis filtras, ilgindama linijas ir lieknindama figūrą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Sztruks może wyglądać zbyt codziennie",
+        "a": "Zwróć uwagę na złotą biżuterię LS i głęboką fakturę tkaniny, która w zależności od oświetlenia przypomina aksamit. Sprawia to, że spodnie Olap nadają się nawet na wieczorne wyjścia."
+      },
+      {
+        "q": "Rozszerzany krój trudno łączyć z obuwiem",
+        "a": "Zalecaj noszenie tego modelu z obuwiem na obcasie lub platformie (na przykład botkami Urbana), aby maksymalnie wykorzystać potencjał kroju do wydłużenia sylwetki."
+      },
+      {
+        "q": "Jasne odcienie, takie jak Meringa, są niepraktyczne na zimę",
+        "a": "Podkreśl, że jasna zimowa paleta to oznaka wysokiego statusu. Sztruks od Luisa Spagnoli posiada wysoką gęstość i odporność na zużycie, łatwo poddaje się profesjonalnemu czyszczeniu."
+      },
+      {
+        "q": "Spodnie mogą się rozciągnąć w trakcie noszenia",
+        "a": "Wskaż na skład tkaniny: 3% elastanu dodano właśnie po to, aby produkt zachowywał swój kształt i wyrazistość linii typu flared przez cały dzień."
+      },
+      {
+        "q": "Sztruks może optycznie dodawać objętości biodrom",
+        "a": "Wyjaśnij, że pionowy prążek sztruksu wręcz działa jak filtr optyczny, wydłużając linie i wyszczuplając figurę, w przeciwieństwie do gładkich tkanin."
+      },
+      {
+        "q": "Sztruks może wyglądać zbyt codziennie na wieczorne wyjścia",
+        "a": "Wskaż na złote elementy z monogramem LS oraz głęboką fakturę tkaniny, która w sztucznym oświetleniu nabiera szlachetnego blasku, czyniąc model odpowiednim na oficjalne wydarzenia."
+      },
+      {
+        "q": "Spodnie mogą szybko stracić kształt przez skład tkaniny",
+        "a": "Wyjaśnij, że dodatek elastanu (3%) jest specjalnie obliczony na zachowanie wyrazistości linii i zapobieganie deformacji kolan nawet przy długim noszeniu."
+      },
+      {
+        "q": "Jasne odcienie, takie jak Meringa, są niepraktyczne na sezon zimowy",
+        "a": "Podkreśl, że jasna paleta to znacznik wysokiego statusu. Sztruks Luisa Spagnoli posiada wysoką gęstość i odporność na zużycie, łatwo poddając się profesjonalnemu czyszczeniu."
+      },
+      {
+        "q": "Rozszerzany krój trudno łączyć z odzieżą wierzchnią",
+        "a": "Zaprezentuj gotowe rozwiązania z lookbooka: spodnie Olap idealnie współgrają z krótkimi żakietami lub płaszczami typu maxi, tworząc zrównoważoną i nowoczesną sylwetkę."
+      },
+      {
+        "q": "Sztruks w prążek może optycznie dodawać objętości w okolicy bioder",
+        "a": "Wyjaśnij, że pionowy układ prążka wręcz działa jak filtr optyczny, wydłużając linie i wyszczuplając sylwetkę."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Вельвет може виглядати занадто повсякденно",
+        "a": "Зверніть увагу на золотисту фурнітуру LS та глибоку фактуру тканини, яка при різному освітленні нагадує оксамит. Це робить штани Olap придатними навіть для вечірніх виходів."
+      },
+      {
+        "q": "Розкльошений крій складно поєднувати з взуттям",
+        "a": "Рекомендуйте носити цю модель із взуттям на підборах або платформі (наприклад, ботильйонами Urbana), щоб максимально використати потенціал крою для подовження силуету."
+      },
+      {
+        "q": "Світлі відтінки, такі як Meringa, непрактичні для зими",
+        "a": "Підкресліть, що світла зимова палітра — це ознака високого статусу. Вельвет від Luisa Spagnoli має високу щільність і зносостійкість, легко піддається професійній чистці."
+      },
+      {
+        "q": "Штани можуть розтягнутися в процесі носіння",
+        "a": "Вкажіть на склад тканини: 3% еластану додані саме для того, щоб виріб зберігав свою форму і чіткість ліній flared-силуету протягом усього дня."
+      },
+      {
+        "q": "Вельвет може візуально додавати об'єм стегнам",
+        "a": "Поясніть, що вертикальний рубчик вельвету, навпаки, працює як оптичний фільтр, витягуючи лінії та роблячи фігуру стрункішою, на відміну від гладких тканин. |"
+      },
+      {
+        "q": "Вельвет може виглядати занадто повсякденно для вечірніх виходів",
+        "a": "Вкажіть на золотисту фурнітуру з монограмою LS та глибоку фактуру тканини, яка при штучному освітленні набуває благородного блиску, роблячи модель придатною для світських заходів."
+      },
+      {
+        "q": "Штани можуть швидко втратити форму через склад тканини",
+        "a": "Поясніть, що додавання еластану (3%) спеціально розраховане на збереження чіткості ліній і запобігання деформації колін навіть при тривалому носінні."
+      },
+      {
+        "q": "Світлі відтінки, такі як Meringa, непрактичні для зимового сезону",
+        "a": "Підкресліть, що світла палітра — це маркер високого статусу. Вельвет Luisa Spagnoli має високу щільність і зносостійкість, легко піддаючись професійній чистці."
+      },
+      {
+        "q": "Розкльошений крій складно поєднувати з верхнім одягом",
+        "a": "Продемонструйте готові рішення з лукбука: штани Olap ідеально гармоніюють з укороченими жакетами або пальто-максі, створюючи збалансований і сучасний силует."
+      },
+      {
+        "q": "Вельвет у рубчик може візуально додавати об'єм у зоні стегон",
+        "a": "Поясніть, що вертикальна спрямованість рубчика, навпаки, працює як оптичний фільтр, витягуючи лінії та роблячи фігуру стрункішою."
+      }
+    ]
+  }
+}

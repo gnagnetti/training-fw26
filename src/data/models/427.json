@@ -1,0 +1,454 @@
+{
+  "id": 427,
+  "name": "Luminaria",
+  "description": {
+    "en": "The elegant Luminaria 0216 0216 shirt is the true embodiment of aristocratic style and textile perfection within the Luisa Spagnoli DNA. Crafted from pure natural silk (pura seta), it lends the look a noble shimmer and an unparalleled sense of lightness. The piece's architecture captivates with a play of volume: a dynamic jabot with exquisite ruffles lends the neckline area sculptural expressiveness, while gently gathered shoulders underscore the femininity of the silhouette. Particular status is lent to the piece by pleated cuffs, which serve as an exquisite accent with every movement of the arm. Thanks to the classic collar and flawless Regular fit, this shirt becomes the perfect centerpiece for the collection's most luxurious ensembles.",
+    "ru": "Элегантная рубашка Luminaria 0216 0216 --- это истинное воплощение аристократизма и текстильного совершенства в ДНК Luisa Spagnoli. Выполненная из чистого натурального шелка (pura seta), она дарит образу благородное мерцание и неповторимое ощущение легкости. Архитектура модели завораживает игрой объемов: динамичный жабо с изысканными рюшами придает портретной зоне скульптурную выразительность, а слегка присобранные плечи подчеркивают женственность силуэта. Особую статусность изделию придают плиссированные манжеты, которые выступают изысканным акцентом при движении рук. Благодаря классическому воротнику и безупречной «регулярной посадке» (vestibilità regular), эта рубашка становится идеальным центром для самых роскошных ансамблей коллекции.",
+    "ar": "قميص Luminaria 0216 0216 الأنيق --- هو تجسيد حقيقي للأرستقراطية وكمال النسيج في جوهر Luisa Spagnoli. مصنوع من الحرير الطبيعي الخالص (pura seta)، مما يضفي على الإطلالة بريقاً نبيلاً وشعوراً لا يضاهى بالخفة. تأسر بنية الطراز الأنفاس بتلاعبها بالأحجام؛ حيث تضفي الياقة الديناميكية المزينة بكسرات رائعة تعبيراً نحتياً على منطقة الصدر، بينما تؤكد الأكتاف المزمومة قليلاً على أنوثة الصورة الظلية. وتضفي الأكمام المكسرة (البليسيه) لمسة أرستقراطية خاصة، حيث تبرز كإكسسوار راقٍ مع حركة اليدين. بفضل الياقة الكلاسيكية و\"القصة المنتظمة\" (vestibilità regular) التي لا تشوبها شائبة، يصبح هذا القميص المركز المثالي لأكثر مجموعات الملابس فخامة.",
+    "ka": "ელეგანტური პერანგი Luminaria 0216 0216 --- ეს არის არისტოკრატიზმისა და ტექსტილის სრულყოფილების ნამდვილი განსხეულება Luisa Spagnoli-ს დნმ-ში. დამზადებულია სუფთა ნატურალური აბრეშუმისგან (pura seta), ის გამოსახულებას ანიჭებს კეთილშობილურ ბზინვარებას და სიმსუბუქის განუმეორებელ შეგრძნებას. მოდელის არქიტექტურა აჯადოებს მოცულობების თამაშით: დინამიური ჟაბო დახვეწილი ნაოჭებით პორტრეტულ ზონას სკულპტურულ გამომსახველობას მატებს, ხოლო ოდნავ შეკრული მხრები სილუეტის ქალურობას უსვამს ხაზს. ნაკეთობას განსაკუთრებულ სტატუსს სძენს პლისირებული მანჟეტები, რომლებიც ხელების მოძრაობისას დახვეწილ აქცენტად იქცევა. კლასიკური საყელოსა და უნაკლო „რეგულარული მორგების“ (vestibilità regular) წყალობით, ეს პერანგი ხდება კოლექციის ყველაზე მდიდრული ანსამბლების იდეალური ცენტრი.",
+    "hy": "Luminaria 0216 0216 էլեգանտ վերնաշապիկը Luisa Spagnoli-ի ԴՆԹ-ում ազնվականության և տեքստիլ կատարելության իրական մարմնացումն է։ Պատրաստված լինելով մաքուր բնական մետաքսից (pura seta)՝ այն կերպարին հաղորդում է վեհաշուք փայլ և թեթևության անկրկնելի զգացողություն։ Մոդելի ճարտարապետությունը հմայում է ծավալների խաղով. նրբագեղ ժանյակներով դինամիկ ժաբոն դիմանկարային հատվածին հաղորդում է քանդակային արտահայտչականություն, իսկ թեթևակի հավաքված ուսերը ընդգծում են ուրվագծի կանացիությունը։ Հատուկ կարգավիճակ են հաղորդում փլիսեավորված թևքերը, որոնք ձեռքերի շարժման ժամանակ դառնում են նրբագեղ շեշտադրում։ Դասական օձիքի և անթերի «կանոնավոր ձևվածքի» (vestibilità regular) շնորհիվ այս վերնաշապիկը դառնում է հավաքածուի ամենաշքեղ անսամբլների իդեալական կենտրոնը։",
+    "lv": "Elegantais krekls Luminaria 0216 0216 --- tas ir patiess aristokrātisma un tekstilizstrādājumu pilnības iemiesojums Luisa Spagnoli DNS. Izgatavots no tīra dabīgā zīda (pura seta), tas piešķir tēlam cēlu mirdzumu un neatkārtojamu viegluma sajūtu. Modeļa arhitektūra apbur ar apjomu spēli: dinamisks žabo ar izsmalcinātiem volāniem piešķir portretzonai skulpturālu izteiksmīgumu, bet viegli savilktie pleci izceļ silueta sievišķību. Īpašu statusu izstrādājumam piešķir plisētas aproces, kas kalpo kā izsmalcināts akcents roku kustību laikā. Pateicoties klasiskajai apkaklei un nevainojamajam „regulārajam piegriezumam” (vestibilità regular), šis krekls kļūst par ideālu centru greznākajiem kolekcijas ansambļiem.",
+    "lt": "Elegantiški marškiniai Luminaria 0216 0216 --- tai tikras aristokratiškumo ir tekstilės tobulumo įsikūnijimas Luisa Spagnoli DNR. Pagaminti iš gryno natūralaus šilko (pura seta), jie suteikia įvaizdžiui kilnaus žvilgesio ir nepakartojamą lengvumo pojūtį. Modelio architektūra užburia tūrių žaismu: dinamiškas žabo su rafinuotais raukiniais suteikia portretinei zonai skulptūrinio išraiškingumo, o lengvai suraukti pečiai pabrėžia silueto moteriškumą. Ypatingo statuso gaminiui suteikia klostuoti rankogaliai, kurie tampa rafinuotu akcentu judant rankoms. Dėl klasikinės apykaklės ir nepriekaištingo „reguliaraus sukirpimo“ (vestibilità regular), šie marškiniai tampa idealiu centru patiems prabangiausiems kolekcijos ansambliams.",
+    "pl": "Elegancka koszula Luminaria 0216 0216 to prawdziwe ucieleśnienie arystokratyzmu i tekstylnej doskonałości w DNA Luisa Spagnoli. Wykonana z czystego naturalnego jedwabiu (pura seta), nadaje stylizacji szlachetnego połysku i niepowtarzalnego uczucia lekkości. Architektura modelu zachwyca grą objętości: dynamiczny żabot z wykwintnymi falbankami nadaje strefie portretowej rzeźbiarską wyrazistość, a lekko przymarszczone ramiona podkreślają kobiecość sylwetki. Szczególną rangę nadają modelowi plisowane mankiety, które stanowią wyrafinowany akcent podczas ruchu rąk. Dzięki klasycznemu kołnierzowi i nienagannemu „regularnemu krojowi” (vestibilità regular), ta koszula staje się idealnym centrum dla najbardziej luksusowych zestawów kolekcji.",
+    "uk": "Елегантна сорочка Luminaria 0216 0216 --- це справжнє втілення аристократизму та текстильної досконалості в ДНК Luisa Spagnoli. Виконана з чистого натурального шовку (pura seta), вона дарує образу благородне мерехтіння та неповторне відчуття легкості. Архітектура моделі заворожує грою об'ємів: динамічне жабо з вишуканими рюшами надає портретній зоні скульптурної виразності, а злегка призібрані плечі підкреслюють жіночність силуету. Особливу статусність виробу додають плісовані манжети, які виступають вишуканим акцентом під час руху рук. Завдяки класичному коміру та бездоганній «регулярній посадці» (vestibilità regular), ця сорочка стає ідеальним центром для найрозкішніших ансамблів колекції."
+  },
+  "colors": [
+    {
+      "name": "Avorio Avorio",
+      "code": "0216 0216",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Bo7fhDlUQQuCTRucqEiSZw_2029438175691c578c3e1388_85624184_02780230XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать рубашку Luminaria как ключевой элемент для создания торжественных и статусных дневных образов: Вариант 0216 0216: В lookbook (Look 107): каноническое вечернее прочтение с юбкой-карандаш из жаккарда Fluvia 3312 и ювелирным поясом-цепью Docenza 0001 0002.",
+        "en": "Стилисты бренда предлагают использовать рубашку Luminaria как ключевой элемент для создания торжественных и статусных дневных образов: Вариант 0216 0216: В lookbook (Look 107): каноническое вечернее прочтение с юбкой-карандаш из жаккарда Fluvia 3312 и ювелирным поясом-цепью Docenza 0001 0002.",
+        "ar": "Стилисты бренда предлагают использовать рубашку Luminaria как ключевой элемент для создания торжественных и статусных дневных образов: Вариант 0216 0216: В lookbook (Look 107): каноническое вечернее прочтение с юбкой-карандаш из жаккарда Fluvia 3312 и ювелирным поясом-цепью Docenza 0001 0002.",
+        "ka": "Стилисты бренда предлагают использовать рубашку Luminaria как ключевой элемент для создания торжественных и статусных дневных образов: Вариант 0216 0216: В lookbook (Look 107): каноническое вечернее прочтение с юбкой-карандаш из жаккарда Fluvia 3312 и ювелирным поясом-цепью Docenza 0001 0002.",
+        "hy": "Стилисты бренда предлагают использовать рубашку Luminaria как ключевой элемент для создания торжественных и статусных дневных образов: Вариант 0216 0216: В lookbook (Look 107): каноническое вечернее прочтение с юбкой-карандаш из жаккарда Fluvia 3312 и ювелирным поясом-цепью Docenza 0001 0002.",
+        "lv": "Стилисты бренда предлагают использовать рубашку Luminaria как ключевой элемент для создания торжественных и статусных дневных образов: Вариант 0216 0216: В lookbook (Look 107): каноническое вечернее прочтение с юбкой-карандаш из жаккарда Fluvia 3312 и ювелирным поясом-цепью Docenza 0001 0002.",
+        "lt": "Стилисты бренда предлагают использовать рубашку Luminaria как ключевой элемент для создания торжественных и статусных дневных образов: Вариант 0216 0216: В lookbook (Look 107): каноническое вечернее прочтение с юбкой-карандаш из жаккарда Fluvia 3312 и ювелирным поясом-цепью Docenza 0001 0002.",
+        "pl": "Стилисты бренда предлагают использовать рубашку Luminaria как ключевой элемент для создания торжественных и статусных дневных образов: Вариант 0216 0216: В lookbook (Look 107): каноническое вечернее прочтение с юбкой-карандаш из жаккарда Fluvia 3312 и ювелирным поясом-цепью Docenza 0001 0002.",
+        "uk": "Стилисты бренда предлагают использовать рубашку Luminaria как ключевой элемент для создания торжественных и статусных дневных образов: Вариант 0216 0216: В lookbook (Look 107): каноническое вечернее прочтение с юбкой-карандаш из жаккарда Fluvia 3312 и ювелирным поясом-цепью Docenza 0001 0002."
+      },
+      "items": [
+        {
+          "name": "Fluvia",
+          "code": "3312",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/853862624692424ca18fd59_99146768_02781070XX1.jpg"
+        },
+        {
+          "name": "Docenza",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/292276183691c57d0884ee5_52397694_02800050XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 0216 0216",
+        "en": "Вариант 0216 0216",
+        "ar": "Вариант 0216 0216",
+        "ka": "Вариант 0216 0216",
+        "hy": "Вариант 0216 0216",
+        "lv": "Вариант 0216 0216",
+        "lt": "Вариант 0216 0216",
+        "pl": "Вариант 0216 0216",
+        "uk": "Вариант 0216 0216"
+      },
+      "text": {
+        "ru": "В lookbook (Look 110) и на витринах (Vetrina 137, Bambola 1): утонченный ансамбль с сияющим кардиганом Zagarolo 0428, брюками из парчи Ovada 3312 и сумкой Inise 0212 0002.",
+        "en": "В lookbook (Look 110) и на витринах (Vetrina 137, Bambola 1): утонченный ансамбль с сияющим кардиганом Zagarolo 0428, брюками из парчи Ovada 3312 и сумкой Inise 0212 0002.",
+        "ar": "В lookbook (Look 110) и на витринах (Vetrina 137, Bambola 1): утонченный ансамбль с сияющим кардиганом Zagarolo 0428, брюками из парчи Ovada 3312 и сумкой Inise 0212 0002.",
+        "ka": "В lookbook (Look 110) и на витринах (Vetrina 137, Bambola 1): утонченный ансамбль с сияющим кардиганом Zagarolo 0428, брюками из парчи Ovada 3312 и сумкой Inise 0212 0002.",
+        "hy": "В lookbook (Look 110) и на витринах (Vetrina 137, Bambola 1): утонченный ансамбль с сияющим кардиганом Zagarolo 0428, брюками из парчи Ovada 3312 и сумкой Inise 0212 0002.",
+        "lv": "В lookbook (Look 110) и на витринах (Vetrina 137, Bambola 1): утонченный ансамбль с сияющим кардиганом Zagarolo 0428, брюками из парчи Ovada 3312 и сумкой Inise 0212 0002.",
+        "lt": "В lookbook (Look 110) и на витринах (Vetrina 137, Bambola 1): утонченный ансамбль с сияющим кардиганом Zagarolo 0428, брюками из парчи Ovada 3312 и сумкой Inise 0212 0002.",
+        "pl": "В lookbook (Look 110) и на витринах (Vetrina 137, Bambola 1): утонченный ансамбль с сияющим кардиганом Zagarolo 0428, брюками из парчи Ovada 3312 и сумкой Inise 0212 0002.",
+        "uk": "В lookbook (Look 110) и на витринах (Vetrina 137, Bambola 1): утонченный ансамбль с сияющим кардиганом Zagarolo 0428, брюками из парчи Ovada 3312 и сумкой Inise 0212 0002."
+      },
+      "items": [
+        {
+          "name": "Zagarolo",
+          "code": "0428",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1051776270692424e73558f3_18046401_02790720XX1.jpg",
+          "modelId": 500
+        },
+        {
+          "name": "Ovada",
+          "code": "3312",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/936942396691c5786a14ef5_62573932_02780110XX1.jpg",
+          "modelId": 470
+        },
+        {
+          "name": "Inise",
+          "code": "0212 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 0216 0216",
+        "en": "Вариант 0216 0216",
+        "ar": "Вариант 0216 0216",
+        "ka": "Вариант 0216 0216",
+        "hy": "Вариант 0216 0216",
+        "lv": "Вариант 0216 0216",
+        "lt": "Вариант 0216 0216",
+        "pl": "Вариант 0216 0216",
+        "uk": "Вариант 0216 0216"
+      },
+      "text": {
+        "ru": "На витринах (Vetrina 138, Bambola 2 / Vetrina 139, Bambola 3): сложный многослойный образ с пальто Scatto 0202, пуловером Cufra 1105 2302 ( надетым поверх рубашки) и брюками Archimede 0210.",
+        "en": "На витринах (Vetrina 138, Bambola 2 / Vetrina 139, Bambola 3): сложный многослойный образ с пальто Scatto 0202, пуловером Cufra 1105 2302 ( надетым поверх рубашки) и брюками Archimede 0210.",
+        "ar": "На витринах (Vetrina 138, Bambola 2 / Vetrina 139, Bambola 3): сложный многослойный образ с пальто Scatto 0202, пуловером Cufra 1105 2302 ( надетым поверх рубашки) и брюками Archimede 0210.",
+        "ka": "На витринах (Vetrina 138, Bambola 2 / Vetrina 139, Bambola 3): сложный многослойный образ с пальто Scatto 0202, пуловером Cufra 1105 2302 ( надетым поверх рубашки) и брюками Archimede 0210.",
+        "hy": "На витринах (Vetrina 138, Bambola 2 / Vetrina 139, Bambola 3): сложный многослойный образ с пальто Scatto 0202, пуловером Cufra 1105 2302 ( надетым поверх рубашки) и брюками Archimede 0210.",
+        "lv": "На витринах (Vetrina 138, Bambola 2 / Vetrina 139, Bambola 3): сложный многослойный образ с пальто Scatto 0202, пуловером Cufra 1105 2302 ( надетым поверх рубашки) и брюками Archimede 0210.",
+        "lt": "На витринах (Vetrina 138, Bambola 2 / Vetrina 139, Bambola 3): сложный многослойный образ с пальто Scatto 0202, пуловером Cufra 1105 2302 ( надетым поверх рубашки) и брюками Archimede 0210.",
+        "pl": "На витринах (Vetrina 138, Bambola 2 / Vetrina 139, Bambola 3): сложный многослойный образ с пальто Scatto 0202, пуловером Cufra 1105 2302 ( надетым поверх рубашки) и брюками Archimede 0210.",
+        "uk": "На витринах (Vetrina 138, Bambola 2 / Vetrina 139, Bambola 3): сложный многослойный образ с пальто Scatto 0202, пуловером Cufra 1105 2302 ( надетым поверх рубашки) и брюками Archimede 0210."
+      },
+      "items": [
+        {
+          "name": "Scatto",
+          "code": "0202",
+          "imageUrl": null
+        },
+        {
+          "name": "Cufra",
+          "code": "1105 2302",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VpGJSiTCR6KovTVV5ZpWMA_2113102145696f435e76c3d1_04142034_02830340XX1.jpg",
+          "modelId": 17
+        },
+        {
+          "name": "Archimede",
+          "code": "0210",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- A textile 'illuminator': Direct the client's attention to the material. 100% natural silk has a unique ability to softly reflect light, instantly 'illuminating' the face, concealing signs of fatigue, and lending the skin a radiant glow. - Jewel-like cuf"
+    ],
+    "ru": [
+      "- Текстильный «иллюминатор»: Акцентируйте внимание клиента на материале. 100% натуральный шелк обладает уникальной способностью мягко отражать свет, что мгновенно «подсвечивает» лицо, скрывая следы усталости и придавая коже сияние. - Ювелирная работа манж"
+    ],
+    "ar": [
+      "- \"مضيء\" النسيج: ركزي على الخامة. يمتلك الحرير الطبيعي بنسبة 100% قدرة فريدة على عكس الضوء بنعومة، مما \"يضيء\" الوجه فورًا، ويخفي آثار التعب ويمنح البشرة إشراقة. - فن الأساور الجوهري: وجهي انتباه العميل إلى ثنيات الأساور. هذه التفاصيل تحول القميص إلى قطعة"
+    ],
+    "ka": [
+      "- ტექსტილური «ილუმინატორი»: გაამახვილეთ კლიენტის ყურადღება მასალაზე. 100% ნატურალური აბრეშუმი ფლობს სინათლის რბილად არეკვლის უნიკალურ უნარს, რაც მყისიერად „ანათებს“ სახეს, ფარავს დაღლილობის კვალს და კანს ბზინვარებას ანიჭებს. - მანჟეტების საიუველირო შესრულ"
+    ],
+    "hy": [
+      "- Տեքստիլ «լուսավորիչ»։ Շեշտադրեք հաճախորդի ուշադրությունը նյութի վրա։ 100% բնական մետաքսն ունի լույսը մեղմորեն անդրադարձնելու յուրահատուկ կարողություն, որն ակնթարթորեն «լուսավորում է» դեմքը, թաքցնում հոգնածության հետքերը և մաշկին հաղորդում փայլ։ - Ոսկերչ"
+    ],
+    "lv": [
+      "- Tekstila «iluminators»: Akcentējiet klienta uzmanību uz materiālu. 100% dabīgais zīds piemīt unikālai spējai maigi atstarot gaismu, kas acumirklī «izgaismo» seju, apslēpjot noguruma pēdas un piešķirot ādai mirdzumu. - Juvelierizstrādājumu līmeņa aproču"
+    ],
+    "lt": [
+      "- Tekstinis „iliuminatorius“: Akcentuokite kliento dėmesį į audinį. 100% natūralus šilkas pasižymi unikalia savybe švelniai atspindėti šviesą, kuri akimirksniu „apšviečia“ veidą, paslėpdama nuovargio žymes ir suteikdama odai spindesio. - Juvelyrinis rankogalių darbas: Atkreipkite kliento dėmesį į rankogalių klostavimą. Ši detalė marškinius paverčia savarankišku meno objektu. Rekomenduokite juos dėvėti po švarkais su šiek tiek trumpintomis rankovėmis (pavyzdžiui, Zagarolo 0428), kad būtų pademonstruotas šis meistriškas atlikimas. - Vertikalės meistriškumas: Pabrėžkite, kad raukiniai sukuria galingą vertikalią liniją. Tai patikrintas stilistinis sprendimas, kuris vizualiai ištęsia siluetą ir daro įvaizdį lieknesnį bei didingesnį."
+    ],
+    "pl": [
+      "- Tekstylny «iluminator»: Zwróć uwagę klientki na materiał. 100% jedwab naturalny posiada unikalną zdolność delikatnego odbijania światła, co natychmiast „rozświetla” twarz, maskując oznaki zmęczenia i nadając skórze blask. - Jubilerska praca przy mankiet"
+    ],
+    "uk": [
+      "- Текстильний «ілюмінатор»: Акцентуйте увагу клієнта на матеріалі. 100% натуральний шовк володіє унікальною здатністю м'яко відбивати світло, що миттєво «підсвічує» обличчя, приховуючи сліди втоми та надаючи шкірі сяйва. - Ювелірна робота манжет: Зверніть"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "jabot looks Explain that this is a key element of the too formal» \"Romantic Heritage\" style. The shirt can be \"toned down\" by layering the Cufra 1105 pullover over it, as suggested in official window display „–138. This makes the look more casual while keeping the focus on the collar. «Silk is very Remind the client that Luisa Spagnoli uses difficult to care for» high-density silk. With proper professional care, such a piece lasts for decades, making it an investment in a \"forever\" wardrobe. «The ruffles might Point out that the ruffles on the Luminaria add volume to the model are made from the finest silk, which bust» doesn't stand stiff but drapes softly, following the body's movement without adding unwanted volume. «White seems White silk in the luxury segment is a symbol of impractical» status. It refreshes any ensemble and makes the look \"expensive.\" Moreover, shade 0216 pairs beautifully with the collection's gold and silver textures. «I'm worried the Luisa Spagnoli's silk pleating has a high pleated cuffs will degree of recovery. Once you take off the coat, wrinkle under a simply give the cuffs a gentle shake, coat» and they'll return to their original shape"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Жабо выглядит",
+        "a": "Поясните, что это ключевой элемент стиля слишком обязывающим."
+      },
+      {
+        "q": "Romantic Heritage",
+        "a": ". Рубашку можно."
+      },
+      {
+        "q": "успокоить",
+        "a": "надев поверх пуловер Cufra 1105, как предложено в официальной витрине №138. Это сделает образ более повседневным, сохранив акцент на воротнике."
+      },
+      {
+        "q": "Шелк очень сложен в",
+        "a": "Напомните, что Luisa Spagnoli использует шелк уходе высокой плотности. При правильном профессиональном уходе такая вещь служит десятилетиями, являясь инвестицией в."
+      },
+      {
+        "q": "вечный",
+        "a": "гардероб."
+      },
+      {
+        "q": "Рюши могут добавить",
+        "a": "Укажите на то, что рюши на модели Luminaria объема в груди выполнены из тончайшего шелка, который не стоит колом, а мягко драпируется, следуя за движениями тела, не создавая лишнего объема."
+      },
+      {
+        "q": "Белый цвет кажется Белый шелк в сегменте luxury — это символ непрактичным",
+        "a": "статуса. Он освежает любой ансамбль и делает образ."
+      },
+      {
+        "q": "дорогим",
+        "a": ". К тому же, оттенок 0216 идеально сочетается с золотистыми и серебристыми фактурами коллекции."
+      },
+      {
+        "q": "Боюсь, что Шелковая плиссировка Luisa Spagnoli обладает плиссированные манжеты высокой степенью восстановления. После снятия помнутся под верхней пальто манжеты достаточно слегка встряхнуть, одеждой",
+        "a": "чтобы они вернули свою первозданную форму."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الكرانيش (Jabot) تبدو رسمية أكثر من اللازم",
+        "a": "وضح أن هذا عنصر أساسي في أسلوب."
+      },
+      {
+        "q": "Romantic Heritage",
+        "a": ". يمكن إضفاء لمسة هادئة على القميص بارتداء سترة Cufra 1105 فوقه، كما هو مقترح في واجهة العرض الرسمية رقم 138. هذا سيجعل المظهر أكثر عفوية (يومية) مع الحفاظ على التركيز على الياقة."
+      },
+      {
+        "q": "الحرير صعب العناية به",
+        "a": "ذكّر العميل بأن Luisa Spagnoli تستخدم حريراً عالي الكثافة. مع العناية الاحترافية الصحيحة، تعيش هذه القطعة لعقود، مما يجعلها استثماراً في خزانة ملابس."
+      },
+      {
+        "q": "خالدة",
+        "a": "."
+      },
+      {
+        "q": "الكشكشة قد تزيد من حجم منطقة الصدر",
+        "a": "أشر إلى أن الكشكشة في موديل Luminaria مصنوعة من أجود أنواع الحرير الذي لا يبرز للخارج بصلابة، بل ينسدل بنعومة مع حركات الجسم دون خلق حجم إضافي."
+      },
+      {
+        "q": "اللون الأبيض يبدو غير عملي",
+        "a": "الحرير الأبيض في قطاع الفخامة (luxury) هو رمز للمكانة. إنه يضفي انتعاشاً على أي طقم ويجعل المظهر يبدو."
+      },
+      {
+        "q": "باهظاً",
+        "a": ". بالإضافة إلى ذلك، يتناغم اللون 0216 بشكل مثالي مع القوام الذهبي والفضي في المجموعة."
+      },
+      {
+        "q": "أخشى أن تتجعد الأكمام المكشكشة تحت الملابس الخارجية",
+        "a": "تتمتع أكمام الحرير المكشكشة من Luisa Spagnoli بدرجة عالية من استعادة الشكل. بعد خلع المعطف، يكفي هز الأكمام قليلاً لتعود إلى شكلها الأصلي."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ჟაბო ზედმეტად სავალდებულოდ გამოიყურება",
+        "a": "განუმარტეთ, რომ ეს არის."
+      },
+      {
+        "q": "Romantic Heritage",
+        "a": "სტილის მთავარი ელემენტი. პერანგის."
+      },
+      {
+        "q": "დამშვიდება",
+        "a": "შესაძლებელია მასზე Cufra 1105 პულოვერის ჩაცმით, როგორც ეს შემოთავაზებულია ოფიციალურ ვიტრინაში №138. ეს იერსახეს უფრო ყოველდღიურს გახდის, თუმცა შეინარჩუნებს აქცენტს საყელოზე."
+      },
+      {
+        "q": "აბრეშუმი ძალიან რთული მოსავლელია",
+        "a": "შეახსენეთ, რომ Luisa Spagnoli იყენებს მაღალი სიმკვრივის აბრეშუმს. სათანადო პროფესიონალური მოვლის შემთხვევაში, ასეთი ნივთი ათწლეულების განმავლობაში მსახურობს და წარმოადგენს ინვესტიციას."
+      },
+      {
+        "q": "მარადიულ",
+        "a": "გარდერობში."
+      },
+      {
+        "q": "ფრიალებს (რიუშებს) შეუძლია მკერდის არეში მოცულობა შემატოს",
+        "a": "მიუთითეთ, რომ Luminaria-ს მოდელზე ფრიალები დამზადებულია უთხელესი აბრეშუმისგან, რომელიც არ დგას და არ არის ხისტი, არამედ რბილად დრაპირდება, მიჰყვება სხეულის მოძრაობებს და არ ქმნის ზედმეტ მოცულობას."
+      },
+      {
+        "q": "თეთრი ფერი არაპრაქტიკული ჩანს",
+        "a": "თეთრი აბრეშუმი luxury სეგმენტში — ეს სტატუსის სიმბოლოა. ის აახლებს ნებისმიერ ანსამბლს და იერსახეს."
+      },
+      {
+        "q": "ძვირადღირებულს",
+        "a": "ხდის. გარდა ამისა, 0216 ტონი იდეალურად ეხამება კოლექციის ოქროსფერ და ვერცხლისფერ ფაქტურებს."
+      },
+      {
+        "q": "მეშინია, რომ პლისირებული მანჟეტები ზედა სამოსის ქვეშ დაიჭმუჭნება",
+        "a": "Luisa Spagnoli-ს აბრეშუმის პლისირებას აქვს აღდგენის მაღალი ხარისხი. პალტოს გახდის შემდეგ მანჟეტები საკმარისია მსუბუქად შევაჯანჯღაროთ, რათა მათ დაუბრუნდეთ პირვანდელი ფორმა."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ժաբոն չափազանց պարտադրող տեսք ունի",
+        "a": "Բացատրեք, որ սա."
+      },
+      {
+        "q": "Romantic Heritage",
+        "a": "ոճի հիմնական տարրն է։ Վերնաշապիկը կարելի է."
+      },
+      {
+        "q": "հանդարտեցնել",
+        "a": "՝ վրայից հագնելով Cufra 1105 պուլովեր՝ ինչպես առաջարկված է պաշտոնական վիտրին №138-ում։ Սա կերպարը կդարձնի ավելի առօրյա՝ պահպանելով շեշտադրումը օձիքի վրա։."
+      },
+      {
+        "q": "Մետաքսը խնամքի մեջ շատ բարդ է",
+        "a": "Հիշեցրեք, որ Luisa Spagnoli-ն օգտագործում է բարձր խտության մետաքս։ Ճիշտ մասնագիտական խնամքի դեպքում նման իրը ծառայում է տասնամյակներ՝ հանդիսանալով ներդրում."
+      },
+      {
+        "q": "հավերժական",
+        "a": "զգեստապահարանում։."
+      },
+      {
+        "q": "Ժանյակները կարող են ծավալ հաղորդել կրծքավանդակին",
+        "a": "Մատնանշեք, որ Luminaria մոդելի ժանյակները պատրաստված են ամենանուրբ մետաքսից, որը կանգուն չի մնում, այլ փափուկ թափանցում է՝ հետևելով մարմնի շարժումներին՝ չստեղծելով ավելորդ ծավալ։."
+      },
+      {
+        "q": "Սպիտակ գույնը անգործնական է թվում",
+        "a": "Սպիտակ մետաքսը luxury սեգմենտում կարգավիճակի խորհրդանիշ է։ Այն թարմացնում է ցանկացած համադրություն և կերպարը դարձնում."
+      },
+      {
+        "q": "թանկարժեք",
+        "a": "։ Բացի այդ, 0216 երանգը իդեալականորեն համադրվում է հավաքածուի ոսկեզօծ և արծաթագույն ֆակտուրաների հետ։."
+      },
+      {
+        "q": "Վախենում եմ, որ պլիսեավորված թեւքերը կծալվեն վերնահագուստի տակ",
+        "a": "Luisa Spagnoli-ի մետաքսե պլիսեն ունի վերականգնման բարձր աստիճան։ Վերարկուն հանելուց հետո թեւքերը բավական է թեթևակի թափահարել, որպեսզի դրանք վերադառնան իրենց նախնական տեսքին։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Žabo izskatās",
+        "a": "Paskaidrojiet, ka tas ir galvenais «Romantic Heritage stila elements. Krekliņu var."
+      },
+      {
+        "q": "nomierināt",
+        "a": "uzvelkot virsū džemperi Cufra 1105, kā ieteikts oficiālajā vitrīnā №138. Tas padarīs tēlu ikdienišķāku, saglabājot akcentu uz apkakli."
+      },
+      {
+        "q": "Zīds ir ļoti sarežģīts",
+        "a": "Atgādiniet, ka Luisa Spagnoli izmanto augsta blīvuma zīdu. kopšanā Pareizi profesionāli kopjot, šāda lieta kalpo gadu desmitiem, būdama ieguldījums."
+      },
+      {
+        "q": "mūžīgajā",
+        "a": "garderobē."
+      },
+      {
+        "q": "Volāni var pievienot",
+        "a": "Norādiet uz to, ka volāni modelim Luminaria ir izgatavoti apjomu krūtīs no smalkākā zīda, kas nestāv stāvus, bet maigi drapējas, sekojot ķermeņa kustībām, neradot lieku apjomu."
+      },
+      {
+        "q": "Baltā krāsa šķiet Baltais zīds luxury segmentā — tas ir statusa simbols. nepraktiska",
+        "a": "Tas atsvaidzina jebkuru ansambli un padara tēlu."
+      },
+      {
+        "q": "dārgu",
+        "a": ". Turklāt tonis 0216 lieliski sader ar kolekcijas zeltītajām un sudrabotajām faktūrām."
+      },
+      {
+        "q": "Baidos, ka Luisa Spagnoli zīda plisējums piemīt augsta atjaunošanās plisētās aproces saburzīsies spēja. Pēc mēteļa novilkšanas aproces pietiek viegli zem virsdrēbēm",
+        "a": "sapurināt, lai tās atgūtu savu sākotnējo formu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Plastronas atrodo per daug įpareigojantis",
+        "a": "Paaiškinkite, kad tai yra pagrindinis „Romantic Heritage“ stiliaus elementas. Marškinius galima „nuraminti“ užsivilkus ant viršaus Cufra 1105 megztinį, kaip pasiūlyta oficialioje vitrinoje Nr. 138. Tai suteiks įvaizdžiui daugiau kasdieniškumo, išlaikant akcentą ties apykakle. , kad tai yra pagrindinis „Romantic Heritage“ stiliaus elementas. Marškinius galima „nuraminti“ užsivilkus ant viršaus Cufra 1105 megztinį, kaip pasiūlyta oficialioje vitrinoje Nr. 138. Tai suteiks įvaizdžiui daugiau kasdieniškumo, išlaikant akcentą ties apykakle."
+      },
+      {
+        "q": "„Šilkas labai sudėtingas prižiūrėti",
+        "a": "Priminkite, kad Luisa Spagnoli naudoja aukšto tankio šilką. Tinkamai profesionaliai prižiūrimas, toks drabužis tarnauja dešimtmečius, tapdamas investicija į „amžiną“ garderobą. , kad Luisa Spagnoli naudoja aukšto tankio šilką. Tinkamai profesionaliai prižiūrimas, toks drabužis tarnauja dešimtmečius, tapdamas investicija į „amžiną“ garderobą."
+      },
+      {
+        "q": "„Raukšlės gali pridėti apimties krūtinės srityje",
+        "a": "Nurodykite, kad Luminaria modelio raukšlės pagamintos iš ploniausio šilko, kuris nestovi stačias, o švelniai krenta, sekdamas kūno judesius ir nesukurdamas nereikalingos apimties. „Balta spalva atrodo nepraktiška“ Baltas šilkas prabangiame segmente — tai statuso simbolis. Jis pagyvina bet kokį ansamblį ir suteikia įvaizdžiui „brangumo“. Be to, 0216 atspalvis idealiai dera su auksinėmis ir sidabrinėmis kolekcijos faktūromis. „Bijau, kad plisuoti rankogaliai susiglamžys po viršutiniais drabužiais“ Luisa Spagnoli šilko klostės pasižymi aukštu atsistatymo laipsniu. Nusivilkus paltą, rankogalius pakanka lengvai papurtyti, kad jie atgautų savo pradinę formą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Żabot wygląda zbyt zobowiązująco",
+        "a": "Wyjaśnij, że jest to kluczowy element stylu."
+      },
+      {
+        "q": "Romantic Heritage",
+        "a": ". Koszulę można."
+      },
+      {
+        "q": "uspokoić",
+        "a": "zakładając na wierzch pulower Cufra 1105, zgodnie z propozycją w oficjalnej witrynie nr 138. Sprawi to, że stylizacja będzie bardziej codzienna, zachowując jednocześnie akcent na kołnierzyku."
+      },
+      {
+        "q": "Jedwab jest bardzo trudny w pielęgnacji",
+        "a": "Przypomnij, że Luisa Spagnoli używa jedwabiu o wysokiej gęstości. Przy odpowiedniej profesjonalnej pielęgnacji taka rzecz służy przez dziesięciolecia, będąc inwestycją w."
+      },
+      {
+        "q": "wieczną",
+        "a": "garderobę."
+      },
+      {
+        "q": "Falbanki mogą dodać objętości w biuście",
+        "a": "Wskaż na to, że falbanki w modelu Luminaria wykonane są z najcieńszego jedwabiu, który nie sztywnieje, lecz miękko się układa, podążając za ruchami ciała, nie tworząc zbędnej objętości."
+      },
+      {
+        "q": "Biały kolor wydaje się niepraktyczny",
+        "a": "Biały jedwab w segmencie luxury to symbol statusu. Odświeża każdy zestaw i sprawia, że stylizacja wygląda."
+      },
+      {
+        "q": "drogo",
+        "a": ". Ponadto odcień 0216 idealnie komponuje się ze złotymi i srebrzystymi fakturami kolekcji."
+      },
+      {
+        "q": "Obawiam się, że plisowane mankiety pogniotą się pod odzieżą wierzchnią",
+        "a": "Jedwabne plisowanie Luisa Spagnoli charakteryzuje się wysokim stopniem regeneracji. Po zdjęciu płaszcza mankiety wystarczy lekko wstrząsnąć, aby wróciły do swojego pierwotnego kształtu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Жабо виглядає",
+        "a": "Поясніть, що це ключовий елемент стилю занадто зобов'язуючим."
+      },
+      {
+        "q": "Romantic Heritage",
+        "a": ". Сорочку можна."
+      },
+      {
+        "q": "заспокоїти",
+        "a": "одягнувши поверх пуловер Cufra 1105, як запропоновано в офіційній вітрині №138. Це зробить образ більш повсякденним, зберігши акцент на комірі."
+      },
+      {
+        "q": "Шовк дуже складний у",
+        "a": "Нагадайте, що Luisa Spagnoli використовує шовк догляді високої щільності. При правильному професійному догляді така річ служить десятиліттями, будучи інвестицією у."
+      },
+      {
+        "q": "вічний",
+        "a": "гардероб."
+      },
+      {
+        "q": "Рюші можуть додати",
+        "a": "Вкажіть на те, що рюші на моделі Luminaria об'єму в грудях виконані з найтоншого шовку, який не стоїть колом, а м'яко драпірується, слідуючи за рухами тіла, не створюючи зайвого об'єму."
+      },
+      {
+        "q": "Білий колір здається Білий шовк у сегменті luxury — це символ непрактичним",
+        "a": "статусу. Він освіжає будь-який ансамбль і робить образ."
+      },
+      {
+        "q": "дорогим",
+        "a": ". До того ж, відтінок 0216 ідеально поєднується із золотистими та сріблястими фактурами колекції."
+      },
+      {
+        "q": "Боюся, що Шовкова плісировка Luisa Spagnoli володіє плісировані манжети високим ступенем відновлення. Після зняття помнуться під верхнім пальто манжети достатньо злегка струсити, одягом",
+        "a": "щоб вони повернули свою первозданну форму."
+      }
+    ]
+  }
+}

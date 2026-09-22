@@ -1,0 +1,6 @@
+{
+  "name": "Style Guide Hub",
+  "description": "Luisa Spagnoli FW 2026/2027 retail training material and style guide with model analysis, color variants, styling combinations, and sales advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

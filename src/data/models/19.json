@@ -1,0 +1,368 @@
+{
+  "id": 19,
+  "name": "Damiana",
+  "description": {
+    "en": "Data not available in official sources.",
+    "ru": "Данные отсутствуют в официальных источниках.",
+    "ar": "البيانات غير متوفرة في المصادر الرسمية.",
+    "ka": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში.",
+    "hy": "Տվյալները պաշտոնական աղբյուրներում բացակայում են:",
+    "lv": "Dati nav pieejami oficiālajos avotos.",
+    "lt": "Duomenų oficialiuose šaltiniuose nėra.",
+    "pl": "Brak danych w oficjalnych źródłach.",
+    "uk": "Дані відсутні в офіційних джерелах."
+  },
+  "colors": [
+    {
+      "name": "Marrone Oro",
+      "code": "0968 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NDDXZlsZRQ-5m0qisclEew_1647479317696f420deafbd7_64681520_02800420XX1.jpg"
+    },
+    {
+      "name": "Nero Oro",
+      "code": "0101 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/XkJU4saiTOKrQW4-ebp-KQ_417074898696f420c3fdff2_82132830_02800400XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 152",
+        "en": "Total Look 152",
+        "ar": "Total Look 152",
+        "ka": "Total Look 152",
+        "hy": "Total Look 152",
+        "lv": "Total Look 152",
+        "lt": "Total Look 152",
+        "pl": "Total Look 152",
+        "uk": "Total Look 152"
+      },
+      "text": {
+        "ru": "Soresina 0101 0101, Manos F 0101, Oneta 0101, Uramaky 0101, Damiana 0101 0002.",
+        "en": "Soresina 0101 0101, Manos F 0101, Oneta 0101, Uramaky 0101, Damiana 0101 0002.",
+        "ar": "Soresina 0101 0101, Manos F 0101, Oneta 0101, Uramaky 0101, Damiana 0101 0002.",
+        "ka": "Soresina 0101 0101, Manos F 0101, Oneta 0101, Uramaky 0101, Damiana 0101 0002.",
+        "hy": "Soresina 0101 0101, Manos F 0101, Oneta 0101, Uramaky 0101, Damiana 0101 0002.",
+        "lv": "Soresina 0101 0101, Manos F 0101, Oneta 0101, Uramaky 0101, Damiana 0101 0002.",
+        "lt": "Soresina 0101 0101, Manos F 0101, Oneta 0101, Uramaky 0101, Damiana 0101 0002.",
+        "pl": "Soresina 0101 0101, Manos F 0101, Oneta 0101, Uramaky 0101, Damiana 0101 0002.",
+        "uk": "Soresina 0101 0101, Manos F 0101, Oneta 0101, Uramaky 0101, Damiana 0101 0002."
+      },
+      "items": [
+        {
+          "name": "Soresina",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281029%29.png",
+          "modelId": 330
+        },
+        {
+          "name": "Manos F",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Oneta",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg",
+          "modelId": 254
+        },
+        {
+          "name": "Uramaky",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/urmaky.png"
+        },
+        {
+          "name": "Damiana",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/XkJU4saiTOKrQW4-ebp-KQ_417074898696f420c3fdff2_82132830_02800400XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 154",
+        "en": "Total Look 154",
+        "ar": "Total Look 154",
+        "ka": "Total Look 154",
+        "hy": "Total Look 154",
+        "lv": "Total Look 154",
+        "lt": "Total Look 154",
+        "pl": "Total Look 154",
+        "uk": "Total Look 154"
+      },
+      "text": {
+        "ru": "Scolpito 0101 0913, Manos F 0101, Ulisside 0101 0038, Damiana 0101 0002.",
+        "en": "Scolpito 0101 0913, Manos F 0101, Ulisside 0101 0038, Damiana 0101 0002.",
+        "ar": "Scolpito 0101 0913, Manos F 0101, Ulisside 0101 0038, Damiana 0101 0002.",
+        "ka": "Scolpito 0101 0913, Manos F 0101, Ulisside 0101 0038, Damiana 0101 0002.",
+        "hy": "Scolpito 0101 0913, Manos F 0101, Ulisside 0101 0038, Damiana 0101 0002.",
+        "lv": "Scolpito 0101 0913, Manos F 0101, Ulisside 0101 0038, Damiana 0101 0002.",
+        "lt": "Scolpito 0101 0913, Manos F 0101, Ulisside 0101 0038, Damiana 0101 0002.",
+        "pl": "Scolpito 0101 0913, Manos F 0101, Ulisside 0101 0038, Damiana 0101 0002.",
+        "uk": "Scolpito 0101 0913, Manos F 0101, Ulisside 0101 0038, Damiana 0101 0002."
+      },
+      "items": [
+        {
+          "name": "Scolpito",
+          "code": "0101 0913",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0091%20%282%29.jpg",
+          "modelId": 305
+        },
+        {
+          "name": "Manos F",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Ulisside",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+        },
+        {
+          "name": "Damiana",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/XkJU4saiTOKrQW4-ebp-KQ_417074898696f420c3fdff2_82132830_02800400XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw attention to the Italian craftsmanship and premium leather quality, making this belt a lasting investment for the wardrobe.",
+      "Present Damiana as a key element for building an architectural silhouette, worn over voluminous outerwear such as the Scolpito coat.",
+      "Highlight the prestige of the gold logo buckle — a refined accent that perfectly complements Luisa Spagnoli's 'quiet luxury' philosophy."
+    ],
+    "ru": [
+      "Акцентируйте внимание на итальянском мастерстве и премиальном качестве кожи, что делает этот ремень долговечной инвестицией в гардероб.",
+      "Предлагайте Damiana как ключевой элемент для создания архитектурного силуэта, используя его поверх объемной верхней одежды, такой как пальто Scolpito.",
+      "Подчеркните статусность золотистой пряжки с логотипом — это изысканный акцент, который идеально дополняет концепцию «тихой роскоши» Luisa Spagnoli."
+    ],
+    "ar": [
+      "ركزي على الحرفية الإيطالية وجودة الجلد الفاخرة، مما يجعل هذا الحزام استثماراً طويل الأمد في خزانة الملابس.",
+      "اقترحي Damiana كعنصر أساسي لخلق قوام معماري محدد، من خلال ارتدائه فوق القطع الخارجية الضخمة مثل معطف Scolpito.",
+      "أبرزي فخامة الإبزيم الذهبي الذي يحمل الشعار؛ فهو لمسة راقية تكمل تماماً مفهوم «الفخامة الهادئة» لدى Luisa Spagnoli."
+    ],
+    "ka": [
+      "**ქართული თარგმანი:** ხაზი გაუსვით იტალიურ ოსტატობასა და ტყავის პრემიუმ ხარისხს, რაც ამ ქამარს გარდერობის გრძელვადიან ინვესტიციად აქცევს.",
+      "შესთავაზეთ Damiana, როგორც საკვანძო ელემენტი არქიტექტურული სილუეტის შესაქმნელად — გამოიყენეთ იგი მოცულობითი ზედა ტანსაცმლის, მაგალითად, პალტო Scolpito-ს ზემოდან.",
+      "ხაზი გაუსვით ლოგოტიპიანი ოქროსფერი აბზინდის სტატუსურობას — ეს არის დახვეწილი აქცენტი, რომელიც იდეალურად ავსებს Luisa Spagnoli-ს „ჩუმი ფუფუნების“ (quiet luxury) კონცეფციას."
+    ],
+    "hy": [
+      "Շեշտադրեք իտալական վարպետությունը և կաշվի պրեմիում որակը, ինչը այս գոտին դարձնում է երկարաժամկետ ներդրում զգեստապահարանում։",
+      "Damiana-ն առաջարկեք որպես ճարտարապետական ուրվագիծ ստեղծելու հիմնական տարր՝ այն կրելով ծավալուն վերնահագուստի վրայից, ինչպիսին է Scolpito վերարկուն։",
+      "Ընդգծեք լոգոտիպով ոսկեգույն ճարմանդի կարգավիճակը՝ սա նուրբ շեշտադրում է, որը կատարելապես լրացնում է Luisa Spagnoli-ի «հանգիստ շքեղության» հայեցակարգը։"
+    ],
+    "lv": [
+      "Akcentējiet uzmanību uz itāļu meistarību un ādas augstākās kvalitātes īpašībām, kas padara šo jostu par ilgmūžīgu investīciju garderobē.",
+      "Piedāvājiet Damiana kā galveno elementu arhitektoniska silueta radīšanai, nēsājot to virs apjomīga virsapģērba, piemēram, mēteļa Scolpito.",
+      "Uzsveriet zeltītās sprādzes ar logotipu statusu — tas ir izsmalcināts akcents, kas ideāli papildina Luisa Spagnoli «klusās greznības» koncepciju."
+    ],
+    "lt": [
+      "Akcentuokite itališką meistriškumą ir aukščiausios kokybės odą, todėl šis diržas yra ilgalaikė investicija į garderobą.",
+      "Siūlykite Damiana kaip pagrindinį elementą kuriant architektūrinį siluetą, naudojant jį ant apimties turinčių viršutinių drabužių, pavyzdžiui, palto Scolpito.",
+      "Pabrėžkite auksinės sagties su logotipu statusą – tai rafinuotas akcentas, kuris idealiai papildo „tylios prabangos“ Luisa Spagnoli koncepciją."
+    ],
+    "pl": [
+      "Podkreśl włoskie rzemiosło oraz najwyższą jakość skóry, co czyni ten pasek trwałą inwestycją w garderobę.",
+      "Zaproponuj Damiana jako kluczowy element do stworzenia architektonicznej sylwetki, nosząc go na obszerną odzież wierzchnią, taką jak płaszcz Scolpito.",
+      "Zwróć uwagę na prestiż złotego logo na klamrze — to wyrafinowany akcent, który idealnie uzupełnia koncepcję „cichego luksusu” Luisa Spagnoli."
+    ],
+    "uk": [
+      "Акцентуйте увагу на італійській майстерності та преміальній якості шкіри, що робить цей ремінь довговічною інвестицією в гардероб.",
+      "Пропонуйте Damiana як ключовий елемент для створення архітектурного силуету, використовуючи його поверх об'ємного верхнього одягу, такого як пальто Scolpito.",
+      "Підкресліть статусність золотистої пряжки з логотипом — це вишуканий акцент, який ідеально доповнює концепцію «тихої розкоші» Luisa Spagnoli."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The gold buckle seems too eye-catching for everyday looks.",
+        "a": "This accessory is designed in a spirit of jewellery-inspired minimalism. The buckle serves as a delicate embellishment in its own right, removing the need to layer additional necklaces or bracelets."
+      },
+      {
+        "q": "How should sizing be chosen for wearing over knitwear or outerwear?",
+        "a": "The construction of the belt allows for easy adjustment of fit. We recommend selecting the size based on whether the client intends to wear it at the waist or on the hips."
+      },
+      {
+        "q": "No official data is available regarding the exact width of the belt.",
+        "a": "The brand's designers created Damiana with a versatile width that sits beautifully on classic trousers as well as through the belt loops of skirts from the current collection."
+      },
+      {
+        "q": "The Nocciola (Marrone) shade may be difficult to pair with a basic wardrobe.",
+        "a": "The brown shade 0968 is a noble foundation tone. It harmonises beautifully with beige, sand, and olive tones, creating a softer effect than traditional black."
+      },
+      {
+        "q": "There is a concern the leather may stretch or lose its shape over time.",
+        "a": "The use of specially tanned Italian full-grain leather guarantees exceptional durability and preserves the garment's original silhouette even with frequent wear."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Золотая пряжка кажется слишком акцентной для повседневных образов.",
+        "a": "Этот аксессуар разработан в стиле ювелирного минимализма. Пряжка служит деликатным украшением, которое избавляет от необходимости подбирать дополнительные колье или браслеты."
+      },
+      {
+        "q": "Как правильно подобрать размер для ношения поверх трикотажа или верхней одежды?",
+        "a": "Конструкция ремня позволяет легко регулировать посадку. Мы рекомендуем выбирать размер исходя из того, планируете ли вы носить его на талии или на бедрах."
+      },
+      {
+        "q": "относительно точной ширины ремня.",
+        "a": "Дизайнеры бренда разработали Damiana с универсальной шириной, которая идеально подходит как к классическим брюкам, так и к петлям юбок из текущей коллекции."
+      },
+      {
+        "q": "Цвет Nocciola (Marrone) может быть сложно комбинировать с базовой гаммой.",
+        "a": "Коричневый оттенок 0968 — это благородная база. Он превосходно гармонирует с бежевыми, песочными и оливковыми тонами, создавая более мягкий образ, чем традиционный черный."
+      },
+      {
+        "q": "Есть риск, что кожа растянется или потеряет форму со временем.",
+        "a": "Использование натуральной кожи специальной итальянской выделки гарантирует высокую износостойкость и сохранение первоначального силуэта изделия даже при активной носке."
+      }
+    ],
+    "ar": [
+      {
+        "q": "تبدو الإبزيمة الذهبية بارزة أكثر من اللازم للإطلالات اليومية.",
+        "a": "تم تصميم هذا الإكسسوار بأسلوب يجسد الحد الأدنى الفاخر (minimalism) في المجوهرات. تعمل الإبزيمة كقطعة زينة دقيقة تغني عن الحاجة لتنسيق عقود أو أساور إضافية."
+      },
+      {
+        "q": "كيف يتم اختيار المقاس المناسب للارتداء فوق الملابس المحبوكة أو الملابس الخارجية؟",
+        "a": "يسمح تصميم الحزام بتعديل القياس بسهولة. ننصح باختيار المقاس بناءً على رغبتك في ارتدائه عند الخصر أو الأرداف."
+      },
+      {
+        "q": "لا توجد بيانات في المصادر الرسمية بخصوص العرض الدقيق للحزام.",
+        "a": "صمم مصممو العلامة التجارية حزام Damiana بعرض عالمي يتناسب بشكل مثالي مع السراويل الكلاسيكية وكذلك عراوي التنانير من التشكيلة الحالية."
+      },
+      {
+        "q": "قد يصعب تنسيق لون Nocciola (Marrone) مع الألوان الأساسية.",
+        "a": "درجة البني 0968 هي أساس فاخر. تتناغم بامتياز مع درجات البيج، والرملي، والزيتي، مما يخلق إطلالة أكثر نعومة من اللون الأسود التقليدي."
+      },
+      {
+        "q": "هناك خطر من تمدد الجلد أو فقدان شكله بمرور الوقت.",
+        "a": "يضمن استخدام الجلد الطبيعي ذي المعالجة الإيطالية الخاصة متانة عالية والحفاظ على الشكل الأصلي للقطعة حتى مع الاستخدام النشط."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ოქროსფერი ბალთა ყოველდღიური იმიჯისთვის შესაძლოა ზედმეტად აქცენტირებული ჩანდეს.",
+        "a": "ეს აქსესუარი დამზადებულია საიუველირო მინიმალიზმის სტილში. ბალთა ასრულებს დელიკატური სამკაულის როლს, რაც გამორიცხავს დამატებითი ყელსაბამების ან სამაჯურების შერჩევის აუცილებლობას."
+      },
+      {
+        "q": "როგორ შევარჩიოთ სწორი ზომა ტრიკოტაჟის ან ზედა ტანსაცმლის ზემოდან ტარებისთვის?",
+        "a": "ქამრის კონსტრუქცია საშუალებას გაძლევთ მარტივად დაარეგულიროთ მორგება. ჩვენ გირჩევთ ზომა შეარჩიოთ იმის მიხედვით, აპირებთ მის ტარებას წელზე თუ თეძოებზე."
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში ქამრის ზუსტი სიგანის შესახებ.",
+        "a": "ბრენდის დიზაინერებმა Damiana შექმნეს უნივერსალური სიგანით, რომელიც იდეალურად ერგება როგორც კლასიკურ შარვლებს, ისე მიმდინარე კოლექციის ქვედაკაბების მარყუჟებს."
+      },
+      {
+        "q": "Nocciola (Marrone) ფერის კომბინირება საბაზისო გამასთან შესაძლოა რთული იყოს.",
+        "a": "ყავისფერი ტონი 0968 — ეს არის დახვეწილი ბაზა. ის შესანიშნავად ჰარმონიებს კრემისფერ, ქვიშისფერ და ზეთისხილისფერ ტონებთან, ქმნის უფრო რბილ იმიჯს, ვიდრე ტრადიციული შავი."
+      },
+      {
+        "q": "არსებობს რისკი, რომ ტყავი გაიწელოს ან დროთა განმავლობაში ფორმა დაკარგოს.",
+        "a": "სპეციალური იტალიური დამუშავების ნატურალური ტყავის გამოყენება უზრუნველყოფს მაღალ გამძლეობას და ნაწარმის პირვანდელი სილუეტის შენარჩუნებას აქტიური გამოყენების დროსაც კი."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ոսկեզօծ ճարմանդը չափազանց շեշտադրված է թվում առօրյա կերպարների համար։",
+        "a": "Այս աքսեսուարը նախագծված է ոսկերչական մինիմալիզմի ոճով։ Ճարմանդը ծառայում է որպես նուրբ զարդ, որը վերացնում է լրացուցիչ վզնոցներ կամ ապարանջաններ ընտրելու անհրաժեշտությունը։"
+      },
+      {
+        "q": "Ինչպե՞ս ճիշտ ընտրել չափսը տրիկոտաժի կամ վերնահագուստի վրա կրելու համար։",
+        "a": "Գոտու կոնստրուկցիան թույլ է տալիս հեշտությամբ կարգավորել դիրքը։ Մենք խորհուրդ ենք տալիս չափսն ընտրել՝ ելնելով նրանից, թե նախատեսում եք այն կրել իրանի՞, թե՞ կոնքերի հատվածում։"
+      },
+      {
+        "q": "Պաշտոնական աղբյուրներում տվյալներ չկան գոտու ճշգրիտ լայնության վերաբերյալ։",
+        "a": "Բրենդի դիզայներները Damiana-ն մշակել են ունիվերսալ լայնությամբ, որը կատարյալ է ինչպես դասական տաբատների, այնպես էլ ընթացիկ հավաքածուի կիսաշրջազգեստների անցակների համար։"
+      },
+      {
+        "q": "Nocciola (Marrone) գույնը կարող է դժվար լինել համադրել բազային գունապնակի հետ։",
+        "a": "0968 դարչնագույն երանգը ազնվական բազա է։ Այն հիանալի ներդաշնակում է բեժ, ավազագույն և ձիթապտղի երանգների հետ՝ ստեղծելով ավելի փափուկ կերպար, քան ավանդական սևը։"
+      },
+      {
+        "q": "Ռիսկ կա, որ կաշին ժամանակի ընթացքում կձգվի կամ կկորցնի իր ձևը։",
+        "a": "Հատուկ իտալական մշակման բնական կաշվի օգտագործումը երաշխավորում է բարձր մաշվածակայունություն և իրի սկզբնական ուրվագծի պահպանում նույնիսկ ակտիվ օգտագործման դեպքում։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Zelta sprādze šķiet pārāk uzkrītoša ikdienas tēliem.",
+        "a": "Šis aksesuārs ir radīts juvelierizstrādājumu minimālisma stilā. Sprādze kalpo kā smalks rotājums, kas atbrīvo no nepieciešamības saskaņot papildu kaklarotas vai rokassprādzes."
+      },
+      {
+        "q": "Kā pareizi piemeklēt izmēru nēsāšanai virs trikotāžas vai virsdrēbēm?",
+        "a": "Jostas konstrukcija ļauj viegli regulēt tās piegulumu. Mēs iesakām izvēlēties izmēru, pamatojoties uz to, vai plānojat to nēsāt uz vidukļa vai gurniem."
+      },
+      {
+        "q": "Nocciola (Marrone) krāsu var būt sarežģīti kombinēt ar bāzes gammu.",
+        "a": "Brūnais tonis 0968 ir cēla bāze. Tas lieliski harmonē ar bēšiem, smilškrāsas un olīvtoņiem, radot maigāku koptēlu nekā tradicionālais melnais."
+      },
+      {
+        "q": "Pastāv risks, ka āda ar laiku izstiepsies vai zaudēs formu.",
+        "a": "Īpaši apstrādātas itāļu dabīgās ādas izmantošana garantē augstu nodilumizturību un izstrādājuma sākotnējā silueta saglabāšanu pat aktīvas lietošanas laikā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Auksinė sagtis atrodo per daug akcentuota kasdieniam įvaizdžiui.",
+        "a": "Šis aksesuaras sukurtas juvelyrinio minimalizmo stiliumi. Sagtis tarnauja kaip subtili puošmena, kuri panaikina būtinybę derinti papildomus vėrinius ar apyrankes."
+      },
+      {
+        "q": "Kaip tinkamai pasirinkti dydį dėvėjimui ant trikotažo ar viršutinių drabužių?",
+        "a": "Diržo konstrukcija leidžia lengvai reguliuoti dydį. Rekomenduojame rinktis dydį atsižvelgiant į tai, ar planuojate jį dėvėti ant liemens, ar ant klubų."
+      },
+      {
+        "q": "Spalvą Nocciola (Marrone) gali būti sunku derinti su pagrindine gama.",
+        "a": "Ruda atspalvis 0968 — tai kilnus pagrindas. Jis puikiai dera su smėlio, rudos spalvos ir alyvuogių tonais, sukurdamas švelnesnį įvaizdį nei tradicinė juoda."
+      },
+      {
+        "q": "Yra rizika, kad oda išsitampys arba laikui bėgant praras formą.",
+        "a": "Specialiai apdorotos natūralios itališkos odos naudojimas užtikrina didelį atsparumą dilimui ir pirminio gaminio silueto išsaugojimą net ir intensyviai dėvint."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Złota klamra wydaje się zbyt wyrazistym akcentem do codziennych stylizacji.",
+        "a": "Ten dodatek został zaprojektowany w duchu jubilerskiego minimalizmu. Klamra stanowi delikatną ozdobę, która eliminuje potrzebę dobierania dodatkowych naszyjników czy bransoletek."
+      },
+      {
+        "q": "Jak prawidłowo dobrać rozmiar do noszenia na dzianinę lub odzież wierzchnią?",
+        "a": "Konstrukcja paska pozwala na łatwą regulację dopasowania. Zalecamy dobór rozmiaru w zależności od tego, czy planujesz nosić go w talii, czy na biodrach."
+      },
+      {
+        "q": "dotyczących dokładnej szerokości paska.",
+        "a": "Projektanci marki stworzyli model Damiana z uniwersalną szerokością, która idealnie pasuje zarówno do klasycznych spodni, jak i do szlufek spódnic z bieżącej kolekcji."
+      },
+      {
+        "q": "Kolor Nocciola (Marrone) może być trudny do łączenia z bazową paletą barw.",
+        "a": "Brązowy odcień 0968 to szlachetna baza. Doskonale harmonizuje z beżami, odcieniami piasku i oliwkowymi tonami, tworząc bardziej miękki wizerunek niż tradycyjna czerń."
+      },
+      {
+        "q": "Istnieje ryzyko, że skóra się rozciągnie lub straci fason z czasem.",
+        "a": "Zastosowanie naturalnej skóry specjalnego włoskiego wyprawienia gwarantuje wysoką odporność na zużycie i zachowanie pierwotnej sylwetki produktu nawet przy aktywnym użytkowaniu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Золота пряжка здається занадто акцентною для повсякденних образів.",
+        "a": "Цей аксесуар розроблений у стилі ювелірного мінімалізму. Пряжка слугує делікатною прикрасою, яка позбавляє потреби підбирати додаткові кольє або браслети."
+      },
+      {
+        "q": "Як правильно підібрати розмір для носіння поверх трикотажу або верхнього одягу?",
+        "a": "Конструкція ременя дозволяє легко регулювати посадку. Ми рекомендуємо обирати розмір залежно від того, чи плануєте ви носити його на талії або на стегнах."
+      },
+      {
+        "q": "щодо точної ширини ременя.",
+        "a": "Дизайнери бренду розробили Damiana з універсальною шириною, яка ідеально підходить як до класичних штанів, так і до петель спідниць із поточної колекції."
+      },
+      {
+        "q": "Колір Nocciola (Marrone) може бути складно комбінувати з базовою гамою.",
+        "a": "Коричневий відтінок 0968 — це благородна база. Він чудово гармонує з бежевими, пісочними та оливковими тонами, створюючи м'якший образ, ніж традиційний чорний."
+      },
+      {
+        "q": "Є ризик, що шкіра розтягнеться або втратить форму з часом.",
+        "a": "Використання натуральної шкіри спеціальної італійської вичинки гарантує високу зносостійкість і збереження початкового силуету виробу навіть за активного носіння."
+      }
+    ]
+  }
+}

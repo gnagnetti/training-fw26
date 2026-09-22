@@ -1,0 +1,350 @@
+{
+  "id": 66,
+  "name": "Galalite",
+  "description": {
+    "en": "An embodiment of evening luxury and jewel-like precision: the exquisite Galalite mini dress, crafted from precious macramÃ© lace. The piece enchants with an intricate interplay of raised patterns and the delicate shimmer of metallic threads, creating an effect of noble radiance. A classic round neckline and elegant raglan sleeves with scalloped edges underscore the brand's refined aesthetic, while a concealed back zip guarantees flawless purity of silhouette.",
+    "ru": "Воплощение вечерней роскоши и ювелирной точности исполнения: изысканное мини-платье Galalite, выполненное из драгоценного кружева макраме. Модель очаровывает сложной игрой рельефных узоров и деликатным мерцанием металлизированных нитей, создающих эффект благородного сияния. Классический круглый вырез и элегантные рукава реглан с фестончатыми краями подчеркивают утонченную эстетику бренда, а потайная молния на спинке гарантирует безупречную чистоту линий силуэта.",
+    "ar": "تجسيد لفخامة السهرة ودقة التنفيذ الجوهرية: فستان ميني راقٍ Galalite، مصنوع من دانتيل الماكرميه الثمين. يبهر الموديل بالتلاعب المعقد للأنماط البارزة والبريق الدقيق للخيوط المعدنية التي تخلق تأثيراً مشعاً وفاخراً. الياقة المستديرة الكلاسيكية وأكمام رغلان الأنيقة ذات الحواف المقوّسة تبرز الجمالية الراقية للعلامة التجارية، بينما يضمن السحاب المخفي في الخلف نقاءً مثالياً لخطوط القوام.",
+    "ka": "საღამოს ფუფუნებისა და საიუველირო სიზუსტის განსახიერება: დახვეწილი მინი-კაბა Galalite, დამზადებული ძვირფასი მაკრამეს მაქმანისგან. მოდელი მომხიბვლელია რელიეფური ნიმუშების რთული თამაშითა და მეტალიზებული ძაფების დელიკატური ციმციმით, რომლებიც კეთილშობილური ბრწყინვალების ეფექტს ქმნის. კლასიკური მრგვალი ყელი და ფესტონური კიდეების მქონე ელეგანტური რეგლანის სახელოები ხაზს უსვამს ბრენდის დახვეწილ ესთეტიკას, ხოლო ზურგზე არსებული ფარული ელვა უზრუნველყოფს სილუეტის ხაზების უნაკლო სისუფთავეს.",
+    "hy": "Երեկոյան շքեղության և ոսկերչական ճշգրտության մարմնացում. Galalite նրբաճաշակ մինի-զգեստ՝ պատրաստված թանկարժեք մակրամե ժանյակից: Մոդելը հմայում է ռելիեֆային նախշերի բարդ խաղով և մետաղացված թելերի նուրբ փայլով, որոնք ստեղծում են ազնվական շողշողման էֆեկտ: Կլոր դասական բացվածքը և ֆեստոնաձև եզրերով ռեգլան էլեգանտ թևքերը ընդգծում են ապրանքանիշի նուրբ էսթետիկան, իսկ թիկունքի թաքնված շղթան երաշխավորում է ուրվագծի գծերի անթերի մաքրությունը:",
+    "lv": "Vakara greznības un juvelierizstrādājumu precizitātes iemiesojums: izsmalcināta Galalite mini kleita, kas izgatavota no dārgām makramē mežģīnēm. Modeli apbur sarežģīta reljefu rakstu spēle un metalizēto diegu smalkais mirdzums, radot cēla spožuma efektu. Klasisks apaļš izgriezums un eleganti reglana piedurknes ar festonētām malām uzsver zīmola izsmalcināto estētiku, bet slēptais rāvējslēdzējs uz muguras garantē silueta līniju nevainojamu tīrību.",
+    "lt": "Vakarinės prabangos ir juvelyrinio tikslumo įsikūnijimas: išskirtinė mini suknelė Galalite, pagaminta iš brangaus makramė nėrinio. Modelis žavi sudėtinga reljefinių raštų žaismė ir subtiliu metalizuotų siūlų mirgėjimu, sukuriančiu kilnaus spindesio efektą. Klasikinė apvali iškirptė ir elegantiškos reglano rankovės su krašteliais (smerlato) pabrėžia rafinuotą prekės ženklo estetiką, o paslėptas užtrauktukas nugarinėje dalyje garantuoja nepriekaištingą silueto linijų švarą.",
+    "pl": "Ucieleśnienie wieczorowego luksusu i jubilerskiej precyzji wykonania: wyrafinowana sukienka mini Galalite, wykonana z drogocennej koronki makrama. Model zachwyca złożoną grą wypukłych wzorów i delikatnym migotaniem metalizowanych nici, tworzących efekt szlachetnego blasku. Klasyczny okrągły dekolt i eleganckie rękawy raglanowe z wykończonymi ząbkami krawędziami podkreślają subtelną estetykę marki, a ukryty zamek na plecach gwarantuje nienaganną czystość linii sylwetki.",
+    "uk": "Втілення вечірньої розкоші та ювелірної точності виконання: вишукана мінісукня Galalite, виконана з дорогоцінного мережива макраме. Модель зачаровує складною грою рельєфних візерунків та делікатним мерехтінням металізованих ниток, що створюють ефект благородного сяйва. Класичний круглий виріз та елегантні рукави реглан із фестончастими краями підкреслюють витончену естетику бренду, а потайна блискавка на спинці гарантує бездоганну чистоту ліній силуету."
+  },
+  "colors": [
+    {
+      "name": "Oro",
+      "code": "0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GALALITE_0%20%281%29.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Образ 1 (Total Look)",
+        "en": "Look 1 (Total Look)",
+        "ar": "Look 1 (Total Look)",
+        "ka": "Look 1 (Total Look)",
+        "hy": "Look 1 (Total Look)",
+        "lv": "Look 1 (Total Look)",
+        "lt": "Look 1 (Total Look)",
+        "pl": "Look 1 (Total Look)",
+        "uk": "Look 1 (Total Look)"
+      },
+      "text": {
+        "ru": "Сочетание мини-платья Galalite 0002 и элегантного клатча Iroise 0212 0002 для создания гармоничного вечернего ансамбля в золотых тонах.",
+        "en": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "ar": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "ka": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "hy": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "lv": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "lt": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "pl": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "uk": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones."
+      },
+      "items": [
+        {
+          "name": "Galalite",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GALALITE_0%20%281%29.jpg"
+        },
+        {
+          "name": "Iroise",
+          "code": "0212 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bh054MdiSKKEM-NPLgzYnA_1932535666696f42291c1a50_67050088_02801430XX1.jpg",
+          "modelId": 96
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 1 (Total Look)",
+        "en": "Look 1 (Total Look)",
+        "ar": "Look 1 (Total Look)",
+        "ka": "Look 1 (Total Look)",
+        "hy": "Look 1 (Total Look)",
+        "lv": "Look 1 (Total Look)",
+        "lt": "Look 1 (Total Look)",
+        "pl": "Look 1 (Total Look)",
+        "uk": "Look 1 (Total Look)"
+      },
+      "text": {
+        "ru": "Сочетание мини-платья Galalite 0002 и элегантного клатча Iroise 0212 0002 для создания гармоничного вечернего ансамбля в золотых тонах.",
+        "en": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "ar": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "ka": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "hy": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "lv": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "lt": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "pl": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones.",
+        "uk": "A combination of the Galalite 0002 mini-dress and an elegant Iroise 0212 0002 clutch to create a harmonious evening ensemble in gold tones."
+      },
+      "items": [
+        {
+          "name": "Galalite",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GALALITE_0%20%281%29.jpg"
+        },
+        {
+          "name": "Neanide",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1605403396691c57d8aee920_21613301_02800170XX1.jpg"
+        },
+        {
+          "name": "Iroise",
+          "code": "0212 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bh054MdiSKKEM-NPLgzYnA_1932535666696f42291c1a50_67050088_02801430XX1.jpg",
+          "modelId": 96
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the richness of the macramé texture: the three-dimensional lace effect with a metallic shimmer makes this dress a true showpiece of the collection.",
+      "Recommend this piece as the ideal investment for special occasions — from cocktail parties to formal receptions where status and elegance are paramount.",
+      "Showcase the craftsmanship of the edge finishing: the scalloped hem and cuffs reflect a couture level of execution."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на уникальной фактуре макраме: трехмерный эффект кружева с металлизированным блеском делает это платье настоящим украшением коллекции.",
+      "Рекомендуйте эту модель как идеальную инвестицию для особого случая — от коктейльных вечеринок до торжественных приемов, где важен статус и элегантность.",
+      "Продемонстрируйте мастерство обработки краев: фестончатый подол и манжеты подчеркивают кутюрный уровень исполнения изделия."
+    ],
+    "ar": [
+      "لفتي انتباه العميل إلى القوام الفريد للمكرمية: فالتأثير ثلاثي الأبعاد للدانتيل مع البريق المعدني يجعل هذا الفستان زينة حقيقية للمجموعة.",
+      "رشحي هذا الموديل كاستثمار مثالي للمناسبات الخاصة، بدءاً من حفلات الكوكتيل وصولاً إلى الاستقبالات الرسمية حيث تعد المكانة والأناقة أمراً جوهرياً.",
+      "استعرضي براعة تشطيب الحواف: فالحاشية المسننة والأكمام تؤكد على مستوى التنفيذ الراقي (كوتور) للقطعة."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება მაკრამეს უნიკალურ ფაქტურაზე: მაქმანის სამგანზომილებიანი ეფექტი მეტალიზებული ბზინვარებით ამ კაბას კოლექციის ნამდვილ მშვენებად აქცევს.",
+      "ურჩიეთ ეს მოდელი, როგორც იდეალური ინვესტიცია განსაკუთრებული შემთხვევებისთვის — კოქტეილის წვეულებებიდან დაწყებული საზეიმო მიღებებით დამთავრებული, სადაც სტატუსი და ელეგანტურობა უმთავრესია.",
+      "უჩვენეთ კიდეების დამუშავების ოსტატობა: ფესტონოვანი ბოლო და მანჟეტები ნაკეთობის კუტურულ დონეს უსვამს ხაზს."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք մակրամեի եզակի հյուսվածքի վրա. մետաղական փայլով ժանյակի եռաչափ էֆեկտն այս զգեստը դարձնում է հավաքածուի իսկական զարդը։",
+      "Այս մոդելը խորհուրդ տվեք որպես իդեալական ներդրում հատուկ առիթների համար՝ կոկտեյլային երեկույթներից մինչև հանդիսավոր ընդունելություններ, որտեղ կարևոր են կարգավիճակը և նրբագեղությունը։",
+      "Ցուցադրեք եզրերի մշակման վարպետությունը. ֆեստոնաձև փեշը և թևքերը ընդգծում են արտադրանքի կուտյուրային կատարման մակարդակը։"
+    ],
+    "lv": [
+      "Vērsiet klienta uzmanību uz unikālo makramē faktūru: trīsdimensiju mežģīņu efekts ar metalizētu spīdumu padara šo kleitu par īstu kolekcijas rotu.",
+      "Iesakiet šo modeli kā ideālu investīciju īpašiem gadījumiem — no kokteiļballītēm līdz svinīgām pieņemšanām, kur svarīgs ir statuss un elegance.",
+      "Demonstrējiet malu apstrādes meistarību: festonu apakšmala un manšetes izceļ izstrādājuma «couture» izpildījuma līmeni."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į unikalią makramė faktūrą: trimatis nėrinių efektas su metalizuotu žvilgesiu paverčia šią suknelę tikra kolekcijos puošmena.",
+      "Rekomenduokite šį modelį kaip idealią investiciją ypatingoms progoms – nuo kokteilių vakarėlių iki iškilmingų priėmimų, kur svarbus statusas ir elegancija.",
+      "Pademonstruokite kraštų apdailos meistriškumą: festoninis kraštas ir rankogaliai pabrėžia aukštąją mados kokybę."
+    ],
+    "pl": [
+      "Zwróć uwagę klienta na unikalną fakturę makramy: trójwymiarowy efekt koronki z metalicznym połyskiem czyni tę sukienkę prawdziwą ozdobą kolekcji.",
+      "Rekomenduj ten model jako idealną inwestycję na specjalne okazje — od przyjęć koktajlowych po uroczyste bankiety, gdzie liczy się status i elegancja.",
+      "Zaprezentuj kunszt wykończenia krawędzi: wykończony ząbkami dół i mankiety podkreślają krawiecki poziom wykonania produktu."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на унікальній фактурі макраме: тривимірний ефект мережива з металізованим блиском робить цю сукню справжньою окрасою колекції.",
+      "Рекомендуйте цю модель як ідеальну інвестицію для особливого випадку — від коктейльних вечірок до урочистих прийомів, де важливий статус та елегантність.",
+      "Продемонструйте майстерність обробки країв: фестончастий поділ та манжети підкреслюють кутюрний рівень виконання виробу."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "A mini length may seem insufficiently formal.",
+        "a": "Thanks to the rich texture of macramé lace and understated raglan sleeves, the piece maintains an aristocratic balance, fully in keeping with cocktail-event etiquette."
+      },
+      {
+        "q": "The metallic thread may cause discomfort.",
+        "a": "The Galalite dress is fully lined with a soft lining, which prevents any contact between the metallic fibres and the skin, ensuring maximum comfort throughout the evening."
+      },
+      {
+        "q": "The lace fabric seems too delicate for wear.",
+        "a": "Despite its visually airy appearance, macramé is one of the most durable weaving techniques. The high quality of execution guarantees the piece will retain its shape."
+      },
+      {
+        "q": "It's difficult to find footwear to match such a striking gold shimmer.",
+        "a": "The 'Oro' gold shade is a classic neutral within the eveningwear wardrobe. We recommend pairing it with understated matching shoes or accessories, such as the Iroise 0212 0002."
+      },
+      {
+        "q": "This dress is only suitable for a single occasion.",
+        "a": "Galalite is a timeless Luisa Spagnoli classic. By varying the accessories and hairstyle, you can create fresh looks for a range of social occasions across many seasons."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Длина мини может выглядеть недостаточно официально.",
+        "a": "Благодаря богатой фактуре кружева макраме и сдержанному верху с рукавами реглан, модель сохраняет аристократичный баланс и полностью соответствует этикету коктейльных мероприятий."
+      },
+      {
+        "q": "Металлизированная нить может вызывать дискомфорт.",
+        "a": "Платье Galalite полностью посажено на мягкую подкладку, что исключает контакт металлизированных волокон с кожей и обеспечивает максимальный комфорт в течение всего вечера."
+      },
+      {
+        "q": "Кружевное полотно кажется слишком деликатным для носки.",
+        "a": "Несмотря на визуальную воздушность, макраме — это одна из самых прочных техник плетения. Высокое качество исполнения гарантирует сохранение формы изделия."
+      },
+      {
+        "q": "Сложно подобрать обувь к такому активному золотому блеску.",
+        "a": "Золотой оттенок 'Oro' является классическим нейтральным цветом в вечернем гардеробе. Мы рекомендуем дополнить его лаконичными туфлями в тон или аксессуарами, такими как Iroise 0212 0002."
+      },
+      {
+        "q": "Это платье только для одного выхода.",
+        "a": "Galalite — это вневременная классика Luisa Spagnoli. Изменяя аксессуары и прическу, вы сможете создавать новые образы для различных светских событий на протяжении многих сезонов."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يبدو الطول القصير (ميني) غير رسمي بما فيه الكفاية.",
+        "a": "بفضل ملمس دانتيل المكرامي الغني والجزء العلوي المحتشم بأكمام راجلان، يحافظ الموديل على توازن أرستقراطي ويتماشى تماماً مع قواعد الأزياء في حفلات الكوكتيل."
+      },
+      {
+        "q": "قد تسبب الخيوط المعدنية عدم الارتياح.",
+        "a": "فستان Galalite مبطن بالكامل ببطانة ناعمة، مما يمنع تلامس الألياف المعدنية مع الجلد ويضمن أقصى درجات الراحة طوال الأمسية."
+      },
+      {
+        "q": "يبدو نسيج الدانتيل رقيقاً جداً للارتداء.",
+        "a": "على الرغم من خفته الظاهرة، يعتبر المكرامي أحد أقوى تقنيات النسيج. إن جودة التنفيذ العالية تضمن الحفاظ على شكل القطعة."
+      },
+      {
+        "q": "من الصعب اختيار أحذية تناسب هذا البريق الذهبي القوي.",
+        "a": "يعتبر اللون الذهبي 'Oro' لوناً محايداً كلاسيكياً في خزانة ملابس السهرة. ننصح بتنسيقه مع أحذية بسيطة بنفس اللون أو إكسسوارات مثل Iroise 0212 0002."
+      },
+      {
+        "q": "هذا الفستان مناسب للخروج مرة واحدة فقط.",
+        "a": "Galalite هو كلاسيكية خالدة من Luisa Spagnoli. من خلال تغيير الإكسسوارات وتصفيفة الشعر، يمكنك ابتكار إطلالات جديدة لمختلف المناسبات الاجتماعية على مدى عدة مواسم."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მინი სიგრძე შესაძლოა არასაკმარისად ოფიციალურად გამოიყურებოდეს.",
+        "a": "მაკრამეს მაქმანის მდიდარი ფაქტურისა და რეგლანის სახელოებიანი თავშეკავებული ზედა ნაწილის წყალობით, მოდელი ინარჩუნებს არისტოკრატულ ბალანსს და სრულად შეესაბამება კოქტეილის ღონისძიებების ეტიკეტს."
+      },
+      {
+        "q": "მეტალიზებულმა ძაფმა შესაძლოა დისკომფორტი გამოიწვიოს.",
+        "a": "კაბა Galalite სრულად არის დატანილი რბილ სარჩულზე, რაც გამორიცხავს მეტალიზებული ბოჭკოების კანთან კონტაქტს და უზრუნველყოფს მაქსიმალურ კომფორტს მთელი საღამოს განმავლობაში."
+      },
+      {
+        "q": "მაქმანის ქსოვილი ზედმეტად დელიკატური ჩანს ტარებისთვის.",
+        "a": "ვიზუალური ჰაეროვნების მიუხედავად, მაკრამე წნვის ერთ-ერთი ყველაზე მტკიცე ტექნიკაა. შესრულების მაღალი ხარისხი უზრუნველყოფს ნივთის ფორმის შენარჩუნებას."
+      },
+      {
+        "q": "რთულია ფეხსაცმლის შერჩევა ასეთი აქტიური ოქროსფერი ბზინვარებისთვის.",
+        "a": "ოქროსფერი ტონი 'Oro' საღამოს გარდერობში კლასიკურ ნეიტრალურ ფერად ითვლება. ჩვენ გირჩევთ შეავსოთ იგი ლაკონიური, ტონში გადაწყვეტილი ფეხსაცმლით ან ისეთი აქსესუარებით, როგორიცაა Iroise 0212 0002."
+      },
+      {
+        "q": "ეს კაბა მხოლოდ ერთი გასვლისთვისაა.",
+        "a": "Galalite არის Luisa Spagnoli-ს დროზე მაღლა მდგომი კლასიკა. აქსესუარებისა და ვარცხნილობის შეცვლით, თქვენ შეძლებთ შექმნათ ახალი იმიჯები სხვადასხვა საერო ღონისძიებისთვის მრავალი სეზონის განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Մինի երկարությունը կարող է բավականաչափ պաշտոնական չթվալ։",
+        "a": "Մակրամե ժանյակի հարուստ հյուսվածքի և ռեգլան թևքերով զուսպ վերնամասի շնորհիվ մոդելը պահպանում է ազնվական հավասարակշռությունը և լիովին համապատասխանում է կոկտեյլային միջոցառումների էթիկետին։"
+      },
+      {
+        "q": "Մետաղական թելը կարող է անհարմարություն առաջացնել։",
+        "a": "Galalite զգեստն ամբողջությամբ ունի փափուկ աստառ, ինչը բացառում է մետաղական թելերի շփումը մաշկի հետ և ապահովում է առավելագույն հարմարավետություն ողջ երեկոյի ընթացքում։"
+      },
+      {
+        "q": "Ժանյակե գործվածքը չափազանց նուրբ է թվում կրելու համար։",
+        "a": "Տեսողական օդային լինելուն հակառակ՝ մակրամեն հյուսման ամենաամուր տեխնիկաներից մեկն է։ Կատարման բարձր որակը երաշխավորում է արտադրանքի ձևի պահպանումը։"
+      },
+      {
+        "q": "Դժվար է կոշիկ ընտրել նման ակտիվ ոսկեգույն փայլի հետ։",
+        "a": "Oro» ոսկեգույն երանգը երեկոյան զգեստապահարանում դասական չեզոք գույն է։ Մենք խորհուրդ ենք տալիս այն համալրել լակոնիկ տոնայնության կոշիկներով կամ աքսեսուարներով, ինչպիսիք են Iroise 0212 0002 ։"
+      },
+      {
+        "q": "Այս զգեստը միայն մեկ ելույթի համար է։",
+        "a": "Galalite-ը Luisa Spagnoli-ի անժամանակ դասականն է։ Փոխելով աքսեսուարները և սանրվածքը՝ դուք կկարողանաք ստեղծել նոր կերպարներ տարբեր հասարակական իրադարձությունների համար բազմաթիվ սեզոնների ընթացքում։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Mini garums var izskatīties nepietiekami oficiāli.",
+        "a": "Pateicoties bagātīgajai makramē mežģīņu faktūrai un atturīgajai augšdaļai ar reglāna piedurknēm, modelis saglabā aristokrātisku līdzsvaru un pilnībā atbilst kokteiļpasākumu etiķetei."
+      },
+      {
+        "q": "Metalizētais diegs var radīt diskomfortu.",
+        "a": "Kleita Galalite ir pilnībā uzlikta uz mīkstas oderes, kas izslēdz metalizēto šķiedru kontaktu ar ādu un nodrošina maksimālu komfortu visa vakara garumā."
+      },
+      {
+        "q": "Mežģīņu audums šķiet pārāk smalks valkāšanai.",
+        "a": "Neskatoties uz vizuālo gaisīgumu, makramē ir viena no visizturīgākajām pīšanas tehnikām. Augstā izpildījuma kvalitāte garantē izstrādājuma formas saglabāšanu."
+      },
+      {
+        "q": "Grūti piemeklēt apavus tik aktīvam zelta spīdumam.",
+        "a": "Zelta tonis 'Oro' ir klasiska neitrāla krāsa vakara garderobē. Mēs iesakām papildināt to ar lakoniskām kurpēm tonī vai aksesuāriem, piemēram, Iroise 0212 0002."
+      },
+      {
+        "q": "Šī kleita ir tikai vienai iziešanai.",
+        "a": "Galalite ir Luisa Spagnoli nezūdošā klasika. Mainot aksesuārus un frizūru, jūs varēsiet radīt jaunus tēlus dažādiem saviesīgiem notikumiem daudzu sezonu garumā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Mini ilgis gali atrodyti nepakankamai oficialiai.",
+        "a": "Dėl turtingos makramė nėrinių faktūros ir santūrios viršutinės dalies su reglano rankovėmis, modelis išlaiko aristokratišką pusiausvyrą ir visiškai atitinka kokteilių vakarėlių etiketą."
+      },
+      {
+        "q": "Metalizuotas siūlas gali kelti diskomfortą.",
+        "a": "Suknelė Galalite turi pilną minkštą pamušalą, kuris pašalina metalizuotų pluoštų kontaktą su oda ir užtikrina maksimalų komfortą visą vakarą."
+      },
+      {
+        "q": "Nėrinių audinys atrodo per daug subtilus dėvėjimui.",
+        "a": "Nepaisant vizualaus lengvumo, makramė yra viena iš patvariausių pynimo technikų. Aukšta atlikimo kokybė garantuoja gaminio formos išlaikymą."
+      },
+      {
+        "q": "Sunku parinkti avalynę prie tokio ryškaus auksinio žvilgesio.",
+        "a": "Auksinis atspalvis 'Oro' yra klasikinė neutrali spalva vakariniame garderobe. Rekomenduojame jį derinti su lakoniškais bateliais tonas-į-toną arba aksesuarais, tokiais kaip Iroise 0212 0002."
+      },
+      {
+        "q": "Ši suknelė skirta tik vienam kartui.",
+        "a": "Galalite — tai Luisa Spagnoli laikui nepavaldi klasika. Keisdami aksesuarus ir šukuoseną, galėsite kurti naujus įvaizdžius įvairiems reprezentaciniams renginiams daugelį sezonų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Długość mini może wyglądać na zbyt mało oficjalną.",
+        "a": "Dzięki bogatej fakturze koronki makramé i stonowanej górze z rękawami typu reglan, model zachowuje arystokratyczny balans i w pełni odpowiada etykiecie przyjęć koktajlowych."
+      },
+      {
+        "q": "Metalizowana nić może powodować dyskomfort.",
+        "a": "Sukienka Galalite jest w całości wykończona miękką podszewką, co wyklucza kontakt metalizowanych włókien ze skórą i zapewnia maksymalny komfort przez cały wieczór."
+      },
+      {
+        "q": "Koronkowa tkanina wydaje się zbyt delikatna do noszenia.",
+        "a": "Mimo wizualnej lekkości, makramé to jedna z najtrwalszych technik plecionkarskich. Wysoka jakość wykonania gwarantuje zachowanie formy produktu."
+      },
+      {
+        "q": "Trudno dobrać obuwie do tak wyrazistego złotego blasku.",
+        "a": "Złoty odcień 'Oro' jest klasycznym, neutralnym kolorem w wieczorowej garderobie. Zalecamy uzupełnienie go minimalistycznymi czółenkami w tonie lub akcesoriami, takimi jak Iroise 0212 0002."
+      },
+      {
+        "q": "Ta sukienka nadaje się tylko na jedno wyjście.",
+        "a": "Galalite to ponadczasowa klasyka Luisa Spagnoli. Zmieniając dodatki i fryzurę, będą Państwo mogli tworzyć nowe stylizacje na różne uroczyste wydarzenia przez wiele sezonów."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Довжина міні може виглядати недостатньо офіційно.",
+        "a": "Завдяки багатій фактурі мережива макраме та стриманому верху з рукавами реглан, модель зберігає аристократичний баланс і повністю відповідає етикету коктейльних заходів."
+      },
+      {
+        "q": "Металізована нитка може викликати дискомфорт.",
+        "a": "Сукня Galalite повністю посаджена на м'яку підкладку, що виключає контакт металізованих волокон зі шкірою та забезпечує максимальний комфорт протягом усього вечора."
+      },
+      {
+        "q": "Мереживне полотно здається занадто делікатним для носіння.",
+        "a": "Попри візуальну легкість, макраме — це одна з найміцніших технік плетіння. Висока якість виконання гарантує збереження форми виробу."
+      },
+      {
+        "q": "Складно підібрати взуття до такого активного золотого блиску.",
+        "a": "Золотий відтінок 'Oro' є класичним нейтральним кольором у вечірньому гардеробі. Ми рекомендуємо доповнити його лаконічними туфлями в тон або аксесуарами, такими як Iroise 0212 0002."
+      },
+      {
+        "q": "Ця сукня тільки для одного виходу.",
+        "a": "Galalite — це позачасова класика Luisa Spagnoli. Змінюючи аксесуари та зачіску, ви зможете створювати нові образи для різних світських подій протягом багатьох сезонів."
+      }
+    ]
+  }
+}

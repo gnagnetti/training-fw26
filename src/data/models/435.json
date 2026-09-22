@@ -1,0 +1,463 @@
+{
+  "id": 435,
+  "name": "Mascal",
+  "description": {
+    "en": "The Mascal dress is a triumph of refined understatement and Luisa Spagnoli's architectural artistry. The midi-length piece is crafted from pure virgin wool (pura lana vergine), which lends the look a noble texture and flawless warmth. The design masterfully unites different knitting techniques: a wrap-effect bodice (top incrociato) is accentuated by diagonal ribbing (coste diagonali) that flows seamlessly into a deep V-neckline. Particular artistry is lent to the piece by batwing sleeves (maniche a pipistrello) with snugly fitted cuffs, creating striking volume at the top, while the skirt is crafted in classic smooth knit (maglia rasata). This dress is the embodiment of intellectual femininity and status, perfectly suited to creating elegant daytime and evening ensembles.",
+    "ru": "Платье Mascal --- это триумф изысканной лаконичности и архитектурного мастерства Luisa Spagnoli. Модель длины миди выполнена из чистой девственной шерсти (pura lana vergine), которая дарит образу благородную фактуру и безупречное тепло. Дизайн виртуозно сочетает в себе различные техники вязки: лиф с эффектом «на запах» (top incrociato) акцентирован диагональным рубчиком (coste diagonali), плавно переходящим в глубокий V-образный вырез. Особый артистизм модели придают рукава «летучая мышь» (maniche a pipistrello) с плотно прилегающими манжетами, создающие эффектный объем в верхней части, в то время как юбка выполнена классической гладкой вязкой (maglia rasata). Это платье --- воплощение интеллектуальной женственности и статуса, идеально подходящее для создания элегантных дневных и вечерних ансамблей.",
+    "ar": "فستان Mascal هو انتصار للبساطة الراقية والبراعة الهندسية لدى Luisa Spagnoli. صُمم الموديل بطول ميدي من الصوف البكر الخالص (pura lana vergine)، الذي يمنح الإطلالة ملمساً نبيلاً ودفئاً لا مثيل له. يجمع التصميم ببراعة بين تقنيات حياكة متنوعة: الجزء العلوي ذو تأثير «اللف» (top incrociato) معزز بخطوط قطرية مضلعة (coste diagonali) تتدفق بسلاسة إلى فتحة رقبة عميقة على شكل V. تضفي أكمام «الخفاش» (maniche a pipistrello) مع الأطراف الضيقة لمسة فنية خاصة، مما يخلق حجماً ملفتاً في الجزء العلوي، بينما تأتي التنورة بحياكة ناعمة كلاسيكية (maglia rasata). هذا الفستان هو تجسيد للأنوثة الفكرية والمكانة الرفيعة، وهو مثالي لتنسيق إطلالات نهارية ومسائية أنيقة.",
+    "ka": "კაბა Mascal --- ეს არის Luisa Spagnoli-ის დახვეწილი ლაკონიურობისა და არქიტექტურული ოსტატობის ტრიუმფი. მიდი სიგრძის მოდელი შესრულებულია სუფთა ქალწული მატყლისგან (pura lana vergine), რომელიც იმიჯს ანიჭებს კეთილშობილურ ფაქტურას და უნაკლო სითბოს. დიზაინი ვირტუოზულად აერთიანებს ქსოვის სხვადასხვა ტექნიკას: „სუნელის“ ეფექტის მქონე ლიფი (top incrociato) აქცენტირებულია დიაგონალური ნეკნებით (coste diagonali), რომლებიც შეუფერხებლად გადადის ღრმა V-სებრ ჭრილში. მოდელს განსაკუთრებულ არტისტიზმს ანიჭებს „ღამურას“ ტიპის სახელოები (maniche a pipistrello) მჭიდროდ მომდგარი მანჟეტებით, რაც ქმნის ეფექტურ მოცულობას ზედა ნაწილში, მაშინ როცა ქვედაბოლო შესრულებულია კლასიკური გლუვი ქსოვით (maglia rasata). ეს კაბა --- ინტელექტუალური ქალურობისა და სტატუსის განსახიერებაა, რომელიც იდეალურად შეეფერება ელეგანტური დღის და საღამოს ანსამბლების შექმნას.",
+    "hy": "Mascal զգեստը նրբագեղ լակոնիզմի և Luisa Spagnoli-ի ճարտարապետական վարպետության հաղթանակն է: Միդի երկարության մոդելը կատարված է մաքուր կուսական բրդից (pura lana vergine), որը կերպարին հաղորդում է ազնվական հյուսվածք և անթերի ջերմություն: Դիզայնը վիրտուոզ կերպով համադրում է հյուսելու տարբեր տեխնիկաներ. «ծրարային» էֆեկտով լիֆը (top incrociato) շեշտադրված է անկյունագծային ռետուզով (coste diagonali), որը սահուն անցնում է խորը V-աձև բացվածքի: Մոդելին առանձնահատուկ արտիստիզմ են հաղորդում «չղջիկ» թևերը (maniche a pipistrello)՝ սերտորեն հարող մանժետներով, որոնք վերին մասում ստեղծում են էֆեկտային ծավալ, մինչդեռ կիսաշրջազգեստը կատարված է դասական հարթ հյուսվածքով (maglia rasata): Այս զգեստը մտավոր կանացիության և կարգավիճակի մարմնացումն է, որը կատարյալ է էլեգանտ ցերեկային և երեկոյան անսամբլներ ստեղծելու համար:",
+    "lv": "Kleita Mascal --- ir izsmalcinātas lakoniskuma un Luisa Spagnoli arhitektoniskās meistarības triumfs. Midi garuma modelis ir izgatavots no tīras jaunvilnas (pura lana vergine), kas dāvā tēlam cēlu faktūru un nevainojamu siltumu. Dizains virtuozi apvieno dažādas adīšanas tehnikas: ņieburs ar «smaržas» efektu (top incrociato) ir akcentēts ar diagonālu rievojumu (coste diagonali), kas plūstoši pāriet dziļā V veida izgriezumā. Īpašu mākslinieciskumu modelim piešķir «sikspārņa» stila piedurknes (maniche a pipistrello) ar cieši piegulošām aprocēm, kas rada efektīvu apjomu augšdaļā, kamēr svārku daļa ir izpildīta klasiskā gludā adījumā (maglia rasata). Šī kleita --- ir intelektuālas sievišķības un statusa iemiesojums, kas ideāli piemērots elegantu dienas un vakara ansambļu radīšanai.",
+    "lt": "Suknelė Mascal --- tai rafinuoto lakoniškumo ir architektūrinio Luisa Spagnoli meistriškumo triumfas. Midi ilgio modelis pagamintas iš grynos pirminės vilnos (pura lana vergine), kuri suteikia įvaizdžiui kilnią faktūrą ir nepriekaištingą šilumą. Dizainas meistriškai sujungia įvairias mezgimo technikas: korsetas su „užvyniojimo“ efektu (top incrociato) akcentuotas įstrižais rumbeliais (coste diagonali), sklandžiai pereinančiais į gilų V formos iškirpimą. Ypatingo artistiškumo modeliui suteikia „šikšnosparnio“ rankovės (maniche a pipistrello) su tampriais rankogaliais, sukuriančios įspūdingą apimtį viršutinėje dalyje, tuo tarpu sijonas pagamintas klasikiniu lygiu mezgimu (maglia rasata). Ši suknelė --- intelektualaus moteriškumo ir statuso įkūnijimas, idealiai tinkantis kuriant elegantiškus dieninius ir vakarinius ansamblius.",
+    "pl": "Sukienka Mascal to triumf wyrafinowanej prostoty i architektonicznego kunsztu Luisa Spagnoli. Model o długości midi wykonano z czystej żywej wełny (pura lana vergine), która nadaje stylizacji szlachetną fakturę i nienaganne ciepło. Design wirtuozersko łączy w sobie różne techniki dziewiarskie: stanik z efektem „na zakładkę” (top incrociato) zaakcentowano diagonalnym prążkiem (coste diagonali), płynnie przechodzącym w głęboki dekolt w serek. Szczególnego artyzmu modelowi dodają rękawy typu nietoperz (maniche a pipistrello) z ciasno przylegającymi mankietami, tworzące efektowną objętość w górnej części, podczas gdy spód wykonano klasycznym gładkim splotem (maglia rasata). Ta sukienka to ucieleśnienie inteligentnej kobiecości i statusu, idealnie pasująca do tworzenia eleganckich dziennych i wieczorowych zestawów.",
+    "uk": "Сукня Mascal --- це тріумф вишуканої лаконічності та архітектурної майстерності Luisa Spagnoli. Модель довжини міді виконана з чистої незайманої вовни (pura lana vergine), яка дарує образу благородну фактуру та бездоганне тепло. Дизайн віртуозно поєднує в собі різні техніки в'язки: ліф з ефектом «на запах» (top incrociato) акцентований діагональним рубчиком (coste diagonali), що плавно переходить у глибокий V-подібний виріз. Особливого артистизму моделі надають рукави «летюча миша» (maniche a pipistrello) зі щільно прилеглими манжетами, що створюють ефектний об'єм у верхній частині, тоді як спідниця виконана класичною гладкою в'язкою (maglia rasata). Ця сукня --- втілення інтелектуальної жіночності та статусу, що ідеально підходить для створення елегантних денних і вечірніх ансамблів."
+  },
+  "colors": [
+    {
+      "name": "Grigio Scuro",
+      "code": "0846",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/148084481691c578e6c3c80_36711670_02790010XX1.jpg"
+    },
+    {
+      "name": "Cammello",
+      "code": "2246",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/358978118691f15726496d0_52174510_02790310XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда интегрируют платье Mascal в статусные многослойные образы, играя на контрасте объемов и фактур: Вариант 2246 ( Коричневый): В lookbook (Look 70): выступает как самостоятельный объект роскоши, подчеркивающий чистоту линий.",
+        "en": "The brand's stylists integrate the Mascal dress into sophisticated layered looks, playing on the contrast of volumes and textures: Variant 2246 ( Brown): In the lookbook (Look 70): acts as an independent object of luxury, emphasizing the purity of lines.",
+        "ar": "The brand's stylists integrate the Mascal dress into sophisticated layered looks, playing on the contrast of volumes and textures: Variant 2246 ( Brown): In the lookbook (Look 70): acts as an independent object of luxury, emphasizing the purity of lines.",
+        "ka": "The brand's stylists integrate the Mascal dress into sophisticated layered looks, playing on the contrast of volumes and textures: Variant 2246 ( Brown): In the lookbook (Look 70): acts as an independent object of luxury, emphasizing the purity of lines.",
+        "hy": "The brand's stylists integrate the Mascal dress into sophisticated layered looks, playing on the contrast of volumes and textures: Variant 2246 ( Brown): In the lookbook (Look 70): acts as an independent object of luxury, emphasizing the purity of lines.",
+        "lv": "The brand's stylists integrate the Mascal dress into sophisticated layered looks, playing on the contrast of volumes and textures: Variant 2246 ( Brown): In the lookbook (Look 70): acts as an independent object of luxury, emphasizing the purity of lines.",
+        "lt": "The brand's stylists integrate the Mascal dress into sophisticated layered looks, playing on the contrast of volumes and textures: Variant 2246 ( Brown): In the lookbook (Look 70): acts as an independent object of luxury, emphasizing the purity of lines.",
+        "pl": "The brand's stylists integrate the Mascal dress into sophisticated layered looks, playing on the contrast of volumes and textures: Variant 2246 ( Brown): In the lookbook (Look 70): acts as an independent object of luxury, emphasizing the purity of lines.",
+        "uk": "The brand's stylists integrate the Mascal dress into sophisticated layered looks, playing on the contrast of volumes and textures: Variant 2246 ( Brown): In the lookbook (Look 70): acts as an independent object of luxury, emphasizing the purity of lines."
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 16, Bambola 1)",
+        "en": "In displays (Vetrina 16, Bambola 1)",
+        "ar": "In displays (Vetrina 16, Bambola 1)",
+        "ka": "In displays (Vetrina 16, Bambola 1)",
+        "hy": "In displays (Vetrina 16, Bambola 1)",
+        "lv": "In displays (Vetrina 16, Bambola 1)",
+        "lt": "In displays (Vetrina 16, Bambola 1)",
+        "pl": "In displays (Vetrina 16, Bambola 1)",
+        "uk": "In displays (Vetrina 16, Bambola 1)"
+      },
+      "text": {
+        "ru": "каноническое сочетание с пальто-халатом Stenografo 0101, шляпой Rotterdam 0101 и сумкой Iago 0101 0002.",
+        "en": "a canonical combination with a Stenografo 0101 wrap coat, a Rotterdam 0101 hat and an Iago 0101 0002 bag.",
+        "ar": "a canonical combination with a Stenografo 0101 wrap coat, a Rotterdam 0101 hat and an Iago 0101 0002 bag.",
+        "ka": "a canonical combination with a Stenografo 0101 wrap coat, a Rotterdam 0101 hat and an Iago 0101 0002 bag.",
+        "hy": "a canonical combination with a Stenografo 0101 wrap coat, a Rotterdam 0101 hat and an Iago 0101 0002 bag.",
+        "lv": "a canonical combination with a Stenografo 0101 wrap coat, a Rotterdam 0101 hat and an Iago 0101 0002 bag.",
+        "lt": "a canonical combination with a Stenografo 0101 wrap coat, a Rotterdam 0101 hat and an Iago 0101 0002 bag.",
+        "pl": "a canonical combination with a Stenografo 0101 wrap coat, a Rotterdam 0101 hat and an Iago 0101 0002 bag.",
+        "uk": "a canonical combination with a Stenografo 0101 wrap coat, a Rotterdam 0101 hat and an Iago 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Rotterdam",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/29cd34c1-9939-4b00-a281-c620d08a01e7-removebg-preview.png"
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 34, Bambola 1)",
+        "en": "In displays (Vetrina 34, Bambola 1)",
+        "ar": "In displays (Vetrina 34, Bambola 1)",
+        "ka": "In displays (Vetrina 34, Bambola 1)",
+        "hy": "In displays (Vetrina 34, Bambola 1)",
+        "lv": "In displays (Vetrina 34, Bambola 1)",
+        "lt": "In displays (Vetrina 34, Bambola 1)",
+        "pl": "In displays (Vetrina 34, Bambola 1)",
+        "uk": "In displays (Vetrina 34, Bambola 1)"
+      },
+      "text": {
+        "ru": "зимний образ с ярким пальто Scatto 2442 и сумкой Ipositano 0920 0002. Вариант 0846 ( Серо-бежевый):",
+        "en": "a winter look with a vibrant Scatto 2442 coat and an Ipositano 0920 0002 bag. Variant 0846 ( Grey-beige):",
+        "ar": "a winter look with a vibrant Scatto 2442 coat and an Ipositano 0920 0002 bag. Variant 0846 ( Grey-beige):",
+        "ka": "a winter look with a vibrant Scatto 2442 coat and an Ipositano 0920 0002 bag. Variant 0846 ( Grey-beige):",
+        "hy": "a winter look with a vibrant Scatto 2442 coat and an Ipositano 0920 0002 bag. Variant 0846 ( Grey-beige):",
+        "lv": "a winter look with a vibrant Scatto 2442 coat and an Ipositano 0920 0002 bag. Variant 0846 ( Grey-beige):",
+        "lt": "a winter look with a vibrant Scatto 2442 coat and an Ipositano 0920 0002 bag. Variant 0846 ( Grey-beige):",
+        "pl": "a winter look with a vibrant Scatto 2442 coat and an Ipositano 0920 0002 bag. Variant 0846 ( Grey-beige):",
+        "uk": "a winter look with a vibrant Scatto 2442 coat and an Ipositano 0920 0002 bag. Variant 0846 ( Grey-beige):"
+      },
+      "items": [
+        {
+          "name": "Scatto",
+          "code": "2442",
+          "imageUrl": null
+        },
+        {
+          "name": "Ipositano",
+          "code": "0920 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 13)",
+        "en": "In the lookbook (Look 13)",
+        "ar": "In the lookbook (Look 13)",
+        "ka": "In the lookbook (Look 13)",
+        "hy": "In the lookbook (Look 13)",
+        "lv": "In the lookbook (Look 13)",
+        "lt": "In the lookbook (Look 13)",
+        "pl": "In the lookbook (Look 13)",
+        "uk": "In the lookbook (Look 13)"
+      },
+      "text": {
+        "ru": "представлено в монохромной эстетике, акцентирующей внимание на диагональной вязке лифа.",
+        "en": "presented in a monochrome aesthetic that focuses attention on the diagonal knit of the bodice.",
+        "ar": "presented in a monochrome aesthetic that focuses attention on the diagonal knit of the bodice.",
+        "ka": "presented in a monochrome aesthetic that focuses attention on the diagonal knit of the bodice.",
+        "hy": "presented in a monochrome aesthetic that focuses attention on the diagonal knit of the bodice.",
+        "lv": "presented in a monochrome aesthetic that focuses attention on the diagonal knit of the bodice.",
+        "lt": "presented in a monochrome aesthetic that focuses attention on the diagonal knit of the bodice.",
+        "pl": "presented in a monochrome aesthetic that focuses attention on the diagonal knit of the bodice.",
+        "uk": "presented in a monochrome aesthetic that focuses attention on the diagonal knit of the bodice."
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 67, 67 A)",
+        "en": "In displays (Vetrina 67, 67 A)",
+        "ar": "In displays (Vetrina 67, 67 A)",
+        "ka": "In displays (Vetrina 67, 67 A)",
+        "hy": "In displays (Vetrina 67, 67 A)",
+        "lv": "In displays (Vetrina 67, 67 A)",
+        "lt": "In displays (Vetrina 67, 67 A)",
+        "pl": "In displays (Vetrina 67, 67 A)",
+        "uk": "In displays (Vetrina 67, 67 A)"
+      },
+      "text": {
+        "ru": "предлагается дополнять длинным пальто Sciroppo 0926, шляпой Renno 0814 и функциональной сумкой Idoneo 0928 0945 0007.",
+        "en": "suggested to be complemented with a long Sciroppo 0926 coat, a Renno 0814 hat and a functional Idoneo 0928 0945 0007 bag.",
+        "ar": "suggested to be complemented with a long Sciroppo 0926 coat, a Renno 0814 hat and a functional Idoneo 0928 0945 0007 bag.",
+        "ka": "suggested to be complemented with a long Sciroppo 0926 coat, a Renno 0814 hat and a functional Idoneo 0928 0945 0007 bag.",
+        "hy": "suggested to be complemented with a long Sciroppo 0926 coat, a Renno 0814 hat and a functional Idoneo 0928 0945 0007 bag.",
+        "lv": "suggested to be complemented with a long Sciroppo 0926 coat, a Renno 0814 hat and a functional Idoneo 0928 0945 0007 bag.",
+        "lt": "suggested to be complemented with a long Sciroppo 0926 coat, a Renno 0814 hat and a functional Idoneo 0928 0945 0007 bag.",
+        "pl": "suggested to be complemented with a long Sciroppo 0926 coat, a Renno 0814 hat and a functional Idoneo 0928 0945 0007 bag.",
+        "uk": "suggested to be complemented with a long Sciroppo 0926 coat, a Renno 0814 hat and a functional Idoneo 0928 0945 0007 bag."
+      },
+      "items": [
+        {
+          "name": "Sciroppo",
+          "code": "0926",
+          "imageUrl": null
+        },
+        {
+          "name": "Renno",
+          "code": "0814",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57693e01-fdb6-4b56-a73b-26c4b4d8ce61.jpg"
+        },
+        {
+          "name": "Idoneo",
+          "code": "0928 0945 0007",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- Sculptural correction: Draw the client's attention to the diagonal ribbing of the bodice. Combined with the wrap cut, this visual device beautifully structures the waist area and elongates the silhouette, lending the figure slenderness. - Sleeve drama:"
+    ],
+    "ru": [
+      "- Скульптурная коррекция: Обратите внимание клиента на диагональный рубчик лифа. В сочетании с кроем «на запах» этот визуальный прием великолепно структурирует зону талии и вытягивает силуэт, придавая фигуре стройность. - Драматизм рукава: Акцентируйте вн"
+    ],
+    "ar": [
+      "- التصحيح النحتي: لفتي نظر العميل إلى الخطوط المضلعة القطرية في الصدر. بالتزامن مع قصة \"اللف\" (Wrap)، يعمل هذا التوظيف البصري على هيكلة منطقة الخصر وإطالة القوام، مما يمنح الجسم رشاقة واضحة. - درامية الأكمام: ركزي على أكمام \"الخفاش\". فهي تضفي لمسة من الأن"
+    ],
+    "ka": [
+      "- სკულპტურული კორექცია: მიაქცევინეთ ყურადღება მომხმარებელს ტანის დიაგონალურ ნეკნს. „საოხშირე“ კროის შეხამებით, ეს ვიზუალური ხერხი შესანიშნავად აკეთილშობილებს წელის ზონას და ჭიმავს სილუეტს, ფიგურას მატებს ტანადობას. - მკლავის დრამატიზმი: ყურადღება გაამახვი"
+    ],
+    "hy": [
+      "- Քանդակային կորեկցիա. Հաճախորդի ուշադրությունը հրավիրեք կրծքամասի անկյունագծային ռետուզի վրա: «Ծրարաձև» կտրվածքի հետ համատեղ այս տեսողական հնարքը հիանալի կառուցվածքավորում է գոտկատեղի հատվածը և ձգում սիլուետը՝ կազմվածքին հաղորդելով սլացիկություն: - Թևի դ"
+    ],
+    "lv": [
+      "- Skulpturālā korekcija: Vērsiet klienta uzmanību uz krūšu daļas diagonālo rievojumu. Kombinācijā ar «smaržas» piegriezumu šis vizuālais paņēmiens lieliski strukturē jostasvietas zonu un izstiepj siluetu, piešķirot figūrai slaidumu. - Piedurkņu dramaturģi"
+    ],
+    "lt": [
+      "- Skulptūrinė korekcija: Atkreipkite klientės dėmesį į įstrižą liemens raštą. Derinyje su „užsegamu“ (wrap) kirpimu, šis vizualinis triukas puikiai struktūruoja liemens zoną ir ištęsia siluetą, suteikdamas figūrai grakštumo. - Rankovių dramatiškumas: Akcentuokite „šikšnosparnio“ tipo rankoves. Jos suteikia įvaizdžiui podiumo šiko ir judesių laisvės, o siauri rankogaliai leidžia lengvai derinti suknelę su bet kokiais švarkais ir paltais. - Kilnus pura lana vergine: Pabrėžkite 100% vilnos sudėtį. Tai ne tik aukštos kokybės rodiklis, bet ir garantija, kad trikotažas išlaikys formą bei sijono tankį net ir aktyviai dėvint."
+    ],
+    "pl": [
+      "- Rzeźbiarska korekta: Zwróć uwagę klientki na ukośny prążek gorsetu. W połączeniu z krojem «kopertowym» ten wizualny zabieg wspaniale strukturyzuje strefę talii i wydłuża sylwetkę, dodając figurze smukłości. - Dramatyzm rękawa: Skup uwagę na rękawach «ni"
+    ],
+    "uk": [
+      "- Скульптурна корекція: Зверніть увагу клієнта на діагональний рубчик ліфа. У поєднанні з кроєм «на запах» цей візуальний прийом чудово структурує зону талії та витягує силует, надаючи фігурі стрункості. - Драматизм рукава: Акцентуйте увагу на рукавах «ка"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "batwing Explain that Luisa Spagnoli's wool knit has sleeves won't fit exceptional suppleness. The sleeves drape gently under outerwear» under a coat (such as the Stenografo 2716) without causing discomfort. «The knit skirt Point out the dense \"maglia rasata\" knit used in might stretch out» the lower part of the dress. It is specifically engineered to minimize distortion and preserve the crisp silhouette of the midi skirt. «The V-neck seems Suggest completing the look with a silk neck too deep» scarf or a statement necklace. The wrap neckline serves as the perfect frame for the décolletage and accessories. «The knit dress Showcase the play of textures: the diagonal rib adds bulk» on the bodice and the smooth skirt create a well-balanced distribution of focal points that visually slims rather than adding volume. «This dress is Show the styling from window display „–16: too plain for a paired with the Rotterdam 0101 hat and the Iago night out» 0101 0002 bag, the piece becomes a fashion-forward \"Total Look\" in Fashion Show style"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Рукава \\'летучая",
+        "a": "Поясните, что шерстяной трикотаж Luisa Spagnoli мышь\\' не обладает исключительной пластичностью. Рукава мягко поместятся под драпируются под верхней одеждой (например, под пальто Stenografo 2716), не создавая дискомфорта."
+      },
+      {
+        "q": "Вязаная юбка",
+        "a": "Укажите на плотную вязку «maglia rasata в нижней может вытянуться» части платья. Она специально разработана для минимизации деформации и сохранения четкого силуэта юбки-миди."
+      },
+      {
+        "q": "V-образный вырез",
+        "a": "Предложите дополнить образ шелковым шейным платком кажется слишком или статусным колье. Вырез «на запах служит глубоким» идеальной рамой для портретной зоны и аксессуаров."
+      },
+      {
+        "q": "Трикотажное",
+        "a": "Продемонстрируйте игру фактур: диагональный рубчик платье полнит на лифе и гладкая юбка создают правильное распределение акцентов, которое визуально стройнит, а не добавляет объем."
+      },
+      {
+        "q": "Это слишком",
+        "a": "Покажите стилизацию из витрины №16: в сочетании со простое платье для шляпой Rotterdam 0101 и сумкой Iago 0101 выхода 0002 модель превращается в остромодный."
+      },
+      {
+        "q": "Total Look",
+        "a": "в стиле Fashion Show."
+      }
+    ],
+    "ar": [
+      {
+        "q": "أكمام الـ 'الخفاش' لن تتسع تحت المعطف",
+        "a": "وضح أن التريكو الصوفي من Luisa Spagnoli يتمتع بمرونة استثنائية، فالأكمام تنسدل بنعومة تحت الملابس الخارجية (مثل معطف Stenografo 2716) دون التسبب بأي انزعاج."
+      },
+      {
+        "q": "التنورة المحاكة قد تتمدد",
+        "a": "أشر إلى الحياكة الكثيفة."
+      },
+      {
+        "q": "maglia rasata",
+        "a": "في الجزء السفلي من الفستان، والمصممة خصيصاً لتقليل التشوه والحفاظ على القوام الرشيق للتنورة الميدي."
+      },
+      {
+        "q": "فتحة العنق على شكل V تبدو عميقة جداً",
+        "a": "اقترح إكمال المظهر بوشاح حريري أو قلادة فاخرة؛ فالفتحة المتداخلة تشكل إطاراً مثالياً لمنطقة الوجه."
+      },
+      {
+        "q": "الفستان التريكو يجعل القوام يبدو ممتلئاً",
+        "a": "استعرض تباين الخامات: الحياكة المائلة على الصدر والتنورة الملساء توفر توزيعاً ذكياً للتركيز البصري، مما يمنح مظهراً رشيقاً بدلاً من إضافة أي حجم."
+      },
+      {
+        "q": "هذا الفستان بسيط للغاية للخروجات",
+        "a": "اعرض التنسيق من العرض رقم 16: مع قبعة Rotterdam 0101 وحقيبة Iago 0101 0002، يتحول الفستان إلى."
+      },
+      {
+        "q": "Total Look",
+        "a": "عصري بأسلوب عروض الأزياء."
+      }
+    ],
+    "ka": [
+      {
+        "q": "წინააღმდეგობა: სტრატეგია გადალახვისთვის: „სახელოები 'ღამურა' არ ჩაეტევა პალტოს ქვეშ",
+        "a": "განუმარტეთ, რომ Luisa Spagnoli-ის მატყლის ტრიკოტაჟს აქვს გამორჩეული პლასტიკურობა. სახელოები რბილად დრაპირდება ზედა სამოსის ქვეშ (მაგალითად, Stenografo 2716-ის ქვეშ) და არ ქმნის დისკომფორტს. , რომ Luisa Spagnoli-ის მატყლის ტრიკოტაჟს აქვს გამორჩეული პლასტიკურობა. სახელოები რბილად დრაპირდება ზედა სამოსის ქვეშ (მაგალითად, Stenografo 2716-ის ქვეშ) და არ ქმნის დისკომფორტს."
+      },
+      {
+        "q": "„ნაქსოვი ქვედაბოლო შეიძლება გაიწელოს",
+        "a": "მიუთითეთ „maglia rasata“-ს მკვრივ ქსოვაზე კაბის ქვედა ნაწილში. ის სპეციალურად არის შემუშავებული დეფორმაციის მინიმიზაციისა და მიდი-ქვედაბოლოს მკაფიო სილუეტის შესანარჩუნებლად. „maglia rasata“-ს მკვრივ ქსოვაზე კაბის ქვედა ნაწილში. ის სპეციალურად არის შემუშავებული დეფორმაციის მინიმიზაციისა და მიდი-ქვედაბოლოს მკაფიო სილუეტის შესანარჩუნებლად."
+      },
+      {
+        "q": "„V-სებრი ყელი ზედმეტად ღრმა ჩანს",
+        "a": "შესთავაზეთ შეავსოთ ლუქი აბრეშუმის ყელსახვევით ან სტატუსური ყელსაბამით. „გადაკეცილი“ ყელი ემსახურება როგორც იდეალური ჩარჩო პორტრეტული ზონისა და აქსესუარებისთვის. შეავსოთ ლუქი აბრეშუმის ყელსახვევით ან სტატუსური ყელსაბამით. „გადაკეცილი“ ყელი ემსახურება როგორც იდეალური ჩარჩო პორტრეტული ზონისა და აქსესუარებისთვის."
+      },
+      {
+        "q": "„ტრიკოტაჟის კაბა მსუქნავს",
+        "a": "წარმოაჩინეთ ფაქტურების თამაში: დიაგონალური ნეკნი ტანზე და გლუვი ქვედაბოლო ქმნიან აქცენტების სწორ განაწილებას, რომელიც ვიზუალურად აწერწეტებს და არა მატებს მოცულობას. ფაქტურების თამაში: დიაგონალური ნეკნი ტანზე და გლუვი ქვედაბოლო ქმნიან აქცენტების სწორ განაწილებას, რომელიც ვიზუალურად აწერწეტებს და არა მატებს მოცულობას."
+      },
+      {
+        "q": "„ეს ზედმეტად მარტივი კაბაა გასასვლელად",
+        "a": "აჩვენეთ სტილიზაცია ვიტრინა №16-დან: Rotterdam 0101 ქუდთან და Iago 0101 0002 ჩანთასთან შეხამებით მოდელი გარდაიქმნება მახვილმოდურ „Total Look“-ად Fashion Show-ს სტილში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Չղջիկ",
+        "a": "թևերը չեն տեղավորվի վերարկուի տակ»՝ Բացատրեք, որ Luisa Spagnoli-ի բրդյա տրիկոտաժն ունի բացառիկ պլաստիկություն: Թևերը փափուկ դրեյպավորվում են վերնազգեստի տակ (օրինակ՝ Stenografo 2716-ի տակ)՝ առանց անհարմարություն ստեղծելու."
+      },
+      {
+        "q": "Գործված կիսաշրջազգեստը կարող է ձգվել",
+        "a": "՝ Մատնանշեք զգեստի ստորին մասի."
+      },
+      {
+        "q": "maglia rasata",
+        "a": "խիտ հյուսվածքը: Այն հատուկ մշակված է դեֆորմացիան նվազագույնի հասցնելու և միդի-կիսաշրջազգեստի հստակ ուրվագիծը պահպանելու համար."
+      },
+      {
+        "q": "V-աձև բացվածքը չափազանց խորն է թվում",
+        "a": "՝ Առաջարկեք կերպարը լրացնել մետաքսե վզկապով կամ կարգավիճակային վզնոցով."
+      },
+      {
+        "q": "Ծալքավոր",
+        "a": "բացվածքը ծառայում է որպես դիմանկարային գոտու և աքսեսուարների իդեալական շրջանակ."
+      },
+      {
+        "q": "Տրիկոտաժե զգեստը գիրացնում է",
+        "a": "՝ Ցուցադրեք ֆակտուրաների խաղը. իրանի հատվածում անկյունագծային զոլերը և հարթ կիսաշրջազգեստը ստեղծում են շեշտադրումների ճիշտ բաշխում, որը տեսողականորեն սլացիկացնում է և ոչ թե ավելացնում ծավալ."
+      },
+      {
+        "q": "Սա չափազանց պարզ զգեստ է ելքի համար",
+        "a": "՝ Ցուցադրեք թիվ 16 ցուցափեղկի ոճավորումը. Rotterdam 0101 գլխարկի և Iago 0101 0002 պայուսակի հետ համադրությամբ մոդելը վերածվում է Fashion Show ոճի սուր-մոդայիկ."
+      },
+      {
+        "q": "Total Look",
+        "a": "-ի."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Piedurknes 'sikspārnis",
+        "a": "Izskaidrojiet, ka Luisa Spagnoli vilnas trikotāžai neietilps zem ir izcila plastika. Piedurknes maigi drapējas zem mēteļa virsdrēbēm (piemēram, zem Stenografo 2716), neradot diskomfortu."
+      },
+      {
+        "q": "Adīti svārki var",
+        "a": "Norādiet uz blīvo «maglia rasata adījumu kleitas izstaipīties» apakšdaļā. Tas ir īpaši izstrādāts, lai minimizētu deformāciju un saglabātu precīzu midi-svārku siluetu."
+      },
+      {
+        "q": "V-veida izgriezums",
+        "a": "Piedāvājiet papildināt tēlu ar zīda kakla lakatu vai šķiet pārāk dziļš statusa rotaslietu."
+      },
+      {
+        "q": "Smarža",
+        "a": "(on wrap) izgriezums kalpo kā ideāls ietvars portreta zonai un aksesuāriem."
+      },
+      {
+        "q": "Trikotāžas kleita",
+        "a": "Demonstrējiet faktūru spēli: diagonālās rievas uz padara pilnīgāku ņiebura un gludie svārki rada pareizu akcentu sadalījumu, kas vizuāli slaidina, nevis palielina apjomu."
+      },
+      {
+        "q": "Tā ir pārāk",
+        "a": "Parādiet stilizāciju no skatloga Nr.16: kombinācijā vienkārša kleita ar Rotterdam 0101 cepuri un Iago 0101 0002 somu iziešanai modelis pārtop par īpaši modernu."
+      },
+      {
+        "q": "Total Look",
+        "a": "Fashion Show stilā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikti „Šikšnosparnio tipo rankovės netilps po paltu“ –",
+        "a": "Paaiškinkite, kad Luisa Spagnoli vilnonis trikotažas pasižymi išskirtiniu plastiškumu. Rankovės švelniai drapiruojasi po viršutiniais drabužiais (pavyzdžiui, po Stenografo 2716 paltu), nesukeldamos diskomforto. , kad Luisa Spagnoli vilnonis trikotažas pasižymi išskirtiniu plastiškumu. Rankovės švelniai drapiruojasi po viršutiniais drabužiais (pavyzdžiui, po Stenografo 2716 paltu), nesukeldamos diskomforto."
+      },
+      {
+        "q": "„Megztas sijonas gali išsitampyti“ –",
+        "a": "Atkreipkite dėmesį į tankų „maglia rasata“ mezgimą suknelės apatinėje dalyje. Jis specialiai sukurtas tam, kad sumažintų deformaciją ir išlaikytų aiškų midi sijono siluetą. į tankų „maglia rasata“ mezgimą suknelės apatinėje dalyje. Jis specialiai sukurtas tam, kad sumažintų deformaciją ir išlaikytų aiškų midi sijono siluetą."
+      },
+      {
+        "q": "„V formos iškirptė atrodo pernelyg gili“ –",
+        "a": "Pasiūlykite įvaizdį papildyti šilkinia skarele arba statusą pabrėžiančiu vėriniu. „Suvyniojama“ iškirptė tarnauja kaip idealus rėmas portretinei zonai ir aksesuarams. įvaizdį papildyti šilkinia skarele arba statusą pabrėžiančiu vėriniu. „Suvyniojama“ iškirptė tarnauja kaip idealus rėmas portretinei zonai ir aksesuarams."
+      },
+      {
+        "q": "„Trikotažinė suknelė didina apimtis“ –",
+        "a": "Pademonstruokite faktūrų žaismą: įstrižas stulpelis ant liemens ir lygus sijonas sukuria teisingą akcentų pasiskirstymą, kuris vizualiai lieknina, o ne prideda tūrio. faktūrų žaismą: įstrižas stulpelis ant liemens ir lygus sijonas sukuria teisingą akcentų pasiskirstymą, kuris vizualiai lieknina, o ne prideda tūrio."
+      },
+      {
+        "q": "„Tai pernelyg paprasta suknelė išėjimui“ –",
+        "a": "Parodykite stilizaciją iš 16 vitrinos: derinant su Rotterdam 0101 skrybėle ir Iago 0101 0002 rankine, modelis virsta itin madinga „Total Look“ Fashion Show stiliaus eilute."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Rękawy typu 'nietoperz' nie zmieszczą się pod płaszczem",
+        "a": "Wyjaśnij, że wełniany trykot Luisa Spagnoli posiada wyjątkową plastyczność. Rękawy miękko układają się pod odzieżą wierzchnią (na przykład pod modelem Stenografo 2716), nie powodując dyskomfortu."
+      },
+      {
+        "q": "Dzianinowa spódnica może się wyciągnąć",
+        "a": "Wskaż na gęsty splot typu."
+      },
+      {
+        "q": "maglia rasata",
+        "a": "w dolnej części sukienki. Został on specjalnie zaprojektowany, aby zminimalizować odkształcenia i zachować nienaganną linię spódnicy midi."
+      },
+      {
+        "q": "Dekolt w serek wydaje się zbyt głęboki",
+        "a": "Zaproponuj uzupełnienie stylizacji jedwabną apaszką lub efektownym naszyjnikiem. Dekolt kopertowy stanowi idealną oprawę dla twarzy i dodatków."
+      },
+      {
+        "q": "Dzianinowa sukienka pogrubia",
+        "a": "Zaprezentuj grę faktur: ukośny prążek na gorsecie oraz gładka spódnica tworzą właściwe rozłożenie akcentów, które optycznie wysmukla, a nie dodaje objętości."
+      },
+      {
+        "q": "To zbyt prosta sukienka na wyjście",
+        "a": "Pokaż stylizację z witryny nr 16: w połączeniu z kapeluszem Rotterdam 0101 i torebką Iago 0101 0002 model zmienia się w modny."
+      },
+      {
+        "q": "Total Look",
+        "a": "w stylu Fashion Show."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Рукави 'летюча миша' не помістяться під пальто",
+        "a": "Поясніть, що вовняний трикотаж Luisa Spagnoli має виняткову пластичність. Рукави м'яко драпіруються під верхнім одягом (наприклад, під Stenografo 2716), не створюючи дискомфорту."
+      },
+      {
+        "q": "В'язана спідниця може витягнутися",
+        "a": "Вкажіть на щільну в'язку."
+      },
+      {
+        "q": "maglia rasata",
+        "a": "у нижній частині сукні. Вона спеціально розроблена для мінімізації деформації та збереження чіткого силуету спідниці-міді."
+      },
+      {
+        "q": "V-подібний виріз здається занадто глибоким",
+        "a": "Запропонуйте доповнити образ шовковою шийною хусткою або статусним кольє. Виріз."
+      },
+      {
+        "q": "на запах",
+        "a": "служить ідеальною рамою для портретної зони та аксесуарів."
+      },
+      {
+        "q": "Трикотажна сукня повнить",
+        "a": "Продемонструйте гру фактур: діагональний рубчик на ліфі та гладка спідниця створюють правильний розподіл акцентів, що візуально стрункішає, а не додає об'єму."
+      },
+      {
+        "q": "Це занадто проста сукня для виходу",
+        "a": "Покажіть стилізацію з вітрини №16: у поєднанні зі капелюхом Rotterdam 0101 та сумкою Iago 0101 0002 модель перетворюється на гостромодний."
+      },
+      {
+        "q": "Total Look",
+        "a": "у стилі Fashion Show."
+      }
+    ]
+  }
+}

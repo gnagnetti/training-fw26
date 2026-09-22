@@ -1,0 +1,327 @@
+{
+  "id": 299,
+  "name": "Sauris",
+  "description": {
+    "en": "This magnificent winter coat from Luisa Spagnoli is the embodiment of contemporary luxury and ethical fashion. Crafted from high-quality sheared eco-fur (faux fur) with an exquisite texture that visually recalls natural fur. The architectural cut is accentuated by wide pointed lapels and a classic double-breasted closure, creating a status-defining, elegant silhouette. Slightly voluminous sleeves lend the look femininity, while a decorative back strap (martingale) ensures a perfect fit. Fabric composition: 67% acetate, 21% polyester, 12% polyamide.",
+    "ru": "Это великолепное зимнее пальто от Luisa Spagnoli представляет собой воплощение современной роскоши и этичной моды. Модель выполнена из высококачественного стриженого эко-меха (faux fur) с изысканной текстурой, визуально напоминающей натуральный мех. Архитектурный крой подчеркнут широкими заостренными лацканами и классической двубортной застежкой, создающей статусный и элегантный силуэт. Слегка объемные рукава добавляют образу женственности, а декоративный хлястик (мартингала) на спинке обеспечивает идеальную посадку. Состав ткани: 67% ацетат, 21% полиэстер, 12% полиамид.",
+    "ar": "يعد هذا المعطف الشتوي الرائع من Luisa Spagnoli تجسيداً للفخامة العصرية والأزياء الأخلاقية. الموديل مصنوع من فرو صناعي (faux fur) مقصوص عالي الجودة ذي ملمس راقٍ يشبه بصرياً الفراء الطبيعي. تم إبراز القصّة المعمارية بياقات عريضة مدببة وإغلاق كلاسيكي بصفين من الأزرار، مما يخلق صورة ظلية مرموقة وأنيقة. تضفي الأكمام الواسعة قليلاً لمسة من الأنوثة، بينما يضمن حزام التزيين الخلفي (martingala) ملاءمة مثالية. تركيب القماش: 67% أسيتات، 21% بوليستر، 12% بولياميد.",
+    "ka": "ეს ბრწყინვალე ზამთრის პალტო Luisa Spagnoli-სგან თანამედროვე ფუფუნებისა და ეთიკური მოდის განსახიერებაა. მოდელი დამზადებულია მაღალი ხარისხის შეჭრილი ეკო-ბეწვისგან (faux fur) დახვეწილი ტექსტურით, რომელიც ვიზუალურად ბუნებრივ ბეწვს მოგვაგონებს. არქიტექტურული კერვა ხაზგასმულია ფართო წვეტიანი ლაცკანებითა და კლასიკური ორბორტიანი შესაკრავით, რაც სტატუსურ და ელეგანტურ სილუეტს ქმნის. ოდნავ მოცულობითი სახელოები იმიჯს ქალურობას მატებს, ხოლო ზურგზე არსებული დეკორატიული თასმა (მარტინგალა) უზრუნველყოფს იდეალურ მორგებას. ქსოვილის შემადგენლობა: 67% აცეტატი, 21% პოლიესტერი, 12% პოლიამიდი.",
+    "hy": "Luisa Spagnoli-ի այս հիանալի ձմեռային վերարկուն ժամանակակից շքեղության և էթիկական նորաձևության մարմնացումն է։ Մոդելը պատրաստված է բարձրորակ խուզած էկո-մորթուց (faux fur)՝ նրբագեղ հյուսվածքով, որը տեսողականորեն հիշեցնում է բնական մորթի։ Ճարտարապետական ձևվածքն ընդգծված է լայն սրածայր օձիքներով և դասական երկկողմանի կոճկվող ամրակով, որը ստեղծում է կարգավիճակային և էլեգանտ ուրվագիծ։ Թեթևակի ծավալուն թևերը կերպարին հաղորդում են կանացիություն, իսկ մեջքի դեկորատիվ գոտին (մարտինգալ) ապահովում է իդեալական նստվածք։ Գործվածքի կազմը՝ 67% ացետատ, 21% պոլիեսթեր, 12% պոլիամիդ։",
+    "lv": "Šis krāšņais ziemas mētelis no Luisa Spagnoli ir mūsdienīgas greznības un ētiskas modes iemiesojums. Modelis ir izgatavots no augstas kvalitātes cirptas eko-kažokādas (faux fur) ar izsmalcinātu tekstūru, kas vizuāli atgādina dabisko kažokādu. Arhitektonisko piegriezumu izceļ platas, smailas atloki un klasiska divrindu aizdare, kas rada statusa cienīgu un elegantu siluetu. Nedaudz apjomīgas piedurknes piešķir tēlam sievišķību, bet dekoratīvā uzšuve (martingala) uz muguras nodrošina ideālu piegulumu. Auduma sastāvs: 67% acetāts, 21% poliesters, 12% poliamīds.",
+    "lt": "Šis nuostabus žieminis paltas iš Luisa Spagnoli yra šiuolaikinės prabangos ir etiškos mados įsikūnijimas. Modelis pagamintas iš aukštos kokybės dirbtinio kailio (faux fur) su rafinuota tekstūra, vizualiai primenančia natūralų kailį. Architektūrinį kirpimą pabrėžia platūs smailėjantys atlapai ir klasikinė dviejų eilių sagų užsegimas, sukuriantis solidų ir elegantišką siluetą. Šiek tiek tūrinės rankovės suteikia įvaizdžiui moteriškumo, o dekoratyvinis dirželis (martingalė) nugaroje užtikrina idealų prigludimą. Audinio sudėtis: 67% acetatas, 21% poliesteris, 12% poliamidas.",
+    "pl": "Ten wspaniały płaszcz zimowy od Luisa Spagnoli stanowi ucieleśnienie współczesnego luksusu i etycznej mody. Model wykonany jest z wysokiej jakości strzyżonego eko-futerka (faux fur) o wykwintnej fakturze, wizualnie przypominającej naturalne futro. Architektoniczny krój podkreślają szerokie, szpiczaste klapy oraz klasyczne dwurzędowe zapięcie, tworzące prestiżową i elegancką sylwetkę. Lekko obszerne rękawy dodają stylizacji kobiecości, a dekoracyjny pasek (martingale) na plecach zapewnia idealne dopasowanie. Skład tkaniny: 67% octan, 21% poliester, 12% poliamid.",
+    "uk": "Это великолепное зимнее пальто от Luisa Spagnoli представляет собой воплощение современной роскоши и этичной моды. Модель выполнена из высококачественного стриженого эко-меха (faux fur) с изысканной текстурой, визуально напоминающей натуральный мех. Архитектурный крой подчеркнут широкими заостренными лацканами и классической двубортной застежкой, создающей статусный и элегантный силуэт. Слегка объемные рукава добавляют образу женственности, а декоративный хлястик (мартингала) на спинке обеспечивает идеальную посадку. Состав ткани: 67% ацетат, 21% полиэстер, 12% полиамид."
+  },
+  "colors": [
+    {
+      "name": "Cioccolato",
+      "code": "0985",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9N1WYFCYQiyYLLWef1_qQw_1966625180696f42f0e46ef9_00176441_02820860XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Образ 'Городская элегантность' (Vetrina 49)",
+        "en": "'Urban Elegance' look (Vetrina 49)",
+        "ar": "'Urban Elegance' look (Vetrina 49)",
+        "ka": "'Urban Elegance' look (Vetrina 49)",
+        "hy": "'Urban Elegance' look (Vetrina 49)",
+        "lv": "'Urban Elegance' look (Vetrina 49)",
+        "lt": "'Urban Elegance' look (Vetrina 49)",
+        "pl": "'Urban Elegance' look (Vetrina 49)",
+        "uk": "'Urban Elegance' look (Vetrina 49)"
+      },
+      "text": {
+        "ru": "Пальто <a href=\" 0985</a> в сочетании с пуловером <a href=\" 1781</a>, рубашкой <a href=\" 3200</a> и брюками <a href=\" 0927</a>.",
+        "en": "Coat <a href=\" 0985\"></a> combined with a <a href=\" 1781\">pullover</a>, <a href=\" 3200\">shirt</a>, and <a href=\" 0927\">trousers</a>.",
+        "ar": "Coat <a href=\" 0985\"></a> combined with a <a href=\" 1781\">pullover</a>, <a href=\" 3200\">shirt</a>, and <a href=\" 0927\">trousers</a>.",
+        "ka": "Coat <a href=\" 0985\"></a> combined with a <a href=\" 1781\">pullover</a>, <a href=\" 3200\">shirt</a>, and <a href=\" 0927\">trousers</a>.",
+        "hy": "Coat <a href=\" 0985\"></a> combined with a <a href=\" 1781\">pullover</a>, <a href=\" 3200\">shirt</a>, and <a href=\" 0927\">trousers</a>.",
+        "lv": "Coat <a href=\" 0985\"></a> combined with a <a href=\" 1781\">pullover</a>, <a href=\" 3200\">shirt</a>, and <a href=\" 0927\">trousers</a>.",
+        "lt": "Coat <a href=\" 0985\"></a> combined with a <a href=\" 1781\">pullover</a>, <a href=\" 3200\">shirt</a>, and <a href=\" 0927\">trousers</a>.",
+        "pl": "Coat <a href=\" 0985\"></a> combined with a <a href=\" 1781\">pullover</a>, <a href=\" 3200\">shirt</a>, and <a href=\" 0927\">trousers</a>.",
+        "uk": "Coat <a href=\" 0985\"></a> combined with a <a href=\" 1781\">pullover</a>, <a href=\" 3200\">shirt</a>, and <a href=\" 0927\">trousers</a>."
+      },
+      "items": []
+    },
+    {
+      "title": {
+        "ru": "Образ 'Contemporary Mix' (Look 97)",
+        "en": "'Contemporary Mix' look (Look 97)",
+        "ar": "'Contemporary Mix' look (Look 97)",
+        "ka": "'Contemporary Mix' look (Look 97)",
+        "hy": "'Contemporary Mix' look (Look 97)",
+        "lv": "'Contemporary Mix' look (Look 97)",
+        "lt": "'Contemporary Mix' look (Look 97)",
+        "pl": "'Contemporary Mix' look (Look 97)",
+        "uk": "'Contemporary Mix' look (Look 97)"
+      },
+      "text": {
+        "ru": "Пальто <a href=\" 0985</a> с базовым пуловером <a href=\" (1).jpg\">Manos 0970</a> и эффектными кожаными брюками <a href=\" 0978</a>. Завершает ансамбль кепи <a href=\" 0930</a>.",
+        "en": "Coat <a href=\" 0985\"></a> with a basic <a href=\" (1).jpg\">Manos 0970</a> pullover and striking leather <a href=\" 0978\">trousers</a>. A <a href=\" 0930\">cap</a> completes the ensemble.",
+        "ar": "Coat <a href=\" 0985\"></a> with a basic <a href=\" (1).jpg\">Manos 0970</a> pullover and striking leather <a href=\" 0978\">trousers</a>. A <a href=\" 0930\">cap</a> completes the ensemble.",
+        "ka": "Coat <a href=\" 0985\"></a> with a basic <a href=\" (1).jpg\">Manos 0970</a> pullover and striking leather <a href=\" 0978\">trousers</a>. A <a href=\" 0930\">cap</a> completes the ensemble.",
+        "hy": "Coat <a href=\" 0985\"></a> with a basic <a href=\" (1).jpg\">Manos 0970</a> pullover and striking leather <a href=\" 0978\">trousers</a>. A <a href=\" 0930\">cap</a> completes the ensemble.",
+        "lv": "Coat <a href=\" 0985\"></a> with a basic <a href=\" (1).jpg\">Manos 0970</a> pullover and striking leather <a href=\" 0978\">trousers</a>. A <a href=\" 0930\">cap</a> completes the ensemble.",
+        "lt": "Coat <a href=\" 0985\"></a> with a basic <a href=\" (1).jpg\">Manos 0970</a> pullover and striking leather <a href=\" 0978\">trousers</a>. A <a href=\" 0930\">cap</a> completes the ensemble.",
+        "pl": "Coat <a href=\" 0985\"></a> with a basic <a href=\" (1).jpg\">Manos 0970</a> pullover and striking leather <a href=\" 0978\">trousers</a>. A <a href=\" 0930\">cap</a> completes the ensemble.",
+        "uk": "Coat <a href=\" 0985\"></a> with a basic <a href=\" (1).jpg\">Manos 0970</a> pullover and striking leather <a href=\" 0978\">trousers</a>. A <a href=\" 0930\">cap</a> completes the ensemble."
+      },
+      "items": [
+        {
+          "name": "Manos",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Highlight the sustainability and premium quality of the faux fur, which rivals its natural counterparts in both tactile feel and visual appeal.",
+      "Recommend Sauris as a key piece for layered winter looks, emphasising its versatility when paired with knitwear and leather.",
+      "Draw the client's attention to the architectural details: the pointed lapels and back belt are signature touches of Luisa Spagnoli, making the piece both recognisable and timeless."
+    ],
+    "ru": [
+      "Сделайте акцент на экологичности и премиальном качестве искусственного меха, который по своим тактильным и визуальным свойствам успешно конкурирует с натуральными аналогами.",
+      "Рекомендуйте Sauris как ключевой элемент многослойных зимних образов, подчеркивая его универсальность при сочетании с трикотажем и кожей.",
+      "Обратите внимание клиентки на архитектурные детали: заостренные лацканы и хлястик — это фирменные штрихи Luisa Spagnoli, которые делают вещь узнаваемой и вневременной."
+    ],
+    "ar": [
+      "ركزي على الاستدامة والجودة الفائقة للفراء الصناعي الذي ينافس بخصائصه الملموسة والبصرية نظائره الطبيعية.",
+      "أوصي بقطعة Sauris كعنصر أساسي للإطلالات الشتوية ذات الطبقات المتعددة، مع التأكيد على تنوعها عند تنسيقها مع التريكو والجلد.",
+      "لفتي انتباه العميلة إلى التفاصيل المعمارية: اللياقة المدببة والحزام هي لمسات Luisa Spagnoli المميزة التي تجعل القطعة فريدة وخالدة لا تفقد رونقها بمرور الزمن."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი ხელოვნური ბეწვის ეკოლოგიურობასა და პრემიუმ ხარისხზე, რომელიც თავისი ტაქტილური და ვიზუალური თვისებებით წარმატებით უწევს კონკურენციას ნატურალურ ანალოგებს.",
+      "რეკომენდაცია გაუწიეთ Sauris-ს, როგორც მრავალშრიანი ზამთრის ლუქების საკვანძო ელემენტს, ხაზგასმით აღნიშნეთ მისი უნივერსალურობა ტრიკოტაჟთან და ტყავთან შეხამებისას.",
+      "მიაქცევინეთ კლიენტის ყურადღება არქიტექტურულ დეტალებს: წვეტიანი ლაცკანები და თასმა — ეს Luisa Spagnoli-ს საფირმო ნიშნებია, რომლებიც ნივთს ცნობადს და დროზე აღმატებულს ხდის."
+    ],
+    "hy": [
+      "Շեշտը դրեք արհեստական մորթու էկոլոգիապես մաքուր լինելու և պրեմիում որակի վրա, որը իր տակտիլ և վիզուալ հատկություններով հաջողությամբ մրցակցում է բնական անալոգների հետ։",
+      "Խորհուրդ տվեք Sauris-ը որպես ձմեռային բազմաշերտ կերպարների հիմնական տարր՝ ընդգծելով դրա համադրելիության բազմազանությունը տրիկոտաժի և կաշվե իրերի հետ։",
+      "Հաճախորդի ուշադրությունը հրավիրեք ճարտարապետական դետալների վրա՝ սրածայր օձիքները և գոտիակապը Luisa Spagnoli-ի ֆիրմային շտրիխներն են, որոնք հագուստը դարձնում են ճանաչելի և անժամանակ։"
+    ],
+    "lv": [
+      "Lieciet uzsvaru uz mākslīgās kažokādas ekoloģiskumu un augstākās kvalitātes standartiem, kas savu taktilu un vizuālo īpašību ziņā veiksmīgi konkurē ar dabīgajiem analogiem.",
+      "Iesakiet Sauris kā galveno slāņveida ziemas tēlu elementu, uzsverot tā daudzpusību apvienojumā ar trikotāžu un ādu.",
+      "Vērsiet klientes uzmanību uz arhitektoniskajām detaļām: smailie atloki un siksniņa ir Luisa Spagnoli firmas zīmes, kas padara šo apģērbu atpazīstamu un mūžīgu."
+    ],
+    "lt": [
+      "Padarykite akcentą į dirbtinio kailio ekologiškumą ir aukščiausią kokybę, kuris savo taktilinėmis ir vizualiomis savybėmis sėkmingai konkuruoja su natūraliais analogais.",
+      "Rekomenduokite Sauris kaip pagrindinį daugiasluoksnių žiemos įvaizdžių elementą, pabrėždami jo universalumą derinant su trikotažu ir oda.",
+      "Atkreipkite klientės dėmesį į architektūrines detales: smailėjantys atlapai ir dirželis — tai firminiai Luisa Spagnoli potėpiai, kurie daro daiktą atpažįstamą ir nesenstantį."
+    ],
+    "pl": [
+      "Połóż akcent na ekologiczność i wysoką jakość sztucznego futra, które pod względem właściwości dotykowych i wizualnych z powodzeniem konkuruje z naturalnymi odpowiednikami.",
+      "Rekomenduj Sauris jako kluczowy element wielowarstwowych stylizacji zimowych, podkreślając jego uniwersalność w połączeniu z dzianinami i skórą.",
+      "Zwróć uwagę klientki na detale architektoniczne: szpiczaste klapy i patka to firmowe akcenty Luisa Spagnoli, które czynią rzecz rozpoznawalną i ponadczasową."
+    ],
+    "uk": [
+      "Зробіть акцент на екологічності та преміальній якості штучного хутра, яке за своїми тактильними та візуальними властивостями успішно конкурує з натуральними аналогами.",
+      "Рекомендуйте Sauris як ключовий елемент багатошарових зимових образів, підкреслюючи його універсальність при поєднанні з трикотажем і шкірою.",
+      "Зверніть увагу клієнтки на архітектурні деталі: загострені лацкани та хлястик — це фірмові штрихи Luisa Spagnoli, які роблять річ впізнаваною та позачасовою."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Я боюсь, что эко-мех не будет греть в сильные морозы.",
+        "a": "Объясните, что сложная структура волокон ацетата и полиэстера в данной модели обеспечивает превосходную терморегуляцию и защиту от ветра, сохраняя легкость изделия."
+      },
+      {
+        "q": "Двубортное меховое пальто может визуально увеличивать фигуру.",
+        "a": "Продемонстрируйте работу хлястика на спинке, который собирает объем и гармонизирует силуэт, предотвращая эффект излишней громоздкости."
+      },
+      {
+        "q": "Искусственный мех требует сложного ухода.",
+        "a": "Подчеркните износостойкость материала. В отличие от натурального меха, этот состав менее подвержен истиранию и воздействию влаги, сохраняя безупречный вид шоколадного оттенка 0985 годами."
+      },
+      {
+        "q": "Широкие лацканы выглядят слишком театрально.",
+        "a": "Стилизуйте пальто с лаконичными брюками <a href=\" 0927</a>, чтобы уравновесить акцентную деталь и перевести ее в разряд высокой моды."
+      },
+      {
+        "q": "Это пальто только на выход.",
+        "a": "Покажите, как легко Sauris трансформируется в повседневную вещь при сочетании с кепи <a href=\" 0930</a> и базовым трикотажем."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Я боюсь, что эко-мех не будет греть в сильные морозы.",
+        "a": "Объясните, что сложная структура волокон ацетата и полиэстера в данной модели обеспечивает превосходную терморегуляцию и защиту от ветра, сохраняя легкость изделия."
+      },
+      {
+        "q": "Двубортное меховое пальто может визуально увеличивать фигуру.",
+        "a": "Продемонстрируйте работу хлястика на спинке, который собирает объем и гармонизирует силуэт, предотвращая эффект излишней громоздкости."
+      },
+      {
+        "q": "Искусственный мех требует сложного ухода.",
+        "a": "Подчеркните износостойкость материала. В отличие от натурального меха, этот состав менее подвержен истиранию и воздействию влаги, сохраняя безупречный вид шоколадного оттенка 0985 годами."
+      },
+      {
+        "q": "Широкие лацканы выглядят слишком театрально.",
+        "a": "Стилизуйте пальто с лаконичными брюками <a href=\" 0927</a>, чтобы уравновесить акцентную деталь и перевести ее в разряд высокой моды."
+      },
+      {
+        "q": "Это пальто только на выход.",
+        "a": "Покажите, как легко Sauris трансформируется в повседневную вещь при сочетании с кепи <a href=\" 0930</a> и базовым трикотажем."
+      }
+    ],
+    "ar": [
+      {
+        "q": "أخشى أن الفراء الصناعي لن يوفر الدفء في البرد الشديد.",
+        "a": "اشرحي أن الهيكل المعقد لألياف الأسيتات والبوليستر في هذا الموديل يوفر تنظيماً حرارياً ممتازاً وحماية من الرياح، مع الحفاظ على خفة القطعة."
+      },
+      {
+        "q": "قد يزيد معطف الفراء مزدوج الصدر من حجم القوام بصرياً.",
+        "a": "اعرضي تأثير الحزام على الظهر، الذي يجمع الحجم ويوازن الصورة الظلية، مما يمنع الشعور بالضخامة الزائدة."
+      },
+      {
+        "q": "يتطلب الفراء الصناعي عناية معقدة.",
+        "a": "أكدي على متانة المادة. على عكس الفراء الطبيعي، هذا التركيب أقل عرضة للتآكل وتأثير الرطوبة، مما يحافظ على مظهر لون الشوكولاتة 0985 مثالياً لسنوات."
+      },
+      {
+        "q": "تبدو الياقات العريضة مسرحية أكثر من اللازم.",
+        "a": "نسقي المعطف مع بنطال بسيط <a href=\" 0927\"></a> لموازنة هذه التفاصيل البارزة ونقلها إلى مستوى الأزياء الراقية."
+      },
+      {
+        "q": "هذا المعطف مخصص للمناسبات فقط.",
+        "a": "أظهري كيف يتحول Sauris بسهولة إلى قطعة يومية عند تنسيقه مع قبعة <a href=\" 0930\"></a> وتريكو أساسي."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მეშინია, რომ ეკო-ბეწვი ძლიერ ყინვაში ვერ გამათბობს.",
+        "a": "აუხსენით, რომ აცეტატისა და პოლიესტერის ბოჭკოების რთული სტრუქტურა ამ მოდელში უზრუნველყოფს თერმორეგულაციის შესანიშნავ დონეს და დაცვას ქარისგან, ნივთის სიმსუბუქის შენარჩუნებით."
+      },
+      {
+        "q": "ორბორტიანი ბეწვის პალტომ შესაძლოა ვიზუალურად გაზარდოს ფიგურა.",
+        "a": "აჩვენეთ ზურგზე არსებული თასმის მუშაობა, რომელიც კრებს მოცულობას და ჰარმონიზებას უკეთებს სილუეტს, რაც თავიდან აცილებს ზედმეტი მოცულობის ეფექტს."
+      },
+      {
+        "q": "ხელოვნური ბეწვი რთულ მოვლას მოითხოვს.",
+        "a": "ხაზგასმით აღნიშნეთ მასალის ცვეთამედეგობა. ბუნებრივი ბეწვისგან განსხვავებით, ეს შემადგენლობა ნაკლებად ექვემდებარება ცვეთასა და ნესტის ზემოქმედებას, რაც შოკოლადის 0985 ელფერს წლობით უნარჩუნებს უნაკლო იერს."
+      },
+      {
+        "q": "ფართო საყელოები ზედმეტად თეატრალურად გამოიყურება.",
+        "a": "შეუხამეთ პალტო ლაკონურ შარვალს <a href=\" 0927</a>, რათა დააბალანსოთ აქცენტირებული დეტალი და გადაიყვანოთ ის მაღალი მოდის კატეგორიაში."
+      },
+      {
+        "q": "ეს პალტო მხოლოდ გასასვლელად არის.",
+        "a": "აჩვენეთ, თუ რამდენად ადვილად ტრანსფორმირდება Sauris ყოველდღიურ ნივთად კეპთან <a href=\" 0930</a> და საბაზისო ტრიკოტაჟთან შეხამებისას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Վախենում եմ, որ էկո-մորթին չի տաքացնի սաստիկ ցրտերին",
+        "a": "Բացատրեք, որ ացետատի և պոլիեսթերի մանրաթելերի բարդ կառուցվածքն այս մոդելում ապահովում է ջերմակարգավորման և քամուց պաշտպանության գերազանց հատկանիշներ՝ պահպանելով իրի թեթևությունը"
+      },
+      {
+        "q": "Երկկողմանի մորթյա վերարկուն կարող է տեսողականորեն մեծացնել կազմվածքը",
+        "a": "Ցույց տվեք մեջքի հատվածի կապիչի աշխատանքը, որը հավաքում է ծավալը և ներդաշնակեցնում ուրվագիծը՝ կանխելով չափազանց մեծ թվալու էֆեկտը"
+      },
+      {
+        "q": "Արհեստական մորթին բարդ խնամք է պահանջում",
+        "a": "Ընդգծեք նյութի մաշվածակայունությունը: Ի տարբերություն բնական մորթու, այս բաղադրությունը քիչ է ենթակա մաշվածության և խոնավության ազդեցությանը՝ տարիներ շարունակ պահպանելով շոկոլադե 0985 երանգի անթերի տեսքը"
+      },
+      {
+        "q": "Լայն օձիքները չափազանց թատերական տեսք ունեն",
+        "a": "Ոճավորեք վերարկուն հակիրճ տաբատների հետ <a href=\" 0927</a>, որպեսզի հավասարակշռեք շեշտադրված դետալը և այն դասեք բարձր նորաձևության շարքին"
+      },
+      {
+        "q": "Այս վերարկուն միայն ելքի համար է",
+        "a": "Ցույց տվեք, թե ինչպես է Sauris-ը հեշտությամբ վերածվում ամենօրյա իրի՝ <a href=\" 0930</a> գլխարկի և հիմնական տրիկոտաժի հետ համադրելիս."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Baidos, ka eko-kažokāda nesildīs lielā salā.",
+        "a": "Paskaidrojiet, ka sarežģītā acetāta un poliestera šķiedru struktūra šajā modelī nodrošina izcilu termoregulāciju un aizsardzību pret vēju, saglabājot izstrādājuma vieglumu."
+      },
+      {
+        "q": "Divrindu kažokādas mētelis var vizuāli palielināt figūru.",
+        "a": "Demonstrējiet sprādzes darbību uz muguras daļas, kas savelk apjomu un harmonizē siluetu, novēršot pārlieku liela izmēra efektu."
+      },
+      {
+        "q": "Mākslīgā kažokāda prasa sarežģītu kopšanu.",
+        "a": "Uzsveriet materiāla nodilumizturību. Atšķirībā no dabīgās kažokādas, šis sastāvs ir mazāk pakļauts nodilumam un mitruma iedarbībai, saglabājot nevainojamu šokolādes toņa 0985 izskatu gadiem ilgi."
+      },
+      {
+        "q": "Platās atlokas izskatās pārāk teatrālas.",
+        "a": "Stilizējiet mēteli ar lakoniskām biksēm <a href=\" 0927</a>, lai līdzsvarotu akcentēto detaļu un pārceltu to augstās modes kategorijā."
+      },
+      {
+        "q": "Šis mētelis ir piemērots tikai iziešanai.",
+        "a": "Parādiet, cik viegli Sauris transformējas par ikdienas apģērbu, kombinējot to ar cepuri <a href=\" 0930</a> un bāzes trikotāžu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Baiminuosi, kad ekokailis nešildys per didelius šalčius.",
+        "a": "Paaiškinkite, kad sudėtinga acetato ir poliesterio pluošto struktūra šiame modelyje užtikrina puikią termoreguliaciją bei apsaugą nuo vėjo, išlaikant gaminio lengvumą."
+      },
+      {
+        "q": "Dvigubas kailinis paltas gali vizualiai stambinti figūrą.",
+        "a": "Pademonstruokite nugaros pusėje esantį dirželį, kuris surenka tūrį ir subalansuoja siluetą, išvengiant nereikalingo masyvumo efekto."
+      },
+      {
+        "q": "Dirbtinis kailis reikalauja sudėtingos priežiūros.",
+        "a": "Pabrėžkite medžiagos atsparumą nusidėvėjimui. Skirtingai nei natūralus kailis, ši sudėtis yra mažiau jautri trynimui ir drėgmei, todėl šokoladinis 0985 atspalvis išlaikys nepriekaištingą išvaizdą daugelį metų."
+      },
+      {
+        "q": "Plačios atlapų linijos atrodo per daug teatrališkai.",
+        "a": "Derinkite paltą su lakoniškomis kelnėmis <a href=\" 0927</a>, kad subalansuotumėte akcentinę detalę ir suteiktumėte jai aukštosios mados statusą."
+      },
+      {
+        "q": "Šis paltas skirtas tik išėjimui.",
+        "a": "Parodykite, kaip lengvai „Sauris“ transformuojasi į kasdienį drabužį, derinant jį su kepuraite <a href=\" 0930</a> ir baziniu trikotažu."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Obawiam się, że ekofuterko nie będzie grzało w silne mrozy.",
+        "a": "Wyjaśnij, że złożona struktura włókien octanowych i poliestrowych w tym modelu zapewnia doskonałą termoregulację i ochronę przed wiatrem, zachowując lekkość produktu."
+      },
+      {
+        "q": "Dwurzędowy futrzany płaszcz może optycznie powiększać sylwetkę.",
+        "a": "Zaprezentuj działanie patki na plecach, która zbiera objętość i harmonizuje sylwetkę, zapobiegając efektowi nadmiernej masywności."
+      },
+      {
+        "q": "Sztuczne futro wymaga skomplikowanej pielęgnacji.",
+        "a": "Podkreśl trwałość materiału. W przeciwieństwie do naturalnego futra, ten skład jest mniej podatny na ścieranie i działanie wilgoci, zachowując nienaganny wygląd czekoladowego odcienia 0985 przez lata."
+      },
+      {
+        "q": "Szerokie klapy wyglądają zbyt teatralnie.",
+        "a": "Stylizuj płaszcz z lakonicznymi spodniami <a href=\" 0927\">, aby zrównoważyć akcentowy detal i przenieść go do rangi wysokiej mody."
+      },
+      {
+        "q": "Ten płaszcz jest tylko na wyjście.",
+        "a": "Pokaż, jak łatwo Sauris przekształca się w rzecz codzienną w połączeniu z czapką <a href=\" 0930\"> i podstawową dzianiną."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Я боюся, що еко-хутро не буде гріти в сильні морози.",
+        "a": "Поясніть, що складна структура волокон ацетату та поліестеру в даній моделі забезпечує чудову терморегуляцію та захист від вітру, зберігаючи легкість виробу."
+      },
+      {
+        "q": "Двобортне хутряне пальто може візуально збільшувати фігуру.",
+        "a": "Продемонструйте роботу хлястика на спинці, який збирає об'єм і гармонізує силует, запобігаючи ефекту надмірної громіздкості."
+      },
+      {
+        "q": "Штучне хутро потребує складного догляду.",
+        "a": "Підкресліть зносостійкість матеріалу. На відміну від натурального хутра, цей склад менш схильний до стирання та впливу вологи, зберігаючи бездоганний вигляд шоколадного відтінку 0985 роками."
+      },
+      {
+        "q": "Широкі лацкани виглядають занадто театрально.",
+        "a": "Стилізуйте пальто з лаконічними брюками <a href=\" 0927\">, щоб урівноважити акцентну деталь і перевести її в розряд високої моди."
+      },
+      {
+        "q": "Це пальто тільки на вихід.",
+        "a": "Покажіть, як легко Sauris трансформується у повсякденну річ при поєднанні з кепі <a href=\" 0930\"> та базовим трикотажем."
+      }
+    ]
+  }
+}

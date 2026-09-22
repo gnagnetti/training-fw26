@@ -1,0 +1,344 @@
+{
+  "id": 175,
+  "name": "Mimesia",
+  "description": {
+    "en": "An exquisite midi dress, crafted from premium wool blend, embodies Luisa Spagnoli's concept of evening elegance. The centrepiece of the model is a jewel-like bow embroidery in crystals, creating the effect of a precious brooch. The refinement of the piece is underscored by cuffs finished with crystal buttons, which lend the look an aristocratic sparkle. The fitted (aderente) cut and below-the-knee length create an impeccable, feminine silhouette, ideal for festive occasions in the winter season.",
+    "ru": "Изысканное платье-миди, выполненное из премиальной смесовой шерсти, воплощает концепцию вечерней элегантности Luisa Spagnoli. Главным украшением модели служит ювелирная вышивка стразами в форме банта, создающая эффект драгоценной броши. Утонченность изделия подчеркивается манжетами с кристальными пуговицами, которые добавляют образу аристократичный блеск. Облегающий крой (aderente) и длина ниже колена создают безупречный женственный силуэт, идеально подходящий для торжественных выходов в зимний сезон.",
+    "ar": "فستان ميدي راقٍ مصنوع من مزيج الصوف الفاخر، يجسد مفهوم الأناقة المسائية لـ Luisa Spagnoli. يتمثل التزيين الرئيسي للموديل في تطريز مجوهر مرصع بأحجار الكريستال على شكل فيونكة، مما يخلق تأثيراً يشبه البروش الثمين. تزداد دقة القطعة بفضل الأكمام المزينة بأزرار كريستالية تضيف لمعاناً أرستقراطياً للإطلالة. تخلق القصة الضيقة (aderente) والطول الذي يتجاوز الركبة صورة ظلية أنثوية لا تشوبها شائبة، وهي مثالية للمناسبات الرسمية في موسم الشتاء.",
+    "ka": "დახვეწილი მიდი-კაბა, დამზადებული პრემიუმ კლასის შერეული მატყლისგან, განასახიერებს Luisa Spagnoli-ს საღამოს ელეგანტურობის კონცეფციას. მოდელის მთავარ მშვენებას წარმოადგენს ბაფთის ფორმის თვლებით გაწყობილი ნაქარგობა, რომელიც ძვირფასი გულსაბნევის ეფექტს ქმნის. ნაკეთობის დახვეწილობას ხაზს უსვამს კრისტალის ღილებიანი მანჟეტები, რომლებიც იერსახეს არისტოკრატიულ ბზინვარებას სძენს. მომდგარი კროი (aderente) და მუხლს ქვემოთ სიგრძე ქმნის უნაკლო, ქალურ სილუეტს, რომელიც იდეალურია ზამთრის სეზონის საზეიმო გასვლებისთვის.",
+    "hy": "Պրեմիում դասի խառնուրդային բրդից պատրաստված նրբագեղ միդի-զգեստը մարմնավորում է Luisa Spagnoli-ի երեկոյան էլեգանտության հայեցակարգը։ Մոդելի գլխավոր զարդը ժապավենի տեսքով քարերով զարդարված ոսկերչական ասեղնագործությունն է, որը թանկարժեք բրոշի էֆեկտ է ստեղծում։ Իրի նրբագեղությունն ընդգծվում է բյուրեղյա կոճակներով մանժետներով, որոնք կերպարին հաղորդում են արիստոկրատական փայլ։ Ընդգծող ձևվածքը (aderente) և ծնկից ցածր երկարությունը ստեղծում են անթերի կանացի ուրվագիծ, որը կատարյալ է ձմեռային սեզոնի հանդիսավոր ելքերի համար։",
+    "lv": "Izsmalcināta midi kleita, kas izgatavota no premium vilnas maisījuma, iemieso Luisa Spagnoli vakara elegances koncepciju. Modeļa galvenais rotājums ir juvelierizstrādājumu stila izšuvums ar kristāliem bantes formā, radot dārgas brošas efektu. Izstrādājuma izsmalcinātību uzsver aproces ar kristāla pogām, kas tēlam piešķir aristokrātisku mirdzumu. Piegulošais piegriezums (aderente) un garums zem ceļgala rada nevainojamu sievišķīgu siluetu, kas lieliski piemērots svinīgiem izgājieniem ziemas sezonā.",
+    "lt": "Išskirtinė midi suknelė, pagaminta iš aukščiausios kokybės vilnos mišinio, įkūnija vakarinės Luisa Spagnoli elegancijos koncepciją. Pagrindinis modelio papuošimas – juvelyrinis kaspinėlio formos siuvinėjimas cirkonio akmenimis, sukuriantis brangios sagės efektą. Gaminio rafinuotumą pabrėžia rankogaliai su krištolo sagomis, suteikiantys įvaizdžiui aristokratiško spindesio. Prigludęs kirpimas (aderente) ir ilgis žemiau kelių sukuria nepriekaištingą moterišką siluetą, idealiai tinkantį iškilmingiems išėjimams žiemos sezono metu.",
+    "pl": "Wykwintna sukienka midi wykonana z wełny mieszanej premium, ucieleśniająca koncepcję wieczorowej elegancji Luisa Spagnoli. Główną ozdobą modelu jest jubilerski haft z cyrkonii w kształcie kokardy, tworzący efekt drogocennej broszki. Wyrafinowanie produktu podkreślają mankiety z kryształowymi guzikami, które dodają stylizacji arystokratycznego blasku. Przylegający krój (aderente) i długość poniżej kolana tworzą nienaganną kobiecą sylwetkę, idealną na uroczyste wyjścia w sezonie zimowym.",
+    "uk": "Вишукана сукня-міді, виготовлена з преміальної сумішевої вовни, втілює концепцію вечірньої елегантності Luisa Spagnoli. Головною прикрасою моделі служить ювелірна вишивка стразами у формі банта, що створює ефект дорогоцінної брошки. Витонченість виробу підкреслюється манжетами з кришталевими ґудзиками, які додають образу аристократичного блиску. Облягаючий крій (aderente) та довжина нижче коліна створюють бездоганний жіночний силует, що ідеально підходить для урочистих виходів у зимовий сезон."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/t1JUy6rqQxGihQsXEncQWw_1013232769696f436ca0dc07_53704007_02830830XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 134",
+        "en": "Total Look 134",
+        "ar": "Total Look 134",
+        "ka": "Total Look 134",
+        "hy": "Total Look 134",
+        "lv": "Total Look 134",
+        "lt": "Total Look 134",
+        "pl": "Total Look 134",
+        "uk": "Total Look 134"
+      },
+      "text": {
+        "ru": "Mimesia 0101 в сочетании с элегантной сумкой Iglesias B 0001 0002.",
+        "en": "Mimesia 0101 combined with the elegant Iglesias B 0001 0002 bag.",
+        "ar": "Mimesia 0101 combined with the elegant Iglesias B 0001 0002 bag.",
+        "ka": "Mimesia 0101 combined with the elegant Iglesias B 0001 0002 bag.",
+        "hy": "Mimesia 0101 combined with the elegant Iglesias B 0001 0002 bag.",
+        "lv": "Mimesia 0101 combined with the elegant Iglesias B 0001 0002 bag.",
+        "lt": "Mimesia 0101 combined with the elegant Iglesias B 0001 0002 bag.",
+        "pl": "Mimesia 0101 combined with the elegant Iglesias B 0001 0002 bag.",
+        "uk": "Mimesia 0101 combined with the elegant Iglesias B 0001 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Mimesia",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/t1JUy6rqQxGihQsXEncQWw_1013232769696f436ca0dc07_53704007_02830830XX1.jpg"
+        },
+        {
+          "name": "Iglesias B",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/001002.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sophisticated Look 255",
+        "en": "Sophisticated Look 255",
+        "ar": "Sophisticated Look 255",
+        "ka": "Sophisticated Look 255",
+        "hy": "Sophisticated Look 255",
+        "lv": "Sophisticated Look 255",
+        "lt": "Sophisticated Look 255",
+        "pl": "Sophisticated Look 255",
+        "uk": "Sophisticated Look 255"
+      },
+      "text": {
+        "ru": "Mimesia 0101 дополненное вечерней сумкой-клатчем Iroise 0101 0002.",
+        "en": "Mimesia 0101 complemented by the Iroise 0101 0002 evening clutch bag.",
+        "ar": "Mimesia 0101 complemented by the Iroise 0101 0002 evening clutch bag.",
+        "ka": "Mimesia 0101 complemented by the Iroise 0101 0002 evening clutch bag.",
+        "hy": "Mimesia 0101 complemented by the Iroise 0101 0002 evening clutch bag.",
+        "lv": "Mimesia 0101 complemented by the Iroise 0101 0002 evening clutch bag.",
+        "lt": "Mimesia 0101 complemented by the Iroise 0101 0002 evening clutch bag.",
+        "pl": "Mimesia 0101 complemented by the Iroise 0101 0002 evening clutch bag.",
+        "uk": "Mimesia 0101 complemented by the Iroise 0101 0002 evening clutch bag."
+      },
+      "items": [
+        {
+          "name": "Mimesia",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/t1JUy6rqQxGihQsXEncQWw_1013232769696f436ca0dc07_53704007_02830830XX1.jpg"
+        },
+        {
+          "name": "Iroise",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cougRXqXSLCLpSH5I324CQ_361816691696f422261f4e8_02648203_02800700XX1.jpg",
+          "modelId": 96
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Data unavailable from official sources",
+      "Data unavailable from official sources",
+      "Data unavailable from official sources"
+    ],
+    "ru": [
+      "Сделайте акцент на «эффекте украшения»: платье само по себе является завершенным образом и не требует дополнительных массивных колье благодаря вышивке-банту и пуговицам-кристаллам.",
+      "Обратите внимание клиента на состав: 85% шерсти обеспечивают благородную фактуру и тепло, что редко встречается в вечерних платьях такого изящного кроя.",
+      "Рекомендуйте модель для мероприятий с дресс-кодом cocktail или black tie, где черный цвет и деликатное сияние камней подчеркнут статус владелицы."
+    ],
+    "ar": [
+      "سلطي الضوء على \"تأثير الزينة\": الفستان في حد ذاته إطلالة متكاملة ولا يتطلب قلائد ضخمة إضافية بفضل التطريز على شكل فيونكة وأزرار الكريستال.",
+      "لفتي انتباه العميل إلى التكوين: 85% من الصوف يوفر ملمسًا نبيلًا ودفئًا، وهو أمر نادر في فساتين السهرة ذات القصات الأنيقة.",
+      "ننصح بالموديل للمناسبات ذات قواعد اللباس cocktail أو black tie، حيث يؤكد اللون الأسود واللمعان الرقيق للأحجار على مكانة صاحبتها."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი «სამკაულის ეფექტზე»: კაბა თავისთავად დასრულებული იმიჯია და არ საჭიროებს დამატებით მასიურ ყელსაბამებს ბაფთისებრი ნაქარგისა და კრისტალი ღილების წყალობით.",
+      "მიაქცევინეთ კლიენტის ყურადღება შემადგენლობას: 85% მატყლი უზრუნველყოფს კეთილშობილურ ფაქტურასა და სითბოს, რაც იშვიათია ასეთი დახვეწილი ჭრის საღამოს კაბებში.",
+      "რეკომენდაცია გაუწიეთ მოდელს cocktail ან black tie დრეს-კოდის ღონისძიებებისთვის, სადაც შავი ფერი და ქვების დელიკატური ბრწყინვალება ხაზს გაუსვამს მფლობელის სტატუსს."
+    ],
+    "hy": [
+      "Շեշտադրեք «զարդարանքի էֆեկտը». զգեստն ինքնին ավարտուն կերպար է և չի պահանջում լրացուցիչ զանգվածային վզնոցներ՝ շնորհիվ ժապավեն-ասեղնագործության և բյուրեղյա կոճակների։",
+      "Հաճախորդի ուշադրությունը հրավիրեք բաղադրության վրա. 85% բուրդն ապահովում է ազնիվ հյուսվածք և ջերմություն, ինչը հազվադեպ է հանդիպում նման նուրբ ձևվածքով երեկոյան զգեստներում։",
+      "Առաջարկեք մոդելը cocktail կամ black tie դրես-կոդով միջոցառումների համար, որտեղ սև գույնը և քարերի նուրբ փայլը կընդգծեն կրողի կարգավիճակը։"
+    ],
+    "lv": [
+      "Lieciet uzsvaru uz «rotājuma efektu»: kleita pati par sevi ir pabeigts tēls un neprasa papildu masīvas kaklarotas, pateicoties bantes izšuvumam un kristāla pogām.",
+      "Vērsiet klienta uzmanību uz sastāvu: 85% vilnas nodrošina cēlu faktūru un siltumu, kas reti sastopams tik izsmalcināta piegriezuma vakarkleitās.",
+      "Iesakiet modeli pasākumiem ar cocktail vai black tie dreskodu, kur melnā krāsa un smalkais akmeņu mirdzums uzsvērs īpašnieces statusu."
+    ],
+    "lt": [
+      "Akcentuokite „papuošalo efektą“: suknelė pati savaime yra užbaigtas įvaizdis ir jai nereikia papildomų masyvių vėrinių dėl kaspino formos siuvinėjimo ir kristalais dekoruotų sagų.",
+      "Atkreipkite kliento dėmesį į sudėtį: 85% vilnos užtikrina kilnią faktūrą ir šilumą, kas retai pasitaiko tokio grakštaus kirpimo vakarinėse suknelėse.",
+      "Rekomenduokite modelį renginiams su cocktail arba black tie aprangos kodu, kur juoda spalva ir subtilus akmenų žvilgesys pabrėš savininkės statusą."
+    ],
+    "pl": [
+      "Połóż nacisk na „efekt biżuterii”: sukienka sama w sobie stanowi kompletną stylizację i nie wymaga dodatkowych masywnych naszyjników dzięki haftowanej kokardzie i guzikom z kryształkami.",
+      "Zwróć uwagę klientki na skład: 85% wełny zapewnia szlachetną fakturę i ciepło, co rzadko spotyka się w sukienkach wieczorowych o tak wyrafinowanym kroju.",
+      "Rekomenduj model na wydarzenia z dress codem cocktail lub black tie, gdzie czerń i delikatny blask kamieni podkreślą status właścicielki."
+    ],
+    "uk": [
+      "Зробіть акцент на «ефекті прикраси»: сукня сама по собі є завершеним образом і не потребує додаткових масивних кольє завдяки вишивці-банту та ґудзикам-кристалам.",
+      "Зверніть увагу клієнта на склад: 85% вовни забезпечують благородну фактуру і тепло, що рідко зустрічається у вечірніх сукнях такого витонченого крою.",
+      "Рекомендуйте модель для заходів з дрес-кодом cocktail або black tie, де чорний колір і делікатне сяйво каменів підкреслять статус власниці."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Concern about losing stones during wear or cleaning.",
+        "a": "Reassure the client of the exceptional quality of Luisa Spagnoli's craftsmanship. The embroidery and buttons are securely fastened, and delicate professional cleaning will preserve the embellishment in pristine condition."
+      },
+      {
+        "q": "The dress seems too fitted.",
+        "a": "Explain that the 'punto stoffa' knit construction has sufficient density to gently shape the silhouette, while ensuring a comfortable fit to the figure without restricting movement."
+      },
+      {
+        "q": "Black may look too plain.",
+        "a": "Emphasise that in this piece, black serves as the perfect backdrop for the play of light across the rhinestones and crystals, creating a 'quiet luxury' effect with a festive accent."
+      },
+      {
+        "q": "Wool may irritate sensitive skin.",
+        "a": "Point out the use of premium-quality wool in the composition, prized for its softness. The lining, or layering with silk undergarments, will also ensure maximum comfort."
+      },
+      {
+        "q": "The bow embroidery makes the look too youthful.",
+        "a": "Explain that the bow is a classic symbol of haute couture. In this interpretation, it is rendered as a jewellery-inspired element, lending the look a sense of nobility and enduring relevance."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Страх потерять камни при носке или чистке",
+        "a": "Заверьте клиента в высочайшем качестве исполнения декора Luisa Spagnoli. Вышивка и пуговицы закреплены надежно, а использование деликатной профессиональной чистки сохранит декор в первозданном виде."
+      },
+      {
+        "q": "Платье кажется слишком облегающим",
+        "a": "Объясните, что трикотажное переплетение punto stoffa обладает достаточной плотностью, чтобы мягко корректировать силуэт, обеспечивая при этом комфортную посадку по фигуре без скованности движений."
+      },
+      {
+        "q": "Черный цвет может выглядеть слишком просто",
+        "a": "Подчеркните, что в данной модели черный цвет служит идеальным фоном для игры света на стразах и кристаллах, создавая эффект 'тихой роскоши' с праздничным акцентом."
+      },
+      {
+        "q": "Шерсть может раздражать чувствительную кожу",
+        "a": "Укажите на использование высококачественной шерсти в составе, которая отличается мягкостью. Также наличие подкладки или использование комбинации с шелковым бельем обеспечит максимальный комфорт."
+      },
+      {
+        "q": "Вышивка-бант делает образ слишком молодежным",
+        "a": "Поясните, что бант — это классический символ высокой моды (Haute Couture). В данной интерпретации он выполнен в виде ювелирного элемента, что придает образу благородство и вечную актуальность."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الخوف من فقدان الأحجار أثناء الارتداء أو التنظيف",
+        "a": "طمئني العميل بجودة تنفيذ تفاصيل الزينة لدى Luisa Spagnoli. التطريز والأزرار مثبتة بإحكام، واستخدام التنظيف الجاف الاحترافي سيحافظ على الزينة في حالتها الأصلية."
+      },
+      {
+        "q": "الفستان يبدو ضيقاً جداً",
+        "a": "اشرحي أن نسيج التريكو punto stoffa يتمتع بكثافة كافية لتعديل القوام بنعومة، مما يضمن ارتداءً مريحاً يبرز القوام دون تقييد الحركة."
+      },
+      {
+        "q": "اللون الأسود قد يبدو بسيطاً جداً",
+        "a": "أكدي أن اللون الأسود في هذا الموديل يعمل كخلفية مثالية لانعكاس الضوء على أحجار الراين والكريستال، مما يخلق تأثيراً لـ 'الرفاهية الهادئة' بلمسة احتفالية."
+      },
+      {
+        "q": "الصوف قد يهيج البشرة الحساسة",
+        "a": "أشيري إلى استخدام صوف عالي الجودة في التركيبة، والذي يتميز بنعومته. كما أن وجود بطانة أو استخدام مزيج مع ملابس داخلية حريرية سيضمن أقصى درجات الراحة."
+      },
+      {
+        "q": "تطريز الفيونكة يجعل الإطلالة شبابية أكثر من اللازم",
+        "a": "وضحي أن الفيونكة هي رمز كلاسيكي للأزياء الراقية (Haute Couture). في هذا التفسير، تم تنفيذها كعنصر مجوهرات، مما يضفي على الإطلالة رقياً وخلوداً في الموضة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ქვის დაკარგვის შიში ტარების ან წმენდის დროს",
+        "a": "დაარწმუნეთ კლიენტი Luisa Spagnoli-ს დეკორის შესრულების უმაღლეს ხარისხში. ნაქარგები და ღილები საიმედოდაა დამაგრებული, ხოლო დელიკატური პროფესიონალური წმენდის გამოყენება დეკორს პირველქმნილ იერს შეუნარჩუნებს."
+      },
+      {
+        "q": "კაბა ზედმეტად მომდგარი გეჩვენებათ",
+        "a": "განუმარტეთ, რომ punto stoffa-ს ნაქსოვს აქვს საკმარისი სიმჭიდროვე სილუეტის რბილად საკორექციოდ, რაც უზრუნველყოფს ფიგურაზე კომფორტულ მორგებას მოძრაობის შეზღუდვის გარეშე."
+      },
+      {
+        "q": "შავი ფერი შესაძლოა ზედმეტად მარტივად გამოიყურებოდეს",
+        "a": "ხაზგასმით აღნიშნეთ, რომ ამ მოდელში შავი ფერი იდეალური ფონია თვლებსა და კრისტალებზე სინათლის თამაშისთვის, რაც ქმნის 'მდუმარე ფუფუნების' ეფექტს სადღესასწაულო აქცენტით."
+      },
+      {
+        "q": "მატყლმა შესაძლოა მგრძნობიარე კანის გაღიზიანება გამოიწვიოს",
+        "a": "მიუთითეთ მაღალი ხარისხის მატყლის შემადგენლობაზე, რომელიც გამოირჩევა სირბილით. ასევე, სარჩულის არსებობა ან აბრეშუმის თეთრეულთან კომბინაცია უზრუნველყოფს მაქსიმალურ კომფორტს."
+      },
+      {
+        "q": "ბაფთის ფორმის ნაქარგი გამოსახულებას ზედმეტად მოზარდულს ხდის",
+        "a": "განმარტეთ, რომ ბაფთა მაღალი მოდის (Haute Couture) კლასიკური სიმბოლოა. ამ ინტერპრეტაციაში ის შესრულებულია საიუველირო ელემენტის სახით, რაც გამოსახულებას კეთილშობილებასა და მარადიულ აქტუალურობას სძენს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Հագնելիս կամ մաքրելիս քարերը կորցնելու վախ",
+        "a": "Վստահեցրեք հաճախորդին Luisa Spagnoli-ի դեկորի կատարման ամենաբարձր որակի մասին: Ասեղնագործությունը և կոճակներն ամուր են ամրացված, իսկ նուրբ պրոֆեսիոնալ մաքրման կիրառումը կպահպանի դեկորը սկզբնական տեսքով"
+      },
+      {
+        "q": "Զգեստը շատ կիպ է թվում",
+        "a": "Բացատրեք, որ punto stoffa տրիկոտաժե հյուսվածքը բավականաչափ խտություն ունի՝ կազմվածքը մեղմորեն շտկելու համար, միաժամանակ ապահովելով հարմարավետ տեղավորում՝ առանց շարժումները կաշկանդելու"
+      },
+      {
+        "q": "Սև գույնը կարող է շատ պարզ թվալ",
+        "a": "Շեշտեք, որ այս մոդելում սև գույնը հանդիսանում է կատարյալ ֆոն՝ ստրազների և բյուրեղների վրա լույսի խաղի համար՝ ստեղծելով 'լուռ շքեղության' էֆեկտ՝ տոնական շեշտադրմամբ"
+      },
+      {
+        "q": "Բուրդը կարող է գրգռել զգայուն մաշկը",
+        "a": "Մատնանշեք կազմի մեջ բարձրորակ բրդի օգտագործումը, որն աչքի է ընկնում փափկությամբ: Նաև աստառի առկայությունը կամ մետաքսյա ներքնազգեստի հետ համադրումը կապահովի առավելագույն հարմարավետություն"
+      },
+      {
+        "q": "Բանտ-ասեղնագործությունը կերպարը դարձնում է շատ երիտասարդական",
+        "a": "Պարզաբանեք, որ բանտը բարձր նորաձևության (Haute Couture) դասական խորհրդանիշ է: Այս մեկնաբանությամբ այն կատարված է որպես ոսկերչական տարր, ինչը կերպարին հաղորդում է ազնվականություն և հավերժական արդիականություն"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Bailes pazaudēt akmeņus nēsāšanas vai tīrīšanas laikā",
+        "a": "Aplieciniet klientam Luisa Spagnoli dekora augstāko izpildījuma kvalitāti. Izšuvumi un pogas ir nostiprinātas droši, un saudzīgas profesionālās tīrīšanas izmantošana saglabās dekoru sākotnējā izskatā."
+      },
+      {
+        "q": "Kleita šķiet pārāk cieši pieguloša",
+        "a": "Paskaidrojiet, ka punto stoffa trikotāžas pinumam piemīt pietiekams blīvums, lai maigi koriģētu siluetu, vienlaikus nodrošinot komfortablu piegulumu figūrai bez kustību ierobežojuma."
+      },
+      {
+        "q": "Melna krāsa var izskatīties pārāk vienkārši",
+        "a": "Uzsveriet, ka šajā modelī melnā krāsa kalpo kā ideāls fons gaismas spēlei uz vizuļiem un kristāliem, radot 'klusās greznības' efektu ar svinīgu akcentu."
+      },
+      {
+        "q": "Vilna var kairināt jutīgu ādu",
+        "a": "Norādiet uz augstas kvalitātes vilnas izmantošanu sastāvā, kas izceļas ar maigumu. Tāpat oderes esamība vai kombinēšana ar zīda apakšveļu nodrošinās maksimālu komfortu."
+      },
+      {
+        "q": "Izšuvums-bante padara tēlu pārāk jauneklīgu",
+        "a": "Paskaidrojiet, ka bante ir klasisks augstās modes (Haute Couture) simbols. Šajā interpretācijā tā ir veidota kā juvelierizstrādājuma elements, kas piešķir tēlam cēlumu un mūžīgu aktualitāti."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Baimė prarasti akmenis dėvint ar valant",
+        "a": "Užtikrinkite klientą dėl aukščiausios Luisa Spagnoli dekoro kokybės. Siuvinėjimai ir sagos pritvirtinti patikimai, o delikatus profesionalus valymas padės išsaugoti dekorą pirminėje būklėje."
+      },
+      {
+        "q": "Suknelė atrodo per daug aptempta",
+        "a": "Paaiškinkite, kad „punto stoffa“ trikotažinis pynimas yra pakankamai tankus, kad švelniai koreguotų siluetą, kartu užtikrinant patogų prigludimą be judesių varžymo."
+      },
+      {
+        "q": "Juoda spalva gali atrodyti per paprasta",
+        "a": "Pabrėžkite, kad šiame modelyje juoda spalva tarnauja kaip idealus fonas šviesos žaismui ant strasų ir kristalų, sukuriant „tyliosios prabangos“ efektą su šventiniu akcentu."
+      },
+      {
+        "q": "Vilna gali dirginti jautrią odą",
+        "a": "Nurodykite, kad naudojama aukščiausios kokybės vilna, pasižyminti ypatingu švelnumu. Taip pat pamušalo buvimas arba derinimas su šilkiniais apatiniais užtikrins maksimalų komfortą."
+      },
+      {
+        "q": "Siuvinėtas kaspinas atrodo per daug jaunatviškai",
+        "a": "Paaiškinkite, kad kaspinas — tai klasikinis aukštosios mados (Haute Couture) simbolis. Šioje interpretacijoje jis atliktas kaip juvelyrinis elementas, suteikiantis įvaizdžiui kilnumo ir nesenstančio aktualumo."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Obawa przed utratą kamieni podczas noszenia lub czyszczenia",
+        "a": "Zapewnij klientkę o najwyższej jakości wykonania dekoracji Luisa Spagnoli. Haft i guziki są solidnie zamocowane, a korzystanie z delikatnego, profesjonalnego czyszczenia pozwoli zachować dekoracje w nienaruszonym stanie."
+      },
+      {
+        "q": "Sukienka wydaje się zbyt obcisła",
+        "a": "Wyjaśnij, że dzianinowy splot punto stoffa posiada odpowiednią gęstość, aby delikatnie korygować sylwetkę, zapewniając jednocześnie komfortowe dopasowanie bez krępowania ruchów."
+      },
+      {
+        "q": "Czarny kolor może wyglądać zbyt prosto",
+        "a": "Podkreśl, że w tym modelu czerń stanowi idealne tło dla gry światła na dżetach i kryształach, tworząc efekt 'cichego luksusu' w świątecznym wydaniu."
+      },
+      {
+        "q": "Wełna może podrażniać wrażliwą skórę",
+        "a": "Wskaż na użycie wysokiej jakości wełny w składzie, która wyróżnia się miękkością. Ponadto obecność podszewki lub połączenie z jedwabną bielizną zapewni maksymalny komfort."
+      },
+      {
+        "q": "Haft w formie kokardy czyni stylizację zbyt młodzieżową",
+        "a": "Wyjaśnij, że kokarda to klasyczny symbol haute couture. W tej interpretacji została wykonana jako element jubilerski, co nadaje całości szlachetności i ponadczasowego charakteru."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Страх втратити камені під час носіння або чищення",
+        "a": "Запевніть клієнта у найвищій якості виконання декору Luisa Spagnoli. Вишивка і ґудзики закріплені надійно, а використання делікатного професійного чищення збереже декор у первозданному вигляді."
+      },
+      {
+        "q": "Сукня здається занадто облягаючою",
+        "a": "Поясніть, що трикотажне переплетення punto stoffa має достатню щільність, щоб м'яко коригувати силует, забезпечуючи при цьому комфортну посадку по фігурі без скованості рухів."
+      },
+      {
+        "q": "Чорний колір може виглядати занадто просто",
+        "a": "Підкресліть, що в даній моделі чорний колір служить ідеальним фоном для гри світла на стразах і кристалах, створюючи ефект 'тихої розкоші' зі святковим акцентом."
+      },
+      {
+        "q": "Вовна може подразнювати чутливу шкіру",
+        "a": "Вкажіть на використання високоякісної вовни в складі, яка відрізняється м'якістю. Також наявність підкладки або використання комбінації з шовковою білизною забезпечить максимальний комфорт."
+      },
+      {
+        "q": "Вишивка-бант робить образ занадто молодіжним",
+        "a": "Поясніть, що бант — це класичний символ високої моди (Haute Couture). У даній інтерпретації він виконаний у вигляді ювелірного елемента, що додає образу благородства та вічної актуальності."
+      }
+    ]
+  }
+}

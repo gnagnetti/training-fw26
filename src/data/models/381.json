@@ -1,0 +1,149 @@
+{
+  "id": 381,
+  "name": "Zichi C",
+  "description": {
+    "en": "Data not available in official sources.",
+    "ru": "Данные отсутствуют в официальных источниках",
+    "ar": "البيانات غير متوفرة في المصادر الرسمية",
+    "ka": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+    "hy": "Պաշտոնական աղբյուրներում տվյալները բացակայում են",
+    "lv": "Dati nav pieejami oficiālajos avotos",
+    "lt": "Duomenų oficialiuose šaltiniuose nėra",
+    "pl": "Brak danych w oficjalnych źródłach",
+    "uk": "Дані відсутні в офіційних джерелах"
+  },
+  "colors": [
+    {
+      "name": "Oro",
+      "code": "0428",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0169%20%281%29.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Данные отсутствуют в официальных источниках",
+        "en": "Data not available in official sources",
+        "ar": "Data not available in official sources",
+        "ka": "Data not available in official sources",
+        "hy": "Data not available in official sources",
+        "lv": "Data not available in official sources",
+        "lt": "Data not available in official sources",
+        "pl": "Data not available in official sources",
+        "uk": "Data not available in official sources"
+      },
+      "items": []
+    }
+  ],
+  "advice": {
+    "en": [
+      "Data not available from official sources",
+      "Data not available from official sources",
+      "Data not available from official sources"
+    ],
+    "ru": [
+      "Данные отсутствуют в официальных источниках",
+      "Данные отсутствуют в официальных источниках",
+      "Данные отсутствуют в официальных источниках"
+    ],
+    "ar": [
+      "لا تتوفر بيانات في المصادر الرسمية",
+      "لا تتوفر بيانات في المصادر الرسمية",
+      "لا تتوفر بيانات في المصادر الرسمية"
+    ],
+    "ka": [
+      "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+      "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+      "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება"
+    ],
+    "hy": [
+      "Տվյալները բացակայում են պաշտոնական աղբյուրներում",
+      "Տվյալները բացակայում են պաշտոնական աղբյուրներում",
+      "Տվյալները բացակայում են պաշտոնական աղբյուրներում"
+    ],
+    "lv": [
+      "Dati oficiālajos avotos nav pieejami",
+      "Dati oficiālajos avotos nav pieejami",
+      "Dati oficiālajos avotos nav pieejami"
+    ],
+    "lt": [
+      "Duomenų oficialiuose šaltiniuose nėra",
+      "Duomenų oficialiuose šaltiniuose nėra",
+      "Duomenų oficialiuose šaltiniuose nėra"
+    ],
+    "pl": [
+      "Brak danych w oficjalnych źródłach",
+      "Brak danych w oficjalnych źródłach",
+      "Brak danych w oficjalnych źródłach"
+    ],
+    "uk": [
+      "Дані відсутні в офіційних джерелах",
+      "Дані відсутні в офіційних джерелах",
+      "Дані відсутні в офіційних джерелах"
+    ]
+  },
+  "objections": {
+    "en": [],
+    "ru": [],
+    "ar": [],
+    "ka": [
+      {
+        "q": "მონაცემები არ არის ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ოფიციალურ წყაროებში"
+      }
+    ],
+    "hy": [],
+    "lv": [],
+    "lt": [],
+    "pl": [
+      {
+        "q": "Dane są niedostępne w oficjalnych źródłach",
+        "a": "Dane są niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane są niedostępne w oficjalnych źródłach",
+        "a": "Dane są niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane są niedostępne w oficjalnych źródłach",
+        "a": "Dane są niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane są niedostępne w oficjalnych źródłach",
+        "a": "Dane są niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane są niedostępne w oficjalnych źródłach",
+        "a": "Dane są niedostępne w oficjalnych źródłach"
+      }
+    ],
+    "uk": []
+  }
+}

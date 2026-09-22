@@ -1,0 +1,319 @@
+{
+  "id": 449,
+  "name": "Morenita",
+  "description": {
+    "en": "The Morenita polo is the quintessence of intellectual luxury, where sporting aesthetics meet flawless Italian tailoring. Crafted from premium wool yarn using an intricate punto stoffa weave technique, which lends the knitwear the density and noble stability of woven fabric while preserving the coziness of a knitted piece. The understated design is underscored by a classic notched collar and precisely tone-matched buttons, creating a clean, harmonious visual line. Particular refinement is lent to the piece by open-edge sleeves, bringing a note of contemporary ease to the disciplined silhouette. Thanks to the Regular fit, the Morenita polo becomes the ideal foundation for creating status-defining looks in the 'Quiet Luxury' style.",
+    "ru": "Поло Morenita --- это квинтэссенция интеллектуальной роскоши, где спортивная эстетика встречается с безупречным итальянским тейлорингом. Модель выполнена из премиальной шерстяной пряжи в технике сложного переплетения punto stoffa, которое дарит трикотажу плотность и благородную стабильность ткани, сохраняя при этом уют вязаного изделия. Лаконичный дизайн подчеркнут классическим отложным воротником и пуговицами, подобранными строго в тон, что создает чистый и гармоничный визуальный ряд. Особое изящество модели придают рукава с открытым краем, привносящие ноту современной непринужденности в строгий силуэт. Благодаря регулярной посадке (vestibilità regular), поло Morenita становится идеальным фундаментом для создания статусных образов в стиле «Quiet Luxury».",
+    "ar": "يُعد بولو Morenita جوهر الرفاهية الفكرية، حيث تلتقي الجمالية الرياضية مع التفصيل الإيطالي المثالي. صُنعت القطعة من خيوط الصوف الفاخرة بتقنية الحياكة المعقدة punto stoffa، التي تمنح التريكو كثافة وثباتاً يشبه الأقمشة، مع الحفاظ على راحة القطعة المحبوكة. يبرز التصميم البسيط من خلال الياقة الكلاسيكية المطوية والأزرار المتطابقة تماماً في اللون، مما يخلق تناغماً بصرياً نقياً. تضفي الأكمام ذات الحواف المفتوحة لمسة من الأناقة العصرية والتحرر على القصة الصارمة. وبفضل القصة المنتظمة (vestibilità regular)، يصبح بولو Morenita أساساً مثالياً لخلق إطلالات فاخرة بأسلوب «Quiet Luxury».",
+    "ka": "Поло Morenita არის ინტელექტუალური ფუფუნების კვინტესენცია, სადაც სპორტული ესთეტიკა უნაკლო იტალიურ ტეილორინგს ხვდება. მოდელი დამზადებულია პრემიუმ შალის ძაფისგან punto stoffa-ს რთული ქსოვის ტექნიკით, რომელიც ტრიკოტაჟს ქსოვილის სიმკვრივესა და კეთილშობილურ სტაბილურობას ანიჭებს, თანაც ინარჩუნებს ნაქსოვი ნაკეთობის სიმყუდროვეს. ლაკონიურ დიზაინს ხაზს უსვამს კლასიკური გადაკეცილი საყელო და ტონში შერჩეული ღილები, რაც სუფთა და ჰარმონიულ ვიზუალურ რიგს ქმნის. მოდელს განსაკუთრებულ დახვეწილობას ანიჭებს ღია კიდეებიანი სახელოები, რომლებიც თანამედროვე სიმსუბუქის ნოტს შემოაქვს მკაცრ სილუეტში. რეგულარული მორგების (vestibilità regular) წყალობით, Поло Morenita ხდება იდეალური ფუნდამენტი \"Quiet Luxury\" სტილის სტატუსური იმიჯების შესაქმნელად.",
+    "hy": "Morenita պոլոն մտավոր շքեղության էությունն է, որտեղ սպորտային էսթետիկան հանդիպում է անթերի իտալական թեյլորինգին։ Մոդելը պատրաստված է պրեմիում դասի բրդյա մանվածքից՝ punto stoffa բարդ հյուսվածքի տեխնիկայով, որը տրիկոտաժին հաղորդում է գործվածքի խտություն և ազնվական կայունություն՝ պահպանելով հյուսված իրի հարմարավետությունը։ Լակոնիկ դիզայնն ընդգծված է դասական օձիքով և խիստ տոնայնությամբ ընտրված կոճակներով, ինչը ստեղծում է մաքուր և ներդաշնակ տեսողական շարք։ Մոդելին առանձնահատուկ նրբագեղություն են հաղորդում բաց եզրով թևքերը՝ ժամանակակից անկաշկանդության նոտա բերելով խիստ ուրվագծին։ Կանոնավոր ձևվածքի (vestibilità regular) շնորհիվ Morenita պոլոն դառնում է «Quiet Luxury» ոճի կարգավիճակային կերպարներ ստեղծելու իդեալական հիմք։",
+    "lv": "Polokrekls Morenita — tā ir intelektuālā luksusa kvintesence, kur sportiska estētika satiekas ar nevainojamu itāļu teiloringu. Modelis ir izgatavots no augstākās kvalitātes vilnas dzijas, izmantojot sarežģīto punto stoffa pinuma tehniku, kas trikotāžai piešķir blīvumu un cēlu auduma stabilitāti, vienlaikus saglabājot adīta izstrādājuma mājīgumu. Lakonisko dizainu izceļ klasiskā atlokāmā apkakle un pogas, kas pieskaņotas precīzi tonī, radot tīru un harmonisku vizuālo rindu. Īpašu grāciju modelim piešķir piedurknes ar atvērtu malu, ienesot mūsdienīgas nepiespiestības noti stingrajā siluetā. Pateicoties regulāram piegriezumam (vestibilità regular), polokrekls Morenita kļūst par ideālu pamatu statusa tēlu veidošanai „Quiet Luxury” stilā.",
+    "lt": "Polo Morenita – tai intelektualios prabangos kvintesencija, kur sportiška estetika susitinka su nepriekaištingu itališku siuvimu. Modelis pagamintas iš aukščiausios kokybės vilnonių verpalų, naudojant sudėtingą punto stoffa pynimo techniką, kuri trikotažui suteikia audinio tankumą ir kilnų stabilumą, kartu išsaugant megzto gaminio jaukumą. Lakonišką dizainą pabrėžia klasikinė atlenkiama apykaklė ir tonas į toną parinktos sagos, sukuriančios švarią ir harmoningą vizualinę eilę. Ypatingo grakštumo modeliui suteikia rankovės atvirais kraštais, įnešančios modernaus atsipalaidavimo natą į griežtą siluetą. Dėl reguliaraus sukirpimo (vestibilità regular) polo Morenita tampa idealiu pagrindu kuriant „Quiet Luxury“ stiliaus statuso kupinus įvaizdžius.",
+    "pl": "Polo Morenita to kwintesencja intelektualnego luksusu, gdzie sportowa estetyka spotyka się z nienagannym włoskim krawiectwem. Model wykonany jest z wysokiej jakości wełnianej przędzy w technice złożonego splotu punto stoffa, który nadaje dzianinie gęstość i szlachetną stabilność tkaniny, zachowując jednocześnie przytulność dzianinowego wyrobu. Lakoniczny design podkreślono klasycznym wykładanym kołnierzykiem i guzikami dobranymi ściśle pod kolor, co tworzy czystą i harmonijną linię wizualną. Szczególną elegancję modelowi nadają rękawy z otwartą krawędzią, wnoszące nutę nowoczesnej swobody do surowej sylwetki. Dzięki regularnemu krojowi (vestibilità regular), polo Morenita staje się idealnym fundamentem do tworzenia pełnych klasy stylizacji w stylu „Quiet Luxury”.",
+    "uk": "Поло Morenita --- це квінтесенція інтелектуальної розкоші, де спортивна естетика зустрічається з бездоганним італійським тейлорингом. Модель виконана з преміальної вовняної пряжі в техніці складного плетіння punto stoffa, яке дарує трикотажу щільність і благородну стабільність тканини, зберігаючи при цьому затишок в'язаного виробу. Лаконічний дизайн підкреслений класичним відкладним коміром і ґудзиками, підібраними суворо в тон, що створює чистий і гармонійний візуальний ряд. Особливої витонченості моделі надають рукави з відкритим краєм, що привносять ноту сучасної невимушеності у строгий силует. Завдяки регулярній посадці (vestibilità regular), поло Morenita стає ідеальним фундаментом для створення статусних образів у стилі «Quiet Luxury»."
+  },
+  "colors": [
+    {
+      "name": "Bordeaux",
+      "code": "2435",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/685167938691f1579ca7f61_38779162_02790620XX1.jpg"
+    },
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/681152992691f1579312617_34779532_02790600XX1.jpg"
+    },
+    {
+      "name": "Verde Militare",
+      "code": "1736",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/c0a6d15d-19d7-4d7e-98c4-9aa902edec8a-removebg-preview.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда Luisa Spagnoli предлагают интерпретировать поло Morenita через игру фактур, сочетая плотный трикотаж с классическим денимом: Вариант 2435 ( Бордо): - В lookbook (Look 20): каноническое сочетание с широкими джинсами из хлопка Olla 1073, создающее актуальный баланс между расслабленностью и элегантностью. - На манекенах (vetrine): Данные о представлении модели на витринах в официальных источниках отсутствуют. - *Примечание:* Согласно коммерческим заметкам, данная модель является эксклюзивом пре-коллекции.",
+        "en": "The Luisa Spagnoli brand stylists suggest interpreting the Morenita polo through a play of textures, combining dense knitwear with classic denim: Option 2435 ( Bordeaux): - In lookbook (Look 20): a canonical combination with Olla 1073 cotton wide-leg jeans, creating an up-to-date balance between relaxation and elegance. - On mannequins (vetrine): Data on the model's display in store windows in official sources are missing. - *Note:* According to commercial notes, this model is an exclusive of the pre-collection.",
+        "ar": "The Luisa Spagnoli brand stylists suggest interpreting the Morenita polo through a play of textures, combining dense knitwear with classic denim: Option 2435 ( Bordeaux): - In lookbook (Look 20): a canonical combination with Olla 1073 cotton wide-leg jeans, creating an up-to-date balance between relaxation and elegance. - On mannequins (vetrine): Data on the model's display in store windows in official sources are missing. - *Note:* According to commercial notes, this model is an exclusive of the pre-collection.",
+        "ka": "The Luisa Spagnoli brand stylists suggest interpreting the Morenita polo through a play of textures, combining dense knitwear with classic denim: Option 2435 ( Bordeaux): - In lookbook (Look 20): a canonical combination with Olla 1073 cotton wide-leg jeans, creating an up-to-date balance between relaxation and elegance. - On mannequins (vetrine): Data on the model's display in store windows in official sources are missing. - *Note:* According to commercial notes, this model is an exclusive of the pre-collection.",
+        "hy": "The Luisa Spagnoli brand stylists suggest interpreting the Morenita polo through a play of textures, combining dense knitwear with classic denim: Option 2435 ( Bordeaux): - In lookbook (Look 20): a canonical combination with Olla 1073 cotton wide-leg jeans, creating an up-to-date balance between relaxation and elegance. - On mannequins (vetrine): Data on the model's display in store windows in official sources are missing. - *Note:* According to commercial notes, this model is an exclusive of the pre-collection.",
+        "lv": "The Luisa Spagnoli brand stylists suggest interpreting the Morenita polo through a play of textures, combining dense knitwear with classic denim: Option 2435 ( Bordeaux): - In lookbook (Look 20): a canonical combination with Olla 1073 cotton wide-leg jeans, creating an up-to-date balance between relaxation and elegance. - On mannequins (vetrine): Data on the model's display in store windows in official sources are missing. - *Note:* According to commercial notes, this model is an exclusive of the pre-collection.",
+        "lt": "The Luisa Spagnoli brand stylists suggest interpreting the Morenita polo through a play of textures, combining dense knitwear with classic denim: Option 2435 ( Bordeaux): - In lookbook (Look 20): a canonical combination with Olla 1073 cotton wide-leg jeans, creating an up-to-date balance between relaxation and elegance. - On mannequins (vetrine): Data on the model's display in store windows in official sources are missing. - *Note:* According to commercial notes, this model is an exclusive of the pre-collection.",
+        "pl": "The Luisa Spagnoli brand stylists suggest interpreting the Morenita polo through a play of textures, combining dense knitwear with classic denim: Option 2435 ( Bordeaux): - In lookbook (Look 20): a canonical combination with Olla 1073 cotton wide-leg jeans, creating an up-to-date balance between relaxation and elegance. - On mannequins (vetrine): Data on the model's display in store windows in official sources are missing. - *Note:* According to commercial notes, this model is an exclusive of the pre-collection.",
+        "uk": "The Luisa Spagnoli brand stylists suggest interpreting the Morenita polo through a play of textures, combining dense knitwear with classic denim: Option 2435 ( Bordeaux): - In lookbook (Look 20): a canonical combination with Olla 1073 cotton wide-leg jeans, creating an up-to-date balance between relaxation and elegance. - On mannequins (vetrine): Data on the model's display in store windows in official sources are missing. - *Note:* According to commercial notes, this model is an exclusive of the pre-collection."
+      },
+      "items": [
+        {
+          "name": "Olla",
+          "code": "1073",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png",
+          "modelId": 456
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- Textile stability, 'Punto Stoffa': Direct the client's attention to the uniqueness of the knit. This polo does not lose its shape or stretch out like ordinary knitwear, possessing the structural stability of a jacket, which makes it a lasting investment"
+    ],
+    "ru": [
+      "- Текстильная стабильность «Punto Stoffa»: Акцентируйте внимание клиента на уникальности вязки. Это поло не деформируется и не растягивается как обычный трикотаж, обладая формоустойчивостью жакета, что делает его долговечной инвестицией в гардероб. - Стат"
+    ],
+    "ar": [
+      "- استقرار نسيج «Punto Stoffa»: وجهي انتباه العميل إلى فرادة الحياكة. هذا القميص (بولو) لا يتشوه ولا يتمدد مثل التريكو العادي، إذ يتمتع بثبات شكل السترة، مما يجعله استثماراً طويل الأمد في خزانة الملابس. - مكانة «بولو سارتوريال»: اقترحي الموديل كبديل للقميص"
+    ],
+    "ka": [
+      "- «Punto Stoffa»-ს ტექსტილური მდგრადობა: გაამახვილეთ კლიენტის ყურადღება ქსოვის უნიკალურობაზე. ეს პოლო არ დეფორმირდება და არ იწელება, როგორც ჩვეულებრივი ტრიკოტაჟი, მას აქვს პიჯაკის ფორმის მდგრადობა, რაც მას გარდერობში ხანგრძლივ ინვესტიციად აქცევს. - «სარტო"
+    ],
+    "hy": [
+      "- «Punto Stoffa» տեքստիլ կայունություն. Շեշտադրեք հաճախորդի ուշադրությունը հյուսվածքի յուրահատկության վրա: Այս պոլոն չի դեֆորմացվում և չի ձգվում ինչպես սովորական տրիկոտաժը, ունենալով ժակետի ձևապահպանման հատկություն, ինչը այն դարձնում է զգեստապահարանի երկա"
+    ],
+    "lv": [
+      "- «Punto Stoffa» tekstila stabilitāte: Akcentējiet klienta uzmanību uz adījuma unikalitāti. Šis polo krekls nedeformējas un neizstiepjas kā parasta trikotāža, tam piemīt žaketes formas noturība, kas padara to par ilgmūžīgu investīciju garderobē. - «Sartor"
+    ],
+    "lt": [
+      "- Tekstilinis „Punto Stoffa“ stabilumas: Akcentuokite kliento dėmesį į mezgimo unikalumą. Šis polo nesideformuoja ir neišsitampo kaip įprastas trikotažas, pasižymėdamas švarko formos stabilumu, todėl tai yra ilgalaikė investicija į garderobą. - „Sartorialinio polo“ statusas: Pasiūlykite modelį kaip alternatyvą klasikiniams marškiniams ar megztiniui. Morenita atrodo kur kas solidžiau dėl savo tankios faktūros ir leidžia laikytis aprangos kodo neaukojant patogumo. - Juvelyrinis darbas su spalva: Pabrėžkite 2435 atspalvio gylį. Luisa Spagnoli interpretuotas vyno bordo --- tai „nauja juoda“, kuri idealiai atgaivina veido zoną ir lengvai derinasi tiek su mėlynu džinsu, tiek su pilka kostiumine grupe."
+    ],
+    "pl": [
+      "- Tekstylna stabilność \"Punto Stoffa\": Skup uwagę klienta na unikalności splotu. To polo nie odkształca się i nie rozciąga jak zwykła dzianina, posiadając stabilność formy żakietu, co czyni go długotrwałą inwestycją w garderobę. - Status \"krawieckiego pol"
+    ],
+    "uk": [
+      "- Текстильна стабільність «Punto Stoffa»: Акцентуйте увагу клієнта на унікальності в’язки. Це поло не деформується і не розтягується як звичайний трикотаж, володіючи формостійкістю жакета, що робить його довговічною інвестицією в гардероб. - Статус «Сарто"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "polo looks too Point out the punto stoffa knit. This is a simple for a sophisticated technique that elevates ordinary brand of this knitwear into the realm of \"soft tailoring,\" level» giving the piece architectural precision. «The wool might Remind the client that Luisa Spagnoli uses only cause premium, refined wool. It offers excellent discomfort against thermoregulation and softness, making the the skin» piece exceptionally pleasant to wear. «The open cuffs on Explain that this is a contemporary styling the sleeves seem choice. It allows watches or bracelets to be impractical» showcased beautifully, adding dynamism and lightness to the look. «Burgundy is hard Showcase Look 20: paired with Olla 1073 to pair with a jeans, the color reveals itself as both refined basic wardrobe» and casual. It's a versatile shade that works as a neutral. «The regular fit Point out the density of the fabric. Punto doesn't flatter my stoffa gently \"disciplines\" the silhouette, softening figure» nuances and creating a smooth, elegant line through the body"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Поло выглядит",
+        "a": "Обратите внимание на вязку punto stoffa. Это слишком просто для сложная техника, которая переводит обычный бренда такого трикотаж в разряд «мягкого тейлоринга , уровня» обеспечивая изделию архитектурную четкость."
+      },
+      {
+        "q": "Шерсть может",
+        "a": "Напомните, что Luisa Spagnoli использует только вызвать дискомфорт высококачественную очищенную шерсть. Она обладает при контакте с прекрасной терморегуляцией и мягкостью, что кожей делает носку изделия исключительно приятной."
+      },
+      {
+        "q": "Открытые манжеты",
+        "a": "Поясните, что это современный стилистический на рукавах кажутся прием. Он позволяет эффектно демонстрировать часы непрактичными или браслеты, добавляя образу динамики и легкости."
+      },
+      {
+        "q": "Бордовый цвет",
+        "a": "Продемонстрируйте Look 20: в паре с джинсами сложно сочетать с Olla 1073 цвет раскрывается благородно и базой повседневно. Это универсальный оттенок, который работает как нейтральный."
+      },
+      {
+        "q": "Регулярная посадка",
+        "a": "Укажите на плотность полотна. Punto stoffa (regular fit) не мягко «дисциплинирует силуэт, скрывая нюансы и подчеркивает создавая ровную, элегантную линию корпуса. фигуру."
+      }
+    ],
+    "ar": [
+      {
+        "q": "البولو يبدو بسيطاً جداً بالنسبة لعلامة تجارية بهذا المستوى",
+        "a": "انتبهي لحياكة الـ punto stoffa. إنها تقنية معقدة تنقل التريكو العادي إلى فئة."
+      },
+      {
+        "q": "التفصيل الناعم",
+        "a": "(soft tailoring)، مما يمنح القطعة دقة معمارية."
+      },
+      {
+        "q": "الصوف قد يسبب عدم الراحة عند ملامسة الجلد",
+        "a": "ذكّريها بأن Luisa Spagnoli تستخدم فقط الصوف المنقى عالي الجودة. فهو يتمتع بقدرة فائقة على التنظيم الحراري والنعومة، مما يجعل ارتداء القطعة أمراً ممتعاً للغاية."
+      },
+      {
+        "q": "الأساور المفتوحة على الأكمام تبدو غير عملية",
+        "a": "وضّحي أن هذا أسلوب عصري، يسمح بعرض الساعات أو الأساور بشكل جذاب، ويضفي على الإطلالة ديناميكية وخفة."
+      },
+      {
+        "q": "اللون العنابي يصعب تنسيقه مع الأساسيات",
+        "a": "استعرضي Look 20: عند تنسيقه مع جينز Olla 1073، يظهر اللون بشكل نبيل وعملي يومياً. إنه درجة لونية عالمية تعمل كدرجة محايدة."
+      },
+      {
+        "q": "القصة العادية (regular fit) لا تبرز القوام",
+        "a": "أشيري إلى كثافة القماش؛ حيث تقوم الـ Punto stoffa."
+      },
+      {
+        "q": "بضبط",
+        "a": "القوام بنعومة، مما يخفي العيوب البسيطة ويخلق خطاً مستقيماً وأنيقاً للجسم."
+      }
+    ],
+    "ka": [
+      {
+        "q": "პოლო ასეთი დონის ბრენდისთვის ზედმეტად მარტივად გამოიყურება",
+        "a": "ყურადღება გაამახვილეთ punto stoffa-ს ქსოვაზე. ეს არის რთული ტექნიკა, რომელიც ჩვეულებრივ ტრიკოტაჟს."
+      },
+      {
+        "q": "რბილი ტეილორინგის“ კატეგორიაში გადაიყვანს და ნაკეთობას არქიტექტურულ სიცხადეს ანიჭებს. «მატყლმა კანთან კონტაქტისას შესაძლოა დისკომფორტი გამოიწვიოს",
+        "a": "შეახსენეთ, რომ Luisa Spagnoli იყენებს მხოლოდ მაღალი ხარისხის გასუფთავებულ მატყლს. ის გამოირჩევა შესანიშნავი თერმორეგულაციითა და სირბილით, რაც ნაკეთობის ტარებას განსაკუთრებულად სასიამოვნოს ხდის."
+      },
+      {
+        "q": "სახელოებზე ღია მანჟეტები არაპრაქტიკული ჩანს",
+        "a": "განუმარტეთ, რომ ეს თანამედროვე სტილისტური ხერხია. ის საშუალებას იძლევა ეფექტურად წარმოაჩინოთ საათი ან სამაჯურები, რაც ლუქსს დინამიკასა და სიმსუბუქეს მატებს."
+      },
+      {
+        "q": "ბორდოსფერი ფერის შეხამება ბაზასთან რთულია",
+        "a": "აჩვენეთ Look 20: Olla 1073-ის ჯინსებთან ერთად ეს ფერი კეთილშობილურად და повседневно-ურად იშლება. ეს არის უნივერსალური ფერი, რომელიც მუშაობს როგორც ნეიტრალური."
+      },
+      {
+        "q": "რეგულარული ჭრა (regular fit) არბილებს და ხაზს არ უსვამს ფიგურას",
+        "a": "მიუთითეთ ქსოვილის სიმკვრივეზე. Punto stoffa რბილად „დისციპლინირებს“ სილუეტს, ფარავს ნიუანსებს და ქმნის კორპუსის სწორ, ელეგანტურ ხაზს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Պոլոն չափազանց պարզ է թվում նման մակարդակի բրենդի համար",
+        "a": "Ուշադրություն դարձրեք punto stoffa հյուսվածքին։ Սա բարդ տեխնիկա է, որը սովորական տրիկոտաժը դասում է."
+      },
+      {
+        "q": "փափուկ թեյլորինգի",
+        "a": "շարքին՝ ապահովելով արտադրանքին ճարտարապետական հստակություն։."
+      },
+      {
+        "q": "Բուրդը կարող է անհարմարություն առաջացնել մաշկի հետ շփվելիս",
+        "a": "Հիշեցրեք, որ Luisa Spagnoli-ն օգտագործում է միայն բարձրորակ մաքրված բուրդ։ Այն ունի հիանալի ջերմակարգավորում և փափկություն, ինչը կրելը դարձնում է չափազանց հաճելի։."
+      },
+      {
+        "q": "Թևքերի բաց մանժետները անպրակտիկ են թվում",
+        "a": "Պարզաբանեք, որ սա ժամանակակից ոճային հնարք է։ Այն թույլ է տալիս արդյունավետորեն ցուցադրել ժամացույցներ կամ ապարանջաններ՝ կերպարին ավելացնելով դինամիկա և թեթևություն։."
+      },
+      {
+        "q": "Բորդո գույնը դժվար է համադրել բազայինի հետ",
+        "a": "Ցուցադրեք Look 20-ը. Olla 1073 ջինսերի հետ համադրությամբ գույնը բացվում է ազնիվ և առօրեական։ Սա ունիվերսալ երանգ է, որն աշխատում է որպես չեզոք։."
+      },
+      {
+        "q": "Կանոնավոր ձևվածքը (regular fit) չի ընդգծում կազմվածքը",
+        "a": "Նշեք կտորի խտությունը։ Punto stoffa-ն մեղմորեն."
+      },
+      {
+        "q": "կարգապահում",
+        "a": "է սիլուետը՝ թաքցնելով նրբությունները և ստեղծելով մարմնի հարթ, էլեգանտ գիծ։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Polo izskatās pārāk vienkārši šāda līmeņa zīmolam",
+        "a": "Pievērsiet uzmanību punto stoffa adījumam. Tā ir sarežģīta tehnika, kas pārvērš parastu adījumu."
+      },
+      {
+        "q": "mīkstā tailoring",
+        "a": "kategorijā, nodrošinot izstrādājumam arhitektonisku skaidrību."
+      },
+      {
+        "q": "Vilna var izraisīt diskomfortu saskarē ar ādu",
+        "a": "Atgādiniet, ka Luisa Spagnoli izmanto tikai augstas kvalitātes attīrītu vilnu. Tai piemīt lieliska termoregulācija un mīkstums, kas padara izstrādājuma valkāšanu ārkārtīgi patīkamu."
+      },
+      {
+        "q": "Atvērtas manšetes uz piedurknēm šķiet nepraktiskas",
+        "a": "Paskaidrojiet, ka tas ir moderns stilistisks paņēmiens. Tas ļauj efektīvi demonstrēt pulksteņus vai rokassprādzes, pievienojot tēlam dinamiku un vieglumu."
+      },
+      {
+        "q": "Bordo krāsu grūti kombinēt ar bāzi",
+        "a": "Demonstrējiet Look 20: pārī ar Olla 1073 džinsiem krāsa atklājas cēli un ikdienišķi. Tas ir universāls tonis, kas darbojas kā neitrāls."
+      },
+      {
+        "q": "Regulārs piegriezums (regular fit) neizceļ figūru",
+        "a": "Norādiet uz auduma blīvumu. Punto stoffa maigi."
+      },
+      {
+        "q": "disciplinē",
+        "a": "siluetu, slēpjot nianses un radot līdzenu, elegantu korpusa līniju."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Polo atrodo per paprastas tokio lygio prekės ženklui",
+        "a": "Atkreipkite dėmesį į punto stoffa mezgimą. Tai sudėtinga technika, kuri paverčia įprastą trikotažą „švelnaus siuvimo“ (soft tailoring) kategorija, suteikdama gaminiui architektūrinį ryškumą. į punto stoffa mezgimą. Tai sudėtinga technika, kuri paverčia įprastą trikotažą „švelnaus siuvimo“ (soft tailoring) kategorija, suteikdama gaminiui architektūrinį ryškumą."
+      },
+      {
+        "q": "„Vilna gali sukelti diskomfortą liečiantis su oda",
+        "a": "Priminkite, kad Luisa Spagnoli naudoja tik aukštos kokybės išvalytą vilną. Ji pasižymi puikia termoreguliacija ir švelnumu, todėl gaminį dėvėti itin malonu. , kad Luisa Spagnoli naudoja tik aukštos kokybės išvalytą vilną. Ji pasižymi puikia termoreguliacija ir švelnumu, todėl gaminį dėvėti itin malonu."
+      },
+      {
+        "q": "„Atviri rankogaliai ant rankovių atrodo nepraktiški",
+        "a": "Paaiškinkite, kad tai modernus stilistinis sprendimas. Jis leidžia efektingai demonstruoti laikrodžius ar apyrankes, suteikiant įvaizdžiui dinamikos ir lengvumo. , kad tai modernus stilistinis sprendimas. Jis leidžia efektingai demonstruoti laikrodžius ar apyrankes, suteikiant įvaizdžiui dinamikos ir lengvumo."
+      },
+      {
+        "q": "„Bordo spalvą sunku derinti su bazine apranga",
+        "a": "Pademonstruokite Look 20: derinant su džinsais Olla 1073, spalva atsiskleidžia kilniai ir kasdieniškai. Tai universalus atspalvis, kuris veikia kaip neutralus. Look 20: derinant su džinsais Olla 1073, spalva atsiskleidžia kilniai ir kasdieniškai. Tai universalus atspalvis, kuris veikia kaip neutralus."
+      },
+      {
+        "q": "„Reguliarus modelis (regular fit) nepabrėžia figūros",
+        "a": "Nurodykite audinio tankį. Punto stoffa švelniai „disciplinuoja“ siluetą, paslėpdamas niuansus ir sukurdamas lygią, elegantišką kūno liniją."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Polo wygląda zbyt prosto dla marki takiego poziomu",
+        "a": "Zwróć uwagę na splot punto stoffa. To zaawansowana technika, która przenosi zwykłą dzianinę do kategorii."
+      },
+      {
+        "q": "miękkiego krawiectwa",
+        "a": "(soft tailoring), zapewniając wyrobowi architektoniczną wyrazistość."
+      },
+      {
+        "q": "Wełna może wywołać dyskomfort przy kontakcie ze skórą",
+        "a": "Przypomnij, że Luisa Spagnoli używa tylko wysokiej jakości oczyszczonej wełny. Posiada ona doskonałą termoregulację i miękkość, co czyni noszenie wyrobu wyjątkowo przyjemnym."
+      },
+      {
+        "q": "Otwarte mankiety na rękawach wydają się niepraktyczne",
+        "a": "Wyjaśnij, że jest to nowoczesny zabieg stylistyczny. Pozwala on efektownie eksponować zegarek lub bransoletki, dodając stylizacji dynamiki i lekkości."
+      },
+      {
+        "q": "Bordowy kolor trudno łączyć z bazą",
+        "a": "Zaprezentuj Look 20: w parze z dżinsami Olla 1073 kolor nabiera szlachetnego i codziennego charakteru. To uniwersalny odcień, który działa jak neutralny."
+      },
+      {
+        "q": "Regularny krój (regular fit) nie podkreśla figury",
+        "a": "Wskaż na gęstość materiału. Punto stoffa delikatnie."
+      },
+      {
+        "q": "dyscyplinuje",
+        "a": "sylwetkę, ukrywając niuanse i tworząc równą, elegancką linię korpusu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Поло виглядає занадто просто для бренду такого рівня",
+        "a": "Зверніть увагу на в’язку punto stoffa. Це складна техніка, яка переводить звичайний трикотаж у розряд."
+      },
+      {
+        "q": "м’якого тейлорингу",
+        "a": "забезпечуючи виробу архітектурну чіткість."
+      },
+      {
+        "q": "Вовна може викликати дискомфорт при контакті зі шкірою",
+        "a": "Нагадайте, що Luisa Spagnoli використовує тільки високоякісну очищену вовну. Вона володіє прекрасною терморегуляцією та м’якістю, що робить носіння виробу винятково приємним."
+      },
+      {
+        "q": "Відкриті манжети на рукавах здаються непрактичними",
+        "a": "Поясніть, що це сучасний стилістичний прийом. Він дозволяє ефектно демонструвати годинники або браслети, додаючи образу динаміки та легкості."
+      },
+      {
+        "q": "Бордовий колір складно поєднувати з базою",
+        "a": "Продемонструйте Look 20: в парі з джинсами Olla 1073 колір розкривається благородно і повсякденно. Це універсальний відтінок, який працює як нейтральний."
+      },
+      {
+        "q": "Регулярна посадка (regular fit) не підкреслює фігуру",
+        "a": "Вкажіть на щільність полотна. Punto stoffa м’яко."
+      },
+      {
+        "q": "дисциплінує",
+        "a": "силует, приховуючи нюанси й створюючи рівну, елегантну лінію корпусу."
+      }
+    ]
+  }
+}

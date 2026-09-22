@@ -1,0 +1,377 @@
+{
+  "id": 137,
+  "name": "Maggiolone",
+  "description": {
+    "en": "The exquisite Maggiolone blouse from the exclusive Merinfleur line is the quintessence of aristocratic minimalism and impeccable Italian knitwear artistry. The model is masterfully crafted from 100% pure virgin wool, offering a noble texture and ideal thermoregulation. A deep V-neckline is complemented by the signature lavalliÃ¨re collar, allowing the styling to range from strictly business to refined romantic. Slightly gathered shoulders lend the silhouette a soaring lightness and contemporary character, making Maggiolone an indispensable masterpiece for the daytime wardrobe.",
+    "ru": "Изысканная блуза Maggiolone из эксклюзивной линии Merinfleur — это квинтэссенция аристократичного минимализма и безупречного итальянского трикотажного искусства. Модель мастерски выполнена из 100% чистой девственной шерсти, обеспечивающей благородную фактуру и идеальную терморегуляцию. Глубокий V-образный вырез дополнен знаковым воротником лавальер (lavallière), позволяющим варьировать стилистику образа от строгого делового до утонченного романтичного. Слегка присборенные плечи придают силуэту летящую легкость и современный характер, делая Maggiolone незаменимым шедевром дневного гардероба.",
+    "ar": "بلوزة Maggiolone الأنيقة من خط Merinfleur الحصري هي جوهر البساطة الأرستقراطية وبراعة الحياكة الإيطالية التي لا تشوبها شائبة. صُنعت القطعة ببراعة من صوف بكر نقي بنسبة 100%، مما يضمن ملمسًا فاخرًا وتنظيمًا حراريًا مثاليًا. يكتمل خط العنق العميق على شكل حرف V بياقة lavallière الشهيرة، مما يسمح بتنويع أسلوب الإطلالة من الرسمية الصارمة إلى الرومانسية الراقية. تضفي الأكتاف المزمومة قليلاً خفة وانسيابية وطابعًا عصريًا على القوام، مما يجعل Maggiolone تحفة فنية لا غنى عنها في خزانة الملابس النهارية.",
+    "ka": "დახვეწილი ბლუზა Maggiolone ექსკლუზიური ხაზიდან Merinfleur — ეს არის არისტოკრატული მინიმალიზმისა და იტალიური ტრიკოტაჟის უნაკლო ხელოვნების კვინტესენცია. მოდელი ოსტატურად არის შესრულებული 100% სუფთა ქალწულებრივი მატყლისგან, რაც უზრუნველყოფს კეთილშობილურ ფაქტურასა და იდეალურ თერმორეგულაციას. ღრმა V-სებური ყელი დამატებულია საკულტო ლავალიერის (lavallière) საყელოთი, რაც საშუალებას იძლევა გამოსახულების სტილისტიკა ვარიანტულად შეცვალოთ მკაცრი საქმიანიდან დახვეწილ რომანტიკულამდე. ოდნავ შეკრული მხრები სილუეტს ფარფატა სიმსუბუქესა და თანამედროვე ხასიათს ანიჭებს, რაც Maggiolone-ს დღის გარდერობის შეუცვლელ შედევრად აქცევს.",
+    "hy": "Maggiolone նրբագեղ բլուզը Merinfleur բացառիկ գծից արիստոկրատ մինիմալիզմի և անթերի իտալական տրիկոտաժի արվեստի կվինտեսենցիան է: Մոդելը վարպետորեն պատրաստված է 100% մաքուր կուսական բրդից, որն ապահովում է ազնվական փաստուրա և իդեալական ջերմակարգավորում: Խորը V-աձև բացվածքը լրացված է նշանային լավալիեր (lavallière) օձիքով, որը թույլ է տալիս փոփոխել կերպարի ոճը՝ խիստ գործնականից մինչև նուրբ ռոմանտիկ: Թեթևակի հավաքված ուսերը ուրվագծին հաղորդում են թեթևություն և ժամանակակից բնույթ՝ Maggiolone-ը դարձնելով ցերեկային զգեստապահարանի անփոխարինելի գլուխգործոց:",
+    "lv": "Izsmalcinātā Maggiolone blūze no ekskluzīvās Merinfleur līnijas ir aristokrātiska minimālisma un nevainojamas itāļu trikotāžas mākslas kvintesence. Modelis ir meistarīgi izgatavots no 100% tīras jaunvilnas, kas nodrošina cēlu tekstūru un ideālu termoregulāciju. Dziļo V-veida izgriezumu papildina zīmīgā lavaljēra (lavallière) apkakle, kas ļauj variēt tēla stilistiku no stingra lietišķā līdz izsmalcināti romantiskam. Nedaudz ieburzītie pleci piešķir siluetam gaisīgumu un mūsdienīgu raksturu, padarot Maggiolone par neaizvietojamu dienas garderobes šedevru.",
+    "lt": "Išskirtinė Maggiolone palaidinė iš ekskliuzyvinės Merinfleur linijos — tai aristokratiško minimalizmo ir nepriekaištingo itališko mezgimo meno kvintesencija. Modelis meistriškai pagamintas iš 100% grynos nekirptos vilnos, užtikrinančios kilnią faktūrą ir idealų termoreguliavimą. Gili V formos iškirptė papildyta kultine lavallière apykakle, leidžiančia varijuoti įvaizdžio stilistika nuo griežtai dalykinio iki rafinuotai romantiško. Šiek tiek paraukti pečiai siluetui suteikia lengvumo ir šiuolaikiškumo, todėl Maggiolone tampa nepakeičiamu kasdienio garderobo šedevru.",
+    "pl": "Wyrafinowana bluzka Maggiolone z ekskluzywnej linii Merinfleur to kwintesencja arystokratycznego minimalizmu i nienagannego włoskiego kunsztu dziewiarskiego. Model mistrzowsko wykonany ze 100% czystej dziewiczej wełny, zapewniającej szlachetną fakturę i idealną termoregulację. Głęboki dekolt w serek uzupełniono charakterystycznym kołnierzem lavallière, pozwalającym na różnicowanie stylistyki wizerunku od surowego biznesowego po wyrafinowany romantyczny. Lekko marszczone ramiona nadają sylwetce lekkość i nowoczesny charakter, czyniąc Maggiolone niezastąpionym arcydziełem garderoby dziennej.",
+    "uk": "Вишукана блуза Maggiolone з ексклюзивної лінії Merinfleur — це квінтесенція аристократичного мінімалізму та бездоганного італійського трикотажного мистецтва. Модель майстерно виконана зі 100% чистої натуральної вовни, що забезпечує благородну фактуру та ідеальну терморегуляцію. Глибокий V-подібний виріз доповнений знаковим коміром лавальєр (lavallière), що дозволяє варіювати стилістику образу від суворого ділового до витонченого романтичного. Злегка призібрані плечі надають силуету легкості та сучасного характеру, роблячи Maggiolone незамінним шедевром денного гардероба."
+  },
+  "colors": [
+    {
+      "name": "Rosa",
+      "code": "0325",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1RZ6w9NkRu6CB3jEFuMqyw_1022194540696f43618ba9a5_38551177_02830460XX1.jpg"
+    },
+    {
+      "name": "Panna Nero",
+      "code": "0202 0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/459091259691c578ed8f774_10269127_02790020XX1.jpg"
+    },
+    {
+      "name": "Melanzana",
+      "code": "0759",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1047676143691c5792309957_52262244_02790170XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Deep Amethyst)",
+        "ar": "Look 1 (Deep Amethyst)",
+        "ka": "Look 1 (Deep Amethyst)",
+        "hy": "Look 1 (Deep Amethyst)",
+        "lv": "Look 1 (Deep Amethyst)",
+        "lt": "Look 1 (Deep Amethyst)",
+        "pl": "Look 1 (Deep Amethyst)",
+        "uk": "Look 1 (Deep Amethyst)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Глубокий аметист): Монохромная композиция из пуловера Maggiolone 0759 и классических брюк Ostiolo 0733. Завершают выход статусный браслет Necessario 0101 0002, пояс Dogale A 0101 0002 и серьги Nordici 0068 0002.",
+        "en": "A monochromatic composition featuring a Maggiolone 0759 pullover and classic Ostiolo 0733 trousers. The look is completed by a status Necessario 0101 0002 bracelet, a Dogale A 0101 0002 belt and Nordici 0068 0002 earrings.",
+        "ar": "A monochromatic composition featuring a Maggiolone 0759 pullover and classic Ostiolo 0733 trousers. The look is completed by a status Necessario 0101 0002 bracelet, a Dogale A 0101 0002 belt and Nordici 0068 0002 earrings.",
+        "ka": "A monochromatic composition featuring a Maggiolone 0759 pullover and classic Ostiolo 0733 trousers. The look is completed by a status Necessario 0101 0002 bracelet, a Dogale A 0101 0002 belt and Nordici 0068 0002 earrings.",
+        "hy": "A monochromatic composition featuring a Maggiolone 0759 pullover and classic Ostiolo 0733 trousers. The look is completed by a status Necessario 0101 0002 bracelet, a Dogale A 0101 0002 belt and Nordici 0068 0002 earrings.",
+        "lv": "A monochromatic composition featuring a Maggiolone 0759 pullover and classic Ostiolo 0733 trousers. The look is completed by a status Necessario 0101 0002 bracelet, a Dogale A 0101 0002 belt and Nordici 0068 0002 earrings.",
+        "lt": "A monochromatic composition featuring a Maggiolone 0759 pullover and classic Ostiolo 0733 trousers. The look is completed by a status Necessario 0101 0002 bracelet, a Dogale A 0101 0002 belt and Nordici 0068 0002 earrings.",
+        "pl": "A monochromatic composition featuring a Maggiolone 0759 pullover and classic Ostiolo 0733 trousers. The look is completed by a status Necessario 0101 0002 bracelet, a Dogale A 0101 0002 belt and Nordici 0068 0002 earrings.",
+        "uk": "A monochromatic composition featuring a Maggiolone 0759 pullover and classic Ostiolo 0733 trousers. The look is completed by a status Necessario 0101 0002 bracelet, a Dogale A 0101 0002 belt and Nordici 0068 0002 earrings."
+      },
+      "items": [
+        {
+          "name": "Maggiolone",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1047676143691c5792309957_52262244_02790170XX1.jpg"
+        },
+        {
+          "name": "Ostiolo",
+          "code": "0733",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/212434150691c57c6790734_66577885_02780330XX1.jpg",
+          "modelId": 468
+        },
+        {
+          "name": "Necessario",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3.png"
+        },
+        {
+          "name": "Dogale A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2902f3a9-1c56-40a3-bc25-94ca3e663b85.jpg"
+        },
+        {
+          "name": "Nordici",
+          "code": "0068 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nordici.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Contrast Classic)",
+        "ar": "Look 2 (Contrast Classic)",
+        "ka": "Look 2 (Contrast Classic)",
+        "hy": "Look 2 (Contrast Classic)",
+        "lv": "Look 2 (Contrast Classic)",
+        "lt": "Look 2 (Contrast Classic)",
+        "pl": "Look 2 (Contrast Classic)",
+        "uk": "Look 2 (Contrast Classic)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Контрастная классика): Пуловер Maggiolone 0202 0101 в паре с лаконичной юбкой Florina 0101. Акценты: серьги Neanide 0002, браслет Necessario 0101 0002 и колье Dedizione 0002.",
+        "en": "A Maggiolone 0202 0101 pullover paired with a minimalist Florina 0101 skirt. Accents: Neanide 0002 earrings, a Necessario 0101 0002 bracelet and a Dedizione 0002 necklace.",
+        "ar": "A Maggiolone 0202 0101 pullover paired with a minimalist Florina 0101 skirt. Accents: Neanide 0002 earrings, a Necessario 0101 0002 bracelet and a Dedizione 0002 necklace.",
+        "ka": "A Maggiolone 0202 0101 pullover paired with a minimalist Florina 0101 skirt. Accents: Neanide 0002 earrings, a Necessario 0101 0002 bracelet and a Dedizione 0002 necklace.",
+        "hy": "A Maggiolone 0202 0101 pullover paired with a minimalist Florina 0101 skirt. Accents: Neanide 0002 earrings, a Necessario 0101 0002 bracelet and a Dedizione 0002 necklace.",
+        "lv": "A Maggiolone 0202 0101 pullover paired with a minimalist Florina 0101 skirt. Accents: Neanide 0002 earrings, a Necessario 0101 0002 bracelet and a Dedizione 0002 necklace.",
+        "lt": "A Maggiolone 0202 0101 pullover paired with a minimalist Florina 0101 skirt. Accents: Neanide 0002 earrings, a Necessario 0101 0002 bracelet and a Dedizione 0002 necklace.",
+        "pl": "A Maggiolone 0202 0101 pullover paired with a minimalist Florina 0101 skirt. Accents: Neanide 0002 earrings, a Necessario 0101 0002 bracelet and a Dedizione 0002 necklace.",
+        "uk": "A Maggiolone 0202 0101 pullover paired with a minimalist Florina 0101 skirt. Accents: Neanide 0002 earrings, a Necessario 0101 0002 bracelet and a Dedizione 0002 necklace."
+      },
+      "items": [
+        {
+          "name": "Maggiolone",
+          "code": "0202 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/459091259691c578ed8f774_10269127_02790020XX1.jpg"
+        },
+        {
+          "name": "Florina",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/714741276691c5789e0ccf8_89780377_02780180XX1.jpg",
+          "modelId": 391
+        },
+        {
+          "name": "Neanide",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1605403396691c57d8aee920_21613301_02800170XX1.jpg"
+        },
+        {
+          "name": "Necessario",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3.png"
+        },
+        {
+          "name": "Dedizione",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/T9Jr79OvTs6Rvtv2A7a1tA_997560146696f4218381d29_53393842_02800550XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the lavaliere collar: a ready-made styling solution that removes the need for additional accessories and allows the character of the look to shift with a single gesture.",
+      "Highlight the exclusivity of the Merinfleur material — the use of 100% pure virgin wool guarantees a remarkable softness and comfort comparable to cashmere.",
+      "Recommend Maggiolone as the ideal foundational layering piece: thanks to its smooth knit, the blouse sits beautifully beneath structured jackets and coats without adding unwanted volume."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на воротнике лавальер: это готовое стилистическое решение, которое избавляет от необходимости подбирать аксессуары и позволяет менять характер образа одним движением.",
+      "Подчеркните эксклюзивность материала Merinfleur — использование 100% чистой девственной шерсти гарантирует невероятную мягкость и комфорт, сравнимые с кашемиром.",
+      "Рекомендуйте Maggiolone как идеальный базовый элемент для многослойности: благодаря гладкой вязке блуза идеально ложится под структурированные жакеты и пальто, не создавая лишнего объема."
+    ],
+    "ar": [
+      "سلطي الضوء على ياقة الـ Lavallière: فهي حل تنسيقي جاهز يغني عن الحاجة لإضافة إكسسوارات إضافية ويسمح بتغيير طابع الإطلالة بلمسة واحدة.",
+      "أكدي على حصرية خامة Merinfleur؛ فاستخدام الصوف البكر النقي 100% يضمن نعومة فائقة وراحة تضاهي الكشمير.",
+      "رشيحي Maggiolone كقطعة أساسية مثالية لإطلالات الطبقات: بفضل حياكتها الملساء، تنسدل البلوزة بانسيابية تحت السترات المهيكلة والمعاطف دون التسبب في أي تكتل."
+    ],
+    "ka": [
+      "ყურადღება გაამახვილეთ მომხმარებლის ყურადღება ლავალიერის საყელოზე: ეს არის მზა სტილისტური გადაწყვეტა, რომელიც გარიდებთ აქსესუარების შერჩევის აუცილებლობას და საშუალებას გაძლევთ ერთი მოძრაობით შეცვალოთ იმიჯის ხასიათი.",
+      "ხაზი გაუსვით Merinfleur მასალის ექსკლუზიურობას — 100% სუფთა ხელუხლებელი მატყლის გამოყენება უზრუნველყოფს წარმოუდგენელ სირბილესა და კომფორტს, რომელიც ქაშმირისას უტოლდება.",
+      "გაუწიეთ რეკომენდაცია Maggiolone-ს, როგორც იდეალურ საბაზისო ელემენტს მრავალშრიანი სტილისთვის: გლუვი ქსოვის წყალობით, ბლუზა იდეალურად ერგება სტრუქტურირებულ პიჯაკებსა და პალტოებს, ზედმეტი მოცულობის შექმნის გარეშე."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք լավալյե օձիքի վրա. սա պատրաստի ոճային լուծում է, որը վերացնում է աքսեսուարներ ընտրելու անհրաժեշտությունը և թույլ է տալիս մեկ շարժումով փոխել կերպարի բնույթը։",
+      "Ընդգծեք Merinfleur նյութի բացառիկությունը՝ 100% մաքուր կուսական բրդի օգտագործումը երաշխավորում է անհավանական փափկություն և հարմարավետություն, որը համեմատելի է քաշմիրի հետ։",
+      "Առաջարկեք Maggiolone-ը որպես շերտավորման իդեալական բազային տարր. հարթ հյուսվածքի շնորհիվ բլուզը կատարելապես տեղավորվում է կառուցվածքային բաճկոնների և վերարկուների տակ՝ առանց ավելորդ ծավալ ստեղծելու։"
+    ],
+    "lv": [
+      "Акцентируйте внимание клиента на воротнике лавальер: это готовое стилистическое решение, которое избавляет от необходимости подбирать аксессуары и позволяет менять характер образа одним движением.",
+      "Подчеркните эксклюзивность материала Merinfleur — использование 100% чистой девственной шерсти гарантирует невероятную мягкость и комфорт, сравнимые с кашемиром.",
+      "Рекомендуйте Maggiolone как идеальный базовый элемент для многослойности: благодаря гладкой вязке блуза идеально ложится под структурированные жакеты и пальто, не создавая лишнего объема."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į lavallière apykaklę: tai paruoštas stilistinis sprendimas, kuris panaikina poreikį derinti aksesuarus ir leidžia vienu judesiu keisti įvaizdžio charakterį.",
+      "Pabrėžkite Merinfleur medžiagos išskirtinumą — 100% grynos vilnos naudojimas garantuoja neįtikėtiną švelnumą ir komfortą, prilygstantį kašmyrui.",
+      "Rekomenduokite Maggiolone kaip idealų bazinį elementą daugiasluoksniam įvaizdžiui: dėl lygaus mezgimo palaidinė idealiai tinka po struktūriniais švarkais ir paltais, nesuteikdama nereikalingos apimties."
+    ],
+    "pl": [
+      "Skup uwagę klienta na kołnierzu typu lavallière: to gotowe rozwiązanie stylistyczne, które eliminuje potrzebę dobierania dodatków i pozwala zmieniać charakter stylizacji jednym ruchem.",
+      "Podkreśl ekskluzywność materiału Merinfleur — użycie 100% czystej żywej wełny gwarantuje niesamowitą miękkość i komfort, porównywalne z kaszmirem.",
+      "Rekomenduj Maggiolone jako idealny element bazowy do stylizacji warstwowych: dzięki gładkiemu splotowi bluzka idealnie układa się pod strukturalnymi żakietami i płaszczami, nie tworząc zbędnej objętości."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на комірі лавальєр: це готове стилістичне рішення, яке позбавляє необхідності підбирати аксесуари та дозволяє змінювати характер образу одним рухом.",
+      "Підкресліть ексклюзивність матеріалу Merinfleur — використання 100% чистої натуральної вовни гарантує неймовірну м'якість і комфорт, порівнянні з кашеміром.",
+      "Рекомендуйте Maggiolone як ідеальний базовий елемент для багатошаровості: завдяки гладкій в'язці блуза ідеально лягає під структуровані жакети та пальта, не створюючи зайвого об'єму."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Wool may cause skin irritation.",
+        "a": "Luisa Spagnoli pieces use the finest Vergine wool with exceptionally fine fibres, making it hypoallergenic and silky to the touch."
+      },
+      {
+        "q": "The bow collar seems too complicated for everyday wear.",
+        "a": "On the contrary, the collar ties are crafted from a flexible knit that holds its knot beautifully and requires no adjustment throughout the day."
+      },
+      {
+        "q": "The V-neckline looks too revealing.",
+        "a": "The lavallière collar design allows the depth of the neckline to be adjusted: the ties can be fastened higher for a more formal look, or left loose for an evening out."
+      },
+      {
+        "q": "Gathered shoulders may visually widen the upper body.",
+        "a": "The delicate gathering at the shoulders of the Maggiolone piece is designed to create a soft vertical line that, in fact, harmonises the proportions and lends the posture an aristocratic bearing."
+      },
+      {
+        "q": "It's difficult to find footwear to match such an unusual knitwear silhouette.",
+        "a": "This piece is remarkably versatile. It pairs flawlessly with our classic Uramaky loafers for the office, as well as with statement Ulisside boots for a day in the city."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шерсть может вызывать раздражение кожи.",
+        "a": "Для моделей Luisa Spagnoli используется шерсть Vergine высочайшего качества с особо тонкими волокнами, что делает её гипоаллергенной и шелковистой на ощупь."
+      },
+      {
+        "q": "Воротник-бант кажется слишком сложным в повседневной носке.",
+        "a": "Напротив, ленты воротника выполнены из пластичного трикотажа, который прекрасно держит узел и не требует постоянной коррекции в течение дня."
+      },
+      {
+        "q": "V-образный вырез выглядит слишком открытым.",
+        "a": "Дизайн воротника лавальер позволяет регулировать глубину декольте: вы можете завязать ленты выше для строгого образа или оставить их свободными для вечернего выхода."
+      },
+      {
+        "q": "Присборенные плечи могут визуально расширять верхнюю часть фигуры.",
+        "a": "Деликатная сборка на плечах Maggiolone спроектирована так, чтобы создавать мягкую вертикаль, которая, напротив, гармонизирует пропорции и придает осанке аристократизм."
+      },
+      {
+        "q": "Сложно подобрать обувь к такому необычному фасону трикотажной блузы.",
+        "a": "Эта модель универсальна. Она безупречно сочетается как с нашими классическими лоферами Uramaky для офиса, так и со статусными сапогами Ulisside для городского выхода."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يسبب الصوف تهيجاً للبشرة.",
+        "a": "نستخدم في موديلات Luisa Spagnoli صوف Vergine عالي الجودة بألياف دقيقة جداً، مما يجعله مضاداً للحساسية وحريري الملمس."
+      },
+      {
+        "q": "يبدو الياقة بأسلوب الفيونكة معقداً في الارتداء اليومي.",
+        "a": "على العكس، أشرطة الياقة مصنوعة من تريكو مرن يحافظ على شكل العقدة ولا يتطلب تعديلاً مستمراً طوال اليوم."
+      },
+      {
+        "q": "يبدو فتحة العنق على شكل حرف V مفتوحة جداً.",
+        "a": "يسمح تصميم الياقة بأسلوب"
+      }
+    ],
+    "ka": [
+      {
+        "q": "მატყლმა შეიძლება გამოიწვიოს კანის გაღიზიანება.",
+        "a": "Luisa Spagnoli-ის მოდელებისთვის გამოიყენება უმაღლესი ხარისხის Vergine მატყლი განსაკუთრებით თხელი ბოჭკოებით, რაც მას ჰიპოალერგიულს და აბრეშუმისებრს ხდის შეხებისას."
+      },
+      {
+        "q": "ბანტი-საყელო ყოველდღიურ ტარებაში ზედმეტად რთული ჩანს.",
+        "a": "პირიქით, საყელოს ლენტები დამზადებულია პლასტიკური ტრიკოტაჟისგან, რომელიც მშვენივრად ინარჩუნებს კვანძს და არ საჭიროებს მუდმივ კორექციას დღის განმავლობაში."
+      },
+      {
+        "q": "V-სებრი დეკოლტე ზედმეტად ღია ჩანს.",
+        "a": "ლავალიეს საყელოს დიზაინი საშუალებას გაძლევთ დაარეგულიროთ დეკოლტეს სიღრმე: შეგიძლიათ ლენტები ზემოთ შეკრათ მკაცრი იმიჯისთვის ან დატოვოთ ისინი თავისუფლად საღამოს გასვლისთვის."
+      },
+      {
+        "q": "შეკეცილი მხრები შეიძლება ვიზუალურად აფართოებდეს ფიგურის ზედა ნაწილს.",
+        "a": "Maggiolone-ის მხრებზე არსებული დელიკატური ნაკეცი ისეა დაპროექტებული, რომ ქმნიდეს რბილ ვერტიკალს, რომელიც, პირიქით, ჰარმონიზაციას უკეთებს პროპორციებს და არისტოკრატულობას ანიჭებს დგომას."
+      },
+      {
+        "q": "რთულია შეუხამო ფეხსაცმელი ასეთ უჩვეულო ფასონის ტრიკოტაჟის ბლუზას.",
+        "a": "ეს მოდელი უნივერსალურია. ის უნაკლოდ ეხამება როგორც ჩვენს კლასიკურ ლოფერებს Uramaky ოფისისთვის, ისე სტატუსურ ჩექმებს Ulisside ქალაქში გასასვლელად."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բուրդը կարող է մաշկի գրգռում առաջացնել։",
+        "a": "Luisa Spagnoli մոդելների համար օգտագործվում է ամենաբարձր որակի Vergine բուրդ՝ հատուկ նուրբ թելերով, ինչը այն դարձնում է հիպոալերգեն և մետաքսյա հպմանը։"
+      },
+      {
+        "q": "Ժապավեն-օձիքը չափազանց բարդ է թվում առօրյա կրման մեջ։",
+        "a": "Ընդհակառակը, օձիքի ժապավենները պատրաստված են պլաստիկ տրիկոտաժից, որը հիանալի պահում է հանգույցը և չի պահանջում մշտական ուղղում օրվա ընթացքում։"
+      },
+      {
+        "q": "V-աձև բացվածքը չափազանց բաց է թվում։",
+        "a": "Lavallière օձիքի դիզայնը թույլ է տալիս կարգավորել դեկոլտեի խորությունը. դուք կարող եք ժապավենները կապել ավելի վեր՝ խիստ կերպարի համար, կամ թողնել դրանք ազատ՝ երեկոյան ելքի համար։"
+      },
+      {
+        "q": "Հավաքված ուսերը կարող են վիզուալ կերպով լայնացնել կազմվածքի վերին մասը։",
+        "a": "Maggiolone-ի ուսերի նուրբ հավաքվածքը նախագծված է այնպես, որ ստեղծի մեղմ ուղղահայաց գիծ, որը, ընդհակառակը, ներդաշնակեցնում է համամասնությունները և կեցվածքին հաղորդում ազնվականություն։"
+      },
+      {
+        "q": "Դժվար է կոշիկ ընտրել նման անսովոր ֆասոնի տրիկոտաժե բլուզի համար։",
+        "a": "Այս մոդելը ունիվերսալ է։ Այն անթերի համադրվում է ինչպես մեր դասական Uramaky լոֆերների հետ՝ գրասենյակի համար, այնպես էլ Ulisside կարգավիճակային երկարաճիտ կոշիկների հետ՝ քաղաքային ելքի համար։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vilna var izraisīt ādas kairinājumu.",
+        "a": "Luisa Spagnoli modeļiem tiek izmantota visaugstākās kvalitātes Vergine vilna ar īpaši smalkām šķiedrām, kas padara to hipoalerģisku un zīdainu pieskārienam."
+      },
+      {
+        "q": "Bantes apkakle šķiet pārāk sarežģīta ikdienas valkāšanā.",
+        "a": "Gluži pretēji, apkakles lentes ir izgatavotas no plastiskas trikotāžas, kas lieliski tur mezglu un neprasa pastāvīgu korekciju dienas gaitā."
+      },
+      {
+        "q": "V-veida izgriezums izskatās pārāk atvērts.",
+        "a": "Lavaliere apkakles dizains ļauj regulēt dekoltē dziļumu: jūs varat sasiet lentes augstāk stingram tēlam vai atstāt tās brīvas vakara iznācienam."
+      },
+      {
+        "q": "Ievāktie pleci var vizuāli paplašināt figūras augšējo daļu.",
+        "a": "Delikātā savilkšana uz Maggiolone pleciem ir projektēta tā, lai radītu maigu vertikāli, kas, gluži pretēji, harmonizē proporcijas un piešķir stājai aristokrātismu."
+      },
+      {
+        "q": "Grūti piemeklēt apavus tik neparastam trikotāžas blūzes fasonam.",
+        "a": "Šis modelis ir universāls. Tas nevainojami sader gan ar mūsu klasiskajiem Uramaky loferiem birojam, gan ar statusa Ulisside zābakiem pilsētas iznācienam."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Vilna gali dirginti odą.",
+        "a": "Luisa Spagnoli modeliams naudojama aukščiausios kokybės Vergine vilna su itin plonais pluoštais, todėl ji yra hipoalerginė ir šilkinė liesti."
+      },
+      {
+        "q": "Apykaklė su kaspinu atrodo per sudėtinga kasdieniam nešiojimui.",
+        "a": "Priešingai, kaspino juostelės pagamintos iš plastiško trikotažo, kuris puikiai išlaiko mazgą ir nereikalauja nuolatinio taisymo visą dieną."
+      },
+      {
+        "q": "V formos iškirptė atrodo per atvira.",
+        "a": "„Lavallière“ apykaklės dizainas leidžia reguliuoti iškirptės gylį: galite surišti juosteles aukščiau griežtam įvaizdžiui arba palikti jas laisvas vakariniam išėjimui."
+      },
+      {
+        "q": "Paprutinti pečiai gali vizualiai platinti viršutinę figūros dalį.",
+        "a": "Subtili Maggiolone pečių klostė suprojektuota taip, kad sukurtų švelnią vertikalę, kuri, priešingai, suderina proporcijas ir suteikia laikysenai aristokratiškumo."
+      },
+      {
+        "q": "Sunku parinkti avalynę prie tokio neįprasto trikotažinės palaidinės silueto.",
+        "a": "Šis modelis universalus. Jis nepriekaištingai dera tiek su mūsų klasikiniais loaferiais Uramaky biurui, tiek su statusą pabrėžiančiais ilgaauliais batais Ulisside išėjimui į miestą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wełna może powodować podrażnienia skóry.",
+        "a": "W modelach Luisa Spagnoli wykorzystywana jest wełna Vergine najwyższej jakości o wyjątkowo cienkich włóknach, co czyni ją hipoalergiczną i jedwabistą w dotyku."
+      },
+      {
+        "q": "Kołnierz z wiązaniem wydaje się zbyt skomplikowany w codziennym noszeniu.",
+        "a": "Wręcz przeciwnie, taśmy kołnierza wykonane są z plastycznej dzianiny, która doskonale trzyma węzeł i nie wymaga ciągłego poprawiania w ciągu dnia."
+      },
+      {
+        "q": "Dekolt w kształcie litery V wydaje się zbyt głęboki.",
+        "a": "Design kołnierza typu lavalliere pozwala regulować głębokość dekoltu: mogą Państwo zawiązać taśmy wyżej dla uzyskania surowego wizerunku lub pozostawić je luźne dla wieczorowego wyjścia."
+      },
+      {
+        "q": "Marszczone ramiona mogą optycznie poszerzać górną partię sylwetki.",
+        "a": "Delikatne marszczenie na ramionach modelu Maggiolone zostało zaprojektowane tak, aby tworzyć miękką pionową linię, która harmonizuje proporcje i dodaje postawie arystokratycznego charakteru."
+      },
+      {
+        "q": "Trudno dobrać obuwie do tak nietypowego fasonu dzianinowej bluzki.",
+        "a": "Ten model jest uniwersalny. Doskonale komponuje się zarówno z naszymi klasycznymi mokasynami Uramaky do biura, jak i ze statusowymi kozakami Ulisside na wyjście do miasta."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Вовна може викликати подразнення шкіри.",
+        "a": "Для моделей Luisa Spagnoli використовується вовна Vergine найвищої якості з особливо тонкими волокнами, що робить її гіпоалергенною та шовковистою на дотик."
+      },
+      {
+        "q": "Комір-бант здається надто складним у повсякденному носінні.",
+        "a": "Навпаки, стрічки коміра виконані з пластичного трикотажу, який чудово тримає вузол і не потребує постійної корекції протягом дня."
+      },
+      {
+        "q": "V-подібний виріз виглядає надто відкритим.",
+        "a": "Дизайн коміра лавальєр дозволяє регулювати глибину декольте: ви можете зав'язати стрічки вище для суворого образу або залишити їх вільними для вечірнього виходу."
+      },
+      {
+        "q": "Призібрані плечі можуть візуально розширювати верхню частину фігури.",
+        "a": "Делікатна збірка на плечах Maggiolone спроєктована так, щоб створювати м'яку вертикаль, яка, навпаки, гармонізує пропорції та додає поставі аристократизму."
+      },
+      {
+        "q": "Складно підібрати взуття до такого незвичайного фасону трикотажної блузи.",
+        "a": "Ця модель універсальна. Вона бездоганно поєднується як з нашими класичними лоферами Uramaky для офісу, так і зі статусними чоботями Ulisside для міського виходу."
+      }
+    ]
+  }
+}

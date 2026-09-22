@@ -1,0 +1,369 @@
+{
+  "id": 412,
+  "name": "Latteria A",
+  "description": {
+    "en": "The Latteria A shirt is a foundational wardrobe piece from Luisa Spagnoli, embodying the concept of 'quiet luxury' and flawless Italian purism. Serving as the ideal companion to the collection's signature jackets and suits, this Regular fit (vestibilitÃ regular) piece ensures a flawless architecture to any look. Its understated cut and purity of line allow the status of textured materials, such as jacquard or virgin wool, to be showcased, forming the connecting thread between classic business etiquette and contemporary femininity. This piece is an indispensable base upon which the most intricate, elegant ensembles of the FW 26 season are built.",
+    "ru": "Рубашка Latteria A --- это фундаментальный элемент гардероба от Luisa Spagnoli, воплощающий концепцию «тихой роскоши» и безупречного итальянского пуризма. Выступая в роли идеального компаньона для знаковых жакетов и костюмов коллекции, эта модель с регулярной посадкой (vestibilità regular) обеспечивает безупречную архитектуру образа. Её лаконичный крой и чистота линий позволяют подчеркнуть статусность фактурных материалов, таких как жаккард или девственная шерсть, становясь связующим звеном между классическим деловым этикетом и современной женственностью. Данная модель является незаменимой базой, на которой выстраиваются самые сложные и элегантные ансамбли сезона FW 26.",
+    "ar": "قميص Latteria A هو عنصر أساسي في خزانة ملابس Luisa Spagnoli، يجسد مفهوم «الرفاهية الهادئة» والنقاء الإيطالي الذي لا تشوبه شائبة. بصفتها رفيقاً مثالياً للسترات والبدلات الأيقونية في المجموعة، توفر هذه القطعة ذات المقاس المعتاد (vestibilità regular) هندسة مثالية للإطلالة. إن تصميمها البسيط وخطوطها النقية تبرز فخامة المواد ذات الملمس البارز، مثل الجاكار أو الصوف البكر، لتكون حلقة الوصل بين قواعد العمل الكلاسيكية والأنوثة العصرية. تُعد هذه القطعة أساساً لا غنى عنه لبناء أكثر التنسيقات تعقيداً وأناقة لموسم FW 26.",
+    "ka": "Latteria A პერანგი Luisa Spagnoli-ს გარდერობის ფუნდამენტური ელემენტია, რომელიც განასახიერებს «მდუმარე ფუფუნების» და უნაკლო იტალიური პურიზმის კონცეფციას. კოლექციის საკულტო პიჯაკებისა და კოსტიუმების იდეალური კომპანიონი, ეს მოდელი რეგულარული მორგებით (vestibilità regular) უზრუნველყოფს სახის უნაკლო არქიტექტურას. მისი ლაკონური კორპუსი და ხაზების სიწმინდე საშუალებას იძლევა ხაზი გაესვას ისეთი ფაქტურული მასალების სტატუსს, როგორიცაა ჟაკარდი ან ქალწულებრივი მატყლი, რაც ხდება დამაკავშირებელი რგოლი კლასიკურ საქმიან ეტიკეტსა და თანამედროვე ქალურობას შორის. ეს მოდელი არის შეუცვლელი ბაზა, რომელზედაც აიგება FW 26 სეზონის ყველაზე რთული და ელეგანტური ანსამბლები.",
+    "hy": "Latteria A վերնաշապիկը Luisa Spagnoli-ի զգեստապահարանի հիմնարար տարրն է, որը մարմնավորում է «լուռ շքեղության» և անթերի իտալական պուրիզմի հայեցակարգը: Հանդես գալով որպես հավաքածուի նշանային ժակետների և կոստյումների կատարյալ ուղեկից՝ regular fit (vestibilità regular) այս մոդելը ապահովում է կերպարի անթերի ճարտարապետությունը: Դրա լակոնիկ ձևվածքն ու գծերի մաքրությունը թույլ են տալիս ընդգծել հյուսվածքային նյութերի կարգավիճակը, ինչպիսիք են ժակարդը կամ նուրբ բրդյա գործվածքը՝ դառնալով կապող օղակ դասական գործնական էթիկետի և ժամանակակից կանացիության միջև: Այս մոդելը անփոխարինելի բազա է, որի վրա կառուցվում են FW 26 սեզոնի ամենաբարդ և էլեգանտ համադրությունները:",
+    "lv": "Krekliņš Latteria A --- ir fundamentāls Luisa Spagnoli garderobes elements, kas iemieso \"klusās greznības\" koncepciju un nevainojamu itāļu pūrismu. Kā ideāls sabiedrotais kolekcijas zīmīgajām žaketēm un kostīmiem, šis modelis ar regulāru piegriezumu (vestibilità regular) nodrošina nevainojamu tēla arhitektūru. Tā lakoniskais piegriezums un līniju tīrība ļauj uzsvērt teksturētu materiālu, piemēram, žakarda vai jaunvilnas, statusu, kļūstot par saikni starp klasisko lietišķo etiķeti un mūsdienīgu sievišķību. Šis modelis ir neaizstājams pamats, uz kura tiek būvēti vissarežģītākie un elegantākie FW 26 sezonas ansambļi.",
+    "lt": "Latteria A --- tai fundamentalus Luisa Spagnoli garderobo elementas, įkūnijantis „tyliosios prabangos“ koncepciją ir nepriekaištingą itališką purizmą. Šis modelis su regular fit (vestibilità regular) yra idealus palydovas kolekcijos žymiesiems švarkams bei kostiumams ir užtikrina nepriekaištingą įvaizdžio architektūrą. Lakoniškas kirpimas ir linijų švara leidžia pabrėžti faktūrinių medžiagų, tokių kaip žakardas ar pirminė vilna, statusą, tapdami jungtimi tarp klasikinio verslo etiketo ir modernaus moteriškumo. Šis modelis yra nepakeičiamas pagrindas, ant kurio kuriami sudėtingiausi ir elegantiškiausi FW 26 sezono ansambliai.",
+    "pl": "Koszula Latteria A --- to fundamentalny element garderoby od Luisa Spagnoli, ucieleśniający koncepcję „cichego luksusu” i nienagannego włoskiego puryzmu. Występując jako idealny towarzysz dla kultowych żakietów i kostiumów z kolekcji, ten model o regularnym kroju (vestibilità regular) zapewnia nieskazitelną architekturę wizerunku. Jej lakoniczny krój i czystość linii pozwalają podkreślić status materiałów fakturowych, takich jak żakard czy dziewicza wełna, stając się łącznikiem między klasyczną etykietą biznesową a nowoczesną kobiecością. Ten model jest niezastąpioną bazą, na której budowane są najbardziej złożone i eleganckie zestawy sezonu FW 26.",
+    "uk": "Сорочка Latteria A --- це фундаментальний елемент гардеробу від Luisa Spagnoli, що втілює концепцію «тихої розкоші» та бездоганного італійського пуризму. Виступаючи ідеальним компаньйоном для знакових жакетів та костюмів колекції, ця модель з регулярною посадкою (vestibilità regular) забезпечує бездоганну архітектуру образу. Її лаконічний крій та чистота ліній дозволяють підкреслити статусність фактурних матеріалів, таких як жаккард або дівоча вовна, стаючи сполучною ланкою між класичним діловим етикетом та сучасною жіночністю. Ця модель є незамінною базою, на якій вибудовуються найскладніші та найелегантніші ансамблі сезону FW 26."
+  },
+  "colors": [
+    {
+      "name": "Bordeaux",
+      "code": "2417",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3Mx2ef25TdugVXg2-i0IIg_1643286833696f42dfd5b5f6_19897444_02820400XX1.jpg"
+    },
+    {
+      "name": "Grigio Perla",
+      "code": "1005",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/w6zktmV2RaKBA33RIkfKZA_988814576696f4237c7d779_89171727_02820370XX1.jpg"
+    },
+    {
+      "name": "Marrone",
+      "code": "0994",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/j__M1_8VRfWTU6KNBj3dfw_1833518067696f42375a3cc3_36777422_02820360XX1.jpg"
+    },
+    {
+      "name": "Ruggine",
+      "code": "2290",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OxP-8zSLRqGg62DhCYQfDw_394817131696f423836da77_32008806_02820390XX1.jpg"
+    },
+    {
+      "name": "Beige",
+      "code": "1110",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/vm-kK9HbRYGNhnOkzPdMdg_1277795968696f43060e3c70_91483708_02821380XX1.jpg"
+    },
+    {
+      "name": "Panna",
+      "code": "0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LATTERIA_20200000000%20%282%29.jpg"
+    },
+    {
+      "name": "Avorio",
+      "code": "0218",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1723971240691c57c79cc7c5_03631804_02780370XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Модель Latteria A интегрирована в ключевые подиумные и витринные образы: Вариант 0218: Look 9 & Look 10: идеальный дуэт с жакетом в елочку Micologia 1117 1118 и юбкой Minia 1117 1118. Также предлагается в строгом ансамбле с жакетом Sognatrice 3360 и брюками Ottile 3360.",
+        "en": "The Latteria A model is integrated into key runway and window display looks: Variant 0218: Look 9 & Look 10: a perfect duo with the Micologia 1117 1118 herringbone jacket and Minia 1117 1118 skirt. Also offered in a sharp ensemble with the Sognatrice 3360 jacket and Ottile 3360 trousers.",
+        "ar": "The Latteria A model is integrated into key runway and window display looks: Variant 0218: Look 9 & Look 10: a perfect duo with the Micologia 1117 1118 herringbone jacket and Minia 1117 1118 skirt. Also offered in a sharp ensemble with the Sognatrice 3360 jacket and Ottile 3360 trousers.",
+        "ka": "The Latteria A model is integrated into key runway and window display looks: Variant 0218: Look 9 & Look 10: a perfect duo with the Micologia 1117 1118 herringbone jacket and Minia 1117 1118 skirt. Also offered in a sharp ensemble with the Sognatrice 3360 jacket and Ottile 3360 trousers.",
+        "hy": "The Latteria A model is integrated into key runway and window display looks: Variant 0218: Look 9 & Look 10: a perfect duo with the Micologia 1117 1118 herringbone jacket and Minia 1117 1118 skirt. Also offered in a sharp ensemble with the Sognatrice 3360 jacket and Ottile 3360 trousers.",
+        "lv": "The Latteria A model is integrated into key runway and window display looks: Variant 0218: Look 9 & Look 10: a perfect duo with the Micologia 1117 1118 herringbone jacket and Minia 1117 1118 skirt. Also offered in a sharp ensemble with the Sognatrice 3360 jacket and Ottile 3360 trousers.",
+        "lt": "The Latteria A model is integrated into key runway and window display looks: Variant 0218: Look 9 & Look 10: a perfect duo with the Micologia 1117 1118 herringbone jacket and Minia 1117 1118 skirt. Also offered in a sharp ensemble with the Sognatrice 3360 jacket and Ottile 3360 trousers.",
+        "pl": "The Latteria A model is integrated into key runway and window display looks: Variant 0218: Look 9 & Look 10: a perfect duo with the Micologia 1117 1118 herringbone jacket and Minia 1117 1118 skirt. Also offered in a sharp ensemble with the Sognatrice 3360 jacket and Ottile 3360 trousers.",
+        "uk": "The Latteria A model is integrated into key runway and window display looks: Variant 0218: Look 9 & Look 10: a perfect duo with the Micologia 1117 1118 herringbone jacket and Minia 1117 1118 skirt. Also offered in a sharp ensemble with the Sognatrice 3360 jacket and Ottile 3360 trousers."
+      },
+      "items": [
+        {
+          "name": "Micologia",
+          "code": "1117 1118",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/959747307691f1576f006d2_02395475_02790480XX1.jpg",
+          "modelId": 174
+        },
+        {
+          "name": "Minia",
+          "code": "1117 1118",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1302431902691f15784924a8_40669437_02790520XX1.jpg",
+          "modelId": 445
+        },
+        {
+          "name": "Sognatrice",
+          "code": "3360",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/27732445692424dc720447_24216783_02781630XX1.jpg",
+          "modelId": 485
+        },
+        {
+          "name": "Ottile",
+          "code": "3360",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1112497218692424d84a8be7_81161590_02781520XX1.jpg",
+          "modelId": 469
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 0218",
+        "en": "Vetrina 13",
+        "ar": "Vetrina 13",
+        "ka": "Vetrina 13",
+        "hy": "Vetrina 13",
+        "lv": "Vetrina 13",
+        "lt": "Vetrina 13",
+        "pl": "Vetrina 13",
+        "uk": "Vetrina 13"
+      },
+      "text": {
+        "ru": "Vetrina 13: выступает под классическим пальто Sindi 3414 0917.",
+        "en": "featured under the classic Sindi 3414 0917 coat. Variant 0994:",
+        "ar": "featured under the classic Sindi 3414 0917 coat. Variant 0994:",
+        "ka": "featured under the classic Sindi 3414 0917 coat. Variant 0994:",
+        "hy": "featured under the classic Sindi 3414 0917 coat. Variant 0994:",
+        "lv": "featured under the classic Sindi 3414 0917 coat. Variant 0994:",
+        "lt": "featured under the classic Sindi 3414 0917 coat. Variant 0994:",
+        "pl": "featured under the classic Sindi 3414 0917 coat. Variant 0994:",
+        "uk": "featured under the classic Sindi 3414 0917 coat. Variant 0994:"
+      },
+      "items": [
+        {
+          "name": "Sindi",
+          "code": "3414 0917",
+          "imageUrl": null,
+          "modelId": 319
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 0994",
+        "en": "Look 173",
+        "ar": "Look 173",
+        "ka": "Look 173",
+        "hy": "Look 173",
+        "lv": "Look 173",
+        "lt": "Look 173",
+        "pl": "Look 173",
+        "uk": "Look 173"
+      },
+      "text": {
+        "ru": "Look 173: в динамичном городском образе с курткой Stelle 0919 и брюками Olinda 3404.",
+        "en": "in a dynamic city look with the Stelle 0919 jacket and Olinda 3404 trousers.",
+        "ar": "in a dynamic city look with the Stelle 0919 jacket and Olinda 3404 trousers.",
+        "ka": "in a dynamic city look with the Stelle 0919 jacket and Olinda 3404 trousers.",
+        "hy": "in a dynamic city look with the Stelle 0919 jacket and Olinda 3404 trousers.",
+        "lv": "in a dynamic city look with the Stelle 0919 jacket and Olinda 3404 trousers.",
+        "lt": "in a dynamic city look with the Stelle 0919 jacket and Olinda 3404 trousers.",
+        "pl": "in a dynamic city look with the Stelle 0919 jacket and Olinda 3404 trousers.",
+        "uk": "in a dynamic city look with the Stelle 0919 jacket and Olinda 3404 trousers."
+      },
+      "items": [
+        {
+          "name": "Stelle",
+          "code": "0919",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/v0SMZo0VQaKGpkN_-N_65w_698883230696f42feb83970_50231303_02821190XX1.jpg"
+        },
+        {
+          "name": "Olinda",
+          "code": "3404",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-zYTZ534RoOB5w7RExMFfw_226965868696f42e6eeab90_44429190_02820650XX1.jpg",
+          "modelId": 246
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 0994",
+        "en": "Vetrina 99",
+        "ar": "Vetrina 99",
+        "ka": "Vetrina 99",
+        "hy": "Vetrina 99",
+        "lv": "Vetrina 99",
+        "lt": "Vetrina 99",
+        "pl": "Vetrina 99",
+        "uk": "Vetrina 99"
+      },
+      "text": {
+        "ru": "Vetrina 99: стилизована с жакетом Cavina 0952 0428 и брюками Opaglio 0927.",
+        "en": "styled with the Cavina 0952 0428 jacket and Opaglio 0927 trousers. Variant 1110:",
+        "ar": "styled with the Cavina 0952 0428 jacket and Opaglio 0927 trousers. Variant 1110:",
+        "ka": "styled with the Cavina 0952 0428 jacket and Opaglio 0927 trousers. Variant 1110:",
+        "hy": "styled with the Cavina 0952 0428 jacket and Opaglio 0927 trousers. Variant 1110:",
+        "lv": "styled with the Cavina 0952 0428 jacket and Opaglio 0927 trousers. Variant 1110:",
+        "lt": "styled with the Cavina 0952 0428 jacket and Opaglio 0927 trousers. Variant 1110:",
+        "pl": "styled with the Cavina 0952 0428 jacket and Opaglio 0927 trousers. Variant 1110:",
+        "uk": "styled with the Cavina 0952 0428 jacket and Opaglio 0927 trousers. Variant 1110:"
+      },
+      "items": [
+        {
+          "name": "Cavina",
+          "code": "0952 0428",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0128%20%281%29.jpg",
+          "modelId": 8
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 1110",
+        "en": "Look 178",
+        "ar": "Look 178",
+        "ka": "Look 178",
+        "hy": "Look 178",
+        "lv": "Look 178",
+        "lt": "Look 178",
+        "pl": "Look 178",
+        "uk": "Look 178"
+      },
+      "text": {
+        "ru": "Look 178: центральный элемент классического костюма с жакетом Micologia 0101 2234 и юбкой Minia 0101 2234.",
+        "en": "a central element of a classic suit with the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "ar": "a central element of a classic suit with the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "ka": "a central element of a classic suit with the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "hy": "a central element of a classic suit with the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "lv": "a central element of a classic suit with the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "lt": "a central element of a classic suit with the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "pl": "a central element of a classic suit with the Micologia 0101 2234 jacket and Minia 0101 2234 skirt.",
+        "uk": "a central element of a classic suit with the Micologia 0101 2234 jacket and Minia 0101 2234 skirt."
+      },
+      "items": [
+        {
+          "name": "Micologia",
+          "code": "0101 2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ema_wbDiQ1a0Lj1RymcvnQ_1735110920696f436bcfc079_62732838_02830810XX1.jpg",
+          "modelId": 174
+        },
+        {
+          "name": "Minia",
+          "code": "0101 2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2DArnQrxTg-oql1-E0SPpg_1318458338696f436d73ee42_37110795_02830840XX1.jpg",
+          "modelId": 445
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 1110",
+        "en": "Vetrina 114",
+        "ar": "Vetrina 114",
+        "ka": "Vetrina 114",
+        "hy": "Vetrina 114",
+        "lv": "Vetrina 114",
+        "lt": "Vetrina 114",
+        "pl": "Vetrina 114",
+        "uk": "Vetrina 114"
+      },
+      "text": {
+        "ru": "Vetrina 114: роскошный вечерний выход с пальто Stenia 3312 и юбкой из парчи Fluvia 3312. Вариант 2417 / 2290:",
+        "en": "a luxurious evening ensemble with the Stenia 3312 coat and Fluvia 3312 brocade skirt. Variant 2417 / 2290:",
+        "ar": "a luxurious evening ensemble with the Stenia 3312 coat and Fluvia 3312 brocade skirt. Variant 2417 / 2290:",
+        "ka": "a luxurious evening ensemble with the Stenia 3312 coat and Fluvia 3312 brocade skirt. Variant 2417 / 2290:",
+        "hy": "a luxurious evening ensemble with the Stenia 3312 coat and Fluvia 3312 brocade skirt. Variant 2417 / 2290:",
+        "lv": "a luxurious evening ensemble with the Stenia 3312 coat and Fluvia 3312 brocade skirt. Variant 2417 / 2290:",
+        "lt": "a luxurious evening ensemble with the Stenia 3312 coat and Fluvia 3312 brocade skirt. Variant 2417 / 2290:",
+        "pl": "a luxurious evening ensemble with the Stenia 3312 coat and Fluvia 3312 brocade skirt. Variant 2417 / 2290:",
+        "uk": "a luxurious evening ensemble with the Stenia 3312 coat and Fluvia 3312 brocade skirt. Variant 2417 / 2290:"
+      },
+      "items": [
+        {
+          "name": "Stenia",
+          "code": "3312",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_331200000000%20%281%29.jpg",
+          "modelId": 495
+        },
+        {
+          "name": "Fluvia",
+          "code": "3312",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/853862624692424ca18fd59_99146768_02781070XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 1110",
+        "en": "Look 190 & 191",
+        "ar": "Look 190 & 191",
+        "ka": "Look 190 & 191",
+        "hy": "Look 190 & 191",
+        "lv": "Look 190 & 191",
+        "lt": "Look 190 & 191",
+        "pl": "Look 190 & 191",
+        "uk": "Look 190 & 191"
+      },
+      "text": {
+        "ru": "Look 190 & 191: создание монохромных образов с юбкой Fumaiolo 3417 или костюмом с жакетом Seduta 3417 и брюками Ottana 3417.",
+        "en": "creating monochrome looks with the Fumaiolo 3417 skirt or a suit with the Seduta 3417 jacket and Ottana 3417 trousers.",
+        "ar": "creating monochrome looks with the Fumaiolo 3417 skirt or a suit with the Seduta 3417 jacket and Ottana 3417 trousers.",
+        "ka": "creating monochrome looks with the Fumaiolo 3417 skirt or a suit with the Seduta 3417 jacket and Ottana 3417 trousers.",
+        "hy": "creating monochrome looks with the Fumaiolo 3417 skirt or a suit with the Seduta 3417 jacket and Ottana 3417 trousers.",
+        "lv": "creating monochrome looks with the Fumaiolo 3417 skirt or a suit with the Seduta 3417 jacket and Ottana 3417 trousers.",
+        "lt": "creating monochrome looks with the Fumaiolo 3417 skirt or a suit with the Seduta 3417 jacket and Ottana 3417 trousers.",
+        "pl": "creating monochrome looks with the Fumaiolo 3417 skirt or a suit with the Seduta 3417 jacket and Ottana 3417 trousers.",
+        "uk": "creating monochrome looks with the Fumaiolo 3417 skirt or a suit with the Seduta 3417 jacket and Ottana 3417 trousers."
+      },
+      "items": [
+        {
+          "name": "Fumaiolo",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg",
+          "modelId": 64
+        },
+        {
+          "name": "Seduta",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bepctPXfSIK7vqF5pwZQkQ_283102043696f42f4b2c696_85048935_02820950XX1.jpg"
+        },
+        {
+          "name": "Ottana",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TQWq2qXmRQayYc7Z7KMgUg_391295727696f42ed3bd804_80361111_02820790XX1.jpg",
+          "modelId": 271
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The foundation of a capsule wardrobe: Suggest Latteria A to the client as the cornerstone of an investment wardrobe. Thanks to its 'regular fit', it layers perfectly beneath any of the brand's jackets, without adding bulk and preserving a clean silhouet"
+    ],
+    "ru": [
+      "- Фундамент капсульного гардероба: Предложите клиенту Latteria A как основу для инвестиционного гардероба. Благодаря «регулярной посадке», она идеально ложится под любые жакеты бренда, не создавая лишнего объема и сохраняя чистоту силуэта. - Цветовой ката"
+    ],
+    "ar": [
+      "- حجر الزاوية في خزانة الملابس الكبسولية: اقترحي على العميل Latteria A كقطعة أساسية للاستثمار في خزانة الملابس. بفضل قصة \"regular fit\"، فإنها تتماشى بشكل مثالي تحت أي من سترات العلامة التجارية، دون إحداث أي حجم إضافي مع الحفاظ على نقاء القوام. - محفز لوني"
+    ],
+    "ka": [
+      "- კაფსულური გარდერობის საფუძველი: შესთავაზეთ კლიენტს Latteria A, როგორც ინვესტიციური გარდერობის საფუძველი. მისი „რეგულარული მორგების“ წყალობით, ის იდეალურად ერგება ბრენდის ნებისმიერ პიჯაკს, არ ქმნის ზედმეტ მოცულობას და ინარჩუნებს სილუეტის სისუფთავეს. - ფე"
+    ],
+    "hy": [
+      "- Կապսուլային զգեստապահարանի հիմքը․ առաջարկեք հաճախորդին Latteria A-ն՝ որպես ներդրումային զգեստապահարանի հիմք: Շնորհիվ «կանոնավոր ձևվածքի» (regular fit), այն իդեալականորեն տեղավորվում է բրենդի ցանկացած ժակետի տակ՝ չստեղծելով ավելորդ ծավալ և պահպանելով ուր"
+    ],
+    "lv": [
+      "- Kapsulas garderobes pamats: Piedāvājiet klientam Latteria A kā investīciju garderobes pamatu. Pateicoties \"regulāram piegriezumam\", tā lieliski sader ar jebkuru zīmola žaketi, neradot lieku apjomu un saglabājot silueta tīrību. - Krāsu katalizators: Izma"
+    ],
+    "lt": [
+      "- Kapsulinės garderobo bazės pagrindas: Pasiūlykite klientui Latteria A kaip investicinio garderobo pagrindą. Dėl „regular fit“ kirpimo ji idealiai tinka po bet kokiais prekės ženklo švarkais, nesukurdama nereikalingos apimties ir išlaikydama silueto švarą. - Spalvinis katalizatorius: Išnaudokite modelio spalvų paletės įvairovę, kad „išryškintumėte“ tekstūrinius drabužius. Pavyzdžiui, 1110 atspalvis puikiai išryškina žakardo aukso siūlus, o 0218 suteikia gaivumo portretinei zonai dėvint griežtus pilkus ansamblius. - Stilių įvairovė: Pabrėžkite, kad marškiniai vienodai sėkmingai dera tiek griežtame Total Look su švarku Sognatrice 3360, tiek laisvesniuose deriniuose su džinsais Opaglio 0927."
+    ],
+    "pl": [
+      "- Fundament garderoby kapsułowej: Zaproponuj klientce Latteria A jako podstawę inwestycyjnej garderoby. Dzięki krojowi \"regular fit\" idealnie układa się pod każdą marynarką marki, nie tworząc zbędnej objętości i zachowując czystość sylwetki. - Katalizator"
+    ],
+    "uk": [
+      "- Фундамент капсульного гардероба: Запропонуйте клієнту Latteria A як основу для інвестиційного гардероба. Завдяки «регулярній посадці», вона ідеально лягає під будь-які жакети бренду, не створюючи зайвого об'єму та зберігаючи чистоту силуету. - Колірний"
+    ]
+  },
+  "objections": {
+    "en": [],
+    "ru": [],
+    "ar": [],
+    "ka": [],
+    "hy": [],
+    "lv": [],
+    "lt": [],
+    "pl": [],
+    "uk": []
+  }
+}
