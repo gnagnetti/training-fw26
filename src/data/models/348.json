@@ -1,0 +1,378 @@
+{
+  "id": 348,
+  "name": "Strass",
+  "description": {
+    "en": "The cropped Strass jacket from Luisa Spagnoli is the embodiment of refined evening fashion and flawless Italian taste. Crafted from a luxurious blend of viscose and silk with a soft, velvety texture that creates a deep play of light. The architectural cut, with a round neckline and an elegantly rounded hem, underscores the femininity of the silhouette, while tone-matched buttons complete this status-defining look. Functional framed welt pockets add practicality to the piece while preserving the purity of the Regular fit lines. Fabric composition: 79% viscose, 18% silk, 3% elastane.",
+    "ru": "Укороченный жакет Strass от Luisa Spagnoli — это воплощение изысканной вечерней моды и безупречного итальянского вкуса. Модель выполнена из роскошного сочетания вискозы и шелка с мягкой бархатистой фактурой, создающей глубокую игру света. Архитектурный крой с круглым вырезом и элегантно закругленным низом подчеркивает женственность силуэта, а пуговицы в тон ткани завершают этот статусный образ. Функциональные прорезные карманы в рамку добавляют изделию практичности, сохраняя чистоту линий regular fit. Состав ткани: 79% вискоза, 18% шелк, 3% эластан.",
+    "ar": "تعد السترة القصيرة Strass من Luisa Spagnoli تجسيداً للأزياء المسائية الراقية والذوق الإيطالي الذي لا تشوبه شائبة. صُمم الموديل من مزيج فاخر من الفيسكوز والحرير بملمس مخملي ناعم، مما يخلق تلاعباً عميقاً بالضوء. تؤكد القصة المعمارية ذات الفتحة المستديرة والحافة المستديرة بأناقة على أنوثة الصورة الظلية، بينما تكمل الأزرار المتطابقة مع لون القماش هذا المظهر المرموق. تضيف الجيوب العملية المقطوعة في إطار طابعاً عملياً للقطعة مع الحفاظ على نقاء خطوط قصة regular fit. تركيب القماش: 79% فيسكوز، 18% حرير، 3% إيلاستين.",
+    "ka": "Luisa Spagnoli-ის დამოკლებული Strass-ის პიჯაკი დახვეწილი საღამოს მოდასა და უნაკლო იტალიური გემოვნების განსახიერებაა. მოდელი დამზადებულია ვისკოზისა და აბრეშუმის მდიდრული ნაზავისგან, რბილი, ხავერდოვანი ფაქტურით, რომელიც სინათლის ღრმა თამაშს ქმნის. არქიტექტურული თარგით, მრგვალგელიანი საყელოთი და ელეგანტურად მომრგვალებული ქვედა ნაწილით, ის ხაზს უსვამს სილუეტის ქალურობას, ხოლო ქსოვილის ტონში გადაწყვეტილი ღილები ავსებს ამ სტატუსურ სახეს. ფუნქციური ჩარჩოიანი ჯიბეები ნაკეთობას პრაქტიკულობას მატებს და ინარჩუნებს regular fit-ის ხაზების სისუფთავეს. ქსოვილის შემადგენლობა: 79% ვისკოზა, 18% აბრეშუმი, 3% ელასტანი.",
+    "hy": "Luisa Spagnoli-ի Strass կարճ ժակետը նրբաճաշակ երեկոյան նորաձևության և անթերի իտալական ճաշակի մարմնացումն է: Մոդելը պատրաստված է վիսկոզայի և մետաքսի շքեղ համադրությունից՝ փափուկ թավշյա հյուսվածքով, որը ստեղծում է լույսի խորը խաղ: Ճարտարապետական ձևվածքը՝ կլոր բացվածքով և նրբագեղ կլորացված եզրագծով, ընդգծում է ուրվագծի կանացիությունը, իսկ գործվածքի երանգին համահունչ կոճակները ամբողջացնում են այս ստատուսային կերպարը: Ֆունկցիոնալ ներդիր գրպանները գրչատուփի ոճով հավելում են գործնականություն՝ պահպանելով regular fit գծերի մաքրությունը: Գործվածքի բաղադրությունը՝ 79% վիսկոզա, 18% մետաքս, 3% էլաստան:",
+    "lv": "Īsā žakete Strass no Luisa Spagnoli ir izsmalcinātas vakara modes un nevainojamas itāļu gaumes iemiesojums. Modelis ir izgatavots no grezna viskozes un zīda maisījuma ar mīkstu, samtainu faktūru, kas rada dziļu gaismas spēli. Arhitektoniskais piegriezums ar apaļu izgriezumu un eleganti noapaļotu apakšmalu izceļ silueta sievišķību, bet auduma tonī pieskaņotās pogas noslēdz šo statusa pilno tēlu. Funkcionālās iegrieztās kabatas ar apmalīti piešķir izstrādājumam praktiskumu, saglabājot regular fit līniju tīrību. Auduma sastāvs: 79% viskoze, 18% zīds, 3% elastāns.",
+    "lt": "Trumpintas švarkas Strass iš Luisa Spagnoli – tai rafinuotos vakarinės mados ir nepriekaištingo itališko skonio įsikūnijimas. Modelis pagamintas iš prabangaus viskozės ir šilko derinio su minkšta aksomine faktūra, sukuriančia gilią šviesos žaismą. Architektūrinis kirpimas su apvalia iškirpte ir elegantiškai užapvalinta apačia pabrėžia silueto moteriškumą, o audinio spalvos sagos užbaigia šį statusą pabrėžiantį įvaizdį. Funkcionalios įleistinės kišenės suteikia gaminiui praktiškumo, išlaikant regular fit linijų švarą. Audinio sudėtis: 79% viskozė, 18% šilkas, 3% elastanas.",
+    "pl": "Krótki żakiet Strass od Luisa Spagnoli to ucieleśnienie wyrafinowanej mody wieczorowej i nienagannego włoskiego gustu. Model wykonany z luksusowego połączenia wiskozy i jedwabiu o miękkiej, aksamitnej fakturze, tworzącej głęboką grę świateł. Architektoniczny krój z okrągłym dekoltem i elegancko zaokrąglonym dołem podkreśla kobiecość sylwetki, a guziki w odcieniu tkaniny dopełniają tę prestiżową stylizację. Funkcjonalne wpuszczane kieszenie z wypustką dodają modelowi praktyczności, zachowując czystość linii regular fit. Skład tkaniny: 79% wiskoza, 18% jedwab, 3% elastan.",
+    "uk": "Укорочений жакет Strass від Luisa Spagnoli — це втілення вишуканої вечірньої моди та бездоганного італійського смаку. Модель виконана з розкішного поєднання віскози та шовку з м'якою бархатистою фактурою, що створює глибоку гру світла. Архітектурний крій із круглим вирізом та елегантно закругленим низом підкреслює жіночність силуету, а ґудзики в тон тканини завершують цей статусний образ. Функціональні прорізні кишені в рамку додають виробу практичності, зберігаючи чистоту ліній regular fit. Склад тканини: 79% віскоза, 18% шовк, 3% еластан."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YqwkwyA5QMqJiZQWrpBl9g_1744343220696f42ff2d54e7_32709159_02821200XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Образ 'Midnight Velvet' (Look 126)",
+        "en": "Look 'Midnight Velvet' (Look 126)",
+        "ar": "Look 'Midnight Velvet' (Look 126)",
+        "ka": "Look 'Midnight Velvet' (Look 126)",
+        "hy": "Look 'Midnight Velvet' (Look 126)",
+        "lv": "Look 'Midnight Velvet' (Look 126)",
+        "lt": "Look 'Midnight Velvet' (Look 126)",
+        "pl": "Look 'Midnight Velvet' (Look 126)",
+        "uk": "Look 'Midnight Velvet' (Look 126)"
+      },
+      "text": {
+        "ru": "Жакет Strass 0101 в сочетании с классической рубашкой Lidia 0101 и брюками Orfano 0101. Акцент — сумка Ialofane 0993 0002.",
+        "en": "Strass 0101 jacket in combination with a classic Lidia 0101 shirt (Data not available in official sources) and Orfano 0101 trousers (Data not available in official sources). Accent — Ialofane 0993 0002 bag.",
+        "ar": "Strass 0101 jacket in combination with a classic Lidia 0101 shirt (Data not available in official sources) and Orfano 0101 trousers (Data not available in official sources). Accent — Ialofane 0993 0002 bag.",
+        "ka": "Strass 0101 jacket in combination with a classic Lidia 0101 shirt (Data not available in official sources) and Orfano 0101 trousers (Data not available in official sources). Accent — Ialofane 0993 0002 bag.",
+        "hy": "Strass 0101 jacket in combination with a classic Lidia 0101 shirt (Data not available in official sources) and Orfano 0101 trousers (Data not available in official sources). Accent — Ialofane 0993 0002 bag.",
+        "lv": "Strass 0101 jacket in combination with a classic Lidia 0101 shirt (Data not available in official sources) and Orfano 0101 trousers (Data not available in official sources). Accent — Ialofane 0993 0002 bag.",
+        "lt": "Strass 0101 jacket in combination with a classic Lidia 0101 shirt (Data not available in official sources) and Orfano 0101 trousers (Data not available in official sources). Accent — Ialofane 0993 0002 bag.",
+        "pl": "Strass 0101 jacket in combination with a classic Lidia 0101 shirt (Data not available in official sources) and Orfano 0101 trousers (Data not available in official sources). Accent — Ialofane 0993 0002 bag.",
+        "uk": "Strass 0101 jacket in combination with a classic Lidia 0101 shirt (Data not available in official sources) and Orfano 0101 trousers (Data not available in official sources). Accent — Ialofane 0993 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Strass",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YqwkwyA5QMqJiZQWrpBl9g_1744343220696f42ff2d54e7_32709159_02821200XX1.jpg"
+        },
+        {
+          "name": "Lidia",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Orfano",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Ialofane",
+          "code": "0993 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bY6wJXy6TvKLy7-5erDxaA_2108574309696f42209cb429_45584211_02800660XX1.jpg",
+          "modelId": 90
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 'Evening Sophistication' (Look 264)",
+        "en": "Look 'Evening Sophistication' (Look 264)",
+        "ar": "Look 'Evening Sophistication' (Look 264)",
+        "ka": "Look 'Evening Sophistication' (Look 264)",
+        "hy": "Look 'Evening Sophistication' (Look 264)",
+        "lv": "Look 'Evening Sophistication' (Look 264)",
+        "lt": "Look 'Evening Sophistication' (Look 264)",
+        "pl": "Look 'Evening Sophistication' (Look 264)",
+        "uk": "Look 'Evening Sophistication' (Look 264)"
+      },
+      "text": {
+        "ru": "Жакет Strass 0101 поверх белой рубашки Localita 0201 с элегантными брюками Offida 0101. Дополнения: сумка Iroise 0101 0002, серьги Norico 0001 0002, браслет Norreni 0001 0002 и туфли Unica A 0101 0002.",
+        "en": "Strass 0101 jacket over a white Localita 0201 shirt with elegant Offida 0101 trousers. Additions: Iroise 0101 0002 bag, Norico 0001 0002 earrings, Norreni 0001 0002 bracelet and Unica A 0101 0002 shoes.",
+        "ar": "Strass 0101 jacket over a white Localita 0201 shirt with elegant Offida 0101 trousers. Additions: Iroise 0101 0002 bag, Norico 0001 0002 earrings, Norreni 0001 0002 bracelet and Unica A 0101 0002 shoes.",
+        "ka": "Strass 0101 jacket over a white Localita 0201 shirt with elegant Offida 0101 trousers. Additions: Iroise 0101 0002 bag, Norico 0001 0002 earrings, Norreni 0001 0002 bracelet and Unica A 0101 0002 shoes.",
+        "hy": "Strass 0101 jacket over a white Localita 0201 shirt with elegant Offida 0101 trousers. Additions: Iroise 0101 0002 bag, Norico 0001 0002 earrings, Norreni 0001 0002 bracelet and Unica A 0101 0002 shoes.",
+        "lv": "Strass 0101 jacket over a white Localita 0201 shirt with elegant Offida 0101 trousers. Additions: Iroise 0101 0002 bag, Norico 0001 0002 earrings, Norreni 0001 0002 bracelet and Unica A 0101 0002 shoes.",
+        "lt": "Strass 0101 jacket over a white Localita 0201 shirt with elegant Offida 0101 trousers. Additions: Iroise 0101 0002 bag, Norico 0001 0002 earrings, Norreni 0001 0002 bracelet and Unica A 0101 0002 shoes.",
+        "pl": "Strass 0101 jacket over a white Localita 0201 shirt with elegant Offida 0101 trousers. Additions: Iroise 0101 0002 bag, Norico 0001 0002 earrings, Norreni 0001 0002 bracelet and Unica A 0101 0002 shoes.",
+        "uk": "Strass 0101 jacket over a white Localita 0201 shirt with elegant Offida 0101 trousers. Additions: Iroise 0101 0002 bag, Norico 0001 0002 earrings, Norreni 0001 0002 bracelet and Unica A 0101 0002 shoes."
+      },
+      "items": [
+        {
+          "name": "Strass",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YqwkwyA5QMqJiZQWrpBl9g_1744343220696f42ff2d54e7_32709159_02821200XX1.jpg"
+        },
+        {
+          "name": "Localita",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1407561629692424cfaef943_59921062_02781240XX1.jpg",
+          "modelId": 422
+        },
+        {
+          "name": "Offida",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YFFY1s4iR8mmZlK3FNEjEQ_850058026696f42e4f083b6_29969679_02820610XX1.jpg",
+          "modelId": 242
+        },
+        {
+          "name": "Iroise",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cougRXqXSLCLpSH5I324CQ_361816691696f422261f4e8_02648203_02800700XX1.jpg",
+          "modelId": 96
+        },
+        {
+          "name": "Norico",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202026-02-13%20at%2011.44.51.jpeg"
+        },
+        {
+          "name": "Norreni",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/912272238691c57debb0715_18614146_02800260XX1.jpg"
+        },
+        {
+          "name": "Unica A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/4483ad1f-c43d-46bf-b39f-94464e4f7a6e.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the distinctive composition: the presence of natural silk lends Strass velvet an incomparable softness and noble sheen characteristic of haute couture pieces.",
+      "Recommend this jacket as the perfect investment for an evening wardrobe — its cropped length and minimalist design allow for endless festive styling possibilities.",
+      "Suggest pairing it with the Offida 0101 trousers to create a status-defining monochrome ensemble in the 'quiet luxury' spirit."
+    ],
+    "ru": [
+      "Сделайте акцент на уникальном составе: наличие натурального шелка придает бархату Strass несравненную мягкость и благородное сияние, характерное для изделий высокой моды.",
+      "Рекомендуйте этот жакет как идеальную инвестицию в вечерний гардероб — его укороченная длина и минималистичный дизайн позволяют создавать бесконечное количество торжественных образов.",
+      "Предложите сочетание с брюками Offida 0101 для создания статусного монохромного ансамбля в стиле 'quiet luxury'."
+    ],
+    "ar": [
+      "سلطي الضوء على التركيبة الفريدة: فوجود الحرير الطبيعي يمنح مخمل Strass نعومة لا تضاهى وبريقاً نبيلاً يميز قطع الأزياء الراقية.",
+      "ننصحكِ بهذا الجاكيت كاستثمار مثالي لخزانة السهرة؛ فقصته القصيرة وتصميمه البسيط يتيحان لكِ ابتكار عدد لا نهائي من الإطلالات الاحتفالية.",
+      "اقترحي تنسيقه مع سراويل Offida 0101 للحصول على طقم أحادي اللون يعكس فخامة أسلوب 'quiet luxury'."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება უნიკალურ შემადგენლობაზე: ნატურალური აბრეშუმის შემცველობა Strass-ის ხავერდს ანიჭებს შეუდარებელ სირბილესა და კეთილშობილურ ბზინვარებას, რაც მაღალი მოდის სამოსისთვისაა დამახასიათებელი.",
+      "რეკომენდაცია გაუწიეთ ამ პიჯაკს, როგორც სრულყოფილ ინვესტიციას საღამოს გარდერობში — მისი მოკლე სიგრძე და მინიმალისტური დიზაინი იძლევა უსასრულო რაოდენობის სადღესასწაულო იმიჯის შექმნის საშუალებას.",
+      "შესთავაზეთ შეხამება Offida 0101 შარვალთან, რათა შეიქმნას სტატუსური მონოქრომული ანსამბლი 'quiet luxury'-ის სტილში."
+    ],
+    "hy": [
+      "Շեշտադրեք բաղադրության յուրահատկությունը. բնական մետաքսի առկայությունը Strass թավիշին հաղորդում է անզուգական փափկություն և բարձր նորաձևությանը բնորոշ ազնվական փայլ։",
+      "Այս ժակետը խորհուրդ տվեք որպես երեկոյան զգեստապահարանի կատարյալ ներդրում. դրա կարճեցված երկարությունը և մինիմալիստական դիզայնը հնարավորություն են տալիս ստեղծելու հանդիսավոր կերպարների անվերջանալի քանակ։",
+      "Առաջարկեք համադրել Offida 0101 տաբատի հետ՝ ստեղծելու «quiet luxury» ոճի կարգավիճակային մոնոքրոմ անսամբլ։"
+    ],
+    "lv": [
+      "Uzsvēriet unikālo sastāvu: dabīgā zīda klātbūtne piešķir Strass samtam nesalīdzināmu maigumu un cēlu spīdumu, kas raksturīgs augstās modes izstrādājumiem.",
+      "Iesakiet šo žaketi kā ideālu investīciju vakara garderobē — tās saīsinātais garums un minimālistiskais dizains ļauj radīt bezgalīgu skaitu svinīgu tēlu.",
+      "Piedāvājiet kombināciju ar Offida 0101 biksēm, lai izveidotu statusa pilnu vienkrāsainu ansambli 'quiet luxury' stilā."
+    ],
+    "lt": [
+      "Pabrėžkite unikalų audinio sudėtį: natūralaus šilko priemaiša suteikia Strass aksomui neprilygstamą švelnumą ir kilnų spindesį, būdingą aukštosios mados gaminiams.",
+      "Rekomenduokite šį švarką kaip idealiausią investiciją į vakarinį garderobą — jo trumpintas ilgis ir minimalistinis dizainas leidžia kurti begalę iškilmingų įvaizdžių.",
+      "Pasiūlykite derinti su Offida 0101 kelnėmis, kad sukurtumėte statusą pabrėžiantį vienspalvį „quiet luxury“ stiliaus ansamblį."
+    ],
+    "pl": [
+      "Połóż nacisk na unikalny skład: dodatek naturalnego jedwabiu nadaje aksamitowi Strass niezrównaną miękkość i szlachetny blask, charakterystyczny dla produktów haute couture.",
+      "Polecaj ten żakiet jako idealną inwestycję w wieczorową garderobę — jego skrócony krój i minimalistyczny design pozwalają na tworzenie nieskończonej liczby odświętnych stylizacji.",
+      "Zaproponuj zestawienie ze spodniami Offida 0101 w celu stworzenia prestiżowego, monochromatycznego kompletu w stylu 'quiet luxury'."
+    ],
+    "uk": [
+      "Зробіть акцент на унікальному складі: наявність натурального шовку надає оксамиту Strass незрівнянної м'якості та благородного сяйва, характерного для виробів високої моди.",
+      "Рекомендуйте цей жакет як ідеальну інвестицію у вечірній гардероб — його укорочена довжина та мінімалістичний дизайн дозволяють створювати нескінченну кількість урочистих образів.",
+      "Запропонуйте поєднання зі штанами Offida 0101 для створення статусного монохромного ансамблю у стилі 'quiet luxury'."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Velvet feels too demanding and complicated for everyday wear.",
+        "a": "Showcase Look 264, where the Strass jacket pairs beautifully with a basic white shirt. This proves the piece can serve as an elegant accent even in more understated city looks."
+      },
+      {
+        "q": "The cropped style may visually shorten the figure.",
+        "a": "On the contrary, thanks to its rounded hem and regular-fit cut, the Strass jacket accentuates the waistline. Paired with high-waisted trousers such as Offida, it visually elongates the legs."
+      },
+      {
+        "q": "I'm afraid silk velvet is very demanding to care for.",
+        "a": "Emphasize the exceptional quality of Luisa Spagnoli's materials. The addition of technical viscose and elastane makes the fabric more resistant to creasing and helps the piece retain its impeccable shape for many seasons."
+      },
+      {
+        "q": "Black feels too conservative.",
+        "a": "Point out the play of textures: the deep black in velvet »˜comes alive ' in the light, becoming a rich, luxurious backdrop for gold or crystal accessories."
+      },
+      {
+        "q": "I find it hard to imagine what else to wear this jacket with.",
+        "a": "Recommend wearing Strass over lightweight silk dresses or even paired with dark denim. Its clean, round-neck cut makes it one of the most versatile pieces in the evening collection."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Бархат кажется мне слишком обязывающим и сложным для повседневной носки.",
+        "a": "Продемонстрируйте Look 264, где жакет Strass гармонично сочетается с базовой белой рубашкой. Это доказывает, что модель может выступать в роли элегантного акцента даже в более сдержанных городских образах."
+      },
+      {
+        "q": "Укороченный фасон может визуально укорачивать фигуру.",
+        "a": "Напротив, благодаря закругленному низу и посадке regular fit, жакет Strass акцентирует линию талии. В сочетании с брюками на высокой посадке, такими как Offida, он визуально удлиняет ноги."
+      },
+      {
+        "q": "Я боюсь, что шелковый бархат очень капризен в уходе.",
+        "a": "Подчеркните высочайшее качество материалов Luisa Spagnoli. Добавление технологичной вискозы и эластана делает ткань более устойчивой к заломам и помогает изделию сохранять безупречную форму на протяжении многих сезонов."
+      },
+      {
+        "q": "Черный цвет выглядит слишком консервативно.",
+        "a": "Обратите внимание на игру фактур: глубокий черный цвет в бархатном исполнении 'оживает' при свете, становясь многогранным и роскошным фоном для аксессуаров из золота или кристаллов."
+      },
+      {
+        "q": "Мне сложно представить, с чем еще носить такой жакет.",
+        "a": "Посоветуйте использовать Strass поверх легких шелковых платьев или даже в паре с темным денимом. Его лаконичный крой с круглым вырезом делает его одной из самых универсальных моделей вечерней коллекции."
+      }
+    ],
+    "ar": [
+      {
+        "q": "أجد المخمل متكلفاً للغاية وصعب الارتداء في الإطلالات اليومية.",
+        "a": "قومي بعرض Look 264، حيث يتم تنسيق سترة Strass بانسجام مع قميص أبيض كلاسيكي. هذا يثبت أن هذه القطعة يمكن أن تكون لمسة أنيقة حتى في الإطلالات الحضرية الأكثر بساطة."
+      },
+      {
+        "q": "القصة القصيرة قد تجعل القامة تبدو أقصر بصرياً.",
+        "a": "على العكس تماماً، بفضل الحافة المستديرة وقصة regular fit، تعمل سترة Strass على إبراز خط الخصر. ومع بناطيل ذات خصر عالٍ مثل Offida، فهي تمنح مظهراً يطيل الساقين بصرياً."
+      },
+      {
+        "q": "أخشى أن مخمل الحرير يتطلب عناية دقيقة جداً.",
+        "a": "أكدي على جودة مواد Luisa Spagnoli الفائقة. إن دمج الفسكوز التقني والإيلاستين يجعل القماش أكثر مقاومة للتجعد ويساعد القطعة في الحفاظ على شكلها المثالي لمواسم عديدة."
+      },
+      {
+        "q": "اللون الأسود يبدو محافظاً أكثر من اللازم.",
+        "a": "انتبهي إلى تباين الأنسجة؛ فاللون الأسود العميق في خامة المخمل"
+      }
+    ],
+    "ka": [
+      {
+        "q": "ხავერდი ჩემთვის ძალიან დამამძიმებელი და რთული მეჩვენება ყოველდღიური ტარებისთვის.",
+        "a": "წარმოაჩინეთ Look 264, სადაც Strass-ის პიჯაკი ჰარმონიულად ერწყმის ბაზისურ თეთრ პერანგს. ეს ამტკიცებს, რომ მოდელს შეუძლია შეასრულოს ელეგანტური აქცენტის როლი უფრო თავშეკავებულ ურბანულ იმიჯშიც კი."
+      },
+      {
+        "q": "მოკლე ფასონი შეიძლება ვიზუალურად ამცირებდეს ფიგურას.",
+        "a": "პირიქით, მომრგვალებული ქვედა ნაწილისა და regular fit-ის წყალობით, Strass-ის პიჯაკი ხაზს უსვამს წელის ხაზს. მაღალწელიან შარვლებთან კომბინაციაში, როგორიცაა Offida, ის ვიზუალურად აგრძელებს ფეხებს."
+      },
+      {
+        "q": "მეშინია, რომ აბრეშუმის ხავერდი ძალიან კაპრიზულია მოვლის მხრივ.",
+        "a": "ხაზი გაუსვით Luisa Spagnoli-ის მასალების უმაღლეს ხარისხს. ტექნოლოგიური ვისკოზისა და ელასტანის დამატება ქსოვილს უფრო მდგრადს ხდის დაჭმუჭვნის მიმართ და ეხმარება ნაკეთობას შეინარჩუნოს უნაკლო ფორმა მრავალი სეზონის განმავლობაში."
+      },
+      {
+        "q": "შავი ფერი ძალიან კონსერვატიულად გამოიყურება.",
+        "a": "მიაქციეთ ყურადღება ფაქტურების თამაშს: ღრმა შავი ფერი ხავერდის შესრულებაში სინათლის ქვეშ 'ცოცხლდება', ხდება მრავალმხრივი და მდიდრული ფონი ოქროს ან ბრილიანტების აქსესუარებისთვის."
+      },
+      {
+        "q": "მიჭირს წარმოდგენა, კიდევ რასთან შეიძლება ასეთი პიჯაკის ტარება.",
+        "a": "ურჩიეთ გამოიყენონ Strass მსუბუქი აბრეშუმის კაბების ზემოდან ან თუნდაც მუქ ჯინსებთან ერთად. მისი ლაკონიური კროი მომრგვალებული ყელით მას აქცევს საღამოს კოლექციის ერთ-ერთ ყველაზე უნივერსალურ მოდელად."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Թավիշը ինձ համար չափազանց պարտավորեցնող և բարդ է թվում առօրյա հագուստի համար։",
+        "a": "Ցուցադրե՛ք Look 264-ը, որտեղ Strass ժակետը ներդաշնակորեն համադրվում է դասական սպիտակ վերնաշապիկի հետ։ Սա ապացուցում է, որ մոդելը կարող է հանդես գալ որպես նրբագեղ շեշտադրում նույնիսկ առավել զուսպ քաղաքային կերպարներում։"
+      },
+      {
+        "q": "Կարճացված ձևվածքը կարող է տեսողականորեն կարճացնել կազմվածքը։",
+        "a": "Ընդհակառակը, կլորացված ներքևի մասի և regular fit ձևվածքի շնորհիվ Strass ժակետը շեշտադրում է իրանի գիծը։ Բարձր գոտկատեղով տաբատների հետ համադրությամբ, ինչպիսին է Offida, այն տեսողականորեն երկարացնում է ոտքերը։"
+      },
+      {
+        "q": "Վախենում եմ, որ մետաքսե թավիշը շատ քմահաճ է խնամքի հարցում։",
+        "a": "Ընդգծե՛ք Luisa Spagnoli-ի նյութերի բարձրագույն որակը։ Տեխնոլոգիական վիսկոզայի և էլաստանի ավելացումը գործվածքն ավելի կայուն է դարձնում ծալքերի նկատմամբ և օգնում է արտադրանքին պահպանել անթերի ձևը երկար սեզոնների ընթացքում։"
+      },
+      {
+        "q": "Սև գույնը չափազանց պահպանողական է թվում։",
+        "a": "Ուշադրություն դարձրե՛ք հյուսվածքների խաղին. թավշյա կատարմամբ խորը սև գույնը «կենդանանում է» լույսի ներքո՝ դառնալով բազմակողմանի և շքեղ ֆոն ոսկյա կամ բյուրեղյա աքսեսուարների համար։"
+      },
+      {
+        "q": "Ինձ համար դժվար է պատկերացնել, թե էլ ինչի հետ կարելի է կրել այսպիսի ժակետ։",
+        "a": "Խորհո՛ւրդ տվեք Strass-ը կրել թեթև մետաքսե զգեստների վրայից կամ նույնիսկ մուգ ջինսե հագուստի հետ։ Կլոր բացվածքով դրա լակոնիկ ձևվածքը այն դարձնում է երեկոյան հավաքածուի ամենաբազմակողմանի մոդելներից մեկը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Samts man šķiet pārāk uzliekošs un sarežģīts ikdienas valkāšanai.",
+        "a": "Demonstrējiet Look 264, kur Strass žakete harmoniski sader ar klasisku baltu kreklu. Tas pierāda, ka modelis var kalpot kā elegants akcents pat atturīgākos pilsētas tēlos."
+      },
+      {
+        "q": "Saīsināts fasons var vizuāli saīsināt figūru.",
+        "a": "Gluži pretēji, pateicoties noapaļotajai apakšdaļai un regular fit piegriezumam, Strass žakete izceļ vidukļa līniju. Apvienojumā ar augstas jostasvietas biksēm, piemēram, Offida, tā vizuāli pagarina kājas."
+      },
+      {
+        "q": "Baidos, ka zīda samts ir ļoti kaprīzs kopšanā.",
+        "a": "Uzsveriet Luisa Spagnoli materiālu visaugstāko kvalitāti. Tehnoloģiskās viskozes un elastāna pievienošana padara audumu izturīgāku pret burzīšanos un palīdz izstrādājumam saglabāt nevainojamu formu daudzu sezonu garumā."
+      },
+      {
+        "q": "Melna krāsa izskatās pārāk konservatīvi.",
+        "a": "Pievērsiet uzmanību faktūru spēlei: dziļi melnā krāsa samta izpildījumā 'atdzīvojas' gaismā, kļūstot par daudzšķautņainu un greznu fonu aksesuāriem no zelta vai kristāliem."
+      },
+      {
+        "q": "Man ir grūti iedomāties, ar ko vēl valkāt šādu žaketi.",
+        "a": "Iesakiet izmantot Strass virs vieglām zīda kleitām vai pat pārī ar tumšu džinsu audumu. Tā lakoniskais piegriezums ar apaļu izgriezumu padara to par vienu no universālākajiem vakara kolekcijas modeļiem."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Aksomas man atrodo per daug įpareigojantis ir sudėtingas kasdieniam dėvėjimui.",
+        "a": "Pademonstruokite Look 264, kur švarkas Strass harmoningai derinamas su baziniais baltais marškiniais. Tai įrodo, kad modelis gali tapti elegantišku akcentu net ir santūresniuose miesto įvaizdžiuose."
+      },
+      {
+        "q": "Trumpintas fasonas gali vizualiai trumpinti figūrą.",
+        "a": "Priešingai, dėl užapatinio krašto ir regular fit kirpimo, švarkas Strass pabrėžia liemens liniją. Derinant su aukšto liemens kelnėmis, tokiomis kaip Offida, jis vizualiai ilgina kojas."
+      },
+      {
+        "q": "Bijau, kad šilkinis aksomas yra labai kaprizingas priežiūros požiūriu.",
+        "a": "Pabrėžkite aukščiausią Luisa Spagnoli medžiagų kokybę. Technologinio viskozės ir elastano pluošto pridėjimas daro audinį atsparesnį raukšlėms ir padeda gaminiui išlaikyti nepriekaištingą formą daugelį sezonų."
+      },
+      {
+        "q": "Juoda spalva atrodo per daug konservatyviai.",
+        "a": "Atkreipkite dėmesį į faktūrų žaismą: gili juoda spalva aksominiame variante „atgyja“ šviesoje, tapdama daugialypiu ir prabangiu fonu aksesuarams iš aukso ar kristalų."
+      },
+      {
+        "q": "Man sunku įsivaizduoti, su kuo dar derinti tokį švarką.",
+        "a": "Rekomenduokite dėvėti Strass ant lengvų šilkinių suknelių ar net poroje su tamsiu džinsu. Jo lakoniškas kirpimas su apvalia iškirpte daro jį vienu universaliausių vakarinių kolekcijos modelių."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Aksamit wydaje mi się zbyt zobowiązujący i trudny do noszenia na co dzień.",
+        "a": "Zaprezentuj Look 264, w którym żakiet Strass harmonijnie łączy się z bazową białą koszulą. Dowodzi to, że model ten może stanowić elegancki akcent nawet w bardziej stonowanych miejskich stylizacjach."
+      },
+      {
+        "q": "Skrócony fason może optycznie skracać sylwetkę.",
+        "a": "Wręcz przeciwnie, dzięki zaokrąglonemu dołowi i krojowi regular fit, żakiet Strass podkreśla talię. W połączeniu ze spodniami z wysokim stanem, takimi jak Offida, optycznie wydłuża nogi."
+      },
+      {
+        "q": "Obawiam się, że jedwabny aksamit jest bardzo kapryśny w pielęgnacji.",
+        "a": "Podkreśl najwyższą jakość materiałów Luisa Spagnoli. Dodatek zaawansowanej technologicznie wiskozy i elastanu sprawia, że tkanina jest bardziej odporna na zagniecenia i pomaga produktowi zachować nienaganny kształt przez wiele sezonów."
+      },
+      {
+        "q": "Czarny kolor wygląda zbyt konserwatywnie.",
+        "a": "Zwróć uwagę na grę faktur: głęboka czerń w aksamitnym wydaniu 'ożywa' w świetle, stając się wielowymiarowym i luksusowym tłem dla akcesoriów ze złota lub kryształów."
+      },
+      {
+        "q": "Trudno mi sobie wyobrazić, do czego jeszcze nosić taki żakiet.",
+        "a": "Poleć założenie modelu Strass na lekkie jedwabne sukienki lub nawet w parze z ciemnym denimem. Jego lakoniczny krój z okrągłym dekoltem czyni go jednym z najbardziej uniwersalnych modeli kolekcji wieczorowej."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Оксамит здається мені занадто вибагливим і складним для повсякденного носіння.",
+        "a": "Продемонструйте Look 264, де жакет Strass гармонійно поєднується з базовою білою сорочкою. Це доводить, що модель може виступати в ролі елегантного акценту навіть у більш стриманих міських образах."
+      },
+      {
+        "q": "Вкорочений фасон може візуально вкорочувати фігуру.",
+        "a": "Навпаки, завдяки заокругленому низу та посадці regular fit, жакет Strass акцентує лінію талії. У поєднанні зі штанами на високій посадці, такими як Offida, він візуально подовжує ноги."
+      },
+      {
+        "q": "Я боюся, що шовковий оксамит дуже примхливий у догляді.",
+        "a": "Підкресліть найвищу якість матеріалів Luisa Spagnoli. Додавання технологічної віскози та еластану робить тканину стійкішою до заломів і допомагає виробу зберігати бездоганну форму впродовж багатьох сезонів."
+      },
+      {
+        "q": "Чорний колір виглядає занадто консервативно.",
+        "a": "Зверніть увагу на гру фактур: глибокий чорний колір в оксамитовому виконанні 'оживає' при світлі, стаючи багатогранним і розкішним фоном для аксесуарів із золота або кристалів."
+      },
+      {
+        "q": "Мені складно уявити, з чим ще носити такий жакет.",
+        "a": "Порадьте використовувати Strass поверх легких шовкових суконь або навіть у парі з темним денімом. Його лаконічний крій із круглим вирізом робить його однією з найбільш універсальних моделей вечірньої колекції."
+      }
+    ]
+  }
+}

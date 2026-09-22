@@ -1,0 +1,418 @@
+{
+  "id": 353,
+  "name": "Summit",
+  "description": {
+    "en": "The quilted Summit coat from Luisa Spagnoli is a flawless union of functionality and high fashion. Crafted from a high-tech water-repellent fabric, the piece masterfully reimagines the classic trench silhouette for the winter season. The architectural cut is accentuated by a double-breasted closure, an elegant mantellina yoke at the back, and a functional storm flap. Particular status is lent to the piece by a luxurious detachable eco-fur collar, while an integrated belt allows the waistline to be perfectly accentuated, creating a feminine Regular fit silhouette. Composition: 100% polyester.",
+    "ru": "Стеганое пальто Summit от Luisa Spagnoli — это безупречный союз функциональности и высокой моды. Модель, выполненная из высокотехнологичной водоотталкивающей ткани, искусно переосмысливает классический силуэт тренча для зимнего сезона. Архитектурность кроя подчеркнута двубортной застежкой, элегантной кокеткой (mantellina) на спинке и функциональной ветрозащитной планкой. Особую статусность изделию придает роскошный съемный воротник из эко-меха, а интегрированный пояс позволяет идеально акцентировать линию талии, создавая женственный силуэт в стиле regular fit. Состав: 100% полиэстер.",
+    "ar": "يعد المعطف المبطن Summit من Luisa Spagnoli اتحاداً مثالياً بين الوظيفة والأزياء الراقية. الموديل، المصنوع من قماش عالي التقنية طارد للماء، يعيد ببراعة صياغة الصورة الظلية الكلاسيكية لمعطف الترنش للموسم الشتوي. تم التأكيد على هندسية القصة من خلال إغلاق مزدوج الصدر، وكاب أنيق (mantellina) على الظهر، وشريط واقٍ من الرياح وظيفي. تضفي الياقة الفاخرة القابلة للفصل المصنوعة من الفراء الصناعي مكانة خاصة على القطعة، بينما يسمح الحزام المدمج بإبراز خط الخصر بشكل مثالي، مما يخلق صورة ظلية أنثوية بنمط regular fit. التركيب: 100% بوليستر.",
+    "ka": "Luisa Spagnoli-ის ქვილთოვანი პალტო Summit ფუნქციურობისა და მაღალი მოდის უნაკლო ერთობაა. მაღალტექნოლოგიური წყალგაუმტარი ქსოვილისგან შექმნილი მოდელი ოსტატურად გადაიაზრებს კლასიკური ტრენჩის სილუეტს ზამთრის სეზონისთვის. თარგის არქიტექტურულობას ხაზს უსვამს ორბორტიანი შესაკრავი, ზურგზე არსებული ელეგანტური კოკეტი (mantellina) და ქარისგან დამცავი ფუნქციური ფიცარი. ნაკეთობას განსაკუთრებულ სტატუსს სძენს ეკო-ბეწვის მდიდრული მოხსნადი საყელო, ხოლო ინტეგრირებული ქამარი საშუალებას იძლევა იდეალურად გამოკვეთოთ წელის ხაზი, რაც ქმნის ქალურ სილუეტს regular fit სტილში. შემადგენლობა: 100% პოლიესტერი.",
+    "hy": "Luisa Spagnoli-ի Summit թիկնոց-վերարկուն ֆունկցիոնալության և բարձր նորաձևության անթերի միություն է: Բարձրտեխնոլոգիական ջրակայուն գործվածքից պատրաստված այս մոդելը հմտորեն վերաիմաստավորում է տրենչի դասական ուրվագիծը ձմեռային սեզոնի համար: Ձևվածքի ճարտարապետականությունը ընդգծված է կրկնակի կոճկվածքով, մեջքի նրբագեղ լանջապանակով (mantellina) և ֆունկցիոնալ հողմապաշտպան պլանկայով: Արտադրանքին հատուկ ստատուս է հաղորդում էկո-մորթուց պատրաստված շքեղ հանովի օձիքը, իսկ ինտեգրված գոտին թույլ է տալիս կատարելապես ընդգծել գոտկատեղը՝ ստեղծելով կանացի ուրվագիծ regular fit ոճով: Բաղադրությունը՝ 100% պոլիեսթեր:",
+    "lv": "Stepētais mētelis Summit no Luisa Spagnoli ir nevainojama funkcionalitātes un augstās modes savienība. Modelis, kas izgatavots no augsto tehnoloģiju ūdensatgrūdoša auduma, meistarīgi pārinterpretē klasisko trenčkotas siluetu ziemas sezonai. Piegriezuma arhitektoniskumu izceļ divrindu aizdare, eleganta josta (mantellina) uz muguras un funkcionāla vēja aizsardzības līste. Īpašu statusu izstrādājumam piešķir grezna, noņemama eko-kažokādas apkakle, bet integrētā josta ļauj ideāli akcentēt vidukļa līniju, radot sievišķīgu siluetu regular fit stilā. Sastāvs: 100% poliesters.",
+    "lt": "Dygsniuotas paltas Summit iš Luisa Spagnoli – tai nepriekaištingas funkcionalumo ir aukštosios mados derinys. Modelis, pagamintas iš aukštųjų technologijų vandeniui atsparaus audinio, meistriškai interpretuoja klasikinį lietpalčio siluetą žiemos sezonui. Kirpimo architektūriškumą pabrėžia dvieilis užsegimas, elegantiška koketė (mantellina) nugaroje ir funkcionali apsauginė juosta nuo vėjo. Ypatingą statusą gaminiui suteikia prabangi nuimama eko-kailio apykaklė, o integruotas diržas leidžia idealiai pabrėžti liemens liniją, sukuriant moterišką regular fit siluetą. Sudėtis: 100% poliesteris.",
+    "pl": "Pikowany płaszcz Summit od Luisa Spagnoli to doskonałe połączenie funkcjonalności i wielkiej mody. Model, wykonany z zaawansowanej technologicznie tkaniny hydrofobowej, w mistrzowski sposób reinterpretuje klasyczną sylwetkę trencza na sezon zimowy. Architektoniczny krój podkreślony jest dwurzędowym zapięciem, eleganckim karczkiem (mantellina) na plecach oraz funkcjonalną plisą przeciwwiatrową. Szczególną szlachetność nadaje modelowi luksusowy, odpinany kołnierz z ekofuterka, a zintegrowany pasek pozwala idealnie zaakcentować linię talii, tworząc kobiecą sylwetkę w stylu regular fit. Skład: 100% poliester.",
+    "uk": "Стьобане пальто Summit від Luisa Spagnoli — це бездоганний союз функціональності та високої моди. Модель, виконана з високотехнологічної водовідштовхувальної тканини, майстерно переосмислює класичний силует тренчу для зимового сезону. Архітектурність крою підкреслена двобортною застібкою, елегантною кокеткою (mantellina) на спинці та функціональною вітрозахисною планкою. Особливу статусність виробу надає розкішний знімний комір з еко-хутра, а інтегрований пояс дозволяє ідеально акцентувати лінію талії, створюючи жіночний силует у стилі regular fit. Склад: 100% поліестер."
+  },
+  "colors": [
+    {
+      "name": "Cioccolato",
+      "code": "0987",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0fciOmWLSOKx_DqL-UXBYw_1247342274696f42fff21e07_39452345_02821220XX1.jpg"
+    },
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bjr89i15TKOAEm6clqi2Pg_1337518141696f42ff914c67_98886619_02821210XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Образ 'Elegant Noir' (Look 151)",
+        "en": "Look 'Elegant Noir' (Look 151)",
+        "ar": "Look 'Elegant Noir' (Look 151)",
+        "ka": "Look 'Elegant Noir' (Look 151)",
+        "hy": "Look 'Elegant Noir' (Look 151)",
+        "lv": "Look 'Elegant Noir' (Look 151)",
+        "lt": "Look 'Elegant Noir' (Look 151)",
+        "pl": "Look 'Elegant Noir' (Look 151)",
+        "uk": "Look 'Elegant Noir' (Look 151)"
+      },
+      "text": {
+        "ru": "Пальто Summit 0101 в ансамбле с сапогами Ulisside 0101 0038, шапкой-коббако Ricci 0101 и кожаными перчатками Uboldo 0101 0002. Дополнительный акцент — серьги Navoncella.",
+        "en": "Summit 0101 coat in an ensemble with Ulisside 0101 0038 boots, Ricci 0101 hat and Uboldo 0101 0002 leather gloves. Additional accent — Navoncella earrings (Data not available in official sources for URL).",
+        "ar": "Summit 0101 coat in an ensemble with Ulisside 0101 0038 boots, Ricci 0101 hat and Uboldo 0101 0002 leather gloves. Additional accent — Navoncella earrings (Data not available in official sources for URL).",
+        "ka": "Summit 0101 coat in an ensemble with Ulisside 0101 0038 boots, Ricci 0101 hat and Uboldo 0101 0002 leather gloves. Additional accent — Navoncella earrings (Data not available in official sources for URL).",
+        "hy": "Summit 0101 coat in an ensemble with Ulisside 0101 0038 boots, Ricci 0101 hat and Uboldo 0101 0002 leather gloves. Additional accent — Navoncella earrings (Data not available in official sources for URL).",
+        "lv": "Summit 0101 coat in an ensemble with Ulisside 0101 0038 boots, Ricci 0101 hat and Uboldo 0101 0002 leather gloves. Additional accent — Navoncella earrings (Data not available in official sources for URL).",
+        "lt": "Summit 0101 coat in an ensemble with Ulisside 0101 0038 boots, Ricci 0101 hat and Uboldo 0101 0002 leather gloves. Additional accent — Navoncella earrings (Data not available in official sources for URL).",
+        "pl": "Summit 0101 coat in an ensemble with Ulisside 0101 0038 boots, Ricci 0101 hat and Uboldo 0101 0002 leather gloves. Additional accent — Navoncella earrings (Data not available in official sources for URL).",
+        "uk": "Summit 0101 coat in an ensemble with Ulisside 0101 0038 boots, Ricci 0101 hat and Uboldo 0101 0002 leather gloves. Additional accent — Navoncella earrings (Data not available in official sources for URL)."
+      },
+      "items": [
+        {
+          "name": "Summit",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bjr89i15TKOAEm6clqi2Pg_1337518141696f42ff914c67_98886619_02821210XX1.jpg"
+        },
+        {
+          "name": "Ulisside",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+        },
+        {
+          "name": "Ricci",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Oy-RpWBtRVyysdrg5ts6bA_1641766512696f422b416e76_26139061_02801480XX1.jpg"
+        },
+        {
+          "name": "Uboldo",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281022%29.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 'Cioccolato Chic' (Look 172)",
+        "en": "Look 'Cioccolato Chic' (Look 172)",
+        "ar": "Look 'Cioccolato Chic' (Look 172)",
+        "ka": "Look 'Cioccolato Chic' (Look 172)",
+        "hy": "Look 'Cioccolato Chic' (Look 172)",
+        "lv": "Look 'Cioccolato Chic' (Look 172)",
+        "lt": "Look 'Cioccolato Chic' (Look 172)",
+        "pl": "Look 'Cioccolato Chic' (Look 172)",
+        "uk": "Look 'Cioccolato Chic' (Look 172)"
+      },
+      "text": {
+        "ru": "Пальто Summit 0987 в сочетании с ботильонами Uragano A 0986. Акценты: серьги Nagorno 0002 и очки Xariel A 3307 0002.",
+        "en": "Summit 0987 coat in combination with Uragano A 0986 ankle boots. Accents: Nagorno 0002 earrings and Xariel A 3307 0002 glasses.",
+        "ar": "Summit 0987 coat in combination with Uragano A 0986 ankle boots. Accents: Nagorno 0002 earrings and Xariel A 3307 0002 glasses.",
+        "ka": "Summit 0987 coat in combination with Uragano A 0986 ankle boots. Accents: Nagorno 0002 earrings and Xariel A 3307 0002 glasses.",
+        "hy": "Summit 0987 coat in combination with Uragano A 0986 ankle boots. Accents: Nagorno 0002 earrings and Xariel A 3307 0002 glasses.",
+        "lv": "Summit 0987 coat in combination with Uragano A 0986 ankle boots. Accents: Nagorno 0002 earrings and Xariel A 3307 0002 glasses.",
+        "lt": "Summit 0987 coat in combination with Uragano A 0986 ankle boots. Accents: Nagorno 0002 earrings and Xariel A 3307 0002 glasses.",
+        "pl": "Summit 0987 coat in combination with Uragano A 0986 ankle boots. Accents: Nagorno 0002 earrings and Xariel A 3307 0002 glasses.",
+        "uk": "Summit 0987 coat in combination with Uragano A 0986 ankle boots. Accents: Nagorno 0002 earrings and Xariel A 3307 0002 glasses."
+      },
+      "items": [
+        {
+          "name": "Summit",
+          "code": "0987",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0fciOmWLSOKx_DqL-UXBYw_1247342274696f42fff21e07_39452345_02821220XX1.jpg"
+        },
+        {
+          "name": "Uragano A",
+          "code": "0986",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URAGANO_98600000000.jpg"
+        },
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG",
+          "modelId": 198
+        },
+        {
+          "name": "Xariel A",
+          "code": "3307 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-10%20at%2014.20.26%20%282%29.jpeg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Многослойный образ 'Urban Mint' (Look 98)",
+        "en": "Layered look 'Urban Mint' (Look 98)",
+        "ar": "Layered look 'Urban Mint' (Look 98)",
+        "ka": "Layered look 'Urban Mint' (Look 98)",
+        "hy": "Layered look 'Urban Mint' (Look 98)",
+        "lv": "Layered look 'Urban Mint' (Look 98)",
+        "lt": "Layered look 'Urban Mint' (Look 98)",
+        "pl": "Layered look 'Urban Mint' (Look 98)",
+        "uk": "Layered look 'Urban Mint' (Look 98)"
+      },
+      "text": {
+        "ru": "Пальто Summit 0987 поверх пуловеров Mirko 0506 и Manografo 0506 в паре с кожаными брюками Overt 0978 и кепкой Muni 0970.",
+        "en": "Summit 0987 coat over Mirko 0506 and Manografo 0506 pullovers paired with Overt 0978 leather trousers and a Muni 0970 cap.",
+        "ar": "Summit 0987 coat over Mirko 0506 and Manografo 0506 pullovers paired with Overt 0978 leather trousers and a Muni 0970 cap.",
+        "ka": "Summit 0987 coat over Mirko 0506 and Manografo 0506 pullovers paired with Overt 0978 leather trousers and a Muni 0970 cap.",
+        "hy": "Summit 0987 coat over Mirko 0506 and Manografo 0506 pullovers paired with Overt 0978 leather trousers and a Muni 0970 cap.",
+        "lv": "Summit 0987 coat over Mirko 0506 and Manografo 0506 pullovers paired with Overt 0978 leather trousers and a Muni 0970 cap.",
+        "lt": "Summit 0987 coat over Mirko 0506 and Manografo 0506 pullovers paired with Overt 0978 leather trousers and a Muni 0970 cap.",
+        "pl": "Summit 0987 coat over Mirko 0506 and Manografo 0506 pullovers paired with Overt 0978 leather trousers and a Muni 0970 cap.",
+        "uk": "Summit 0987 coat over Mirko 0506 and Manografo 0506 pullovers paired with Overt 0978 leather trousers and a Muni 0970 cap."
+      },
+      "items": [
+        {
+          "name": "Summit",
+          "code": "0987",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0fciOmWLSOKx_DqL-UXBYw_1247342274696f42fff21e07_39452345_02821220XX1.jpg"
+        },
+        {
+          "name": "Mirko",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/R-uxphq9ReyuwnApbCDH8A_68983129696f437694eaf8_94837033_02831160XX1.jpg",
+          "modelId": 180
+        },
+        {
+          "name": "Manografo",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSF_50600000000.jpg",
+          "modelId": 146
+        },
+        {
+          "name": "Overt",
+          "code": "0978",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/aRhuWFmbR-y2VnGMh2DLyQ_818557080696f42ee1851b3_58178703_02820810XX1.jpg"
+        },
+        {
+          "name": "Muni",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/a8acb2c7-9248-46ae-aece-e01b98d4abe6-removebg-preview.png"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Direct the client's attention to the unique '2-in-1' design: the Summit model combines the elegance of a timeless trench with the protection of a winter coat.",
+      "Highlight the value of the details: the detachable fur collar and back yoke allow the piece to be adapted to a wide range of occasions — from business meetings to evening events.",
+      "Focus on the practicality of the technical fabric: it not only reads as high-status, but also offers excellent water-repellent properties, ideal for an active city lifestyle."
+    ],
+    "ru": [
+      "Акцентируйте внимание на уникальном дизайне '2-в-1': модель Summit сочетает в себе элегантность вневременного тренча и защиту зимнего пальто.",
+      "Подчеркните ценность деталей: наличие съемного мехового воротника и кокетки на спинке позволяет адаптировать вещь для самых разных случаев — от деловых встреч до вечерних выходов.",
+      "Сделайте ставку на практичность технологичной ткани: она не только выглядит статусно, но и обладает превосходными водоотталкивающими свойствами, что идеально для активной городской жизни."
+    ],
+    "ar": [
+      "أكدي على التصميم الفريد '2 في 1': يجمع موديل Summit بين أناقة الترانش الخالدة وحماية المعطف الشتوي.",
+      "سلطي الضوء على قيمة التفاصيل؛ فوجود الياقة الفرو القابلة للإزالة والقصة الخلفية يسمحان بتكييف القطعة لمناسبات متنوعة، بدءاً من اجتماعات العمل وصولاً إلى السهرات.",
+      "ركزي على طابع العملية في القماش التكنولوجي: فهو لا يمنح مظهراً فخماً فحسب، بل يتميز بخصائص فائقة طاردة للماء، مما يجعله مثالياً لحياة المدينة النشطة."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება უნიკალურ '2-in-1' დიზაინზე: Summit მოდელი აერთიანებს დროგარეშე ტრენჩის ელეგანტურობასა და ზამთრის პალტოს დაცვას.",
+      "ხაზი გაუსვით დეტალების ღირებულებას: მოსახსნელი ბეწვის საყელო და ზურგზე არსებული კოკეტი საშუალებას იძლევა, მორგებულ იქნას ნივთი ყველაზე განსხვავებული შემთხვევებისთვის — საქმიანი შეხვედრებიდან დაწყებული საღამოს გამოსვლებით დამთავრებული.",
+      "გააკეთეთ აქცენტი ტექნოლოგიური ქსოვილის პრაქტიკულობაზე: ის არა მხოლოდ გამოიყურება სტატუსურად, არამედ გააჩნია წყალგამძლეობის საუკეთესო თვისებები, რაც იდეალურია აქტიური ქალაქური ცხოვრებისთვის."
+    ],
+    "hy": [
+      "Շեշտադրեք «2-ը 1-ում» եզակի դիզայնը. Summit մոդելը համադրում է հավերժական տրենչի էլեգանտությունը և ձմեռային վերարկուի պաշտպանվածությունը։",
+      "Ընդգծեք դետալների արժեքը. հանվող մորթե օձիքի և մեջքի հատվածում կոկետկայի առկայությունը թույլ է տալիս հարմարեցնել իրը տարբեր առիթների՝ գործնական հանդիպումներից մինչև երեկոյան ելույթներ։",
+      "Խաղադրույք կատարեք տեխնոլոգիական գործվածքի գործնականության վրա. այն ոչ միայն կարգավիճակային տեսք ունի, այլև ունի ջրակայուն գերազանց հատկություններ, ինչը կատարյալ է ակտիվ քաղաքային կյանքի համար։"
+    ],
+    "lv": [
+      "Akcentējiet uzmanību uz unikālo '2-in-1' dizainu: Summit modelis apvieno mūžīga tranča eleganci un ziemas mēteļa aizsardzību.",
+      "Uzsveriet detaļu vērtību: noņemamā kažokādas apkakle un plecu daļas piegriezums ļauj pielāgot apģērbu visdažādākajām situācijām — no biznesa tikšanās reizēm līdz vakara izgājieniem.",
+      "Lieciet likmi uz tehnoloģiskā auduma praktiskumu: tas ne tikai izskatās statusa pilns, bet tam piemīt arī lieliskas ūdeni atgrūdošas īpašības, kas ir ideāli piemērotas aktīvai pilsētas dzīvei."
+    ],
+    "lt": [
+      "Atkreipkite dėmesį į unikalų „2-viename“ dizainą: Summit modelis sujungia nesenstančio stiliaus trenčo eleganciją ir žieminio palto apsaugą.",
+      "Pabrėžkite detalių vertę: nuimama kailinė apykaklė ir nugaros koketė leidžia pritaikyti drabužį įvairiausioms progoms — nuo verslo susitikimų iki vakarinių renginių.",
+      "Akcentuokite technologinio audinio praktiškumą: jis ne tik atrodo prabangiai, bet ir pasižymi puikiomis drėgmei atspariomis savybėmis, kas idealiai tinka aktyviam miesto gyvenimui."
+    ],
+    "pl": [
+      "Połóż nacisk na unikalny design '2-w-1': model Summit łączy elegancję ponadczasowego trencza z ochroną zimowego płaszcza.",
+      "Podkreśl wartość detali: obecność odpinanego futrzanego kołnierza oraz karczka na plecach pozwala dostosować produkt do różnych okazji — od spotkań biznesowych po wieczorne wyjścia.",
+      "Postaw na praktyczność technologicznej tkaniny: nie tylko wygląda prestiżowo, ale także posiada doskonałe właściwości hydrofobowe, co jest idealne dla aktywnego miejskiego życia."
+    ],
+    "uk": [
+      "Акцентуйте увагу на унікальному дизайні '2-в-1': модель Summit поєднує в собі елегантність позачасового тренчу та захист зимового пальта.",
+      "Підкресліть цінність деталей: наявність знімного хутряного коміра та кокетки на спинці дозволяє адаптувати річ для найрізноманітніших випадків — від ділових зустрічей до вечірніх виходів.",
+      "Зробіть ставку на практичність технологічної тканини: вона не тільки виглядає статусно, а й має чудові водовідштовхувальні властивості, що ідеально для активного міського життя."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "This coat is made of polyester; I prefer natural wool.",
+        "a": "Clarify that this is a next-generation, high-tech material. It offers a noble matte sheen and superior wind- and moisture-resistant properties that wool cloth cannot match."
+      },
+      {
+        "q": "I feel the quilted cut will visually add volume.",
+        "a": "Point out the integrated-belt construction. It clearly structures the silhouette and accentuates the waist, preserving a slender figure."
+      },
+      {
+        "q": "The double-breasted closure and epaulettes look too formal.",
+        "a": "On the contrary, these details evoke an aristocratic »˜heritage ' style. Showcase Look 98, where Summit is paired with vibrant knitwear, creating a relaxed, »˜luxury casual ' look."
+      },
+      {
+        "q": "Will this style be warm enough for real frost?",
+        "a": "The Summit coat is fitted with modern insulation and finished with an eco-fur collar, which, combined with the dense fabric, provides outstanding thermal protection."
+      },
+      {
+        "q": "Shade 0987 (Cioccolato) may be difficult to pair.",
+        "a": "This is one of the season's most coveted shades. It pairs beautifully with both classic black and the soft mint or pastel tones featured in the Luisa Spagnoli knitwear collection."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Это пальто из полиэстера, я предпочитаю натуральную шерсть.",
+        "a": "Уточните, что это высокотехнологичный материал нового поколения. Он обладает матовым благородным блеском и превосходными защитными свойствами от ветра и влаги, которые недоступны шерстяному сукну."
+      },
+      {
+        "q": "Мне кажется, что стеганый крой будет визуально добавлять объема.",
+        "a": "Обратите внимание на конструкцию с интегрированным поясом. Она позволяет четко структурировать силуэт и подчеркнуть талию, сохраняя стройность фигуры."
+      },
+      {
+        "q": "Двубортная застежка и погоны выглядят слишком официально.",
+        "a": "Напротив, эти детали отсылают к аристократичному стилю 'heritage'. Продемонстрируйте Look 98, где Summit сочетается с ярким трикотажем, создавая расслабленный образ в стиле 'luxury casual'."
+      },
+      {
+        "q": "Будет ли эта модель достаточно теплой для морозов?",
+        "a": "Пальто Summit оснащено современным утеплителем и дополнено воротником из эко-меха, что в сочетании с плотной тканью обеспечивает превосходную термоизоляцию."
+      },
+      {
+        "q": "Цвет 0987 (Cioccolato) может быть сложным для сочетания.",
+        "a": "Это один из самых статусных оттенков сезона. Он идеально гармонирует как с классическим черным, так и с нежными мятными или пастельными тонами, представленными в коллекции трикотажа Luisa Spagnoli."
+      }
+    ],
+    "ar": [
+      {
+        "q": "البوليت",
+        "a": "(Epaulettes) في إضفاء لمسة أريستوقراطية مستوحاة من أسلوب."
+      },
+      {
+        "q": "التراث الفاخر",
+        "a": "(Heritage)؛ إذ يمكن تنسيق معطف."
+      },
+      {
+        "q": "ساميت",
+        "a": "(Summit) مع القطع المحبوكة ذات الألوان المشرقة، تماماً كما في إطلالة Look 98، لابتكار مظهر مفعم بالاسترخاء بأسلوب."
+      },
+      {
+        "q": "الأناقة اليومية الفاخرة",
+        "a": "(Luxury casual). ولضمان الدفء في الأيام الأكثر برودة، زُوِّد المعطف بعازل حراري معاصر وياقة من الفرو الاصطناعي الفاخر ليضمن عزلاً حرارياً مثالياً. ويُعد اللون البني الشوكولاتة (0987 Cioccolato) من أكثر النغمات اللونية تعبيراً عن المكانة الرفيعة هذا الموسم؛ إذ يتناغم ببراعة مطلقة سواء مع الأسود الكلاسيكي أو مع الدرجات الناعمة كالنعناعي والألوان الباستيلية الراقية في تشكيلة المنسوجات المحبوكة لعلامة لويزا سبانيولي (Luisa Spagnoli). Spagnoli."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ეს პოლიესტერის პალტოა, მე ნატურალური მატყლი მირჩევნია.",
+        "a": "დააზუსტეთ, რომ ეს არის ახალი თაობის მაღალტექნოლოგიური მასალა. მას აქვს მქრქალი კეთილშობილური ბზინვარება და ქარისა და ნესტისგან დაცვის შესანიშნავი თვისებები, რაც მიუწვდომელია შალის ქსოვილისთვის."
+      },
+      {
+        "q": "მეჩვენება, რომ ნაკერებიანი კროი ვიზუალურად დაამატებს მოცულობას.",
+        "a": "მიაქციეთ ყურადღება კონსტრუქციას ინტეგრირებული ქამრით. ის საშუალებას იძლევა მკაფიოდ დავაპროექტოთ სილუეტი და ხაზი გავუსვათ წელს, შევინარჩუნოთ ფიგურის სიგამხდრე."
+      },
+      {
+        "q": "ორბორტიანი შესაკრავი და მხრის სამხრეები ძალიან ოფიციალურად გამოიყურება.",
+        "a": "პირიქით, ეს დეტალები აგზავნის არისტოკრატულ 'heritage' სტილთან. წარმოაჩინეთ Look 98, სადაც Summit კომბინირებულია კაშკაშა ტრიკოტაჟთან, რაც ქმნის მოდუნებულ იმიჯს 'luxury casual' სტილში."
+      },
+      {
+        "q": "იქნება თუ არა ეს მოდელი საკმარისად თბილი ყინვებისთვის?",
+        "a": "Summit-ის პალტო აღჭურვილია თანამედროვე გამათბობლით და დამატებულია ეკო-ბეწვის საყელოთი, რაც მკვრივ ქსოვილთან ერთად უზრუნველყოფს შესანიშნავ თბოიზოლაციას."
+      },
+      {
+        "q": "ფერი 0987 (Cioccolato) შეიძლება რთული იყოს შეხამებისთვის.",
+        "a": "ეს სეზონის ერთ-ერთი ყველაზე სტატუსური ტონია. ის იდეალურად ჰარმონიზდება როგორც კლასიკურ შავთან, ისე ნაზ მენთოლისფერ ან პასტელურ ტონებთან, რომლებიც წარმოდგენილია Luisa Spagnoli-ის ტრიკოტაჟის კოლექციაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Սա պոլիեսթերից վերարկու է, ես նախընտրում եմ բնական բուրդ։",
+        "a": "Ճշտե՛ք, որ սա նոր սերնդի բարձր տեխնոլոգիական նյութ է։ Այն օժտված է փայլատ ազնվական փայլով և քամուց ու խոնավությունից պաշտպանության գերազանց հատկություններով, որոնք հասանելի չեն բրդյա կտորին։"
+      },
+      {
+        "q": "Ինձ թվում է, որ դակված ձևվածքը տեսողականորեն ծավալ կավելացնի։",
+        "a": "Ուշադրություն դարձրե՛ք ինտեգրված գոտիով կոնստրուկցիային։ Այն թույլ է տալիս հստակ կառուցվածքավորել ուրվագիծը և ընդգծել իրանը՝ պահպանելով կազմվածքի սլացիկությունը։"
+      },
+      {
+        "q": "Երկկողմանի կոճկումը և ուսադիրները չափազանց պաշտոնական են թվում։",
+        "a": "Ընդհակառակը, այս մանրամասները հղում են «heritage» արիստոկրատական ոճին։ Ցուցադրե՛ք Look 98-ը, որտեղ Summit-ը համադրվում է վառ տրիկոտաժի հետ՝ ստեղծելով թեթև կերպար «luxury casual» ոճով։"
+      },
+      {
+        "q": "Արդյո՞ք այս մոդելը բավական տաք կլինի ցրտերի համար։",
+        "a": "Summit վերարկուն հագեցած է ժամանակակից ջերմամեկուսիչով և լրացված է էկո-մորթե օձիքով, ինչը խիտ գործվածքի հետ համադրությամբ ապահովում է գերազանց ջերմամեկուսացում։"
+      },
+      {
+        "q": "Գույն 0987 (Cioccolato)-ն կարող է դժվար լինել համադրելու համար։",
+        "a": "Սա սեզոնի ամենաստատուսային երանգներից մեկն է։ Այն կատարյալ ներդաշնակվում է ինչպես դասական սևի, այնպես էլ Luisa Spagnoli-ի տրիկոտաժի հավաքածուում ներկայացված նուրբ անանուխային կամ պաստելային երանգների հետ։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Tas ir poliestera mētelis, es dodu priekšroku dabīgai vilnai.",
+        "a": "Precizējiet, ka tas ir augsto tehnoloģiju materiāls no jaunās paaudzes. Tam piemīt matēts cēls spīdums un izcilas aizsargājošās īpašības pret vēju un mitrumu, kas nav pieejamas vilnas audumam."
+      },
+      {
+        "q": "Man šķiet, ka stepēts piegriezums vizuāli piešķirs apjomu.",
+        "a": "Pievērsiet uzmanību konstrukcijai ar integrētu jostu. Tā ļauj skaidri strukturēt siluetu un izcelt vidukli, saglabājot figūras slaidumu."
+      },
+      {
+        "q": "Divrindu aizdare un uzpleči izskatās pārāk oficiāli.",
+        "a": "Gluži pretēji, šīs detaļas atsaucas uz aristokrātisko 'heritage' stilu. Demonstrējiet Look 98, kur Summit sader ar košu trikotāžu, radot atbrīvotu tēlu 'luxury casual' stilā."
+      },
+      {
+        "q": "Vai šis modelis būs pietiekami silts salam?",
+        "a": "Summit mētelis ir aprīkots ar modernu siltinātāju un papildināts ar ekomežā apkakli, kas kombinācijā ar blīvu audumu nodrošina izcilu termoizolāciju."
+      },
+      {
+        "q": "Krāsa 0987 (Cioccolato) var būt sarežģīta kombinēšanai.",
+        "a": "Šis ir viens no sezonas statusiskākajiem toņiem. Tas ideāli harmonē gan ar klasisko melno, gan ar maigiem piparmētru vai pasteļtoņiem, kas prezentēti Luisa Spagnoli trikotāžas kolekcijā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Tai poliesterio paltas, aš pirmenybę teikiu natūraliai vilnai.",
+        "a": "Patikslinkite, kad tai aukštųjų technologijų naujos kartos medžiaga. Ji pasižymi matiniu kilniu spindesiu ir puikiomis apsauginėmis savybėmis nuo vėjo bei drėgmės, kurių neturi vilnonis audinys."
+      },
+      {
+        "q": "Man atrodo, kad dygsniuotas kirpimas vizualiai pridės apimties.",
+        "a": "Atkreipkite dėmesį į konstrukciją su integruotu diržu. Jis leidžia aiškiai struktūrizuoti siluetą ir pabrėžti liemenį, išsaugant figūros lieknumą."
+      },
+      {
+        "q": "Dvigubas užsegimas ir antpečiai atrodo per daug oficialiai.",
+        "a": "Priešingai, šios detalės atspindi aristokratišką „heritage“ stilių. Pademonstruokite Look 98, kur Summit derinamas su ryškiu trikotažu, sukuriant atsipalaidavusį „luxury casual“ stiliaus įvaizdį."
+      },
+      {
+        "q": "Ar šis modelis bus pakankamai šiltas per šalčius?",
+        "a": "Paltas Summit turi modernų apšiltinimą ir yra papildytas ekologiško kailio apykakle, kas kartu su tankiu audiniu užtikrina puikią termoizoliaciją."
+      },
+      {
+        "q": "Spalva 0987 (Cioccolato) gali būti sudėtinga derinti.",
+        "a": "Tai vienas statusiškiausių sezono atspalvių. Jis idealiai dera tiek su klasikine juoda, tiek su švelniomis mėtų ar pastelinėmis spalvomis, pristatomomis Luisa Spagnoli trikotažo kolekcijoje."
+      }
+    ],
+    "pl": [
+      {
+        "q": "To płaszcz z poliestru, preferuję naturalną wełnę.",
+        "a": "Wyjaśnij, że jest to zaawansowany technologicznie materiał nowej generacji. Posiada on matowy, szlachetny połysk oraz doskonałe właściwości ochronne przed wiatrem i wilgocią, których nie oferuje wełniane sukno."
+      },
+      {
+        "q": "Wydaje mi się, że pikowany krój optycznie doda objętości.",
+        "a": "Zwróć uwagę na konstrukcję ze zintegrowanym paskiem. Pozwala ona precyzyjnie wymodelować sylwetkę i podkreślić talię, zachowując smukłość figury."
+      },
+      {
+        "q": "Dwurzędowe zapięcie i pagony wyglądają zbyt oficjalnie.",
+        "a": "Wręcz przeciwnie, detale te nawiązują do arystokratycznego stylu 'heritage'. Zaprezentuj Look 98, gdzie model Summit łączy się z wyrazistą dzianiną, tworząc swobodny look w stylu 'luxury casual'."
+      },
+      {
+        "q": "Czy ten model będzie wystarczająco ciepły na mrozy?",
+        "a": "Płaszcz Summit wyposażony jest w nowoczesne ocieplenie i wykończony kołnierzem z ekofuterka, co w połączeniu z gęstą tkaniną zapewnia doskonałą termoizolację."
+      },
+      {
+        "q": "Kolor 0987 (Cioccolato) może być trudny do łączenia.",
+        "a": "To jeden z najbardziej prestiżowych odcieni sezonu. Idealnie harmonizuje zarówno z klasyczną czernią, jak i z delikatnymi miętowymi lub pastelowymi tonami, prezentowanymi w kolekcji dzianin Luisa Spagnoli."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Це пальто з поліестеру, я віддаю перевагу натуральній вовні.",
+        "a": "Уточніть, що це високотехнологічний матеріал нового покоління. Він має матовий благородний блиск і чудові захисні властивості від вітру та вологи, які недоступні вовняному сукну."
+      },
+      {
+        "q": "Мені здається, що стьобаний крій буде візуально додавати об'єму.",
+        "a": "Зверніть увагу на конструкцію з інтегрованим поясом. Вона дозволяє чітко структурувати силует і підкреслити талію, зберігаючи стрункість фігури."
+      },
+      {
+        "q": "Двобортна застібка та погони виглядають занадто офіційно.",
+        "a": "Навпаки, ці деталі відсилають до аристократичного стилю 'heritage'. Продемонструйте Look 98, де Summit поєднується з яскравим трикотажем, створюючи розслаблений образ у стилі 'luxury casual'."
+      },
+      {
+        "q": "Чи буде ця модель достатньо теплою для морозів?",
+        "a": "Пальто Summit оснащене сучасним утеплювачем і доповнене коміром з екохутра, що в поєднанні з щільною тканиною забезпечує чудову термоізоляцію."
+      },
+      {
+        "q": "Колір 0987 (Cioccolato) може бути складним для поєднання.",
+        "a": "Це один із найстатусніших відтінків сезону. Він ідеально гармоніює як із класичним чорним, так і з ніжними м'ятними або пастельними тонами, представленими в колекції трикотажу Luisa Spagnoli."
+      }
+    ]
+  }
+}

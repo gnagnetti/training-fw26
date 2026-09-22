@@ -1,0 +1,322 @@
+{
+  "id": 79,
+  "name": "Gotica",
+  "description": {
+    "en": "An aristocratic chemisier-style midi dress, embodying the timeless elegance of Luisa Spagnoli. Crafted from soft wool flannel and completed with a luxurious detachable collar in contrasting lace, secured with delicate buttons. A fitted bodice and godet skirt create a feminine, flowing silhouette, while full elbow-length sleeves with high cuffs add runway-worthy chic to the look. The finishing touch is buttons bearing a raised gold logo, underscoring the exclusivity of the piece.",
+    "ru": "Аристократичное платье-миди в стиле шемизье, воплощающее вневременную элегантность Luisa Spagnoli. Модель выполнена из мягкой шерстяной фланели и дополнена роскошным съемным воротничком из контрастного кружева, который фиксируется деликатными пуговицами. Приталенный лиф и юбка-годе создают женственный, летящий силуэт, а пышные рукава до локтя с высокими манжетами добавляют образу подиумного шика. Финальный штрих — пуговицы с рельефным золотым логотипом, подчеркивающие эксклюзивность изделия.",
+    "ar": "فستان متوسط الطول (ميدي) بنمط القميص الأرستقراطي، يجسد الأناقة الخالدة لعلامة Luisa Spagnoli. صُمم الموديل من الفانيلا الصوفية الناعمة ومزين بياقة فاخرة قابلة للفصل من الدانتيل المتباين، والتي تثبت بأزرار دقيقة. يخلق الصدر المحدد للخصر وتنورة الجوديه صورة ظلية أنثوية وانسيابية، بينما تضيف الأكمام المنفوخة التي تصل إلى الكوع مع أساور عريضة لمسة من فخامة منصات العرض. اللمسة النهائية هي أزرار تحمل شعاراً ذهبياً بارزاً، مما يؤكد على تفرد القطعة.",
+    "ka": "არისტოკრატული მიდი-კაბა შემიზიეს სტილში, რომელიც განასახიერებს Luisa Spagnoli-ს დროზე აღმატებულ ელეგანტურობას. მოდელი შესრულებულია რბილი მატყლის ფლანელისგან და დამატებულია კონტრასტული მაქმანის მდიდრული მოსახსნელი საყელოთი, რომელიც ფიქსირდება დელიკატური ღილებით. ტანზე გამოყვანილი ტანი და გოდეს ქვედაბოლო ქმნის ქალურ, ჰაეროვან სილუეტს, ხოლო იდაყვამდე ფუმფულა სახელოები მაღალი მანჟეტებით სახეს პოდიუმურ შიკს მატებს. ფინალური შტრიხი — რელიეფური ოქროსფერი ლოგოიანი ღილები, რომლებიც ხაზს უსვამს ნაკეთობის ექსკლუზიურობას.",
+    "hy": "Շեմիզե ոճի արիստոկրատական միդի-զգեստ՝ Luisa Spagnoli-ի անժամանակ նրբագեղության մարմնացումը: Մոդելը պատրաստված է փափուկ բրդյա ֆլանելից և համալրված է հակադրվող ժանյակից պատրաստված շքեղ հանովի օձիքով, որը ամրացվում է նուրբ կոճակներով: Մարմնին գրկող վերնամասը և գոդե կիսաշրջազգեստը ստեղծում են կանացի, թեթև ուրվագիծ, իսկ մինչև արմունկը հասնող փքուն թևերը՝ բարձր մանժետներով, կերպարին հաղորդում են պոդիումային շքեղություն: Վերջնական շտրիխը՝ ռելիեֆային ոսկեգույն տարբերանշանով կոճակներն են, որոնք ընդգծում են հագուստի բացառիկությունը:",
+    "lv": "Aristokrātiska midi kleita šemīzjera stilā, kas iemieso Luisa Spagnoli mūžīgo eleganci. Modelis ir izgatavots no mīkstas vilnas flaneļa un papildināts ar greznu, noņemamu kontrastējošu mežģīņu apkakli, kas fiksējas ar delikātām pogām. Piegulošā augšdaļa un godē svārki rada sievišķīgu, lidojošu siluetu, bet kuplās piedurknes līdz elkonim ar augstām manšetēm piešķir tēlam modes skates šiku. Noslēdzošais akcents — pogas ar reljefu zelta logotipu, kas uzsver izstrādājuma ekskluzivitāti.",
+    "lt": "Aristokratiška midi suknelė-marškiniai, įkūnijanti nesenstančią Luisa Spagnoli eleganciją. Modelis pagamintas iš minkštos vilnos flanelės ir papildytas prabangia nuimama kontrastingų nėrinių apykakle, kuri tvirtinama subtiliomis sagomis. Prigludęs viršus ir platėjantis sijonas sukuria moterišką, sklandų siluetą, o pūstos alkūnę siekiančios rankovės su aukštais rankogaliais suteikia įvaizdžiui podiumo prašmatnumo. Paskutinis akcentas – sagos su reljefiniu auksiniu logotipu, pabrėžiančios gaminio išskirtinumą.",
+    "pl": "Arystokratyczna sukienka midi w stylu szmizjerki, ucieleśniająca ponadczasową elegancję Luisa Spagnoli. Model wykonany z miękkiej wełnianej flaneli, uzupełniony luksusowym, odpinanym kołnierzykiem z kontrastowej koronki, mocowanym na delikatne guziki. Dopasowany gorset i spódnica typu godet tworzą kobiecą, zwiewną sylwetkę, a bufiaste rękawy do łokcia z wysokimi mankietami dodają całości wybiegowego szyku. Wykończenie stanowią guziki z wypukłym złotym logo, podkreślające ekskluzywny charakter modelu.",
+    "uk": "Аристократична сукня-міді в стилі шемізьє, що втілює позачасову елегантність Luisa Spagnoli. Модель виконана з м'якої вовняної фланелі та доповнена розкішним знімним комірцем із контрастного мережива, який фіксується делікатними ґудзиками. Приталений ліф і спідниця-годе створюють жіночний, летячий силует, а пишні рукави до ліктя з високими манжетами додають образу подіумного шику. Фінальний штрих — ґудзики з рельєфним золотим логотипом, що підкреслюють ексклюзивність виробу."
+  },
+  "colors": [
+    {
+      "name": "Grigio Panna",
+      "code": "1034 0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/gotica.PNG"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Образ 1 (Total Look)",
+        "en": "Look 1 (Total Look)",
+        "ar": "Look 1 (Total Look)",
+        "ka": "Look 1 (Total Look)",
+        "hy": "Look 1 (Total Look)",
+        "lv": "Look 1 (Total Look)",
+        "lt": "Look 1 (Total Look)",
+        "pl": "Look 1 (Total Look)",
+        "uk": "Look 1 (Total Look)"
+      },
+      "text": {
+        "ru": "Платье Gotica 1034 0202 в сочетании с серьгами Neanide 0002, ремнем Danielina 0101 0002, туфлями Uranio A 0101 и сумкой Ls1928p A 0101 0038.",
+        "en": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "ar": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "ka": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "hy": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "lv": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "lt": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "pl": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "uk": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag."
+      },
+      "items": [
+        {
+          "name": "Gotica",
+          "code": "1034 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/gotica.PNG"
+        },
+        {
+          "name": "Neanide",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1605403396691c57d8aee920_21613301_02800170XX1.jpg"
+        },
+        {
+          "name": "Danielina",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JBvHdpa7T2qnDYCOgBfL7w_1217484086696f421316a308_68387590_02800480XX1.jpg"
+        },
+        {
+          "name": "Uranio A",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_10100000000.jpg"
+        },
+        {
+          "name": "Ls1928p A",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 1 (Total Look)",
+        "en": "Look 1 (Total Look)",
+        "ar": "Look 1 (Total Look)",
+        "ka": "Look 1 (Total Look)",
+        "hy": "Look 1 (Total Look)",
+        "lv": "Look 1 (Total Look)",
+        "lt": "Look 1 (Total Look)",
+        "pl": "Look 1 (Total Look)",
+        "uk": "Look 1 (Total Look)"
+      },
+      "text": {
+        "ru": "Платье Gotica 1034 0202 в сочетании с серьгами Neanide 0002, ремнем Danielina 0101 0002, туфлями Uranio A 0101 и сумкой Ls1928p A 0101 0038.",
+        "en": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "ar": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "ka": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "hy": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "lv": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "lt": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "pl": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag.",
+        "uk": "Gotica 1034 0202 dress paired with Neanide 0002 earrings, Danielina 0101 0002 belt, Uranio A 0101 pumps and Ls1928p A 0101 0038 bag."
+      },
+      "items": [
+        {
+          "name": "Gotica",
+          "code": "1034 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/gotica.PNG"
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_10100020000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw attention to the detachable lace collar: it allows the dress to transform from strict professional attire into a romantic evening look within seconds.",
+      "Present the client with the godet cut as the ideal solution for a slender silhouette and an effortless walk.",
+      "Emphasize the quality of the flannel: the natural wool content guarantees warmth and comfort in the cooler season, while the elastane ensures an impeccable fit."
+    ],
+    "ru": [
+      "Акцентируйте внимание на съемном кружевном воротничке: это позволяет трансформировать платье из строгого делового в романтичный вечерний вариант за несколько секунд.",
+      "Представьте клиенту крой «годе» как идеальное решение для создания стройного силуэта и легкой походки.",
+      "Сделайте ставку на качество фланели: содержание натуральной шерсти гарантирует тепло и комфорт в прохладный сезон, а эластан — безупречную посадку."
+    ],
+    "ar": [
+      "سلطي الضوء على الياقة الدانتيل القابلة للإزالة: فهي تتيح تحويل الفستان من إطلالة عملية رسمية إلى خيار مسائي رومانسي في ثوانٍ معدودة.",
+      "قدمي للعميل قصة الـ \"غوديه\" كحل مثالي للحصول على قوام ممشوق وحركة خفيفة.",
+      "ركزي على جودة الفلانيل: حيث يضمن محتوى الصوف الطبيعي الدفء والراحة في الموسم البارد، بينما يمنح الإيلاستين قصة لا تشوبها شائبة."
+    ],
+    "ka": [
+      "ყურადღება გაამახვილეთ მოსახსნელ მაქმანებიან საყელოზე: ეს საშუალებას გაძლევთ კაბა მკაცრი საქმიანი ვარიანტიდან რომანტიკულ საღამოს ვარიანტად გარდაქმნათ რამდენიმე წამში.",
+      "წარუდგინეთ კლიენტს „გოდეს“ ჭრილი, როგორც იდეალური გადაწყვეტა მოხდენილი სილუეტისა და მსუბუქი სიარულის მანერის შესაქმნელად.",
+      "ფსონი გააკეთეთ ფლანელის ხარისხზე: ბუნებრივი მატყლის შემცველობა გარანტიას იძლევა სითბოსა და კომფორტის გრილ სეზონში, ხოლო ელასტანი — უნაკლო მორგების."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք հանվող ժանյակավոր օձիքի վրա. այն թույլ է տալիս վայրկյանների ընթացքում զգեստը խիստ գործնականից վերածել ռոմանտիկ երեկոյան տարբերակի։",
+      "Հաճախորդին ներկայացրեք «գոդե» կտրվածքը՝ որպես սլացիկ սիլուետ և թեթև քայլվածք ստանալու իդեալական լուծում։",
+      "Խաղադրույք կատարեք ֆլանելի որակի վրա. բնական բրդի առկայությունը երաշխավորում է ջերմություն և հարմարավետություն սառը եղանակին, իսկ էլաստանը՝ անթերի նստվածք։"
+    ],
+    "lv": [
+      "Akcentējiet uzmanību uz noņemamo mežģīņu apkaklīti: tas ļauj dažu sekunžu laikā transformēt kleitu no stingra lietišķa stila uz romantisku vakara variantu.",
+      "Prezentējiet klientam „godē” piegriezumu kā ideālu risinājumu slaidāka silueta izveidei un vieglai gaitai.",
+      "Lieciet likmi uz flaneļa kvalitāti: dabīgās vilnas sastāvs garantē siltumu un komfortu vēsajā sezonā, savukārt elastāns nodrošina nevainojamu piegulumu."
+    ],
+    "lt": [
+      "Akcentuokite nuimamą nėriniuotą apykaklę: tai leidžia per kelias sekundes transformuoti suknelę iš griežtos dalykinės į romantišką vakarinį variantą.",
+      "Pristatykite klientui „godé“ kirpimą kaip idealų sprendimą lieknam siluetui ir lengvai eisenai sukurti.",
+      "Statykite ant flanelės kokybės: natūralios vilnos sudėtis garantuoja šilumą ir komfortą vėsiuoju sezonu, o elastanas — nepriekaištingą prigludimą."
+    ],
+    "pl": [
+      "Skup uwagę na odpinanym koronkowym kołnierzyku: pozwala to w kilka sekund przekształcić sukienkę ze surowego biznesowego modelu w romantyczną wersję wieczorową.",
+      "Przedstaw klientce krój „godet” jako idealne rozwiązanie do stworzenia smukłej sylwetki i lekkości chodu.",
+      "Postaw na jakość flaneli: zawartość naturalnej wełny gwarantuje ciepło i komfort w chłodniejszym sezonie, a elastan — nienaganne dopasowanie."
+    ],
+    "uk": [
+      "Акцентуйте увагу на знімному мереживному комірці: це дозволяє трансформувати сукню зі суворої ділової у романтичний вечірній варіант за кілька секунд.",
+      "Представте клієнту крій «годе» як ідеальне рішення для створення стрункого силуету та легкої ходи.",
+      "Зробіть ставку на якість фланелі: вміст натуральної вовни гарантує тепло та комфорт у прохолодний сезон, а еластан — бездоганну посадку."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The lace collar seems too high-maintenance.",
+        "a": "The collar is detachable, which greatly simplifies the piece's care and allows it to be washed separately, keeping the look fresh."
+      },
+      {
+        "q": "Wool flannel may feel stiff.",
+        "a": "The premium wool used, combined with polyester and elastane, makes the fabric soft, supple, and resistant to creasing throughout the day."
+      },
+      {
+        "q": "The design looks too traditional.",
+        "a": "Contrasting buttons with the gold logo and a fashion-forward skirt cut lend this classic piece a modern, luxury character in line with global trends."
+      },
+      {
+        "q": "A below-the-knee length calls only for a high heel.",
+        "a": "Thanks to its vertical structural lines and godet shape, this dress looks equally beautiful with classic pumps or our stylish Ulisside boots."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Кружевной воротничок кажется слишком марким.",
+        "a": "Воротничок является съемным, что значительно упрощает уход за изделием и позволяет стирать его отдельно, сохраняя свежесть образа."
+      },
+      {
+        "q": "Шерстяная фланель может быть жесткой.",
+        "a": "Используемая высококачественная шерсть в сочетании с полиэстером и эластаном делает ткань мягкой, пластичной и устойчивой к сминанию в течение дня."
+      },
+      {
+        "q": "Дизайн выглядит слишком традиционно.",
+        "a": "Контрастные пуговицы с золотым логотипом и актуальный крой юбки придают этой классической модели современный люксовый характер, соответствующий мировым трендам."
+      },
+      {
+        "q": "Длина ниже колена требует только высокого каблука.",
+        "a": "Благодаря вертикальным конструктивным линиям и форме годе, это платье отлично смотрится как с классическими лодочками, так и с нашими стильными сапогами Ulisside."
+      }
+    ],
+    "ar": [
+      {
+        "q": "ياقة الدانتيل تبدو سريعة الاتساخ.",
+        "a": "الياقة قابلة للإزالة، مما يسهل العناية بالقطعة بشكل كبير ويسمح بغسلها بشكل منفصل للحفاظ على رونق الإطلالة."
+      },
+      {
+        "q": "فانيلا الصوف قد تكون خشنة.",
+        "a": "الصوف عالي الجودة المستخدم مع البوليستر والإيلاستين يجعل القماش ناعماً ومرناً ومقاوماً للتجعد طوال اليوم."
+      },
+      {
+        "q": "التصميم يبدو تقليدياً أكثر من اللازم.",
+        "a": "الأزرار المتباينة التي تحمل شعار العلامة الذهبي وقصة التنورة العصرية تمنح هذا الموديل الكلاسيكي طابعاً فاخراً يتماشى مع صيحات الموضة العالمية."
+      },
+      {
+        "q": "الطول تحت الركبة يتطلب كعباً عالياً فقط.",
+        "a": "بفضل الخطوط العمودية المصممة وشكل الجوديه (godet)، يبدو هذا الفستان رائعاً سواء مع حذاء الكعب الكلاسيكي أو مع أحذية Ulisside الطويلة العصرية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მაქმანებიანი საყელო ზედმეტად ადვილად გასვრად ჩანს.",
+        "a": "საყელო არის მოსახსნელი, რაც მნიშვნელოვნად ამარტივებს ნაკეთობის მოვლას და საშუალებას იძლევა გაირეცხოს ცალკე, რაც ინარჩუნებს სახის სიახლეს."
+      },
+      {
+        "q": "მატყლის ფლანელი შეიძლება იყოს უხეში.",
+        "a": "გამოყენებული მაღალი ხარისხის მატყლი პოლიესტერთან და ელასტანთან კომბინაციაში ქსოვილს ხდის რბილს, პლასტიკურს და დღის განმავლობაში დაჭმუჭვნისადმი მდგრადს."
+      },
+      {
+        "q": "დიზაინი ზედმეტად ტრადიციულად გამოიყურება.",
+        "a": "კონტრასტული ღილები ოქროსფერი ლოგოთი და ქვედაბოლოს აქტუალური ჭრა ამ კლასიკურ მოდელს ანიჭებს თანამედროვე ლუქს-ხასიათს, რომელიც შეესაბამება მსოფლიო ტენდენციებს."
+      },
+      {
+        "q": "მუხლს ქვემოთ სიგრძე მხოლოდ მაღალ ქუსლს მოითხოვს.",
+        "a": "ვერტიკალური კონსტრუქციული ხაზებისა და „გოდეს“ ფორმის წყალობით, ეს კაბა შესანიშნავად გამოიყურება როგორც კლასიკურ „ნავისებურ“ ფეხსაცმელთან, ისე ჩვენს სტილურ Ulisside-ის ჩექმებთან ერთად."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ժանյակավոր օձիքը չափազանց հեշտ կեղտոտվող է թվում։",
+        "a": "Օձիքը հանովի է, ինչը զգալիորեն հեշտացնում է հագուստի խնամքը և թույլ է տալիս լվանալ այն առանձին՝ պահպանելով կերպարի թարմությունը։"
+      },
+      {
+        "q": "Բրդյա ֆլանելը կարող է կոշտ լինել։",
+        "a": "Օգտագործված բարձրորակ բուրդը պոլիեսթերի և էլաստանի հետ համադրությամբ գործվածքը դարձնում է փափուկ, պլաստիկ և դիմացկուն ծալքերի նկատմամբ օրվա ընթացքում։"
+      },
+      {
+        "q": "Դիզայնը չափազանց ավանդական է թվում։",
+        "a": "Ոսկեգույն լոգոտիպով հակադիր կոճակները և կիսաշրջազգեստի արդիական կտրվածքը այս դասական մոդելին հաղորդում են ժամանակակից շքեղ բնույթ՝ համապատասխան համաշխարհային թրենդներին։"
+      },
+      {
+        "q": "Ծնկից ներքև երկարությունը պահանջում է միայն բարձր կրունկ։",
+        "a": "Ուղղահայաց կառուցվածքային գծերի և գոդե ձևի շնորհիվ այս զգեստը հիանալի է նայվում ինչպես դասական լոդոչկա կոշիկների, այնպես էլ մեր ոճային Ulisside երկարաճիտ կոշիկների հետ։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Mežģīņu apkaklīte šķiet pārāk ātri smērējoša.",
+        "a": "Apkaklīte ir noņemama, kas ievērojami atvieglo izstrādājuma kopšanu un ļauj to mazgāt atsevišķi, saglabājot tēla svaigumu."
+      },
+      {
+        "q": "Vilnas flanelis var būt ciets.",
+        "a": "Izmantotā augstas kvalitātes vilna kombinācijā ar poliesteru un elastānu padara audumu mīkstu, plastisku un izturīgu pret burzīšanos dienas laikā."
+      },
+      {
+        "q": "Dizains izskatās pārāk tradicionāls.",
+        "a": "Kontrastējošās pogas ar zelta logotipu un aktuālais svārku piegriezums piešķir šim klasiskajam modelim mūsdienīgu luksusa raksturu, kas atbilst pasaules tendencēm."
+      },
+      {
+        "q": "Garums zem ceļgala prasa tikai augstu papēdi.",
+        "a": "Pateicoties vertikālajām konstruktīvajām līnijām un godē formai, šī kleita lieliski izskatās gan ar klasiskajām laiviņām, gan ar mūsu stilīgajiem zābakiem Ulisside."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Nėriniuota apykaklė atrodo pernelyg greitai susitepanti.",
+        "a": "Apykaklė yra nuimama, kas žymiai palengvina gaminio priežiūrą ir leidžia ją skalbti atskirai, išlaikant įvaizdžio gaivumą."
+      },
+      {
+        "q": "Vilnonė flanelė gali būti kieta.",
+        "a": "Naudojama aukščiausios kokybės vilna derinyje su poliesteriu ir elastanu daro audinį minkštą, plastišką ir atsparų glamžymuisi visą dieną."
+      },
+      {
+        "q": "Dizainas atrodo pernelyg tradiciškai.",
+        "a": "Kontrastinės sagos su auksiniu logotipu ir aktualus sijono kirpimas suteikia šiam klasikiniam modeliui šiuolaikišką prabangų charakterį, atitinkantį pasaulines tendencijas."
+      },
+      {
+        "q": "Ilgis žemiau kelių reikalauja tik aukšto kulno.",
+        "a": "Dėl vertikalių konstrukcinių linijų ir „godet“ formos ši suknelė puikiai atrodo tiek su klasikiniais laiveliais, tiek su mūsų stilingais ilgaauliais Ulisside."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Koronkowy kołnierzyk wydaje się zbyt podatny na zabrudzenia.",
+        "a": "Kołnierzyk jest odpinany, co znacznie ułatwia pielęgnację produktu i pozwala prać go oddzielnie, zachowując świeżość wyglądu."
+      },
+      {
+        "q": "Wełniana flanela może być szorstka.",
+        "a": "Zastosowana wysokiej jakości wełna w połączeniu z poliestrem i elastanem sprawia, że tkanina jest miękka, plastyczna i odporna na gniecenie w ciągu dnia."
+      },
+      {
+        "q": "Design wygląda zbyt tradycyjnie.",
+        "a": "Kontrastowe guziki ze złotym logo oraz modny krój spódnicy nadają temu klasycznemu modelowi nowoczesny, luksusowy charakter, zgodny ze światowymi trendami."
+      },
+      {
+        "q": "Długość poniżej kolana wymaga tylko wysokiego obcasa.",
+        "a": "Dzięki pionowym liniom konstrukcyjnym i formie gode, ta sukienka świetnie wygląda zarówno z klasycznymi czółenkami, jak i z naszymi stylowymi kozakami Ulisside."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Мереживний комірець здається занадто мазким.",
+        "a": "Комірець є знімним, що значно спрощує догляд за виробом і дозволяє прати його окремо, зберігаючи свіжість образу."
+      },
+      {
+        "q": "Вовняна фланель може бути жорсткою.",
+        "a": "Використовувана високоякісна вовна у поєднанні з поліестером та еластаном робить тканину м'якою, пластичною та стійкою до зминання протягом дня."
+      },
+      {
+        "q": "Дизайн виглядає занадто традиційно.",
+        "a": "Контрастні ґудзики із золотим логотипом та актуальний крій спідниці додають цій класичній моделі сучасного люксового характеру, що відповідає світовим трендам."
+      },
+      {
+        "q": "Довжина нижче коліна вимагає тільки високих підборів.",
+        "a": "Завдяки вертикальним конструктивним лініям та формі годе, ця сукня чудово виглядає як із класичними човниками, так і з нашими стильними чобітьми Ulisside."
+      }
+    ]
+  }
+}

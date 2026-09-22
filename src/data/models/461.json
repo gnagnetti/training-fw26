@@ -1,0 +1,469 @@
+{
+  "id": 461,
+  "name": "Opaglio",
+  "description": {
+    "en": "The Opaglio 0927 jeans are the embodiment of aristocratic comfort and intellectual fashion as interpreted by Luisa Spagnoli. The piece masterfully unites the ease of high-quality cotton denim (denim di cotone) with the discipline of an architectural 'palazzo' cut (linea a palazzo). The purity of the lines is underscored by a straight leg (gamba dritta), which, combined with the Regular fit, forms an endless vertical line to the silhouette. Particular status is lent to the piece by a jewel-like accent â€” the signature heraldic LS button in gold-tone metal, while an exclusive tone-matched patch (salpa), adorned with delicate embroidery, completes the look. These jeans are created for the woman who values 'Quiet Luxury' and seeks the perfect balance between runway-worthy chic and everyday functionality.",
+    "ru": "Джинсы Opaglio 0927 --- это воплощение аристократичного комфорта и интеллектуальной моды в прочтении Luisa Spagnoli. Модель мастерски объединяет непринужденность высококачественного хлопкового денима (denim di cotone) и строгость архитектурного кроя «палаццо» (linea a palazzo). Чистоту линий подчеркивает прямая штанина (gamba dritta), которая в сочетании с регулярной посадкой (vestibilità regular) формирует бесконечную вертикаль силуэта. Особый статус изделию придает ювелирный акцент --- фирменная геральдическая пуговица LS из золотистого металла, а завершает образ эксклюзивная нашивка (salpa) в тон, украшенная деликатной вышивкой. Эти джинсы созданы для женщины, которая ценит «Quiet Luxury» и ищет идеальный баланс между подиумным шиком и повседневной функциональностью.",
+    "ar": "جينز Opaglio 0927 هو تجسيد للراحة الأرستقراطية والأزياء الذكية بلمسة Luisa Spagnoli. يجمع الطراز ببراعة بين عفوية الدنيم القطني عالي الجودة (denim di cotone) وصرامة قصة \"بالازو\" المعمارية (linea a palazzo). وتبرز الساق المستقيمة (gamba dritta) نقاء الخطوط، والتي تشكل مع القصة المنتظمة (vestibilità regular) خطاً عمودياً لا نهائياً. يضفي الزر المعدني الذهبي بشعار LS لمسة مجوهرات مميزة، ويكتمل المظهر برقعة حصرية (salpa) متناغمة الألوان ومزينة بتطريز دقيق. صُمم هذا الجينز للمرأة التي تقدر \"الفخامة الهادئة\" وتبحث عن التوازن المثالي بين الأناقة والوظيفة اليومية.",
+    "ka": "Opaglio 0927-ის ჯინსი არის არისტოკრატული კომფორტისა და ინტელექტუალური მოდის განსახიერება Luisa Spagnoli-ის ინტერპრეტაციით. მოდელი ოსტატურად აერთიანებს მაღალი ხარისხის ბამბის დენიმის (denim di cotone) თავისუფლებას და «პალაცოს» (linea a palazzo) არქიტექტურული კროის სიმკაცრეს. ხაზების სისუფთავეს ხაზს უსვამს სწორი შარვლის ტოტები (gamba dritta), რომელიც რეგულარულ მორგებასთან (vestibilità regular) ერთად ქმნის სილუეტის უსასრულო ვერტიკალს. ნაკეთობას განსაკუთრებულ სტატუსს სძენს საიუველირო აქცენტი - ბრენდირებული ჰერალდიკური LS ღილაკი ოქროსფერი მეტალისგან, ხოლო იმიჯს ასრულებს ტონში გადაწყვეტილი ექსკლუზიური ნაჭდევი (salpa), რომელიც მორთულია დელიკატური ნაქარგით. ეს ჯინსები შექმნილია ქალისთვის, რომელიც აფასებს «Quiet Luxury»-ს და ეძებს იდეალურ ბალანსს პოდიუმის შიკსა და ყოველდღიურ ფუნქციონალობას შორის.",
+    "hy": "Opaglio 0927 ջինսերը Luisa Spagnoli-ի մեկնաբանությամբ ազնվական հարմարավետության և ինտելեկտուալ նորաձևության մարմնավորումն են։ Մոդելը վարպետորեն միավորում է բարձրորակ բամբակյա դենիմի (denim di cotone) հանգիստ լինելը և «պալացցո» (linea a palazzo) ճարտարապետական կտրվածքի խստությունը։ Գծերի մաքրությունը ընդգծում է ուղիղ տաբատը (gamba dritta), որը կանոնավոր նստվածքի (vestibilità regular) հետ համատեղ ձևավորում է ուրվագծի անվերջ ուղղահայաց գիծ։ Հագուստին հատուկ կարգավիճակ է հաղորդում յուվելիրային շեշտադրումը՝ ոսկեգույն մետաղից պատրաստված LS ֆիրմային հերալդիկ կոճակը, իսկ կերպարն ավարտում է երանգի մեջ բացառիկ պիտակը (salpa), որը զարդարված է նուրբ ասեղնագործությամբ։ Այս ջինսերը ստեղծված են այն կնոջ համար, ով գնահատում է «Quiet Luxury»-ն և փնտրում է իդեալական հավասարակշռություն պոդիումային շքեղության և առօրյա ֆունկցիոնալության միջև։",
+    "lv": "Opaglio 0927 džinsi ir aristokrātiska komforta un intelektuālās modes iemiesojums Luisa Spagnoli izpildījumā. Modelis meistarīgi apvieno augstas kvalitātes kokvilnas džinsa (denim di cotone) nepiespiestību un arhitektoniskā \"palazzo\" piegriezuma (linea a palazzo) stingrību. Līniju tīrību uzsver taisna stara (gamba dritta), kas apvienojumā ar regulāro piegulumu (vestibilità regular) veido bezgalīgu silueta vertikāli. Īpašu statusu izstrādājumam piešķir juvelierizstrādājumu akcents --- firmas heraldikas LS poga no zeltīta metāla, bet tēlu noslēdz ekskluzīvs tonī pieskaņots ielāps (salpa), kas rotāts ar smalku izšuvumu. Šie džinsi ir radīti sievietei, kura novērtē \"Quiet Luxury\" un meklē ideālu līdzsvaru starp modes skates šiku un ikdienas funkcionalitāti.",
+    "lt": "Džinsai Opaglio 0927 --- tai aristokratiško komforto ir intelektualios mados įkūnijimas Luisa Spagnoli interpretacijoje. Modelis meistriškai sujungia aukštos kokybės medvilninio džinso (denim di cotone) neįpareigojantį stilių ir architektūrinio «palazzo» kirpimo (linea a palazzo) griežtumą. Linijų tyrumą pabrėžia tiesi kelnių klešnė (gamba dritta), kuri derinyje su reguliariu prigludimu (vestibilità regular) formuoja begalinę silueto vertikalę. Ypatingą statusą gaminiui suteikia juvelyrinis akcentas --- firminė heraldinė LS saga iš auksinio metalo, o įvaizdį užbaigia išskirtinis tonas į toną priderintas antsiuvas (salpa), papuoštas subtiliais siuvinėjimais. Šie džinsai sukurti moteriai, kuri vertina «Quiet Luxury» ir ieško idealaus balanso tarp podiumo šiko ir kasdienio funkcionalumo.",
+    "pl": "Dżinsy Opaglio 0927 to ucieleśnienie arystokratycznego komfortu i intelektualnej mody w wydaniu Luisa Spagnoli. Model mistrzowsko łączy swobodę wysokiej jakości bawełnianego denimu (denim di cotone) z surowością architektonicznego kroju „palazzo” (linea a palazzo). Czystość linii podkreśla prosta nogawka (gamba dritta), która w połączeniu z regularnym krojem (vestibilità regular) tworzy nieskończoną pionową linię sylwetki. Wyjątkowy status nadaje produktowi jubilerski akcent --- firmowy heraldyczny guzik LS ze złocistego metalu, a całość dopełnia ekskluzywna naszywka (salpa) w tym samym odcieniu, ozdobiona delikatnym haftem. Te dżinsy zostały stworzone dla kobiety, która ceni „Quiet Luxury” i poszukuje idealnej równowagi między szykiem wybiegowym a codzienną funkcjonalnością.",
+    "uk": "Джинси Opaglio 0927 --- це втілення аристократичного комфорту та інтелектуальної моди в прочитанні Luisa Spagnoli. Модель майстерно поєднує невимушеність високоякісного бавовняного деніму (denim di cotone) та строгість архітектурного крою «палаццо» (linea a palazzo). Чистоту ліній підкреслює пряма штанина (gamba dritta), яка в поєднанні з регулярною посадкою (vestibilità regular) формує нескінченну вертикаль силуету. Особливого статусу виробу надає ювелірний акцент --- фірмовий геральдичний ґудзик LS із золотистого металу, а завершує образ ексклюзивна нашивка (salpa) в тон, прикрашена делікатною вишивкою. Ці джинси створені для жінки, яка цінує «Quiet Luxury» і шукає ідеальний баланс між подіумним шиком і повсякденною функціональністю."
+  },
+  "colors": [
+    {
+      "name": "Marrone",
+      "code": "0927",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда демонстрируют исключительную вариативность Opaglio 0927, интегрируя модель как в строгие костюмные группы, так и в уютные многослойные сеты: Вариант 0927 ( Синий индиго): В lookbook (Look 31): каноническое сочетание с принтованной рубашкой Loriana 0201 и изящными слингбэками Ulrica 4575.",
+        "en": "The brand's stylists demonstrate the exceptional versatility of Opaglio 0927, integrating the model into both strict tailored groups and cozy layered sets: Option 0927 ( Indigo blue): In the lookbook (Look 31): a canonical combination with a printed Loriana 0201 shirt and elegant Ulrica 4575 slingbacks.",
+        "ar": "The brand's stylists demonstrate the exceptional versatility of Opaglio 0927, integrating the model into both strict tailored groups and cozy layered sets: Option 0927 ( Indigo blue): In the lookbook (Look 31): a canonical combination with a printed Loriana 0201 shirt and elegant Ulrica 4575 slingbacks.",
+        "ka": "The brand's stylists demonstrate the exceptional versatility of Opaglio 0927, integrating the model into both strict tailored groups and cozy layered sets: Option 0927 ( Indigo blue): In the lookbook (Look 31): a canonical combination with a printed Loriana 0201 shirt and elegant Ulrica 4575 slingbacks.",
+        "hy": "The brand's stylists demonstrate the exceptional versatility of Opaglio 0927, integrating the model into both strict tailored groups and cozy layered sets: Option 0927 ( Indigo blue): In the lookbook (Look 31): a canonical combination with a printed Loriana 0201 shirt and elegant Ulrica 4575 slingbacks.",
+        "lv": "The brand's stylists demonstrate the exceptional versatility of Opaglio 0927, integrating the model into both strict tailored groups and cozy layered sets: Option 0927 ( Indigo blue): In the lookbook (Look 31): a canonical combination with a printed Loriana 0201 shirt and elegant Ulrica 4575 slingbacks.",
+        "lt": "The brand's stylists demonstrate the exceptional versatility of Opaglio 0927, integrating the model into both strict tailored groups and cozy layered sets: Option 0927 ( Indigo blue): In the lookbook (Look 31): a canonical combination with a printed Loriana 0201 shirt and elegant Ulrica 4575 slingbacks.",
+        "pl": "The brand's stylists demonstrate the exceptional versatility of Opaglio 0927, integrating the model into both strict tailored groups and cozy layered sets: Option 0927 ( Indigo blue): In the lookbook (Look 31): a canonical combination with a printed Loriana 0201 shirt and elegant Ulrica 4575 slingbacks.",
+        "uk": "The brand's stylists demonstrate the exceptional versatility of Opaglio 0927, integrating the model into both strict tailored groups and cozy layered sets: Option 0927 ( Indigo blue): In the lookbook (Look 31): a canonical combination with a printed Loriana 0201 shirt and elegant Ulrica 4575 slingbacks."
+      },
+      "items": [
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg"
+        },
+        {
+          "name": "Loriana",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg",
+          "modelId": 425
+        },
+        {
+          "name": "Ulrica",
+          "code": "4575",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ulrica.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Интеллектуальный трикотаж (Look 80)",
+        "en": "Intellectual knitwear (Look 80)",
+        "ar": "Intellectual knitwear (Look 80)",
+        "ka": "Intellectual knitwear (Look 80)",
+        "hy": "Intellectual knitwear (Look 80)",
+        "lv": "Intellectual knitwear (Look 80)",
+        "lt": "Intellectual knitwear (Look 80)",
+        "pl": "Intellectual knitwear (Look 80)",
+        "uk": "Intellectual knitwear (Look 80)"
+      },
+      "text": {
+        "ru": "современный городской сет с укороченным жакетом из шерсти Moles 1936 и мягким пуловером Manos 0970.",
+        "en": "a modern city set with a cropped Moles 1936 wool jacket and a soft Manos 0970 pullover.",
+        "ar": "a modern city set with a cropped Moles 1936 wool jacket and a soft Manos 0970 pullover.",
+        "ka": "a modern city set with a cropped Moles 1936 wool jacket and a soft Manos 0970 pullover.",
+        "hy": "a modern city set with a cropped Moles 1936 wool jacket and a soft Manos 0970 pullover.",
+        "lv": "a modern city set with a cropped Moles 1936 wool jacket and a soft Manos 0970 pullover.",
+        "lt": "a modern city set with a cropped Moles 1936 wool jacket and a soft Manos 0970 pullover.",
+        "pl": "a modern city set with a cropped Moles 1936 wool jacket and a soft Manos 0970 pullover.",
+        "uk": "a modern city set with a cropped Moles 1936 wool jacket and a soft Manos 0970 pullover."
+      },
+      "items": [
+        {
+          "name": "Moles",
+          "code": "1936",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1844512759692424d2892078_32836015_02781320XX1.jpg",
+          "modelId": 447
+        },
+        {
+          "name": "Manos",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Power Dressing (Vetrina 70, 71)",
+        "en": "Power Dressing (Vetrina 70, 71)",
+        "ar": "Power Dressing (Vetrina 70, 71)",
+        "ka": "Power Dressing (Vetrina 70, 71)",
+        "hy": "Power Dressing (Vetrina 70, 71)",
+        "lv": "Power Dressing (Vetrina 70, 71)",
+        "lt": "Power Dressing (Vetrina 70, 71)",
+        "pl": "Power Dressing (Vetrina 70, 71)",
+        "uk": "Power Dressing (Vetrina 70, 71)"
+      },
+      "text": {
+        "ru": "статусный образ с двубортным жакетом в клетку Sagari 3372 и белоснежной рубашкой Loriana 0201.",
+        "en": "a high-status look with a double-breasted plaid Sagari 3372 jacket and a snow-white Loriana 0201 shirt.",
+        "ar": "a high-status look with a double-breasted plaid Sagari 3372 jacket and a snow-white Loriana 0201 shirt.",
+        "ka": "a high-status look with a double-breasted plaid Sagari 3372 jacket and a snow-white Loriana 0201 shirt.",
+        "hy": "a high-status look with a double-breasted plaid Sagari 3372 jacket and a snow-white Loriana 0201 shirt.",
+        "lv": "a high-status look with a double-breasted plaid Sagari 3372 jacket and a snow-white Loriana 0201 shirt.",
+        "lt": "a high-status look with a double-breasted plaid Sagari 3372 jacket and a snow-white Loriana 0201 shirt.",
+        "pl": "a high-status look with a double-breasted plaid Sagari 3372 jacket and a snow-white Loriana 0201 shirt.",
+        "uk": "a high-status look with a double-breasted plaid Sagari 3372 jacket and a snow-white Loriana 0201 shirt."
+      },
+      "items": [
+        {
+          "name": "Sagari",
+          "code": "3372",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/586510734691f15a317bb26_78264238_02781030XX1.jpg",
+          "modelId": 471
+        },
+        {
+          "name": "Loriana",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg",
+          "modelId": 425
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Игра фактур (Vetrina 43, Bambola 3)",
+        "en": "Texture play (Vetrina 43, Bambola 3)",
+        "ar": "Texture play (Vetrina 43, Bambola 3)",
+        "ka": "Texture play (Vetrina 43, Bambola 3)",
+        "hy": "Texture play (Vetrina 43, Bambola 3)",
+        "lv": "Texture play (Vetrina 43, Bambola 3)",
+        "lt": "Texture play (Vetrina 43, Bambola 3)",
+        "pl": "Texture play (Vetrina 43, Bambola 3)",
+        "uk": "Texture play (Vetrina 43, Bambola 3)"
+      },
+      "text": {
+        "ru": "загородный шик под замшевой курткой Scanio 2219 0908 в паре с фактурным пуловером Conducente 2335 и рубашкой Bacche 0201.",
+        "en": "country chic under a Scanio 2219 0908 suede jacket paired with a textured Conducente 2335 pullover and a Bacche 0201 shirt.",
+        "ar": "country chic under a Scanio 2219 0908 suede jacket paired with a textured Conducente 2335 pullover and a Bacche 0201 shirt.",
+        "ka": "country chic under a Scanio 2219 0908 suede jacket paired with a textured Conducente 2335 pullover and a Bacche 0201 shirt.",
+        "hy": "country chic under a Scanio 2219 0908 suede jacket paired with a textured Conducente 2335 pullover and a Bacche 0201 shirt.",
+        "lv": "country chic under a Scanio 2219 0908 suede jacket paired with a textured Conducente 2335 pullover and a Bacche 0201 shirt.",
+        "lt": "country chic under a Scanio 2219 0908 suede jacket paired with a textured Conducente 2335 pullover and a Bacche 0201 shirt.",
+        "pl": "country chic under a Scanio 2219 0908 suede jacket paired with a textured Conducente 2335 pullover and a Bacche 0201 shirt.",
+        "uk": "country chic under a Scanio 2219 0908 suede jacket paired with a textured Conducente 2335 pullover and a Bacche 0201 shirt."
+      },
+      "items": [
+        {
+          "name": "Scanio",
+          "code": "2219 0908",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1382076925692424da8dd0a9_52339721_02781580XX1.jpg",
+          "modelId": 475
+        },
+        {
+          "name": "Conducente",
+          "code": "2335",
+          "imageUrl": null
+        },
+        {
+          "name": "Bacche",
+          "code": "0201",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sport-Luxe (Vetrina 22, Bambola 2)",
+        "en": "Sport-Luxe (Vetrina 22, Bambola 2)",
+        "ar": "Sport-Luxe (Vetrina 22, Bambola 2)",
+        "ka": "Sport-Luxe (Vetrina 22, Bambola 2)",
+        "hy": "Sport-Luxe (Vetrina 22, Bambola 2)",
+        "lv": "Sport-Luxe (Vetrina 22, Bambola 2)",
+        "lt": "Sport-Luxe (Vetrina 22, Bambola 2)",
+        "pl": "Sport-Luxe (Vetrina 22, Bambola 2)",
+        "uk": "Sport-Luxe (Vetrina 22, Bambola 2)"
+      },
+      "text": {
+        "ru": "подиумная стилизация под денимным кабаном Squadratura 0101 0988 с жилетом Semaforo 4575 и рубашкой Barberino 0201.",
+        "en": "a runway styling under a denim Squadratura 0101 0988 caban coat with a Semaforo 4575 vest and a Barberino 0201 shirt.",
+        "ar": "a runway styling under a denim Squadratura 0101 0988 caban coat with a Semaforo 4575 vest and a Barberino 0201 shirt.",
+        "ka": "a runway styling under a denim Squadratura 0101 0988 caban coat with a Semaforo 4575 vest and a Barberino 0201 shirt.",
+        "hy": "a runway styling under a denim Squadratura 0101 0988 caban coat with a Semaforo 4575 vest and a Barberino 0201 shirt.",
+        "lv": "a runway styling under a denim Squadratura 0101 0988 caban coat with a Semaforo 4575 vest and a Barberino 0201 shirt.",
+        "lt": "a runway styling under a denim Squadratura 0101 0988 caban coat with a Semaforo 4575 vest and a Barberino 0201 shirt.",
+        "pl": "a runway styling under a denim Squadratura 0101 0988 caban coat with a Semaforo 4575 vest and a Barberino 0201 shirt.",
+        "uk": "a runway styling under a denim Squadratura 0101 0988 caban coat with a Semaforo 4575 vest and a Barberino 0201 shirt."
+      },
+      "items": [
+        {
+          "name": "Squadratura",
+          "code": "0101 0988",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1074652343691c5789294382_44386307_02780160XX1.jpg",
+          "modelId": 490
+        },
+        {
+          "name": "Semaforo",
+          "code": "4575",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/53771580691c578707d222_85966206_02780120XX1.jpg",
+          "modelId": 481
+        },
+        {
+          "name": "Barberino",
+          "code": "0201",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Зимний уют (Look 79)",
+        "en": "Winter cozy (Look 79)",
+        "ar": "Winter cozy (Look 79)",
+        "ka": "Winter cozy (Look 79)",
+        "hy": "Winter cozy (Look 79)",
+        "lv": "Winter cozy (Look 79)",
+        "lt": "Winter cozy (Look 79)",
+        "pl": "Winter cozy (Look 79)",
+        "uk": "Winter cozy (Look 79)"
+      },
+      "text": {
+        "ru": "под защитой объемного кабана Soppalco 0733 в сочетании с фактурным пуловером Messier 1936.",
+        "en": "layered under a voluminous Soppalco 0733 caban coat combined with a textured Messier 1936 pullover.",
+        "ar": "layered under a voluminous Soppalco 0733 caban coat combined with a textured Messier 1936 pullover.",
+        "ka": "layered under a voluminous Soppalco 0733 caban coat combined with a textured Messier 1936 pullover.",
+        "hy": "layered under a voluminous Soppalco 0733 caban coat combined with a textured Messier 1936 pullover.",
+        "lv": "layered under a voluminous Soppalco 0733 caban coat combined with a textured Messier 1936 pullover.",
+        "lt": "layered under a voluminous Soppalco 0733 caban coat combined with a textured Messier 1936 pullover.",
+        "pl": "layered under a voluminous Soppalco 0733 caban coat combined with a textured Messier 1936 pullover.",
+        "uk": "layered under a voluminous Soppalco 0733 caban coat combined with a textured Messier 1936 pullover."
+      },
+      "items": [
+        {
+          "name": "Soppalco",
+          "code": "0733",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1763425955691c57c36a48f3_35962156_02780270XX1.jpg",
+          "modelId": 329
+        },
+        {
+          "name": "Messier",
+          "code": "1936",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/745495074691c5795177578_49121809_02790460XX1.jpg",
+          "modelId": 444
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The architecture of Palazzo: Direct the client's attention to the 'palazzo' cut. Explain that the wide leg, falling in a straight line from the hip, masterfully conceals figure nuances and, paired with heeled footwear, visually adds height, lending the"
+    ],
+    "ru": [
+      "- Архитектура Palazzo: Акцентируйте внимание клиента на крое «палаццо». Объясните, что широкая штанина, ниспадающая прямой линией от бедра, виртуозно скрывает нюансы фигуры и в сочетании с обувью на каблуке визуально добавляет роста, делая силуэт статным"
+    ],
+    "ar": [
+      "- هندسة Palazzo: ركزي انتباه العميل على قصّة «البالازو». وضحي أن الساق العريضة التي تنسدل في خط مستقيم من الأرداف، تخفي عيوب القوام ببراعة، ومع الأحذية ذات الكعب، تزيد الطول بصرياً، مما يجعل القوام يبدو شامخاً ومهيباً. - الدنيم كخياطة جديدة: اقترحي Opagli"
+    ],
+    "ka": [
+      "- Palazzo-ს არქიტექტურა: გაამახვილეთ კლიენტის ყურადღება „პალაცოს“ ჭრილზე. აუხსენით, რომ ფართო შარვალი, რომელიც თეძოდან სწორი ხაზით ეშვება, ვირტუოზულად ფარავს ფიგურის ნიუანსებს და ქუსლიან ფეხსაცმელთან ერთად ვიზუალურად მატებს სიმაღლეს, რაც სილუეტს დიდებულს"
+    ],
+    "hy": [
+      "- Palazzo ճարտարապետությունը. Հաճախորդի ուշադրությունը կենտրոնացրեք «պալացցո» կտրվածքի վրա: Բացատրեք, որ կոնքից ուղիղ գծով իջնող լայն փողքը վարպետորեն թաքցնում է կազմվածքի նրբությունները և կրունկներով կոշիկների հետ համադրելիս տեսողականորեն ավելացնում է հա"
+    ],
+    "lv": [
+      "- Palazzo arhitektūra: Vērsiet klienta uzmanību uz \"palazzo\" piegriezumu. Paskaidrojiet, ka plata stāri, kas krīt taisnā līnijā no gurna, virtuozi apslēpj figūras nianses un kombinācijā ar apaviem uz papēža vizuāli piešķir augumu, padarot siluetu staltu u"
+    ],
+    "lt": [
+      "- Palazzo architektūra: atkreipkite kliento dėmesį į „palazzo“ kirpimą. Paaiškinkite, kad plačios klešnės, krentančios tiesia linija nuo klubų, meistriškai paslepia figūros niuansus ir derinant su avalyne su kulnu vizualiai prideda ūgio, suteikiant siluetui grakštumo ir didingumo. - Džinsinis audinys kaip naujas siuvimo menas: pasiūlykite Opaglio kaip alternatyvą klasikinėms kelnėms. Dėka auksinės herbinės sagos ir nepriekaištingos apdailos, šie džinsai tinka verslo garderobe kartu su švarkais (Sagari arba Solarita), išlaikant aktualų įvaizdžio laisvumą. - Juvelyrinis prekės ženklo autografas: pabrėžkite detalių --- LS sagų ir išsiuvinėtos etiketės (salpa) vertę. Šie aukštos kokybės ženklai perkelia džinsus iš bazinių drabužių kategorijos į investicinių objektų kategoriją, pabrėžiančią savininkės skonį."
+    ],
+    "pl": [
+      "- Architektura Palazzo: Zwróć uwagę klientki na krój „palazzo”. Wyjaśnij, że szeroka nogawka, opadająca prostą linią od biodra, wirtuozersko ukrywa niuanse figury i w połączeniu z obuwiem na obcasie wizualnie dodaje wzrostu, czyniąc sylwetkę dumną i majes"
+    ],
+    "uk": [
+      "- Архітектура Palazzo: Акцентуйте увагу клієнта на крої «палаццо». Поясніть, що широка холоша, яка спадає прямою лінією від стегна, віртуозно приховує нюанси фігури і в поєднанні із взуттям на підборах візуально додає зросту, роблячи силует статним і вели"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Suede requires overly complex upkeep.",
+        "a": "On the contrary, Luisa Spagnoli's quality suede is highly durable. What's more, the leather collar protects the piece's most contact-prone area from abrasion, prolonging its flawless appearance. |"
+      },
+      {
+        "q": "Brown is difficult to pair with my wardrobe.",
+        "a": "This shade (0908) is the season's 'new neutral.' As shown in Look 51 and Display Case 70, it pairs beautifully with both blue denim and intricate tartan prints. |"
+      },
+      {
+        "q": "The jacket looks too voluminous.",
+        "a": "The Regular fit and architectural shoulder cut are designed to 'gather in' the silhouette. The visible topstitching creates additional vertical lines that discipline the volume. |"
+      },
+      {
+        "q": "The nappa collar feels too contrasting.",
+        "a": "This is the season's key stylistic accent, lending the look a contemporary edge. It elevates the jacket from a basic wardrobe staple to runway-worthy design. |"
+      },
+      {
+        "q": "I'm concerned the heraldic buttons will feel too formal.",
+        "a": "The gold-tone LS buttons serve as a delicate jewel-like touch. This allows accessories to be kept minimal, leaving the look clean and status-defining."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Джинсы-палаццо",
+        "a": "Укажите на регулярную посадку в области талии и выглядят слишком бедер. Модель Opaglio дисциплинирует фигуру громоздко сверху, позволяя объему штанин работать исключительно на динамику и легкость походки."
+      },
+      {
+        "q": "Деним — это",
+        "a": "Обратите внимание на золотую геральдическую слишком просто для фурнитуру и сарториальный крой. В сочетании с моего стиля шелковыми рубашками (Linosa 3286) эта модель выглядит как полноценный элемент высокого стиля."
+      },
+      {
+        "q": "Широкие брючины",
+        "a": "Рекомендуйте сочетать джинсы с высокими ботильонами будут пачкаться в или сапогами на устойчивом каблуке (Ulisside). непогоду Это приподнимет край брюк, сохраняя чистоту и максимизируя эффект длинных ног."
+      },
+      {
+        "q": "Синий цвет Напротив, оттенок 0927 является идеальным денима сложно нейтральным холстом.",
+        "a": "Продемонстрируйте Look 31: он сочетать с великолепно гармонирует как с цветочными принтами, принтами так и со сложной клеткой тартан."
+      },
+      {
+        "q": "Боюсь, что 100% Хлопковый деним Luisa Spagnoli обладает высокой хлопок будет плотностью, необходимой для поддержания формы жестким в носке",
+        "a": "Palazzo, но при этом проходит специальную обработку, обеспечивающую тактильный комфорт."
+      }
+    ],
+    "ar": [
+      {
+        "q": "سراويل الجينز الـ Palazzo تبدو ضخمة للغاية",
+        "a": "- ركزوا على المقاس العادي عند الخصر والأرداف. يضبط موديل Opaglio القوام من الأعلى، مما يسمح لحجم الساقين بإضفاء حيوية وخفة على الحركة."
+      },
+      {
+        "q": "الدنيم بسيط جداً بالنسبة لأسلوبي",
+        "a": "- انتبهوا للقطع المعدنية الذهبية ذات الطابع النبيل والقصّة الترزية. مع القمصان الحريرية (Linosa 3286)، يبدو هذا الموديل كعنصر متكامل من الأناقة الرفيعة."
+      },
+      {
+        "q": "الساق الواسعة ستتعرض للاتساخ في الطقس السيئ",
+        "a": "- يُنصح بتنسيق الجينز مع أبوات الكاحل العالية أو الأحذية ذات الكعب الثابت (Ulisside). هذا سيرفع حافة البنطال، ويحافظ على نظافته مع تعزيز تأثير طول الساقين."
+      },
+      {
+        "q": "اللون الأزرق للدنيم صعب التنسيق مع الطبعات",
+        "a": "- على العكس، اللون 0927 هو لوحة محايدة مثالية. استعرضوا Look 31: فهو يتناغم بشكل رائع مع الطبعات الزهرية ونقوش الترتان المعقدة."
+      },
+      {
+        "q": "أخشى أن يكون القطن 100% قاسياً أثناء الارتداء",
+        "a": "- يتمتع دنيم القطن من Luisa Spagnoli بكثافة عالية ضرورية للحفاظ على شكل Palazzo، ولكنه يخضع لمعالجة خاصة تضمن الراحة عند اللمس."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ჯინს-პალაცო ზედმეტად მასიურად გამოიყურება",
+        "a": "მიუთითეთ რეგულარულ მორგებაზე წელისა და თეძოს არეში. მოდელი Opaglio დისციპლინას უწევს ფიგურას ზედა ნაწილში, რაც საშუალებას აძლევს შარვლის ტოტების მოცულობას იმუშაოს მხოლოდ სიარულის დინამიკასა და სიმსუბუქეზე."
+      },
+      {
+        "q": "დენიმი — ეს ზედმეტად მარტივია ჩემი სტილისთვის",
+        "a": "მიაქციეთ ყურადღება ოქროსფერ ჰერალდიკურ ფურნიტურას და სარტორულ ჭრას. აბრეშუმის პერანგებთან (Linosa 3286) კომბინაციაში ეს მოდელი გამოიყურება როგორც მაღალი სტილის სრულფასოვანი ელემენტი."
+      },
+      {
+        "q": "ფართო შარვლის ტოტები ცუდ ამინდში დასვრის",
+        "a": "რეკომენდაცია გაუწიეთ ჯინსის შერწყმას მაღალ ბოტილიონებთან ან მდგრად ქუსლიან ჩექმებთან (Ulisside). ეს აწევს შარვლის კიდეს, შეინარჩუნებს სისუფთავეს და მაქსიმალურად გაუსვამს ხაზს გრძელი ფეხების ეფექტს."
+      },
+      {
+        "q": "დენიმის ლურჯი ფერის შეხამება პრინტებთან რთულია",
+        "a": "პირიქით, ელფერი 0927 წარმოადგენს იდეალურ ნეიტრალურ ტილოს. წარმოაჩინეთ Look 31: ის შესანიშნავად ჰარმონიზდება როგორც ყვავილოვან პრინტებთან, ასევე ტარტანის რთულ უჯრედებთან."
+      },
+      {
+        "q": "მეშინია, რომ 100% ბამბა ტარებისას უხეში იქნება",
+        "a": "ბამბის დენიმი Luisa Spagnoli ფლობს მაღალ სიმკვრივეს, რაც აუცილებელია Palazzo-ს ფორმის შესანარჩუნებლად, თუმცა ამავდროულად გადის სპეციალურ დამუშავებას, რაც უზრუნველყოფს ტაქტილურ კომფორტს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Պալացցո-ջինսերը շատ ծավալուն են թվում»։",
+        "a": "Մատնանշեք գոտկատեղի և ազդրերի հատվածում կանոնավոր նստվածքը։ Opaglio մոդելը կարգավորում է կազմվածքը վերևից՝ թույլ տալով տաբատի փողքերի ծավալին աշխատել բացառապես քայլվածքի դինամիկայի և թեթևության վրա։ «Դենիմը շատ պարզ է իմ ոճի համար»։ Ուշադրություն դարձրեք ոսկեգույն հերալդիկ ֆուրնիտուրային և սարտորիալ ձևվածքին։ Մետաքսե վերնաշապիկների (Linosa 3286) հետ համադրությամբ այս մոդելը թվում է որպես բարձր ոճի լիարժեք տարր։ «Լայն տաբատները վատ եղանակին կկեղտոտվեն»։ Խորհուրդ տվեք ջինսերը համադրել բարձր կոշիկների կամ կայուն կրունկով երկարաճիտ կոշիկների (Ulisside) հետ։ Սա կբարձրացնի տաբատի եզրը՝ պահպանելով մաքրությունը և առավելագույնի հասցնելով երկար ոտքերի էֆեկտը։ «Դենիմի կապույտ գույնը դժվար է համադրել պրինտների հետ»։ Ընդհակառակը, 0927 երանգը իդեալական չեզոք կտավ է։ Ցույց տվեք Look 31-ը՝ այն հիանալի ներդաշնակում է ինչպես ծաղկային պրինտների, այնպես էլ տարտան վանդակավոր բարդ գործվածքների հետ։ «Վախենում եմ, որ 100% բամբակը կոշտ կլինի հագնելու ժամանակ»։ Luisa Spagnoli-ի բամբակյա դենիմն ունի բարձր խտություն, որն անհրաժեշտ է Palazzo մոդելի ձևը պահպանելու համար, բայց միաժամանակ անցնում է հատուկ մշակում, որն ապահովում է տակտիլ հարմարավետություն։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Džinsi-palazzo izskatās pārāk apjomīgi",
+        "a": "Norādiet uz regulāro pieguldījumu jostasvietā un gurnos. Modelis Opaglio disciplinē figūru augšpusē, ļaujot staru apjomam strādāt tikai uz gaitas dinamiku un vieglumu."
+      },
+      {
+        "q": "Denims — tas ir pārāk vienkārši manam stilam",
+        "a": "Pievērsiet uzmanību zelta heraldikas furnitūrai un sartoriālajam piegriezumam. Kombinācijā ar zīda krekliem (Linosa 3286) šis modelis izskatās kā pilnvērtīgs augstā stila elements."
+      },
+      {
+        "q": "Platās staras sasmērēsies sliktos laika apstākļos",
+        "a": "Iesakiet kombinēt džinsus ar augstiem potīšu zābakiem vai zābakiem ar stabilu papēdi (Ulisside). Tas pacels bikšu malu, saglabājot tīrību un maksimizējot garu kāju efektu."
+      },
+      {
+        "q": "Zilo denima krāsu ir grūti kombinēt ar apdrukām",
+        "a": "Gluži pretēji, tonis 0927 ir ideāls neitrāls audekls. Demonstrējiet Look 31: tas lieliski harmonē gan ar ziedu apdrukām, gan ar sarežģītu tartāna rūtojumu."
+      },
+      {
+        "q": "Baidos, ka 100% kokvilna būs stingra valkājot",
+        "a": "Kokvilnas denimam Luisa Spagnoli piemīt augsts blīvums, kas nepieciešams Palazzo formas saglabāšanai, taču tas iziet īpašu apstrādi, nodrošinot taktilu komfortu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Džinsai-palazzo atrodo per stambiai",
+        "a": "Atkreipkite dėmesį į reguliarų prigludimą ties liemeniu ir klubais. Modelis Opaglio disciplinuoja figūrą viršuje, leisdamas klešnių apimčiai dirbti išskirtinai dinamikai ir eisenos lengvumui. į reguliarų prigludimą ties liemeniu ir klubais. Modelis Opaglio disciplinuoja figūrą viršuje, leisdamas klešnių apimčiai dirbti išskirtinai dinamikai ir eisenos lengvumui."
+      },
+      {
+        "q": "„Džinsas — tai per paprasta mano stiliui",
+        "a": "Atkreipkite dėmesį į auksinę heraldišką furnitūrą ir sartorialinį kirpimą. Derinyje su šilkiniais marškiniais (Linosa 3286) šis modelis atrodo kaip visapusiškas aukštojo stiliaus elementas. „Plačios klešnės purvinsis per orų kaitą“ Rekomenduokite derinti džinsus su aulinukais ar batais su stabiliu kulnu (Ulisside). Tai pakels kelnių kraštą, išsaugant švarą ir maksimaliai išryškinant ilgų kojų efektą. į auksinę heraldišką furnitūrą ir sartorialinį kirpimą. Derinyje su šilkiniais marškiniais (Linosa 3286) šis modelis atrodo kaip visapusiškas aukštojo stiliaus elementas. „Plačios klešnės purvinsis per orų kaitą“ Rekomenduokite derinti džinsus su aulinukais ar batais su stabiliu kulnu (Ulisside). Tai pakels kelnių kraštą, išsaugant švarą ir maksimaliai išryškinant ilgų kojų efektą."
+      },
+      {
+        "q": "„Mėlyną džinso spalvą sunku derinti su raštais“ Priešingai, atspalvis 0927 yra idealus neutralus drobinis.",
+        "a": "Pademonstruokite Look 31: jis puikiai dera tiek su gėlių raštais, tiek su sudėtingu tartano langu. „Bijau, kad 100% medvilnė bus kieta dėvint“ Luisa Spagnoli medvilninis džinsas pasižymi dideliu tankiu, būtinu Palazzo formai palaikyti, bet kartu praeina specialų apdorojimą, užtikrinantį taktilinį komfortą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Dżinsy palazzo wyglądają zbyt masywnie",
+        "a": "Wskaż na regularne dopasowanie w talii i biodrach. Model Opaglio dyscyplinuje sylwetkę od góry, pozwalając objętości nogawek pracować wyłącznie na dynamikę i lekkość kroku."
+      },
+      {
+        "q": "Dżins to zbyt proste rozwiązanie dla mojego stylu",
+        "a": "Zwróć uwagę na złotą heraldyczną фурнитуру i krawiecki krój. W połączeniu z jedwabnymi koszulami (Linosa 3286) ten model wygląda jak pełnowartościowy element wysokiego stylu."
+      },
+      {
+        "q": "Szerokie nogawki będą się brudzić w niepogodę",
+        "a": "Rekomenduj łączenie dżinsów z wysokimi botkami lub kozakami na stabilnym obcasie (Ulisside). To uniesie krawędź spodni, zachowując czystość i maksymalizując efekt długich nóg."
+      },
+      {
+        "q": "Niebieski kolor dżinsu trudno łączyć z wzorami",
+        "a": "Wręcz przeciwnie, odcień 0927 jest idealnym neutralnym płótnem. Zaprezentuj Look 31: doskonale harmonizuje zarówno z kwiatowymi printami, jak i ze skomplikowaną kratą tartan."
+      },
+      {
+        "q": "Obawiam się, że 100% bawełna będzie sztywna w noszeniu",
+        "a": "Bawełniany dżins Luisa Spagnoli posiada wysoką gęstość niezbędną dla utrzymania formy Palazzo, ale przy tym przechodzi specjalną obróbkę, zapewniającą komfort dotykowy."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Джинси-палаццо",
+        "a": "Вкажіть на регулярну посадку в області талії та виглядають надто стегон. Модель Opaglio дисциплінує фігуру громіздко зверху, дозволяючи об'єму штанин працювати виключно на динаміку та легкість ходи."
+      },
+      {
+        "q": "Денім — це",
+        "a": "Зверніть увагу на золоту геральдичну надто просто для фурнітуру та сарторіальний крій. У поєднанні з мого стилю шовковими сорочками (Linosa 3286) ця модель виглядає як повноцінний елемент високого стилю."
+      },
+      {
+        "q": "Широкі штанини Рекомендуйте поєднувати джинси з високими ботильйонами будуть бруднитися в або чоботями на стійких підборах (Ulisside). негоду",
+        "a": "Це підніме край брюк, зберігаючи чистоту та максимізуючи ефект довгих ніг."
+      },
+      {
+        "q": "Синій колір Навпаки, відтінок 0927 є ідеальним деніму складно нейтральним полотном.",
+        "a": "Продемонструйте Look 31: він поєднувати з чудово гармоніює як із квітковими принтами, принтами так і зі складною клітинкою тартан."
+      },
+      {
+        "q": "Боюся, що 100% Бавовняний денім Luisa Spagnoli володіє високою бавовна буде щільністю, необхідною для підтримки форми жорсткою в носінні",
+        "a": "Palazzo, але при цьому проходить спеціальну обробку, що забезпечує тактильний комфорт."
+      }
+    ]
+  }
+}

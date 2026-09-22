@@ -1,0 +1,420 @@
+{
+  "id": 174,
+  "name": "Micologia",
+  "description": {
+    "en": "An elegant knit jacket in high-quality wool blend, embodying Luisa Spagnoli's aesthetic of contemporary classicism. The model is crafted using an exquisite jacquard technique with a two-tone herringbone pattern (disegno spinato), which lends the fabric depth and a noble texture. Impeccable lapels, contrasting edge trim, and functional patch pockets underscore the structured silhouette. The absence of buttons and the semi-fitted cut ensure ease of styling and a comfortable Regular fit, transforming the jacket into an indispensable element of the winter wardrobe in the \"quiet luxury\" style.",
+    "ru": "Элегантный трикотажный жакет из высококачественной смесовой шерсти, воплощающий эстетику современной классики Luisa Spagnoli. Модель выполнена в изысканной технике жаккардового плетения с двухцветным узором «елочка» (disegno spinato), который придает полотну глубину и благородную фактуру. Безупречные лацканы, контрастная окантовка профилей и функциональные накладные карманы подчеркивают структурированность силуэта. Отсутствие пуговиц и полуприталенный крой обеспечивают легкость стилизации и комфортную посадку Regular fit, превращая жакет в незаменимый элемент зимнего гардероба в стиле «тихой роскоши».",
+    "ar": "سترة تريكو أنيقة مصنوعة من مزيج صوف عالي الجودة، تجسد جماليات الكلاسيكية المعاصرة لـ Luisa Spagnoli. صُممت القطعة بتقنية الحياكة الجاكار المتطورة بنقشة «عظمة السمكة» ثنائية اللون (disegno spinato)، مما يمنح القماش عمقاً وملمساً نبيلاً. تبرز الياقات المصممة بدقة، والحواف المتباينة، والجيوب الخارجية الوظيفية بنية القصة. يضمن غياب الأزرار والقصة شبه المخصرة سهولة التنسيق والملاءمة المريحة Regular fit، مما يجعل السترة عنصراً لا غنى عنه في خزانة الشتاء بأسلوب «الرفاهية الهادئة».",
+    "ka": "ელეგანტური ნაქსოვი პიჯაკი მაღალი ხარისხის შერეული მატყლისგან, რომელიც განასახიერებს Luisa Spagnoli-ს თანამედროვე კლასიკის ესთეტიკას. მოდელი შესრულებულია ჟაკარდის ქსოვის დახვეწილი ტექნიკით, ორფეროვანი „ნაძვისებრი“ (disegno spinato) ორნამენტით, რომელიც ქსოვილს სიღრმესა და კეთილშობილურ ფაქტურას ანიჭებს. უნაკლო ლაცკანები, კონტრასტული კანტები და ფუნქციური ზედა ჯიბეები ხაზს უსვამს სილუეტის სტრუქტურულობას. ღილების არარსებობა და ნახევრად მომდგარი კროი უზრუნველყოფს სტილიზაციის სიმარტივესა და კომფორტულ Regular fit მორგებას, რაც პიჯაკს „ჩუმი ფუფუნების“ სტილის ზამთრის გარდერობის შეუცვლელ ელემენტად აქცევს.",
+    "hy": "Էլեգանտ տրիկոտաժե բաճկոն՝ պատրաստված բարձրորակ խառնուրդային բրդից, որը մարմնավորում է Luisa Spagnoli-ի ժամանակակից դասականի էսթետիկան։ Մոդելը կատարված է երկգույն «եղևնու փշի» (disegno spinato) ժակարդային հյուսվածքի նուրբ տեխնիկայով, որը կտավին հաղորդում է խորություն և ազնվական հյուսվածք։ Անթերի օձիքները, պրոֆիլների կոնտրաստային եզրակարերը և ֆունկցիոնալ գրպաններն ընդգծում են ուրվագծի կառուցվածքայնությունը։ Կոճակների բացակայությունը և կիսաընդգծված ձևվածքն ապահովում են ոճավորման հեշտություն և Regular fit հարմարավետություն՝ դարձնելով բաճկոնը «լուռ շքեղության» ոճով ձմեռային զգեստապահարանի անփոխարինելի տարր։",
+    "lv": "Eleganta trikotāžas žakete no augstas kvalitātes vilnas maisījuma, kas iemieso mūsdienu klasikas estētiku Luisa Spagnoli. Modelis ir izgatavots izsmalcinātā žakarda adīšanas tehnikā ar divkrāsu eglītes rakstu (disegno spinato), kas audumam piešķir dziļumu un cēlu faktūru. Nevainojami atlokiem, kontrastējošas apmales un funkcionālas uzšūtas kabatas izceļ silueta strukturētību. Pogu trūkums un puspiegulošais piegriezums nodrošina vieglu stilizāciju un ērtu Regular fit piegulumu, padarot žaketi par neaizstājamu ziemas garderobes elementu «klusās greznības» stilā.",
+    "lt": "Elegantiškas trikotažinis švarkas iš aukštos kokybės vilnos mišinio, įkūnijantis šiuolaikinės Luisa Spagnoli klasikos estetiką. Modelis atliktas rafinuota žakardinio audimo technika su dviejų spalvų eglutės raštu (disegno spinato), kuris audiniui suteikia gylio ir kilnią tekstūrą. Nepriekaištingi atlapai, kontrastingi profilių apsiuvai ir funkcionalios uždėtinės kišenės pabrėžia struktūrizuotą siluetą. Sagų nebuvimas ir pusiau prigludęs kirpimas užtikrina stiliaus lengvumą ir patogų Regular fit prigludimą, paverčiant švarką nepakeičiamu „tylios prabangos“ stiliaus žiemos garderobo elementu.",
+    "pl": "Elegancki dzianinowy żakiet z wysokiej jakości mieszanki wełny, ucieleśniający estetykę nowoczesnej klasyki Luisa Spagnoli. Model wykonany w wyrafinowanej technice żakardowego splotu z dwukolorowym wzorem w jodełkę (disegno spinato), który nadaje tkaninie głębi i szlachetnej faktury. Nienaganne klapy, kontrastowe wykończenie krawędzi i funkcjonalne naszywane kieszenie podkreślają strukturalność sylwetki. Brak guzików oraz lekko dopasowany krój zapewniają łatwość stylizacji i komfortowe dopasowanie Regular fit, czyniąc żakiet niezbędnym elementem zimowej garderoby w stylu „cichego luksusu”.",
+    "uk": "Елегантний трикотажний жакет із високоякісної сумішевої вовни, що втілює естетику сучасної класики Luisa Spagnoli. Модель виконана у вишуканій техніці жакардового плетіння з двоколірним візерунком «ялинка» (disegno spinato), який додає полотну глибини та благородної фактури. Бездоганні лацкани, контрастна окантовка профілів і функціональні накладні кишені підкреслюють структурованість силуету. Відсутність ґудзиків і напівприталений крій забезпечують легкість стилізації та комфортну посадку Regular fit, перетворюючи жакет на незамінний елемент зимового гардероба у стилі «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Nero Tabacco",
+      "code": "0101 2234",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ema_wbDiQ1a0Lj1RymcvnQ_1735110920696f436bcfc079_62732838_02830810XX1.jpg"
+    },
+    {
+      "name": "Beige Beige",
+      "code": "1117 1118",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/959747307691f1576f006d2_02395475_02790480XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 10",
+        "en": "Total Look 10",
+        "ar": "Total Look 10",
+        "ka": "Total Look 10",
+        "hy": "Total Look 10",
+        "lv": "Total Look 10",
+        "lt": "Total Look 10",
+        "pl": "Total Look 10",
+        "uk": "Total Look 10"
+      },
+      "text": {
+        "ru": "Micologia 1117 1118 в сочетании с блузой Latteria A 0218 и юбкой Minia 1117 1118, дополненный ожерельем Narsete 0002.",
+        "en": "Micologia 1117 1118 combined with the Latteria A 0218 blouse and Minia 1117 1118 skirt, completed by the Narsete 0002 necklace.",
+        "ar": "Micologia 1117 1118 combined with the Latteria A 0218 blouse and Minia 1117 1118 skirt, completed by the Narsete 0002 necklace.",
+        "ka": "Micologia 1117 1118 combined with the Latteria A 0218 blouse and Minia 1117 1118 skirt, completed by the Narsete 0002 necklace.",
+        "hy": "Micologia 1117 1118 combined with the Latteria A 0218 blouse and Minia 1117 1118 skirt, completed by the Narsete 0002 necklace.",
+        "lv": "Micologia 1117 1118 combined with the Latteria A 0218 blouse and Minia 1117 1118 skirt, completed by the Narsete 0002 necklace.",
+        "lt": "Micologia 1117 1118 combined with the Latteria A 0218 blouse and Minia 1117 1118 skirt, completed by the Narsete 0002 necklace.",
+        "pl": "Micologia 1117 1118 combined with the Latteria A 0218 blouse and Minia 1117 1118 skirt, completed by the Narsete 0002 necklace.",
+        "uk": "Micologia 1117 1118 combined with the Latteria A 0218 blouse and Minia 1117 1118 skirt, completed by the Narsete 0002 necklace."
+      },
+      "items": [
+        {
+          "name": "Micologia",
+          "code": "1117 1118",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/959747307691f1576f006d2_02395475_02790480XX1.jpg"
+        },
+        {
+          "name": "Latteria A",
+          "code": "0218",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1723971240691c57c79cc7c5_03631804_02780370XX1.jpg",
+          "modelId": 412
+        },
+        {
+          "name": "Minia",
+          "code": "1117 1118",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1302431902691f15784924a8_40669437_02790520XX1.jpg",
+          "modelId": 445
+        },
+        {
+          "name": "Narsete",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/17819755691c57d4e4e7d2_07198257_02800110XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Luxury Ensemble 179: Micologia 0101 2234 с рубашкой Latteria A 1110, юбкой Minia 0101 2234, туфлями Usanza A 0986 и сумкой Idilliaco A 0986 0002.",
+        "en": "Luxury Ensemble 179: Micologia 0101 2234 with the Latteria A 1110 shirt, Minia 0101 2234 skirt, Usanza A 0986 shoes and Idilliaco A 0986 0002 bag.",
+        "ar": "Luxury Ensemble 179: Micologia 0101 2234 with the Latteria A 1110 shirt, Minia 0101 2234 skirt, Usanza A 0986 shoes and Idilliaco A 0986 0002 bag.",
+        "ka": "Luxury Ensemble 179: Micologia 0101 2234 with the Latteria A 1110 shirt, Minia 0101 2234 skirt, Usanza A 0986 shoes and Idilliaco A 0986 0002 bag.",
+        "hy": "Luxury Ensemble 179: Micologia 0101 2234 with the Latteria A 1110 shirt, Minia 0101 2234 skirt, Usanza A 0986 shoes and Idilliaco A 0986 0002 bag.",
+        "lv": "Luxury Ensemble 179: Micologia 0101 2234 with the Latteria A 1110 shirt, Minia 0101 2234 skirt, Usanza A 0986 shoes and Idilliaco A 0986 0002 bag.",
+        "lt": "Luxury Ensemble 179: Micologia 0101 2234 with the Latteria A 1110 shirt, Minia 0101 2234 skirt, Usanza A 0986 shoes and Idilliaco A 0986 0002 bag.",
+        "pl": "Luxury Ensemble 179: Micologia 0101 2234 with the Latteria A 1110 shirt, Minia 0101 2234 skirt, Usanza A 0986 shoes and Idilliaco A 0986 0002 bag.",
+        "uk": "Luxury Ensemble 179: Micologia 0101 2234 with the Latteria A 1110 shirt, Minia 0101 2234 skirt, Usanza A 0986 shoes and Idilliaco A 0986 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Ensemble",
+          "code": "179",
+          "imageUrl": null
+        },
+        {
+          "name": "Micologia",
+          "code": "0101 2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ema_wbDiQ1a0Lj1RymcvnQ_1735110920696f436bcfc079_62732838_02830810XX1.jpg"
+        },
+        {
+          "name": "Latteria A",
+          "code": "1110",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/vm-kK9HbRYGNhnOkzPdMdg_1277795968696f43060e3c70_91483708_02821380XX1.jpg",
+          "modelId": 412
+        },
+        {
+          "name": "Minia",
+          "code": "0101 2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2DArnQrxTg-oql1-E0SPpg_1318458338696f436d73ee42_37110795_02830840XX1.jpg",
+          "modelId": 445
+        },
+        {
+          "name": "Usanza A",
+          "code": "0986",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USANZA_98600000000.jpg"
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 51/52",
+        "en": "Vetrina 51/52",
+        "ar": "Vetrina 51/52",
+        "ka": "Vetrina 51/52",
+        "hy": "Vetrina 51/52",
+        "lv": "Vetrina 51/52",
+        "lt": "Vetrina 51/52",
+        "pl": "Vetrina 51/52",
+        "uk": "Vetrina 51/52"
+      },
+      "text": {
+        "ru": "Стилизация Micologia 0101 2234 с пуловером Manos F 0101 и юбкой Fabula 0101 для создания многослойного городского образа.",
+        "en": "Styling Micologia 0101 2234 with the Manos F 0101 pullover and Fabula 0101 skirt to create a layered urban look.",
+        "ar": "Styling Micologia 0101 2234 with the Manos F 0101 pullover and Fabula 0101 skirt to create a layered urban look.",
+        "ka": "Styling Micologia 0101 2234 with the Manos F 0101 pullover and Fabula 0101 skirt to create a layered urban look.",
+        "hy": "Styling Micologia 0101 2234 with the Manos F 0101 pullover and Fabula 0101 skirt to create a layered urban look.",
+        "lv": "Styling Micologia 0101 2234 with the Manos F 0101 pullover and Fabula 0101 skirt to create a layered urban look.",
+        "lt": "Styling Micologia 0101 2234 with the Manos F 0101 pullover and Fabula 0101 skirt to create a layered urban look.",
+        "pl": "Styling Micologia 0101 2234 with the Manos F 0101 pullover and Fabula 0101 skirt to create a layered urban look.",
+        "uk": "Styling Micologia 0101 2234 with the Manos F 0101 pullover and Fabula 0101 skirt to create a layered urban look."
+      },
+      "items": [
+        {
+          "name": "Micologia",
+          "code": "0101 2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ema_wbDiQ1a0Lj1RymcvnQ_1735110920696f436bcfc079_62732838_02830810XX1.jpg"
+        },
+        {
+          "name": "Manos F",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Fabula",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg",
+          "modelId": 386
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Highlight the 'built-in adornment' effect: the dress is a complete statement in itself, requiring no additional statement necklaces thanks to its bow embroidery and crystal buttons.",
+      "Draw the client's attention to the composition: 85% wool lends a noble texture and warmth rarely found in evening dresses of such an elegant cut.",
+      "Recommend this piece for occasions with a cocktail or black-tie dress code, where the black hue and the delicate sparkle of the stones will underscore the wearer's status."
+    ],
+    "ru": [
+      "Сделайте акцент на универсальности модели без пуговиц: её можно носить как легкий жакет нараспашку или подчеркнуть талию кожаным ремнем из коллекции, создавая более строгий силуэт.",
+      "Обратите внимание клиента на состав: 85% натуральной шерсти обеспечивают тепло и мягкость, в то время как добавление акрила гарантирует износостойкость и сохранение формы жаккардового узора.",
+      "Рекомендуйте покупку в комплекте с юбкой Minia того же оттенка для создания безупречного Total Look, который визуально вытягивает фигуру благодаря единому узору."
+    ],
+    "ar": [
+      "سلطي الضوء على تعددية استخدامات الموديل بدون أزرار: يمكن ارتداؤه كجاكيت خفيف مفتوح أو تحديد الخصر بحزام جلدي من المجموعة لخلق صورة ظلية أكثر صرامة.",
+      "لفتي انتباه العميل إلى التكوين: 85% من الصوف الطبيعي يضمن الدفء والنعومة، بينما يضمن إضافة الأكريليك المتانة والحفاظ على شكل نقش الجاكار.",
+      "ننصح بالشراء مع تنورة Minia من نفس الدرجة اللونية لخلق Total Look لا تشوبه شائبة، والذي يطيل القوام بصريًا بفضل النمط الموحد."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი მოდელის უნივერსალურობაზე ღილების გარეშე: მისი ტარება შესაძლებელია როგორც მსუბუქი ჟაკეტი შეხსნილად, ან წელის ხაზგასმა კოლექციიდან ტყავის ქამრით, რაც ქმნის უფრო მკაცრ სილუეტს.",
+      "მიაქცევინეთ კლიენტის ყურადღება შემადგენლობას: 85% ნატურალური მატყლი უზრუნველყოფს სითბოსა და სირბილეს, ხოლო აკრილის დამატება გარანტიას იძლევა ცვეთამედეგობისა და ჟაკარდის ნიმუშის ფორმის შენარჩუნების.",
+      "რეკომენდაცია გაუწიეთ შეძენას იმავე ფერის Minia ქვედაკაბასთან კომპლექტში, უნაკლო Total Look-ის შესაქმნელად, რომელიც ვიზუალურად აგრძელებს ფიგურას ერთიანი ნიმუშის წყალობით."
+    ],
+    "hy": [
+      "Շեշտադրեք մոդելի բազմակողմանիությունը առանց կոճակների. այն կարելի է կրել որպես թեթև բաճկոն՝ բաց, կամ ընդգծել գոտկատեղը հավաքածուից կաշվե գոտիով՝ ստեղծելով ավելի խիստ ուրվագիծ։",
+      "Հաճախորդի ուշադրությունը հրավիրեք բաղադրության վրա. 85% բնական բուրդն ապահովում է ջերմություն և փափկություն, մինչդեռ ակրիլի հավելումը երաշխավորում է ժակարդի նախշի դիմացկունությունն ու ձևի պահպանումը։",
+      "Առաջարկեք գնումը համադրել Minia կիսաշրջազգեստի հետ նույն երանգով՝ ստեղծելու անթերի Total Look, որը տեսողականորեն երկարացնում է կազմվածքը՝ միասնական նախշի շնորհիվ։"
+    ],
+    "lv": [
+      "Lieciet uzsvaru uz modeļa daudzpusību bez pogām: to var valkāt kā vieglu jaku vaļēju vai izcelt vidukli ar ādas jostu no kolekcijas, radot stingrāku siluetu.",
+      "Vērsiet klienta uzmanību uz sastāvu: 85% dabīgas vilnas nodrošina siltumu un maigumu, savukārt akrila piejaukums garantē nodilumizturību un žakarda raksta formas saglabāšanu.",
+      "Iesakiet iegādāties komplektā ar Minia svārkiem tādā pašā tonī, lai radītu nevainojamu Total Look, kas vizuāli pagarina figūru, pateicoties vienotajam rakstam."
+    ],
+    "lt": [
+      "Akcentuokite modelio be sagų universalumą: jį galima dėvėti kaip lengvą švarką atviru priekiu arba pabrėžti liemenį odiniu diržu iš kolekcijos, sukuriant griežtesnį siluetą.",
+      "Atkreipkite kliento dėmesį į sudėtį: 85% natūralios vilnos užtikrina šilumą ir švelnumą, o akrilo pridėjimas garantuoja žakardinio rašto atsparumą dėvėjimuisi ir formos išlaikymą.",
+      "Rekomenduokite pirkti komplekte su to paties atspalvio sijonu Minia, siekiant sukurti nepriekaištingą Total Look, kuris vizualiai ilgina figūrą dėl vientiso rašto."
+    ],
+    "pl": [
+      "Połóż nacisk na uniwersalność modelu bez guzików: można go nosić jako lekki żakiet narzucony na wierzch lub podkreślić talię skórzanym paskiem z kolekcji, tworząc bardziej wyrazistą sylwetkę.",
+      "Zwróć uwagę klientki na skład: 85% naturalnej wełny zapewnia ciepło i miękkość, podczas gdy dodatek akrylu gwarantuje trwałość oraz zachowanie kształtu żakardowego wzoru.",
+      "Rekomenduj zakup w komplecie ze spódnicą Minia w tym samym odcieniu, aby stworzyć bezbłędny Total Look, który optycznie wydłuża sylwetkę dzięki spójnemu wzorowi."
+    ],
+    "uk": [
+      "Зробіть акцент на універсальності моделі без ґудзиків: її можна носити як легкий жакет нарозхрист або підкреслити талію шкіряним ременем з колекції, створюючи більш строгий силует.",
+      "Зверніть увагу клієнта на склад: 85% натуральної вовни забезпечують тепло та м'якість, тоді як додавання акрилу гарантує зносостійкість і збереження форми жакардового візерунка.",
+      "Рекомендуйте покупку в комплекті зі спідницею Minia того ж відтінку для створення бездоганного Total Look, який візуально витягує фігуру завдяки єдиному візерунку."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The absence of buttons makes the jacket non-functional.",
+        "a": "Explain that this is a designer choice, made to create a more contemporary, relaxed look. The jacket is ideal for layering, and can be secured with an elegant brooch or belt when needed."
+      },
+      {
+        "q": "The herringbone pattern seems too traditional.",
+        "a": "Emphasise that the classic 'spinato' weave is the season's key Heritage trend. The Micologia piece's contrasting edge detailing lends it a contemporary, dynamic look, setting it apart from ordinary knitwear."
+      },
+      {
+        "q": "The blended material composition.",
+        "a": "Clarify that the foundation of the jacket is premium natural wool (85%). The small percentage of technical fibre is essential specifically for the jacquard knit, ensuring the piece does not deform and retains the crispness of its pattern after cleaning."
+      },
+      {
+        "q": "An unlined jacket may let a draught through.",
+        "a": "This piece is crafted in a dense knit that retains warmth exceptionally well. The absence of a lining makes the jacket more supple, allowing it to drape softly over the figure and move freely beneath outerwear."
+      },
+      {
+        "q": "The colour combinations seem unusual.",
+        "a": "Nero/Tabacco and Beige/Beige are foundational colours in the Luisa Spagnoli palette. They integrate easily into a wardrobe, pairing as beautifully with classic denim as with pastel silk blouses."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Отсутствие пуговиц делает жакет нефункциональным",
+        "a": "Объясните, что это дизайнерское решение для создания более современного и расслабленного образа. Жакет идеально подходит для многослойности, а при необходимости его можно зафиксировать элегантной брошью или поясом."
+      },
+      {
+        "q": "Узор «елочка» кажется слишком традиционным",
+        "a": "Подчеркните, что классика «spinato» — это главный тренд сезона Heritage. Контрастная окантовка профилей Micologia придает модели современный динамичный вид, отличая её от обычного трикотажа."
+      },
+      {
+        "q": "Смесовый состав материала",
+        "a": "Уточните, что основа жакета — высококачественная натуральная шерсть (85%). Небольшой процент технологичных волокон необходим именно для жаккардовой вязки, чтобы изделие не деформировалось и сохраняло четкость рисунка после чистки."
+      },
+      {
+        "q": "Жакет без подкладки может продуваться",
+        "a": "Модель выполнена плотной вязкой, которая отлично сохраняет тепло. Отсутствие подкладки делает жакет более пластичным, позволяя ему мягко облегать фигуру и не стеснять движений под верхней одеждой."
+      },
+      {
+        "q": "Цветовые сочетания кажутся специфическими",
+        "a": "Цвета Nero/Tabacco и Beige/Beige являются базовыми цветами палитры Luisa Spagnoli. Они легко интегрируются в гардероб, сочетаясь как с классическим денимом, так и с шелковыми блузами пастельных тонов."
+      }
+    ],
+    "ar": [
+      {
+        "q": "غياب الأزرار يجعل الجاكيت غير عملي",
+        "a": "اشرحي أن هذا قرار تصميمي لخلق إطلالة أكثر عصرية وانسيابية. الجاكيت مثالي للتنسيق متعدد الطبقات، ويمكن تثبيته عند الحاجة ببروش أنيق أو حزام."
+      },
+      {
+        "q": "نقشة «عظم السمكة» تبدو تقليدية جداً",
+        "a": "أكدي أن كلاسيكية «spinato» هي الاتجاه الرئيسي لموسم Heritage. الحواف المتباينة بتفاصيل Micologia تمنح الموديل مظهراً عصرياً وديناميكياً، مما يميزه عن التريكو العادي."
+      },
+      {
+        "q": "تركيبة المواد المخلوطة",
+        "a": "وضحي أن أساس الجاكيت هو صوف طبيعي عالي الجودة (85%). النسبة الصغيرة من الألياف التكنولوجية ضرورية تحديداً لحياكة الجاكار لضمان عدم تشوه القطعة والحفاظ على دقة الرسم بعد التنظيف."
+      },
+      {
+        "q": "الجاكيت بدون بطانة قد يكون معرضاً لدخول الهواء",
+        "a": "الموديل منفذ بحياكة كثيفة تحتفظ بالدفء بشكل ممتاز. غياب البطانة يجعل الجاكيت أكثر مرونة، مما يسمح له باحتضان القوام بنعومة دون تقييد الحركة تحت الملابس الخارجية."
+      },
+      {
+        "q": "تنسيقات الألوان تبدو محددة",
+        "a": "ألوان Nero/Tabacco وBeige/Beige هي ألوان أساسية في لوحة ألوان Luisa Spagnoli. فهي تندمج بسهولة في خزانة الملابس، وتتناسق سواء مع الجينز الكلاسيكي أو مع البلوزات الحريرية ذات الألوان الهادئة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ღილების არარსებობა ქურთუკს ნაკლებად ფუნქციონალურს ხდის",
+        "a": "განუმარტეთ, რომ ეს დიზაინერული გადაწყვეტილებაა უფრო თანამედროვე და თავისუფალი სტილის შესაქმნელად. ქურთუკი იდეალურია მრავალშრიანი ანსამბლისთვის, ხოლო საჭიროების შემთხვევაში შესაძლებელია მისი დაფიქსირება ელეგანტური ბროშით ან ქამრით."
+      },
+      {
+        "q": "„ნაძვისებრი“ ორნამენტი ზედმეტად ტრადიციული გეჩვენებათ",
+        "a": "ხაზგასმით აღნიშნეთ, რომ კლასიკური „spinato“ Heritage-ის სეზონის მთავარი ტრენდია. Micologia-ს პროფილების კონტრასტული კანტი მოდელს თანამედროვე დინამიკურ იერს ანიჭებს, რაც მას ჩვეულებრივი ტრიკოტაჟისგან განასხვავებს."
+      },
+      {
+        "q": "მასალის შერეული შემადგენლობა",
+        "a": "დააზუსტეთ, რომ ქურთუკის საფუძველი მაღალი ხარისხის ნატურალური მატყლია (85%). ტექნოლოგიური ბოჭკოების მცირე პროცენტი აუცილებელია სწორედ ჟაკარდის ქსოვისთვის, რათა ნაწარმმა ფორმა არ დაკარგოს და წმენდის შემდეგაც შეინარჩუნოს ნახატის სიცხადე."
+      },
+      {
+        "q": "სარჩულის გარეშე ქურთუკი შეიძლება ცივი იყოს",
+        "a": "მოდელი შესრულებულია მჭიდრო ქსოვით, რომელიც შესანიშნავად ინარჩუნებს სითბოს. სარჩულის არარსებობა ქურთუკს უფრო პლასტიკურს ხდის, რაც საშუალებას აძლევს მას რბილად შემოეჭდოს სხეულს და არ შეზღუდოს მოძრაობა ზედა ტანსაცმლის ქვეშ."
+      },
+      {
+        "q": "ფერთა შეხამება სპეციფიკური გეჩვენებათ",
+        "a": "Nero/Tabacco და Beige/Beige ფერები Luisa Spagnoli-ს პალიტრის საბაზისო ფერებია. ისინი ადვილად ინტეგრირდება გარდერობში და ეხამება როგორც კლასიკურ დენიმს, ისე პასტელური ფერის აბრეშუმის ბლუზებს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կոճակների բացակայությունը ժակետը դարձնում է ոչ ֆունկցիոնալ",
+        "a": "Բացատրեք, որ սա դիզայներական լուծում է՝ ավելի ժամանակակից և հանգիստ կերպար ստեղծելու համար: Ժակետը իդեալական է շերտավոր հագուստի համար, իսկ անհրաժեշտության դեպքում այն կարելի է ամրացնել նրբագեղ բրոշով կամ գոտիով"
+      },
+      {
+        "q": "Եղևնու» նախշը շատ ավանդական է թվում",
+        "a": "Շեշտեք, որ «spinato» դասականը Heritage սեզոնի գլխավոր թրենդն է: Micologia պրոֆիլների կոնտրաստային եզրագծերը մոդելին հաղորդում են ժամանակակից դինամիկ տեսք՝ տարբերելով այն սովորական տրիկոտաժից"
+      },
+      {
+        "q": "Նյութի խառը կազմ",
+        "a": "Հստակեցրեք, որ ժակետի հիմքը բարձրորակ բնական բուրդն է (85%): Տեխնոլոգիական թելերի փոքր տոկոսն անհրաժեշտ է հենց ժակարդային հյուսվածքի համար, որպեսզի արտադրանքը չդեֆորմացվի և մաքրումից հետո պահպանի նախշի հստակությունը"
+      },
+      {
+        "q": "Առանց աստառի ժակետը կարող է քամոտ լինել",
+        "a": "Մոդելը պատրաստված է խիտ հյուսվածքով, որը հիանալի պահպանում է ջերմությունը: Աստառի բացակայությունը ժակետը դարձնում է ավելի պլաստիկ՝ թույլ տալով այն փափուկ գրկել կազմվածքը և չկաշկանդել շարժումները վերնազգեստի տակ"
+      },
+      {
+        "q": "Գունային համադրությունները յուրահատուկ են թվում",
+        "a": "Nero/Tabacco և Beige/Beige գույները Luisa Spagnoli-ի պալիտրայի բազային գույներն են: Դրանք հեշտությամբ ինտեգրվում են զգեստապահարան՝ համադրվելով ինչպես դասական ջինսերի, այնպես էլ պաստելային երանգների մետաքսյա բլուզների հետ"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Pogu trūkums padara žaketi nefunkcionālu",
+        "a": "Paskaidrojiet, ka tas ir dizaina risinājums mūsdienīgāka un nepiespiestāka tēla radīšanai. Žakete ir ideāli piemērota slāņošanai, un nepieciešamības gadījumā to var fiksēt ar elegantu piespraudi vai jostu."
+      },
+      {
+        "q": "Eglītes raksts šķiet pārāk tradicionāls",
+        "a": "Uzsveriet, ka 'spinato' klasika ir Heritage sezonas galvenais trends. Kontrastējošā Micologia profilu apdare piešķir modelim modernu, dinamisku izskatu, atšķirot to no parastas trikotāžas."
+      },
+      {
+        "q": "Jaukta materiāla sastāvs",
+        "a": "Precizējiet, ka žaketes pamats ir augstas kvalitātes dabīgā vilna (85%). Neliels procents tehnoloģisko šķiedru ir nepieciešams tieši žakarda adījumam, lai izstrādājums nedeformētos un saglabātu raksta skaidrību pēc tīrīšanas."
+      },
+      {
+        "q": "Žakete bez oderes var caurpūsties",
+        "a": "Modelis ir izgatavots blīvā adījumā, kas lieliski saglabā siltumu. Oderes trūkums padara žaketi plastiskāku, ļaujot tai maigi piegulēt figūrai un neierobežot kustības zem virsdrēbēm."
+      },
+      {
+        "q": "Krāsu salikumi šķiet specifiski",
+        "a": "Nero/Tabacco un Beige/Beige krāsas ir Luisa Spagnoli paletes bāzes toņi. Tie viegli iekļaujas garderobē, saskaņojoties gan ar klasisku džinsu, gan ar pasteļtoņu zīda blūzēm."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Dėl sagų nebuvimo švarkas atrodo nefunkcionalus",
+        "a": "Paaiškinkite, kad tai dizainerio sprendimas, skirtas sukurti modernesnį ir laisvesnį įvaizdį. Švarkas idealiai tinka sluoksniuotam deriniui, o esant poreikiui, jį galima užfiksuoti elegantiška sage ar diržu."
+      },
+      {
+        "q": "„Eglutės“ raštas atrodo per daug tradicinis",
+        "a": "Pabrėžkite, kad „spinato“ klasika yra pagrindinė Heritage sezono tendencija. Kontrastingas Micologia profilių apvadas suteikia modeliui modernią dinamišką išvaizdą, išskirdamas jį iš įprasto trikotažo."
+      },
+      {
+        "q": "Audinio sudėtis su priemaišomis",
+        "a": "Patikslinkite, kad švarko pagrindas yra aukščiausios kokybės natūrali vilna (85%). Nedidelis procentas technologinių pluoštų yra būtinas būtent žakardiniam mezgimui, kad gaminys nedeformuotųsi ir išsaugotų rašto ryškumą po valymo."
+      },
+      {
+        "q": "Švarkas be pamušalo gali peršviesti",
+        "a": "Modelis megztas tankiu mezgimu, kuris puikiai sulaiko šilumą. Pamušalo nebuvimas daro švarką plastiškesnį, leidžiant jam švelniai priglusti prie figūros ir nevaržyti judesių po viršutiniais drabužiais."
+      },
+      {
+        "q": "Spalvų deriniai atrodo specifiniai",
+        "a": "Spalvos Nero/Tabacco ir Beige/Beige yra bazinės Luisa Spagnoli paletės spalvos. Jos lengvai integruojamos į garderobą, derinant tiek prie klasikinio džinso, tiek prie pastelinių tonų šilkinių palaidinių."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Brak guzików czyni żakiet niefunkcjonalnym",
+        "a": "Wyjaśnij, że jest to designerskie rozwiązanie mające na celu stworzenie bardziej nowoczesnego i niezobowiązującego wizerunku. Żakiet idealnie pasuje do warstwowych stylizacji, a w razie potrzeby można go zapiąć elegancką broszką lub paskiem."
+      },
+      {
+        "q": "Wzór w jodełkę wydaje się zbyt tradycyjny",
+        "a": "Podkreśl, że klasyka 'spinato' to główny trend sezonu Heritage. Kontrastowe wykończenie profili Micologia nadaje modelowi nowoczesny, dynamiczny wygląd, odróżniając go od zwykłej dzianiny."
+      },
+      {
+        "q": "Mieszany skład materiału",
+        "a": "Wyjaśnij, że bazą żakietu jest wysokiej jakości naturalna wełna (85%). Niewielki procent włókien technicznych jest niezbędny właśnie dla splotu żakardowego, aby wyrób nie deformował się i zachowywał wyrazistość wzoru po czyszczeniu."
+      },
+      {
+        "q": "Żakiet bez podszewki może przepuszczać chłód",
+        "a": "Model wykonany jest gęstym splotem, który doskonale zatrzymuje ciepło. Brak podszewki czyni żakiet bardziej plastycznym, pozwalając mu miękko układać się na figurze i nie krępować ruchów pod odzieżą wierzchnią."
+      },
+      {
+        "q": "Zestawienia kolorystyczne wydają się specyficzne",
+        "a": "Kolory Nero/Tabacco oraz Beige/Beige są bazowymi kolorami palety Luisa Spagnoli. Łatwo integrują się z garderobą, pasując zarówno do klasycznego denimu, jak i jedwabnych bluzek w pastelowych odcieniach."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Візерунок «ялинка» здається занадто традиційним",
+        "a": "Підкресліть, що класика «spinato» — це головний тренд сезону Heritage. Контрастна окантовка профілів Micologia надає моделі сучасного динамічного вигляду, відрізняючи її від звичайного трикотажу."
+      },
+      {
+        "q": "Змішаний склад матеріалу",
+        "a": "Уточніть, що основа жакета — високоякісна натуральна вовна (85%). Невеликий відсоток технологічних волокон необхідний саме для жакардової в'язки, щоб виріб не деформувався і зберігав чіткість малюнка після чищення."
+      },
+      {
+        "q": "Жакет без підкладки може продуватися",
+        "a": "Модель виконана щільною в'язкою, яка відмінно зберігає тепло. Відсутність підкладки робить жакет більш пластичним, дозволяючи йому м'яко облягати фігуру і не сковувати рухів під верхнім одягом."
+      },
+      {
+        "q": "Колірні поєднання здаються специфічними",
+        "a": "Кольори Nero/Tabacco і Beige/Beige є базовими кольорами палітри Luisa Spagnoli. Вони легко інтегруються в гардероб, поєднуючись як із класичним денімом, так і з шовковими блузами пастельних тонів."
+      }
+    ]
+  }
+}

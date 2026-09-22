@@ -1,0 +1,389 @@
+{
+  "id": 3,
+  "name": "Caprese B",
+  "description": {
+    "en": "The Caprese B pullover by Luisa Spagnoli is the embodiment of refined minimalism and impeccable Italian craftsmanship. This piece is a foundational wardrobe element in the \"quiet luxury\" aesthetic, striking the perfect balance between tactile comfort and aristocratic refinement. Clean lines and a flawless fit make this pullover a versatile base for layered, runway-inspired looks, underscoring the brand's commitment to the highest standards of quality.",
+    "ru": "Пуловер Caprese B от Luisa Spagnoli — это воплощение изысканного минимализма и безупречного итальянского мастерства. Модель представляет собой фундаментальный элемент гардероба в стиле «тихой роскоши», обеспечивающий идеальный баланс между тактильным комфортом и аристократичной эстетикой. Чистота линий и безупречная посадка делают этот пуловер универсальной базой для создания многослойных подиумных образов, подчеркивая приверженность бренда высочайшим стандартам качества.",
+    "ar": "يُعد بلوفر Caprese B من Luisa Spagnoli تجسيداً للبساطة الراقية والحرفية الإيطالية التي لا تشوبها شائبة. يُمثل هذا الموديل عنصراً أساسياً في خزانة الملابس بأسلوب \"الرفاهية الهادئة\"، حيث يحقق توازناً مثالياً بين الراحة الملموسة والجماليات الأرستقراطية. تعكس خطوط التصميم النقية وقصته المتقنة التزام العلامة التجارية بأعلى معايير الجودة، مما يجعله قاعدة مثالية لابتكار إطلالات متعددة الطبقات بلمسات عصرية.",
+    "ka": "Luisa Spagnoli-ს პულოვერი Caprese B არის დახვეწილი მინიმალიზმისა და უნაკლო იტალიური ოსტატობის განსახიერება. მოდელი წარმოადგენს „ჩუმი ფუფუნების“ სტილის გარდერობის ფუნდამენტურ ელემენტს, რომელიც უზრუნველყოფს იდეალურ ბალანსს ტაქტილურ კომფორტსა და არისტოკრატულ ესთეტიკას შორის. ხაზების სისუფთავე და უნაკლო მორგება ამ პულოვერს ხდის მრავალფენიანი პოდიუმის იმიჯების შესაქმნელად უნივერსალურ ბაზად, რაც ხაზს უსვამს ბრენდის ერთგულებას ხარისხის უმაღლესი სტანდარტებისადმი.",
+    "hy": "Luisa Spagnoli-ի Caprese B պուլովերը նրբաճաշակ մինիմալիզմի և իտալական անթերի վարպետության մարմնացումն է։ Մոդելը հանդիսանում է «հանգիստ շքեղություն» ոճի զգեստապահարանի հիմնարար տարր՝ ապահովելով իդեալական հավասարակշռություն տակտիլ հարմարավետության և արիստոկրատական էսթետիկայի միջև։ Գծերի մաքրությունը և անթերի կտրվածքը այս պուլովերը դարձնում են բազմաշերտ պոդիումային կերպարներ ստեղծելու բազմակողմանի բազա՝ ընդգծելով ապրանքանիշի հավատարմությունը որակի ամենաբարձր չափանիշներին։",
+    "lv": "Caprese B džemperis no Luisa Spagnoli ir izsmalcināta minimālisma un nevainojamas itāļu meistarības iemiesojums. Modelis ir fundamentāls garderobes elements \"klusās greznības\" stilā, nodrošinot ideālu līdzsvaru starp taktilu komfortu un aristokrātisku estētiku. Līniju tīrība un nevainojamais piegriezums padara šo džemperi par universālu pamatu daudzslāņu podiuma tēlu radīšanai, uzsverot zīmola uzticību augstākajiem kvalitātes standartiem.",
+    "lt": "Puloveris Caprese B iš Luisa Spagnoli – tai rafinuoto minimalizmo ir nepriekaištingo itališko meistriškumo įsikūnijimas. Modelis yra fundamentalus „tylios prabangos“ stiliaus garderobo elementas, užtikrinantis idealų taktilinio komforto ir aristokratiškos estetikos balansą. Linijų grynumas ir nepriekaištingas prigludimas paverčia šį puloverį universaliu pagrindu kuriant daugiasluoksnius podiumo stiliaus įvaizdžius, pabrėžiant prekės ženklo įsipareigojimą aukščiausiems kokybės standartams.",
+    "pl": "Pulower Caprese B od Luisa Spagnoli to ucieleśnienie wyrafinowanego minimalizmu i bezbłędnego włoskiego rzemiosła. Model stanowi fundamentalny element garderoby w stylu „cichego luksusu”, zapewniający idealną równowagę między komfortem dotyku a arystokratyczną estetyką. Czystość linii i nienaganne dopasowanie czynią ten pulower uniwersalną bazą do tworzenia wielowarstwowych wybiegowych stylizacji, podkreślając przywiązanie marki do najwyższych standardów jakości.",
+    "uk": "Пуловер Caprese B від Luisa Spagnoli — це втілення вишуканого мінімалізму та бездоганної італійської майстерності. Модель є фундаментальним елементом гардероба в стилі «тихої розкоші», що забезпечує ідеальний баланс між тактильним комфортом та аристократичною естетикою. Чистота ліній і бездоганна посадка роблять цей пуловер універсальною базою для створення багатошарових подіумних образів, підкреслюючи прихильність бренду найвищим стандартам якості."
+  },
+  "colors": [
+    {
+      "name": "Cammello",
+      "code": "2331",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q-dcDsRCTh-irYmaGwi0fg_1660235822696f430d81f0d5_01266196_02830040XX1.jpg"
+    },
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2sl41gfjQaK9ETlHxdmwRg_220518545696f430d1b6002_25349365_02830030XX1.jpg"
+    },
+    {
+      "name": "Panna",
+      "code": "0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSF_20400000000.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Cammello)",
+        "en": "Total Look (Cammello)",
+        "ar": "Total Look (Cammello)",
+        "ka": "Total Look (Cammello)",
+        "hy": "Total Look (Cammello)",
+        "lv": "Total Look (Cammello)",
+        "lt": "Total Look (Cammello)",
+        "pl": "Total Look (Cammello)",
+        "uk": "Total Look (Cammello)"
+      },
+      "text": {
+        "ru": "Cremina 2331 2219, Caprese B 2331, Fragolino 3274, Ulisside 2240 0038, Iago 2240 0002, Nagorno 0002.",
+        "en": "Cremina 2331 2219, Caprese B 2331, Fragolino 3274, Ulisside 2240 0038, Iago 2240 0002, Nagorno 0002.",
+        "ar": "Cremina 2331 2219, Caprese B 2331, Fragolino 3274, Ulisside 2240 0038, Iago 2240 0002, Nagorno 0002.",
+        "ka": "Cremina 2331 2219, Caprese B 2331, Fragolino 3274, Ulisside 2240 0038, Iago 2240 0002, Nagorno 0002.",
+        "hy": "Cremina 2331 2219, Caprese B 2331, Fragolino 3274, Ulisside 2240 0038, Iago 2240 0002, Nagorno 0002.",
+        "lv": "Cremina 2331 2219, Caprese B 2331, Fragolino 3274, Ulisside 2240 0038, Iago 2240 0002, Nagorno 0002.",
+        "lt": "Cremina 2331 2219, Caprese B 2331, Fragolino 3274, Ulisside 2240 0038, Iago 2240 0002, Nagorno 0002.",
+        "pl": "Cremina 2331 2219, Caprese B 2331, Fragolino 3274, Ulisside 2240 0038, Iago 2240 0002, Nagorno 0002.",
+        "uk": "Cremina 2331 2219, Caprese B 2331, Fragolino 3274, Ulisside 2240 0038, Iago 2240 0002, Nagorno 0002."
+      },
+      "items": [
+        {
+          "name": "Cremina",
+          "code": "2331 2219",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/BDt_ZIILRNmGizWnsP5YxA_412933266696f435c3f9cf4_66565473_02830290XX1.jpg",
+          "modelId": 14
+        },
+        {
+          "name": "Caprese B",
+          "code": "2331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q-dcDsRCTh-irYmaGwi0fg_1660235822696f430d81f0d5_01266196_02830040XX1.jpg"
+        },
+        {
+          "name": "Fragolino",
+          "code": "3274",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7yuoR1bWTgyth5POk6xtow_2013389323696f422d086a32_26895525_02820060XX1.jpg",
+          "modelId": 56
+        },
+        {
+          "name": "Ulisside",
+          "code": "2240 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        },
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG",
+          "modelId": 198
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (Nero)",
+        "en": "Total Look (Nero)",
+        "ar": "Total Look (Nero)",
+        "ka": "Total Look (Nero)",
+        "hy": "Total Look (Nero)",
+        "lv": "Total Look (Nero)",
+        "lt": "Total Look (Nero)",
+        "pl": "Total Look (Nero)",
+        "uk": "Total Look (Nero)"
+      },
+      "text": {
+        "ru": "Cremina 0101 0101, Caprese B 0101, Fabula 0101, Ulisside 0101 0038, Neanide 0002.",
+        "en": "Cremina 0101 0101, Caprese B 0101, Fabula 0101, Ulisside 0101 0038, Neanide 0002.",
+        "ar": "Cremina 0101 0101, Caprese B 0101, Fabula 0101, Ulisside 0101 0038, Neanide 0002.",
+        "ka": "Cremina 0101 0101, Caprese B 0101, Fabula 0101, Ulisside 0101 0038, Neanide 0002.",
+        "hy": "Cremina 0101 0101, Caprese B 0101, Fabula 0101, Ulisside 0101 0038, Neanide 0002.",
+        "lv": "Cremina 0101 0101, Caprese B 0101, Fabula 0101, Ulisside 0101 0038, Neanide 0002.",
+        "lt": "Cremina 0101 0101, Caprese B 0101, Fabula 0101, Ulisside 0101 0038, Neanide 0002.",
+        "pl": "Cremina 0101 0101, Caprese B 0101, Fabula 0101, Ulisside 0101 0038, Neanide 0002.",
+        "uk": "Cremina 0101 0101, Caprese B 0101, Fabula 0101, Ulisside 0101 0038, Neanide 0002."
+      },
+      "items": [
+        {
+          "name": "Cremina",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/968GUVoMR7eNk2H7UQeWPg_345108726696f435bd28378_65218503_02830280XX1.jpg",
+          "modelId": 14
+        },
+        {
+          "name": "Caprese B",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2sl41gfjQaK9ETlHxdmwRg_220518545696f430d1b6002_25349365_02830030XX1.jpg"
+        },
+        {
+          "name": "Fabula",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg",
+          "modelId": 386
+        },
+        {
+          "name": "Ulisside",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+        },
+        {
+          "name": "Neanide",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1605403396691c57d8aee920_21613301_02800170XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize versatility: the Caprese B pullover is the perfect companion to richly textured jackets such as Cremina, creating a harmonious and polished look.",
+      "Recommend the piece as an investment in a foundational wardrobe: the classic camel, black, and cream tones are timeless and pair effortlessly with any seasonal arrival.",
+      "Suggest a play of contrasts: the understated Caprese B knit pairs beautifully with textured skirts, such as the checked Fragolino, or with leather accessories."
+    ],
+    "ru": [
+      "Делайте ставку на универсальность: пуловер Caprese B является идеальным компаньоном для жакетов сложной фактуры, таких как Cremina, создавая гармоничный и завершенный образ.",
+      "Рекомендуйте модель как инвестицию в базовый гардероб: классические оттенки кэмел, черный и молочный неподвластны времени и легко комбинируются с любыми сезонными новинками.",
+      "Предлагайте игру контрастов: лаконичный трикотаж Caprese B превосходно сочетается с фактурными юбками, например, с моделью Fragolino в клетку или кожаными аксессуарами."
+    ],
+    "ar": [
+      "راهني على تعدد الاستخدامات: بلوفر Caprese B هو الرفيق المثالي للسترات ذات الأنسجة المعقدة مثل Cremina، مما يخلق إطلالة متناغمة ومكتملة.",
+      "رشحي هذا الموديل كاستثمار في خزانة الملابس الأساسية: ألوان الجملي (Camel)، الأسود، والأبيض الكريمي هي ألوان خالدة يمكن تنسيقها بسهولة مع أي من ابتكارات الموسم.",
+      "اقترحي تباين الخامات: تريكو Caprese B البسيط يتناغم بشكل رائع مع التنانير ذات الملمس البارز، مثل موديل Fragolino المزين بنقوش المربعات أو الإكسسوارات الجلدية."
+    ],
+    "ka": [
+      "გააკეთეთ ფსონი უნივერსალურობაზე: პულოვერი Caprese B წარმოადგენს იდეალურ კომპანიონს რთული ფაქტურის ჟაკეტებისთვის, როგორიცაა Cremina, რაც ქმნის ჰარმონიულ და დასრულებულ იმიჯს.",
+      "ურჩიეთ მოდელი, როგორც ინვესტიცია საბაზისო გარდერობში: კლასიკური ქემელის, შავი და რძისფერი ტონები არ ექვემდებარება დროს და ადვილად კომბინირდება ნებისმიერ სეზონურ სიახლესთან.",
+      "შესთავაზეთ კონტრასტების თამაში: ლაკონური ტრიკოტაჟი Caprese B შესანიშნავად ეხამება ფაქტურულ ქვედაბოლოებს, მაგალითად, Fragolino-ს მოდელს კუბოკრულ პრინტში ან ტყავის აქსესუარებს."
+    ],
+    "hy": [
+      "Խաղադրույք կատարեք բազմակողմանիության վրա. Caprese B պուլովերը բարդ ֆակտուրա ունեցող ժակետների, ինչպիսիք են Cremina-ն, իդեալական ուղեկիցն է՝ ստեղծելով ներդաշնակ և ամբողջական կերպար:",
+      "Առաջարկեք մոդելը որպես ներդրում բազային զգեստապահարանում. քամել, սև և կաթնագույն դասական երանգները ժամանակից դուրս են և հեշտությամբ համադրվում են ցանկացած սեզոնային նորույթի հետ:",
+      "Առաջարկեք հակադրությունների խաղ. լակոնիկ Caprese B տրիկոտաժը հիանալի կերպով համադրվում է ֆակտուրային կիսաշրջազգեստների հետ, օրինակ՝ վանդակավոր Fragolino մոդելի կամ կաշվե աքսեսուարների հետ:"
+    ],
+    "lv": [
+      "Lieciet likmi uz universālumu: pulovers Caprese B ir ideāls sabiedrotais sarežģītas faktūras žaketēm, piemēram, Cremina, radot harmonisku un pabeigtu tēlu.",
+      "Iesakiet modeli kā investīciju bāzes garderobē: klasiskie kameļkrāsas, melnie un piena toņi ir mūžīgi un viegli kombinējami ar jebkādiem sezonas jaunumiem.",
+      "Piedāvājiet kontrastu spēli: lakoniskā trikotāža Caprese B lieliski sader ar faktūrainiem svārkiem, piemēram, ar rūtaino modeli Fragolino vai ādas aksesuāriem."
+    ],
+    "lt": [
+      "Statykite už universalumą: megztinis Caprese B yra idealus palydovas sudėtingos faktūros švarkams, tokiems kaip Cremina, sukuriantis harmoningą ir užbaigtą įvaizdį.",
+      "Rekomenduokite modelį kaip investiciją į bazinį garderobą: klasikiniai kupranugario, juodos ir pieno atspalviai yra nepavaldūs laikui ir lengvai derinami su bet kokiomis sezono naujienomis.",
+      "Pasiūlykite kontrastų žaismą: lakoniškas Caprese B trikotažas puikiai dera su faktūriniais sijonais, pavyzdžiui, su languotu modeliu Fragolino arba odiniais aksesuarais."
+    ],
+    "pl": [
+      "Postaw na uniwersalność: pulower Caprese B jest idealnym towarzyszem dla żakietów o złożonej fakturze, takich jak Cremina, tworząc harmonijną i wykończoną stylizację.",
+      "Rekomenduj ten model jako inwestycję w bazową garderobę: klasyczne odcienie camel, czerni i mlecznej bieli są ponadczasowe i łatwo łączą się z wszelkimi sezonowymi nowościami.",
+      "Zaproponuj grę kontrastów: lakoniczna dzianina Caprese B znakomicie łączy się z fakturowanymi spódnicami, na przykład z modelem Fragolino w kratę lub skórzanymi akcesoriami."
+    ],
+    "uk": [
+      "Робіть ставку на універсальність: пуловер Caprese B є ідеальним компаньйоном для жакетів складної фактури, таких як Cremina, створюючи гармонійний та завершений образ.",
+      "Рекомендуйте модель як інвестицію в базовий гардероб: класичні відтінки кемел, чорний та молочний непідвладні часу і легко комбінуються з будь-якими сезонними новинками.",
+      "Пропонуйте гру контрастів: лаконічний трикотаж Caprese B чудово поєднується з фактурними спідницями, наприклад, з моделлю Fragolino у клітинку або шкіряними аксесуарами."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The design seems too simple.",
+        "a": "True elegance lies precisely in simplicity. This model is designed as a flawless canvas that allows the luxury of Luisa Spagnoli's fabrics and accessories to take center stage."
+      },
+      {
+        "q": "Concern that the camel shade may not suit the complexion.",
+        "a": "Shade 2331 (Cammello) was selected by our stylists as the most universally flattering warm tone, one that refreshes the complexion and lends the look a noble radiance."
+      },
+      {
+        "q": "from official sources regarding the exact composition.",
+        "a": "Every Luisa Spagnoli piece is crafted from carefully selected natural fibers, undergoing rigorous quality control to ensure durability and comfort."
+      },
+      {
+        "q": "How should this model be styled for an evening occasion?",
+        "a": "Add statement jewelry, such as the Neanide earrings or the Natalidi necklace, and complete the look with the elegant Ulisside boots for an evening-chic finish."
+      },
+      {
+        "q": "Concern about caring for light shades (Panna).",
+        "a": "We recommend professional cleaning, which will preserve the fiber's structure and the brightness of the milky 0202 shade for many seasons to come."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Дизайн кажется слишком простым.",
+        "a": "Именно в простоте кроется истинная элегантность. Эта модель разработана как безупречный фон, позволяющий выделить роскошь тканей и аксессуаров Luisa Spagnoli."
+      },
+      {
+        "q": "Боязнь, что цвет кэмел может не подойти к лицу.",
+        "a": "Оттенок 2331 (Cammello) подобран нашими стилистами как наиболее универсальный теплый тон, который освежает цвет лица и придает образу благородное сияние."
+      },
+      {
+        "q": "относительно точного состава.",
+        "a": "Все изделия Luisa Spagnoli изготавливаются из отборных натуральных волокон, проходя строгий контроль качества для обеспечения долговечности и комфорта."
+      },
+      {
+        "q": "Как стилизовать модель для вечернего выхода?",
+        "a": "Добавьте акцентные украшения, такие как серьги Neanide или колье Natalidi, и дополните образ изящными сапогами Ulisside для создания вечернего шика."
+      },
+      {
+        "q": "Сложность в уходе за светлыми оттенками (Panna).",
+        "a": "Мы рекомендуем профессиональную чистку, которая сохранит структуру волокна и яркость молочного оттенка 0202 на многие сезоны."
+      }
+    ],
+    "ar": [
+      {
+        "q": "التصميم يبدو بسيطاً للغاية.",
+        "a": "البساطة هي جوهر الأناقة الحقيقية. صممت هذه القطعة لتكون خلفية مثالية تبرز فخامة أقمشة وإكسسوارات Luisa Spagnoli."
+      },
+      {
+        "q": "الخوف من أن لون الجمل (Camel) قد لا يناسب لون البشرة.",
+        "a": "تم اختيار درجة اللون 2331 (Cammello) من قبل مصممينا كأكثر الألوان الدافئة تنوعاً، حيث تضفي إشراقة على الوجه وتمنح المظهر لمسة نبيلة."
+      },
+      {
+        "q": "لا تتوفر بيانات في المصادر الرسمية بشأن التركيب الدقيق.",
+        "a": "تُصنع جميع منتجات Luisa Spagnoli من ألياف طبيعية مختارة تخضع لرقابة صارمة لضمان المتانة والراحة."
+      },
+      {
+        "q": "كيف يمكن تنسيق هذه القطعة للمناسبات المسائية؟",
+        "a": "أضيفي قطعاً بارزة مثل أقراط Neanide أو قلادة Natalidi، وأكملي الإطلالة بحذاء Ulisside الأنيق لخلق سحر مسائي متألق."
+      },
+      {
+        "q": "صعوبة العناية بالألوان الفاتحة (Panna).",
+        "a": "نوصي بالتنظيف الاحترافي الذي يحافظ على بنية الألياف وسطوع لون الحليب 0202 لعدة مواسم."
+      }
+    ],
+    "ka": [
+      {
+        "q": "დიზაინი ზედმეტად მარტივი ჩანს.",
+        "a": "სწორედ სიმარტივეში იმალება ჭეშმარიტი ელეგანტურობა. ეს მოდელი შემუშავებულია როგორც უნაკლო ფონი, რომელიც საშუალებას იძლევა წარმოვაჩინოთ Luisa Spagnoli-ს ქსოვილებისა და აქსესუარების ფუფუნება."
+      },
+      {
+        "q": "შიში იმისა, რომ ქემელის ფერი შესაძლოა სახის ფერს არ უხდებოდეს.",
+        "a": "ტონი 2331 (Cammello) ჩვენი სტილისტების მიერ შერჩეულია როგორც ყველაზე უნივერსალური თბილი ტონი, რომელიც აცოცხლებს სახის ფერს და სახეს კეთილშობილურ ბზინვარებას ანიჭებს."
+      },
+      {
+        "q": "ოფიციალურ წყაროებში ზუსტი შემადგენლობის შესახებ მონაცემები არ არის.",
+        "a": "Luisa Spagnoli-ს ყველა ნაკეთობა მზადდება შერჩეული ნატურალური ბოჭკოებისგან, გადის რა ხარისხის მკაცრ კონტროლს გამძლეობისა და კომფორტის უზრუნველსაყოფად."
+      },
+      {
+        "q": "როგორ გავაფორმოთ მოდელი საღამოს გასასვლელად?",
+        "a": "დაამატეთ აქცენტური სამკაულები, როგორიცაა საყურეები Neanide ან ყელსაბამი Natalidi, და შეავსეთ სახე დახვეწილი ჩექმებით Ulisside საღამოს შიკის შესაქმნელად."
+      },
+      {
+        "q": "ღია ფერების (Panna) მოვლის სირთულე.",
+        "a": "ჩვენ რეკომენდაციას ვუწევთ პროფესიონალურ წმენდას, რომელიც შეინარჩუნებს ბოჭკოს სტრუქტურას და რძისფერი ტონის 0202 სიკაშკაშეს მრავალი სეზონის განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Դիզայնը չափազանց պարզ է թվում։",
+        "a": "Հենց պարզության մեջ է թաքնված իսկական էլեգանտությունը։ Այս մոդելը մշակվել է որպես անթերի ֆոն, որը թույլ է տալիս ընդգծել Luisa Spagnoli-ի գործվածքների և աքսեսուարների շքեղությունը։"
+      },
+      {
+        "q": "Մտավախություն, որ քեմել գույնը կարող է չսազել դեմքին։",
+        "a": "2331 (Cammello) երանգը մեր ոճաբանների կողմից ընտրվել է որպես առավել ունիվերսալ տաք երանգ, որը թարմացնում է դեմքի գույնը և կերպարին հաղորդում ազնվական փայլ։"
+      },
+      {
+        "q": "՝ կազմի ճշգրտության վերաբերյալ։",
+        "a": "Luisa Spagnoli-ի բոլոր արտադրանքները պատրաստվում են ընտիր բնական մանրաթելերից՝ անցնելով որակի խիստ հսկողություն՝ երկարակեցություն և հարմարավետություն ապահովելու համար։"
+      },
+      {
+        "q": "Ինչպե՞ս ոճավորել մոդելը երեկոյան ելքի համար։",
+        "a": "Ավելացրեք շեշտադրող զարդեր, ինչպիսիք են Neanide ականջօղերը կամ Natalidi վզնոցը, և լրացրեք կերպարը Ulisside նրբագեղ երկարաճիտ կոշիկներով՝ երեկոյան շքեղություն ստեղծելու համար։"
+      },
+      {
+        "q": "Խնամքի դժվարություն բաց երանգների (Panna) հետ։",
+        "a": "Մենք խորհուրդ ենք տալիս մասնագիտական մաքրում, որը կպահպանի թելի կառուցվածքը և 0202 կաթնագույն երանգի պայծառությունը շատ մրցաշրջանների ընթացքում։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Dizains šķiet pārāk vienkāršs.",
+        "a": "Tieši vienkāršībā slēpjas patiesā elegance. Šis modelis ir izstrādāts kā nevainojams fons, kas ļauj izcelt Luisa Spagnoli audumu un aksesuāru greznību."
+      },
+      {
+        "q": "Bailes, ka kemeļa krāsa var nepiestāvēt sejai.",
+        "a": "Tonis 2331 (Cammello) mūsu stilistu ir izvēlēts kā visuniversālākais siltais tonis, kas atsvaidzina sejas krāsu un piešķir tēlam cēlu mirdzumu."
+      },
+      {
+        "q": "Trūkst datu oficiālajos avotos par precīzu sastāvu.",
+        "a": "Visi Luisa Spagnoli izstrādājumi ir izgatavoti no atlasītām dabīgām šķiedrām, izturot stingru kvalitātes kontroli, lai nodrošinātu ilgmūžību un komfortu."
+      },
+      {
+        "q": "Kā stilizēt modeli vakara izejai?",
+        "a": "Pievienojiet akcentētas rotaslietas, piemēram, Neanide auskarus vai Natalidi kaklarotu, un papildiniet tēlu ar elegantajiem Ulisside zābakiem vakara šika radīšanai."
+      },
+      {
+        "q": "Sarežģījumi gaišo toņu (Panna) kopšanā.",
+        "a": "Mēs iesakām profesionālu tīrīšanu, kas saglabās šķiedras struktūru un piena toņa 0202 spilgtumu daudzām sezonām."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Dizainas atrodo pernelyg paprastas.",
+        "a": "Būtent paprastume slypi tikroji elegancija. Šis modelis sukurtas kaip nepriekaištingas fonas, leidžiantis išryškinti Luisa Spagnoli audinių ir aksesuarų prabangą."
+      },
+      {
+        "q": "Baimė, kad kupranugario spalva gali netikti veidui.",
+        "a": "2331 (Cammello) atspalvį mūsų stilistai parinko kaip universaliausią šiltą toną, kuris atgaivina veido spalvą ir suteikia įvaizdžiui kilnaus spindesio."
+      },
+      {
+        "q": "Kaip stilizuoti modelį vakariniam išėjimui?",
+        "a": "Pridėkite akcentinius papuošalus, tokius kaip Neanide auskarai ar Natalidi vėrinys, ir papildykite įvaizdį grakščiais Ulisside batais, kad sukurtumėte vakarinį šiką."
+      },
+      {
+        "q": "Sudėtinga prižiūrėti šviesius atspalvius (Panna).",
+        "a": "Rekomenduojame profesionalų valymą, kuris išsaugos pluošto struktūrą ir pieniško 0202 atspalvio ryškumą daugeliui sezonų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Design wydaje się zbyt prosty.",
+        "a": "Właśnie w prostocie tkwi prawdziwa elegancja. Ten model został zaprojektowany jako bezbłędne tło, pozwalające wyeksponować luksus tkanin i akcesoriów Luisa Spagnoli."
+      },
+      {
+        "q": "Obawa, że kolor camel może nie pasować do cery.",
+        "a": "Odcień 2331 (Cammello) został dobrany przez naszych stylistów jako najbardziej uniwersalny ciepły ton, który odświeża cerę i dodaje wizerunkowi szlachetnego blasku."
+      },
+      {
+        "q": "dotyczących dokładnego składu.",
+        "a": "Wszystkie produkty Luisa Spagnoli wykonywane są z wyselekcjonowanych naturalnych włókien, przechodząc rygorystyczną kontrolę jakości w celu zapewnienia trwałości i komfortu."
+      },
+      {
+        "q": "Jak stylizować model na wieczorne wyjście?",
+        "a": "Dodaj akcentujące ozdoby, takie jak kolczyki Neanide lub naszyjnik Natalidi, i uzupełnij stylizację eleganckimi kozakami Ulisside, aby stworzyć wieczorowy szyk."
+      },
+      {
+        "q": "Trudności w pielęgnacji jasnych odcieni (Panna).",
+        "a": "Zalecamy profesjonalne czyszczenie, które zachowa strukturę włókna i jasność mlecznego odcienia 0202 na wiele sezonów."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Дизайн здається занадто простим.",
+        "a": "Саме в простоті криється справжня елегантність. Ця модель розроблена як бездоганний фон, що дозволяє виділити розкіш тканин та аксесуарів Luisa Spagnoli."
+      },
+      {
+        "q": "Побоювання, що колір кемел може не пасувати до обличчя.",
+        "a": "Відтінок 2331 (Cammello) підібраний нашими стилістами як найбільш універсальний теплий тон, який освіжає колір обличчя та надає образу благородного сяйва."
+      },
+      {
+        "q": "щодо точного складу.",
+        "a": "Усі вироби Luisa Spagnoli виготовляються з відбірних натуральних волокон, проходячи суворий контроль якості для забезпечення довговічності та комфорту."
+      },
+      {
+        "q": "Як стилізувати модель для вечірнього виходу?",
+        "a": "Додайте акцентні прикраси, такі як сережки Neanide або кольє Natalidi, і доповніть образ витонченими чоботами Ulisside для створення вечірнього шику."
+      },
+      {
+        "q": "Складність у догляді за світлими відтінками (Panna).",
+        "a": "Ми рекомендуємо професійну чистку, яка збереже структуру волокна та яскравість молочного відтінку 0202 на багато сезонів."
+      }
+    ]
+  }
+}

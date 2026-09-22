@@ -1,0 +1,408 @@
+{
+  "id": 47,
+  "name": "Fidente",
+  "description": {
+    "en": "The Fidente midi skirt by Luisa Spagnoli is a manifesto of contemporary femininity and tactile luxury. Crafted from the finest 100% genuine leather (Vera Pelle), it guarantees a flawless fit and lasting quality. An architectural, panel-constructed cut accentuates the sculptural quality of the silhouette, while a daring, deep front slit lends the look dynamism and runway-worthy edge. Functional details such as side pockets and belt loops, combined with a mid-calf length, make this piece a versatile base for creating status-defining ensembles in the 'quiet luxury' aesthetic.",
+    "ru": "Юбка-миди Fidente от Luisa Spagnoli — это манифест современной женственности и тактильной роскоши. Модель выполнена из 100% натуральной кожи (Vera Pelle) высочайшего качества, что гарантирует безупречную посадку и долговечность. Архитектурный крой с конструкцией из панелей подчеркивает скульптурность силуэта, а дерзкий глубокий разрез спереди придает образу динамику и подиумный шик. Функциональные детали в виде боковых карманов и шлевок для ремня в сочетании с длиной до середины икры делают эту модель универсальной базой для создания статусных ансамблей в эстетике «тихой роскоши».",
+    "ar": "تُجسّد تنورة \"فيدينتي\" (Fidente) المتوسطة الطول (Midi) من علامة لويزا سبانيولي (Luisa Spagnoli) بيانًا صارخًا للأنوثة المعاصرة والفخامة الملموسة. صُنِعت القطعة من الجلد الطبيعي الخالص 100% (Vera Pelle) بأعلى معايير الجودة، مما يضمن ملاءمة متقنة واستدامة استثنائية. يُبرز القصّ المعماري ذو الألواح المتعددة منحنيات القوام بأسلوب منحوت، بينما تضفي الفتحة الأمامية الجريئة والعميقة حركية ساحرة وأناقة مستوحاة من منصات العرض. وت مكتمل عمق التصميم بتفاصيل عملية تشمل الجيوب الجانبية وحلقات الحزام، ليجعل منها طولها الذي يصل إلى منتصف الساق قطعة أساسية لابتكار إطلالات رفيعة المستوى تجسد مفهوم \"الفخامة الهادئة\" (Quiet Luxury).",
+    "ka": "Luisa Spagnoli-ს მიდი ქვედაბოლო Fidente არის თანამედროვე ქალურობისა და ტაქტილური ფუფუნების მანიფესტი. მოდელი დამზადებულია უმაღლესი ხარისხის 100% ნატურალური ტყავისგან (Vera Pelle), რაც უზრუნველყოფს უნაკლო მორგებასა და გამძლეობას. პანელების კონსტრუქციის მქონე არქიტექტურული ჭრა ხაზს უსვამს სილუეტის სკულპტურულობას, ხოლო წინა მხარეს არსებული გაბედული ღრმა ჭრილი იმიჯს დინამიკასა და პოდიუმის შიკს სძენს. გვერდითი ჯიბეებისა და ქამრისთვის განკუთვნილი ყულფების ფუნქციური დეტალები კოჭამდე სიგრძესთან ერთად ამ მოდელს „ჩუმი ფუფუნების“ ესთეტიკით სტატუსური ანსამბლების შესაქმნელად უნივერსალურ ბაზად აქცევს.",
+    "hy": "Luisa Spagnoli-ի Fidente միդի-կիսաշրջազգեստը ժամանակակից կանացիության և հպման համար հաճելի շքեղության մանիֆեստ է։ Մոդելը պատրաստված է ամենաբարձր որակի 100% բնական կաշվից (Vera Pelle), ինչը երաշխավորում է կատարյալ տեսք և դիմացկունություն։ Վահանակներից բաղկացած կառուցվածքով ճարտարապետական ձևվածքն ընդգծում է ուրվագծի քանդակային բնույթը, իսկ առջևի մասում առկա համարձակ խորը ճեղքը կերպարին հաղորդում է դինամիկա և պոդիումային շիկ։ Կողային գրպանների և գոտու անցակների տեսքով ֆունկցիոնալ դետալները՝ սրունքի կեսին հասնող երկարության հետ միասին, այս մոդելը դարձնում են ունիվերսալ հիմք՝ «լուռ շքեղություն» էսթետիկայում կարգավիճակային անսամբլներ ստեղծելու համար։",
+    "lv": "Midi svārki Fidente no Luisa Spagnoli ir mūsdienīgas sievišķības un taktilas greznības manifests. Modelis ir izgatavots no 100% augstākās kvalitātes dabīgās ādas (Vera Pelle), kas garantē nevainojamu piegulumu un ilgmūžību. Arhitektoniskais piegriezums ar paneļu konstrukciju izceļ silueta skulpturālumu, bet drosmīgs, dziļš šķēlums priekšpusē piešķir tēlam dinamiku un modes skates šiku. Funkcionālas detaļas sānu kabatu un jostas cilpu veidā apvienojumā ar garumu līdz ikru vidum padara šo modeli par universālu bāzi statusa ansambļu radīšanai „klusās greznības” estētikā.",
+    "lt": "„Fidente“ midi sijonas iš „Luisa Spagnoli“ – tai šiuolaikiško moteriškumo ir taktilinės prabangos manifestas. Modelis pagamintas iš aukščiausios kokybės 100 % natūralios odos (Vera Pelle), kas garantuoja nepriekaištingą prigludimą ir ilgaamžiškumą. Architektūrinis kirpimas su skydelių konstrukcija pabrėžia silueto skulptūriškumą, o drąsus gilus skeltukas priekyje suteikia įvaizdžiui dinamikos ir podiumo šiko. Funkcionalios detalės – šoninės kišenės ir diržo kilpos kartu su ilgiu iki blauzdos vidurio – daro šį modelį universaliu pagrindu kuriant statusinius ansamblius „tylios prabangos“ estetikoje.",
+    "pl": "Spódnica midi Fidente od Luisa Spagnoli to manifest nowoczesnej kobiecości i taktylnego luksusu. Model wykonany jest w 100% z naturalnej skóry (Vera Pelle) najwyższej jakości, co gwarantuje doskonałe dopasowanie i trwałość. Architektoniczny krój z konstrukcją panelową podkreśla rzeźbiarski charakter sylwetki, a odważne, głębokie rozcięcie z przodu nadaje stylizacji dynamizmu i wybiegowego szyku. Funkcjonalne detale w postaci bocznych kieszeni i szlufek na pasek, w połączeniu z długością do połowy łydki, czynią ten model uniwersalną bazą do tworzenia prestiżowych zestawień w estetyce „cichego luksusu”.",
+    "uk": "Спідниця-міді Fidente від Luisa Spagnoli — це маніфест сучасної жіночності та тактильної розкоші. Модель виконана зі 100% натуральної шкіри (Vera Pelle) найвищої якості, що гарантує бездоганну посадку та довговічність. Архітектурний крій із конструкцією з панелей підкреслює скульптурність силуету, а зухвалий глибокий розріз спереду додає образу динаміки та подіумного шику. Функціональні деталі у вигляді бокових кишень і шльовок для ременя в поєднанні з довжиною до середини ікри роблять цю модель універсальною базою для створення статусних ансамблів в естетиці «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Marrone",
+      "code": "0996",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8yyxLDhfQoGPfXSuzRNYIA_109176338691c57c742f5e1_48030380_02780360XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 170 (Modern Leather)",
+        "en": "Total Look 170 (Modern Leather)",
+        "ar": "Total Look 170 (Modern Leather)",
+        "ka": "Total Look 170 (Modern Leather)",
+        "hy": "Total Look 170 (Modern Leather)",
+        "lv": "Total Look 170 (Modern Leather)",
+        "lt": "Total Look 170 (Modern Leather)",
+        "pl": "Total Look 170 (Modern Leather)",
+        "uk": "Total Look 170 (Modern Leather)"
+      },
+      "text": {
+        "ru": "Кожаная куртка Spareggio 0996 в безупречном сочетании с юбкой Fidente 0996. Образ дополнен туфлями Uragano A 0101, очками Xnina A 0101 0002 и аксессуаром Navoncella 0002.",
+        "en": "Spareggio 0996 leather jacket in a flawless combination with Fidente 0996 skirt. The look is complemented by Uragano A 0101 shoes, Xnina A 0101 0002 glasses and Navoncella 0002 accessory (Data not available in official sources).",
+        "ar": "Spareggio 0996 leather jacket in a flawless combination with Fidente 0996 skirt. The look is complemented by Uragano A 0101 shoes, Xnina A 0101 0002 glasses and Navoncella 0002 accessory (Data not available in official sources).",
+        "ka": "Spareggio 0996 leather jacket in a flawless combination with Fidente 0996 skirt. The look is complemented by Uragano A 0101 shoes, Xnina A 0101 0002 glasses and Navoncella 0002 accessory (Data not available in official sources).",
+        "hy": "Spareggio 0996 leather jacket in a flawless combination with Fidente 0996 skirt. The look is complemented by Uragano A 0101 shoes, Xnina A 0101 0002 glasses and Navoncella 0002 accessory (Data not available in official sources).",
+        "lv": "Spareggio 0996 leather jacket in a flawless combination with Fidente 0996 skirt. The look is complemented by Uragano A 0101 shoes, Xnina A 0101 0002 glasses and Navoncella 0002 accessory (Data not available in official sources).",
+        "lt": "Spareggio 0996 leather jacket in a flawless combination with Fidente 0996 skirt. The look is complemented by Uragano A 0101 shoes, Xnina A 0101 0002 glasses and Navoncella 0002 accessory (Data not available in official sources).",
+        "pl": "Spareggio 0996 leather jacket in a flawless combination with Fidente 0996 skirt. The look is complemented by Uragano A 0101 shoes, Xnina A 0101 0002 glasses and Navoncella 0002 accessory (Data not available in official sources).",
+        "uk": "Spareggio 0996 leather jacket in a flawless combination with Fidente 0996 skirt. The look is complemented by Uragano A 0101 shoes, Xnina A 0101 0002 glasses and Navoncella 0002 accessory (Data not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Spareggio",
+          "code": "0996",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2NiFlQdATsqtiyLCjMWh9Q_1848836899696f42fd755c70_44100840_02821130XX1.jpg",
+          "modelId": 333
+        },
+        {
+          "name": "Fidente",
+          "code": "0996",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8yyxLDhfQoGPfXSuzRNYIA_109176338691c57c742f5e1_48030380_02780360XX1.jpg"
+        },
+        {
+          "name": "Uragano A",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URAGANO_10100000000.jpg"
+        },
+        {
+          "name": "Xnina A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-10%20at%2014.20.26%20%281%29.jpeg"
+        },
+        {
+          "name": "Navoncella",
+          "code": "0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 99 (Texture Play)",
+        "en": "Total Look 99 (Texture Play)",
+        "ar": "Total Look 99 (Texture Play)",
+        "ka": "Total Look 99 (Texture Play)",
+        "hy": "Total Look 99 (Texture Play)",
+        "lv": "Total Look 99 (Texture Play)",
+        "lt": "Total Look 99 (Texture Play)",
+        "pl": "Total Look 99 (Texture Play)",
+        "uk": "Total Look 99 (Texture Play)"
+      },
+      "text": {
+        "ru": "Укороченный пуловер Cufra 0101 2302 создает изысканный контраст фактур с кожаной юбкой Fidente 0996. Завершает ансамбль статусная сумка Idilliaco A 0986 0002.",
+        "en": "Cufra 0101 2302 cropped pullover creates an exquisite texture contrast with the Fidente 0996 leather skirt. An Idilliaco A 0986 0002 statement bag completes the ensemble.",
+        "ar": "Cufra 0101 2302 cropped pullover creates an exquisite texture contrast with the Fidente 0996 leather skirt. An Idilliaco A 0986 0002 statement bag completes the ensemble.",
+        "ka": "Cufra 0101 2302 cropped pullover creates an exquisite texture contrast with the Fidente 0996 leather skirt. An Idilliaco A 0986 0002 statement bag completes the ensemble.",
+        "hy": "Cufra 0101 2302 cropped pullover creates an exquisite texture contrast with the Fidente 0996 leather skirt. An Idilliaco A 0986 0002 statement bag completes the ensemble.",
+        "lv": "Cufra 0101 2302 cropped pullover creates an exquisite texture contrast with the Fidente 0996 leather skirt. An Idilliaco A 0986 0002 statement bag completes the ensemble.",
+        "lt": "Cufra 0101 2302 cropped pullover creates an exquisite texture contrast with the Fidente 0996 leather skirt. An Idilliaco A 0986 0002 statement bag completes the ensemble.",
+        "pl": "Cufra 0101 2302 cropped pullover creates an exquisite texture contrast with the Fidente 0996 leather skirt. An Idilliaco A 0986 0002 statement bag completes the ensemble.",
+        "uk": "Cufra 0101 2302 cropped pullover creates an exquisite texture contrast with the Fidente 0996 leather skirt. An Idilliaco A 0986 0002 statement bag completes the ensemble."
+      },
+      "items": [
+        {
+          "name": "Cufra",
+          "code": "0101 2302",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dcF6HOVdQ7iqWehI_upkTg_1751198497696f435dea6910_55225797_02830330XX1.jpg",
+          "modelId": 17
+        },
+        {
+          "name": "Fidente",
+          "code": "0996",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8yyxLDhfQoGPfXSuzRNYIA_109176338691c57c742f5e1_48030380_02780360XX1.jpg"
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 48 (Winter Suede)",
+        "en": "Total Look 48 (Winter Suede)",
+        "ar": "Total Look 48 (Winter Suede)",
+        "ka": "Total Look 48 (Winter Suede)",
+        "hy": "Total Look 48 (Winter Suede)",
+        "lv": "Total Look 48 (Winter Suede)",
+        "lt": "Total Look 48 (Winter Suede)",
+        "pl": "Total Look 48 (Winter Suede)",
+        "uk": "Total Look 48 (Winter Suede)"
+      },
+      "text": {
+        "ru": "Дубленка Supporre 0995 и юбка Fidente 0996 в паре с платьем Met 1781, дополненные сумкой Idoneo.",
+        "en": "Supporre 0995 shearling coat and Fidente 0996 skirt paired with Met 1781 dress, complemented by an Idoneo bag (Data not available in official sources).",
+        "ar": "Supporre 0995 shearling coat and Fidente 0996 skirt paired with Met 1781 dress, complemented by an Idoneo bag (Data not available in official sources).",
+        "ka": "Supporre 0995 shearling coat and Fidente 0996 skirt paired with Met 1781 dress, complemented by an Idoneo bag (Data not available in official sources).",
+        "hy": "Supporre 0995 shearling coat and Fidente 0996 skirt paired with Met 1781 dress, complemented by an Idoneo bag (Data not available in official sources).",
+        "lv": "Supporre 0995 shearling coat and Fidente 0996 skirt paired with Met 1781 dress, complemented by an Idoneo bag (Data not available in official sources).",
+        "lt": "Supporre 0995 shearling coat and Fidente 0996 skirt paired with Met 1781 dress, complemented by an Idoneo bag (Data not available in official sources).",
+        "pl": "Supporre 0995 shearling coat and Fidente 0996 skirt paired with Met 1781 dress, complemented by an Idoneo bag (Data not available in official sources).",
+        "uk": "Supporre 0995 shearling coat and Fidente 0996 skirt paired with Met 1781 dress, complemented by an Idoneo bag (Data not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Supporre",
+          "code": "0995",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A-_m01BxSlCI2yq9LK3j-A_1990879054696f430060bf33_29956349_02821230XX1.jpg",
+          "modelId": 354
+        },
+        {
+          "name": "Fidente",
+          "code": "0996",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8yyxLDhfQoGPfXSuzRNYIA_109176338691c57c742f5e1_48030380_02780360XX1.jpg"
+        },
+        {
+          "name": "Met",
+          "code": "1781",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MET_178100000000.jpg",
+          "modelId": 173
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the exclusivity of the material: 100% genuine leather (Vera Pelle) is the hallmark of the finest quality and a lasting investment in personal style.",
+      "Draw attention to the 'vertical effect': the deep front slit visually elongates the legs and lends grace to the walk, making the skirt the ideal choice for statement occasions.",
+      "Recommend a play of contrasts: pairing the bold leather of Fidente with the delicate mohair of Cufra is the key to an on-trend 'Urban Luxe' look."
+    ],
+    "ru": [
+      "Делайте ставку на эксклюзивность материала: 100% натуральная кожа (Vera Pelle) — это признак высшего качества и долговечная инвестиция в персональный стиль.",
+      "Акцентируйте внимание на «эффекте вертикали»: глубокий передний разрез визуально удлиняет ноги и придает походке грациозность, что делает юбку идеальным выбором для статусных выходов.",
+      "Рекомендуйте игру контрастов: сочетание брутальной кожи Fidente с нежным мохером Cufra 0101 2302 — это ключ к созданию актуального образа в стиле 'Urban Luxe'."
+    ],
+    "ar": [
+      "راهني على حصرية المادة: فالجلد الطبيعي 100% (Vera Pelle) هو علامة على الجودة العالية واستثمار طويل الأمد في الأسلوب الشخصي.",
+      "أكدي على «التأثير العمودي»: ففتحة الساق الأمامية العميقة تطيل الساقين بصرياً وتضفي على المشية رشاقة، مما يجعل التنورة خياراً مثالياً للمناسبات الهامة.",
+      "نوصي بلعبة التباينات: فمزيج الجلد القوي Fidente مع الموهير الرقيق Cufra 0101 2302 هو مفتاح خلق إطلالة عصرية بأسلوب 'Urban Luxe'."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი მასალის ექსკლუზიურობაზე: 100% ნატურალური ტყავი (Vera Pelle) — ეს არის უმაღლესი ხარისხის ნიშანი და გამძლე ინვესტიცია პერსონალურ სტილში.",
+      "ყურადღება გაამახვილეთ „ვერტიკალურ ეფექტზე“: წინა ღრმა ჭრილი ვიზუალურად აგრძელებს ფეხებს და სიარულს მატებს გრაციოზულობას, რაც ქვედაბოლოს იდეალურ არჩევანად აქცევს საზეიმო გამოსვლებისთვის.",
+      "რეკომენდაცია გაუწიეთ კონტრასტულ შეხამებას: Fidente-ს მკვეთრი ტყავის და Cufra 0101 2302 ნაზი მოჰერის კომბინაცია — ეს არის 'Urban Luxe' სტილის აქტუალური იერსახის შექმნის გასაღები."
+    ],
+    "hy": [
+      "Խաղադրույք կատարեք նյութի էքսկլյուզիվության վրա. 100% բնական կաշի (Vera Pelle)՝ սա բարձրագույն որակի նշան է և երկարատև ներդրում անհատական ոճի մեջ։",
+      "Շեշտադրեք «ուղղահայաց էֆեկտը». առջևի խորը բացվածքը տեսողականորեն երկարացնում է ոտքերը և քայլվածքին հաղորդում նրբագեղություն, ինչը կիսաշրջազգեստը դարձնում է իդեալական ընտրություն կարգավիճակային ելքերի համար։",
+      "Խորհուրդ տվեք հակադրությունների խաղը. Fidente կոպիտ կաշվի և Cufra 0101 2302 նուրբ մոհերի համադրությունը՝ սա 'Urban Luxe' ոճի արդիական կերպար ստեղծելու բանալին է։"
+    ],
+    "lv": [
+      "Liekiet likmi uz materiāla ekskluzivitāti: 100% dabīgā āda (Vera Pelle) ir augstākās kvalitātes pazīme un ilgmūžīgs ieguldījums personīgajā stilā.",
+      "Akcentējiet «vertikālo efektu»: dziļais priekšējais šķēlums vizuāli pagarina kājas un piešķir gaitai grāciju, padarot svārkus par ideālu izvēli statusa pasākumiem.",
+      "Iesakiet kontrastu spēli: brutalitātes pilnās Fidente ādas kombinācija ar smalko Cufra 0101 2302 mohēru ir atslēga uz aktuālu 'Urban Luxe' stila tēlu."
+    ],
+    "lt": [
+      "Statykite už medžiagos išskirtinumą: 100% natūrali oda (Vera Pelle) – tai aukščiausios kokybės ženklas ir ilgalaikė investicija į asmeninį stilių.",
+      "Akcentuokite „vertikalų efektą“: gilus priekinis skeltukas vizualiai ilgina kojas ir suteikia eisenai grakštumo, todėl šis sijonas yra idealus pasirinkimas solidiems išėjimams.",
+      "Rekomenduokite kontrastų žaismą: grubios Fidente odos derinimas su švelniu Cufra 0101 2302 moheriu – tai raktas į aktualų „Urban Luxe“ stiliaus įvaizdį."
+    ],
+    "pl": [
+      "Postaw na ekskluzywność materiału: 100% naturalna skóra (Vera Pelle) — to wyznacznik najwyższej jakości i długowieczna inwestycja w osobisty styl.",
+      "Akcentuj «efekt pionu»: głębokie rozcięcie z przodu optycznie wydłuża nogi i nadaje krokom gracji, co czyni spódnicę idealnym wyborem na prestiżowe wyjścia.",
+      "Rekomenduj grę kontrastów: połączenie surowej skóry Fidente z delikatnym moherem Cufra 0101 2302 — to klucz do stworzenia aktualnej stylizacji w stylu 'Urban Luxe'."
+    ],
+    "uk": [
+      "Робіть ставку на ексклюзивність матеріалу: 100% натуральна шкіра (Vera Pelle) — це ознака найвищої якості та довговічна інвестиція в персональний стиль.",
+      "Акцентуйте увагу на «ефекті вертикалі»: глибокий передній розріз візуально подовжує ноги та надає ході граційності, що робить спідницю ідеальним вибором для статусних виходів.",
+      "Рекомендуйте гру контрастів: поєднання брутальної шкіри Fidente з ніжним мохером Cufra 0101 2302 — це ключ до створення актуального образу в стилі 'Urban Luxe'."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Leather clothing seems too costly and impractical.",
+        "a": "The Fidente skirt is a true 'timeless piece.' Natural leather develops a noble patina over time and only grows more valuable, effectively replacing dozens of seasonal items."
+      },
+      {
+        "q": "Concern that a deep slit may appear too provocative.",
+        "a": "Thanks to its midi length (al polpaccio) and structured pencil silhouette, the slit remains an elegant styling detail, allowing freedom of movement without compromising propriety."
+      },
+      {
+        "q": "Leather may be stiff and uncomfortable to wear.",
+        "a": "Luisa Spagnoli uses a specially finished leather known for its exceptional softness and elasticity, moving with the lines of the body and ensuring comfort throughout the day."
+      },
+      {
+        "q": "How should a piece made from 100% natural leather be cared for?",
+        "a": "We recommend exclusively professional leather cleaning. This preserves the integrity of the fibres and the richness of the Marrone shade for many seasons to come."
+      },
+      {
+        "q": "Concern about styling such a bold material.",
+        "a": "The Fidente skirt is surprisingly versatile. It pairs beautifully with a classic Loriana 0201 shirt for the office, as well as with an eveningwear top for a formal occasion."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Кожаная одежда кажется слишком дорогой и непрактичной.",
+        "a": "Юбка Fidente — это 'timeless piece' (вещь вне времени). Натуральная кожа со временем приобретает благородную патину и становится только ценнее, заменяя десятки сезонных вещей."
+      },
+      {
+        "q": "Боязнь, что глубокий разрез выглядит слишком вызывающе.",
+        "a": "Благодаря длине миди (al polpaccio) и строгому силуэту «карандаш», разрез остается элегантным стилистическим приемом, обеспечивающим свободу движений без ущерба для приличия."
+      },
+      {
+        "q": "Кожа может быть жесткой и неудобной в носке.",
+        "a": "Luisa Spagnoli использует кожу специальной выделки, которая отличается исключительной мягкостью и эластичностью, адаптируясь к линиям тела и обеспечивая комфорт в течение всего дня."
+      },
+      {
+        "q": "Как правильно ухаживать за изделием из 100% натуральной кожи?",
+        "a": "Мы рекомендуем исключительно профессиональную чистку для кожи. Это позволит сохранить структуру волокон и насыщенность оттенка Marrone на многие сезоны."
+      },
+      {
+        "q": "Сложность в стилизации такого активного материала.",
+        "a": "Юбка Fidente на удивление универсальна. Она идеально сочетается как с базовой рубашкой Loriana 0201 для офиса, так и с вечерним топом для торжественного мероприятия."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الملابس الجلدية تبدو باهظة الثمن وغير عملية.",
+        "a": "تنورة Fidente هي «قطعة خالدة» (timeless piece). يكتسب الجلد الطبيعي مع مرور الوقت بريقاً وقيمة أكبر، مما يجعله بديلاً لعشرات القطع الموسمية."
+      },
+      {
+        "q": "الخوف من أن تبدو الفتحة العميقة جريئة أكثر من اللازم.",
+        "a": "بفضل طول الميدي وقصة القلم الرصاص الصارمة، تظل الفتحة لمسة جمالية أنيقة توفر حرية الحركة دون الإخلال بالحياء."
+      },
+      {
+        "q": "الجلد قد يكون قاسياً وغير مريح في الارتداء.",
+        "a": "تستخدم Luisa Spagnoli جلداً مدبوغاً بطريقة خاصة يتميز بنعومة ومرونة استثنائيتين، حيث يتكيف مع خطوط الجسم ويوفر الراحة طوال اليوم."
+      },
+      {
+        "q": "كيفية العناية الصحيحة بقطعة مصنوعة من الجلد الطبيعي 100%؟",
+        "a": "نوصي حصراً بالتنظيف المهني للجلد. سيسمح ذلك بالحفاظ على بنية الألياف وثراء لون Marrone لعدة مواسم."
+      },
+      {
+        "q": "صعوبة تنسيق هذه الخامة الجريئة.",
+        "a": "تنورة Fidente متعددة الاستخدامات بشكل مدهش. فهي تتناسب تماماً مع قميص أساسي Loriana 0201 للمكتب، ومع توب سهرة للمناسبات الرسمية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ტყავის სამოსი ზედმეტად ძვირი და არაპრაქტიკული ჩანს.",
+        "a": "ქვედაბოლო Fidente არის 'timeless piece' (დროში უცვლელი ნივთი). ნატურალური ტყავი დროთა განმავლობაში იძენს კეთილშობილურ პატინას და მხოლოდ უფრო ფასეული ხდება, რითაც ანაცვლებს ათეულობით სეზონურ ნივთს."
+      },
+      {
+        "q": "შიში იმისა, რომ ღრმა ჭრილი ზედმეტად გამომწვევად გამოიყურება.",
+        "a": "მიდი სიგრძის (al polpaccio) და მკაცრი «ფანქარი» სილუეტის წყალობით, ჭრილი რჩება ელეგანტურ სტილისტურ მიღებად, რომელიც უზრუნველყოფს მოძრაობის თავისუფლებას წესიერების შელახვის გარეშე."
+      },
+      {
+        "q": "ტყავი შესაძლოა იყოს მკვრივი და მოუხერხებელი ტარებისას.",
+        "a": "Luisa Spagnoli იყენებს სპეციალური დამუშავების ტყავს, რომელიც გამოირჩევა განსაკუთრებული სირბილით და ელასტიკურობით, ადაპტირდება სხეულის ხაზებთან და უზრუნველყოფს კომფორტს მთელი დღის განმავლობაში."
+      },
+      {
+        "q": "როგორ სწორად მოვუაროთ 100% ნატურალური ტყავის ნაკეთობას?",
+        "a": "ჩვენ გირჩევთ ექსკლუზიურად ტყავის პროფესიონალურ წმენდას. ეს საშუალებას მოგცემთ შეინარჩუნოთ ბოჭკოების სტრუქტურა და Marrone-ს ელფერის სიღრმე მრავალი სეზონის განმავლობაში."
+      },
+      {
+        "q": "ასეთი აქტიური მასალის სტილიზების სირთულე.",
+        "a": "ქვედაბოლო Fidente საოცრად უნივერსალურია. ის იდეალურად ეხამება როგორც საბაზისო პერანგს Loriana 0201 ოფისისთვის, ასევე საღამოს ტოპს საზეიმო ღონისძიებისთვის."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կաշվե հագուստը չափազանց թանկ և ոչ գործնական է թվում",
+        "a": "Fidente կիսաշրջազգեստը «timeless piece» է (ժամանակից դուրս իր): Բնական կաշին ժամանակի ընթացքում ձեռք է բերում ազնիվ պատինա և դառնում է ավելի արժեքավոր՝ փոխարինելով տասնյակ սեզոնային իրերի"
+      },
+      {
+        "q": "Վախ, որ խորը բացվածքը չափազանց սադրիչ տեսք ունի",
+        "a": "Միդի երկարության (al polpaccio) և «մատիտ» խիստ ուրվագծի շնորհիվ՝ բացվածքը մնում է էլեգանտ ոճական հնարք, որն ապահովում է շարժման ազատություն՝ առանց բարեվայելչությանը վնասելու"
+      },
+      {
+        "q": "Կաշին կարող է լինել կոշտ և անհարմար կրելու համար",
+        "a": "Luisa Spagnoli-ն օգտագործում է հատուկ մշակված կաշի, որն առանձնանում է բացառիկ փափկությամբ և առաձգականությամբ՝ հարմարվելով մարմնի գծերին և ապահովելով հարմարավետություն ամբողջ օրվա ընթացքում"
+      },
+      {
+        "q": "Ինչպե՞ս ճիշտ խնամել 100% բնական կաշվից պատրաստված արտադրանքը",
+        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ մաքրում կաշվի համար: Դա թույլ կտա պահպանել մանրաթելերի կառուցվածքը և Marrone երանգի հագեցվածությունը երկար սեզոնների ընթացքում"
+      },
+      {
+        "q": "Այսպիսի ակտիվ նյութի ոճավորման բարդությունը",
+        "a": "Fidente կիսաշրջազգեստը զարմանալիորեն ունիվերսալ է: Այն կատարյալ համադրվում է ինչպես բազային Loriana 0201 վերնաշապիկի հետ գրասենյակի համար, այնպես էլ երեկոյան տոպի հետ՝ տոնական միջոցառման համար"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Ādas apģērbs šķiet pārāk dārgs un nepraktisks.",
+        "a": "Svārki Fidente ir 'timeless piece' (lieta ārpus laika). Dabīgā āda laika gaitā iegūst cēlu patīnu un kļūst tikai vērtīgāka, aizstājot desmitiem sezonas lietu."
+      },
+      {
+        "q": "Bailes, ka dziļš šķēlums izskatās pārāk izaicinoši.",
+        "a": "Pateicoties midi garumam (al polpaccio) un stingrajam «zīmuļsvārku» siluetam, šķēlums paliek elegants stilistisks paņēmiens, nodrošinot kustību brīvību bez pieklājības robežu pārkāpšanas."
+      },
+      {
+        "q": "Āda var būt cieta un neērta valkāšanā.",
+        "a": "Luisa Spagnoli izmanto speciāli apstrādātu ādu, kas izceļas ar izcilu mīkstumu un elastību, pielāgojoties ķermeņa līnijām un nodrošinot komfortu visas dienas garumā."
+      },
+      {
+        "q": "Kā pareizi kopt izstrādājumu no 100% dabīgās ādas?",
+        "a": "Mēs iesakām tikai profesionālo ādas tīrīšanu. Tas ļaus saglabāt šķiedru struktūru un Marrone toņa piesātinājumu daudzām sezonām."
+      },
+      {
+        "q": "Sarežģītība tik aktīva materiāla stilizēšanā.",
+        "a": "Svārki Fidente ir pārsteidzoši universāli. Tie lieliski sader gan ar pamata kreklu Loriana 0201 birojam, gan ar vakara topu svinīgam pasākumam."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Odiniai drabužiai atrodo per brangūs ir nepraktiški.",
+        "a": "Fidente sijonas — tai „timeless piece“ (amžina vertybė). Natūrali oda laikui bėgant įgauna taurią patiną ir tampa tik vertingesnė, pakeisdama daugybę sezoninių daiktų."
+      },
+      {
+        "q": "Baimė, kad gilus skeltukas atrodo pernelyg iššaukiančiai.",
+        "a": "Dėl midi ilgio (al polpaccio) ir griežto „pieštuko“ silueto, skeltukas išlieka elegantišku stilistiniu sprendimu, suteikiančiu judėjimo laisvę be jokio vulgarumo."
+      },
+      {
+        "q": "Oda gali būti kieta ir nepatogi nešioti.",
+        "a": "Luisa Spagnoli naudoja specialiai apdirbtą odą, kuri pasižymi išskirtiniu minkštumu ir elastingumu, prisitaikydama prie kūno linijų ir užtikrindama komfortą visą dieną."
+      },
+      {
+        "q": "Kaip tinkamai prižiūrėti gaminį iš 100 % natūralios odos?",
+        "a": "Rekomenduojame tik profesionalų odos valymą. Tai leis išsaugoti pluošto struktūrą ir Marrone atspalvio sodrumą daugelį sezonų."
+      },
+      {
+        "q": "Sudėtinga derinti tokią išraiškingą medžiagą.",
+        "a": "Fidente sijonas yra stebėtinai universalus. Jis idealiai dera tiek su pagrindiniais Loriana 0201 marškiniais biure, tiek su vakariniu viršutiniu drabužiu iškilmingam renginiui."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Skórzana odzież wydaje się zbyt droga i niepraktyczna.",
+        "a": "Spódnica Fidente to 'timeless piece' (rzecz ponadczasowa). Naturalna skóra z czasem zyskuje szlachetną patynę i staje się tylko cenniejsza, zastępując dziesiątki sezonowych ubrań."
+      },
+      {
+        "q": "Obawa, że głębokie rozcięcie wygląda zbyt wyzywająco.",
+        "a": "Dzięki długości midi (al polpaccio) i surowemu krojowi typu „ołówek”, rozcięcie pozostaje eleganckim zabiegiem stylistycznym, zapewniającym swobodę ruchów bez uszczerbku dla zasad dobrego smaku."
+      },
+      {
+        "q": "Skóra może być sztywna i niewygodna w noszeniu.",
+        "a": "Luisa Spagnoli używa skóry specjalnie wyprawianej, która wyróżnia się wyjątkową miękkością i elastycznością, dopasowując się do linii ciała i zapewniając komfort przez cały dzień."
+      },
+      {
+        "q": "Jak prawidłowo dbać o produkt ze 100% naturalnej skóry?",
+        "a": "Zalecamy wyłącznie profesjonalne czyszczenie skóry. Pozwoli to zachować strukturę włókien i nasycenie odcienia Marrone na wiele sezonów."
+      },
+      {
+        "q": "Trudność w stylizacji tak wyrazistego materiału.",
+        "a": "Spódnica Fidente jest zaskakująco uniwersalna. Idealnie komponuje się zarówno z bazową koszulą Loriana 0201 do biura, jak i z wieczorowym topem na uroczyste wydarzenie."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Шкіряний одяг здається занадто дорогим і непрактичним.",
+        "a": "Спідниця Fidente — це 'timeless piece' (річ поза часом). Натуральна шкіра з часом набуває благородної патини і стає тільки ціннішою, замінюючи десятки сезонних речей."
+      },
+      {
+        "q": "Страх, що глибокий розріз виглядає занадто зухвало.",
+        "a": "Завдяки довжині міді (al polpaccio) та строгому силуету «олівець», розріз залишається елегантним стилістичним прийомом, що забезпечує свободу рухів без шкоди для пристойності."
+      },
+      {
+        "q": "Шкіра може бути жорсткою і незручною в носінні.",
+        "a": "Luisa Spagnoli використовує шкіру спеціальної вичинки, яка відрізняється винятковою м'якістю та еластичністю, адаптуючись до ліній тіла та забезпечуючи комфорт протягом усього дня."
+      },
+      {
+        "q": "Як правильно доглядати за виробом зі 100% натуральної шкіри?",
+        "a": "Ми рекомендуємо виключно професійну чистку для шкіри. Це дозволить зберегти структуру волокон і насиченість відтінку Marrone на багато сезонів."
+      },
+      {
+        "q": "Складність у стилізації такого активного матеріалу.",
+        "a": "Спідниця Fidente напрочуд універсальна. Вона ідеально поєднується як з базовою сорочкою Loriana 0201 для офісу, так і з вечірнім топом для урочистого заходу."
+      }
+    ]
+  }
+}

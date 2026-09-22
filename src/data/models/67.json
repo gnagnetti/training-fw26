@@ -1,0 +1,410 @@
+{
+  "id": 67,
+  "name": "Gallerie",
+  "description": {
+    "en": "A flawless sleeveless midi dress, crafted from a luxurious wool-blend tweed. The piece is defined by a finely wrought cut that gently traces the silhouette before flowing into striking godet inserts at the hem, creating graceful movement. An elegant round neckline and a concealed back zip closure underscore purity of line. The look is completed with a stylish eco-leather belt in crocodile-effect embossing that draws precisely the right accent at the waist.",
+    "ru": "Безупречное платье-миди без рукавов, выполненное из роскошного смесового шерстяного твида. Модель отличается филигранным кроем, мягко очерчивающим силуэт и переходящим в эффектные вставки-годе по низу изделия, создающие изящную динамику при движении. Элегантный круглый вырез и потайная застежка-молния на спинке подчеркивают чистоту линий. Образ завершает стильный ремень из экокожи с тиснением под крокодила, расставляющий правильные акценты на талии.",
+    "ar": "فستان ميدي مثالي بدون أكمام، مصنوع من تويد الصوف المخلوط الفاخر. يتميز الموديل بقصة دقيقة تحدد القوام بنعومة، وتتحول إلى إضافات (godet) جذابة في الأسفل تضفي ديناميكية رشيقة عند الحركة. الياقة المستديرة الأنيقة وسحاب الإغلاق المخفي في الخلف يبرزان نقاء الخطوط. يكتمل المظهر بحزام أنيق من الجلد الصناعي بنقشة جلد التمساح، ليضع اللمسات الصحيحة على الخصر.",
+    "ka": "უნაკლო უსახელო მიდი-კაბა, დამზადებული მდიდრული შერეული მატყლის ტვიდისგან. მოდელი გამოირჩევა ფილიგრანული ჭრით, რომელიც რბილად კვეთს სილუეტს და ქვედა ნაწილში გადადის ეფექტურ გოდე-ჩანართებში, რაც მოძრაობისას დახვეწილ დინამიკას ქმნის. ელეგანტური მრგვალი ყელი და ზურგზე არსებული ფარული ელვა-შესაკრავი ხაზს უსვამს ხაზების სისუფთავეს. სახეს ასრულებს ეკოტყავის სტილური ქამარი ნიანგის ტყავის ფაქტურით, რომელიც აქცენტს წელის ხაზზე აკეთებს.",
+    "hy": "Անթերի միդի-զգեստ՝ առանց թևերի, պատրաստված բրդյա տվիդի շքեղ խառնուրդից: Մոդելը առանձնանում է ֆիլիգրան ձևվածքով, որը փափուկ ընդգծում է ուրվագիծը և անցնում է ներքևի մասում գտնվող գոդե-ներդիրների՝ շարժման ժամանակ ստեղծելով նրբագեղ դինամիկա: Կլոր էլեգանտ բացվածքը և թիկունքի թաքնված շղթա-ճարմանդը ընդգծում են գծերի մաքրությունը: Կերպարը ամբողջացնում է կոկորդիլոսի կաշվի տպվածքով էկո-կաշվից պատրաստված ոճային գոտին, որը գոտկատեղի վրա դնում է անհրաժեշտ շեշտադրումները:",
+    "lv": "Nevainojama midi kleita bez piedurknēm, izgatavota no grezna vilnas maisījuma tvīda. Modelis izceļas ar filigrānu piegriezumu, kas maigi iezīmē siluetu un pāriet efektīvos ielaidumos izstrādājuma apakšdaļā, radot izsmalcinātu dinamiku kustības laikā. Elegants apaļš izgriezums un slēpts rāvējslēdzējs uz muguras uzsver līniju tīrību. Tēlu papildina stilīga eko-ādas josta ar krokodila ādas imitācijas tekstūru, kas liek pareizos akcentus uz jostasvietas.",
+    "lt": "Nepriekaištinga be rankovių midi suknelė, pagaminta iš prabangaus vilnos mišinio tvido. Modelis išsiskiria filigraniniu kirpimu, švelniai pabrėžiančiu siluetą ir pereinančiu į efektingus „gode“ įsiuvus apatinėje gaminio dalyje, sukuriančius grakščią dinamiką judant. Elegantiška apvali iškirptė ir paslėptas užtrauktukas nugarinėje dalyje pabrėžia linijų švarą. Įvaizdį užbaigia stilingas diržas iš eko odos su krokodilo odos įspaudais, tinkamai pabrėžiantis liemenį.",
+    "pl": "Nienaganna sukienka midi bez rękawów, wykonana z luksusowego tweedu z mieszanki wełny. Model wyróżnia się filigranowym krojem, miękko podkreślającym sylwetkę i przechodzącym w efektowne wstawki typu godet u dołu, tworzące pełną wdzięku dynamikę w ruchu. Elegancki okrągły dekolt i ukryty zamek błyskawiczny na plecach podkreślają czystość linii. Stylizację dopełnia stylowy pasek z ekoskóry z tłoczeniem imitującym skórę krokodyla, który odpowiednio akcentuje talię.",
+    "uk": "Бездоганна сукня-міді без рукавів, виконана з розкішного змішаного вовняного твіду. Модель вирізняється філігранним кроєм, що м'яко окреслює силует і переходить в ефектні вставки-годе по низу виробу, які створюють витончену динаміку під час руху. Елегантний круглий виріз і потайна застібка-блискавка на спинці підкреслюють чистоту ліній. Образ завершує стильний ремінь з екошкіри з тисненням під крокодила, що розставляє правильні акценти на талії."
+  },
+  "colors": [
+    {
+      "name": "Var Marrone",
+      "code": "3404",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Nhigv8TeTU2FMKqZDoiS_A_1556361996696f422f85cb57_80664217_02820120XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 3 (Concise elegance)",
+        "ar": "Look 3 (Concise elegance)",
+        "ka": "Look 3 (Concise elegance)",
+        "hy": "Look 3 (Concise elegance)",
+        "lv": "Look 3 (Concise elegance)",
+        "lt": "Look 3 (Concise elegance)",
+        "pl": "Look 3 (Concise elegance)",
+        "uk": "Look 3 (Concise elegance)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 3 (Лаконичная элегантность): Платье Gallerie 3404, дополненное аксессуаром Richiesta 0910 и сумкой Idilliaco A 0986 0002.",
+        "en": "Gallerie 3404 dress, complemented by a Richiesta 0910 accessory and an Idilliaco A 0986 0002 bag.",
+        "ar": "Gallerie 3404 dress, complemented by a Richiesta 0910 accessory and an Idilliaco A 0986 0002 bag.",
+        "ka": "Gallerie 3404 dress, complemented by a Richiesta 0910 accessory and an Idilliaco A 0986 0002 bag.",
+        "hy": "Gallerie 3404 dress, complemented by a Richiesta 0910 accessory and an Idilliaco A 0986 0002 bag.",
+        "lv": "Gallerie 3404 dress, complemented by a Richiesta 0910 accessory and an Idilliaco A 0986 0002 bag.",
+        "lt": "Gallerie 3404 dress, complemented by a Richiesta 0910 accessory and an Idilliaco A 0986 0002 bag.",
+        "pl": "Gallerie 3404 dress, complemented by a Richiesta 0910 accessory and an Idilliaco A 0986 0002 bag.",
+        "uk": "Gallerie 3404 dress, complemented by a Richiesta 0910 accessory and an Idilliaco A 0986 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Gallerie",
+          "code": "3404",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Nhigv8TeTU2FMKqZDoiS_A_1556361996696f422f85cb57_80664217_02820120XX1.jpg"
+        },
+        {
+          "name": "Necessario",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/necessario%200986.png"
+        },
+        {
+          "name": "Danielina",
+          "code": "2432 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WY_3Kd2cT3iyYByN3Yz82Q_1318480556696f4214bdb273_14047868_02800500XX1.jpg"
+        },
+        {
+          "name": "Nicolet",
+          "code": "1623 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nicolet1623.png"
+        },
+        {
+          "name": "Uragano A",
+          "code": "0986",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URAGANO_98600000000.jpg"
+        },
+        {
+          "name": "Richiesta",
+          "code": "0910",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Urban chic)",
+        "ar": "Look 2 (Urban chic)",
+        "ka": "Look 2 (Urban chic)",
+        "hy": "Look 2 (Urban chic)",
+        "lv": "Look 2 (Urban chic)",
+        "lt": "Look 2 (Urban chic)",
+        "pl": "Look 2 (Urban chic)",
+        "uk": "Look 2 (Urban chic)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Городской шик): Многослойный образ с курткой из эко-меха Stelle 0919, надетым под платье Gallerie 3404 пуловером Manos F 0970 и сумкой Iago 2240 0002.",
+        "en": "A layered look with a Stelle 0919 faux fur jacket, worn under a Gallerie 3404 dress, a Manos F 0970 pullover and an Iago 2240 0002 bag.",
+        "ar": "A layered look with a Stelle 0919 faux fur jacket, worn under a Gallerie 3404 dress, a Manos F 0970 pullover and an Iago 2240 0002 bag.",
+        "ka": "A layered look with a Stelle 0919 faux fur jacket, worn under a Gallerie 3404 dress, a Manos F 0970 pullover and an Iago 2240 0002 bag.",
+        "hy": "A layered look with a Stelle 0919 faux fur jacket, worn under a Gallerie 3404 dress, a Manos F 0970 pullover and an Iago 2240 0002 bag.",
+        "lv": "A layered look with a Stelle 0919 faux fur jacket, worn under a Gallerie 3404 dress, a Manos F 0970 pullover and an Iago 2240 0002 bag.",
+        "lt": "A layered look with a Stelle 0919 faux fur jacket, worn under a Gallerie 3404 dress, a Manos F 0970 pullover and an Iago 2240 0002 bag.",
+        "pl": "A layered look with a Stelle 0919 faux fur jacket, worn under a Gallerie 3404 dress, a Manos F 0970 pullover and an Iago 2240 0002 bag.",
+        "uk": "A layered look with a Stelle 0919 faux fur jacket, worn under a Gallerie 3404 dress, a Manos F 0970 pullover and an Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Stelle",
+          "code": "0919",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/v0SMZo0VQaKGpkN_-N_65w_698883230696f42feb83970_50231303_02821190XX1.jpg"
+        },
+        {
+          "name": "Gallerie",
+          "code": "3404",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Nhigv8TeTU2FMKqZDoiS_A_1556361996696f422f85cb57_80664217_02820120XX1.jpg"
+        },
+        {
+          "name": "Manos F",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 1 (Full ensemble)",
+        "ar": "Look 1 (Full ensemble)",
+        "ka": "Look 1 (Full ensemble)",
+        "hy": "Look 1 (Full ensemble)",
+        "lv": "Look 1 (Full ensemble)",
+        "lt": "Look 1 (Full ensemble)",
+        "pl": "Look 1 (Full ensemble)",
+        "uk": "Look 1 (Full ensemble)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Полный ансамбль): Платье Gallerie 3404 в сочетании с браслетом Necessario 0986 0002, ремнем Danielina 2432 0002 и изысканной брошью Nicolet 1623 0002. Завершают образ туфли Uragano A 0986 и мягкая стола Richiesta 0910.",
+        "en": "Gallerie 3404 dress combined with a Necessario 0986 0002 bracelet, Danielina 2432 0002 belt and an exquisite Nicolet 1623 0002 brooch. The look is finished with Uragano A 0986 shoes and a soft Richiesta 0910 stole.",
+        "ar": "Gallerie 3404 dress combined with a Necessario 0986 0002 bracelet, Danielina 2432 0002 belt and an exquisite Nicolet 1623 0002 brooch. The look is finished with Uragano A 0986 shoes and a soft Richiesta 0910 stole.",
+        "ka": "Gallerie 3404 dress combined with a Necessario 0986 0002 bracelet, Danielina 2432 0002 belt and an exquisite Nicolet 1623 0002 brooch. The look is finished with Uragano A 0986 shoes and a soft Richiesta 0910 stole.",
+        "hy": "Gallerie 3404 dress combined with a Necessario 0986 0002 bracelet, Danielina 2432 0002 belt and an exquisite Nicolet 1623 0002 brooch. The look is finished with Uragano A 0986 shoes and a soft Richiesta 0910 stole.",
+        "lv": "Gallerie 3404 dress combined with a Necessario 0986 0002 bracelet, Danielina 2432 0002 belt and an exquisite Nicolet 1623 0002 brooch. The look is finished with Uragano A 0986 shoes and a soft Richiesta 0910 stole.",
+        "lt": "Gallerie 3404 dress combined with a Necessario 0986 0002 bracelet, Danielina 2432 0002 belt and an exquisite Nicolet 1623 0002 brooch. The look is finished with Uragano A 0986 shoes and a soft Richiesta 0910 stole.",
+        "pl": "Gallerie 3404 dress combined with a Necessario 0986 0002 bracelet, Danielina 2432 0002 belt and an exquisite Nicolet 1623 0002 brooch. The look is finished with Uragano A 0986 shoes and a soft Richiesta 0910 stole.",
+        "uk": "Gallerie 3404 dress combined with a Necessario 0986 0002 bracelet, Danielina 2432 0002 belt and an exquisite Nicolet 1623 0002 brooch. The look is finished with Uragano A 0986 shoes and a soft Richiesta 0910 stole."
+      },
+      "items": [
+        {
+          "name": "Gallerie",
+          "code": "3404",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Nhigv8TeTU2FMKqZDoiS_A_1556361996696f422f85cb57_80664217_02820120XX1.jpg"
+        },
+        {
+          "name": "Richiesta",
+          "code": "0910",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg"
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the richness of the tweed texture: the presence of silk in the composition lends the fabric a noble sheen and a distinctive softness.",
+      "Emphasize the piece's versatility: the dress is equally suited to a professional wardrobe and to cocktail events, thanks to its refined godet detailing.",
+      "Highlight the value of the offer — the included belt with 'coco' embossing stands as a statement accessory in its own right."
+    ],
+    "ru": [
+      "Обратите внимание клиента на богатство фактуры твида: наличие шелка в составе придает ткани благородный блеск и особую мягкость.",
+      "Сделайте акцент на универсальности модели: платье идеально подходит как для делового гардероба, так и для коктейльных мероприятий благодаря утонченным деталям годе.",
+      "Подчеркните ценность предложения — идущий в комплекте ремень с тиснением «коко» является самостоятельным статусным аксессуаром."
+    ],
+    "ar": [
+      "لفتي انتباه العميل إلى ثراء قوام التويد: فوجود الحرير في تركيبته يمنح القماش بريقاً نبيلاً ونعومة خاصة.",
+      "ركزي على تعدد استخدامات الموديل: فالفستان مثالي لخزانة ملابس العمل كما للمناسبات الكوكتيل بفضل تفاصيل قصة الـ 'godet' المتقنة.",
+      "أكدي على قيمة العرض: فالحزام المرفق بنقشة «التمساح» (coco) يعد بحد ذاته إكسسواراً بارزاً يعكس المكانة."
+    ],
+    "ka": [
+      "მიაქცევინეთ კლიენტის ყურადღება ტვიდის ფაქტურის სიმდიდრეს: შემადგენლობაში აბრეშუმის არსებობა ქსოვილს დახვეწილ ბზინვარებასა და განსაკუთრებულ რბილობას ანიჭებს.",
+      "გაამახვილეთ ყურადღება მოდელის უნივერსალურობაზე: კაბა იდეალურად ერგება როგორც საქმიან გარდერობს, ისე კოქტეილის ღონისძიებებს, გოდეს დახვეწილი დეტალების წყალობით.",
+      "ხაზი გაუსვით წინადადების ღირებულებას — კომპლექტში შემავალი „კოკოს“ რელიეფური ქამარი თავისთავად სტატუსური აქსესუარია."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք թվիդի հյուսվածքի հարստությանը. կազմի մեջ մետաքսի առկայությունը գործվածքին հաղորդում է ազնվական փայլ և առանձնահատուկ փափկություն։",
+      "Շեշտադրեք մոդելի բազմակողմանիությունը. զգեստը իդեալական է ինչպես գործնական զգեստապահարանի, այնպես էլ կոկտեյլային միջոցառումների համար՝ շնորհիվ «գոդե» նրբագեղ մանրամասների։",
+      "Ընդգծեք առաջարկի արժեքը՝ հավաքածուի մեջ ներառված «կոկո» դրոշմվածքով գոտին ինքնին հանդիսանում է կարգավիճակային աքսեսուար։"
+    ],
+    "lv": [
+      "Vērsiet klienta uzmanību uz tvīda faktūras bagātību: zīda klātbūtne sastāvā piešķir audumam cēlu spīdumu un īpašu maigumu.",
+      "Izceliet modeļa daudzpusību: kleita ir lieliski piemērota gan lietišķajai garderobei, gan kokteiļpasākumiem, pateicoties izsmalcinātajām godē detaļām.",
+      "Uzsveriet piedāvājuma vērtību — komplektā iekļautā josta ar «koko» iespiedumu ir patstāvīgs, statusu apliecinošs aksesuārs."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į tvido faktūros turtingumą: sudėtyje esantis šilkas suteikia audiniui kilnaus žvilgesio ir ypatingo švelnumo.",
+      "Akcentuokite modelio universalumą: dėl rafinuotų „godet“ detalių suknelė idealiai tinka tiek verslo garderobui, tiek kokteilių renginiams.",
+      "Pabrėžkite pasiūlymo vertę – komplekte esantis diržas su „coco“ įspaudu yra atskiras, statusą pabrėžiantis aksesuaras."
+    ],
+    "pl": [
+      "Zwróć uwagę klienta na bogactwo faktury tweedu: obecność jedwabiu w składzie nadaje tkaninie szlachetny blask i wyjątkową miękkość.",
+      "Połóż nacisk na uniwersalność modelu: sukienka idealnie pasuje zarówno do garderoby biznesowej, jak i na przyjęcia koktajlowe dzięki wyrafinowanym detalom typu godet.",
+      "Podkreśl wartość propozycji — dołączony pasek z tłoczeniem typu „coco” stanowi samodzielny, luksusowy dodatek."
+    ],
+    "uk": [
+      "Зверніть увагу клієнта на багатство фактури твіду: наявність шовку у складі надає тканині благородного блиску та особливої м'якості.",
+      "Зробіть акцент на універсальності моделі: сукня ідеально підходить як для ділового гардероба, так і для коктейльних заходів завдяки витонченим деталям годе.",
+      "Підкресліть цінність пропозиції — ремінь із тисненням «коко», що йде у комплекті, є самостійним статусним аксесуаром."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Tweed may seem too heavy or stiff.",
+        "a": "Thanks to the addition of silk and cotton, the fabric of the Gallerie dress possesses remarkable lightness and flexibility, while still preserving the impeccable structure of tweed."
+      },
+      {
+        "q": "A sleeveless style is not entirely practical for the cold season.",
+        "a": "This dress is designed around the concept of layering. It pairs beautifully with our fine cashmere turtlenecks or silk blouses, creating an elegant daytime look."
+      },
+      {
+        "q": "Tweed dresses can sometimes look too ageing.",
+        "a": "The contemporary godet-effect cut and the animal-print belt bring a note of fashion-forward daring to the classic Gallerie silhouette."
+      },
+      {
+        "q": "A complex fabric composition makes care more difficult.",
+        "a": "The use of premium-quality fibres guarantees the longevity of the piece. Professional dry cleaning preserves the structure of the tweed and the vibrancy of the colour for many seasons."
+      },
+      {
+        "q": "A below-the-knee length may call only for a high heel.",
+        "a": "Thanks to the godet cut, which visually softens the lower portion, this dress looks equally harmonious with classic pumps or our cylindrical-shaft Ulisside boots."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Твид может казаться слишком тяжелым или жестким.",
+        "a": "Благодаря добавлению шелка и хлопка, материал платья Gallerie обладает удивительной легкостью и пластичностью, сохраняя при этом безупречную форму твида."
+      },
+      {
+        "q": "Модель без рукавов не совсем практична для холодного сезона.",
+        "a": "Это платье создано для концепции многослойности. Оно великолепно сочетается с нашими тонкими кашемировыми водолазками или шелковыми блузами, создавая элегантный дневной образ."
+      },
+      {
+        "q": "Твидовые платья иногда выглядят слишком возрастными.",
+        "a": "Современный крой с эффектом годе и пояс с анималистичным принтом вносят в классический образ Gallerie нотки актуальной моды и дерзости."
+      },
+      {
+        "q": "Сложный состав ткани затрудняет уход.",
+        "a": "Использование высококачественных волокон гарантирует долговечность изделия. Профессиональная сухая чистка позволит сохранить структуру твида и яркость цвета на многие сезоны."
+      },
+      {
+        "q": "Длина ниже колена может требовать только высокого каблука.",
+        "a": "Благодаря крою годе, который визуально облегчает нижнюю часть, это платье гармонично смотрится как с классическими лодочками, так и с нашими сапогами с цилиндрическим голенищем Ulisside."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يبدو التويد ثقيلاً أو قاسياً جداً.",
+        "a": "بفضل إضافة الحرير والقطن، يتمتع قماش فستان Gallerie بخفة ومرونة مذهلة، مع الحفاظ على شكل التويد المثالي."
+      },
+      {
+        "q": "الموديل بدون أكمام ليس عملياً جداً للموسم البارد.",
+        "a": "صُمم هذا الفستان ليعتمد مفهوم الطبقات. وهو يتناغم بشكل رائع مع كنزات الياقة العالية الكشميرية الرفيعة أو البلوزات الحريرية، ليخلق إطلالة نهارية أنيقة."
+      },
+      {
+        "q": "تبدو فساتين التويد أحياناً أكبر من عمر المرأة.",
+        "a": "التصميم الحديث مع تأثير «جوديه» والحزام ذو النقشة الحيوانية يضفي على إطلالة Gallerie الكلاسيكية لمسات من الموضة العصرية والجرأة."
+      },
+      {
+        "q": "تركيبة القماش المعقدة تجعل العناية به صعبة.",
+        "a": "يضمن استخدام الألياف عالية الجودة متانة القطعة. التنظيف الجاف المهني سيسمح بالحفاظ على هيكل التويد وسطوع اللون لعدة مواسم."
+      },
+      {
+        "q": "الطول أسفل الركبة قد يتطلب ارتداء كعب عالٍ فقط.",
+        "a": "بفضل تصميم الـ «جوديه» الذي يمنح خفة بصرية للجزء السفلي، يبدو هذا الفستان متناغماً سواء مع أحذية القوارب الكلاسيكية أو مع أحذيتنا ذات الساق الأسطوانية Ulisside."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ტვიდი შესაძლოა ზედმეტად მძიმე ან ხისტი ჩანდეს.",
+        "a": "აბრეშუმისა და ბამბის დამატების წყალობით, კაბა Gallerie-ს მასალა ფლობს საოცარ სიმსუბუქესა და პლასტიკურობას, ამასთანავე ინარჩუნებს ტვიდის უნაკლო ფორმას."
+      },
+      {
+        "q": "უნამოსო მოდელი არცთუ ისე პრაქტიკულია ცივი სეზონისთვის.",
+        "a": "ეს კაბა შექმნილია მრავალფენიანობის კონცეფციისთვის. იგი ბრწყინვალედ ეხამება ჩვენს თხელ ქაშმირის გოლფებს ან აბრეშუმის ბლუზებს, რაც ქმნის ელეგანტურ დღის იმიჯს."
+      },
+      {
+        "q": "ტვიდის კაბები ზოგჯერ ზედმეტად ასაკობრივი ჩანს.",
+        "a": "თანამედროვე ჭრილი „გოდეს“ ეფექტით და ცხოველური პრინტის მქონე ქამარი, კლასიკურ იმიჯ Gallerie-ს შემოაქვს აქტუალური მოდისა და სითამამის ნოტები."
+      },
+      {
+        "q": "ქსოვილის რთული შემადგენლობა ართულებს მოვლას.",
+        "a": "მაღალი ხარისხის ბოჭკოების გამოყენება გარანტიას იძლევა ნივთის გამძლეობისა. პროფესიონალური მშრალი წმენდა საშუალებას მოგცემთ შეინარჩუნოთ ტვიდის სტრუქტურა და ფერის სიკაშკაშე მრავალი სეზონის განმავლობაში."
+      },
+      {
+        "q": "მუხლს ქვემოთ სიგრძე შესაძლოა მოითხოვდეს მხოლოდ მაღალ ქუსლს.",
+        "a": "„გოდეს“ ჭრილის წყალობით, რომელიც ვიზუალურად ამსუბუქებს ქვედა ნაწილს, ეს კაბა ჰარმონიულად გამოიყურება როგორც კლასიკურ ნავებთან, ისე ჩვენს ცილინდრული ყალიბის ჩექმებთან Ulisside."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Թվիդը կարող է չափազանց ծանր կամ կոշտ թվալ։",
+        "a": "Մետաքսի և բամբակի հավելման շնորհիվ Gallerie զգեստի նյութն ունի զարմանալի թեթևություն և պլաստիկություն՝ միաժամանակ պահպանելով թվիդի անթերի ձևը։"
+      },
+      {
+        "q": "Առանց թևքերի մոդելն այնքան էլ գործնական չէ ցուրտ սեզոնի համար։",
+        "a": "Այս զգեստը ստեղծված է շերտավորման հայեցակարգի համար։ Այն հրաշալի համադրվում է մեր բարակ քաշմիրե գոլֆերի կամ մետաքսե բլուզների հետ՝ ստեղծելով էլեգանտ ցերեկային կերպար։"
+      },
+      {
+        "q": "Թվիդե զգեստները երբեմն չափազանց տարիքային են թվում։",
+        "a": "Գոդե» էֆեկտով ժամանակակից ձևվածքը և կենդանական նախշով գոտին Gallerie դասական կերպարին հաղորդում են արդիական նորաձևության և համարձակության նոտաներ։"
+      },
+      {
+        "q": "Գործվածքի բարդ կազմը դժվարացնում է խնամքը։",
+        "a": "Բարձրորակ թելերի օգտագործումը երաշխավորում է արտադրանքի երկարակեցությունը։ Մասնագիտական չոր մաքրումը թույլ կտա պահպանել թվիդի կառուցվածքը և գույնի վառությունը բազմաթիվ սեզոններ։"
+      },
+      {
+        "q": "Ծնկից ներքև երկարությունը կարող է պահանջել միայն բարձր կրունկ։",
+        "a": "Գոդե» ձևվածքի շնորհիվ, որը տեսողականորեն թեթևացնում է ստորին հատվածը, այս զգեստը ներդաշնակ է նայվում ինչպես դասական նավակ-կոշիկների, այնպես էլ մեր գլանաձև ճտքավոր Ulisside երկարաճիտ կոշիկների հետ ։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Tvīds var šķist pārāk smags vai stingrs.",
+        "a": "Pateicoties zīda un kokvilnas piejaukumam, kleitas Gallerie materiālam piemīt pārsteidzošs vieglums un plastika, vienlaikus saglabājot nevainojamu tvīda formu."
+      },
+      {
+        "q": "Modelis bez piedurknēm nav īsti praktisks aukstajai sezonai.",
+        "a": "Šī kleita ir radīta slāņošanas koncepcijai. Tā lieliski sader ar mūsu plānajām kašmira ūdenslīnijas apkakles blūzēm vai zīda blūzēm, radot elegantu dienas tēlu."
+      },
+      {
+        "q": "Tvīda kleitas dažreiz izskatās pārāk vecmodīgas.",
+        "a": "Mūsdienīgs piegriezums ar godē efektu un josta ar dzīvniecisku apdruku ienes klasiskajā Gallerie tēlā aktuālās modes un drosmes notis."
+      },
+      {
+        "q": "Sarežģītais auduma sastāvs apgrūtina kopšanu.",
+        "a": "Augstas kvalitātes šķiedru izmantošana garantē izstrādājuma ilgmūžību. Profesionāla ķīmiskā tīrīšana ļaus saglabāt tvīda struktūru un krāsas spilgtumu daudzas sezonas."
+      },
+      {
+        "q": "Garums zem ceļa var prasīt tikai augstu papēdi.",
+        "a": "Pateicoties godē piegriezumam, kas vizuāli atvieglo apakšējo daļu, šī kleita harmoniski izskatās gan ar klasiskajām laiviņām, gan ar mūsu zābakiem ar cilindrisku stulmu Ulisside."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Tvido audinys gali pasirodyti per sunkus arba kietas.",
+        "a": "Dėl šilko ir medvilnės priemaišos suknelės Gallerie medžiaga pasižymi stulbinančiu lengvumu ir plastiškumu, kartu išlaikydama nepriekaištingą tvido formą."
+      },
+      {
+        "q": "Tvido suknelės kartais atrodo per daug brandžios.",
+        "a": "Modernus kirpimas su „godé“ efektu ir diržas su gyvūniniu raštu suteikia klasikiniam Gallerie įvaizdžiui aktualios mados ir drąsos natų."
+      },
+      {
+        "q": "Sudėtinga audinio sudėtis apsunkina priežiūrą.",
+        "a": "Aukštos kokybės pluoštų naudojimas garantuoja gaminio ilgaamžiškumą. Profesionalus sausas valymas leis išsaugoti tvido struktūrą ir spalvos ryškumą daugelį sezonų."
+      },
+      {
+        "q": "Ilgis žemiau kelių gali reikalauti tik aukšto kulno.",
+        "a": "Dėl „godé“ kirpimo, kuris vizualiai lengvina apatinę dalį, ši suknelė harmoningai atrodo tiek su klasikiniais bateliais-laiveliais, tiek su mūsų batais cilindriniu aulu Ulisside."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Tweed może wydawać się zbyt ciężki lub sztywny.",
+        "a": "Dzięki dodatkowi jedwabiu i bawełny materiał sukienki Gallerie posiada niezwykłą lekkość i plastyczność, zachowując przy tym nieskazitelną formę tweedu."
+      },
+      {
+        "q": "Model bez rękawów nie jest zbyt praktyczny na chłodniejszy sezon.",
+        "a": "Ta sukienka została stworzona z myślą o koncepcji warstwowości. Wspaniale komponuje się z naszymi cienkimi kaszmirowymi golfami lub jedwabnymi bluzkami, tworząc elegancki zestaw dzienny."
+      },
+      {
+        "q": "Sukienki z tweedu czasami wyglądają zbyt poważnie.",
+        "a": "Nowoczesny krój z efektem gode i pasek z motywem zwierzęcym wnoszą do klasycznego wizerunku Gallerie nuty aktualnej mody i pewności siebie."
+      },
+      {
+        "q": "Złożony skład tkaniny utrudnia pielęgnację.",
+        "a": "Zastosowanie wysokiej jakości włókien gwarantuje trwałość produktu. Profesjonalne czyszczenie chemiczne pozwoli zachować strukturę tweedu i intensywność koloru na wiele sezonów."
+      },
+      {
+        "q": "Długość poniżej kolana może wymagać tylko wysokiego obcasa.",
+        "a": "Dzięki krojowi gode, który wizualnie odciąża dolną partię, sukienka harmonijnie prezentuje się zarówno z klasycznymi czółenkami, jak i z naszymi kozakami z cylindryczną cholewką Ulisside."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Твід може здаватися занадто важким або жорстким.",
+        "a": "Завдяки додаванню шовку та бавовни, матеріал сукні Gallerie має дивовижну легкість і пластичність, зберігаючи при цьому бездоганну форму твіду."
+      },
+      {
+        "q": "Модель без рукавів не зовсім практична для холодного сезону.",
+        "a": "Ця сукня створена для концепції багатошаровості. Вона чудово поєднується з нашими тонкими кашеміровими водолазками або шовковими блузами, створюючи елегантний денний образ."
+      },
+      {
+        "q": "Твідові сукні іноді виглядають занадто віковими.",
+        "a": "Сучасний крій з ефектом годе та пояс з анімалістичним принтом вносять у класичний образ Gallerie нотки актуальної моди та зухвалості."
+      },
+      {
+        "q": "Складний склад тканини ускладнює догляд.",
+        "a": "Використання високоякісних волокон гарантує довговічність виробу. Професійна суха чистка дозволить зберегти структуру твіду та яскравість кольору на багато сезонів."
+      },
+      {
+        "q": "Довжина нижче коліна може вимагати тільки високого підбора.",
+        "a": "Завдяки крою годе, який візуально полегшує нижню частину, ця сукня гармонійно виглядає як з класичними човниками, так і з нашими чобітьми з циліндричною халявою Ulisside."
+      }
+    ]
+  }
+}

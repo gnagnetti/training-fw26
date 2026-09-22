@@ -1,0 +1,418 @@
+{
+  "id": 480,
+  "name": "Selettivo",
+  "description": {
+    "en": "The Selettivo 1224 vest is a masterful reading of 'Urban Country' style, where the practicality of denim meets Luisa Spagnoli's aristocratic aesthetic. Crafted from high-quality cotton denim, whose architecture is underscored by contrasting topstitching, creating a graphic, contemporary look. The piece's sartorial code is expressed in a flawlessly fitted silhouette (linea avvitata), which, combined with an adjustable back martingale strap, allows the waist to be masterfully accentuated while preserving a comfortable Regular fit. Status-defining heraldic LS buttons and functional flap pockets elevate this vest from a basic staple into a signature wardrobe object, projecting confidence and Italian chic.",
+    "ru": "Жилет Selettivo 1224 --- это виртуозное прочтение стиля «Urban Country», где практичность денима встречается с аристократичной эстетикой Luisa Spagnoli. Модель выполнена из высококачественного хлопкового денима, архитектура которого подчеркнута контрастными отделочными строчками, создающими графичный и современный облик. Сарториальный код изделия выражен в безупречно приталенном силуэте (linea avvitata), который в сочетании с регулируемой задней мартингалой позволяет мастерски акцентировать талию, сохраняя при этом комфортную регулярную посадку. Статусные геральдические пуговицы LS и функциональные карманы с клапанами превращают этот жилет из базового элемента в знаковый объект гардероба, транслирующий уверенность и итальянский шик.",
+    "ar": "تعد سترة Selettivo 1224 قراءة بارعة لأسلوب «Urban Country»، حيث تلتقي عملية الدنيم بجماليات Luisa Spagnoli الأرستقراطية. صُنعت القطعة من دنيم قطني عالي الجودة، وتبرز بنيتها من خلال الدرزات المتباينة التي تخلق مظهراً بيانياً وعصرياً. يتجلى رمز الخياطة في القطعة في قصة الخصر المحددة (linea avvitata)، والتي تسمح، بالاقتران مع الحزام الخلفي القابل للتعديل، بإبراز الخصر ببراعة مع الحفاظ على المقاس المعتاد المريح. تحول أزرار LS الشعارية والجيوب العملية ذات القلابات هذه السترة من عنصر أساسي إلى قطعة أيقونية في خزانة الملابس، تعكس الثقة والأناقة الإيطالية.",
+    "ka": "Жилет Selettivo 1224 --- წარმოადგენს „Urban Country“-ს სტილის ვირტუოზულ ინტერპრეტაციას, სადაც დენიმის პრაქტიკულობა Luisa Spagnoli-ს არისტოკრატულ ესთეტიკას ხვდება. მოდელი შესრულებულია მაღალი ხარისხის ბამბის დენიმისგან, რომლის არქიტექტურაც ხაზგასმულია კონტრასტული მოსაპირკეთებელი ნაკერებით, რაც ქმნის გრაფიკულ და თანამედროვე იერსახეს. ნაკეთობის მკერავის კოდი გამოხატულია უნაკლოდ ტანზე მომდგარ სილუეტში (linea avvitata), რომელიც რეგულირებად უკანა მარტინგალასთან ერთად საშუალებას იძლევა ოსტატურად გავუსვათ ხაზი წელს, კომფორტული რეგულარული მორგების შენარჩუნებით. LS-ის სტატუსური ჰერალდიკური ღილები და ფუნქციონალური ჯიბეები სარქველებით ამ ჟილეტს ძირითადი ელემენტიდან გარდერობის საკულტო ობიექტად გარდაქმნის, რომელიც ასხივებს თავდაჯერებულობასა და იტალიურ შიკს.",
+    "hy": "Selettivo 1224 ժիլետը «Urban Country» ոճի վիրտուոզ ընթերցում է, որտեղ դենիմի գործնականությունը հանդիպում է Luisa Spagnoli-ի ազնվական էսթետիկային։ Մոդելը պատրաստված է բարձրորակ բամբակյա դենիմից, որի ճարտարապետությունը ընդգծված է հակադիր հարդարման կարերով, որոնք ստեղծում են գրաֆիկական և ժամանակակից տեսք։ Արտադրանքի սարտորիալ կոդը արտահայտված է անթերի ընդգծված ուրվագծով (linea avvitata), որը կարգավորվող հետևի մարտինգալայի հետ համատեղ թույլ է տալիս վարպետորեն շեշտադրել գոտկատեղը՝ պահպանելով հարմարավետ կանոնավոր ձևվածքը։ LS հերալդիկ կոճակները և փականներով ֆունկցիոնալ գրպանները այս ժիլետը հիմնական տարրից վերածում են զգեստապահարանի նշանավոր օբյեկտի, որը հաղորդում է վստահություն և իտալական շիկ։",
+    "lv": "Vestes Selettivo 1224 --- tā ir virtuozs «Urban Country» stila lasījums, kur džinsa praktiskums satiekas ar Luisa Spagnoli aristokrātisko estētiku. Modelis izgatavots no augstas kvalitātes kokvilnas džinsa, kura arhitektūru izceļ kontrastējošas apdares vīles, radot grafisku un mūsdienīgu veidolu. Izstrādājuma sartoriālais kods izpaužas nevainojami piegulošā siluetā (linea avvitata), kas apvienojumā ar regulējamu aizmugurējo martingali ļauj meistarīgi akcentēt vidukli, vienlaikus saglabājot ērtu, regulāru piegulumu. Statusa pilnās LS heraldikas pogas un funkcionālās kabatas ar atlokiem pārvērš šo vesti no bāzes elementa par ikonisku garderobes objektu, kas pauž pārliecību un itāļu šiku.",
+    "lt": "Liemenė Selettivo 1224 – tai meistriška „Urban Country“ stiliaus interpretacija, kurioje džinso praktiškumas susitinka su aristokratiška Luisa Spagnoli estetika. Modelis pagamintas iš aukščiausios kokybės medvilninio džinso, kurio architektūrą pabrėžia kontrastingos apdailos siūlės, sukuriančios grafišką ir modernų įvaizdį. Gaminio siuvimo kodas išreikštas nepriekaištingai prigludusiu siluetu (linea avvitata), kuris kartu su reguliuojamu nugaros dirželiu leidžia meistriškai akcentuoti liemenį, išlaikant patogų „regular“ prigludimą. Statusą pabrėžiančios heraldiškos LS sagos ir funkcionalios kišenės su atvartais paverčia šią liemenę iš bazinio elemento į ikonišką garderobo objektą, transliuojantį pasitikėjimą ir itališką prašmatnumą.",
+    "pl": "Kamizelka Selettivo 1224 --- to wirtuozerska interpretacja stylu „Urban Country”, gdzie praktyczność denimu spotyka się z arystokratyczną estetyką Luisa Spagnoli. Model wykonany z wysokiej jakości bawełnianego denimu, którego architekturę podkreślają kontrastowe szwy wykończeniowe, tworzące graficzny i nowoczesny wygląd. Sartorialny kod modelu wyrażony jest w nienagannie taliowanej sylwetce (linea avvitata), która w połączeniu z regulowanym tylnym paskiem pozwala mistrzowsko akcentować talię, zachowując przy tym komfortowe, regularne dopasowanie. Statusowe herbowe guziki LS oraz funkcjonalne kieszenie z patkami zmieniają tę kamizelkę z podstawowego elementu w ikoniczny obiekt garderoby, emanujący pewnością siebie i włoskim szykiem.",
+    "uk": "Жилет Selettivo 1224 --- це віртуозне прочитання стилю «Urban Country», де практичність деніму зустрічається з аристократичною естетикою Luisa Spagnoli. Модель виконана з високоякісного бавовняного деніму, архітектура якого підкреслена контрастними оздоблювальними строчками, що створюють графічний та сучасний вигляд. Сарторіальний код виробу виражений у бездоганно приталеному силуеті (linea avvitata), який у поєднанні з регульованою задньою мартингалою дозволяє майстерно акцентувати талію, зберігаючи при цьому комфортну регулярну посадку. Статусні геральдичні ґудзики LS та функціональні кишені з клапанами перетворюють цей жилет із базового елемента на знаковий об'єкт гардероба, що транслює впевненість та італійський шик."
+  },
+  "colors": [
+    {
+      "name": "Blu",
+      "code": "1224",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/45343318692424dc1734e9_80849161_02781610XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда позиционируют Selettivo 1224 как универсальный инструмент для создания многослойных образов и безупречных Total Denim сетов: Вариант 1224 (Denim): Total Look в lookbook (Look 40): каноническое подиумное сочетание с широкими джинсами Onirico 1224, создающее эффект «канадского смокинга».",
+        "en": "The brand's stylists position Selettivo 1224 as a versatile tool for creating layered looks and impeccable Total Denim sets: Variant 1224 (Denim): Total Look in the lookbook (Look 40): a canonical runway combination with wide-leg Onirico 1224 jeans, creating a \"Canadian tuxedo\" effect.",
+        "ar": "The brand's stylists position Selettivo 1224 as a versatile tool for creating layered looks and impeccable Total Denim sets: Variant 1224 (Denim): Total Look in the lookbook (Look 40): a canonical runway combination with wide-leg Onirico 1224 jeans, creating a \"Canadian tuxedo\" effect.",
+        "ka": "The brand's stylists position Selettivo 1224 as a versatile tool for creating layered looks and impeccable Total Denim sets: Variant 1224 (Denim): Total Look in the lookbook (Look 40): a canonical runway combination with wide-leg Onirico 1224 jeans, creating a \"Canadian tuxedo\" effect.",
+        "hy": "The brand's stylists position Selettivo 1224 as a versatile tool for creating layered looks and impeccable Total Denim sets: Variant 1224 (Denim): Total Look in the lookbook (Look 40): a canonical runway combination with wide-leg Onirico 1224 jeans, creating a \"Canadian tuxedo\" effect.",
+        "lv": "The brand's stylists position Selettivo 1224 as a versatile tool for creating layered looks and impeccable Total Denim sets: Variant 1224 (Denim): Total Look in the lookbook (Look 40): a canonical runway combination with wide-leg Onirico 1224 jeans, creating a \"Canadian tuxedo\" effect.",
+        "lt": "The brand's stylists position Selettivo 1224 as a versatile tool for creating layered looks and impeccable Total Denim sets: Variant 1224 (Denim): Total Look in the lookbook (Look 40): a canonical runway combination with wide-leg Onirico 1224 jeans, creating a \"Canadian tuxedo\" effect.",
+        "pl": "The brand's stylists position Selettivo 1224 as a versatile tool for creating layered looks and impeccable Total Denim sets: Variant 1224 (Denim): Total Look in the lookbook (Look 40): a canonical runway combination with wide-leg Onirico 1224 jeans, creating a \"Canadian tuxedo\" effect.",
+        "uk": "The brand's stylists position Selettivo 1224 as a versatile tool for creating layered looks and impeccable Total Denim sets: Variant 1224 (Denim): Total Look in the lookbook (Look 40): a canonical runway combination with wide-leg Onirico 1224 jeans, creating a \"Canadian tuxedo\" effect."
+      },
+      "items": [
+        {
+          "name": "Selettivo",
+          "code": "1224",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/45343318692424dc1734e9_80849161_02781610XX1.jpg"
+        },
+        {
+          "name": "Onirico",
+          "code": "1224",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg",
+          "modelId": 460
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 1, Bambola 3)",
+        "en": "In displays (Vetrina 1, Bambola 3)",
+        "ar": "In displays (Vetrina 1, Bambola 3)",
+        "ka": "In displays (Vetrina 1, Bambola 3)",
+        "hy": "In displays (Vetrina 1, Bambola 3)",
+        "lv": "In displays (Vetrina 1, Bambola 3)",
+        "lt": "In displays (Vetrina 1, Bambola 3)",
+        "pl": "In displays (Vetrina 1, Bambola 3)",
+        "uk": "In displays (Vetrina 1, Bambola 3)"
+      },
+      "text": {
+        "ru": "современный городской ансамбль с рубашкой Lucinda 0201, брюками Onirico 1224 и шляпой Renno 0930. Образ дополнен сумкой Iago 2240 0002.",
+        "en": "a modern urban ensemble with a Lucinda 0201 shirt, Onirico 1224 trousers and a Renno 0930 hat. The look is complemented by an Iago 2240 0002 bag.",
+        "ar": "a modern urban ensemble with a Lucinda 0201 shirt, Onirico 1224 trousers and a Renno 0930 hat. The look is complemented by an Iago 2240 0002 bag.",
+        "ka": "a modern urban ensemble with a Lucinda 0201 shirt, Onirico 1224 trousers and a Renno 0930 hat. The look is complemented by an Iago 2240 0002 bag.",
+        "hy": "a modern urban ensemble with a Lucinda 0201 shirt, Onirico 1224 trousers and a Renno 0930 hat. The look is complemented by an Iago 2240 0002 bag.",
+        "lv": "a modern urban ensemble with a Lucinda 0201 shirt, Onirico 1224 trousers and a Renno 0930 hat. The look is complemented by an Iago 2240 0002 bag.",
+        "lt": "a modern urban ensemble with a Lucinda 0201 shirt, Onirico 1224 trousers and a Renno 0930 hat. The look is complemented by an Iago 2240 0002 bag.",
+        "pl": "a modern urban ensemble with a Lucinda 0201 shirt, Onirico 1224 trousers and a Renno 0930 hat. The look is complemented by an Iago 2240 0002 bag.",
+        "uk": "a modern urban ensemble with a Lucinda 0201 shirt, Onirico 1224 trousers and a Renno 0930 hat. The look is complemented by an Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Onirico",
+          "code": "1224",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg",
+          "modelId": 460
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Игра фактур (Vetrina 2, Bambola 3)",
+        "en": "Texture play (Vetrina 2, Bambola 3)",
+        "ar": "Texture play (Vetrina 2, Bambola 3)",
+        "ka": "Texture play (Vetrina 2, Bambola 3)",
+        "hy": "Texture play (Vetrina 2, Bambola 3)",
+        "lv": "Texture play (Vetrina 2, Bambola 3)",
+        "lt": "Texture play (Vetrina 2, Bambola 3)",
+        "pl": "Texture play (Vetrina 2, Bambola 3)",
+        "uk": "Texture play (Vetrina 2, Bambola 3)"
+      },
+      "text": {
+        "ru": "сложная многослойность под замшевой курткой Scanio 2219 0908 в паре с рубашкой Barberino 0201 и брюками Onirico 1224.",
+        "en": "complex layering under a suede Scanio 2219 0908 jacket paired with a Barberino 0201 shirt and Onirico 1224 trousers.",
+        "ar": "complex layering under a suede Scanio 2219 0908 jacket paired with a Barberino 0201 shirt and Onirico 1224 trousers.",
+        "ka": "complex layering under a suede Scanio 2219 0908 jacket paired with a Barberino 0201 shirt and Onirico 1224 trousers.",
+        "hy": "complex layering under a suede Scanio 2219 0908 jacket paired with a Barberino 0201 shirt and Onirico 1224 trousers.",
+        "lv": "complex layering under a suede Scanio 2219 0908 jacket paired with a Barberino 0201 shirt and Onirico 1224 trousers.",
+        "lt": "complex layering under a suede Scanio 2219 0908 jacket paired with a Barberino 0201 shirt and Onirico 1224 trousers.",
+        "pl": "complex layering under a suede Scanio 2219 0908 jacket paired with a Barberino 0201 shirt and Onirico 1224 trousers.",
+        "uk": "complex layering under a suede Scanio 2219 0908 jacket paired with a Barberino 0201 shirt and Onirico 1224 trousers."
+      },
+      "items": [
+        {
+          "name": "Scanio",
+          "code": "2219 0908",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1382076925692424da8dd0a9_52339721_02781580XX1.jpg",
+          "modelId": 475
+        },
+        {
+          "name": "Barberino",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Onirico",
+          "code": "1224",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg",
+          "modelId": 460
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Интеллектуальный Layering (Vetrina 87, Bambola 3)",
+        "en": "Intellectual Layering (Vetrina 87, Bambola 3)",
+        "ar": "Intellectual Layering (Vetrina 87, Bambola 3)",
+        "ka": "Intellectual Layering (Vetrina 87, Bambola 3)",
+        "hy": "Intellectual Layering (Vetrina 87, Bambola 3)",
+        "lv": "Intellectual Layering (Vetrina 87, Bambola 3)",
+        "lt": "Intellectual Layering (Vetrina 87, Bambola 3)",
+        "pl": "Intellectual Layering (Vetrina 87, Bambola 3)",
+        "uk": "Intellectual Layering (Vetrina 87, Bambola 3)"
+      },
+      "text": {
+        "ru": "функциональный зимний сет под паркой Sinuosita 0101 0101 с рубашкой Leila 0201, пуловером Manos 2246 и джинсами Onirico 1224.",
+        "en": "a functional winter set under a Sinuosita 0101 0101 parka with a Leila 0201 shirt, a Manos 2246 pullover and Onirico 1224 jeans.",
+        "ar": "a functional winter set under a Sinuosita 0101 0101 parka with a Leila 0201 shirt, a Manos 2246 pullover and Onirico 1224 jeans.",
+        "ka": "a functional winter set under a Sinuosita 0101 0101 parka with a Leila 0201 shirt, a Manos 2246 pullover and Onirico 1224 jeans.",
+        "hy": "a functional winter set under a Sinuosita 0101 0101 parka with a Leila 0201 shirt, a Manos 2246 pullover and Onirico 1224 jeans.",
+        "lv": "a functional winter set under a Sinuosita 0101 0101 parka with a Leila 0201 shirt, a Manos 2246 pullover and Onirico 1224 jeans.",
+        "lt": "a functional winter set under a Sinuosita 0101 0101 parka with a Leila 0201 shirt, a Manos 2246 pullover and Onirico 1224 jeans.",
+        "pl": "a functional winter set under a Sinuosita 0101 0101 parka with a Leila 0201 shirt, a Manos 2246 pullover and Onirico 1224 jeans.",
+        "uk": "a functional winter set under a Sinuosita 0101 0101 parka with a Leila 0201 shirt, a Manos 2246 pullover and Onirico 1224 jeans."
+      },
+      "items": [
+        {
+          "name": "Sinuosita",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/U0zfEciTRril1sAeNWTung_1279272056696f42f726ce55_67715627_02821010XX1.jpg",
+          "modelId": 320
+        },
+        {
+          "name": "Leila",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "modelId": 414
+        },
+        {
+          "name": "Manos",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/62874749691c57928c68a3_59975180_02790240XX1.jpg"
+        },
+        {
+          "name": "Onirico",
+          "code": "1224",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg",
+          "modelId": 460
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Сарториальный микс (Vetrina 93, Bambola 1)",
+        "en": "Sartorial mix (Vetrina 93, Bambola 1)",
+        "ar": "Sartorial mix (Vetrina 93, Bambola 1)",
+        "ka": "Sartorial mix (Vetrina 93, Bambola 1)",
+        "hy": "Sartorial mix (Vetrina 93, Bambola 1)",
+        "lv": "Sartorial mix (Vetrina 93, Bambola 1)",
+        "lt": "Sartorial mix (Vetrina 93, Bambola 1)",
+        "pl": "Sartorial mix (Vetrina 93, Bambola 1)",
+        "uk": "Sartorial mix (Vetrina 93, Bambola 1)"
+      },
+      "text": {
+        "ru": "комбинация под кабаном Solero 2344 с рубашкой Lucinda 0201 и брюками Onirico 1224.",
+        "en": "combination under a Solero 2344 caban with a Lucinda 0201 shirt and Onirico 1224 trousers.",
+        "ar": "combination under a Solero 2344 caban with a Lucinda 0201 shirt and Onirico 1224 trousers.",
+        "ka": "combination under a Solero 2344 caban with a Lucinda 0201 shirt and Onirico 1224 trousers.",
+        "hy": "combination under a Solero 2344 caban with a Lucinda 0201 shirt and Onirico 1224 trousers.",
+        "lv": "combination under a Solero 2344 caban with a Lucinda 0201 shirt and Onirico 1224 trousers.",
+        "lt": "combination under a Solero 2344 caban with a Lucinda 0201 shirt and Onirico 1224 trousers.",
+        "pl": "combination under a Solero 2344 caban with a Lucinda 0201 shirt and Onirico 1224 trousers.",
+        "uk": "combination under a Solero 2344 caban with a Lucinda 0201 shirt and Onirico 1224 trousers."
+      },
+      "items": [
+        {
+          "name": "Solero",
+          "code": "2344",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/CIDkFKi-RPawztmo77nwXA_1425948726696f42fb0f6950_33326322_02821070XX1.jpg"
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Onirico",
+          "code": "1224",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg",
+          "modelId": 460
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- A sculptor of the silhouette: Direct the client's attention to the fitted cut and the martingale detail. Explain that the waistcoat functions as a denim corset, disciplining the figure and creating a flawless waistline even over voluminous shirts. - The"
+    ],
+    "ru": [
+      "- Скульптор силуэта: Акцентируйте внимание клиента на приталенном крое и наличии мартингалы. Объясните, что жилет работает как корсет из денима, дисциплинируя фигуру и создавая безупречную линию талии даже поверх объемных рубашек. - Мастерство многослойно"
+    ],
+    "ar": [
+      "- نحت القوام: ركزي انتباه العميل على القصة المحددة للخصر ووجود حزام الظهر (Martingala). اشرحي أن الصديري (Vest) يعمل مثل مشد من الدنيم، حيث يضبط القوام ويخلق خط خصر لا تشوبه شائبة حتى فوق القمصان الفضفاضة. - براعة الطبقات المتعددة: اقترحي الموديل كـ \"طبقة"
+    ],
+    "ka": [
+      "- სილუეტის სკულპტორი: გაამახვილეთ კლიენტის ყურადღება შემოტკეცილ ჭრაზე და მარტინგალის არსებობაზე. აუხსენით, რომ ჟილეტი მუშაობს როგორც დენიმის კორსეტი, რომელიც აწესრიგებს ფიგურას და ქმნის წელის უნაკლო ხაზს მოცულობითი პერანგების ზემოდანაც კი. - მრავალფენიანი"
+    ],
+    "hy": [
+      "- Ուրվագծի քանդակագործը. Շեշտադրեք հաճախորդի ուշադրությունը ընդգծված իրանի կտրվածքի և մարտինգալայի առկայության վրա: Բացատրեք, որ ժիլետը գործում է որպես դենիմե կորսետ՝ կարգավորելով կազմվածքը և ստեղծելով իրանի անթերի գիծ նույնիսկ ծավալուն վերնաշապիկների վրա"
+    ],
+    "lv": [
+      "- Скульптор силуэта: Акцентируйте внимание клиента на приталенном крое и наличии мартингалы. Объясните, что жилет работает как корсет из денима, дисциплинируя фигуру и создавая безупречную линию талии даже поверх объемных рубашек. - Мастерство многослойно"
+    ],
+    "lt": [
+      "- Silueto skulptorius: akcentuokite kliento dėmesį į prigludusį kirpimą ir martingalės buvimą. Paaiškinkite, kad liemenė veikia kaip džinsinis korsetas, disciplinuodama figūrą ir sukurdama nepriekaištingą liemens liniją net virš tūrinių marškinių. - Sluoksniuotumo meistriškumas: pasiūlykite modelį kaip idealų „vidurinį sluoksnį“. Dėl reguliaraus prigludimo ir rankovių nebuvimo Selettivo liemenė suteikia įvaizdžiui gylio ir šilumos (kaip parodyta Vetrina 87), nevaržydama judesių po viršutiniais drabužiais. - Juvelyrinis džinso statusas: pabrėžkite LS heraldinių sagų vertę. Šios auksinės detalės perkelia džinsinį audinį į prabangos kategoriją, leidžiančią derinti liemenę su klasikiniais papuošalais ir statusą pabrėžiančiais kolekcijos aksesuarais."
+    ],
+    "pl": [
+      "- Rzeźbiarz sylwetki: Skup uwagę klienta na taliowanym kroju i obecności martyngali. Wyjaśnij, że kamizelka działa jak gorset z denimu, dyscyplinując figurę i tworząc bezbłędną linię talii nawet na obszernych koszulach. - Mistrzostwo warstwowości: Zapropo"
+    ],
+    "uk": [
+      "- Скульптор силуету: Акцентуйте увагу клієнта на приталеному крої та наявності мартингали. Поясніть, що жилет працює як корсет із деніму, дисциплінуючи фігуру та створюючи бездоганну лінію талії навіть поверх об'ємних сорочок. - Майстерність багатошаровос"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Деним выглядит Обратите внимание на сарториальные детали: слишком приталенный крой и фирменные пуговицы LS. В повседневно",
+        "a": "сочетании с белой рубашкой Lucinda 0201 жилет приобретает нарядный и статусный вид."
+      },
+      {
+        "q": "Жилет может Модель имеет vestibilità regular (регулярную сидеть слишком посадку), что обеспечивает свободу. Вы можете легко плотно",
+        "a": "отрегулировать прилегание с помощью мартингалы на спинке."
+      },
+      {
+        "q": "Сложно подобрать Дизайнеры бренда рекомендуют идеальную пару — низ к джинсовому брюки Onirico 1224. Total Denim Look — это жилету",
+        "a": "один из главных трендов сезона, транслирующий уверенный стиль."
+      },
+      {
+        "q": "Ткань кажется Высококачественный хлопок в изделиях Luisa Spagnoli слишком жесткой",
+        "a": "проходит специальную обработку, обеспечивающую мягкость ткани при сохранении архитектурной формы изделия."
+      },
+      {
+        "q": "Эта вещь только Напротив, посмотрите на стилизацию в Vetrina 87: для теплого жилет является ключевым элементом зимней сезона",
+        "a": "многослойности, надежно сохраняя тепло между рубашкой и теплым парка."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Деним выглядит",
+        "a": "Обратите внимание на сарториальные детали: слишком приталенный крой и фирменные пуговицы LS. В повседневно сочетании с белой рубашкой Lucinda 0201 жилет приобретает нарядный и статусный вид."
+      },
+      {
+        "q": "Жилет может Модель имеет vestibilità regular (регулярную сидеть слишком посадку), что обеспечивает свободу. Вы можете легко плотно",
+        "a": "отрегулировать прилегание с помощью мартингалы на спинке."
+      },
+      {
+        "q": "Сложно подобрать Дизайнеры бренда рекомендуют идеальную пару — низ к джинсовому брюки Onirico 1224. Total Denim Look — это жилету",
+        "a": "один из главных трендов сезона, транслирующий уверенный стиль."
+      },
+      {
+        "q": "Ткань кажется Высококачественный хлопок в изделиях Luisa Spagnoli слишком жесткой",
+        "a": "проходит специальную обработку, обеспечивающую мягкость ткани при сохранении архитектурной формы изделия."
+      },
+      {
+        "q": "Эта вещь только Напротив, посмотрите на стилизацию в Vetrina 87: для теплого жилет является ключевым элементом зимней сезона",
+        "a": "многослойности, надежно сохраняя тепло между рубашкой и теплым парка."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يبدو الدنيم كاجوال أكثر من اللازم",
+        "a": "انتبهي للتفاصيل الحرفية: القصة الضيقة (الخصر المحدد) وأزرار LS المميزة. مع قميص Lucinda 0201 الأبيض، يكتسب الصديري مظهراً أنيقاً يليق بالمناسبات."
+      },
+      {
+        "q": "قد يكون الصديري ضيقاً جداً",
+        "a": "الموديل يتمتع بـ vestibilità regular (مقاس عادي) مما يضمن حرية الحركة. يمكنك بسهولة تعديل الضيق بواسطة الحزام الخلفي (مارتينجالا)."
+      },
+      {
+        "q": "من الصعب إيجاد التنسيق المثالي للصديري الجينز",
+        "a": "ينصح مصممو العلامة بالزوج المثالي: بنطلون Onirico 1224. إطلالة الدنيم الكاملة هي واحدة من أهم صيحات الموسم، وتعكس أسلوباً واثقاً."
+      },
+      {
+        "q": "يبدو القماش خشناً جداً",
+        "a": "يخضع القطن عالي الجودة في منتجات Luisa Spagnoli لمعالجة خاصة تضمن نعومة القماش مع الحفاظ على الشكل المعماري للقطعة."
+      },
+      {
+        "q": "هذه القطعة مناسبة فقط للموسم الدافئ",
+        "a": "على العكس، انظري إلى التنسيق في Vetrina 87: الصديري عنصر أساسي لتعدد الطبقات في الشتاء، حيث يحفظ الدفء بفعالية بين القميص والسترة الدافئة."
+      }
+    ],
+    "ka": [],
+    "hy": [
+      {
+        "q": "Դենիմը չափազանց առօրյա տեսք ունի»։",
+        "a": "Ուշադրություն դարձրեք սարտորիալ մանրամասներին. չափազանց ընդգծված կտրվածք և LS ֆիրմային կոճակներ: Lucinda 0201 սպիտակ վերնաշապիկի հետ համադրությամբ ժիլետը ստանում է տոնական և կարգավիճակային տեսք: «Ժիլետը կարող է շատ կիպ նստել»։ Մոդելն ունի vestibilità regular (կանոնավոր նստվածք), որն ապահովում է ազատություն: Դուք կարող եք հեշտությամբ կարգավորել գոտկատեղը մեջքի մարտինգալի միջոցով: «Դժվար է հարմար զույգ գտնել դենիմե ժիլետի համար»։ Բրենդի դիզայներները խորհուրդ են տալիս իդեալական զույգը՝ Onirico 1224 տաբատը: Total Denim Look-ը սեզոնի գլխավոր թրենդներից է, որը հաղորդում է վստահ ոճ: «Գործվածքը չափազանց կոշտ է թվում»։ Luisa Spagnoli-ի արտադրանքի բարձրորակ բամբակն անցնում է հատուկ մշակում, որն ապահովում է գործվածքի փափկությունը՝ պահպանելով արտադրանքի ճարտարապետական ձևը: «Այս իրը միայն տաք սեզոնի համար է»։ Հակառակը, նայեք Vetrina 87-ի ոճավորմանը. ժիլետը ձմեռային բազմաշերտության առանցքային տարր է, որը հուսալիորեն ջերմություն է պահպանում վերնաշապիկի և տաք պարկայի միջև"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Džinss izskatās pārāk ikdienišķi",
+        "a": "Pievērsiet uzmanību sartoriālajām detaļām: pieguļošajam piegriezumam un zīmola LS pogām. Kombinācijā ar baltu kreklu Lucinda 0201 veste iegūst greznu un statusa pilnu izskatu."
+      },
+      {
+        "q": "Veste var sēdēt pārāk cieši",
+        "a": "Modelim ir vestibilità regular (regulāra piegulšana), kas nodrošina brīvību. Jūs varat viegli noregulēt piegulšanu, izmantojot jostu mugurpusē."
+      },
+      {
+        "q": "Grūti piemeklēt apakšdaļu džinsa vestei",
+        "a": "Zīmola dizaineri iesaka ideālu pāri — bikses Onirico 1224. Total Denim Look ir viens no sezonas galvenajiem trendiem, kas pauž pārliecinātu stilu."
+      },
+      {
+        "q": "Audums šķiet pārāk ciets",
+        "a": "Augstas kvalitātes kokvilna Luisa Spagnoli izstrādājumos iziet īpašu apstrādi, kas nodrošina auduma mīkstumu, saglabājot izstrādājuma arhitektonisko formu."
+      },
+      {
+        "q": "Šī lieta ir tikai siltajai sezonai",
+        "a": "Gluži pretēji, paskatieties uz stilizāciju Vetrina 87: veste ir galvenais ziemas daudzslāņainības elements, droši saglabājot siltumu starp kreklu un siltu parku."
+      }
+    ],
+    "lt": [
+      {
+        "q": "kaip įveikti „Džinsas atrodo per kasdieniškai",
+        "a": "Atkreipkite dėmesį į sartorialias detales: liemenuotą kirpimą ir firmines LS sagas. Derinyje su baltais Lucinda 0201 marškiniais liemenė įgauna puošnią ir statusą pabrėžiančią išvaizdą. „Liemenė gali būti per aptempta“ Modelis yra vestibilità regular (reguliaraus kirpimo), kas užtikrina laisvumą. Jūs galite lengvai sureguliuoti prigludimą naudodami nugarėlėje esančią martingalą. „Sunku parinkti apačią prie džinsinės liemenės“ Prekės ženklo dizaineriai rekomenduoja idealų variantą — Onirico 1224 kelnes. Total Denim Look — tai viena pagrindinių sezono tendencijų, transliuojanti užtikrintą stilių. „Audinys atrodo per kietas“ Aukštos kokybės medvilnė Luisa Spagnoli gaminiuose praeina specialų apdorojimą, užtikrinantį audinio švelnumą išlaikant architektoninę gaminio formą. „Šis daiktas tik šiltajam sezonui“ Priešingai, pažiūrėkite į stilizaciją Vetrina 87: liemenė yra pagrindinis žiemos sluoksniuotumo elementas, patikimai sulaikantis šilumą tarp marškinių ir šiltos parkos."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Denim wygląda zbyt codziennie",
+        "a": "-> Proszę zwrócić uwagę na detale krawieckie: mocno taliowany krój i firmowe guziki LS. W połączeniu z białą koszulą Lucinda 0201 kamizelka nabiera wizytowego i prestiżowego wyglądu."
+      },
+      {
+        "q": "Kamizelka może leżeć zbyt ciasno",
+        "a": "-> Model ma vestibilità regular (regularny krój), co zapewnia swobodę. Można łatwo wyregulować dopasowanie za pomocą paska na plecach."
+      },
+      {
+        "q": "Trudno dobrać dół do dżinsowej kamizelki",
+        "a": "-> Projektanci marki polecają idealną parę — spodnie Onirico 1224. Total Denim Look to jeden z głównych trendów sezonu, emanujący pewnym stylem."
+      },
+      {
+        "q": "Tkanina wydaje się zbyt sztywna",
+        "a": "-> Wysokiej jakości bawełna w produktach Luisa Spagnoli przechodzi specjalną obróbkę, zapewniającą miękkość materiału przy jednoczesnym zachowaniu architektonicznej formy produktu."
+      },
+      {
+        "q": "Ta rzecz jest tylko na ciepły sezon",
+        "a": "-> Wręcz przeciwnie, proszę spojrzeć na stylizację w Vetrina 87: kamizelka jest kluczowym elementem zimowej warstwowości, niezawodnie zatrzymując ciepło między koszulą a ciepłym płaszczem."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Денім виглядає",
+        "a": "Зверніть увагу на сарторіальні деталі: занадто приталений крій та фірмові ґудзики LS. У повсякденно поєднанні з білою сорочкою Lucinda 0201 жилет набуває ошатного та статусного вигляду."
+      },
+      {
+        "q": "Жилет може Модель має vestibilità regular (регулярну сидіти занадто посадку), що забезпечує свободу. Ви можете легко щільно",
+        "a": "відрегулювати прилягання за допомогою мартингали на спинці."
+      },
+      {
+        "q": "Складно підібрати Дизайнери бренду рекомендують ідеальну пару — низ до джинсового брюки Onirico 1224. Total Denim Look — це жилета",
+        "a": "один із головних трендів сезону, що транслює впевнений стиль."
+      },
+      {
+        "q": "Тканина здається Високоякісна бавовна у виробах Luisa Spagnoli занадто жорсткою",
+        "a": "проходить спеціальну обробку, що забезпечує м’якість тканини при збереженні архітектурної форми виробу."
+      },
+      {
+        "q": "Ця річ тільки Навпаки, подивіться на стилізацію у Vetrina 87: для теплого жилет є ключовим елементом зимової сезону",
+        "a": "багатошаровості, надійно зберігаючи тепло між сорочкою та теплою паркою."
+      }
+    ]
+  }
+}

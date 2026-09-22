@@ -1,0 +1,449 @@
+{
+  "id": 10,
+  "name": "Cinguettio",
+  "description": {
+    "en": "This vest from the Maglieria Cardata line by Luisa Spagnoli is the quintessence of cozy luxury and functional style. Crafted from a noble blend of 90% pure wool and 10% cashmere, it delivers exceptional tactile sensation and gentle warmth. The design, featuring accent dropped shoulders and flat-rib edge finishing, lends the silhouette contemporary architecture. A horn-effect button closure serves as an elegant touch, underscoring the brand's commitment to classic tradition reimagined for today. The Regular fit ensures versatility and comfort, making this piece ideal for creating status-defining layered ensembles.",
+    "ru": "Этот жилет из линии Maglieria Cardata от Luisa Spagnoli — квинтэссенция уютной роскоши и функционального стиля. Модель, выполненная из благородного сочетания 90% натуральной шерсти и 10% кашемира, дарит исключительные тактильные ощущения и мягкое тепло. Дизайн с акцентными спущенными плечами и отделкой краев в плоский рубчик придает силуэту современную архитектурность. Застежка на пуговицы с эффектом рога служит элегантным штрихом, подчеркивающим приверженность бренда классическим традициям в актуальном прочтении. Прямая посадка (Regular fit) обеспечивает универсальность и комфорт, делая изделие идеальным для создания статусных многослойных ансамблей.",
+    "ar": "يُمثل هذا الصديري من خط Maglieria Cardata من Luisa Spagnoli جوهر الفخامة المريحة والأسلوب العملي. صُنع الموديل من مزيج نبيل يتكون من 90% صوف طبيعي و10% كشمير ليمنح شعوراً استثنائياً بالراحة والدفء. يتميز التصميم بأكتاف منسدلة وحواف مضلعة مسطحة تضفي لمسة هندسية عصرية، بينما تُضفي الأزرار ذات تأثير قرن الحيوان لمسة أنيقة تعكس التزام العلامة بالتقاليد الكلاسيكية برؤية معاصرة. وتضمن القصة المستقيمة (Regular fit) تنوعاً وراحة مثالية تجعل القطعة خياراً ممتازاً للإطلالات الأنيقة والمتعددة الطبقات.",
+    "ka": "ეს ჟილეტი Luisa Spagnoli-ის Maglieria Cardata ხაზიდან არის მყუდრო ფუფუნებისა და ფუნქციონალური სტილის კვინტესენცია. მოდელი, რომელიც დამზადებულია 90% ნატურალური მატყლისა და 10% ქაშმირის კეთილშობილური შეხამებით, იძლევა განსაკუთრებულ ტაქტილურ შეგრძნებებს და რბილ სითბოს. დიზაინი ჩამოწეული მხრებით და კიდეების ბრტყელი რეზინით დამუშავებით სილუეტს თანამედროვე არქიტექტურულობას ანიჭებს. რქის ეფექტის მქონე ღილებით შესაკრავი ელეგანტური შტრიხია, რომელიც ხაზს უსვამს ბრენდის ერთგულებას კლასიკური ტრადიციებისადმი აქტუალურ ინტერპრეტაციაში. სწორი მორგება (Regular fit) უზრუნველყოფს უნივერსალურობას და კომფორტს, რაც ნაკეთობას იდეალურს ხდის სტატუსური მრავალშრიანი ანსამბლების შესაქმნელად.",
+    "hy": "Luisa Spagnoli-ի Maglieria Cardata հավաքածուի այս ժիլետը հարմարավետ շքեղության և ֆունկցիոնալ ոճի մարմնացումն է: Մոդելը, որը պատրաստված է 90% բնական բրդի և 10% քաշմիրի ազնիվ համադրությունից, պարգևում է բացառիկ շոշափելի զգացողություններ և մեղմ ջերմություն: Իջեցված ուսագծերով և եզրերի հարթ ռիբե հարդարանքով դիզայնը ուրվագծին հաղորդում է ժամանակակից ճարտարապետական տեսք: Եղջյուրի էֆեկտով կոճակները հանդիսանում են նրբագեղ շտրիխ՝ ընդգծելով բրենդի հավատարմությունը դասական ավանդույթներին՝ արդիական մեկնաբանությամբ: Ուղիղ կտրվածքը (Regular fit) ապահովում է բազմակողմանիություն և հարմարավետություն՝ իրը դարձնելով իդեալական կարգավիճակային բազմաշերտ համադրություններ ստեղծելու համար:",
+    "lv": "Šī veste no Maglieria Cardata līnijas no Luisa Spagnoli ir mājīgas greznības un funkcionāla stila kvintesence. Modelis, kas izgatavots no cēla 90% dabīgas vilnas un 10% kašmīra savienojuma, sniedz izcilas taustes sajūtas un maigu siltumu. Dizains ar akcentētiem nolaistiem pleciem un apmaļu apdari plakanā rievojumā piešķir siluetam mūsdienīgu arhitektoniskumu. Aizdare ar ragveida pogām kalpo kā elegants pieskāriens, kas uzsver zīmola uzticību klasiskajām tradīcijām mūsdienīgā interpretācijā. Taisnais piegriezums (Regular fit) nodrošina daudzpusību un komfortu, padarot izstrādājumu ideālu statusu apliecinošu daudzslāņu ansambļu radīšanai.",
+    "lt": "Ši liemenė iš „Maglieria Cardata“ linijos nuo „Luisa Spagnoli“ – jaukaus prabangumo ir funkcionalaus stiliaus kvintesencija. Modelis, pagamintas iš tauraus 90% natūralios vilnos ir 10% kašmyro derinio, suteikia išskirtinius lytėjimo pojūčius ir švelnią šilumą. Dizainas su akcentuotais nuleistais pečiais ir plokščiu briaunuotu kraštų apdaila suteikia siluetui modernaus architektūriškumo. Sagų užsegimas su rago efektu tarnauja kaip elegantiškas potėpis, pabrėžiantis prekės ženklo ištikimybę klasikinėms tradicijoms šiuolaikiniame pateikime. Tiesioginis siluetas („Regular fit“) užtikrina universalumą ir komfortą, padarydamas gaminį idealiu kuriant statuso vertus sluoksniuotus ansamblius.",
+    "pl": "Ta kamizelka z linii Maglieria Cardata od Luisa Spagnoli to kwintesencja przytulnego luksusu i funkcjonalnego stylu. Model, wykonany ze szlachetnego połączenia 90% naturalnej wełny i 10% kaszmiru, zapewnia wyjątkowe doznania w dotyku oraz miękkie ciepło. Projekt z wyrazistymi opadającymi ramionami i wykończeniem krawędzi w płaski prążek nadaje sylwetce nowoczesną architektoniczność. Zapięcie na guziki z efektem rogu stanowi elegancki akcent, podkreślający przywiązanie marki do klasycznych tradycji w aktualnym wydaniu. Prosty fason (Regular fit) zapewnia uniwersalność i komfort, czyniąc ten wyrób idealnym do tworzenia prestiżowych wielowarstwowych stylizacji.",
+    "uk": "Цей жилет з лінії Maglieria Cardata від Luisa Spagnoli — квінтесенція затишної розкоші та функціонального стилю. Модель, виконана з благородного поєднання 90% натуральної вовни та 10% кашеміру, дарує виняткові тактильні відчуття та м'яке тепло. Дизайн із акцентними спущеними плечима та оздобленням країв у плоский рубчик надає силуету сучасної архітектурності. Застібка на ґудзики з ефектом рогу слугує елегантним штрихом, що підкреслює прихильність бренду до класичних традицій в актуальному прочитанні. Пряма посадка (Regular fit) забезпечує універсальність і комфорт, роблячи виріб ідеальним для створення статусних багатошарових ансамблів."
+  },
+  "colors": [
+    {
+      "name": "Blu",
+      "code": "1251",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eJHu-sI1Q8OS92vLFM1qJg_1816500344696f4358cfc0e6_72397790_02830140XX1.jpg"
+    },
+    {
+      "name": "Grigio Medio",
+      "code": "0835",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nFFz4HPvRuyIO8rYkcmQxA_164523697696f435861d906_09889662_02830130XX1.jpg"
+    },
+    {
+      "name": "Verde Oliva",
+      "code": "1726",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OoQX1NUFQ3GROS6Sue6f-A_711887232696f4359482488_46795419_02830150XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 181 (Элегантный синий)",
+        "en": "Total Look 181 (Elegant Blue)",
+        "ar": "Total Look 181 (Elegant Blue)",
+        "ka": "Total Look 181 (Elegant Blue)",
+        "hy": "Total Look 181 (Elegant Blue)",
+        "lv": "Total Look 181 (Elegant Blue)",
+        "lt": "Total Look 181 (Elegant Blue)",
+        "pl": "Total Look 181 (Elegant Blue)",
+        "uk": "Total Look 181 (Elegant Blue)"
+      },
+      "text": {
+        "ru": "Cinguettio 1251 в сочетании с рубашкой Leila A 0201, вельветовыми брюками Olap 1296 и брюками Olivetano 1251. Образ дополнен ботильонами Urbana 0981, браслетом Navigero 0002 и платком Roboamo 3463.",
+        "en": "Cinguettio 1251 paired with a Leila A 0201 shirt, corduroy Olap 1296 trousers and Olivetano 1251 trousers. The look is completed by Urbana 0981 ankle boots, a Navigero 0002 bracelet and a Roboamo 3463 scarf.",
+        "ar": "Cinguettio 1251 paired with a Leila A 0201 shirt, corduroy Olap 1296 trousers and Olivetano 1251 trousers. The look is completed by Urbana 0981 ankle boots, a Navigero 0002 bracelet and a Roboamo 3463 scarf.",
+        "ka": "Cinguettio 1251 paired with a Leila A 0201 shirt, corduroy Olap 1296 trousers and Olivetano 1251 trousers. The look is completed by Urbana 0981 ankle boots, a Navigero 0002 bracelet and a Roboamo 3463 scarf.",
+        "hy": "Cinguettio 1251 paired with a Leila A 0201 shirt, corduroy Olap 1296 trousers and Olivetano 1251 trousers. The look is completed by Urbana 0981 ankle boots, a Navigero 0002 bracelet and a Roboamo 3463 scarf.",
+        "lv": "Cinguettio 1251 paired with a Leila A 0201 shirt, corduroy Olap 1296 trousers and Olivetano 1251 trousers. The look is completed by Urbana 0981 ankle boots, a Navigero 0002 bracelet and a Roboamo 3463 scarf.",
+        "lt": "Cinguettio 1251 paired with a Leila A 0201 shirt, corduroy Olap 1296 trousers and Olivetano 1251 trousers. The look is completed by Urbana 0981 ankle boots, a Navigero 0002 bracelet and a Roboamo 3463 scarf.",
+        "pl": "Cinguettio 1251 paired with a Leila A 0201 shirt, corduroy Olap 1296 trousers and Olivetano 1251 trousers. The look is completed by Urbana 0981 ankle boots, a Navigero 0002 bracelet and a Roboamo 3463 scarf.",
+        "uk": "Cinguettio 1251 paired with a Leila A 0201 shirt, corduroy Olap 1296 trousers and Olivetano 1251 trousers. The look is completed by Urbana 0981 ankle boots, a Navigero 0002 bracelet and a Roboamo 3463 scarf."
+      },
+      "items": [
+        {
+          "name": "Cinguettio",
+          "code": "1251",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eJHu-sI1Q8OS92vLFM1qJg_1816500344696f4358cfc0e6_72397790_02830140XX1.jpg"
+        },
+        {
+          "name": "Leila A",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png"
+        },
+        {
+          "name": "Olap",
+          "code": "1296",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/293172957691f15a1048f00_73901415_02780980XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Olivetano",
+          "code": "1251",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/QXBRddRtRfyF-CI0R37DgA_392918825696f43087b6123_57329480_02821450XX1.jpg",
+          "modelId": 249
+        },
+        {
+          "name": "Urbana",
+          "code": "0981",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7BoHBVbqTtCtxociDR_4dQ_2049283379696f42280ae740_09477040_02801350XX1.jpg"
+        },
+        {
+          "name": "Navigero",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1112265162691c57d765cee8_66461141_02800150XX1.jpg"
+        },
+        {
+          "name": "Roboamo",
+          "code": "3463",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Progetto%20senza%20titolo%20%281%29.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 188 ( Оливковый шик)",
+        "en": "Total Look 188 ( Olive Chic)",
+        "ar": "Total Look 188 ( Olive Chic)",
+        "ka": "Total Look 188 ( Olive Chic)",
+        "hy": "Total Look 188 ( Olive Chic)",
+        "lv": "Total Look 188 ( Olive Chic)",
+        "lt": "Total Look 188 ( Olive Chic)",
+        "pl": "Total Look 188 ( Olive Chic)",
+        "uk": "Total Look 188 ( Olive Chic)"
+      },
+      "text": {
+        "ru": "Cinguettio 1726 дополнен рубашкой Liceali 3200, брюками Olivetano 1793, ботильонами Urbana 0981, браслетом Navigero 0002 и серьгами Nasso 0002.",
+        "en": "Cinguettio 1726 complemented by a Liceali 3200 shirt, Olivetano 1793 trousers, Urbana 0981 ankle boots, a Navigero 0002 bracelet and Nasso 0002 earrings.",
+        "ar": "Cinguettio 1726 complemented by a Liceali 3200 shirt, Olivetano 1793 trousers, Urbana 0981 ankle boots, a Navigero 0002 bracelet and Nasso 0002 earrings.",
+        "ka": "Cinguettio 1726 complemented by a Liceali 3200 shirt, Olivetano 1793 trousers, Urbana 0981 ankle boots, a Navigero 0002 bracelet and Nasso 0002 earrings.",
+        "hy": "Cinguettio 1726 complemented by a Liceali 3200 shirt, Olivetano 1793 trousers, Urbana 0981 ankle boots, a Navigero 0002 bracelet and Nasso 0002 earrings.",
+        "lv": "Cinguettio 1726 complemented by a Liceali 3200 shirt, Olivetano 1793 trousers, Urbana 0981 ankle boots, a Navigero 0002 bracelet and Nasso 0002 earrings.",
+        "lt": "Cinguettio 1726 complemented by a Liceali 3200 shirt, Olivetano 1793 trousers, Urbana 0981 ankle boots, a Navigero 0002 bracelet and Nasso 0002 earrings.",
+        "pl": "Cinguettio 1726 complemented by a Liceali 3200 shirt, Olivetano 1793 trousers, Urbana 0981 ankle boots, a Navigero 0002 bracelet and Nasso 0002 earrings.",
+        "uk": "Cinguettio 1726 complemented by a Liceali 3200 shirt, Olivetano 1793 trousers, Urbana 0981 ankle boots, a Navigero 0002 bracelet and Nasso 0002 earrings."
+      },
+      "items": [
+        {
+          "name": "Cinguettio",
+          "code": "1726",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OoQX1NUFQ3GROS6Sue6f-A_711887232696f4359482488_46795419_02830150XX1.jpg"
+        },
+        {
+          "name": "Liceali",
+          "code": "3200",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/S82WH97wQzu4sRcO5wWaUQ_2103315294696f4306d83529_32198325_02821400XX1.jpg"
+        },
+        {
+          "name": "Olivetano",
+          "code": "1793",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cvNRdSSbR3uGZFsM3BKLqg_26644077696f42e8e0b843_49978902_02820680XX1.jpg",
+          "modelId": 249
+        },
+        {
+          "name": "Urbana",
+          "code": "0981",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7BoHBVbqTtCtxociDR_4dQ_2049283379696f42280ae740_09477040_02801350XX1.jpg"
+        },
+        {
+          "name": "Navigero",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1112265162691c57d765cee8_66461141_02800150XX1.jpg"
+        },
+        {
+          "name": "Nasso",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1358178427691c57d57df644_69054109_02800120XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look Vetrina 30 ( Городской серый)",
+        "en": "Total Look Vetrina 30 ( Urban Grey)",
+        "ar": "Total Look Vetrina 30 ( Urban Grey)",
+        "ka": "Total Look Vetrina 30 ( Urban Grey)",
+        "hy": "Total Look Vetrina 30 ( Urban Grey)",
+        "lv": "Total Look Vetrina 30 ( Urban Grey)",
+        "lt": "Total Look Vetrina 30 ( Urban Grey)",
+        "pl": "Total Look Vetrina 30 ( Urban Grey)",
+        "uk": "Total Look Vetrina 30 ( Urban Grey)"
+      },
+      "text": {
+        "ru": "Cinguettio 0835 в паре с курткой Scalare 0817, юбкой Ferriera 0813 и классической рубашкой Lucinda 0201.",
+        "en": "Cinguettio 0835 paired with a Scalare 0817 jacket, Ferriera 0813 skirt and a classic Lucinda 0201 shirt (Information not available in official sources).",
+        "ar": "Cinguettio 0835 paired with a Scalare 0817 jacket, Ferriera 0813 skirt and a classic Lucinda 0201 shirt (Information not available in official sources).",
+        "ka": "Cinguettio 0835 paired with a Scalare 0817 jacket, Ferriera 0813 skirt and a classic Lucinda 0201 shirt (Information not available in official sources).",
+        "hy": "Cinguettio 0835 paired with a Scalare 0817 jacket, Ferriera 0813 skirt and a classic Lucinda 0201 shirt (Information not available in official sources).",
+        "lv": "Cinguettio 0835 paired with a Scalare 0817 jacket, Ferriera 0813 skirt and a classic Lucinda 0201 shirt (Information not available in official sources).",
+        "lt": "Cinguettio 0835 paired with a Scalare 0817 jacket, Ferriera 0813 skirt and a classic Lucinda 0201 shirt (Information not available in official sources).",
+        "pl": "Cinguettio 0835 paired with a Scalare 0817 jacket, Ferriera 0813 skirt and a classic Lucinda 0201 shirt (Information not available in official sources).",
+        "uk": "Cinguettio 0835 paired with a Scalare 0817 jacket, Ferriera 0813 skirt and a classic Lucinda 0201 shirt (Information not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Cinguettio",
+          "code": "0835",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nFFz4HPvRuyIO8rYkcmQxA_164523697696f435861d906_09889662_02830130XX1.jpg"
+        },
+        {
+          "name": "Scalare",
+          "code": "0817",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/579467540691c57cb581b12_63734955_02780440XX1.jpg",
+          "modelId": 300
+        },
+        {
+          "name": "Ferriera",
+          "code": "0813",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/egax8JISQYK6_qkM5jsxng_821559414696f4304481fb1_06686794_02821320XX1.jpg",
+          "modelId": 45
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the premium composition: 10% cashmere combined with select wool delivers unparalleled softness that the client will appreciate from the very first touch.",
+      "Recommend the vest as a key layering piece — it sits beautifully over silk blouses or fine turtlenecks without restricting movement.",
+      "Highlight the contemporary design: the dropped shoulder line is a subtle trend that lends the classic vest a modern, statement-making air."
+    ],
+    "ru": [
+      "Делайте акцент на премиальном составе: 10% кашемира в сочетании с отборной шерстью обеспечивают непревзойденную мягкость, которую клиент оценит с первого прикосновения.",
+      "Рекомендуйте жилет как ключевой элемент концепции многослойности (layering) — он идеально садится поверх шелковых блуз или тонких водолазок, не стесняя движений.",
+      "Подчеркните актуальность дизайна: спущенная линия плеча — это микротренд, который придает классическому жилету современное и статусное звучание."
+    ],
+    "ar": [
+      "ركزي على المكونات الفاخرة: 10% كشمير ممزوج مع صوف مختار بعناية يضمن نعومة فائقة ستقدرها العميلة من أول لمسة.",
+      "رشحي الصديري (الجيليه) كعنصر أساسي في مفهوم الطبقات (layering) — فهو ينسدل بشكل مثالي فوق القمصان الحريرية أو الياقات العالية الرقيقة دون تقييد الحركة.",
+      "أكدي على حداثة التصميم: خط الكتف الساقط هو توجه صغير (micro-trend) يضفي على الصديري الكلاسيكي طابعاً عصرياً وراقياً."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება პრემიუმ შემადგენლობაზე: 10% ქაშმირი არჩეულ შალთან კომბინაციაში უზრუნველყოფს შეუდარებელ სირბილეს, რომელსაც კლიენტი პირველივე შეხებისას დააფასებს.",
+      "გაუწიეთ რეკომენდაცია ჟილეტს, როგორც მრავალშრიანობის (layering) კონცეფციის საკვანძო ელემენტს — ის იდეალურად ჯდება აბრეშუმის ბლუზების ან თხელი კუსარების ზემოდან, მოძრაობის შეზღუდვის გარეშე.",
+      "ხაზი გაუსვით დიზაინის აქტუალობას: დაშვებული მხრის ხაზი — ეს არის მიკროტრენდი, რომელიც კლასიკურ ჟილეტს თანამედროვე და სტატუსურ ჟღერადობას ანიჭებს."
+    ],
+    "hy": [
+      "Շեշտը դրեք պրեմիում կազմության վրա. 10% քաշմիրը ընտիր բրդի հետ համակցված ապահովում է անգերազանցելի փափկություն, որը հաճախորդը կգնահատի առաջին իսկ հպումից։",
+      "Խորհուրդ տվեք ժիլետը որպես շերտավորման (layering) հայեցակարգի հիմնական տարր. այն իդեալականորեն նստում է մետաքսե բլուզների կամ բարակ ջեմպրների վրայից՝ չկաշկանդելով շարժումները։",
+      "Ընդգծեք դիզայնի արդիականությունը. ուսի իջեցված գիծը միկրոթրենդ է, որը դասական ժիլետին հաղորդում է ժամանակակից և կարգավիճակային հնչեղություն։"
+    ],
+    "lv": [
+      "Lieciet uzsvaru uz premium sastāvu: 10% kašmira kombinācijā ar izmeklētu vilnu nodrošina nepārspējamu maigumu, ko klients novērtēs jau pēc pirmā pieskāriena.",
+      "Iesakiet vesti kā galveno daudzslāņu (layering) koncepcijas elementu — tā ideāli pieguļ virs zīda blūzēm vai plānām bītleneēm, neierobežojot kustības.",
+      "Uzsveriet dizaina aktualitāti: noslīdētā plecu līnija ir mikrotrends, kas piešķir klasiskajai vestei modernu un statusa pilnu skanējumu."
+    ],
+    "lt": [
+      "Akcentuokite aukščiausios kokybės sudėtį: 10 % kašmyro derinys su rinktine vilna užtikrina neprilygstamą minkštumą, kurį klientas įvertins nuo pirmo prisilietimo.",
+      "Rekomenduokite liemenę kaip pagrindinį daugiasluoksniškumo (layering) koncepcijos elementą — ji idealiai tinka ant šilkinių palaidinių ar plonų golfų, nevaržydama judesių.",
+      "Pabrėžkite dizaino aktualumą: nuleista pečių linija – tai mikrotendencija, suteikianti klasikinei liemenei šiuolaikišką ir solidžią išraišką."
+    ],
+    "pl": [
+      "Połóż nacisk na skład premium: 10% kaszmiru w połączeniu z wyselekcjonowaną wełną zapewnia niezrównaną miękkość, którą klient doceni przy pierwszym dotyku.",
+      "Rekomenduj kamizelkę jako kluczowy element koncepcji warstwowości (layering) — idealnie układa się na jedwabnych bluzkach lub cienkich golfach, nie krępując ruchów.",
+      "Podkreśl aktualność designu: obniżona linia ramion to mikrotrend, który nadaje klasycznej kamizelce nowoczesny i prestiżowy wyraz."
+    ],
+    "uk": [
+      "Робіть акцент на преміальному складі: 10% кашеміру в поєднанні з відбірною вовною забезпечують неперевершену м'якість, яку клієнт оцінить із першого дотику.",
+      "Рекомендуйте жилет як ключовий елемент концепції багатошаровості (layering) — він ідеально сідає поверх шовкових блуз або тонких водолазок, не сковуючи рухів.",
+      "Підкресліть актуальність дизайну: спущена лінія плеча — це мікротренд, який надає класичному жилету сучасного та статусного звучання."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "A sleeveless waistcoat seems impractical for true winter weather.",
+        "a": "It is precisely the absence of sleeves that makes it versatile for indoor and office wear, while the high cashmere content guarantees excellent thermoregulation beneath outerwear."
+      },
+      {
+        "q": "Concern that carded wool may feel uncomfortable against the skin.",
+        "a": "Thanks to the addition of cashmere and the high quality of the wool finishing, the waistcoat has a silky texture and is exceptionally pleasant against the body."
+      },
+      {
+        "q": "The design seems too understated.",
+        "a": "This is precisely where the true elegance of 'Quiet Luxury' lies. The horn-effect buttons and ribbed trim are details that convey the piece's high status without excess ostentation."
+      },
+      {
+        "q": "How should such delicate knitwear be cared for?",
+        "a": "We recommend professional cleaning or gentle hand-washing in cool water with specialized wool detergents, to preserve the fibers' plush structure."
+      },
+      {
+        "q": "The model may look too voluminous.",
+        "a": "The Regular fit is designed to skim the figure delicately. The dropped shoulder creates an on-trend silhouette without overburdening the look with excess volume."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Жилет без рукавов кажется непрактичным для настоящей зимы.",
+        "a": "Именно отсутствие рукавов делает его универсальным для помещений и офисов, а высокое содержание кашемира гарантирует отличную терморегуляцию под верхней одеждой."
+      },
+      {
+        "q": "Боязнь, что кардная шерсть будет вызывать дискомфорт на коже.",
+        "a": "Благодаря добавлению кашемира и высокому качеству выделки шерсти, жилет обладает шелковистой текстурой и максимально приятен к телу."
+      },
+      {
+        "q": "Дизайн кажется слишком лаконичным.",
+        "a": "В этом кроется истинная элегантность 'тихой роскоши'. Пуговицы с эффектом рога и отделка в рубчик — это детали, которые говорят о высоком статусе изделия без лишнего пафоса."
+      },
+      {
+        "q": "Как ухаживать за таким деликатным трикотажем?",
+        "a": "Мы рекомендуем профессиональную чистку или бережную ручную стирку в прохладной воде со специальными средствами для шерсти, чтобы сохранить объемную структуру волокон."
+      },
+      {
+        "q": "Модель может выглядеть слишком объемной.",
+        "a": "Посадка Regular fit разработана так, чтобы деликатно облегать фигуру. Спущенное плечо создает актуальный силуэт, не перегружая образ лишним объемом."
+      }
+    ],
+    "ar": [
+      {
+        "q": "تبدو السترة بدون أكمام غير عملية لفصل الشتاء الحقيقي.",
+        "a": "إن غياب الأكمام تحديداً يجعلها قطعة متعددة الاستخدامات في الأماكن المغلقة والمكاتب، كما يضمن المحتوى العالي من الكشمير تنظيماً حرارياً ممتازاً تحت الملابس الخارجية."
+      },
+      {
+        "q": "الخوف من أن يسبب الصوف الممشط عدم الراحة على الجلد.",
+        "a": "بفضل إضافة الكشمير وجودة معالجة الصوف العالية، تتمتع السترة بملمس حريري وهي لطيفة للغاية على الجسم."
+      },
+      {
+        "q": "يبدو التصميم بسيطاً للغاية.",
+        "a": "تكمن الفخامة الحقيقية هنا في \"الفخامة الهادئة\". الأزرار ذات تأثير القرن والحواف المحبوكة هي تفاصيل تعبر عن المكانة العالية للقطعة دون تكلف مبالغ فيه."
+      },
+      {
+        "q": "كيف يتم العناية بتريكو دقيق كهذا؟",
+        "a": "نوصي بالتنظيف المهني أو الغسيل اليدوي اللطيف بالماء البارد مع مستحضرات خاصة للصوف للحفاظ على البنية الحجمية للألياف."
+      },
+      {
+        "q": "قد يبدو الموديل ضخماً جداً.",
+        "a": "قصة Regular fit صُممت لتعانق القوام برقة. الكتف الساقط يخلق صورة ظلية عصرية دون إثقال الإطلالة بحجم إضافي."
+      }
+    ],
+    "ka": [
+      {
+        "q": "სახელოების გარეშე ჟილეტი არაპრაქტიკული ჩანს ნამდვილი ზამთრისთვის.",
+        "a": "სწორედ სახელოების არარსებობა ხდის მას უნივერსალურს ოფისებსა და დახურულ სივრცეებში, ხოლო ქაშმირის მაღალი შემცველობა უზრუნველყოფს შესანიშნავ თერმორეგულაციას ზედა სამოსის ქვეშ."
+      },
+      {
+        "q": "შიში იმისა, რომ კარდული მატყლი გამოიწვევს დისკომფორტს კანზე.",
+        "a": "ქაშმირის დამატებისა და მატყლის დამუშავების მაღალი ხარისხის წყალობით, ჟილეტს აქვს აბრეშუმისებრი ტექსტურა და მაქსიმალურად სასიამოვნოა ტანისთვის."
+      },
+      {
+        "q": "დიზაინი ზედმეტად ლაკონიური ჩანს.",
+        "a": "სწორედ ამაში მდგომარეობს 'მშვიდი ფუფუნების' ჭეშმარიტი ელეგანტურობა. რქის ეფექტის ღილები და ნაქსოვი დეტალები — ეს ის დეტალებია, რომლებიც ზედმეტი პათოსის გარეშე მეტყველებს ნაკეთობის მაღალ სტატუსზე."
+      },
+      {
+        "q": "როგორ მოვუაროთ ასეთ დელიკატურ ტრიკოტაჟს?",
+        "a": "ჩვენ გირჩევთ პროფესიონალურ წმენდას ან ფრთხილ ხელის რეცხვას გრილ წყალში მატყლისთვის განკუთვნილი სპეციალური საშუალებებით, რათა შეინარჩუნოთ ბოჭკოების მოცულობითი სტრუქტურა."
+      },
+      {
+        "q": "მოდელი შესაძლოა ზედმეტად მოცულობითი ჩანდეს.",
+        "a": "Regular fit მორგება შემუშავებულია ისე, რომ დელიკატურად შემოუყვეს ფიგურას. ჩამოწეული მხარი ქმნის აქტუალურ სილუეტს, ზედმეტი მოცულობით ლუქის გადატვირთვის გარეშე."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Առանց թևքերի ժիլետը թվում է ոչ գործնական բուն ձմռան համար",
+        "a": "Հենց թևքերի բացակայությունն է այն դարձնում ունիվերսալ տարածքների և գրասենյակների համար, իսկ քաշմիրի բարձր պարունակությունը երաշխավորում է գերազանց ջերմակարգավորում վերնազգեստի տակ"
+      },
+      {
+        "q": "Վախ, որ կարդային բուրդը կարող է անհարմարություն առաջացնել մաշկի վրա",
+        "a": "Քաշմիրի ավելացման և բրդի մշակման բարձր որակի շնորհիվ ժիլետն ունի մետաքսանման հյուսվածք և առավելագույնս հաճելի է մարմնին"
+      },
+      {
+        "q": "Դիզայնը թվում է չափազանց լակոնիկ",
+        "a": "Սրանում է կայանում 'լուռ շքեղության' իսկական էլեգանտությունը: Եղջյուրի էֆեկտով կոճակները և կողավոր եզրագոտիները այն դետալներն են, որոնք խոսում են իրի բարձր կարգավիճակի մասին՝ առանց ավելորդ պաթոսի"
+      },
+      {
+        "q": "Ինչպե՞ս խնամել այսպիսի նուրբ տրիկոտաժը",
+        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ մաքրում կամ զգույշ ձեռքով լվացում սառը ջրում՝ բրդի համար նախատեսված հատուկ միջոցներով, որպեսզի պահպանվի մանրաթելերի ծավալուն կառուցվածքը"
+      },
+      {
+        "q": "Մոդելը կարող է չափազանց ծավալուն երևալ",
+        "a": "Regular fit կտրվածքը մշակված է այնպես, որ նրբորեն գրկի կազմվածքը: Իջեցված ուսը ստեղծում է ակտուալ ուրվագիծ՝ չծանրաբեռնելով կերպարը ավելորդ ծավալով"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Astere bez piedurknēm šķiet nepraktiska īstai ziemai.",
+        "a": "Tieši piedurkņu neesamība padara to universālu telpām un birojiem, bet augstais kašmira saturs garantē lielisku termoregulāciju zem virsdrēbēm."
+      },
+      {
+        "q": "Bailes, ka kārstā vilna izraisīs diskomfortu uz ādas.",
+        "a": "Pateicoties kašmira pievienojumam un augstajai vilnas apstrādes kvalitātei, vestei piemīt zīdaina tekstūra, un tā ir maksimāli patīkama ķermenim."
+      },
+      {
+        "q": "Dizains šķiet pārāk lakonisks.",
+        "a": "Tajā slēpjas patiesa 'klusās greznības' elegance. Pogas ar raga efektu un rievotā apdare ir detaļas, kas liecina par izstrādājuma augsto statusu bez lieka patosa."
+      },
+      {
+        "q": "Kā kopt šādu smalku trikotāžu?",
+        "a": "Mēs iesakām profesionālo tīrīšanu vai saudzīgu mazgāšanu ar rokām vēsā ūdenī ar speciāliem līdzekļiem vilnai, lai saglabātu šķiedru apjomīgo struktūru."
+      },
+      {
+        "q": "Modelis var izskatīties pārāk apjomīgs.",
+        "a": "Regular fit piegriezums ir izstrādāts tā, lai maigi apņemtu figūru. Nolaistais plecs rada aktuālu siluetu, nepārslogojot tēlu ar lieku apjomu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Liemenė be rankovių atrodo nepraktiška tikrai žiemai.",
+        "a": "Būtent rankovių nebuvimas daro ją universalią patalpoms ir biurams, o didelis kašmyro kiekis garantuoja puikią termoreguliaciją po viršutiniais drabužiais."
+      },
+      {
+        "q": "Baimė, kad karšinė vilna kels diskomfortą odai.",
+        "a": "Dėl kašmyro priemaišos ir aukštos vilnos apdirbimo kokybės, liemenė pasižymi švelnia tekstūra ir yra maksimaliai maloni kūnui."
+      },
+      {
+        "q": "Dizainas atrodo per daug lakoniškas.",
+        "a": "Būtent čia slypi tikra „tylios prabangos“ elegancija. Rago efekto sagos ir briaunota apdaila — tai detalės, kurios byloja apie aukštą gaminio statusą be perdėto patoso."
+      },
+      {
+        "q": "Kaip prižiūrėti tokį delikatų trikotažą?",
+        "a": "Rekomenduojame profesionalų valymą arba atsargų skalbimą rankomis vėsiame vandenyje su specialiomis priemonėmis vilnai, kad išsaugotumėte tūrinę pluoštų struktūrą."
+      },
+      {
+        "q": "Modelis gali atrodyti per daug tūrinis.",
+        "a": "„Regular fit“ kirpimas sukurtas taip, kad delikačiai priglustų prie figūros. Nuleista pečių linija sukuria aktualų siluetą, neperkraunant įvaizdžio bereikalingu tūriu."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Kamizelka bez rękawów wydaje się niepraktyczna na prawdziwą zimę.",
+        "a": "To właśnie brak rękawów czyni ją uniwersalną do wnętrz i biur, a wysoka zawartość kaszmiru gwarantuje doskonałą termoregulację pod odzieżą wierzchnią."
+      },
+      {
+        "q": "Obawa, że wełna czesankowa będzie powodować dyskomfort na skórze.",
+        "a": "Dzięki dodatkowi kaszmiru i wysokiej jakości obróbce wełny, kamizelka posiada jedwabistą teksturę i jest niezwykle przyjemna dla ciała."
+      },
+      {
+        "q": "Design wydaje się zbyt minimalistyczny.",
+        "a": "W tym tkwi prawdziwa elegancja „cichego luksusu”. Guziki z efektem rogu i wykończenie w prążki to detale, które świadczą o wysokim statusie produktu bez zbędnej ostentacji."
+      },
+      {
+        "q": "Jak dbać o tak delikatną dzianinę?",
+        "a": "Zalecamy profesjonalne czyszczenie lub delikatne pranie ręczne w chłodnej wodzie z użyciem specjalnych płynów do wełny, aby zachować przestrzenną strukturę włókien."
+      },
+      {
+        "q": "Model może wyglądać zbyt obszernie.",
+        "a": "Krój Regular fit został zaprojektowany tak, aby delikatnie otulać sylwetkę. Obniżona linia ramion tworzy nowoczesną formę, nie przeciążając stylizacji nadmierną objętością."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Жилет без рукавів здається непрактичним для справжньої зими.",
+        "a": "Саме відсутність рукавів робить його універсальним для приміщень і офісів, а високий вміст кашеміру гарантує відмінну терморегуляцію під верхнім одягом."
+      },
+      {
+        "q": "Побоювання, що кардна вовна буде викликати дискомфорт на шкірі.",
+        "a": "Завдяки додаванню кашеміру та високій якості вичинки вовни, жилет має шовковисту текстуру і максимально приємний до тіла."
+      },
+      {
+        "q": "Дизайн здається занадто лаконічним.",
+        "a": "У цьому криється справжня елегантність 'тихої розкоші'. Ґудзики з ефектом рогу та оздоблення в рубчик — це деталі, які свідчать про високий статус виробу без зайвого пафосу."
+      },
+      {
+        "q": "Як доглядати за таким делікатним трикотажем?",
+        "a": "Ми рекомендуємо професійну чистку або дбайливе ручне прання у прохолодній воді зі спеціальними засобами для вовни, щоб зберегти об'ємну структуру волокон."
+      },
+      {
+        "q": "Модель може виглядати занадто об'ємною.",
+        "a": "Посадка Regular fit розроблена так, щоб делікатно облягати фігуру. Спущене плече створює актуальний силует, не перевантажуючи образ зайвим об'ємом."
+      }
+    ]
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "id": 155,
+  "name": "Marsela",
+  "description": {
+    "en": "The Marsela cardigan is the quintessence of aristocratic comfort and impeccable Italian style. The cropped model is masterfully crafted from 100% pure virgin wool using a textured ribbed knit technique, guaranteeing superior fit and longevity. A luxurious detachable collar of eco-fur lends the look runway chic, while buttons that mimic natural horn underscore the couture attention to detail. The Regular fit and the softness of the material make this piece the perfect choice for creating status-defining daytime ensembles.",
+    "ru": "Кардиган Marsela — это квинтэссенция аристократичного уюта и безупречного итальянского стиля. Укороченная модель мастерски выполнена из 100% чистой девственной шерсти в технике фактурной вязки в рубчик, что гарантирует превосходную посадку и долговечность. Роскошный съемный воротник из экомеха придает образу подиумный шик, а пуговицы, имитирующие натуральный рог, подчеркивают кутюрное внимание к деталям. Регулярный крой и мягкость материала делают это изделие идеальным выбором для создания статусных дневных ансамблей.",
+    "ar": "كارديغان Marsela هو خلاصة الراحة الأرستقراطية والأسلوب الإيطالي الذي لا تشوبه شائبة. صُممت القطعة القصيرة ببراعة من صوف بكر نقي بنسبة 100% بتقنية الحياكة المضلعة البارزة، مما يضمن مقاساً ممتازاً ومتانة. تضفي الياقة الفاخرة القابلة للإزالة المصنوعة من الفرو الصناعي على الإطلالة أناقة عروض الأزياء، بينما تؤكد الأزرار التي تحاكي القرن الطبيعي على الاهتمام الراقي بالتفاصيل. القصة العادية ونعومة المادة تجعل هذه القطعة خياراً مثالياً لابتكار أطقم نهارية فاخرة.",
+    "ka": "კარდიგანი Marsela — ეს არის არისტოკრატული კომფორტისა და უნაკლო იტალიური სტილის კვინტესენცია. დამოკლებული მოდელი ოსტატურადაა შესრულებული 100% სუფთა ქალწულის მატყლისგან, ნეკნებად ნაქსოვის ფაქტურულ ტექნიკაში, რაც გარანტიას იძლევა შესანიშნავი მორგებისა და გამძლეობის. ეკო-ბეწვის მდიდრული მოსახსნელი საყელო სახეს პოდიუმის შიკს სძენს, ხოლო ბუნებრივი რქის იმიტაციის მქონე ღილები ხაზს უსვამს დეტალებისადმი კუტიურულ ყურადღებას. რეგულარული კროი და მასალის სირბილე ამ ნაკეთობას აქცევს იდეალურ არჩევანად სტატუსური დღის ანსამბლების შესაქმნელად.",
+    "hy": "Marsela քարդիգանը արիստոկրատական հարմարավետության և իտալական անթերի ոճի էությունը է: Կարճացված մոդելը վարպետորեն պատրաստված է 100% մաքուր անարատ բրդից՝ ռելիեֆային հյուսվածքի տեխնիկայով, որը երաշխավորում է գերազանց նստվածք և երկարակեցություն: Էկոմորթիից շքեղ հանովի օձիքը կերպարին հաղորդում է պոդիումային շիկ, իսկ բնական եղջյուրը նմանակող կոճակներն ընդգծում են մանրուքների նկատմամբ կուտյուրային ուշադրությունը: Կանոնավոր կտրվածքը և նյութի փափկությունը այս իրը դարձնում են կատարյալ ընտրություն կարգավիճակային ցերեկային անսամբլներ ստեղծելու համար:",
+    "lv": "Marsela kardigans — tā ir aristokrātiska mājīguma un nevainojama itāļu stila kvintesence. Saīsinātais modelis ir meistarīgi izgatavots no 100% tīras jaunvilnas faktūras rievotā adījuma tehnikā, kas garantē lielisku piegulumu un izturību. Grezna noņemama eko-kažokādas apkakle piešķir tēlam mēles šiku, bet pogas, kas imitē dabisko ragu, uzsver kūtūras līmeņa uzmanību detaļām. Regulārs piegriezums un materiāla mīkstums padara šo izstrādājumu par ideālu izvēli statusisku dienas ansambļu radīšanai.",
+    "lt": "Marsela kardiganas – tai aristokratiško jaukumo ir nepriekaištingo itališko stiliaus kvintesencija. Trumpintas modelis meistriškai pagamintas iš 100% grynos pirminės vilnos naudojant faktūrinio briaunoto mezgimo techniką, kuri garantuoja puikų prigludimą ir ilgaamžiškumą. Prabangi nuimama dirbtinio kailio apykaklė suteikia įvaizdžiui podiumo prašmatnumo, o natūralų ragą imituojančios sagos pabrėžia aukštosios mados dėmesį detalėms. Reguliarus kirpimas ir medžiagos minkštumas daro šį gaminį idealų pasirinkimą kuriant statusą pabrėžiančius dienos ansamblius.",
+    "pl": "Kardigan Marsela to kwintesencja arystokratycznej wygody i nienagannego włoskiego stylu. Skrócony model wykonany po mistrzowsku ze 100% czystej wełny dziewiczej w technice fakturowanego splotu w prążki, co gwarantuje doskonałe dopasowanie i trwałość. Luksusowy odpinany kołnierz z ekofutra nadaje stylizacji wybiegowy szyk, a guziki imitujące naturalny róg podkreślają couture'ową dbałość o detale. Regularny krój i miękkość materiału sprawiają, że produkt ten jest idealnym wyborem do tworzenia prestiżowych zestawów dziennych.",
+    "uk": "Кардиган Marsela — це квінтесенція аристократичного затишку та бездоганного італійського стилю. Вкорочена модель майстерно виконана зі 100% чистої вовни virgin wool у техніці фактурної в'язки в рубчик, що гарантує чудову посадку та довговічність. Розкішний знімний комір з екохутра додає образу подіумного шику, а ґудзики, що імітують натуральний ріг, підкреслюють кутюрну увагу до деталей. Регулярний крій і м'якість матеріалу роблять цей виріб ідеальним вибором для створення статусних денних ансамблів."
+  },
+  "colors": [
+    {
+      "name": "Grigio Melange Grigio Melange",
+      "code": "0802 0816",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Gh5AuRKrRy-NeEE0GszlMg_1242207552696f43755db3c9_42747205_02831130XX1.jpg"
+    },
+    {
+      "name": "Nero Var Maculato Marrone",
+      "code": "0101 3439",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3kNtZOruR-eCnxMUOwytGQ_735352222696f4374894804_26830686_02831110XX1.jpg"
+    },
+    {
+      "name": "Panna Marrone",
+      "code": "0202 0913",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3AyLRjGgT1WIxNPjMZn5hQ_248320122696f4374ec3a11_45459311_02831120XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Aristocratic Monochrome)",
+        "ar": "Look 1 (Aristocratic Monochrome)",
+        "ka": "Look 1 (Aristocratic Monochrome)",
+        "hy": "Look 1 (Aristocratic Monochrome)",
+        "lv": "Look 1 (Aristocratic Monochrome)",
+        "lt": "Look 1 (Aristocratic Monochrome)",
+        "pl": "Look 1 (Aristocratic Monochrome)",
+        "uk": "Look 1 (Aristocratic Monochrome)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Аристократичный монохром): Сочетание кардигана Marsela 0202 0913 с брюками Olap 0214 и ботильонами Urbana 0981. Акценты: серьги Nagorno 0002 и сумка Ls1928gc 2224 0018.",
+        "en": "A combination of the Marsela 0202 0913 cardigan with Olap 0214 trousers and Urbana 0981 ankle boots. Accents: Nagorno 0002 earrings and Ls1928gc 2224 0018 bag.",
+        "ar": "A combination of the Marsela 0202 0913 cardigan with Olap 0214 trousers and Urbana 0981 ankle boots. Accents: Nagorno 0002 earrings and Ls1928gc 2224 0018 bag.",
+        "ka": "A combination of the Marsela 0202 0913 cardigan with Olap 0214 trousers and Urbana 0981 ankle boots. Accents: Nagorno 0002 earrings and Ls1928gc 2224 0018 bag.",
+        "hy": "A combination of the Marsela 0202 0913 cardigan with Olap 0214 trousers and Urbana 0981 ankle boots. Accents: Nagorno 0002 earrings and Ls1928gc 2224 0018 bag.",
+        "lv": "A combination of the Marsela 0202 0913 cardigan with Olap 0214 trousers and Urbana 0981 ankle boots. Accents: Nagorno 0002 earrings and Ls1928gc 2224 0018 bag.",
+        "lt": "A combination of the Marsela 0202 0913 cardigan with Olap 0214 trousers and Urbana 0981 ankle boots. Accents: Nagorno 0002 earrings and Ls1928gc 2224 0018 bag.",
+        "pl": "A combination of the Marsela 0202 0913 cardigan with Olap 0214 trousers and Urbana 0981 ankle boots. Accents: Nagorno 0002 earrings and Ls1928gc 2224 0018 bag.",
+        "uk": "A combination of the Marsela 0202 0913 cardigan with Olap 0214 trousers and Urbana 0981 ankle boots. Accents: Nagorno 0002 earrings and Ls1928gc 2224 0018 bag."
+      },
+      "items": [
+        {
+          "name": "Marsela",
+          "code": "0202 0913",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3AyLRjGgT1WIxNPjMZn5hQ_248320122696f4374ec3a11_45459311_02831120XX1.jpg"
+        },
+        {
+          "name": "Olap",
+          "code": "0214",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YfLJIN9OTCCGsGAaoXfqug_610004726696f4308184709_09444034_02821440XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Urbana",
+          "code": "0981",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7BoHBVbqTtCtxociDR_4dQ_2049283379696f42280ae740_09477040_02801350XX1.jpg"
+        },
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG",
+          "modelId": 198
+        },
+        {
+          "name": "Ls1928gc",
+          "code": "2224 0018",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928GC_222400180000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Urban Chic)",
+        "ar": "Look 2 (Urban Chic)",
+        "ka": "Look 2 (Urban Chic)",
+        "hy": "Look 2 (Urban Chic)",
+        "lv": "Look 2 (Urban Chic)",
+        "lt": "Look 2 (Urban Chic)",
+        "pl": "Look 2 (Urban Chic)",
+        "uk": "Look 2 (Urban Chic)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Городской шик): Элегантный ансамбль из кардигана Marsela 0101 3439 и джинсов Olla 1073. Дополнено ботильонами Urbana 0101, поясом Dogale A 0101 0002, серьгами Nordici 0068 0002 и сумкой Ls1928p 0101 0038.",
+        "en": "An elegant ensemble featuring the Marsela 0101 3439 cardigan and Olla 1073 jeans. Complemented by Urbana 0101 ankle boots, Dogale A 0101 0002 belt, Nordici 0068 0002 earrings and Ls1928p 0101 0038 bag.",
+        "ar": "An elegant ensemble featuring the Marsela 0101 3439 cardigan and Olla 1073 jeans. Complemented by Urbana 0101 ankle boots, Dogale A 0101 0002 belt, Nordici 0068 0002 earrings and Ls1928p 0101 0038 bag.",
+        "ka": "An elegant ensemble featuring the Marsela 0101 3439 cardigan and Olla 1073 jeans. Complemented by Urbana 0101 ankle boots, Dogale A 0101 0002 belt, Nordici 0068 0002 earrings and Ls1928p 0101 0038 bag.",
+        "hy": "An elegant ensemble featuring the Marsela 0101 3439 cardigan and Olla 1073 jeans. Complemented by Urbana 0101 ankle boots, Dogale A 0101 0002 belt, Nordici 0068 0002 earrings and Ls1928p 0101 0038 bag.",
+        "lv": "An elegant ensemble featuring the Marsela 0101 3439 cardigan and Olla 1073 jeans. Complemented by Urbana 0101 ankle boots, Dogale A 0101 0002 belt, Nordici 0068 0002 earrings and Ls1928p 0101 0038 bag.",
+        "lt": "An elegant ensemble featuring the Marsela 0101 3439 cardigan and Olla 1073 jeans. Complemented by Urbana 0101 ankle boots, Dogale A 0101 0002 belt, Nordici 0068 0002 earrings and Ls1928p 0101 0038 bag.",
+        "pl": "An elegant ensemble featuring the Marsela 0101 3439 cardigan and Olla 1073 jeans. Complemented by Urbana 0101 ankle boots, Dogale A 0101 0002 belt, Nordici 0068 0002 earrings and Ls1928p 0101 0038 bag.",
+        "uk": "An elegant ensemble featuring the Marsela 0101 3439 cardigan and Olla 1073 jeans. Complemented by Urbana 0101 ankle boots, Dogale A 0101 0002 belt, Nordici 0068 0002 earrings and Ls1928p 0101 0038 bag."
+      },
+      "items": [
+        {
+          "name": "Marsela",
+          "code": "0101 3439",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3kNtZOruR-eCnxMUOwytGQ_735352222696f4374894804_26830686_02831110XX1.jpg"
+        },
+        {
+          "name": "Olla",
+          "code": "1073",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png",
+          "modelId": 456
+        },
+        {
+          "name": "Urbana",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%2827%29.png"
+        },
+        {
+          "name": "Dogale A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2902f3a9-1c56-40a3-bc25-94ca3e663b85.jpg"
+        },
+        {
+          "name": "Nordici",
+          "code": "0068 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nordici.png"
+        },
+        {
+          "name": "Ls1928p",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 3 (Runway Layering)",
+        "ar": "Look 3 (Runway Layering)",
+        "ka": "Look 3 (Runway Layering)",
+        "hy": "Look 3 (Runway Layering)",
+        "lv": "Look 3 (Runway Layering)",
+        "lt": "Look 3 (Runway Layering)",
+        "pl": "Look 3 (Runway Layering)",
+        "uk": "Look 3 (Runway Layering)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 3 (Подиумная многослойность): Кардиган Marsela 0802 0816 под курткой Scalare 0101 в сочетании с водолазкой Manos 0101 и юбкой Fabula 0101. Завершают сет кепи Renno 0814 и сумка Idilliaco 0101 0002.",
+        "en": "Marsela 0802 0816 cardigan worn under a Scalare 0101 jacket in combination with the Manos 0101 turtleneck and Fabula 0101 skirt. The set is completed by the Renno 0814 cap and Idilliaco 0101 0002 bag.",
+        "ar": "Marsela 0802 0816 cardigan worn under a Scalare 0101 jacket in combination with the Manos 0101 turtleneck and Fabula 0101 skirt. The set is completed by the Renno 0814 cap and Idilliaco 0101 0002 bag.",
+        "ka": "Marsela 0802 0816 cardigan worn under a Scalare 0101 jacket in combination with the Manos 0101 turtleneck and Fabula 0101 skirt. The set is completed by the Renno 0814 cap and Idilliaco 0101 0002 bag.",
+        "hy": "Marsela 0802 0816 cardigan worn under a Scalare 0101 jacket in combination with the Manos 0101 turtleneck and Fabula 0101 skirt. The set is completed by the Renno 0814 cap and Idilliaco 0101 0002 bag.",
+        "lv": "Marsela 0802 0816 cardigan worn under a Scalare 0101 jacket in combination with the Manos 0101 turtleneck and Fabula 0101 skirt. The set is completed by the Renno 0814 cap and Idilliaco 0101 0002 bag.",
+        "lt": "Marsela 0802 0816 cardigan worn under a Scalare 0101 jacket in combination with the Manos 0101 turtleneck and Fabula 0101 skirt. The set is completed by the Renno 0814 cap and Idilliaco 0101 0002 bag.",
+        "pl": "Marsela 0802 0816 cardigan worn under a Scalare 0101 jacket in combination with the Manos 0101 turtleneck and Fabula 0101 skirt. The set is completed by the Renno 0814 cap and Idilliaco 0101 0002 bag.",
+        "uk": "Marsela 0802 0816 cardigan worn under a Scalare 0101 jacket in combination with the Manos 0101 turtleneck and Fabula 0101 skirt. The set is completed by the Renno 0814 cap and Idilliaco 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Marsela",
+          "code": "0802 0816",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Gh5AuRKrRy-NeEE0GszlMg_1242207552696f43755db3c9_42747205_02831130XX1.jpg"
+        },
+        {
+          "name": "Scalare",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/obH9FrFkRoq3xbxDWF6Fsg_1888970026696f42f15a20d0_57909911_02820870XX1.jpg",
+          "modelId": 300
+        },
+        {
+          "name": "Manos",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Fabula",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg",
+          "modelId": 386
+        },
+        {
+          "name": "Renno",
+          "code": "0814",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57693e01-fdb6-4b56-a73b-26c4b4d8ce61.jpg"
+        },
+        {
+          "name": "Idilliaco",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_10100020000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Highlight the signature fringe detail: this ready-made styling statement transforms a basic turtleneck into the centrepiece of the outfit, with no additional embellishment required.",
+      "Showcase the benefits of the 'punto stoffa' technique: this advanced knit fabric offers a shaping effect and retains its form impeccably, even with mobile decorative elements.",
+      "Recommend Matri for striking layered ensembles: its texture sits beautifully beneath voluminous capes (such as Mira) or structured coats from the collection, lending the look dynamism."
+    ],
+    "ru": [
+      "Акцентируйте внимание на съемном воротнике: эта деталь позволяет трансформировать кардиган из уютного дневного трикотажа в роскошный элемент вечернего образа, подчеркивая функциональность люкса.",
+      "Продемонстрируйте уникальные свойства девственной шерсти: 100% Lana Vergine обеспечивает исключительную мягкость и комфорт, характерные для изделий Luisa Spagnoli высшего эшелона.",
+      "Рекомендуйте Marsela как идеальную инвестицию в современный базовый гардероб: укороченная длина безупречно сочетается с актуальными моделями брюк и юбок с высокой посадкой, создавая гармоничные пропорции."
+    ],
+    "ar": [
+      "سلطي الضوء على الياقة القابلة للإزالة: فهذه التفصيلة تسمح بتحويل الكارديغان من قطعة تريكو نهارية مريحة إلى عنصر فاخر لإطلالة مسائية، مما يبرز وظيفة الرفاهية.",
+      "استعرضي الخصائص الفريدة للصوف البكر: فصوف Lana Vergine بنسبة 100% يوفر نعومة وراحة استثنائية، وهي سمات معهودة في قطع Luisa Spagnoli من الطراز الأول.",
+      "رشيحي Marsela كاستثمار مثالي لخزانة الملابس الأساسية المعاصرة: فالطول القصير يتناغم بامتياز مع موديلات السراويل والتنانير ذات الخصر العالي، مما يخلق تناسقاً متناغماً في المقاييس."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება მოსახსნელ საყელოზე: ეს დეტალი საშუალებას იძლევა კარდიგანი გარდაიქმნას მყუდრო დღის ნაქსოვი სამოსიდან საღამოს იმიჯის მდიდრულ ელემენტად, რაც ხაზს უსვამს ლუქსის ფუნქციონალურობას.",
+      "წარმოაჩინეთ ქალწულებრივი მატყლის უნიკალური თვისებები: 100% Lana Vergine უზრუნველყოფს გამორჩეულ სირბილესა და კომფორტს, რაც დამახასიათებელია Luisa Spagnoli-ს უმაღლესი ეშელონის ნაკეთობებისთვის.",
+      "რეკომენდაცია გაუწიეთ Marsela-ს, როგორც იდეალურ ინვესტიციას თანამედროვე საბაზისო გარდერობში: დამოკლებული სიგრძე უნაკლოდ ეხამება შარვლებისა და მაღალწელიანი ქვედაკაბების აქტუალურ მოდელებს, რაც ქმნის ჰარმონიულ პროპორციებს."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք հանովի օձիքի վրա. այս դետալը թույլ է տալիս ժակետը վերածել հարմարավետ ցերեկային տրիկոտաժից դեպի երեկոյան կերպարի շքեղ տարր՝ ընդգծելով լյուքսի ֆունկցիոնալությունը:",
+      "Ցուցադրեք անարատ բրդի յուրահատուկ հատկությունները. 100% Lana Vergine-ն ապահովում է բացառիկ փափկություն և հարմարավետություն, որոնք բնորոշ են Luisa Spagnoli-ի բարձր էշելոնի արտադրանքին:",
+      "Խորհուրդ տվեք Marsela-ն որպես կատարյալ ներդրում ժամանակակից բազային զգեստապահարանում. կարճեցված երկարությունը անթերի համադրվում է բարձր գոտկատեղով տաբատների և կիսաշրջազգեստների արդիական մոդելների հետ՝ ստեղծելով ներդաշնակ համաչափություններ:"
+    ],
+    "lv": [
+      "Vērsiet uzmanību uz noņemamo apkakli: šī detaļa ļauj transformēt kardiganu no mājīga dienas trikotāžas izstrādājuma par greznu vakara tēla elementu, uzsverot luksusa funkcionalitāti.",
+      "Demonstrējiet pirmreizējās vilnas unikālās īpašības: 100% Lana Vergine nodrošina izcilu maigumu un komfortu, kas raksturīgs Luisa Spagnoli augstākā ešelona izstrādājumiem.",
+      "Iesakiet Marsela kā ideālu investīciju mūsdienu bāzes garderobē: saīsinātais garums nevainojami saskan ar aktuālajiem bikšu un svārku modeļiem ar augstu jostasvietu, radot harmoniskas proporcijas."
+    ],
+    "lt": [
+      "Akcentuokite nuimamą apykaklę: ši detalė leidžia transformuoti kardiganą iš jaukaus dieninio trikotažo į prabangų vakarinio įvaizdžio elementą, pabrėžiant prabangos funkcionalumą.",
+      "Pademonstruokite unikalias avies vilnos savybes: 100% Lana Vergine užtikrina išskirtinį švelnumą ir komfortą, būdingą aukščiausio lygio Luisa Spagnoli gaminiams.",
+      "Rekomenduokite Marsela kaip idealią investiciją į šiuolaikinį bazinį garderobą: trumpintas ilgis nepriekaištingai dera su aktualiais kelnių ir sijonų modeliais aukštintu liemeniu, sukuriant harmoningas proporcijas."
+    ],
+    "pl": [
+      "Zwróć uwagę na odpinany kołnierz: ten detal pozwala przekształcić kardigan z przytulnej dziennej dzianiny w luksusowy element wieczorowej stylizacji, podkreślając funkcjonalność klasy premium.",
+      "Zaprezentuj unikalne właściwości wełny dziewiczej: 100% Lana Vergine zapewnia wyjątkową miękkość i komfort, charakterystyczny dla wyrobów Luisa Spagnoli najwyższego rzędu.",
+      "Rekomenduj Marsela jako idealną inwestycję w nowoczesną garderobę bazową: skrócona długość bezbłędnie łączy się z modnymi modelami spodni i spódnic z wysokim stanem, tworząc harmonijne proporcje."
+    ],
+    "uk": [
+      "Акцентуйте увагу на знімному комірі: ця деталь дозволяє трансформувати кардиган із затишного денного трикотажу в розкішний елемент вечірнього образу, підкреслюючи функціональність люксу.",
+      "Продемонструйте унікальні властивості вовни virgin: 100% Lana Vergine забезпечує виняткову м'якість та комфорт, характерні для виробів Luisa Spagnoli вищого ешелону.",
+      "Рекомендуйте Marsela як ідеальну інвестицію в сучасний базовий гардероб: укорочена довжина бездоганно поєднується з актуальними моделями штанів та спідниць із високою посадкою, створюючи гармонійні пропорції."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Eco-fur may seem less prestigious than natural fur.",
+        "a": "Luisa Spagnoli collections use the finest eco-fur, which is visually and tactilely indistinguishable from natural fur, while aligning with the global trend toward conscious consumption and ethical luxury."
+      },
+      {
+        "q": "A ribbed knit may visually add volume to the figure.",
+        "a": "On the contrary, the vertical orientation of the knit pattern, combined with the fitted cut and cropped length, creates a slimming effect and draws attention to the waist."
+      },
+      {
+        "q": "A cropped piece may not be warm enough for winter.",
+        "a": "The density of the 100% pure wool knit guarantees excellent thermal regulation. The Marsela piece is designed for stylish layered looks, serving as a warm, statement-worthy layer."
+      },
+      {
+        "q": "A light shade (Panna) requires overly demanding care.",
+        "a": "The quality of the Merinfleur wool resists deep staining. We recommend professional dry cleaning, which preserves the flawless colour and fibre structure for many years."
+      },
+      {
+        "q": "Horn-effect buttons look too plain for an evening occasion.",
+        "a": "This is a classic 'old money' style detail that underscores the piece's aristocratic character. For a formal occasion, simply add one of our signature jewellery pieces, such as the Nagorno earrings or the Narsete necklace, to bring new dimension to the look."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Экомех может выглядеть менее престижно, чем натуральный.",
+        "a": "В коллекциях Luisa Spagnoli используется экомех высочайшей выделки, который визуально и тактильно идентичен натуральному, при этом соответствуя глобальному тренду на осознанное потребление и этичную роскошь."
+      },
+      {
+        "q": "Вязка в рубчик может визуально добавлять объем фигуре.",
+        "a": "Вертикальная ориентация паттерна вязки в сочетании с приталенным кроем и укороченной длиной, напротив, создает эффект стройности и акцентирует внимание на талии."
+      },
+      {
+        "q": "Укороченная модель может быть недостаточно теплой для зимы.",
+        "a": "Плотность вязки из 100% чистой шерсти гарантирует превосходную терморегуляцию. Модель Marsela спроектирована для создания стильных многослойных образов, где она служит теплым и статусным слоем."
+      },
+      {
+        "q": "Светлый оттенок (Panna) требует слишком сложного ухода.",
+        "a": "Качество шерсти Merinfleur препятствует глубокому проникновению загрязнений. Мы рекомендуем профессиональную сухую чистку, которая сохранит безупречный цвет и структуру волокон в течение многих лет."
+      },
+      {
+        "q": "Пуговицы под рог выглядят слишком просто для вечернего выхода.",
+        "a": "Это классический элемент стиля 'old money', который подчеркивает аристократизм изделия. Для торжественного случая достаточно добавить наши знаковые украшения, такие как серьги Nagorno или колье Narsete, чтобы образ заиграл новыми красками."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يبدو الفراء الصناعي أقل فخامة من الطبيعي.",
+        "a": "تستخدم مجموعات Luisa Spagnoli فراءً صناعياً عالي الدقة، يبدو مشابهاً للطبيعي بصرياً وملمسياً، مع التزامه بالتوجه العالمي نحو الاستهلاك الواعي والفخامة الأخلاقية."
+      },
+      {
+        "q": "قد تزيد الحياكة المضلعة من حجم القوام بصرياً.",
+        "a": "التوجه العمودي لنمط الحياكة، مع القصة المحددة للجسم والطول القصير، يخلق في الواقع تأثيراً للنحافة ويركز الانتباه على الخصر."
+      },
+      {
+        "q": "قد لا يكون الطراز القصير دافئاً بما يكفي للشتاء.",
+        "a": "تضمن كثافة الحياكة من الصوف البكر بنسبة 100% تنظيماً حرارياً ممتازاً. صُمم طراز Marsela لخلق إطلالات عصرية متعددة الطبقات، حيث تعمل كطبقة دافئة وراقية."
+      },
+      {
+        "q": "اللون الفاتح (Panna) يتطلب عناية معقدة للغاية.",
+        "a": "تمنع جودة صوف Merinfleur التغلغل العميق للأوساخ. نوصي بالتنظيف الجاف الاحترافي، الذي سيحافظ على اللون المثالي وبنية الألياف لسنوات عديدة."
+      },
+      {
+        "q": "تبدو أزرار قرن الحيوان بسيطة جداً للخروجات المسائية.",
+        "a": "هذا عنصر كلاسيكي من نمط 'الأموال القديمة' (old money)، والذي يؤكد على أرستقراطية القطعة. للمناسبات الاحتفالية، يكفي إضافة مجوهراتنا المميزة، مثل أقراط Nagorno أو قلادة Narsete، لتكتسب الإطلالة حيوية جديدة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ეკო-ბეწვი შეიძლება ნაკლებად პრესტიჟულად გამოიყურებოდეს, ვიდრე ბუნებრივი.",
+        "a": "Luisa Spagnoli-ს კოლექციებში გამოიყენება უმაღლესი ხარისხის დამუშავების ეკო-ბეწვი, რომელიც ვიზუალურად და ტაქტილურად იდენტურია ბუნებრივისა, ამავდროულად შეესაბამება შეგნებული მოხმარებისა და ეთიკური ფუფუნების გლობალურ ტრენდს."
+      },
+      {
+        "q": "ნაქსოვი ჭრილი შეიძლება ვიზუალურად მატებდეს მოცულობას ფიგურას.",
+        "a": "ნაქსოვი პატერნის ვერტიკალური ორიენტაცია წელში გამოყვანილ ჭრილთან და მოკლე სიგრძესთან ერთად, პირიქით, ქმნის სიგამხდრის ეფექტს და აქცენტს აკეთებს წელზე."
+      },
+      {
+        "q": "მოკლე მოდელი შეიძლება არ იყოს საკმარისად თბილი ზამთრისთვის.",
+        "a": "100% სუფთა მატყლის ქსოვის სიმკვრივე უზრუნველყოფს შესანიშნავ თერმორეგულაციას. Marsela-ს მოდელი დაპროექტებულია სტილური მრავალშრიანი სახეების შესაქმნელად, სადაც ის ემსახურება როგორც თბილი და სტატუსური ფენა."
+      },
+      {
+        "q": "ღია ფერი (Panna) მოითხოვს ზედმეტად რთულ მოვლას.",
+        "a": "Merinfleur-ის მატყლის ხარისხი ხელს უშლის დაბინძურების ღრმად შეღწევას. ჩვენ გირჩევთ პროფესიონალურ ქიმწმენდას, რომელიც მრავალი წლის განმავლობაში შეინარჩუნებს უნაკლო ფერს და ბოჭკოების სტრუქტურას."
+      },
+      {
+        "q": "რქის იმიტაციის ღილები საღამოს გასვლისთვის ზედმეტად მარტივად გამოიყურება.",
+        "a": "ეს არის 'old money'-ს სტილის კლასიკური ელემენტი, რომელიც ხაზს უსვამს ნაკეთობის არისტოკრატიულობას. საზეიმო შემთხვევისთვის საკმარისია დაამატოთ ჩვენი საკულტო სამკაულები, როგორიცაა საყურეები Nagorno ან ყელსაბამი Narsete, რათა სახემ ახალი ფერებით გაიბრწყინოს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Էկոմորթին կարող է ավելի քիչ հեղինակավոր թվալ, քան բնականը։",
+        "a": "Luisa Spagnoli-ի հավաքածուներում օգտագործվում է ամենաբարձր մշակման էկոմորթի, որը տեսողական և շոշափելիորեն նույնական է բնականին, միաժամանակ համապատասխանելով գիտակցված սպառման և էթիկական շքեղության գլոբալ թրենդին։"
+      },
+      {
+        "q": "Ակոսիկներով հյուսվածքը կարող է տեսողականորեն ծավալ հավելել կազմվածքին։",
+        "a": "Հյուսվածքի նախշի ուղղահայաց կողմնորոշումը՝ մարմնին հարմարեցված ձևվածքի և կարճ երկարության հետ համադրությամբ, հակառակը, ստեղծում է սլացիկության էֆեկտ և շեշտադրում գոտկատեղը։"
+      },
+      {
+        "q": "Կարճ մոդելը կարող է բավարար տաք չլինել ձմռան համար։",
+        "a": "100% մաքուր բրդից հյուսվածքի խտությունը երաշխավորում է գերազանց ջերմակարգավորում։ Marsela մոդելը նախագծված է նորաձև բազմաշերտ կերպարներ ստեղծելու համար, որտեղ այն ծառայում է որպես տաք և կարգավիճակային շերտ։"
+      },
+      {
+        "q": "Բաց երանգը (Panna) պահանջում է չափազանց բարդ խնամք։",
+        "a": "Merinfleur բրդի որակը կանխում է կեղտի խորը թափանցումը։ Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ քիմմաքրում, որը կպահպանի անթերի գույնը և մանրաթելերի կառուցվածքը երկար տարիներ։"
+      },
+      {
+        "q": "Եղջյուրի տեսքով կոճակները չափազանց պարզ են թվում երեկոյան ելքի համար։",
+        "a": "Սա «old money» ոճի դասական տարր է, որն ընդգծում է իրի արիստոկրատիզմը։ Տոնական առիթի համար բավական է ավելացնել մեր նշանային զարդերը, ինչպիսիք են Nagorno ականջօղերը կամ Narsete վզնոցը, որպեսզի կերպարը նոր գույներով փայլի։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Ekomehs var izskatīties mazāk prestižs nekā dabīgais.",
+        "a": "Luisa Spagnoli kolekcijās tiek izmantots visaugstākās apstrādes ekomehs, kas vizuāli un taustāmi ir identisks dabīgajam, vienlaikus atbilstot globālajai tendencei uz apzinātu patēriņu un ētisku greznību."
+      },
+      {
+        "q": "Adījums rievotā faktūrā var vizuāli pievienot figūrai apjomu.",
+        "a": "Adījuma raksta vertikālā orientācija kombinācijā ar piegulošu piegriezumu un saīsinātu garumu, gluži pretēji, rada slaiduma efektu un akcentē uzmanību uz vidukli."
+      },
+      {
+        "q": "Saīsinātais modelis var nebūt pietiekami silts ziemai.",
+        "a": "100% tīras vilnas adījuma blīvums garantē izcilu termoregulāciju. Marsela modelis ir projektēts stilīgu daudzslāņu tēlu radīšanai, kur tas kalpo kā silts un statusa pilns slānis."
+      },
+      {
+        "q": "Gaišais tonis (Panna) prasa pārāk sarežģītu kopšanu.",
+        "a": "Merinfleur vilnas kvalitāte kavē netīrumu dziļu iekļūšanu. Mēs iesakām profesionālu ķīmisko tīrīšanu, kas saglabās nevainojamu krāsu un šķiedru struktūru daudzu gadu garumā."
+      },
+      {
+        "q": "Raga imitācijas pogas izskatās pārāk vienkārši vakara izgājienam.",
+        "a": "Tas ir klasisks 'old money' stila elements, kas uzsver izstrādājuma aristokrātismu. Svētku gadījumam pietiek pievienot mūsu zīmola rotaslietas, piemēram, auskarus Nagorno vai kaklarotu Narsete, lai tēls atplauktu jaunās krāsās."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Dirbtinis kailis gali atrodyti mažiau prestižiškai nei natūralus.",
+        "a": "Luisa Spagnoli kolekcijose naudojamas aukščiausios kokybės dirbtinis kailis, kuris vizualiai ir taktiškai identiškas natūraliam, kartu atitinkantis pasaulinę sąmoningo vartojimo ir etiškos prabangos tendenciją."
+      },
+      {
+        "q": "Briaunuotas mezgimas gali vizualiai pridėti figūrai apimties.",
+        "a": "Vertikali mezgimo rašto orientacija kartu su prigludusiu kirpimu ir trumpintu ilgiu, priešingai, sukuria grakštumo efektą ir akcentuoja liemenį."
+      },
+      {
+        "q": "Trumpintas modelis gali būti nepakankamai šiltas žiemai.",
+        "a": "100% grynos vilnos mezgimo tankis garantuoja puikią termoreguliaciją. Marsela modelis suprojektuotas stilingiems daugiasluoksniams įvaizdžiams, kur jis tarnauja kaip šiltas ir solidus sluoksnis."
+      },
+      {
+        "q": "Šviesus atspalvis (Panna) reikalauja per daug sudėtingos priežiūros.",
+        "a": "Merinfleur vilnos kokybė neleidžia nešvarumams giliai įsiskverbti. Rekomenduojame profesionalų cheminį valymą, kuris išsaugos nepriekaištingą spalvą ir pluošto struktūrą daugelį metų."
+      },
+      {
+        "q": "Rago imitacijos sagos atrodo per paprastai vakariniam išėjimui.",
+        "a": "Tai klasikinis „old money“ stiliaus elementas, pabrėžiantis gaminio aristokratiškumą. Iškilmingai progai pakanka pridėti mūsų firminius papuošalus, tokius kaip Nagorno auskarai ar Narsete vėrinys, kad įvaizdis atgytų naujomis spalvomis."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Eko-futro może wyglądać mniej prestiżowo niż naturalne.",
+        "a": "W kolekcjach Luisa Spagnoli stosowane jest eko-futro najwyższej klasy, które wizualnie i w dotyku jest identyczne z naturalnym, jednocześnie odpowiadając na globalny trend świadomej konsumpcji i etycznego luksusu."
+      },
+      {
+        "q": "Dzianina w prążek może optycznie dodawać sylwetce objętości.",
+        "a": "Pionowe ułożenie wzoru splotu w połączeniu z dopasowanym krojem i skróconą długością, wręcz przeciwnie, tworzy efekt smukłości i akcentuje talię."
+      },
+      {
+        "q": "Skrócony model może być niewystarczająco ciepły na zimę.",
+        "a": "Gęstość splotu ze 100% czystej wełny gwarantuje doskonałą termoregulację. Model Marsela zaprojektowano do tworzenia stylowych, wielowarstwowych stylizacji, gdzie służy jako ciepła i prestiżowa warstwa."
+      },
+      {
+        "q": "Jasny odcień (Panna) wymaga zbyt skomplikowanej pielęgnacji.",
+        "a": "Jakość wełny Merinfleur zapobiega głębokiemu wnikaniu zabrudzeń. Zalecamy profesjonalne czyszczenie chemiczne, które zachowa nieskazitelny kolor i strukturę włókien przez wiele lat."
+      },
+      {
+        "q": "Guziki imitujące róg wyglądają zbyt prosto na wieczorne wyjście.",
+        "a": "To klasyczny element stylu 'old money', który podkreśla arystokratyczny charakter wyrobu. Na uroczystą okazję wystarczy dodać nasze charakterystyczne ozdoby, takie jak kolczyki Nagorno lub naszyjnik Narsete, aby stylizacja nabrała nowych barw."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Екохутро може виглядати менш престижно, ніж натуральне.",
+        "a": "У колекціях Luisa Spagnoli використовується екохутро найвищої вичинки, яке візуально та тактильно ідентичне натуральному, при цьому відповідаючи глобальному тренду на усвідомлене споживання та етичну розкіш."
+      },
+      {
+        "q": "В'язка в рубчик може візуально додавати об'єм фігурі.",
+        "a": "Вертикальна орієнтація патерну в'язки в поєднанні з приталеним кроєм і вкороченою довжиною, навпаки, створює ефект стрункості та акцентує увагу на талії."
+      },
+      {
+        "q": "Вкорочена модель може бути недостатньо теплою для зими.",
+        "a": "Щільність в'язки зі 100% чистої вовни гарантує чудову терморегуляцію. Модель Marsela спроєктована для створення стильних багатошарових образів, де вона слугує теплим і статусним шаром."
+      },
+      {
+        "q": "Світлий відтінок (Panna) вимагає занадто складного догляду.",
+        "a": "Якість вовни Merinfleur перешкоджає глибокому проникненню забруднень. Ми рекомендуємо професійну суху чистку, яка збереже бездоганний колір і структуру волокон протягом багатьох років."
+      },
+      {
+        "q": "Ґудзики під ріг виглядають занадто просто для вечірнього виходу.",
+        "a": "Це класичний елемент стилю «old money», який підкреслює аристократизм виробу. Для урочистого випадку достатньо додати наші знакові прикраси, такі як сережки Nagorno або кольє Narsete, щоб образ заграв новими барвами."
+      }
+    ]
+  }
+}

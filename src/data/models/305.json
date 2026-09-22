@@ -1,0 +1,412 @@
+{
+  "id": 305,
+  "name": "Scolpito",
+  "description": {
+    "en": "This majestic winter coat from Luisa Spagnoli is a triumph of architectural cut and textural contrast. Crafted from a dense, high-quality wool cloth (80% wool, 20% polyester), which holds its shape beautifully. The principal stylistic accent is striking pointed lapels, masterfully trimmed with exquisite faux fur in a contrasting shade. A single-breasted closure with exclusive flat, square-shaped buttons and graphic piping underscore the discipline and aristocratic character of the Regular fit silhouette, transforming the coat into a true art object of the winter wardrobe.",
+    "ru": "Это величественное зимнее пальто от Luisa Spagnoli представляет собой триумф архитектурного кроя и текстурных контрастов. Модель выполнена из плотного высококачественного шерстяного сукна (80% шерсть, 20% полиэстер), которое идеально держит форму. Главным стилистическим акцентом выступают выразительные заостренные лацканы, мастерски отороченные изысканным искусственным мехом (faux fur) контрастного оттенка. Однобортная застежка на эксклюзивные плоские пуговицы квадратной формы и графичные нервюры подчеркивают строгость и аристократизм силуэта regular fit, превращая пальто в настоящий арт-объект зимнего гардероба.",
+    "ar": "يعد هذا المعطف الشتوي المهيب من Luisa Spagnoli انتصاراً للقصات المعمارية والتباينات الملمسية. الموديل مصنوع من جوخ صوفي كثيف عالي الجودة (80% صوف، 20% بوليستر)، يحافظ على شكله بشكل مثالي. تبرز الياقات المدببة اللافتة كعنصر أسلوبي رئيسي، وهي مطرزة ببراعة بفراء صناعي (faux fur) فاخر بلون متباين. تؤكد الياقات أحادية الصدر مع الأزرار المسطحة الحصرية مربعة الشكل والدرزات الجرافيكية على صرامة وأرستقراطية القصة العادية (regular fit)، مما يحول المعطف إلى قطعة فنية حقيقية في خزانة ملابس الشتاء.",
+    "ka": "ეს დიდებული ზამთრის პალტო Luisa Spagnoli-სგან წარმოადგენს არქიტექტურული ჭრისა და ტექსტურული კონტრასტების ტრიუმფს. მოდელი დამზადებულია მაღალი ხარისხის მკვრივი შალის ქსოვილისგან (80% მატყლი, 20% პოლიესტერი), რომელიც იდეალურად ინარჩუნებს ფორმას. მთავარ სტილისტურ აქცენტს წარმოადგენს გამომსახველობითი წვეტიანი ლაცკანები, რომლებიც ოსტატურადაა გაფორმებული კონტრასტული ფერის დახვეწილი ხელოვნური ბეწვით (faux fur). ერთბორტიანი შესაკრავი ექსკლუზიური კვადრატული ფორმის ბრტყელი ღილებით და გრაფიკული ნაკერები ხაზს უსვამს regular fit სილუეტის სიმკაცრესა და არისტოკრატიზმს, რაც პალტოს ზამთრის გარდერობის ნამდვილ არტ-ობიექტად აქცევს.",
+    "hy": "Luisa Spagnoli-ի այս վեհաշուք ձմեռային վերարկուն ճարտարապետական ձևվածքի և տեքստուրային հակադրությունների հաղթարշավ է: Մոդելը պատրաստված է խիտ, բարձրորակ բրդյա կտորից (80% բուրդ, 20% պոլիեսթեր), որը կատարյալ պահպանում է իր ձևը: Ոճային գլխավոր շեշտադրումը արտահայտիչ սրածայր օձիքներն են, որոնք վարպետորեն ձևավորված են հակադիր երանգի նրբաճաշակ արհեստական մորթով (faux fur): Միակողմանի կոճկումը քառակուսի ձևի էքսկլյուզիվ հարթ կոճակներով և գրաֆիկական դետալներն ընդգծում են regular fit ուրվագծի խստությունն ու արիստոկրատությունը՝ վերարկուն վերածելով ձմեռային զգեստապահարանի իսկական արտ-օբյեկտի:",
+    "lv": "Šis majestātiskais Luisa Spagnoli ziemas mētelis ir arhitektoniskā piegriezuma un tekstūru kontrastu triumfs. Modelis ir izgatavots no blīvas, augstas kvalitātes vilnas auduma (80% vilna, 20% poliesters), kas lieliski saglabā formu. Galvenais stilistiskais akcents ir izteiksmīgi, smaili atlokai, kas meistarīgi apdarināti ar izsmalcinātu mākslīgo kažokādu (faux fur) kontrastējošā tonī. Vienrindas aizdare ar ekskluzīvām, plakanām, kvadrātveida pogām un grafiskās vīles uzsver regular fit silueta stingrību un aristokrātismu, pārvēršot mēteli par īstu ziemas garderobes mākslas objektu.",
+    "lt": "Šis didingas žieminis Luisa Spagnoli paltas – tai architektūrinio kirpimo ir tekstūrų kontrastų triumfas. Modelis pasiūtas iš tankaus aukščiausios kokybės vilnos audinio (80% vilna, 20% poliesteris), kuris idealiai išlaiko formą. Pagrindinis stilistinis akcentas – išraiškingi smailėjantys atlapai, meistriškai apsiūti rafinuotu dirbtiniu kailiu (faux fur) kontrastuojančiu atspalviu. Vienaeilis užsegimas išskirtinėmis plokščiomis kvadratinės formos sagomis ir grafiškos siūlės pabrėžia regular fit silueto griežtumą bei aristokratiškumą, paverčiant paltą tikru žiemos garderobo meno kūriniu.",
+    "pl": "Ten majestatyczny płaszcz zimowy od Luisa Spagnoli to triumf architektonicznego kroju i kontrastów faktur. Model wykonano z gęstego, wysokiej jakości sukna wełnianego (80% wełna, 20% poliester), które idealnie zachowuje kształt. Głównym akcentem stylistycznym są wyraziste, szpiczaste klapy, mistrzowsko wykończone wykwintnym sztucznym futrem (faux fur) w kontrastowym odcieniu. Jednorzędowe zapięcie na ekskluzywne, płaskie guziki o kwadratowym kształcie oraz graficzne wypustki podkreślają surowość i arystokratyzm sylwetki regular fit, zmieniając płaszcz w prawdziwy obiekt sztuki w zimowej garderobie.",
+    "uk": "Це величне зимове пальто від Luisa Spagnoli являє собою тріумф архітектурного крою та текстурних контрастів. Модель виконана зі щільного високоякісного вовняного сукна (80% вовна, 20% поліестер), яке ідеально тримає форму. Головним стилістичним акцентом виступають виразні загострені лацкани, майстерно оздоблені вишуканим штучним хутром (faux fur) контрастного відтінку. Однобортна застібка на ексклюзивні плоскі ґудзики квадратної форми та графічні нервюри підкреслюють строгість і аристократизм силуету regular fit, перетворюючи пальто на справжній арт-об'єкт зимового гардероба."
+  },
+  "colors": [
+    {
+      "name": "Nero Marrone",
+      "code": "0101 0913",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0091%20%282%29.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Образ 'Urban Aristocracy' (Look 51)",
+        "en": "'Urban Aristocracy' look (Look 51)",
+        "ar": "'Urban Aristocracy' look (Look 51)",
+        "ka": "'Urban Aristocracy' look (Look 51)",
+        "hy": "'Urban Aristocracy' look (Look 51)",
+        "lv": "'Urban Aristocracy' look (Look 51)",
+        "lt": "'Urban Aristocracy' look (Look 51)",
+        "pl": "'Urban Aristocracy' look (Look 51)",
+        "uk": "'Urban Aristocracy' look (Look 51)"
+      },
+      "text": {
+        "ru": "Пальто Scolpito 0101 0913 в безупречном сочетании с трикотажным платьем Met 2234. Ансамбль дополняют элегантная сумка Idilliaco A 0101 0002 и фетровое кепи Renno 0930.",
+        "en": "Scolpito 0101 0913 coat in an impeccable combination with the Met 2234 knit dress. The ensemble is complemented by an elegant Idilliaco A 0101 0002 bag and a felt Renno 0930 cap.",
+        "ar": "Scolpito 0101 0913 coat in an impeccable combination with the Met 2234 knit dress. The ensemble is complemented by an elegant Idilliaco A 0101 0002 bag and a felt Renno 0930 cap.",
+        "ka": "Scolpito 0101 0913 coat in an impeccable combination with the Met 2234 knit dress. The ensemble is complemented by an elegant Idilliaco A 0101 0002 bag and a felt Renno 0930 cap.",
+        "hy": "Scolpito 0101 0913 coat in an impeccable combination with the Met 2234 knit dress. The ensemble is complemented by an elegant Idilliaco A 0101 0002 bag and a felt Renno 0930 cap.",
+        "lv": "Scolpito 0101 0913 coat in an impeccable combination with the Met 2234 knit dress. The ensemble is complemented by an elegant Idilliaco A 0101 0002 bag and a felt Renno 0930 cap.",
+        "lt": "Scolpito 0101 0913 coat in an impeccable combination with the Met 2234 knit dress. The ensemble is complemented by an elegant Idilliaco A 0101 0002 bag and a felt Renno 0930 cap.",
+        "pl": "Scolpito 0101 0913 coat in an impeccable combination with the Met 2234 knit dress. The ensemble is complemented by an elegant Idilliaco A 0101 0002 bag and a felt Renno 0930 cap.",
+        "uk": "Scolpito 0101 0913 coat in an impeccable combination with the Met 2234 knit dress. The ensemble is complemented by an elegant Idilliaco A 0101 0002 bag and a felt Renno 0930 cap."
+      },
+      "items": [
+        {
+          "name": "Scolpito",
+          "code": "0101 0913",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0091%20%282%29.jpg"
+        },
+        {
+          "name": "Met",
+          "code": "2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JakQkAGhQh6-K43qoGM5eA_196022933696f436b684e64_02326623_02830800XX1.jpg",
+          "modelId": 173
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_10100020000.jpg"
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 'Wild Elegance' (Look 81)",
+        "en": "'Wild Elegance' look (Look 81)",
+        "ar": "'Wild Elegance' look (Look 81)",
+        "ka": "'Wild Elegance' look (Look 81)",
+        "hy": "'Wild Elegance' look (Look 81)",
+        "lv": "'Wild Elegance' look (Look 81)",
+        "lt": "'Wild Elegance' look (Look 81)",
+        "pl": "'Wild Elegance' look (Look 81)",
+        "uk": "'Wild Elegance' look (Look 81)"
+      },
+      "text": {
+        "ru": "Пальто Scolpito 0101 0913 поверх лаконичного пуловера Manos F 0101. Смелый акцент вносит анималистичная сумка Idasola 3407 0101 0002. Завершает лук аксессуар Renno 0930.",
+        "en": "Scolpito 0101 0913 coat over a minimalist Manos F 0101 pullover. The animal-print Idasola 3407 0101 0002 bag adds a bold accent. A Renno 0930 accessory completes the look.",
+        "ar": "Scolpito 0101 0913 coat over a minimalist Manos F 0101 pullover. The animal-print Idasola 3407 0101 0002 bag adds a bold accent. A Renno 0930 accessory completes the look.",
+        "ka": "Scolpito 0101 0913 coat over a minimalist Manos F 0101 pullover. The animal-print Idasola 3407 0101 0002 bag adds a bold accent. A Renno 0930 accessory completes the look.",
+        "hy": "Scolpito 0101 0913 coat over a minimalist Manos F 0101 pullover. The animal-print Idasola 3407 0101 0002 bag adds a bold accent. A Renno 0930 accessory completes the look.",
+        "lv": "Scolpito 0101 0913 coat over a minimalist Manos F 0101 pullover. The animal-print Idasola 3407 0101 0002 bag adds a bold accent. A Renno 0930 accessory completes the look.",
+        "lt": "Scolpito 0101 0913 coat over a minimalist Manos F 0101 pullover. The animal-print Idasola 3407 0101 0002 bag adds a bold accent. A Renno 0930 accessory completes the look.",
+        "pl": "Scolpito 0101 0913 coat over a minimalist Manos F 0101 pullover. The animal-print Idasola 3407 0101 0002 bag adds a bold accent. A Renno 0930 accessory completes the look.",
+        "uk": "Scolpito 0101 0913 coat over a minimalist Manos F 0101 pullover. The animal-print Idasola 3407 0101 0002 bag adds a bold accent. A Renno 0930 accessory completes the look."
+      },
+      "items": [
+        {
+          "name": "Scolpito",
+          "code": "0101 0913",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0091%20%282%29.jpg"
+        },
+        {
+          "name": "Manos F",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Idasola",
+          "code": "3407 0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/idasola.png"
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 'Classic Heritage' (Look 55)",
+        "en": "'Classic Heritage' look (Look 55)",
+        "ar": "'Classic Heritage' look (Look 55)",
+        "ka": "'Classic Heritage' look (Look 55)",
+        "hy": "'Classic Heritage' look (Look 55)",
+        "lv": "'Classic Heritage' look (Look 55)",
+        "lt": "'Classic Heritage' look (Look 55)",
+        "pl": "'Classic Heritage' look (Look 55)",
+        "uk": "'Classic Heritage' look (Look 55)"
+      },
+      "text": {
+        "ru": "Комбинация пальто Scolpito 0101 0913 с юбкой Festone 0101 и пуловером Caprese B 0101. Финальный штрих — сумка Iago 0101 0002.",
+        "en": "A combination of the Scolpito 0101 0913 coat with the Festone 0101 skirt and Caprese B 0101 pullover. The final touch — an Iago 0101 0002 bag.",
+        "ar": "A combination of the Scolpito 0101 0913 coat with the Festone 0101 skirt and Caprese B 0101 pullover. The final touch — an Iago 0101 0002 bag.",
+        "ka": "A combination of the Scolpito 0101 0913 coat with the Festone 0101 skirt and Caprese B 0101 pullover. The final touch — an Iago 0101 0002 bag.",
+        "hy": "A combination of the Scolpito 0101 0913 coat with the Festone 0101 skirt and Caprese B 0101 pullover. The final touch — an Iago 0101 0002 bag.",
+        "lv": "A combination of the Scolpito 0101 0913 coat with the Festone 0101 skirt and Caprese B 0101 pullover. The final touch — an Iago 0101 0002 bag.",
+        "lt": "A combination of the Scolpito 0101 0913 coat with the Festone 0101 skirt and Caprese B 0101 pullover. The final touch — an Iago 0101 0002 bag.",
+        "pl": "A combination of the Scolpito 0101 0913 coat with the Festone 0101 skirt and Caprese B 0101 pullover. The final touch — an Iago 0101 0002 bag.",
+        "uk": "A combination of the Scolpito 0101 0913 coat with the Festone 0101 skirt and Caprese B 0101 pullover. The final touch — an Iago 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Scolpito",
+          "code": "0101 0913",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0091%20%282%29.jpg"
+        },
+        {
+          "name": "Festone",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/128523816691c57830dca49_01467768_02780020XX1.jpg",
+          "modelId": 389
+        },
+        {
+          "name": "Caprese B",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2sl41gfjQaK9ETlHxdmwRg_220518545696f430d1b6002_25349365_02830030XX1.jpg",
+          "modelId": 3
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the 'sculptural' nature of both the name and the cut: the eco-fur trim on the lapels visually broadens the shoulder line, making the waist appear more slender.",
+      "Offer Scolpito as an investment piece that unites the warmth of traditional wool cloth with the current trend for decorative fur.",
+      "Emphasise the prestige of the hardware: the square buttons serve as a jewel-like accent, removing the need to select additional statement jewellery."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиентки на 'скульптурности' названия и кроя: отделка из эко-меха на лацканах визуально расширяет линию плеч, делая талию более тонкой.",
+      "Предлагайте Scolpito как инвестиционную вещь, которая объединяет в себе тепло традиционного сукна и актуальный тренд на декоративный мех.",
+      "Подчеркните статусность фурнитуры: квадратные пуговицы — это ювелирный акцент, который избавляет от необходимости подбирать крупные украшения."
+    ],
+    "ar": [
+      "سلطي الضوء على 'نحتية' التصميم والقصة: فالحواف المصنوعة من الفرو البيئي على اللياقة تعمل بصرياً على توسيع خط الكتفين، مما يجعل الخصر يبدو أكثر دقة.",
+      "قدمي Scolpito كقطعة استثمارية تجمع بين دفء الجوخ التقليدي وصيحة الفرو الزخرفي الرائجة.",
+      "أكدي على فخامة الإكسسوارات: فالأزرار المربعة هي لمسة جوهرية تغني عن الحاجة لارتداء مجوهرات ضخمة."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება სახელწოდებისა და ჭრის 'სკულპტურულობაზე': ეკო-ბეწვის მორთულობა საყელოებზე ვიზუალურად აფართოებს მხრების ხაზს და წელს უფრო გამოკვეთილს ხდის.",
+      "შესთავაზეთ Scolpito როგორც ინვესტიციურ სამოსს, რომელიც აერთიანებს ტრადიციული სქელი ქსოვილის სითბოს და დეკორატიული ბეწვის აქტუალურ ტენდენციას.",
+      "ხაზი გაუსვით ფურნიტურის სტატუსს: კვადრატული ღილები არის საიუველირო აქცენტი, რომელიც გათავისუფლებთ მასიური სამკაულების შერჩევის აუცილებლობისგან."
+    ],
+    "hy": [
+      "Շեշտադրեք հաճախորդի ուշադրությունը անվանման և ձևվածքի «քանդակային» լինելու վրա. արհեստական մորթուց հարդարանքը լացկանների վրա տեսողականորեն ընդլայնում է ուսագոտին՝ իրանն ավելի նրբագեղ դարձնելով։",
+      "Առաջարկեք Scolpito-ն որպես ներդրումային իր, որը միավորում է ավանդական կտորի ջերմությունը և դեկորատիվ մորթու արդիական թրենդը։",
+      "Ընդգծեք աքսեսուարների կարգավիճակը. քառակուսի կոճակները ոսկերչական շեշտադրում են, որոնք ազատում են խոշոր զարդեր ընտրելու անհրաժեշտությունից։"
+    ],
+    "lv": [
+      "Vērsiet klientes uzmanību uz nosaukuma un piegriezuma 'skulpturālo' raksturu: eko-kažokādas apdare uz atloku daļas vizuāli paplašina plecu līniju, padarot vidukli vizuāli slaidāku.",
+      "Piedāvājiet Scolpito kā investīciju garderobē, kas apvieno tradicionālā auduma siltumu un aktuālo dekoratīvās kažokādas trendu.",
+      "Uzsveriet furnitūras statusu: kvadrātveida pogas ir juvelierizstrādājumiem līdzīgs akcents, kas novērš nepieciešamību izvēlēties masīvas rotaslietas."
+    ],
+    "lt": [
+      "Akcentuokite klientės dėmesį į pavadinimo ir kirpimo „skulptūriškumą“: dirbtinio kailio apdaila ant atlapų vizualiai platina pečių liniją, todėl liemuo atrodo lieknesnis.",
+      "Siūlykite Scolpito kaip investicinį drabužį, kuris sujungia tradicinio audinio šilumą ir aktualią dekoratyvinio kailio tendenciją.",
+      "Pabrėžkite furnitūros statusą: kvadratinės sagos – tai juvelyrinis akcentas, dėl kurio nebereikia derinti masyvių papuošalų."
+    ],
+    "pl": [
+      "Skup uwagę klientki na 'rzeźbiarskim' charakterze nazwy i kroju: wykończenie z eko-futra na klapach optycznie poszerza linię ramion, wysmuklając talię.",
+      "Proponuj Scolpito jako inwestycję, która łączy ciepło tradycyjnego sukna z aktualnym trendem na ozdobne futro.",
+      "Podkreśl prestiż okuć: kwadratowe guziki to jubilerski akcent, który eliminuje konieczność dobierania masywnej biżuterii."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнтки на 'скульптурності' назви та крою: оздоблення з екохутра на лацканах візуально розширює лінію плечей, роблячи талію тоншою.",
+      "Пропонуйте Scolpito як інвестиційну річ, яка поєднує в собі тепло традиційного сукна та актуальний тренд на декоративне хутро.",
+      "Підкресліть статусність фурнітури: квадратні ґудзики — це ювелірний акцент, який позбавляє від необхідності підбирати великі прикраси."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Меня смущает использование искусственного меха в такой дорогой модели.",
+        "a": "Сделайте акцент на концепции осознанного потребления и высочайшем качестве faux fur от Luisa Spagnoli — он не только этичен, но и превосходит натуральный мех по износостойкости в условиях влажной зимы."
+      },
+      {
+        "q": "Контрастные лацканы могут визуально перегружать образ.",
+        "a": "Продемонстрируйте Look 81 с монохромной базой Manos F 0101, где пальто становится единственным и гармоничным центром композиции."
+      },
+      {
+        "q": "Будет ли это пальто греть при низких температурах?",
+        "a": "Обратите внимание на состав ткани: 80% натуральной шерсти в сочетании с плотным плетением сукна обеспечивают превосходную терморегуляцию."
+      },
+      {
+        "q": "Квадратные пуговицы кажутся слишком авангардными для классики.",
+        "a": "Объясните, что это авторский штрих бренда, который переводит модель из категории базовых вещей в разряд эксклюзивного дизайнерского гардероба."
+      },
+      {
+        "q": "Меховая отделка требует сложного ухода.",
+        "a": "Успокойте клиентку: в отличие от натурального меха, ворс эко-меха в оттенке 0913 не желтеет и не деформируется, сохраняя безупречный вид изделия на долгие годы."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Меня смущает использование искусственного меха в такой дорогой модели.",
+        "a": "Сделайте акцент на концепции осознанного потребления и высочайшем качестве faux fur от Luisa Spagnoli — он не только этичен, но и превосходит натуральный мех по износостойкости в условиях влажной зимы."
+      },
+      {
+        "q": "Контрастные лацканы могут визуально перегружать образ.",
+        "a": "Продемонстрируйте Look 81 с монохромной базой Manos F 0101, где пальто становится единственным и гармоничным центром композиции."
+      },
+      {
+        "q": "Будет ли это пальто греть при низких температурах?",
+        "a": "Обратите внимание на состав ткани: 80% натуральной шерсти в сочетании с плотным плетением сукна обеспечивают превосходную терморегуляцию."
+      },
+      {
+        "q": "Квадратные пуговицы кажутся слишком авангардными для классики.",
+        "a": "Объясните, что это авторский штрих бренда, который переводит модель из категории базовых вещей в разряд эксклюзивного дизайнерского гардероба."
+      },
+      {
+        "q": "Меховая отделка требует сложного ухода.",
+        "a": "Успокойте клиентку: в отличие от натурального меха, ворс эко-меха в оттенке 0913 не желтеет и не деформируется, сохраняя безупречный вид изделия на долгие годы."
+      }
+    ],
+    "ar": [
+      {
+        "q": "أشعر بالحيرة بشأن استخدام الفرو الصناعي في تصميم فاخر كهذا.",
+        "a": "ركزي على مفهوم الاستهلاك الواعي والجودة العالية للفرو الصناعي (faux fur) من Luisa Spagnoli، فهو ليس أخلاقياً فحسب، بل يتفوق على الفرو الطبيعي من حيث المتانة في ظروف الشتاء الرطبة."
+      },
+      {
+        "q": "قد تزيد الياقات المتباينة من ثقل المظهر بصرياً.",
+        "a": "اعرضي اللوك 81 مع القاعدة أحادية اللون Manos F 0101، حيث يصبح المعطف المركز الوحيد والمتناغم للتكوين."
+      },
+      {
+        "q": "هل سيدفئني هذا المعطف في درجات الحرارة المنخفضة؟",
+        "a": "انتبهي إلى تركيبة القماش: 80% من الصوف الطبيعي الممزوج بالنسيج الكثيف للجوخ يضمنان تنظيمًا حراريًا ممتازاً."
+      },
+      {
+        "q": "تبدو الأزرار المربعة طليعية أكثر من اللازم بالنسبة للنمط الكلاسيكي.",
+        "a": "أوضحي أن هذه لمسة إبداعية خاصة بالعلامة التجارية، تنقل التصميم من فئة القطع الأساسية إلى فئة خزانة الملابس المصممة والحصرية."
+      },
+      {
+        "q": "تتطلب تفاصيل الفرو عناية معقدة.",
+        "a": "طمئني العميلة: على عكس الفرو الطبيعي، لا يصفر وبر الفرو البيئي بلون 0913 ولا يتشوه، مما يحافظ على مظهر القطعة الذي لا تشوبه شائبة لسنوات طويلة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მე მბოჭავს ასეთ ძვირადღირებულ მოდელში ხელოვნური ბეწვის გამოყენება.",
+        "a": "გააკეთეთ აქცენტი შეგნებული მოხმარების კონცეფციასა და Luisa Spagnoli-ს faux fur-ის უმაღლეს ხარისხზე — ის არა მხოლოდ ეთიკურია, არამედ ნოტიო ზამთრის პირობებში ცვეთამედეგობით ბუნებრივ ბეწვსაც კი აღემატება."
+      },
+      {
+        "q": "კონტრასტულმა ლაპელებმა შესაძლოა ვიზუალურად გადატვირთოს იმიჯი.",
+        "a": "წარმოადგინეთ Look 81 Manos F 0101-ის მონოქრომული ბაზით, სადაც პალტო კომპოზიციის ერთადერთი და ჰარმონიული ცენტრი ხდება."
+      },
+      {
+        "q": "გაათბობს თუ არა ეს პალტო დაბალ ტემპერატურაზე?",
+        "a": "მიაქციეთ ყურადღება ქსოვილის შემადგენლობას: 80% ნატურალური მატყლი სქელ ქსოვილთან კომბინაციაში უზრუნველყოფს შესანიშნავ თერმორეგულაციას."
+      },
+      {
+        "q": "კვადრატული ღილები კლასიკისთვის ზედმეტად ავანგარდული მეჩვენება.",
+        "a": "აუხსენით, რომ ეს ბრენდის საავტორო შტრიხია, რომელიც მოდელს საბაზისო ნივთების კატეგორიიდან ექსკლუზიური დიზაინერული გარდერობის კატეგორიაში გადაჰყავს."
+      },
+      {
+        "q": "ბეწვის მორთულობა რთულ მოვლას მოითხოვს.",
+        "a": "დაამშვიდეთ კლიენტი: ნატურალური ბეწვისგან განსხვავებით, 0913 ტონალობის ეკო-ბეწვის ბუსუსი არ ყვითლდება და არ დეფორმირდება, რაც ნაკეთობას წლების განმავლობაში უნაკლო იერს უნარჩუნებს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ինձ անհանգստացնում է արհեստական մորթու օգտագործումը այսպիսի թանկարժեք մոդելում։",
+        "a": "Շեշտը դրեք գիտակցված սպառման հայեցակարգի և Luisa Spagnoli-ի faux fur-ի բարձրագույն որակի վրա՝ այն ոչ միայն էթիկական է, այլև իր դիմացկունությամբ գերազանցում է բնական մորթուն խոնավ ձմռան պայմաններում։"
+      },
+      {
+        "q": "Հակադրվող լացկանները կարող են տեսողականորեն ծանրաբեռնել կերպարը։",
+        "a": "Ցուցադրեք Look 81-ը Manos F 0101 մոնոքրոմ բազայով, որտեղ վերարկուն դառնում է կոմպոզիցիայի միակ և ներդաշնակ կենտրոնը։"
+      },
+      {
+        "q": "Արդյո՞ք այս վերարկուն կտաքացնի ցածր ջերմաստիճանների դեպքում։",
+        "a": "Ուշադրություն դարձրեք գործվածքի բաղադրությանը. 80% բնական բուրդը թաղիքի խիտ հյուսվածքի հետ համատեղ ապահովում է ջերմակարգավորման գերազանց մակարդակ։"
+      },
+      {
+        "q": "Քառակուսի կոճակները չափազանց ավանգարդային են թվում դասական ոճի համար։",
+        "a": "Բացատրեք, որ սա բրենդի հեղինակային ձեռագիրն է, որը մոդելը հիմնական իրերի կատեգորիայից տեղափոխում է էքսկլյուզիվ դիզայներական զգեստապահարանի շարքը։"
+      },
+      {
+        "q": "Մորթյա հարդարանքը պահանջում է բարդ խնամք։",
+        "a": "Հանգստացրեք հաճախորդին. ի տարբերություն բնական մորթու, 0913 երանգի էկո-մորթու թավը չի դեղնում և չի դեֆորմացվում՝ տարիներ շարունակ պահպանելով արտադրանքի անթերի տեսքը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Mani mulsina mākslīgās kažokādas izmantošana tik dārgā modelī.",
+        "a": "Uzsveriet apzināta patēriņa koncepciju un Luisa Spagnoli faux fur augstāko kvalitāti — tā ir ne tikai ētiski nevainojama, bet arī pārspēj dabisko kažokādu nodilumizturībā mitras ziemas apstākļos."
+      },
+      {
+        "q": "Kontrastējoši atloki var vizuāli pārslogot tēlu.",
+        "a": "Demonstrējiet Look 81 ar vienkrāsainu Manos F 0101 bāzi, kur mētelis kļūst par vienīgo un harmonisko kompozīcijas centru."
+      },
+      {
+        "q": "Vai šis mētelis sildīs zemā temperatūrā?",
+        "a": "Pievērsiet uzmanību auduma sastāvam: 80% dabīgās vilnas kombinācijā ar blīvu auduma pinumu nodrošina izcilu termoregulāciju."
+      },
+      {
+        "q": "Kvadrātveida pogas šķiet pārāk avangardiskas klasikai.",
+        "a": "Paskaidrojiet, ka tas ir zīmola autorslējiens, kas pārceļ modeli no bāzes lietu kategorijas uz ekskluzīvas dizaineru garderobes līmeni."
+      },
+      {
+        "q": "Kažokādas apdare prasa sarežģītu kopšanu.",
+        "a": "Nomieriniet klienti: atšķirībā no dabīgās kažokādas, 0913 toņa eko-kažokādas pūka nedzeltē un nedeformējas, saglabājot nevainojamu izstrādājuma izskatu daudzus gadus."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Nerimauju dėl dirbtinio kailio naudojimo tokiame brangiame modelyje.",
+        "a": "Pabrėžkite atsakingo vartojimo koncepciją ir aukščiausią Luisa Spagnoli faux fur kokybę — jis ne tik etiškas, bet ir pranoksta natūralų kailį savo atsparumu dėvėjimuisi drėgną žiemą."
+      },
+      {
+        "q": "Kontrastingi atlapai gali vizualiai perkrauti įvaizdį.",
+        "a": "Pademonstruokite Look 81 su vienspalviu pagrindu Manos F 0101, kur paltas tampa vieninteliu ir harmoningu kompozicijos centru."
+      },
+      {
+        "q": "Ar šis paltas šildys esant žemai temperatūrai?",
+        "a": "Atkreipkite dėmesį į audinio sudėtį: 80% natūralios vilnos derinys su tankiu audiniu užtikrina puikią termoreguliaciją."
+      },
+      {
+        "q": "Kvadratinės sagos atrodo per daug avangardiškai klasikiniam stiliui.",
+        "a": "Paaiškinkite, kad tai autorinis prekės ženklo akcentas, kuris perkelia modelį iš bazinių drabužių kategorijos į išskirtinio dizainerių garderobo lygmenį."
+      },
+      {
+        "q": "Kailio apdaila reikalauja sudėtingos priežiūros.",
+        "a": "Nuraminkite klientę: skirtingai nei natūralus kailis, ekologiško kailio plaukeliai 0913 atspalvio nepagelsta ir nesideformuoja, išlaikydami nepriekaištingą gaminio išvaizdą daugelį metų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Niepokoi mnie użycie sztucznego futra w tak drogim modelu.",
+        "a": "Połóż nacisk na koncepcję świadomej konsumpcji oraz najwyższą jakość faux fur od Luisa Spagnoli — jest ono nie tylko etyczne, ale i przewyższa futro naturalne pod względem trwałości w warunkach wilgotnej zimy."
+      },
+      {
+        "q": "Kontrastowe klapy mogą wizualnie przeciążać stylizację.",
+        "a": "Zaprezentuj Look 81 z monochromatyczną bazą Manos F 0101, gdzie płaszcz staje się jedynym i harmonijnym centrum kompozycji."
+      },
+      {
+        "q": "Czy to płaszcz będzie grzał przy niskich temperaturach?",
+        "a": "Zwróć uwagę na skład tkaniny: 80% naturalnej wełny w połączeniu z gęstym splotem sukna zapewnia doskonałą termoregulację."
+      },
+      {
+        "q": "Kwadratowe guziki wydają się zbyt awangardowe jak na klasykę.",
+        "a": "Wyjaśnij, że to autorski akcent marki, który przenosi model z kategorii ubrań bazowych do rangi ekskluzywnej garderoby projektowej."
+      },
+      {
+        "q": "Wykończenie futrem wymaga skomplikowanej pielęgnacji.",
+        "a": "Uspokój klientkę: w odróżnieniu od futra naturalnego, włos eko-futra w odcieniu 0913 nie żółknie i nie odkształca się, zachowując nienaganny wygląd wyrobu przez długie lata."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Мене бентежить використання штучного хутра в такій дорогій моделі.",
+        "a": "Зробіть акцент на концепції усвідомленого споживання та найвищій якості faux fur від Luisa Spagnoli — він не лише етичний, а й перевершує натуральне хутро за зносостійкістю в умовах вологої зими."
+      },
+      {
+        "q": "Контрастні лацкани можуть візуально перевантажувати образ.",
+        "a": "Продемонструйте Look 81 з монохромною базою Manos F 0101, де пальто стає єдиним і гармонійним центром композиції."
+      },
+      {
+        "q": "Чи буде це пальто гріти при низьких температурах?",
+        "a": "Зверніть увагу на склад тканини: 80% натуральної вовни в поєднанні зі щільним плетінням сукна забезпечують чудову терморегуляцію."
+      },
+      {
+        "q": "Квадратні ґудзики здаються занадто авангардними для класики.",
+        "a": "Поясніть, що це авторський штрих бренду, який переводить модель із категорії базових речей у розряд ексклюзивного дизайнерського гардероба."
+      },
+      {
+        "q": "Хутряна оздоблення потребує складного догляду.",
+        "a": "Заспокойте клієнтку: на відміну від натурального хутра, ворс екохутра у відтінку 0913 не жовтіє і не деформується, зберігаючи бездоганний вигляд виробу на довгі роки."
+      }
+    ]
+  }
+}

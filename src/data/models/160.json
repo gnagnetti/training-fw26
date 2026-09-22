@@ -1,0 +1,401 @@
+{
+  "id": 160,
+  "name": "Maurilia",
+  "description": {
+    "en": "Aristocratic comfort in a contemporary interpretation: the Maurilia cardigan from the exclusive Merinfleur line. The model is masterfully crafted using a voluminous \"chunky rib\" knit technique from a noble blend of virgin wool and high-tech fibres, guaranteeing a sculptural silhouette and impeccable shape retention. The principal couture accent is the shawl collar, accentuated by luxurious long fringe that lends the look runway dynamism. The relaxed Oversize cut and absence of fastenings make this piece the perfect embodiment of the \"quiet luxury\" aesthetic.",
+    "ru": "Аристократичный уют в современном прочтении: кардиган Maurilia из эксклюзивной линии Merinfleur. Модель мастерски выполнена в технике объемной вязки «крупный рубчик» из благородного сочетания девственной шерсти и высокотехнологичных волокон, что гарантирует скульптурность силуэта и безупречное сохранение формы. Главным кутюрным акцентом выступает шалевый воротник, подчеркнутый роскошной длинной бахромой, которая придает образу подиумную динамику. Свободный крой Oversize и отсутствие застежек делают это изделие идеальным воплощением эстетики «тихой роскоши».",
+    "ar": "راحة أرستقراطية بلمسة عصرية: كارديغان Maurilia من خط Merinfleur الحصري. صُممت القطعة ببراعة بتقنية الحياكة الضخمة «المضلعة الكبيرة» من مزيج نبيل من الصوف البكر والألياف عالية التقنية، مما يضمن هيكلية الصورة الظلية والحفاظ على الشكل بشكل مثالي. يبرز اللمسة الراقية الرئيسية في الياقة الشال، التي تؤكد عليها الشرابات الطويلة الفاخرة التي تضفي على الإطلالة ديناميكية عروض الأزياء. القصة الواسعة (Oversize) وغياب الأزرار تجعل من هذه القطعة تجسيداً مثالياً لجماليات «الفخامة الهادئة».",
+    "ka": "არისტოკრატული მყუდროება თანამედროვე გააზრებით: Maurilia-ს კარდიგანი Merinfleur-ის ექსკლუზიური ხაზიდან. მოდელი ოსტატურადაა შესრულებული „მსხვილი ნეკნის“ მოცულობითი ქსოვის ტექნიკით, ქალწული მატყლისა და მაღალტექნოლოგიური ბოჭკოების კეთილშობილური ნაზავით, რაც სილუეტის სკულპტურულობასა და ფორმის უნაკლო შენარჩუნებას უზრუნველყოფს. მთავარ კუტიურულ აქცენტს წარმოადგენს შალის საყელო, რომელიც ხაზგასმულია მდიდრული გრძელი ფოჩებით, რაც იმიჯს პოდიუმის დინამიკას ანიჭებს. თავისუფალი Oversize კროი და შესაკრავების არარსებობა ამ ნაკეთობას „ჩუმი ფუფუნების“ ესთეტიკის იდეალურ განსხეულებად აქცევს.",
+    "hy": "Արիստոկրատ հարմարավետություն ժամանակակից մեկնաբանությամբ. Maurilia կարդիգան՝ Merinfleur բացառիկ հավաքածուից։ Մոդելը վարպետորեն պատրաստված է «խոշոր կողավոր» ծավալային հյուսվածքի տեխնիկայով՝ կուսական բրդի և բարձր տեխնոլոգիական մանրաթելերի ազնիվ համադրությունից, ինչը երաշխավորում է ուրվագծի քանդակային տեսքն ու ձևի անթերի պահպանումը։ Գլխավոր կուտյուրային շեշտադրումը շալի օձիքն է՝ ընդգծված շքեղ երկար ծոպերով, որոնք կերպարին հաղորդում են պոդիումային դինամիկա։ Oversize ազատ ձևվածքը և առանց ամրակների լինելը այս իրը դարձնում են «լուռ շքեղության» էսթետիկայի իդեալական մարմնացում։",
+    "lv": "Aristokrātisks mājīgums mūsdienīgā interpretācijā: Maurilia kardigans no ekskluzīvās Merinfleur līnijas. Modelis meistarīgi izgatavots apjomīga adījuma tehnikā «liela rieva» no cēla jaunvilnas un augsto tehnoloģiju šķiedru sajaukuma, kas garantē silueta skulpturalitāti un nevainojamu formas saglabāšanu. Galvenais kutīra akcents ir šalles tipa apkakle, kuru izceļ grezna gara bārkstis, kas piešķir tēlam modes skates dinamiku. Brīvs Oversize piegriezums un aizdaru neesamība padara šo izstrādājumu par ideālu «klusās greznības» estētikas iemiesojumu.",
+    "lt": "Aristokratiškas jaukumas šiuolaikiškoje interpretacijoje: Maurilia kardiganas iš išskirtinės Merinfleur linijos. Modelis meistriškai pagamintas „stambių briaunų“ mezgimo technika iš tauraus merino vilnos ir aukštųjų technologijų pluošto derinio, užtikrinančio silueto skulptūriškumą ir nepriekaištingą formos išlaikymą. Pagrindinis „couture“ akcentas – šalikinis apykaklės modelis, pabrėžtas prabangiais ilgais kutais, suteikiančiais įvaizdžiui podiumo dinamikos. Laisvas Oversize kirpimas ir užsegimų nebuvimas daro šį gaminį idealia „tyliosios prabangos“ estetikos išraiška.",
+    "pl": "Arystokratyczna przytulność w nowoczesnym wydaniu: kardigan Maurilia z ekskluzywnej linii Merinfleur. Model wykonano mistrzowsko techniką obszernego splotu w „gruby prążek” ze szlachetnego połączenia dziewiczej wełny i zaawansowanych technologicznie włókien, co gwarantuje rzeźbiarską sylwetkę i nienaganne zachowanie formy. Głównym akcentem typu couture jest szalowy kołnierz podkreślony luksusowymi długimi frędzlami, które nadają stylizacji wybiegową dynamikę. Swobodny krój Oversize i brak zapięć czynią z tego modelu idealne ucieleśnienie estetyki „cichego luksusu”.",
+    "uk": "Аристократичний затишок у сучасному прочитанні: кардиган Maurilia з ексклюзивної лінії Merinfleur. Модель майстерно виконана в техніці об'ємної в'язки «великий рубчик» із благородного поєднання незайманої вовни та високотехнологічних волокон, що гарантує скульптурність силуету та бездоганне збереження форми. Головним кутюрним акцентом виступає шалевий комір, підкреслений розкішною довгою бахромою, яка надає образу подіумної динаміки. Вільний крій Oversize та відсутність застібок роблять цей виріб ідеальним втіленням естетики «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Menta",
+      "code": "0506",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kxBSsZ-hQ8m944H5LFR0cA_8187316696f4375c3a165_51356027_02831140XX1.jpg"
+    },
+    {
+      "name": "Panna",
+      "code": "0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ZCnho2JsTWiRlK5fdRlc9g_738156072696f4367dcf304_04744855_02830680XX1.jpg"
+    },
+    {
+      "name": "Cammello",
+      "code": "2246",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MAURILIA_231000000000%20%283%29.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Aristocratic Cream)",
+        "ar": "Look 1 (Aristocratic Cream)",
+        "ka": "Look 1 (Aristocratic Cream)",
+        "hy": "Look 1 (Aristocratic Cream)",
+        "lv": "Look 1 (Aristocratic Cream)",
+        "lt": "Look 1 (Aristocratic Cream)",
+        "pl": "Look 1 (Aristocratic Cream)",
+        "uk": "Look 1 (Aristocratic Cream)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Аристократичный кремовый): Кардиган Maurilia 0202 в сочетании с пуловером Manos 0204 и брюками Osten 0101, дополненный кепи Medoro 0202.",
+        "en": "Maurilia 0202 cardigan combined with the Manos 0204 pullover and Osten 0101 trousers, complemented by the Medoro 0202 cap.",
+        "ar": "Maurilia 0202 cardigan combined with the Manos 0204 pullover and Osten 0101 trousers, complemented by the Medoro 0202 cap.",
+        "ka": "Maurilia 0202 cardigan combined with the Manos 0204 pullover and Osten 0101 trousers, complemented by the Medoro 0202 cap.",
+        "hy": "Maurilia 0202 cardigan combined with the Manos 0204 pullover and Osten 0101 trousers, complemented by the Medoro 0202 cap.",
+        "lv": "Maurilia 0202 cardigan combined with the Manos 0204 pullover and Osten 0101 trousers, complemented by the Medoro 0202 cap.",
+        "lt": "Maurilia 0202 cardigan combined with the Manos 0204 pullover and Osten 0101 trousers, complemented by the Medoro 0202 cap.",
+        "pl": "Maurilia 0202 cardigan combined with the Manos 0204 pullover and Osten 0101 trousers, complemented by the Medoro 0202 cap.",
+        "uk": "Maurilia 0202 cardigan combined with the Manos 0204 pullover and Osten 0101 trousers, complemented by the Medoro 0202 cap."
+      },
+      "items": [
+        {
+          "name": "Maurilia",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ZCnho2JsTWiRlK5fdRlc9g_738156072696f4367dcf304_04744855_02830680XX1.jpg"
+        },
+        {
+          "name": "Manos",
+          "code": "0204",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1706098854691f156c37f925_68045055_02780700XX1.jpg"
+        },
+        {
+          "name": "Osten",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENC_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Medoro",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/4c68fa23-0057-4165-bef8-bb36d9bed14a-removebg-preview.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Urban Chic in Camel Tones)",
+        "ar": "Look 2 (Urban Chic in Camel Tones)",
+        "ka": "Look 2 (Urban Chic in Camel Tones)",
+        "hy": "Look 2 (Urban Chic in Camel Tones)",
+        "lv": "Look 2 (Urban Chic in Camel Tones)",
+        "lt": "Look 2 (Urban Chic in Camel Tones)",
+        "pl": "Look 2 (Urban Chic in Camel Tones)",
+        "uk": "Look 2 (Urban Chic in Camel Tones)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Городской шик в тонах кэмл): Элегантный ансамбль из кардигана Maurilia 2246, дополненного водолазкой Manos 2246 и брюками Olap 0214.",
+        "en": "An elegant ensemble featuring the Maurilia 2246 cardigan, complemented by the Manos 2246 turtleneck and Olap 0214 trousers.",
+        "ar": "An elegant ensemble featuring the Maurilia 2246 cardigan, complemented by the Manos 2246 turtleneck and Olap 0214 trousers.",
+        "ka": "An elegant ensemble featuring the Maurilia 2246 cardigan, complemented by the Manos 2246 turtleneck and Olap 0214 trousers.",
+        "hy": "An elegant ensemble featuring the Maurilia 2246 cardigan, complemented by the Manos 2246 turtleneck and Olap 0214 trousers.",
+        "lv": "An elegant ensemble featuring the Maurilia 2246 cardigan, complemented by the Manos 2246 turtleneck and Olap 0214 trousers.",
+        "lt": "An elegant ensemble featuring the Maurilia 2246 cardigan, complemented by the Manos 2246 turtleneck and Olap 0214 trousers.",
+        "pl": "An elegant ensemble featuring the Maurilia 2246 cardigan, complemented by the Manos 2246 turtleneck and Olap 0214 trousers.",
+        "uk": "An elegant ensemble featuring the Maurilia 2246 cardigan, complemented by the Manos 2246 turtleneck and Olap 0214 trousers."
+      },
+      "items": [
+        {
+          "name": "Maurilia",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MAURILIA_231000000000%20%283%29.jpg"
+        },
+        {
+          "name": "Manos",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/62874749691c57928c68a3_59975180_02790240XX1.jpg"
+        },
+        {
+          "name": "Olap",
+          "code": "0214",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YfLJIN9OTCCGsGAaoXfqug_610004726696f4308184709_09444034_02821440XX1.jpg",
+          "modelId": 243
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 3 (Tonal Luxury in Menta Color)",
+        "ar": "Look 3 (Tonal Luxury in Menta Color)",
+        "ka": "Look 3 (Tonal Luxury in Menta Color)",
+        "hy": "Look 3 (Tonal Luxury in Menta Color)",
+        "lv": "Look 3 (Tonal Luxury in Menta Color)",
+        "lt": "Look 3 (Tonal Luxury in Menta Color)",
+        "pl": "Look 3 (Tonal Luxury in Menta Color)",
+        "uk": "Look 3 (Tonal Luxury in Menta Color)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 3 (Тональная роскошь в цвете Menta): Тандем кардигана Maurilia 0506 и водолазки Manografo 0506 в сочетании с брюками Opaglio 0927 и сумкой Iago 2240 0002.",
+        "en": "A tandem of the Maurilia 0506 cardigan and Manografo 0506 turtleneck combined with Opaglio 0927 trousers and Iago 2240 0002 bag.",
+        "ar": "A tandem of the Maurilia 0506 cardigan and Manografo 0506 turtleneck combined with Opaglio 0927 trousers and Iago 2240 0002 bag.",
+        "ka": "A tandem of the Maurilia 0506 cardigan and Manografo 0506 turtleneck combined with Opaglio 0927 trousers and Iago 2240 0002 bag.",
+        "hy": "A tandem of the Maurilia 0506 cardigan and Manografo 0506 turtleneck combined with Opaglio 0927 trousers and Iago 2240 0002 bag.",
+        "lv": "A tandem of the Maurilia 0506 cardigan and Manografo 0506 turtleneck combined with Opaglio 0927 trousers and Iago 2240 0002 bag.",
+        "lt": "A tandem of the Maurilia 0506 cardigan and Manografo 0506 turtleneck combined with Opaglio 0927 trousers and Iago 2240 0002 bag.",
+        "pl": "A tandem of the Maurilia 0506 cardigan and Manografo 0506 turtleneck combined with Opaglio 0927 trousers and Iago 2240 0002 bag.",
+        "uk": "A tandem of the Maurilia 0506 cardigan and Manografo 0506 turtleneck combined with Opaglio 0927 trousers and Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Maurilia",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kxBSsZ-hQ8m944H5LFR0cA_8187316696f4375c3a165_51356027_02831140XX1.jpg"
+        },
+        {
+          "name": "Manografo",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSF_50600000000.jpg",
+          "modelId": 146
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the exceptional quality of the Merinfleur line's virgin wool (Lana Vergine): it delivers the outstanding softness and comfort characteristic of the finest knitwear.",
+      "Showcase the heraldic LS buttons — this runway-inspired signature of Luisa Spagnoli elevates the status of the piece and removes the need for additional jewellery.",
+      "Recommend Meduna as the ideal choice for layered dressing: the dense 'punto stretto' knit allows the dress to sit flawlessly beneath our fitted coats and jackets without adding bulk."
+    ],
+    "ru": [
+      "Сделайте акцент на уникальности материала: высокое содержание девственной шерсти (70%) гарантирует исключительную мягкость и комфортную терморегуляцию.",
+      "Продемонстрируйте бахрому как элемент высокой моды: это готовое стилистическое решение, которое превращает трикотажное изделие в центральный архитектурный акцент образа.",
+      "Рекомендуйте Maurilia как идеальную инвестицию в многослойный гардероб: благодаря свободному крою кардиган великолепно ложится поверх наших знаковых платьев и блуз, не ограничивая движений."
+    ],
+    "ar": [
+      "ضعي تركيزاً على تفرد المادة: فالمحتوى العالي من الصوف البكر (70%) يضمن نعومة فائقة وتنظيماً حرارياً مريحاً.",
+      "استعرضي الشراشيب كعنصر من عناصر الأزياء الراقية، فهي حل تنسيقي جاهز يحول قطعة التريكو إلى لمسة معمارية مركزية في الإطلالة.",
+      "رشيحي Maurilia كاستثمار مثالي لخزانة الملابس متعددة الطبقات، فبفضل قصتها الفضفاضة، ينسدل الكارديغان بشكل رائع فوق فساتيننا وقمصاننا الأيقونية دون تقييد الحركة."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება მასალის უნიკალურობაზე: ქალწული მატყლის მაღალი შემცველობა (70%) უზრუნველყოფს განსაკუთრებულ სირბილეს და კომფორტულ თერმორეგულაციას.",
+      "წარმოაჩინეთ ფოჩები როგორც მაღალი მოდის ელემენტი: ეს არის მზა სტილისტური გადაწყვეტა, რომელიც ნაქსოვ ნაკეთობას გარდაქმნის ლუქის ცენტრალურ არქიტექტურულ აქცენტად.",
+      "რეკომენდაცია გაუწიეთ Maurilia-ს, როგორც იდეალურ ინვესტიციას მრავალშრიან გარდერობში: თავისუფალი კროის წყალობით, კარდიგანი შესანიშნავად ერგება ჩვენს საკულტო კაბებსა და ბლუზებს, მოძრაობის შეზღუდვის გარეშე."
+    ],
+    "hy": [
+      "Շեշտը դրեք նյութի եզակիության վրա. անդրանիկ բրդի բարձր պարունակությունը (70%) երաշխավորում է բացառիկ փափկություն և հարմարավետ ջերմակարգավորում։",
+      "Ցուցադրեք ծոպերը որպես բարձր նորաձևության տարր. սա պատրաստի ոճային լուծում է, որը տրիկոտաժե իրը վերածում է կերպարի գլխավոր ճարտարապետական շեշտադրման։",
+      "Maurilia-ն առաջարկեք որպես իդեալական ներդրում բազմաշերտ զգեստապահարանում. ազատ ձևվածքի շնորհիվ այս կարդիգանը հիանալի նստում է մեր նշանավոր զգեստների և բլուզների վրա՝ չսահմանափակելով շարժումները։"
+    ],
+    "lv": [
+      "Vērsiet uzmanību uz materiāla unikalitāti: augstais jaunvilnas saturs (70%) garantē izcilu maigumu un komfortablu termoregulāciju.",
+      "Demonstrējiet bārkstis kā augstās modes elementu: tas ir gatavs stilistisks risinājums, kas pārvērš trikotāžas izstrādājumu par tēla centrālo arhitektonisko akcentu.",
+      "Iesakiet Maurilia kā ideālu investīciju daudzslāņu garderobē: pateicoties brīvajam piegriezumam, kardigans lieliski klājas pāri mūsu ikoniskajām kleitām un blūzēm, neierobežojot kustības."
+    ],
+    "lt": [
+      "Сделайте акцент на уникальности материала: высокое содержание девственной шерсти (70%) гарантирует исключительную мягкость и комфортную терморегуляцию.",
+      "Продемонстрируйте бахрому как элемент высокой моды: это готовое стилистическое решение, которое превращает трикотажное изделие в центральный архитектурный акцент образа.",
+      "Рекомендуйте Maurilia как идеальную инвестицию в многослойный гардероб: благодаря свободному крою кардиган великолепно ложится поверх наших знаковых платьев и блуз, не ограничивая движений."
+    ],
+    "pl": [
+      "Połóż akcent na unikalność materiału: wysoka zawartość dziewiczej wełny (70%) gwarantuje wyjątkową miękkość i komfortową termoregulację.",
+      "Zaprezentuj frędzle jako element haute couture: to gotowe rozwiązanie stylistyczne, które zamienia dzianinowy produkt w centralny, architektoniczny akcent stylizacji.",
+      "Rekomenduj Maurilia jako idealną inwestycję w warstwową garderobę: dzięki luźnemu krojowi kardigan wspaniale układa się na naszych ikonicznych sukienkach i bluzkach, nie ograniczając ruchów."
+    ],
+    "uk": [
+      "Зробіть акцент на унікальності матеріалу: високий вміст вовни (70%) гарантує виняткову м'якість та комфортну терморегуляцію.",
+      "Продемонструйте бахрому як елемент високої моди: це готове стилістичне рішення, яке перетворює трикотажний виріб на центральний архітектурний акцент образу.",
+      "Рекомендуйте Maurilia як ідеальну інвестицію в багатошаровий гардероб: завдяки вільному крою кардиган чудово лягає поверх наших знакових суконь та блуз, не обмежуючи рухів."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Fringe may look too informal for a business context.",
+        "a": "On Luisa Spagnoli pieces, the fringe is crafted from a noble yarn matched to the garment, transforming it from a boho-style detail into a couture element, entirely fitting for a statement daytime wardrobe."
+      },
+      {
+        "q": "An oversize cut may visually add volume to the figure.",
+        "a": "The vertical texture of the ribbed knit and the elongated lines of the shawl collar create a strong vertical line that, on the contrary, visually elongates the silhouette and lends the posture an aristocratic bearing."
+      },
+      {
+        "q": "The absence of fastenings makes the piece less practical in cold weather.",
+        "a": "This design highlights an effortless elegance. We recommend completing the cardigan with one of our leather belts from the collection to define the waist and achieve a closer fit."
+      },
+      {
+        "q": "The composition includes acrylic (30%).",
+        "a": "The addition of a high-technology fibre is essential to achieving the dense, textured-knit technique. This guarantees the piece retains its sculpted volume and resists deformation over time."
+      },
+      {
+        "q": "Wool may cause tingling in contact with the skin.",
+        "a": "The Merinfleur line uses only the most delicate, highly refined virgin wool, prized for being hypoallergenic and silky to the touch."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Бахрома может выглядеть слишком неформально для делового контекста.",
+        "a": "В моделях Luisa Spagnoli бахрома выполнена из благородной пряжи в тон изделия, что превращает её из детали бохо-стиля в кутюрный элемент, вполне уместный в статусном дневном гардеробе."
+      },
+      {
+        "q": "Крой Oversize может визуально добавлять объем фигуре.",
+        "a": "Вертикальная фактура вязки «в рубчик» и удлиненные линии шалевого воротника создают мощную вертикаль, которая, напротив, визуально вытягивает силуэт и придает осанке аристократизм."
+      },
+      {
+        "q": "Отсутствие застежек делает модель менее практичной в холодную погоду.",
+        "a": "Этот дизайн подчеркивает непринужденную элегантность. Мы рекомендуем дополнить кардиган нашими кожаными ремнями коллекции, чтобы подчеркнуть талию и обеспечить более плотное прилегание."
+      },
+      {
+        "q": "В составе присутствует акрил (30%).",
+        "a": "Добавление высокотехнологичного волокна необходимо для реализации техники плотной фактурной вязки. Это гарантирует, что изделие сохранит свой скульптурный объем и не деформируется со временем."
+      },
+      {
+        "q": "Шерсть может вызывать покалывание при контакте с кожей.",
+        "a": "Для линии Merinfleur используется только самая нежная девственная шерсть высочайшей очистки, которая отличается гипоаллергенностью и шелковистой текстурой."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تبدو الشراشيب غير رسمية للسياق المهني.",
+        "a": "في موديلات Luisa Spagnoli، صُنعت الشراشيب من خيوط فاخرة بنفس لون القطعة، مما يحولها من تفصيلة بوهيمية إلى عنصر كوتور يليق بخزانة الملابس النهارية المرموقة."
+      },
+      {
+        "q": "قد يضيف قص الـ Oversize حجماً إضافياً بصرياً للشكل.",
+        "a": "تعمل تقنية الحياكة الرأسية «المضلعة» والخطوط الطويلة للياقة الشال على خلق عمود رأسي قوي، يعمل بدوره على إطالة القامة بصرياً وإضفاء طابع أرستقراطي على القوام."
+      },
+      {
+        "q": "غياب الأزرار يجعل الموديل أقل عملية في الطقس البارد.",
+        "a": "يؤكد هذا التصميم على الأناقة العفوية. نوصي بتكملة الكارديجان بأحزمةنا الجلدية من المجموعة لإبراز الخصر وضمان ملمس أكثر التصاقاً بالجسم."
+      },
+      {
+        "q": "يحتوي التركيب على أكريليك (30%).",
+        "a": "إضافة ألياف عالية التقنية ضرورية لتنفيذ تقنية الحياكة الكثيفة ذات القوام البارز. وهذا يضمن احتفاظ القطعة بحجمها النحتي وعدم تشوهها مع مرور الوقت."
+      },
+      {
+        "q": "قد يسبب الصوف وخزاً عند ملامسة الجلد.",
+        "a": "نستخدم في خط Merinfleur أجود أنواع الصوف البكر عالي النقاء فقط، والذي يتميز بكونه مضاداً للحساسية ويمتلك ملمساً حريرياً."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ფოჩები შესაძლოა ზედმეტად არაფორმალურად გამოიყურებოდეს საქმიანი კონტექსტისთვის.",
+        "a": "Luisa Spagnoli-ის მოდელებში ფოჩები დამზადებულია კეთილშობილი ძაფისგან, ნაკეთობის ტონალობაში, რაც მას ბოჰოს სტილის დეტალიდან კუტიურის ელემენტად აქცევს, რომელიც სავსებით შესაფერისია სტატუსური დღის გარდერობისთვის."
+      },
+      {
+        "q": "Oversize ჭრამ შესაძლოა ვიზუალურად დაუმატოს მოცულობა ფიგურას.",
+        "a": "ვერტიკალური „ნეკნებიანი“ ქსოვის ფაქტურა და შალისებრი საყელოს წაგრძელებული ხაზები ქმნიან მძლავრ ვერტიკალს, რომელიც, პირიქით, ვიზუალურად აგრძელებს სილუეტს და არისტოკრატულ იერს აძლევს დგომას."
+      },
+      {
+        "q": "შესაკრავების არარსებობა მოდელს ნაკლებად პრაქტიკულს ხდის ცივ ამინდში.",
+        "a": "ეს დიზაინი ხაზს უსვამს იოლ ელეგანტურობას. ჩვენ გირჩევთ კარდიგანს შეუხამოთ ჩვენი კოლექციის ტყავის ქამრები, რათა ხაზი გაუსვათ წელს და უზრუნველყოთ უფრო მჭიდრო მორგება."
+      },
+      {
+        "q": "შემადგენლობაში არის აკრილი (30%).",
+        "a": "მაღალტექნოლოგიური ბოჭკოს დამატება აუცილებელია მჭიდრო ფაქტურული ქსოვის ტექნიკის განსახორციელებლად. ეს გარანტიას იძლევა, რომ ნაკეთობა შეინარჩუნებს თავის სკულპტურულ მოცულობას და დროთა განმავლობაში არ დეფორმირდება."
+      },
+      {
+        "q": "შალმა შესაძლოა გამოიწვიოს ჩხვლეტის შეგრძნება კანთან შეხებისას.",
+        "a": "Merinfleur-ის ხაზისთვის გამოიყენება მხოლოდ ყველაზე ნაზი, უმაღლესი ხარისხის პირველადი შალი, რომელიც გამოირჩევა ჰიპოალერგიულობითა და აბრეშუმისებრი ტექსტურით."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ծոպերը կարող են չափազանց ոչ ֆորմալ տեսք ունենալ գործնական համատեքստի համար։",
+        "a": "Luisa Spagnoli-ի մոդելներում ծոպերը պատրաստված են արտադրանքի երանգին համահունչ ազնիվ թելերից, ինչը դրանք բոհո-ոճի դետալից վերածում է կուտյուրային տարրի, որը միանգամայն տեղին է կարգավիճակային ցերեկային զգեստապահարանում։"
+      },
+      {
+        "q": "Oversize կտրվածքը կարող է տեսողականորեն ծավալ ավելացնել կազմվածքին։",
+        "a": "Կողքերի» հյուսվածքի ուղղահայաց գծերը և շալակերպ օձիքի երկարաձգված գծերը ստեղծում են հզոր ուղղահայաց, որը, ընդհակառակը, տեսողականորեն երկարացնում է սիլուետը և կեցվածքին հաղորդում արիստոկրատիզմ։"
+      },
+      {
+        "q": "Ճարմանդների բացակայությունը մոդելը դարձնում է ավելի քիչ գործնական ցուրտ եղանակին։",
+        "a": "Այս դիզայնն ընդգծում է անկաշկանդ էլեգանտությունը։ Մենք խորհուրդ ենք տալիս կարդիգանը լրացնել մեր հավաքածուի կաշվե գոտիներով՝ գոտկատեղն ընդգծելու և ավելի սերտ հպում ապահովելու համար։"
+      },
+      {
+        "q": "Կազմի մեջ առկա է ակրիլ (30%)։",
+        "a": "Բարձրտեխնոլոգիական մանրաթելերի ավելացումն անհրաժեշտ է խիտ ֆակտուրային հյուսման տեխնիկան իրականացնելու համար։ Սա երաշխավորում է, որ արտադրանքը կպահպանի իր քանդակային ծավալը և ժամանակի ընթացքում չի դեֆորմացվի։"
+      },
+      {
+        "q": "Բուրդը կարող է մաշկի հետ շփման ժամանակ ծակծկոց առաջացնել։",
+        "a": "Merinfleur գծի համար օգտագործվում է միայն ամենանուրբ կուսական բուրդ՝ ամենաբարձր մաքրությամբ, որն առանձնանում է հիպոալերգենությամբ և մետաքսանման հյուսվածքով։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Bārkstis var izskatīties pārāk neformāli lietišķajam kontekstam.",
+        "a": "Luisa Spagnoli modeļos bārkstis ir izgatavotas no cēlas dzijas izstrādājuma tonī, kas tās pārvērš no boho stila detaļas par kutūras elementu, kas ir pilnībā piemērots statusam atbilstošai dienas garderobei."
+      },
+      {
+        "q": "Oversize piegriezums var vizuāli palielināt figūras apjomu.",
+        "a": "Vertikālā"
+      }
+    ],
+    "lt": [
+      {
+        "q": "Kutas gali atrodyti per daug neformaliai verslo aplinkai.",
+        "a": "Luisa Spagnoli modeliuose kutai sukurti iš taurios gijos, derančios prie gaminio spalvos, o tai paverčia juos iš boho stiliaus detalės į aukštosios mados elementą, visiškai tinkantį reprezentatyviam dieniniam garderobui."
+      },
+      {
+        "q": "Oversize kirpimas gali vizualiai pridėti figūrai apimties.",
+        "a": "Vertikali „rantyto“ mezgimo faktūra ir pailgos šalinio apykaklės linijos sukuria galingą vertikalę, kuri, priešingai, vizualiai ištęsia siluetą ir suteikia laikysenai aristokratiškumo."
+      },
+      {
+        "q": "Užsegimų nebuvimas daro modelį mažiau praktišką šaltuoju metų laiku.",
+        "a": "Šis dizainas pabrėžia neįpareigojantį elegantiškumą. Rekomenduojame papildyti kardiganą mūsų kolekcijos odiniais diržais, kad pabrėžtumėte liemenį ir užtikrintumėte glaudesnį prigludimą."
+      },
+      {
+        "q": "Sudėtyje yra akrilo (30%).",
+        "a": "Aukštųjų technologijų pluošto pridėjimas būtinas norint įgyvendinti tankaus faktūrinio mezgimo techniką. Tai garantuoja, kad gaminys išlaikys savo skulptūrišką apimtį ir laikui bėgant nebus deformuotas."
+      },
+      {
+        "q": "Vilna gali kelti kutenimą kontaktuojant su oda.",
+        "a": "Merinfleur linijai naudojama tik pati švelniausia aukščiausio grynumo pirminė vilna, kuri pasižymi hipoalerginėmis savybėmis ir šilkine tekstūra."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Frędzle mogą wyglądać zbyt nieformalnie w kontekście biznesowym.",
+        "a": "W modelach Luisa Spagnoli frędzle wykonane są ze szlachetnej przędzy w tonacji wyrobu, co zmienia je z detalu stylu boho w element couture, w pełni odpowiedni do prestiżowej garderoby dziennej."
+      },
+      {
+        "q": "Krój Oversize może wizualnie dodawać objętości sylwetce.",
+        "a": "Pionowa faktura splotu „w prążek” oraz wydłużone linie kołnierza szalowego tworzą mocną pionową linię, która wręcz przeciwnie, wizualnie wysmukla sylwetkę i nadaje postawie arystokratycznego charakteru."
+      },
+      {
+        "q": "Brak zapięć czyni model mniej praktycznym w chłodną pogodę.",
+        "a": "Ten design podkreśla niezobowiązującą elegancję. Zalecamy uzupełnienie kardiganu naszymi skórzanymi paskami z kolekcji, aby podkreślić talię i zapewnić dokładniejsze dopasowanie."
+      },
+      {
+        "q": "W składzie obecny jest akryl (30%).",
+        "a": "Dodatek zaawansowanego technologicznie włókna jest niezbędny do realizacji techniki gęstego fakturowanego splotu. Gwarantuje to, że wyrób zachowa swoją rzeźbiarską objętość i nie odkształci się z biegiem czasu."
+      },
+      {
+        "q": "Wełna może powodować kłucie przy kontakcie ze skórą.",
+        "a": "Dla linii Merinfleur używana jest wyłącznie najdelikatniejsza dziewicza wełna najwyższego oczyszczenia, która wyróżnia się hipoalergicznością i jedwabistą teksturą."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Бахрома може виглядати надто неформально для ділового контексту.",
+        "a": "У моделях Luisa Spagnoli бахрома виконана з благородної пряжі в тон виробу, що перетворює її з деталі бохо-стилю на кутюрний елемент, цілком доречний у статусному денному гардеробі."
+      },
+      {
+        "q": "Крій Oversize може візуально додавати об'єму фігурі.",
+        "a": "Вертикальна фактура в'язки «у рубчик» та подовжені лінії шалевого коміра створюють потужну вертикаль, яка, навпаки, візуально витягує силует і надає поставі аристократизму."
+      },
+      {
+        "q": "У складі присутній акрил (30%).",
+        "a": "Додавання високотехнологічного волокна необхідне для реалізації техніки щільної фактурної в'язки. Це гарантує, що виріб збереже свій скульптурний об'єм і не деформується з часом."
+      },
+      {
+        "q": "Вовна може викликати поколювання при контакті зі шкірою.",
+        "a": "Для лінії Merinfleur використовується лише найніжніша дівоча вовна найвищої очистки, яка вирізняється гіпоалергенністю та шовковистою текстурою."
+      }
+    ]
+  }
+}

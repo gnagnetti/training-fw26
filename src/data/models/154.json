@@ -1,0 +1,377 @@
+{
+  "id": 154,
+  "name": "Marsan",
+  "description": {
+    "en": "The Marsan midi skirt is the embodiment of contemporary dynamism and refined Italian style. The straight-silhouette model is masterfully crafted from a high-quality virgin wool blend using the exclusive \"punto stoffa\" dense knit technique, guaranteeing impeccable shape retention and a sculptural fit. The principal decorative element is the luxurious long fringe along the hem, which lends every movement a soaring lightness and aristocratic charm, transforming this piece into a focal point of both day and evening ensembles.",
+    "ru": "Юбка-миди Marsan — это воплощение современной динамики и утонченного итальянского стиля. Модель прямого силуэта мастерски выполнена из высококачественной смесовой девственной шерсти в эксклюзивной технике плотной вязки «punto stoffa», которая гарантирует безупречное сохранение формы и скульптурную посадку. Главным декоративным элементом выступает роскошная длинная бахрома по нижнему краю, которая придает каждому движению летящую легкость и аристократичный шарм, превращая это изделие в центральный акцент как дневного, так и вечернего ансамбля.",
+    "ar": "تنورة ميدي Marsan هي تجسيد للديناميكية العصرية والأسلوب الإيطالي الراقي. صُممت القطعة ذات القصة المستقيمة ببراعة من صوف بكر مخلوط عالي الجودة باستخدام تقنية الحياكة الكثيفة الحصرية «punto stoffa»، والتي تضمن الحفاظ على الشكل المثالي والمقاس المنحوت. يبرز العنصر الزخرفي الرئيسي في الشرابات الطويلة الفاخرة على الحافة السفلية، والتي تضفي على كل حركة خفة انسيابية وسحراً أرستقراطياً، مما يجعل هذه القطعة عنصراً مركزياً في الأطقم النهارية والمسائية.",
+    "ka": "მიდი-ქვედაკაბა Marsan — ეს არის თანამედროვე დინამიკისა და დახვეწილი იტალიური სტილის განსხეულება. სწორი სილუეტის მოდელი ოსტატურადაა შესრულებული მაღალი ხარისხის შერეული ქალწულის მატყლისგან, მკვრივი ქსოვის ექსკლუზიურ ტექნიკაში «punto stoffa», რომელიც გარანტიას იძლევა ფორმის უნაკლო შენარჩუნებისა და სკულპტურული მორგების. მთავარ დეკორატიულ ელემენტად გამოდის ქვედა კიდეზე არსებული მდიდრული გრძელი ფოჩები, რომლებიც ყოველ მოძრაობას ანიჭებს ფარფატა სიმსუბუქესა და არისტოკრატულ შარმს, რაც ამ ნაკეთობას აქცევს დღის და საღამოს ანსამბლების ცენტრალურ აქცენტად.",
+    "hy": "Marsan միդի-կիսաշրջազգեստը ժամանակակից դինամիկայի և նրբաճաշակ իտալական ոճի մարմնացումն է: Ուղիղ սիլուետով մոդելը վարպետորեն պատրաստված է բարձրորակ խառը անարատ բրդից՝ «punto stoffa» հաստ հյուսվածքի բացառիկ տեխնիկայով, որը երաշխավորում է ձևի անթերի պահպանում և քանդակային նստվածք: Գլխավոր դեկորատիվ տարրը ներքևի եզրի շքեղ երկար ծոպերն են, որոնք յուրաքանչյուր շարժմանը հաղորդում են թռչող թեթևություն և արիստոկրատական հմայք՝ այս իրը վերածելով ինչպես ցերեկային, այնպես էլ երեկոյան անսամբլի կենտրոնական շեշտադրման:",
+    "lv": "Marsan midi svārki — tas ir mūsdienīgas dinamikas un izsmalcināta itāļu stila iemiesojums. Taisna silueta modelis ir meistarīgi izgatavots no augstas kvalitātes jaukta tipa jaunvilnas ekskluzīvā blīvā adījuma tehnikā «punto stoffa», kas garantē nevainojamu formas saglabāšanu un skulpturālu piegulumu. Galvenais dekoratīvais elements ir greznās garās bārkstis apakšējā malā, kas katrai kustībai piešķir lidojošu vieglumu un aristokrātisku šarmu, padarot šo izstrādājumu par centrālo akcentu gan dienas, gan vakara ansamblī.",
+    "lt": "Marsan midi sijonas – tai šiuolaikinės dinamikos ir subtilaus itališko stiliaus įsikūnijimas. Tiesaus silueto modelis meistriškai pagamintas iš aukštos kokybės mišrios pirminės vilnos naudojant išskirtinę tankaus mezgimo techniką „punto stoffa“, kuri garantuoja nepriekaištingą formos išlaikymą ir skulptūrišką prigludimą. Pagrindiniu dekoratyviniu elementu tampa prabangūs ilgi kutai apatiniame krašte, kurie suteikia kiekvienam judesiui sklandaus lengvumo ir aristokratiško žavesio, paverčiant šį gaminį centriniu akcentu tiek dieniniame, tiek vakariniame ansamblyje.",
+    "pl": "Spódnica midi Marsan to ucieleśnienie nowoczesnej dynamiki i wyrafinowanego włoskiego stylu. Model o prostym kroju wykonany po mistrzowsku z wysokiej jakości mieszanki wełny dziewiczej w ekskluzywnej technice ścisłego splotu „punto stoffa”, który gwarantuje nienaganne zachowanie formy i rzeźbiarskie dopasowanie. Głównym elementem dekoracyjnym jest luksusowe, długie frędzlowanie przy dolnej krawędzi, które nadaje każdemu ruchowi eteryczną lekkość i arystokratyczny urok, zmieniając ten produkt w centralny akcent zarówno dziennego, jak i wieczorowego zestawu.",
+    "uk": "Спідниця-міді Marsan — це втілення сучасної динаміки та витонченого італійського стилю. Модель прямого силуету майстерно виконана з високоякісної сумішевої вовни virgin wool в ексклюзивній техніці щільної в'язки «punto stoffa», яка гарантує бездоганне збереження форми та скульптурну посадку. Головним декоративним елементом виступає розкішна довга бахрома по нижньому краю, яка надає кожному руху летючу легкість і аристократичний шарм, перетворюючи цей виріб на центральний акцент як денного, так і вечірнього ансамблю."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/T00vK7FtTzWuia1sFH06HQ_831410860696f43663e72c8_80944200_02830620XX1.jpg"
+    },
+    {
+      "name": "Panna",
+      "code": "0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/hx3WK9DDSqCfJ-7vSg3gxA_2065746112696f4366a2fa89_92262596_02830630XX1.jpg"
+    },
+    {
+      "name": "Cammello",
+      "code": "2246",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%2845%29.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Total Black & Print)",
+        "ar": "Look 1 (Total Black & Print)",
+        "ka": "Look 1 (Total Black & Print)",
+        "hy": "Look 1 (Total Black & Print)",
+        "lv": "Look 1 (Total Black & Print)",
+        "lt": "Look 1 (Total Black & Print)",
+        "pl": "Look 1 (Total Black & Print)",
+        "uk": "Look 1 (Total Black & Print)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Total Black & Print): Подиумный ансамбль, объединяющий юбку Marsan 0101 с эффектной накидкой Mira 0101, водолазкой Matri 0101 и блузой Limana 3411. Завершает выход статусная сумка Iago 2240 0002.",
+        "en": "A runway ensemble combining the Marsan 0101 skirt with the striking Mira 0101 cape, Matri 0101 turtleneck and Limana 3411 blouse. The look is finished with a statement Iago 2240 0002 bag.",
+        "ar": "A runway ensemble combining the Marsan 0101 skirt with the striking Mira 0101 cape, Matri 0101 turtleneck and Limana 3411 blouse. The look is finished with a statement Iago 2240 0002 bag.",
+        "ka": "A runway ensemble combining the Marsan 0101 skirt with the striking Mira 0101 cape, Matri 0101 turtleneck and Limana 3411 blouse. The look is finished with a statement Iago 2240 0002 bag.",
+        "hy": "A runway ensemble combining the Marsan 0101 skirt with the striking Mira 0101 cape, Matri 0101 turtleneck and Limana 3411 blouse. The look is finished with a statement Iago 2240 0002 bag.",
+        "lv": "A runway ensemble combining the Marsan 0101 skirt with the striking Mira 0101 cape, Matri 0101 turtleneck and Limana 3411 blouse. The look is finished with a statement Iago 2240 0002 bag.",
+        "lt": "A runway ensemble combining the Marsan 0101 skirt with the striking Mira 0101 cape, Matri 0101 turtleneck and Limana 3411 blouse. The look is finished with a statement Iago 2240 0002 bag.",
+        "pl": "A runway ensemble combining the Marsan 0101 skirt with the striking Mira 0101 cape, Matri 0101 turtleneck and Limana 3411 blouse. The look is finished with a statement Iago 2240 0002 bag.",
+        "uk": "A runway ensemble combining the Marsan 0101 skirt with the striking Mira 0101 cape, Matri 0101 turtleneck and Limana 3411 blouse. The look is finished with a statement Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Marsan",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/T00vK7FtTzWuia1sFH06HQ_831410860696f43663e72c8_80944200_02830620XX1.jpg"
+        },
+        {
+          "name": "Mira",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/beVciW1ZQAO2aet6tz4teg_1384514893696f4377e75048_28824063_02831240XX1.jpg",
+          "modelId": 178
+        },
+        {
+          "name": "Matri",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JtRRfdrFQUCGzR-Doj_RsQ_1104211867696f4367122472_54397497_02830660XX1.jpg",
+          "modelId": 159
+        },
+        {
+          "name": "Limana",
+          "code": "3411",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VaDc7K9EShGWeSN0KH67ww_450519383696f4306706641_82243983_02821390XX1.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Aristocratic Cream)",
+        "ar": "Look 2 (Aristocratic Cream)",
+        "ka": "Look 2 (Aristocratic Cream)",
+        "hy": "Look 2 (Aristocratic Cream)",
+        "lv": "Look 2 (Aristocratic Cream)",
+        "lt": "Look 2 (Aristocratic Cream)",
+        "pl": "Look 2 (Aristocratic Cream)",
+        "uk": "Look 2 (Aristocratic Cream)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Аристократичный кремовый): Элегантный монохромный сет из юбки Marsan 0202, дополненный накидкой Mira 0202 и пуловером Matri 0202.",
+        "en": "An elegant monochromatic set featuring the Marsan 0202 skirt, complemented by the Mira 0202 cape and Matri 0202 pullover.",
+        "ar": "An elegant monochromatic set featuring the Marsan 0202 skirt, complemented by the Mira 0202 cape and Matri 0202 pullover.",
+        "ka": "An elegant monochromatic set featuring the Marsan 0202 skirt, complemented by the Mira 0202 cape and Matri 0202 pullover.",
+        "hy": "An elegant monochromatic set featuring the Marsan 0202 skirt, complemented by the Mira 0202 cape and Matri 0202 pullover.",
+        "lv": "An elegant monochromatic set featuring the Marsan 0202 skirt, complemented by the Mira 0202 cape and Matri 0202 pullover.",
+        "lt": "An elegant monochromatic set featuring the Marsan 0202 skirt, complemented by the Mira 0202 cape and Matri 0202 pullover.",
+        "pl": "An elegant monochromatic set featuring the Marsan 0202 skirt, complemented by the Mira 0202 cape and Matri 0202 pullover.",
+        "uk": "An elegant monochromatic set featuring the Marsan 0202 skirt, complemented by the Mira 0202 cape and Matri 0202 pullover."
+      },
+      "items": [
+        {
+          "name": "Marsan",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/hx3WK9DDSqCfJ-7vSg3gxA_2065746112696f4366a2fa89_92262596_02830630XX1.jpg"
+        },
+        {
+          "name": "Mira",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A9uRxdXcRpiCkjgx3Y2pSw_1598015888696f43785c9df9_64067927_02831250XX1.jpg",
+          "modelId": 178
+        },
+        {
+          "name": "Matri",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/N2VwqYU7SyiQWu_pOy8eVQ_2103273485696f43677befb5_34138714_02830670XX1.jpg",
+          "modelId": 159
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw attention to the detachable collar: this feature transforms the cardigan from cosy daywear knitwear into a luxurious element for evening dressing, embodying the functionality of true luxury.",
+      "Showcase the exceptional properties of virgin wool: 100% Lana Vergine delivers the outstanding softness and comfort characteristic of Luisa Spagnoli's finest pieces.",
+      "Recommend Marsela as the perfect investment for a modern capsule wardrobe: the cropped length pairs beautifully with contemporary high-waisted trousers and skirts, creating harmonious proportions."
+    ],
+    "ru": [
+      "Сделайте акцент на уникальной технике «punto stoffa»: это плотное трикотажное полотно обладает легким моделирующим эффектом, обеспечивая идеальный силуэт и исключительный комфорт девственной шерсти.",
+      "Рекомендуйте Marsan как ключевой элемент для создания многослойных подиумных образов — бахрома добавляет фактурности и визуального интереса при сочетании с длинными кардиганами или кейпами.",
+      "Подчеркните универсальность длины миди: в сочетании со статусными сапогами Ulisside модель выглядит подчеркнуто элегантно, а с лоферами — создает актуальный образ в стиле «тихой роскоши»."
+    ],
+    "ar": [
+      "ضعي تركيزاً خاصاً على تقنية \"punto stoffa\" الفريدة: يتميز نسيج التريكو الكثيف هذا بتأثير نحت خفيف، مما يضمن قواماً مثالياً وراحة استثنائية يوفرها الصوف البكر.",
+      "رشيحي Marsan كعنصر أساسي لابتكار إطلالات متعددة الطبقات بأسلوب منصات العرض، حيث تضفي الشراشيب قواماً غنياً وجاذبية بصرية عند تنسيقها مع الكارديغان الطويل أو المعاطف القصيرة (الكايب).",
+      "أكدي على تعدد استخدامات الطول المتوسط (ميدي): فمع حذاء Ulisside الفاخر تبدو القطعة في قمة الأناقة، بينما مع حذاء الـ \"لوفر\"، تمنح إطلالة عصرية بأسلوب \"الفخامة الهادئة\" (Quiet Luxury)."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება უნიკალურ ტექნიკაზე «punto stoffa»: ეს მკვრივი ნაქსოვი ქსოვილი ფლობს მსუბუქ მოდელირების ეფექტს, უზრუნველყოფს რა იდეალურ სილუეტსა და ქალწულებრივი მატყლის გამორჩეულ კომფორტს.",
+      "რეკომენდაცია გაუწიეთ Marsan-ს, როგორც მრავალშრიანი პოდიუმის იმიჯების შესაქმნელ საკვანძო ელემენტს — ფოჩები მატებს ფაქტურულობასა და ვიზუალურ ინტერესს გრძელ კარდიგანებთან ან კეიპებთან შეხამებისას.",
+      "ხაზი გაუსვით მიდი სიგრძის მრავალფეროვნებას: სტატუსურ ჩექმა Ulisside-სთან შეხამებაში მოდელი გამოიყურება ხაზგასმით ელეგანტურად, ხოლო ლოფერებთან — ქმნის აქტუალურ იმიჯს «მშვიდი ფუფუნების» სტილში."
+    ],
+    "hy": [
+      "Շեշտը դրեք «punto stoffa» յուրահատուկ տեխնիկայի վրա. այս խիտ տրիկոտաժե գործվածքն ունի թեթև մոդելավորող էֆեկտ՝ ապահովելով կատարյալ ուրվագիծ և անարատ բրդի բացառիկ հարմարավետություն:",
+      "Խորհուրդ տվեք Marsan-ը որպես բազմաշերտ պոդիումային կերպարներ ստեղծելու հիմնական տարր. ծոպերը ավելացնում են ֆակտուրայնություն և տեսողական հետաքրքրություն՝ երկար ժակետների կամ թիկնոցների հետ համադրելիս:",
+      "Ընդգծեք միդի երկարության բազմակողմանիությունը. Ulisside կարգավիճակային երկարաճիտ կոշիկների հետ համադրությամբ մոդելը նրբագեղ է թվում, իսկ լոֆերների հետ՝ ստեղծում է «հանգիստ շքեղության» ոճի արդիական կերպար:"
+    ],
+    "lv": [
+      "Lieciet akcentu uz unikālo «punto stoffa» tehniku: šī blīvā trikotāžas auduma kārta piemīt viegls modelējošs efekts, nodrošinot ideālu siluetu un pirmreizējās vilnas izcilo komfortu.",
+      "Iesakiet Marsan kā galveno elementu daudzslāņainu podiuma tēlu radīšanai — bārkstis piešķir faktūru un vizuālu interesi, kombinējot ar gariem kardiganiem vai apmetņiem.",
+      "Uzsveriet midi garuma universālumu: kombinācijā ar statusa zābakiem Ulisside modelis izskatās izteikti eleganti, bet ar loferiem — rada aktuālu «klusās greznības» stila tēlu."
+    ],
+    "lt": [
+      "Padarykite akcentą į unikalią „punto stoffa“ techniką: šis tankus trikotažo audinys pasižymi lengvu modeliuojamuoju efektu, užtikrindamas idealų siluetą ir išskirtinį avies vilnos komfortą.",
+      "Rekomenduokite Marsan kaip pagrindinį elementą kuriant daugiasluoksnius podiumo stiliaus įvaizdžius — kutai suteikia faktūriškumo ir vizualinio įdomumo derinant su ilgais kardiganais ar pelerinomis.",
+      "Pabrėžkite midi ilgio universalumą: derinant su statusą pabrėžiančiais Ulisside batais modelis atrodo itin elegantiškai, o su loaferiais — sukuria aktualų „tyliosios prabangos“ stiliaus įvaizdį."
+    ],
+    "pl": [
+      "Połóż akcent na unikalną technikę „punto stoffa”: ta gęsta dzianina posiada lekki efekt modelujący, zapewniając idealną sylwetkę oraz wyjątkowy komfort wełny dziewiczej.",
+      "Rekomenduj Marsan jako kluczowy element do tworzenia wielowarstwowych stylizacji niczym z wybiegu — frędzle dodają faktury i wizualnej atrakcyjności przy łączeniu z długimi kardiganami lub pelerynami.",
+      "Podkreśl uniwersalność długości midi: w połączeniu z eleganckimi kozakami Ulisside model prezentuje się wybitnie szykownie, a z mokasynami tworzy aktualny wizerunek w stylu „cichego luksusu”."
+    ],
+    "uk": [
+      "Зробіть акцент на унікальній техніці «punto stoffa»: це щільне трикотажне полотно має легкий моделюючий ефект, забезпечуючи ідеальний силует і винятковий комфорт вовни virgin.",
+      "Рекомендуйте Marsan як ключовий елемент для створення багатошарових подіумних образів — бахрома додає фактурності та візуального інтересу при поєднанні з довгими кардиганами або кейпами.",
+      "Підкресліть універсальність довжини міді: у поєднанні зі статусними чоботами Ulisside модель виглядає підкреслено елегантно, а з лоферами — створює актуальний образ у стилі «тихої розкоші»."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Fringe may look too informal for a business meeting.",
+        "a": "Thanks to its severe black or noble cream colour and dense wool texture, the fringe on the Marsan piece reads as a refined couture element rather than a boho detail, making it entirely appropriate for a contemporary business wardrobe."
+      },
+      {
+        "q": "The composition includes acrylic (30%).",
+        "a": "The addition of high-technology acrylic to virgin wool is essential to achieving the 'punto stoffa' technique. This guarantees the skirt will not stretch out and will retain its structure even with extended wear."
+      },
+      {
+        "q": "Fringe may tangle or lose its appearance after cleaning.",
+        "a": "The fringe on Luisa Spagnoli pieces is crafted from reinforced threads of the same composition as the main fabric. We recommend professional dry cleaning, which preserves the crisp definition of every decorative line."
+      },
+      {
+        "q": "A knit skirt may accentuate figure concerns.",
+        "a": "The distinctive feature of the 'punto stoffa' knit is its density. The fabric is stable enough to gently smooth the silhouette, ensuring confidence and comfort, unlike a thinner knit."
+      },
+      {
+        "q": "A fringed length may visually shorten the frame.",
+        "a": "On the contrary, the vertical direction of the fringe and the skirt's straight cut create an unbroken line that visually elongates the silhouette. To enhance the effect, we recommend pairing the piece with heeled footwear."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Бахрома может выглядеть слишком неформально для деловой встречи.",
+        "a": "Благодаря строгому черному или благородному кремовому цвету и плотной фактуре шерсти, бахрома в модели Marsan выступает как изысканный кутюрный элемент, а не деталь бохо-стиля, что вполне допустимо в современном бизнес-гардеробе."
+      },
+      {
+        "q": "В составе присутствует акрил (30%).",
+        "a": "Добавление высокотехнологичного акрила к девственной шерсти необходимо для реализации техники «punto stoffa». Это гарантирует, что юбка не будет вытягиваться и сохранит свою структуру даже при длительном ношении."
+      },
+      {
+        "q": "Бахрома может запутаться или потерять вид после чистки.",
+        "a": "Бахрома в изделиях Luisa Spagnoli выполнена из укрепленных нитей того же состава, что и основное полотно. Мы рекомендуем профессиональную сухую чистку, которая сохранит первозданную четкость каждой линии декора."
+      },
+      {
+        "q": "Трикотажная юбка может подчеркнуть недостатки фигуры.",
+        "a": "Особенность вязки «punto stoffa» — её плотность. Полотно достаточно стабильно, чтобы мягко сглаживать силуэт, обеспечивая уверенность и комфорт, в отличие от тонкого трикотажа."
+      },
+      {
+        "q": "Длина с бахромой может визуально уменьшить рост.",
+        "a": "Напротив, вертикальная направленность бахромы и прямой крой юбки создают непрерывную линию, которая визуально вытягивает силуэт. Для усиления эффекта рекомендуем сочетать модель с обувью на каблуке."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تبدو الشراشيب غير رسمية جداً لاجتماع عمل.",
+        "a": "بفضل اللون الأسود الصارم أو الكريمي النبيل وكثافة ملمس الصوف، تعمل الشراشيب في طراز Marsan كعنصر أزياء راقٍ (كوتور)، وليس تفصيلة من أسلوب البوهو، وهو أمر مقبول تماماً في خزانة ملابس الأعمال الحديثة."
+      },
+      {
+        "q": "يحتوي التكوين على الأكريليك (30%).",
+        "a": "إضافة الأكريليك عالي التقنية إلى الصوف البكر ضرورية لتنفيذ تقنية «punto stoffa». هذا يضمن عدم تمدد التنورة والحفاظ على هيكلها حتى مع الارتداء لفترات طويلة."
+      },
+      {
+        "q": "قد تتشابك الشراشيب أو تفقد مظهرها بعد التنظيف.",
+        "a": "الشراشيب في منتجات Luisa Spagnoli مصنوعة من خيوط مقواة بنفس تركيبة القماش الأساسي. نوصي بالتنظيف الجاف الاحترافي، الذي سيحافظ على دقة كل خط من تفاصيل الزينة."
+      },
+      {
+        "q": "قد تبرز التنورة التريكو عيوب القامة.",
+        "a": "ميزة حياكة «punto stoffa» هي كثافتها. القماش مستقر بما يكفي لتنعيم القوام بلطف، مما يوفر الثقة والراحة، على عكس التريكو الرقيق."
+      },
+      {
+        "q": "قد يقلل طول التنورة مع الشراشيب من الطول بصرياً.",
+        "a": "على العكس، التوجيه العمودي للشراشيب والقصة المستقيمة للتنورة يخلقان خطاً مستمراً يطيل القوام بصرياً. لتعزيز التأثير، نوصي بتنسيق الطراز مع أحذية بكعب."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ფოჩები შეიძლება გამოიყურებოდეს ზედმეტად არაფორმალურად საქმიანი შეხვედრისთვის.",
+        "a": "მკაცრი შავი ან კეთილშობილური კრემისფერი ფერის და მატყლის მკვრივი ფაქტურის წყალობით, Marsan-ის მოდელში ფოჩები გვევლინება როგორც დახვეწილი კუტიურის ელემენტი და არა ბოჰო-სტილის დეტალი, რაც სრულიად მისაღებია თანამედროვე საქმიან გარდერობში."
+      },
+      {
+        "q": "შემადგენლობაში არის აკრილი (30%).",
+        "a": "ხელუხლებელ მატყლში მაღალტექნოლოგიური აკრილის დამატება აუცილებელია „punto stoffa“-ს ტექნიკის რეალიზაციისთვის. ეს გარანტიას იძლევა, რომ ქვედაბოლო არ გაიწელება და შეინარჩუნებს სტრუქტურას ხანგრძლივი ტარების დროსაც კი."
+      },
+      {
+        "q": "ფოჩები შეიძლება დაიხლართოს ან დაკარგოს იერსახე წმენდის შემდეგ.",
+        "a": "Luisa Spagnoli-ს ნაკეთობებში ფოჩები შესრულებულია იმავე შემადგენლობის გამაგრებული ძაფებისგან, რაც ძირითადი ქსოვილია. ჩვენ გირჩევთ პროფესიონალურ ქიმწმენდას, რომელიც შეინარჩუნებს დეკორის თითოეული ხაზის პირვანდელ სიმკვეთრეს."
+      },
+      {
+        "q": "ტრიკოტაჟის ქვედაბოლომ შეიძლება ხაზი გაუსვას ფიგურის ნაკლოვანებებს.",
+        "a": "„punto stoffa“-ს ქსოვის თავისებურება მისი სიმკვრივეა. ქსოვილი საკმარისად სტაბილურია იმისთვის, რომ ნაზად დაასწოროს სილუეტი, რაც უზრუნველყოფს თავდაჯერებულობას და კომფორტს, თხელი ტრიკოტაჟისგან განსხვავებით."
+      },
+      {
+        "q": "ფოჩებიანი სიგრძემ შეიძლება ვიზუალურად დაგვაკლოს სიმაღლე.",
+        "a": "პირიქით, ფოჩების ვერტიკალური მიმართულება და ქვედაბოლოს სწორი ჭრილი ქმნის უწყვეტ ხაზს, რომელიც ვიზუალურად აგრძელებს სილუეტს. ეფექტის გასაძლიერებლად გირჩევთ მოდელი შეუხამოთ ქუსლიან ფეხსაცმელს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ծոպերը կարող են չափազանց ոչ պաշտոնական թվալ գործնական հանդիպման համար։",
+        "a": "Խիստ սև կամ ազնվական կրեմագույն գույնի և բրդի խիտ հյուսվածքի շնորհիվ Marsan մոդելի ծոպերը հանդես են գալիս որպես նրբագեղ կյուտյուր տարր, այլ ոչ թե բոհո-ոճի դետալ, ինչը լիովին ընդունելի է ժամանակակից գործնական զգեստապահարանում։"
+      },
+      {
+        "q": "Կազմի մեջ առկա է ակրիլ (30%)։",
+        "a": "Բարձր տեխնոլոգիական ակրիլի ավելացումը կուսական բրդին անհրաժեշտ է «punto stoffa» տեխնիկան իրականացնելու համար։ Սա երաշխավորում է, որ կիսաշրջազգեստը չի ձգվի և կպահպանի իր կառուցվածքը նույնիսկ երկարատև կրելու դեպքում։"
+      },
+      {
+        "q": "Ծոպերը կարող են խճճվել կամ կորցնել տեսքը մաքրումից հետո։",
+        "a": "Luisa Spagnoli-ի իրերի ծոպերը պատրաստված են նույն կազմի ամրացված թելերից, ինչ հիմնական կտորը։ Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ քիմմաքրում, որը կպահպանի դեկորի յուրաքանչյուր գծի սկզբնական հստակությունը։"
+      },
+      {
+        "q": "Տրիկոտաժե կիսաշրջազգեստը կարող է ընդգծել կազմվածքի թերությունները։",
+        "a": "punto stoffa» հյուսվածքի առանձնահատկությունը դրա խտությունն է։ Կտորը բավականին կայուն է՝ սիլուետը փափուկ հարթեցնելու համար՝ ապահովելով վստահություն և հարմարավետություն՝ ի տարբերություն բարակ տրիկոտաժի։"
+      },
+      {
+        "q": "Ծոպերով երկարությունը կարող է տեսողականորեն նվազեցնել հասակը։",
+        "a": "Հակառակը, ծոպերի ուղղահայաց ուղղվածությունը և կիսաշրջազգեստի ուղիղ ձևվածքը ստեղծում են անընդհատ գիծ, որը տեսողականորեն ձգում է սիլուետը։ Էֆեկտն ուժեղացնելու համար խորհուրդ ենք տալիս մոդելը համադրել կրունկներով կոշիկների հետ։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Bārkstis var izskatīties pārāk neformāli lietišķai tikšanās reizei.",
+        "a": "Pateicoties stingrai melnai vai cēlam krēmkrāsas tonim un blīvai vilnas faktūrai, bārkstis Marsan modelī darbojas kā izsmalcināts augstās modes elements, nevis boho-stila detaļa, kas ir pilnībā pieļaujami mūsdienu biznesa garderobē."
+      },
+      {
+        "q": "Sastāvā ir akrils (30%).",
+        "a": "Augsto tehnoloģiju akrila pievienošana jaunvilnai ir nepieciešama, lai realizētu „punto stoffa” tehniku. Tas garantē, ka svārki neizstiepsies un saglabās savu struktūru pat ilgstoši valkājot."
+      },
+      {
+        "q": "Bārkstis var sapīties vai zaudēt izskatu pēc tīrīšanas.",
+        "a": "Luisa Spagnoli izstrādājumu bārkstis ir veidotas no nostiprinātiem pavedieniem ar tādu pašu sastāvu kā pamataudumam. Mēs iesakām profesionālu ķīmisko tīrīšanu, kas saglabās katras dekora līnijas sākotnējo skaidrību."
+      },
+      {
+        "q": "Trikotāžas svārki var izcelt figūras trūkumus.",
+        "a": "„Punto stoffa” adījuma īpatnība ir tā blīvums. Audums ir pietiekami stabils, lai maigi nogludinātu siluetu, nodrošinot pārliecību un komfortu, pretstatā plānai trikotāžai."
+      },
+      {
+        "q": "Garums ar bārkstīm var vizuāli samazināt augumu.",
+        "a": "Gluži pretēji, bārkstīm piemītošais vertikālais virziens un svārku taisnais piegriezums rada nepārtrauktu līniju, kas vizuāli pagarina siluetu. Efekta pastiprināšanai iesakām kombinēt modeli ar apaviem uz papēža."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Kutas gali atrodyti per daug neformalus dalykiniam susitikimui.",
+        "a": "Dėl griežtos juodos arba taurios kreminės spalvos ir tankios vilnos faktūros, Marsan modelio kutai veikia kaip rafinuotas „couture“ elementas, o ne „boho“ stiliaus detalė, kas yra visiškai priimtina šiuolaikiniame verslo garderobe."
+      },
+      {
+        "q": "Sudėtyje yra akrilo (30%).",
+        "a": "Aukštųjų technologijų akrilo pridėjimas prie pirmapradės vilnos yra būtinas „punto stoffa“ technikos įgyvendinimui. Tai garantuoja, kad sijonas neišsitampys ir išsaugos savo struktūrą net ilgai dėvint."
+      },
+      {
+        "q": "Kutas gali susivelti arba prarasti išvaizdą po valymo.",
+        "a": "Luisa Spagnoli gaminių kutai pagaminti iš sutvirtintų siūlų, kurių sudėtis tokia pati, kaip ir pagrindinio audinio. Rekomenduojame profesionalų cheminį valymą, kuris išsaugos pirminį kiekvienos dekoratyvinės linijos ryškumą."
+      },
+      {
+        "q": "Trikotažinis sijonas gali pabrėžti figūros trūkumus.",
+        "a": "„punto stoffa“ mezgimo ypatybė — jo tankis. Audinys pakankamai stabilus, kad švelniai išlygintų siluetą, užtikrindamas pasitikėjimą ir komfortą, skirtingai nei plonas trikotažas."
+      },
+      {
+        "q": "Ilgis su kutais gali vizualiai sumažinti ūgį.",
+        "a": "Priešingai, vertikali kutų kryptis ir tiesus sijono kirpimas sukuria nepertraukiamą liniją, kuri vizualiai ilgina siluetą. Efekto sustiprinimui rekomenduojame derinti modelį su avalyne ant kulno."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Frędzle mogą wyglądać zbyt nieformalnie na spotkanie biznesowe.",
+        "a": "Dzięki sztywnemu czarnemu lub szlachetnemu kremowemu kolorowi oraz gęstej fakturze wełny, frędzle w modelu Marsan występują jako wyrafinowany element haute couture, a nie detal w stylu boho, co jest w pełni dopuszczalne we współczesnej garderobie biznesowej."
+      },
+      {
+        "q": "W składzie obecny jest akryl (30%).",
+        "a": "Dodatek zaawansowanego technologicznie akrylu do dziewiczej wełny jest niezbędny do realizacji techniki „punto stoffa”. Gwarantuje to, że spódnica nie będzie się wyciągać i zachowa swoją strukturę nawet przy długotrwałym noszeniu."
+      },
+      {
+        "q": "Frędzle mogą się poplątać lub stracić wygląd po czyszczeniu.",
+        "a": "Frędzle w wyrobach Luisa Spagnoli wykonane są ze wzmocnionych nici o tym samym składzie co główna tkanina. Zalecamy profesjonalne czyszczenie chemiczne, które zachowa pierwotną wyrazistość każdej linii dekoru."
+      },
+      {
+        "q": "Dzianinowa spódnica może podkreślić mankamenty sylwetki.",
+        "a": "Cechą splotu „punto stoffa” jest jego gęstość. Tkanina jest wystarczająco stabilna, aby delikatnie wygładzać sylwetkę, zapewniając pewność i komfort, w odróżnieniu od cienkiej dzianiny."
+      },
+      {
+        "q": "Długość z frędzlami może optycznie skrócić wzrost.",
+        "a": "Wręcz przeciwnie, pionowe ukierunkowanie frędzli i prosty krój spódnicy tworzą nieprzerwaną linię, która optycznie wydłuża sylwetkę. W celu wzmocnienia efektu zalecamy łączenie modelu z obuwiem na obcasie."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Бахрома може виглядати занадто неформально для ділової зустрічі.",
+        "a": "Завдяки строгому чорному або благородному кремовому кольору та щільній фактурі вовни, бахрома в моделі Marsan виступає як вишуканий кутюрний елемент, а не деталь бохо-стилю, що цілком допустимо в сучасному бізнес-гардеробі."
+      },
+      {
+        "q": "У складі присутній акрил (30%).",
+        "a": "Додавання високотехнологічного акрилу до дівочої вовни необхідне для реалізації техніки «punto stoffa». Це гарантує, що спідниця не буде витягуватися і збереже свою структуру навіть при тривалому носінні."
+      },
+      {
+        "q": "Бахрома може заплутатися або втратити вигляд після чистки.",
+        "a": "Бахрома у виробах Luisa Spagnoli виконана з укріплених ниток того ж складу, що й основне полотно. Ми рекомендуємо професійну суху чистку, яка збереже первісну чіткість кожної лінії декору."
+      },
+      {
+        "q": "Трикотажна спідниця може підкреслити недоліки фігури.",
+        "a": "Особливість в'язки «punto stoffa» — її щільність. Полотно достатньо стабільне, щоб м'яко згладжувати силует, забезпечуючи впевненість і комфорт, на відміну від тонкого трикотажу."
+      },
+      {
+        "q": "Довжина з бахромою може візуально зменшити зріст.",
+        "a": "Навпаки, вертикальна спрямованість бахроми та прямий крій спідниці створюють безперервну лінію, яка візуально витягує силует. Для підсилення ефекту рекомендуємо поєднувати модель із взуттям на підборах."
+      }
+    ]
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "id": 148,
+  "name": "Mantecare",
+  "description": {
+    "en": "An impeccable embodiment of aristocratic minimalism and Italian craftsmanship: the sleeveless Mantecare turtleneck top from the exclusive Merinfleur line. The model is masterfully crafted from 100% pure virgin wool using the \"punto stoffa\" dense knit technique, guaranteeing perfect shape retention and a sculptural silhouette. Exquisite contrasting details underscore the piece's contemporary character, transforming it into an indispensable foundation for creating status-defining, layered looks in the \"quiet luxury\" aesthetic.",
+    "ru": "Безупречное воплощение аристократичного минимализма и итальянского мастерства: топ-водолазка Mantecare без рукавов из эксклюзивной линии Merinfleur. Модель мастерски выполнена из 100% чистой девственной шерсти в технике плотной вязки «punto stoffa», которая гарантирует идеальное сохранение формы и скульптурный силуэт. Изысканные контрастные детали подчеркивают современный характер изделия, превращая его в незаменимую базу для создания статусных многослойных образов в эстетике «тихой роскоши». | Безупречное воплощение аристократичного минимализма и итальянского трикотажного мастерства: топ-водолазка Mantecare без рукавов из эксклюзивной линии Merinfleur. Модель мастерски выполнена из 100% чистой девственной шерсти в технике плотной вязки «punto stoffa», которая гарантирует идеальное сохранение формы и скульптурный силуэт. Изысканные контрастные детали подчеркивают современный характер изделия, превращая его в незаменимую базу для создания статусных многослойных образов в эстетике «тихой роскоши».",
+    "ar": "تجسيد لا تشوبه شائبة للبساطة الأرستقراطية والبراعة الإيطالية: توب Mantecare بدون أكمام بياقة عالية من خط Merinfleur الحصري. صُنعت القطعة ببراعة من صوف بكر نقي بنسبة 100% بتقنية الحياكة الكثيفة \"punto stoffa\"، التي تضمن الحفاظ المثالي على الشكل وصورة ظلية منحوتة. تبرز التفاصيل المتناقضة الرائعة الطابع العصري للقطعة، مما يحولها إلى أساس لا غنى عنه لابتكار إطلالات فاخرة متعددة الطبقات بجماليات \"الرفاهية الهادئة\". | تجسيد لا تشوبه شائبة للبساطة الأرستقراطية وبراعة الحياكة الإيطالية: توب Mantecare بدون أكمام بياقة عالية من خط Merinfleur الحصري. صُنعت القطعة ببراعة من صوف بكر نقي بنسبة 100% بتقنية الحياكة الكثيفة \"punto stoffa\"، التي تضمن الحفاظ المثالي على الشكل وصورة ظلية منحوتة. تبرز التفاصيل المتناقضة الرائعة الطابع العصري للقطعة، مما يحولها إلى أساس لا غنى عنه لابتكار إطلالات فاخرة متعددة الطبقات بجماليات \"الرفاهية الهادئة\".",
+    "ka": "არისტოკრატული მინიმალიზმისა და იტალიური ოსტატობის უნაკლო განსახიერება: უმკლავო კუსარიანი ტოპი Mantecare ექსკლუზიური ხაზიდან Merinfleur. მოდელი ოსტატურადაა შესრულებული 100%-ით სუფთა ქალწული მატყლისგან, ექსკლუზიური „punto stoffa“-ს მკვრივი ქსოვის ტექნიკით, რაც უზრუნველყოფს ფორმის იდეალურ შენარჩუნებასა და სკულპტურულ სილუეტს. დახვეწილი კონტრასტული დეტალები ხაზს უსვამს ნაკეთობის თანამედროვე ხასიათს და აქცევს მას შეუცვლელ ბაზად „ჩუმი ფუფუნების“ ესთეტიკაში სტატუსური, მრავალშრიანი იმიჯის შესაქმნელად. | არისტოკრატული მინიმალიზმისა და იტალიური ტრიკოტაჟული ოსტატობის უნაკლო განსახიერება: უმკლავო კუსარიანი ტოპი Mantecare ექსკლუზიური ხაზიდან Merinfleur. მოდელი ოსტატურადაა შესრულებული 100%-ით სუფთა ქალწული მატყლისგან, ექსკლუზიური „punto stoffa“-ს მკვრივი ქსოვის ტექნიკით, რაც უზრუნველყოფს ფორმის იდეალურ შენარჩუნებასა და სკულპტურულ სილუეტს. დახვეწილი კონტრასტული დეტალები ხაზს უსვამს ნაკეთობის თანამედროვე ხასიათს და აქცევს მას შეუცვლელ ბაზად „ჩუმი ფუფუნების“ ესთეტიკაში სტატუსური, მრავალშრიანი იმიჯის შესაქმნელად.",
+    "hy": "Արիստոկրատական մինիմալիզմի և իտալական վարպետության անթերի մարմնացում. Mantecare առանց թևերի գլխաշոր-տոպը Merinfleur բացառիկ գծից: Մոդելը վարպետորեն պատրաստված է 100% մաքուր կուսական բրդից՝ բարձր խտության «punto stoffa» հյուսվածքի տեխնիկայով, որն ապահովում է ձևի իդեալական պահպանում և քանդակային ուրվագիծ: Նրբագեղ հակադրվող դետալները ընդգծում են հագուստի ժամանակակից բնույթը՝ դարձնելով այն անփոխարինելի հիմք «հանգիստ շքեղության» էսթետիկայով կարգավիճակային բազմաշերտ կերպարներ ստեղծելու համար: | Արիստոկրատական մինիմալիզմի և իտալական տրիկոտաժի վարպետության անթերի մարմնացում. Mantecare առանց թևերի գլխաշոր-տոպը Merinfleur բացառիկ գծից: Մոդելը վարպետորեն պատրաստված է 100% մաքուր կուսական բրդից՝ բարձր խտության «punto stoffa» հյուսվածքի տեխնիկայով, որն ապահովում է ձևի իդեալական պահպանում և քանդակային ուրվագիծ: Նրբագեղ հակադրվող դետալները ընդգծում են հագուստի ժամանակակից բնույթը՝ դարձնելով այն անփոխարինելի հիմք «հանգիստ շքեղության» էսթետիկայով կարգավիճակային բազմաշերտ կերպարներ ստեղծելու համար:",
+    "lv": "Nevainojams aristokrātiskā minimālisma un itāļu meistarības iemiesojums: tops-vodolazka Mantecare bez piedurknēm no ekskluzīvās līnijas Merinfleur. Modelis ir meistarīgi izgatavots no 100% tīras jaunvilnas blīvā adījuma tehnikā «punto stoffa», kas garantē ideālu formas saglabāšanu un skulpturālu siluetu. Izsmalcinātas kontrastējošas detaļas izceļ izstrādājuma moderno raksturu, pārvēršot to par neaizvietojamu pamatu statusa bagātu daudzslāņu tēlu radīšanai «klusās greznības» estētikā. | Nevainojams aristokrātiskā minimālisma un itāļu trikotāžas meistarības iemiesojums: tops-vodolazka Mantecare bez piedurknēm no ekskluzīvās līnijas Merinfleur. Modelis ir meistarīgi izgatavots no 100% tīras jaunvilnas blīvā adījuma tehnikā «punto stoffa», kas garantē ideālu formas saglabāšanu un skulpturālu siluetu. Izsmalcinātas kontrastējošas detaļas izceļ izstrādājuma moderno raksturu, pārvēršot to par neaizvietojamu pamatu statusa bagātu daudzslāņu tēlu radīšanai «klusās greznības» estētikā.",
+    "lt": "Nepriekaištingas aristokratiško minimalizmo ir itališko meistriškumo įsikūnijimas: golfas be rankovių Mantecare iš išskirtinės linijos Merinfleur. Modelis meistriškai pagamintas iš 100% grynos avies vilnos naudojant tankaus mezgimo techniką „punto stoffa“, kuri užtikrina idealų formos išlaikymą ir skulptūrišką siluetą. Rafinuotos kontrastingos detalės pabrėžia šiuolaikišką gaminio charakterį, paversdamos jį nepakeičiamu pagrindu kuriant reprezentatyvius daugiasluoksnius įvaizdžius „tylios prabangos“ estetikoje. | Nepriekaištingas aristokratiško minimalizmo ir itališko mezgimo meistriškumo įsikūnijimas: golfas be rankovių Mantecare iš išskirtinės linijos Merinfleur. Modelis meistriškai pagamintas iš 100% grynos avies vilnos naudojant tankaus mezgimo techniką „punto stoffa“, kuri užtikrina idealų formos išlaikymą ir skulptūrišką siluetą. Rafinuotos kontrastingos detalės pabrėžia šiuolaikišką gaminio charakterį, paversdamos jį nepakeičiamu pagrindu kuriant reprezentatyvius daugiasluoksnius įvaizdžius „tylios prabangos“ estetikoje.",
+    "pl": "Nienaganne uosobienie arystokratycznego minimalizmu i włoskiego kunsztu: top-golf Mantecare bez rękawów z ekskluzywnej linii Merinfleur. Model został mistrzowsko wykonany w 100% z czystej żywej wełny w technice gęstego splotu «punto stoffa», która gwarantuje idealne zachowanie formy i rzeźbiarską sylwetkę. Wyrafinowane kontrastowe detale podkreślają nowoczesny charakter produktu, czyniąc go niezastąpioną bazą do tworzenia prestiżowych, warstwowych stylizacji w estetyce «quiet luxury». | Nienaganne uosobienie arystokratycznego minimalizmu i włoskiego kunsztu dziewiarskiego: top-golf Mantecare bez rękawów z ekskluzywnej linii Merinfleur. Model został mistrzowsko wykonany w 100% z czystej żywej wełny w technice gęstego splotu «punto stoffa», która gwarantuje idealne zachowanie formy i rzeźbiarską sylwetkę. Wyrafinowane kontrastowe detale podkreślają nowoczesny charakter produktu, czyniąc go niezastąpioną bazą do tworzenia prestiżowych, warstwowych stylizacji w estetyce «quiet luxury».",
+    "uk": "Бездоганне втілення аристократичного мінімалізму та італійської майстерності: топ-водолазка Mantecare без рукавів з ексклюзивної лінії Merinfleur. Модель майстерно виконана зі 100% чистої вовни virgin wool в техніці щільної в'язки «punto stoffa», яка гарантує ідеальне збереження форми та скульптурний силует. Вишукані контрастні деталі підкреслюють сучасний характер виробу, перетворюючи його на незамінну базу для створення статусних багатошарових образів в естетиці «тихої розкоші». | Бездоганне втілення аристократичного мінімалізму та італійської трикотажної майстерності: топ-водолазка Mantecare без рукавів з ексклюзивної лінії Merinfleur. Модель майстерно виконана зі 100% чистої вовни virgin wool в техніці щільної в'язки «punto stoffa», яка гарантує ідеальне збереження форми та скульптурний силует. Вишукані контрастні деталі підкреслюють сучасний характер виробу, перетворюючи його на незамінну базу для створення статусних багатошарових образів в естетиці «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Grigio Scuro Panna",
+      "code": "0846 0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yci8Pmn2Qc2K4CUAa8lsoA_1572868144696f437a4f16c8_58141760_02831300XX1.jpg"
+    },
+    {
+      "name": "Nero Cammello",
+      "code": "0101 2246",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WW8xbwIkRpOZTNryF69WAw_1285323695696f436482d1c6_61414433_02830560XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Urban Chic in Camel Tones)",
+        "ar": "Look 1 (Urban Chic in Camel Tones)",
+        "ka": "Look 1 (Urban Chic in Camel Tones)",
+        "hy": "Look 1 (Urban Chic in Camel Tones)",
+        "lv": "Look 1 (Urban Chic in Camel Tones)",
+        "lt": "Look 1 (Urban Chic in Camel Tones)",
+        "pl": "Look 1 (Urban Chic in Camel Tones)",
+        "uk": "Look 1 (Urban Chic in Camel Tones)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Городской шик в тонах кэмл): Изысканный ансамбль, объединяющий топ Mantecare 0101 2246 с удлиненным кардиганом Malvia 0101 2246. Образ завершают пальто Speziale 2316 и статусная сумка Iago 2240 0002.",
+        "en": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan. The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "ar": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan. The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "ka": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan. The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "hy": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan. The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "lv": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan. The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "lt": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan. The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "pl": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan. The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "uk": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan. The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Mantecare",
+          "code": "0101 2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WW8xbwIkRpOZTNryF69WAw_1285323695696f436482d1c6_61414433_02830560XX1.jpg"
+        },
+        {
+          "name": "Malvia",
+          "code": "0101 2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Qszl8X8SQFugo1saWqnExA_1841430439696f4362d38204_99119524_02830510XX1.jpg",
+          "modelId": 141
+        },
+        {
+          "name": "Marsica",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Speziale",
+          "code": "2316",
+          "imageUrl": null
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Intellectual Grey)",
+        "ar": "Look 2 (Intellectual Grey)",
+        "ka": "Look 2 (Intellectual Grey)",
+        "hy": "Look 2 (Intellectual Grey)",
+        "lv": "Look 2 (Intellectual Grey)",
+        "lt": "Look 2 (Intellectual Grey)",
+        "pl": "Look 2 (Intellectual Grey)",
+        "uk": "Look 2 (Intellectual Grey)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Интеллектуальный серый): Элегантная композиция из топа Mantecare 0846 0202, кардигана Malvia 0202 0846 и джинсов Olibis 1088 под пальто Salottino 0202.",
+        "en": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat.",
+        "ar": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat.",
+        "ka": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat.",
+        "hy": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat.",
+        "lv": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat.",
+        "lt": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat.",
+        "pl": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat.",
+        "uk": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat."
+      },
+      "items": [
+        {
+          "name": "Mantecare",
+          "code": "0846 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yci8Pmn2Qc2K4CUAa8lsoA_1572868144696f437a4f16c8_58141760_02831300XX1.jpg"
+        },
+        {
+          "name": "Malvia",
+          "code": "0202 0846",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KlVMxQr7SyCrt10DPMy3iw_509161854696f4363420906_31932689_02830520XX1.jpg",
+          "modelId": 141
+        },
+        {
+          "name": "Olibis",
+          "code": "1088",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e85a8ef9-0175-442b-b5a7-cf782a9e05a2-removebg-preview.png",
+          "modelId": 454
+        },
+        {
+          "name": "Salottino",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KT97IHepTbiZPG-Dzjf1ZQ_1770281812696f42efa988d7_39925462_02820830XX1.jpg",
+          "modelId": 293
+        },
+        {
+          "name": "Renno",
+          "code": "0814",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57693e01-fdb6-4b56-a73b-26c4b4d8ce61.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 1 (Urban Chic in Camel Tones)",
+        "ar": "Look 1 (Urban Chic in Camel Tones)",
+        "ka": "Look 1 (Urban Chic in Camel Tones)",
+        "hy": "Look 1 (Urban Chic in Camel Tones)",
+        "lv": "Look 1 (Urban Chic in Camel Tones)",
+        "lt": "Look 1 (Urban Chic in Camel Tones)",
+        "pl": "Look 1 (Urban Chic in Camel Tones)",
+        "uk": "Look 1 (Urban Chic in Camel Tones)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Городской шик в тонах кэмл): Изысканный ансамбль, объединяющий топ Mantecare 0101 2246 с удлиненным кардиганом Malvia 0101 2246 и юбкой Marsica 0101. Образ завершают пальто Speziale 2316 и статусная сумка Iago 2240 0002.",
+        "en": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "ar": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "ka": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "hy": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "lv": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "lt": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "pl": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag.",
+        "uk": "An exquisite ensemble combining a Mantecare 0101 2246 top with an elongated Malvia 0101 2246 cardigan and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a Speziale 2316 coat and a status Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Mantecare",
+          "code": "0101 2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WW8xbwIkRpOZTNryF69WAw_1285323695696f436482d1c6_61414433_02830560XX1.jpg"
+        },
+        {
+          "name": "Malvia",
+          "code": "0101 2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Qszl8X8SQFugo1saWqnExA_1841430439696f4362d38204_99119524_02830510XX1.jpg",
+          "modelId": 141
+        },
+        {
+          "name": "Speziale",
+          "code": "2316",
+          "imageUrl": null
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Intellectual Grey)",
+        "ar": "Look 2 (Intellectual Grey)",
+        "ka": "Look 2 (Intellectual Grey)",
+        "hy": "Look 2 (Intellectual Grey)",
+        "lv": "Look 2 (Intellectual Grey)",
+        "lt": "Look 2 (Intellectual Grey)",
+        "pl": "Look 2 (Intellectual Grey)",
+        "uk": "Look 2 (Intellectual Grey)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Интеллектуальный серый): Элегантная композиция из топа Mantecare 0846 0202, кардигана Malvia 0202 0846 и джинсов Olibis 1088 под пальто Salottino 0202. Финальный штрих — кепи Renno 0814.",
+        "en": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat. Final touch: a Renno 0814 cap.",
+        "ar": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat. Final touch: a Renno 0814 cap.",
+        "ka": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat. Final touch: a Renno 0814 cap.",
+        "hy": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat. Final touch: a Renno 0814 cap.",
+        "lv": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat. Final touch: a Renno 0814 cap.",
+        "lt": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat. Final touch: a Renno 0814 cap.",
+        "pl": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat. Final touch: a Renno 0814 cap.",
+        "uk": "An elegant composition of a Mantecare 0846 0202 top, a Malvia 0202 0846 cardigan and Olibis 1088 jeans under a Salottino 0202 coat. Final touch: a Renno 0814 cap."
+      },
+      "items": [
+        {
+          "name": "Mantecare",
+          "code": "0846 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yci8Pmn2Qc2K4CUAa8lsoA_1572868144696f437a4f16c8_58141760_02831300XX1.jpg"
+        },
+        {
+          "name": "Malvia",
+          "code": "0202 0846",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KlVMxQr7SyCrt10DPMy3iw_509161854696f4363420906_31932689_02830520XX1.jpg",
+          "modelId": 141
+        },
+        {
+          "name": "Olibis",
+          "code": "1088",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e85a8ef9-0175-442b-b5a7-cf782a9e05a2-removebg-preview.png",
+          "modelId": 454
+        },
+        {
+          "name": "Salottino",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KT97IHepTbiZPG-Dzjf1ZQ_1770281812696f42efa988d7_39925462_02820830XX1.jpg",
+          "modelId": 293
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the exceptional composition of the fabric: the blend of virgin wool and mohair delivers unrivalled thermal regulation and a tactile comfort worthy of true luxury.",
+      "Emphasise the investment value of this piece: the animal-print motif on the long cardigan is a timeless classic that transitions effortlessly from day to evening ensembles.",
+      "Showcase the versatility of the silhouette: with its unstructured cut and integrated belt, the piece drapes beautifully on any figure, allowing the fit to be adjusted to taste."
+    ],
+    "ru": [
+      "Сделайте акцент на материале линии Merinfleur: 100% чистая девственная шерсть обеспечивает непревзойденную мягкость, сопоставимую с кашемиром, и комфортную терморегуляцию.",
+      "Рекомендуйте Mantecare как ключевой элемент для создания многослойных образов: отсутствие рукавов позволяет надевать сверху приталенные жакеты и кардиганы без создания лишнего объема в плечевом поясе.",
+      "Подчеркните ценность техники вязки «punto stoffa» — это высокотехнологичное полотно, которое обладает легким моделирующим эффектом и сохраняет благородную структуру изделия даже при интенсивной носке.",
+      "Сделайте акцент на материале линии Merinfleur: 100% чистая девственная шерсть обеспечивает непревзойденную мягкость, сопоставимую с кашемиром, и комфортную терморегуляцию в течение всего дня.",
+      "Рекомендуйте Mantecare как ключевой элемент для создания многослойных образов: отсутствие рукавов позволяет надевать сверху приталенные жакеты и кардиганы без создания лишнего объема в плечевом поясе.",
+      "Подчеркните ценность техники вязки «punto stoffa» — это высокотехнологичное полотно, которое обладает моделирующим эффектом и сохраняет благородную структуру изделия даже при интенсивной носке."
+    ],
+    "ar": [
+      "ركزي على خامة خط Merinfleur: الصوف البكر النقي 100% يضمن نعومة لا تضاهى تضاهي الكشمير وتنظيماً حرارياً مريحاً.",
+      "رشيحي Mantecare كعنصر رئيسي لابتكار إطلالات متعددة الطبقات: غياب الأكمام يسمح بارتداء سترات وكارديغانات ضيقة فوقها دون التسبب في أي حجم زائد عند منطقة الكتفين.",
+      "أكدي على قيمة تقنية حياكة «punto stoffa»، وهي قماش متطور تقنياً يتمتع بتأثير نحت خفيف ويحافظ على هيكل القطعة النبيل حتى مع الاستخدام المكثف.",
+      "ركزي على خامة خط Merinfleur: الصوف البكر النقي 100% يضمن نعومة لا تضاهى تضاهي الكشمير وتنظيماً حرارياً مريحاً طوال اليوم.",
+      "رشيحي Mantecare كعنصر رئيسي لابتكار إطلالات متعددة الطبقات: غياب الأكمام يسمح بارتداء سترات وكارديغانات ضيقة فوقها دون التسبب في أي حجم زائد عند منطقة الكتفين.",
+      "أكدي على قيمة تقنية حياكة «punto stoffa»، وهي قماش متطور تقنياً يتمتع بتأثير نحت ويحافظ على هيكل القطعة النبيل حتى مع الاستخدام المكثف."
+    ],
+    "ka": [
+      "გაამახვილეთ აქცენტი Merinfleur-ის ხაზის მასალაზე: 100% სუფთა ქალწულებრივი შალი უზრუნველყოფს კაშმირთან შესადარებელ შეუდარებელ სირბილესა და კომფორტულ თერმორეგულაციას.",
+      "რეკომენდაცია გაუწიეთ Mantecare-ს, როგორც მრავალფენიანი იმიჯების შესაქმნელ საკვანძო ელემენტს: სახელოების არარსებობა საშუალებას იძლევა, ზემოდან მოიცვათ გამოყვანილი პიჯაკები და კარდიგანები, მხრების ზონაში ზედმეტი მოცულობის შექმნის გარეშე.",
+      "ხაზი გაუსვით „punto stoffa“-ს ქსოვის ტექნიკის ღირებულებას — ეს არის მაღალტექნოლოგიური ქსოვილი, რომელიც ფლობს მსუბუქ მოდელირების ეფექტს და ინარჩუნებს ნაკეთობის კეთილშობილურ სტრუქტურას ინტენსიური ტარების დროსაც კი.",
+      "გაამახვილეთ აქცენტი Merinfleur-ის ხაზის მასალაზე: 100% სუფთა ქალწულებრივი შალი უზრუნველყოფს კაშმირთან შესადარებელ შეუდარებელ სირბილესა და კომფორტულ თერმორეგულაციას მთელი დღის განმავლობაში.",
+      "რეკომენდაცია გაუწიეთ Mantecare-ს, როგორც მრავალფენიანი იმიჯების შესაქმნელ საკვანძო ელემენტს: სახელოების არარსებობა საშუალებას იძლევა, ზემოდან მოიცვათ გამოყვანილი პიჯაკები და კარდიგანები, მხრების ზონაში ზედმეტი მოცულობის შექმნის გარეშე.",
+      "ხაზი გაუსვით „punto stoffa“-ს ქსოვის ტექნიკის ღირებულებას — ეს არის მაღალტექნოლოგიური ქსოვილი, რომელიც ფლობს მოდელირების ეფექტს და ინარჩუნებს ნაკეთობის კეთილშობილურ სტრუქტურას ინტენსიური ტარების დროსაც კი."
+    ],
+    "hy": [
+      "Շեշտադրեք Merinfleur գծի նյութը՝ 100% մաքուր կուսական բուրդն ապահովում է անգերազանցելի փափկություն՝ համադրելի քաշմիրի հետ, և հարմարավետ ջերմակարգավորում։",
+      "Mantecare-ը խորհուրդ տվեք որպես բազմաշերտ կերպարներ ստեղծելու առանցքային տարր՝ թևերի բացակայությունը թույլ է տալիս վրայից հագնել կիպ ժակետներ և կարդիգաններ՝ ուսագոտում ավելորդ ծավալ չստեղծելով։",
+      "Ընդգծեք «punto stoffa» հյուսման տեխնիկայի արժեքը՝ սա բարձր տեխնոլոգիական կտոր է, որն ունի թեթև մոդելավորող էֆեկտ և պահպանում է արտադրանքի ազնիվ կառուցվածքը նույնիսկ ինտենսիվ կրելու դեպքում։",
+      "Շեշտադրեք Merinfleur գծի նյութը՝ 100% մաքուր կուսական բուրդն ապահովում է անգերազանցելի փափկություն՝ համադրելի քաշմիրի հետ, և հարմարավետ ջերմակարգավորում ամբողջ օրվա ընթացքում։",
+      "Mantecare-ը խորհուրդ տվեք որպես բազմաշերտ կերպարներ ստեղծելու առանցքային տարր՝ թևերի բացակայությունը թույլ է տալիս վրայից հագնել կիպ ժակետներ և կարդիգաններ՝ ուսագոտում ավելորդ ծավալ չստեղծելով։",
+      "Ընդգծեք «punto stoffa» հյուսման տեխնիկայի արժեքը՝ սա բարձր տեխնոլոգիական կտոր է, որն ունի մոդելավորող էֆեկտ և պահպանում է արտադրանքի ազնիվ կառուցվածքը նույնիսկ ինտենսիվ կրելու դեպքում։"
+    ],
+    "lv": [
+      "Akcentējiet Merinfleur līnijas materiālu: 100% tīra jaunvilna nodrošina nepārspējamu maigumu, kas līdzinās kašmiram, un komfortablu termoregulāciju.",
+      "Iesakiet Mantecare kā galveno elementu daudzslāņu tēlu radīšanai: piedurkņu trūkums ļauj uzvilkt pa virsu piegulošas žaketes un jaciņas, neradot lieku apjomu plecu zonā.",
+      "Uzsveriet «punto stoffa» adīšanas tehnikas vērtību — tas ir augsto tehnoloģiju audums, kam piemīt viegls modelējošs efekts un kas saglabā izstrādājuma cēlo struktūru pat intensīvas lietošanas laikā.",
+      "Akcentējiet Merinfleur līnijas materiālu: 100% tīra jaunvilna nodrošina nepārspējamu maigumu, kas līdzinās kašmiram, un komfortablu termoregulāciju visas dienas garumā.",
+      "Iesakiet Mantecare kā galveno elementu daudzslāņu tēlu radīšanai: piedurkņu trūkums ļauj uzvilkt pa virsu piegulošas žaketes un jaciņas, neradot lieku apjomu plecu zonā.",
+      "Uzsveriet «punto stoffa» adīšanas tehnikas vērtību — tas ir augsto tehnoloģiju audums, kam piemīt modelējošs efekts un kas saglabā izstrādājuma cēlo struktūru pat intensīvas lietošanas laikā."
+    ],
+    "lt": [
+      "Pabrėžkite Merinfleur linijos medžiagą: 100% gryna pirminė vilna užtikrina neprilygstamą švelnumą, prilygstantį kašmyrui, ir patogų termoreguliavimą.",
+      "Rekomenduokite Mantecare kaip pagrindinį elementą kuriant daugiasluoksnius įvaizdžius: rankovių nebuvimas leidžia viršuje vilkėti prigludusius švarkus ir megztinius nesukuriant nereikalingos apimties pečių srityje.",
+      "Pabrėžkite „punto stoffa“ mezgimo technikos vertę — tai aukštųjų technologijų audinys, kuris pasižymi lengvu modeliuojančiu efektu ir išlaiko kilnią gaminio struktūrą net intensyviai dėvint.",
+      "Pabrėžkite Merinfleur linijos medžiagą: 100% gryna pirminė vilna užtikrina neprilygstamą švelnumą, prilygstantį kašmyrui, ir patogų termoreguliavimą visą dieną.",
+      "Rekomenduokite Mantecare kaip pagrindinį elementą kuriant daugiasluoksnius įvaizdžius: rankovių nebuvimas leidžia viršuje vilkėti prigludusius švarkus ir megztinius nesukuriant nereikalingos apimties pečių srityje.",
+      "Pabrėžkite „punto stoffa“ mezgimo technikos vertę — tai aukštųjų technologijų audinys, kuris pasižymi modeliuojančiu efektu ir išlaiko kilnią gaminio struktūrą net intensyviai dėvint."
+    ],
+    "pl": [
+      "Połóż akcent na materiał linii Merinfleur: 100% czysta wełna dziewicza zapewnia niezrównaną miękkość, porównywalną z kaszmirem, oraz komfortową termoregulację.",
+      "Rekomenduj Mantecare jako kluczowy element do tworzenia wielowarstwowych stylizacji: brak rękawów pozwala zakładać na wierzch dopasowane żakiety i kardigany bez tworzenia zbędnej objętości w okolicach ramion.",
+      "Podkreśl wartość techniki splotu „punto stoffa” — to zaawansowana technologicznie tkanina, która posiada lekki efekt modelujący i zachowuje szlachetną strukturę produktu nawet przy intensywnym noszeniu.",
+      "Połóż akcent na materiał linii Merinfleur: 100% czysta wełna dziewicza zapewnia niezrównaną miękkość, porównywalną z kaszmirem, oraz komfortową termoregulację przez cały dzień.",
+      "Rekomenduj Mantecare jako kluczowy element do tworzenia wielowarstwowych stylizacji: brak rękawów pozwala zakładać na wierzch dopasowane żakiety i kardigany bez tworzenia zbędnej objętości w okolicach ramion.",
+      "Podkreśl wartość techniki splotu „punto stoffa” — to zaawansowana technologicznie tkanina, która posiada efekt modelujący i zachowuje szlachetną strukturę produktu nawet przy intensywnym noszeniu."
+    ],
+    "uk": [
+      "Зробіть акцент на матеріалі лінії Merinfleur: 100% чиста вовна забезпечує неперевершену м'якість, порівнянну з кашеміром, та комфортну терморегуляцію.",
+      "Рекомендуйте Mantecare як ключовий елемент для створення багатошарових образів: відсутність рукавів дозволяє одягати зверху приталені жакети та кардигани без створення зайвого об'єму в плечовому поясі.",
+      "Підкресліть цінність техніки в'язки «punto stoffa» — це високотехнологічне полотно, яке має легкий моделюючий ефект і зберігає благородну структуру виробу навіть при інтенсивному носінні.",
+      "Зробіть акцент на матеріалі лінії Merinfleur: 100% чиста вовна забезпечує неперевершену м'якість, порівнянну з кашеміром, та комфортну терморегуляцію протягом усього дня.",
+      "Рекомендуйте Mantecare як ключовий елемент для створення багатошарових образів: відсутність рукавів дозволяє одягати зверху приталені жакети та кардигани без створення зайвого об'єму в плечовому поясі.",
+      "Підкресліть цінність техніки в'язки «punto stoffa» — це високотехнологічне полотно, яке має моделюючий ефект і зберігає благородну структуру виробу навіть при інтенсивному носінні."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Wool may cause tingling or discomfort.",
+        "a": "Luisa Spagnoli pieces use only select, highly refined virgin (Vergine) wool. It is hypoallergenic and has a silky texture, guaranteeing comfort in contact with the skin."
+      },
+      {
+        "q": "A sleeveless turtleneck seems impractical for the cold season.",
+        "a": "This piece was specifically designed as a base layer for runway-inspired looks. It retains body warmth, while the absence of sleeves ensures a perfect fit and freedom of movement beneath the fitted sleeves of our jackets and coats."
+      },
+      {
+        "q": "Contrasting trim may look too graphic.",
+        "a": "On the contrary, the delicate trim lines accentuate the architectural precision of the cut and make it easy to pair the top with accessories and footwear in a matching colour palette, creating a polished, cohesive look."
+      },
+      {
+        "q": "The piece clings too closely to the figure.",
+        "a": "The dense structure of the 'punto stoffa' knit gently supports the silhouette, concealing minor figure concerns and ensuring the confident fit characteristic of premium knitwear."
+      },
+      {
+        "q": "Caring for a 100% wool piece seems complex.",
+        "a": "To preserve its longevity and noble appearance, we recommend professional dry cleaning. Thanks to the quality of the Merinfleur fibre, the piece is virtually resistant to pilling and retains its shape for decades. |"
+      },
+      {
+        "q": "Wool may cause tingling or discomfort.",
+        "a": "Luisa Spagnoli pieces use only select, highly refined virgin wool. It is hypoallergenic and has a silky texture, guaranteeing absolute comfort in contact with the skin."
+      },
+      {
+        "q": "A sleeveless turtleneck seems impractical for the cold season.",
+        "a": "This piece was specifically designed as a base layer for runway-inspired looks. It retains body warmth, while the absence of sleeves ensures a perfect fit and freedom of movement beneath the fitted sleeves of our jackets and coats."
+      },
+      {
+        "q": "Contrasting trim may look too graphic.",
+        "a": "On the contrary, the delicate trim lines accentuate the architectural precision of the cut and make it easy to pair the top with accessories and footwear in a matching colour palette, creating a polished, cohesive look."
+      },
+      {
+        "q": "The piece clings too closely to the figure.",
+        "a": "The dense structure of the 'punto stoffa' knit gently supports the silhouette, concealing minor figure concerns and ensuring the confident fit characteristic of premium knitwear."
+      },
+      {
+        "q": "Caring for a 100% wool piece seems complex.",
+        "a": "To preserve its longevity and noble appearance, we recommend professional dry cleaning. Thanks to the quality of the Merinfleur fibre, the piece is virtually resistant to pilling and retains its shape for years to come."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шерсть может вызывать покалывание или дискомфорт.",
+        "a": "В моделях Luisa Spagnoli используется только отборная девственная шерсть (Vergine) высочайшей очистки. Она гипоаллергенна и обладает шелковистой текстурой, гарантируя комфорт при контакте с кожей."
+      },
+      {
+        "q": "Водолазка без рукавов кажется непрактичной для холодного сезона.",
+        "a": "Эта модель специально разработана как базовый слой для подиумных образов. Она сохраняет тепло тела, при этом отсутствие рукавов обеспечивает идеальную посадку и свободу движений под узкими рукавами наших жакетов и пальто."
+      },
+      {
+        "q": "Контрастная отделка может выглядеть слишком графично.",
+        "a": "Напротив, деликатные линии отделки подчеркивают архитектурность кроя и позволяют легко комбинировать топ с аксессуарами и обувью в аналогичной цветовой гамме, создавая завершенный образ."
+      },
+      {
+        "q": "Модель слишком сильно облегает фигуру.",
+        "a": "Плотная структура вязки «punto stoffa» мягко поддерживает силуэт, скрывая мелкие недостатки и обеспечивая уверенную посадку, характерную для премиального трикотажа."
+      },
+      {
+        "q": "Сложно ухаживать за изделием из 100% шерсти.",
+        "a": "Для сохранения долговечности и благородного вида мы рекомендуем профессиональную сухую чистку. Благодаря качеству волокна Merinfleur, изделие практически не подвержено пиллингу и сохраняет форму десятилетиями. |"
+      },
+      {
+        "q": "Шерсть может вызывать покалывание или дискомфорт.",
+        "a": "В моделях Luisa Spagnoli используется только отборная девственная шерсть высочайшей очистки. Она гипоаллергенна и обладает шелковистой текстурой, гарантируя абсолютный комфорт при контакте с кожей."
+      },
+      {
+        "q": "Водолазка без рукавов кажется непрактичной для холодного сезона.",
+        "a": "Эта модель специально разработана как базовый слой для подиумных образов. Она сохраняет тепло тела, при этом отсутствие рукавов обеспечивает идеальную посадку и свободу движений под узкими рукавами наших жакетов и пальто."
+      },
+      {
+        "q": "Контрастная отделка может выглядеть слишком графично.",
+        "a": "Напротив, деликатные линии отделки подчеркивают архитектурность кроя и позволяют легко комбинировать топ с аксессуарами и обувью в аналогичной цветовой гамме, создавая завершенный образ."
+      },
+      {
+        "q": "Модель слишком сильно облегает фигуру.",
+        "a": "Плотная структура вязки «punto stoffa» мягко поддерживает силуэт, скрывая мелкие недостатки и обеспечивая уверенную посадку, характерную для премиального трикотажа."
+      },
+      {
+        "q": "Сложно ухаживать за изделием из 100% шерсти.",
+        "a": "Для сохранения долговечности и благородного вида мы рекомендуем профессиональную сухую чистку. Благодаря качеству волокна Merinfleur, изделие практически не подвержено пиллингу и сохраняет форму годами."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الصوف قد يسبب وخزاً أو عدم راحة.",
+        "a": "في موديلات Luisa Spagnoli نستخدم فقط الصوف البكر (Vergine) المختار فائق النقاء. إنه مضاد للحساسية ويمتلك ملمساً حريرياً، مما يضمن الراحة عند ملامسته للبشرة."
+      },
+      {
+        "q": "الكنزة ذات الياقة العالية وبدون أكمام تبدو غير عملية للموسم البارد.",
+        "a": "هذا الموديل مصمم خصيصاً كطبقة أساسية لإطلالات منصات العرض. فهو يحفظ حرارة الجسم، بينما يضمن غياب الأكمام ثباتاً مثالياً وحرية في الحركة تحت الأكمام الضيقة لستراتنا ومعاطفنا."
+      },
+      {
+        "q": "الحواف المتباينة قد تبدو جرافيكية أكثر من اللازم.",
+        "a": "على العكس، تبرز الخطوط الرقيقة للحواف الهندسة التصميمية وتسمح بسهولة دمج التوب مع الإكسسوارات والأحذية بنفس لوحة الألوان، لخلق إطلالة متكاملة."
+      },
+      {
+        "q": "الموديل يلتصق بالجسم بشدة.",
+        "a": "الهيكل الكثيف لحياكة «punto stoffa» يدعم القوام بنعومة، مخفياً العيوب الصغيرة وموفراً مظهراً واثقاً يتميز به التريكو الفاخر."
+      },
+      {
+        "q": "من الصعب العناية بمنتج مصنوع من صوف 100%.",
+        "a": "للحفاظ على الديمومة والمظهر الراقي، ننصح بالتنظيف الجاف الاحترافي. بفضل جودة ألياف Merinfleur، المنتج عملياً لا يتعرض للوبر ويحافظ على شكله لعقود. |"
+      },
+      {
+        "q": "الصوف قد يسبب وخزاً أو عدم راحة.",
+        "a": "في موديلات Luisa Spagnoli نستخدم فقط الصوف البكر المختار فائق النقاء. إنه مضاد للحساسية ويمتلك ملمساً حريرياً، مما يضمن الراحة المطلقة عند ملامسته للبشرة."
+      },
+      {
+        "q": "الكنزة ذات الياقة العالية وبدون أكمام تبدو غير عملية للموسم البارد.",
+        "a": "هذا الموديل مصمم خصيصاً كطبقة أساسية لإطلالات منصات العرض. فهو يحفظ حرارة الجسم، بينما يضمن غياب الأكمام ثباتاً مثالياً وحرية في الحركة تحت الأكمام الضيقة لستراتنا ومعاطفنا."
+      },
+      {
+        "q": "الحواف المتباينة قد تبدو جرافيكية أكثر من اللازم.",
+        "a": "على العكس، تبرز الخطوط الرقيقة للحواف الهندسة التصميمية وتسمح بسهولة دمج التوب مع الإكسسوارات والأحذية بنفس لوحة الألوان، لخلق إطلالة متكاملة."
+      },
+      {
+        "q": "الموديل يلتصق بالجسم بشدة.",
+        "a": "الهيكل الكثيف لحياكة «punto stoffa» يدعم القوام بنعومة، مخفياً العيوب الصغيرة وموفراً مظهراً واثقاً يتميز به التريكو الفاخر."
+      },
+      {
+        "q": "من الصعب العناية بمنتج مصنوع من صوف 100%.",
+        "a": "للحفاظ على الديمومة والمظهر الراقي، ننصح بالتنظيف الجاف الاحترافي. بفضل جودة ألياف Merinfleur، المنتج عملياً لا يتعرض للوبر ويحافظ على شكله لسنوات."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მატყლმა შესაძლოა გამოიწვიოს ჩხვლეტა ან დისკომფორტი.",
+        "a": "Luisa Spagnoli-ს მოდელებში გამოიყენება მხოლოდ უმაღლესი ხარისხის, რჩეული პირველადი მატყლი (Vergine). ის ჰიპოალერგიულია და აქვს აბრეშუმისებრი ტექსტურა, რაც კანს უზრუნველყოფს კომფორტით."
+      },
+      {
+        "q": "უსახელო კუსფელდი არაპრაქტიკულად ჩანს ცივი სეზონისთვის.",
+        "a": "ეს მოდელი სპეციალურად არის შემუშავებული, როგორც საბაზისო ფენა პოდიუმის იმიჯებისთვის. ის ინარჩუნებს სხეულის სითბოს, ხოლო სახელოების არარსებობა უზრუნველყოფს იდეალურ მორგებასა და მოძრაობის თავისუფლებას ჩვენი პიჯაკებისა და პალტოების ვიწრო სახელოების ქვეშ."
+      },
+      {
+        "q": "კონტრასტული გაფორმება შესაძლოა ზედმეტად გრაფიკულად გამოიყურებოდეს.",
+        "a": "პირიქით, გაფორმების დელიკატური ხაზები ხაზს უსვამს კრილის არქიტექტურულობას და საშუალებას იძლევა ადვილად შეეხამოს ტოპი ანალოგიური ფერის აქსესუარებსა და ფეხსაცმელს, რაც ქმნის დასრულებულ იმიჯს."
+      },
+      {
+        "q": "მოდელი ზედმეტად მჭიდროდ ეკვრის ფიგურას.",
+        "a": "„punto stoffa“ ქსოვის მჭიდრო სტრუქტურა რბილად უჭერს მხარს სილუეტს, მალავს მცირე ნაკლოვანებებს და უზრუნველყოფს თავდაჯერებულ მორგებას, რაც დამახასიათებელია პრემიუმ-ტრიკოტაჟისთვის."
+      },
+      {
+        "q": "რთულია 100% მატყლის ნაკეთობის მოვლა.",
+        "a": "გამძლეობისა და დახვეწილი იერსახის შესანარჩუნებლად ჩვენ გირჩევთ პროფესიონალურ ქიმწმენდას. Merinfleur-ის ბოჭკოს ხარისხის წყალობით, ნაკეთობა პრაქტიკულად არ ექვემდებარება ბუსუსების წარმოქმნას და ინარჩუნებს ფორმას ათწლეულების განმავლობაში. |"
+      },
+      {
+        "q": "მატყლმა შესაძლოა გამოიწვიოს ჩხვლეტა ან დისკომფორტი.",
+        "a": "Luisa Spagnoli-ს მოდელებში გამოიყენება მხოლოდ უმაღლესი ხარისხის, რჩეული პირველადი მატყლი. ის ჰიპოალერგიულია და აქვს აბრეშუმისებრი ტექსტურა, რაც კანს უზრუნველყოფს აბსოლუტური კომფორტით."
+      },
+      {
+        "q": "უსახელო კუსფელდი არაპრაქტიკულად ჩანს ცივი სეზონისთვის.",
+        "a": "ეს მოდელი სპეციალურად არის შემუშავებული, როგორც საბაზისო ფენა პოდიუმის იმიჯებისთვის. ის ინარჩუნებს სხეულის სითბოს, ხოლო სახელოების არარსებობა უზრუნველყოფს იდეალურ მორგებასა და მოძრაობის თავისუფლებას ჩვენი პიჯაკებისა და პალტოების ვიწრო სახელოების ქვეშ."
+      },
+      {
+        "q": "კონტრასტული გაფორმება შესაძლოა ზედმეტად გრაფიკულად გამოიყურებოდეს.",
+        "a": "პირიქით, გაფორმების დელიკატური ხაზები ხაზს უსვამს კრილის არქიტექტურულობას და საშუალებას იძლევა ადვილად შეეხამოს ტოპი ანალოგიური ფერის აქსესუარებსა და ფეხსაცმელს, რაც ქმნის დასრულებულ იმიჯს."
+      },
+      {
+        "q": "მოდელი ზედმეტად მჭიდროდ ეკვრის ფიგურას.",
+        "a": "„punto stoffa“ ქსოვის მჭიდრო სტრუქტურა რბილად უჭერს მხარს სილუეტს, მალავს მცირე ნაკლოვანებებს და უზრუნველყოფს თავდაჯერებულ მორგებას, რაც დამახასიათებელია პრემიუმ-ტრიკოტაჟისთვის."
+      },
+      {
+        "q": "რთულია 100% მატყლის ნაკეთობის მოვლა.",
+        "a": "გამძლეობისა და დახვეწილი იერსახის შესანარჩუნებლად ჩვენ გირჩევთ პროფესიონალურ ქიმწმენდას. Merinfleur-ის ბოჭკოს ხარისხის წყალობით, ნაკეთობა პრაქტიკულად არ ექვემდებარება ბუსუსების წარმოქმნას და ინარჩუნებს ფორმას წლების განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բուրդը կարող է ծակծկոց կամ անհարմարություն առաջացնել։",
+        "a": "Luisa Spagnoli մոդելներում օգտագործվում է միայն բարձրագույն մաքրության ընտիր կույս բուրդ (Vergine)։ Այն հիպոալերգեն է և ունի մետաքսյա հյուսվածք՝ երաշխավորելով հարմարավետություն մաշկի հետ շփման ժամանակ։"
+      },
+      {
+        "q": "Առանց թևերի ջեմպրը ոչ պրակտիկ է թվում ցուրտ սեզոնի համար։",
+        "a": "Այս մոդելը հատուկ մշակված է որպես պոդիումային կերպարների բազային շերտ։ Այն պահպանում է մարմնի ջերմությունը, ընդ որում, թևերի բացակայությունն ապահովում է իդեալական նստվածք և շարժման ազատություն մեր ժակետների և վերարկուների նեղ թևերի տակ։"
+      },
+      {
+        "q": "Հակադիր եզրագծերը կարող են չափազանց գրաֆիկական թվալ։",
+        "a": "Հակառակը, եզրագծերի նուրբ գծերն ընդգծում են ձևվածքի ճարտարապետությունը և թույլ են տալիս հեշտությամբ համադրել տոպը համանման գունային երանգի աքսեսուարների և կոշիկների հետ՝ ստեղծելով ավարտուն կերպար։"
+      },
+      {
+        "q": "Մոդելը չափազանց սեղմում է կազմվածքը։",
+        "a": "punto stoffa» հյուսվածքի խիտ կառուցվածքը մեղմորեն պահում է ուրվագիծը՝ թաքցնելով մանր թերությունները և ապահովելով պրեմիում դասի տրիկոտաժին բնորոշ վստահելի նստվածք։"
+      },
+      {
+        "q": "Դժվար է խնամել 100% բրդյա արտադրանքը։",
+        "a": "Երկարակեցությունը և ազնիվ տեսքը պահպանելու համար մենք խորհուրդ ենք տալիս մասնագիտական քիմմաքրում։ Merinfleur մանրաթելի որակի շնորհիվ արտադրանքը գրեթե ենթակա չէ թափթփման և տասնամյակներ շարունակ պահպանում է իր ձևը։ |"
+      },
+      {
+        "q": "Բուրդը կարող է ծակծկոց կամ անհարմարություն առաջացնել։",
+        "a": "Luisa Spagnoli մոդելներում օգտագործվում է միայն բարձրագույն մաքրության ընտիր կույս բուրդ։ Այն հիպոալերգեն է և ունի մետաքսյա հյուսվածք՝ երաշխավորելով բացարձակ հարմարավետություն մաշկի հետ շփման ժամանակ։"
+      },
+      {
+        "q": "Առանց թևերի ջեմպրը ոչ պրակտիկ է թվում ցուրտ սեզոնի համար։",
+        "a": "Այս մոդելը հատուկ մշակված է որպես պոդիումային կերպարների բազային շերտ։ Այն պահպանում է մարմնի ջերմությունը, ընդ որում, թևերի բացակայությունն ապահովում է իդեալական նստվածք և շարժման ազատություն մեր ժակետների և վերարկուների նեղ թևերի տակ։"
+      },
+      {
+        "q": "Հակադիր եզրագծերը կարող են չափազանց գրաֆիկական թվալ։",
+        "a": "Հակառակը, եզրագծերի նուրբ գծերն ընդգծում են ձևվածքի ճարտարապետությունը և թույլ են տալիս հեշտությամբ համադրել տոպը համանման գունային երանգի աքսեսուարների և կոշիկների հետ՝ ստեղծելով ավարտուն կերպար։"
+      },
+      {
+        "q": "Մոդելը չափազանց սեղմում է կազմվածքը։",
+        "a": "punto stoffa» հյուսվածքի խիտ կառուցվածքը մեղմորեն պահում է ուրվագիծը՝ թաքցնելով մանր թերությունները և ապահովելով պրեմիում դասի տրիկոտաժին բնորոշ վստահելի նստվածք։"
+      },
+      {
+        "q": "Դժվար է խնամել 100% բրդյա արտադրանքը։",
+        "a": "Երկարակեցությունը և ազնիվ տեսքը պահպանելու համար մենք խորհուրդ ենք տալիս մասնագիտական քիմմաքրում։ Merinfleur մանրաթելի որակի շնորհիվ արտադրանքը գրեթե ենթակա չէ թափթփման և տարիներ շարունակ պահպանում է իր ձևը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vilna var radīt kņudināšanu vai diskomfortu.",
+        "a": "Luisa Spagnoli modeļos tiek izmantota tikai atlasīta, augstākās tīrības pakāpes jaunvilna (Vergine). Tā ir hipoalerģiska un tai piemīt zīdaina tekstūra, garantējot komfortu saskarē ar ādu."
+      },
+      {
+        "q": "Bezpiedurkņu džemperis ar augstu apkakli šķiet nepraktisks aukstajai sezonai.",
+        "a": "Šis modelis ir īpaši izstrādāts kā bāzes slānis modes skatēm piemērotiem tēliem. Tas saglabā ķermeņa siltumu, turklāt piedurkņu trūkums nodrošina ideālu piegulumu un kustību brīvību zem mūsu žakešu un mēteļu šaurajām piedurknēm."
+      },
+      {
+        "q": "Kontrastējošā apdare var izskatīties pārāk grafiski.",
+        "a": "Gluži pretēji, delikātās apdares līnijas izceļ piegriezuma arhitektoniskumu un ļauj viegli kombinēt topu ar aksesuāriem un apaviem līdzīgā krāsu gammā, radot pabeigtu tēlu."
+      },
+      {
+        "q": "Modelis pārāk cieši pieguļ figūrai.",
+        "a": "Blīvā «punto stoffa» adījuma struktūra maigi atbalsta siluetu, apslēpjot sīkas nepilnības un nodrošinot pārliecinošu piegulumu, kas raksturīgs premium trikotāžai."
+      },
+      {
+        "q": "Sarežģīti kopt 100% vilnas izstrādājumu.",
+        "a": "Lai saglabātu ilgmūžību un cēlu izskatu, mēs iesakām profesionālu ķīmisko tīrīšanu. Pateicoties Merinfleur šķiedras kvalitātei, izstrādājums gandrīz nav pakļauts savelšanās procesam un saglabā formu gadu desmitiem ilgi. |"
+      },
+      {
+        "q": "Vilna var radīt kņudināšanu vai diskomfortu.",
+        "a": "Luisa Spagnoli modeļos tiek izmantota tikai atlasīta, augstākās tīrības pakāpes jaunvilna. Tā ir hipoalerģiska un tai piemīt zīdaina tekstūra, garantējot absolūtu komfortu saskarē ar ādu."
+      },
+      {
+        "q": "Bezpiedurkņu džemperis ar augstu apkakli šķiet nepraktisks aukstajai sezonai.",
+        "a": "Šis modelis ir īpaši izstrādāts kā bāzes slānis modes skatēm piemērotiem tēliem. Tas saglabā ķermeņa siltumu, turklāt piedurkņu trūkums nodrošina ideālu piegulumu un kustību brīvību zem mūsu žakešu un mēteļu šaurajām piedurknēm."
+      },
+      {
+        "q": "Kontrastējošā apdare var izskatīties pārāk grafiski.",
+        "a": "Gluži pretēji, delikātās apdares līnijas izceļ piegriezuma arhitektoniskumu un ļauj viegli kombinēt topu ar aksesuāriem un apaviem līdzīgā krāsu gammā, radot pabeigtu tēlu."
+      },
+      {
+        "q": "Modelis pārāk cieši pieguļ figūrai.",
+        "a": "Blīvā «punto stoffa» adījuma struktūra maigi atbalsta siluetu, apslēpjot sīkas nepilnības un nodrošinot pārliecinošu piegulumu, kas raksturīgs premium trikotāžai."
+      },
+      {
+        "q": "Sarežģīti kopt 100% vilnas izstrādājumu.",
+        "a": "Lai saglabātu ilgmūžību un cēlu izskatu, mēs iesakām profesionālu ķīmisko tīrīšanu. Pateicoties Merinfleur šķiedras kvalitātei, izstrādājums gandrīz nav pakļauts savelšanās procesam un saglabā formu gadiem ilgi."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Vilna gali sukelti niežulį ar diskomfortą.",
+        "a": "Luisa Spagnoli modeliuose naudojama tik atrinkta aukščiausio grynumo vilna (Vergine). Ji yra hipoalerginė ir pasižymi šilkine tekstūra, garantuojančia komfortą sąlytyje su oda."
+      },
+      {
+        "q": "Golfas be rankovių atrodo nepraktiškas šaltajam sezonui.",
+        "a": "Šis modelis specialiai sukurtas kaip bazinis sluoksnis podiumo įvaizdžiams. Jis išsaugo kūno šilumą, o rankovių nebuvimas užtikrina idealų prigludimą ir judesių laisvę po siauromis mūsų švarkų bei paltų rankovėmis."
+      },
+      {
+        "q": "Kontrastinga apdaila gali atrodyti per daug grafiškai.",
+        "a": "Priešingai, delikačios apdailos linijos pabrėžia kirpimo architektūriškumą ir leidžia lengvai derinti topą su aksesuarais bei avalyne analogiškoje spalvų gamoje, sukuriant užbaigtą įvaizdį."
+      },
+      {
+        "q": "Modelis per stipriai aptempia figūrą.",
+        "a": "Tanki „punto stoffa“ mezgimo struktūra švelniai prilaiko siluetą, paslėpdama smulkius trūkumus ir užtikrindama užtikrintą prigludimą, būdingą premium klasės trikotažui."
+      },
+      {
+        "q": "Sudėtinga prižiūrėti gaminį iš 100% vilnos.",
+        "a": "Ilgaamžiškumui ir kilniai išvaizdai išsaugoti rekomenduojame profesionalų cheminį valymą. Dėl „Merinfleur“ pluošto kokybės gaminys praktiškai nėra linkęs pūkuotis ir išlaiko formą dešimtmečiais. |"
+      },
+      {
+        "q": "Vilna gali sukelti niežulį ar diskomfortą.",
+        "a": "Luisa Spagnoli modeliuose naudojama tik atrinkta aukščiausio grynumo vilna. Ji yra hipoalerginė ir pasižymi šilkine tekstūra, garantuojančia absoliutų komfortą sąlytyje su oda."
+      },
+      {
+        "q": "Golfas be rankovių atrodo nepraktiškas šaltajam sezonui.",
+        "a": "Šis modelis specialiai sukurtas kaip bazinis sluoksnis podiumo įvaizdžiams. Jis išsaugo kūno šilumą, o rankovių nebuvimas užtikrina idealų prigludimą ir judesių laisvę po siauromis mūsų švarkų bei paltų rankovėmis."
+      },
+      {
+        "q": "Kontrastinga apdaila gali atrodyti per daug grafiškai.",
+        "a": "Priešingai, delikačios apdailos linijos pabrėžia kirpimo architektūriškumą ir leidžia lengvai derinti topą su aksesuarais bei avalyne analogiškoje spalvų gamoje, sukuriant užbaigtą įvaizdį."
+      },
+      {
+        "q": "Modelis per stipriai aptempia figūrą.",
+        "a": "Tanki „punto stoffa“ mezgimo struktūra švelniai prilaiko siluetą, paslėpdama smulkius trūkumus ir užtikrindama užtikrintą prigludimą, būdingą premium klasės trikotažui."
+      },
+      {
+        "q": "Sudėtinga prižiūrėti gaminį iš 100% vilnos.",
+        "a": "Ilgaamžiškumui ir kilniai išvaizdai išsaugoti rekomenduojame profesionalų cheminį valymą. Dėl „Merinfleur“ pluošto kokybės gaminys praktiškai nėra linkęs pūkuotis ir išlaiko formą metais."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wełna może powodować kłucie lub dyskomfort.",
+        "a": "W modelach Luisa Spagnoli stosowana jest wyłącznie wyselekcjonowana dziewicza wełna (Vergine) najwyższej czystości. Jest ona hipoalergiczna i posiada jedwabistą teksturę, gwarantując komfort w kontakcie ze skórą."
+      },
+      {
+        "q": "Golf bez rękawów wydaje się niepraktyczny na zimny sezon.",
+        "a": "Ten model został specjalnie zaprojektowany jako warstwa bazowa do stylizacji wybiegowych. Utrzymuje ciepło ciała, przy czym brak rękawów zapewnia idealne dopasowanie i swobodę ruchów pod wąskimi rękawami naszych żakietów i płaszczy."
+      },
+      {
+        "q": "Kontrastowe wykończenie może wyglądać zbyt graficznie.",
+        "a": "Przeciwnie, delikatne linie wykończenia podkreślają architektoniczność kroju i pozwalają łatwo łączyć top z akcesoriami i obuwiem w analogicznej gamie kolorystycznej, tworząc kompletny wizerunek."
+      },
+      {
+        "q": "Model zbyt mocno opina figurę.",
+        "a": "Ścisła struktura splotu „punto stoffa” delikatnie wspiera sylwetkę, ukrywając drobne niedoskonałości i zapewniając pewne dopasowanie, charakterystyczne dla dzianin premium."
+      },
+      {
+        "q": "Trudno dbać o wyrób ze 100% wełny.",
+        "a": "Dla zachowania trwałości i szlachetnego wyglądu zalecamy profesjonalne czyszczenie chemiczne. Dzięki jakości włókna Merinfleur, produkt praktycznie nie ulega mechaceniu i zachowuje swój kształt przez dekady. |"
+      },
+      {
+        "q": "Wełna może powodować kłucie lub dyskomfort.",
+        "a": "W modelach Luisa Spagnoli stosowana jest wyłącznie wyselekcjonowana dziewicza wełna najwyższej czystości. Jest ona hipoalergiczna i posiada jedwabistą teksturę, gwarantując absolutny komfort w kontakcie ze skórą."
+      },
+      {
+        "q": "Golf bez rękawów wydaje się niepraktyczny na zimny sezon.",
+        "a": "Ten model został specjalnie zaprojektowany jako warstwa bazowa do stylizacji wybiegowych. Utrzymuje ciepło ciała, przy czym brak rękawów zapewnia idealne dopasowanie i swobodę ruchów pod wąskimi rękawami naszych żakietów i płaszczy."
+      },
+      {
+        "q": "Kontrastowe wykończenie może wyglądać zbyt graficznie.",
+        "a": "Przeciwnie, delikatne linie wykończenia podkreślają architektoniczność kroju i pozwalają łatwo łączyć top z akcesoriami i obuwiem w analogicznej gamie kolorystycznej, tworząc kompletny wizerunek."
+      },
+      {
+        "q": "Model zbyt mocno opina figurę.",
+        "a": "Ścisła struktura splotu „punto stoffa” delikatnie wspiera sylwetkę, ukrywając drobne niedoskonałości i zapewniając pewne dopasowanie, charakterystyczne dla dzianin premium."
+      },
+      {
+        "q": "Trudno dbać o wyrób ze 100% wełny.",
+        "a": "Dla zachowania trwałości i szlachetnego wyglądu zalecamy profesjonalne czyszczenie chemiczne. Dzięki jakości włókna Merinfleur, produkt praktycznie nie ulega mechaceniu i zachowuje swój kształt przez lata."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Вовна може викликати поколювання або дискомфорт.",
+        "a": "У моделях Luisa Spagnoli використовується лише відбірна незаймана вовна (Vergine) найвищого очищення. Вона гіпоалергенна і має шовковисту текстуру, гарантуючи комфорт при контакті зі шкірою."
+      },
+      {
+        "q": "Водолазка без рукавів здається непрактичною для холодного сезону.",
+        "a": "Ця модель спеціально розроблена як базовий шар для подіумних образів. Вона зберігає тепло тіла, при цьому відсутність рукавів забезпечує ідеальну посадку і свободу рухів під вузькими рукавами наших жакетів та пальто."
+      },
+      {
+        "q": "Контрастна обробка може виглядати занадто графічно.",
+        "a": "Навпаки, делікатні лінії оздоблення підкреслюють архітектурність крою і дозволяють легко комбінувати топ з аксесуарами та взуттям в аналогічній колірній гамі, створюючи завершений образ."
+      },
+      {
+        "q": "Модель занадто сильно облягає фігуру.",
+        "a": "Щільна структура в'язки «punto stoffa» м'яко підтримує силует, приховуючи дрібні недоліки та забезпечуючи впевнену посадку, характерну для преміального трикотажу."
+      },
+      {
+        "q": "Складно доглядати за виробом зі 100% вовни.",
+        "a": "Для збереження довговічності та благородного вигляду ми рекомендуємо професійну суху чистку. Завдяки якості волокна Merinfleur, виріб практично не піддається пілінгу і зберігає форму десятиліттями. |"
+      },
+      {
+        "q": "Вовна може викликати поколювання або дискомфорт.",
+        "a": "У моделях Luisa Spagnoli використовується лише відбірна незаймана вовна найвищого очищення. Вона гіпоалергенна і має шовковисту текстуру, гарантуючи абсолютний комфорт при контакті зі шкірою."
+      },
+      {
+        "q": "Водолазка без рукавів здається непрактичною для холодного сезону.",
+        "a": "Ця модель спеціально розроблена як базовий шар для подіумних образів. Вона зберігає тепло тіла, при цьому відсутність рукавів забезпечує ідеальну посадку і свободу рухів під вузькими рукавами наших жакетів та пальто."
+      },
+      {
+        "q": "Контрастна обробка може виглядати занадто графічно.",
+        "a": "Навпаки, делікатні лінії оздоблення підкреслюють архітектурність крою і дозволяють легко комбінувати топ з аксесуарами та взуттям в аналогічній колірній гамі, створюючи завершений образ."
+      },
+      {
+        "q": "Модель занадто сильно облягає фігуру.",
+        "a": "Щільна структура в'язки «punto stoffa» м'яко підтримує силует, приховуючи дрібні недоліки та забезпечуючи впевнену посадку, характерну для преміального трикотажу."
+      },
+      {
+        "q": "Складно доглядати за виробом зі 100% вовни.",
+        "a": "Для збереження довговічності та благородного вигляду ми рекомендуємо професійну суху чистку. Завдяки якості волокна Merinfleur, виріб практично не піддається пілінгу і зберігає форму роками."
+      }
+    ]
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "id": 60,
+  "name": "Frazione",
+  "description": {
+    "en": "The Frazione midi skirt is a manifesto of contemporary femininity and architectural perfection from Luisa Spagnoli. Cut in a flared circle silhouette (ruota), the piece is crafted from an exquisite mÃ©lange bouclÃ© enriched with 10% natural silk, lending it aristocratic softness and a delicate play of light. A considered cut creates flowing volume while retaining structural integrity, and a concealed side zip closure ensures flawless purity of line. A mid-calf length makes this piece a foundational investment in the wardrobe for creating status-defining ensembles in the 'quiet luxury' aesthetic.",
+    "ru": "Юбка-миди Frazione — это манифест современной женственности и архитектурного совершенства от Luisa Spagnoli. Модель силуэта «солнце» (ruota) выполнена из изысканного меланжевого букле, обогащенного 10% натурального шелка, что придает изделию аристократичную мягкость и деликатную игру света. Продуманный крой создает летящий объем, сохраняя при этом структурность образа, а скрытая боковая застежка-молния обеспечивает безупречную чистоту линий. Длина до середины икры делает эту модель фундаментальной инвестицией в гардероб для создания статусных ансамблей в эстетике «тихой роскоши».",
+    "ar": "تنورة ميدي Frazione هي بيان للأنوثة العصرية والكمال المعماري من Luisa Spagnoli. صُممت التنورة بقصة «الشمس» (ruota) من قماش البوكليه الملانج الفاخر، المعزز بـ 10% من الحرير الطبيعي، مما يمنح القطعة نعومة أرستقراطية وتلاعباً دقيقاً بالضوء. القصة المدروسة تخلق حجماً انسيابياً مع الحفاظ على هيكلية الإطلالة، بينما يضمن السحاب الجانبي المخفي نقاءً مثالياً للخطوط. الطول الذي يصل إلى منتصف الساق يجعل من هذا الموديل استثماراً أساسياً في خزانة الملابس لابتكار إطلالات راقية ضمن جماليات «الفخامة الهادئة».",
+    "ka": "მიდი-ქვედაბოლო Frazione არის თანამედროვე ქალურობისა და არქიტექტურული სრულყოფილების მანიფესტი Luisa Spagnoli-სგან. „მზის“ (ruota) სილუეტის მოდელი დამზადებულია დახვეწილი მელანჟის ბუკლესგან, რომელიც გამდიდრებულია 10% ნატურალური აბრეშუმით, რაც ნაკეთობას არისტოკრატულ სირბილესა და სინათლის დელიკატურ თამაშს ანიჭებს. გააზრებული ნაკერი ქმნის ჰაეროვან მოცულობას, ამავდროულად ინარჩუნებს იმიჯის სტრუქტურულობას, ხოლო გვერდითი ფარული ელვა-შესაკრავი უზრუნველყოფს ხაზების უნაკლო სისუფთავეს. წვივამდე სიგრძე ამ მოდელს აქცევს ფუნდამენტურ ინვესტიციად „მშვიდი ფუფუნების“ ესთეტიკაში სტატუსური ანსამბლების შესაქმნელად.",
+    "hy": "Frazione միդի-կիսաշրջազգեստը ժամանակակից կանացիության և Luisa Spagnoli-ի ճարտարապետական կատարելության մանիֆեստ է։ «Արև» (ruota) սիլուետով մոդելը պատրաստված է նրբագեղ մելանժային բուկլեից՝ հարստացված 10% բնական մետաքսով, ինչը հագուստին հաղորդում է արիստոկրատական փափկություն և լույսի նուրբ խաղ։ Մտածված ձևվածքը ստեղծում է թռչող ծավալ՝ միաժամանակ պահպանելով կերպարի կառուցվածքայնությունը, իսկ թաքնված կողային կայծակաճարմանդը ապահովում է գծերի անթերի մաքրություն։ Սրունքի մեջտեղին հասնող երկարությունը այս մոդելը դարձնում է հիմնարար ներդրում զգեստապահարանում՝ «լուռ շքեղության» էսթետիկայով կարգավիճակային անսամբլներ ստեղծելու համար։",
+    "lv": "Vidēja garuma svārki Frazione ir mūsdienīgas sievišķības un arhitektoniskās pilnības manifests no Luisa Spagnoli. „Saules” silueta modelis (ruota) ir izgatavots no izsmalcināta melīrēta bukē auduma, kas bagātināts ar 10% dabiskā zīda, kas izstrādājumam piešķir aristokrātisku maigumu un smalku gaismas spēli. Pārdomāts piegriezums rada lidojošu apjomu, vienlaikus saglabājot tēla strukturētību, bet slēpta sānu rāvējslēdzēja aizdare nodrošina nevainojamu līniju tīrību. Garums līdz ikru vidum padara šo modeli par fundamentālu investīciju garderobē statusa pilnu ansambļu radīšanai „klusās greznības” estētikā.",
+    "lt": "„Frazione“ midi sijonas — tai šiuolaikiško moteriškumo ir architektūrinio tobulumo manifestas iš Luisa Spagnoli. „Saulės“ (ruota) silueto modelis pasiūtas iš rafinuoto melanžinio buklė audinio, praturtinto 10% natūralaus šilko, kuris suteikia gaminiui aristokratiško švelnumo ir subtilaus šviesos žaismo. Apgalvotas kirpimas sukuria sklandančią apimtį, kartu išlaikydamas įvaizdžio struktūriškumą, o paslėptas šoninis užtrauktukas užtikrina nepriekaištingą linijų švarumą. Ilgis iki blauzdų vidurio paverčia šį modelį esmine investicija į garderobą kuriant statuso kupinus ansamblius „tylios prabangos“ estetikoje.",
+    "pl": "„Spódnica midi Frazione to manifest współczesnej kobiecości i architektonicznej perfekcji od Luisa Spagnoli. Model o kroju z koła (ruota) został wykonany z wyrafinowanej dzianiny bouclé o efekcie melanżu, wzbogaconej o 10% naturalnego jedwabiu, co nadaje całości arystokratyczną miękkość i subtelną grę światła. Przemyślany fason tworzy zwiewną objętość, zachowując jednocześnie strukturalność sylwetki, a kryty zamek błyskawiczny z boku dba o nieskazitelną czystość linii. Długość do połowy łydki czyni ten projekt fundamentalną inwestycją w garderobę, idealną do tworzenia prestiżowych stylizacji w duchu quiet luxury.”",
+    "uk": "Спідниця-міді Frazione — це маніфест сучасної жіночності та архітектурної досконалості від Luisa Spagnoli. Модель силуету «сонце» (ruota) виконана з вишуканого меланжевого букле, збагаченого 10% натурального шовку, що надає виробу аристократичної м'якості та делікатної гри світла. Продуманий крій створює летючий об'єм, зберігаючи при цьому структурність образу, а прихована бокова застібка-блискавка забезпечує бездоганну чистоту ліній. Довжина до середини ікри робить цю модель фундаментальною інвестицією в гардероб для створення статусних ансамблів у естетиці «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Var Grigio Panna",
+      "code": "3331",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%2843%29.png"
+    },
+    {
+      "name": "Var Marrone",
+      "code": "3404",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Tku_9qrwQfeWKiFEyBWMzg_1163675978696f422de2e643_18151331_02820090XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 100 (Melange Harmony)",
+        "en": "Total Look 100 (Melange Harmony)",
+        "ar": "Total Look 100 (Melange Harmony)",
+        "ka": "Total Look 100 (Melange Harmony)",
+        "hy": "Total Look 100 (Melange Harmony)",
+        "lv": "Total Look 100 (Melange Harmony)",
+        "lt": "Total Look 100 (Melange Harmony)",
+        "pl": "Total Look 100 (Melange Harmony)",
+        "uk": "Total Look 100 (Melange Harmony)"
+      },
+      "text": {
+        "ru": "Изысканное сочетание юбки Frazione 3404 с укороченным жакетом Svolta 3404. Образ дополнен пуловером Manos F 0951, элегантными перчатками Uboldo 2218 и статусной сумкой Iago 2240 0002.",
+        "en": "An exquisite combination of the Frazione 3404 skirt with the cropped Svolta 3404 jacket. The look is completed with the Manos F 0951 ( Data unavailable in official sources) pullover, elegant Uboldo 2218 gloves and a status Iago 2240 0002 bag.",
+        "ar": "An exquisite combination of the Frazione 3404 skirt with the cropped Svolta 3404 jacket. The look is completed with the Manos F 0951 ( Data unavailable in official sources) pullover, elegant Uboldo 2218 gloves and a status Iago 2240 0002 bag.",
+        "ka": "An exquisite combination of the Frazione 3404 skirt with the cropped Svolta 3404 jacket. The look is completed with the Manos F 0951 ( Data unavailable in official sources) pullover, elegant Uboldo 2218 gloves and a status Iago 2240 0002 bag.",
+        "hy": "An exquisite combination of the Frazione 3404 skirt with the cropped Svolta 3404 jacket. The look is completed with the Manos F 0951 ( Data unavailable in official sources) pullover, elegant Uboldo 2218 gloves and a status Iago 2240 0002 bag.",
+        "lv": "An exquisite combination of the Frazione 3404 skirt with the cropped Svolta 3404 jacket. The look is completed with the Manos F 0951 ( Data unavailable in official sources) pullover, elegant Uboldo 2218 gloves and a status Iago 2240 0002 bag.",
+        "lt": "An exquisite combination of the Frazione 3404 skirt with the cropped Svolta 3404 jacket. The look is completed with the Manos F 0951 ( Data unavailable in official sources) pullover, elegant Uboldo 2218 gloves and a status Iago 2240 0002 bag.",
+        "pl": "An exquisite combination of the Frazione 3404 skirt with the cropped Svolta 3404 jacket. The look is completed with the Manos F 0951 ( Data unavailable in official sources) pullover, elegant Uboldo 2218 gloves and a status Iago 2240 0002 bag.",
+        "uk": "An exquisite combination of the Frazione 3404 skirt with the cropped Svolta 3404 jacket. The look is completed with the Manos F 0951 ( Data unavailable in official sources) pullover, elegant Uboldo 2218 gloves and a status Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Frazione",
+          "code": "3404",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Tku_9qrwQfeWKiFEyBWMzg_1163675978696f422de2e643_18151331_02820090XX1.jpg"
+        },
+        {
+          "name": "Svolta",
+          "code": "3404",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/xqpugBqmSP-bAx5QyBJ1nQ_149493704696f430ad7f620_15586732_02821490XX1.jpg",
+          "modelId": 356
+        },
+        {
+          "name": "Manos F",
+          "code": "0951",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+        },
+        {
+          "name": "Uboldo",
+          "code": "2218",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281020%29.png"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 175 (Urban Luxury)",
+        "en": "Total Look 175 (Urban Luxury)",
+        "ar": "Total Look 175 (Urban Luxury)",
+        "ka": "Total Look 175 (Urban Luxury)",
+        "hy": "Total Look 175 (Urban Luxury)",
+        "lv": "Total Look 175 (Urban Luxury)",
+        "lt": "Total Look 175 (Urban Luxury)",
+        "pl": "Total Look 175 (Urban Luxury)",
+        "uk": "Total Look 175 (Urban Luxury)"
+      },
+      "text": {
+        "ru": "Ансамбль из юбки Frazione 3404 и жакета Svolta 3404, акцентированный брошью Nipplo 0907 0001 0002, ремнем Danielina 2432 0002 и туфлями Usanza A 0986.",
+        "en": "An ensemble featuring the Frazione 3404 skirt and Svolta 3404 jacket, accented with a Nipplo 0907 0001 0002 brooch, Danielina 2432 0002 belt and Usanza A 0986 shoes.",
+        "ar": "An ensemble featuring the Frazione 3404 skirt and Svolta 3404 jacket, accented with a Nipplo 0907 0001 0002 brooch, Danielina 2432 0002 belt and Usanza A 0986 shoes.",
+        "ka": "An ensemble featuring the Frazione 3404 skirt and Svolta 3404 jacket, accented with a Nipplo 0907 0001 0002 brooch, Danielina 2432 0002 belt and Usanza A 0986 shoes.",
+        "hy": "An ensemble featuring the Frazione 3404 skirt and Svolta 3404 jacket, accented with a Nipplo 0907 0001 0002 brooch, Danielina 2432 0002 belt and Usanza A 0986 shoes.",
+        "lv": "An ensemble featuring the Frazione 3404 skirt and Svolta 3404 jacket, accented with a Nipplo 0907 0001 0002 brooch, Danielina 2432 0002 belt and Usanza A 0986 shoes.",
+        "lt": "An ensemble featuring the Frazione 3404 skirt and Svolta 3404 jacket, accented with a Nipplo 0907 0001 0002 brooch, Danielina 2432 0002 belt and Usanza A 0986 shoes.",
+        "pl": "An ensemble featuring the Frazione 3404 skirt and Svolta 3404 jacket, accented with a Nipplo 0907 0001 0002 brooch, Danielina 2432 0002 belt and Usanza A 0986 shoes.",
+        "uk": "An ensemble featuring the Frazione 3404 skirt and Svolta 3404 jacket, accented with a Nipplo 0907 0001 0002 brooch, Danielina 2432 0002 belt and Usanza A 0986 shoes."
+      },
+      "items": [
+        {
+          "name": "Frazione",
+          "code": "3404",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Tku_9qrwQfeWKiFEyBWMzg_1163675978696f422de2e643_18151331_02820090XX1.jpg"
+        },
+        {
+          "name": "Svolta",
+          "code": "3404",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/xqpugBqmSP-bAx5QyBJ1nQ_149493704696f430ad7f620_15586732_02821490XX1.jpg",
+          "modelId": 356
+        },
+        {
+          "name": "Nipplo",
+          "code": "0907 0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/907.png"
+        },
+        {
+          "name": "Danielina",
+          "code": "2432 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WY_3Kd2cT3iyYByN3Yz82Q_1318480556696f4214bdb273_14047868_02800500XX1.jpg"
+        },
+        {
+          "name": "Usanza A",
+          "code": "0986",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USANZA_98600000000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 178 (Sophisticated Contrast)",
+        "en": "Total Look 178 (Sophisticated Contrast)",
+        "ar": "Total Look 178 (Sophisticated Contrast)",
+        "ka": "Total Look 178 (Sophisticated Contrast)",
+        "hy": "Total Look 178 (Sophisticated Contrast)",
+        "lv": "Total Look 178 (Sophisticated Contrast)",
+        "lt": "Total Look 178 (Sophisticated Contrast)",
+        "pl": "Total Look 178 (Sophisticated Contrast)",
+        "uk": "Total Look 178 (Sophisticated Contrast)"
+      },
+      "text": {
+        "ru": "Юбка Frazione 3404 в паре с ювелирным кардиганом Cromatura 0925, завершенный серьгами Nordici 0068 0002 и сумкой Idilliaco A 0986 0002.",
+        "en": "Frazione 3404 skirt paired with the jewelry-style Cromatura 0925 cardigan, completed with Nordici 0068 0002 earrings and an Idilliaco A 0986 0002 bag.",
+        "ar": "Frazione 3404 skirt paired with the jewelry-style Cromatura 0925 cardigan, completed with Nordici 0068 0002 earrings and an Idilliaco A 0986 0002 bag.",
+        "ka": "Frazione 3404 skirt paired with the jewelry-style Cromatura 0925 cardigan, completed with Nordici 0068 0002 earrings and an Idilliaco A 0986 0002 bag.",
+        "hy": "Frazione 3404 skirt paired with the jewelry-style Cromatura 0925 cardigan, completed with Nordici 0068 0002 earrings and an Idilliaco A 0986 0002 bag.",
+        "lv": "Frazione 3404 skirt paired with the jewelry-style Cromatura 0925 cardigan, completed with Nordici 0068 0002 earrings and an Idilliaco A 0986 0002 bag.",
+        "lt": "Frazione 3404 skirt paired with the jewelry-style Cromatura 0925 cardigan, completed with Nordici 0068 0002 earrings and an Idilliaco A 0986 0002 bag.",
+        "pl": "Frazione 3404 skirt paired with the jewelry-style Cromatura 0925 cardigan, completed with Nordici 0068 0002 earrings and an Idilliaco A 0986 0002 bag.",
+        "uk": "Frazione 3404 skirt paired with the jewelry-style Cromatura 0925 cardigan, completed with Nordici 0068 0002 earrings and an Idilliaco A 0986 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Frazione",
+          "code": "3404",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Tku_9qrwQfeWKiFEyBWMzg_1163675978696f422de2e643_18151331_02820090XX1.jpg"
+        },
+        {
+          "name": "Cromatura",
+          "code": "0925",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/CWJAV8NtTQeJbEBWQXaI5g_1702266686696f435d8145b1_95674973_02830320XX1.jpg",
+          "modelId": 16
+        },
+        {
+          "name": "Nordici",
+          "code": "0068 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nordici.png"
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the exclusive fabric composition: the presence of 10% natural silk gives the Frazione skirt a refined sheen and exceptional comfort, synonymous with Italian quality.",
+      "Recommend the 'ruota' (sunburst) silhouette as a versatile styling solution: the flared cut visually narrows the waist and creates a feminine, dynamic silhouette suited to any figure.",
+      "Present the piece as the foundation for layered looks — the textured bouclé pairs beautifully with both essential knitwear and statement jackets such as Svolta or Cromatura."
+    ],
+    "ru": [
+      "Делайте акцент на эксклюзивном составе ткани: наличие 10% натурального шелка обеспечивает юбке Frazione благородное сияние и исключительный комфорт, что является синонимом итальянского качества.",
+      "Рекомендуйте силуэт «ruota» (солнце) как универсальное стилистическое решение: расширяющийся книзу крой визуально сужает талию и создает женственный, динамичный силуэт, подходящий для любого типа фигуры.",
+      "Предлагайте модель как основу для многослойных образов — фактурное букле идеально комбинируется как с базовым трикотажем, так и с акцентными жакетами Svolta или Cromatura."
+    ],
+    "ar": [
+      "ركزي على تركيبة القماش الحصرية: فوجود 10% من الحرير الطبيعي يمنح تنورة Frazione بريقاً نبيلاً وراحة استثنائية، مما يعد مرادفاً للجودة الإيطالية.",
+      "رشحي قصة «ruota» (الدائرة) كحل أسلوبي عالمي: فالقصة المتسعة نحو الأسفل تعمل بصرياً على تنحيف الخصر وتخلق صورة ظلية أنثوية وديناميكية تناسب أي نوع من الأجسام.",
+      "اقترحي الموديل كأساس لإطلالات متعددة الطبقات؛ حيث يمتزج قماش البوكلي ذو القوام المثالي مع التريكو الأساسي أو مع جاكيتات Svolta أو Cromatura البارزة."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება ქსოვილის ექსკლუზიურ შემადგენლობაზე: 10% ნატურალური აბრეშუმის არსებობა Frazione-ს ქვედაკაბას ანიჭებს კეთილშობილურ ბზინვარებასა და განსაკუთრებულ კომფორტს, რაც იტალიური ხარისხის სინონიმია.",
+      "რეკომენდაცია გაუწიეთ „ruota“ (მზე) სილუეტს, როგორც უნივერსალურ სტილისტურ გადაწყვეტას: ქვემოთ გაშლილი ჭრილი ვიზუალურად ავიწროებს წელს და ქმნის ქალურ, დინამიკურ სილუეტს, რომელიც ნებისმიერი ტიპის აღნაგობისთვისაა შესაფერისი.",
+      "შესთავაზეთ მოდელი, როგორც მრავალფენიანი ლუქების საფუძველი — ფაქტურული ბუკლე იდეალურად კომბინირდება როგორც საბაზისო ტრიკოტაჟთან, ისე აქცენტირებულ Svolta-ს ან Cromatura-ს ჟაკეტებთან."
+    ],
+    "hy": [
+      "Շեշտադրեք գործվածքի բացառիկ բաղադրությունը՝ 10% բնական մետաքսի առկայությունը Frazione կիսաշրջազգեստին հաղորդում է ազնվական փայլ և բացառիկ հարմարավետություն, ինչը իտալական որակի հոմանիշ է։",
+      "Առաջարկեք «ruota» (արև) սիլուետը որպես ունիվերսալ ոճային լուծում՝ ներքև լայնացող կտրվածքը տեսողականորեն նեղացնում է գոտկատեղը և ստեղծում կանացի, դինամիկ սիլուետ, որը հարմար է ցանկացած տեսակի կազմվածքի։",
+      "Առաջարկեք մոդելը որպես բազմաշերտ կերպարների հիմք՝ հյուսվածքային բուկլեն կատարյալ համադրվում է ինչպես բազային տրիկոտաժի, այնպես էլ Svolta կամ Cromatura շեշտադրված ժակետների հետ։"
+    ],
+    "lv": [
+      "Uzsvēriet auduma ekskluzīvo sastāvu: 10% dabīgā zīda klātbūtne nodrošina svārkiem Frazione cēlu mirdzumu un izcilu komfortu, kas ir itāļu kvalitātes sinonīms.",
+      "Iesakiet «ruota» (saules) siluetu kā universālu stilistisko risinājumu: uz leju paplašinātais piegriezums vizuāli sašaurina vidukli un rada sievišķīgu, dinamisku siluetu, kas piemērots jebkuram figūras tipam.",
+      "Piedāvājiet modeli kā pamatu daudzslāņainiem tēliem — fakturētais bukē audums lieliski kombinējas gan ar bāzes trikotāžu, gan ar akcentējošām žaketēm Svolta vai Cromatura."
+    ],
+    "lt": [
+      "Išryškinkite išskirtinę audinio sudėtį: 10% natūralaus šilko suteikia Frazione sijonui kilnaus žvilgesio ir išskirtinio komforto, kurie yra itališkos kokybės sinonimas.",
+      "Rekomenduokite „ruota“ (saulės) siluetą kaip universalų stilistinį sprendimą: žemyn platėjantis kirpimas vizualiai siaurina liemenį ir sukuria moterišką, dinamišką siluetą, tinkantį bet kokio tipo figūrai.",
+      "Siūlykite šį modelį kaip pagrindą daugiasluoksniams įvaizdžiams – tekstūrinis buklė audinys idealiai dera tiek su baziniu trikotažu, tiek su akcentiniais Svolta ar Cromatura švarkais."
+    ],
+    "pl": [
+      "Kładź nacisk na ekskluzywny skład tkaniny: zawartość 10% naturalnego jedwabiu zapewnia spódnicy Frazione szlachetny blask i wyjątkowy komfort, co jest synonimem włoskiej jakości.",
+      "Rekomenduj sylwetkę „ruota” (klosz) jako uniwersalne rozwiązanie stylistyczne: rozszerzany ku dołowi krój optycznie zwęża talię i tworzy kobiecą, dynamiczną sylwetkę, pasującą do każdego typu figury.",
+      "Proponuj model jako bazę dla warstwowych stylizacji — fakturowane boucle idealnie komponuje się zarówno z bazową dzianiną, jak i z wyrazistymi żakietami Svolta czy Cromatura."
+    ],
+    "uk": [
+      "Робіть акцент на ексклюзивному складі тканини: наявність 10% натурального шовку забезпечує спідниці Frazione благородне сяйво та винятковий комфорт, що є синонімом італійської якості.",
+      "Рекомендуйте силует «ruota» (сонце) як універсальне стилістичне рішення: крій, що розширюється донизу, візуально звужує талію та створює жіночний, динамічний силует, що підходить для будь-якого типу фігури.",
+      "Пропонуйте модель як основу для багатошарових образів — фактурне букле ідеально комбінується як з базовим трикотажем, так і з акцентними жакетами Svolta або Cromatura."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Bouclé fabric may appear too voluminous and visually add bulk.",
+        "a": "The melange fabric in this piece has an optimal density and weight. Thanks to the circle cut, the fabric falls in vertical folds, creating a slender, fluid silhouette."
+      },
+      {
+        "q": "Concern that the fabric may quickly deform or lose its shape.",
+        "a": "The use of high-technology fibres (35% polyester) combined with wool and silk guarantees the stability of the fabric structure and prevents creasing throughout the day."
+      },
+      {
+        "q": "A mid-calf length seems challenging when it comes to choosing footwear.",
+        "a": "This is, in fact, the most prestigious length. We recommend pairing it with tall Ustica A boots or heeled shoes to visually elongate the frame."
+      },
+      {
+        "q": "Melange seems too casual for formal occasions.",
+        "a": "Thanks to its noble silken sheen and the ability to style it with fine jewellery-inspired knitwear (the Cromatura piece), the Frazione skirt transitions effortlessly into an evening look."
+      },
+      {
+        "q": "Concern about caring for such a multi-fibre composition.",
+        "a": "To preserve the pristine bouclé texture and the sheen of the silk threads, we recommend exclusively professional dry cleaning, ensuring the longevity of your wardrobe investment."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Ткань букле может выглядеть слишком объемной и визуально полнить.",
+        "a": "Меланжевое полотно в этой модели обладает оптимальной плотностью и весом. Благодаря крою «солнце», ткань ниспадает вертикальными фалдами, создавая стройный и летящий силуэт."
+      },
+      {
+        "q": "Боязнь, что ткань быстро деформируется или потеряет форму.",
+        "a": "Использование высокотехнологичных волокон (35% полиэстера) в сочетании с шерстью и шелком гарантирует стабильность структуры ткани и предотвращает сминаемость в течение дня."
+      },
+      {
+        "q": "Длина до середины икры кажется сложной для подбора обуви.",
+        "a": "Именно эта длина является наиболее статусной. Мы рекомендуем сочетать её с высокими сапогами Ustica A или туфлями на каблуке для визуального удлинения роста."
+      },
+      {
+        "q": "Меланж кажется слишком повседневным для торжественных выходов.",
+        "a": "Благодаря благородному шелковому отливу и возможности стилизации с ювелирным трикотажем (модель Cromatura), юбка Frazione легко трансформируется в вечерний образ."
+      },
+      {
+        "q": "Сложность в уходе за многокомпонентным составом волокон.",
+        "a": "Для сохранения первозданной фактуры букле и блеска шелковых нитей мы рекомендуем исключительно профессиональную химчистку, что обеспечит долговечность вашей инвестиции в гардероб."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يبدو قماش البوكلي ضخماً ويزيد من حجم الجسم بصرياً.",
+        "a": "يتميز النسيج الميلاج في هذا الموديل بكثافة ووزن مثاليين. وبفضل قصة «الشمس»، ينسدل القماش بتموجات عمودية، مما يخلق قواماً رشيقاً وانسيابياً."
+      },
+      {
+        "q": "الخوف من أن يفقد القماش شكله أو يتشوه بسرعة.",
+        "a": "استخدام الألياف عالية التقنية (35% بوليستر) مع الصوف والحرير يضمن ثبات هيكل النسيج ويمنع التجعد طوال اليوم."
+      },
+      {
+        "q": "طول منتصف الساق يبدو صعباً في اختيار الحذاء.",
+        "a": "هذا الطول تحديداً هو الأكثر رقياً. ننصح بتنسيقه مع جزمة طويلة Ustica A أو حذاء بكعب لإطالة القامة بصرياً."
+      },
+      {
+        "q": "قد يبدو الميلاج عادياً جداً للمناسبات الرسمية.",
+        "a": "بفضل البريق الحريري النبيل وإمكانية تنسيقها مع التريكو المزين بالمجوهرات (موديل Cromatura)، تتحول تنورة Frazione بسهولة إلى إطلالة مسائية."
+      },
+      {
+        "q": "صعوبة العناية بتركيبة الألياف المتعددة.",
+        "a": "للحفاظ على الملمس الأصلي للبوكلي وبريق خيوط الحرير، نوصي حصرياً بالتنظيف الجاف الاحترافي لضمان ديمومة استثمارك في خزانة ملابسك."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ბუკლეს ქსოვილი შეიძლება გამოიყურებოდეს ზედმეტად მოცულობითად და ვიზუალურად ასუქებდეს.",
+        "a": "ამ მოდელის მელანჟის ქსოვილს გააჩნია ოპტიმალური სიმკვრივე და წონა. „მზის“ კროის წყალობით, ქსოვილი ვერტიკალური ნაკეცებით ეშვება და ქმნის ტანწერწეტა და ჰაეროვან სილუეტს."
+      },
+      {
+        "q": "შიში იმისა, რომ ქსოვილი სწრაფად დეფორმირდება ან დაკარგავს ფორმას.",
+        "a": "მაღალტექნოლოგიური ბოჭკოების (35% პოლიესტერი) გამოყენება მატყლთან და აბრეშუმთან ერთად უზრუნველყოფს ქსოვილის სტრუქტურის სტაბილურობას და ხელს უშლის დაჭმუჭვნას დღის განმავლობაში."
+      },
+      {
+        "q": "შუა წვივამდე სიგრძე რთულად მოსაჩვენებელია ფეხსაცმლის შერჩევისთვის.",
+        "a": "სწორედ ეს სიგრძეა ყველაზე სტატუსური. ჩვენ გირჩევთ შეუხამოთ ის მაღალ ჩექმებს Ustica A ან ქუსლიან ფეხსაცმელს სიმაღლის ვიზუალური დაგრძელებისთვის."
+      },
+      {
+        "q": "მელანჟი ზედმეტად ყოველდღიურად გამოიყურება საზეიმო გასვლებისთვის.",
+        "a": "კეთილშობილური აბრეშუმისებრი ბზინვარებისა და იუველირული ტრიკოტაჟის (მოდელი Cromatura) მოდელთან სტილიზების შესაძლებლობის წყალობით, ქვედაბოლო Frazione ადვილად ტრანსფორმირდება საღამოს იმიჯად."
+      },
+      {
+        "q": "ბოჭკოების მრავალკომპონენტიანი შემადგენლობის მოვლის სირთულე.",
+        "a": "ბუკლეს პირველადი ფაქტურისა და აბრეშუმის ძაფების ბზინვარების შესანარჩუნებლად ჩვენ გირჩევთ ექსკლუზიურად პროფესიონალურ ქიმწმენდას, რაც უზრუნველყოფს თქვენი გარდერობის ინვესტიციის ხანგრძლივობას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բուկլե գործվածքը կարող է չափազանց ծավալուն թվալ և տեսողականորեն գիրացնել",
+        "a": "Այս մոդելի մելանժային գործվածքն օժտված է օպտիմալ խտությամբ և քաշով։ «Արև» կտրվածքի շնորհիվ գործվածքը իջնում է ուղղահայաց ծալքերով՝ ստեղծելով սլացիկ և թեթև ուրվագիծ։"
+      },
+      {
+        "q": "Վախ, որ գործվածքը արագ կձևախեղվի կամ կկորցնի ձևը",
+        "a": "Բարձրտեխնոլոգիական մանրաթելերի (35% պոլիեսթեր) օգտագործումը բրդի և մետաքսի հետ համադրությամբ երաշխավորում է գործվածքի կառուցվածքի կայունությունը և կանխում է օրվա ընթացքում կնճռոտվելը։"
+      },
+      {
+        "q": "Միջին սրունքի երկարությունը բարդ է թվում կոշիկ ընտրելիս",
+        "a": "Հենց այս երկարությունն է ամենակարգավիճակայինը։ Մենք խորհուրդ ենք տալիս այն համադրել Ustica A բարձր ճտքավոր կոշիկների կամ կրունկով կոշիկների հետ՝ հասակը տեսողականորեն երկարացնելու համար։"
+      },
+      {
+        "q": "Մելանժը չափազանց առօրյա է թվում հանդիսավոր ելքերի համար",
+        "a": "Ազնիվ մետաքսե փայլի և զարդարուն տրիկոտաժի (Cromatura մոդել) հետ համադրվելու հնարավորության շնորհիվ՝ Frazione կիսաշրջազգեստը հեշտությամբ վերափոխվում է երեկոյան կերպարի։"
+      },
+      {
+        "q": "Բազմաբաղադրիչ մանրաթելային կազմի խնամքի բարդությունը",
+        "a": "Բուկլեի սկզբնական փաստուրան և մետաքսե թելերի փայլը պահպանելու համար մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում, ինչը կապահովի ձեր զգեստապահարանի ներդրման երկարակեցությունը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Buklē audums var izskatīties pārāk apjomīgs un vizuāli padarīt pilnīgāku.",
+        "a": "Melanža audumam šajā modelī piemīt optimāls blīvums un svars. Pateicoties „saules” piegriezumam, audums krīt vertikālās krokās, veidojot slaidu un lidojošu siluetu."
+      },
+      {
+        "q": "Bažas, ka audums ātri deformēsies vai zaudēs formu.",
+        "a": "Augsto tehnoloģiju šķiedru (35% poliestera) izmantošana kombinācijā ar vilnu un zīdu garantē auduma struktūras stabilitāti un novērš burzīšanos dienas laikā."
+      },
+      {
+        "q": "Garums līdz ikru vidum šķiet sarežģīts apavu izvēlei.",
+        "a": "Tieši šis garums ir visstatusiskākais. Mēs iesakām to kombinēt ar augstiem zābakiem Ustica A vai kurpēm uz papēža, lai vizuāli pagarinātu augumu."
+      },
+      {
+        "q": "Melanžs šķiet pārāk ikdienišķs svinīgiem izgājieniem.",
+        "a": "Pateicoties cēlam zīda atspīdumam un iespējai stilizēt ar juvelierizstrādājumu trikotāžu (modelis Cromatura), svārki Frazione viegli transformējas vakara tēlā."
+      },
+      {
+        "q": "Sarežģītība kopšanā par daudzkomponentu šķiedru sastāvu.",
+        "a": "Lai saglabātu buklē sākotnējo faktūru un zīda diegu spīdumu, mēs iesakām tikai profesionālo ķīmisko tīrīšanu, kas nodrošinās jūsu investīcijas garderobē ilgmūžību."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Buklė audinys gali atrodyti per daug didelis ir vizualiai stambinti.",
+        "a": "Melžtas audinys šiame modelyje pasižymi optimaliu tankiu ir svoriu. Dėl „saulės“ kirpimo audinys krenta vertikaliomis klostėmis, sukuriantis liekną ir sklandų siluetą."
+      },
+      {
+        "q": "Baimė, kad audinys greitai deformuosis arba praras formą.",
+        "a": "Aukštųjų technologijų pluoštų (35 % poliesteris) naudojimas kartu su vilna ir šilku garantuoja audinio struktūros stabilumą ir apsaugo nuo glamžymosi visą dieną."
+      },
+      {
+        "q": "Ilgis iki blauzdos vidurio atrodo sudėtingas derinant batus.",
+        "a": "Būtent šis ilgis yra pats solidžiausias. Rekomenduojame derinti jį su aukštais aulinukais Ustica A arba bateliais su kulnu, kad vizualiai pailgintumėte ūgį."
+      },
+      {
+        "q": "Melanžas atrodo per daug kasdieniškas šventiniams išėjimams.",
+        "a": "Dėl kilnaus šilko spindesio ir galimybės derinti su juvelyriniu trikotažu (modelis Cromatura), Frazione sijonas lengvai transformuojasi į vakarinį įvaizdį."
+      },
+      {
+        "q": "Sudėtinga daugiakomponentės pluoštų sudėties priežiūra.",
+        "a": "Kad išsaugotumėte pradinę buklė faktūrą ir šilko siūlų spindesį, rekomenduojame tik profesionalų cheminį valymą, kuris užtikrins jūsų investicijos į garderobą ilgaamžiškumą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Tkanina typu bouclé może wyglądać zbyt masywnie i optycznie pogrubiać.",
+        "a": "Melanżowy materiał w tym modelu posiada optymalną gęstość i wagę. Dzięki krojowi typu „koło”, tkanina układa się w pionowe fałdy, tworząc smukłą i zwiewną sylwetkę."
+      },
+      {
+        "q": "Obawa, że tkanina szybko się odkształci lub straci formę.",
+        "a": "Zastosowanie zaawansowanych technologicznie włókien (35% poliestru) w połączeniu z wełną i jedwabiem gwarantuje stabilność struktury tkaniny i zapobiega gnieceniu się w ciągu dnia."
+      },
+      {
+        "q": "Długość do połowy łydki wydaje się trudna w doborze obuwia.",
+        "a": "Właśnie ta długość jest najbardziej prestiżowa. Zalecamy łączyć ją z wysokimi kozakami Ustica A lub butami na obcasie, aby optycznie wydłużyć sylwetkę."
+      },
+      {
+        "q": "Melanż wydaje się zbyt codzienny na uroczyste wyjścia.",
+        "a": "Dzięki szlachetnemu jedwabnemu połyskowi i możliwości łączenia z biżuteryjną dzianiną (model Cromatura), spódnica Frazione łatwo przekształca się w wieczorową stylizację."
+      },
+      {
+        "q": "Trudność w pielęgnacji wieloskładnikowej mieszanki włókien.",
+        "a": "Aby zachować pierwotną fakturę bouclé i blask jedwabnych nici, zalecamy wyłącznie profesjonalne czyszczenie chemiczne, co zapewni trwałość Twojej inwestycji w garderobę."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Тканина букле може виглядати надто об'ємною і візуально повнити.",
+        "a": "Меланжеве полотно у цій моделі володіє оптимальною щільністю та вагою. Завдяки крою «сонце», тканина спадає вертикальними фалдами, створюючи стрункий та летячий силует."
+      },
+      {
+        "q": "Боязнь, що тканина швидко деформується або втратить форму.",
+        "a": "Використання високотехнологічних волокон (35% поліестеру) у поєднанні з вовною та шовком гарантує стабільність структури тканини та запобігає зминання протягом дня."
+      },
+      {
+        "q": "Довжина до середини ікри здається складною для підбору взуття.",
+        "a": "Саме ця довжина є найбільш статусною. Ми рекомендуємо поєднувати її з високими чоботами Ustica A або туфлями на підборах для візуального подовження зросту."
+      },
+      {
+        "q": "Меланж здається надто повсякденним для урочистих виходів.",
+        "a": "Завдяки благородному шовковому відливу та можливості стилізації з ювелірним трикотажем (модель Cromatura), спідниця Frazione легко трансформується у вечірній образ."
+      },
+      {
+        "q": "Складність у догляді за багатокомпонентним складом волокон.",
+        "a": "Для збереження первинної фактури букле та блиску шовкових ниток ми рекомендуємо виключно професійну хімчистку, що забезпечить довговічність вашої інвестиції в гардероб."
+      }
+    ]
+  }
+}

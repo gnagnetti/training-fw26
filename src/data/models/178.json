@@ -1,0 +1,430 @@
+{
+  "id": 178,
+  "name": "Mira",
+  "description": {
+    "en": "A luxurious cape, embodying the spirit of contemporary classicism and effortless elegance from Luisa Spagnoli. The model is crafted from an exquisite blended fabric based on natural wool, ensuring exceptional softness and a noble texture. The principal decorative accent is the long, artfully woven fringe, lending the look dynamism and aristocratic chic. The absence of lining underscores the fluidity of the knit, allowing the piece to drape softly over the silhouette, creating the perfect layered ensemble for the winter season in the \"quiet luxury\" style.",
+    "ru": "Роскошная мантия, воплощающая в себе дух современной классики и непринужденной элегантности Luisa Spagnoli. Модель выполнена из изысканного смесового полотна на основе натуральной шерсти, что обеспечивает исключительную мягкость и благородную фактуру. Главным декоративным акцентом служат длинные, искусно вплетенные фризы, придающие образу динамику и аристократичный шик. Отсутствие подкладки подчеркивает пластичность трикотажа, позволяя изделию мягко облегать силуэт, создавая идеальный многослойный ансамбль для зимнего сезона в стиле «тихой роскоши».",
+    "ar": "رداء فاخر يجسد روح الكلاسيكية المعاصرة والأناقة العفوية لـ Luisa Spagnoli. القطعة مصنوعة من قماش مزيج راقٍ يعتمد على الصوف الطبيعي، مما يوفر نعومة استثنائية وملمساً نبيلاً. تعمل الشراريب الطويلة المنسوجة ببراعة كعنصر زخرفي رئيسي يضفي حيوية وأناقة أرستقراطية. يؤكد غياب البطانة على مرونة التريكو، مما يسمح للقطعة باحتضان القوام بنعومة، لخلق طقم متعدد الطبقات مثالي لموسم الشتاء بأسلوب «الرفاهية الهادئة».",
+    "ka": "მდიდრული მანტია, რომელიც განასახიერებს Luisa Spagnoli-ს თანამედროვე კლასიკისა და თავისუფალი ელეგანტურობის სულს. მოდელი დამზადებულია ნატურალური მატყლის ბაზაზე შექმნილი დახვეწილი შერეული ქსოვილისგან, რაც უზრუნველყოფს განსაკუთრებულ რბილობასა და კეთილშობილურ ფაქტურას. მთავარ დეკორატიულ აქცენტს წარმოადგენს გრძელი, ოსტატურად ჩაქსოვილი ფრიზები, რომლებიც იერსახეს დინამიკასა და არისტოკრატიულ შიკს ანიჭებს. უსარჩულო დიზაინი ხაზს უსვამს ტრიკოტაჟის პლასტიკურობას, რაც ნაკეთობას საშუალებას აძლევს რბილად შემოეჭდოს სილუეტს და შექმნას იდეალური მრავალშრიანი ანსამბლი ზამთრის სეზონისთვის „ჩუმი ფუფუნების“ სტილში.",
+    "hy": "Շքեղ թիկնոց, որը մարմնավորում է Luisa Spagnoli-ի ժամանակակից դասականի ոգին և անկաշկանդ էլեգանտությունը։ Մոդելը պատրաստված է բնական բրդի հիմքով նուրբ խառնուրդային կտավից, որն ապահովում է բացառիկ փափկություն և ազնվական հյուսվածք։ Գլխավոր դեկորատիվ շեշտադրումը երկար, հմտորեն հյուսված ֆրիզներն են, որոնք կերպարին հաղորդում են դինամիկա և արիստոկրատական շիկ։ Աստառի բացակայությունն ընդգծում է տրիկոտաժի պլաստիկությունը՝ թույլ տալով իրին մեղմորեն գրկել ուրվագիծը և ստեղծել կատարյալ բազմաշերտ համադրություն «լուռ շքեղության» ոճով ձմեռային սեզոնի համար։",
+    "lv": "Grezna mantija, kas iemieso mūsdienu klasikas garu un nepiespiestu Luisa Spagnoli eleganci. Modelis ir izgatavots no izsmalcināta auduma maisījuma uz dabīgas vilnas bāzes, kas nodrošina izcilu maigumu un cēlu faktūru. Galvenais dekoratīvais akcents ir garas, meistarīgi ieaustas bārkstis, kas tēlam piešķir dinamiku un aristokrātisku šiku. Odere trūkums uzsver trikotāžas plastiskumu, ļaujot izstrādājumam maigi apņemt siluetu, radot ideālu daudzslāņu ansambli ziemas sezonai «klusās greznības» stilā.",
+    "lt": "Prabangi mantija, įkūnijanti šiuolaikinės klasikos dvasią ir neįpareigojantį Luisa Spagnoli elegantiškumą. Modelis pagamintas iš rafinuoto audinio mišinio natūralios vilnos pagrindu, kas užtikrina išskirtinį minkštumą ir kilnią tekstūrą. Pagrindinis dekoratyvinis akcentas – ilgi, meistriškai įausti frizai, suteikiantys įvaizdžiui dinamikos ir aristokratiško šiko. Pamušalo nebuvimas pabrėžia trikotažo plastiškumą, leidžiant gaminiui švelniai priglusti prie silueto, sukuriant idealų daugiasluoksnį ansamblį žiemos sezonui „tylios prabangos“ stiliumi.",
+    "pl": "Luksusowy płaszcz, ucieleśniający ducha nowoczesnej klasyki i swobodnej elegancji Luisa Spagnoli. Model wykonany z wyrafinowanej mieszanej tkaniny na bazie naturalnej wełny, co zapewnia wyjątkową miękkość i szlachetną fakturę. Głównym akcentem dekoracyjnym są długie, kunsztownie wplecione frędzle, nadające stylizacji dynamiki i arystokratycznego szyku. Brak podszewki podkreśla plastyczność dzianiny, pozwalając ubraniu miękko otulać sylwetkę, tworząc idealny wielowarstwowy zestaw na zimowy sezon w stylu „cichego luksusu”.",
+    "uk": "Розкішна мантія, що втілює дух сучасної класики та невимушеної елегантності Luisa Spagnoli. Модель виконана з вишуканого сумішевого полотна на основі натуральної вовни, що забезпечує виняткову м'якість і благородну фактуру. Головним декоративним акцентом служать довгі, майстерно вплетені фризи, що додають образу динаміки та аристократичного шику. Відсутність підкладки підкреслює пластичність трикотажу, дозволяючи виробу м'яко облягати силует, створюючи ідеальний багатошаровий ансамбль для зимового сезону у стилі «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/beVciW1ZQAO2aet6tz4teg_1384514893696f4377e75048_28824063_02831240XX1.jpg"
+    },
+    {
+      "name": "Panna",
+      "code": "0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A9uRxdXcRpiCkjgx3Y2pSw_1598015888696f43785c9df9_64067927_02831250XX1.jpg"
+    },
+    {
+      "name": "Cammello",
+      "code": "2246",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%2855%29.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 53",
+        "en": "Total Look 53",
+        "ar": "Total Look 53",
+        "ka": "Total Look 53",
+        "hy": "Total Look 53",
+        "lv": "Total Look 53",
+        "lt": "Total Look 53",
+        "pl": "Total Look 53",
+        "uk": "Total Look 53"
+      },
+      "text": {
+        "ru": "Mira 0101 в сочетании с поло Macaria 0101, юбкой Fabula 0101, шляпой Rotterdam 0101 и аксессуарами Roaschia 3359.",
+        "en": "Mira 0101 combined with the Macaria 0101 polo, Fabula 0101 skirt, Rotterdam 0101 hat and Roaschia 3359 accessories.",
+        "ar": "Mira 0101 combined with the Macaria 0101 polo, Fabula 0101 skirt, Rotterdam 0101 hat and Roaschia 3359 accessories.",
+        "ka": "Mira 0101 combined with the Macaria 0101 polo, Fabula 0101 skirt, Rotterdam 0101 hat and Roaschia 3359 accessories.",
+        "hy": "Mira 0101 combined with the Macaria 0101 polo, Fabula 0101 skirt, Rotterdam 0101 hat and Roaschia 3359 accessories.",
+        "lv": "Mira 0101 combined with the Macaria 0101 polo, Fabula 0101 skirt, Rotterdam 0101 hat and Roaschia 3359 accessories.",
+        "lt": "Mira 0101 combined with the Macaria 0101 polo, Fabula 0101 skirt, Rotterdam 0101 hat and Roaschia 3359 accessories.",
+        "pl": "Mira 0101 combined with the Macaria 0101 polo, Fabula 0101 skirt, Rotterdam 0101 hat and Roaschia 3359 accessories.",
+        "uk": "Mira 0101 combined with the Macaria 0101 polo, Fabula 0101 skirt, Rotterdam 0101 hat and Roaschia 3359 accessories."
+      },
+      "items": [
+        {
+          "name": "Mira",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/beVciW1ZQAO2aet6tz4teg_1384514893696f4377e75048_28824063_02831240XX1.jpg"
+        },
+        {
+          "name": "Macaria",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1c1747b9-ac92-471a-ae98-e3c1b6b2eb99-removebg-preview.png",
+          "modelId": 133
+        },
+        {
+          "name": "Fabula",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg",
+          "modelId": 386
+        },
+        {
+          "name": "Rotterdam",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/29cd34c1-9939-4b00-a281-c620d08a01e7-removebg-preview.png"
+        },
+        {
+          "name": "Roaschia",
+          "code": "3359",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/roaschi.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sophisticated Look 95",
+        "en": "Sophisticated Look 95",
+        "ar": "Sophisticated Look 95",
+        "ka": "Sophisticated Look 95",
+        "hy": "Sophisticated Look 95",
+        "lv": "Sophisticated Look 95",
+        "lt": "Sophisticated Look 95",
+        "pl": "Sophisticated Look 95",
+        "uk": "Sophisticated Look 95"
+      },
+      "text": {
+        "ru": "Mira 0202 дополненная пуловером Matri 0202 и юбкой Marsan 0202.",
+        "en": "Mira 0202 complemented by the Matri 0202 pullover and Marsan 0202 skirt.",
+        "ar": "Mira 0202 complemented by the Matri 0202 pullover and Marsan 0202 skirt.",
+        "ka": "Mira 0202 complemented by the Matri 0202 pullover and Marsan 0202 skirt.",
+        "hy": "Mira 0202 complemented by the Matri 0202 pullover and Marsan 0202 skirt.",
+        "lv": "Mira 0202 complemented by the Matri 0202 pullover and Marsan 0202 skirt.",
+        "lt": "Mira 0202 complemented by the Matri 0202 pullover and Marsan 0202 skirt.",
+        "pl": "Mira 0202 complemented by the Matri 0202 pullover and Marsan 0202 skirt.",
+        "uk": "Mira 0202 complemented by the Matri 0202 pullover and Marsan 0202 skirt."
+      },
+      "items": [
+        {
+          "name": "Mira",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A9uRxdXcRpiCkjgx3Y2pSw_1598015888696f43785c9df9_64067927_02831250XX1.jpg"
+        },
+        {
+          "name": "Matri",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/N2VwqYU7SyiQWu_pOy8eVQ_2103273485696f43677befb5_34138714_02830670XX1.jpg",
+          "modelId": 159
+        },
+        {
+          "name": "Marsan",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/hx3WK9DDSqCfJ-7vSg3gxA_2065746112696f4366a2fa89_92262596_02830630XX1.jpg",
+          "modelId": 154
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Urban Chic 159: Mira 0101 со свитером Manos 0101, брюками Olla 1073, сапогами Ulisside 0101 0038 и ремнем Dancing 0101 0002.",
+        "en": "Urban Chic 159: Mira 0101 with the Manos 0101 sweater, Olla 1073 trousers, Ulisside 0101 0038 boots and Dancing 0101 0002 belt.",
+        "ar": "Urban Chic 159: Mira 0101 with the Manos 0101 sweater, Olla 1073 trousers, Ulisside 0101 0038 boots and Dancing 0101 0002 belt.",
+        "ka": "Urban Chic 159: Mira 0101 with the Manos 0101 sweater, Olla 1073 trousers, Ulisside 0101 0038 boots and Dancing 0101 0002 belt.",
+        "hy": "Urban Chic 159: Mira 0101 with the Manos 0101 sweater, Olla 1073 trousers, Ulisside 0101 0038 boots and Dancing 0101 0002 belt.",
+        "lv": "Urban Chic 159: Mira 0101 with the Manos 0101 sweater, Olla 1073 trousers, Ulisside 0101 0038 boots and Dancing 0101 0002 belt.",
+        "lt": "Urban Chic 159: Mira 0101 with the Manos 0101 sweater, Olla 1073 trousers, Ulisside 0101 0038 boots and Dancing 0101 0002 belt.",
+        "pl": "Urban Chic 159: Mira 0101 with the Manos 0101 sweater, Olla 1073 trousers, Ulisside 0101 0038 boots and Dancing 0101 0002 belt.",
+        "uk": "Urban Chic 159: Mira 0101 with the Manos 0101 sweater, Olla 1073 trousers, Ulisside 0101 0038 boots and Dancing 0101 0002 belt."
+      },
+      "items": [
+        {
+          "name": "Chic",
+          "code": "159",
+          "imageUrl": null
+        },
+        {
+          "name": "Mira",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/beVciW1ZQAO2aet6tz4teg_1384514893696f4377e75048_28824063_02831240XX1.jpg"
+        },
+        {
+          "name": "Manos",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Olla",
+          "code": "1073",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png",
+          "modelId": 456
+        },
+        {
+          "name": "Ulisside",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+        },
+        {
+          "name": "Dancing",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/u3PPqnKpTvWWZzsTCISHLA_594265671691c57d002eb99_39066319_02800040XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Data unavailable from official sources",
+      "Data unavailable from official sources",
+      "Data unavailable from official sources"
+    ],
+    "ru": [
+      "Подчеркните универсальность: мантия Mira идеально заменяет легкое пальто или жакет, обеспечивая тепло и свободу движений за счет открытого кроя.",
+      "Акцентируйте внимание на бахроме: этот декоративный элемент является ключевым трендом сезона, добавляя визуальный интерес и премиальность даже самому простому базовому образу.",
+      "Рекомендуйте многослойность: предложите клиенту носить мантию поверх облегающих платьев (например, Masuria) или трикотажных костюмов (Matri и Marsan) для создания статусного и уютного лука."
+    ],
+    "ar": [
+      "سلطي الضوء على تعددية الاستخدامات: عباءة Mira هي البديل المثالي للمعطف الخفيف أو الجاكيت، حيث توفر الدفء وحرية الحركة بفضل القصة المفتوحة.",
+      "ركزي على الشراشيب: هذا العنصر الزخرفي هو اتجاه رئيسي لهذا الموسم، ويضيف جاذبية بصرية وفخامة حتى لأبسط الإطلالات الأساسية.",
+      "ننصح بارتدائها بطريقة الطبقات: اقترحي على العميل ارتداء العباءة فوق الفساتين الضيقة (مثل Masuria) أو بدلات التريكو (Matri و Marsan) لخلق إطلالة راقية ومريحة."
+    ],
+    "ka": [
+      "ხაზი გაუსვით უნივერსალურობას: Mira-ს მანტია იდეალურად ანაცვლებს მსუბუქ პალტოს ან ჟაკეტს, უზრუნველყოფს რა სითბოსა და მოძრაობის თავისუფლებას ღია ჭრილის ხარჯზე.",
+      "გაამახვილეთ ყურადღება ფოჩებზე: ეს დეკორატიული ელემენტი სეზონის მთავარი ტრენდია, რომელიც მატებს ვიზუალურ მიმზიდველობასა და პრემიალობას ყველაზე მარტივ საბაზისო იმიჯსაც კი.",
+      "რეკომენდაცია გაუწიეთ მრავალშრიანობას: შესთავაზეთ კლიენტს მანტიის ტარება მომდგარი კაბების (მაგალითად, Masuria) ან ტრიკოტაჟის კოსტიუმების (Matri და Marsan) ზემოდან, სტატუსური და მყუდრო ლუქის შესაქმნელად."
+    ],
+    "hy": [
+      "Ընդգծեք բազմակողմանիությունը. Mira մանտիան կատարելապես փոխարինում է թեթև վերարկուին կամ բաճկոնին՝ ապահովելով ջերմություն և շարժումների ազատություն՝ բաց ձևվածքի շնորհիվ։",
+      "Շեշտադրեք ծոպերը. այս դեկորատիվ տարրը սեզոնի հիմնական թրենդն է՝ տեսողական հետաքրքրություն և պրեմիում տեսք հաղորդելով նույնիսկ ամենապարզ բազային կերպարին։",
+      "Առաջարկեք շերտավորում. առաջարկեք հաճախորդին կրել մանտիան կիպ զգեստների (օրինակ՝ Masuria) կամ տրիկոտաժե կոստյումների (Matri և Marsan) վրայից՝ ստեղծելով կարգավիճակային և հարմարավետ կերպար։"
+    ],
+    "lv": [
+      "Izceliet daudzpusību: Mira mantija lieliski aizstāj vieglu mēteli vai žaketi, nodrošinot siltumu un kustību brīvību, pateicoties atvērtajam piegriezumam.",
+      "Akcentējiet uzmanību uz bārkstīm: šis dekoratīvais elements ir sezonas galvenā tendence, piešķirot vizuālu interesi un augstvērtīgumu pat visvienkāršākajam bāzes tēlam.",
+      "Iesakiet daudzslāņainību: piedāvājiet klientam valkāt mantiju virs piegulošām kleitām (piemēram, Masuria) vai trikotāžas kostīmiem (Matri un Marsan), lai radītu statusīgu un mājīgu koptēlu."
+    ],
+    "lt": [
+      "Pabrėžkite universalumą: mantija Mira puikiai pakeičia lengvą paltą ar švarką, užtikrindama šilumą ir judesių laisvę dėl atviro kirpimo.",
+      "Akcentuokite kutus: šis dekoratyvinis elementas yra pagrindinė sezono tendencija, suteikianti vizualinio įdomumo ir prabangos net pačiam paprasčiausiam baziniam įvaizdžiui.",
+      "Rekomenduokite sluoksniavimą: pasiūlykite klientui dėvėti mantiją ant prigludusių suknelių (pavyzdžiui, Masuria) arba trikotažinių kostiumų (Matri ir Marsan), kad sukurtumėte statusą atitinkantį ir jaukų įvaizdį."
+    ],
+    "pl": [
+      "Podkreśl uniwersalność: narzutka Mira idealnie zastępuje lekki płaszcz lub żakiet, zapewniając ciepło i swobodę ruchów dzięki otwartemu krojowi.",
+      "Zwróć uwagę na frędzle: ten element dekoracyjny jest kluczowym trendem sezonu, dodając wizualnego uroku i klasy nawet najbardziej podstawowej stylizacji.",
+      "Rekomenduj warstwowość: zaproponuj klientce noszenie narzutki na dopasowane sukienki (na przykład Masuria) lub dzianinowe komplety (Matri i Marsan) w celu stworzenia eleganckiego i przytulnego looku."
+    ],
+    "uk": [
+      "Підкресліть універсальність: мантія Mira ідеально замінює легке пальто або жакет, забезпечуючи тепло та свободу рухів за рахунок відкритого крою.",
+      "Акцентуйте увагу на бахромі: цей декоративний елемент є ключовим трендом сезону, додаючи візуальний інтерес та преміальність навіть найпростішому базовому образу.",
+      "Рекомендуйте багатошаровість: запропонуйте клієнту носити мантію поверх облягаючих суконь (наприклад, Masuria) або трикотажних костюмів (Matri та Marsan) для створення статусного та затишного луку."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The absence of a lining makes the piece less warm.",
+        "a": "Explain that the absence of a lining is a deliberate design choice, preserving the natural softness and drape of the wool fabric. The cape is designed for creating stylish, layered looks, where warmth comes from pairing it with other wool pieces."
+      },
+      {
+        "q": "Fringe may seem too informal.",
+        "a": "Clarify that in this piece, the fringe is rendered in the same colour as the main fabric, making it a refined rather than an ethnic detail. It lends the look precisely that 'relaxed luxury' currently at the height of popularity."
+      },
+      {
+        "q": "The cape may conceal the figure.",
+        "a": "Demonstrate how easily the waist can be defined with a leather belt (such as Dancing or Danielina) worn over the cape, transforming it into a more structured, feminine wardrobe piece."
+      },
+      {
+        "q": "Caring for a fringed piece seems complex.",
+        "a": "Reassure the client that, with proper delicate care and professional cleaning, the fringe will retain its original appearance. Luisa Spagnoli's exceptional craftsmanship guarantees the longevity of every detail."
+      },
+      {
+        "q": "The blended composition (wool with acrylic).",
+        "a": "Emphasise that the addition of high-technology acrylic is essential so that such a voluminous piece as the cape does not deform under its own weight, remains lightweight, and preserves the flawless shape of its friezes for many years to come."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Отсутствие подкладки делает вещь менее теплой",
+        "a": "Объясните, что отсутствие подкладки — это осознанное дизайнерское решение, которое сохраняет естественную мягкость и драпируемость шерстяного полотна. Мантия предназначена для создания стильных многослойных образов, где тепло обеспечивается за счет сочетания с другими изделиями из шерсти."
+      },
+      {
+        "q": "Бахрома может казаться слишком неформальной",
+        "a": "Уточните, что в данной модели бахрома выполнена в цвет основного полотна, что делает её изысканным, а не этническим элементом. Она придает образу ту самую 'расслабленную роскошь', которая сейчас на пике популярности."
+      },
+      {
+        "q": "Мантия может скрывать фигуру",
+        "a": "Продемонстрируйте, как легко подчеркнуть талию с помощью кожаного ремня (например, Dancing или Danielina) поверх мантии, превращая её в более структурированный и женственный предмет гардероба."
+      },
+      {
+        "q": "Сложность в уходе за изделием с бахромой",
+        "a": "Заверьте клиента, что при соблюдении рекомендаций по деликатному уходу и профессиональной чистке бахрома сохранит свой первоначальный вид. Высокое качество исполнения Luisa Spagnoli гарантирует долговечность каждой детали."
+      },
+      {
+        "q": "Смесовый состав (шерсть с акрилом)",
+        "a": "Подчеркните, что добавление высокотехнологичного акрила необходимо для того, чтобы такая объемная вещь, как мантия, не деформировалась под собственным весом, оставалась легкой и сохраняла безупречную форму фризов на протяжении многих лет."
+      }
+    ],
+    "ar": [
+      {
+        "q": "غياب البطانة يجعل القطعة أقل دفئاً",
+        "a": "اشرحي أن غياب البطانة هو قرار تصميمي واعٍ يحافظ على النعومة الطبيعية وقابلية التنسيق للقماش الصوفي. الرداء مصمم لخلق إطلالات عصرية متعددة الطبقات، حيث يتم توفير الدفء من خلال التنسيق مع قطع أخرى من الصوف."
+      },
+      {
+        "q": "الشرشوبة قد تبدو غير رسمية جداً",
+        "a": "وضحي أنه في هذا الموديل، الشرشوبة منفذة بلون القماش الأساسي، مما يجعلها عنصراً راقياً وليس إثنياً. إنها تمنح الإطلالة تلك 'الرفاهية الانسيابية' التي تتربع حالياً على قمة الموضة."
+      },
+      {
+        "q": "الرداء قد يخفي القوام",
+        "a": "أظهري مدى سهولة إبراز الخصر باستخدام حزام جلدي (مثل Dancing أو Danielina) فوق الرداء، مما يحوله إلى قطعة ملابس أكثر هيكلية وأنوثة."
+      },
+      {
+        "q": "صعوبة العناية بالقطعة ذات الشرشوبة",
+        "a": "طمئني العميل بأن اتباع توصيات العناية الرقيقة والتنظيف الاحترافي سيحافظ على الشرشوبة في شكلها الأصلي. جودة التنفيذ العالية من Luisa Spagnoli تضمن متانة كل تفصيل."
+      },
+      {
+        "q": "تركيبة المواد (صوف مع أكريليك)",
+        "a": "أكدي أن إضافة الأكريليك عالي التكنولوجيا ضرورية لضمان عدم تشوه قطعة ضخمة مثل الرداء تحت ثقلها الخاص، ولتبقى خفيفة وتحافظ على شكلها المثالي لسنوات عديدة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "სარჩულის არარსებობა ნივთს ნაკლებად თბილს ხდის",
+        "a": "განუმარტეთ, რომ სარჩულის არარსებობა გააზრებული დიზაინერული გადაწყვეტილებაა, რომელიც ინარჩუნებს მატყლის ქსოვილის ბუნებრივ სირბილესა და დრაპირებადობას. მანტია შექმნილია მოდური მრავალშრიანი ანსამბლებისთვის, სადაც სითბო უზრუნველყოფილია სხვა მატყლის ნივთებთან შეხამებით."
+      },
+      {
+        "q": "ფოჩები შესაძლოა ზედმეტად არაფორმალური გეჩვენებათ",
+        "a": "დააზუსტეთ, რომ ამ მოდელში ფოჩები ძირითადი ქსოვილის ფერშია შესრულებული, რაც მას დახვეწილ და არა ეთნიკურ ელემენტად აქცევს. იგი გამოსახულებას ანიჭებს იმ 'თავისუფალ ფუფუნებას', რომელიც ახლა პოპულარობის ზენიტშია."
+      },
+      {
+        "q": "მანტიამ შესაძლოა ფიგურა დაფაროს",
+        "a": "უჩვენეთ, თუ როგორ შეიძლება ადვილად გაესვას ხაზი წელს ტყავის ქამრის (მაგალითად, Dancing ან Danielina) დახმარებით მანტიის ზემოდან, რაც მას უფრო სტრუქტურირებულ და ქალურ გარდერობის საგნად აქცევს."
+      },
+      {
+        "q": "ფოჩიანი ნივთის მოვლის სირთულე",
+        "a": "დაარწმუნეთ კლიენტი, რომ დელიკატური მოვლისა და პროფესიონალური წმენდის რეკომენდაციების დაცვით ფოჩები პირველქმნილ იერს შეინარჩუნებს. Luisa Spagnoli-ს მაღალი ხარისხის შესრულება გარანტიაა თითოეული დეტალის გამძლეობისა."
+      },
+      {
+        "q": "შერეული შემადგენლობა (მატყლი აკრილით)",
+        "a": "ხაზგასმით აღნიშნეთ, რომ მაღალტექნოლოგიური აკრილის დამატება აუცილებელია იმისთვის, რომ ისეთი მოცულობითი ნივთი, როგორიცაა მანტია, საკუთარი წონის ქვეშ არ დეფორმირდეს, დარჩეს მსუბუქი და შეინარჩუნოს ფრიზების უნაკლო ფორმა მრავალი წლის განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Աստառի բացակայությունը իրը դարձնում է ոչ այնքան տաք",
+        "a": "Բացատրեք, որ աստառի բացակայությունը գիտակցված դիզայներական լուծում է, որը պահպանում է բրդյա կտավի բնական փափկությունը և դրապիրովկան: Մանթիան նախատեսված է նորաձև շերտավոր կերպարներ ստեղծելու համար, որտեղ ջերմությունն ապահովվում է բրդյա այլ իրերի հետ համադրման հաշվին"
+      },
+      {
+        "q": "Ծոպերը կարող են չափազանց ոչ ֆորմալ թվալ",
+        "a": "Հստակեցրեք, որ այս մոդելում ծոպերը պատրաստված են հիմնական կտավի գույնով, ինչը այն դարձնում է նրբագեղ և ոչ թե էթնիկ տարր: Այն կերպարին հաղորդում է հենց այն 'հանգիստ շքեղությունը', որն այժմ ժողովրդականության գագաթնակետին է"
+      },
+      {
+        "q": "Մանթիան կարող է թաքցնել կազմվածքը",
+        "a": "Ցույց տվեք, թե որքան հեշտ է ընդգծել գոտկատեղը կաշվե գոտիով (օրինակ՝ Dancing կամ Danielina) մանթիայի վրայից՝ այն դարձնելով զգեստապահարանի ավելի կառուցվածքային և կանացի իր"
+      },
+      {
+        "q": "Ծոպերով արտադրանքի խնամքի բարդությունը",
+        "a": "Վստահեցրեք հաճախորդին, որ նուրբ խնամքի և պրոֆեսիոնալ մաքրման հանձնարարականներին հետևելու դեպքում ծոպերը կպահպանեն իրենց սկզբնական տեսքը: Luisa Spagnoli-ի կատարման բարձր որակը երաշխավորում է յուրաքանչյուր դետալի երկարակեցությունը"
+      },
+      {
+        "q": "Խառը կազմ (բուրդ ակրիլով)",
+        "a": "Շեշտեք, որ բարձրտեխնոլոգիական ակրիլի ավելացումն անհրաժեշտ է, որպեսզի այնպիսի ծավալուն իր, ինչպիսին մանթիան է, չդեֆորմացվի իր իսկ ծանրության տակ, մնա թեթև և երկար տարիներ պահպանի ֆրիզների անթերի ձևը:]"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Oderes trūkums padara lietu mazāk siltu",
+        "a": "Paskaidrojiet, ka oderes trūkums ir apzināts dizaina risinājums, kas saglabā vilnas auduma dabisko maigumu un drapējamību. Mantija ir paredzēta stilīgu daudzslāņu tēlu radīšanai, kur siltums tiek nodrošināts, pateicoties kombinācijai ar citiem vilnas izstrādājumiem."
+      },
+      {
+        "q": "Bārkstis var šķist pārāk neformālas",
+        "a": "Precizējiet, ka šajā modelī bārkstis ir izgatavotas pamatmateriāla krāsā, kas padara tās par izsmalcinātu, nevis etnisku elementu. Tās piešķir tēlam to pašu 'nepiespiesto greznību', kas šobrīd ir popularitātes virsotnē."
+      },
+      {
+        "q": "Mantija var noslēpt figūru",
+        "a": "Demonstrējiet, cik viegli ir izcelt vidukli ar ādas jostas (piemēram, Dancing vai Danielina) palīdzību virs mantijas, pārvēršot to par strukturētāku un sievišķīgāku garderobes priekšmetu."
+      },
+      {
+        "q": "Sarežģīta kopšana izstrādājumam ar bārkstīm",
+        "a": "Aplieciniet klientam, ka, ievērojot saudzīgas kopšanas un profesionālās tīrīšanas ieteikumus, bārkstis saglabās savu sākotnējo izskatu. Luisa Spagnoli augstā izpildījuma kvalitāte garantē katras detaļas ilgmūžību."
+      },
+      {
+        "q": "Jaukts sastāvs (vilna ar akrilu)",
+        "a": "Uzsveriet, ka augsto tehnoloģiju akrila pievienošana ir nepieciešama, lai tāda apjomīga lieta kā mantija nedeformētos zem sava svara, paliktu viegla un saglabātu nevainojamu frīžu formu daudzu gadu garumā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Dėl pamušalo nebuvimo drabužis mažiau šiltas",
+        "a": "Paaiškinkite, kad pamušalo nebuvimas — tai apgalvotas dizainerio sprendimas, kuris išsaugo natūralų vilnonio audinio minkštumą ir drapiruojamąsias savybes. Mantija skirta stilingiems sluoksniuotiems įvaizdžiams kurti, kur šiluma užtikrinama derinant su kitais vilnos gaminiais."
+      },
+      {
+        "q": "Kutas gali atrodyti per daug neformalus",
+        "a": "Patikslinkite, kad šiame modelyje kutai atlikti pagrindinio audinio spalvos, todėl jie tampa išskirtiniu, o ne etniniu elementu. Tai suteikia įvaizdžiui tą „laisvą prabangą“, kuri dabar yra populiarumo viršūnėje."
+      },
+      {
+        "q": "Mantija gali paslėpti figūrą",
+        "a": "Pademonstruokite, kaip lengva pabrėžti liemenį odiniu diržu (pavyzdžiui, Dancing arba Danielina) virš mantijos, paverčiant ją labiau struktūruotu ir moterišku garderobo elementu."
+      },
+      {
+        "q": "Sudėtinga priežiūra dėl kutų",
+        "a": "Užtikrinkite klientą, kad laikantis delikataus valymo rekomendacijų, kutai išsaugos savo pirminę išvaizdą. Aukšta Luisa Spagnoli darbo kokybė garantuoja kiekvienos detalės ilgaamžiškumą."
+      },
+      {
+        "q": "Audinio sudėtis (vilna su akrilu)",
+        "a": "Pabrėžkite, kad aukštųjų technologijų akrilo pridėjimas yra būtinas, kad toks tūrinis drabužis kaip mantija nedeformuotųsi nuo savo svorio, išliktų lengvas ir išsaugotų nepriekaištingą frizų formą daugelį metų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Brak podszewki sprawia, że rzecz jest mniej ciepła",
+        "a": "Wyjaśnij, że brak podszewki to świadoma decyzja projektowa, która zachowuje naturalną miękkość i układalność wełnianej tkaniny. Okrycie przeznaczone jest do tworzenia stylowych, warstwowych stylizacji, gdzie ciepło zapewnia połączenie z innymi wełnianymi elementami garderoby."
+      },
+      {
+        "q": "Frędzle mogą wydawać się zbyt nieformalne",
+        "a": "Wyjaśnij, że w tym modelu frędzle wykonano w kolorze głównej tkaniny, co czyni je wyrafinowanym, a nie etnicznym detalem. Nadają one stylizacji ten właśnie 'niezobowiązujący luksus', który jest obecnie u szczytu popularności."
+      },
+      {
+        "q": "Okrycie może maskować figurę",
+        "a": "Pokaż, jak łatwo podkreślić talię za pomocą skórzanego paska (na przykład Dancing lub Danielina) na wierzchu, zmieniając okrycie w bardziej ustrukturyzowany i kobiecy element garderoby."
+      },
+      {
+        "q": "Trudności w pielęgnacji wyrobu z frędzlami",
+        "a": "Zapewnij klientkę, że przy przestrzeganiu zaleceń dotyczących delikatnej pielęgnacji i profesjonalnego czyszczenia, frędzle zachowają swój pierwotny wygląd. Wysoka jakość wykonania Luisa Spagnoli gwarantuje trwałość każdego detalu."
+      },
+      {
+        "q": "Mieszany skład (wełna z akrylem)",
+        "a": "Podkreśl, że dodatek wysokotechnologicznego akrylu jest konieczny, aby tak obszerna rzecz jak to okrycie nie deformowała się pod własnym ciężarem, pozostawała lekka i zachowywała nienaganny kształt przez wiele lat."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Бахрома може здаватися занадто неформальною",
+        "a": "Уточніть, що в даній моделі бахрома виконана в колір основного полотна, що робить її вишуканим, а не етнічним елементом. Вона додає образу ту саму 'розслаблену розкіш', яка зараз на піку популярності."
+      },
+      {
+        "q": "Мантія може приховувати фігуру",
+        "a": "Продемонструйте, як легко підкреслити талію за допомогою шкіряного ременя (наприклад, Dancing або Danielina) поверх мантії, перетворюючи її на більш структурований і жіночний предмет гардероба."
+      },
+      {
+        "q": "Складність у догляді за виробом із бахромою",
+        "a": "Запевніть клієнта, що при дотриманні рекомендацій щодо делікатного догляду та професійного чищення бахрома збереже свій первинний вигляд. Висока якість виконання Luisa Spagnoli гарантує довговічність кожної деталі."
+      },
+      {
+        "q": "Змішаний склад (вовна з акрилом)",
+        "a": "Підкресліть, що додавання високотехнологічного акрилу необхідне для того, щоб така об'ємна річ, як мантія, не деформувалася під власною вагою, залишалася легкою і зберігала бездоганну форму фризів протягом багатьох років."
+      }
+    ]
+  }
+}

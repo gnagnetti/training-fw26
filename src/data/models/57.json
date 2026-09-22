@@ -1,0 +1,449 @@
+{
+  "id": 57,
+  "name": "Franchezza",
+  "description": {
+    "en": "The elegant Franchezza midi skirt by Luisa Spagnoli is the quintessence of romantic chic and flawless Italian style. Crafted from exquisite floral lace with a tonal lining, creating a mesmerizing depth of texture. A classic pencil silhouette, paired with a below-the-knee length, masterfully sculpts a feminine silhouette. A concealed back zip closure ensures perfect purity of line, transforming this piece into a foundational element of both the formal and status-defining daytime wardrobe.",
+    "ru": "Элегантная юбка-миди Franchezza от Luisa Spagnoli — это квинтэссенция романтического шика и безупречного итальянского стиля. Модель выполнена из изысканного цветочного кружева, дополненного подкладкой в тон, что создает завораживающую глубину фактуры. Классический силуэт «карандаш» в сочетании с длиной ниже колена виртуозно моделирует женственный силуэт. Потайная застежка-молния на задней панели обеспечивает идеальную чистоту линий, превращая это изделие в фундаментальный элемент как торжественного, так и статусного дневного гардероба.",
+    "ar": "تنورة ميدي الأنيقة Franchezza من Luisa Spagnoli هي جوهر الأناقة الرومانسية والنمط الإيطالي الذي لا تشوبه شائبة. صُنعت القطعة من دانتيل الزهور الراقي، مع بطانة متناغمة اللون تضفي عمقاً ساحراً على الملمس. القصة الكلاسيكية «قلم الرصاص» (pencil skirt) مع الطول الذي يتجاوز الركبة تحدد القوام الأنثوي ببراعة. يضمن سحاب الإغلاق المخفي في الخلف نقاء الخطوط، مما يجعل هذه القطعة عنصراً أساسياً لكل من الإطلالات الاحتفالية والملابس النهارية الراقية.",
+    "ka": "Luisa Spagnoli-ის ელეგანტური მიდი-ქვედაბოლო Franchezza არის რომანტიკული შიკისა და უნაკლო იტალიური სტილის კვინტესენცია. მოდელი დამზადებულია დახვეწილი ყვავილოვანი მაქმანისგან, რომელიც შევსებულია ტონში არსებული სარჩულით, რაც ფაქტურის მომნუსხველ სიღრმეს ქმნის. კლასიკური „ფანქარი“ სილუეტი მუხლს ქვემოთ სიგრძესთან ერთად ვირტუოზულად აყალიბებს ქალურ სილუეტს. უკანა პანელზე არსებული ფარული ელვა-შესაკრავი უზრუნველყოფს ხაზების იდეალურ სისუფთავეს და ამ ნაკეთობას აქცევს ფუნდამენტურ ელემენტად როგორც საზეიმო, ისე სტატუსური დღის გარდერობისთვის.",
+    "hy": "Luisa Spagnoli-ի Franchezza էլեգանտ միդի-կիսաշրջազգեստը ռոմանտիկ շիկի և անթերի իտալական ոճի քվինտեսենցիան է։ Մոդելը պատրաստված է նրբագեղ ծաղկավոր ժանյակից՝ լրացված երանգի մեջ աստառով, ինչը ստեղծում է տեքստուրայի հմայիչ խորություն։ «Մատիտ» դասական սիլուետը ծնկից ներքև երկարության հետ համատեղ վիրտուոզ կերպով մոդելավորում է կանացի կերպարը։ Հետևի մասում գտնվող թաքնված կայծակաճարմանդը ապահովում է գծերի իդեալական մաքրություն՝ դարձնելով այս հագուստը հիմնարար տարր ինչպես հանդիսավոր, այնպես էլ կարգավիճակային ցերեկային զգեստապահարանում։",
+    "lv": "Eleganti vidēja garuma svārki Franchezza no Luisa Spagnoli ir romantiska šika un nevainojama itāļu stila kvintesence. Modelis ir izgatavots no izsmalcinātām ziedu mežģīnēm, ko papildina odere tonī, kas rada valdzinošu faktūras dziļumu. Klasiskais „zīmuļsvārku” siluets kombinācijā ar garumu zem ceļiem virtuozi modelē sievišķīgu tēlu. Slēpta rāvējslēdzēja aizdare aizmugurējā panelī nodrošina ideālu līniju tīrību, pārvēršot šo izstrādājumu par fundamentālu elementu gan svinīgajā, gan statusa pilnajā dienas garderobē.",
+    "lt": "Elegantiškas „Franchezza“ midi sijonas iš Luisa Spagnoli — tai romantiško prašmatnumo ir nepriekaištingo itališko stiliaus kvintesencija. Modelis pasiūtas iš rafinuotų gėlėtų nėrinių, papildytų tonu atitinkančiu pamušalu, kas sukuria užburiančią faktūros gelmę. Klasikinis „pieštuko“ siluetas kartu su ilgiu žemiau kelių virtuoziškai formuoja moterišką figūrą. Paslėptas užtrauktukas galinėje dalyje užtikrina tobulą linijų švarą, paversdamas šį gaminį esminiu tiek iškilmingo, tiek statuso kupino dienos garderobo elementu.",
+    "pl": "„Elegancka spódnica midi Franchezza marki Luisa Spagnoli to kwintesencja romantycznego szyku i nieskazitelnego włoskiego stylu. Model został wykonany z wyrafinowanej koronki o motywie kwiatowym, podszytej podszewką w tym samym odcieniu, co tworzy zachwycającą głębię faktury. Klasyczny fason ołówkowy w połączeniu z długością za kolano wirtuozersko modeluje kobiecą sylwetkę. Kryty zamek błyskawiczny umieszczony z tyłu dba o idealną czystość linii, czyniąc ten projekt fundamentalnym elementem zarówno wizytowej, jak i prestiżowej garderoby dziennej.”",
+    "uk": "Елегантна спідниця-міді Franchezza від Luisa Spagnoli — це квінтесенція романтичного шику та бездоганного італійського стилю. Модель виконана з вишуканого квіткового мережива, доповненого підкладкою в тон, що створює заворожливу глибину фактури. Класичний силует «олівець» у поєднанні з довжиною нижче коліна віртуозно моделює жіночний силует. Потайна застібка-блискавка на задній панелі забезпечує ідеальну чистоту ліній, перетворюючи цей виріб на фундаментальний елемент як урочистого, так і статусного денного гардероба."
+  },
+  "colors": [
+    {
+      "name": "Bordeaux",
+      "code": "2435",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG"
+    },
+    {
+      "name": "Grigio Melange",
+      "code": "0863",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 32 (Bordeaux)",
+        "en": "Total Look 32 (Bordeaux)",
+        "ar": "Total Look 32 (Bordeaux)",
+        "ka": "Total Look 32 (Bordeaux)",
+        "hy": "Total Look 32 (Bordeaux)",
+        "lv": "Total Look 32 (Bordeaux)",
+        "lt": "Total Look 32 (Bordeaux)",
+        "pl": "Total Look 32 (Bordeaux)",
+        "uk": "Total Look 32 (Bordeaux)"
+      },
+      "text": {
+        "ru": "Сочетание Capire 2452 и юбки Franchezza 2435 ( Данные отсутствуют в официальных источниках). Образ дополнен сумкой Ls1928p A 0101 0038.",
+        "en": "A combination of Capire 2452 and Franchezza 2435 ( Data unavailable in official sources) skirt. The look is complemented by the Ls1928p A 0101 0038 bag.",
+        "ar": "A combination of Capire 2452 and Franchezza 2435 ( Data unavailable in official sources) skirt. The look is complemented by the Ls1928p A 0101 0038 bag.",
+        "ka": "A combination of Capire 2452 and Franchezza 2435 ( Data unavailable in official sources) skirt. The look is complemented by the Ls1928p A 0101 0038 bag.",
+        "hy": "A combination of Capire 2452 and Franchezza 2435 ( Data unavailable in official sources) skirt. The look is complemented by the Ls1928p A 0101 0038 bag.",
+        "lv": "A combination of Capire 2452 and Franchezza 2435 ( Data unavailable in official sources) skirt. The look is complemented by the Ls1928p A 0101 0038 bag.",
+        "lt": "A combination of Capire 2452 and Franchezza 2435 ( Data unavailable in official sources) skirt. The look is complemented by the Ls1928p A 0101 0038 bag.",
+        "pl": "A combination of Capire 2452 and Franchezza 2435 ( Data unavailable in official sources) skirt. The look is complemented by the Ls1928p A 0101 0038 bag.",
+        "uk": "A combination of Capire 2452 and Franchezza 2435 ( Data unavailable in official sources) skirt. The look is complemented by the Ls1928p A 0101 0038 bag."
+      },
+      "items": [
+        {
+          "name": "Capire",
+          "code": "2452",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tpx4YIVOQIiHt8_Igw7clQ_966025813696f430ca6aa01_65494584_02830020XX1.jpg",
+          "modelId": 2
+        },
+        {
+          "name": "Franchezza",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG"
+        },
+        {
+          "name": "Ls1928p A",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 32 (Grigio Melange)",
+        "en": "Total Look 32 (Grigio Melange)",
+        "ar": "Total Look 32 (Grigio Melange)",
+        "ka": "Total Look 32 (Grigio Melange)",
+        "hy": "Total Look 32 (Grigio Melange)",
+        "lv": "Total Look 32 (Grigio Melange)",
+        "lt": "Total Look 32 (Grigio Melange)",
+        "pl": "Total Look 32 (Grigio Melange)",
+        "uk": "Total Look 32 (Grigio Melange)"
+      },
+      "text": {
+        "ru": "Пуловер Capire 0829 в паре с юбкой Franchezza 0863.",
+        "en": "Capire 0829 pullover paired with Franchezza 0863 skirt.",
+        "ar": "Capire 0829 pullover paired with Franchezza 0863 skirt.",
+        "ka": "Capire 0829 pullover paired with Franchezza 0863 skirt.",
+        "hy": "Capire 0829 pullover paired with Franchezza 0863 skirt.",
+        "lv": "Capire 0829 pullover paired with Franchezza 0863 skirt.",
+        "lt": "Capire 0829 pullover paired with Franchezza 0863 skirt.",
+        "pl": "Capire 0829 pullover paired with Franchezza 0863 skirt.",
+        "uk": "Capire 0829 pullover paired with Franchezza 0863 skirt."
+      },
+      "items": [
+        {
+          "name": "Capire",
+          "code": "0829",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eb047c27-acac-4b5a-a97c-f54ad6d9fd9d.jpg",
+          "modelId": 2
+        },
+        {
+          "name": "Franchezza",
+          "code": "0863",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 238",
+        "en": "Total Look 238",
+        "ar": "Total Look 238",
+        "ka": "Total Look 238",
+        "hy": "Total Look 238",
+        "lv": "Total Look 238",
+        "lt": "Total Look 238",
+        "pl": "Total Look 238",
+        "uk": "Total Look 238"
+      },
+      "text": {
+        "ru": "Жакет Marsela 0802 0816 и юбка Franchezza 0863, дополненные сапогами Ustica A 101 и серьгами Nordici 0068 0002.",
+        "en": "Marsela 0802 0816 jacket and Franchezza 0863 skirt, complemented by Ustica A 101 boots and Nordici 0068 0002 earrings.",
+        "ar": "Marsela 0802 0816 jacket and Franchezza 0863 skirt, complemented by Ustica A 101 boots and Nordici 0068 0002 earrings.",
+        "ka": "Marsela 0802 0816 jacket and Franchezza 0863 skirt, complemented by Ustica A 101 boots and Nordici 0068 0002 earrings.",
+        "hy": "Marsela 0802 0816 jacket and Franchezza 0863 skirt, complemented by Ustica A 101 boots and Nordici 0068 0002 earrings.",
+        "lv": "Marsela 0802 0816 jacket and Franchezza 0863 skirt, complemented by Ustica A 101 boots and Nordici 0068 0002 earrings.",
+        "lt": "Marsela 0802 0816 jacket and Franchezza 0863 skirt, complemented by Ustica A 101 boots and Nordici 0068 0002 earrings.",
+        "pl": "Marsela 0802 0816 jacket and Franchezza 0863 skirt, complemented by Ustica A 101 boots and Nordici 0068 0002 earrings.",
+        "uk": "Marsela 0802 0816 jacket and Franchezza 0863 skirt, complemented by Ustica A 101 boots and Nordici 0068 0002 earrings."
+      },
+      "items": [
+        {
+          "name": "Marsela",
+          "code": "0802 0816",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Gh5AuRKrRy-NeEE0GszlMg_1242207552696f43755db3c9_42747205_02831130XX1.jpg",
+          "modelId": 155
+        },
+        {
+          "name": "Franchezza",
+          "code": "0863",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG"
+        },
+        {
+          "name": "Ustica A",
+          "code": "101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-kY3Y2KLSViF2xufxBbpgA_1050821030696f42287e3c47_60877874_02801390XX1.jpg"
+        },
+        {
+          "name": "Nordici",
+          "code": "0068 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nordici.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 239",
+        "en": "Total Look 239",
+        "ar": "Total Look 239",
+        "ka": "Total Look 239",
+        "hy": "Total Look 239",
+        "lv": "Total Look 239",
+        "lt": "Total Look 239",
+        "pl": "Total Look 239",
+        "uk": "Total Look 239"
+      },
+      "text": {
+        "ru": "Пуловер Capire 0829 в ансамбле с юбкой Franchezza 0863, обувью Ustica A 101 и очками Xnina A 0101 0002.",
+        "en": "Capire 0829 pullover in an ensemble with Franchezza 0863 skirt, Ustica A 101 footwear and Xnina A 0101 0002 eyewear.",
+        "ar": "Capire 0829 pullover in an ensemble with Franchezza 0863 skirt, Ustica A 101 footwear and Xnina A 0101 0002 eyewear.",
+        "ka": "Capire 0829 pullover in an ensemble with Franchezza 0863 skirt, Ustica A 101 footwear and Xnina A 0101 0002 eyewear.",
+        "hy": "Capire 0829 pullover in an ensemble with Franchezza 0863 skirt, Ustica A 101 footwear and Xnina A 0101 0002 eyewear.",
+        "lv": "Capire 0829 pullover in an ensemble with Franchezza 0863 skirt, Ustica A 101 footwear and Xnina A 0101 0002 eyewear.",
+        "lt": "Capire 0829 pullover in an ensemble with Franchezza 0863 skirt, Ustica A 101 footwear and Xnina A 0101 0002 eyewear.",
+        "pl": "Capire 0829 pullover in an ensemble with Franchezza 0863 skirt, Ustica A 101 footwear and Xnina A 0101 0002 eyewear.",
+        "uk": "Capire 0829 pullover in an ensemble with Franchezza 0863 skirt, Ustica A 101 footwear and Xnina A 0101 0002 eyewear."
+      },
+      "items": [
+        {
+          "name": "Capire",
+          "code": "0829",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eb047c27-acac-4b5a-a97c-f54ad6d9fd9d.jpg",
+          "modelId": 2
+        },
+        {
+          "name": "Franchezza",
+          "code": "0863",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG"
+        },
+        {
+          "name": "Ustica A",
+          "code": "101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-kY3Y2KLSViF2xufxBbpgA_1050821030696f42287e3c47_60877874_02801390XX1.jpg"
+        },
+        {
+          "name": "Xnina A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-10%20at%2014.20.26%20%281%29.jpeg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Embrace the distinctive floral lace texture: this detail instantly conveys elevated status and the wearer's impeccable taste.",
+      "Suggest a play of textures: pairing the skirt's intricate lace with the soft, cozy mohair of the Capire pullover creates an on-trend, elevated 'Luxury Casual' look.",
+      "Draw attention to the impeccable 'tubino' (sheath) fit, which, paired with a high waistline, visually elongates the silhouette and lends the walk a natural grace."
+    ],
+    "ru": [
+      "Делайте ставку на уникальную фактуру цветочного кружева: этот элемент мгновенно сообщает о высоком статусе и безупречном вкусе обладательницы.",
+      "Рекомендуйте игру текстур: сочетание филигранного кружева юбки с мягким, уютным мохером пуловера Capire 0829 создает актуальный и дорогой образ в стиле «Luxury Casual».",
+      "Акцентируйте внимание на идеальной посадке 'tubino' (карандаш), которая в сочетании с высокой линией талии визуально вытягивает силуэт и придает походке грацию."
+    ],
+    "ar": [
+      "راهني على القوام الفريد لدانتيل الزهور: فهذا العنصر يشي فوراً بالمكانة العالية والذوق الرفيع لمن ترتديه.",
+      "رشحي تباين القوام: فمزيج الدانتيل المخرم للتنورة مع الموهير الناعم والمريح لبلوفر Capire 0829 يخلق مظهراً عصرياً وفاخراً بأسلوب «Luxury Casual».",
+      "ركزي على القصة المثالية 'tubino' (القلم) التي تعمل، مع خط الخصر العالي، على إطالة القوام بصرياً وتمنح المشية رشاقة."
+    ],
+    "ka": [
+      "ფსონი დადეთ ყვავილოვანი მაქმანის უნიკალურ ფაქტურაზე: ეს ელემენტი მყისიერად მეტყველებს მფლობელის მაღალ სტატუსსა და უნაკლო გემოვნებაზე.",
+      "რეკომენდაცია გაუწიეთ ტექსტურების თამაშს: ქვედაკაბის ფილიგრანული მაქმანის შეხამება Capire 0829-ის რბილ, მყუდრო მოჰერის პულოვერთან ქმნის აქტუალურ და ძვირადღირებულ „Luxury Casual“ სტილის ლუქს.",
+      "გაამახვილეთ ყურადღება 'tubino' (ფანქარი) სტილის იდეალურ მორგებაზე, რომელიც მაღალ წელთან ერთად ვიზუალურად აგრძელებს სილუეტს და მოძრაობას გრაციოზულობას სძენს."
+    ],
+    "hy": [
+      "Խաղադրույք կատարեք ծաղկային ժանյակի եզակի հյուսվածքի վրա՝ այս տարրն ակնթարթորեն հայտնում է տիրոջ բարձր կարգավիճակի և անթերի ճաշակի մասին։",
+      "Առաջարկեք հյուսվածքների խաղը՝ կիսաշրջազգեստի ֆիլիգրան ժանյակի և Capire 0829 պուլովերի փափուկ ու հարմարավետ մոհերի համադրությունը ստեղծում է արդիական և թանկարժեք «Luxury Casual» ոճի կերպար։",
+      "Շեշտը դրեք 'tubino' (մատիտ) կատարյալ կտրվածքի վրա, որը գոտկատեղի բարձր գծի հետ համադրությամբ տեսողականորեն երկարացնում է սիլուետը և քայլվածքին հաղորդում նրբագեղություն։"
+    ],
+    "lv": [
+      "Lieciet uzsvaru uz ziedu mežģīņu unikālo faktūru: šis elements uzreiz liecina par augstu statusu un nevainojamu īpašnieces gaumi.",
+      "Iesakiet tekstūru spēli: filigrānu mežģīņu svārku kombinācija ar mīkstu, omulīgu mohēras džemperi Capire 0829 rada aktuālu un dārgu tēlu «Luxury Casual» stilā.",
+      "Akcentējiet uzmanību uz ideālo 'tubino' (zīmuļsvārku) piegriezumu, kas apvienojumā ar augsto jostasvietu vizuāli pagarina siluetu un piešķir gaitai grāciju."
+    ],
+    "lt": [
+      "Statykite už unikalią gėlėtų nėrinių faktūrą: šis elementas akimirksniu praneša apie aukštą statusą ir nepriekaištingą savininkės skonį.",
+      "Rekomenduokite tekstūrų žaismą: filigraniškų sijono nėrinių ir švelnaus, jaukaus Capire 0829 moherio megztinio derinys sukuria aktualų ir prabangų „Luxury Casual“ stiliaus įvaizdį.",
+      "Akcentuokite idealų „tubino“ (pieštuko formos) sukirpimą, kuris kartu su aukšta liemens linija vizualiai ištęsia siluetą ir suteikia eisenai grakštumo."
+    ],
+    "pl": [
+      "Stawiaj na unikalną fakturę kwiatowej koronki: ten element natychmiast świadczy o wysokim statusie i nienagannym guście właścicielki.",
+      "Rekomenduj grę tekstur: połączenie filigranowej koronki spódnicy z miękkim, przytulnym moherem pulowera Capire 0829 tworzy aktualną i luksusową stylizację w stylu „Luxury Casual”.",
+      "Akcentuj uwagę na idealne dopasowanie 'tubino' (ołówkowy), które w połączeniu z wysoką linią talii optycznie wydłuża sylwetkę i dodaje krokowi gracji."
+    ],
+    "uk": [
+      "Робіть ставку на унікальну фактуру квіткового мережива: цей елемент миттєво повідомляє про високий статус та бездоганний смак власниці.",
+      "Рекомендуйте гру текстур: поєднання філігранного мережива спідниці з м'яким, затишним мохером пуловера Capire 0829 створює актуальний та дорогий образ у стилі «Luxury Casual».",
+      "Акцентуйте увагу на ідеальній посадці 'tubino' (олівець), яка в поєднанні з високою лінією талії візуально витягує силует і додає ході грації."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Lace fabric may seem too formal and dressy.",
+        "a": "Style the skirt with understated knitwear or the Marsela 0802 0816 jacket to adapt it for daytime occasions, while preserving a note of understated luxury."
+      },
+      {
+        "q": "Concern that the lace may lose its shape or stretch.",
+        "a": "The fabric composition includes 40% high-technology polyamide, which stabilises the structure of the lace and prevents deformation, even with frequent wear."
+      },
+      {
+        "q": "A midi length may visually shorten the frame.",
+        "a": "Thanks to the tapered cut and the vertical lace pattern, the Franchezza skirt creates an unbroken line that, paired with heeled footwear such as the Ustica A 101, visually elongates the legs."
+      },
+      {
+        "q": "Concern about caring for such a delicate material.",
+        "a": "We recommend exclusively professional cleaning, which will preserve the pristine beauty of the floral pattern and the richness of the colour for years to come."
+      },
+      {
+        "q": "The lace may be sheer.",
+        "a": "The piece is fully lined with a soft lining that matches the garment, guaranteeing complete comfort, opacity, and a flawless fit."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Кружевная ткань кажется слишком обязывающей и формальной.",
+        "a": "Стилизуйте юбку с лаконичным трикотажем или жакетом Marsela 0802 0816, чтобы адаптировать ее для дневных выходов, сохранив ноту сдержанной роскоши."
+      },
+      {
+        "q": "Боязнь, что кружево может потерять форму или растянуться.",
+        "a": "В составе полотна присутствует 40% высокотехнологичного полиамида, который обеспечивает стабильность структуры кружева и препятствует деформации изделия даже при активной носке."
+      },
+      {
+        "q": "Длина миди может визуально уменьшать рост.",
+        "a": "Благодаря зауженному крою и вертикальному рисунку кружева, юбка Franchezza создает непрерывную линию, которая в паре с обувью на каблуке, такой как Ustica A 101, визуально удлиняет ноги."
+      },
+      {
+        "q": "Сложность ухода за деликатным материалом.",
+        "a": "Мы рекомендуем исключительно профессиональную чистку, которая позволит надолго сохранить первозданную эстетику цветочного узора и насыщенность цвета."
+      },
+      {
+        "q": "Кружево может просвечивать.",
+        "a": "Модель полностью посажена на мягкую подкладку в тон изделия, что гарантирует абсолютный комфорт, непрозрачность и безупречную посадку по фигуре."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يبدو قماش الدانتيل رسمياً ومقيداً للغاية.",
+        "a": "نسقي التنورة مع قطع تريكو بسيطة أو جاكيت Marsela 0802 0816 لتكييفها مع الخروجات النهارية مع الحفاظ على لمسة من الفخامة الهادئة."
+      },
+      {
+        "q": "الخوف من فقدان الدانتيل لشكلها أو تمدده.",
+        "a": "تحتوي تركيبة النسيج على 40% من مادة البولي أميد عالية التقنية، والتي تضمن ثبات هيكل الدانتيل وتمنع تشوه القطعة حتى مع الارتداء المستمر."
+      },
+      {
+        "q": "قد يقلل طول الميدي من الطول بصرياً.",
+        "a": "بفضل القصة الضيقة والنقوش العمودية للدانتيل، تخلق تنورة Franchezza خطاً متصلاً يطيل الساقين بصرياً عند ارتدائها مع حذاء بكعب مثل Ustica A 101."
+      },
+      {
+        "q": "صعوبة العناية بالمادة الرقيقة.",
+        "a": "نوصي حصرياً بالتنظيف الاحترافي الذي يسمح بالحفاظ على الجماليات الأصلية للنقوش الزهرية وتشبع اللون لفترة طويلة."
+      },
+      {
+        "q": "قد يكون الدانتيل شفافاً.",
+        "a": "الموديل مبطن بالكامل ببطانة ناعمة بنفس لون القطعة، مما يضمن الراحة المطلقة، وعدم الشفافية، وملاءمة مثالية للقوام."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მაქმანის ქსოვილი ზედმეტად მავალდებულებელი და ფორმალური ჩანს.",
+        "a": "დაასტილიზეთ ქვედაბოლო ლაკონურ ტრიკოტაჟთან ან პიჯაკთან Marsela 0802 0816, რათა მოარგოთ ის დღის გასვლებისთვის, თავშეკავებული ფუფუნების ნოტის შენარჩუნებით."
+      },
+      {
+        "q": "შიში იმისა, რომ მაქმანმა შესაძლოა დაკარგოს ფორმა ან გაიწელოს.",
+        "a": "ქსოვილის შემადგენლობაში შედის 40% მაღალტექნოლოგიური პოლიამიდი, რომელიც უზრუნველყოფს მაქმანის სტრუქტურის სტაბილურობას და ხელს უშლის ნაკეთობის დეფორმაციას აქტიური ტარების დროსაც კი."
+      },
+      {
+        "q": "მიდი-სიგრძემ შეიძლება ვიზუალურად შეამციროს სიმაღლე.",
+        "a": "შევიწროებული კროისა და მაქმანის ვერტიკალური ნახატის წყალობით, ქვედაბოლო Franchezza ქმნის უწყვეტ ხაზს, რომელიც ქუსლიან ფეხსაცმელთან, როგორიცაა Ustica A 101, ვიზუალურად აგრძელებს ფეხებს."
+      },
+      {
+        "q": "დელიკატური მასალის მოვლის სირთულე.",
+        "a": "ჩვენ გირჩევთ ექსკლუზიურად პროფესიონალურ წმენდას, რომელიც საშუალებას მოგცემთ დიდხანს შეინარჩუნოთ ყვავილოვანი ორნამენტის პირველადი ესთეტიკა და ფერის ინტენსივობა."
+      },
+      {
+        "q": "მაქმანი შესაძლოა გამჭვირვალე იყოს.",
+        "a": "მოდელი სრულად არის დაჯენილი ნაკეთობის ფერის რბილ სარჩულზე, რაც უზრუნველყოფს აბსოლუტურ კომფორტს, გაუმჭვირვალობასა და ფიგურაზე უნაკლო მორგებას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ժանյակավոր գործվածքը չափազանց պարտավորեցնող և պաշտոնական է թվում",
+        "a": "Ձևավորեք կիսաշրջազգեստը լակոնիկ տրիկոտաժի կամ Marsela 0802 0816 ժակետի հետ՝ այն ցերեկային ելքերի համար հարմարեցնելու և զուսպ շքեղության նոտան պահպանելու համար։"
+      },
+      {
+        "q": "Վախ, որ ժանյակը կարող է կորցնել ձևը կամ ձգվել",
+        "a": "Գործվածքի կազմում առկա է 40% բարձրտեխնոլոգիական պոլիամիդ, որն ապահովում է ժանյակի կառուցվածքի կայունությունը և կանխում է իրի ձևախեղումը նույնիսկ ակտիվ օգտագործման դեպքում։"
+      },
+      {
+        "q": "Միդի երկարությունը կարող է տեսողականորեն կարճացնել հասակը",
+        "a": "Նեղացված կտրվածքի և ժանյակի ուղղահայաց նախշի շնորհիվ՝ Franchezza կիսաշրջազգեստը ստեղծում է անընդհատ գիծ, որը կրունկով կոշիկների հետ, ինչպիսին է Ustica A 101 -ը, տեսողականորեն երկարացնում է ոտքերը։"
+      },
+      {
+        "q": "Նուրբ նյութի խնամքի բարդությունը",
+        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ մաքրում, որը թույլ կտա երկար ժամանակ պահպանել ծաղկային նախշի սկզբնական էսթետիկան և գույնի հագեցվածությունը։"
+      },
+      {
+        "q": "Ժանյակը կարող է թափանցիկ լինել",
+        "a": "Մոդելն ամբողջությամբ ունի իր գույնի փափուկ աստառ, ինչը երաշխավորում է բացարձակ հարմարավետություն, անթափանցիկություն և կազմվածքի վրա անթերի նստվածք։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Mežģīņu audums šķiet pārāk uzliekošs un formāls.",
+        "a": "Stilizējiet svārkus ar lakonisku trikotāžu vai jaku Marsela 0802 0816, lai adaptētu tos dienas izgājieniem, saglabājot atturīgas greznības noti."
+      },
+      {
+        "q": "Bažas, ka mežģīnes var zaudēt formu vai izstiepties.",
+        "a": "Auduma sastāvā ir 40% augsto tehnoloģiju poliamīda, kas nodrošina mežģīņu struktūras stabilitāti un novērš izstrādājuma deformāciju pat aktīvas valkāšanas laikā."
+      },
+      {
+        "q": "Midi garums var vizuāli samazināt augumu.",
+        "a": "Pateicoties sašaurinātajam piegriezumam un vertikālajam mežģīņu rakstam, svārki Franchezza rada nepārtrauktu līniju, kas pārī ar apaviem uz papēža, tādiem kā Ustica A 101, vizuāli pagarina kājas."
+      },
+      {
+        "q": "Sarežģītība kopšanā par delikātu materiālu.",
+        "a": "Mēs iesakām tikai profesionālo tīrīšanu, kas ļaus ilgstoši saglabāt ziedu raksta sākotnējo estētiku un krāsas piesātinātību."
+      },
+      {
+        "q": "Mežģīnes var spīdēt cauri.",
+        "a": "Modelis ir pilnībā uzlikts uz mīkstas oderes izstrādājuma tonī, kas garantē absolūtu komfortu, necaurspīdīgumu un nevainojamu piegulumu figūrai."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Nėriniuotas audinys atrodo per daug įpareigojantis ir formalus.",
+        "a": "Derinkite sijoną su lakonišku trikotažu arba švarku Marsela 0802 0816, kad pritaikytumėte jį kasdieniams išėjimams, išsaugodami santūrios prabangos natą."
+      },
+      {
+        "q": "Baimė, kad nėriniai gali prarasti formą arba išsitampyti.",
+        "a": "Audinio sudėtyje yra 40 % aukštųjų technologijų poliamido, kuris užtikrina nėrinių struktūros stabilumą ir apsaugo gaminį nuo deformacijos net ir aktyviai dėvint."
+      },
+      {
+        "q": "Midi ilgis gali vizualiai sumažinti ūgį.",
+        "a": "Dėl siaurėjančio kirpimo ir vertikalaus nėrinių rašto, Franchezza sijonas sukuria nepertraukiamą liniją, kuri derinyje su avale ant kulno, tokia kaip Ustica A 101, vizualiai ilgina kojas."
+      },
+      {
+        "q": "Sudėtinga trapios medžiagos priežiūra.",
+        "a": "Rekomenduojame tik profesionalų valymą, kuris leis ilgam išsaugoti pradinę gėlių rašto estetiką ir spalvos sodrumą."
+      },
+      {
+        "q": "Nėriniai gali persišviesti.",
+        "a": "Modelis yra visiškai su minkštu pamušalu, derančiu prie gaminio spalvos, kas užtikrina absoliutų komfortą, neperšviečiamumą ir nepriekaištingą prigludimą prie figūros."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Koronkowa tkanina wydaje się zbyt zobowiązująca i formalna.",
+        "a": "Stylizuj spódnicę z lakonicznym dzianinowym ubraniem lub żakietem Marsela 0802 0816, aby dostosować ją do dziennych wyjść, zachowując nutę powściągliwego luksusu."
+      },
+      {
+        "q": "Obawa, że koronka może stracić formę lub się rozciągnąć.",
+        "a": "W składzie materiału znajduje się 40% zaawansowanego technologicznie poliamidu, który zapewnia stabilność struktury koronki i zapobiega deformacji produktu nawet przy częstym noszeniu."
+      },
+      {
+        "q": "Długość midi może optycznie skracać wzrost.",
+        "a": "Dzięki zwężanemu krojowi i pionowemu wzorowi koronki, spódnica Franchezza tworzy ciągłą linię, która w połączeniu z obuwiem na obcasie, takim jak Ustica A 101, wizualnie wydłuża nogi."
+      },
+      {
+        "q": "Trudność w pielęgnacji delikatnego materiału.",
+        "a": "Zalecamy wyłącznie profesjonalne czyszczenie, które pozwoli na długo zachować pierwotną estetykę kwiatowego wzoru oraz nasycenie koloru."
+      },
+      {
+        "q": "Koronka może prześwitywać.",
+        "a": "Model jest w całości wykończony miękką podszewką w odcieniu produktu, co gwarantuje absolutny komfort, nieprzejrzystość i nienaganne dopasowanie do sylwetki."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Мереживна тканина здається надто зобов'язуючою та формальною.",
+        "a": "Стилізуйте спідницю з лаконічним трикотажем або жакетом Marsela 0802 0816, щоб адаптувати її для денних виходів, зберігши ноту стриманої розкоші."
+      },
+      {
+        "q": "Боязнь, що мереживо може втратити форму або розтягнутися.",
+        "a": "У складі полотна присутньо 40% високотехнологічного поліаміду, який забезпечує стабільність структури мережива та перешкоджає деформації виробу навіть при активному носінні."
+      },
+      {
+        "q": "Довжина міді може візуально зменшувати зріст.",
+        "a": "Завдяки завуженому крою та вертикальному малюнку мережива, спідниця Franchezza створює безперервну лінію, яка в парі з взуттям на підборах, таким як Ustica A 101, візуально подовжує ноги."
+      },
+      {
+        "q": "Складність догляду за делікатним матеріалом.",
+        "a": "Ми рекомендуємо виключно професійну чистку, яка дозволить надовго зберегти первинну естетику квіткового візерунка та насиченість кольору."
+      },
+      {
+        "q": "Мереживо може просвічувати.",
+        "a": "Модель повністю посаджена на м'яку підкладку в тон виробу, що гарантує абсолютний комфорт, непрозорість та бездоганну посадку по фігурі."
+      }
+    ]
+  }
+}

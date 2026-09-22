@@ -1,0 +1,395 @@
+{
+  "id": 229,
+  "name": "Notabili",
+  "description": {
+    "en": "Exquisite Nobilis Earrings — the epitome of timeless elegance and the refined jewelry craftsmanship of Luisa Spagnoli. Rendered as exquisite drop design, this piece features a central clear crystal set in a rich gilded frame, evoking a noble, historic charm.",
+    "ru": "Изысканные серьги-капли Notabili — это квинтэссенция ювелирного мастерства Luisa Spagnoli, призванная наполнить образ аристократичным сиянием. Аксессуар выполнен в благородной оправе из позолоченной латуни и украшен величественным центральным кристаллом с искусной огранкой, который обрамлен двойным ореолом из сверкающих микро-страз. Сделанные в Италии, эти серьги с удобной застежкой-клипсой сочетают в себе классическую форму и современную роскошь, становясь идеальным финальным штрихом как для торжественного выхода, так и для элегантного дневного ансамбля.",
+    "ar": "تُعد أقراط Notabili المتدلية الرائعة جوهر براعة المجوهرات لدى Luisa Spagnoli، وهي مصممة لتغمر الإطلالة ببريق أرستقراطي. الإكسسوار مصنوع من إطار نحاسي مطلي بالذهب ومزين ببلورة مركزية مهيبة ذات قطع متقن، تحيط بها هالة مزدوجة من أحجار الراين الدقيقة المتلألئة. صُنعت هذه الأقراط في إيطاليا وتتميز بمشبك مريح، وتجمع بين الشكل الكلاسيكي والفخامة العصرية، لتكون اللمسة النهائية المثالية سواء للإطلالات المسائية الرسمية أو للأزياء النهارية الأنيقة.",
+    "ka": "Notabili-ს დახვეწილი საყურე-წვეთები Luisa Spagnoli-ს საიუველირო ოსტატობის კვინტესენციაა, რომელიც შექმნილია იმისათვის, რომ თქვენს იმიჯს არისტოკრატული ბზინვარება შემატოს. აქსესუარი შესრულებულია მოოქრული თითბერის კეთილშობილურ ჩარჩოში და დამშვენებულია დახელოვნებული წესით გათლილი დიდებული ცენტრალური კრისტალით, რომელიც გარშემორტყმულია მოციმციმე მიკრო-სტრაზების ორმაგი არეოლით. იტალიაში დამზადებული ეს საყურეები კომფორტული სამაგრი-კლიპსით აერთიანებს კლასიკურ ფორმასა და თანამედროვე ფუფუნებას, რაც მათ იდეალურ დასკვნით შტრიხად აქცევს როგორც საზეიმო გამოსვლისთვის, ისე ელეგანტური დღის ანსამბლისთვის.",
+    "hy": "Notabili կաթիլ-ականջօղերը Luisa Spagnoli-ի ոսկերչական վարպետության էությունն են, որոնք կոչված են կերպարը լցնելու ազնվական փայլով: Աքսեսուարը պատրաստված է ոսկեզօծ արույրից պատրաստված ազնիվ շրջանակի մեջ և զարդարված է վեհաշուք կենտրոնական բյուրեղով՝ հմուտ երեսակմամբ, որը շրջանակված է փայլող միկրո-ադամանդներից կրկնակի լուսապսակով: Իտալիայում արտադրված այս ականջօղերը՝ հարմար սեղմակ-ճարմանդով, իրենց մեջ միավորում են դասական ձևն ու ժամանակակից շքեղությունը՝ դառնալով կատարյալ վերջնական շտրիխ թե՛ հանդիսավոր ելքի, թե՛ էլեգանտ ցերեկային անսամբլի համար:",
+    "lv": "Izsmalcinātie pilienveida auskari Notabili ir Luisa Spagnoli juvelierizstrādājumu meistarības kvintesence, kas radīti, lai piepildītu tēlu ar aristokrātisku mirdzumu. Aksesuārs ir veidots cēlā apzeltīta misiņa ietvarā un rotāts ar majestātisku centrālo kristālu ar prasmīgu slīpējumu, ko ietver dubults mirdzošu mikro-strasu oreols. Itālijā ražotie auskari ar ērtu klipses aizdari apvieno sevī klasisku formu un mūsdienīgu greznību, kļūstot par ideālu noslēdzošo akcentu gan svinīgai iziešanai, gan elegantam dienas ansamblim.",
+    "lt": "Rafinuoti Notabili auskarai-lašai – tai Luisa Spagnoli juvelyrikos meistriškumo kvintesencija, sukurta suteikti įvaizdžiui aristokratiško spindesio. Aksesuaras sukurtas iš tauriojo paauksuoto žalvario rėmelio ir papuoštas didingu centriniu meistriškai šlifuotu kristalu, kurį įrėmina dvigubas žėrinčių mikro-cirkonių aureolė. Pagaminti Italijoje, šie auskarai su patogia segtuko tipo užsegimo sistema sujungia klasikinę formą ir šiuolaikinę prabangą, tapdami idealiu finaliniu akcentu tiek iškilmingam pasirodymui, tiek elegantiškam dienos ansambliui.",
+    "pl": "Wyrafinowane kolczyki-krople Notabili to kwintesencja jubilerskiego kunsztu Luisa Spagnoli, stworzona, by nadać stylizacji arystokratycznego blasku. Dodatek wykonany jest w szlachetnej oprawie z pozłacanego mosiądzu i ozdobiony majestatycznym centralnym kryształem o kunsztownym szlifie, który otacza podwójna aureola lśniących mikro-cyrkonii. Wykonane we Włoszech, te kolczyki z wygodnym zapięciem typu klips łączą w sobie klasyczną formę i nowoczesny luksus, stając się idealnym wykończeniem zarówno na wielkie wyjście, jak i do eleganckiego dziennego zestawu.",
+    "uk": "Вишукані сережки-краплі Notabili — це квінтесенція ювелірної майстерності Luisa Spagnoli, покликана наповнити образ аристократичним сяйвом. Аксесуар виконаний у благородній оправі з позолоченої латуні та прикрашений величним центральним кристалом із майстерним огранюванням, який обрамлений подвійним ореолом із виблискуючих мікро-страз. Зроблені в Італії, ці сережки зі зручною застібкою-кліпсою поєднують у собі класичну форму та сучасну розкіш, стаючи ідеальним фінальним штрихом як для урочистого виходу, так і для елегантного денного ансамблю."
+  },
+  "colors": [
+    {
+      "name": "Smeraldo Nickel Oro",
+      "code": "2003 0001 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/5e495676-4dc4-4958-88c6-5bee6e785f5b-removebg-preview.png"
+    },
+    {
+      "name": "Blu Nickel Oro",
+      "code": "1204 0001 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/notabili2.png"
+    },
+    {
+      "name": "Nickel Oro",
+      "code": "0001 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/notabili1000.png"
+    },
+    {
+      "name": "Topazio Nickel Oro",
+      "code": "0069 0001 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Cattura%20%282%29.PNG"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 128",
+        "en": "Total Look 128",
+        "ar": "Total Look 128",
+        "ka": "Total Look 128",
+        "hy": "Total Look 128",
+        "lv": "Total Look 128",
+        "lt": "Total Look 128",
+        "pl": "Total Look 128",
+        "uk": "Total Look 128"
+      },
+      "text": {
+        "ru": "Серьги Notabili 0069 0001 0002 идеально дополняют блузу Lotty 4625 и брюки Occulto C 0101, завершая образ поясом Dedicata 0101 0002 0001, туфлями Unica A 0101 0002 и сумкой Idilliaco A 0101 0002.",
+        "en": "Notabili 0069 0001 0002 earrings perfectly complement the Lotty 4625 blouse and Occulto C 0101 trousers, completing the look with a Dedicata 0101 0002 0001 belt, Unica A 0101 0002 pumps and an Idilliaco A 0101 0002 bag.",
+        "ar": "Notabili 0069 0001 0002 earrings perfectly complement the Lotty 4625 blouse and Occulto C 0101 trousers, completing the look with a Dedicata 0101 0002 0001 belt, Unica A 0101 0002 pumps and an Idilliaco A 0101 0002 bag.",
+        "ka": "Notabili 0069 0001 0002 earrings perfectly complement the Lotty 4625 blouse and Occulto C 0101 trousers, completing the look with a Dedicata 0101 0002 0001 belt, Unica A 0101 0002 pumps and an Idilliaco A 0101 0002 bag.",
+        "hy": "Notabili 0069 0001 0002 earrings perfectly complement the Lotty 4625 blouse and Occulto C 0101 trousers, completing the look with a Dedicata 0101 0002 0001 belt, Unica A 0101 0002 pumps and an Idilliaco A 0101 0002 bag.",
+        "lv": "Notabili 0069 0001 0002 earrings perfectly complement the Lotty 4625 blouse and Occulto C 0101 trousers, completing the look with a Dedicata 0101 0002 0001 belt, Unica A 0101 0002 pumps and an Idilliaco A 0101 0002 bag.",
+        "lt": "Notabili 0069 0001 0002 earrings perfectly complement the Lotty 4625 blouse and Occulto C 0101 trousers, completing the look with a Dedicata 0101 0002 0001 belt, Unica A 0101 0002 pumps and an Idilliaco A 0101 0002 bag.",
+        "pl": "Notabili 0069 0001 0002 earrings perfectly complement the Lotty 4625 blouse and Occulto C 0101 trousers, completing the look with a Dedicata 0101 0002 0001 belt, Unica A 0101 0002 pumps and an Idilliaco A 0101 0002 bag.",
+        "uk": "Notabili 0069 0001 0002 earrings perfectly complement the Lotty 4625 blouse and Occulto C 0101 trousers, completing the look with a Dedicata 0101 0002 0001 belt, Unica A 0101 0002 pumps and an Idilliaco A 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Notabili",
+          "code": "0069 0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Cattura%20%282%29.PNG"
+        },
+        {
+          "name": "Lotty",
+          "code": "4625",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2060285730692424d1328345_79543508_02781270XX1.jpg",
+          "modelId": 426
+        },
+        {
+          "name": "Occulto C",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OCCULTOB_10100000000.jpg"
+        },
+        {
+          "name": "Dedicata",
+          "code": "0101 0002 0001",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/CIPzmThcQpuTb93aM0l39A_41939825696f4217953d89_07952375_02800540XX2.jpg"
+        },
+        {
+          "name": "Unica A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/4483ad1f-c43d-46bf-b39f-94464e4f7a6e.jpg"
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_10100020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sophisticated Look 267",
+        "en": "Sophisticated Look 267",
+        "ar": "Sophisticated Look 267",
+        "ka": "Sophisticated Look 267",
+        "hy": "Sophisticated Look 267",
+        "lv": "Sophisticated Look 267",
+        "lt": "Sophisticated Look 267",
+        "pl": "Sophisticated Look 267",
+        "uk": "Sophisticated Look 267"
+      },
+      "text": {
+        "ru": "Notabili 0069 0001 0002 в ансамбле с платьем Gradis 0966, сапогами Ullano A 0002, клатчем Invitata D 0001 0002 и накидкой Richiesta 0910.",
+        "en": "Notabili 0069 0001 0002 paired with the Gradis 0966 dress, Ullano A 0002 boots, Invitata D 0001 0002 clutch and Richiesta 0910 cape.",
+        "ar": "Notabili 0069 0001 0002 paired with the Gradis 0966 dress, Ullano A 0002 boots, Invitata D 0001 0002 clutch and Richiesta 0910 cape.",
+        "ka": "Notabili 0069 0001 0002 paired with the Gradis 0966 dress, Ullano A 0002 boots, Invitata D 0001 0002 clutch and Richiesta 0910 cape.",
+        "hy": "Notabili 0069 0001 0002 paired with the Gradis 0966 dress, Ullano A 0002 boots, Invitata D 0001 0002 clutch and Richiesta 0910 cape.",
+        "lv": "Notabili 0069 0001 0002 paired with the Gradis 0966 dress, Ullano A 0002 boots, Invitata D 0001 0002 clutch and Richiesta 0910 cape.",
+        "lt": "Notabili 0069 0001 0002 paired with the Gradis 0966 dress, Ullano A 0002 boots, Invitata D 0001 0002 clutch and Richiesta 0910 cape.",
+        "pl": "Notabili 0069 0001 0002 paired with the Gradis 0966 dress, Ullano A 0002 boots, Invitata D 0001 0002 clutch and Richiesta 0910 cape.",
+        "uk": "Notabili 0069 0001 0002 paired with the Gradis 0966 dress, Ullano A 0002 boots, Invitata D 0001 0002 clutch and Richiesta 0910 cape."
+      },
+      "items": [
+        {
+          "name": "Notabili",
+          "code": "0069 0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Cattura%20%282%29.PNG"
+        },
+        {
+          "name": "Gradis",
+          "code": "0966",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/XanHz_VwTMiEGmxquz7osw_394796177696f4233069342_55630340_02820200XX1.jpg",
+          "modelId": 80
+        },
+        {
+          "name": "Ullano A",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ab7471c9-c1c6-4a62-b524-62d471856f2c-removebg-preview.png"
+        },
+        {
+          "name": "Invitata D",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/oro.png"
+        },
+        {
+          "name": "Richiesta",
+          "code": "0910",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Data unavailable from official sources",
+      "Data unavailable from official sources",
+      "Data unavailable from official sources"
+    ],
+    "ru": [
+      "Подчеркните универсальность клипс: это идеальное решение для клиентов, не имеющих проколов, а также гарантия комфортной посадки для тяжелых украшений без риска растяжения мочки.",
+      "Акцентируйте внимание на качестве «Made in Italy»: использование 60% латуни и 40% высококачественного стекла обеспечивает изделию долговечность и блеск, сопоставимый с драгоценными камнями.",
+      "Рекомендуйте Notabili как инвестиционный подарок: каплевидная форма является вечной классикой ювелирного гардероба и подходит любому типу лица, визуально удлиняя шею."
+    ],
+    "ar": [
+      "أبرزي تنوع استخدامات المشابك (الكليبس): إنها الحل المثالي للعملاء الذين لا يرتدون أقراطاً، كما تضمن ثباتاً مريحاً للقطع الثقيلة دون التعرض لخطر تمدد شحمة الأذن.",
+      "ركزي على جودة 'Made in Italy': استخدام 60% من النحاس و40% من الزجاج عالي الجودة يمنح القطعة متانة وبريقاً يضاهي الأحجار الكريمة.",
+      "رشحي Notabili كهدية استثمارية: شكل القطرة يعد كلاسيكية أبدية في خزانة المجوهرات ويناسب أي شكل للوجه، مما يساهم في إطالة العنق بصرياً."
+    ],
+    "ka": [
+      "ხაზი გაუსვით კლიპსების უნივერსალურობას: ეს არის იდეალური გადაწყვეტა იმ კლიენტებისთვის, რომლებსაც არ აქვთ გახვრეტილი ყურები, ასევე გარანტია კომფორტული მორგებისა მძიმე სამკაულებისთვის ყურის ბიბილოს დაჭიმვის რისკის გარეშე.",
+      "გაამახვილეთ ყურადღება „Made in Italy“-ს ხარისხზე: 60% თითბერისა და 40% მაღალი ხარისხის მინის გამოყენება ნაკეთობას უზრუნველყოფს გამძლეობითა და ბრწყინვალებით, რომელიც შეესაბამება ძვირფას ქვებს.",
+      "რეკომენდაცია გაუწიეთ Notabili-ს როგორც საინვესტიციო საჩუქარს: წვეთის ფორმა არის საიუველირო გარდერობის მარადიული კლასიკა და უხდება სახის ნებისმიერ ტიპს, ვიზუალურად აგრძელებს ყელს."
+    ],
+    "hy": [
+      "Ընդգծեք ականջօղերի համընդհանուր լինելը. սա իդեալական լուծում է ականջները չծակած հաճախորդների համար, ինչպես նաև երաշխիք է ծանր զարդերի հարմարավետ կրման համար՝ ականջի բլթակը ձգվելու վտանգից զերծ։",
+      "Շեշտադրեք «Made in Italy» որակը. 60% փողի և 40% բարձրորակ ապակու օգտագործումը իրին ապահովում է երկարակեցություն և թանկարժեք քարերի հետ համադրելի փայլ։",
+      "Notabili-ն խորհուրդ տվեք որպես ներդրումային նվեր. կաթիլաձև ձևը ոսկերչական զգեստապահարանի հավերժական դասական է և սազում է դեմքի ցանկացած տեսակի՝ տեսողականորեն երկարացնելով պարանոցը։"
+    ],
+    "lv": [
+      "Uzsveriet klipšu universālumu: tas ir ideāls risinājums klientiem, kuriem nav caurdurtas ausis, kā arī garantija ērtai nēsāšanai smagām rotaslietām, neradot ausu ļipiņu stiepšanās risku.",
+      "Akcentējiet uzmanību uz «Made in Italy» kvalitāti: 60% misiņa un 40% augstas kvalitātes stikla izmantošana nodrošina izstrādājumam ilgmūžību un mirdzumu, kas līdzinās dārgakmeņiem.",
+      "Iesakiet Notabili kā investīciju dāvanu: pilienveida forma ir juvelierizstrādājumu garderobes mūžīgā klasika, kas piemērota jebkuram sejas tipam, vizuāli pagarinot kaklu."
+    ],
+    "lt": [
+      "Pabrėžkite segimų auskarų universalumą: tai idealus sprendimas klientėms, neturinčioms pradurtų ausų, taip pat garantija, kad sunkūs papuošalai patogiai priglus be ausies spenelio ištempimo rizikos.",
+      "Akcentuokite „Made in Italy“ kokybę: 60 % žalvario ir 40 % aukštos kokybės stiklo naudojimas užtikrina gaminio ilgaamžiškumą ir žvilgesį, prilygstantį brangakmeniams.",
+      "Rekomenduokite Notabili kaip investicinę dovaną: lašo forma yra laikina juvelyrinio garderobo klasika, tinkanti bet kokiam veido tipui ir vizualiai ilginanti kaklą."
+    ],
+    "pl": [
+      "Podkreśl uniwersalność klipsów: to idealne rozwiązanie dla klientek niemających przekłutych uszu, a także gwarancja komfortowego noszenia cięższej biżuterii bez ryzyka rozciągnięcia płatka ucha.",
+      "Akcentuj jakość „Made in Italy”: wykorzystanie 60% mosiądzu i 40% wysokiej jakości szkła zapewnia produktowi trwałość oraz blask porównywalny z kamieniami szlachetnymi.",
+      "Rekomenduj Notabili jako inwestycję na prezent: kształt łzy to ponadczasowy klasyk w garderobie jubilerskiej, który pasuje do każdego typu twarzy, optycznie wydłużając szyję."
+    ],
+    "uk": [
+      "Підкресліть універсальність кліпс: це ідеальне рішення для клієнтів, які не мають проколів, а також гарантія комфортної посадки для важких прикрас без ризику розтягнення мочки.",
+      "Акцентуйте увагу на якості «Made in Italy»: використання 60% латуні та 40% високоякісного скла забезпечує виробу довговічність та блиск, що порівнянний із дорогоцінним камінням.",
+      "Рекомендуйте Notabili як інвестиційний подарунок: краплеподібна форма є вічною класикою ювелірного гардероба та підходить будь-якому типу обличчя, візуально подовжуючи шию."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Earrings may seem heavy due to the large crystal.",
+        "a": "Explain to the client that the use of a high-technology brass alloy preserves the volume of the piece at an optimal weight, and the clip mechanism evenly distributes pressure for comfort throughout the evening."
+      },
+      {
+        "q": "Concern that the clips may slip or feel insecure.",
+        "a": "Reassure the client that Luisa Spagnoli clips undergo rigorous quality testing. The mechanism has ideal tension — secure enough for a reliable hold, yet gentle enough to avoid discomfort."
+      },
+      {
+        "q": "The crystals make the earrings too dressy for everyday wear.",
+        "a": "Demonstrate the current eclectic trend: suggest pairing these earrings with understated knitwear or denim (such as the Silicone piece) to add a note of 'quiet luxury' to an everyday look."
+      },
+      {
+        "q": "The gold-plated finish may dull over time.",
+        "a": "Point out the exceptional quality of the Italian galvanic treatment. With simple care practices (avoiding contact with perfume and moisture), the earrings will retain their original shine for years to come."
+      },
+      {
+        "q": "Difficulty pairing such a striking design with other jewellery.",
+        "a": "Advise using Notabili as the sole statement accessory near the face. They are self-sufficient and pair best with minimalist rings or delicate bracelets from the brand's collection."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Серьги могут казаться тяжелыми из-за крупного кристалла",
+        "a": "Поясните клиенту, что использование высокотехнологичного сплава латуни позволяет сохранить объем украшения при оптимальном весе, а механизм клипсы равномерно распределяет давление для комфорта в течение всего вечера."
+      },
+      {
+        "q": "Страх, что клипсы могут соскользнуть или быть ненадежными",
+        "a": "Заверьте клиента, что клипсы Luisa Spagnoli проходят тщательную проверку качества. Механизм обладает идеальным натяжением — он достаточно плотный для надежной фиксации, но мягкий, чтобы не вызывать дискомфорта."
+      },
+      {
+        "q": "Кристаллы делают серьги слишком нарядными для повседневной носки",
+        "a": "Продемонстрируйте актуальный тренд на эклектику: предложите сочетать эти серьги с лаконичным трикотажем или денимом (например, с моделью Silicone), чтобы добавить ноту «тихой роскоши» в повседневный образ."
+      },
+      {
+        "q": "Позолоченное покрытие может потускнеть со временем",
+        "a": "Укажите на высокое качество итальянской гальванической обработки. При соблюдении простых правил ухода (избегать контакта с парфюмерией и влагой), серьги сохранят свой первоначальный блеск на долгие годы."
+      },
+      {
+        "q": "Сложность в сочетании такого активного дизайна с другими украшениями",
+        "a": "Посоветуйте использовать Notabili как единственный акцентный аксессуар у лица. Они самодостаточны и лучше всего гармонируют с минималистичными кольцами или тонкими браслетами из коллекции бренда."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تبدو الأقراط ثقيلة بسبب البلورة الكبيرة",
+        "a": "اشرحي للعميل أن استخدام سبائك النحاس عالية التقنية يتيح الحفاظ على حجم القطعة مع وزن مثالي، كما أن آلية المشبك توزع الضغط بالتساوي لضمان الراحة طوال الأمسية."
+      },
+      {
+        "q": "الخوف من انزلاق المشابك أو عدم موثوقيتها",
+        "a": "طمئني العميل بأن مشابك Luisa Spagnoli تخضع لفحوصات جودة دقيقة. الآلية تتمتع بشد مثالي — فهي محكمة بما يكفي للتثبيت الموثوق، ولكنها ناعمة بما يكفي لتجنب أي إزعاج."
+      },
+      {
+        "q": "البلورات تجعل الأقراط رسمية جداً للاستخدام اليومي",
+        "a": "استعرضي توجه المزج بين الأنماط: اقترحي تنسيق هذه الأقراط مع التريكو البسيط أو الدنيم (مثل موديل Silicone)، لإضافة لمسة من 'الرفاهية الهادئة' إلى الإطلالة اليومية."
+      },
+      {
+        "q": "قد تفقد الطبقة المطلية بالذهب بريقها مع الوقت",
+        "a": "أشيري إلى الجودة العالية للمعالجة الجلفانية الإيطالية. مع اتباع قواعد العناية البسيطة (تجنب ملامسة العطور والرطوبة)، ستحتفظ الأقراط بلمعانها الأصلي لسنوات عديدة."
+      },
+      {
+        "q": "صعوبة دمج هذا التصميم الجريء مع قطع أخرى",
+        "a": "انصحي باستخدام Notabili كقطعة الأكسسوار الوحيدة البارزة بالقرب من الوجه. فهي تتمتع بجمالية مكتفية ذاتياً وتتناغم بشكل مثالي مع الخواتم البسيطة أو الأساور الرفيعة من مجموعة العلامة التجارية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "საყურეები შეიძლება მძიმე ჩანდეს დიდი კრისტალის გამო",
+        "a": "განუმარტეთ კლიენტს, რომ მაღალტექნოლოგიური თითბერის შენადნობის გამოყენება საშუალებას იძლევა შევინარჩუნოთ სამკაულის მოცულობა ოპტიმალური წონის პირობებში, ხოლო კლიფსის მექანიზმი თანაბრად ანაწილებს ზეწოლას კომფორტისთვის მთელი საღამოს განმავლობაში."
+      },
+      {
+        "q": "შიში იმისა, რომ კლიფსები შეიძლება მოსრიალდეს ან არასაიმედო იყოს",
+        "a": "დაარწმუნეთ კლიენტი, რომ Luisa Spagnoli-ს კლიფსები გადის ხარისხის საფუძვლიან შემოწმებას. მექანიზმს აქვს იდეალური დაჭიმულობა — ის საკმარისად მჭიდროა საიმედო ფიქსაციისთვის, მაგრამ რბილი, რათა არ გამოიწვიოს დისკომფორტი."
+      },
+      {
+        "q": "კრისტალები საყურეებს ზედმეტად სადღესასწაულოს ხდის ყოველდღიური ტარებისთვის",
+        "a": "აჩვენეთ ეკლექტიკის აქტუალური ტენდენცია: შესთავაზეთ ამ საყურეების შეხამება ლაკონიურ ტრიკოტაჟთან ან ჯინსთან (მაგალითად, მოდელთან Silicone), რათა ყოველდღიურ იმიჯს „ჩუმი ფუფუნების“ ნოტი შემატოთ."
+      },
+      {
+        "q": "მოოქროვილმა საფარმა შეიძლება დროთა განმავლობაში ფერი დაკარგოს",
+        "a": "მიუთითეთ იტალიური გალვანური დამუშავების მაღალ ხარისხზე. მოვლის მარტივი წესების დაცვით (პარფიუმერიასთან და ტენიანობასთან კონტაქტის თავიდან აცილება), საყურეები შეინარჩუნებენ თავდაპირველ ბზინვარებას მრავალი წლის განმავლობაში."
+      },
+      {
+        "q": "ასეთი აქტიური დიზაინის სხვა სამკაულებთან შეხამების სირთულე",
+        "a": "ურჩიეთ გამოიყენოთ Notabili როგორც ერთადერთი აქცენტური აქსესუარი სახესთან. ისინი თვითკმარია და საუკეთესოდ ეხამება მინიმალისტურ ბეჭდებს ან ბრენდის კოლექციის თხელ სამაჯურებს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ականջօղերը կարող են ծանր թվալ խոշոր բյուրեղի պատճառով",
+        "a": "Հաճախորդին բացատրեք, որ արույրի բարձրտեխնոլոգիական համաձուլվածքի օգտագործումը թույլ է տալիս պահպանել զարդի ծավալը օպտիմալ քաշի դեպքում, իսկ կլիպսայի մեխանիզմը հավասարաչափ բաշխում է ճնշումը ողջ երեկոյի ընթացքում հարմարավետության համար"
+      },
+      {
+        "q": "Վախ, որ կլիպսաները կարող են սահել կամ անվստահելի լինել",
+        "a": "Վստահեցրեք հաճախորդին, որ Luisa Spagnoli-ի կլիպսաները անցնում են որակի խստագույն ստուգում: Մեխանիզմն ունի կատարյալ ձգվածություն՝ այն բավականաչափ ամուր է հուսալի ամրացման համար, բայց փափուկ, որպեսզի անհարմարություն չառաջացնի"
+      },
+      {
+        "q": "Բյուրեղները ականջօղերը դարձնում են չափազանց տոնական առօրյա կրման համար",
+        "a": "Ցուցադրեք էկլեկտիկայի արդիական թրենդը. առաջարկեք այս ականջօղերը համադրել լակոնիկ տրիկոտաժի կամ դենիմի հետ (օրինակ՝ Silicone մոդելի հետ), որպեսզի առօրյա կերպարին ավելացնեք «լուռ շքեղության» նոտա"
+      },
+      {
+        "q": "Ոսկեզօծ ծածկույթը ժամանակի ընթացքում կարող է խամրել",
+        "a": "Մատնանշեք իտալական գալվանական մշակման բարձր որակը: Խնամքի պարզ կանոններին հետևելու դեպքում (խուսափել օծանելիքի և խոնավության հետ շփումից), ականջօղերը կպահպանեն իրենց սկզբնական փայլը երկար տարիներ"
+      },
+      {
+        "q": "Նման ակտիվ դիզայնը այլ զարդերի հետ համադրելու բարդությունը",
+        "a": "Խորհուրդ տվեք Notabili-ն օգտագործել որպես դեմքի մոտ միակ շեշտադրող աքսեսուար: Դրանք ինքնաբավ են և լավագույնս ներդաշնակվում են ապրանքանիշի հավաքածուի մինիմալիստական մատանիների կամ բարակ ապարանջանների հետ"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Auskari var šķist smagi liela kristāla dēļ",
+        "a": "Paskaidrojiet klientam, ka augsto tehnoloģiju misiņa sakausējuma izmantošana ļauj saglabāt rotaslietas apjomu ar optimālu svaru, bet klipša mehānisms vienmērīgi sadala spiedienu komfortam visa vakara garumā."
+      },
+      {
+        "q": "Bailes, ka klipši var noslīdēt vai būt neuzticami",
+        "a": "Aplieciniet klientam, ka Luisa Spagnoli klipši iziet rūpīgu kvalitātes pārbaudi. Mehānismam ir ideāls nospriegojums — tas ir pietiekami blīvs drošai fiksācijai, bet mīksts, lai neradītu diskomfortu."
+      },
+      {
+        "q": "Kristāli padara auskarus pārāk greznus ikdienas nēsāšanai",
+        "a": "Demonstrējiet aktuālo eklektikas tendenci: piedāvājiet kombinēt šos auskarus ar lakonisku trikotāžu vai džinsu audumu (piemēram, ar modeli Silicone), lai pievienotu \"klusās greznības\" noti ikdienas tēlam."
+      },
+      {
+        "q": "Apzeltītais pārklājums laika gaitā var nobālēt",
+        "a": "Norādiet uz itāļu galvaniskās apstrādes augsto kvalitāti. Ievērojot vienkāršus kopšanas noteikumus (izvairīties no saskares ar parfimēriju un mitrumu), auskari saglabās savu sākotnējo spožumu daudzus gadus."
+      },
+      {
+        "q": "Grūtības kombinēt tik aktīvu dizainu ar citām rotaslietām",
+        "a": "Iesakiet izmantot Notabili kā vienīgo akcenta aksesuāru pie sejas. Tie ir pašpietiekami un vislabāk harmonē ar minimālistiskiem gredzeniem vai smalkām rokassprādzēm no zīmola kolekcijas."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Auskarai gali atrodyti sunkūs dėl didelio kristalo",
+        "a": "Paaiškinkite klientui, kad aukštųjų technologijų žalvario lydinio naudojimas leidžia išlaikyti papuošalo tūrį esant optimaliam svoriui, o segtuko mechanizmas tolygiai paskirsto spaudimą komfortui visą vakarą."
+      },
+      {
+        "q": "Baimė, kad segtukai gali nuslysti ar būti nepatikimi",
+        "a": "Užtikrinkite klientą, kad Luisa Spagnoli segtukai praeina kruopščią kokybės patikrą. Mechanizmas pasižymi idealia įtampa – jis pakankamai tvirtas patikimam fiksavimui, tačiau minkštas, kad nesukeltų diskomforto."
+      },
+      {
+        "q": "Kristalai daro auskarus per puošnius kasdieniam nešiojimui",
+        "a": "Pademonstruokite aktualią eklektikos tendenciją: pasiūlykite derinti šiuos auskarus prie lakoniško trikotažo ar džinsinio audinio (pavyzdžiui, modelio Silicone), kad suteiktumėte „tylios prabangos“ natą kasdieniam įvaizdžiui."
+      },
+      {
+        "q": "Paauksuota danga laikui bėgant gali nublankti",
+        "a": "Nurodykite aukštą itališko galvaninio apdorojimo kokybę. Laikantis paprastų priežiūros taisyklių (vengti sąlyčio su parfumerija ir drėgme), auskarai išlaikys savo pradinį blizgesį ilgus metus."
+      },
+      {
+        "q": "Sunku derinti tokį aktyvų dizainą su kitais papuošalais",
+        "a": "Patarkite naudoti Notabili kaip vienintelį akcentinį aksesuarą prie veido. Jie yra savarankiški ir geriausiai dera su minimalistiniais žiedais ar plonomis apyrankėmis iš prekės ženklo kolekcijos."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Серьги могут казаться тяжелыми из-за крупного кристалла",
+        "a": "Поясните клиенту, что использование высокотехнологичного сплава латуни позволяет сохранить объем украшения при оптимальном весе, а механизм клипсы равномерно распределяет давление для комфорта в течение всего вечера."
+      },
+      {
+        "q": "Страх, что клипсы могут соскользнуть или быть ненадежными",
+        "a": "Заверьте клиента, что клипсы Luisa Spagnoli проходят тщательную проверку качества. Механизм обладает идеальным натяжением — он достаточно плотный для надежной фиксации, но мягкий, чтобы не вызывать дискомфорта."
+      },
+      {
+        "q": "Кристаллы делают серьги слишком нарядными для повседневной носки",
+        "a": "Продемонстрируйте актуальный тренд на эклектику: предложите сочетать эти серьги с лаконичным трикотажем или денимом (например, с моделью Silicone), чтобы добавить ноту «тихой роскоши» в повседневный образ."
+      },
+      {
+        "q": "Позолоченное покрытие может потускнеть со временем",
+        "a": "Укажите на высокое качество итальянской гальванической обработки. При соблюдении простых правил ухода (избегать контакта с парфюмерией и влагой), серьги сохранят свой первоначальный блеск на долгие годы."
+      },
+      {
+        "q": "Сложность в сочетании такого активного дизайна с другими украшениями",
+        "a": "Посоветуйте использовать Notabili как единственный акцентный аксессуар у лица. Они самодостаточны и лучше всего гармонируют с минималистичными кольцами или тонкими браслетами из коллекции бренда."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Сережки можуть здаватися важкими через великий кристал",
+        "a": "Поясніть клієнту, що використання високотехнологічного сплаву латуні дозволяє зберегти об'єм прикраси при оптимальній вазі, а механізм кліпси рівномірно розподіляє тиск для комфорту протягом усього вечора."
+      },
+      {
+        "q": "Страх, що кліпси можуть зісковзнути або бути ненадійними",
+        "a": "Запевніть клієнта, що кліпси Luisa Spagnoli проходять ретельну перевірку якості. Механізм має ідеальний натяг — він достатньо щільний для надійної фіксації, але м'який, щоб не викликати дискомфорту."
+      },
+      {
+        "q": "Кристали роблять сережки занадто ошатними для повсякденного носіння",
+        "a": "Продемонструйте актуальний тренд на еклектику: запропонуйте поєднувати ці сережки з лаконічним трикотажем або денімом (наприклад, з моделлю Silicone), щоб додати ноту «тихої розкоші» у повсякденний образ."
+      },
+      {
+        "q": "Позолочене покриття може потьмяніти з часом",
+        "a": "Вкажіть на високу якість італійської гальванічної обробки. При дотриманні простих правил догляду (уникати контакту з парфумерією та вологою), сережки збережуть свій первісний блиск на довгі роки."
+      },
+      {
+        "q": "Складність у поєднанні такого активного дизайну з іншими прикрасами",
+        "a": "Порадьте використовувати Notabili як єдиний акцентний аксесуар біля обличчя. Вони самодостатні і найкраще гармонують з мінімалістичними каблучками або тонкими браслетами з колекції бренду."
+      }
+    ]
+  }
+}

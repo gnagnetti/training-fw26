@@ -1,0 +1,500 @@
+{
+  "id": 445,
+  "name": "Minia",
+  "description": {
+    "en": "The Minia skirt is a refined embodiment of the Italian 'tubino' style, where the disciplined geometry of the classic pencil silhouette is softened by the nobility of knitted fabric. Crafted from a wool blend using a two-tone jacquard weave technique, recreating the canonical herringbone motif (spinato). The piece's architecture is flawless: a below-the-knee length and fitted silhouette form a status-defining vertical, while a center-back vent ensures freedom of movement while preserving purity of line. Particular comfort and a perfect fit are guaranteed by an elasticated waist insert, making the skirt a versatile foundation for both a disciplined business suit and an elegant urban ensemble in the 'Quiet Luxury' style.",
+    "ru": "Юбка Minia --- это утонченное воплощение итальянского стиля «tubino», где строгая геометрия классического карандаша смягчается благородством трикотажного полотна. Модель выполнена из смесовой шерсти в технике двухцветного жаккардового плетения, воссоздающего канонический узор «елочка» (spinato). Архитектура изделия безупречна: длина ниже колена и прилегающий силуэт формируют статусную вертикаль, а шлица по центру сзади обеспечивает свободу движений, сохраняя чистоту линий. Особый комфорт и идеальную посадку по фигуре гарантирует эластичная вставка на талии, которая делает юбку универсальным фундаментом как для строгого бизнес-костюма, так и для элегантного городского ансамбля в стиле «Quiet Luxury».",
+    "ar": "تعد تنورة Minia تجسيداً راقياً لأسلوب «tubino» الإيطالي، حيث تلتقي الهندسة الصارمة لقصة القلم الكلاسيكية مع نعومة قماش التريكو النبيل. صُممت القطعة من مزيج الصوف بتقنية حياكة الجاكار ثنائية اللون، التي تعيد ابتكار نمط «عظمة السمكة» الكلاسيكي (spinato). هندسة القطعة مثالية: الطول أسفل الركبة والقصة الضيقة تشكل خطاً عمودياً يعكس الفخامة، بينما تضمن الفتحة الخلفية المركزية حرية الحركة مع الحفاظ على انسيابية التصميم. توفر القطعة المرنة عند الخصر راحة استثنائية وتناسباً مثالياً مع القوام، مما يجعلها أساساً متعدد الاستخدامات سواء لبدلة العمل الرسمية أو لإطلالة حضرية أنيقة بأسلوب «Quiet Luxury».",
+    "ka": "Minia ქვედაბოლო არის იტალიური „tubino“ სტილის დახვეწილი განსახიერება, სადაც კლასიკური ფანქარი-ქვედაბოლოს მკაცრი გეომეტრია რბილდება ტრიკოტაჟის ქსოვილის კეთილშობილებით. მოდელი შესრულებულია შერეული მატყლისგან ორფეროვანი ჟაკარდული ქსოვის ტექნიკით, რომელიც აღადგენს კანონიკურ „ნაძვისებრ“ ნაქარგს (spinato). ნაკეთობის არქიტექტურა უნაკლოა: მუხლს ქვემოთ სიგრძე და მომდგარი სილუეტი ქმნის სტატუსურ ვერტიკალს, ხოლო უკანა მხარეს ცენტრში არსებული ჭრილი უზრუნველყოფს მოძრაობის თავისუფლებას, ხაზების სისუფთავის შენარჩუნებით. განსაკუთრებულ კომფორტს და ტანზე იდეალურ მორგებას გარანტირებულს ხდის წელზე არსებული ელასტიური ჩანართი, რომელიც ქვედაბოლოს აქცევს უნივერსალურ საძირკვლად როგორც მკაცრი ბიზნეს-კოსტუმისთვის, ასევე „Quiet Luxury“-ის სტილის ელეგანტური ურბანული ანსამბლისთვის.",
+    "hy": "Minia կիսաշրջազգեստը իտալական «tubino» ոճի նրբագեղ մարմնացումն է, որտեղ դասական մատիտ-կիսաշրջազգեստի խիստ երկրաչափությունը մեղմվում է տրիկոտաժե կտավի ազնվականությամբ։ Մոդելը կատարված է բրդյա խառնուրդից՝ երկգույն ժակարդի հյուսման տեխնիկայով, որը վերստեղծում է «եղևնու» կանոնիկ նախշը (spinato)։ Արտադրանքի ճարտարապետությունն անթերի է՝ ծնկից ներքև երկարությունը և կիպ սիլուետը ձևավորում են կարգավիճակային ուղղահայաց, իսկ հետևի մասի կենտրոնական ճեղքվածքը ապահովում է շարժման ազատություն՝ պահպանելով գծերի մաքրությունը։ Հատուկ հարմարավետություն և կազմվածքին կատարյալ նստվածք է երաշխավորում գոտկատեղի առաձգական ներդիրը, որը կիսաշրջազգեստը դարձնում է ունիվերսալ հիմք ինչպես խիստ բիզնես-կոստյումի, այնպես էլ «Quiet Luxury» ոճի էլեգանտ քաղաքային անսամբլի համար։",
+    "lv": "Svārki Minia --- ir izsmalcināts itāļu «tubino» stila iemiesojums, kur klasiskā zīmuļsvārku stingrā ģeometrija tiek mīkstināta ar adītā auduma cēlumu. Modelis ir izgatavots no vilnas maisījuma divkrāsu žakarda adījuma tehnikā, kas atveido kanonisko «skujiņas» rakstu (spinato). Izstrādājuma arhitektūra ir nevainojama: garums zem ceļgala un piegulošais siluets veido statusu vertikāli, bet šķēlums aizmugures centrā nodrošina kustību brīvību, saglabājot līniju tīrību. Īpašu komfortu un ideālu piegulumu augumam garantē elastīgā ielaiduma josla viduklī, kas padara svārkus par universālu pamatu gan stingram biznesa uzvalkam, gan elegantam pilsētas ansamblim «Quiet Luxury» stilā.",
+    "lt": "Sijonas Minia --- tai rafinuotas itališko „tubino“ stiliaus įsikūnijimas, kuriame griežta klasikinio pieštuko formos geometrija sušvelninta kilniu trikotažo audiniu. Modelis pagamintas iš vilnos mišinio, naudojant dviejų spalvų žakardo pynimo techniką, atkuriantį kanoninį „eglutės“ raštą (spinato). Gaminio architektūra nepriekaištinga: žemiau kelių esantis ilgis ir prigludęs siluetas formuoja statusą pabrėžiančią vertikalę, o skeltukas per centrą nugarinėje dalyje suteikia judėjimo laisvę, išlaikant linijų švarą. Ypatingą komfortą ir idealų prigludimą prie kūno garantuoja elastinė įsiuva ties juosmeniu, kuri paverčia sijoną universaliu pagrindu tiek griežtam verslo kostiumui, tiek elegantiškam miesto ansambliui „Quiet Luxury“ stiliumi.",
+    "pl": "Spódnica Minia to wyrafinowane ucieleśnienie włoskiego stylu „tubino”, w którym surowa geometria klasycznej ołówkowej spódnicy zostaje złagodzona szlachetnością dzianiny. Model wykonany z mieszanki wełny w technice dwukolorowego splotu żakardowego, odtwarzającego kanoniczny wzór „jodełki” (spinato). Architektura wyrobu jest nienaganna: długość za kolano i dopasowany krój tworzą prestiżową pionową linię, a rozcięcie pośrodku z tyłu zapewnia swobodę ruchów, zachowując czystość formy. Szczególny komfort i idealne dopasowanie do sylwetki gwarantuje elastyczna wstawka w talii, która czyni spódnicę uniwersalną bazą zarówno dla surowego kostiumu biznesowego, jak i dla eleganckiego miejskiego zestawu w stylu „Quiet Luxury”.",
+    "uk": "Спідниця Minia --- це витончене втілення італійського стилю «tubino», де сувора геометрія класичного олівця пом'якшується благородством трикотажного полотна. Модель виконана із сумішевої вовни в техніці двоколірного жакардового плетіння, що відтворює канонічний візерунок «ялинка» (spinato). Архітектура виробу бездоганна: довжина нижче коліна та прилеглий силует формують статусну вертикаль, а шліца по центру ззаду забезпечує свободу рухів, зберігаючи чистоту ліній. Особливий комфорт та ідеальну посадку по фігурі гарантує еластична вставка на талії, яка робить спідницю універсальним фундаментом як для суворого бізнес-костюма, так і для елегантного міського ансамблю в стилі «Quiet Luxury»."
+  },
+  "colors": [
+    {
+      "name": "Nero Tabacco",
+      "code": "0101 2234",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2DArnQrxTg-oql1-E0SPpg_1318458338696f436d73ee42_37110795_02830840XX1.jpg"
+    },
+    {
+      "name": "Beige Beige",
+      "code": "1117 1118",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1302431902691f15784924a8_40669437_02790520XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Дизайнеры Luisa Spagnoli предлагают использовать юбку Minia как часть скоординированного трикотажного костюма или как акцентный элемент многослойного образа: Вариант 1117 1118 ( Серый): В lookbook (Look 9): каноническое костюмное прочтение с жакетом в тон Micologia 1117 1118 и блузой Latteria A 0218.",
+        "en": "Luisa Spagnoli designers suggest using the Minia skirt as part of a coordinated knit suit or as an accent element of a layered look: Option 1117 1118 ( Grey): In lookbook (Look 9): a canonical suit interpretation with a matching Micologia 1117 1118 jacket and a Latteria A 0218 blouse.",
+        "ar": "Luisa Spagnoli designers suggest using the Minia skirt as part of a coordinated knit suit or as an accent element of a layered look: Option 1117 1118 ( Grey): In lookbook (Look 9): a canonical suit interpretation with a matching Micologia 1117 1118 jacket and a Latteria A 0218 blouse.",
+        "ka": "Luisa Spagnoli designers suggest using the Minia skirt as part of a coordinated knit suit or as an accent element of a layered look: Option 1117 1118 ( Grey): In lookbook (Look 9): a canonical suit interpretation with a matching Micologia 1117 1118 jacket and a Latteria A 0218 blouse.",
+        "hy": "Luisa Spagnoli designers suggest using the Minia skirt as part of a coordinated knit suit or as an accent element of a layered look: Option 1117 1118 ( Grey): In lookbook (Look 9): a canonical suit interpretation with a matching Micologia 1117 1118 jacket and a Latteria A 0218 blouse.",
+        "lv": "Luisa Spagnoli designers suggest using the Minia skirt as part of a coordinated knit suit or as an accent element of a layered look: Option 1117 1118 ( Grey): In lookbook (Look 9): a canonical suit interpretation with a matching Micologia 1117 1118 jacket and a Latteria A 0218 blouse.",
+        "lt": "Luisa Spagnoli designers suggest using the Minia skirt as part of a coordinated knit suit or as an accent element of a layered look: Option 1117 1118 ( Grey): In lookbook (Look 9): a canonical suit interpretation with a matching Micologia 1117 1118 jacket and a Latteria A 0218 blouse.",
+        "pl": "Luisa Spagnoli designers suggest using the Minia skirt as part of a coordinated knit suit or as an accent element of a layered look: Option 1117 1118 ( Grey): In lookbook (Look 9): a canonical suit interpretation with a matching Micologia 1117 1118 jacket and a Latteria A 0218 blouse.",
+        "uk": "Luisa Spagnoli designers suggest using the Minia skirt as part of a coordinated knit suit or as an accent element of a layered look: Option 1117 1118 ( Grey): In lookbook (Look 9): a canonical suit interpretation with a matching Micologia 1117 1118 jacket and a Latteria A 0218 blouse."
+      },
+      "items": [
+        {
+          "name": "Micologia",
+          "code": "1117 1118",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/959747307691f1576f006d2_02395475_02790480XX1.jpg",
+          "modelId": 174
+        },
+        {
+          "name": "Latteria A",
+          "code": "0218",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1723971240691c57c79cc7c5_03631804_02780370XX1.jpg",
+          "modelId": 412
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 9)",
+        "en": "On display (Vetrina 9)",
+        "ar": "On display (Vetrina 9)",
+        "ka": "On display (Vetrina 9)",
+        "hy": "On display (Vetrina 9)",
+        "lv": "On display (Vetrina 9)",
+        "lt": "On display (Vetrina 9)",
+        "pl": "On display (Vetrina 9)",
+        "uk": "On display (Vetrina 9)"
+      },
+      "text": {
+        "ru": "статусный деловой сет с жакетом Micologia 1117 1118 и рубашкой Latteria 0218, дополненный сумкой Idoneo 0928 0945 0007 и перчатками Ubnoldo 0971 0002. Вариант 0101 2234 ( Черно-коричневый):",
+        "en": "a status-oriented business set with a Micologia 1117 1118 jacket and a Latteria 0218 shirt, complemented by an Idoneo 0928 0945 0007 bag and Ubnoldo 0971 0002 gloves. Option 0101 2234 ( Black-Brown):",
+        "ar": "a status-oriented business set with a Micologia 1117 1118 jacket and a Latteria 0218 shirt, complemented by an Idoneo 0928 0945 0007 bag and Ubnoldo 0971 0002 gloves. Option 0101 2234 ( Black-Brown):",
+        "ka": "a status-oriented business set with a Micologia 1117 1118 jacket and a Latteria 0218 shirt, complemented by an Idoneo 0928 0945 0007 bag and Ubnoldo 0971 0002 gloves. Option 0101 2234 ( Black-Brown):",
+        "hy": "a status-oriented business set with a Micologia 1117 1118 jacket and a Latteria 0218 shirt, complemented by an Idoneo 0928 0945 0007 bag and Ubnoldo 0971 0002 gloves. Option 0101 2234 ( Black-Brown):",
+        "lv": "a status-oriented business set with a Micologia 1117 1118 jacket and a Latteria 0218 shirt, complemented by an Idoneo 0928 0945 0007 bag and Ubnoldo 0971 0002 gloves. Option 0101 2234 ( Black-Brown):",
+        "lt": "a status-oriented business set with a Micologia 1117 1118 jacket and a Latteria 0218 shirt, complemented by an Idoneo 0928 0945 0007 bag and Ubnoldo 0971 0002 gloves. Option 0101 2234 ( Black-Brown):",
+        "pl": "a status-oriented business set with a Micologia 1117 1118 jacket and a Latteria 0218 shirt, complemented by an Idoneo 0928 0945 0007 bag and Ubnoldo 0971 0002 gloves. Option 0101 2234 ( Black-Brown):",
+        "uk": "a status-oriented business set with a Micologia 1117 1118 jacket and a Latteria 0218 shirt, complemented by an Idoneo 0928 0945 0007 bag and Ubnoldo 0971 0002 gloves. Option 0101 2234 ( Black-Brown):"
+      },
+      "items": [
+        {
+          "name": "Micologia",
+          "code": "1117 1118",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/959747307691f1576f006d2_02395475_02790480XX1.jpg",
+          "modelId": 174
+        },
+        {
+          "name": "Latteria",
+          "code": "0218",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1723971240691c57c79cc7c5_03631804_02780370XX1.jpg",
+          "modelId": 101
+        },
+        {
+          "name": "Idoneo",
+          "code": "0928 0945 0007",
+          "imageUrl": null
+        },
+        {
+          "name": "Ubnoldo",
+          "code": "0971 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 178)",
+        "en": "In lookbook (Look 178)",
+        "ar": "In lookbook (Look 178)",
+        "ka": "In lookbook (Look 178)",
+        "hy": "In lookbook (Look 178)",
+        "lv": "In lookbook (Look 178)",
+        "lt": "In lookbook (Look 178)",
+        "pl": "In lookbook (Look 178)",
+        "uk": "In lookbook (Look 178)"
+      },
+      "text": {
+        "ru": "выразительный ансамбль с шелковой рубашкой Latteria A 1110 и жакетом Micologia 0101 2234.",
+        "en": "an expressive ensemble with a Latteria A 1110 silk shirt and a Micologia 0101 2234 jacket.",
+        "ar": "an expressive ensemble with a Latteria A 1110 silk shirt and a Micologia 0101 2234 jacket.",
+        "ka": "an expressive ensemble with a Latteria A 1110 silk shirt and a Micologia 0101 2234 jacket.",
+        "hy": "an expressive ensemble with a Latteria A 1110 silk shirt and a Micologia 0101 2234 jacket.",
+        "lv": "an expressive ensemble with a Latteria A 1110 silk shirt and a Micologia 0101 2234 jacket.",
+        "lt": "an expressive ensemble with a Latteria A 1110 silk shirt and a Micologia 0101 2234 jacket.",
+        "pl": "an expressive ensemble with a Latteria A 1110 silk shirt and a Micologia 0101 2234 jacket.",
+        "uk": "an expressive ensemble with a Latteria A 1110 silk shirt and a Micologia 0101 2234 jacket."
+      },
+      "items": [
+        {
+          "name": "Latteria A",
+          "code": "1110",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/vm-kK9HbRYGNhnOkzPdMdg_1277795968696f43060e3c70_91483708_02821380XX1.jpg",
+          "modelId": 412
+        },
+        {
+          "name": "Micologia",
+          "code": "0101 2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ema_wbDiQ1a0Lj1RymcvnQ_1735110920696f436bcfc079_62732838_02830810XX1.jpg",
+          "modelId": 174
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 51)",
+        "en": "On display (Vetrina 51)",
+        "ar": "On display (Vetrina 51)",
+        "ka": "On display (Vetrina 51)",
+        "hy": "On display (Vetrina 51)",
+        "lv": "On display (Vetrina 51)",
+        "lt": "On display (Vetrina 51)",
+        "pl": "On display (Vetrina 51)",
+        "uk": "On display (Vetrina 51)"
+      },
+      "text": {
+        "ru": "многослойный зимний образ под структурным пальто Scansione 0961 в сочетании с жакетом Micologia 0101 2234, пуловером Manos 0101 и кожаными перчатками Ubaldo 0101.",
+        "en": "a layered winter look under a structural Scansione 0961 coat combined with a Micologia 0101 2234 jacket, a Manos 0101 pullover and Ubaldo 0101 leather gloves.",
+        "ar": "a layered winter look under a structural Scansione 0961 coat combined with a Micologia 0101 2234 jacket, a Manos 0101 pullover and Ubaldo 0101 leather gloves.",
+        "ka": "a layered winter look under a structural Scansione 0961 coat combined with a Micologia 0101 2234 jacket, a Manos 0101 pullover and Ubaldo 0101 leather gloves.",
+        "hy": "a layered winter look under a structural Scansione 0961 coat combined with a Micologia 0101 2234 jacket, a Manos 0101 pullover and Ubaldo 0101 leather gloves.",
+        "lv": "a layered winter look under a structural Scansione 0961 coat combined with a Micologia 0101 2234 jacket, a Manos 0101 pullover and Ubaldo 0101 leather gloves.",
+        "lt": "a layered winter look under a structural Scansione 0961 coat combined with a Micologia 0101 2234 jacket, a Manos 0101 pullover and Ubaldo 0101 leather gloves.",
+        "pl": "a layered winter look under a structural Scansione 0961 coat combined with a Micologia 0101 2234 jacket, a Manos 0101 pullover and Ubaldo 0101 leather gloves.",
+        "uk": "a layered winter look under a structural Scansione 0961 coat combined with a Micologia 0101 2234 jacket, a Manos 0101 pullover and Ubaldo 0101 leather gloves."
+      },
+      "items": [
+        {
+          "name": "Scansione",
+          "code": "0961",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg",
+          "modelId": 302
+        },
+        {
+          "name": "Micologia",
+          "code": "0101 2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ema_wbDiQ1a0Lj1RymcvnQ_1735110920696f436bcfc079_62732838_02830810XX1.jpg",
+          "modelId": 174
+        },
+        {
+          "name": "Manos",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Ubaldo",
+          "code": "0101",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 52)",
+        "en": "On display (Vetrina 52)",
+        "ar": "On display (Vetrina 52)",
+        "ka": "On display (Vetrina 52)",
+        "hy": "On display (Vetrina 52)",
+        "lv": "On display (Vetrina 52)",
+        "lt": "On display (Vetrina 52)",
+        "pl": "On display (Vetrina 52)",
+        "uk": "On display (Vetrina 52)"
+      },
+      "text": {
+        "ru": "динамичная стилизация под пальто Scansione 0961 с пуловером Moralita 2234, рубашкой Limonaia 0101 и аксессуарами: шляпой Renno 0930 и сумкой LS1928P 0101 0038.",
+        "en": "a dynamic styling under a Scansione 0961 coat with a Moralita 2234 pullover, a Limonaia 0101 shirt and accessories: a Renno 0930 hat and an LS1928P 0101 0038 bag.",
+        "ar": "a dynamic styling under a Scansione 0961 coat with a Moralita 2234 pullover, a Limonaia 0101 shirt and accessories: a Renno 0930 hat and an LS1928P 0101 0038 bag.",
+        "ka": "a dynamic styling under a Scansione 0961 coat with a Moralita 2234 pullover, a Limonaia 0101 shirt and accessories: a Renno 0930 hat and an LS1928P 0101 0038 bag.",
+        "hy": "a dynamic styling under a Scansione 0961 coat with a Moralita 2234 pullover, a Limonaia 0101 shirt and accessories: a Renno 0930 hat and an LS1928P 0101 0038 bag.",
+        "lv": "a dynamic styling under a Scansione 0961 coat with a Moralita 2234 pullover, a Limonaia 0101 shirt and accessories: a Renno 0930 hat and an LS1928P 0101 0038 bag.",
+        "lt": "a dynamic styling under a Scansione 0961 coat with a Moralita 2234 pullover, a Limonaia 0101 shirt and accessories: a Renno 0930 hat and an LS1928P 0101 0038 bag.",
+        "pl": "a dynamic styling under a Scansione 0961 coat with a Moralita 2234 pullover, a Limonaia 0101 shirt and accessories: a Renno 0930 hat and an LS1928P 0101 0038 bag.",
+        "uk": "a dynamic styling under a Scansione 0961 coat with a Moralita 2234 pullover, a Limonaia 0101 shirt and accessories: a Renno 0930 hat and an LS1928P 0101 0038 bag."
+      },
+      "items": [
+        {
+          "name": "Scansione",
+          "code": "0961",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg",
+          "modelId": 302
+        },
+        {
+          "name": "Moralita",
+          "code": "2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/133445466692424e60a8ba4_47387365_02790590XX1.jpg",
+          "modelId": 448
+        },
+        {
+          "name": "Limonaia",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg",
+          "modelId": 416
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        },
+        {
+          "name": "LS1928P",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- A textile 'sculptor': Direct the client's attention to the herringbone pattern. This fine jacquard motif has a unique ability to visually correct the silhouette, concealing figure nuances and creating a slimming vertical line. - The secret of a perfect"
+    ],
+    "ru": [
+      "- Текстильный «скульптор»: Акцентируйте внимание клиента на рисунке «елочка». Мелкий жаккардовый паттерн обладает уникальным свойством визуально корректировать силуэт, скрывая нюансы фигуры и создавая стройную вертикаль. - Секрет идеальной посадки: Подчер"
+    ],
+    "ar": [
+      "- «نحات» النسيج: وجهي انتباه العميل إلى نقشة «عظم السمكة». تمتلك هذه النقشة الجاكار الدقيقة خاصية فريدة لتعديل القوام بصرياً، حيث تخفي تفاصيل الجسم وتخلق خطاً عمودياً رشيقاً. - سر المقاس المثالي: أكدي على وجود الحزام المطاطي. على عكس تنانير القلم (pencil"
+    ],
+    "ka": [
+      "- ტექსტილის «მოქანდაკე»: ყურადღება გაამახვილეთ მომხმარებლის «ნაძვისებრ» ნახატზე. წვრილ ჟაკარდის პატერნს აქვს უნიკალური თვისება ვიზუალურად დააკორექტიროს სილუეტი, დაფაროს ფიგურის ნიუანსები და შექმნას მოხდენილი ვერტიკალი. - იდეალური მორგების საიდუმლო: ხაზი გ"
+    ],
+    "hy": [
+      "- Տեքստիլ «քանդակագործ». Հաճախորդի ուշադրությունը հրավիրեք «եղևնու» նախշին: Մանր ժակարդային նախշն ունի կազմվածքը տեսողականորեն շտկելու յուրահատուկ հատկություն՝ թաքցնելով կազմվածքի նրբերանգները և ստեղծելով բարակ ուղղահայաց: - Իդեալական տեղավորման գաղտնիքը."
+    ],
+    "lv": [
+      "- Tekstila \"tēlnieks\": Akcentējiet klienta uzmanību uz \"skujiņas\" rakstu. Smalkajam žakarda rakstam piemīt unikāla īpašība vizuāli koriģēt siluetu, paslēpjot figūras nianses un radot slaidu vertikāli. - Perfekta pieguluma noslēpums: Uzsveriet elastīgās jo"
+    ],
+    "lt": [
+      "- Tekstilinis „skulptorius“: Akcentuokite klientui „eglutės“ raštą. Smulkus žakardinis raštas pasižymi unikalia savybe vizualiai koreguoti siluetą, paslepiant figūros niuansus ir sukuriant liekną vertikalę. - Tobulo prigludimo paslaptis: Pabrėžkite elastingo diržo buvimą. Skirtingai nei klasikiniai pieštuko silueto sijonai iš audinio, sijonas Minia prisitaiko prie apimčių pokyčių dienos metu, užtikrindamas „antros odos“ komfortą neaukojant elegancijos. - Investicija į kostiumą: Rekomenduokite įsigyti kartu su švarku Micologia. Toks trikotažinis „teiloringas“ --- pagrindinė sezono investicija, leidžianti atrodyti nepriekaištingai biure ir jaustis atsipalaidavus kelionių metu ar vairuojant."
+    ],
+    "pl": [
+      "- Tekstylny „rzeźbiarz”: Zwróć uwagę klienta na wzór w „jodełkę”. Drobny żakardowy deseń posiada unikalną właściwość optycznego korygowania sylwetki, ukrywając niuanse figury i tworząc wysmuklający wertykał. - Sekret idealnego dopasowania: Podkreśl obecno"
+    ],
+    "uk": [
+      "- Текстильний «скульптор»: Акцентуйте увагу клієнта на малюнку «ялинка». Дрібний жакардовий патерн володіє унікальною властивістю візуально коригувати силует, приховуючи нюанси фігури та створюючи струнку вертикаль. - Секрет ідеальної посадки: Підкресліть"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "knit skirt Point out the density of the jacquard knit. This is might stretch out» one of the most stable weaves in the collection, specifically engineered to preserve the \"tubino\" shape even with active wear. «A below-the- Explain that the vertical \"spinato\" pattern and knee length might the high waist placement, on the contrary, shorten my legs» elongate the figure. Add boots in a matching tone of one of the jacquard's shades to create a continuous line. «The elastic Point out that the waistband is designed to be flat waistband looks and hidden. Paired with the Latteria 0218 shirt or too casual» a jacket, it's completely invisible, providing comfort that stays hidden from view. «The blend Explain that a sophisticated jacquard knit requires composition seems the addition of high-tech fibers. This makes the less valuable» skirt durable, prevents pilling, and allows the piece to \"breathe.\" «The herringbone Showcase Vetrina 52: jacquard pairs beautifully pattern is hard to with both smooth silk and textured wool. The skirt pair with other becomes a neutral yet richly textured backdrop for pieces» any solid-colored piece in the collection"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Трикотажная юбка",
+        "a": "Укажите на плотность жаккардовой вязки. Это одно из может вытянуться самых стабильных переплетений в коллекции, которое специально разработано для сохранения формы."
+      },
+      {
+        "q": "tubino",
+        "a": "даже при активной носке."
+      },
+      {
+        "q": "Длина ниже",
+        "a": "Поясните, что вертикальный узор « spinato и колена может высокая посадка на талии, напротив, вытягивают укорачивать ноги» рост. Добавьте сапоги в тон одного из оттенков жаккарда для создания непрерывной линии."
+      },
+      {
+        "q": "Эластичный пояс",
+        "a": "Обратите внимание, что пояс спроектирован плоским и выглядит скрытым. В сочетании с рубашкой Latteria 0218 недостаточно или жакетом он абсолютно незаметен, обеспечивая официально комфорт, скрытый от глаз окружающих."
+      },
+      {
+        "q": "Смесовый состав",
+        "a": "Объясните, что для сложной жаккардовой вязки кажется менее добавление высокотехнологичных волокон необходимо. ценным Это делает юбку износостойкой, предотвращает пилингуемость и позволяет изделию."
+      },
+      {
+        "q": "дышать",
+        "a": "."
+      },
+      {
+        "q": "Узор \\'елочка\\",
+        "a": "Продемонстрируйте Vetrina 52: жаккард великолепно сложно сочетать с работает как с гладким шелком, так и с фактурной другими вещами шерстью. Юбка становится нейтральным, но глубоким фоном для любых однотонных изделий коллекции."
+      }
+    ],
+    "ar": [
+      {
+        "q": "ال",
+        "a": "التنورة التريكو قد تتمدد» أشيري إلى كثافة حياكة الجاكار. هذا واحد من أكثر الأنسجة ثباتاً في المجموعة، وقد صُمم خصيصاً للحفاظ على قصة «tubino» حتى مع كثرة الاستخدام. «الطول تحت الركبة قد يجعل الساقين تبدوان أقصر» اشرحي أن نمط «spinato» العمودي والخصر العالي يعملان على إطالة القامة. أضيفي حذاءً طويلاً بنفس درجة لون الجاكار لخلق خط بصري متصل. «الخصر المطاطي يبدو غير رسمي بما يكفي» لفتي الانتباه إلى أن الخصر مصمم ليكون مسطحاً ومخفياً. عند تنسيقه مع قميص Latteria 0218 أو جاكيت، يكون غير مرئي تماماً، مما يوفر راحة مخفية. «المكون المخلوط يبدو أقل قيمة» اشرحي أن إضافة ألياف عالية التقنية ضرورية لحياكة الجاكار المعقدة. هذا يجعل التنورة مقاومة للاهتراء، ويمنع تكون الوبر، ويسمح للقطعة «بالتنفس». «نمط \\'عظمة السمكة\\' صعب التنسيق مع القطع الأخرى» اعرضي Vetrina 52: الجاكار يتناغم بشكل رائع مع الحرير الأملس والصوف ذو الملمس البارز. تصبح التنورة خلفية محايدة وعميقة لأي قطعة أحادية اللون من المجموعة"
+      }
+    ],
+    "ka": [
+      {
+        "q": "ტრიკოტაჟის ქვედაკაბა შესაძლოა გაიწელოს",
+        "a": "მიუთითეთ ჟაკარდის ქსოვის სიმკვრივეს. ეს არის კოლექციის ერთ-ერთი ყველაზე სტაბილური წვნა, რომელიც სპეციალურად არის შემუშავებული."
+      },
+      {
+        "q": "tubino“-ს ფორმის შესანარჩუნებლად აქტიური ტარების დროსაც კი. «მუხლს ქვემოთ სიგრძემ შესაძლოა ფეხები დაამოკლოს",
+        "a": "განუმარტეთ, რომ."
+      },
+      {
+        "q": "spinato“-ს ვერტიკალური ნიმუში და წელის მაღალი ზოლი, პირიქით, აგრძელებს სილუეტს. შეუხამეთ ჟაკარდის ერთ-ერთი ფერის ჩექმები უწყვეტი ხაზის შესაქმნელად. «ელასტიური სარტყელი არასაკმარისად ოფიციალურად გამოიყურება",
+        "a": "ყურადღება მიაქციეთ, რომ სარტყელი დაპროექტებულია ბრტყელად და ფარულად. პერანგ Latteria 0218-თან ან ჟაკეტთან კომბინაციაში ის აბსოლუტურად შეუმჩნეველია და უზრუნველყოფს კომფორტს, რომელიც სხვების თვალისთვის დაფარულია."
+      },
+      {
+        "q": "შერეული შემადგენლობა ნაკლებად ღირებული ჩანს",
+        "a": "აუხსენით, რომ რთული ჟაკარდული ქსოვისთვის მაღალტექნოლოგიური ბოჭკოების დამატება აუცილებელია. ეს ქვედაკაბას ხდის გამძლეს, ხელს უშლის ბუსუსების გაჩენას და აძლევს ნაწარმს."
+      },
+      {
+        "q": "სუნთქვის“ საშუალებას. «\\'ნაძვისებრი\\' ნიმუშის შეხამება სხვა ნივთებთან რთულია",
+        "a": "წარმოადგინეთ Vetrina 52: ჟაკარდი შესანიშნავად მუშაობს როგორც გლუვ აბრეშუმთან, ისე ფაქტურულ შალთან. ქვედაკაბა ხდება ნეიტრალური, მაგრამ ღრმა ფონი კოლექციის ნებისმიერი ერთტონიანი ნივთისთვის."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Տրիկոտաժե կիսաշրջազգեստը կարող է ձգվել",
+        "a": "՝ Մատնանշեք ժակարդային հյուսվածքի խտությունը։ Սա հավաքածուի ամենակայուն հյուսվածքներից է, որը հատուկ մշակված է նույնիսկ ակտիվ կրելու ժամանակ."
+      },
+      {
+        "q": "tubino",
+        "a": "ձևը պահպանելու համար։."
+      },
+      {
+        "q": "Ծնկից ցածր երկարությունը կարող է կարճացնել ոտքերը",
+        "a": "՝ Բացատրեք, որ."
+      },
+      {
+        "q": "spinato",
+        "a": "ուղղահայաց նախշը և գոտկատեղի բարձր տեղադրությունը, ընդհակառակը, երկարացնում են հասակը։ Ավելացրեք ժակարդի երանգներից մեկի երանգին համապատասխանող երկարաճիտ կոշիկներ՝ անընդհատ գիծ ստեղծելու համար։."
+      },
+      {
+        "q": "Առաձգական գոտին բավականաչափ պաշտոնական տեսք չունի",
+        "a": "՝ Ուշադրություն դարձրեք, որ գոտին նախագծված է հարթ և թաքնված։ Latteria 0218 վերնաշապիկի կամ բաճկոնի հետ համադրությամբ այն բացարձակապես աննկատ է՝ ապահովելով շրջապատի աչքերից թաքնված հարմարավետություն։."
+      },
+      {
+        "q": "Խառը կազմը պակաս արժեքավոր է թվում",
+        "a": "՝ Բացատրեք, որ բարդ ժակարդային հյուսվածքի համար բարձր տեխնոլոգիական մանրաթելերի ավելացումն անհրաժեշտ է։ Սա կիսաշրջազգեստը դարձնում է դիմացկուն, կանխում է թելերի գնդիկավորումը (pilling) և թույլ է տալիս արտադրանքին."
+      },
+      {
+        "q": "շնչել",
+        "a": "։."
+      },
+      {
+        "q": "Եղևնաձև",
+        "a": "նախշը դժվար է համադրել այլ իրերի հետ»՝ Ցուցադրեք Vetrina 52-ը. ժակարդը հիանալի է աշխատում ինչպես հարթ մետաքսի, այնպես էլ հյուսվածքային բրդի հետ։ Կիսաշրջազգեստը դառնում է չեզոք, բայց խորը ֆոն հավաքածուի ցանկացած միագույն իրերի համար։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Trikotāžas svārki",
+        "a": "Norādiet uz žakarda adījuma blīvumu. Tas ir viens no var izstiepties stabilākajiem pinumiem kolekcijā, kas īpaši izstrādāts, lai saglabātu."
+      },
+      {
+        "q": "tubino",
+        "a": "formu pat aktīvas valkāšanas laikā."
+      },
+      {
+        "q": "Garums zem ceļgala",
+        "a": "Izskaidrojiet, ka vertikālais «spinato raksts un augstā var vizuāli saīsināt jostasvieta, gluži pretēji, pagarina augumu. Pievienojiet kājas» zābakus vienā no žakarda toņiem, lai radītu nepārtrauktu līniju."
+      },
+      {
+        "q": "Elastīgā josta izskatās",
+        "a": "Pievērsiet uzmanību tam, ka josta ir izstrādāta plakana nepietiekami oficiāla un slēpta. Kombinācijā ar kreklu Latteria 0218 vai žaketi tā ir absolūti nemanāma, nodrošinot komfortu, kas paliek acīm apslēpts."
+      },
+      {
+        "q": "Jauktais sastāvs",
+        "a": "Izskaidrojiet, ka sarežģītam žakarda adījumam ir šķiet mazāk vērtīgs nepieciešams pievienot augsto tehnoloģiju šķiedras. Tas padara svārkus izturīgus pret nodilumu, novērš savelšanos un ļauj izstrādājumam."
+      },
+      {
+        "q": "elpot",
+        "a": "."
+      },
+      {
+        "q": "Eglītes",
+        "a": "rakstu ir Demonstrējiet Vetrina 52: žakards lieliski sader gan ar grūti kombinēt ar gludu zīdu, gan ar faktūru vilnu. Svārki kļūst par citām lietām» neitrālu, bet dziļu fonu jebkuriem vienkrāsainiem kolekcijas izstrādājumiem."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikti: „Trikotažinis sijonas",
+        "a": "Atkreipkite dėmesį į žakardinio mezgimo tankumą. gali išsitampyti“ Tai vienas stabiliausių audinių kolekcijoje, specialiai sukurtas išlaikyti „tubino“ formą net aktyviai dėvint. į žakardinio mezgimo tankumą. gali išsitampyti“ Tai vienas stabiliausių audinių kolekcijoje, specialiai sukurtas išlaikyti „tubino“ formą net aktyviai dėvint."
+      },
+      {
+        "q": "„Ilgis žemiau kelių gali",
+        "a": "Paaiškinkite, kad vertikalus „spinato“ raštas ir aukštas trumpinti kojas“ liemuo, priešingai, vizualiai ilgina ūgį. Priderinkite batus, atitinkančius vieną iš žakardo atspalvių, kad sukurtumėte vientisą liniją. , kad vertikalus „spinato“ raštas ir aukštas trumpinti kojas“ liemuo, priešingai, vizualiai ilgina ūgį. Priderinkite batus, atitinkančius vieną iš žakardo atspalvių, kad sukurtumėte vientisą liniją."
+      },
+      {
+        "q": "„Elastinis diržas atrodo",
+        "a": "Atkreipkite dėmesį, kad diržas suprojektuotas plokščias nepakankamai oficialiai“ ir paslėptas. Derinant su Latteria 0218 marškiniais ar švarku, jis visiškai nepastebimas, užtikrinantis komfortą, kurio nematyti aplinkiniams. , kad diržas suprojektuotas plokščias nepakankamai oficialiai“ ir paslėptas. Derinant su Latteria 0218 marškiniais ar švarku, jis visiškai nepastebimas, užtikrinantis komfortą, kurio nematyti aplinkiniams."
+      },
+      {
+        "q": "„Mišri sudėtis atrodo",
+        "a": "Paaiškinkite, kad sudėtingam žakardiniam mezgimui mažiau vertinga“ aukštųjų technologijų pluoštų pridėjimas yra būtinas. Tai daro sijoną atsparų nusidėvėjimui, apsaugo nuo pūkavimosi ir leidžia audiniui „kvėpuoti“. , kad sudėtingam žakardiniam mezgimui mažiau vertinga“ aukštųjų technologijų pluoštų pridėjimas yra būtinas. Tai daro sijoną atsparų nusidėvėjimui, apsaugo nuo pūkavimosi ir leidžia audiniui „kvėpuoti“."
+      },
+      {
+        "q": "„\\'Eglutės\\' raštą sunku",
+        "a": "Pademonstruokite Vetrina 52: žakardas puikiai dera derinti prie kitų daiktų“ tiek su glotniu šilku, tiek su faktūrine vilna. Sijonas tampa neutraliu, bet giliu fonu bet kokiems vienspalviams kolekcijos gaminiams."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Dzianinowa spódnica",
+        "a": "Wskaż na gęstość żakardowego splotu. Jest to jeden może się wyciągnąć z najbardziej stabilnych splotów w kolekcji, który został specjalnie zaprojektowany dla zachowania formy."
+      },
+      {
+        "q": "tubino",
+        "a": "nawet przy aktywnym noszeniu."
+      },
+      {
+        "q": "Długość za kolano",
+        "a": "Wyjaśnij, że pionowy wzór „spinato i wysoki może skracać nogi” stan, wręcz przeciwnie, wydłużają sylwetkę. Dodaj kozaki w odcieniu jednego z kolorów żakardu dla stworzenia ciągłej linii."
+      },
+      {
+        "q": "Elastyczny pas",
+        "a": "Zwróć uwagę, że pas został zaprojektowany wygląda mało jako płaski i ukryty. W połączeniu z koszulą oficjalnie Latteria 0218 lub żakietem jest on całkowicie niewidoczny, zapewniając komfort ukryty przed wzrokiem otoczenia."
+      },
+      {
+        "q": "Skład z domieszką",
+        "a": "Wyjaśnij, że dla złożonego żakardowego splotu wydaje się mniej dodanie zaawansowanych technologicznie włókien wartościowy jest konieczne. To sprawia, że spódnica jest odporna na zużycie, zapobiega mechaceniu i pozwala produktowi."
+      },
+      {
+        "q": "oddychać",
+        "a": "."
+      },
+      {
+        "q": "Wzór 'jodełka' Zaprezentuj Vetrina 52: żakard wspaniale trudno łączyć współgra zarówno z gładkim jedwabiem, jak z innymi rzeczami",
+        "a": "i z fakturalną wełną. Spódnica staje się neutralnym, lecz głębokim tłem dla wszelkich jednolitych elementów kolekcji."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Трикотажна спідниця може витягнутися",
+        "a": "Вкажіть на щільність жакардової в'язки. Це одне з найбільш стабільних переплетень у колекції, яке спеціально розроблене для збереження форми."
+      },
+      {
+        "q": "tubino",
+        "a": "навіть при активному носінні."
+      },
+      {
+        "q": "Довжина нижче коліна може вкорочувати ноги",
+        "a": "Поясніть, що вертикальний візерунок."
+      },
+      {
+        "q": "spinato",
+        "a": "і висока посадка на талії, навпаки, витягують зріст. Додайте чоботи в тон одного з відтінків жакарда для створення безперервної лінії."
+      },
+      {
+        "q": "Еластичний пояс виглядає недостатньо офіційно",
+        "a": "Зверніть увагу, що пояс спроєктований плоским і прихованим. У поєднанні з сорочкою Latteria 0218 або жакетом він абсолютно непомітний, забезпечуючи комфорт, прихований від очей оточуючих."
+      },
+      {
+        "q": "Сумішевий склад здається менш цінним",
+        "a": "Поясніть, що для складної жакардової в'язки додавання високотехнологічних волокон необхідне. Це робить спідницю зносостійкою, запобігає пілінгуваності і дозволяє виробу."
+      },
+      {
+        "q": "дихати",
+        "a": "."
+      },
+      {
+        "q": "Візерунок \\'ялинка\\' складно поєднувати з іншими речами",
+        "a": "Продемонструйте Vetrina 52: жакард чудово працює як з гладким шовком, так і з фактурною вовною. Спідниця стає нейтральним, але глибоким фоном для будь-яких однотонних виробів колекції."
+      }
+    ]
+  }
+}

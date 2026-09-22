@@ -1,0 +1,446 @@
+{
+  "id": 256,
+  "name": "Ontani",
+  "description": {
+    "en": "The Ontani trousers offer a flawless reading of contemporary urban style with an aristocratic undertone from Luisa Spagnoli. The loose-fit piece is crafted from high-quality denim, in which cotton is harmoniously blended with lyocell (30%), lending the fabric exceptional softness, lightness and a noble fluidity. The design is accentuated by open pintucks (pinces), creating architectural volume, and an exquisite flap coin pocket â€” a detail that nods to the archives of classic tailoring craftsmanship. The wide silhouette, combined with a high waist, visually slims and elongates the legs, elevating denim into a piece of high fashion.",
+    "ru": "Брюки Ontani представляют собой безупречное прочтение современного городского стиля с аристократическим подтекстом от Luisa Spagnoli. Модель свободного кроя (loose fit) выполнена из высококачественного денима, в составе которого хлопок гармонично сочетается с лиоцеллом (30%), что обеспечивает ткани исключительную мягкость, легкость и благородную текучесть. Дизайн акцентирован открытыми защипами (pinces), создающими архитектурный объем, и изысканным накладным кармашком для монет с клапаном — деталью, отсылающей к архивам классического портновского искусства. Широкий силуэт в сочетании с высокой посадкой визуально стройнит и удлиняет ноги, превращая деним в элемент высокой моды.",
+    "ar": "تمثل سراويل Ontani ترجمة مثالية للنمط الحضري المعاصر بلمسة أرستقراطية من Luisa Spagnoli. صُنع الموديل بقصة واسعة (loose fit) من الدنيم عالي الجودة، حيث يمتزج القطن بانسجام مع الليوسيل (30%)، مما يضفي على القماش نعومة استثنائية وخفة وانسيابية فاخرة. يبرز التصميم من خلال الطيات البارزة (pinces) التي تخلق حجماً معمارياً، وجيب صغير مخصص للعملات المعدنية مزود بغطاء، وهي تفاصيل مستوحاة من أرشيف فن التفصيل الكلاسيكي. القصة العريضة مع الخصر المرتفع تمنح القوام طولاً ورشاقة، مما يحول الدنيم إلى قطعة من الأزياء الراقية.",
+    "ka": "შარვალი Ontani წარმოადგენს თანამედროვე ურბანული სტილის უნაკლო გააზრებას არისტოკრატული ქვეტექსტით Luisa Spagnoli-სგან. თავისუფალი კროის (loose fit) მოდელი შესრულებულია მაღალი ხარისხის დენიმისგან, რომლის შემადგენლობაში ბამბა ჰარმონიულად ერწყმის ლიოცელს (30%), რაც ქსოვილს ანიჭებს გამორჩეულ სირბილეს, სიმსუბუქესა და კეთილშობილურ დენადობას. დიზაინი აქცენტირებულია ღია ნაკეცებით (pinces), რომლებიც ქმნიან არქიტექტურულ მოცულობას, და მონეტებისთვის განკუთვნილი დახვეწილი ზედნადები ჯიბით სარქველით — დეტალი, რომელიც კლასიკური მკერავის ხელოვნების არქივებს ეხმიანება. ფართო სილუეტი მაღალ წელთან ერთად ვიზუალურად ათხელებს და აგრძელებს ფეხებს, რაც დენიმს მაღალი მოდის ელემენტად აქცევს.",
+    "hy": "Ontani տաբատը Luisa Spagnoli-ից ժամանակակից քաղաքային ոճի անթերի մեկնաբանությունն է՝ արիստոկրատական ենթատեքստով։ Ազատ կտրվածքով (loose fit) մոդելը պատրաստված է բարձրորակ դենիմից, որի բաղադրության մեջ բամբակը ներդաշնակորեն համակցված է լիոցելլի (30%) հետ, ինչը կտորին ապահովում է բացառիկ փափկություն, թեթևություն և ազնիվ հոսունություն։ Դիզայնն ընդգծված է բաց պենսերով (pinces), որոնք ստեղծում են ճարտարապետական ծավալ, և դրվածքով մետաղադրամի նրբագեղ գրպանիկով՝ դասական դերձակային արվեստի արխիվներին հղում անող դետալ։ Բարձր գոտկատեղի հետ համատեղ լայն ուրվագիծը տեսողականորեն նիհարեցնում և երկարացնում է ոտքերը՝ դենիմը վերածելով բարձր նորաձևության տարրի։",
+    "lv": "Bikses Ontani ir nevainojams mūsdienīga pilsētas stila interpretējums ar aristokrātisku pieskaņu no Luisa Spagnoli. Brīva piegriezuma (loose fit) modelis ir izgatavots no augstas kvalitātes džinsa auduma, kura sastāvā kokvilna harmoniski apvienota ar liocelu (30%), kas audumam piešķir izcilu maigumu, vieglumu un cēlu plūstamību. Dizains ir akcentēts ar atvērtām ielocēm (pinces), kas rada arhitektonisku apjomu, un izsmalcinātu uzšūtu kabatiņu monētām ar pārloku — detaļu, kas atsaucas uz klasiskās drēbniecības mākslas arhīviem. Platā silueta apvienojums ar augstu jostasvietu vizuāli slaidina un pagarina kājas, pārvēršot džinsu par augstās modes elementu.",
+    "lt": "Ontani kelnės – tai nepriekaištinga šiuolaikinio miesto stiliaus interpretacija su aristokratišku potekste iš Luisa Spagnoli. Laisvo kirpimo (loose fit) modelis pagamintas iš aukštos kokybės džinso, kurio sudėtyje medvilnė harmoningai dera su lioceliu (30%), užtikrinančiu audiniui išskirtinį minkštumą, lengvumą ir kilnų kritimą. Dizainą akcentuoja atviros klostės (pinces), kuriančios architektūrišką tūrį, bei rafinuota uždedama kišenėlė monetoms su atvartu – detalė, atliepianti klasikinio siuvimo meno archyvus. Platus siluetas kartu su aukštu liemeniu vizualiai lieknina ir ilgina kojas, paverčiant džinsą aukštosios mados elementu.",
+    "pl": "Spodnie Ontani stanowią nienaganną interpretację nowoczesnego miejskiego stylu z arystokratycznym podtekstem od Luisa Spagnoli. Model o luźnym kroju (loose fit) wykonany jest z wysokiej jakości denimu, w którego składzie bawełna harmonijnie łączy się z lyocellem (30%), co zapewnia tkaninie wyjątkową miękkość, lekkość i szlachetną układalność. Design podkreślają otwarte zaszewki (pinces), tworzące architektoniczną objętość, oraz wykwintna naszywana kieszonka na monety z patką — detal nawiązujący do archiwów klasycznej sztuki krawieckiej. Szeroka sylwetka w połączeniu z wysokim stanem wizualnie wysmukla i wydłuża nogi, zmieniając denim w element wysokiej mody.",
+    "uk": "Брюки Ontani являють собою бездоганне прочитання сучасного міського стилю з аристократичним підтекстом від Luisa Spagnoli. Модель вільного крою (loose fit) виконана з високоякісного деніму, у складі якого бавовна гармонійно поєднується з ліоцелом (30%), що забезпечує тканині виняткову м'якість, легкість та благородну текучість. Дизайн акцентований відкритими защипами (pinces), що створюють архітектурний об'єм, та вишуканою накладною кишенькою для монет з клапаном — деталлю, що відсилає до архівів класичного кравецького мистецтва. Широкий силует у поєднанні з високою посадкою візуально стрункішає та подовжує ноги, перетворюючи денім на елемент високої моди."
+  },
+  "colors": [
+    {
+      "name": "Blu Scuro",
+      "code": "1262",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Hby2QBOFTFG-bN-jqmGYeg_671233607696f42e9b32a60_97200211_02820700XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Look 97 (Urban Sophistication)",
+        "en": "Look 97 (Urban Sophistication)",
+        "ar": "Look 97 (Urban Sophistication)",
+        "ka": "Look 97 (Urban Sophistication)",
+        "hy": "Look 97 (Urban Sophistication)",
+        "lv": "Look 97 (Urban Sophistication)",
+        "lt": "Look 97 (Urban Sophistication)",
+        "pl": "Look 97 (Urban Sophistication)",
+        "uk": "Look 97 (Urban Sophistication)"
+      },
+      "text": {
+        "ru": "Ontani 1262 в сочетании с курткой Sportivo 2226, поло Macaria 0970 и классической рубашкой Lucinda 0201.",
+        "en": "Ontani 1262 combined with jacket Sportivo 2226, polo shirt Macaria 0970 and classic shirt Lucinda 0201.",
+        "ar": "Ontani 1262 combined with jacket Sportivo 2226, polo shirt Macaria 0970 and classic shirt Lucinda 0201.",
+        "ka": "Ontani 1262 combined with jacket Sportivo 2226, polo shirt Macaria 0970 and classic shirt Lucinda 0201.",
+        "hy": "Ontani 1262 combined with jacket Sportivo 2226, polo shirt Macaria 0970 and classic shirt Lucinda 0201.",
+        "lv": "Ontani 1262 combined with jacket Sportivo 2226, polo shirt Macaria 0970 and classic shirt Lucinda 0201.",
+        "lt": "Ontani 1262 combined with jacket Sportivo 2226, polo shirt Macaria 0970 and classic shirt Lucinda 0201.",
+        "pl": "Ontani 1262 combined with jacket Sportivo 2226, polo shirt Macaria 0970 and classic shirt Lucinda 0201.",
+        "uk": "Ontani 1262 combined with jacket Sportivo 2226, polo shirt Macaria 0970 and classic shirt Lucinda 0201."
+      },
+      "items": [
+        {
+          "name": "Ontani",
+          "code": "1262",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Hby2QBOFTFG-bN-jqmGYeg_671233607696f42e9b32a60_97200211_02820700XX1.jpg"
+        },
+        {
+          "name": "Sportivo",
+          "code": "2226",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2028777710691c57c6d3c711_09306569_02780350XX1.jpg",
+          "modelId": 489
+        },
+        {
+          "name": "Macaria",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/74efb9cd-f75a-4ac5-903b-2b4b34e4fd86-removebg-preview.png",
+          "modelId": 133
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 183 (Daily Heritage)",
+        "en": "Look 183 (Daily Heritage)",
+        "ar": "Look 183 (Daily Heritage)",
+        "ka": "Look 183 (Daily Heritage)",
+        "hy": "Look 183 (Daily Heritage)",
+        "lv": "Look 183 (Daily Heritage)",
+        "lt": "Look 183 (Daily Heritage)",
+        "pl": "Look 183 (Daily Heritage)",
+        "uk": "Look 183 (Daily Heritage)"
+      },
+      "text": {
+        "ru": "Ontani 1262 дополнены пуловером Mabels 1270 и статусными аксессуарами.",
+        "en": "Ontani 1262 complemented by pullover Mabels 1270 and status accessories.",
+        "ar": "Ontani 1262 complemented by pullover Mabels 1270 and status accessories.",
+        "ka": "Ontani 1262 complemented by pullover Mabels 1270 and status accessories.",
+        "hy": "Ontani 1262 complemented by pullover Mabels 1270 and status accessories.",
+        "lv": "Ontani 1262 complemented by pullover Mabels 1270 and status accessories.",
+        "lt": "Ontani 1262 complemented by pullover Mabels 1270 and status accessories.",
+        "pl": "Ontani 1262 complemented by pullover Mabels 1270 and status accessories.",
+        "uk": "Ontani 1262 complemented by pullover Mabels 1270 and status accessories."
+      },
+      "items": [
+        {
+          "name": "Ontani",
+          "code": "1262",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Hby2QBOFTFG-bN-jqmGYeg_671233607696f42e9b32a60_97200211_02820700XX1.jpg"
+        },
+        {
+          "name": "Mabels",
+          "code": "1270",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Oa1OALUhQTKc0szFpGj60A_1620258802696f435edcff88_75280408_02830350XX1.jpg",
+          "modelId": 131
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 4 (Multi-layering)",
+        "en": "Vetrina 4 (Multi-layering)",
+        "ar": "Vetrina 4 (Multi-layering)",
+        "ka": "Vetrina 4 (Multi-layering)",
+        "hy": "Vetrina 4 (Multi-layering)",
+        "lv": "Vetrina 4 (Multi-layering)",
+        "lt": "Vetrina 4 (Multi-layering)",
+        "pl": "Vetrina 4 (Multi-layering)",
+        "uk": "Vetrina 4 (Multi-layering)"
+      },
+      "text": {
+        "ru": "Ontani 1262 в ансамбле с жакетом Cremina 2331 2219, пуловером Caprese 2331 и кабаном Vantos 1206 (Данные об URL отсутствуют в официальных источниках).",
+        "en": "Ontani 1262 in an ensemble with jacket Cremina 2331 2219, pullover Caprese 2331 and Vantos 1206 (URL data missing in official sources).",
+        "ar": "Ontani 1262 in an ensemble with jacket Cremina 2331 2219, pullover Caprese 2331 and Vantos 1206 (URL data missing in official sources).",
+        "ka": "Ontani 1262 in an ensemble with jacket Cremina 2331 2219, pullover Caprese 2331 and Vantos 1206 (URL data missing in official sources).",
+        "hy": "Ontani 1262 in an ensemble with jacket Cremina 2331 2219, pullover Caprese 2331 and Vantos 1206 (URL data missing in official sources).",
+        "lv": "Ontani 1262 in an ensemble with jacket Cremina 2331 2219, pullover Caprese 2331 and Vantos 1206 (URL data missing in official sources).",
+        "lt": "Ontani 1262 in an ensemble with jacket Cremina 2331 2219, pullover Caprese 2331 and Vantos 1206 (URL data missing in official sources).",
+        "pl": "Ontani 1262 in an ensemble with jacket Cremina 2331 2219, pullover Caprese 2331 and Vantos 1206 (URL data missing in official sources).",
+        "uk": "Ontani 1262 in an ensemble with jacket Cremina 2331 2219, pullover Caprese 2331 and Vantos 1206 (URL data missing in official sources)."
+      },
+      "items": [
+        {
+          "name": "Ontani",
+          "code": "1262",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Hby2QBOFTFG-bN-jqmGYeg_671233607696f42e9b32a60_97200211_02820700XX1.jpg"
+        },
+        {
+          "name": "Cremina",
+          "code": "2331 2219",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/BDt_ZIILRNmGizWnsP5YxA_412933266696f435c3f9cf4_66565473_02830290XX1.jpg",
+          "modelId": 14
+        },
+        {
+          "name": "Caprese",
+          "code": "2331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q-dcDsRCTh-irYmaGwi0fg_1660235822696f430d81f0d5_01266196_02830040XX1.jpg"
+        },
+        {
+          "name": "Vantos",
+          "code": "1206",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 31 (Modern Preppy)",
+        "en": "Vetrina 31 (Modern Preppy)",
+        "ar": "Vetrina 31 (Modern Preppy)",
+        "ka": "Vetrina 31 (Modern Preppy)",
+        "hy": "Vetrina 31 (Modern Preppy)",
+        "lv": "Vetrina 31 (Modern Preppy)",
+        "lt": "Vetrina 31 (Modern Preppy)",
+        "pl": "Vetrina 31 (Modern Preppy)",
+        "uk": "Vetrina 31 (Modern Preppy)"
+      },
+      "text": {
+        "ru": "Ontani 1262 стилизованы с тренчем Sigle 1210 0844 и поло Cips 0838.",
+        "en": "Ontani 1262 styled with trench coat Sigle 1210 0844 and polo shirt Cips 0838.",
+        "ar": "Ontani 1262 styled with trench coat Sigle 1210 0844 and polo shirt Cips 0838.",
+        "ka": "Ontani 1262 styled with trench coat Sigle 1210 0844 and polo shirt Cips 0838.",
+        "hy": "Ontani 1262 styled with trench coat Sigle 1210 0844 and polo shirt Cips 0838.",
+        "lv": "Ontani 1262 styled with trench coat Sigle 1210 0844 and polo shirt Cips 0838.",
+        "lt": "Ontani 1262 styled with trench coat Sigle 1210 0844 and polo shirt Cips 0838.",
+        "pl": "Ontani 1262 styled with trench coat Sigle 1210 0844 and polo shirt Cips 0838.",
+        "uk": "Ontani 1262 styled with trench coat Sigle 1210 0844 and polo shirt Cips 0838."
+      },
+      "items": [
+        {
+          "name": "Ontani",
+          "code": "1262",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Hby2QBOFTFG-bN-jqmGYeg_671233607696f42e9b32a60_97200211_02820700XX1.jpg"
+        },
+        {
+          "name": "Sigle",
+          "code": "1210 0844",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1158246152691c5787c51e54_13468104_02780140XX1.jpg",
+          "modelId": 483
+        },
+        {
+          "name": "Cips",
+          "code": "0838",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/L3LH0y22TvKUJ1-PXhhWGg_921510504696f4359b2b916_48995210_02830160XX1.jpg",
+          "modelId": 11
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Data unavailable from official sources",
+      "Data unavailable from official sources",
+      "Data unavailable from official sources"
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на уникальном составе ткани: 30% лиоцелла делают деним невероятно мягким и податливым, что гарантирует безупречную посадку широких брюк без лишней жесткости.",
+      "Рекомендуйте подчеркивать линию талии, заправляя трикотаж или блузы внутрь: это позволит выделить декоративные защипы и монетный кармашек, создавая женственный силуэт.",
+      "Подчеркните универсальность модели: благодаря глубокому оттенку Blu Scuro 1262, брюки Ontani легко адаптируются как под спортивный шик с курткой Sportivo, так и под элегантный Heritage-образ с жакетом Cremina."
+    ],
+    "ar": [
+      "ركزي انتباه العميل على التركيبة الفريدة للقماش: فنسبة 30% من الليوسيل تجعل قماش الدنيم ناعماً للغاية وانسيابياً، مما يضمن قصة مثالية للسراويل الواسعة دون أي خشونة.",
+      "رشحي إبراز خط الخصر من خلال إدخال قطع التريكو أو البلوزات داخل السروال: فهذا يبرز الكسرات المزخرفة وجيب العملات المعدنية، مما يخلق إطلالة أنثوية.",
+      "أبرزي تعدد استخدامات الموديل: بفضل درجة اللون العميق Blu Scuro 1262، تتكيف سراويل Ontani بسهولة مع الأسلوب الرياضي الأنيق مع سترة Sportivo، أو مع إطلالة Heritage الأنيقة مع سترة Cremina."
+    ],
+    "ka": [
+      "აქცენტი გააკეთეთ კლიენტის ყურადღება ქსოვილის უნიკალურ შემადგენლობაზე: 30% ლიოცელი დენიმს წარმოუდგენლად რბილს და დამყოლი ხდის, რაც გარანტიას იძლევა ფართო შარვლის უნაკლო მორგებისა ზედმეტი სიმკაცრის გარეშე.",
+      "რეკომენდაცია გაუწიეთ წელის ხაზის გამოკვეთას ტრიკოტაჟის ან ბლუზის შარვალში ჩატანებით: ეს საშუალებას მოგცემთ წარმოაჩინოთ დეკორატიული ნაკეცები და მონეტების ჯიბე, რაც ქმნის ქალურ სილუეტს.",
+      "ხაზი გაუსვით მოდელის უნივერსალურობას: Blu Scuro 1262-ის ღრმა ტონის წყალობით, Ontani-ს შარვალი ადვილად ადაპტირდება როგორც სპორტულ შიკთან Sportivo-ს ქურთუკით, ასევე ელეგანტურ Heritage-იმიჯთან Cremina-ს პიჯაკით."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք գործվածքի եզակի բաղադրության վրա. 30% լիոցելը ջինսե կտորը դարձնում է անհավանական փափուկ և ճկուն, ինչը երաշխավորում է լայն տաբատների անթերի նստվածքն առանց ավելորդ կոշտության։",
+      "Խորհուրդ տվեք ընդգծել իրանի գիծը՝ տրիկոտաժը կամ բլուզները տաբատի մեջ մտցնելով. սա թույլ կտա առանձնացնել դեկորատիվ ծալքերը և մետաղադրամների գրպանը՝ ստեղծելով կանացի սիլուետ։",
+      "Ընդգծեք մոդելի համընդհանրությունը. Blu Scuro 1262 խորը երանգի շնորհիվ Ontani տաբատները հեշտությամբ հարմարվում են ինչպես սպորտային շիկ ոճին՝ Sportivo բաճկոնի հետ, այնպես էլ էլեգանտ Heritage կերպարին՝ Cremina բաճկոնի հետ համադրությամբ։"
+    ],
+    "lv": [
+      "Akcentējiet klienta uzmanību uz unikālo auduma sastāvu: 30% liocela padara džinsu audumu neticami mīkstu un pakļāvīgu, kas garantē nevainojamu plato bikšu piegulumu bez lieka stīvuma.",
+      "Iesakiet izcelt vidukļa līniju, ievelkot trikotāžu vai blūzes iekšā: tas ļaus izcelt dekoratīvās ieloces un monētu kabatiņu, radot sievišķīgu siluetu.",
+      "Uzsveriet modeļa universalitāti: pateicoties dziļajam Blu Scuro 1262 tonim, Ontani bikses viegli adaptējas gan sportiskam šikam ar Sportivo jaku, gan elegantam Heritage tēlam ar Cremina žaketi."
+    ],
+    "lt": [
+      "Akcentuokite kliento dėmesį į unikalią audinio sudėtį: 30 % liocelio daro džinsą neįtikėtinai minkštą ir lankstų, kas garantuoja nepriekaištingą plačių kelnių kritimą be nereikalingo standumo.",
+      "Rekomenduokite pabrėžti liemens liniją, susikišant trikotažą ar palaidines į vidų: tai leis išskirti dekoratyvines klostes ir kišenėlę monetoms, kuriant moterišką siluetą.",
+      "Pabrėžkite modelio universalumą: dėl sodraus Blu Scuro 1262 atspalvio Ontani kelnės lengvai pritaikomos tiek prie sportinio stiliaus su Sportivo striuke, tiek prie elegantiško Heritage įvaizdžio su Cremina švarku."
+    ],
+    "pl": [
+      "Akcentuj uwagę klienta na unikalnym składzie tkaniny: 30% lyocellu sprawia, że denim jest niezwykle miękki i podatny, co gwarantuje nienaganne dopasowanie szerokich spodni bez zbędnej sztywności.",
+      "Rekomenduj podkreślanie linii talii poprzez wpuszczanie dzianiny lub bluz do środka: pozwoli to wyeksponować dekoracyjne zaszewki i kieszonkę na monety, tworząc kobiecą sylwetkę.",
+      "Podkreśl uniwersalność modelu: dzięki głębokiemu odcieniowi Blu Scuro 1262, spodnie Ontani łatwo adaptują się zarówno do sportowego szyku z kurtką Sportivo, jak i do eleganckiego stylu Heritage z żakietem Cremina."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на унікальному складі тканини: 30% ліоцелу роблять денім неймовірно м'яким і податливим, що гарантує бездоганну посадку широких штанів без зайвої жорсткості.",
+      "Рекомендуйте підкреслювати лінію талії, заправляючи трикотаж або блузи всередину: це дозволить виділити декоративні защипи та монетну кишеньку, створюючи жіночний силует.",
+      "Підкресліть універсальність моделі: завдяки глибокому відтінку Blu Scuro 1262, штани Ontani легко адаптуються як під спортивний шик із курткою Sportivo, так і під елегантний Heritage-образ із жакетом Cremina."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Denim looks too casual for a statement wardrobe.",
+        "a": "Point out the premium composition featuring lyocell and the archival design details (pleats, flap pocket), which elevate the style from basic denim into the category of 'luxury denim' in a 'quiet luxury' spirit."
+      },
+      {
+        "q": "A wide cut may visually add volume to the figure.",
+        "a": "Explain that the high waist and the vertical lines of the pleats, on the contrary, elongate the silhouette and create correct proportions, particularly when paired with heeled or platform footwear."
+      },
+      {
+        "q": "The trousers seem too long.",
+        "a": "Clarify that this length is specifically designed to create the effect of endlessly long legs. Style them with the high-heeled Urbana ankle boots to achieve a runway-worthy effect."
+      },
+      {
+        "q": "The fabric may quickly lose its shape.",
+        "a": "Lyocell in the composition not only lends softness but also improves the material's durability. The trousers hold their shape beautifully and crease less than standard 100% cotton."
+      },
+      {
+        "q": "Caring for denim with added lyocell seems complex.",
+        "a": "Reassure the client that lyocell simplifies care: the fabric irons more easily and retains its colour vibrancy for longer. Simple, delicate-wash care is all that's needed."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Деним выглядит слишком повседневно для статусного гардероба",
+        "a": "Укажите на премиальный состав с лиоцеллом и архивные детали дизайна (защипы, карман с клапаном), которые переводят модель из разряда базовых джинсов в категорию 'luxury denim' в стиле 'quiet luxury'."
+      },
+      {
+        "q": "Широкий крой может визуально увеличивать фигуру",
+        "a": "Объясните, что высокая посадка и вертикальные линии защипов, напротив, вытягивают силуэт и создают правильные пропорции, особенно в сочетании с обувью на каблуке или платформе."
+      },
+      {
+        "q": "Брюки кажутся слишком длинными",
+        "a": "Поясните, что такая длина специально разработана для создания эффекта бесконечно длинных ног. Стилизуйте их с ботильонами Urbana на высоком каблуке, чтобы достичь подиумного эффекта."
+      },
+      {
+        "q": "Ткань может быстро потерять форму",
+        "a": "Лиоцелл в составе не только дарит мягкость, но и повышает износостойкость материала. Брюки отлично держат форму и меньше мнутся по сравнению с обычным 100% хлопком."
+      },
+      {
+        "q": "Сложность в уходе за денимом с добавлением лиоцелла",
+        "a": "Заверьте клиента, что лиоцелл упрощает уход: ткань легче гладится и дольше сохраняет насыщенность цвета. Достаточно соблюдать рекомендации по деликатной стирке."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الدنيم يبدو يومياً جداً لخزانة الملابس الراقية",
+        "a": "أشيري إلى التركيبة الممتازة التي تحتوي على الليوسيل وتفاصيل التصميم الأرشيفية (الثنيات، الجيب ذو الغطاء)، التي تنقل الموديل من فئة الجينز الأساسي إلى فئة 'luxury denim' بأسلوب 'quiet luxury'."
+      },
+      {
+        "q": "القصة الواسعة قد تزيد من حجم القوام بصرياً",
+        "a": "اشرحي أن الخصر العالي والخطوط الطولية للثنيات، على العكس، تطيل القوام وتخلق نسباً صحيحة، خاصة عند تنسيقه مع أحذية ذات كعب أو منصة."
+      },
+      {
+        "q": "السروال يبدو طويلاً جداً",
+        "a": "وضحي أن هذا الطول قد صُمم خصيصاً لخلق تأثير الأرجل الطويلة اللامتناهية، نسقيه مع حذاء Urbana بنصف رقبة وكعب عالٍ للحصول على إطلالة عارضات الأزياء."
+      },
+      {
+        "q": "القماش قد يفقد شكله بسرعة",
+        "a": "الليوسيل في التركيبة لا يمنح النعومة فحسب، بل يزيد أيضاً من متانة المادة، فالسروال يحتفظ بشكله بشكل ممتاز ويقل تجعده مقارنة بالقطن بنسبة 100%."
+      },
+      {
+        "q": "صعوبة العناية بالدنيم المضاف إليه الليوسيل",
+        "a": "أكدي للعميلة أن الليوسيل يسهل عملية العناية، حيث يُكوى القماش بسهولة أكبر ويحتفظ بتركيز اللون لفترة أطول، يكفي فقط اتباع توصيات الغسيل الدقيق."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ჯინსი ზედმეტად ყოველდღიურად გამოიყურება სტატუსური გარდერობისთვის",
+        "a": "მიუთითეთ პრემიალურ შემადგენლობას ლიოცელით და დიზაინის საარქივო დეტალებს (ნაოჭები, ჯიბე კლაპნით), რომლებიც მოდელს საბაზისო ჯინსების კატეგორიიდან გადაჰყავს 'luxury denim'-ის კატეგორიაში 'quiet luxury'-ს სტილში."
+      },
+      {
+        "q": "ფართო ჭრამ შესაძლოა ვიზუალურად გაზარდოს ფიგურა",
+        "a": "განმარტეთ, რომ მაღალი წელი და ნაოჭების ვერტიკალური ხაზები, პირიქით, აგრძელებს სილუეტს და ქმნის სწორ პროპორციებს, განსაკუთრებით ქუსლიან ან პლატფორმიან ფეხსაცმელთან შეხამებისას."
+      },
+      {
+        "q": "შარვალი ზედმეტად გრძელი ჩანს",
+        "a": "განმარტეთ, რომ ასეთი სიგრძე სპეციალურად არის შემუშავებული უსასრულოდ გრძელი ფეხების ეფექტის შესაქმნელად. მოარგეთ ისინი მაღალქუსლიან Urbana-ს ჩექმებს, რათა მიაღწიოთ პოდიუმის ეფექტს."
+      },
+      {
+        "q": "ქსოვილმა შესაძლოა სწრაფად დაკარგოს ფორმა",
+        "a": "შემადგენლობაში არსებული ლიოცელი არა მხოლოდ ანიჭებს სირბილეს, არამედ ზრდის მასალის ცვეთამედეგობას. შარვალი შესანიშნავად ინარჩუნებს ფორმას და ნაკლებად იჭმუჭნება ჩვეულებრივ 100% ბამბასთან შედარებით."
+      },
+      {
+        "q": "ლიოცელიანი ჯინსის მოვლის სირთულე",
+        "a": "დაარწმუნეთ კლიენტი, რომ ლიოცელი ამარტივებს მოვლას: ქსოვილი უფრო ადვილად იუთოვება და დიდხანს ინარჩუნებს ფერის სიმდიდრეს. საკმარისია დაიცვათ დელიკატური რეცხვის რეკომენდაციები."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Դենիմը չափազանց առօրյա է թվում կարգավիճակային զգեստապահարանի համար",
+        "a": "Մատնանշեք պրեմիում կազմը՝ լիոցելով և դիզայնի արխիվային մանրամասներով (ներծալվածքներ, փականով գրպան), որոնք մոդելը բազային ջինսերի կատեգորիայից տեղափոխում են 'quiet luxury' ոճի 'luxury denim' կատեգորիա"
+      },
+      {
+        "q": "Լայն կտրվածքը կարող է վիզուալ մեծացնել կազմվածքը",
+        "a": "Բացատրեք, որ բարձր գոտկատեղն ու ներծալվածքների ուղղահայաց գծերը, ընդհակառակը, ձգում են ուրվագիծը և ստեղծում ճիշտ համամասնություններ, հատկապես կրունկով կամ հարթակով կոշիկների հետ համադրությամբ"
+      },
+      {
+        "q": "Տաբատը չափազանց երկար է թվում",
+        "a": "Պարզաբանեք, որ նման երկարությունը հատուկ մշակված է անվերջ երկար ոտքերի էֆեկտ ստեղծելու համար: Ոճավորեք դրանք Urbana բարձրակրունկ կիսաճտքավոր կոշիկներով՝ պոդիումային էֆեկտի հասնելու համար"
+      },
+      {
+        "q": "Կտորը կարող է արագ կորցնել ձևը",
+        "a": "Բաղադրության մեջ առկա լիոցելը ոչ միայն փափկություն է հաղորդում, այլև բարձրացնում է նյութի մաշվածադիմացկունությունը: Տաբատը հիանալի պահում է ձևը և ավելի քիչ է կնճռոտվում՝ ի համեմատ սովորական 100% բամբակի"
+      },
+      {
+        "q": "Լիոցելի հավելումով դենիմի խնամքի բարդությունը",
+        "a": "Վստահեցրեք հաճախորդին, որ լիոցելը հեշտացնում է խնամքը. կտորն ավելի հեշտ է արդուկվում և երկար է պահպանում գույնի հագեցվածությունը: Բավական է պահպանել նուրբ լվացքի վերաբերյալ առաջարկությունները."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Džinss izskatās pārāk ikdienišķi statusa garderobei",
+        "a": "Norādiet uz premium sastāvu ar liocelu un arhīva dizaina detaļām (ieloces, kabata ar atloku), kas pārceļ modeli no bāzes džinsu kategorijas uz 'luxury denim' kategoriju 'quiet luxury' stilā."
+      },
+      {
+        "q": "Plašais piegriezums var vizuāli palielināt figūru",
+        "a": "Paskaidrojiet, ka augstā jostasvieta un ieloču vertikālās līnijas, tieši pretēji, pagarina siluetu un rada pareizas proporcijas, īpaši kombinācijā ar apaviem uz papēža vai platformas."
+      },
+      {
+        "q": "Bikses šķiet pārāk garas",
+        "a": "Paskaidrojiet, ka šāds garums ir speciāli izstrādāts, lai radītu bezgalīgi garu kāju efektu. Stilizējiet tās ar Urbana puszābakiem uz augsta papēža, lai sasniegtu modes skates efektu."
+      },
+      {
+        "q": "Audums var ātri zaudēt formu",
+        "a": "Liocels sastāvā ne tikai dāvā maigumu, bet arī paaugstina materiāla nodilumizturību. Bikses lieliski tur formu un burzās mazāk salīdzinājumā ar parastu 100% kokvilnu."
+      },
+      {
+        "q": "Grūtības ar džinsa kopšanu ar liocela piejaukumu",
+        "a": "Aplieciniet klientam, ka liocels atvieglo kopšanu: audums ir vieglāk gludināms un ilgāk saglabā krāsas piesātinājumu. Pietiek ievērot ieteikumus par delikātu mazgāšanu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Džinsinis audinys atrodo per daug kasdieniškai reprezentatyviam garderobui",
+        "a": "Atkreipkite dėmesį į aukščiausios kokybės sudėtį su lioceliu ir archyvines dizaino detales (klostės, kišenė su atvartu), kurios perkelia modelį iš bazinių džinsų kategorijos į 'luxury denim' kategoriją 'quiet luxury' stiliumi."
+      },
+      {
+        "q": "Platus kirpimas gali vizualiai padidinti figūrą",
+        "a": "Paaiškinkite, kad aukštas liemuo ir vertikalios klosčių linijos, priešingai, ilgina siluetą ir sukuria taisyklingas proporcijas, ypač derinant su avalyne aukštu kulnu ar platforma."
+      },
+      {
+        "q": "Kelnės atrodo per ilgos",
+        "a": "Paaiškinkite, kad toks ilgis specialiai sukurtas begalinio ilgio kojų efektui pasiekti. Stilizuokite jas su Urbana aulinukais aukštu kulnu, kad pasiektumėte podiumo efektą."
+      },
+      {
+        "q": "Audinys gali greitai prarasti formą",
+        "a": "Liocelis sudėtyje ne tik suteikia minkštumo, bet ir padidina medžiagos atsparumą dėvėjimuisi. Kelnės puikiai laiko formą ir mažiau glamžosi lyginant su įprasta 100 % medvilne."
+      },
+      {
+        "q": "Džinsinio audinio su lioceliu priežiūros sudėtingumas",
+        "a": "Patikinkite klientę, kad liocelis palengvina priežiūrą: audinys lengviau lyginamas ir ilgiau išsaugo spalvos sodrumą. Pakanka laikytis rekomendacijų dėl delikataus skalbimo."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Denim wygląda zbyt codziennie na garderobę wysokiej rangi",
+        "a": "Wskaż na skład premium z lyocellem oraz archiwalne detale designu (zaszewki, kieszeń z klapką), które przenoszą model z kategorii bazowych jeansów do klasy 'luxury denim' w stylu 'quiet luxury'."
+      },
+      {
+        "q": "Szeroki krój może optycznie powiększać figurę",
+        "a": "Wyjaśnij, że wysoki stan i pionowe linie zaszewek wręcz wydłużają sylwetkę i tworzą właściwe proporcje, zwłaszcza w połączeniu z obuwiem na obcasie lub platformie."
+      },
+      {
+        "q": "Spodnie wydają się zbyt długie",
+        "a": "Wyjaśnij, że taka długość została specjalnie zaprojektowana, aby stworzyć efekt nieskończenie długich nóg. Stylizuj je z botkami Urbana na wysokim obcasie, aby osiągnąć efekt prosto z wybiegu."
+      },
+      {
+        "q": "Tkanina może szybko stracić fason",
+        "a": "Lyocell w składzie nie tylko dodaje miękkości, ale również zwiększa trwałość materiału. Spodnie świetnie trzymają fason i mniej się gniotą w porównaniu do zwykłej bawełny 100%."
+      },
+      {
+        "q": "Trudności w pielęgnacji denimu z dodatkiem lyocellu",
+        "a": "Zapewnij klientkę, że lyocell ułatwia pielęgnację: tkanina łatwiej się prasuje i dłużej zachowuje nasycenie koloru. Wystarczy przestrzegać zaleceń dotyczących delikatnego prania."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Денім виглядає занадто повсякденно для статусного гардеробу",
+        "a": "Вкажіть на преміальний склад із ліоцелом та архівні деталі дизайну (защипи, кишеня з клапаном), які переводять модель із розряду базових джинсів у категорію 'luxury denim' у стилі 'quiet luxury'."
+      },
+      {
+        "q": "Широкий крій може візуально збільшувати фігуру",
+        "a": "Поясніть, що висока посадка і вертикальні лінії защипів, навпаки, витягують силует і створюють правильні пропорції, особливо в поєднанні з взуттям на підборах або платформі."
+      },
+      {
+        "q": "Штани здаються занадто довгими",
+        "a": "Поясніть, що така довжина спеціально розроблена для створення ефекту нескінченно довгих ніг. Стилізуйте їх із ботильйонами Urbana на високих підборах, щоб досягти подіумного ефекту."
+      },
+      {
+        "q": "Тканина може швидко втратити форму",
+        "a": "Ліоцел у складі не лише дарує м'якість, а й підвищує зносостійкість матеріалу. Штани чудово тримають форму і менше мнуться порівняно зі звичайною 100% бавовною."
+      },
+      {
+        "q": "Складність у догляді за денімом із додаванням ліоцелу",
+        "a": "Запевніть клієнта, що ліоцел спрощує догляд: тканина легше прасується і довше зберігає насиченість кольору. Достатньо дотримуватися рекомендацій щодо делікатного прання."
+      }
+    ]
+  }
+}

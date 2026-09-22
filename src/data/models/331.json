@@ -1,0 +1,365 @@
+{
+  "id": 331,
+  "name": "Soriano",
+  "description": {
+    "en": "Soriano is the embodiment of daring elegance and a contemporary reading of Luisa Spagnoli's classic codes. This luxurious winter jacket is crafted from high-quality faux fur with a striking 'animalier' spotted print, one of the season's key trends. The architectural cut is accentuated by a wide, deep-black contrasting collar, lending the piece particular graphic quality and aristocratic character. The piece is completed with a classic button closure and an exquisite satin lining, ensuring a perfect fit and exceptional comfort in wear. Fabric composition: 79% modacrylic, 21% polyester.",
+    "ru": "Soriano — это воплощение смелой элегантности и современной интерпретации классических канонов Luisa Spagnoli. Этот роскошный зимний жаккон выполнен из высококачественного искусственного меха (faux fur) с эффектным пятнистым принтом «animalier», который является одним из ключевых трендов сезона. Архитектурный крой подчеркнут широким контрастным воротником в глубоком черном цвете, придающим модели особую графичность и аристократизм. Изделие дополнено классической застежкой на пуговицы и изысканной атласной подкладкой (satin), обеспечивающей безупречную посадку по фигуре и исключительный комфорт в носке. Состав ткани: 79% модакрил, 21% полиэстер.",
+    "ar": "Soriano هو تجسيد للأناقة الجريئة والتفسير العصري للشرائع الكلاسيكية لـ Luisa Spagnoli. صُنع هذا الجاكيت الشتوي الفاخر من فرو صناعي (faux fur) عالي الجودة بطبعة \"animalier\" مرقطة مذهلة، والتي تعد واحدة من أهم صيحات الموسم. تم إبراز القصّة المعمارية بياقة متباينة عريضة باللون الأسود العميق، مما يضفي على الموديل رسومية وأرستقراطية خاصة. تكتمل القطعة بإغلاق كلاسيكي بأزرار وبطانة ساتان (satin) رائعة، مما يضمن ملاءمة مثالية للجسم وراحة استثنائية عند الارتداء. تركيب القماش: 79% موداكريليك، 21% بوليستر.",
+    "ka": "Soriano არის Luisa Spagnoli-ს კლასიკური კანონების გაბედული ელეგანტურობისა და თანამედროვე ინტერპრეტაციის განსახიერება. ეს მდიდრული ზამთრის ჟაკონი შესრულებულია მაღალი ხარისხის ხელოვნური ბეწვისგან (faux fur) ეფექტური ლაქებიანი პრინტით «animalier», რომელიც სეზონის ერთ-ერთი საკვანძო ტრენდია. არქიტექტურული კროი ხაზგასმულია ფართო კონტრასტული საყელოთი ღრმა შავ ფერში, რომელიც მოდელს ანიჭებს განსაკუთრებულ გრაფიკულობასა და არისტოკრატიზმს. ნაკეთობას ავსებს კლასიკური ღილებით შესაკრავი და დახვეწილი ატლასის სარჩული (satin), რაც უზრუნველყოფს ფიგურაზე უნაკლო მორგებას და ტარებისას განსაკუთრებულ კომფორტს. ქსოვილის შემადგენლობა: 79% მოდაკრილი, 21% პოლიესტერი.",
+    "hy": "Soriano-ն Luisa Spagnoli-ի դասական կանոնների համարձակ էլեգանտության և ժամանակակից մեկնաբանության մարմնացումն է: Այս շքեղ ձմեռային ժակոնը պատրաստված է բարձրորակ արհեստական մորթուց (faux fur)՝ տպավորիչ «animalier» պտավոր պրինտով, որը սեզոնի հիմնական թրենդներից է: Ճարտարապետական ձևվածքն ընդգծված է խորը սև գույնի լայն կոնտրաստային օձիքով, որը մոդելին հաղորդում է հատուկ գրաֆիկականություն և արիստոկրատիզմ: Իրը համալրված է կոճակներով դասական ճարմանդով և նրբաճաշակ ատլասե աստառով (satin), որն ապահովում է անթերի տեսք մարմնին և բացառիկ հարմարավետություն կրելիս: Կտորի բաղադրությունը՝ 79% մոդակրիլ, 21% պոլիեսթեր:",
+    "lv": "Soriano — drosmīgas elegances un mūsdienīgas Luisa Spagnoli klasisko kanonu interpretācijas iemiesojums. Šis greznais ziemas žakons ir izgatavots no augstas kvalitātes mākslīgās kažokādas (faux fur) ar efektīvu «animalier» plankumaino rakstu, kas ir viena no sezonas galvenajām tendencēm. Arhitektonisko piegriezumu izceļ plata kontrastējoša apkakle dziļi melnā krāsā, piešķirot modelim īpašu grafiskumu un aristokrātismu. Izstrādājumu papildina klasiska pogu aizdare un izsmalcināta satīna odere (satin), kas nodrošina nevainojamu piegulumu un izcilu komfortu valkāšanas laikā. Auduma sastāvs: 79% modakrils, 21% poliesters.",
+    "lt": "Soriano — tai drąsios elegancijos ir šiuolaikinės klasikinių Luisa Spagnoli kanonų interpretacijos įsikūnijimas. Šis prabangus žieminis kailinukas pagamintas iš aukštos kokybės dirbtinio kailio (faux fur) su efektingu „animalier“ dėmėtu raštu, kuris yra vienas iš pagrindinių sezono trendų. Architektūrišką kirpimą pabrėžia plati kontrastinga apykaklė giliai juoda spalva, suteikianti modeliui ypatingo grakštumo ir aristokratiškumo. Gaminys papildytas klasikiniu užsegimu sagomis ir rafinuotu atlasiniu pamušalu (satin), užtikrinančiu nepriekaištingą prigludimą prie figūros ir išskirtinį komfortą dėvint. Audinio sudėtis: 79% modakrilas, 21% poliesteris.",
+    "pl": "Soriano to ucieleśnienie odważnej elegancji i nowoczesnej interpretacji klasycznych kanonów Luisa Spagnoli. Ten luksusowy zimowy płaszcz został wykonany z wysokiej jakości sztucznego futra (faux fur) z efektownym cętkowanym wzorem „animalier”, który jest jednym z kluczowych trendów sezonu. Architektoniczny krój podkreślono szerokim kontrastowym kołnierzem w głębokim czarnym kolorze, nadającym modelowi szczególnej graficzności i arystokratyzmu. Całość uzupełnia klasyczne zapięcie na guziki oraz wykwintna atłasowa podszewka (satin), zapewniająca nienaganne dopasowanie do sylwetki i wyjątkowy komfort noszenia. Skład tkaniny: 79% modakryl, 21% poliester.",
+    "uk": "Soriano — це втілення сміливої елегантності та сучасної інтерпретації класичних канонів Luisa Spagnoli. Цей розкішний зимовий жаккон виконаний із високоякісного штучного хутра (faux fur) з ефектним плямистим принтом «animalier», який є одним із ключових трендів сезону. Архітектурний крій підкреслений широким контрастним коміром у глибокому чорному кольорі, що надає моделі особливої графічності та аристократизму. Виріб доповнений класичною застібкою на ґудзики та вишуканою атласною підкладкою (satin), що забезпечує бездоганну посадку по фігурі та винятковий комфорт під час носіння. Склад тканини: 79% модакрил, 21% поліестер."
+  },
+  "colors": [
+    {
+      "name": "Var Maculato Marrone Nero Nero",
+      "code": "3439 0101 0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281030%29.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 'Urban Safari' (Look 149)",
+        "en": "Total Look 'Urban Safari' (Look 149)",
+        "ar": "Total Look 'Urban Safari' (Look 149)",
+        "ka": "Total Look 'Urban Safari' (Look 149)",
+        "hy": "Total Look 'Urban Safari' (Look 149)",
+        "lv": "Total Look 'Urban Safari' (Look 149)",
+        "lt": "Total Look 'Urban Safari' (Look 149)",
+        "pl": "Total Look 'Urban Safari' (Look 149)",
+        "uk": "Total Look 'Urban Safari' (Look 149)"
+      },
+      "text": {
+        "ru": "жаккон Soriano 3439 0101 0101 в паре с кашемировым пуловером Manos F 0101, остромодными брюками из экокожи Oneta 0101 и кожаными ботильонами Urbana 0101.",
+        "en": "Soriano 3439 0101 0101 jacket paired with a Manos F 0101 cashmere pullover, trendy Oneta 0101 eco-leather trousers and Urbana 0101 leather ankle boots.",
+        "ar": "Soriano 3439 0101 0101 jacket paired with a Manos F 0101 cashmere pullover, trendy Oneta 0101 eco-leather trousers and Urbana 0101 leather ankle boots.",
+        "ka": "Soriano 3439 0101 0101 jacket paired with a Manos F 0101 cashmere pullover, trendy Oneta 0101 eco-leather trousers and Urbana 0101 leather ankle boots.",
+        "hy": "Soriano 3439 0101 0101 jacket paired with a Manos F 0101 cashmere pullover, trendy Oneta 0101 eco-leather trousers and Urbana 0101 leather ankle boots.",
+        "lv": "Soriano 3439 0101 0101 jacket paired with a Manos F 0101 cashmere pullover, trendy Oneta 0101 eco-leather trousers and Urbana 0101 leather ankle boots.",
+        "lt": "Soriano 3439 0101 0101 jacket paired with a Manos F 0101 cashmere pullover, trendy Oneta 0101 eco-leather trousers and Urbana 0101 leather ankle boots.",
+        "pl": "Soriano 3439 0101 0101 jacket paired with a Manos F 0101 cashmere pullover, trendy Oneta 0101 eco-leather trousers and Urbana 0101 leather ankle boots.",
+        "uk": "Soriano 3439 0101 0101 jacket paired with a Manos F 0101 cashmere pullover, trendy Oneta 0101 eco-leather trousers and Urbana 0101 leather ankle boots."
+      },
+      "items": [
+        {
+          "name": "Soriano",
+          "code": "3439 0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281030%29.png"
+        },
+        {
+          "name": "Manos F",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Oneta",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg",
+          "modelId": 254
+        },
+        {
+          "name": "Urbana",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%2827%29.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 'Contrast Chic' (Look 83/84)",
+        "en": "Total Look 'Contrast Chic' (Look 83/84)",
+        "ar": "Total Look 'Contrast Chic' (Look 83/84)",
+        "ka": "Total Look 'Contrast Chic' (Look 83/84)",
+        "hy": "Total Look 'Contrast Chic' (Look 83/84)",
+        "lv": "Total Look 'Contrast Chic' (Look 83/84)",
+        "lt": "Total Look 'Contrast Chic' (Look 83/84)",
+        "pl": "Total Look 'Contrast Chic' (Look 83/84)",
+        "uk": "Total Look 'Contrast Chic' (Look 83/84)"
+      },
+      "text": {
+        "ru": "куртка Soriano 3439 0101 0101 поверх классической белой рубашки Lucinda 0201 в ансамбле с пуловером Manos 0101 и брюками Oneta 0101.",
+        "en": "Soriano 3439 0101 0101 jacket over a classic white Lucinda 0201 shirt (Data missing in official sources) in an ensemble with a Manos 0101 pullover and Oneta 0101 trousers.",
+        "ar": "Soriano 3439 0101 0101 jacket over a classic white Lucinda 0201 shirt (Data missing in official sources) in an ensemble with a Manos 0101 pullover and Oneta 0101 trousers.",
+        "ka": "Soriano 3439 0101 0101 jacket over a classic white Lucinda 0201 shirt (Data missing in official sources) in an ensemble with a Manos 0101 pullover and Oneta 0101 trousers.",
+        "hy": "Soriano 3439 0101 0101 jacket over a classic white Lucinda 0201 shirt (Data missing in official sources) in an ensemble with a Manos 0101 pullover and Oneta 0101 trousers.",
+        "lv": "Soriano 3439 0101 0101 jacket over a classic white Lucinda 0201 shirt (Data missing in official sources) in an ensemble with a Manos 0101 pullover and Oneta 0101 trousers.",
+        "lt": "Soriano 3439 0101 0101 jacket over a classic white Lucinda 0201 shirt (Data missing in official sources) in an ensemble with a Manos 0101 pullover and Oneta 0101 trousers.",
+        "pl": "Soriano 3439 0101 0101 jacket over a classic white Lucinda 0201 shirt (Data missing in official sources) in an ensemble with a Manos 0101 pullover and Oneta 0101 trousers.",
+        "uk": "Soriano 3439 0101 0101 jacket over a classic white Lucinda 0201 shirt (Data missing in official sources) in an ensemble with a Manos 0101 pullover and Oneta 0101 trousers."
+      },
+      "items": [
+        {
+          "name": "Soriano",
+          "code": "3439 0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281030%29.png"
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Manos",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Oneta",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg",
+          "modelId": 254
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Direct the client's attention to the quality of the fur: Luisa Spagnoli's modern modacrylic is not only ethical, but also surpasses natural fur in lightness and moisture resistance.",
+      "Recommend Soriano as the perfect way to integrate an animal print into an everyday wardrobe — the black collar lends the piece a status-appropriate, understated elegance.",
+      "Suggest this model for creating 'Smart Casual' layered looks, pairing it with denim or leather to achieve a modern-luxury effect."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиентки на качестве меха: современный модакрил от Luisa Spagnoli не только этичен, но и превосходит натуральные аналоги по легкости и устойчивости к влаге.",
+      "Рекомендуйте Soriano как идеальный способ интеграции анималистичного принта в повседневный гардероб — благодаря черному воротнику модель выглядит статусно и не перегружено.",
+      "Предлагайте эту модель для создания многослойных образов 'Smart Casual', сочетая ее с денимом или кожей для достижения эффекта современной роскоши."
+    ],
+    "ar": [
+      "سلطي الضوء على جودة الفرو: الموداكريل الحديث من Luisa Spagnoli ليس أخلاقياً فحسب، بل يتفوق على البدائل الطبيعية من حيث الخفة ومقاومة الرطوبة.",
+      "نوصي بـ Soriano كطريقة مثالية لدمج الطبعات الحيوانية في خزانة الملابس اليومية — بفضل الياقة السوداء، يبدو الموديل مرموقاً وغير متكلف.",
+      "اقترحي هذا الموديل لإنشاء إطلالات 'Smart Casual' متعددة الطبقات، عبر تنسيقه مع الدنيم أو الجلد لتحقيق تأثير الفخامة العصرية."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება ბეწვის ხარისხზე: თანამედროვე მოდაკრილი Luisa Spagnoli-სგან არის არა მხოლოდ ეთიკური, არამედ აჭარბებს ბუნებრივ ანალოგებს სიმსუბუქითა და ტენიანობის მიმართ გამძლეობით.",
+      "რეკომენდაცია გაუწიეთ Soriano-ს, როგორც ცხოველური პრინტის ყოველდღიურ გარდერობში ინტეგრაციის იდეალურ გზას — შავი საყელოს წყალობით მოდელი გამოიყურება სტატუსურად და არა გადატვირთულად.",
+      "შესთავაზეთ ეს მოდელი 'Smart Casual'-ის მრავალშრიანი იმიჯების შესაქმნელად, შეუხამეთ დენიმს ან ტყავს თანამედროვე ფუფუნების ეფექტის მისაღწევად."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք մորթու որակի վրա՝ Luisa Spagnoli-ի ժամանակակից մոդակրիլը ոչ միայն էթիկական է, այլև թեթևությամբ և խոնավության նկատմամբ կայունությամբ գերազանցում է բնական անալոգներին։",
+      "Soriano-ն առաջարկեք որպես ամենօրյա զգեստապահարանում կենդանական պրինտի ինտեգրման իդեալական միջոց՝ սև օձիքի շնորհիվ մոդելը կարգավիճակային է թվում և ծանրաբեռնված չէ։",
+      "Առաջարկեք այս մոդելը «Smart Casual» բազմաշերտ կերպարներ ստեղծելու համար՝ համադրելով այն դենիմի կամ կաշվի հետ՝ ժամանակակից շքեղության էֆեկտին հասնելու համար։"
+    ],
+    "lv": [
+      "Vērsiet klientes uzmanību uz kažokādas kvalitāti: modernais modakrils no Luisa Spagnoli ir ne tikai ētisks, bet arī pārspēj dabīgos analogus viegluma un mitruma noturības ziņā.",
+      "Rekomendējiet Soriano kā ideālu veidu dzīvnieku raksta integrēšanai ikdienas garderobē — pateicoties melnajai apkaklei, modelis izskatās statusīgs un nav pārslogots.",
+      "Piedāvājiet šo modeli daudzslāņainu 'Smart Casual' tēlu izveidei, kombinējot to ar džinsu vai ādu, lai sasniegtu mūsdienīgas greznības efektu."
+    ],
+    "lt": [
+      "Akcentuokite klientės dėmesį į kailio kokybę: modernus Luisa Spagnoli modakrilas yra ne tik etiškas, bet ir lenkia natūralius analogus savo lengvumu bei atsparumu drėgmei.",
+      "Rekomenduokite Soriano kaip idealų būdą integruoti gyvūnų raštą į kasdienį garderobą — dėl juodos apykaklės modelis atrodo solidžiai ir neperkrautas.",
+      "Siūlykite šį modelį kuriant daugiasluoksnius „Smart Casual“ įvaizdžius, derinant jį su džinsu ar oda, siekiant šiuolaikinės prabangos efekto."
+    ],
+    "pl": [
+      "Zwróć uwagę klientki na jakość futra: nowoczesny modakryl od Luisa Spagnoli jest nie tylko etyczny, ale przewyższa naturalne odpowiedniki pod względem lekkości i odporności na wilgoć.",
+      "Rekomenduj Soriano jako idealny sposób na włączenie zwierzęcego printu do codziennej garderoby — dzięki czarnemu kołnierzowi model wygląda prestiżowo i nie jest przytłaczający.",
+      "Proponuj ten model do tworzenia warstwowych stylizacji 'Smart Casual', łącząc go z dżinsem lub skórą dla uzyskania efektu nowoczesnego luksusu."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнтки на якості хутра: сучасний модакрил від Luisa Spagnoli не лише етичний, а й перевершує натуральні аналоги за легкістю та стійкістю до вологи.",
+      "Рекомендуйте Soriano як ідеальний спосіб інтеграції анімалістичного принту в повсякденний гардероб — завдяки чорному коміру модель виглядає статусно і не перевантажено.",
+      "Пропонуйте цю модель для створення багатошарових образів 'Smart Casual', поєднуючи її з денімом або шкірою для досягнення ефекту сучасної розкоші."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "I'm afraid the leopard print will look too bold.",
+        "a": "Point out the considered design: the wide solid-color collar and classic regular-fit silhouette »˜tame ' the print, elevating it to an aristocratic accent."
+      },
+      {
+        "q": "Is this jacket warm enough for real winter weather?",
+        "a": "Clarify that Soriano falls into the warm outerwear category. Its high-density pile and satin lining provide excellent thermal insulation while keeping the piece lightweight."
+      },
+      {
+        "q": "Faux fur might lose its look after just one season.",
+        "a": "Emphasize the brand's premium-quality materials. Modacrylic is prized for its high durability and its ability to retain its original sheen and softness even with extended wear."
+      },
+      {
+        "q": "The cropped cut may visually widen the hips.",
+        "a": "Suggest trying the jacket with the Oneta trousers. The vertical closure line and clean shoulder line harmonize the proportions, creating a slender silhouette."
+      },
+      {
+        "q": "This fur feels too dressy for everyday life.",
+        "a": "Showcase Look 149 with the essential Manos pullover. This proves that Soriano is a versatile piece that adapts effortlessly to an urban style."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Я боюсь, что леопардовый принт будет выглядеть слишком вызывающе.",
+        "a": "Обратите внимание на выверенный дизайн: широкий однотонный воротник и классический силуэт regular fit 'усмиряют' принт, переводя его в разряд аристократичного акцента."
+      },
+      {
+        "q": "Достаточно ли теплая эта куртка для настоящей зимы?",
+        "a": "Уточните, что Soriano относится к категории теплой верхней одежды. Высокая плотность ворса и атласная подкладка обеспечивают отличную теплоизоляцию, сохраняя при этом легкость изделия."
+      },
+      {
+        "q": "Искусственный мех может потерять вид после первого сезона.",
+        "a": "Подчеркните премиальный статус материалов бренда. Модакрил отличается высокой износостойкостью и способностью сохранять первоначальный блеск и мягкость даже при длительной носке."
+      },
+      {
+        "q": "Укороченный фасон может визуально увеличить объем бедер.",
+        "a": "Предложите примерить жаккон с брюками Oneta. Вертикальная линия застежки и четкая линия плеч гармонизируют пропорции, создавая стройный силуэт."
+      },
+      {
+        "q": "Этот мех кажется мне слишком нарядным для повседневной жизни.",
+        "a": "Продемонстрируйте Look 149 с базовым пуловером Manos. Это доказывает, что Soriano — универсальная вещь, которая легко адаптируется под городской стиль."
+      }
+    ],
+    "ar": [
+      {
+        "q": "أخشى أن تبدو نقشة الفهد لافتة للنظر أكثر من اللازم.",
+        "a": "لفتي الانتباه إلى التصميم المدروس؛ فالياقة العريضة ذات اللون الواحد والقصة الكلاسيكية (regular fit) تلطف من حدة النقشة، مما يجعلها لمسة راقية."
+      },
+      {
+        "q": "هل هذه السترة دافئة بما يكفي لشتاء حقيقي؟",
+        "a": "وضحي أن Soriano تنتمي لفئة الملابس الخارجية الدافئة؛ حيث توفر كثافة الوبر والبطانة الساتان عزلاً حرارياً ممتازاً مع الحفاظ على خفة القطعة."
+      },
+      {
+        "q": "قد يفقد الفراء الصناعي مظهره بعد الموسم الأول.",
+        "a": "أكدي على المكانة الراقية لخامات العلامة التجارية، حيث يتميز الموداكريل بمتانته العالية وقدرته على الاحتفاظ بلمعانه ونعومته حتى بعد الارتداء الطويل."
+      },
+      {
+        "q": "قد يزيد القصة القصيرة من حجم الأرداف بصرياً.",
+        "a": "اقترحي تجربة السترة مع بنطال Oneta، فخط الأزرار الرأسي وخط الكتف الواضح ينسقان التناسبات ويخلقان قواماً ممشوقاً."
+      },
+      {
+        "q": "يبدو هذا الفراء رسمياً جداً بالنسبة لي للحياة اليومية.",
+        "a": "استعرضي Look 149 مع بلوفر أساسي Manos، فهذا يثبت أن Soriano قطعة متعددة الاستخدامات تتكيف بسهولة مع الأسلوب الحضري."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მეშინია, რომ ლეოპარდის პრინტი ზედმეტად გამომწვევად გამოიყურება.",
+        "a": "ყურადღება მიაქციეთ დახვეწილ დიზაინს: ფართო ერთფეროვანი საყელო და კლასიკური სილუეტი regular fit „ალაგმავს“ პრინტს და მას არისტოკრატული აქცენტის კატეგორიაში გადაიყვანს."
+      },
+      {
+        "q": "საკმარისად თბილია ეს ქურთუკი ნამდვილი ზამთრისთვის?",
+        "a": "დააზუსტეთ, რომ Soriano მიეკუთვნება თბილი ზედა ტანსაცმლის კატეგორიას. ბეწვის მაღალი სიმკვრივე და ატლასის სარჩული უზრუნველყოფს შესანიშნავ თბოიზოლაციას და თან ინარჩუნებს ნაკეთობის სიმსუბუქეს."
+      },
+      {
+        "q": "ხელოვნურმა ბეწვმა შესაძლოა პირველივე სეზონის შემდეგ დაკარგოს იერსახე.",
+        "a": "ხაზგასმით აღნიშნეთ ბრენდის მასალების პრემიალური სტატუსი. მოდაკრილი გამოირჩევა მაღალი ცვეთამედეგობით და პირვანდელი ბზინვარებისა და სირბილის შენარჩუნების უნარით ხანგრძლივი ტარების დროსაც კი."
+      },
+      {
+        "q": "დამოკლებულმა ფასონმა შესაძლოა ვიზუალურად გაზარდოს თეძოების მოცულობა.",
+        "a": "შესთავაზეთ ჟაკეტის მოსინჯვა შარვალთან Oneta. შესაკრავის ვერტიკალური ხაზი და მხრების მკაფიო ხაზი ახდენს პროპორციების ჰარმონიზებას და ქმნის მოხდენილ სილუეტს."
+      },
+      {
+        "q": "ეს ბეწვი ყოველდღიური ცხოვრებისთვის ზედმეტად ელეგანტურად მეჩვენება.",
+        "a": "აჩვენეთ Look 149 საბაზისო პულოვერთან Manos. ეს ამტკიცებს, რომ Soriano უნივერსალური ნივთია, რომელიც ადვილად ერგება საქალაქო სტილს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ես վախենում եմ, որ լեոպարդային պրինտը չափազանց աչքի ընկնող կլինի։",
+        "a": "Ուշադրություն դարձրեք հստակ դիզայնին. լայն միագույն օձիքը և դասական regular fit ուրվագիծը «հնազանդեցնում» են պրինտը՝ այն տեղափոխելով ազնվազարմ շեշտադրման կարգավիճակ։"
+      },
+      {
+        "q": "Արդյո՞ք այս բաճկոնը բավականաչափ տաք է իսկական ձմռան համար։",
+        "a": "Պարզաբանեք, որ Soriano-ն դասվում է տաք վերնահագուստի կատեգորիային։ Թավի խտությունը և ատլասե աստառը ապահովում են գերազանց ջերմամեկուսացում՝ պահպանելով միաժամանակ արտադրանքի թեթևությունը։"
+      },
+      {
+        "q": "Արհեստական մորթին կարող է կորցնել տեսքը առաջին սեզոնից հետո։",
+        "a": "Ընդգծեք ապրանքանիշի նյութերի պրեմիում կարգավիճակը։ Մոդակրիլը տարբերվում է բարձր դիմացկունությամբ և սկզբնական փայլն ու փափկությունը պահպանելու ունակությամբ նույնիսկ երկարատև կրելուց հետո։"
+      },
+      {
+        "q": "Կարճեցված ֆասոնը կարող է տեսողականորեն մեծացնել կոնքերի ծավալը։",
+        "a": "Առաջարկեք չափել ժակկոնը (жаккон) Oneta տաբատների հետ: Ամրացման ուղղահայաց գիծը և ուսերի հստակ գիծը ներդաշնակեցնում են համամասնությունները՝ ստեղծելով բարեկազմ ուրվագիծ։"
+      },
+      {
+        "q": "Այս մորթին ինձ շատ տոնական է թվում առօրյա կյանքի համար։",
+        "a": "Ցույց տվեք Look 149-ը՝ Manos բազային պուլովերով: Սա ապացուցում է, որ Soriano-ն ունիվերսալ իր է, որը հեշտությամբ հարմարվում է քաղաքային ոճին։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Baidos, ka leoparda raksts izskatīsies pārāk izaicinoši.",
+        "a": "Vērsiet uzmanību uz izsvērto dizainu: plata vienkrāsaina apkakle un klasisks «regular fit» siluets «savalda» apdruku, pārvēršot to aristokrātiska akcenta kategorijā."
+      },
+      {
+        "q": "Vai šī jaka ir pietiekami silta īstai ziemai?",
+        "a": "Precizējiet, ka Soriano pieder pie siltu virsdrēbju kategorijas. Augsts plūksnu blīvums un satīna odere nodrošina izcilu siltumizolāciju, vienlaikus saglabājot izstrādājuma vieglumu."
+      },
+      {
+        "q": "Mākslīgā kažokāda var zaudēt izskatu pēc pirmās sezonas.",
+        "a": "Uzsveriet zīmola materiālu premium statusu. Modakrils izceļas ar augstu nodilumizturību un spēju saglabāt sākotnējo spīdumu un maigumu pat pēc ilgstošas valkāšanas."
+      },
+      {
+        "q": "Saīsinātais fasons var vizuāli palielināt gurnu apjomu.",
+        "a": "Piedāvājiet pielaikot jaku ar biksēm Oneta. Vertikālā aizdares līnija un skaidrā plecu līnija harmonizē proporcijas, radot slaidu siluetu."
+      },
+      {
+        "q": "Šī kažokāda man šķiet pārāk grezna ikdienas dzīvei.",
+        "a": "Demonstrējiet Look 149 ar bāzes puloveru Manos. Tas pierāda, ka Soriano ir universāla lieta, kas viegli adaptējas pilsētas stilam."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Bijau, kad leopardo raštas atrodys pernelyg iššaukiančiai.",
+        "a": "Atkreipkite dėmesį į suderintą dizainą: plati vienspalvė apykaklė ir klasikinis „regular fit“ siluetas „suvaldo“ raštą, priskirdami jį prie aristokratiškų akcentų kategorijos."
+      },
+      {
+        "q": "Ar ši striukė pakankamai šilta tikrai žiemai?",
+        "a": "Patikslinkite, kad Soriano priklauso šiltų viršutinių drabužių kategorijai. Didelis plauko tankis ir atlasinis pamušalas užtikrina puikią termoizoliaciją, išsaugant gaminio lengvumą."
+      },
+      {
+        "q": "Dirbtinis kailis gali prarasti išvaizdą po pirmo sezono.",
+        "a": "Pabrėžkite prekės ženklo medžiagų „premium“ statusą. Modakrilas pasižymi dideliu atsparumu dėvėjimuisi ir gebėjimu išsaugoti pradinį spindesį bei minkštumą net ilgai dėvint."
+      },
+      {
+        "q": "Trumpintas fasonas gali vizualiai padidinti klubų apimtį.",
+        "a": "Pasiūlykite pasimatuoti „jakoną“ su kelnėmis Oneta. Vertikali užsegimo linija ir aiški pečių linija harmonizuoja proporcijas, sukurdamos grakštų siluetą."
+      },
+      {
+        "q": "Šis kailis man atrodo pernelyg puošnus kasdieniam gyvenimui.",
+        "a": "Pademonstruokite Look 149 su baziniu megztiniu Manos. Tai įrodo, kad Soriano — universalus daiktas, kuris lengvai prisitaiko prie miesto stiliaus."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Obawiam się, że lamparci wzór będzie wyglądał zbyt wyzywająco.",
+        "a": "Zwróć uwagę na przemyślany design: szeroki, jednolity kołnierz i klasyczny krój regular fit „łagodzą” nadruk, przenosząc go do rangi arystokratycznego akcentu."
+      },
+      {
+        "q": "Czy ta kurtka jest wystarczająco ciepła na prawdziwą zimę?",
+        "a": "Wyjaśnij, że Soriano należy do kategorii ciepłej odzieży wierzchniej. Wysoka gęstość włosia i atłasowa podszewka zapewniają doskonałą termoizolację, zachowując przy tym lekkość produktu."
+      },
+      {
+        "q": "Sztuczne futro może stracić wygląd po pierwszym sezonie.",
+        "a": "Podkreśl prestiżowy status materiałów marki. Modakryl wyróżnia się wysoką odpornością na zużycie i zdolnością do zachowania pierwotnego blasku oraz miękkości nawet przy długotrwałym noszeniu."
+      },
+      {
+        "q": "Krótki fason może optycznie powiększyć biodra.",
+        "a": "Zaproponuj przymierzenie żakietu ze spodniami Oneta. Pionowa linia zapięcia i wyraźna linia ramion harmonizują proporcje, tworząc smukłą sylwetkę."
+      },
+      {
+        "q": "To futro wydaje mi się zbyt strojne na co dzień.",
+        "a": "Zaprezentuj Look 149 z bazowym pulowerem Manos. To dowodzi, że Soriano jest uniwersalną rzeczą, która łatwo adaptuje się do miejskiego stylu."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Я боюся, що леопардовий принт буде виглядати занадто зухвало.",
+        "a": "Зверніть увагу на вивірений дизайн: широкий однотонний комір та класичний силует regular fit 'упокорюють' принт, переводячи його в розряд аристократичного акценту."
+      },
+      {
+        "q": "Чи достатньо тепла ця куртка для справжньої зими?",
+        "a": "Уточніть, що Soriano належить до категорії теплого верхнього одягу. Висока щільність ворсу та атласна підкладка забезпечують відмінну теплоізоляцію, зберігаючи при цьому легкість виробу."
+      },
+      {
+        "q": "Штучне хутро може втратити вигляд після першого сезону.",
+        "a": "Підкресліть преміальний статус матеріалів бренду. Модакрил вирізняється високою зносостійкістю та здатністю зберігати первинний блиск і м'якість навіть при тривалому носінні."
+      },
+      {
+        "q": "Укорочений фасон може візуально збільшити об'єм стегон.",
+        "a": "Запропонуйте приміряти жаккон зі штанами Oneta. Вертикальна лінія застібки та чітка лінія плечей гармонізують пропорції, створюючи стрункий силует."
+      },
+      {
+        "q": "Це хутро здається мені занадто ошатним для повсякденного життя.",
+        "a": "Продемонструйте Look 149 з базовим пуловером Manos. Це доводить, що Soriano — універсальна річ, яка легко адаптується під міський стиль."
+      }
+    ]
+  }
+}

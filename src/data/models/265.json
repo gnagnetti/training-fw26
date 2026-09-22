@@ -1,0 +1,349 @@
+{
+  "id": 265,
+  "name": "Ortesi",
+  "description": {
+    "en": "The Ortesi trousers are the embodiment of refined classicism and Luisa Spagnoli's flawless tailoring artistry. The straight Regular fit piece is crafted from a noble viscose-based blend with delicate virgin wool (lana vergine), lending the fabric a status-defining texture and softness. Meticulously pressed creases visually elongate the silhouette, underscoring the architectural discipline of the lines. The understated design is completed with a concealed zip closure and functional side pockets, making Ortesi the ideal foundation for creating evening and formal ensembles in the 'quiet luxury' style.",
+    "ru": "Брюки Ortesi — это воплощение изысканной классики и безупречного портновского искусства Luisa Spagnoli. Модель прямого кроя (Regular fit) выполнена из благородного смесового полотна на основе вискозы и деликатной девственной шерсти (lana vergine), что придает ткани статусную фактуру и мягкость. Тщательно заглаженные стрелки визуально вытягивают силуэт, подчеркивая архитектурную строгость линий. Лаконичность дизайна дополняется потайной застежкой-молнией и функциональными боковыми карманами, превращая Ortesi в идеальную базу для создания вечерних и формальных ансамблей в стиле «тихой роскоши».",
+    "ar": "تجسد سراويل Ortesi جوهر الكلاسيكية الراقية وفن الخياطة البديع لدى Luisa Spagnoli. صُمم هذا الموديل بقصة مستقيمة (Regular fit) من نسيج فاخر مخلوط يعتمد على الفيسكوز والصوف البكر الرقيق (lana vergine)، مما يمنح القماش ملمساً ومظهراً فخماً. تعمل الخطوط المكوية بعناية على إطالة القوام بصرياً، مما يبرز الدقة الهيكلية للخطوط. يكتمل التصميم البسيط بسحاب خفي وجيوب جانبية عملية، مما يجعل Ortesi خياراً مثالياً كأساس للإطلالات المسائية والرسمية بأسلوب «الرفاهية الهادئة».",
+    "ka": "შარვალი Ortesi — ეს არის დახვეწილი კლასიკისა და Luisa Spagnoli-ის უნაკლო სამკერვალო ხელოვნების განსახიერება. სწორი კლასიკური წყობის (Regular fit) მოდელი შესრულებულია ვიკოზისა და დელიკატური ქალწულებრივი მატყლის (lana vergine) საფუძველზე შექმნილი კეთილშობილური ნაჭრისგან, რაც ქსოვილს სტატუსურ ფაქტურასა და სირბილეს ანიჭებს. საგულდაგულოდ დაუთოებული ისრები ვიზუალურად აგრძელებს სილუეტს, რაც ხაზს უსვამს ხაზების არქიტექტურულ სიმკაცრეს. დიზაინის ლაკონიურობას ავსებს ფარული ელვა-შესაკრავი და ფუნქციური გვერდითი ჯიბეები, რაც Ortesi-ს აქცევს იდეალურ ბაზად „ჩუმი ფუფუნების“ სტილში საღამოსა და ფორმალური ანსამბლების შესაქმნელად.",
+    "hy": "Ortesi տաբատը Luisa Spagnoli-ի նրբագեղ դասականության և անթերի դերձակային արվեստի մարմնավորումն է։ Ուղիղ կտրվածքով (Regular fit) մոդելը պատրաստված է վիսկոզայի և նուրբ կուսական բրդի (lana vergine) հիմքով ազնվական խառը կտավից, ինչը գործվածքին հաղորդում է կարգավիճակային հյուսվածք և փափկություն։ Մանրակրկիտ արդուկված սլաքները տեսողականորեն երկարացնում են ուրվագիծը՝ ընդգծելով գծերի ճարտարապետական խստությունը։ Դիզայնի լակոնիկությունը լրացվում է թաքնված կայծակաճարմանդով և գործնական կողային գրպաններով՝ դարձնելով Ortesi-ն իդեալական հիմք «լուռ շքեղության» ոճով երեկոյան և պաշտոնական անսամբլներ ստեղծելու համար։",
+    "lv": "Bikses Ortesi — tas ir izsmalcinātas klasikas un nevainojamas Luisa Spagnoli drēbniecības mākslas iemiesojums. Taisna piegriezuma modelis (Regular fit) ir izgatavots no cēla jaukta auduma uz viskozes un delikātas jaunvilnas (lana vergine) bāzes, kas piešķir audumam statusa pilnu faktūru un maigumu. Rūpīgi nogludinātas vīles vizuāli pagarina siluetu, uzsverot līniju arhitektonisko stingrību. Dizaina lakonismu papildina slēpts rāvējslēdzējs un funkcionālas sānu kabatas, pārvēršot Ortesi par ideālu pamatu vakara un formālu ansambļu radīšanai „klusās greznības” stilā.",
+    "lt": "Ortesi kelnės – tai rafinuotos klasikos ir nepriekaištingo Luisa Spagnoli siuvimo meno įsikūnijimas. Tiesioginio kirpimo (Regular fit) modelis pagamintas iš kilnaus mišraus audinio viskozės bei švelnios natūralios vilnos (lana vergine) pagrindu, kas suteikia audiniui prabangią tekstūrą ir minkštumą. Kruopščiai užlygintos klostės vizualiai ilgina siluetą, pabrėždamos linijų architektūrinį griežtumą. Dizaino lakoniškumą papildo paslėptas užtrauktukas ir funkcionalios šoninės kišenės, paverčiančios Ortesi idealia baze kuriant vakarinius bei formalius ansamblius „tylios prabangos“ stiliumi.",
+    "pl": "Spodnie Ortesi to ucieleśnienie wyrafinowanej klasyki i nienagannego krawiectwa Luisa Spagnoli. Model o prostym kroju (Regular fit) został wykonany ze szlachetnej mieszanki tkanin na bazie wiskozy i delikatnej żywej wełny (lana vergine), co nadaje materiałowi prestiżową fakturę i miękkość. Starannie wyprasowane kanty optycznie wydłużają sylwetkę, podkreślając architektoniczną surowość linii. Minimalizm designu uzupełnia kryty zamek błyskawiczny oraz funkcjonalne kieszenie boczne, czyniąc Ortesi idealną bazą do tworzenia wieczorowych i formalnych zestawów w stylu „cichego luksusu”.",
+    "uk": "Брюки Ortesi — це втілення вишуканої класики та бездоганного кравецького мистецтва Luisa Spagnoli. Модель прямого крою (Regular fit) виконана з благородного сумішевого полотна на основі віскози та делікатної вовни першої стрижки (lana vergine), що надає тканині статусної фактури та м'якості. Ретельно загладжені стрілки візуально витягують силует, підкреслюючи архітектурну строгість ліній. Лаконічність дизайну доповнюється потайною застібкою-блискавкою та функціональними бічними кишенями, перетворюючи Ortesi на ідеальну базу для створення вечірніх та формальних ансамблів у стилі «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qugyVdtWTYae43oPqhZUCA_65538751696f42ecbf2348_77616038_02820780XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Look 132)",
+        "en": "Total Look (Look 132)",
+        "ar": "Total Look (Look 132)",
+        "ka": "Total Look (Look 132)",
+        "hy": "Total Look (Look 132)",
+        "lv": "Total Look (Look 132)",
+        "lt": "Total Look (Look 132)",
+        "pl": "Total Look (Look 132)",
+        "uk": "Total Look (Look 132)"
+      },
+      "text": {
+        "ru": "Брюки Ortesi 0101 в безупречном вечернем ансамбле с жакетом Soana 0101 и бюстье Lunetta 0101.",
+        "en": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "ar": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "ka": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "hy": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "lv": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "lt": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "pl": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "uk": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101."
+      },
+      "items": [
+        {
+          "name": "Ortesi",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qugyVdtWTYae43oPqhZUCA_65538751696f42ecbf2348_77616038_02820780XX1.jpg"
+        },
+        {
+          "name": "Soana",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IXvyIF7SRK6hYKevjnFpEw_831137449696f42f9b2a2d4_32797153_02821050XX1.jpg",
+          "modelId": 322
+        },
+        {
+          "name": "Lunetta",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/PHjG_OpCSD67cEGFpJnu_Q_1515528308696f4355792654_41637429_02820560XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look (Look 132)",
+        "en": "Total Look (Look 132)",
+        "ar": "Total Look (Look 132)",
+        "ka": "Total Look (Look 132)",
+        "hy": "Total Look (Look 132)",
+        "lv": "Total Look (Look 132)",
+        "lt": "Total Look (Look 132)",
+        "pl": "Total Look (Look 132)",
+        "uk": "Total Look (Look 132)"
+      },
+      "text": {
+        "ru": "Брюки Ortesi 0101 в безупречном вечернем ансамбле с жакетом Soana 0101 и бюстье Lunetta 0101.",
+        "en": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "ar": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "ka": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "hy": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "lv": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "lt": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "pl": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101.",
+        "uk": "Trousers Ortesi 0101 in a flawless evening ensemble with jacket Soana 0101 and bustier Lunetta 0101."
+      },
+      "items": [
+        {
+          "name": "Ortesi",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qugyVdtWTYae43oPqhZUCA_65538751696f42ecbf2348_77616038_02820780XX1.jpg"
+        },
+        {
+          "name": "Lunetta",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/PHjG_OpCSD67cEGFpJnu_Q_1515528308696f4355792654_41637429_02820560XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the premium composition: the blend of viscose and virgin wool guarantees not only a noble appearance but also exceptional comfort, whether worn indoors or at formal occasions.",
+      "Emphasise the versatility of the Regular fit cut with pressed creases: a time-tested solution for visually correcting the figure, lending the legs a slender, elongated appearance.",
+      "Recommend Ortesi as an investment wardrobe piece: with its understated design and classic black hue, these trousers adapt effortlessly from a tailored business dress code to a black-tie evening occasion."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на премиальном составе: сочетание вискозы и девственной шерсти гарантирует не только благородный вид, но и исключительный комфорт при носке в помещении и на торжественных мероприятиях.",
+      "Подчеркните универсальность кроя 'Regular fit' и наличие стрелок: это проверенное решение для визуальной коррекции фигуры, которое придает ногам стройность и длину.",
+      "Рекомендуйте Ortesi как инвестиционный элемент гардероба. Благодаря лаконичному дизайну и классическому черному цвету, эти брюки легко адаптируются как под строгий деловой дресс-код, так и под вечерний выход (Black Tie)."
+    ],
+    "ar": [
+      "ركزي انتباه العميل على التركيبة الفاخرة: فالمزيج بين الفيسكوز والصوف البكر يضمن ليس فقط مظهراً راقياً، بل راحة استثنائية عند الارتداء في الأماكن المغلقة والمناسبات الرسمية.",
+      "أبرزي تعدد استخدامات قصة 'Regular fit' ووجود الكسرات الطولية: فهي حل مجرب لتعديل مظهر القامة بصرياً وتمنح الساقين رشاقة وطولاً.",
+      "رشحي Ortesi كاستثمار لخزانة الملابس. بفضل تصميمها المختصر ولونها الأسود الكلاسيكي، تتكيف هذه السراويل بسهولة مع قواعد اللباس الرسمية أو إطلالات السهرة (Black Tie)."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება პრემიუმ ხარისხის შემადგენლობაზე: ვისკოზისა და ქალწულებრივი მატყლის კომბინაცია უზრუნველყოფს არა მხოლოდ დახვეწილ იერსახეს, არამედ განსაკუთრებულ კომფორტს დახურულ სივრცეში და საზეიმო ღონისძიებებზე.",
+      "ხაზი გაუსვით 'Regular fit' ჭრის უნივერსალურობასა და კეცების არსებობას: ეს არის დადასტურებული გადაწყვეტა ფიგურის ვიზუალური კორექციისთვის, რომელიც ფეხებს ვიზუალურად აგრძელებს და ალამაზებს.",
+      "რეკომენდაცია გაუწიეთ Ortesi-ს, როგორც გარდერობის საინვესტიციო ელემენტს. ლაკონური დიზაინისა და კლასიკური შავი ფერის წყალობით, ეს შარვალი მარტივად ერგება როგორც მკაცრ საქმიან დრეს-კოდს, ისე საღამოს გასასვლელს (Black Tie)."
+    ],
+    "hy": [
+      "Շեշտադրեք հաճախորդի ուշադրությունը պրեմիում դասի բաղադրության վրա. վիսկոզայի և մաքուր բրդի համադրությունը երաշխավորում է ոչ միայն ազնվական տեսք, այլև բացառիկ հարմարավետություն փակ տարածքներում և հանդիսավոր միջոցառումների ժամանակ։",
+      "Ընդգծեք 'Regular fit' ձևվածքի ունիվերսալությունը և սլաքների առկայությունը. սա կազմվածքի վիզուալ շտկման ստուգված լուծում է, որը ոտքերին հաղորդում է սլացիկություն և երկարություն։",
+      "Առաջարկեք Ortesi-ն որպես զգեստապահարանի ներդրումային տարր։ Լակոնիկ դիզայնի և դասական սև գույնի շնորհիվ այս տաբատը հեշտությամբ հարմարվում է ինչպես խիստ գործնական դրես-կոդին, այնպես էլ երեկոյան ելքերին (Black Tie)։"
+    ],
+    "lv": [
+      "Akcentējiet klienta uzmanību uz izstrādājuma premium sastāvu: viskozes un jaunvilnas kombinācija garantē ne tikai cēlu izskatu, bet arī izcilu komfortu, valkājot to telpās un svinīgos pasākumos.",
+      "Uzsveriet 'Regular fit' piegriezuma daudzpusību un iešuves: tas ir pārbaudīts risinājums figūras vizuālai korekcijai, kas piešķir kājām slaidumu un garumu.",
+      "Rekomendējiet Ortesi kā investīciju garderobes elementos. Pateicoties lakoniskajam dizainam un klasiskajai melnajai krāsai, šīs bikses viegli adaptējas gan stingram lietišķajam dreskodam, gan vakara izejai (Black Tie)."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į aukščiausios kokybės sudėtį: viskozės ir grynos vilnos derinys garantuoja ne tik kilnią išvaizdą, bet ir išskirtinį komfortą dėvint patalpose ar per iškilmingus renginius.",
+      "Pabrėžkite „Regular fit“ kirpimo universalumą ir siūlių buvimą: tai patikrintas sprendimas vizualiai koreguoti figūrą, suteikiantis kojoms grakštumo ir ilgio.",
+      "Rekomenduokite Ortesi kaip investicinę garderobo detalę. Dėl lakoniško dizaino ir klasikinės juodos spalvos šios kelnės lengvai pritaikomos tiek prie griežto verslo aprangos kodo, tiek prie vakarinio įvaizdžio (Black Tie)."
+    ],
+    "pl": [
+      "Skup uwagę klienta na składzie premium: połączenie wiskozy i dziewiczej wełny gwarantuje nie tylko szlachetny wygląd, ale także wyjątkowy komfort podczas noszenia w pomieszczeniach oraz na uroczystych wydarzeniach.",
+      "Podkreśl uniwersalność kroju 'Regular fit' oraz obecność kantu: to sprawdzone rozwiązanie do optycznej korekty sylwetki, które nadaje nogom smukłości i długości.",
+      "Rekomenduj Ortesi jako element inwestycyjny garderoby. Dzięki lakonicznemu designowi i klasycznemu czarnemu kolorowi, spodnie te łatwo adaptują się zarówno do surowego dress code'u biznesowego, jak i na wieczorne wyjścia (Black Tie)."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на преміальному складі: поєднання віскози та натуральної вовни гарантує не лише шляхетний вигляд, а й винятковий комфорт під час носіння у приміщенні та на урочистих заходах.",
+      "Підкресліть універсальність крою 'Regular fit' та наявність стрілок: це перевірене рішення для візуальної корекції фігури, яке додає ногам стрункості та довжини.",
+      "Рекомендуйте Ortesi як інвестиційний елемент гардероба. Завдяки лаконічному дизайну та класичному чорному кольору, ці штани легко адаптуються як під суворий діловий дрес-код, так і під вечірній вихід (Black Tie)."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The trousers seem too formal for frequent wear.",
+        "a": "Demonstrate the styling possibilities with soft knitwear or a silk blouse. Ortesi can serve as the foundation of an elegant everyday look when the structured jacket is replaced with a more relaxed top."
+      },
+      {
+        "q": "Wool content may cause skin irritation.",
+        "a": "Clarify that the primary component (83%) is premium-quality viscose, which lends the material its silkiness and softness. Virgin wool is added only to help the piece hold its shape and achieve a noble sheen."
+      },
+      {
+        "q": "Caring for creased trousers seems complex.",
+        "a": "Point out the exceptional Italian quality of the fabric. Thanks to the 3% elastane and professional seam finishing, the crease holds its definition significantly longer, requiring only minimal, delicate care."
+      },
+      {
+        "q": "Black looks too predictable.",
+        "a": "Emphasise that Luisa Spagnoli's Nero 0101 has real depth and richness. It is the perfect backdrop for bold accessories or intricate textures, such as Lunetta lace."
+      },
+      {
+        "q": "The trousers may crease quickly due to the viscose.",
+        "a": "Reassure the client that the technical combination of wool and elastane in the Ortesi composition prevents significant fabric deformation, allowing the piece to remain flawless throughout the evening."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Брюки кажутся слишком формальными для частого использования",
+        "a": "Продемонстрируйте возможности стилизации с мягким трикотажем или шелковой блузой. Ortesi могут стать основой элегантного повседневного образа, если заменить строгий жакет на более расслабленный верх."
+      },
+      {
+        "q": "Шерсть в составе может вызвать раздражение кожи",
+        "a": "Поясните, что основной компонент (83%) — высококачественная вискоза, которая обеспечивает шелковистость и нежность материала. Девственная шерсть добавлена лишь для поддержания формы и благородного блеска."
+      },
+      {
+        "q": "Сложность в уходе за брюками со стрелками",
+        "a": "Укажите на высокое итальянское качество ткани. Благодаря 3% эластана и профессиональной обработке швов, стрелки сохраняют свою четкость значительно дольше, требуя лишь минимального деликатного ухода."
+      },
+      {
+        "q": "Черный цвет выглядит слишком предсказуемо",
+        "a": "Подчеркните, что Nero 0101 в исполнении Luisa Spagnoli обладает глубиной и насыщенностью. Это идеальный фон для активных аксессуаров или сложных фактур, таких как кружево Lunetta."
+      },
+      {
+        "q": "Брюки могут быстро помяться из-за вискозы",
+        "a": "Заверьте клиента, что технологичное сочетание шерсти и эластана в составе Ortesi предотвращает сильную деформацию ткани, позволяя сохранять безупречный вид изделия на протяжении всего вечера."
+      }
+    ],
+    "ar": [
+      {
+        "q": "تبدو السراويل رسمية للغاية للاستخدام المتكرر",
+        "a": "استعرضي خيارات التنسيق مع قطع التريكو الناعمة أو بلوزة من الحرير. يمكن أن تصبح سراويل Ortesi أساساً لإطلالة يومية أنيقة إذا تم استبدال السترة الرسمية بقطعة علوية أكثر استرخاءً."
+      },
+      {
+        "q": "قد تسبب الصوف في التركيبة تهيج الجلد",
+        "a": "وضحي أن المكون الأساسي (83%) هو الفيسكوز عالي الجودة، والذي يمنح المادة ملمساً حريرياً ناعماً. تمت إضافة الصوف البكر فقط للحفاظ على قوام القطعة ولمعانها الفاخر."
+      },
+      {
+        "q": "صعوبة العناية بالسراويل ذات الثنيات الحادة",
+        "a": "أشيري إلى الجودة الإيطالية العالية للنسيج. بفضل نسبة 3% من الإيلاستين والمعالجة الاحترافية للحياكة، تحافظ الثنيات على حدتها لفترة أطول بكثير، ولا تتطلب سوى عناية رقيقة وبسيطة."
+      },
+      {
+        "q": "اللون الأسود يبدو تقليدياً جداً",
+        "a": "أكدي أن لون Nero 0101 بتصميم Luisa Spagnoli يتمتع بعمق وتشبع استثنائي. إنه خلفية مثالية للإكسسوارات الجريئة أو الأنسجة المعقدة، مثل دانتيل Lunetta."
+      },
+      {
+        "q": "قد تتعرض السراويل للتجعد بسرعة بسبب الفيسكوز",
+        "a": "طمئني العميل بأن المزيج التقني للصوف والإيلاستين في تركيبة Ortesi يمنع تشوه النسيج بشكل كبير، مما يسمح بالحفاظ على مظهر لا تشوبه شائبة طوال الأمسية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "შარვალი ზედმეტად ფორმალური ჩანს ხშირი გამოყენებისთვის",
+        "a": "წარმოაჩინეთ სტილიზების შესაძლებლობები რბილ ტრიკოტაჟთან ან აბრეშუმის ბლუზთან ერთად. Ortesi შეიძლება გახდეს ელეგანტური ყოველდღიური იმიჯის საფუძველი, თუ მკაცრ პიჯაკს უფრო თავისუფალი ზედატანით ჩაანაცვლებთ."
+      },
+      {
+        "q": "შემადგენლობაში შემავალმა მატყლმა შესაძლოა კანის გაღიზიანება გამოიწვიოს",
+        "a": "განუმარტეთ, რომ ძირითადი კომპონენტი (83%) არის მაღალი ხარისხის ვისკოზა, რომელიც მასალას სირბილესა და აბრეშუმისებრ ტექსტურას ანიჭებს. ქალწული მატყლი დამატებულია მხოლოდ ფორმის შენარჩუნებისა და კეთილშობილური ბზინვარებისთვის."
+      },
+      {
+        "q": "ისრიანი შარვლის მოვლის სირთულე",
+        "a": "ყურადღება გაამახვილეთ ქსოვილის მაღალ იტალიურ ხარისხზე. 3% ელასტანისა და ნაკერების პროფესიონალური დამუშავების წყალობით, ისრები ფორმას გაცილებით დიდხანს ინარჩუნებს და მხოლოდ მინიმალურ, დელიკატურ მოვლას მოითხოვს."
+      },
+      {
+        "q": "შავი ფერი ზედმეტად მოსაწყენად გამოიყურება",
+        "a": "ხაზგასმით აღნიშნეთ, რომ Nero 0101 Luisa Spagnoli-ს შესრულებით გამოირჩევა სიღრმითა და სიმდიდრით. ეს არის იდეალური ფონი აქტიური აქსესუარებისთვის ან ისეთი რთული ფაქტურებისთვის, როგორიცაა Lunetta-ს მაქმანი."
+      },
+      {
+        "q": "ვისკოზის გამო შარვალი შეიძლება მალე დაიჭმუჭნოს",
+        "a": "დაარწმუნეთ კლიენტი, რომ Ortesi-ს შემადგენლობაში არსებული მატყლისა და ელასტანის ტექნოლოგიური კომბინაცია ხელს უშლის ქსოვილის ძლიერ დეფორმაციას, რაც საშუალებას გაძლევთ შეინარჩუნოთ ნაკეთობის უნაკლო იერსახე მთელი საღამოს განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Տաբատը չափազանց պաշտոնական է թվում հաճախակի կրելու համար",
+        "a": "Ցույց տվեք ոճավորման հնարավորությունները փափուկ տրիկոտաժի կամ մետաքսե բլուզի հետ: Ortesi-ն կարող է դառնալ էլեգանտ ամենօրյա կերպարի հիմք, եթե խիստ ժակետը փոխարինեք ավելի հանգիստ վերնազգեստով"
+      },
+      {
+        "q": "Բաղադրության մեջ առկա բուրդը կարող է մաշկի գրգռում առաջացնել",
+        "a": "Պարզաբանեք, որ հիմնական բաղադրիչը (83%) բարձրորակ վիսկոզա է, որն ապահովում է նյութի մետաքսանմանությունն ու փափկությունը: Ոչխարի բուրդն ավելացված է միայն ձևը պահպանելու և ազնիվ փայլ հաղորդելու համար"
+      },
+      {
+        "q": "Սլաքներով տաբատի խնամքի բարդությունը",
+        "a": "Նշեք իտալական գործվածքի բարձր որակը: 3% էլաստանի և կարերի պրոֆեսիոնալ մշակման շնորհիվ սլաքները շատ ավելի երկար են պահպանում իրենց հստակությունը՝ պահանջելով միայն նվազագույն նուրբ խնամք"
+      },
+      {
+        "q": "Սև գույնը չափազանց կանխատեսելի է թվում",
+        "a": "Ընդգծեք, որ Luisa Spagnoli-ի Nero 0101-ն ունի խորություն և հագեցվածություն: Սա ակտիվ աքսեսուարների կամ բարդ ֆակտուրաների, ինչպիսիք են Lunetta ժանյակը, իդեալական ֆոն է"
+      },
+      {
+        "q": "Տաբատը վիսկոզայի պատճառով կարող է արագ կնճռոտվել",
+        "a": "Հավաստիացրեք հաճախորդին, որ Ortesi-ի բրդի և էլաստանի տեխնոլոգիական համադրությունը կանխում է գործվածքի ուժեղ դեֆորմացիան՝ թույլ տալով պահպանել հագուստի անթերի տեսքը ողջ երեկոյի ընթացքում"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Bikses šķiet pārāk formālas biežai lietošanai",
+        "a": "Demonstrējiet stilizācijas iespējas ar mīkstu trikotāžu vai zīda blūzi. Ortesi var kļūt par pamatu elegantam ikdienas tēlam, ja stingru žaketi nomaināt pret brīvāku augšdaļu."
+      },
+      {
+        "q": "Vilnas sastāvs var izraisīt ādas kairinājumu",
+        "a": "Paskaidrojiet, ka galvenā sastāvdaļa (83%) ir augstas kvalitātes viskoze, kas nodrošina materiāla zīdainumu un maigumu. Jaunvilna ir pievienota tikai formas saglabāšanai un cēlam spīdumam."
+      },
+      {
+        "q": "Grūtības kopt bikses ar ielocēm",
+        "a": "Norādiet uz augsto itāļu auduma kvalitāti. Pateicoties 3% elastāna un profesionālai šuvju apstrādei, ieloces saglabā savu asumu ievērojami ilgāk, prasot tikai minimālu un saudzīgu kopšanu."
+      },
+      {
+        "q": "Melnā krāsa izskatās pārāk paredzama",
+        "a": "Uzsveriet, ka Nero 0101 Luisa Spagnoli izpildījumā piemīt dziļums un piesātinātība. Tas ir ideāls fons aktīviem aksesuāriem vai sarežģītām faktūrām, piemēram, Lunetta mežģīnēm."
+      },
+      {
+        "q": "Bikses var ātri saburzīties viskozes dēļ",
+        "a": "Aplieciniet klientam, ka tehnoloģiskais vilnas un elastāna savienojums Ortesi sastāvā novērš spēcīgu auduma deformāciju, ļaujot saglabāt nevainojamu izstrādājuma izskatu visas dienas garumā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Kelnių modelis atrodo per daug oficialus kasdieniam dėvėjimui",
+        "a": "Pademonstruokite derinimo galimybes su švelniu trikotažu ar šilkine palaidine. Ortesi gali tapti elegantiško kasdienio įvaizdžio pagrindu, jei griežtą švarką pakeisite laisvesnio stiliaus viršutine dalimi."
+      },
+      {
+        "q": "Sudėtyje esanti vilna gali dirginti odą",
+        "a": "Paaiškinkite, kad pagrindinis komponentas (83%) – aukščiausios kokybės viskozė, kuri suteikia medžiagai šilkinį švelnumą. Natūrali vilna pridėta tik tam, kad būtų išlaikyta gaminio forma ir kilnus žvilgesys."
+      },
+      {
+        "q": "Sudėtinga priežiūra dėl kelnių su kantu",
+        "a": "Atkreipkite dėmesį į aukštą itališką audinio kokybę. Dėl 3% elastano ir profesionalaus siūlių apdirbimo, kantai išlieka ryškūs žymiai ilgiau, reikalaujant tik minimalios ir švelnios priežiūros."
+      },
+      {
+        "q": "Juoda spalva atrodo per daug nuspėjama",
+        "a": "Pabrėžkite, kad Luisa Spagnoli atliekama Nero 0101 spalva pasižymi gilumu ir sodrumu. Tai idealus fonas išraiškingiems aksesuarams ar sudėtingoms tekstūroms, tokioms kaip Lunetta nėriniai."
+      },
+      {
+        "q": "Kelnes dėl viskozės sudėties gali greitai susiglamžyti",
+        "a": "Patikinkite klientą, kad technologinis vilnos ir elastano derinys Ortesi sudėtyje apsaugo audinį nuo stiprios deformacijos, leisdamas išsaugoti nepriekaištingą gaminio išvaizdą viso vakaro metu."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Spodnie wydają się zbyt formalne do częstego użytku",
+        "a": "Zaprezentuj możliwości stylizacji z miękką dzianiną lub jedwabną bluzką. Ortesi mogą stać się podstawą eleganckiego codziennego wizerunku, jeśli zastąpimy surowy żakiet bardziej swobodną górą."
+      },
+      {
+        "q": "Wełna w składzie może powodować podrażnienia skóry",
+        "a": "Wyjaśnij, że głównym składnikiem (83%) jest wysokiej jakości wiskoza, która zapewnia jedwabistość i delikatność materiału. Wełna dziewicza została dodana jedynie w celu podtrzymania formy i nadania szlachetnego połysku."
+      },
+      {
+        "q": "Trudności w pielęgnacji spodni z zaprasowanym kantem",
+        "a": "Wskaż na wysoką włoską jakość tkaniny. Dzięki 3% zawartości elastanu i profesjonalnemu wykończeniu szwów, kancik zachowuje swoją ostrość znacznie dłużej, wymagając jedynie minimalnej, delikatnej pielęgnacji."
+      },
+      {
+        "q": "Czarny kolor wygląda zbyt przewidywalnie",
+        "a": "Podkreśl, że Nero 0101 w wydaniu Luisa Spagnoli posiada głębię i nasycenie. To idealne tło dla wyrazistych akcesoriów lub złożonych faktur, takich jak koronka Lunetta."
+      },
+      {
+        "q": "Spodnie mogą się szybko pognieść przez wiskozę",
+        "a": "Zapewnij klientkę, że technologiczne połączenie wełny i elastanu w składzie Ortesi zapobiega silnym odkształceniom tkaniny, pozwalając zachować nieskazitelny wygląd wyrobu przez cały wieczór."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Брюки здаються занадто формальними для частого використання",
+        "a": "Продемонструйте можливості стилізації з м’яким трикотажем або шовковою блузою. Ortesi можуть стати основою елегантного повсякденного образу, якщо замінити суворий жакет на більш розслаблений верх."
+      },
+      {
+        "q": "Вовна у складі може викликати подразнення шкіри",
+        "a": "Поясніть, що основний компонент (83%) — високоякісна віскоза, яка забезпечує шовковистість і ніжність матеріалу. Дівчача вовна додана лише для підтримки форми та благородного блиску."
+      },
+      {
+        "q": "Складність у догляді за брюками зі стрілками",
+        "a": "Вкажіть на високу італійську якість тканини. Завдяки 3% еластану та професійній обробці швів, стрілки зберігають свою чіткість значно довше, потребуючи лише мінімального делікатного догляду."
+      },
+      {
+        "q": "Чорний колір виглядає занадто передбачувано",
+        "a": "Підкресліть, що Nero 0101 у виконанні Luisa Spagnoli володіє глибиною та насиченістю. Це ідеальний фон для активних аксесуарів або складних фактур, таких як мереживо Lunetta."
+      },
+      {
+        "q": "Брюки можуть швидко пом’ятися через віскозу",
+        "a": "Запевніть клієнта, що технологічне поєднання вовни та еластану у складі Ortesi запобігає сильній деформації тканини, дозволяючи зберігати бездоганний вигляд виробу протягом усього вечора."
+      }
+    ]
+  }
+}

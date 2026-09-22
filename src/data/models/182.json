@@ -1,0 +1,245 @@
+{
+  "id": 182,
+  "name": "Miss A",
+  "description": {
+    "en": "Data not available in official sources",
+    "ru": "Данные отсутствуют в официальных источниках",
+    "ar": "لا توجد بيانات في المصادر الرسمية",
+    "ka": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+    "hy": "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+    "lv": "Dati nav pieejami oficiālajos avotos",
+    "lt": "Duomenų oficialiuose šaltiniuose nėra",
+    "pl": "Dane niedostępne w oficjalnych źródłach",
+    "uk": "Дані відсутні в офіційних джерелах"
+  },
+  "colors": [
+    {
+      "name": "Grigio",
+      "code": "0823",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2dc21c5b-1fcc-43b6-9629-a1216dc676fd-removebg-preview.png"
+    },
+    {
+      "name": "Marrone",
+      "code": "0970",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0288f1be-55d2-4088-90a1-daa5f789394d-removebg-preview%20%282%29.png"
+    },
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fc8bc7c0-361d-436a-b42a-528d0b863da9-removebg-preview.png"
+    },
+    {
+      "name": "Panna",
+      "code": "0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/6540a11f-09c4-462c-94e6-c107412a0e4e-removebg-preview.png"
+    },
+    {
+      "name": "Bordeaux",
+      "code": "2435",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2dc21c5b-1fcc-43b6-9629-a1216dc676fd-removebg-preview.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Look 107)",
+        "en": "Total Look (Look 107)",
+        "ar": "Total Look (Look 107)",
+        "ka": "Total Look (Look 107)",
+        "hy": "Total Look (Look 107)",
+        "lv": "Total Look (Look 107)",
+        "lt": "Total Look (Look 107)",
+        "pl": "Total Look (Look 107)",
+        "uk": "Total Look (Look 107)"
+      },
+      "text": {
+        "ru": "Элегантные перчатки Miss A 0101 в ансамбле с пальто Stenografo 0101, жакетом Meissa 0101, рубашкой Lindas 0202, юбкой Marsica 0101 и сумкой Ls1928p A 0101 0038.",
+        "en": "Elegant Miss A 0101 gloves in an ensemble with the Stenografo 0101 coat, Meissa 0101 jacket, Lindas 0202 shirt, Marsica 0101 skirt and Ls1928p A 0101 0038 bag.",
+        "ar": "Elegant Miss A 0101 gloves in an ensemble with the Stenografo 0101 coat, Meissa 0101 jacket, Lindas 0202 shirt, Marsica 0101 skirt and Ls1928p A 0101 0038 bag.",
+        "ka": "Elegant Miss A 0101 gloves in an ensemble with the Stenografo 0101 coat, Meissa 0101 jacket, Lindas 0202 shirt, Marsica 0101 skirt and Ls1928p A 0101 0038 bag.",
+        "hy": "Elegant Miss A 0101 gloves in an ensemble with the Stenografo 0101 coat, Meissa 0101 jacket, Lindas 0202 shirt, Marsica 0101 skirt and Ls1928p A 0101 0038 bag.",
+        "lv": "Elegant Miss A 0101 gloves in an ensemble with the Stenografo 0101 coat, Meissa 0101 jacket, Lindas 0202 shirt, Marsica 0101 skirt and Ls1928p A 0101 0038 bag.",
+        "lt": "Elegant Miss A 0101 gloves in an ensemble with the Stenografo 0101 coat, Meissa 0101 jacket, Lindas 0202 shirt, Marsica 0101 skirt and Ls1928p A 0101 0038 bag.",
+        "pl": "Elegant Miss A 0101 gloves in an ensemble with the Stenografo 0101 coat, Meissa 0101 jacket, Lindas 0202 shirt, Marsica 0101 skirt and Ls1928p A 0101 0038 bag.",
+        "uk": "Elegant Miss A 0101 gloves in an ensemble with the Stenografo 0101 coat, Meissa 0101 jacket, Lindas 0202 shirt, Marsica 0101 skirt and Ls1928p A 0101 0038 bag."
+      },
+      "items": [
+        {
+          "name": "Miss A",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fc8bc7c0-361d-436a-b42a-528d0b863da9-removebg-preview.png"
+        },
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Meissa",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/311852686691f15737dbf77_23321855_02790350XX1.jpg",
+          "modelId": 438
+        },
+        {
+          "name": "Lindas",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/957906673691f15644561f7_84414523_02780530XX1.jpg",
+          "modelId": 417
+        },
+        {
+          "name": "Marsica",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Ls1928p A",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Focus on the fabric: 100% merino wool (lana merino) guarantees ideal thermal regulation and softness, qualities especially prized when selecting winter knitwear.",
+      "Highlight the exclusivity of the embellishment: the hand-embroidered crystals transform the pullover into a unique wardrobe piece, capable of standing in for eveningwear with the right styling.",
+      "Point out the benefits of the cut: the godet effect at the waist creates a slimming, harmonious hourglass silhouette, gracefully concealing any figure imperfections."
+    ],
+    "ru": [
+      "Данные отсутствуют в официальных источниках",
+      "Данные отсутствуют в официальных источниках",
+      "Данные отсутствуют в официальных источниках"
+    ],
+    "ar": [
+      "البيانات غير متوفرة في المصادر الرسمية",
+      "البيانات غير متوفرة في المصادر الرسمية",
+      "البيانات غير متوفرة في المصادر الرسمية"
+    ],
+    "ka": [
+      "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+      "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+      "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+    ],
+    "hy": [
+      "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+      "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+      "Տվյալները պաշտոնական աղբյուրներում բացակայում են"
+    ],
+    "lv": [
+      "Dati nav pieejami oficiālajos avotos",
+      "Dati nav pieejami oficiālajos avotos",
+      "Dati nav pieejami oficiālajos avotos"
+    ],
+    "lt": [
+      "Duomenų oficialiuose šaltiniuose nėra",
+      "Duomenų oficialiuose šaltiniuose nėra",
+      "Duomenų oficialiuose šaltiniuose nėra"
+    ],
+    "pl": [
+      "Brak danych w oficjalnych źródłach",
+      "Brak danych w oficjalnych źródłach",
+      "Brak danych w oficjalnych źródłach"
+    ],
+    "uk": [
+      "Дані відсутні в офіційних джерелах",
+      "Дані відсутні в офіційних джерелах",
+      "Дані відсутні в офіційних джерелах"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      }
+    ],
+    "ru": [],
+    "ar": [
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      }
+    ],
+    "ka": [
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      },
+      {
+        "q": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში",
+        "a": "მონაცემები არ არის ხელმისაწვდომი ოფიციალურ წყაროებში"
+      }
+    ],
+    "hy": [],
+    "lv": [],
+    "lt": [
+      {
+        "q": "Duomenys oficialiuose šaltiniuose nepateikiami",
+        "a": "Duomenys oficialiuose šaltiniuose nepateikiami"
+      },
+      {
+        "q": "Duomenys oficialiuose šaltiniuose nepateikiami",
+        "a": "Duomenys oficialiuose šaltiniuose nepateikiami"
+      },
+      {
+        "q": "Duomenys oficialiuose šaltiniuose nepateikiami",
+        "a": "Duomenys oficialiuose šaltiniuose nepateikiami"
+      },
+      {
+        "q": "Duomenys oficialiuose šaltiniuose nepateikiami",
+        "a": "Duomenys oficialiuose šaltiniuose nepateikiami"
+      },
+      {
+        "q": "Duomenys oficialiuose šaltiniuose nepateikiami",
+        "a": "Duomenys oficialiuose šaltiniuose nepateikiami"
+      }
+    ],
+    "pl": [],
+    "uk": []
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "id": 173,
+  "name": "Met",
+  "description": {
+    "en": "An exquisite midi dress, crafted from the finest merino wool with a delicate ribbed texture. The flared, sun-ray skirt silhouette (gonna a ruota) embodies femininity and timeless elegance. The stand (\"lupetto\") collar is finished with an elegant fastening of signature LS heraldic buttons, serving as the key aristocratic accent. The long-sleeved model, with its impeccable Regular fit, ensures exceptional comfort and warmth for the winter season.",
+    "ru": "Изысканное платье-миди, выполненное из чистой мериносовой шерсти высшего качества с деликатной фактурой в рубчик. Силуэт с расклешенной юбкой-солнце (gonna a ruota) воплощает женственность и вневременную элегантность. Воротник-стойка (lupetto) дополнен изящной застежкой на фирменные геральдические пуговицы LS, которые служат ключевым аристократическим акцентом. Модель с длинными рукавами и безупречной посадкой Regular fit обеспечивает исключительный комфорт и тепло в зимний сезон.",
+    "ar": "فستان ميدي فاخر مصنوع من صوف الميرينو الخالص عالي الجودة مع ملمس مضلع رقيق. يجسد التصميم بخصر منسدل وتنورة واسعة (gonna a ruota) الأنوثة والأناقة الخالدة. يتميز الياقة العالية (lupetto) بإغلاق أنيق بأزرار LS الشعارية التي تضفي لمسة أرستقراطية بارزة. يوفر هذا الموديل بأكمام طويلة وقصة Regular fit راحة استثنائية ودفئاً مثالياً لموسم الشتاء.",
+    "ka": "დახვეწილი მიდი-კაბა, დამზადებული უმაღლესი ხარისხის სუფთა მერინოსის მატყლისგან, ნაზი, ნაქსოვი ტექსტურით. გაშლილი, მზისებრი ქვედაკაბის (gonna a ruota) სილუეტი ქალურობასა და მარადიულ ელეგანტურობას განასახიერებს. საყელო-სადგარი (lupetto) გაფორმებულია Luisa Spagnoli-ს დახვეწილი, გერბიანი ღილებით, რომლებიც არისტოკრატიულ აქცენტს ქმნის. მოდელი გრძელი სახელოებითა და უნაკლო Regular fit მორგებით ზამთრის სეზონზე უზრუნველყოფს განსაკუთრებულ კომფორტსა და სითბოს.",
+    "hy": "Նրբագեղ միդի-զգեստ՝ պատրաստված բարձրորակ մաքուր մերինոսի բրդից՝ նուրբ ակոսավոր հյուսվածքով։ Արև-փեշով (gonna a ruota) ուրվագիծը մարմնավորում է կանացիություն և հավերժական նրբագեղություն։ Կանգուն օձիքը (lupetto) համալրված է Luisa Spagnoli-ի ֆիրմային հերալդիկ կոճակներով, որոնք հանդիսանում են հիմնական արիստոկրատական շեշտադրումը։ Երկար թևերով և անթերի Regular fit ձևվածքով այս մոդելն ապահովում է բացառիկ հարմարավետություն և ջերմություն ձմեռային սեզոնին։",
+    "lv": "Izsmalcināta midi kleita, kas izgatavota no augstākās kvalitātes tīras merino vilnas ar smalku rievotu faktūru. Siluets ar platu saules griezuma svārku daļu (gonna a ruota) iemieso sievišķību un mūžīgu eleganci. Stāvapkakle (lupetto) ir papildināta ar elegantu aizdari, izmantojot firmas LS heraldikas pogas, kas kalpo kā galvenais aristokrātiskais akcents. Modelis ar garām piedurknēm un nevainojamu Regular fit piegriezumu nodrošina izcilu komfortu un siltumu ziemas sezonā.",
+    "lt": "Išskirtinė midi suknelė, pagaminta iš aukščiausios kokybės grynos merino vilnos su subtilia briaunota tekstūra. Siluetas su platėjančiu saulės kliošo sijonu (gonna a ruota) įkūnija moteriškumą ir nesenstančią eleganciją. Stačia apykaklė (lupetto) papildyta grakščiu užsegimu firminėmis herbinėmis LS sagomis, kurios tarnauja kaip pagrindinis aristokratiškas akcentas. Ilgomis rankovėmis ir nepriekaištingu Regular fit kirpimu pasižymintis modelis užtikrina išskirtinį komfortą ir šilumą žiemos sezonu.",
+    "pl": "Wykwintna sukienka midi wykonana z czystej wełny merino najwyższej jakości o delikatnej prążkowanej fakturze. Fason z rozkloszowaną spódnicą (gonna a ruota) ucieleśnia kobiecość i ponadczasową elegancję. Kołnierz typu stójka (lupetto) uzupełniony jest wyrafinowanym zapięciem na sygnowane heraldyczne guziki LS, które stanowią kluczowy arystokratyczny akcent. Model z długimi rękawami i nienagannym krojem Regular fit zapewnia wyjątkowy komfort i ciepło w sezonie zimowym.",
+    "uk": "Вишукана сукня-міді, виготовлена з чистої мериносової вовни найвищої якості з делікатною фактурою у рубчик. Силует із розкльошеною спідницею-сонце (gonna a ruota) втілює жіночність і позачасову елегантність. Комір-стійка (lupetto) доповнений витонченою застібкою на фірмові геральдичні ґудзики LS, які служать ключовим аристократичним акцентом. Модель з довгими рукавами та бездоганною посадкою Regular fit забезпечує винятковий комфорт і тепло у зимовий сезон."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/5d1b9dae-d867-4820-8892-b937bd127371-removebg-preview.png"
+    },
+    {
+      "name": "Tabacco",
+      "code": "2234",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JakQkAGhQh6-K43qoGM5eA_196022933696f436b684e64_02326623_02830800XX1.jpg"
+    },
+    {
+      "name": "Verde Militare",
+      "code": "1781",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MET_178100000000.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Look 182",
+        "en": "Look 182",
+        "ar": "Look 182",
+        "ka": "Look 182",
+        "hy": "Look 182",
+        "lv": "Look 182",
+        "lt": "Look 182",
+        "pl": "Look 182",
+        "uk": "Look 182"
+      },
+      "text": {
+        "ru": "Met 2234 в сочетании с шелковым платком Roboamo 3463, кожаными сапогами Ulisside 2240 и поясом Damiera 2209.",
+        "en": "Met 2234 combined with the Roboamo 3463 silk scarf, Ulisside 2240 leather boots and Damiera 2209 belt.",
+        "ar": "Met 2234 combined with the Roboamo 3463 silk scarf, Ulisside 2240 leather boots and Damiera 2209 belt.",
+        "ka": "Met 2234 combined with the Roboamo 3463 silk scarf, Ulisside 2240 leather boots and Damiera 2209 belt.",
+        "hy": "Met 2234 combined with the Roboamo 3463 silk scarf, Ulisside 2240 leather boots and Damiera 2209 belt.",
+        "lv": "Met 2234 combined with the Roboamo 3463 silk scarf, Ulisside 2240 leather boots and Damiera 2209 belt.",
+        "lt": "Met 2234 combined with the Roboamo 3463 silk scarf, Ulisside 2240 leather boots and Damiera 2209 belt.",
+        "pl": "Met 2234 combined with the Roboamo 3463 silk scarf, Ulisside 2240 leather boots and Damiera 2209 belt.",
+        "uk": "Met 2234 combined with the Roboamo 3463 silk scarf, Ulisside 2240 leather boots and Damiera 2209 belt."
+      },
+      "items": [
+        {
+          "name": "Met",
+          "code": "2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JakQkAGhQh6-K43qoGM5eA_196022933696f436b684e64_02326623_02830800XX1.jpg"
+        },
+        {
+          "name": "Roboamo",
+          "code": "3463",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Progetto%20senza%20titolo%20%281%29.png"
+        },
+        {
+          "name": "Ulisside",
+          "code": "2240",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg"
+        },
+        {
+          "name": "Damiera",
+          "code": "2209",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/jGKMA86_TiSwQ5CNcLElag_102451197696f420ec978f0_98197160_02800430XX1.jpg",
+          "modelId": 20
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 47",
+        "en": "Look 47",
+        "ar": "Look 47",
+        "ka": "Look 47",
+        "hy": "Look 47",
+        "lv": "Look 47",
+        "lt": "Look 47",
+        "pl": "Look 47",
+        "uk": "Look 47"
+      },
+      "text": {
+        "ru": "Met 1781 дополнен блузой Localita 0201, сумкой Iago 2240 и шляпой Renno 0930.",
+        "en": "Met 1781 complemented by the Localita 0201 blouse, Iago 2240 bag and Renno 0930 hat.",
+        "ar": "Met 1781 complemented by the Localita 0201 blouse, Iago 2240 bag and Renno 0930 hat.",
+        "ka": "Met 1781 complemented by the Localita 0201 blouse, Iago 2240 bag and Renno 0930 hat.",
+        "hy": "Met 1781 complemented by the Localita 0201 blouse, Iago 2240 bag and Renno 0930 hat.",
+        "lv": "Met 1781 complemented by the Localita 0201 blouse, Iago 2240 bag and Renno 0930 hat.",
+        "lt": "Met 1781 complemented by the Localita 0201 blouse, Iago 2240 bag and Renno 0930 hat.",
+        "pl": "Met 1781 complemented by the Localita 0201 blouse, Iago 2240 bag and Renno 0930 hat.",
+        "uk": "Met 1781 complemented by the Localita 0201 blouse, Iago 2240 bag and Renno 0930 hat."
+      },
+      "items": [
+        {
+          "name": "Met",
+          "code": "1781",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MET_178100000000.jpg"
+        },
+        {
+          "name": "Localita",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1407561629692424cfaef943_59921062_02781240XX1.jpg",
+          "modelId": 422
+        },
+        {
+          "name": "Iago",
+          "code": "2240",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 51",
+        "en": "Look 51",
+        "ar": "Look 51",
+        "ka": "Look 51",
+        "hy": "Look 51",
+        "lv": "Look 51",
+        "lt": "Look 51",
+        "pl": "Look 51",
+        "uk": "Look 51"
+      },
+      "text": {
+        "ru": "Met 2234 со стильным пальто Scolpito 0101 и сумкой Idilliaco A 0101.",
+        "en": "Met 2234 with a stylish Scolpito 0101 coat and Idilliaco A 0101 bag.",
+        "ar": "Met 2234 with a stylish Scolpito 0101 coat and Idilliaco A 0101 bag.",
+        "ka": "Met 2234 with a stylish Scolpito 0101 coat and Idilliaco A 0101 bag.",
+        "hy": "Met 2234 with a stylish Scolpito 0101 coat and Idilliaco A 0101 bag.",
+        "lv": "Met 2234 with a stylish Scolpito 0101 coat and Idilliaco A 0101 bag.",
+        "lt": "Met 2234 with a stylish Scolpito 0101 coat and Idilliaco A 0101 bag.",
+        "pl": "Met 2234 with a stylish Scolpito 0101 coat and Idilliaco A 0101 bag.",
+        "uk": "Met 2234 with a stylish Scolpito 0101 coat and Idilliaco A 0101 bag."
+      },
+      "items": [
+        {
+          "name": "Met",
+          "code": "2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JakQkAGhQh6-K43qoGM5eA_196022933696f436b684e64_02326623_02830800XX1.jpg"
+        },
+        {
+          "name": "Scolpito",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0091%20%282%29.jpg",
+          "modelId": 305
+        },
+        {
+          "name": "Idilliaco A",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_10100020000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Highlight the versatility of this buttonless design: it can be worn open as a light jacket, or cinched at the waist with a leather belt from the collection for a more structured silhouette.",
+      "Draw the client's attention to the composition: 85% natural wool provides warmth and softness, while the addition of acrylic ensures durability and helps the jacquard pattern retain its shape.",
+      "Recommend pairing with the Minia skirt in the same shade to create a flawless total look, which visually elongates the figure through the continuity of pattern."
+    ],
+    "ru": [
+      "Подчеркните состав: 100% мериносовая шерсть — это гарантия превосходной терморегуляции и мягкости, что крайне важно для премиального трикотажа.",
+      "Акцентируйте внимание на крое: юбка-солнце (gonna a ruota) в сочетании с воротником-стойкой создает баланс между строгостью и романтизмом, скрывая недостатки фигуры и подчеркивая талию.",
+      "Универсальность стилизации: платье идеально подходит как для делового офисного дресс-кода, так и для элегантного вечернего выхода при добавлении аксессуаров из кожи или шелка."
+    ],
+    "ar": [
+      "سلطي الضوء على التكوين: صوف الميرينو بنسبة 100% يضمن تنظيمًا حراريًا فائقًا ونعومة فائقة، وهو أمر بالغ الأهمية للتريكو الفاخر.",
+      "ركزي على القصة: تنورة الشمس (gonna a ruota) الممزوجة بياقة قائمة تخلق توازنًا بين الصرامة والرومانسية، مما يخفي عيوب القوام ويبرز الخصر.",
+      "تعددية التنسيق: الفستان مثالي لكل من أزياء المكتب الرسمية والمناسبات المسائية الأنيقة عند إضافة إكسسوارات من الجلد أو الحرير."
+    ],
+    "ka": [
+      "ხაზი გაუსვით შემადგენლობას: 100% მერინოსის მატყლი — ეს არის უმაღლესი თერმორეგულაციისა და სირბილის გარანტია, რაც უაღრესად მნიშვნელოვანია პრემიუმ კლასის ტრიკოტაჟისთვის.",
+      "გაამახვილეთ ყურადღება ჭრილზე: მზისებრი ქვედაკაბა (gonna a ruota) საყელო-სადგომთან ერთად ქმნის ბალანსს სიმკაცრესა და რომანტიზმს შორის, ფარავს ფიგურის ნაკლოვანებებს და ხაზს უსვამს წელს.",
+      "სტილიზაციის უნივერსალურობა: კაბა იდეალურად შეესაბამება როგორც საქმიანი ოფისის დრეს-კოდს, ისე ელეგანტურ საღამოს გასვლას ტყავის ან აბრეშუმის აქსესუარების დამატებით."
+    ],
+    "hy": [
+      "Ընդգծեք բաղադրությունը. 100% մերինոսի բուրդը հիանալի ջերմակարգավորման և փափկության երաշխիք է, ինչը չափազանց կարևոր է պրեմիում տրիկոտաժի համար։",
+      "Շեշտադրեք ձևվածքը. արևիկե կիսաշրջազգեստը (gonna a ruota) կանգնած օձիքի հետ համադրությամբ ստեղծում է հավասարակշռություն խստության և ռոմանտիկայի միջև՝ թաքցնելով կազմվածքի թերությունները և ընդգծելով գոտկատեղը։",
+      "Ոճավորման բազմակողմանիություն. զգեստը կատարյալ է ինչպես գործնական օֆիսային դրես-կոդի, այնպես էլ էլեգանտ երեկոյան ելքերի համար՝ կաշվե կամ մետաքսե աքսեսուարներով համադրելու դեպքում։"
+    ],
+    "lv": [
+      "Izceliet sastāvu: 100% merino vilna — tā ir izcilas termoregulācijas un maiguma garantija, kas ir ārkārtīgi svarīgi augstākās kvalitātes trikotāžai.",
+      "Akcentējiet piegriezumu: saules griezuma svārki (gonna a ruota) apvienojumā ar stāvapkakli rada līdzsvaru starp stingrību un romantiku, noslēpjot figūras nepilnības un izceļot vidukli.",
+      "Stilistiskā daudzpusība: kleita ir lieliski piemērota gan lietišķajam biroja dreskodam, gan elegantai vakara iziešanai, pievienojot ādas vai zīda aksesuārus."
+    ],
+    "lt": [
+      "Pabrėžkite sudėtį: 100% merino vilna – tai puikios termoreguliacijos ir švelnumo garantija, kas yra itin svarbu aukščiausios kokybės trikotažui.",
+      "Akcentuokite kirpimą: platėjantis sijonas (gonna a ruota) kartu su stačia apykakle sukuria balansą tarp griežtumo ir romantikos, paslėpdamas figūros trūkumus ir išryškindamas liemenį.",
+      "Stilizavimo universalumas: suknelė idealiai tinka tiek dalykiniam biuro aprangos kodui, tiek elegantiškam vakariniam išėjimui, priderinus odinius ar šilkinius aksesuarus."
+    ],
+    "pl": [
+      "Podkreśl skład: 100% wełna merynosowa to gwarancja doskonałej termoregulacji i miękkości, co jest niezwykle istotne w przypadku dzianin klasy premium.",
+      "Zwróć uwagę na krój: spódnica z koła (gonna a ruota) w połączeniu ze stójką tworzy równowagę między surowością a romantyzmem, maskując niedoskonałości sylwetki i podkreślając talię.",
+      "Uniwersalność stylizacji: sukienka idealnie sprawdza się zarówno w biznesowym dress codzie, jak i przy eleganckich wyjściach wieczorowych, jeśli uzupełnimy ją o akcesoria ze skóry lub jedwabiu."
+    ],
+    "uk": [
+      "Підкресліть склад: 100% мериносова вовна — це гарантія чудової терморегуляції та м'якості, що вкрай важливо для преміального трикотажу.",
+      "Акцентуйте увагу на крої: спідниця-сонце (gonna a ruota) у поєднанні з коміром-стійкою створює баланс між строгістю та романтизмом, приховуючи недоліки фігури та підкреслюючи талію.",
+      "Універсальність стилізації: сукня ідеально підходить як для ділового офісного дрес-коду, так і для елегантного вечірнього виходу при додаванні аксесуарів зі шкіри або шовку."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Wool may lose its shape after washing.",
+        "a": "Explain that the 'punto stoffa' (dense knit) construction is known for its structural stability. Recommend delicate care to preserve the skirt's elasticity and shape for years to come."
+      },
+      {
+        "q": "The stand collar may seem too closed.",
+        "a": "Point out the functional heraldic buttons, which allow the depth of the neckline to be adjusted and add a note of noble sophistication to the look."
+      },
+      {
+        "q": "The dress seems too heavy due to the volume of the skirt.",
+        "a": "Merino wool combines lightness with a high level of warmth. The volume of the skirt creates dynamic movement without weighing down the overall silhouette."
+      },
+      {
+        "q": "Knitwear may accentuate figure irregularities.",
+        "a": "This piece is crafted in a ribbed knit with a regular fit, which visually elongates the silhouette and conceals figure concerns, unlike a thin, smooth knit."
+      },
+      {
+        "q": "The colour is too classic.",
+        "a": "Nero, Tabacco, and Verde Militare form the foundation of 'quiet luxury.' Suggest enlivening the look with a contrasting silk scarf or a belt with gold-tone hardware from the LS collection."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шерсть может потерять форму после стирки",
+        "a": "Объясните, что вязка 'punto stoffa' (плотный трикотаж) отличается стабильностью структуры. Рекомендуйте деликатный уход, чтобы сохранить эластичность и форму юбки на долгие годы."
+      },
+      {
+        "q": "Воротник-стойка может казаться слишком закрытым",
+        "a": "Укажите на функциональные геральдические пуговицы, которые позволяют регулировать глубину выреза и добавляют образу благородный шик."
+      },
+      {
+        "q": "Платье кажется слишком тяжелым из-за объема юбки",
+        "a": "Мериносовая шерсть обладает легкостью при высоком уровне тепла. Объем юбки создает динамику в движении, не утяжеляя общий силуэт."
+      },
+      {
+        "q": "Трикотаж может подчеркивать неровности фигуры",
+        "a": "Данная модель выполнена в рубчик и имеет регулярную посадку, что визуально вытягивает силуэт и скрывает детали, в отличие от тонкого гладкого трикотажа."
+      },
+      {
+        "q": "Слишком классический цвет",
+        "a": "Цвета Nero, Tabacco и Verde Militare являются базой 'тихой роскоши'. Предложите оживить образ контрастным шелковым платком или ремнем с золотистой фурнитурой из коллекции LS."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تفقد الصوف هيئتها بعد الغسيل",
+        "a": "اشرحي أن حياكة 'punto stoffa' (التريكو الكثيف) تتميز باستقرار هيكلي. قومي بتوصية العناية الرقيقة للحفاظ على مرونة وقوام التنورة لسنوات طويلة."
+      },
+      {
+        "q": "الياقة العالية قد تبدو مغلقة جداً",
+        "a": "أشيري إلى الأزرار الشعارية الوظيفية التي تسمح بتعديل عمق الفتحة وتضفي على الإطلالة أناقة ملكية راقية."
+      },
+      {
+        "q": "الفستان يبدو ثقيلاً جداً بسبب حجم التنورة",
+        "a": "صوف الميرينو يتمتع بخفة الوزن مع مستوى عالٍ من الدفء. حجم التنورة يخلق ديناميكية أثناء الحركة دون إثقال الصورة العامة."
+      },
+      {
+        "q": "التريكو قد يبرز عيوب القوام",
+        "a": "هذا الموديل مصمم بنمط مضلع وقصة منتظمة، مما يطيل القوام بصرياً ويخفي التفاصيل، على عكس التريكو الناعم والرقيق."
+      },
+      {
+        "q": "لون كلاسيكي أكثر من اللازم",
+        "a": "ألوان Nero وTabacco وVerde Militare تعد أساساً لـ 'الرفاهية الهادئة'. اقترحي إحياء الإطلالة بوشاح حريري متباين أو حزام بإكسسوارات ذهبية من مجموعة LS."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მატყლი რეცხვის შემდეგ ფორმას არ კარგავს",
+        "a": "განუმარტეთ, რომ 'punto stoffa'-ს ნაქსოვი (მჭიდრო ტრიკოტაჟი) სტრუქტურული სტაბილურობით გამოირჩევა. რეკომენდაცია გაუწიეთ დელიკატურ მოვლას, რათა ქვედაბოლომ ელასტიკურობა და ფორმა მრავალი წლის განმავლობაში შეინარჩუნოს."
+      },
+      {
+        "q": "საყელო-სადგარი შეიძლება ზედმეტად დახურული მოგეჩვენოთ",
+        "a": "ყურადღება გაამახვილეთ ფუნქციურ ჰერალდიკურ ღილებზე, რომლებიც საშუალებას გაძლევთ დაარეგულიროთ დეკოლტეს სიღრმე და გამოსახულებას დახვეწილი შიკი შესძინოთ."
+      },
+      {
+        "q": "კაბა ქვედაბოლოს მოცულობის გამო ზედმეტად მძიმე გეჩვენებათ",
+        "a": "მერინოსის მატყლი სიმსუბუქითა და მაღალი თბოიზოლაციით გამოირჩევა. ქვედაბოლოს მოცულობა მოძრაობისას დინამიკას ქმნის, საერთო სილუეტის დამძიმების გარეშე."
+      },
+      {
+        "q": "ტრიკოტაჟმა შეიძლება ფიგურის ნაკლოვანებები გამოკვეთოს",
+        "a": "ეს მოდელი შესრულებულია რეზინის ქსოვით და აქვს რეგულარული ჭრა, რაც ვიზუალურად აგრძელებს სილუეტს და მალავს დეტალებს, განსხვავებით თხელი გლუვი ტრიკოტაჟისგან."
+      },
+      {
+        "q": "ზედმეტად კლასიკური ფერი",
+        "a": "Nero, Tabacco და Verde Militare ფერები 'მდუმარე ფუფუნების' საფუძველს წარმოადგენს. შესთავაზეთ გამოსახულების გამოცოცხლება კონტრასტული აბრეშუმის შარფით ან ოქროსფერი ფურნიტურის მქონე ქამრით LS-ის კოლექციიდან."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բուրդը լվացքից հետո կարող է կորցնել ձևը",
+        "a": "Բացատրեք, որ 'punto stoffa' (խիտ տրիկոտաժ) հյուսվածքը տարբերվում է կառուցվածքային կայունությամբ: Առաջարկեք նուրբ խնամք՝ կիսաշրջազգեստի առաձգականությունը և ձևը երկար տարիներ պահպանելու համար"
+      },
+      {
+        "q": "Օձիք-կանգնակը կարող է շատ փակ թվալ",
+        "a": "Նշեք ֆունկցիոնալ հերալդիկ կոճակների մասին, որոնք թույլ են տալիս կարգավորել բացվածքի խորությունը և կերպարին հաղորդում են ազնվական շքեղություն"
+      },
+      {
+        "q": "Զգեստը ծանր է թվում կիսաշրջազգեստի ծավալի պատճառով",
+        "a": "Մերինոսի բուրդն օժտված է թեթևությամբ՝ բարձր ջերմային հատկություններով: Կիսաշրջազգեստի ծավալը շարժման մեջ դինամիկա է ստեղծում՝ առանց ընդհանուր ուրվագիծը ծանրացնելու"
+      },
+      {
+        "q": "Տրիկոտաժը կարող է ընդգծել կազմվածքի անհարթությունները",
+        "a": "Այս մոդելը պատրաստված է ռիբ հյուսվածքով և ունի կանոնավոր ձևվածք, ինչը տեսողականորեն երկարացնում է ուրվագիծը և թաքցնում է թերությունները, ի տարբերություն բարակ հարթ տրիկոտաժի"
+      },
+      {
+        "q": "Չափազանց դասական գույն",
+        "a": "Nero, Tabacco և Verde Militare գույները հանդիսանում են 'լուռ շքեղության' հիմքը: Առաջարկեք կերպարը թարմացնել կոնտրաստային մետաքսյա շարֆով կամ LS հավաքածուի ոսկեգույն ֆուրնիտուրայով գոտիով"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vilna pēc mazgāšanas var zaudēt formu",
+        "a": "Paskaidrojiet, ka 'punto stoffa' adījums (blīva trikotāža) izceļas ar struktūras stabilitāti. Iesakiet saudzīgu kopšanu, lai saglabātu svārku elastību un formu daudzu gadu garumā."
+      },
+      {
+        "q": "Stāvapkakle var šķist pārāk slēgta",
+        "a": "Norādiet uz funkcionālajām heraldikas stila pogām, kas ļauj regulēt izgriezuma dziļumu un piešķir tēlam cēlu šiku."
+      },
+      {
+        "q": "Kleita šķiet pārāk smaga svārku apjoma dēļ",
+        "a": "Merino vilnai piemīt vieglums un augsts siltuma līmenis. Svārku apjoms rada dinamiku kustībā, nepadarot smagāku kopējo siluetu."
+      },
+      {
+        "q": "Trikotāža var izcelt figūras nepilnības",
+        "a": "Šis modelis ir darināts rievotā adījumā un tam ir regulārs piegriezums, kas vizuāli pagarina siluetu un noslēpj nianses, atšķirībā no plānas, gludas trikotāžas."
+      },
+      {
+        "q": "Pārāk klasiska krāsa",
+        "a": "Nero, Tabacco un Verde Militare krāsas ir 'klusās greznības' bāze. Iesakiet atdzīvināt tēlu ar kontrastējošu zīda lakatu vai jostu ar zeltītu furnitūru no LS kolekcijas."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Vilna gali prarasti formą po skalbimo",
+        "a": "Paaiškinkite, kad „punto stoffa“ (tankus trikotažas) mezgimas pasižymi struktūros stabilumu. Rekomenduokite delikatią priežiūrą, kad sijonas išlaikytų elastingumą ir formą ilgus metus."
+      },
+      {
+        "q": "Stovinčios apykaklės modelis gali atrodyti per daug uždaras",
+        "a": "Atkreipkite dėmesį į funkcionalias heraldines sagas, kurios leidžia reguliuoti iškirptės gylį ir suteikia įvaizdžiui kilnaus žavesio."
+      },
+      {
+        "q": "Suknelė atrodo per sunki dėl sijono apimties",
+        "a": "Merino vilna pasižymi lengvumu ir puikiomis šiluminėmis savybėmis. Sijono apimtis sukuria dinamiką judesyje, neapsunkindama bendro silueto."
+      },
+      {
+        "q": "Trikotažas gali išryškinti figūros nelygumus",
+        "a": "Šis modelis yra megztas briaunelėmis ir pasižymi reguliariu sukirpimu, kuris vizualiai ištęsia siluetą ir paslepia detales, skirtingai nei plonas lygus trikotažas."
+      },
+      {
+        "q": "Per daug klasikinė spalva",
+        "a": "Spalvos Nero, Tabacco ir Verde Militare yra „tyliosios prabangos“ pagrindas. Pasiūlykite pagyvinti įvaizdį kontrastinga šilkine skarele arba diržu su auksine furnitūra iš LS kolekcijos."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wełna może stracić formę po praniu",
+        "a": "Wyjaśnij, że dzianina 'punto stoffa' (gęsty splot) wyróżnia się stabilnością struktury. Rekomenduj delikatną pielęgnację, aby zachować elastyczność i formę spódnicy na długie lata."
+      },
+      {
+        "q": "Kołnierzyk typu stójka może wydawać się zbyt zabudowany",
+        "a": "Wskaż na funkcjonalne, heraldyczne guziki, które pozwalają regulować głębokość dekoltu i dodają stylizacji szlachetnego szyku."
+      },
+      {
+        "q": "Sukienka wydaje się zbyt ciężka przez objętość spódnicy",
+        "a": "Wełna merynosowa charakteryzuje się lekkością przy zachowaniu wysokiego poziomu ciepła. Objętość spódnicy tworzy dynamikę w ruchu, nie obciążając przy tym sylwetki."
+      },
+      {
+        "q": "Dzianina może podkreślać nierówności figury",
+        "a": "Model ten wykonany jest w prążek i posiada regularny krój, co optycznie wysmukla sylwetkę i maskuje detale, w przeciwieństwie do cienkiej, gładkiej dzianiny."
+      },
+      {
+        "q": "Zbyt klasyczny kolor",
+        "a": "Kolory Nero, Tabacco oraz Verde Militare stanowią bazę 'cichego luksusu'. Zaproponuj ożywienie stylizacji kontrastową jedwabną apaszką lub paskiem ze złotymi okuciami z kolekcji LS."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Вовна може втратити форму після прання",
+        "a": "Поясніть, що в'язка 'punto stoffa' (щільний трикотаж) відрізняється стабільністю структури. Рекомендуйте делікатний догляд, щоб зберегти еластичність і форму спідниці на довгі роки."
+      },
+      {
+        "q": "Комір-стійка може здаватися занадто закритим",
+        "a": "Вкажіть на функціональні геральдичні ґудзики, які дозволяють регулювати глибину вирізу та додають образу благородний шик."
+      },
+      {
+        "q": "Сукня здається занадто важкою через об'єм спідниці",
+        "a": "Мериносова вовна має легкість при високому рівні тепла. Об'єм спідниці створює динаміку в русі, не обтяжуючи загальний силует."
+      },
+      {
+        "q": "Трикотаж може підкреслювати нерівності фігури",
+        "a": "Дана модель виконана в рубчик і має регулярну посадку, що візуально витягує силует і приховує деталі, на відміну від тонкого гладкого трикотажу."
+      },
+      {
+        "q": "Занадто класичний колір",
+        "a": "Кольори Nero, Tabacco і Verde Militare є базою 'тихої розкоші'. Запропонуйте оживити образ контрастною шовковою хусткою або ременем із золотистою фурнітурою з колекції LS."
+      }
+    ]
+  }
+}

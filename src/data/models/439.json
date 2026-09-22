@@ -1,0 +1,429 @@
+{
+  "id": 439,
+  "name": "Meltina",
+  "description": {
+    "en": "The Meltina jacket is a masterful embodiment of contemporary classicism rendered in knitwear, created for the true connoisseurs of Luisa Spagnoli's Italian quality. The cropped piece is crafted from pure virgin wool (pura lana vergine) using an intricate punto stoffa weave technique, which lends the piece a noble density and flawless shape retention. The piece's architecture is underscored by an elegant round neckline (collo rotondo) and functional patch pockets. The principal status-defining accent is a double-breasted closure with the signature heraldic LS buttons, transforming an understated jacket into a work of tailoring artistry. Thanks to the Regular fit, the piece delivers a sense of soft luxury without restricting movement.",
+    "ru": "Жакет Meltina --- это виртуозное воплощение современной классики в трикотажном исполнении, созданное для истинных ценителей итальянского качества Luisa Spagnoli. Укороченная модель (cropped) выполнена из чистой девственной шерсти (pura lana vergine) в технике сложного переплетения punto stoffa, которое обеспечивает изделию благородную плотность и безупречную формоустойчивость. Архитектура изделия подчеркнута элегантным круглым вырезом (collo rotondo) и функциональными накладными карманами. Главным статусным акцентом выступает двубортная застежка с фирменными геральдическими пуговицами LS, превращающая лаконичный жакет в произведение портновского искусства. Благодаря регулярной посадке (vestibilità regular), модель дарит ощущение мягкой роскоши, не стесняя движений.",
+    "ar": "سترة Meltina هي تجسيد بارع للكلاسيكيات المعاصرة في قالب تريكو، صُممت لمحبي الجودة الإيطالية الحقيقية لدى Luisa Spagnoli. هذا الموديل القصير (cropped) مصنوع من صوف بكر خالص (pura lana vergine) بتقنية النسيج المعقد punto stoffa، مما يوفر للقطعة كثافة نبيلة وثباتاً مثالياً في الشكل. تبرز هندسة القطعة بياقة دائرية أنيقة (collo rotondo) وجيوب عملية خارجية. وتتمثل اللمسة الأنيقة الرئيسية في الإغلاق المزدوج بأزرار شعار LS، مما يحول السترة البسيطة إلى قطعة فنية من أعمال الخياطة. بفضل المقاس المنتظم (vestibilità regular)، تمنح القطعة شعوراً بالفخامة الناعمة دون تقييد الحركة.",
+    "ka": "ჟაკეტი Meltina — ეს არის თანამედროვე კლასიკის ვირტუოზული განსახიერება ტრიკოტაჟულ შესრულებაში, შექმნილი Luisa Spagnoli-ის იტალიური ხარისხის ნამდვილი მცოდნეებისთვის. დამოკლებული მოდელი (cropped) დამზადებულია სუფთა ქალწულებრივი მატყლისგან (pura lana vergine) რთული წნულების ტექნიკით punto stoffa, რაც ნაკეთობას უზრუნველყოფს კეთილშობილი სიმკვრივითა და უნაკლო ფორმამედეგობით. ნაკეთობის არქიტექტურა ხაზგასმულია ელეგანტური მრგვალი ყელით (collo rotondo) და ფუნქციური ზედნადები ჯიბეებით. მთავარ სტატუსურ აქცენტად გვევლინება ორბორტიანი შესაკრავი ბრენდული ჰერალდიკური LS ღილებით, რაც ლაკონურ ჟაკეტს აქცევს მკერავის ხელოვნების ნიმუშად. რეგულარული მორგების (vestibilità regular) წყალობით, მოდელი ანიჭებს რბილი ფუფუნების შეგრძნებას მოძრაობის შეზღუდვის გარეშე.",
+    "hy": "Meltina ժակետը տրիկոտաժային կատարմամբ ժամանակակից դասականի վիրտուոզ մարմնացում է, որը ստեղծվել է Luisa Spagnoli-ի իտալական որակի իսկական գնահատողների համար։ Կարճացված մոդելը (cropped) պատրաստված է մաքուր կուսական բրդից (pura lana vergine)՝ բարդ punto stoffa հյուսվածքի տեխնիկայով, որն ապահովում է իրին ազնվական խտություն և անթերի ձևակայունություն։ Իրի ճարտարապետությունն ընդգծված է էլեգանտ կլոր բացվածքով (collo rotondo) և ֆունկցիոնալ վրադիր գրպաններով։ Գլխավոր կարգավիճակային շեշտադրումը LS ֆիրմային հերալդիկ կոճակներով կրկնակի ճարմանդն է, որը լակոնիկ ժակետը վերածում է դերձակային արվեստի գործի։ Շնորհիվ կանոնավոր նստվածքի (vestibilità regular), մոդելը փափուկ շքեղության զգացողություն է պարգևում՝ չկաշկանդելով շարժումները։",
+    "lv": "Žakete Meltina — tas ir mūsdienu klasikas virtuoza iemiesojums trikotāžas izpildījumā, kas radīts īstiem Luisa Spagnoli itāļu kvalitātes cienītājiem. Saīsinātais modelis (cropped) ir izgatavots no tīras jaunvilnas (pura lana vergine) sarežģītā punto stoffa pinuma tehnikā, kas nodrošina izstrādājumam cēlu blīvumu un nevainojamu formas noturību. Izstrādājuma arhitektūru izceļ elegants apaļš kakla izgriezums (collo rotondo) un funkcionālas uzšūtas kabatas. Galvenais statusa akcents ir divrindu aizdare ar zīmola LS heraldikas pogām, kas pārvērš lakonisko žaketi par drēbnieka mākslas darbu. Pateicoties regulāram piegriezumam (vestibilità regular), modelis sniedz maiga luksusa sajūtu, neierobežojot kustības.",
+    "lt": "Švarkas Meltina --- tai meistriškas šiuolaikinės klasikos įgyvendinimas trikotaže, sukurtas tikriems itališkos Luisa Spagnoli kokybės gerbėjams. Trumpintas modelis (cropped) pasiūtas iš gryno pirminio vilnos pluošto (pura lana vergine), naudojant sudėtingą punto stoffa pynimo techniką, kuri užtikrina gaminiui kilnų tankį ir nepriekaištingą formos išlaikymą. Gaminio architektūrą pabrėžia elegantiška apvali iškirptė (collo rotondo) ir funkcionalios uždėtinės kišenės. Pagrindiniu statuso akcentu tampa dvieilis užsegimas su firminėmis LS heraldinėmis sagomis, paverčiantis lakonišką švarką siuvimo meno kūriniu. Dėl reguliaraus sukirpimo (vestibilità regular), modelis suteikia švelnios prabangos pojūtį, nevaržydamas judesių.",
+    "pl": "Żakiet Meltina to mistrzowskie ucieleśnienie nowoczesnej klasyki w dzianinowym wydaniu, stworzone dla prawdziwych koneserów włoskiej jakości Luisa Spagnoli. Skrócony model (cropped) wykonany jest z czystej dziewiczej wełny (pura lana vergine) w technice złożonego splotu punto stoffa, który zapewnia wyrobowi szlachetną gęstość i nienaganne zachowanie formy. Architektura modelu podkreślona jest eleganckim okrągłym dekoltem (collo rotondo) oraz funkcjonalnymi naszywanymi kieszeniami. Głównym prestiżowym akcentem jest dwurzędowe zapięcie z firmowymi heraldycznymi guzikami LS, przekształcające lakoniczny żakiet w dzieło sztuki krawieckiej. Dzięki regularnemu krojowi (vestibilità regular), model zapewnia uczucie miękkiego luksusu, nie krępując ruchów.",
+    "uk": "Жакет Meltina --- это виртуозное воплощение современной классики в трикотажном исполнении, созданное для истинных ценителей итальянского качества Luisa Spagnoli. Укороченная модель (cropped) выполнена из чистой девственной шерсти (pura lana vergine) в технике сложного переплетения punto stoffa, которое обеспечивает изделию благородную плотность и безупречную формоустойчивость. Архитектура изделия подчеркнута элегантным круглым вырезом (collo rotondo) и функциональными накладными карманами. Главным статусным акцентом выступает двубортная застежка с фирменными геральдическими пуговицами LS, превращающая лаконичный жакет в произведение портновского искусства. Благодаря регулярной посадке (vestibilità regular), модель дарит ощущение мягкой роскоши, не стесняя движений."
+  },
+  "colors": [
+    {
+      "name": "Bordeaux",
+      "code": "2439",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1197999749691f1574dbd530_20416087_02790380XX1.jpg"
+    },
+    {
+      "name": "Nero Cammello",
+      "code": "0101 2246",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1275497118691f1574379f96_26559022_02790370XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда демонстрируют исключительный потенциал жакета Meltina для создания многослойных и костюмных образов: Вариант 2439: В lookbook (Look 26): каноническое костюмное прочтение с трикотажными брюками в тон Modine 2439.",
+        "en": "The brand's stylists demonstrate the exceptional potential of the Meltina jacket for creating layered and suit-style looks: Variant 2439: In the lookbook (Look 26): a canonical suit-style interpretation with matching Modine 2439 knit trousers.",
+        "ar": "The brand's stylists demonstrate the exceptional potential of the Meltina jacket for creating layered and suit-style looks: Variant 2439: In the lookbook (Look 26): a canonical suit-style interpretation with matching Modine 2439 knit trousers.",
+        "ka": "The brand's stylists demonstrate the exceptional potential of the Meltina jacket for creating layered and suit-style looks: Variant 2439: In the lookbook (Look 26): a canonical suit-style interpretation with matching Modine 2439 knit trousers.",
+        "hy": "The brand's stylists demonstrate the exceptional potential of the Meltina jacket for creating layered and suit-style looks: Variant 2439: In the lookbook (Look 26): a canonical suit-style interpretation with matching Modine 2439 knit trousers.",
+        "lv": "The brand's stylists demonstrate the exceptional potential of the Meltina jacket for creating layered and suit-style looks: Variant 2439: In the lookbook (Look 26): a canonical suit-style interpretation with matching Modine 2439 knit trousers.",
+        "lt": "The brand's stylists demonstrate the exceptional potential of the Meltina jacket for creating layered and suit-style looks: Variant 2439: In the lookbook (Look 26): a canonical suit-style interpretation with matching Modine 2439 knit trousers.",
+        "pl": "The brand's stylists demonstrate the exceptional potential of the Meltina jacket for creating layered and suit-style looks: Variant 2439: In the lookbook (Look 26): a canonical suit-style interpretation with matching Modine 2439 knit trousers.",
+        "uk": "The brand's stylists demonstrate the exceptional potential of the Meltina jacket for creating layered and suit-style looks: Variant 2439: In the lookbook (Look 26): a canonical suit-style interpretation with matching Modine 2439 knit trousers."
+      },
+      "items": [
+        {
+          "name": "Modine",
+          "code": "2439",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1894289842692424e57f36f5_04380624_02790570XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 2439",
+        "en": "In displays (Vetrina 108, Bambola 2)",
+        "ar": "In displays (Vetrina 108, Bambola 2)",
+        "ka": "In displays (Vetrina 108, Bambola 2)",
+        "hy": "In displays (Vetrina 108, Bambola 2)",
+        "lv": "In displays (Vetrina 108, Bambola 2)",
+        "lt": "In displays (Vetrina 108, Bambola 2)",
+        "pl": "In displays (Vetrina 108, Bambola 2)",
+        "uk": "In displays (Vetrina 108, Bambola 2)"
+      },
+      "text": {
+        "ru": "На витринах (Vetrina 108, Bambola 2): элегантный городской ансамбль с белой поплиновой рубашкой Loriana 0201 и классическими черными брюками Odini 0101.",
+        "en": "an elegant urban ensemble with a white Loriana 0201 poplin shirt and classic black Odini 0101 trousers. Variant 0101 2246:",
+        "ar": "an elegant urban ensemble with a white Loriana 0201 poplin shirt and classic black Odini 0101 trousers. Variant 0101 2246:",
+        "ka": "an elegant urban ensemble with a white Loriana 0201 poplin shirt and classic black Odini 0101 trousers. Variant 0101 2246:",
+        "hy": "an elegant urban ensemble with a white Loriana 0201 poplin shirt and classic black Odini 0101 trousers. Variant 0101 2246:",
+        "lv": "an elegant urban ensemble with a white Loriana 0201 poplin shirt and classic black Odini 0101 trousers. Variant 0101 2246:",
+        "lt": "an elegant urban ensemble with a white Loriana 0201 poplin shirt and classic black Odini 0101 trousers. Variant 0101 2246:",
+        "pl": "an elegant urban ensemble with a white Loriana 0201 poplin shirt and classic black Odini 0101 trousers. Variant 0101 2246:",
+        "uk": "an elegant urban ensemble with a white Loriana 0201 poplin shirt and classic black Odini 0101 trousers. Variant 0101 2246:"
+      },
+      "items": [
+        {
+          "name": "Loriana",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg",
+          "modelId": 425
+        },
+        {
+          "name": "Odini",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg",
+          "modelId": 451
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 0101 2246",
+        "en": "In the lookbook (Look 69)",
+        "ar": "In the lookbook (Look 69)",
+        "ka": "In the lookbook (Look 69)",
+        "hy": "In the lookbook (Look 69)",
+        "lv": "In the lookbook (Look 69)",
+        "lt": "In the lookbook (Look 69)",
+        "pl": "In the lookbook (Look 69)",
+        "uk": "In the lookbook (Look 69)"
+      },
+      "text": {
+        "ru": "В lookbook (Look 69): интеллектуальное сочетание с фактурными брюками из чистой шерсти в «елочку» Optare 3326.",
+        "en": "an intellectual combination with textured pure wool \"herringbone\" Optare 3326 trousers.",
+        "ar": "an intellectual combination with textured pure wool \"herringbone\" Optare 3326 trousers.",
+        "ka": "an intellectual combination with textured pure wool \"herringbone\" Optare 3326 trousers.",
+        "hy": "an intellectual combination with textured pure wool \"herringbone\" Optare 3326 trousers.",
+        "lv": "an intellectual combination with textured pure wool \"herringbone\" Optare 3326 trousers.",
+        "lt": "an intellectual combination with textured pure wool \"herringbone\" Optare 3326 trousers.",
+        "pl": "an intellectual combination with textured pure wool \"herringbone\" Optare 3326 trousers.",
+        "uk": "an intellectual combination with textured pure wool \"herringbone\" Optare 3326 trousers."
+      },
+      "items": [
+        {
+          "name": "Optare",
+          "code": "3326",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1697710587691f1560afa628_65630327_02780070XX1.jpg",
+          "modelId": 463
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 0101 2246",
+        "en": "In displays (Vetrina 16, Bambola 2)",
+        "ar": "In displays (Vetrina 16, Bambola 2)",
+        "ka": "In displays (Vetrina 16, Bambola 2)",
+        "hy": "In displays (Vetrina 16, Bambola 2)",
+        "lv": "In displays (Vetrina 16, Bambola 2)",
+        "lt": "In displays (Vetrina 16, Bambola 2)",
+        "pl": "In displays (Vetrina 16, Bambola 2)",
+        "uk": "In displays (Vetrina 16, Bambola 2)"
+      },
+      "text": {
+        "ru": "На витринах (Vetrina 16, Bambola 2): подиумный многослойный образ --- жакет надет поверх пуловера Manos 0101 в паре с юбкой с принтом «селлерия» Foligno 3402 под защитой объемной мантельи Rivolo 3278.",
+        "en": "a runway-ready layered look --- the jacket is worn over a Manos 0101 pullover paired with a \"selleria\"-printed Foligno 3402 skirt under the protection of an oversized Rivolo 3278 mantle.",
+        "ar": "a runway-ready layered look --- the jacket is worn over a Manos 0101 pullover paired with a \"selleria\"-printed Foligno 3402 skirt under the protection of an oversized Rivolo 3278 mantle.",
+        "ka": "a runway-ready layered look --- the jacket is worn over a Manos 0101 pullover paired with a \"selleria\"-printed Foligno 3402 skirt under the protection of an oversized Rivolo 3278 mantle.",
+        "hy": "a runway-ready layered look --- the jacket is worn over a Manos 0101 pullover paired with a \"selleria\"-printed Foligno 3402 skirt under the protection of an oversized Rivolo 3278 mantle.",
+        "lv": "a runway-ready layered look --- the jacket is worn over a Manos 0101 pullover paired with a \"selleria\"-printed Foligno 3402 skirt under the protection of an oversized Rivolo 3278 mantle.",
+        "lt": "a runway-ready layered look --- the jacket is worn over a Manos 0101 pullover paired with a \"selleria\"-printed Foligno 3402 skirt under the protection of an oversized Rivolo 3278 mantle.",
+        "pl": "a runway-ready layered look --- the jacket is worn over a Manos 0101 pullover paired with a \"selleria\"-printed Foligno 3402 skirt under the protection of an oversized Rivolo 3278 mantle.",
+        "uk": "a runway-ready layered look --- the jacket is worn over a Manos 0101 pullover paired with a \"selleria\"-printed Foligno 3402 skirt under the protection of an oversized Rivolo 3278 mantle."
+      },
+      "items": [
+        {
+          "name": "Manos",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Foligno",
+          "code": "3402",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1489537710692424cad2ff96_85622943_02781090XX1.jpg",
+          "modelId": 393
+        },
+        {
+          "name": "Rivolo",
+          "code": "3278",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1314012229691c57e6740925_61753167_02800350XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- A textile 'Hybrid': Direct the client's attention to the punto stoffa knit. Explain that the Meltina jacket combines the formality of a tailored blazer with the unparalleled comfort of premium knitwear, without losing its shape over time. - Mastery of t"
+    ],
+    "ru": [
+      "- Текстильный «Гибрид»: Акцентируйте внимание клиента на вязке punto stoffa. Объясните, что жакет Meltina объединяет в себе строгость костюмного блейзера и непревзойденный комфорт премиального трикотажа, не теряя формы со временем. - Мастерство вертикали:"
+    ],
+    "ar": [
+      "- \"الهجين\" النسيجي: وجهي انتباه العميل إلى حياكة punto stoffa. اشرحي أن سترة Meltina تجمع بين صرامة البليزر الرسمي وراحة التريكو الفاخرة التي لا تفقد شكلها بمرور الوقت. - إتقان الخطوط العمودية: أكدي أن القصة القصيرة مع الإغلاق مزدوج الصدر والخصر العالي لل"
+    ],
+    "ka": [
+      "- „ტექსტილის ჰიბრიდი“: ყურადღება გაამახვილეთ კლიენტის ყურადღება punto stoffa-ს ქსოვაზე. აუხსენით, რომ Meltina-ს პიჯაკი აერთიანებს კოსტიუმის ბლეიზერის სიმკაცრესა და პრემიალური ტრიკოტაჟისთვის დამახასიათებელ შეუდარებელ კომფორტს, რაც დროთა განმავლობაში ფორმას"
+    ],
+    "hy": [
+      "- Տեքստիլ «Հիբրիդ». շեշտադրեք հաճախորդի ուշադրությունը punto stoffa հյուսվածքի վրա: Բացատրեք, որ Meltina ժակետը միավորում է կոստյումային բլեյզերի խստությունն ու պրեմիում տրիկոտաժի անգերազանցելի հարմարավետությունը՝ ժամանակի ընթացքում ձևը չկորցնելով: - Ուղղ"
+    ],
+    "lv": [
+      "- Tekstila «Hibrīds»: Akcentējiet klienta uzmanību uz punto stoffa adījumu. Paskaidrojiet, ka Meltina žakete apvieno sevī kostīma bleizera stingrību un nepārspējamu premium klases trikotāžas komfortu, ar laiku nezaudējot formu. - Vertikāles meistarība: Uz"
+    ],
+    "lt": [
+      "- Tekstūrinis hibridas: Atkreipkite kliento dėmesį į punto stoffa mezgimą. Paaiškinkite, kad Meltina švarkas sujungia kostiuminio švarko griežtumą ir neprilygstamą aukščiausios kokybės trikotažo komfortą, laikui bėgant neprarandant formos. - Vertikalės meistriškumas: Pabrėžkite, kad trumpintas kirpimas kartu su dvieile užsegimo sistema ir aukštu kelnių liemeniu (Modine 2439 arba Odini 0101) vizualiai ilgina siluetą, suteikdamas jam grakštumo ir modernumo. - Investicija į „Pura Lana“: Akcentuokite 100% pura lana vergine naudojimą. Šis pirmojo kirpimo pluoštas garantuoja idealų mikroklimatą ir nepriekaištingą gaminio išvaizdą daugelį sezonų."
+    ],
+    "pl": [
+      "- Tekstylny „Hybryd”: Skup uwagę klientki na splocie punto stoffa. Wyjaśnij, że żakiet Meltina łączy w sobie surowość garniturowego blezera i niezrównany komfort dzianiny premium, nie tracąc z czasem swojego kształtu. - Mistrzostwo pionu: Podkreśl, że skr"
+    ],
+    "uk": [
+      "- Текстильний «Гібрид»: Акцентуйте увагу клієнта на в’язці punto stoffa. Поясніть, що жакет Meltina поєднує в собі суворість костюмного блейзера та неперевершений комфорт преміального трикотажу, не втрачаючи форми з часом. - Майстерність вертикалі: Підкре"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "cropped Explain that the jacket is specifically designed length might add to be worn with high-waisted bottoms. This bulk» \"opens up\" the waist, creating the right proportions and an elongating leg effect. «The knit jacket Point out the density of the punto stoffa knit will stretch out (Milano jersey). This is one of the most stable quickly» weaves, preventing distortion at the elbows and preserving the crispness of the shoulder line. «The double- On the contrary, thanks to the softness of the breasted cut wool yarn, the Meltina jacket fits the body seems too bulky» precisely (vestibilità regular), without adding unwanted volume, unlike stiff suiting fabrics. «The crest-style Emphasize that this is a jewelry-like accent buttons are too that eliminates the need for an additional flashy» necklace. LS's signature hardware is a marker of \"Quiet Luxury\" style and the brand's aristocratic heritage. «It's hard to find Showcase Vetrina 108: the jacket sits perfectly a top to wear over the basic Loriana 0201 shirt, while it can under the jacket» also be worn on its own over lingerie as a top for an evening look"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Укороченная длина",
+        "a": "Поясните, что жакет спроектирован специально для может полнить ношения с поясными изделиями на высокой талии. Это."
+      },
+      {
+        "q": "открывает",
+        "a": "талию, создавая правильные пропорции и эффект длинных ног."
+      },
+      {
+        "q": "Трикотажный жакет",
+        "a": "Укажите на плотность вязки punto stoffa быстро вытянется (миланское джерси). Это одно из самых стабильных переплетений, которое предотвращает деформацию локтей и сохраняет четкость плечевой линии."
+      },
+      {
+        "q": "Двубортный крой Напротив, благодаря мягкости шерстяной нити, жакет кажется слишком Meltina садится точно по фигуре (vestibilità громоздким",
+        "a": "regular), не создавая лишнего объема, в отличие от жестких костюмных тканей."
+      },
+      {
+        "q": "Геральдические",
+        "a": "Подчеркните, что это ювелирный акцент, который пуговицы слишком позволяет обойтись без дополнительных колье. яркие Фирменная фурнитура LS — маркер стиля."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "и аристократичного наследия бренда."
+      },
+      {
+        "q": "Сложно подобрать",
+        "a": "Продемонстрируйте Vetrina 108: жакет идеально верх под жакет ложится поверх базовой рубашки Loriana 0201, при этом его можно носить и как самостоятельный топ на белье для вечернего выхода."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الطول القصير قد يظهرني بمظهر ممتلئ",
+        "a": "وضح أن السترة مصممة خصيصاً للارتداء مع القطع ذات الخصر العالي. هذا."
+      },
+      {
+        "q": "يبرز",
+        "a": "الخصر ويخلق تناسباً مثالياً مع إيحاء بطول الساقين."
+      },
+      {
+        "q": "سترة التريكو ستتمدد بسرعة",
+        "a": "أشر إلى كثافة حياكة punto stoffa (قماش ميلانو جيرسي). إنها واحدة من أكثر أنواع الحياكة ثباتاً، مما يمنع تشوه منطقة المرفقين ويحافظ على دقة خط الكتف."
+      },
+      {
+        "q": "التصميم ذو الصدر المزدوج يبدو ضخماً جداً",
+        "a": "على العكس، بفضل نعومة خيوط الصوف، تأتي سترة Meltina بمقاس مضبوط (vestibilità regular)، دون إضافة حجم زائد، على عكس أقمشة البدلات القاسية."
+      },
+      {
+        "q": "الأزرار ذات الشعار تبدو مبهرجة جداً",
+        "a": "أكد أن هذه لمسة مجوهرات تغني عن الحاجة لقلادات إضافية. الإكسسوارات المميزة لعلامة LS هي رمز لأسلوب."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "والإرث الأرستقراطي للعلامة التجارية."
+      },
+      {
+        "q": "من الصعب اختيار قطعة علوية تحت السترة",
+        "a": "استعرض Vetrina 108: تبدو السترة مثالية فوق قميص Loriana 0201 الأساسي، كما يمكن ارتداؤها كقطعة علوية مستقلة مع ملابس داخلية لإطلالة مسائية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "შემოკლებულმა სიგრძემ შეიძლება დაასუქოს",
+        "a": "განმარტეთ, რომ პიჯაკი სპეციალურად არის დაპროექტებული მაღალწელიან სამოსთან სატარებლად. ეს."
+      },
+      {
+        "q": "ხსნის“ წელს, ქმნის სწორ პროპორციებსა და გრძელი ფეხების ეფექტს. «ნაქსოვი პიჯაკი სწრაფად გაიწელება",
+        "a": "მიუთითეთ punto stoffa-ს (მილანური ჯერსი) ქსოვის სიმკვრივეზე. ეს არის ერთ-ერთი ყველაზე სტაბილური ქსოვა, რომელიც ხელს უშლის იდაყვების დეფორმაციას და ინარჩუნებს მხრების მკვეთრ ხაზს."
+      },
+      {
+        "q": "ორბორტიანი დიზაინი ზედმეტად მოცულობითი ჩანს",
+        "a": "პირიქით, მატყლის ძაფის სირბილის წყალობით, Meltina ზუსტად ერგება ფიგურას (vestibilità regular) და არ ქმნის ზედმეტ მოცულობას, განსხვავებით ხისტი კოსტიუმის ქსოვილებისგან."
+      },
+      {
+        "q": "ჰერალდიკური ღილები ზედმეტად კაშკაშაა",
+        "a": "ხაზგასმით აღნიშნეთ, რომ ეს საიუველირო აქცენტია, რომელიც საშუალებას გაძლევთ არ გამოიყენოთ დამატებითი ყელსაბამი. ბრენდის საფირმო LS ფურნიტურა."
+      },
+      {
+        "q": "Quiet Luxury“-ს სტილისა და ბრენდის არისტოკრატული მემკვიდრეობის მარკერია. «ძნელია პიჯაკის ქვეშ ზედას შერჩევა",
+        "a": "წარმოაჩინეთ Vetrina 108: პიჯაკი იდეალურად ერგება საბაზისო პერანგს Loriana 0201, ამავდროულად, მისი ტარება შესაძლებელია როგორც დამოუკიდებელი ტოპი თეთრეულზე საღამოს გასასვლელად."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կարճացված երկարությունը կարող է գիրացնել",
+        "a": "Բացատրեք, որ բաճկոնը նախագծված է հատուկ բարձր գոտկատեղով հագուստների հետ կրելու համար: Սա."
+      },
+      {
+        "q": "բացում է",
+        "a": "գոտկատեղը՝ ստեղծելով ճիշտ համաչափություններ և երկար ոտքերի էֆեկտ."
+      },
+      {
+        "q": "Տրիկոտաժե բաճկոնը արագ կձգվի",
+        "a": "Մատնանշեք punto stoffa (միլանյան ջերսի) հյուսվածքի խտությունը: Սա ամենակայուն հյուսվածքներից է, որը կանխում է արմունկների դեֆորմացիան և պահպանում ուսագծի հստակությունը."
+      },
+      {
+        "q": "Կրկնակի կոճկվող կտրվածքը կարող է չափազանց ծանր թվալ",
+        "a": "Ընդհակառակը, բրդյա թելի փափկության շնորհիվ, Meltina-ն նստում է հենց կազմվածքի վրա (vestibilità regular)՝ առանց ավելորդ ծավալ ստեղծելու, ի տարբերություն կոշտ կոստյումային կտորների."
+      },
+      {
+        "q": "Զինանշանային կոճակները չափազանց վառ են",
+        "a": "Ընդգծեք, որ սա ոսկերչական շեշտադրում է, որը թույլ է տալիս հրաժարվել լրացուցիչ վզնոցներից: LS ֆիրմային աքսեսուարները."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "ոճի և ապրանքանիշի արիստոկրատ ժառանգության նշան են."
+      },
+      {
+        "q": "Դժվար է բաճկոնի տակ հագուստ ընտրելը",
+        "a": "Ցուցադրեք Vetrina 108-ը. բաճկոնը հիանալի նստում է Loriana 0201 հիմնական վերնաշապիկի վրա, միևնույն ժամանակ այն կարելի է կրել որպես ինքնուրույն տոպ՝ սպիտակեղենի վրայից, երեկոյան ելքերի համար."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Saīsināts garums",
+        "a": "Paskaidrojiet, ka žakete projektēta īpaši valkāšanai var padarīt pilnīgāku ar jostasvietas izstrādājumiem ar augstu jostasvietu. Tas."
+      },
+      {
+        "q": "atver",
+        "a": "vidukli, radot pareizas proporcijas un garu kāju efektu."
+      },
+      {
+        "q": "Trikotāžas žakete",
+        "a": "Norādiet uz punto stoffa adījuma blīvumu (milānas ātri izstiepsies džērsijs). Tas ir viens no visstabilākajiem pinumiem, kas novērš elkoņu deformāciju un saglabā plecu līnijas skaidrību."
+      },
+      {
+        "q": "Divrindu piegriezums Turpretī, pateicoties vilnas diega mīkstumam, Meltina šķiet pārāk apjomīgs",
+        "a": "žakete pieguļ precīzi augumam (vestibilità regular), neradot lieku apjomu, atšķirībā no stingriem uzvalku audumiem."
+      },
+      {
+        "q": "Heraldiskās pogas",
+        "a": "Uzsveriet, ka tas ir juvelierizstrādājumu akcents, kas pārāk spilgtas ļauj iztikt bez papildu kaklarotām. Firmas LS furnitūra — ir."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "stila un zīmola aristokrātiskā mantojuma marķieris."
+      },
+      {
+        "q": "Grūti piemeklēt",
+        "a": "Demonstrējiet Vetrina 108: žakete lieliski gulstas virs augšdaļu zem žaketes bāzes krekla Loriana 0201, turklāt to var valkāt arī kā patstāvīgu topu uz veļas vakara iznācienam."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikimui: „Trumpintas ilgis gali storinti",
+        "a": "Paaiškinkite, kad švarkas suprojektuotas specialiai dėvėjimui su aukšto liemens drabužiais. Tai „atveria“ liemenį, sukurdamas taisyklingas proporcijas ir ilgų kojų efektą. , kad švarkas suprojektuotas specialiai dėvėjimui su aukšto liemens drabužiais. Tai „atveria“ liemenį, sukurdamas taisyklingas proporcijas ir ilgų kojų efektą."
+      },
+      {
+        "q": "„Trikotažinis švarkas greitai išsitampys",
+        "a": "Nurodykite punto stoffa (milano džersio) mezgimo tankį. Tai vienas stabiliausių pynimų, kuris apsaugo nuo alkūnių deformacijos ir išlaiko pečių linijos aiškumą. „Dvigubas sukirpimas atrodo per griozdiškai“ Priešingai, dėl vilnos siūlo minkštumo, Meltina švarkas guli tiksliai pagal figūrą (vestibilità regular), nesukurdamas papildomos apimties, skirtingai nuo standžių kostiuminių audinių. punto stoffa (milano džersio) mezgimo tankį. Tai vienas stabiliausių pynimų, kuris apsaugo nuo alkūnių deformacijos ir išlaiko pečių linijos aiškumą. „Dvigubas sukirpimas atrodo per griozdiškai“ Priešingai, dėl vilnos siūlo minkštumo, Meltina švarkas guli tiksliai pagal figūrą (vestibilità regular), nesukurdamas papildomos apimties, skirtingai nuo standžių kostiuminių audinių."
+      },
+      {
+        "q": "„Heraldinės sagos per ryškios",
+        "a": "Pabrėžkite, kad tai juvelyrinis akcentas, leidžiantis apsieiti be papildomų vėrinių. Firminė LS furnitūra yra „Quiet Luxury“ stiliaus ir aristokratiško prekės ženklo palikimo ženklas. , kad tai juvelyrinis akcentas, leidžiantis apsieiti be papildomų vėrinių. Firminė LS furnitūra yra „Quiet Luxury“ stiliaus ir aristokratiško prekės ženklo palikimo ženklas."
+      },
+      {
+        "q": "„Sunku priderinti viršų prie švarko",
+        "a": "Pademonstruokite Vetrina 108: švarkas idealiai tinka ant bazinių Loriana 0201 marškinių, kartu jį galima nešioti ir kaip savarankišką topą ant apatinio trikotažo vakariniam išėjimui."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Skrócona długość może pogrubiać",
+        "a": "Wyjaśnij, że żakiet został zaprojektowany specjalnie do noszenia z ubraniami z wysokim stanem. To."
+      },
+      {
+        "q": "otwiera",
+        "a": "talię, tworząc właściwe proporcje i efekt długich nóg."
+      },
+      {
+        "q": "Dzianinowy żakiet szybko się rozciągnie",
+        "a": "Wskaż na gęstość splotu punto stoffa (dżersej mediolański). To jeden z najbardziej stabilnych splotów, który zapobiega deformacji łokci i zachowuje wyrazistość linii ramion."
+      },
+      {
+        "q": "Dwurzędowy krój wydaje się zbyt masywny",
+        "a": "Wręcz przeciwnie, dzięki miękkości wełnianej nici, Meltina układa się dokładnie na figurze (vestibilità regular), nie tworząc zbędnej objętości, w przeciwieństwie do sztywnych tkanin kostiumowych."
+      },
+      {
+        "q": "Heraldyczne guziki są zbyt jaskrawe",
+        "a": "Podkreśl, że to jubilerski akcent, który pozwala obejść się bez dodatkowych naszyjników. Firmowe okucia LS to wyznacznik stylu."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "i arystokratycznego dziedzictwa marki."
+      },
+      {
+        "q": "Trudno dobrać górę pod żakiet",
+        "a": "Zaprezentuj Vetrina 108: żakiet idealnie układa się na bazowej koszuli Loriana 0201, przy czym można go nosić także jako samodzielny top na bieliznę na wieczorne wyjście."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Укорочена довжина",
+        "a": "Поясніть, що жакет спроєктований спеціально для може повнити носіння з поясними виробами на високій талії. Це."
+      },
+      {
+        "q": "відкриває",
+        "a": "талію, створюючи правильні пропорції та ефект довгих ніг."
+      },
+      {
+        "q": "Трикотажний жакет",
+        "a": "Вкажіть на щільність в’язки punto stoffa швидко витягнеться (міланське джерсі). Це одне з найбільш стабільних переплетень, яке запобігає деформації ліктів і зберігає чіткість плечової лінії."
+      },
+      {
+        "q": "Двобортний крій Навпаки, завдяки м'якості вовняної нитки, жакет здається надто Meltina сідає точно по фігурі (vestibilità громіздким",
+        "a": "regular), не створюючи зайвого об'єму, на відміну від жорстких костюмних тканин."
+      },
+      {
+        "q": "Геральдичні",
+        "a": "Підкресліть, що це ювелірний акцент, який ґудзики надто дозволяє обійтися без додаткових кольє. яскраві Фірмова фурнітура LS — маркер стилю."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "та аристократичної спадщини бренду."
+      },
+      {
+        "q": "Складно підібрати",
+        "a": "Продемонструйте Vetrina 108: жакет ідеально верх під жакет лягає поверх базової сорочки Loriana 0201, при цьому його можна носити і як самостійний топ на білизну для вечірнього виходу."
+      }
+    ]
+  }
+}

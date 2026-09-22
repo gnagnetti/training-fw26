@@ -1,0 +1,376 @@
+{
+  "id": 131,
+  "name": "Mabels",
+  "description": {
+    "en": "The elegant Mabels pullover is the embodiment of refined comfort and contemporary Italian style. The model is crafted from dense, high-quality 100% virgin wool using the \"punto stoffa\" technique, guaranteeing impeccable shape retention and a noble texture. A high turtleneck and classic ribbed pattern lend the look an aristocratic air, while a distinctive detail »” open slits at the sleeves, embellished with signature gold-tone LS buttons »” imparts runway chic and allows for the perfect placement of jewellery accents.",
+    "ru": "Элегантный пуловер Mabels — это воплощение изысканного комфорта и современного итальянского стиля. Модель выполнена из плотной высококачественной 100% девственной шерсти в технике «punto stoffa», что гарантирует безупречное сохранение формы и благородную фактуру. Высокий воротник-гольф и классический узор в рубчик подчеркивают аристократизм образа, в то время как уникальная деталь — открытые разрезы на рукавах, украшенные фирменными золотистыми пуговицами LS — придает модели подиумный шик и позволяет расставить правильные ювелирные акценты.",
+    "ar": "بلوفر Mabels الأنيق هو تجسيد للراحة الفائقة والأسلوب الإيطالي الحديث. صُنع الموديل من صوف بكر عالي الجودة بنسبة 100% بتقنية «punto stoffa»، مما يضمن الحفاظ على الشكل المثالي والملمس الفاخر. تؤكد الياقة العالية (غولف) والنمط الكلاسيكي المضلع على أرستقراطية الإطلالة، في حين أن التفصيل الفريد المتمثل في الفتحات المكشوفة على الأكمام، والمزينة بأزرار LS الذهبية المميزة، يمنح الموديل طابعاً استعراضياً ويسمح بإضافة لمسات مجوهرات متناغمة.",
+    "ka": "ელეგანტური პულოვერი Mabels — ეს არის დახვეწილი კომფორტისა და თანამედროვე იტალიური სტილის განსახიერება. მოდელი დამზადებულია მაღალი ხარისხის 100% ქალწული მატყლისგან „punto stoffa“-ს ტექნიკით, რაც უზრუნველყოფს ფორმის უნაკლო შენარჩუნებას და კეთილშობილ ფაქტურას. მაღალი გოლფის საყელო და კლასიკური ნაქსოვი ნიმუში ხაზს უსვამს იმიჯის არისტოკრატიზმს, ხოლო უნიკალური დეტალი — სახელოებზე არსებული ღია ჭრილები, გაფორმებული საფირმო ოქროსფერი LS ღილებით — მოდელს ანიჭებს პოდიუმის შიკს და საშუალებას იძლევა გაკეთდეს სწორი იუველირული აქცენტები.",
+    "hy": "Mabels էլեգանտ պուլովերը նրբագեղ հարմարավետության և ժամանակակից իտալական ոճի մարմնացումն է։ Մոդելը պատրաստված է բարձրորակ 100% կուսական բրդից՝ «punto stoffa» տեխնիկայով, ինչը երաշխավորում է ձևի անթերի պահպանումը և ազնվական հյուսվածքը։ Բարձր օձիքը և դասական ռիբ-նախշը ընդգծում են կերպարի ազնվականությունը, մինչդեռ յուրահատուկ դետալը՝ թևերի վրայի բացվածքները, որոնք զարդարված են ֆիրմային ոսկեգույն LS կոճակներով, մոդելին հաղորդում են պոդիումային շիկ և թույլ են տալիս ճիշտ ոսկերչական շեշտադրումներ կատարել։",
+    "lv": "Elegants pulovers *Mabels* ir izsmalcināta komforta un mūsdienīga itāļu stila iemiesojums. Modelis darināts no blīvas, augstvērtīgas 100% tīras vilnas (*virgin wool*) īpašā *punto stoffa* adījuma tehnikā, kas garantē nevainojamu formas noturību un cēlu tekstūru.\nAugstā *golf* tipa apkakle un klasiskais rievotais raksts piešķir tēlam aristokrātisku akcentu, savukārt unikālā detaļa — atvērtie šķēlumi uz piedurknēm, ko rotā zīmola zelta krāsas *LS* pogas —, piešķir modelim modes skates šiku un ļauj gaumīgi izcelt rotaslietas.",
+    "lt": "Elegantiškas megztinis Mabels — tai rafinuoto patogumo ir šiuolaikinio itališko stiliaus įsikūnijimas. Modelis pagamintas iš tankios aukštos kokybės 100% pirminės vilnos naudojant „punto stoffa“ techniką, kuri garantuoja nepriekaištingą formos išlaikymą ir taurią tekstūrą. Aukšta apykaklė ir klasikinis briaunuotas raštas pabrėžia įvaizdžio aristokratiškumą, o unikali detalė — atviri skeltukai ant rankovių, papuošti firminėmis auksinėmis LS sagomis — suteikia modeliui podiumo prašmatnumo ir leidžia sudėlioti tinkamus juvelyrinius akcentus.",
+    "pl": "Elegancki sweter Mabels to ucieleśnienie wyrafinowanego komfortu i współczesnego włoskiego stylu. Model wykonany jest z grubej, wysokiej jakości 100% żywej wełny w technice „punto stoffa”, co gwarantuje nienaganne zachowanie formy i szlachetną fakturę. Wysoki golf i klasyczny prążkowany wzór podkreślają arystokratyczny charakter stylizacji, podczas gdy unikalny detal — rozcięcia na rękawach zdobione firmowymi złotymi guzikami LS — nadaje modelowi wybiegowy szyk i pozwala na wyeksponowanie biżuteryjnych akcentów.",
+    "uk": "Елегантний пуловер Mabels — це втілення вишуканого комфорту та сучасного італійського стилю. Модель виконана зі щільної високоякісної 100% вовни virgin wool у техніці «punto stoffa», що гарантує бездоганне збереження форми та благородну фактуру. Високий комір-гольф і класичний візерунок у рубчик підкреслюють аристократизм образу, тоді як унікальна деталь — відкриті розрізи на рукавах, прикрашені фірмовими золотистими ґудзиками LS — надає моделі подіумного шику та дозволяє розставити правильні ювелірні акценти."
+  },
+  "colors": [
+    {
+      "name": "Blu",
+      "code": "1270",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Oa1OALUhQTKc0szFpGj60A_1620258802696f435edcff88_75280408_02830350XX1.jpg"
+    },
+    {
+      "name": "Bordeaux",
+      "code": "2435",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Intellectual blue)",
+        "ar": "Look 1 (Intellectual blue)",
+        "ka": "Look 1 (Intellectual blue)",
+        "hy": "Look 1 (Intellectual blue)",
+        "lv": "Look 1 (Intellectual blue)",
+        "lt": "Look 1 (Intellectual blue)",
+        "pl": "Look 1 (Intellectual blue)",
+        "uk": "Look 1 (Intellectual blue)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Интеллектуальный синий): Пуловер Mabels 1270 в сочетании с широкими брюками Ontani 1262 и кожаными ботильонами Urbana 0981. Завершают ансамбль брошь Nolanite A 0002 и серьги Nagorno 0002.",
+        "en": "The Mabels 1270 pullover combined with wide-leg Ontani 1262 trousers and Urbana 0981 leather ankle boots. The ensemble is completed by the Nolanite A 0002 brooch and the Nagorno 0002 earrings.",
+        "ar": "The Mabels 1270 pullover combined with wide-leg Ontani 1262 trousers and Urbana 0981 leather ankle boots. The ensemble is completed by the Nolanite A 0002 brooch and the Nagorno 0002 earrings.",
+        "ka": "The Mabels 1270 pullover combined with wide-leg Ontani 1262 trousers and Urbana 0981 leather ankle boots. The ensemble is completed by the Nolanite A 0002 brooch and the Nagorno 0002 earrings.",
+        "hy": "The Mabels 1270 pullover combined with wide-leg Ontani 1262 trousers and Urbana 0981 leather ankle boots. The ensemble is completed by the Nolanite A 0002 brooch and the Nagorno 0002 earrings.",
+        "lv": "The Mabels 1270 pullover combined with wide-leg Ontani 1262 trousers and Urbana 0981 leather ankle boots. The ensemble is completed by the Nolanite A 0002 brooch and the Nagorno 0002 earrings.",
+        "lt": "The Mabels 1270 pullover combined with wide-leg Ontani 1262 trousers and Urbana 0981 leather ankle boots. The ensemble is completed by the Nolanite A 0002 brooch and the Nagorno 0002 earrings.",
+        "pl": "The Mabels 1270 pullover combined with wide-leg Ontani 1262 trousers and Urbana 0981 leather ankle boots. The ensemble is completed by the Nolanite A 0002 brooch and the Nagorno 0002 earrings.",
+        "uk": "The Mabels 1270 pullover combined with wide-leg Ontani 1262 trousers and Urbana 0981 leather ankle boots. The ensemble is completed by the Nolanite A 0002 brooch and the Nagorno 0002 earrings."
+      },
+      "items": [
+        {
+          "name": "Mabels",
+          "code": "1270",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Oa1OALUhQTKc0szFpGj60A_1620258802696f435edcff88_75280408_02830350XX1.jpg"
+        },
+        {
+          "name": "Ontani",
+          "code": "1262",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Hby2QBOFTFG-bN-jqmGYeg_671233607696f42e9b32a60_97200211_02820700XX1.jpg",
+          "modelId": 256
+        },
+        {
+          "name": "Urbana",
+          "code": "0981",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7BoHBVbqTtCtxociDR_4dQ_2049283379696f42280ae740_09477040_02801350XX1.jpg"
+        },
+        {
+          "name": "Nolanite A",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NOLANITE_200000000.jpg"
+        },
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG",
+          "modelId": 198
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Noble bordeaux)",
+        "ar": "Look 2 (Noble bordeaux)",
+        "ka": "Look 2 (Noble bordeaux)",
+        "hy": "Look 2 (Noble bordeaux)",
+        "lv": "Look 2 (Noble bordeaux)",
+        "lt": "Look 2 (Noble bordeaux)",
+        "pl": "Look 2 (Noble bordeaux)",
+        "uk": "Look 2 (Noble bordeaux)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Благородный бордо): Пуловер Mabels 2435 с брюками Modine B 2435 ( Данные об URL отсутствуют в официальных источниках) и статусными сапогами Ustica A 2450. Акцент образа — колье Nuevitas 0002 0001.",
+        "en": "The Mabels 2435 pullover with Modine B 2435 trousers ( URL data not available in official sources) and sophisticated Ustica A 2450 boots. The highlight of the look is the Nuevitas 0002 0001 necklace.",
+        "ar": "The Mabels 2435 pullover with Modine B 2435 trousers ( URL data not available in official sources) and sophisticated Ustica A 2450 boots. The highlight of the look is the Nuevitas 0002 0001 necklace.",
+        "ka": "The Mabels 2435 pullover with Modine B 2435 trousers ( URL data not available in official sources) and sophisticated Ustica A 2450 boots. The highlight of the look is the Nuevitas 0002 0001 necklace.",
+        "hy": "The Mabels 2435 pullover with Modine B 2435 trousers ( URL data not available in official sources) and sophisticated Ustica A 2450 boots. The highlight of the look is the Nuevitas 0002 0001 necklace.",
+        "lv": "The Mabels 2435 pullover with Modine B 2435 trousers ( URL data not available in official sources) and sophisticated Ustica A 2450 boots. The highlight of the look is the Nuevitas 0002 0001 necklace.",
+        "lt": "The Mabels 2435 pullover with Modine B 2435 trousers ( URL data not available in official sources) and sophisticated Ustica A 2450 boots. The highlight of the look is the Nuevitas 0002 0001 necklace.",
+        "pl": "The Mabels 2435 pullover with Modine B 2435 trousers ( URL data not available in official sources) and sophisticated Ustica A 2450 boots. The highlight of the look is the Nuevitas 0002 0001 necklace.",
+        "uk": "The Mabels 2435 pullover with Modine B 2435 trousers ( URL data not available in official sources) and sophisticated Ustica A 2450 boots. The highlight of the look is the Nuevitas 0002 0001 necklace."
+      },
+      "items": [
+        {
+          "name": "Mabels",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg"
+        },
+        {
+          "name": "Modine B",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1894289842692424e57f36f5_04380624_02790570XX1.jpg"
+        },
+        {
+          "name": "Ustica A",
+          "code": "2450",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_245000000000.jpg"
+        },
+        {
+          "name": "Nuevitas",
+          "code": "0002 0001",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e39e2515-7056-4e2f-8a1c-57aeb3a2cca5-removebg-preview.png",
+          "modelId": 234
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the distinctive sleeve construction with gold buttons — a ready-made styling embellishment that underscores the piece's status.",
+      "Highlight the thermoregulating properties of 100% virgin wool: the dense knit provides warmth without excess bulk, while preserving an impeccable fit to the figure.",
+      "Recommend Mabels as the ideal foundational piece for building layered outfits with our parkas, such as the Strumento."
+    ],
+    "ru": [
+      "Обратите внимание клиента на уникальную конструкцию рукава с золотистыми пуговицами — это готовое стилистическое украшение, которое подчеркивает статусность модели.",
+      "Подчеркните терморегулирующие свойства 100% девственной шерсти: плотная вязка обеспечивает тепло без лишнего объема, сохраняя безупречную посадку по фигуре.",
+      "Рекомендуйте Mabels как идеальный базовый элемент для создания многослойных аутфитов с нашими парками, например, Strumento 1206."
+    ],
+    "ar": [
+      "لفتي انتباه العميل إلى التصميم الفريد للأكمام مع الأزرار الذهبية؛ فهو زينة أسلوبية جاهزة تؤكد على رقي الموديل.",
+      "أكدي على الخصائص الحرارية لصوف العذراء النقي بنسبة 100%: فالنسيج الكثيف يوفر الدفء دون إضافة حجم غير مرغوب فيه، مع الحفاظ على قوام مثالي على الجسم.",
+      "انصحي بـ Mabels كقطعة أساسية مثالية لابتكار إطلالات متعددة الطبقات مع ستراتنا (الباركا)، على سبيل المثال Strumento 1206."
+    ],
+    "ka": [
+      "მიაქციეთ კლიენტის ყურადღება ოქროსფერი ღილებით გაფორმებულ მკლავის უნიკალურ კონსტრუქციას — ეს არის მზა სტილისტური სამკაული, რომელიც მოდელის სტატუსს უსვამს ხაზს.",
+      "ხაზი გაუსვით 100% ქალწულებრივი მატყლის თერმორეგულაციურ თვისებებს: მჭიდრო ქსოვა უზრუნველყოფს სითბოს ზედმეტი მოცულობის გარეშე, რაც ტანსაცმელს სხეულზე იდეალურად ჯდომის საშუალებას აძლევს.",
+      "რეკომენდაცია გაუწიეთ Mabels-ს, როგორც იდეალურ საბაზისო ელემენტს ჩვენს პარკებთან, მაგალითად Strumento 1206, მრავალფენიანი აუთფიტების შესაქმნელად."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք ոսկեգույն կոճակներով թևքի եզակի կառուցվածքի վրա՝ սա պատրաստի ոճային զարդարանք է, որն ընդգծում է մոդելի կարգավիճակը:",
+      "Ընդգծեք 100% կուսական բրդի ջերմակարգավորող հատկությունները. խիտ գործվածքը ապահովում է ջերմություն առանց ավելորդ ծավալի՝ պահպանելով մարմնի վրա անթերի նստվածքը:",
+      "Առաջարկեք Mabels-ը որպես իդեալական բազային տարր՝ մեր պարկերի հետ շերտավոր աութֆիթներ ստեղծելու համար, օրինակ՝ Strumento 1206:"
+    ],
+    "lv": [
+      "Обратите внимание клиента на уникальную конструкцию рукава с золотистыми пуговицами — это готовое стилистическое украшение, которое подчеркивает статусность модели.",
+      "Подчеркните терморегулирующие свойства 100% девственной шерсти: плотная вязка обеспечивает тепло без лишнего объема, сохраняя безупречную посадку по фигуре.",
+      "Рекомендуйте Mabels как идеальный базовый элемент для создания многослойных аутфитов с нашими парками, например, Strumento 1206."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į unikalią rankovių konstrukciją su auksinėmis sagomis – tai paruošta stilistinė detalė, pabrėžianti modelio statusą.",
+      "Pabrėžkite 100% pirminės vilnos termoreguliacines savybes: tankus mezgimas suteikia šilumos be papildomos apimties, išlaikant nepriekaištingą figūros siluetą.",
+      "Rekomenduokite Mabels kaip idealų pagrindinį elementą kuriant sluoksniuotus įvaizdžius su mūsų parkomis, pavyzdžiui, Strumento 1206."
+    ],
+    "pl": [
+      "Zwróć uwagę klientki na unikalną konstrukcję rękawa ze złotymi guzikami — to gotowa ozdoba stylistyczna, która podkreśla status modelu.",
+      "Podkreśl właściwości termoregulacyjne 100% żywej wełny: gęsty splot zapewnia ciepło bez zbędnej objętości, zachowując nienaganne dopasowanie do sylwetki.",
+      "Rekomenduj Mabels jako idealny element bazowy do tworzenia wielowarstwowych outfitów z naszymi parkami, na przykład Strumento 1206."
+    ],
+    "uk": [
+      "Зверніть увагу клієнта на унікальну конструкцію рукава з золотистими ґудзиками — це готове стилістичне оздоблення, яке підкреслює статусність моделі.",
+      "Підкресліть терморегулювальні властивості 100% дівочої вовни: щільна в'язка забезпечує тепло без зайвого об'єму, зберігаючи бездоганну посадку по фігурі.",
+      "Рекомендуйте Mabels як ідеальний базовий елемент для створення багатошарових аутфітів з нашими парками, наприклад, Strumento 1206."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Wool may cause prickling or discomfort.",
+        "a": "Mabels is crafted exclusively from the finest virgin wool (Vergine), prized for its exceptional softness. It rests gently against the skin, offering a sense of complete comfort throughout the day."
+      },
+      {
+        "q": "Slits on the sleeves may be impractical in cold weather.",
+        "a": "This is a decorative, high-fashion detail. Paired with outerwear, the slits create striking layering, allowing cuffs or wrist jewellery to become a stylish accent."
+      },
+      {
+        "q": "Gold-tone buttons may tarnish over time.",
+        "a": "Luisa Spagnoli hardware is crafted to the highest standards using a durable coating. With proper care, the gold-tone shine of the LS-logo buttons will delight you for many seasons to come."
+      },
+      {
+        "q": "The pullover seems too simple for its price.",
+        "a": "This is an example of 'quiet luxury.' The value of Mabels lies in the impeccable quality of its material (100% wool) and the jewellery-like precision of its details, making it a timeless investment piece."
+      },
+      {
+        "q": "A ribbed knit may visually add volume.",
+        "a": "The vertical orientation of the pattern and the regular fit visually elongate the silhouette, lending the figure a slender, graceful line."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шерсть может вызывать покалывание или дискомфорт.",
+        "a": "Для Mabels используется только нежнейшая девственная шерсть (Vergine), обладающая исключительной мягкостью. Она деликатно касается кожи и дарит ощущение абсолютного комфорта в течение всего дня."
+      },
+      {
+        "q": "Разрезы на рукавах могут быть непрактичны в холодную погоду.",
+        "a": "Это декоративное решение в духе 'high fashion'. В сочетании с верхней одеждой разрезы создают эффектную многослойность, позволяя манжетам или украшениям на запястьях стать стильным акцентом."
+      },
+      {
+        "q": "Золотистые пуговицы могут потускнеть со временем.",
+        "a": "Фурнитура Luisa Spagnoli выполнена по высочайшим стандартам с использованием стойкого покрытия. При правильном уходе золотистый блеск пуговиц с логотипом LS будет радовать вас долгие сезоны."
+      },
+      {
+        "q": "Пуловер кажется слишком простым для своей стоимости.",
+        "a": "Это пример 'тихой роскоши'. Ценность Mabels заключается в безупречном качестве материала (100% шерсть) и ювелирной проработке деталей, что делает его инвестиционной вещью вне времени."
+      },
+      {
+        "q": "Вязка в рубчик может визуально добавлять объем.",
+        "a": "Вертикальная ориентация паттерна и приталенный крой (Regular fit) визуально вытягивают силуэт, придавая фигуре стройность и изящество."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تسبب الصوف وخزاً أو عدم ارتياح.",
+        "a": "نستخدم في Mabels أجود أنواع صوف العذراء (Vergine) الذي يتميز بنعومة استثنائية، فهو يلامس البشرة بلطف ويمنح شعوراً بالراحة المطلقة طوال اليوم."
+      },
+      {
+        "q": "قد تكون الفتحات الموجودة في الأكمام غير عملية في الطقس البارد.",
+        "a": "هذا قرار تزييني بروح 'الأزياء الراقية' (high fashion)، حيث تضفي الفتحات عند ارتدائها مع ملابس خارجية تأثيراً جذاباً متعدد الطبقات، مما يسمح للأكمام أو الأساور بأن تصبح لمسة أنيقة."
+      },
+      {
+        "q": "قد تفقد الأزرار الذهبية بريقها مع مرور الوقت.",
+        "a": "صُممت قطع Luisa Spagnoli وفقاً لأعلى المعايير باستخدام طلاء متين، ومع العناية الصحيحة، سيظل بريق الأزرار الذهبية التي تحمل شعار LS يبهجك لمواسم عديدة."
+      },
+      {
+        "q": "يبدو البلوفر بسيطاً جداً مقارنة بسعره.",
+        "a": "هذا مثال على 'الفخامة الهادئة'؛ إذ تكمن قيمة Mabels في الجودة التي لا تشوبها شائبة للمادة (100% صوف) والاهتمام الجواهري بالتفاصيل، مما يجعله قطعة استثمارية لا يحدها زمن."
+      },
+      {
+        "q": "قد يضيف الحياكة المضلعة حجماً بصرياً إضافياً.",
+        "a": "الاتجاه العمودي للنمط والقصّة المحددة (Regular fit) يمنحان القوام طولاً بصرياً، مما يضفي على الجسم رشاقة وأناقة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მატყლმა შესაძლოა გამოიწვიოს ჩხვლეტა ან დისკომფორტი.",
+        "a": "Mabels-ისთვის გამოიყენება მხოლოდ უნაზესი ქალწული მატყლი (Vergine), რომელიც გამოირჩევა განსაკუთრებული რბილობით. ის დელიკატურად ეხება კანს და მთელი დღის განმავლობაში აბსოლუტური კომფორტის შეგრძნებას ანიჭებს."
+      },
+      {
+        "q": "სახელოებზე ჭრილები შესაძლოა არაპრაქტიკული იყოს ცივ ამინდში.",
+        "a": "ეს არის დეკორატიული გადაწყვეტილება 'high fashion'-ის სულისკვეთებით. ზედა სამოსთან შეხამებისას ჭრილები ქმნის ეფექტურ მრავალფენიანობას, რაც საშუალებას აძლევს მანჟეტებს ან მაჯის სამკაულებს გახდნენ სტილური აქცენტი."
+      },
+      {
+        "q": "მოოქროსფრო ღილები დროთა განმავლობაში შესაძლოა გაცვეთდეს.",
+        "a": "Luisa Spagnoli-ს ფურნიტურა დამზადებულია უმაღლესი სტანდარტებით, მდგრადი საფარის გამოყენებით. სათანადო მოვლის შემთხვევაში, LS ლოგოიანი ღილების ოქროსფერი ბზინვარება გაგახარებთ მრავალი სეზონის განმავლობაში."
+      },
+      {
+        "q": "პულოვერი ზედმეტად მარტივი ჩანს თავისი ღირებულებისთვის.",
+        "a": "ეს არის 'ჩუმი ფუფუნების' მაგალითი. Mabels-ის ღირებულება მდგომარეობს მასალის უნაკლო ხარისხში (100% მატყლი) და დეტალების საიუველირო დამუშავებაში, რაც მას დროის მიღმა არსებულ საინვესტიციო ნივთად აქცევს."
+      },
+      {
+        "q": "რეზინისებრი ქსოვა შესაძლოა ვიზუალურად მატებდეს მოცულობას.",
+        "a": "პატერნის ვერტიკალური ორიენტაცია და შეტანილი ჭრა (Regular fit) ვიზუალურად აგრძელებს სილუეტს, რაც ფიგურას სილამაზესა და დახვეწილობას მატებს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բուրդը կարող է առաջացնել ծակծկոց կամ անհարմարություն։",
+        "a": "Mabels-ի համար օգտագործվում է միայն ամենանուրբ կուսական բուրդ (Vergine), որն օժտված է բացառիկ փափկությամբ։ Այն նրբորեն շոշափում է մաշկը և տալիս է բացարձակ հարմարավետության զգացողություն ողջ օրվա ընթացքում։"
+      },
+      {
+        "q": "Թևքերի ճեղքվածքները կարող են ոչ գործնական լինել ցուրտ եղանակին։",
+        "a": "Սա 'high fashion' ոգով դեկորատիվ լուծում է։ Վերնազգեստի հետ համադրությամբ ճեղքվածքները ստեղծում են էֆեկտային բազմաշերտություն՝ թույլ տալով, որ մանժետները կամ դաստակների զարդերը դառնան ոճային շեշտադրում։"
+      },
+      {
+        "q": "Ոսկեգույն կոճակները կարող են ժամանակի ընթացքում խամրել։",
+        "a": "Luisa Spagnoli-ի աքսեսուարները կատարված են ամենաբարձր ստանդարտներով՝ օգտագործելով կայուն ծածկույթ։ Ճիշտ խնամքի դեպքում LS լոգոտիպով կոճակների ոսկեգույն փայլը ձեզ կուրախացնի երկար սեզոններ։"
+      },
+      {
+        "q": "Պուլովերը չափազանց պարզ է թվում իր արժեքի համար։",
+        "a": "Սա 'լուռ շքեղության' օրինակ է։ Mabels-ի արժեքը կայանում է նյութի անթերի որակի (100% բուրդ) և դետալների ոսկերչական մշակման մեջ, ինչն այն դարձնում է ժամանակից դուրս ներդրումային իր։"
+      },
+      {
+        "q": "Ռիբբ տեսակի տրիկոտաժը կարող է տեսողականորեն ավելացնել ծավալ։",
+        "a": "Պատերնի ուղղահայաց կողմնորոշումը և մարմնին կպած ձևվածքը (Regular fit) տեսողականորեն երկարացնում են ուրվագիծը՝ կազմվածքին հաղորդելով սլացիկություն և նրբագեղություն։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vilna var radīt durstīšanu vai diskomfortu.",
+        "a": "Mabels izstrādājumam tiek izmantota tikai vismaigākā jaunavīgā vilna (Vergine), kurai piemīt izcils maigums. Tā delikāti saskaras ar ādu un dāvā absolūta komforta sajūtu visas dienas garumā."
+      },
+      {
+        "q": "Šķēlumi uz piedurknēm var būt nepraktiski aukstā laikā.",
+        "a": "Tas ir dekoratīvs risinājums 'high fashion' garā. Kombinācijā ar virsdrēbēm šķēlumi rada efektīvu daudzslāņainību, ļaujot aprocēm vai rotaslietām uz plaukstas locītavām kļūt par stilīgu akcentu."
+      },
+      {
+        "q": "Zeltītās pogas var ar laiku zaudēt spožumu.",
+        "a": "Luisa Spagnoli furnitūra ir izgatavota pēc visaugstākajiem standartiem, izmantojot noturīgu pārklājumu. Pareizi kopjot, LS logo pogu zeltītais mirdzums priecēs jūs daudzas sezonas."
+      },
+      {
+        "q": "Džemperis šķiet pārāk vienkāršs savai cenai.",
+        "a": "Tas ir 'klusās greznības' piemērs. Mabels vērtība slēpjas nevainojamā materiāla kvalitātē (100% vilna) un juvelierizstrādājumiem raksturīgajā detaļu izstrādē, kas padara to par mūžīgu investīcijas pirkumu."
+      },
+      {
+        "q": "Adījums rievotā rakstā var vizuāli pievienot apjomu.",
+        "a": "Vertikālā raksta orientācija un piegulošais piegriezums (Regular fit) vizuāli pagarina siluetu, piešķirot figūrai slaidumu un izsmalcinātību."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Vilna gali kelti kutenimą ar diskomfortą.",
+        "a": "Mabels modeliui naudojama tik švelniausia pirminė vilna (Vergine), pasižyminti išskirtiniu minkštumu. Ji subtiliai liečiasi prie odos ir dovanoja absoliutaus komforto pojūtį visą dieną."
+      },
+      {
+        "q": "Skeltukai ant rankovių gali būti nepraktiški šaltu oru.",
+        "a": "Tai dekoratyvinis sprendimas „high fashion“ dvasia. Derinyje su viršutiniais drabužiais skeltukai sukuria efektingą sluoksniuotumo įspūdį, leidžiant rankogaliams ar papuošalams ant riešų tapti stilingu akcentu."
+      },
+      {
+        "q": "Auksinės spalvos sagos laikui bėgant gali nublukti.",
+        "a": "Luisa Spagnoli furnitūra pagaminta pagal aukščiausius standartus naudojant atsparią dangą. Tinkamai prižiūrint, auksinis sagų su LS logotipu žvilgesys džiugins jus daugelį sezonų."
+      },
+      {
+        "q": "Megztinis atrodo per paprastas savo kainai.",
+        "a": "Tai „tyliosios prabangos“ pavyzdys. Mabels vertė slypi nepriekaištingoje medžiagos kokybėje (100% vilna) ir juvelyriniame detalių apdirbime, kas paverčia jį laikui nepavaldžia investicija."
+      },
+      {
+        "q": "Megztas raštas gali vizualiai pridėti apimties.",
+        "a": "Vertikali rašto orientacija ir prigludęs „Regular fit“ kirpimas vizualiai ištęsia siluetą, suteikdami figūrai lieknumo ir grakštumo."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wełna może wywoływać kłucie lub dyskomfort.",
+        "a": "Do modelu Mabels używana jest tylko najdelikatniejsza wełna dziewicza (Vergine), posiadająca wyjątkową miękkość. Delikatnie dotyka skóry i daje uczucie absolutnego komfortu przez cały dzień."
+      },
+      {
+        "q": "Rozcięcia na rękawach mogą być niepraktyczne w zimną pogodę.",
+        "a": "To rozwiązanie dekoracyjne w duchu 'high fashion'. W połączeniu z odzieżą wierzchnią rozcięcia tworzą efektowne warstwy, pozwalając mankietom lub ozdobom na nadgarstkach stać się stylowym akcentem."
+      },
+      {
+        "q": "Złociste guziki mogą zmatowieć z czasem.",
+        "a": "Akcesoria Luisa Spagnoli wykonane są według najwyższych standardów z użyciem trwałej powłoki. Przy odpowiedniej pielęgnacji złocisty blask guzików z logo LS będzie cieszyć przez wiele sezonów."
+      },
+      {
+        "q": "Pulower wydaje się zbyt prosty jak na swoją cenę.",
+        "a": "To przykład 'cichego luksusu'. Wartość Mabels tkwi w nienagannej jakości materiału (100% wełna) i jubilerskim opracowaniu detali, co czyni go inwestycją ponadczasową."
+      },
+      {
+        "q": "Dzianina w prążek może wizualnie dodawać objętości.",
+        "a": "Pionowa orientacja wzoru i taliowany krój (Regular fit) wizualnie wydłużają sylwetkę, nadając figurze smukłość i wdzięk."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Шерсть може викликати поколювання або дискомфорт.",
+        "a": "Для Mabels використовується лише найніжніша дівоча шерсть (Vergine), що має виняткову м'якість. Вона делікатно торкається шкіри та дарує відчуття абсолютного комфорту протягом усього дня."
+      },
+      {
+        "q": "Розрізи на рукавах можуть бути непрактичні у холодну погоду.",
+        "a": "Це декоративне рішення у дусі 'high fashion'. У поєднанні з верхнім одягом розрізи створюють ефектну багатошаровість, дозволяючи манжетам або прикрасам на зап'ястях стати стильним акцентом."
+      },
+      {
+        "q": "Золотисті ґудзики можуть потьмяніти з часом.",
+        "a": "Фурнітура Luisa Spagnoli виконана за найвищими стандартами з використанням стійкого покриття. При правильному догляді золотистий блиск ґудзиків із логотипом LS тішитиме вас довгі сезони."
+      },
+      {
+        "q": "Пуловер здається занадто простим для своєї вартості.",
+        "a": "Це приклад 'тихої розкоші'. Цінність Mabels полягає у бездоганній якості матеріалу (100% шерсть) та ювелірному опрацюванні деталей, що робить його інвестиційною річчю поза часом."
+      },
+      {
+        "q": "В'язка в рубчик може візуально додавати об'єм.",
+        "a": "Вертикальна орієнтація паттерна та приталений крій (Regular fit) візуально витягують силует, надаючи фігурі стрункості та витонченості."
+      }
+    ]
+  }
+}

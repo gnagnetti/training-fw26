@@ -1,0 +1,366 @@
+{
+  "id": 177,
+  "name": "Minuccio A",
+  "description": {
+    "en": "Data not available in official sources",
+    "ru": "Данные отсутствуют в официальных источниках",
+    "ar": "لا توجد بيانات في المصادر الرسمية",
+    "ka": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+    "hy": "Տվյալները բացակայում են պաշտոնական աղբյուրներում",
+    "lv": "Dati nav pieejami oficiālajos avotos",
+    "lt": "Duomenų oficialiuose šaltiniuose nėra",
+    "pl": "Brak danych w oficjalnych źródłach",
+    "uk": "Дані відсутні в офіційних джерелах"
+  },
+  "colors": [
+    {
+      "name": "Blu Inchiostro",
+      "code": "2544",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NVoUDC5hSh-_ll973FicDA_1836626867696f4307470cc7_02681906_02821420XX1.jpg"
+    },
+    {
+      "name": "Grigio Scuro",
+      "code": "0846",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Minuccio%20modello%20%281%29.PNG"
+    },
+    {
+      "name": "Beige",
+      "code": "1117",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MINUCCIO_113700000000.jpg"
+    },
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MINUENDOL_10100000000.jpg"
+    },
+    {
+      "name": "Panna",
+      "code": "0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MINUENDOM_20200000000.jpg"
+    },
+    {
+      "name": "Cammello",
+      "code": "2246",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/44a050a8-738e-4eee-9a3e-18fce3cbb172-removebg-preview.png"
+    },
+    {
+      "name": "Verde Bottiglia",
+      "code": "2050",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281016%29.png"
+    },
+    {
+      "name": "Melanzana",
+      "code": "0759",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281017%29.png"
+    },
+    {
+      "name": "Bordeaux",
+      "code": "2435",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NVoUDC5hSh-_ll973FicDA_1836626867696f4307470cc7_02681906_02821420XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Look 67",
+        "en": "Look 67",
+        "ar": "Look 67",
+        "ka": "Look 67",
+        "hy": "Look 67",
+        "lv": "Look 67",
+        "lt": "Look 67",
+        "pl": "Look 67",
+        "uk": "Look 67"
+      },
+      "text": {
+        "ru": "Minuccio A 2246 в сочетании с жакетом Menola 2246 и рубашкой Lusia 3402 0101.",
+        "en": "Minuccio A 2246 combined with the Menola 2246 jacket and Lusia 3402 0101 shirt.",
+        "ar": "Minuccio A 2246 combined with the Menola 2246 jacket and Lusia 3402 0101 shirt.",
+        "ka": "Minuccio A 2246 combined with the Menola 2246 jacket and Lusia 3402 0101 shirt.",
+        "hy": "Minuccio A 2246 combined with the Menola 2246 jacket and Lusia 3402 0101 shirt.",
+        "lv": "Minuccio A 2246 combined with the Menola 2246 jacket and Lusia 3402 0101 shirt.",
+        "lt": "Minuccio A 2246 combined with the Menola 2246 jacket and Lusia 3402 0101 shirt.",
+        "pl": "Minuccio A 2246 combined with the Menola 2246 jacket and Lusia 3402 0101 shirt.",
+        "uk": "Minuccio A 2246 combined with the Menola 2246 jacket and Lusia 3402 0101 shirt."
+      },
+      "items": [
+        {
+          "name": "Minuccio A",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/44a050a8-738e-4eee-9a3e-18fce3cbb172-removebg-preview.png"
+        },
+        {
+          "name": "Menola",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1815204296691f1575c6b463_06852164_02790420XX1.jpg",
+          "modelId": 441
+        },
+        {
+          "name": "Lusia",
+          "code": "3402 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1696684085692424d22bd006_54589516_02781310XX1.jpg",
+          "modelId": 428
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 77",
+        "en": "Look 77",
+        "ar": "Look 77",
+        "ka": "Look 77",
+        "hy": "Look 77",
+        "lv": "Look 77",
+        "lt": "Look 77",
+        "pl": "Look 77",
+        "uk": "Look 77"
+      },
+      "text": {
+        "ru": "Minuccio A 2050 дополнен туникой Mascate 2050.",
+        "en": "Minuccio A 2050 complemented by the Mascate 2050 tunic.",
+        "ar": "Minuccio A 2050 complemented by the Mascate 2050 tunic.",
+        "ka": "Minuccio A 2050 complemented by the Mascate 2050 tunic.",
+        "hy": "Minuccio A 2050 complemented by the Mascate 2050 tunic.",
+        "lv": "Minuccio A 2050 complemented by the Mascate 2050 tunic.",
+        "lt": "Minuccio A 2050 complemented by the Mascate 2050 tunic.",
+        "pl": "Minuccio A 2050 complemented by the Mascate 2050 tunic.",
+        "uk": "Minuccio A 2050 complemented by the Mascate 2050 tunic."
+      },
+      "items": [
+        {
+          "name": "Minuccio A",
+          "code": "2050",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281016%29.png"
+        },
+        {
+          "name": "Mascate",
+          "code": "2050",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39848814691c579160a923_62691960_02790080XX1.jpg",
+          "modelId": 436
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 85",
+        "en": "Look 85",
+        "ar": "Look 85",
+        "ka": "Look 85",
+        "hy": "Look 85",
+        "lv": "Look 85",
+        "lt": "Look 85",
+        "pl": "Look 85",
+        "uk": "Look 85"
+      },
+      "text": {
+        "ru": "Minuccio A 0759 в ансамбле с жакетом Moles 0759 и пуловером Mossa G 0759.",
+        "en": "Minuccio A 0759 in an ensemble with the Moles 0759 jacket and Mossa G 0759 pullover.",
+        "ar": "Minuccio A 0759 in an ensemble with the Moles 0759 jacket and Mossa G 0759 pullover.",
+        "ka": "Minuccio A 0759 in an ensemble with the Moles 0759 jacket and Mossa G 0759 pullover.",
+        "hy": "Minuccio A 0759 in an ensemble with the Moles 0759 jacket and Mossa G 0759 pullover.",
+        "lv": "Minuccio A 0759 in an ensemble with the Moles 0759 jacket and Mossa G 0759 pullover.",
+        "lt": "Minuccio A 0759 in an ensemble with the Moles 0759 jacket and Mossa G 0759 pullover.",
+        "pl": "Minuccio A 0759 in an ensemble with the Moles 0759 jacket and Mossa G 0759 pullover.",
+        "uk": "Minuccio A 0759 in an ensemble with the Moles 0759 jacket and Mossa G 0759 pullover."
+      },
+      "items": [
+        {
+          "name": "Minuccio A",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281017%29.png"
+        },
+        {
+          "name": "Moles",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2011465512692424d2e88a74_22193304_02781330XX1.jpg",
+          "modelId": 447
+        },
+        {
+          "name": "Mossa G",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281018%29.png",
+          "modelId": 192
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 88",
+        "en": "Vetrina 88",
+        "ar": "Vetrina 88",
+        "ka": "Vetrina 88",
+        "hy": "Vetrina 88",
+        "lv": "Vetrina 88",
+        "lt": "Vetrina 88",
+        "pl": "Vetrina 88",
+        "uk": "Vetrina 88"
+      },
+      "text": {
+        "ru": "Minuccio A 2544 со стильным кардиганом Merina 2544.",
+        "en": "Minuccio A 2544 with a stylish Merina 2544 cardigan.",
+        "ar": "Minuccio A 2544 with a stylish Merina 2544 cardigan.",
+        "ka": "Minuccio A 2544 with a stylish Merina 2544 cardigan.",
+        "hy": "Minuccio A 2544 with a stylish Merina 2544 cardigan.",
+        "lv": "Minuccio A 2544 with a stylish Merina 2544 cardigan.",
+        "lt": "Minuccio A 2544 with a stylish Merina 2544 cardigan.",
+        "pl": "Minuccio A 2544 with a stylish Merina 2544 cardigan.",
+        "uk": "Minuccio A 2544 with a stylish Merina 2544 cardigan."
+      },
+      "items": [
+        {
+          "name": "Minuccio A",
+          "code": "2544",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NVoUDC5hSh-_ll973FicDA_1836626867696f4307470cc7_02681906_02821420XX1.jpg"
+        },
+        {
+          "name": "Merina",
+          "code": "2544",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/THcZAxKrQtyUuRn1NlxAfw_1714278876696f436a94c0d6_81431318_02830780XX1.jpg",
+          "modelId": 169
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasise the versatility: the Mira cape is a perfect substitute for a light coat or jacket, offering warmth and freedom of movement thanks to its open cut.",
+      "Draw attention to the fringe: this decorative element is a key trend of the season, adding visual interest and a premium feel even to the simplest of base outfits.",
+      "Recommend layering: suggest the client wear the cape over fitted dresses (such as Masuria) or knitwear ensembles (Matri and Marsan) for a status-elevating, cosy look."
+    ],
+    "ru": [
+      "Данные отсутствуют в официальных источниках",
+      "Данные отсутствуют в официальных источниках",
+      "Данные отсутствуют в официальных источниках"
+    ],
+    "ar": [
+      "البيانات غير متوفرة في المصادر الرسمية",
+      "البيانات غير متوفرة في المصادر الرسمية",
+      "البيانات غير متوفرة في المصادر الرسمية"
+    ],
+    "ka": [
+      "მონაცემები არ არის ოფიციალურ წყაროებში",
+      "მონაცემები არ არის ოფიციალურ წყაროებში",
+      "მონაცემები არ არის ოფიციალურ წყაროებში"
+    ],
+    "hy": [
+      "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+      "Տվյալները պաշտոնական աղբյուրներում բացակայում են",
+      "Տվյալները պաշտոնական աղբյուրներում բացակայում են"
+    ],
+    "lv": [
+      "Dati nav pieejami oficiālajos avotos",
+      "Dati nav pieejami oficiālajos avotos",
+      "Dati nav pieejami oficiālajos avotos"
+    ],
+    "lt": [
+      "Duomenų oficialiuose šaltiniuose nėra",
+      "Duomenų oficialiuose šaltiniuose nėra",
+      "Duomenų oficialiuose šaltiniuose nėra"
+    ],
+    "pl": [
+      "Brak danych w oficjalnych źródłach",
+      "Brak danych w oficjalnych źródłach",
+      "Brak danych w oficjalnych źródłach"
+    ],
+    "uk": [
+      "Дані відсутні в офіційних джерелах",
+      "Дані відсутні в офіційних джерелах",
+      "Дані відсутні в офіційних джерелах"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      },
+      {
+        "q": "Insufficient data is available in official sources.",
+        "a": "Insufficient data is available in official sources"
+      }
+    ],
+    "ru": [],
+    "ar": [
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      },
+      {
+        "q": "البيانات غير متوفرة في المصادر الرسمية",
+        "a": "البيانات غير متوفرة في المصادر الرسمية"
+      }
+    ],
+    "ka": [
+      {
+        "q": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+        "a": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება"
+      },
+      {
+        "q": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+        "a": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება"
+      },
+      {
+        "q": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+        "a": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება"
+      },
+      {
+        "q": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+        "a": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება"
+      },
+      {
+        "q": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება",
+        "a": "მონაცემები ოფიციალურ წყაროებში არ მოიპოვება"
+      }
+    ],
+    "hy": [],
+    "lv": [],
+    "lt": [],
+    "pl": [
+      {
+        "q": "Dane są niedostępne w oficjalnych źródłach",
+        "a": "Dane są niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane są niedostępne w oficjalnych źródłach",
+        "a": "Dane są niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane są niedostępne w oficjalnych źródłach",
+        "a": "Dane są niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane są niedostępne w oficjalnych źródłach",
+        "a": "Dane są niedostępne w oficjalnych źródłach"
+      },
+      {
+        "q": "Dane są niedostępne w oficjalnych źródłach",
+        "a": "Dane są niedostępne w oficjalnych źródłach"
+      }
+    ],
+    "uk": []
+  }
+}

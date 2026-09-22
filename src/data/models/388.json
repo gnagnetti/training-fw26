@@ -1,0 +1,472 @@
+{
+  "id": 388,
+  "name": "Fenice B",
+  "description": {
+    "en": "The Fenice B 2226 skirt is an aristocratic reading of leather pieces in the finest Luisa Spagnoli tradition. While a detailed technical description of the cut is not available in official sources, stylistic analysis and its membership in colorway group 2226 allow it to be classified as a premium nappa leather piece with a delicate vintage effect. The skirt embodies the concept of 'architectural femininity': the soft sheen of the leather, combined with a noble tobacco hue, creates the foundation for status-defining looks. This piece is a manifesto of confidence and style, designed for the woman who values the longevity of her materials and flawless execution.",
+    "ru": "Юбка Fenice B 2226 --- это аристократичное прочтение кожаных изделий в лучших традициях Luisa Spagnoli. Хотя детальное техническое описание кроя в официальных источниках отсутствует, стилистический анализ и принадлежность к цветовой группе 2226 позволяют классифицировать её как модель из премиальной кожи наппа с деликатным винтажным эффектом. Юбка воплощает концепцию «архитектурной женственности»: мягкий блеск кожи в сочетании с благородным табачным оттенком создает фундамент для статусных образов. Это изделие --- манифест уверенности и стиля, предназначенный для женщины, которая ценит долговечность материалов и безупречность исполнения.",
+    "ar": "تُجسّد تنورة \"فينيتشي B 2226\" (Fenice B 2226) رؤية أريستوقراطية للتصاميم الجلدية وفق أبهى تقاليد علامة لويزا سبانيولي (Luisa Spagnoli). ورغم غياب الوصف التقني المفصّل للقصّة في المصادر الرسمية، إلا أن التحليل الأسلوبي والانتماء للفيئة اللونية (2226) يُصنّفانها كقطعة صُمّمت من جلد النابا (Nappa) الفاخر ذي الأثر الكلاسيكي المعتق (Vintage). تُعبّر التنورة عن مفهوم \"الأنوثة المعمارية\"؛ حيث يتناغم البريق الناعم للجلد مع اللون التبغي النبيل ليكون أساساً لإطلالات رفيعة المستوى والمكانة. تُعد هذه القطعة بياناً للثقة والأناقة، وصُمّمت للمرأة التي تُقدّر استدامة المواد ودقة التنفيذ التي لا تشوبها شائبة.",
+    "ka": "Юбка Fenice B 2226 --- არის ტყავის ნაკეთობების არისტოკრატული ინტერპრეტაცია Luisa Spagnoli-ს საუკეთესო ტრადიციებში. მიუხედავად იმისა, რომ ოფიციალურ წყაროებში კერვის დეტალური ტექნიკური აღწერა არ მოიპოვება, სტილისტური ანალიზი და 2226 ფერთა ჯგუფისადმი კუთვნილება საშუალებას იძლევა იგი კლასიფიცირდეს როგორც პრემიუმ ნაპას ტყავის მოდელი დელიკატური ვინტაჟური ეფექტით. ქვედაბოლო განასახიერებს „არქიტექტურული ქალურობის“ კონცეფციას: ტყავის რბილი ბზინვარება კეთილშობილ თამბაქოსფერ ელფერთან კომბინაციაში ქმნის ფუნდამენტს სტატუსური სახეებისთვის. ეს ნაკეთობა --- თავდაჯერებულობისა და სტილის მანიფესტია, რომელიც განკუთვნილია ქალისთვის, რომელიც აფასებს მასალების გამძლეობასა და შესრულების უნაკლოობას.",
+    "hy": "Fenice B 2226 կիսաշրջազգեստը՝ սա կաշվե իրերի արիստոկրատ մեկնաբանումն է Luisa Spagnoli-ի լավագույն ավանդույթներով։ Թեև պաշտոնական աղբյուրներում ձևվածքի մանրամասն տեխնիկական նկարագրությունը բացակայում է, ոճային վերլուծությունը և 2226 գունային խմբին պատկանելությունը թույլ են տալիս այն դասակարգել որպես պրեմիում դասի նապա կաշվից պատրաստված մոդել՝ նուրբ վինտաժային էֆեկտով։ Կիսաշրջազգեստը մարմնավորում է «ճարտարապետական կանացիության» հայեցակարգը. կաշվի մեղմ փայլը ազնվական ծխախոտագույն երանգի հետ համադրությամբ հիմք է ստեղծում ստատուսային կերպարների համար։ Այս իրը վստահության և ոճի մանիֆեստ է, որը նախատեսված է այն կնոջ համար, ով գնահատում է նյութերի ամրությունը և անթերի կատարումը։",
+    "lv": "Svārki Fenice B 2226 --- tas ir aristokrātisks ādas izstrādājumu lasījums labākajās Luisa Spagnoli tradīcijās. Lai gan detalizēts tehniskais griezuma apraksts oficiālajos avotos nav pieejams, stilistiskā analīze un piederība krāsu grupai 2226 ļauj tos klasificēt kā modeli no premium klases nappa ādas ar delikātu vintage efektu. Svārki iemieso «arhitektoniskās sievišķības» koncepciju: maigs ādas spīdums apvienojumā ar cēlu tabakas toni veido pamatu statusu apliecinošiem tēliem. Šis izstrādājums --- pārliecības un stila manifests, kas paredzēts sievietei, kura novērtē materiālu izturību un nevainojamu izpildījumu.",
+    "lt": "Sijonas Fenice B 2226 --- tai aristokratiškas odos gaminių interpretavimas pagal geriausias Luisa Spagnoli tradicijas. Nors išsamaus techninio kirpimo aprašymo oficialiuose šaltiniuose nėra, stilistinė analizė ir priklausymas 2226 spalvų grupei leidžia jį klasifikuoti kaip aukščiausios kokybės nappa odos modelį su subtiliu vintažiniu efektu. Sijonas įkūnija „architektūrinio moteriškumo“ koncepciją: minkštas odos žvilgesys kartu su tauriu tabako atspalviu sukuria pagrindą solidiems įvaizdžiams. Šis gaminys --- pasitikėjimo ir stiliaus manifestas, skirtas moteriai, vertinančiai medžiagų ilgaamžiškumą ir nepriekaištingą atlikimą.",
+    "pl": "Spódnica Fenice B 2226 --- to arystokratyczna interpretacja wyrobów skórzanych w najlepszych tradycjach Luisa Spagnoli. Choć szczegółowy opis techniczny kroju w oficjalnych źródłach nie jest dostępny, analiza stylistyczna i przynależność do grupy kolorystycznej 2226 pozwalają zaklasyfikować ją jako model z wysokiej jakości skóry nappa z delikatnym efektem vintage. Spódnica ucieleśnia koncepcję „architektonicznej kobiecości”: miękki połysk skóry w połączeniu ze szlachetnym odcieniem tytoniu tworzy fundament dla prestiżowych stylizacji. Ten model --- to manifest pewności siebie i stylu, przeznaczony dla kobiety, która ceni trwałość materiałów i nieskazitelność wykonania.",
+    "uk": "Спідниця Fenice B 2226 --- це аристократичне прочитання шкіряних виробів у найкращих традиціях Luisa Spagnoli. Хоча детальний технічний опис крою в офіційних джерелах відсутній, стилістичний аналіз та приналежність до колірної групи 2226 дозволяють класифікувати її як модель з преміальної шкіри наппа з делікатним вінтажним ефектом. Спідниця втілює концепцію «архітектурної жіночності»: м'який блиск шкіри в поєднанні з благородним тютюновим відтінком створює фундамент для статусних образів. Цей виріб --- маніфест впевненості та стилю, призначений для жінки, яка цінує довговічність матеріалів та бездоганність виконання."
+  },
+  "colors": [
+    {
+      "name": "Cuoio",
+      "code": "2226",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/548516493692424c9b2f596_35398249_02781060XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Модель Fenice B выступает ключевым элементом как в подиумных, так и в витринных ансамблях, демонстрируя поразительную универсальность: Вариант 2226: В lookbook (Look 59): представлен изысканный «женственный сет» с контрастным трикотажем --- укороченным кардиганом Cuoricino 2203 0372 и топом Casilda 2203 0372.",
+        "en": "The Fenice B model serves as a key element in both runway and window ensembles, demonstrating striking versatility: Version 2226: In the lookbook (Look 59): an exquisite \"feminine set\" is presented with contrasting knitwear --- the cropped Cuoricino 2203 0372 cardigan and the Casilda 2203 0372 top.",
+        "ar": "The Fenice B model serves as a key element in both runway and window ensembles, demonstrating striking versatility: Version 2226: In the lookbook (Look 59): an exquisite \"feminine set\" is presented with contrasting knitwear --- the cropped Cuoricino 2203 0372 cardigan and the Casilda 2203 0372 top.",
+        "ka": "The Fenice B model serves as a key element in both runway and window ensembles, demonstrating striking versatility: Version 2226: In the lookbook (Look 59): an exquisite \"feminine set\" is presented with contrasting knitwear --- the cropped Cuoricino 2203 0372 cardigan and the Casilda 2203 0372 top.",
+        "hy": "The Fenice B model serves as a key element in both runway and window ensembles, demonstrating striking versatility: Version 2226: In the lookbook (Look 59): an exquisite \"feminine set\" is presented with contrasting knitwear --- the cropped Cuoricino 2203 0372 cardigan and the Casilda 2203 0372 top.",
+        "lv": "The Fenice B model serves as a key element in both runway and window ensembles, demonstrating striking versatility: Version 2226: In the lookbook (Look 59): an exquisite \"feminine set\" is presented with contrasting knitwear --- the cropped Cuoricino 2203 0372 cardigan and the Casilda 2203 0372 top.",
+        "lt": "The Fenice B model serves as a key element in both runway and window ensembles, demonstrating striking versatility: Version 2226: In the lookbook (Look 59): an exquisite \"feminine set\" is presented with contrasting knitwear --- the cropped Cuoricino 2203 0372 cardigan and the Casilda 2203 0372 top.",
+        "pl": "The Fenice B model serves as a key element in both runway and window ensembles, demonstrating striking versatility: Version 2226: In the lookbook (Look 59): an exquisite \"feminine set\" is presented with contrasting knitwear --- the cropped Cuoricino 2203 0372 cardigan and the Casilda 2203 0372 top.",
+        "uk": "The Fenice B model serves as a key element in both runway and window ensembles, demonstrating striking versatility: Version 2226: In the lookbook (Look 59): an exquisite \"feminine set\" is presented with contrasting knitwear --- the cropped Cuoricino 2203 0372 cardigan and the Casilda 2203 0372 top."
+      },
+      "items": [
+        {
+          "name": "Cuoricino",
+          "code": "2203 0372",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1757139112691f156cf0ef90_19905590_02780720XX1.jpg",
+          "modelId": 385
+        },
+        {
+          "name": "Casilda",
+          "code": "2203 0372",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1500869539691f156c92c048_45838506_02780710XX1.jpg",
+          "modelId": 383
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 2226",
+        "en": "Vetrina 1 / Vetrina 74",
+        "ar": "Vetrina 1 / Vetrina 74",
+        "ka": "Vetrina 1 / Vetrina 74",
+        "hy": "Vetrina 1 / Vetrina 74",
+        "lv": "Vetrina 1 / Vetrina 74",
+        "lt": "Vetrina 1 / Vetrina 74",
+        "pl": "Vetrina 1 / Vetrina 74",
+        "uk": "Vetrina 1 / Vetrina 74"
+      },
+      "text": {
+        "ru": "Vetrina 1 / Vetrina 74: бескомпромиссный \\'total leather look\\' с жакетом из той же кожи Solarita 2226 и классическими рубашками Leila 0201 или Lisella 4618.",
+        "en": "an uncompromising 'total leather look' with the Solarita 2226 jacket of the same leather and classic Leila 0201 or Lisella 4618 shirts.",
+        "ar": "an uncompromising 'total leather look' with the Solarita 2226 jacket of the same leather and classic Leila 0201 or Lisella 4618 shirts.",
+        "ka": "an uncompromising 'total leather look' with the Solarita 2226 jacket of the same leather and classic Leila 0201 or Lisella 4618 shirts.",
+        "hy": "an uncompromising 'total leather look' with the Solarita 2226 jacket of the same leather and classic Leila 0201 or Lisella 4618 shirts.",
+        "lv": "an uncompromising 'total leather look' with the Solarita 2226 jacket of the same leather and classic Leila 0201 or Lisella 4618 shirts.",
+        "lt": "an uncompromising 'total leather look' with the Solarita 2226 jacket of the same leather and classic Leila 0201 or Lisella 4618 shirts.",
+        "pl": "an uncompromising 'total leather look' with the Solarita 2226 jacket of the same leather and classic Leila 0201 or Lisella 4618 shirts.",
+        "uk": "an uncompromising 'total leather look' with the Solarita 2226 jacket of the same leather and classic Leila 0201 or Lisella 4618 shirts."
+      },
+      "items": [
+        {
+          "name": "Solarita",
+          "code": "2226",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/327739623692424dcd432e5_46742187_02781640XX1.jpg",
+          "modelId": 486
+        },
+        {
+          "name": "Leila",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "modelId": 414
+        },
+        {
+          "name": "Lisella",
+          "code": "4618",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/69418737691c57c4e42b85_83034833_02780300XX1.jpg",
+          "modelId": 419
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 2226",
+        "en": "Vetrina 51",
+        "ar": "Vetrina 51",
+        "ka": "Vetrina 51",
+        "hy": "Vetrina 51",
+        "lv": "Vetrina 51",
+        "lt": "Vetrina 51",
+        "pl": "Vetrina 51",
+        "uk": "Vetrina 51"
+      },
+      "text": {
+        "ru": "Vetrina 51: роскошный зимний ансамбль с пальто-халатом Stenografo 0101, пуловером Moralita 2234 и рубашкой Limonaia 0101.",
+        "en": "a luxurious winter ensemble with the Stenografo 0101 robe-coat, the Moralita 2234 pullover, and the Limonaia 0101 shirt.",
+        "ar": "a luxurious winter ensemble with the Stenografo 0101 robe-coat, the Moralita 2234 pullover, and the Limonaia 0101 shirt.",
+        "ka": "a luxurious winter ensemble with the Stenografo 0101 robe-coat, the Moralita 2234 pullover, and the Limonaia 0101 shirt.",
+        "hy": "a luxurious winter ensemble with the Stenografo 0101 robe-coat, the Moralita 2234 pullover, and the Limonaia 0101 shirt.",
+        "lv": "a luxurious winter ensemble with the Stenografo 0101 robe-coat, the Moralita 2234 pullover, and the Limonaia 0101 shirt.",
+        "lt": "a luxurious winter ensemble with the Stenografo 0101 robe-coat, the Moralita 2234 pullover, and the Limonaia 0101 shirt.",
+        "pl": "a luxurious winter ensemble with the Stenografo 0101 robe-coat, the Moralita 2234 pullover, and the Limonaia 0101 shirt.",
+        "uk": "a luxurious winter ensemble with the Stenografo 0101 robe-coat, the Moralita 2234 pullover, and the Limonaia 0101 shirt."
+      },
+      "items": [
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Moralita",
+          "code": "2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/133445466692424e60a8ba4_47387365_02790590XX1.jpg",
+          "modelId": 448
+        },
+        {
+          "name": "Limonaia",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg",
+          "modelId": 416
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 2226",
+        "en": "Vetrina 166",
+        "ar": "Vetrina 166",
+        "ka": "Vetrina 166",
+        "hy": "Vetrina 166",
+        "lv": "Vetrina 166",
+        "lt": "Vetrina 166",
+        "pl": "Vetrina 166",
+        "uk": "Vetrina 166"
+      },
+      "text": {
+        "ru": "Vetrina 166: динамичный городской образ с пуховиком Slaturnio 2104, рубашкой Lucinda 0201 и пуловером Manos 2246.",
+        "en": "a dynamic urban look with the Slaturnio 2104 down jacket, the Lucinda 0201 shirt, and the Manos 2246 pullover.",
+        "ar": "a dynamic urban look with the Slaturnio 2104 down jacket, the Lucinda 0201 shirt, and the Manos 2246 pullover.",
+        "ka": "a dynamic urban look with the Slaturnio 2104 down jacket, the Lucinda 0201 shirt, and the Manos 2246 pullover.",
+        "hy": "a dynamic urban look with the Slaturnio 2104 down jacket, the Lucinda 0201 shirt, and the Manos 2246 pullover.",
+        "lv": "a dynamic urban look with the Slaturnio 2104 down jacket, the Lucinda 0201 shirt, and the Manos 2246 pullover.",
+        "lt": "a dynamic urban look with the Slaturnio 2104 down jacket, the Lucinda 0201 shirt, and the Manos 2246 pullover.",
+        "pl": "a dynamic urban look with the Slaturnio 2104 down jacket, the Lucinda 0201 shirt, and the Manos 2246 pullover.",
+        "uk": "a dynamic urban look with the Slaturnio 2104 down jacket, the Lucinda 0201 shirt, and the Manos 2246 pullover."
+      },
+      "items": [
+        {
+          "name": "Slaturnio",
+          "code": "2104",
+          "imageUrl": null
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Manos",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/62874749691c57928c68a3_59975180_02790240XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- An investment in the 'Total Leather Look': Suggest the client pair the skirt with the Solarita 2226 jacket. A nappa leather ensemble is a powerful fashion trend that underscores the wearer's high status and style expertise. - Playing with textural contr"
+    ],
+    "ru": [
+      "- Инвестиция в «Total Leather Look»: Предложите клиенту дополнить юбку жакетом Solarita 2226. Костюм из кожи наппа --- это мощный модный тренд, который подчеркивает высокий статус и экспертность владелицы в вопросах стиля. - Игра на контрастах фактур: Акц"
+    ],
+    "ar": [
+      "- الاستثمار في «إطلالة الجلد المتكاملة»: اقترحي على العميلة تنسيق التنورة مع سترة Solarita 2226، فالبدلة الجلدية من جلد النابا تعد صيحة قوية تعكس المكانة العالية والخبرة في اختيار الأزياء. - التلاعب بتباين الخامات: ركزي على دمج الجلد ذي الطابع العتيق مع ا"
+    ],
+    "ka": [
+      "- ინვესტიცია «Total Leather Look»-ში: შესთავაზეთ კლიენტს ქვედაკაბა დააკომპლექტოს Solarita 2226 პიჯაკით. ნაპას ტყავის კოსტიუმი --- ეს არის მძლავრი მოდური ტრენდი, რომელიც ხაზს უსვამს მფლობელის მაღალ სტატუსს და სტილის საკითხებში ექსპერტულობას. - ფაქტურების კ"
+    ],
+    "hy": [
+      "- Ներդրում «Total Leather Look»-ում. Առաջարկեք հաճախորդին համադրել կիսաշրջազգեստը Solarita 2226 բաճկոնի հետ: Նապա կաշվից կոստյումը --- դա հզոր նորաձև թրենդ է, որն ընդգծում է բարձր կարգավիճակը և տիրոջ փորձառությունը ոճի հարցերում: - Ֆակտուրաների հակադրությ"
+    ],
+    "lv": [
+      "- Investīcija «Total Leather Look» tēlā: Piedāvājiet klientam papildināt svārkus ar žaketi Solarita 2226. Nappa ādas kostīms --- tas ir spēcīgs modes trends, kas uzsver augstu statusu un īpašnieces kompetenci stila jautājumos. - Faktūru kontrasta spēle: U"
+    ],
+    "lt": [
+      "- Investicija į „Total Leather Look“: Pasiūlykite klientui papildyti sijoną švarku Solarita 2226. Kostiumas iš nappa odos --- tai galinga mados tendencija, pabrėžianti aukštą statusą ir savininkės kompetenciją stiliaus klausimais. - Faktūrų kontrastų žaismas: Atkreipkite dėmesį į lygių vintažinės odos derinimą su švelniu kašmyru ir vilna (pavyzdžiui, su megztiniu Cuoricino). Tai sušvelnina įvaizdį, padarydami jį jaukesnį ir tinkamesnį dienos susitikimams. - Apdailos unikalumas: Pabrėžkite vintažinį odos efektą. Tai reiškia, kad kiekvienas gaminys turi nepakartojamą spalvinį niuansą, o laikui bėgant oda taps tik gražesnė, įgaudama taurią patiną."
+    ],
+    "pl": [
+      "- Inwestycja w «Total Leather Look»: Zaproponuj klientce uzupełnienie spódnicy żakietem Solarita 2226. Kostium ze skóry nappa --- to potężny modowy trend, który podkreśla wysoki status i ekspercką wiedzę właścicielki w kwestiach stylu. - Gra kontrastów fa"
+    ],
+    "uk": [
+      "- Інвестиція в «Total Leather Look»: Запропонуйте клієнту доповнити спідницю жакетом Solarita 2226. Костюм зі шкіри наппа --- це потужний модний тренд, який підкреслює високий статус та експертність власниці у питаннях стилю. - Гра на контрастах фактур: А"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The leather skirt is too bold.",
+        "a": "Show the lookbook styling with the Casilda knitwear. The soft textured knots and pastel tones of the cardigan neutralize the leather's \"edge,\" creating a refined bon ton look."
+      },
+      {
+        "q": "Hard to find a top to match this color.",
+        "a": "Point to the window-display pairings: the skirt harmonizes beautifully with white (the Leila 0201 shirt), black (the Slaturnio 2104 down jacket), and natural wool tones."
+      },
+      {
+        "q": "Leather isn't suitable for cold winters.",
+        "a": "Showcase window display No. 51, styled with the Stenografo coat. Natural leather offers excellent wind protection, and layered with wool pieces, it delivers exceptional warmth."
+      },
+      {
+        "q": "I'm afraid the leather will stretch out.",
+        "a": "Explain that Luisa Spagnoli uses premium-quality nappa leather, which holds its shape thanks to expert tanning and professional pattern-cutting."
+      },
+      {
+        "q": "The vintage effect looks worn out.",
+        "a": "Explain that this is an intentional design choice — a \"vintage treatment\" — that creates the effect of a piece with history, a hallmark of the premium luxury segment."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Кожаная юбка",
+        "a": "Покажите стилизацию из lookbook с трикотажем — это слишком Casilda. Мягкие фактурные узлы и пастельные дерзко профили кардигана нейтрализуют."
+      },
+      {
+        "q": "агрессию",
+        "a": "кожи, создавая образ в стиле bon ton."
+      },
+      {
+        "q": "Сложно",
+        "a": "Обратите внимание на витринные решения: юбка подобрать верх к идеально гармонирует с белым (рубашка Leila такому цвету 0201), черным (пуховик Slaturnio 2104) и натуральными оттенками шерсти."
+      },
+      {
+        "q": "Кожа не",
+        "a": "Продемонстрируйте образ из витрины №51 с пальто подходит для Stenografo. Натуральная кожа отлично защищает от холодной зимы ветра, а в сочетании с шерстяными слоями обеспечивает исключительное тепло."
+      },
+      {
+        "q": "Боюсь, что кожа",
+        "a": "Поясните, что Luisa Spagnoli использует кожу наппа растянется высокого качества, которая сохраняет форму благодаря правильной выделке и профессиональному крою."
+      },
+      {
+        "q": "Винтажный",
+        "a": "Объясните, что это намеренный дизайнерский прием эффект выглядит «vintage treatment , создающий эффект вещи с как потертость» историей, что является признаком дорогого люксового сегмента."
+      }
+    ],
+    "ar": [
+      {
+        "q": "التنورة الجلدية تبدو جريئة للغاية",
+        "a": "اعرضوا تنسيقاً من lookbook مع التريكو Casilda. العقد النسيجية الناعمة والخطوط الباستيل للسترة تحيد."
+      },
+      {
+        "q": "حدة",
+        "a": "الجلد، مما يخلق إطلالة بأسلوب bon ton."
+      },
+      {
+        "q": "من الصعب تنسيق قطعة علوية مع هذا اللون",
+        "a": "نلفت انتباهكم إلى حلول واجهات العرض: التنورة تتناغم بشكل مثالي مع الأبيض (قميص Leila 0201)، الأسود (جاكيت Slaturnio 2104)، ودرجات الصوف الطبيعية."
+      },
+      {
+        "q": "الجلد غير مناسب لشتاء بارد",
+        "a": "اعرضوا الإطلالة من واجهة العرض رقم 51 مع المعطف Stenografo. الجلد الطبيعي يحمي ببراعة من الرياح، وعند تنسيقه مع طبقات الصوف يوفر دفئاً استثنائياً."
+      },
+      {
+        "q": "أخشى أن يتمدد الجلد",
+        "a": "نوضح أن Luisa Spagnoli تستخدم جلد النابا عالي الجودة، الذي يحافظ على شكله بفضل المعالجة الصحيحة والقصة الاحترافية."
+      },
+      {
+        "q": "تأثير الطراز القديم (Vintage) يبدو وكأنه تلف",
+        "a": "نوضح أن هذا خيار تصميمي مقصود."
+      },
+      {
+        "q": "vintage treatment",
+        "a": "يضفي طابعاً تاريخياً للقطعة، وهو دليل على رقي الفئة الفاخرة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ტყავის ქვედაბოლო — ეს ზედმეტად თამამია",
+        "a": "აჩვენეთ სტილიზაცია lookbook-იდან Casilda-ს ნაქსოვ სამოსთან ერთად. რბილი ფაქტურული კვანძები და კარდიგანის პასტელური პროფილები ანეიტრალებს ტყავის."
+      },
+      {
+        "q": "აგრესიას",
+        "a": "რაც ქმნის bon ton სტილის იმიჯს."
+      },
+      {
+        "q": "რთულია ასეთი ფერისთვის ზედა ნაწილის შერჩევა",
+        "a": "ყურადღება მიაქციეთ ვიტრინის გადაწყვეტას: ქვედაბოლო იდეალურად ჰარმონირებს თეთრ (პერანგი Leila 0201), შავ (ქურთუკი Slaturnio 2104) და შალის ბუნებრივ ტონებთან."
+      },
+      {
+        "q": "ტყავი არ არის შესაფერისი ცივი ზამთრისთვის",
+        "a": "წარმოადგინეთ იმიჯი №51 ვიტრინიდან პალტოსთან Stenografo. ნატურალური ტყავი შესანიშნავად იცავს ქარისგან, ხოლო შალის ფენებთან შეხამებით უზრუნველყოფს განსაკუთრებულ სითბოს."
+      },
+      {
+        "q": "შიში მაქვს, რომ ტყავი გაიწელება",
+        "a": "განუმარტეთ, რომ Luisa Spagnoli იყენებს მაღალი ხარისხის ნაპას ტყავს, რომელიც ინარჩუნებს ფორმას სწორი დამუშავებისა და პროფესიონალური ჭრის წყალობით."
+      },
+      {
+        "q": "ვინტაჟური ეფექტი გამოიყურება როგორც გაცვეთილობა",
+        "a": "აუხსენით, რომ ეს არის განზრახ დიზაინერული ხერხი."
+      },
+      {
+        "q": "vintage treatment",
+        "a": "რომელიც ქმნის ისტორიის მქონე ნივთის ეფექტს, რაც ძვირადღირებული ლუქს სეგმენტის ნიშანია."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կաշվե կիսաշրջազգեստը չափազանց համարձակ է",
+        "a": "Ցույց տվեք Casilda տրիկոտաժով lookbook-ի ոճավորումը։ Փափուկ հյուսվածքային հանգույցները և կարդիգանի պաստելային երանգները չեզոքացնում են կաշվի."
+      },
+      {
+        "q": "ագրեսիան",
+        "a": "՝ ստեղծելով bon ton ոճի կերպար։."
+      },
+      {
+        "q": "Դժվար է վերնահագուստ ընտրել նման գույնի համար",
+        "a": "Ուշադրություն դարձրեք ցուցափեղկի լուծումներին. կիսաշրջազգեստը կատարյալ ներդաշնակ է սպիտակ (Leila 0201 վերնաշապիկ), սև (Slaturnio 2104 բաճկոն) և բնական բրդյա երանգների հետ։."
+      },
+      {
+        "q": "Կաշին հարմար չէ ցուրտ ձմռան համար",
+        "a": "Ցուցադրեք №51 ցուցափեղկի կերպարը Stenografo վերարկուով։ Բնական կաշին հիանալի պաշտպանում է քամուց, իսկ բրդյա շերտերի հետ համադրությունը ապահովում է բացառիկ ջերմություն։."
+      },
+      {
+        "q": "Վախենում եմ, որ կաշին կձգվի",
+        "a": "Բացատրեք, որ Luisa Spagnoli-ն օգտագործում է բարձրորակ նապա կաշի, որը պահպանում է իր ձևը ճիշտ մշակման և պրոֆեսիոնալ կտրվածքի շնորհիվ։."
+      },
+      {
+        "q": "Վինտաժային էֆեկտը նման է մաշվածության",
+        "a": "Բացատրեք, որ սա դիզայներական միտումնավոր."
+      },
+      {
+        "q": "vintage treatment",
+        "a": "հնարք է, որը ստեղծում է պատմություն ունեցող իրի տպավորություն, ինչը թանկարժեք լյուքս սեգմենտի նշան է։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Ādas svārki — tas ir pārāk drosmīgi",
+        "a": "Parādiet stilizāciju no lookbook ar trikotāžu Casilda. Mīkstie teksturētie mezgli un kardigāna pasteļtoņu profili neitralizē ādas."
+      },
+      {
+        "q": "agresivitāti",
+        "a": "radot tēlu bon ton stilā."
+      },
+      {
+        "q": "Grūti piemeklēt augšiņu šādai krāsai",
+        "a": "Pievērsiet uzmanību vitrīnu risinājumiem: svārki ideāli harmonē ar balto (krekls Leila 0201), melno (dūnu jaka Slaturnio 2104) un dabīgajiem vilnas toņiem."
+      },
+      {
+        "q": "Āda nav piemērota aukstai ziemai",
+        "a": "Demonstrējiet tēlu no vitrīnas Nr. 51 ar mēteli Stenografo. Dabīgā āda lieliski aizsargā no vēja, bet kombinācijā ar vilnas slāņiem nodrošina izcilu siltumu."
+      },
+      {
+        "q": "Baidos, ka āda izstiepsies",
+        "a": "Paskaidrojiet, ka Luisa Spagnoli izmanto augstas kvalitātes nappa ādu, kas saglabā formu, pateicoties pareizai apstrādei un profesionālam piegriezumam."
+      },
+      {
+        "q": "Vintāžas efekts izskatās pēc nobrāzuma",
+        "a": "Paskaidrojiet, ka tas ir apzināts dizaina paņēmiens."
+      },
+      {
+        "q": "vintage treatment",
+        "a": "kas rada priekšmeta ar vēsturi efektu, kas ir dārga luksusa segmenta pazīme."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Odinis sijonas",
+        "a": "Parodykite stilizaciją iš lookbook su Casilda trikotažu. — tai per daug Minkšti faktūriniai mazgai ir pasteliniai kardigano drąsu“ profiliai neutralizuoja odos „agresiją“, sukurdami bon ton stiliaus įvaizdį. stilizaciją iš lookbook su Casilda trikotažu. — tai per daug Minkšti faktūriniai mazgai ir pasteliniai kardigano drąsu“ profiliai neutralizuoja odos „agresiją“, sukurdami bon ton stiliaus įvaizdį."
+      },
+      {
+        "q": "„Sunku priderinti",
+        "a": "Atkreipkite dėmesį į vitrinų sprendimus: sijonas idealiai viršų prie tokios dera su balta (Leila 0201 marškiniai), juoda (Slaturnio spalvos“ 2104 pūkinė striukė) ir natūraliais vilnos atspalviais. į vitrinų sprendimus: sijonas idealiai viršų prie tokios dera su balta (Leila 0201 marškiniai), juoda (Slaturnio spalvos“ 2104 pūkinė striukė) ir natūraliais vilnos atspalviais."
+      },
+      {
+        "q": "„Oda netinka",
+        "a": "Parodykite įvaizdį iš 51-os vitrinos su Stenografo paltu. šaltai žiemai“ Natūrali oda puikiai apsaugo nuo vėjo, o kartu su vilnoniais sluoksniais užtikrina išskirtinę šilumą. įvaizdį iš 51-os vitrinos su Stenografo paltu. šaltai žiemai“ Natūrali oda puikiai apsaugo nuo vėjo, o kartu su vilnoniais sluoksniais užtikrina išskirtinę šilumą."
+      },
+      {
+        "q": "„Bijau, kad oda",
+        "a": "Paaiškinkite, jog Luisa Spagnoli naudoja aukštos išsitampys“ kokybės nappa odą, kuri išlaiko formą dėl tinkamo apdirbimo ir profesionalaus kirpimo. , jog Luisa Spagnoli naudoja aukštos išsitampys“ kokybės nappa odą, kuri išlaiko formą dėl tinkamo apdirbimo ir profesionalaus kirpimo."
+      },
+      {
+        "q": "„Vintažinis efektas",
+        "a": "Paaiškinkite, kad tai sąmoningas dizainerio sprendimas atrodo kaip „vintage treatment“, sukuriantis daikto su istorija nusitrynimai“ įspūdį, kas yra prabangaus „luxury“ segmento požymis."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Skórzana spódnica jest zbyt odważna",
+        "a": "Pokaż stylizację z lookbooka z dzianiną Casilda. Miękkie, fakturowe sploty i pastelowe odcienie kardiganu neutralizują."
+      },
+      {
+        "q": "agresję",
+        "a": "skóry, tworząc wizerunek w stylu bon ton."
+      },
+      {
+        "q": "Trudno dobrać górę do takiego koloru",
+        "a": "Zwróć uwagę na rozwiązania z witryn: spódnica idealnie współgra z białym (koszula Leila 0201), czarnym (puchówka Slaturnio 2104) oraz naturalnymi odcieniami wełny."
+      },
+      {
+        "q": "Skóra nie nadaje się na mroźną zimę",
+        "a": "Zaprezentuj stylizację z witryny nr 51 z płaszczem Stenografo. Naturalna skóra doskonale chroni przed wiatrem, a w połączeniu z wełnianymi warstwami zapewnia wyjątkowe ciepło."
+      },
+      {
+        "q": "Boję się, że skóra się rozciągnie",
+        "a": "Wyjaśnij, że Luisa Spagnoli stosuje skórę nappa wysokiej jakości, która zachowuje swój kształt dzięki odpowiedniej obróbce i profesjonalnemu krojowi."
+      },
+      {
+        "q": "Efekt vintage wygląda jak przetarcie",
+        "a": "Wyjaśnij, że jest to zamierzony zabieg designerski."
+      },
+      {
+        "q": "vintage treatment",
+        "a": "tworzący efekt przedmiotu z historią, co jest wyznacznikiem drogiego segmentu luksusowego."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Шкіряна спідниця — це занадто зухвало",
+        "a": "Покажіть стилізацію з lookbook із трикотажем Casilda. М'які фактурні вузли та пастельні профілі кардигана нейтралізують."
+      },
+      {
+        "q": "агресію",
+        "a": "шкіри, створюючи образ у стилі bon ton."
+      },
+      {
+        "q": "Складно підібрати верх до такого кольору",
+        "a": "Зверніть увагу на вітринні рішення: спідниця ідеально гармоніює з білим (сорочка Leila 0201), чорним (пуховик Slaturnio 2104) та натуральними відтінками вовни."
+      },
+      {
+        "q": "Шкіра не підходить для холодної зими",
+        "a": "Продемонструйте образ із вітрини №51 з пальто Stenografo. Натуральна шкіра відмінно захищає від вітру, а в поєднанні з вовняними шарами забезпечує виняткове тепло."
+      },
+      {
+        "q": "Боюся, що шкіра розтягнеться",
+        "a": "Поясніть, що Luisa Spagnoli використовує шкіру наппа високої якості, яка зберігає форму завдяки правильній вичинці та професійному крою."
+      },
+      {
+        "q": "Винтажний ефект виглядає як потертість",
+        "a": "Поясніть, що це навмисний дизайнерський прийом."
+      },
+      {
+        "q": "vintage treatment",
+        "a": "який створює ефект речі з історією, що є ознакою дорогого люксового сегмента."
+      }
+    ]
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "id": 457,
+  "name": "Oltenia",
+  "description": {
+    "en": "The Oltenia trousers are an artistic embodiment of effortless '70s chic, reimagined within Luisa Spagnoli's contemporary aesthetic. Crafted from high-quality cotton denim (denim di cotone), whose dense texture holds an architectural shape beautifully. The iconic flared silhouette (vestibilitÃ flare) masterfully elongates the leg line, creating a floating, dynamic stride and a runway-worthy status to the look. The classic five-pocket design is elevated to high fashion through an exclusive detail â€” the signature button bearing the LS heraldic logo, which serves as the brand's jewel-like signature. These jeans represent an intellectual foundation, uniting the comfort of denim with the discipline of a sartorial cut.",
+    "ru": "Брюки Oltenia --- это артистичное воплощение непринужденного шика 70-х, переосмысленное в современной эстетике Luisa Spagnoli. Модель выполнена из высококачественного хлопкового денима (denim di cotone), чья плотная фактура идеально держит архитектурную форму. Культовый расклешенный силуэт (vestibilità flare) виртуозно удлиняет линию ног, создавая летящую, динамичную походку и подиумный статус образа. Классический пятикарманный дизайн возведен в ранг высокой моды благодаря эксклюзивной детали --- фирменной пуговице с геральдическим логотипом LS, которая служит ювелирным автографом бренда. Эти джинсы представляют собой интеллектуальную базу, объединяющую комфорт денима и строгость сарториального кроя.",
+    "ar": "سراويل Oltenia هي تجسيد فني للأناقة العفوية لفترة السبعينيات، بأسلوب عصري من Luisa Spagnoli. صُنعت من الدنيم القطني عالي الجودة (denim di cotone)، الذي يحافظ بقوامه الكثيف على الشكل المعماري. قصة الساق الواسعة (vestibilità flare) تطيل خط الساق ببراعة، مما يضفي حيوية وأناقة على المظهر. تم الارتقاء بالتصميم التقليدي ذي الجيوب الخمسة إلى عالم الأزياء الراقية بفضل تفصيلة حصرية: زر يحمل شعار LS، ليكون بمثابة بصمة مجوهرات للعلامة. هذا الجينز يمثل قاعدة ذكية تجمع بين راحة الدنيم وصرامة الخياطة.",
+    "ka": "Oltenia-ს შარვალი არის 70-იანი წლების თავისუფალი შიკის არტისტული განსახიერება, რომელიც ხელახლა არის გააზრებული Luisa Spagnoli-ის თანამედროვე ესთეტიკაში. მოდელი დამზადებულია მაღალი ხარისხის ბამბის დენიმისგან (denim di cotone), რომლის მჭიდრო ტექსტურა იდეალურად ინარჩუნებს არქიტექტურულ ფორმას. საკულტო გაშლილი სილუეტი (vestibilità flare) ვირტუოზულად აგრძელებს ფეხების ხაზს, რაც ქმნის მოძრავ, დინამიურ სიარულს და პოდიუმის სტატუსის მქონე იმიჯს. კლასიკური ხუთჯიბიანი დიზაინი მაღალი მოდის რანგშია აყვანილი ექსკლუზიური დეტალის წყალობით - ბრენდირებული ღილაკი LS ჰერალდიკური ლოგოთი, რომელიც ბრენდის საიუველირო ავტოგრაფად გვევლინება. ეს ჯინსები წარმოადგენს ინტელექტუალურ ბაზას, რომელიც აერთიანებს დენიმის კომფორტს და მკერავის ოსტატობის სიმკაცრეს.",
+    "hy": "Oltenia տաբատը 70-ականների հանգիստ շքեղության արվեստային մարմնավորումն է՝ վերաիմաստավորված Luisa Spagnoli-ի ժամանակակից էսթետիկայով։ Մոդելը պատրաստված է բարձրորակ բամբակյա ջինսե կտորից (denim di cotone), որի խիտ հյուսվածքը կատարյալ կերպով պահպանում է ճարտարապետական ձևը։ Պաշտամունքային՝ ստորին հատվածում լայնացող ուրվագիծը (vestibilità flare) վարպետորեն երկարացնում է ոտքերի գիծը՝ ստեղծելով թեթև, դինամիկ քայլվածք և պոդիումային կարգավիճակ հաղորդելով կերպարին։ Դասական հինգ գրպանանի դիզայնը բարձր նորաձևության մակարդակի է հասցված շնորհիվ բացառիկ մանրուքի՝ LS հերալդիկ լոգոտիպով ֆիրմային կոճակի, որը ծառայում է որպես բրենդի յուվելիրային ստորագրություն։ Այս ջինսերը ներկայացնում են ինտելեկտուալ հիմք, որը միավորում է դենիմի հարմարավետությունը և սարտորիալ կտրվածքի խստությունը։",
+    "lv": "Oltenia bikses ir māksliniecisks 70. gadu nepiespiestā šika iemiesojums, kas pārvērtēts mūsdienīgā Luisa Spagnoli estētikā. Modelis ir izgatavots no augstas kvalitātes kokvilnas džinsa (denim di cotone), kura blīvā faktūra lieliski notur arhitektonisko formu. Kultais piegulošais siluets (vestibilità flare) virtuozi pagarina kāju līniju, radot lidojošu, dinamisku gaitu un tēlu, kas cienīgs uz mēles. Klasiskais piecu kabatu dizains ir pacelts augstās modes rangā, pateicoties ekskluzīvai detaļai --- firmas pogai ar heraldisko LS logotipu, kas kalpo kā zīmola juvelierizstrādājumu autogrāfs. Šie džinsi ir intelektuāls pamats, kas apvieno džinsa komfortu un sartoriālā piegriezuma stingrību.",
+    "lt": "Kelnės Oltenia --- tai artistiškas 70-ųjų neįpareigojančios prabangos įkūnijimas, permąstytas šiuolaikinėje Luisa Spagnoli estetikoje. Modelis pagamintas iš aukštos kokybės medvilninio džinso (denim di cotone), kurio tanki faktūra idealiai išlaiko architektūrinę formą. Kultinis platėjantis siluetas (vestibilità flare) virtuoziškai ilgina kojų liniją, sukuriant grakščią, dinamišką eiseną ir podiumo vertą įvaizdį. Klasikinis penkių kišenių dizainas pakeltas į aukštosios mados rangą dėka išskirtinės detalės --- firminės sagos su heraldiniu LS logotipu, kuri tarnauja kaip juvelyrinis prekės ženklo autografas. Šie džinsai yra intelektuali bazė, jungianti džinso komfortą ir sartorialinio kirpimo griežtumą.",
+    "pl": "Spodnie Oltenia to artystyczne ucieleśnienie swobodnego szyku lat 70. zinterpretowane w nowoczesnej estetyce Luisa Spagnoli. Model wykonany z wysokiej jakości bawełnianego denimu (denim di cotone), którego gęsta faktura idealnie utrzymuje architektoniczną formę. Kultowy, rozszerzany krój (vestibilità flare) mistrzowsko wydłuża linię nóg, nadając stylizacji lekki, dynamiczny charakter i status godny wybiegu. Klasyczny projekt z pięcioma kieszeniami został wzniesiony do rangi wysokiej mody dzięki ekskluzywnemu detali --- firmowemu guzikowi z heraldycznym logo LS, który pełni rolę jubilerskiego autografu marki. Te dżinsy stanowią intelektualną bazę, łączącą komfort denimu z rygorem krawieckiego kroju.",
+    "uk": "Брюки Oltenia --- це артистичне втілення невимушеного шику 70-х, переосмислене в сучасній естетиці Luisa Spagnoli. Модель виконана з високоякісного бавовняного деніму (denim di cotone), чия щільна фактура ідеально тримає архітектурну форму. Культовий розкльошений силует (vestibilità flare) віртуозно подовжує лінію ніг, створюючи летючу, динамічну ходу та подіумний статус образу. Класичний п'ятикарманний дизайн зведений у ранг високої моди завдяки ексклюзивній деталі --- фірмовому ґудзику з геральдичним логотипом LS, який слугує ювелірним автографом бренду. Ці джинси являють собою інтелектуальну базу, що об'єднує комфорт деніму та строгість сарторіального крою."
+  },
+  "colors": [
+    {
+      "name": "Blu",
+      "code": "1222",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1010865111692424d516d4e4_32605317_02781400XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать брюки Oltenia как фундамент для создания многослойных образов в стиле «City Chic» и подиумных «Total Looks»: Вариант 1222 ( Синий деним): В lookbook (Look 38) и на витринах (Vetrina 1, Bambola 1): канонический денимный «Total Look» с курткой-оверширт Silicone 1222 0952, пуловером Manos 0951 и шляпой Renno 0930. Образ завершает сумка Iago 2240 0002.",
+        "en": "The brand's stylists suggest using Oltenia trousers as a foundation for creating layered \"City Chic\" looks and runway \"Total Looks\": Option 1222 ( Blue denim): In the lookbook (Look 38) and on display (Vetrina 1, Bambola 1): a canonical denim \"Total Look\" with a Silicone 1222 0952 overshirt jacket, a Manos 0951 pullover and a Renno 0930 hat. The look is finished with an Iago 2240 0002 bag.",
+        "ar": "The brand's stylists suggest using Oltenia trousers as a foundation for creating layered \"City Chic\" looks and runway \"Total Looks\": Option 1222 ( Blue denim): In the lookbook (Look 38) and on display (Vetrina 1, Bambola 1): a canonical denim \"Total Look\" with a Silicone 1222 0952 overshirt jacket, a Manos 0951 pullover and a Renno 0930 hat. The look is finished with an Iago 2240 0002 bag.",
+        "ka": "The brand's stylists suggest using Oltenia trousers as a foundation for creating layered \"City Chic\" looks and runway \"Total Looks\": Option 1222 ( Blue denim): In the lookbook (Look 38) and on display (Vetrina 1, Bambola 1): a canonical denim \"Total Look\" with a Silicone 1222 0952 overshirt jacket, a Manos 0951 pullover and a Renno 0930 hat. The look is finished with an Iago 2240 0002 bag.",
+        "hy": "The brand's stylists suggest using Oltenia trousers as a foundation for creating layered \"City Chic\" looks and runway \"Total Looks\": Option 1222 ( Blue denim): In the lookbook (Look 38) and on display (Vetrina 1, Bambola 1): a canonical denim \"Total Look\" with a Silicone 1222 0952 overshirt jacket, a Manos 0951 pullover and a Renno 0930 hat. The look is finished with an Iago 2240 0002 bag.",
+        "lv": "The brand's stylists suggest using Oltenia trousers as a foundation for creating layered \"City Chic\" looks and runway \"Total Looks\": Option 1222 ( Blue denim): In the lookbook (Look 38) and on display (Vetrina 1, Bambola 1): a canonical denim \"Total Look\" with a Silicone 1222 0952 overshirt jacket, a Manos 0951 pullover and a Renno 0930 hat. The look is finished with an Iago 2240 0002 bag.",
+        "lt": "The brand's stylists suggest using Oltenia trousers as a foundation for creating layered \"City Chic\" looks and runway \"Total Looks\": Option 1222 ( Blue denim): In the lookbook (Look 38) and on display (Vetrina 1, Bambola 1): a canonical denim \"Total Look\" with a Silicone 1222 0952 overshirt jacket, a Manos 0951 pullover and a Renno 0930 hat. The look is finished with an Iago 2240 0002 bag.",
+        "pl": "The brand's stylists suggest using Oltenia trousers as a foundation for creating layered \"City Chic\" looks and runway \"Total Looks\": Option 1222 ( Blue denim): In the lookbook (Look 38) and on display (Vetrina 1, Bambola 1): a canonical denim \"Total Look\" with a Silicone 1222 0952 overshirt jacket, a Manos 0951 pullover and a Renno 0930 hat. The look is finished with an Iago 2240 0002 bag.",
+        "uk": "The brand's stylists suggest using Oltenia trousers as a foundation for creating layered \"City Chic\" looks and runway \"Total Looks\": Option 1222 ( Blue denim): In the lookbook (Look 38) and on display (Vetrina 1, Bambola 1): a canonical denim \"Total Look\" with a Silicone 1222 0952 overshirt jacket, a Manos 0951 pullover and a Renno 0930 hat. The look is finished with an Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Silicone",
+          "code": "1222 0952",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1910210893691f159b467e04_65329155_02780860XX1.jpg",
+          "modelId": 484
+        },
+        {
+          "name": "Manos",
+          "code": "0951",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 72)",
+        "en": "In the lookbook (Look 72)",
+        "ar": "In the lookbook (Look 72)",
+        "ka": "In the lookbook (Look 72)",
+        "hy": "In the lookbook (Look 72)",
+        "lv": "In the lookbook (Look 72)",
+        "lt": "In the lookbook (Look 72)",
+        "pl": "In the lookbook (Look 72)",
+        "uk": "In the lookbook (Look 72)"
+      },
+      "text": {
+        "ru": "статусный контрастный сет с кожаной курткой-рубашкой Sarmoneta 0101, демонстрирующий игру фактур кожи и денима.",
+        "en": "a high-status contrast set with a Sarmoneta 0101 leather shirt-jacket, showcasing a play on leather and denim textures.",
+        "ar": "a high-status contrast set with a Sarmoneta 0101 leather shirt-jacket, showcasing a play on leather and denim textures.",
+        "ka": "a high-status contrast set with a Sarmoneta 0101 leather shirt-jacket, showcasing a play on leather and denim textures.",
+        "hy": "a high-status contrast set with a Sarmoneta 0101 leather shirt-jacket, showcasing a play on leather and denim textures.",
+        "lv": "a high-status contrast set with a Sarmoneta 0101 leather shirt-jacket, showcasing a play on leather and denim textures.",
+        "lt": "a high-status contrast set with a Sarmoneta 0101 leather shirt-jacket, showcasing a play on leather and denim textures.",
+        "pl": "a high-status contrast set with a Sarmoneta 0101 leather shirt-jacket, showcasing a play on leather and denim textures.",
+        "uk": "a high-status contrast set with a Sarmoneta 0101 leather shirt-jacket, showcasing a play on leather and denim textures."
+      },
+      "items": [
+        {
+          "name": "Sarmoneta",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/306742918691f159adb4f80_06607702_02780850XX1.jpg",
+          "modelId": 474
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 5, Bambola 3)",
+        "en": "On display (Vetrina 5, Bambola 3)",
+        "ar": "On display (Vetrina 5, Bambola 3)",
+        "ka": "On display (Vetrina 5, Bambola 3)",
+        "hy": "On display (Vetrina 5, Bambola 3)",
+        "lv": "On display (Vetrina 5, Bambola 3)",
+        "lt": "On display (Vetrina 5, Bambola 3)",
+        "pl": "On display (Vetrina 5, Bambola 3)",
+        "uk": "On display (Vetrina 5, Bambola 3)"
+      },
+      "text": {
+        "ru": "уютный загородный шик под замшевой курткой Scanio 2219 0908 в паре с рубашкой Leila 0684 и пуловером Manos 0970.",
+        "en": "cozy country chic under a Scanio 2219 0908 suede jacket paired with a Leila 0684 shirt and a Manos 0970 pullover.",
+        "ar": "cozy country chic under a Scanio 2219 0908 suede jacket paired with a Leila 0684 shirt and a Manos 0970 pullover.",
+        "ka": "cozy country chic under a Scanio 2219 0908 suede jacket paired with a Leila 0684 shirt and a Manos 0970 pullover.",
+        "hy": "cozy country chic under a Scanio 2219 0908 suede jacket paired with a Leila 0684 shirt and a Manos 0970 pullover.",
+        "lv": "cozy country chic under a Scanio 2219 0908 suede jacket paired with a Leila 0684 shirt and a Manos 0970 pullover.",
+        "lt": "cozy country chic under a Scanio 2219 0908 suede jacket paired with a Leila 0684 shirt and a Manos 0970 pullover.",
+        "pl": "cozy country chic under a Scanio 2219 0908 suede jacket paired with a Leila 0684 shirt and a Manos 0970 pullover.",
+        "uk": "cozy country chic under a Scanio 2219 0908 suede jacket paired with a Leila 0684 shirt and a Manos 0970 pullover."
+      },
+      "items": [
+        {
+          "name": "Scanio",
+          "code": "2219 0908",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1382076925692424da8dd0a9_52339721_02781580XX1.jpg",
+          "modelId": 475
+        },
+        {
+          "name": "Leila",
+          "code": "0684",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "modelId": 414
+        },
+        {
+          "name": "Manos",
+          "code": "0970",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 93, Bambola 3)",
+        "en": "On display (Vetrina 93, Bambola 3)",
+        "ar": "On display (Vetrina 93, Bambola 3)",
+        "ka": "On display (Vetrina 93, Bambola 3)",
+        "hy": "On display (Vetrina 93, Bambola 3)",
+        "lv": "On display (Vetrina 93, Bambola 3)",
+        "lt": "On display (Vetrina 93, Bambola 3)",
+        "pl": "On display (Vetrina 93, Bambola 3)",
+        "uk": "On display (Vetrina 93, Bambola 3)"
+      },
+      "text": {
+        "ru": "функциональный зимний ансамбль под укороченным пальто Soncio 0963 1161 в сочетании с жилетом Maica 2246 и пуловером Manos 2246.",
+        "en": "a functional winter ensemble under a short Soncio 0963 1161 coat paired with a Maica 2246 vest and a Manos 2246 pullover.",
+        "ar": "a functional winter ensemble under a short Soncio 0963 1161 coat paired with a Maica 2246 vest and a Manos 2246 pullover.",
+        "ka": "a functional winter ensemble under a short Soncio 0963 1161 coat paired with a Maica 2246 vest and a Manos 2246 pullover.",
+        "hy": "a functional winter ensemble under a short Soncio 0963 1161 coat paired with a Maica 2246 vest and a Manos 2246 pullover.",
+        "lv": "a functional winter ensemble under a short Soncio 0963 1161 coat paired with a Maica 2246 vest and a Manos 2246 pullover.",
+        "lt": "a functional winter ensemble under a short Soncio 0963 1161 coat paired with a Maica 2246 vest and a Manos 2246 pullover.",
+        "pl": "a functional winter ensemble under a short Soncio 0963 1161 coat paired with a Maica 2246 vest and a Manos 2246 pullover.",
+        "uk": "a functional winter ensemble under a short Soncio 0963 1161 coat paired with a Maica 2246 vest and a Manos 2246 pullover."
+      },
+      "items": [
+        {
+          "name": "Soncio",
+          "code": "0963 1161",
+          "imageUrl": null
+        },
+        {
+          "name": "Maica",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1432544873691c578f43e2f2_96288006_02790030XX1.jpg",
+          "modelId": 431
+        },
+        {
+          "name": "Manos",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/62874749691c57928c68a3_59975180_02790240XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The architecture of the silhouette: Direct the client's attention to the flare cut. Explain that the flare from the knee visually balances the hip line and, paired with heeled footwear (for example, the Ulisside boots), makes the legs appear endlessly l"
+    ],
+    "ru": [
+      "- Архитектура силуэта: Акцентируйте внимание клиента на крое flare. Объясните, что расширение от колена визуально уравновешивает линию бедер и в сочетании с обувью на каблуке (например, сапогами Ulisside) делает ноги бесконечно длинными. - Магия «Total De"
+    ],
+    "ar": [
+      "- هندسة القوام: ركزي انتباه العميل على قصّة flare. وضحي أن التوسع من الركبة يوازن بصرياً خط الأرداف، ومع الأحذية ذات الكعب العالي (مثل بوت Ulisside)، يجعل الأرجل تبدو طويلة بشكل لا يصدق. - سحر «Total Denim»: ننصح باقتنائه مع جاكيت Silicone 1222. الخط العم"
+    ],
+    "ka": [
+      "- სილუეტის არქიტექტურა: გაამახვილეთ კლიენტის ყურადღება flare-ის ჭრილზე. აუხსენით, რომ მუხლიდან გაშლილი სილუეტი ვიზუალურად აბალანსებს თეძოს ხაზს და ქუსლიან ფეხსაცმელთან (მაგალითად, Ulisside-ის ჩექმებთან) კომბინაციაში ფეხებს უსასრულოდ გრძელს აჩენს. - „Total"
+    ],
+    "hy": [
+      "- Սիլուետի ճարտարապետությունը. Հաճախորդի ուշադրությունը կենտրոնացրեք flare կտրվածքի վրա: Բացատրեք, որ ծնկից լայնացող հատվածը տեսողականորեն հավասարակշռում է կոնքերի գիծը և կրունկներով կոշիկների հետ համադրելիս (օրինակ՝ Ulisside երկարաճիտք կոշիկների) ոտքերը"
+    ],
+    "lv": [
+      "- Silueta arhitektūra: Vērsiet klienta uzmanību uz flare piegriezumu. Paskaidrojiet, ka paplašinājums no ceļgala vizuāli līdzsvaro gurnu līniju un kombinācijā ar apaviem uz papēža (piemēram, zābakiem Ulisside) padara kājas bezgalīgi garas. - \"Total Denim\""
+    ],
+    "lt": [
+      "- Silueto architektūra: atkreipkite kliento dėmesį į „flare“ kirpimą. Paaiškinkite, kad platėjimas nuo kelio vizualiai subalansuoja klubų liniją ir derinant su avalyne su kulnu (pavyzdžiui, Ulisside batais) kojas daro neįtikėtinai ilgas. - „Total Denim“ magija: rekomenduokite įsigyti kartu su Silicone 1222 striuke. Vientisa spalvinė ir tekstilinė vertikalė --- tai viena svarbiausių podiumo tendencijų, leidžianti atrodyti itin madingai ir kartu jaustis maksimaliai patogiai. - Statusas detalėse: pabrėžkite herbinę LS sagą. Šis subtilus auksinis akcentas perkelia džinsus iš kasdienio drabužio kategorijos į „Luxury Denim“ kategoriją, tinkančią net susitikimams neformalioje verslo aplinkoje."
+    ],
+    "pl": [
+      "- Architektura sylwetki: Zwróć uwagę klientki na krój typu flare. Wyjaśnij, że rozszerzenie od kolana wizualnie równoważy linię bioder i w połączeniu z obuwiem na obcasie (na przykład botkami Ulisside) sprawia, że nogi wydają się niekończenie długie. - Ma"
+    ],
+    "uk": [
+      "- Архітектура силуету: Акцентуйте увагу клієнта на крої flare. Поясніть, що розширення від коліна візуально врівноважує лінію стегон і в поєднанні із взуттям на підборах (наприклад, чоботами Ulisside) робить ноги нескінченно довгими. - Магія «Total Denim»"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Flared",
+        "a": "jeans are On the contrary, the Oltenia model is remarkably hard to style» versatile. Showcase Look 72: paired with the black Sarmoneta leather shirt, the look reads as bold and contemporary. «Denim can look Point out the impeccable cut and LS's crest too plain» hardware. These details, paired with dense cotton, create a \"smart wardrobe\" effect, where simplicity of form underscores high quality. «Flare fit only On the contrary, this cut is recommended for suits taller correcting proportions. Paired with heels, the flare women» creates an uninterrupted vertical line that \"elongates\" a petite frame, making it appear slimmer. «I'm worried the The premium cotton in the Oltenia model has the denim will stretch density needed to maintain the silhouette's out at the knees» structure. The jeans keep crisp lines even with active wear. «Blue seems too Indigo 1222 is an eternal classic. Use pieces from traditional» the collection (such as the Renno 0930 hat) to add personality to the look and turn a basic piece into a statement object"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Расклешенные Напротив, модель Oltenia крайне универсальна. джинсы сложно",
+        "a": "Продемонстрируйте Look 72: в сочетании с черной стилизовать кожаной рубашкой Sarmoneta образ выглядит дерзко и современно."
+      },
+      {
+        "q": "Деним может",
+        "a": "Укажите на безупречный крой и геральдическую выглядеть слишком фурнитуру LS. Эти детали в сочетании с плотным просто хлопком создают эффект."
+      },
+      {
+        "q": "умного гардероба",
+        "a": "где простота формы подчеркивает высокое качество."
+      },
+      {
+        "q": "Flare Fit Этот фасон, напротив, рекомендуется для коррекции требует только роста. В паре с каблуком клеш создает непрерывную высокого роста",
+        "a": "линию, которая."
+      },
+      {
+        "q": "вытягивает",
+        "a": "миниатюрную фигуру, делая её стройнее."
+      },
+      {
+        "q": "Боюсь, что деним Высококачественный хлопок в модели Oltenia растянется в обладает необходимой плотностью для поддержания коленях",
+        "a": "структуры силуэта. Джинсы сохраняют четкость линий даже при активной эксплуатации."
+      },
+      {
+        "q": "Синий цвет Indigo 1222 — это вечная классика. Используйте кажется слишком аксессуары из коллекции (например, шляпу Renno традиционным",
+        "a": "0930), чтобы добавить образу индивидуальности и превратить базу в арт-объект."
+      }
+    ],
+    "ar": [
+      {
+        "q": "من الصعب تنسيق السراويل ذات القصة الواسعة (Flare)",
+        "a": "- على العكس من ذلك، موديل Oltenia يتميز بتنوع فائق. استعرضوا Look 72: مع قميص Sarmoneta الجلدي الأسود، تبدو الإطلالة جريئة وعصرية."
+      },
+      {
+        "q": "الدنيم قد يبدو بسيطاً للغاية",
+        "a": "- ركزوا على القصّة المتقنة والقطع المعدنية ذات الطابع النبيل (Heraldic) لـ LS. هذه التفاصيل، جنباً إلى جنب مع القطن الكثيف، تخلق تأثيراً لـ."
+      },
+      {
+        "q": "خزانة الملابس الذكية",
+        "a": "حيث تؤكد بساطة الشكل على الجودة العالية."
+      },
+      {
+        "q": "قصّة Flare تتطلب قامة طويلة فقط",
+        "a": "- هذا التصميم، على العكس، يوصى به لتعديل القامة. فمع الكعب العالي، يخلق اتساع الساق خطاً متصلاً يعمل على."
+      },
+      {
+        "q": "إطالة",
+        "a": "القامة الممتلئة ويجعلها تبدو أكثر رشاقة."
+      },
+      {
+        "q": "أخشى أن يتمدد الدنيم عند الركبتين",
+        "a": "- يتمتع القطن عالي الجودة في موديل Oltenia بالكثافة اللازمة للحفاظ على هيكل القوام. يحافظ البنطال على وضوح خطوطه حتى مع الاستخدام المكثف."
+      },
+      {
+        "q": "اللون الأزرق يبدو تقليدياً أكثر من اللازم",
+        "a": "- Indigo 1222 هو كلاسيكية خالدة. استخدموا إكسسوارات من المجموعة (مثل قبعة Renno 0930) لإضافة لمسة شخصية للإطلالة وتحويل القطعة الأساسية إلى تحفة فنية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "გაშლილი ჯინსების სტილიზება რთულია",
+        "a": "პირიქით, მოდელი Oltenia უკიდურესად უნივერსალურია. წარმოაჩინეთ Look 72: შავ ტყავის პერანგთან Sarmoneta კომბინაციაში ლუქი გამოიყურება თამამად და თანამედროვედ."
+      },
+      {
+        "q": "დენიმი შეიძლება ზედმეტად მარტივად გამოიყურებოდეს",
+        "a": "მიუთითეთ უნაკლო ჭრასა და ჰერალდიკურ ფურნიტურაზე LS. ეს დეტალები მკვრივ ბამბასთან ერთად ქმნის."
+      },
+      {
+        "q": "ჭკვიანი გარდერობის",
+        "a": "ეფექტს, სადაც ფორმის სიმარტივე ხაზს უსვამს მაღალ ხარისხს."
+      },
+      {
+        "q": "Flare Fit მოითხოვს მხოლოდ მაღალ ტანს",
+        "a": "ეს ფასონი, პირიქით, რეკომენდებულია ტანის კორექციისთვის. ქუსლიან ფეხსაცმელთან ერთად გაშლილი სტილი ქმნის უწყვეტ ხაზს, რომელიც ვიზუალურად აგრძელებს მინიატურულ ფიგურას და უფრო გამხდარს აჩენს მას."
+      },
+      {
+        "q": "მეშინია, რომ დენიმი მუხლებში გაიწელება",
+        "a": "მაღალი ხარისხის ბამბა მოდელში Oltenia ფლობს აუცილებელ სიმკვრივეს სილუეტის სტრუქტურის შესანარჩუნებლად. ჯინსი ინარჩუნებს ხაზების სიმკვეთრეს აქტიური გამოყენების დროსაც კი."
+      },
+      {
+        "q": "ლურჯი ფერი ზედმეტად ტრადიციული ჩანს",
+        "a": "Indigo 1222 — ეს მარადიული კლასიკაა. გამოიყენეთ კოლექციის აქსესუარები (მაგალითად, ქუდი Renno 0930), რათა ლუქს ინდივიდუალობა შემატოთ და ბაზური მოდელი ხელოვნების ნიმუშად აქციოთ."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Լայնեզր ջինսերը դժվար է ոճավորել»։",
+        "a": "Ընդհակառակը, Oltenia մոդելը ծայրահեղ բազմակողմանի է։ Ցույց տվեք Look 72-ը՝ Sarmoneta սև կաշվե վերնաշապիկի հետ համադրությամբ կերպարը դարձնում է համարձակ և ժամանակակից։ «Դենիմը կարող է շատ պարզ թվալ»։ Մատնանշեք անթերի ձևվածքը և LS-ի հերալդիկ աքսեսուարները։ Այս դետալները խիտ բամբակի հետ միասին ստեղծում են «խելացի զգեստապահարանի» էֆեկտ, որտեղ ձևի պարզությունը ընդգծում է բարձր որակը։ «Flare Fit ֆասոնը պահանջում է միայն բարձր հասակ»։ Այս ֆասոնը, ընդհակառակը, խորհուրդ է տրվում հասակի շտկման համար։ Կրունկի հետ համադրությամբ՝ լայնեզր մոդելը ստեղծում է անընդհատ գիծ, որը «ձգում է» մանրանկար կազմվածքը՝ այն դարձնելով ավելի սլացիկ։ «Վախենում եմ, որ դենիմը ծնկների հատվածում կձգվի»։ Oltenia մոդելի բարձրորակ բամբակն ունի անհրաժեշտ խտություն՝ սիլուետի կառուցվածքը պահպանելու համար։ Ջինսերը պահպանում են գծերի հստակությունը նույնիսկ ակտիվ օգտագործման դեպքում։ «Կապույտ գույնը շատ ավանդական է թվում»։ Indigo 1222-ը հավերժական դասական է։ Օգտագործեք հավաքածուի աքսեսուարները (օրինակ՝ Renno 0930 գլխարկը), որպեսզի կերպարին ավելացնեք անհատականություն և բազային մոդելը վերածեք արվեստի գործի։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Platās bikses ir grūti stilizēt",
+        "a": "Gluži pretēji, Oltenia modelis ir ārkārtīgi universāls. Demonstrējiet Look 72: kombinācijā ar melnu ādas kreklu Sarmoneta tēls izskatās drosmīgi un mūsdienīgi."
+      },
+      {
+        "q": "Denims var izskatīties pārāk vienkārši",
+        "a": "Norādiet uz nevainojamo piegriezumu un LS heraldikas furnitūru. Šīs detaļas kombinācijā ar blīvu kokvilnu rada."
+      },
+      {
+        "q": "gudrās garderobes",
+        "a": "efektu, kur formas vienkāršība uzsver augsto kvalitāti."
+      },
+      {
+        "q": "Flare Fit prasa tikai augstu augumu",
+        "a": "Šis fasons, gluži pretēji, ir ieteicams auguma korekcijai. Pārī ar papēdi, uzliesmojošais piegriezums rada nepārtrauktu līniju, kas."
+      },
+      {
+        "q": "izstiepj",
+        "a": "miniatūru figūru, padarot to slaidāku."
+      },
+      {
+        "q": "Baidos, ka denims izstiepsies ceļgalos",
+        "a": "Augstas kvalitātes kokvilnai Oltenia modelī ir nepieciešamais blīvums silueta struktūras saglabāšanai. Džinsi saglabā līniju skaidrību pat aktīvas lietošanas laikā."
+      },
+      {
+        "q": "Zilā krāsa šķiet pārāk tradicionāla",
+        "a": "Indigo 1222 — tā ir mūžīga klasika. Izmantojiet aksesuārus no kolekcijas (piemēram, cepuri Renno 0930), lai pievienotu tēlam individualitāti un pārvērstu bāzi par mākslas objektu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Platėjančius Džinsus sunku derinti“ Priešingai, modelis Oltenia yra itin universalus.",
+        "a": "Pademonstruokite Look 72: derinyje su juodais odiniais marškiniais Sarmoneta įvaizdis atrodo drąsiai ir šiuolaikiškai. Look 72: derinyje su juodais odiniais marškiniais Sarmoneta įvaizdis atrodo drąsiai ir šiuolaikiškai."
+      },
+      {
+        "q": "„Džinsas gali atrodyti per paprastai",
+        "a": "Atkreipkite dėmesį į nepriekaištingą kirpimą ir heraldišką LS furnitūrą. Šios detalės derinyje su tankia medvilne sukuria „išmanios garderobo“ efektą, kur formos paprastumas pabrėžia aukštą kokybę. „Flare Fit tinka tik aukštaūgėms“ Šis fasonas, priešingai, rekomenduojamas ūgiui koreguoti. Derinyje su kulnu platėjantis siluetas sukuria nenutrūkstamą liniją, kuri „ištempia“ miniatiūrinę figūrą, padarydama ją lieknesnę. „Bijau, kad džinsas išsitampys ties keliais“ Aukštos kokybės medvilnė modelyje Oltenia pasižymi būtinu tankiu silueto struktūrai palaikyti. Džinsai išlaiko linijų aiškumą net ir aktyviai dėvint. „Mėlyna spalva atrodo per tradiciškai“ Indigo 1222 — tai amžina klasika. Naudokite aksesuarus iš kolekcijos (pavyzdžiui, kepurę Renno 0930), kad įvaizdžiui suteiktumėte individualumo ir paverstumėte bazę meno objektu."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Spodnie z rozszerzaną nogawką są trudne do stylizacji",
+        "a": "Wręcz przeciwnie, model Oltenia jest niezwykle uniwersalny. Zaprezentuj Look 72: w połączeniu z czarną skórzaną koszulą Sarmoneta stylizacja wygląda odważnie i nowocześnie."
+      },
+      {
+        "q": "Dżins może wyglądać zbyt zwyczajnie",
+        "a": "Wskaż na nienaganny krój i heraldyczne detale LS. Te elementy w połączeniu z gęstą bawełną tworzą efekt."
+      },
+      {
+        "q": "inteligentnej garderoby",
+        "a": "gdzie prostota formy podkreśla wysoką jakość."
+      },
+      {
+        "q": "Flare Fit wymaga wysokiego wzrostu",
+        "a": "Ten fason jest wręcz zalecany do optycznego wydłużenia sylwetki. W parze z obcasem krój dzwonów tworzy ciągłą linię, która."
+      },
+      {
+        "q": "wyciąga",
+        "a": "drobniejszą sylwetkę, czyniąc ją smuklejszą."
+      },
+      {
+        "q": "Obawiam się, że dżins wyciągnie się na kolanach",
+        "a": "Wysokiej jakości bawełna w modelu Oltenia posiada niezbędną gęstość, aby utrzymać strukturę sylwetki. Dżinsy zachowują czystość linii nawet przy intensywnym użytkowaniu."
+      },
+      {
+        "q": "Niebieski kolor wydaje się zbyt tradycyjny",
+        "a": "Indigo 1222 to wieczna klasyka. Użyj akcesoriów z kolekcji (na przykład kapelusza Renno 0930), aby dodać stylizacji indywidualności i przekształcić bazę w obiekt sztuki."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Розкльошені Навпаки, модель Oltenia вкрай універсальна. джинси складно",
+        "a": "Продемонструйте Look 72: у поєднанні з чорною стилізувати шкіряною сорочкою Sarmoneta образ виглядає зухвало та сучасно."
+      },
+      {
+        "q": "Денім може",
+        "a": "Вкажіть на бездоганний крій та геральдичну виглядати надто фурнітуру LS. Ці деталі в поєднанні з щільним просто бавовною створюють ефект."
+      },
+      {
+        "q": "розумного гардероба",
+        "a": "де простота форми підкреслює високу якість."
+      },
+      {
+        "q": "Flare Fit Цей фасон, навпаки, рекомендується для корекції потребує лише зросту. У парі з підбором кльош створює безперервну високого зросту",
+        "a": "лінію, яка."
+      },
+      {
+        "q": "витягує",
+        "a": "мініатюрну фігуру, роблячи її стрункішою."
+      },
+      {
+        "q": "Боюся, що денім Високоякісна бавовна в моделі Oltenia розтягнеться в має необхідну щільність для підтримки колінах",
+        "a": "структури силуету. Джинси зберігають чіткість ліній навіть при активній експлуатації."
+      },
+      {
+        "q": "Синій колір Indigo 1222 — це вічна класика. Використовуйте здається надто аксесуари з колекції (наприклад, капелюх Renno традиційним",
+        "a": "0930), щоб додати образу індивідуальності та перетворити базу на арт-об'єкт."
+      }
+    ]
+  }
+}

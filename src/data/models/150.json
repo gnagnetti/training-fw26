@@ -1,0 +1,318 @@
+{
+  "id": 150,
+  "name": "Mantisia",
+  "description": {
+    "en": "An exquisite accessory embodying airy lightness and Luisa Spagnoli's couture craftsmanship: the Mantisia scarf. The piece is crafted from the finest 100% virgin wool, possessing a noble, semi-transparent texture and the softest touch. The edges of the accessory are adorned with delicately wrought scalloped (smerlato) floral lace trim, lending the look a note of aristocratic romanticism. It is the perfect finishing touch for both day and evening ensembles, created in the finest traditions of Italian style.",
+    "ru": "Изысканный аксессуар, воплощающий воздушную легкость и кутюрное мастерство Luisa Spagnoli: шарф Mantisia. Изделие выполнено из тончайшей 100% девственной шерсти, обладающей благородной полупрозрачной текстурой и нежнейшим касанием. Края аксессуара украшены филигранной отделкой из цветочного кружева с фестонами (смерлато), что придает образу ноту аристократичного романтизма. Это безупречное дополнение как к дневным, так и к вечерним ансамблям, созданное в лучших традициях итальянского стиля.",
+    "ar": "إكسسوار راقٍ يجسد الخفة الهوائية وبراعة الخياطة الرفيعة لدى Luisa Spagnoli: وشاح Mantisia. صُنعت القطعة من أجود أنواع الصوف البكر بنسبة 100%، وتتميز بقوام شبه شفاف نبيل ولمسة غاية في النعومة. تم تزيين حواف الإكسسوار بتطريز مخرم من الدانتيل الزهري بحواف مسننة (سفيرلاتو)، مما يضفي على الإطلالة لمسة من الرومانسية الأرستقراطية. إنها إضافة لا تشوبها شائبة للأطقم النهارية والمسائية على حد سواء، ومصممة وفقاً لأفضل تقاليد الأسلوب الإيطالي.",
+    "ka": "დახვეწილი აქსესუარი, რომელიც განასახიერებს ჰაეროვან სიმსუბუქესა და Luisa Spagnoli-ს კუტიურულ ოსტატობას: შარფი Mantisia. ნაკეთობა შესრულებულია უთხელესი 100% ქალწულის მატყლისგან, რომელიც ფლობს კეთილშობილურ ნახევრად გამჭვირვალე ტექსტურასა და ნაზ შეხებას. აქსესუარის კიდეები გაფორმებულია ფესტონებიანი (სმერლატო) ყვავილოვანი მაქმანის ფილიგრანული დეტალებით, რაც სახეს არისტოკრატული რომანტიზმის ნოტს სძენს. ეს არის როგორც დღის, ისე საღამოს ანსამბლების უნაკლო დამატება, რომელიც შექმნილია იტალიური სტილის საუკეთესო ტრადიციებში.",
+    "hy": "Նրբագեղ աքսեսուար, որը մարմնավորում է Luisa Spagnoli-ի օդային թեթևությունն ու կուտյուրային վարպետությունը՝ Mantisia շարֆը: Իրը պատրաստված է ամենանուրբ 100% անարատ բրդից, որն ունի ազնիվ կիսաթափանցիկ հյուսվածք և փափուկ հպում: Աքսեսուարի եզրերը զարդարված են ֆեստոններով (smerlato) ծաղկային ժանյակի ֆիլիգրան հարդարանքով, ինչը կերպարին հաղորդում է արիստոկրատական ռոմանտիզմի նոտա: Սա անթերի լրացում է ինչպես ցերեկային, այնպես էլ երեկոյան անսամբլների համար՝ ստեղծված իտալական ոճի լավագույն ավանդույթներով:",
+    "lv": "Izsmalcināts aksesuārs, kas iemieso gaisīgu vieglumu un Luisa Spagnoli kūtūras meistarību: Mantisia šalle. Izstrādājums ir izgatavots no visplānākās 100% jaunvilnas, kam piemīt cēla caurspīdīga tekstūra un maigākais pieskāriens. Aksesuāra malas rotā filigrāna apdare no ziedu mežģīnēm ar festoniem (smerlato), kas tēlam piešķir aristokrātiska romantisma noti. Tas ir nevainojams papildinājums gan dienas, gan vakara ansambļiem, kas radīts labākajās itāļu stila tradīcijās.",
+    "lt": "Rafinuotas aksesuaras, įkūnijantis Luisa Spagnoli oro lengvumą ir aukštosios mados meistriškumą: Mantisia šalikas. Gaminys pagamintas iš ploniausios 100% pirminės vilnos, pasižyminčios kilnia permatoma tekstūra ir švelniausiu prisilietimu. Aksesuarų kraštai dekoruoti filigranine gėlių nėrinių apdaila su festonais (smerlato), kas įvaizdžiui suteikia aristokratiško romantizmo natą. Tai nepriekaištingas priedas tiek dieniniams, tiek vakariniams ansambliams, sukurtas geriausiomis itališko stiliaus tradicijomis.",
+    "pl": "Wyrafinowany dodatek, ucieleśniający eteryczną lekkość i couture'owy kunszt Luisa Spagnoli: szal Mantisia. Produkt wykonany z najdelikatniejszej 100% wełny dziewiczej, posiadającej szlachetną półprzezroczystą fakturę i niezwykle delikatny dotyk. Brzegi akcesorium ozdobiono filigranowym wykończeniem z kwiatowej koronki z festonami (smerlato), co nadaje stylizacji nutę arystokratycznego romantyzmu. To nienaganne uzupełnienie zarówno dziennych, jak i wieczorowych zestawów, stworzone w najlepszych tradycjach włoskiego stylu.",
+    "uk": "Вишуканий аксесуар, що втілює повітряну легкість і кутюрну майстерність Luisa Spagnoli: шарф Mantisia. Виріб виконаний із найтоншої 100% вовни virgin wool, що володіє благородною напівпрозорою текстурою та найніжнішим дотиком. Краї аксесуара прикрашені філігранною обробкою з квіткового мережива з фестонами (смерлато), що додає образу ноту аристократичного романтизму. Це бездоганне доповнення як до денних, так і до вечірніх ансамблів, створене в найкращих традиціях італійського стилю."
+  },
+  "colors": [
+    {
+      "name": "Nero Nero",
+      "code": "0101 0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39a5d911-b2c6-4ed8-9b34-d8898a311c62-removebg-preview.png"
+    },
+    {
+      "name": "Panna Panna",
+      "code": "0202 0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39a5d911-b2c6-4ed8-9b34-d8898a311c62-removebg-preview.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Monochrome Chic)",
+        "ar": "Look 1 (Monochrome Chic)",
+        "ka": "Look 1 (Monochrome Chic)",
+        "hy": "Look 1 (Monochrome Chic)",
+        "lv": "Look 1 (Monochrome Chic)",
+        "lt": "Look 1 (Monochrome Chic)",
+        "pl": "Look 1 (Monochrome Chic)",
+        "uk": "Look 1 (Monochrome Chic)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Монохромный шик): Идеальное сочетание шарфа Mantisia 0101 0101 с трикотажным платьем Madelin 0101 0101. Завершает выход статусная сумка Ls1928p 0101 0038.",
+        "en": "An ideal combination of the Mantisia 0101 0101 scarf with the Madelin 0101 0101 knit dress. The look is finished with the statement Ls1928p 0101 0038 bag.",
+        "ar": "An ideal combination of the Mantisia 0101 0101 scarf with the Madelin 0101 0101 knit dress. The look is finished with the statement Ls1928p 0101 0038 bag.",
+        "ka": "An ideal combination of the Mantisia 0101 0101 scarf with the Madelin 0101 0101 knit dress. The look is finished with the statement Ls1928p 0101 0038 bag.",
+        "hy": "An ideal combination of the Mantisia 0101 0101 scarf with the Madelin 0101 0101 knit dress. The look is finished with the statement Ls1928p 0101 0038 bag.",
+        "lv": "An ideal combination of the Mantisia 0101 0101 scarf with the Madelin 0101 0101 knit dress. The look is finished with the statement Ls1928p 0101 0038 bag.",
+        "lt": "An ideal combination of the Mantisia 0101 0101 scarf with the Madelin 0101 0101 knit dress. The look is finished with the statement Ls1928p 0101 0038 bag.",
+        "pl": "An ideal combination of the Mantisia 0101 0101 scarf with the Madelin 0101 0101 knit dress. The look is finished with the statement Ls1928p 0101 0038 bag.",
+        "uk": "An ideal combination of the Mantisia 0101 0101 scarf with the Madelin 0101 0101 knit dress. The look is finished with the statement Ls1928p 0101 0038 bag."
+      },
+      "items": [
+        {
+          "name": "Mantisia",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39a5d911-b2c6-4ed8-9b34-d8898a311c62-removebg-preview.png"
+        },
+        {
+          "name": "Madelin",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/g381HkZ0QFKHoK4V-FYjsg_2078295593696f4360460570_64319565_02830410XX1.jpg",
+          "modelId": 134
+        },
+        {
+          "name": "Ls1928p",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the distinctive Merinfleur texture: a blend of 71% virgin wool and mohair provides exceptional thermal regulation and a tactile comfort befitting true luxury.",
+      "Emphasise the value of the hardware: the gold-tone medallion buttons bearing the LS logo serve as a jewel-like finishing touch, eliminating the need for additional accessories at the neckline.",
+      "Recommend Marostica as a true investment piece: the animal print, reinterpreted through the Luisa Spagnoli lens, is a timeless classic that adapts effortlessly to a variety of styles."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на уникальной фактуре: 100% девственная шерсть (Vergine) обеспечивает невероятную мягкость и комфортное тепло, несмотря на визуальную невесомость изделия.",
+      "Подчеркните статусность кружевной отделки: ручная проработка деталей и фестончатый край делают Mantisia не просто шарфом, а ювелирным завершением образа.",
+      "Рекомендуйте модель как идеальный предмет 'инвестиционного' гардероба: благодаря вневременному дизайну и качеству 'Made in Italy', этот аксессуар останется актуальным многие сезоны."
+    ],
+    "ar": [
+      "سلطي الضوء على القوام الفريد للقطعة: فالصوف البكر (Vergine) بنسبة 100% يوفر نعومة فائقة ودفئاً مريحاً، رغم خفة وزن القطعة بصرياً.",
+      "أكدي على مكانة تفاصيل الدانتيل: فالمعالجة اليدوية للقطع والحافة المسننة تجعل من Mantisia ليس مجرد وشاح، بل قطعة مجوهرات تكتمل بها إطلالتك.",
+      "رشيحي القطعة كعنصر مثالي لخزانة الملابس \"الاستثمارية\": بفضل التصميم الخالد والجودة الإيطالية 'Made in Italy'، سيظل هذا الإكسسوار مواكباً للموضة لمواسم عديدة."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება უნიკალურ ფაქტურაზე: 100% ქალწულებრივი მატყლი (Vergine) უზრუნველყოფს წარმოუდგენელ სირბილესა და კომფორტულ სითბოს, ნაკეთობის ვიზუალური სიმსუბუქის მიუხედავად.",
+      "ხაზი გაუსვით მაქმანის დეტალების სტატუსს: დეტალების ხელით დამუშავება და ფესტონური კიდე Mantisia-ს აქცევს არა უბრალოდ შარფად, არამედ იმიჯის საიუველირო დასრულებად.",
+      "რეკომენდაცია გაუწიეთ მოდელს, როგორც 'საინვესტიციო' გარდერობის იდეალურ ნივთს: დროზე აცდენილი დიზაინისა და 'Made in Italy'-ის ხარისხის წყალობით, ეს აქსესუარი აქტუალური დარჩება მრავალი სეზონის განმავლობაში."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք յուրահատուկ ֆակտուրայի վրա. 100% անարատ բուրդը (Vergine) ապահովում է անհավատալի փափկություն և հարմարավետ ջերմություն՝ չնայած արտադրանքի տեսողական անկշռությանը:",
+      "Ընդգծեք ժանյակային հարդարանքի կարգավիճակը. դետալների ձեռքի աշխատանքը և փոկային եզրը Mantisia-ն դարձնում են ոչ թե պարզապես շարֆ, այլ կերպարի ոսկերչական ավարտ:",
+      "Խորհուրդ տվեք մոդելը որպես «ներդրումային» զգեստապահարանի կատարյալ իր. շնորհիվ հավերժական դիզայնի և «Made in Italy» որակի, այս աքսեսուարը արդիական կմնա շատ սեզոններ:"
+    ],
+    "lv": [
+      "Vērsiet klienta uzmanību uz unikālo faktūru: 100% pirmreizējā vilna (Vergine) nodrošina neticamu maigumu un komfortablu siltumu, neskatoties uz izstrādājuma vizuālo vieglumu.",
+      "Uzsveriet mežģīņu apdares statusu: detaļu manuālā izstrāde un festonētā mala padara Mantisia nevis vienkārši par šalli, bet par tēla juvelierizstrādājumu.",
+      "Iesakiet modeli kā ideālu 'investīciju' garderobes priekšmetu: pateicoties mūžīgajam dizainam un 'Made in Italy' kvalitātei, šis aksesuārs paliks aktuāls daudzas sezonas."
+    ],
+    "lt": [
+      "Akcentuokite kliento dėmesį į unikalią faktūrą: 100% avies vilna (Vergine) užtikrina neįtikėtiną švelnumą ir jaukią šilumą, nepaisant vizualaus gaminio lengvumo.",
+      "Pabrėžkite nėrinių apdailos statusą: rankų darbo detalės ir festoninis kraštas paverčia Mantisia ne tiesiog šaliku, o papuošalu, užbaigiančiu įvaizdį.",
+      "Rekomenduokite modelį kaip idealų „investicinio“ garderobo objektą: dėl nesenstančio dizaino ir „Made in Italy“ kokybės šis aksesuaras išliks aktualus daugelį sezonų."
+    ],
+    "pl": [
+      "Zwróć uwagę klientki na unikalną fakturę: 100% wełna dziewicza (Vergine) zapewnia niezwykłą miękkość i komfortowe ciepło, mimo wizualnej lekkości wyrobu.",
+      "Podkreśl prestiżowy charakter koronkowego wykończenia: ręczne dopracowanie detali i wykończenie brzegów w formie ząbków czynią z Mantisia nie tylko szalik, ale jubilerskie dopełnienie stylizacji.",
+      "Rekomenduj model jako idealny element „inwestycyjnej” garderoby: dzięki ponadczasowemu wzornictwu i jakości „Made in Italy”, ten dodatek pozostanie aktualny przez wiele sezonów."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на унікальній фактурі: 100% вовна virgin (Vergine) забезпечує неймовірну м'якість та комфортне тепло, попри візуальну невагомість виробу.",
+      "Підкресліть статусність мереживної обробки: ручне опрацювання деталей та фестончастий край роблять Mantisia не просто шарфом, а ювелірним завершенням образу.",
+      "Рекомендуйте модель як ідеальний предмет 'інвестиційного' гардероба: завдяки позачасовому дизайну та якості 'Made in Italy', цей аксесуар залишиться актуальним багато сезонів."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The scarf seems too thin for the cold season.",
+        "a": "Sheerness is a refined aesthetic device here. Virgin wool has unique thermal-regulating properties, providing warmth without adding bulk to the look."
+      },
+      {
+        "q": "Lace trim looks very delicate and impractical.",
+        "a": "Luisa Spagnoli pieces use the finest lace with a reinforced edge, which guarantees the structure and integrity of the pattern is preserved with proper handling."
+      },
+      {
+        "q": "I'm concerned the wool may cause prickling.",
+        "a": "The Mantisia line uses only the most delicate Vergine wool, put through a multi-stage refining process, making it silky and pleasant even for the most sensitive skin."
+      },
+      {
+        "q": "What else, aside from dresses, can this accessory be paired with?",
+        "a": "The scarf beautifully complements a cashmere coat or a structured jacket, softening the lines of the silhouette and adding a note of femininity to a business outfit."
+      },
+      {
+        "q": "Caring for such a delicate piece seems overly complex.",
+        "a": "Professional dry cleaning will preserve the delicate structure of the wool and the flawless appearance of the lace in pristine condition for years to come."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шарф кажется слишком тонким для холодного времени года.",
+        "a": "Полупрозрачность — это изысканный эстетический прием. Девственная шерсть обладает уникальными терморегулирующими свойствами, согревая без создания лишнего объема в образе."
+      },
+      {
+        "q": "Кружевная отделка выглядит очень хрупкой и непрактичной.",
+        "a": "В изделиях Luisa Spagnoli используется кружево высочайшего качества с укрепленным краем, что гарантирует сохранение структуры и целостности узора при правильном обращении."
+      },
+      {
+        "q": "Я боюсь, что шерсть может вызывать покалывание.",
+        "a": "Для линии Mantisia используется только самая деликатная шерсть Vergine, прошедшая многоступенчатую очистку, что делает её шелковистой и приятной даже для самой чувствительной кожи."
+      },
+      {
+        "q": "С какими вещами, кроме платьев, можно сочетать этот аксессуар?",
+        "a": "Шарф превосходно дополнит кашемировое пальто или строгий жакет, смягчая линии силуэта и добавляя ноту женственности в деловой аутфит."
+      },
+      {
+        "q": "Уход за таким деликатным изделием кажется слишком сложным.",
+        "a": "Профессиональная сухая чистка позволит сохранить нежную структуру шерсти и безупречный вид кружева в первозданном виде на долгие годы."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يبدو الوشاح رقيقاً جداً بالنسبة لأوقات السنة الباردة.",
+        "a": "الشفافية هي أسلوب جمالي راقٍ. يتمتع الصوف البكر بخصائص فريدة في تنظيم الحرارة، مما يوفر الدفء دون إضافة حجم زائد للإطلالة."
+      },
+      {
+        "q": "تبدو زخرفة الدانتيل هشة للغاية وغير عملية.",
+        "a": "في منتجات Luisa Spagnoli، يُستخدم دانتيل عالي الجودة بحواف مقواة، مما يضمن الحفاظ على هيكل وسلامة النقش عند التعامل معه بشكل صحيح."
+      },
+      {
+        "q": "أخشى أن يسبب الصوف شعوراً بالوخز.",
+        "a": "بالنسبة لمجموعة Mantisia، يُستخدم فقط أنعم أنواع صوف Vergine، الذي خضع لعمليات تنقية متعددة المراحل، مما يجعله حريرياً ومريحاً حتى للبشرة الأكثر حساسية."
+      },
+      {
+        "q": "ما هي القطع التي يمكن تنسيق هذا الإكسسوار معها غير الفساتين؟",
+        "a": "سيكمل الوشاح بشكل رائع معطفاً من الكشمير أو سترة رسمية، مما يضفي نعومة على خطوط القوام ويضيف لمسة أنثوية إلى الإطلالة العملية."
+      },
+      {
+        "q": "تبدو العناية بمثل هذه القطعة الحساسة معقدة للغاية.",
+        "a": "سيسمح التنظيف الجاف الاحترافي بالحفاظ على البنية الناعمة للصوف والمظهر المثالي للدانتيل كما كان في حالته الأصلية لسنوات عديدة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "შარფი ცივი სეზონისთვის ზედმეტად თხელი გვეჩვენება.",
+        "a": "გამჭვირვალობა — ეს დახვეწილი ესთეტიკური ხერხია. ხელუხლებელ მატყლს აქვს უნიკალური თერმორეგულაციური თვისებები, რაც ათბობს ისე, რომ არ ქმნის ზედმეტ მოცულობას."
+      },
+      {
+        "q": "მაქმანის დეკორი მყიფედ და არაპრაქტიკულად გამოიყურება.",
+        "a": "Luisa Spagnoli-ს ნაკეთობებში გამოიყენება უმაღლესი ხარისხის მაქმანი გამაგრებული კიდით, რაც უზრუნველყოფს სტრუქტურის და ნიმუშის მთლიანობის შენარჩუნებას სწორად მოპყრობისას."
+      },
+      {
+        "q": "მეშინია, რომ მატყლმა შეიძლება გამოიწვიოს ჩხვლეტა.",
+        "a": "Mantisia-ს ხაზისთვის გამოიყენება მხოლოდ ყველაზე დელიკატური Vergine-ს მატყლი, რომელმაც გაიარა მრავალსაფეხურიანი გაწმენდა, რაც მას ხდის აბრეშუმისებრს და სასიამოვნოს ყველაზე მგრძნობიარე კანისთვისაც კი."
+      },
+      {
+        "q": "რა ნივთებთან, კაბების გარდა, შეიძლება ამ აქსესუარის შეხამება?",
+        "a": "შარფი შესანიშნავად შეავსებს ქაშმირის პალტოს ან მკაცრ პიჯაკს, რაც არბილებს სილუეტის ხაზებს და მატებს ქალურობის ნოტს საქმიან აუტფიტს."
+      },
+      {
+        "q": "ასეთი დელიკატური ნაკეთობის მოვლა ზედმეტად რთულად გვეჩვენება.",
+        "a": "პროფესიონალური ქიმწმენდა საშუალებას მოგცემთ შეინარჩუნოთ მატყლის ნაზი სტრუქტურა და მაქმანის უნაკლო იერსახე მრავალი წლის განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Շարֆը չափազանց բարակ է թվում ցուրտ եղանակի համար։",
+        "a": "Կիսաթափանցիկությունը նուրբ գեղագիտական հնարք է։ Կուսական բուրդն ունի ջերմակարգավորող եզակի հատկություններ՝ տաքացնելով առանց կերպարում ավելորդ ծավալ ստեղծելու։"
+      },
+      {
+        "q": "Ժանյակավոր եզրագոտին շատ փխրուն և ոչ գործնական է թվում։",
+        "a": "Luisa Spagnoli-ի իրերում օգտագործվում է ամենաբարձր որակի ժանյակ՝ ամրացված եզրով, ինչը երաշխավորում է նախշի կառուցվածքի և ամբողջականության պահպանումը ճիշտ վարվելու դեպքում։"
+      },
+      {
+        "q": "Վախենում եմ, որ բուրդը կարող է ծակծկել։",
+        "a": "Mantisia գծի համար օգտագործվում է միայն ամենանուրբ Vergine բուրդը, որն անցել է բազմաստիճան մաքրում, ինչը դարձնում է այն մետաքսանման և հաճելի նույնիսկ ամենազգայուն մաշկի համար։"
+      },
+      {
+        "q": "Ի՞նչ իրերի հետ, բացի զգեստներից, կարելի է համադրել այս աքսեսուարը։",
+        "a": "Շարֆը հիանալի կլրացնի քաշմիրե վերարկուն կամ խիստ ժակետը՝ փափկեցնելով սիլուետի գծերը և գործնական հանդերձանքին հավելելով կանացիության նոտա։"
+      },
+      {
+        "q": "Նման նուրբ իրի խնամքը չափազանց բարդ է թվում։",
+        "a": "Պրոֆեսիոնալ քիմմաքրումը թույլ կտա երկար տարիներ պահպանել բրդի նուրբ կառուցվածքը և ժանյակի անթերի տեսքը իր սկզբնական վիճակում։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Šalle šķiet pārāk plāna gada aukstajam laikam.",
+        "a": "Puscaurspīdīgums ir izsmalcināts estētisks paņēmiens. Jaunvilnai piemīt unikālas termoregulējošas īpašības, sildot bez lieka apjoma radīšanas tēlā."
+      },
+      {
+        "q": "Mežģīņu apdare izskatās ļoti trausla un nepraktiska.",
+        "a": "Luisa Spagnoli izstrādājumos tiek izmantotas visaugstākās kvalitātes mežģīnes ar nostiprinātu malu, kas garantē struktūras un raksta veseluma saglabāšanu, ja to lieto pareizi."
+      },
+      {
+        "q": "Es baidos, ka vilna var izraisīt kņudēšanu.",
+        "a": "Mantisia līnijai tiek izmantota tikai visdelikātākā Vergine vilna, kas izgājusi daudzpakāpju attīrīšanu, kas padara to zīdainu un patīkamu pat visjutīgākajai ādai."
+      },
+      {
+        "q": "Ar kādām lietām, izņemot kleitas, var kombinēt šo aksesuāru?",
+        "a": "Šalle lieliski papildinās kašmira mēteli vai lietišķu žaketi, mīkstinot silueta līnijas un pievienojot sievišķības noti biznesa tērpam."
+      },
+      {
+        "q": "Kopšana tik delikātam izstrādājumam šķiet pārāk sarežģīta.",
+        "a": "Profesionāla ķīmiskā tīrīšana ļaus saglabāt maigo vilnas struktūru un nevainojamu mežģīņu izskatu sākotnējā stāvoklī vēl daudzus gadus."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Šalikas atrodo per plonas šaltajam metų laikui.",
+        "a": "Permatomumas — tai rafinuota estetinė technika. Pirmapradė vilna pasižymi unikaliomis termoreguliacinėmis savybėmis, šildydama be nereikalingos apimties įvaizdyje."
+      },
+      {
+        "q": "Nėrinių apdaila atrodo labai trapi ir nepraktiška.",
+        "a": "Luisa Spagnoli gaminiuose naudojami aukščiausios kokybės nėriniai sutvirtintais kraštais, kurie garantuoja struktūros ir rašto vientisumo išsaugojimą tinkamai prižiūrint."
+      },
+      {
+        "q": "Bijau, kad vilna gali dirginti odą.",
+        "a": "Mantisia linijai naudojama tik pati švelniausia Vergine vilna, praėjusi daugiapakopį valymą, todėl ji yra šilkinė ir maloni net jautriausiai odai."
+      },
+      {
+        "q": "Su kokiais daiktais, išskyrus sukneles, galima derinti šį aksesuarą?",
+        "a": "Šalikas puikiai papildys kašmyrinį paltą arba griežtą švarką, sušvelnindamas silueto linijas ir suteikdamas moteriškumo dalykiniam įvaizdžiui."
+      },
+      {
+        "q": "Tokio subtilaus gaminio priežiūra atrodo per daug sudėtinga.",
+        "a": "Profesionalus cheminis valymas leis išsaugoti švelnią vilnos struktūrą ir nepriekaištingą nėrinių išvaizdą daugelį metų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Szal wydaje się zbyt cienki na chłodniejszą porę roku.",
+        "a": "Półprzezroczystość to wyrafinowany zabieg estetyczny. Dziewicza wełna posiada unikalne właściwości termoregulacyjne, grzejąc bez tworzenia zbędnej objętości w stylizacji."
+      },
+      {
+        "q": "Koronkowe wykończenie wygląda na bardzo kruche i niepraktyczne.",
+        "a": "W wyrobach Luisa Spagnoli stosuje się koronkę najwyższej jakości ze wzmocnionym brzegiem, co gwarantuje zachowanie struktury i integralności wzoru przy właściwym użytkowaniu."
+      },
+      {
+        "q": "Obawiam się, że wełna może powodować drapanie.",
+        "a": "Do linii Mantisia używana jest tylko najbardziej delikatna wełna Vergine, która przeszła wielostopniowe oczyszczanie, co czyni ją jedwabistą i przyjemną nawet dla najbardziej wrażliwej skóry."
+      },
+      {
+        "q": "Z jakimi rzeczami, poza sukienkami, można łączyć ten dodatek?",
+        "a": "Szal znakomicie dopełni kaszmirowy płaszcz lub sztywny żakiet, łagodząc linie sylwetki i dodając nutę kobiecości do biznesowego outfitu."
+      },
+      {
+        "q": "Pielęgnacja tak delikatnego wyrobu wydaje się zbyt skomplikowana.",
+        "a": "Profesjonalne czyszczenie chemiczne pozwoli zachować delikatną strukturę wełny i nieskazitelny wygląd koronki w stanie nienaruszonym przez wiele lat."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Шарф здається занадто тонким для холодної пори року.",
+        "a": "Напівпрозорість — це вишуканий естетичний прийом. Дівоча вовна має унікальні терморегулювальні властивості, зігріваючи без створення зайвого об'єму в образі."
+      },
+      {
+        "q": "Мереживна обробка виглядає дуже тендітною та непрактичною.",
+        "a": "У виробах Luisa Spagnoli використовується мереживо найвищої якості з укріпленим краєм, що гарантує збереження структури та цілісності візерунка при правильному поводженні."
+      },
+      {
+        "q": "Я боюся, що вовна може викликати поколювання.",
+        "a": "Для лінії Mantisia використовується тільки найделікатніша вовна Vergine, що пройшла багатоступеневе очищення, що робить її шовковистою та приємною навіть для найчутливішої шкіри."
+      },
+      {
+        "q": "З якими речами, окрім суконь, можна поєднувати цей аксесуар?",
+        "a": "Шарф чудово доповнить кашемірове пальто або строгий жакет, пом'якшуючи лінії силуету та додаючи ноту жіночності в діловий аутфіт."
+      },
+      {
+        "q": "Догляд за таким делікатним виробом здається занадто складним.",
+        "a": "Професійна суха чистка дозволить зберегти ніжну структуру вовни та бездоганний вигляд мережива у первісному стані на довгі роки."
+      }
+    ]
+  }
+}

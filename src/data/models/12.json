@@ -1,0 +1,415 @@
+{
+  "id": 12,
+  "name": "Cirillo",
+  "description": {
+    "en": "The Cirillo cardigan by Luisa Spagnoli is the embodiment of effortless luxury and Italian craftsmanship. Crafted from an exquisite carded yarn harmoniously combining 90% pure wool and 10% cashmere, delivering exceptional softness and enveloping warmth. The deconstructed, closure-free cut underscores a contemporary pursuit of freedom of movement and layering. The piece's edges are delicately finished in rib, lending the understated design architectural finesse. The Regular fit makes this cardigan a foundational base for creating status-defining everyday looks in the 'quiet luxury' aesthetic.",
+    "ru": "Кардиган Cirillo от Luisa Spagnoli — это воплощение непринужденной роскоши и итальянского мастерства. Модель выполнена из изысканной кардной пряжи, в составе которой гармонично сочетаются 90% натуральной шерсти и 10% кашемира, обеспечивая исключительную мягкость и обволакивающее тепло. Деструктурированный крой без застежки подчеркивает современную тягу к свободе движений и многослойности. Края изделия деликатно обработаны в рубчик, что придает лаконичному дизайну архитектурную завершенность. Прямая посадка (Regular fit) делает этот кардиган фундаментальной базой для создания статусных повседневных образов в стиле «тихой роскоши».",
+    "ar": "كارديغان Cirillo من Luisa Spagnoli هو تجسيد للفخامة العفوية والحرفية الإيطالية. صُنع الموديل من خيوط ممشطة فاخرة تجمع بين 90% صوف طبيعي و10% كشمير، ليوفر نعومة فائقة ودفئاً يغمر الجسم. تؤكد القصة غير المهيكلة والخالية من الأزرار على التوجه العصري نحو حرية الحركة والأسلوب المتعدد الطبقات. كما تمت معالجة حواف القطعة بدقة بنمط مضلع لتضفي لمسة نهائية معمارية على التصميم البسيط، مما يجعل هذا الكارديغان قاعدة أساسية للإطلالات اليومية الراقية بأسلوب \"الرفاهية الهادئة\".",
+    "ka": "Cirillo-ს კარდიგანი Luisa Spagnoli-სგან არის იტალიური ოსტატობისა და იოლად მიღწეული ფუფუნების განსახიერება. მოდელი დამზადებულია დახვეწილი კარდული ნართისგან, რომელშიც ჰარმონიულად არის შერწყმული 90% ნატურალური მატყლი და 10% ქაშმირი, რაც უზრუნველყოფს განსაკუთრებულ სირბილეს და გამათბობელ სითბოს. შესაკრავის გარეშე დესტრუქტურირებული ჭრილი ხაზს უსვამს მოძრაობის თავისუფლებისა და მრავალშრიანობისადმი თანამედროვე სწრაფვას. ნაკეთობის კიდეები ნაზად არის დამუშავებული რეზინში, რაც ლაკონიურ დიზაინს არქიტექტურულ დასრულებულობას ანიჭებს. სწორი მორგება (Regular fit) ამ კარდიგანს აქცევს ფუნდამენტურ ბაზად „ჩუმი ფუფუნების“ სტილში ყოველდღიური სტატუსური ლუქების შესაქმნელად.",
+    "hy": "Luisa Spagnoli-ի Cirillo քարդիգանը անկաշկանդ շքեղության և իտալական վարպետության մարմնացումն է: Մոդելը պատրաստված է նուրբ թաղիքե թելերից, որոնց կազմում ներդաշնակորեն համադրված են 90% բնական բուրդը և 10% քաշմիրը՝ ապահովելով բացառիկ փափկություն և պատող ջերմություն: Առանց կոճակների ապակառուցվածքային ձևվածքը ընդգծում է շարժման ազատության և բազմաշերտության ժամանակակից ձգտումը: Իրի եզրերը նրբորեն մշակված են ռիբեով, ինչը լակոնիկ դիզայնին հաղորդում է ճարտարապետական ամբողջականություն: Ուղիղ կտրվածքը (Regular fit) այս քարդիգանը դարձնում է հիմնարար բազա «լուռ շքեղության» ոճով ամենօրյա կարգավիճակային կերպարներ ստեղծելու համար:",
+    "lv": "Jaciņa Cirillo no Luisa Spagnoli ir nepiespiestas greznības un itāļu meistarības iemiesojums. Modelis ir izgatavots no izsmalcinātas kardinālas dzijas, kuras sastāvā harmoniski apvienojas 90% dabīga vilna un 10% kašmīrs, nodrošinot izcilu mīkstumu un aptverošu siltumu. Destrukturētais piegriezums bez aizdares pasvītro mūsdienīgo tieksmi pēc kustību brīvības un daudzslāņainības. Izstrādājuma malas ir delikāti apstrādātas rievojumā, kas piešķir lakoniskajam dizainam arhitektonisku pabeigtību. Taisnais piegriezums (Regular fit) padara šo jaciņu par fundamentālu bāzi statusu apliecinošu ikdienas tēlu radīšanai «klusās greznības» stilā.",
+    "lt": "„Cirillo“ kardiganas iš „Luisa Spagnoli“ – tai atsipalaidavusios prabangos ir itališko meistriškumo įsikūnijimas. Modelis pagamintas iš rafinuotų karšinių verpalų, kurių sudėtyje harmoningai dera 90% natūrali vilna ir 10% kašmyras, užtikrinantys išskirtinį švelnumą ir apgaubiančią šilumą. Destruktūrizuotas kirpimas be užsegimo pabrėžia modernų judėjimo laisvės ir sluoksniuotumo poreikį. Gaminio kraštai subtiliai apdoroti briaunuotu raštu, suteikiančiu lakoniškam dizainui architektūrinį užbaigtumą. Tiesioginis siluetas („Regular fit“) paverčia šį kardiganą fundamentaliu pagrindu kuriant statuso vertus kasdienius įvaizdžius „tylios prabangos“ stiliumi.",
+    "pl": "Kardigan Cirillo od Luisa Spagnoli to ucieleśnienie niezobowiązującego luksusu i włoskiego rzemiosła. Model wykonano z wyrafinowanej czesankowej przędzy, w skład której harmonijnie wchodzi 90% naturalnej wełny i 10% kaszmiru, zapewniając wyjątkową miękkość i otulające ciepło. Zdekonstruowany krój bez zapięcia podkreśla nowoczesne dążenie do swobody ruchów i wielowarstwowości. Krawędzie wyrobu są delikatnie wykończone w prążek, co nadaje lakonicznemu designowi architektoniczną wyrazistość. Prosty fason (Regular fit) czyni ten kardigan fundamentalną bazą do tworzenia prestiżowych codziennych stylizacji w stylu „quiet luxury”.",
+    "uk": "Кардиган Cirillo від Luisa Spagnoli — це втілення невимушеної розкоші та італійської майстерності. Модель виконана з вишуканої кардної пряжі, у складі якої гармонійно поєднуються 90% натуральної вовни та 10% кашеміру, забезпечуючи виняткову м'якість і обволікаюче тепло. Деструктурований крій без застібки підкреслює сучасну тягу до свободи рухів і багатошаровості. Краї виробу делікатно оброблені в рубчик, що надає лаконічному дизайну архітектурної завершеності. Пряма посадка (Regular fit) робить цей кардиган фундаментальною базою для створення статусних повсякденних образів у стилі «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Beige",
+      "code": "1111",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/V4PwhiraQcmzaF8uZFBdAg_1621175979696f435a26d2f6_89162056_02830170XX1.jpg"
+    },
+    {
+      "name": "Vinaccia",
+      "code": "2453",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GZM4AgwUTcGIE6gIgDQ4Bg_746214061696f435a87aea9_84750972_02830180XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 194 (Vinaccia)",
+        "en": "Total Look 194 (Vinaccia)",
+        "ar": "Total Look 194 (Vinaccia)",
+        "ka": "Total Look 194 (Vinaccia)",
+        "hy": "Total Look 194 (Vinaccia)",
+        "lv": "Total Look 194 (Vinaccia)",
+        "lt": "Total Look 194 (Vinaccia)",
+        "pl": "Total Look 194 (Vinaccia)",
+        "uk": "Total Look 194 (Vinaccia)"
+      },
+      "text": {
+        "ru": "Cirillo 2453 в сочетании с топом Costanzo 2453, брюками Ottana 3417 и сапогами Ustica A 2450. Образ дополнен колье Navali 0002, ремнем Dogale A 0986 0002 и браслетом Niassesi 2449 0002. Navoncella 0002 — Данные отсутствуют в официальных источниках.",
+        "en": "Cirillo 2453 paired with a Costanzo 2453 top, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed by a Navali 0002 necklace, a Dogale A 0986 0002 belt and a Niassesi 2449 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "ar": "Cirillo 2453 paired with a Costanzo 2453 top, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed by a Navali 0002 necklace, a Dogale A 0986 0002 belt and a Niassesi 2449 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "ka": "Cirillo 2453 paired with a Costanzo 2453 top, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed by a Navali 0002 necklace, a Dogale A 0986 0002 belt and a Niassesi 2449 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "hy": "Cirillo 2453 paired with a Costanzo 2453 top, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed by a Navali 0002 necklace, a Dogale A 0986 0002 belt and a Niassesi 2449 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "lv": "Cirillo 2453 paired with a Costanzo 2453 top, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed by a Navali 0002 necklace, a Dogale A 0986 0002 belt and a Niassesi 2449 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "lt": "Cirillo 2453 paired with a Costanzo 2453 top, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed by a Navali 0002 necklace, a Dogale A 0986 0002 belt and a Niassesi 2449 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "pl": "Cirillo 2453 paired with a Costanzo 2453 top, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed by a Navali 0002 necklace, a Dogale A 0986 0002 belt and a Niassesi 2449 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "uk": "Cirillo 2453 paired with a Costanzo 2453 top, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed by a Navali 0002 necklace, a Dogale A 0986 0002 belt and a Niassesi 2449 0002 bracelet. Navoncella 0002 — Information not available in official sources."
+      },
+      "items": [
+        {
+          "name": "Cirillo",
+          "code": "2453",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GZM4AgwUTcGIE6gIgDQ4Bg_746214061696f435a87aea9_84750972_02830180XX1.jpg"
+        },
+        {
+          "name": "Costanzo",
+          "code": "2453",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b9397548-e72b-429f-88d3-6accdfb80a77.jpg",
+          "modelId": 13
+        },
+        {
+          "name": "Ottana",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TQWq2qXmRQayYc7Z7KMgUg_391295727696f42ed3bd804_80361111_02820790XX1.jpg",
+          "modelId": 271
+        },
+        {
+          "name": "Ustica A",
+          "code": "2450",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_245000000000.jpg"
+        },
+        {
+          "name": "Navali",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/811531311691c57d6aba2e4_67623166_02800140XX1.jpg"
+        },
+        {
+          "name": "Dogale A",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0e5e02e9-a1bd-47f8-963b-3247cdd9d527.jpg"
+        },
+        {
+          "name": "Niassesi",
+          "code": "2449 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2449.png"
+        },
+        {
+          "name": "Navoncella",
+          "code": "0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 201 (Beige)",
+        "en": "Total Look 201 (Beige)",
+        "ar": "Total Look 201 (Beige)",
+        "ka": "Total Look 201 (Beige)",
+        "hy": "Total Look 201 (Beige)",
+        "lv": "Total Look 201 (Beige)",
+        "lt": "Total Look 201 (Beige)",
+        "pl": "Total Look 201 (Beige)",
+        "uk": "Total Look 201 (Beige)"
+      },
+      "text": {
+        "ru": "Cirillo 1111 дополнен топом Costanzo 1111, брюками Olap 1119 и обувью Urbana 0981. Акценты: сумка Ls1928gp A 1158 0038, колье Nuevitas 0002 0001, кулон Niccioleta 1120 0002 и браслет Niassesi 1116 0002. Navoncella 0002 — Данные отсутствуют в официальных источниках.",
+        "en": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 footwear. Accents: Ls1928gp A 1158 0038 bag, Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "ar": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 footwear. Accents: Ls1928gp A 1158 0038 bag, Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "ka": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 footwear. Accents: Ls1928gp A 1158 0038 bag, Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "hy": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 footwear. Accents: Ls1928gp A 1158 0038 bag, Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "lv": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 footwear. Accents: Ls1928gp A 1158 0038 bag, Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "lt": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 footwear. Accents: Ls1928gp A 1158 0038 bag, Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "pl": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 footwear. Accents: Ls1928gp A 1158 0038 bag, Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet. Navoncella 0002 — Information not available in official sources.",
+        "uk": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 footwear. Accents: Ls1928gp A 1158 0038 bag, Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet. Navoncella 0002 — Information not available in official sources."
+      },
+      "items": [
+        {
+          "name": "Cirillo",
+          "code": "1111",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/V4PwhiraQcmzaF8uZFBdAg_1621175979696f435a26d2f6_89162056_02830170XX1.jpg"
+        },
+        {
+          "name": "Costanzo",
+          "code": "1111",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nYRKsT7_QPCEFsCDij_7UA_2042203972696f435aed6179_50606973_02830260XX1.jpg",
+          "modelId": 13
+        },
+        {
+          "name": "Olap",
+          "code": "1119",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Urbana",
+          "code": "0981",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7BoHBVbqTtCtxociDR_4dQ_2049283379696f42280ae740_09477040_02801350XX1.jpg"
+        },
+        {
+          "name": "Ls1928gp A",
+          "code": "1158 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928GP_115800180000.jpg"
+        },
+        {
+          "name": "Nuevitas",
+          "code": "0002 0001",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e39e2515-7056-4e2f-8a1c-57aeb3a2cca5-removebg-preview.png",
+          "modelId": 234
+        },
+        {
+          "name": "Niccioleta",
+          "code": "1120 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/124283544691c57dae87814_56906608_02800210XX1.jpg",
+          "modelId": 217
+        },
+        {
+          "name": "Niassesi",
+          "code": "1116 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1116.png"
+        },
+        {
+          "name": "Navoncella",
+          "code": "0002",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the precious composition: 10% cashmere lends the piece that silken softness clients seek in premium knitwear.",
+      "Recommend Cirillo as the ideal tool for creating a vertical line in the silhouette — the open design visually elongates the figure and slims the frame.",
+      "Suggest pairing the piece with the Costanzo top to create a harmonious twin-set, the very benchmark of elegance within the knitwear collection."
+    ],
+    "ru": [
+      "Делайте акцент на драгоценном составе: 10% кашемира придают изделию ту самую шелковистую мягкость, которую клиентки ищут в премиальном трикотаже.",
+      "Рекомендуйте Cirillo как идеальный инструмент для создания вертикали в образе — открытый фасон визуально вытягивает силуэт и стройнит.",
+      "Предлагайте модель в сочетании с топом Costanzo для создания гармоничного сета-двойки, что является эталоном элегантности в коллекции кардной мануфактуры."
+    ],
+    "ar": [
+      "ركزي على المكونات الثمينة: 10% كشمير تمنح القطعة تلك النعومة الحريرية التي تبحث عنها العميلات في قطع التريكو الفاخرة.",
+      "رشحي Cirillo كأداة مثالية لخلق خطوط عمودية في الإطلالة — التصميم المفتوح يطيل القامة بصرياً ويمنح قواماً ممشوقاً.",
+      "اقترحي الموديل مع بلوزة Costanzo لخلق طقم متناغم (set)، والذي يعتبر معياراً للأناقة في تشكيلة مصنعنا للتريكو."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება ძვირფას შემადგენლობაზე: 10% ქაშმირი ნაკეთობას ანიჭებს იმავე აბრეშუმისებრ სირბილეს, რომელსაც კლიენტები ეძებენ პრემიუმ ტრიკოტაჟში.",
+      "გაუწიეთ რეკომენდაცია Cirillo-ს, როგორც იდეალურ ინსტრუმენტს გამოსახულებაში ვერტიკალის შესაქმნელად — ღია ფასონი ვიზუალურად აგრძელებს სილუეტს და ატანჯავს მას.",
+      "შესთავაზეთ მოდელი Costanzo-ს ტოპთან კომბინაციაში ჰარმონიული კომპლექტის შესაქმნელად, რაც წარმოადგენს ელეგანტურობის ეტალონს კარდინგის მანუფაქტურის კოლექციაში."
+    ],
+    "hy": [
+      "Շեշտը դրեք թանկարժեք կազմության վրա. 10% քաշմիրը արտադրանքին հաղորդում է հենց այն մետաքսե փափկությունը, որը հաճախորդները փնտրում են պրեմիում տրիկոտաժի մեջ։",
+      "Խորհուրդ տվեք Cirillo-ն որպես կերպարում ուղղահայաց գիծ ստեղծելու իդեալական գործիք. բաց ֆասոնը վիզուալ ձգում է ուրվագիծը և բարեկազմ դարձնում այն։",
+      "Առաջարկեք մոդելը Costanzo տոպի հետ համադրությամբ՝ ներդաշնակ հավաքածու ստեղծելու համար, ինչը էլեգանտության չափանիշ է հանդիսանում կարդային մանուֆակտուրայի հավաքածուում։"
+    ],
+    "lv": [
+      "Lieciet uzsvaru uz dārgo sastāvu: 10% kašmira piešķir izstrādājumam to pašu zīdaino maigumu, ko klientes meklē premium trikotāžā.",
+      "Iesakiet Cirillo kā ideālu instrumentu vertikāles radīšanai tēlā — atvērtais fasons vizuāli izstiepj siluetu un slaidina.",
+      "Piedāvājiet modeli kombinācijā ar Costanzo topu harmoniska komplekta radīšanai, kas ir elegance etalons kartotās manufaktūras kolekcijā."
+    ],
+    "lt": [
+      "Akcentuokite prabangią sudėtį: 10 % kašmyro suteikia gaminiui tą šilkinį švelnumą, kurio klientės ieško aukščiausios kokybės trikotaže.",
+      "Rekomenduokite Cirillo kaip idealų įrankį vertikalios linijos sukūrimui įvaizdyje — atviras stilius vizualiai lieknina ir ilgina siluetą.",
+      "Siūlykite modelį derinti su Costanzo topu, sukuriant harmoningą dviejų dalių komplektą, kuris yra elegancijos etalonas Luisa Spagnoli kolekcijoje."
+    ],
+    "pl": [
+      "Połóż nacisk na szlachetny skład: 10% kaszmiru nadaje produktowi tę jedwabistą miękkość, której klientki poszukują w dzianinach premium.",
+      "Rekomenduj Cirillo jako idealne narzędzie do stworzenia pionowej linii w sylwetce — otwarty fason optycznie wysmukla i wydłuża postać.",
+      "Proponuj model w połączeniu z topem Costanzo dla stworzenia harmonijnego zestawu, będącego wzorcem elegancji w kolekcji naszej manufaktury dzianin."
+    ],
+    "uk": [
+      "Робіть акцент на дорогоцінному складі: 10% кашеміру надають виробу тієї самої шовковистої м'якості, яку клієнтки шукають у преміальному трикотажі.",
+      "Рекомендуйте Cirillo як ідеальний інструмент для створення вертикалі в образі — відкритий фасон візуально витягує силует і робить стрункішою.",
+      "Пропонуйте модель у поєднанні з топом Costanzo для створення гармонійного сета-двійки, що є еталоном елегантності в колекції кардної мануфактури."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The absence of buttons or a closure makes the cardigan impractical.",
+        "a": "The Cirillo design is inspired by 'effortless chic' aesthetics. The open front allows for playing with volume and accessories, such as accentuating the waist with the Dogale A belt."
+      },
+      {
+        "q": "Carded wool may pill with wear.",
+        "a": "Luisa Spagnoli uses the highest quality wool and cashmere. Following gentle care guidelines (professional cleaning), the piece will retain its plush structure for years to come."
+      },
+      {
+        "q": "No price is listed, it seems like too costly a purchase.",
+        "a": "This cardigan is a long-term investment for the wardrobe. Its premium composition guarantees exceptional thermoregulation and durability, ensuring a flawless appearance in any setting."
+      },
+      {
+        "q": "The Vinaccia (2453) shade seems too particular.",
+        "a": "This ripened-grape shade is one of the most aristocratic in our palette. It pairs beautifully with grey, blue, and chocolate tones, adding depth and luxury to the look."
+      },
+      {
+        "q": "The model seems too simple in its design.",
+        "a": "True luxury lies in the quality of the material and the purity of the lines. Cirillo's understated design allows it to be the perfect canvas for statement accessories, such as the Navali necklace or the Neanide earrings."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Отсутствие пуговиц или застежки делает кардиган непрактичным.",
+        "a": "Дизайн Cirillo вдохновлен эстетикой 'effortless chic' (красота без усилий). Свободный борт позволяет играть с объемами и аксессуарами, например, подчеркнуть талию ремнем Dogale A."
+      },
+      {
+        "q": "Кардная шерсть может пилинговаться при носке.",
+        "a": "Luisa Spagnoli использует шерсть и кашемир высочайшего качества. При соблюдении рекомендаций по деликатному уходу (профессиональная чистка) изделие сохранит свою пушистую структуру на долгие годы."
+      },
+      {
+        "q": "Цена не указана, кажется слишком дорогим приобретением.",
+        "a": "Этот кардиган — долгосрочная инвестиция в гардероб. Премиальный состав гарантирует исключительную терморегуляцию и износостойкость, обеспечивая безупречный вид в любой ситуации."
+      },
+      {
+        "q": "Цвет Vinaccia (2453) кажется слишком специфическим.",
+        "a": "Оттенок спелого винограда — один из самых аристократичных в нашей палитре. Он великолепно сочетается с серыми, синими и шоколадными тонами, добавляя образу глубины и роскоши."
+      },
+      {
+        "q": "Модель кажется слишком простой по фасону.",
+        "a": "Истинная роскошь заключается в качестве материала и чистоте линий. Лаконичность Cirillo позволяет ему быть идеальным фоном для активных аксессуаров, таких как колье Navali или серьги Neanide."
+      }
+    ],
+    "ar": [
+      {
+        "q": "غياب الأزرار أو السحاب يجعل الكارديغان غير عملي.",
+        "a": "تصميم Cirillo مستوحى من جماليات \"الأناقة العفوية\" (effortless chic). تسمح الحواف الحرة باللعب بالأحجام والإكسسوارات، على سبيل المثال، إبراز الخصر بحزام Dogale A."
+      },
+      {
+        "q": "قد يتكدس الصوف الممشط عند الارتداء.",
+        "a": "تستخدم Luisa Spagnoli صوفاً وكشميراً بأعلى جودة. مع اتباع توصيات العناية اللطيفة (التنظيف المهني)، ستحتفظ القطعة ببنيتها الناعمة لسنوات طويلة."
+      },
+      {
+        "q": "السعر غير محدد، يبدو شراءً مكلفاً للغاية.",
+        "a": "هذا الكارديغان هو استثمار طويل الأمد في خزانة الملابس. التركيبة الفاخرة تضمن تنظيماً حرارياً استثنائياً ومتانة، مما يضمن مظهراً لا تشوبه شائبة في أي موقف."
+      },
+      {
+        "q": "يبدو لون Vinaccia (2453) محدداً للغاية.",
+        "a": "درجة لون العنب الناضج هي واحدة من أكثر الألوان أرستقراطية في لوحتنا. إنها تتناغم بشكل رائع مع الألوان الرمادية والزرقاء والشوكولاتة، مما يضيف عمقاً وفخامة للإطلالة."
+      },
+      {
+        "q": "يبدو الموديل بسيطاً جداً في القصة.",
+        "a": "تكمن الفخامة الحقيقية في جودة المادة ونقاء الخطوط. بساطة Cirillo تجعلها خلفية مثالية للإكسسوارات الجريئة، مثل عقد Navali أو أقراط Neanide."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ღილების ან შესაკრავის არარსებობა კარდიგანს არაპრაქტიკულს ხდის.",
+        "a": "Cirillo-ს დიზაინი შთაგონებულია 'effortless chic'-ის ესთეტიკით (სილამაზე ძალისხმევის გარეშე). თავისუფალი კალთა საშუალებას იძლევა ითამაშოთ მოცულობებითა და აქსესუარებით, მაგალითად, ხაზი გაუსვათ წელს Dogale A ქამრით."
+      },
+      {
+        "q": "კარდული მატყლი შესაძლოა დაიფუშოს ტარებისას.",
+        "a": "Luisa Spagnoli იყენებს უმაღლესი ხარისხის მატყლსა და ქაშმირს. დელიკატური მოვლის რეკომენდაციების დაცვისას (პროფესიონალური წმენდა) ნაკეთობა შეინარჩუნებს თავის ფუმფულა სტრუქტურას მრავალი წლის განმავლობაში."
+      },
+      {
+        "q": "ფასი მითითებული არ არის, ზედმეტად ძვირი შენაძენი ჩანს.",
+        "a": "ეს კარდიგანი არის გრძელვადიანი ინვესტიცია გარდერობში. პრემიუმ შემადგენლობა უზრუნველყოფს გამორჩეულ თერმორეგულაციას და გამძლეობას, რაც უზრუნველყოფს უნაკლო იერს ნებისმიერ სიტუაციაში."
+      },
+      {
+        "q": "Vinaccia (2453) ფერი ზედმეტად სპეციფიკური ჩანს.",
+        "a": "მწიფე ყურძნის ეს ტონი ჩვენს პალიტრაში ერთ-ერთი ყველაზე არისტოკრატულია. ის შესანიშნავად ერწყმის ნაცრისფერ, ლურჯ და შოკოლადისფერ ტონებს და ლუქს მატებს სიღრმესა და ფუფუნებას."
+      },
+      {
+        "q": "მოდელი ზედმეტად მარტივი ჩანს ფასონის მხრივ.",
+        "a": "ჭეშმარიტი ფუფუნება მდგომარეობს მასალის ხარისხსა და ხაზების სისუფთავეში. Cirillo-ს ლაკონიურობა მას იდეალურ ფონად აქცევს ისეთი აქტიური აქსესუარებისთვის, როგორიცაა Navali-ს ყელსაბამი ან Neanide-ს საყურეები."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կոճակների կամ ամրակի բացակայությունը կարդիգանը դարձնում է ոչ գործնական",
+        "a": "Cirillo-ի դիզայնը ոգեշնչված է 'effortless chic' (գեղեցկություն առանց ջանքերի) էսթետիկայից: Ազատ եզրը թույլ է տալիս խաղալ ծավալների և աքսեսուարների հետ, օրինակ՝ ընդգծել իրանը Dogale A գոտիով"
+      },
+      {
+        "q": "Կարդային բուրդը կարող է թելիկներ առաջացնել (պիլինգ) կրելիս",
+        "a": "Luisa Spagnoli-ն օգտագործում է ամենաբարձր որակի բուրդ և քաշմիր: Նուրբ խնամքի վերաբերյալ խորհուրդներին (պրոֆեսիոնալ մաքրում) հետևելու դեպքում իրը կպահպանի իր փափուկ կառուցվածքը երկար տարիներ"
+      },
+      {
+        "q": "Գինը նշված չէ, թվում է չափազանց թանկ ձեռքբերում",
+        "a": "Այս կարդիգանը երկարաժամկետ ներդրում է զգեստապահարանում: Պրեմիում կազմը երաշխավորում է բացառիկ ջերմակարգավորում և մաշվածակայունություն՝ ապահովելով անթերի տեսք ցանկացած իրավիճակում"
+      },
+      {
+        "q": "Vinaccia գույնը (2453) թվում է չափազանց յուրահատուկ",
+        "a": "Հասած խաղողի երանգը մեր պալիտրայի ամենաազնվականներից է: Այն հիանալի համադրվում է մոխրագույն, կապույտ և շոկոլադե երանգների հետ՝ կերպարին հաղորդելով խորություն և շքեղություն"
+      },
+      {
+        "q": "Մոդելը թվում է չափազանց պարզ ֆասոնով",
+        "a": "Իսկական շքեղությունը կայանում է նյութի որակի և գծերի մաքրության մեջ: Cirillo-ի լակոնիկությունը թույլ է տալիս, որ այն լինի իդեալական ֆոն ակտիվ աքսեսուարների համար, ինչպիսիք են Navali վզնոցը կամ Neanide ականջօղերը"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Pogu vai aizdares trūkums padara kardiganu nepraktisku.",
+        "a": "Cirillo dizainu iedvesmojusi 'effortless chic' (piepūles neprasoša elegance) estētika. Brīvā mala ļauj spēlēties ar apjomiem un aksesuāriem, piemēram, izcelt vidukli ar Dogale A jostu."
+      },
+      {
+        "q": "Kārstā vilna var savelties valkāšanas laikā.",
+        "a": "Luisa Spagnoli izmanto augstākās kvalitātes vilnu un kašmiru. Ievērojot ieteikumus par saudzīgu kopšanu (profesionālā tīrīšana), izstrādājums saglabās savu pūkaino struktūru daudzus gadus."
+      },
+      {
+        "q": "Cena nav norādīta, šķiet pārāk dārgs pirkums.",
+        "a": "Šis kardigans ir ilgtermiņa investīcija garderobē. Premium sastāvs garantē izcilu termoregulāciju un nodilumizturību, nodrošinot nevainojamu izskatu jebkurā situācijā."
+      },
+      {
+        "q": "Vinaccia (2453) krāsa šķiet pārāk specifiska.",
+        "a": "Nogatavojušos vīnogu tonis ir viens no aristokrātiskākajiem mūsu paletē. Tas lieliski kombinējas ar pelēkajiem, zilajiem un šokolādes toņiem, piešķirot tēlam dziļumu un greznību."
+      },
+      {
+        "q": "Modelis šķiet pārāk vienkāršs pēc fasona.",
+        "a": "Patiesa greznība slēpjas materiāla kvalitātē un līniju tīrībā. Cirillo lakoniskums ļauj tam būt ideālam fonam aktīviem aksesuāriem, piemēram, Navali kaklarotai vai Neanide auskariem."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Sagtukų ar užsegimo nebuvimas daro kardiganą nepraktišką.",
+        "a": "Cirillo dizainas įkvėptas „effortless chic“ estetikos (grakštumas be pastangų). Laisvas kraštas leidžia žaisti su tūriais ir aksesuarais, pavyzdžiui, pabrėžti liemenį diržu Dogale A."
+      },
+      {
+        "q": "Karšinė vilna gali veltis dėvint.",
+        "a": "Luisa Spagnoli naudoja aukščiausios kokybės vilną ir kašmyrą. Laikantis delikačios priežiūros rekomendacijų (profesionalus valymas), gaminys išsaugos savo purią struktūrą ilgus metus."
+      },
+      {
+        "q": "Kaina nenurodyta, atrodo per brangus pirkinys.",
+        "a": "Šis kardiganas — tai ilgalaikė investicija į garderobą. Aukščiausios kokybės sudėtis garantuoja išskirtinę termoreguliaciją ir atsparumą dilimui, užtikrinant nepriekaištingą išvaizdą bet kokioje situacijoje."
+      },
+      {
+        "q": "Vinaccia spalva (2453) atrodo per daug specifinė.",
+        "a": "Prinokusio vyno atspalvis — vienas aristokratiškiausių mūsų paletėje. Jis puikiai dera su pilkais, mėlynais ir šokoladiniais tonais, suteikdamas įvaizdžiui gylio ir prabangos."
+      },
+      {
+        "q": "Modelis atrodo per daug paprastas savo fasonu.",
+        "a": "Tikroji prabanga slypi medžiagos kokybėje ir linijų grynume. Cirillo lakoniškumas leidžia jam būti idealiam fonui išraiškingiems aksesuarams, tokiems kaip Navali vėrinys ar Neanide auskarai."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Brak guzików lub zapięcia czyni kardigan niepraktycznym.",
+        "a": "Design Cirillo inspirowany jest estetyką 'effortless chic' (piękno bez wysiłku). Luźne poły pozwalają bawić się objętością i dodatkami, na przykład podkreślając talię paskiem Dogale A."
+      },
+      {
+        "q": "Wełna czesankowa może się mechacić podczas noszenia.",
+        "a": "Luisa Spagnoli używa wełny i kaszmiru najwyższej jakości. Przy przestrzeganiu zaleceń dotyczących delikatnej pielęgnacji (profesjonalne czyszczenie) produkt zachowa swoją puszystą strukturę przez długie lata."
+      },
+      {
+        "q": "Cena nie jest podana, wydaje się zbyt drogim nabytkiem.",
+        "a": "Ten kardigan to długoterminowa inwestycja w garderobę. Ekskluzywny skład gwarantuje wyjątkową termoregulację i trwałość, zapewniając nieskazitelny wygląd w każdej sytuacji."
+      },
+      {
+        "q": "Kolor Vinaccia (2453) wydaje się zbyt specyficzny.",
+        "a": "Odcień dojrzałych winogron to jeden z najbardziej arystokratycznych kolorów w naszej palecie. Wspaniale łączy się z szarymi, niebieskimi i czekoladowymi tonami, dodając stylizacji głębi i luksusu."
+      },
+      {
+        "q": "Model wydaje się zbyt prosty w fasonie.",
+        "a": "Prawdziwy luksus kryje się w jakości materiału i czystości linii. Minimalizm Cirillo pozwala mu być idealnym tłem dla wyrazistych akcesoriów, takich jak naszyjnik Navali czy kolczyki Neanide."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Кардна вовна може кошлатитися під час носіння.",
+        "a": "Luisa Spagnoli використовує вовну і кашемір найвищої якості. При дотриманні рекомендацій щодо делікатного догляду (професійна чистка) виріб збереже свою пухнасту структуру на довгі роки."
+      },
+      {
+        "q": "Ціна не вказана, здається занадто дорогим придбанням.",
+        "a": "Цей кардиган — довгострокова інвестиція в гардероб. Преміальний склад гарантує виняткову терморегуляцію і зносостійкість, забезпечуючи бездоганний вигляд у будь-якій ситуації."
+      },
+      {
+        "q": "Колір Vinaccia (2453) здається занадто специфічним.",
+        "a": "Відтінок стиглого винограду — один із найаристократичніших у нашій палітрі. Він чудово поєднується із сірими, синіми та шоколадними тонами, додаючи образу глибини й розкоші."
+      },
+      {
+        "q": "Модель здається занадто простою за фасоном.",
+        "a": "Справжня розкіш полягає в якості матеріалу та чистоті ліній. Лаконічність Cirillo дозволяє йому бути ідеальним фоном для активних аксесуарів, таких як кольє Navali або сережки Neanide."
+      }
+    ]
+  }
+}

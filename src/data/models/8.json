@@ -1,0 +1,344 @@
+{
+  "id": 8,
+  "name": "Cavina",
+  "description": {
+    "en": "The Cavina cardigan by Luisa Spagnoli is the quintessence of refinement, uniting the warmth of carded wool with the sheen of an evening ensemble. Crafted from an exclusive knit incorporating pure wool and cashmere, delicately illuminated with lurex threads for a soft shimmering effect. The signature stylistic accent is jewel-like 'gioia' buttons that transform the piece into a true objet d'art. Voluminous sleeves with striking high ribbed cuffs underscore a contemporary architectural cut, while the classic Regular fit ensures flawless comfort and elegance of silhouette.",
+    "ru": "Кардиган Cavina от Luisa Spagnoli — это квинтэссенция изысканности, сочетающая в себе тепло кардной шерсти и блеск вечернего выхода. Модель выполнена из эксклюзивного трикотажа, в состав которого входит натуральная шерсть и кашемир, деликатно подсвеченные нитями люрекса для создания эффекта мягкого мерцания. Главным стилистическим акцентом выступают ювелирные пуговицы-джойя, превращающие изделие в настоящий объект искусства. Объемные рукава с выразительными высокими манжетами в рубчик подчеркивают современный архитектурный крой, а классическая посадка Regular fit обеспечивает безупречный комфорт и элегантность силуэта.",
+    "ar": "يُعد كارديغان Cavina من Luisa Spagnoli تجسيداً للرقي، حيث يجمع بين دفء الصوف الممشط وبريق السهرات. صُنع الموديل من تريكو حصري يتكون من الصوف الطبيعي والكشمير، مع خيوط لوريكس تمنحه لمعاناً ناعماً. تبرز الأزرار الجوهرية (gioia) كعنصر جمالي رئيسي يحول القطعة إلى عمل فني، بينما تؤكد الأكمام الواسعة ذات الأساور الطويلة المضلعة على الطابع الهندسي المعاصر، وتضمن القصة الكلاسيكية (Regular fit) راحة مطلقة وأناقة لا تضاهى.",
+    "ka": "Luisa Spagnoli-ის Cavina კარდიგანი დახვეწილობის კვინტესენციაა, რომელიც აერთიანებს კარდული მატყლის სითბოს და საღამოს გასვლის ბრწყინვალებას. მოდელი დამზადებულია ექსკლუზიური ნაქსოვისგან, რომელიც შეიცავს ნატურალურ მატყლს და ქაშმირს, ნაზად განათებულს ლურექსის ძაფებით რბილი ციმციმის ეფექტის შესაქმნელად. მთავარ სტილისტურ აქცენტს წარმოადგენს საიუველირო gioia-ს ღილები, რაც ნაკეთობას ხელოვნების ნამდვილ ობიექტად აქცევს. მოცულობითი სახელოები გამოკვეთილი მაღალი მანჟეტებით რეზინში ხაზს უსვამს თანამედროვე არქიტექტურულ ჭრილს, ხოლო კლასიკური Regular fit მორგება უზრუნველყოფს უნაკლო კომფორტს და სილუეტის ელეგანტურობას.",
+    "hy": "Luisa Spagnoli-ի Cavina քարդիգանը նրբագեղության մարմնացումն է, որը համադրում է թաղիքե բրդի ջերմությունը և երեկոյան տեսքի շքեղությունը: Մոդելը պատրաստված է բացառիկ տրիկոտաժից, որը պարունակում է բնական բուրդ և քաշմիր՝ նրբորեն ընդգծված լյուրեքսի թելերով՝ մեղմ փայլի էֆեկտ ստեղծելու համար: Ոճային գլխավոր շեշտադրումը ոսկերչական «ջոյա» կոճակներն են, որոնք իրը վերածում են արվեստի իրական գործի: Ծավալուն թևերը՝ արտահայտիչ բարձր ռիբե մանժետներով, ընդգծում են ժամանակակից ճարտարապետական ձևվածքը, իսկ դասական Regular fit կտրվածքը ապահովում է անթերի հարմարավետություն և ուրվագծի նրբագեղություն:",
+    "lv": "Jaciņas Cavina no Luisa Spagnoli ir izsmalcinātības kvintesence, kas apvieno kardinālas vilnas siltumu ar vakara tērpa mirdzumu. Modelis ir izgatavots no ekskluzīvas trikotāžas, kuras sastāvā ir dabīga vilna un kašmīrs, ko maigi izgaismo lureksa diegi, radot mīksta mirdzuma efektu. Galvenais stilistiskais akcents ir juvelierizstrādājumiem līdzīgās pogas-džoja, kas pārvērš izstrādājumu par īstu mākslas objektu. Apjomīgas piedurknes ar izteiksmīgām, augstām rievotām manšetēm pasvītro mūsdienīgo arhitektonisko piegriezumu, bet klasiskais Regular fit piegriezums nodrošina nevainojamu komfortu un silueta eleganci.",
+    "lt": "„Cavina“ kardiganas iš „Luisa Spagnoli“ – tai rafinuotumo kvintesencija, suderinanti karšinės vilnos šilumą ir vakarinio įvaizdžio spindesį. Modelis pagamintas iš išskirtinio trikotažo, kurio sudėtyje yra natūrali vilna ir kašmyras, subtiliai papuoštas lurekso siūlais, sukuriančiais švelnaus žvilgesio efektą. Pagrindinis stilistinis akcentas – juvelyrinės „gioia“ sagos, paverčiančios gaminį tikru meno objektu. Tūrinės rankovės su išraiškingais aukštais briaunuotais rankogaliais pabrėžia modernų architektūrinį kirpimą, o klasikinis „Regular fit“ siluetas užtikrina nepriekaištingą komfortą ir eleganciją.",
+    "pl": "Kardigan Cavina od Luisa Spagnoli to kwintesencja wyrafinowania, łącząca w sobie ciepło czesankowej wełny oraz blask wieczorowej kreacji. Model wykonany jest z ekskluzywnej dzianiny, w skład której wchodzi naturalna wełna i kaszmir, delikatnie rozświetlone nitkami lureksu dla uzyskania efektu miękkiego migotania. Głównym akcentem stylistycznym są jubilerskie guziki-gioiello, które przemieniają ten wyrób w prawdziwy obiekt sztuki. Obszerne rękawy z wyrazistymi wysokimi mankietami w prążek podkreślają nowoczesny, architektoniczny krój, a klasyczny fason Regular fit zapewnia nienaganny komfort i elegancję sylwetki.",
+    "uk": "Кардиган Cavina від Luisa Spagnoli — це квінтесенція вишуканості, що поєднує в собі тепло кардної вовни та блиск вечірнього виходу. Модель виконана з ексклюзивного трикотажу, до складу якого входить натуральна вовна та кашемір, делікатно підсвічені нитками люрексу для створення ефекту м'якого мерехтіння. Головним стилістичним акцентом виступають ювелірні ґудзики-джойя, що перетворюють виріб на справжній об'єкт мистецтва. Об'ємні рукави з виразними високими манжетами в рубчик підкреслюють сучасний архітектурний крій, а класична посадка Regular fit забезпечує бездоганний комфорт та елегантність силуету."
+  },
+  "colors": [
+    {
+      "name": "Marrone Oro",
+      "code": "0952 0428",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0128%20%281%29.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look Vetrina 99",
+        "en": "Total Look Vetrina 99",
+        "ar": "Total Look Vetrina 99",
+        "ka": "Total Look Vetrina 99",
+        "hy": "Total Look Vetrina 99",
+        "lv": "Total Look Vetrina 99",
+        "lt": "Total Look Vetrina 99",
+        "pl": "Total Look Vetrina 99",
+        "uk": "Total Look Vetrina 99"
+      },
+      "text": {
+        "ru": "Cavina 0952 0428 в сочетании с блузой Latteria 0994 и брюками Opaglio 0927. Образ дополнен аксессуаром Iri 0970 0002.",
+        "en": "Cavina 0952 0428 paired with a Latteria 0994 blouse and Opaglio 0927 trousers. The look is completed by an Iri 0970 0002 accessory (Information not available in official sources).",
+        "ar": "Cavina 0952 0428 paired with a Latteria 0994 blouse and Opaglio 0927 trousers. The look is completed by an Iri 0970 0002 accessory (Information not available in official sources).",
+        "ka": "Cavina 0952 0428 paired with a Latteria 0994 blouse and Opaglio 0927 trousers. The look is completed by an Iri 0970 0002 accessory (Information not available in official sources).",
+        "hy": "Cavina 0952 0428 paired with a Latteria 0994 blouse and Opaglio 0927 trousers. The look is completed by an Iri 0970 0002 accessory (Information not available in official sources).",
+        "lv": "Cavina 0952 0428 paired with a Latteria 0994 blouse and Opaglio 0927 trousers. The look is completed by an Iri 0970 0002 accessory (Information not available in official sources).",
+        "lt": "Cavina 0952 0428 paired with a Latteria 0994 blouse and Opaglio 0927 trousers. The look is completed by an Iri 0970 0002 accessory (Information not available in official sources).",
+        "pl": "Cavina 0952 0428 paired with a Latteria 0994 blouse and Opaglio 0927 trousers. The look is completed by an Iri 0970 0002 accessory (Information not available in official sources).",
+        "uk": "Cavina 0952 0428 paired with a Latteria 0994 blouse and Opaglio 0927 trousers. The look is completed by an Iri 0970 0002 accessory (Information not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Cavina",
+          "code": "0952 0428",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0128%20%281%29.jpg"
+        },
+        {
+          "name": "Latteria",
+          "code": "0994",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/j__M1_8VRfWTU6KNBj3dfw_1833518067696f42375a3cc3_36777422_02820360XX1.jpg",
+          "modelId": 101
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        },
+        {
+          "name": "Iri",
+          "code": "0970 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Стилистическое решение (Luxury Casual)",
+        "en": "Styling suggestion (Luxury Casual)",
+        "ar": "Styling suggestion (Luxury Casual)",
+        "ka": "Styling suggestion (Luxury Casual)",
+        "hy": "Styling suggestion (Luxury Casual)",
+        "lv": "Styling suggestion (Luxury Casual)",
+        "lt": "Styling suggestion (Luxury Casual)",
+        "pl": "Styling suggestion (Luxury Casual)",
+        "uk": "Styling suggestion (Luxury Casual)"
+      },
+      "text": {
+        "ru": "Сочетание текстурированного кардигана Cavina с лаконичными формами коллекции Maglieria Cardata позволяет создать многослойный образ, где мерцание люрекса сбалансировано глубиной коричневых оттенков (Marrone).",
+        "en": "Combining the textured Cavina cardigan with the clean lines of the Maglieria Cardata collection creates a layered look where the shimmer of lurex is balanced by the depth of brown shades (Marrone).",
+        "ar": "Combining the textured Cavina cardigan with the clean lines of the Maglieria Cardata collection creates a layered look where the shimmer of lurex is balanced by the depth of brown shades (Marrone).",
+        "ka": "Combining the textured Cavina cardigan with the clean lines of the Maglieria Cardata collection creates a layered look where the shimmer of lurex is balanced by the depth of brown shades (Marrone).",
+        "hy": "Combining the textured Cavina cardigan with the clean lines of the Maglieria Cardata collection creates a layered look where the shimmer of lurex is balanced by the depth of brown shades (Marrone).",
+        "lv": "Combining the textured Cavina cardigan with the clean lines of the Maglieria Cardata collection creates a layered look where the shimmer of lurex is balanced by the depth of brown shades (Marrone).",
+        "lt": "Combining the textured Cavina cardigan with the clean lines of the Maglieria Cardata collection creates a layered look where the shimmer of lurex is balanced by the depth of brown shades (Marrone).",
+        "pl": "Combining the textured Cavina cardigan with the clean lines of the Maglieria Cardata collection creates a layered look where the shimmer of lurex is balanced by the depth of brown shades (Marrone).",
+        "uk": "Combining the textured Cavina cardigan with the clean lines of the Maglieria Cardata collection creates a layered look where the shimmer of lurex is balanced by the depth of brown shades (Marrone)."
+      },
+      "items": []
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw attention to the piece's versatility: thanks to its jewel-like buttons, the cardigan can stand in for a necklace or brooch, becoming the centerpiece of the look.",
+      "Emphasize the composition: 7% cashmere and 20% viscose lend the texture remarkable softness, offsetting the traditional stiffness of lurex-blended wool yarns.",
+      "Recommend Cavina as the ideal investment for a 'Day-to-Night' wardrobe — refined enough for the office, yet elegant enough for a cocktail occasion."
+    ],
+    "ru": [
+      "Акцентируйте внимание на многофункциональности: благодаря ювелирным пуговицам кардиган может заменить колье или брошь, становясь центральным элементом образа.",
+      "Подчеркните состав изделия: 7% кашемира и 20% вискозы делают текстуру невероятно нежной, нейтрализуя традиционную жесткость шерстяных нитей с люрексом.",
+      "Рекомендуйте Cavina как идеальную инвестицию для гардероба 'Day-to-Night' — он достаточно сдержан для офиса и достаточно наряден для коктейльного мероприятия."
+    ],
+    "ar": [
+      "ركزي على تعدد الوظائف: بفضل الأزرار الشبيهة بالمجوهرات، يمكن للسترة (كارديغان) أن تحل محل القلادة أو البروش، لتصبح العنصر المحوري في الإطلالة.",
+      "أكدي على تكوين القطعة: 7% كشمير و20% فيسكوز تجعل الملمس ناعماً للغاية، مما يلغي القسوة التقليدية لخيوط الصوف مع اللوريكس.",
+      "رشحي Cavina كاستثمار مثالي لخزانة 'Day-to-Night' — فهي عملية بما يكفي للمكتب وأنيقة بما يكفي لحفلات الكوكتيل."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება მრავალფუნქციურობაზე: საიუველირო ღილების წყალობით კარდიგანს შეუძლია ჩაანაცვლოს ყელსაბამი ან ბროში და იქცეს გამოსახულების ცენტრალურ ელემენტად.",
+      "ხაზი გაუსვით ნაკეთობის შემადგენლობას: 7% ქაშმირი და 20% ვისკოზა ტექსტურას წარმოუდგენლად ნაზს ხდის და ანეიტრალებს ლურექსის შალის ძაფების ტრადიციულ სიმკაცრეს.",
+      "გაუწიეთ რეკომენდაცია Cavina-ს, როგორც იდეალურ ინვესტიციას 'Day-to-Night' გარდერობისთვის — ის საკმარისად თავშეკავებულია ოფისისთვის და საკმარისად დახვეწილი კოქტეილის წვეულებისთვის."
+    ],
+    "hy": [
+      "Շեշտադրեք բազմաֆունկցիոնալությունը. ոսկերչական կոճակների շնորհիվ կարդիգանը կարող է փոխարինել վզնոցին կամ բրոշին՝ դառնալով կերպարի կենտրոնական տարրը։",
+      "Ընդգծեք արտադրանքի կազմությունը. 7% քաշմիրը և 20% վիսկոզան հյուսվածքը դարձնում են անհավանական նուրբ՝ չեզոքացնելով լյուրեքսով բրդյա թելերի ավանդական կոշտությունը։",
+      "Խորհուրդ տվեք Cavina-ն որպես իդեալական ներդրում «Day-to-Night» զգեստապահարանի համար. այն բավականաչափ զուսպ է գրասենյակի համար և բավականաչափ տոնական՝ կոկտեյլային միջոցառման համար։"
+    ],
+    "lv": [
+      "Akcentējiet uzmanību uz daudzfunkcionalitāti: pateicoties juvelierizstrādājumu tipa pogām, kardigāns var aizstāt kaklarotu vai brošu, kļūstot par tēla centrālo elementu.",
+      "Uzsveriet izstrādājuma sastāvu: 7% kašmira un 20% viskozes padara tekstūru neticami maigu, neitralizējot vilnas diegu ar lureksu tradicionālo cietību.",
+      "Iesakiet Cavina kā ideālu investīciju 'Day-to-Night' garderobē — tas ir pietiekami atturīgs birojam un pietiekami grezns kokteiļu pasākumam."
+    ],
+    "lt": [
+      "Akcentuokite daugiafunkciškumą: dėl juvelyrinių sagų kardiganas gali pakeisti vėrinį ar sagę, tapdamas pagrindiniu įvaizdžio akcentu.",
+      "Pabrėžkite gaminio sudėtį: 7 % kašmyro ir 20 % viskozės suteikia tekstūrai neįtikėtino švelnumo, neutralizuodami tradicinį vilnonių siūlų su lureksu kietumą.",
+      "Rekomenduokite Cavina kaip idealią investiciją į „Day-to-Night“ garderobą — jis pakankamai santūrus biurui ir pakankamai puošnus kokteilių vakarėliui."
+    ],
+    "pl": [
+      "Połóż nacisk na wielofunkcyjność: dzięki biżuteryjnym guzikom kardigan może zastąpić naszyjnik lub broszkę, stając się centralnym elementem stylizacji.",
+      "Podkreśl skład produktu: 7% kaszmiru i 20% wiskozy sprawiają, że tekstura jest niezwykle delikatna, neutralizując tradycyjną szorstkość wełnianych nici z lureksem.",
+      "Rekomenduj Cavina jako idealną inwestycję w garderobę typu 'Day-to-Night' — jest wystarczająco stonowany do biura i wystarczająco elegancki na koktajl."
+    ],
+    "uk": [
+      "Акцентуйте увагу на багатофункціональності: завдяки ювелірним ґудзикам кардиган може замінити кольє або брошку, стаючи центральним елементом образу.",
+      "Підкресліть склад виробу: 7% кашеміру та 20% віскози роблять текстуру неймовірно ніжною, нейтралізуючи традиційну жорсткість вовняних ниток із люрексом.",
+      "Рекомендуйте Cavina як ідеальну інвестицію для гардероба 'Day-to-Night' — він достатньо стриманий для офісу та достатньо ошатний для коктейльного заходу."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Lurex may cause prickling or discomfort when worn.",
+        "a": "This model uses a new-generation lurex woven into a base with a high content of viscose and cashmere, guaranteeing absolute smoothness and tactile comfort."
+      },
+      {
+        "q": "The model seems too dressy for an everyday wardrobe.",
+        "a": "Pair Cavina with wardrobe basics, such as the Opaglio 0927 trousers, as styled in our window display. This lowers the degree of formality while preserving the look's status."
+      },
+      {
+        "q": "Concern that the buttons may tarnish or fall off.",
+        "a": "The jewel buttons are hand-set to the high standards of Italian craftsmanship. Each detail carries a protective galvanic coating that prevents metal oxidation."
+      },
+      {
+        "q": "How should such a complex, metallic-fiber composition be cared for?",
+        "a": "We strongly recommend professional dry cleaning only, to preserve the voluminous shape of the balloon sleeves and the lurex's original shimmer."
+      },
+      {
+        "q": "The sleeves seem overly voluminous.",
+        "a": "The 'bombate' sleeve shape is a key trend of the season, one that visually narrows the waist and balances the silhouette, creating harmonious proportions."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Люрекс может вызывать покалывание или дискомфорт при носке.",
+        "a": "В данной модели используется люрекс нового поколения, который вплетен в структуру с высоким содержанием вискозы и кашемира, что гарантирует абсолютную гладкость и тактильный комфорт."
+      },
+      {
+        "q": "Модель кажется слишком нарядной для повседневного гардероба.",
+        "a": "Сочетайте Cavina с базовыми элементами, например, с брюками Opaglio 0927, как предложено в нашей витрине. Это снизит градус торжественности, сохранив статусность образа."
+      },
+      {
+        "q": "Боязнь, что пуговицы могут потускнеть или оторваться.",
+        "a": "Пуговицы-джойя закреплены вручную по высоким стандартам итальянской мануфактуры. Каждая деталь имеет защитное гальваническое покрытие, предотвращающее окисление металла."
+      },
+      {
+        "q": "Как ухаживать за таким сложным составом с металлизированным волокном?",
+        "a": "Мы настоятельно рекомендуем профессиональную химчистку (dry clean only), чтобы сохранить объемную форму рукавов-бомбате и первоначальный блеск люрекса."
+      },
+      {
+        "q": "Рукава кажутся слишком объемными.",
+        "a": "Форма рукавов 'bombate' — ключевой тренд сезона, который визуально сужает талию и уравновешивает силуэт, создавая гармоничные пропорции."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد يسبب اللوريكس شعوراً بالوخز أو عدم الراحة عند الارتداء.",
+        "a": "نستخدم في هذا الموديل لوريكس من جيل جديد، منسوج في بنية ذات محتوى عالٍ من الفسكوز والكشمير، مما يضمن نعومة فائقة وراحة تامة عند اللمس."
+      },
+      {
+        "q": "يبدو الموديل متكلفاً جداً لخزانة الملابس اليومية.",
+        "a": "نسقي Cavina مع قطع أساسية، مثل بنطال Opaglio 0927 كما هو مقترح في عرضنا. هذا يقلل من حدة الطابع الرسمي مع الحفاظ على فخامة الإطلالة."
+      },
+      {
+        "q": "الخوف من أن تفقد الأزرار بريقها أو تنفصل.",
+        "a": "أزرار الجويا (gioiello) مثبتة يدوياً وفقاً لمعايير التصنيع الإيطالية العالية. كل قطعة مطلية بطبقة واقية جلفانية تمنع أكسدة المعدن."
+      },
+      {
+        "q": "كيف يتم العناية بتركيبة معقدة تحتوي على ألياف معدنية؟",
+        "a": "نوصي بشدة بالتنظيف الجاف الاحترافي (dry clean only) للحفاظ على الشكل المنتفخ للأكمام bombate والبريق الأصلي للوريكس."
+      },
+      {
+        "q": "تبدو الأكمام ضخمة للغاية.",
+        "a": "شكل الأكمام 'bombate' هو صيحة الموسم الرئيسية، والتي تبرز الخصر وتوازن القوام، مما يخلق تناسقاً مثالياً في القياسات."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ლურექსმა შესაძლოა გამოიწვიოს ჩხვლეტა ან დისკომფორტი ტარებისას.",
+        "a": "მოცემულ მოდელში გამოყენებულია ახალი თაობის ლურექსი, რომელიც ჩაქსოვილია ვისკოზისა და ქაშმირის მაღალი შემცველობის სტრუქტურაში, რაც უზრუნველყოფს აბსოლუტურ სირბილესა და ტაქტილურ კომფორტს."
+      },
+      {
+        "q": "მოდელი ზედმეტად სადღესასწაულოდ გამოიყურება ყოველდღიური გარდერობისთვის.",
+        "a": "შეუხამეთ Cavina ძირითად ელემენტებს, მაგალითად, Opaglio 0927 შარვალს, როგორც ეს ჩვენს ვიტრინაზეა შემოთავაზებული. ეს შეამცირებს საზეიმო განწყობას და შეინარჩუნებს იმიჯის სტატუსურობას."
+      },
+      {
+        "q": "შიში იმისა, რომ ღილები შეიძლება გაფერმკრთალდეს ან მოძვრეს.",
+        "a": "ღილები-ჯოია ხელით არის დამაგრებული იტალიური მანუფაქტურის მაღალი სტანდარტების მიხედვით. თითოეულ დეტალს აქვს დამცავი გალვანური საფარი, რომელიც ხელს უშლის ლითონის დაჟანგვას."
+      },
+      {
+        "q": "როგორ მოვუაროთ ასეთ რთულ შემადგენლობას მეტალიზებული ბოჭკოებით?",
+        "a": "ჩვენ დაჟინებით გირჩევთ პროფესიონალურ ქიმწმენდას (dry clean only), რათა შეინარჩუნოთ ბომბატეს სახელოების მოცულობითი ფორმა და ლურექსის პირველადი ბზინვარება."
+      },
+      {
+        "q": "სახელოები ზედმეტად მოცულობითი ჩანს.",
+        "a": "bombate' სახელოების ფორმა სეზონის მთავარი ტრენდია, რომელიც ვიზუალურად აწვრილებს წელს და აბალანსებს სილუეტს, ქმნის ჰარმონიულ პროპორციებს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Լյուրեքսը կարող է առաջացնել ծակծկոց կամ անհարմարություն կրելիս",
+        "a": "Այս մոդելում օգտագործվում է նոր սերնդի լյուրեքս, որը հյուսված է վիսկոզայի և քաշմիրի բարձր պարունակությամբ կառուցվածքի մեջ, ինչը երաշխավորում է բացարձակ հարթություն և տակտիլ հարմարավետություն"
+      },
+      {
+        "q": "Մոդելը թվում է չափազանց տոնական ամենօրյա զգեստապահարանի համար",
+        "a": "Համադրեք Cavina-ն հիմնական տարրերի հետ, օրինակ՝ Opaglio 0927 տաբատների հետ, ինչպես առաջարկված է մեր ցուցափեղկում: Սա կնվազեցնի հանդիսավորության աստիճանը՝ պահպանելով կերպարի կարգավիճակը"
+      },
+      {
+        "q": "Վախ, որ կոճակները կարող են խամրել կամ պոկվել",
+        "a": "Ջոյա-կոճակներն ամրացված են ձեռքով՝ իտալական մանուֆակտուրայի բարձր չափանիշներին համապատասխան: Յուրաքանչյուր դետալ ունի պաշտպանիչ գալվանական ծածկույթ, որը կանխում է մետաղի օքսիդացումը"
+      },
+      {
+        "q": "Ինչպե՞ս խնամել մետաղական թելերով այսպիսի բարդ կազմը",
+        "a": "Մենք հորդորում ենք օգտվել պրոֆեսիոնալ քիմմաքրումից (dry clean only), որպեսզի պահպանվի բոմբատե-թևքերի ծավալուն ձևը և լյուրեքսի սկզբնական փայլը"
+      },
+      {
+        "q": "Թևքերը թվում են չափազանց ծավալուն",
+        "a": "Bombate' թևքերի ձևը սեզոնի հիմնական թրենդն է, որը տեսողականորեն նեղացնում է իրանը և հավասարակշռում ուրվագիծը՝ ստեղծելով ներդաշնակ համաչափություններ"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Lūreksa dzija var izraisīt kņudēšanu vai diskomfortu valkāšanas laikā.",
+        "a": "Šajā modelī ir izmantots jaunākās paaudzes lūreks, kas ieausts struktūrā ar augstu viskozes un kašmira saturu, kas garantē absolūtu gludumu un taktilu komfortu."
+      },
+      {
+        "q": "Modelis šķiet pārāk grezns ikdienas garderobei.",
+        "a": "Kombinējiet Cavina ar pamata elementiem, piemēram, Opaglio 0927 biksēm, kā piedāvāts mūsu skatlogā. Tas mazinās svinīgumu, saglabājot tēla statusu."
+      },
+      {
+        "q": "Bailes, ka pogas varētu zaudēt spīdumu vai noplīst.",
+        "a": "Džoija (gioiello) pogas ir piestiprinātas ar rokām atbilstoši augstiem itāļu manufaktūras standartiem. Katrai detaļai ir aizsargājošs galvaniskais pārklājums, kas novērš metāla oksidēšanos."
+      },
+      {
+        "q": "Kā kopt šādu sarežģītu sastāvu ar metalizētu šķiedru?",
+        "a": "Mēs stingri iesakām profesionālo ķīmisko tīrīšanu (dry clean only), lai saglabātu bombate piedurkņu apjomīgo formu un lūreksa sākotnējo spīdumu."
+      },
+      {
+        "q": "Piedurknes šķiet pārāk apjomīgas.",
+        "a": "Bombate' piedurkņu forma ir sezonas galvenais trends, kas vizuāli sašaurina vidukli un līdzsvaro siluetu, radot harmoniskas proporcijas."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Lureksas gali sukelti dilgčiojimą ar diskomfortą dėvint.",
+        "a": "Šiame modelyje naudojamas naujos kartos lureksas, įpintas į struktūrą su dideliu viskozės ir kašmyro kiekiu, kas garantuoja visišką glotnumą ir taktilinį komfortą."
+      },
+      {
+        "q": "Modelis atrodo per daug puošnus kasdieniam garderobui.",
+        "a": "Derinkite Cavina su baziniais elementais, pavyzdžiui, kelnėmis Opaglio 0927, kaip parodyta mūsų vitrinoje. Tai sumažins iškilmingumo laipsnį, išlaikant įvaizdžio statusą."
+      },
+      {
+        "q": "Baimė, kad sagos gali prarasti spindesį ar atitrūkti.",
+        "a": "„Gioia“ sagos pritvirtintos rankomis pagal aukščiausius itališkos manufaktūros standartus. Kiekviena detalė turi apsauginę galvaninę dangą, apsaugančią metalą nuo oksidacijos."
+      },
+      {
+        "q": "Kaip prižiūrėti tokios sudėtingos sudėties gaminį su metalizuotu pluoštu?",
+        "a": "Primygtinai rekomenduojame profesionalų cheminį valymą (dry clean only), kad išsaugotumėte „bombate“ stiliaus rankovių tūrį ir pradinį lurekso žvilgesį."
+      },
+      {
+        "q": "Rankovės atrodo per daug tūrinės.",
+        "a": "„Bombate“ rankovių forma — pagrindinė sezono tendencija, kuri vizualiai siaurina liemenį ir subalansuoja siluetą, sukuriant harmoningas proporcijas."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Lurex może wywoływać kłucie lub dyskomfort podczas noszenia.",
+        "a": "W tym modelu zastosowano lurex nowej generacji, wpleciony w strukturę z wysoką zawartością wiskozy i kaszmiru, co gwarantuje absolutną gładkość i komfort dotyku."
+      },
+      {
+        "q": "Model wydaje się zbyt odświętny na co dzień.",
+        "a": "Zestawiaj Cavina z podstawowymi elementami, na przykład ze spodniami Opaglio 0927, jak zaproponowano w naszej witrynie. Obniży to stopień formalności, zachowując przy tym prestiżowy charakter stylizacji."
+      },
+      {
+        "q": "Obawa, że guziki mogą zmatowieć lub odpaść.",
+        "a": "Guziki-gioia są mocowane ręcznie zgodnie z wysokimi standardami włoskiej manufaktury. Każdy detal posiada ochronną powłokę galwaniczną, zapobiegającą utlenianiu metalu."
+      },
+      {
+        "q": "Jak dbać o tak złożony skład z włóknem metalizowanym?",
+        "a": "Zdecydowanie zalecamy profesjonalne czyszczenie chemiczne (dry clean only), aby zachować obszerny kształt rękawów-bombate oraz pierwotny blask lurexu."
+      },
+      {
+        "q": "Rękawy wydają się zbyt obszerne.",
+        "a": "Kształt rękawów 'bombate' to kluczowy trend sezonu, który optycznie zwęża talię i równoważy sylwetkę, tworząc harmonijne proporcje."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Люрекс може викликати поколювання або дискомфорт під час носіння.",
+        "a": "У даній моделі використовується люрекс нового покоління, який вплетений у структуру з високим вмістом віскози та кашеміру, що гарантує абсолютну гладкість і тактильний комфорт."
+      },
+      {
+        "q": "Модель здається занадто ошатною для повсякденного гардероба.",
+        "a": "Поєднуйте Cavina з базовими елементами, наприклад, із брюками Opaglio 0927, як запропоновано у нашій вітрині. Це знизить градус урочистості, зберігши статусність образу."
+      },
+      {
+        "q": "Побоювання, що ґудзики можуть потьмяніти або відірватися.",
+        "a": "Ґудзики-джойя закріплені вручну за високими стандартами італійської мануфактури. Кожна деталь має захисне гальванічне покриття, що запобігає окисленню металу."
+      },
+      {
+        "q": "Як доглядати за таким складним складом із металізованим волокном?",
+        "a": "Ми наполегливо рекомендуємо професійну хімчистку (dry clean only), щоб зберегти об'ємну форму рукавів-бомбате та первинний блиск люрексу."
+      },
+      {
+        "q": "Рукави здаються занадто об'ємними.",
+        "a": "Форма рукавів 'bombate' — ключовий тренд сезону, який візуально звужує талію і врівноважує силует, створюючи гармонійні пропорції."
+      }
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "id": 411,
+  "name": "Lama",
+  "description": {
+    "en": "The Lama top-tunic is an ode to the masterful artistry of Italian lace-makers and the quintessence of Luisa Spagnoli's romantic chic. The piece captivates with exquisite lace craftsmanship, finished with delicate scalloped edges on the short sleeves that lend the look ethereal lightness. The piece's interior architecture is considered down to the smallest detail: an integrated structured corset on slender straps ensures flawless support and purity of line, allowing the lace to drape softly over the silhouette without creating excess volume. An elegant peplum (baschina) at the hem, combined with an understated bateau neckline, underscores the aristocratic delicacy of the feminine figure, transforming this top into the ideal choice for the most status-defining evening occasions.",
+    "ru": "Топ-туника Lama --- это гимн виртуозному мастерству итальянских кружевниц и квинтэссенция романтичного шика Luisa Spagnoli. Модель завораживает изысканным кружевным плетением с деликатными фестончатыми краями на коротких рукавах, которые придают образу эфирную легкость. Внутренняя архитектура изделия продумана до мелочей: интегрированный структурированный корсет на тонких бретелях обеспечивает безупречную поддержку и чистоту линий, позволяя кружеву мягко окутывать силуэт, не создавая лишних объемов. Элегантная баска (baschina) на подоле в сочетании с лаконичным вырезом-лодочкой подчеркивает аристократизм и хрупкость женской фигуры, превращая этот топ в идеальный выбор для самых статусных вечерних выходов.",
+    "ar": "توب-تونيك Lama هو نشيد للمهارة البارعة لصانعات الدانتيل الإيطاليات وجوهر الأناقة الرومانسية لدى Luisa Spagnoli. يأسر الموديل الألباب بنسج الدانتيل المتطور مع حواف مزخرفة رقيقة على الأكمام القصيرة التي تمنح الإطلالة خفة أثيرية. تم التفكير في هندسة القطعة الداخلية بأدق تفاصيلها: حيث يوفر المشد الهيكلي المدمج على حمالات رفيعة دعماً مثالياً ونقاءً في الخطوط، مما يسمح للدانتيل بتغليف القوام بنعومة دون خلق حجم إضافي. تبرز الـ (baschina) الأنيقة على الحافة مع فتحة العنق الدائرية الهادئة أرستقراطية ورقة القوام الأنثوي، مما يجعل هذا التوب خياراً مثالياً لأرقى السهرات.",
+    "ka": "ტოპი-ტუნიკა Lama --- ეს არის იტალიელი მაქმანების დამამზადებლების ვირტუოზული ოსტატობის ჰიმნი და Luisa Spagnoli-ს რომანტიკული შიკის კვინტესენცია. მოდელი მოხიბლავს დახვეწილი მაქმანის ნაქსოვით დელიკატური ფესტონოვანი კიდეებით მოკლე სახელოებზე, რომლებიც იმიჯს ეთერულ სიმსუბუქეს ანიჭებს. ნაკეთობის შიდა არქიტექტურა გააზრებულია წვრილმანებამდე: თხელ ბრეტელებზე ინტეგრირებული სტრუქტურირებული კორსეტი უზრუნველყოფს უნაკლო მხარდაჭერასა და ხაზების სისუფთავეს, რაც საშუალებას აძლევს მაქმანს რბილად შემოეხვიოს სილუეტს ზედმეტი მოცულობის შექმნის გარეშე. ელეგანტური ბასკა (baschina) კიდეზე ლაკონიურ ნავისებრ ყელთან ერთად ხაზს უსვამს ქალური ფიგურის არისტოკრატიზმსა და სისუსტეს, რაც ამ ტოპს აქცევს იდეალურ არჩევანად ყველაზე სტატუსური საღამოს გამოსვლებისთვის.",
+    "hy": "Lama տոպ-տունիկան իտալացի ժանյակագործների վիրտուոզ վարպետության հիմնն է և Luisa Spagnoli-ի ռոմանտիկ շիկի կվինտեսենցիան։ Մոդելը հմայում է կարճ թևքերի վրա նուրբ ֆեստոնավոր եզրերով ժանյակային հյուսվածքով, որոնք կերպարին հաղորդում են եթերային թեթևություն։ Իրի ներքին ճարտարապետությունը մտածված է մինչև վերջին մանրուքը. բարակ ժապավենների վրա ինտեգրված կառուցվածքային կորսետն ապահովում է անթերի հենարան և գծերի մաքրություն՝ թույլ տալով ժանյակին մեղմորեն պատել սիլուետը՝ առանց ավելորդ ծավալներ ստեղծելու։ Եզրագծի էլեգանտ բասկան (baschina) լակոնիկ նավակ-բացվածքի հետ համատեղ ընդգծում է կանացի կազմվածքի արիստոկրատիզմն ու փխրունությունը՝ այս տոպը վերածելով ամենակարգավիճակային երեկոյան ելքերի համար իդեալական ընտրության։",
+    "lv": "Tops-tunika Lama — tas ir himna itāļu mežģīņu darinātāju virtuozajai meistarībai un Luisa Spagnoli romantiskā šika kvintesence. Modelis apbur ar izsmalcinātu mežģīņu pinumu ar smalkām, vēdekļveida malām uz īsajām piedurknēm, kas tēlam piešķir ēterisku vieglumu. Izstrādājuma iekšējā arhitektūra ir pārdomāta līdz pat sīkākajām detaļām: integrēta, strukturēta korsete uz tievām lencītēm nodrošina nevainojamu atbalstu un līniju tīrību, ļaujot mežģīnēm maigi apņemt siluetu, neradot lieku apjomu. Eleganta baskina (baschina) uz apakšmalas kombinācijā ar lakonisku laiviņveida izgriezumu uzsver sievietes figūras aristokrātismu un trauslumu, pārvēršot šo topu par ideālu izvēli visprestižākajiem vakara izgājieniem.",
+    "lt": "Topas-tunika Lama --- tai himnas meistriškam italų nėrinių kūrėjų darbui ir romantiško Luisa Spagnoli prašmatnumo kvintesencija. Modelis užburia rafinuotu nėrinių pynimu su subtiliais festoniniais krašteliais trumpose rankovėse, kurios suteikia įvaizdžiui eterinio lengvumo. Vidinė gaminio architektūra apgalvota iki smulkmenų: integruotas struktūrinis korsetas su plonomis petnešėlėmis užtikrina nepriekaištingą palaikymą ir linijų švarą, leisdamas nėriniams švelniai apgaubti siluetą nesukuriant nereikalingų tūrių. Elegantiška baskų (baschina) detalė apačioje kartu su lakoniška valties formos iškirpte pabrėžia aristokratiškumą ir moters figūros trapumą, paverčiant šį topą idealiu pasirinkimu patiems svarbiausiems vakariniams išėjimams.",
+    "pl": "Top-tunika Lama --- to hymn na cześć wirtuozerskiego kunsztu włoskich koronkarek i kwintesencja romantycznego szyku Luisa Spagnoli. Model zachwyca wyrafinowanym koronkowym splotem z delikatnymi brzegami w kształcie muszli na krótkich rękawach, które nadają całości eteryczną lekkość. Wewnętrzna architektura produktu została przemyślana w najdrobniejszych szczegółach: zintegrowany, strukturalny gorset na cienkich ramiączkach zapewnia nienaganne wsparcie i czystość linii, pozwalając koronce miękko otulić sylwetkę, bez tworzenia zbędnej objętości. Elegancka baskinka (baschina) na dole w połączeniu z lakonicznym dekoltem w łódkę podkreśla arystokratyzm i delikatność kobiecej figury, czyniąc ten top idealnym wyborem na najbardziej prestiżowe wieczorowe wyjścia.",
+    "uk": "Топ-туніка Lama --- це гімн віртуозній майстерності італійських мереживниць та квінтесенція романтичного шику Luisa Spagnoli. Модель заворожує вишуканим мереживним плетінням із делікатними фестончастими краями на коротких рукавах, які надають образу ефірної легкості. Внутрішня архітектура виробу продумана до дрібниць: інтегрований структурований корсет на тонких бретелях забезпечує бездоганну підтримку та чистоту ліній, дозволяючи мереживу м'яко огортати силует, не створюючи зайвих об'ємів. Елегантна баска (baschina) на подолі у поєднанні з лаконічним вирізом-човником підкреслює аристократизм і тендітність жіночої фігури, перетворюючи цей топ на ідеальний вибір для найстатусніших вечірніх виходів."
+  },
+  "colors": [
+    {
+      "name": "Blu",
+      "code": "1227",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1725543108691f159f958f35_38596089_02780950XX1.jpg"
+    },
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/170623320691c578438b564_89731091_02780050XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Дизайнеры Luisa Spagnoli предлагают использовать тунику Lama как смысловой центр торжественного ансамбля, сочетая её с благородными фактурами шелка и вискозы: Вариант 1227: В lookbook (Look 119): представлен утонченный вечерний дуэт с летящими брюками из шелка и вискозы Origgio 1227, создающий единую вертикаль цвета и фактуры.",
+        "en": "Luisa Spagnoli designers and stylists suggest using the Lama tunic as the semantic center of a formal ensemble, combining it with noble silk and viscose textures: Option 1227: In the lookbook (Look 119): a sophisticated evening duet with flowing trousers made of silk and viscose Origgio 1227 is presented, creating a single vertical of color and texture.",
+        "ar": "Luisa Spagnoli designers and stylists suggest using the Lama tunic as the semantic center of a formal ensemble, combining it with noble silk and viscose textures: Option 1227: In the lookbook (Look 119): a sophisticated evening duet with flowing trousers made of silk and viscose Origgio 1227 is presented, creating a single vertical of color and texture.",
+        "ka": "Luisa Spagnoli designers and stylists suggest using the Lama tunic as the semantic center of a formal ensemble, combining it with noble silk and viscose textures: Option 1227: In the lookbook (Look 119): a sophisticated evening duet with flowing trousers made of silk and viscose Origgio 1227 is presented, creating a single vertical of color and texture.",
+        "hy": "Luisa Spagnoli designers and stylists suggest using the Lama tunic as the semantic center of a formal ensemble, combining it with noble silk and viscose textures: Option 1227: In the lookbook (Look 119): a sophisticated evening duet with flowing trousers made of silk and viscose Origgio 1227 is presented, creating a single vertical of color and texture.",
+        "lv": "Luisa Spagnoli designers and stylists suggest using the Lama tunic as the semantic center of a formal ensemble, combining it with noble silk and viscose textures: Option 1227: In the lookbook (Look 119): a sophisticated evening duet with flowing trousers made of silk and viscose Origgio 1227 is presented, creating a single vertical of color and texture.",
+        "lt": "Luisa Spagnoli designers and stylists suggest using the Lama tunic as the semantic center of a formal ensemble, combining it with noble silk and viscose textures: Option 1227: In the lookbook (Look 119): a sophisticated evening duet with flowing trousers made of silk and viscose Origgio 1227 is presented, creating a single vertical of color and texture.",
+        "pl": "Luisa Spagnoli designers and stylists suggest using the Lama tunic as the semantic center of a formal ensemble, combining it with noble silk and viscose textures: Option 1227: In the lookbook (Look 119): a sophisticated evening duet with flowing trousers made of silk and viscose Origgio 1227 is presented, creating a single vertical of color and texture.",
+        "uk": "Luisa Spagnoli designers and stylists suggest using the Lama tunic as the semantic center of a formal ensemble, combining it with noble silk and viscose textures: Option 1227: In the lookbook (Look 119): a sophisticated evening duet with flowing trousers made of silk and viscose Origgio 1227 is presented, creating a single vertical of color and texture."
+      },
+      "items": [
+        {
+          "name": "Origgio",
+          "code": "1227",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/597341675691f15a1bcb170_07541284_02781000XX1.jpg",
+          "modelId": 464
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 1227",
+        "en": "In window displays (Vetrina 118, Bambola 3)",
+        "ar": "In window displays (Vetrina 118, Bambola 3)",
+        "ka": "In window displays (Vetrina 118, Bambola 3)",
+        "hy": "In window displays (Vetrina 118, Bambola 3)",
+        "lv": "In window displays (Vetrina 118, Bambola 3)",
+        "lt": "In window displays (Vetrina 118, Bambola 3)",
+        "pl": "In window displays (Vetrina 118, Bambola 3)",
+        "uk": "In window displays (Vetrina 118, Bambola 3)"
+      },
+      "text": {
+        "ru": "На витринах (Vetrina 118, Bambola 3): модель демонстрируется в составе аристократичного total look с брюками Origgio 1227 и статусной сумкой Inofane 1227 0002.",
+        "en": "the model is demonstrated as part of an aristocratic total look with Origgio 1227 trousers and a high-status Inofane 1227 0002 bag. Option 0101:",
+        "ar": "the model is demonstrated as part of an aristocratic total look with Origgio 1227 trousers and a high-status Inofane 1227 0002 bag. Option 0101:",
+        "ka": "the model is demonstrated as part of an aristocratic total look with Origgio 1227 trousers and a high-status Inofane 1227 0002 bag. Option 0101:",
+        "hy": "the model is demonstrated as part of an aristocratic total look with Origgio 1227 trousers and a high-status Inofane 1227 0002 bag. Option 0101:",
+        "lv": "the model is demonstrated as part of an aristocratic total look with Origgio 1227 trousers and a high-status Inofane 1227 0002 bag. Option 0101:",
+        "lt": "the model is demonstrated as part of an aristocratic total look with Origgio 1227 trousers and a high-status Inofane 1227 0002 bag. Option 0101:",
+        "pl": "the model is demonstrated as part of an aristocratic total look with Origgio 1227 trousers and a high-status Inofane 1227 0002 bag. Option 0101:",
+        "uk": "the model is demonstrated as part of an aristocratic total look with Origgio 1227 trousers and a high-status Inofane 1227 0002 bag. Option 0101:"
+      },
+      "items": [
+        {
+          "name": "Origgio",
+          "code": "1227",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/597341675691f15a1bcb170_07541284_02781000XX1.jpg",
+          "modelId": 464
+        },
+        {
+          "name": "Inofane",
+          "code": "1227 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 0101",
+        "en": "In the lookbook (Look 134)",
+        "ar": "In the lookbook (Look 134)",
+        "ka": "In the lookbook (Look 134)",
+        "hy": "In the lookbook (Look 134)",
+        "lv": "In the lookbook (Look 134)",
+        "lt": "In the lookbook (Look 134)",
+        "pl": "In the lookbook (Look 134)",
+        "uk": "In the lookbook (Look 134)"
+      },
+      "text": {
+        "ru": "В lookbook (Look 134): предлагается эффектный контрастный ансамбль с плиссированной шелковой юбкой макси Frizione 0101 0101, где матовое кружево встречается с сиянием шелка.",
+        "en": "a spectacular contrast ensemble is proposed with the pleated silk maxi skirt Frizione 0101 0101, where matte lace meets the radiance of silk.",
+        "ar": "a spectacular contrast ensemble is proposed with the pleated silk maxi skirt Frizione 0101 0101, where matte lace meets the radiance of silk.",
+        "ka": "a spectacular contrast ensemble is proposed with the pleated silk maxi skirt Frizione 0101 0101, where matte lace meets the radiance of silk.",
+        "hy": "a spectacular contrast ensemble is proposed with the pleated silk maxi skirt Frizione 0101 0101, where matte lace meets the radiance of silk.",
+        "lv": "a spectacular contrast ensemble is proposed with the pleated silk maxi skirt Frizione 0101 0101, where matte lace meets the radiance of silk.",
+        "lt": "a spectacular contrast ensemble is proposed with the pleated silk maxi skirt Frizione 0101 0101, where matte lace meets the radiance of silk.",
+        "pl": "a spectacular contrast ensemble is proposed with the pleated silk maxi skirt Frizione 0101 0101, where matte lace meets the radiance of silk.",
+        "uk": "a spectacular contrast ensemble is proposed with the pleated silk maxi skirt Frizione 0101 0101, where matte lace meets the radiance of silk."
+      },
+      "items": [
+        {
+          "name": "Frizione",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/268511745692424cb8df510_26251173_02781120XX1.jpg",
+          "modelId": 396
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 0101",
+        "en": "In window displays (Vetrina 130, Bambola 2)",
+        "ar": "In window displays (Vetrina 130, Bambola 2)",
+        "ka": "In window displays (Vetrina 130, Bambola 2)",
+        "hy": "In window displays (Vetrina 130, Bambola 2)",
+        "lv": "In window displays (Vetrina 130, Bambola 2)",
+        "lt": "In window displays (Vetrina 130, Bambola 2)",
+        "pl": "In window displays (Vetrina 130, Bambola 2)",
+        "uk": "In window displays (Vetrina 130, Bambola 2)"
+      },
+      "text": {
+        "ru": "На витринах (Vetrina 130, Bambola 2): каноническое вечернее прочтение с юбкой Frizione 0101 0101 и изысканной сумкой-клатчем Inofane 0101 0002.",
+        "en": "a canonical evening interpretation with the Frizione 0101 0101 skirt and the exquisite Inofane 0101 0002 clutch.",
+        "ar": "a canonical evening interpretation with the Frizione 0101 0101 skirt and the exquisite Inofane 0101 0002 clutch.",
+        "ka": "a canonical evening interpretation with the Frizione 0101 0101 skirt and the exquisite Inofane 0101 0002 clutch.",
+        "hy": "a canonical evening interpretation with the Frizione 0101 0101 skirt and the exquisite Inofane 0101 0002 clutch.",
+        "lv": "a canonical evening interpretation with the Frizione 0101 0101 skirt and the exquisite Inofane 0101 0002 clutch.",
+        "lt": "a canonical evening interpretation with the Frizione 0101 0101 skirt and the exquisite Inofane 0101 0002 clutch.",
+        "pl": "a canonical evening interpretation with the Frizione 0101 0101 skirt and the exquisite Inofane 0101 0002 clutch.",
+        "uk": "a canonical evening interpretation with the Frizione 0101 0101 skirt and the exquisite Inofane 0101 0002 clutch."
+      },
+      "items": [
+        {
+          "name": "Frizione",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/268511745692424cb8df510_26251173_02781120XX1.jpg",
+          "modelId": 396
+        },
+        {
+          "name": "Inofane",
+          "code": "0101 0002",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- Flawless inner engineering: Direct the client's attention to the integrated corset. This is a rare advantage for a lace piece, eliminating the need for special undergarments and guaranteeing a perfect fit to the figure. - Mastery of scalloping: Draw att"
+    ],
+    "ru": [
+      "- Безупречная внутренняя инженерия: Акцентируйте внимание клиента на интегрированном корсете. Это редкое преимущество для кружевного изделия, которое избавляет от необходимости подбора специального белья и гарантирует идеальную посадку по фигуре. - Мастер"
+    ],
+    "ar": [
+      "**الهندسة الداخلية المتقنة:** * **مشدّ (كورسيه) مدمج بدقة:** يُعد وجود المشدّ الداخلي المدمج مزية استثنائية ونادرة في التصاميم الدانتيلية؛ إذ يوفر دعماً هيكلياً مثالياً ينحت معالم الجسم ببراعة ويضمن ملاءمة استثنائية للقوام.\n* **راحة ورفاهية مطلقة:** يُغنيكِ هذا الابتكار الهندسي المتقن عن عناء البحث عن ملابس داخلية خاصة أو ملاءمة، مما يضمن لكِ ثباتاً تاماً وراحة بيولوجية طوال فترة ارتداء القطعة. **براعة تنفيذ الدانتيل الفاخر:** * **دقة الحرفية الإيطالية:** يُعبر الدانتيل المشغول بعناية عن أرقى مهارات الحباكة والتعشيق، حيث تتداخل الخيوط الشفافة والمجسمة لترسم زخارف مفعمة بالأنوثة والعمق البصري.\n* **توازن الرزانة والجاذبية:** يُحقق هذا التناغم بين شفافية الدانتيل والتشكيل الهيكلي للمشدّ توازناً راقياً يجمع بين السحر المعاصر ورقي أسلوب \"بون تون\" (Bon ton) الذي تتألق به علامة لويزا سبانيولي (Luisa Spagnoli) في عالم \"الفخامة الهادئة\" (Quiet Luxury)."
+    ],
+    "ka": [
+      "- უნაკლო შიდა ინჟინერია: მიაქცევინეთ კლიენტის ყურადღება ინტეგრირებულ კორსეტს. ეს არის იშვიათი უპირატესობა მაქმანებიანი ნაკეთობისთვის, რომელიც ათავისუფლებს სპეციალური საცვლების შერჩევის აუცილებლობისგან და გარანტიას იძლევა ფიგურაზე იდეალური მორგების. - ფესტ"
+    ],
+    "hy": [
+      "- Անթերի ներքին ինժեներություն. հաճախորդի ուշադրությունը հրավիրեք ներկառուցված կորսետին: Սա ժանյակավոր արտադրանքի հազվագյուտ առավելություն է, որը ազատում է հատուկ ներքնազգեստ ընտրելու անհրաժեշտությունից և երաշխավորում է կազմվածքին կատարյալ նստվածք: - Ֆեստ"
+    ],
+    "lv": [
+      "- Nevainojama iekšējā inženierija: Akcentējiet klienta uzmanību uz integrēto korseti. Tā ir reta priekšrocība mežģīņu izstrādājumam, kas atbrīvo no nepieciešamības piemeklēt speciālu veļu un garantē ideālu piegulšanu figūrai. - Festonu meistarība: Pievērs"
+    ],
+    "lt": [
+      "- Nepriekaištinga vidinė inžinerija: atkreipkite kliento dėmesį į integruotą korsetą. Tai retas privalumas nėriniuotam gaminiui, kuris panaikina būtinybę rinktis specialų apatinį trikotažą ir garantuoja tobulą prigludimą prie figūros. - Festonų meistriškumas: atkreipkite dėmesį į rankovių ir apačios apdailą. Festonų (smerlato) nėrinių kraštas --- tai aukštos gaminio kokybės ženklas, pabrėžiantis savininkės statusą ir dėmesį detalėms. - Investicija į šventę: rekomenduokite modelį kaip „coat-and-top“ komplekto dalį. Derinant su Origgio 1227 kelnėmis arba Frizione 0101 sijonu, Lama viršutinė dalis sukuria visavertį vakarinį įvaizdį, alternatyvų suknelei, tačiau pasižymintį didesniu stilizavimo variantiškumu."
+    ],
+    "pl": [
+      "- Nienaganna wewnętrzna inżynieria: Zwróć uwagę klientki na zintegrowany gorset. To rzadki atut w przypadku koronkowego wyrobu, który eliminuje potrzebę doboru specjalnej bielizny i gwarantuje idealne dopasowanie do sylwetki. - Mistrzostwo festonów: Zwróć"
+    ],
+    "uk": [
+      "- Бездоганна внутрішня інженерія: Акцентуйте увагу клієнта на інтегрованому корсеті. Це рідкісна перевага для мереживного виробу, яка позбавляє від необхідності підбору спеціальної білизни і гарантує ідеальну посадку по фігурі. - Майстерність фестонів: Зв"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The lace feels too sheer.",
+        "a": "Point to the built-in, colour-matched corset lining. It ensures full confidence and coverage in key areas, leaving the play of light visible only on the sleeves and peplum."
+      },
+      {
+        "q": "I 'm concerned the peplum will add volume to the hips.",
+        "a": "Explain that, thanks to the lace pattern 's vertical rhythm and the softness of the material, the peplum drapes delicately over the figure without adding structured bulk — instead, it accentuates the waist."
+      },
+      {
+        "q": "It 's too dressy an option — I 'm not sure where to wear it.",
+        "a": "Demonstrate its versatility: the tunic works beautifully layered under a tailored blazer. The lace peeking out from the lapels softens a business look for a cocktail event."
+      },
+      {
+        "q": "The short sleeve isn 't suited to winter.",
+        "a": "Recommend completing the look with a classic coat or a cashmere wrap from the collection (such as the Rivolo 3278). Indoors, the lace sleeve highlights the lightness and occasion of the moment."
+      },
+      {
+        "q": "It 's difficult to find a bottom to match such a statement top.",
+        "a": "Suggest the brand 's ready-made solutions: the Origgio trousers or the Frizione skirt. They match perfectly in tone and fabric weight, creating a polished total look"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Кружево выглядит",
+        "a": "Укажите на наличие плотного встроенного корсета в слишком тон. Он обеспечивает полную уверенность и прозрачным закрытость в ключевых зонах, оставляя эффект легкой игры света только на рукавах и баске."
+      },
+      {
+        "q": "Боюсь, баска",
+        "a": "Поясните, что благодаря вертикальному ритму добавит объема кружевного узора и мягкости материала баска бедрам деликатно ложится по фигуре, не создавая жесткого объема, а лишь подчеркивая талию."
+      },
+      {
+        "q": "Слишком нарядный",
+        "a": "Продемонстрируйте универсальность: туника вариант, не знаю, великолепно работает под строгим жакетом. Кружево, куда носить выглядывающее из-под лацканов, смягчит деловой образ для коктейльного мероприятия."
+      },
+      {
+        "q": "Короткий рукав",
+        "a": "Рекомендуйте дополнить образ классическим пальто не подходит для или кашемировой накидкой из коллекции (например, зимы Rivolo 3278). В помещении кружевной рукав подчеркнет легкость и торжественность момента."
+      },
+      {
+        "q": "Сложно подобрать",
+        "a": "Предложите готовые решения от дизайнеров бренда: низ к такому брюки Origgio или юбку Frizione. Они активному верху идеально совпадают по тональности и плотности ткани, создавая выверенный total look."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الدانتيل يبدو شفافاً اشيري إلى وجود مشد داخلي كثيف في نفس اللون. إنه يضمن الثقة الكاملة والتغطية للغاية",
+        "a": "في المناطق الحساسة، مع ترك تأثير تلاعب الضوء الرقيق فقط على الأكمام والخصر (الباسك)."
+      },
+      {
+        "q": "أخشى أن الباسك سيزيد",
+        "a": "وضحي أنه بفضل الإيقاع العمودي لنقشة الدانتيل ونعومة الخامة، ينسدل الباسك على الجسم حجم الوركين برقة دون خلق حجم إضافي، بل يبرز الخصر فقط."
+      },
+      {
+        "q": "خيار متكلف جداً، لا أعرف اعرضي تنوع الاستخدام: التونيك يعمل بشكل رائع تحت سترة رسمية. الدانتيل الظاهر من أين أرتديه",
+        "a": "من تحت الياقة سيضفي لمسة ناعمة على الإطلالة العملية لحدث كوكتيل."
+      },
+      {
+        "q": "الأكمام القصيرة لا تناسب ننصح بتكملة الإطلالة بمعطف كلاسيكي أو شال كشميري من المجموعة (على سبيل المثال فصل الشتاء",
+        "a": "Rivolo 3278). في الداخل، ستبرز أكمام الدانتيل خفة القطعة وفخامة المناسبة."
+      },
+      {
+        "q": "يصعب اختيار قطعة سفلية",
+        "a": "اقترحي حلولاً جاهزة من مصممي العلامة: بنطال Origgio أو تنورة Frizione. فهي تتطابق مع هذا الجزء العلوي تماماً في التناغم وكثافة القماش، مما يخلق إطلالة كاملة (total look) متقنة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მაქმანი ზედმეტად გამჭვირვალედ გამოიყურება",
+        "a": "მიუთითეთ მკვრივი ჩაშენებული კორსეტის არსებობაზე ტონში. ის უზრუნველყოფს სრულ თავდაჯერებულობას და დახურულობას საკვანძო ზონებში, ტოვებს სინათლის მსუბუქი თამაშის ეფექტს მხოლოდ სახელოებზე და ბასკაზე."
+      },
+      {
+        "q": "შიში მაქვს, ბასკა თეძოებს მოცულობას შემატებს",
+        "a": "განმარტეთ, რომ მაქმანის უზორის ვერტიკალური რიტმისა და მასალის სირბილის წყალობით, ბასკა დელიკატურად დევს ფიგურაზე, არ ქმნის ზედმეტ მოცულობას, არამედ მხოლოდ ხაზს უსვამს წელს."
+      },
+      {
+        "q": "ზედმეტად სადღესასწაულო ვარიანტია, არ ვიცი სად ჩავიცვა",
+        "a": "წარმოაჩინეთ უნივერსალურობა: ტუნიკა შესანიშნავად მუშაობს მკაცრი პიჯაკის ქვეშ. ლაფსების ქვევიდან გამოჩენილი მაქმანი დაარბილებს საქმიან სახეს კოქტეილის ღონისძიებისთვის."
+      },
+      {
+        "q": "მოკლე სახელო არ არის შესაფერისი ზამთრისთვის",
+        "a": "რეკომენდაცია გაუწიეთ სახის შევსებას კლასიკური პალტოთი ან კოლექციიდან ქაშმირის მოსაცმელით (მაგალითად, Rivolo 3278). შენობაში მაქმანიანი სახელო ხაზს გაუსვამს მომენტის სიმსუბუქეს და საზეიმობას."
+      },
+      {
+        "q": "რთულია ქვედა ნაწილის შერჩევა ასეთი აქტიური ზედისთვის",
+        "a": "შესთავაზეთ მზა გადაწყვეტილებები ბრენდის დიზაინერებისგან: შარვალი Origgio ან ქვედაბოლო Frizione. ისინი იდეალურად ემთხვევა ტონალობითა და ქსოვილის სიმკვრივით, ქმნიან გამოკვეთილ total look-ს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ժանյակը չափազանց թափանցիկ է թվում",
+        "a": "Մատնանշեք ներկառուցված խիտ կորսետի առկայությունը։ Այն ապահովում է լիակատար վստահություն և փակվածություն առանցքային գոտիներում՝ լույսի թեթև խաղի էֆեկտը թողնելով միայն թևերի և բասկայի վրա։."
+      },
+      {
+        "q": "Վախենում եմ, որ բասկան ծավալ կավելացնի կոնքերին",
+        "a": "Պարզաբանեք, որ ժանյակային նախշի ուղղահայաց ռիթմի և նյութի փափկության շնորհիվ բասկան նրբորեն է նստում մարմնին՝ չստեղծելով կոշտ ծավալ, այլ միայն ընդգծելով իրանը։."
+      },
+      {
+        "q": "Չափազանց տոնական տարբերակ է, չգիտեմ՝ որտեղ կրել",
+        "a": "Ցուցադրեք բազմակողմանիությունը. տունիկան հրաշալի է նայվում խիստ ժակետի տակ։ Լացկանների տակից երևացող ժանյակը կփափկացնի գործնական կերպարը կոկտեյլային միջոցառման համար։."
+      },
+      {
+        "q": "Կարճ թևը հարմար չէ ձմռան համար",
+        "a": "Առաջարկեք լրացնել կերպարը հավաքածուի դասական վերարկուով կամ քաշմիրե թիկնոցով (օրինակ՝ Rivolo 3278)։ Տարածքի ներսում ժանյակավոր թևը կընդգծի պահի թեթևությունը և հանդիսավորությունը։."
+      },
+      {
+        "q": "Դժվար է ընտրել ներքնահագուստ նման ակտիվ վերնամասի համար",
+        "a": "Առաջարկեք ապրանքանիշի դիզայներների պատրաստի լուծումները՝ Origgio տաբատը կամ Frizione կիսաշրջազգեստը։ Դրանք իդեալականորեն համընկնում են տոնայնությամբ և կտորի խտությամբ՝ ստեղծելով հստակ total look։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Mežģīnes izskatās pārāk caurspīdīgas",
+        "a": "Norādiet uz blīvas iebūvētās korsetes esamību tonī. Tā nodrošina pilnīgu pārliecību un noslēgtību galvenajās zonās, atstājot vieglu gaismas spēles efektu tikai uz piedurknēm un basku daļas."
+      },
+      {
+        "q": "Baidos, ka baska piešķirs apjomu gurniem",
+        "a": "Paskaidrojiet, ka, pateicoties mežģīņu raksta vertikālajam ritmam un materiāla maigumam, baska delikāti pieguļ figūrai, neradot lieku apjomu, bet tikai izceļot vidukli."
+      },
+      {
+        "q": "Pārāk grezns variants, nezinu, kur valkāt",
+        "a": "Demonstrējiet daudzpusību: tunika lieliski darbojas zem stingra žaketes. Mežģīnes, kas izskatās no atlokiem, mīkstinās lietišķo tēlu kokteiļpasākumam."
+      },
+      {
+        "q": "Īsā piedurkne nav piemērota ziemai",
+        "a": "Iesakiet papildināt tēlu ar klasisku mēteli vai kašmira apmetni no kolekcijas (piemēram, Rivolo 3278). Telpās mežģīņu piedurkne uzsvērs vieglumu un pasākuma svinīgumu."
+      },
+      {
+        "q": "Grūti piemeklēt apakšdaļu tik aktīvai augšdaļai",
+        "a": "Piedāvājiet gatavus zīmola dizaineru risinājumus: bikses Origgio vai svārkus Frizione. Tie ideāli sakrīt pēc tonalitātes un auduma blīvuma, radot izsvērtu total look."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Nėriniai atrodo per daug permatomi",
+        "a": "Nurodykite, kad yra tankus įsiūtas korsetas tono spalvos. Jis užtikrina visišką pasitikėjimą ir uždarumą pagrindinėse zonose, paliekant lengvą šviesos žaismą tik ant rankovių ir basko. , kad yra tankus įsiūtas korsetas tono spalvos. Jis užtikrina visišką pasitikėjimą ir uždarumą pagrindinėse zonose, paliekant lengvą šviesos žaismą tik ant rankovių ir basko."
+      },
+      {
+        "q": "„Baiminuosi, kad baskas padidins klubų apimtį",
+        "a": "Paaiškinkite, kad dėl vertikalaus nėrinių rašto ritmo ir medžiagos minkštumo baskas subtiliai priglunda prie figūros, nesukurdamas kieto tūrio, o tik pabrėždamas liemenį. , kad dėl vertikalaus nėrinių rašto ritmo ir medžiagos minkštumo baskas subtiliai priglunda prie figūros, nesukurdamas kieto tūrio, o tik pabrėždamas liemenį."
+      },
+      {
+        "q": "„Per daug puošnus variantas, nežinau kur dėvėti",
+        "a": "Pademonstruokite universalumą: tunika puikiai tinka po griežtu švarku. Nėriniai, kyšantys iš po atlapų, sušvelnins dalykinį įvaizdį kokteilio renginiui. „Trumpa rankovė netinka žiemai“ Rekomenduokite papildyti įvaizdį klasikiniu paltu arba kašmyrine skraiste iš kolekcijos (pavyzdžiui, Rivolo 3278). Patalpoje nėrinių rankovė pabrėš lengvumą ir iškilmingumą. universalumą: tunika puikiai tinka po griežtu švarku. Nėriniai, kyšantys iš po atlapų, sušvelnins dalykinį įvaizdį kokteilio renginiui. „Trumpa rankovė netinka žiemai“ Rekomenduokite papildyti įvaizdį klasikiniu paltu arba kašmyrine skraiste iš kolekcijos (pavyzdžiui, Rivolo 3278). Patalpoje nėrinių rankovė pabrėš lengvumą ir iškilmingumą."
+      },
+      {
+        "q": "„Sunku parinkti apačią prie tokio aktyvaus viršaus",
+        "a": "Pasiūlykite paruoštus sprendimus iš prekių ženklo dizainerių: kelnes Origgio arba sijoną Frizione. Jie idealiai sutampa pagal toną ir audinio tankį, sukurdami išgrynintą „total look."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Koronka wygląda zbyt przezroczyście",
+        "a": "Wskaż na obecność gęstego wbudowanego gorsetu w odcieniu. Zapewnia on pełną pewność i zamkniętość w kluczowych strefach, pozostawiając efekt lekkiej gry świateł tylko na rękawach i baskince."
+      },
+      {
+        "q": "Obawiam się, że baskinka doda objętości biodrom",
+        "a": "Wyjaśnij, że dzięki pionowemu rytmowi koronkowego wzoru i miękkości materiału baskinka delikatnie układa się na figurze, nie tworząc sztywnej objętości, a jedynie podkreślając talię."
+      },
+      {
+        "q": "Zbyt wyjściowy wariant, nie wiem, gdzie nosić",
+        "a": "Zaprezentuj uniwersalność: tunika wspaniale sprawdza się pod surowym żakietem. Koronka wyglądająca spod klap złagodzi biznesowy wizerunek na imprezę koktajlową."
+      },
+      {
+        "q": "Krótki rękaw nie nadaje się na zimę",
+        "a": "Rekomenduj uzupełnienie wizerunku klasycznym płaszczem lub kaszmirową narzutką z kolekcji (np. Rivolo 3278). W pomieszczeniu koronkowy rękaw podkreśli lekkość i uroczystość momentu."
+      },
+      {
+        "q": "Trudno dobrać dół do tak aktywnej góry",
+        "a": "Zaproponuj gotowe rozwiązania od projektantów marki: spodnie Origgio lub spódnicę Frizione. Idealnie pasują one pod względem tonacji i gęstości tkaniny, tworząc wyważony total look."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Мереживо виглядає",
+        "a": "Вкажіть на наявність щільного вбудованого корсета в надто тоні. Він забезпечує повну впевненість і прозорим закритість у ключових зонах, залишаючи ефект легкої гри світла лише на рукавах і басці."
+      },
+      {
+        "q": "Боюся, баска",
+        "a": "Поясніть, що завдяки вертикальному ритму додасть об’єму мереживного візерунка і м’якості матеріалу баска стегнам делікатно лягає по фігурі, не створюючи жорсткого об’єму, а лише підкреслюючи талію."
+      },
+      {
+        "q": "Надто ошатний",
+        "a": "Продемонструйте універсальність: туніка варіант, не знаю, чудово працює під строгим жакетом. Мереживо, куди носити що визирає з-під лацканів, пом’якшить діловий образ для коктейльного заходу."
+      },
+      {
+        "q": "Короткий рукав Рекомендуйте доповнити образ класичним пальто не підходить для або кашеміровою накидкою з колекції (наприклад, зими",
+        "a": "Rivolo 3278). У приміщенні мереживний рукав підкреслить легкість і урочистість моменту."
+      },
+      {
+        "q": "Складно підібрати",
+        "a": "Запропонуйте готові рішення від дизайнерів бренду: низ до такого штани Origgio або спідницю Frizione. Вони активного верху ідеально збігаються за тональністю і щільністю тканини, створюючи вивірений total look."
+      }
+    ]
+  }
+}

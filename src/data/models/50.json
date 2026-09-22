@@ -1,0 +1,426 @@
+{
+  "id": 50,
+  "name": "Fiorini",
+  "description": {
+    "en": "The Fiorini midi skirt by Luisa Spagnoli is the embodiment of refined textural luxury and impeccable tailoring craftsmanship. Crafted from a unique reinforced fabric, delicately illuminated with micro-sequins and silver lurex, lending the piece an aristocratic sheen. A straight, knee-length silhouette is complemented by a striking side slit finished with passementerie trim that creates the illusion of a wrap closure. Harmoniously combining 50% cotton with noble wool, this piece is the ideal choice for status-defining daytime ensembles and cocktail occasions.",
+    "ru": "Юбка-миди Fiorini от Luisa Spagnoli — это воплощение изысканной текстурной роскоши и безупречного портновского мастерства. Модель выполнена из уникального арматурного полотна, деликатно подсвеченного микропайетками и серебристым люрексом, что придает изделию аристократичное сияние. Прямой силуэт длиной до колена дополнен эффектным боковым разрезом с отделкой пассамантерией, создающей иллюзию запа́ха. Это изделие, в составе которого гармонично сочетаются 50% хлопка и благородная шерсть, является идеальным выбором для статусных дневных ансамблей и коктейльных выходов.",
+    "ar": "تنورة ميدي Fiorini من Luisa Spagnoli هي تجسيد للفخامة النسيجية الراقية وبراعة الخياطة التي لا تشوبها شائبة. تم تصميم القطعة من قماش فريد معزز ومضاء بدقة بالترتر الدقيق وخيوط اللوريكس الفضية، مما يضفي على المنتج بريقاً أرستقراطياً. يتميز التصميم المستقيم بطول يصل إلى الركبة مع فتحة جانبية جذابة مزينة بتطريز (passamanteria) يمنح إيحاءً بأسلوب اللف. هذا المنتج، الذي يمزج بانسجام بين 50% قطن وصوف فاخر، يعد خياراً مثالياً للإطلالات النهارية الراقية والمناسبات المسائية.",
+    "ka": "Luisa Spagnoli-ის Fiorini-ს მიდი-ქვედაბოლო არის დახვეწილი ტექსტურული ფუფუნებისა და უნაკლო მკერავური ოსტატობის განსახიერება. მოდელი დამზადებულია უნიკალური არმირებული ქსოვილისგან, რომელიც დელიკატურად არის გაფორმებული მიკროპიეტებითა და ვერცხლისფერი ლურექსით, რაც ნაკეთობას არისტოკრატულ ბზინვარებას სძენს. მუხლამდე სწორი სილუეტი დამატებულია პასამანტერიით გაფორმებული ეფექტური გვერდითი ჭრილით, რომელიც გადაკეცვის ილუზიას ქმნის. ეს ნაკეთობა, რომელიც ჰარმონიულად აერთიანებს 50% ბამბასა და კეთილშობილურ მატყლს, იდეალური არჩევანია სტატუსური დღის ანსამბლებისა და კოქტეილის წვეულებებისთვის.",
+    "hy": "Luisa Spagnoli-ի Fiorini միդի-կիսաշրջազգեստը նրբագեղ տեքստուրային շքեղության և անթերի դերձակային վարպետության մարմնացում է։ Մոդելը պատրաստված է յուրահատուկ ամրացնող կտավից, որը նրբորեն լուսավորված է միկրոփայլերով և արծաթագույն լյուրեքսով, ինչը հագուստին հաղորդում է արիստոկրատական փայլ։ Ծնկից ներքև ուղիղ սիլուետը լրացված է պասամանտերիայի հարդարանքով տպավորիչ կողային ճեղքվածքով, որը ստեղծում է փաթաթվածքի պատրանք։ Այս հագուստը, որի բաղադրության մեջ ներդաշնակորեն միախառնված են 50% բամբակը և ազնվական բուրդը, կատարյալ ընտրություն է կարգավիճակային ցերեկային անսամբլների և կոկտեյլային ելքերի համար։",
+    "lv": "Vidēja garuma svārki Fiorini no Luisa Spagnoli ir izsmalcinātas teksturālas greznības un nevainojama drēbniecības meistardarba iemiesojums. Modelis ir izgatavots no unikāla strukturēta auduma, ko maigi izgaismo mikropailietes un sudrabains lurekss, piešķirot izstrādājumam aristokrātisku mirdzumu. Taisnais siluets līdz celim ir papildināts ar efektīvu sānu šķēlumu ar pasamanterijas apdari, kas rada smaržsvārku ilūziju. Šis izstrādājums, kura sastāvā harmoniski apvienoti 50% kokvilnas un cēla vilna, ir ideāla izvēle statusa pilniem dienas ansambļiem un kokteiļvakariem.",
+    "lt": "„Fiorini“ midi sijonas iš Luisa Spagnoli — tai rafinuotos tekstūrinės prabangos ir nepriekaištingo siuvimo meistriškumo įsikūnijimas. Modelis pasiūtas iš unikalaus struktūrinio audinio, subtiliai apšviesto mikropailietėmis ir sidabriniu lureksu, suteikiančiu gaminiui aristokratiško spindesio. Tiesų siluetą iki kelių papildo efektyvus šoninis skeltukas su pasamanerijos apdaila, sukuriančia užsegimo iliuziją. Šis gaminys, kurio sudėtyje harmoningai dera 50% medvilnės ir kilni vilna, yra idealus pasirinkimas statuso kupiniems dienos deriniams ir kokteilių vakarėliams.",
+    "pl": "To jest tekst o wyjątkowym charakterze, dlatego przetłumaczyłem go zachowując styl premium, krawiecki szyk oraz modowe słownictwo pasujące do marki Luisa Spagnoli. **Tłumaczenie:** „Spódnica midi Fiorini marki Luisa Spagnoli to uosobienie wyrafinowanego, strukturalnego luksusu i krawieckiej perfekcji. Model został wykonany z unikalnej dzianiny o wyraźnej fakturze, delikatnie rozświetlonej mikroc cekinami oraz srebrzystą nitką lureksową, co nadaje całości arystokratycznego blasku. Prosty fason o długości do kolana zdobi efektowne rozcięcie z boku, wykończone dekoracyjną taśmą (pasmanterią), która tworzy iluzję kroju kopertowego. Model ten, łączący w swoim składzie 50% bawełny oraz szlachetną wełnę, stanowi idealny wybór do prestiżowych stylizacji dziennych i na wyjścia koktajlowe.”",
+    "uk": "Спідниця-міді Fiorini від Luisa Spagnoli — це втілення вишуканої текстурної розкоші та бездоганної кравецької майстерності. Модель виконана з унікального арматурного полотна, делікатно підсвіченого мікропаєтками та сріблястим люрексом, що додає виробу аристократичного сяйва. Прямий силует довжиною до коліна доповнений ефектним боковим розрізом з оздобленням пасамантерією, що створює ілюзію запа́ху. Цей виріб, у складі якого гармонійно поєднуються 50% бавовни та благородна вовна, є ідеальним вибором для статусних денних ансамблів та коктейльних виходів."
+  },
+  "colors": [
+    {
+      "name": "Var Nero Panna",
+      "code": "3285",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/c01AhjtXSNOtuG6Rn4xl6Q_559814420696f43057ff552_22795035_02821350XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look Vetrina 56",
+        "en": "Total Look Vetrina 56",
+        "ar": "Total Look Vetrina 56",
+        "ka": "Total Look Vetrina 56",
+        "hy": "Total Look Vetrina 56",
+        "lv": "Total Look Vetrina 56",
+        "lt": "Total Look Vetrina 56",
+        "pl": "Total Look Vetrina 56",
+        "uk": "Total Look Vetrina 56"
+      },
+      "text": {
+        "ru": "Юбка Fiorini 3285 в паре с жакетом Sciantal 3285 и классической рубашкой Limonaia 0101. Акцент образа — сумка Iago 0101 0002.",
+        "en": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "ar": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "ka": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "hy": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "lv": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "lt": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "pl": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "uk": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Fiorini",
+          "code": "3285",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/c01AhjtXSNOtuG6Rn4xl6Q_559814420696f43057ff552_22795035_02821350XX1.jpg"
+        },
+        {
+          "name": "Sciantal",
+          "code": "3285",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0090.jpg",
+          "modelId": 304
+        },
+        {
+          "name": "Limonaia",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg",
+          "modelId": 416
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look Vetrina 57",
+        "en": "Total Look Vetrina 57",
+        "ar": "Total Look Vetrina 57",
+        "ka": "Total Look Vetrina 57",
+        "hy": "Total Look Vetrina 57",
+        "lv": "Total Look Vetrina 57",
+        "lt": "Total Look Vetrina 57",
+        "pl": "Total Look Vetrina 57",
+        "uk": "Total Look Vetrina 57"
+      },
+      "text": {
+        "ru": "Fiorini 3285 дополнен капой Situazione 0101, пуловером Ciglia 0101 и рубашкой Latteria 1005. Финальный штрих — сумка Idilliaco 0101 0002.",
+        "en": "Fiorini 3285 skirt completed with Situazione 0101 cape, Ciglia 0101 pullover (Data unavailable in official sources) and Latteria 1005 shirt. The final touch is the Idilliaco 0101 0002 bag.",
+        "ar": "Fiorini 3285 skirt completed with Situazione 0101 cape, Ciglia 0101 pullover (Data unavailable in official sources) and Latteria 1005 shirt. The final touch is the Idilliaco 0101 0002 bag.",
+        "ka": "Fiorini 3285 skirt completed with Situazione 0101 cape, Ciglia 0101 pullover (Data unavailable in official sources) and Latteria 1005 shirt. The final touch is the Idilliaco 0101 0002 bag.",
+        "hy": "Fiorini 3285 skirt completed with Situazione 0101 cape, Ciglia 0101 pullover (Data unavailable in official sources) and Latteria 1005 shirt. The final touch is the Idilliaco 0101 0002 bag.",
+        "lv": "Fiorini 3285 skirt completed with Situazione 0101 cape, Ciglia 0101 pullover (Data unavailable in official sources) and Latteria 1005 shirt. The final touch is the Idilliaco 0101 0002 bag.",
+        "lt": "Fiorini 3285 skirt completed with Situazione 0101 cape, Ciglia 0101 pullover (Data unavailable in official sources) and Latteria 1005 shirt. The final touch is the Idilliaco 0101 0002 bag.",
+        "pl": "Fiorini 3285 skirt completed with Situazione 0101 cape, Ciglia 0101 pullover (Data unavailable in official sources) and Latteria 1005 shirt. The final touch is the Idilliaco 0101 0002 bag.",
+        "uk": "Fiorini 3285 skirt completed with Situazione 0101 cape, Ciglia 0101 pullover (Data unavailable in official sources) and Latteria 1005 shirt. The final touch is the Idilliaco 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Fiorini",
+          "code": "3285",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/c01AhjtXSNOtuG6Rn4xl6Q_559814420696f43057ff552_22795035_02821350XX1.jpg"
+        },
+        {
+          "name": "Situazione",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg",
+          "modelId": 321
+        },
+        {
+          "name": "Ciglia",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Latteria",
+          "code": "1005",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/w6zktmV2RaKBA33RIkfKZA_988814576696f4237c7d779_89171727_02820370XX1.jpg",
+          "modelId": 101
+        },
+        {
+          "name": "Idilliaco",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_10100020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look Vetrina 56",
+        "en": "Total Look Vetrina 56",
+        "ar": "Total Look Vetrina 56",
+        "ka": "Total Look Vetrina 56",
+        "hy": "Total Look Vetrina 56",
+        "lv": "Total Look Vetrina 56",
+        "lt": "Total Look Vetrina 56",
+        "pl": "Total Look Vetrina 56",
+        "uk": "Total Look Vetrina 56"
+      },
+      "text": {
+        "ru": "Юбка Fiorini 3285 в паре с жакетом Sciantal 3285 и классической рубашкой Limonaia 0101. Акцент образа — сумка Iago 0101 0002.",
+        "en": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "ar": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "ka": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "hy": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "lv": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "lt": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "pl": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag.",
+        "uk": "Fiorini 3285 skirt paired with Sciantal 3285 jacket and Limonaia 0101 classic shirt. The accent of the look is the Iago 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Fiorini",
+          "code": "3285",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/c01AhjtXSNOtuG6Rn4xl6Q_559814420696f43057ff552_22795035_02821350XX1.jpg"
+        },
+        {
+          "name": "Sciantal",
+          "code": "3285",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0090.jpg",
+          "modelId": 304
+        },
+        {
+          "name": "Lezioni",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/205334736692424cee9f311_65701167_02781220XX1.jpg",
+          "modelId": 415
+        },
+        {
+          "name": "Ustica A",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg"
+        },
+        {
+          "name": "Ialofane",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000%20%281%29.jpg",
+          "modelId": 90
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the distinctive texture: the blend of micro-sequins and silver lurex creates a delicate shimmer, equally at home in a daytime or evening wardrobe.",
+      "Highlight the craftsmanship of the cut: the straight, knee-length silhouette paired with a passementerie-trimmed slit creates a graceful wrap effect, lending the look a sense of movement.",
+      "Recommend the piece as an investment in 'quiet luxury' style: the refined black-and-cream palette (Nero Panna) and premium fabric composition underscore the wearer's status."
+    ],
+    "ru": [
+      "Делайте акцент на уникальной фактуре: сочетание микропайеток и серебристого люрекса создает деликатное мерцание, которое уместно как в дневном, так и в вечернем гардеробе.",
+      "Подчеркните мастерство кроя: прямой силуэт до колена в сочетании со шлицей, отделанной пассамантерией, создает эффект «на запа́х», добавляя образу динамики.",
+      "Рекомендуйте модель как инвестицию в стиль «тихой роскоши»: благородная черно-белая гамма (Nero Panna) и премиальный состав ткани подчеркивают статус владелицы."
+    ],
+    "ar": [
+      "ركزي على القوام الفريد: فمزيج الترتر الدقيق وخيوط اللوريكس الفضية يضفي بريقاً رقيقاً يناسب الإطلالات النهارية والمسائية على حد سواء.",
+      "أبرزي براعة القصّة: فالصورة الظلية المستقيمة التي تصل إلى الركبة مع فتحة جانبية مزينة بشريط الباسامانتريه تمنح تأثيراً يشبه «اللف»، مما يضفي حيوية على المظهر.",
+      "رشحي هذا التصميم كاستثمار في أسلوب «الرفاهية الهادئة»: فلوحة الألوان الأنيقة بالأسود والأبيض (Nero Panna) وتركيبة القماش الفاخرة تؤكد مكانة من ترتديها."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება უნიკალურ ფაქტურაზე: მიკრო-შემოსავლებისა და ვერცხლისფერი ლურექსის კომბინაცია ქმნის ნაზ ბრწყინვალებას, რომელიც შესაფერისია როგორც დღის, ისე საღამოს გარდერობისთვის.",
+      "ხაზი გაუსვით ჭრის ოსტატობას: სწორი სილუეტი მუხლამდე, პასამანტერიით გაფორმებულ ჭრილთან ერთად, ქმნის „გადაკრული“ (wrap) სტილის ეფექტს, რაც სამოსს დინამიკას სძენს.",
+      "რეკომენდაცია გაუწიეთ მოდელს, როგორც ინვესტიციას „ჩუმი ფუფუნების“ სტილში: კეთილშობილური შავ-თეთრი გამა (Nero Panna) და ქსოვილის პრემიუმ შემადგენლობა ხაზს უსვამს მფლობელის სტატუსს."
+    ],
+    "hy": [
+      "Շեշտադրեք եզակի հյուսվածքը՝ միկրոփայլերի և արծաթագույն լյուրեքսի համադրությունը ստեղծում է նուրբ փայլ, որը տեղին է ինչպես ցերեկային, այնպես էլ երեկոյան զգեստապահարանում։",
+      "Ընդգծեք ձևվածքի վարպետությունը՝ մինչև ծնկները հասնող ուղիղ սիլուետը՝ համադրված պասամանտերիայով ձևավորված ճեղքվածքի հետ, ստեղծում է «փաթաթվող» (на запа́х) էֆեկտ՝ կերպարին հաղորդելով դինամիկա։",
+      "Առաջարկեք մոդելը որպես «լուռ շքեղության» (quiet luxury) ոճում ներդրում. ազնվական սև-սպիտակ գամման (Nero Panna) և գործվածքի պրեմիում բաղադրությունը ընդգծում են տիրոջ կարգավիճակը։"
+    ],
+    "lv": [
+      "Uzsvēriet unikālo faktūru: mikropaiješu un sudrabaina lureksa kombinācija rada smalku mirdzumu, kas ir piemērots gan dienas, gan vakara garderobei.",
+      "Izceliet piegriezuma meistarību: taisnais siluets līdz celim apvienojumā ar šķēlumu, kas dekorēts ar pasamanēriju, rada «aploksnes» efektu, piešķirot tēlam dinamiku.",
+      "Iesakiet modeli kā investīciju «klusās greznības» stilā: cēlā melnbaltā gamma (Nero Panna) un auduma premium sastāvs uzsver īpašnieces statusu."
+    ],
+    "lt": [
+      "Išryškinkite unikalią tekstūrą: smulkių žvynelių ir sidabrinio liurekso derinys sukuria subtilų žvilgesį, kuris tinka tiek dienos, tiek vakaro aprangai.",
+      "Pabrėžkite kirpimo meistriškumą: tiesus siluetas iki kelių kartu su skeltuku, dekoruotu pasamanterija, sukuria „užlaidos“ efektą, suteikdami įvaizdžiui dinamikos.",
+      "Rekomenduokite šį modelį kaip investiciją į „tylios prabangos“ stilių: kilni juodos ir baltos spalvų gama (Nero Panna) ir aukščiausios kokybės audinio sudėtis pabrėžia savininkės statusą."
+    ],
+    "pl": [
+      "Kładź nacisk na unikalną fakturę: połączenie mikropajetek i srebrzystego lureksu tworzy delikatne migotanie, które jest odpowiednie zarówno w dziennej, jak i wieczorowej garderobie.",
+      "Podkreśl mistrzostwo kroju: prosty krój do kolan w połączeniu z rozcięciem wykończonym pasmanterią tworzy efekt „na zakładkę”, dodając stylizacji dynamiki.",
+      "Rekomenduj model jako inwestycję w styl „cichego luksusu”: szlachetna czarno-biała gama (Nero Panna) oraz wysokogatunkowy skład tkaniny podkreślają status właścicielki."
+    ],
+    "uk": [
+      "Робіть акцент на унікальній фактурі: поєднання мікропаєток та сріблястого люрексу створює делікатне мерехтіння, яке доречне як у денному, так і у вечірньому гардеробі.",
+      "Підкресліть майстерність крою: прямий силует до коліна в поєднанні зі шліцою, оздобленою пассамантерією, створює ефект «на запах», додаючи образу динаміки.",
+      "Рекомендуйте модель як інвестицію в стиль «тихої розкоші»: благородна чорно-біла гама (Nero Panna) та преміальний склад тканини підкреслюють статус власниці."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Sequins and lurex may seem too dressy for everyday wear.",
+        "a": "The decoration on this piece is applied with great restraint. Pair the skirt with the classic Limonaia 0101 shirt to balance the shimmer with an understated top."
+      },
+      {
+        "q": "How should such a complex fabric be cared for?",
+        "a": "We recommend exclusively professional dry cleaning to preserve the structure of the metallic thread and the original shine of the sequins for the long term."
+      },
+      {
+        "q": "The fabric may feel stiff due to the lurex content.",
+        "a": "The high cotton content (50%) in the fabric composition guarantees softness and exceptional tactile comfort against the skin."
+      },
+      {
+        "q": "A straight silhouette may restrict movement while walking.",
+        "a": "The designers incorporated a side slit, which serves not only as a stylish accent but also ensures complete freedom of movement."
+      },
+      {
+        "q": "Concern that the sequins may shed over time.",
+        "a": "Luisa Spagnoli pieces employ advanced technology to secure the decoration within the fabric structure, guaranteeing exceptional durability."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Пайетки и люрекс кажутся слишком нарядными для повседневной носки.",
+        "a": "Декор в этой модели выполнен крайне сдержанно. Сочетайте юбку с классической рубашкой Limonaia 0101, чтобы сбалансировать блеск лаконичным верхом."
+      },
+      {
+        "q": "Как правильно ухаживать за такой сложной тканью?",
+        "a": "Мы рекомендуем исключительно профессиональную химчистку, чтобы надолго сохранить структуру металлизированных нитей и первозданный блеск пайеток."
+      },
+      {
+        "q": "Ткань может быть жесткой из-за наличия люрекса.",
+        "a": "Высокое содержание хлопка (50%) в составе полотна гарантирует мягкость и исключительный тактильный комфорт при соприкосновении с кожей."
+      },
+      {
+        "q": "Прямой силуэт может стеснять движения при ходьбе.",
+        "a": "Дизайнеры предусмотрели боковой разрез, который не только является стильным акцентом, но и обеспечивает полную свободу движений."
+      },
+      {
+        "q": "Боязнь, что пайетки могут осыпаться со временем.",
+        "a": "В изделиях Luisa Spagnoli используется передовая технология фиксации декора в структуре полотна, что гарантирует высокую износостойкость."
+      }
+    ],
+    "ar": [
+      {
+        "q": "تبدو الترترات وخيوط اللوركس مبالغاً في أناقتها للارتداء اليومي.",
+        "a": "تم تصميم الزخارف في هذا الموديل بأسلوب غاية في الرقي والبساطة. نسقي التنورة مع القميص الكلاسيكي Limonaia 0101 لتحقيق التوازن بين اللمعان والتصميم الهادئ."
+      },
+      {
+        "q": "كيف يمكن العناية بمثل هذا القماش المعقد؟",
+        "a": "نوصي حصرياً بالتنظيف الجاف الاحترافي للحفاظ على بنية الخيوط المعدنية والبريق الأصلي للترتر لأطول فترة ممكنة."
+      },
+      {
+        "q": "قد يكون القماش قاسياً بسبب وجود اللوركس.",
+        "a": "المحتوى العالي من القطن (50%) في تركيبة النسيج يضمن النعومة والراحة الاستثنائية عند ملامسته للبشرة."
+      },
+      {
+        "q": "قد يقيد القصة المستقيمة حركة المشي.",
+        "a": "حرص المصممون على إضافة فتحة جانبية لا تعد لمسة أنيقة فحسب، بل توفر أيضاً حرية كاملة في الحركة."
+      },
+      {
+        "q": "الخوف من تساقط الترتر مع مرور الوقت.",
+        "a": "تستخدم Luisa Spagnoli تقنية متطورة لتثبيت الزخارف في بنية النسيج، مما يضمن متانة عالية ومقاومة للتمزق."
+      }
+    ],
+    "ka": [
+      {
+        "q": "პაიეტკები და ლურექსი ყოველდღიური ტარებისთვის ზედმეტად სადღესასწაულოდ გამოიყურება.",
+        "a": "ამ მოდელის დეკორი ძალზე თავშეკავებულადაა შესრულებული. შეუხამეთ ქვედაბოლო კლასიკურ პერანგს Limonaia 0101, რათა ბრწყინვალება ლაკონური ზედით დააბალანსოთ."
+      },
+      {
+        "q": "როგორ მოვუაროთ ასეთ რთულ ქსოვილს?",
+        "a": "ჩვენ გირჩევთ ექსკლუზიურად პროფესიონალურ ქიმწმენდას, რათა დიდხანს შეინარჩუნოთ მეტალიზებული ძაფების სტრუქტურა და პაიეტკების პირველადი ბრწყინვალება."
+      },
+      {
+        "q": "ქსოვილი შეიძლება იყოს უხეში ლურექსის არსებობის გამო.",
+        "a": "ქსოვილის შემადგენლობაში ბამბის მაღალი შემცველობა (50%) უზრუნველყოფს სირბილეს და განსაკუთრებულ ტაქტილურ კომფორტს კანთან შეხებისას."
+      },
+      {
+        "q": "სწორ სილუეტს შეუძლია შეზღუდოს მოძრაობა სიარულისას.",
+        "a": "დიზაინერებმა გაითვალისწინეს გვერდითა ჭრილი, რომელიც არა მხოლოდ სტილური აქცენტია, არამედ მოძრაობის სრულ თავისუფლებასაც უზრუნველყოფს."
+      },
+      {
+        "q": "შიში იმისა, რომ პაიეტკები დროთა განმავლობაში შესაძლოა ჩამოცვივდეს.",
+        "a": "Luisa Spagnoli-ს ნაკეთობებში გამოიყენება დეკორის ქსოვილის სტრუქტურაში ფიქსაციის მოწინავე ტექნოლოგია, რაც უზრუნველყოფს მაღალ გამძლეობას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Փայլերն ու լյուրեքսը առօրյա հագուստի համար չափազանց շքեղ են թվում",
+        "a": "Այս մոդելի դեկորը կատարված է չափազանց զուսպ։ Համադրեք կիսաշրջազգեստը Limonaia 0101 դասական վերնաշապիկի հետ՝ փայլը լակոնիկ վերնամասով հավասարակշռելու համար։"
+      },
+      {
+        "q": "Ինչպե՞ս ճիշտ խնամել այսպիսի բարդ գործվածքը",
+        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում, որպեսզի երկար ժամանակ պահպանվի մետաղական թելերի կառուցվածքը և փայլերի սկզբնական փայլը։"
+      },
+      {
+        "q": "Գործվածքը կարող է կոշտ լինել լյուրեքսի առկայության պատճառով",
+        "a": "Գործվածքի կազմում բամբակի բարձր պարունակությունը (50%) երաշխավորում է փափկություն և մաշկին հպվելիս բացառիկ հարմարավետություն։"
+      },
+      {
+        "q": "Ուղիղ ուրվագիծը կարող է սահմանափակել շարժումները քայլելիս",
+        "a": "Դիզայներները նախատեսել են կողային բացվածք, որը ոչ միայն նորաոճ շեշտադրում է, այլև ապահովում է շարժումների լիարժեք ազատություն։"
+      },
+      {
+        "q": "Վախ, որ փայլերը ժամանակի ընթացքում կարող են թափվել",
+        "a": "Luisa Spagnoli-ի արտադրանքում օգտագործվում է գործվածքի կառուցվածքում դեկորի ամրացման առաջադեմ տեխնոլոգիա, ինչը երաշխավորում է բարձր մաշվածադիմացկունություն։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vizuļi un lurekss šķiet pārāk svinīgi ikdienas valkāšanai.",
+        "a": "Dekors šajā modelī ir izpildīts ļoti atturīgi. Kombinējiet svārkus ar klasisko kreklu Limonaia 0101, lai līdzsvarotu mirdzumu ar lakonisku augšdaļu."
+      },
+      {
+        "q": "Kā pareizi kopt tik sarežģītu audumu?",
+        "a": "Mēs iesakām tikai profesionālo ķīmisko tīrīšanu, lai ilgstoši saglabātu metalizēto diegu struktūru un vizuļu sākotnējo spīdumu."
+      },
+      {
+        "q": "Audums var būt stīvs lureksa klātbūtnes dēļ.",
+        "a": "Augstais kokvilnas saturs (50%) auduma sastāvā garantē mīkstumu un izcilu taustes komfortu saskarē ar ādu."
+      },
+      {
+        "q": "Taisns siluets var ierobežot kustības ejot.",
+        "a": "Dizaineri ir paredzējuši sānu šķēlumu, kas ne tikai ir stilīgs akcents, bet arī nodrošina pilnīgu kustību brīvību."
+      },
+      {
+        "q": "Bažas, ka vizuļi laika gaitā var nobirt.",
+        "a": "Luisa Spagnoli izstrādājumos tiek izmantota progresīva dekora fiksācijas tehnoloģija auduma struktūrā, kas garantē augstu nodilumizturību."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Žvyneliai ir liureksas atrodo per daug puošnūs kasdieniam dėvėjimui.",
+        "a": "Šio modelio dekoras yra itin santūrus. Derinkite sijoną su klasikine palaidine Limonaia 0101, kad subalansuotumėte žvilgesį lakonišku viršumi."
+      },
+      {
+        "q": "Kaip tinkamai prižiūrėti tokį sudėtingą audinį?",
+        "a": "Rekomenduojame tik profesionalų cheminį valymą, kad ilgam išsaugotumėte metalizuotų siūlų struktūrą ir pradinį žvynelių spindesį."
+      },
+      {
+        "q": "Audinys gali būti standus dėl liurekso sudėties.",
+        "a": "Didelis medvilnės kiekis (50 %) audinio sudėtyje užtikrina minkštumą ir išskirtinį taktilinį komfortą liečiantis su oda."
+      },
+      {
+        "q": "Tiesus siluetas gali varžyti judesius vaikštant.",
+        "a": "Dizaineriai numatė skeltuką šone, kuris yra ne tik stilingas akcentas, bet ir užtikrina visišką judesių laisvę."
+      },
+      {
+        "q": "Baimė, kad žvyneliai laikui bėgant gali nubyrėti.",
+        "a": "Luisa Spagnoli gaminiuose naudojama pažangi dekoro fiksavimo audinio struktūroje technologija, kuri garantuoja aukštą atsparumą nusidėvėjimui."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Cekiny i lureks wydają się zbyt strojne do noszenia na co dzień.",
+        "a": "Dekoracja w tym modelu została wykonana niezwykle powściągliwie. Zestaw spódnicę z klasyczną koszulą Limonaia 0101, aby zrównoważyć blask lakoniczną górą."
+      },
+      {
+        "q": "Jak prawidłowo dbać o tak złożoną tkaninę?",
+        "a": "Zalecamy wyłącznie profesjonalne czyszczenie chemiczne, aby na długo zachować strukturę metalizowanych nici i pierwotny blask cekinów."
+      },
+      {
+        "q": "Tkanina może być sztywna ze względu na obecność lureksu.",
+        "a": "Wysoka zawartość bawełny (50%) w składzie materiału gwarantuje miękkość i wyjątkowy komfort dotykowy w kontakcie ze skórą."
+      },
+      {
+        "q": "Prosty krój może krępować ruchy podczas chodzenia.",
+        "a": "Projektanci przewidzieli boczne rozcięcie, które nie tylko stanowi stylowy akcent, ale także zapewnia pełną swobodę ruchów."
+      },
+      {
+        "q": "Obawa, że cekiny mogą z czasem odpadać.",
+        "a": "W produktach Luisa Spagnoli stosowana jest zaawansowana technologia mocowania dekoracji w strukturze materiału, co gwarantuje wysoką odporność na zużycie."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Пайєтки та люрекс здаються надто ошатними для повсякденного носіння.",
+        "a": "Декор у цій моделі виконаний вкрай стримано. Поєднуйте спідницю з класичною сорочкою Limonaia 0101, щоб збалансувати блиск лаконічним верхом."
+      },
+      {
+        "q": "Як правильно доглядати за такою складною тканиною?",
+        "a": "Ми рекомендуємо виключно професійну хімчистку, щоб надовго зберегти структуру металізованих ниток та первинний блиск пайєток."
+      },
+      {
+        "q": "Тканина може бути жорсткою через наявність люрексу.",
+        "a": "Високий вміст бавовни (50%) у складі полотна гарантує м'якість та винятковий тактильний комфорт при контакті зі шкірою."
+      },
+      {
+        "q": "Прямий силует може обмежувати рухи під час ходьби.",
+        "a": "Дизайнери передбачили бічний розріз, який не лише є стильним акцентом, а й забезпечує повну свободу рухів."
+      },
+      {
+        "q": "Боязнь, що пайєтки можуть осипатися з часом.",
+        "a": "У виробах Luisa Spagnoli використовується передова технологія фіксації декору в структурі полотна, що гарантує високу зносостійкість."
+      }
+    ]
+  }
+}

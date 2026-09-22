@@ -1,0 +1,404 @@
+{
+  "id": 302,
+  "name": "Scansione",
+  "description": {
+    "en": "A flawless double-breasted winter coat, crafted from a dense wool-blend cloth (80% wool, 20% polyester) that holds its shape beautifully and protects against the cold. The architectural cut is accentuated by slightly voluminous 'bombÃ¨' sleeves and an accent waist seam, creating a silhouette that is both feminine and disciplined. Striking piping and tone-matched buttons underscore the exceptional craftsmanship and attention to detail characteristic of the Luisa Spagnoli aesthetic. The piece has a classic Regular fit, ensuring comfort in everyday wear.",
+    "ru": "Безупречное двубортное зимнее пальто, выполненное из плотного смесового шерстяного сукна (80% шерсть, 20% полиэстер), которое идеально держит форму и защищает от холода. Архитектурный крой подчеркнут слегка объемными рукавами 'bombè' и акцентной отрезной линией талии, создающей женственный и при этом строгий силуэт. Выразительные нервюры и пуговицы, подобранные в тон изделия, подчеркивают высокое мастерство исполнения и внимание к деталям, характерные для эстетики Luisa Spagnoli. Модель имеет классическую посадку regular fit, обеспечивающую комфорт в повседневной носке.",
+    "ar": "معطف شتوي كلاسيكي بصفين من الأزرار، مصنوع من جوخ الصوف المخلوط الكثيف (80% صوف، 20% بوليستر)، الذي يحافظ على شكله بشكل مثالي ويوفر الحماية من البرد. تم إبراز القصّة المعمارية بأكمام 'bombè' واسعة قليلاً وخط خصر محدد يضفي صورة ظلية أنثوية وصارمة في الوقت ذاته. تؤكد الدرزات البارزة والأزرار المتناغمة مع لون القطعة على الحرفية العالية والاهتمام بالتفاصيل التي تميز جماليات Luisa Spagnoli. يتميز الموديل بقصة عادية (regular fit) تضمن الراحة في الارتداء اليومي.",
+    "ka": "უნაკლო ორბორტიანი ზამთრის პალტო, დამზადებული მკვრივი შალის ნარევის სქელი ქსოვილისგან (80% შალი, 20% პოლიესტერი), რომელიც იდეალურად ინარჩუნებს ფორმას და იცავს სიცივისგან. არქიტექტურული კერვა ხაზგასმულია ოდნავ მოცულობითი 'bombè' სახელოებითა და წელის აქცენტირებული გამყოფი ხაზით, რაც ქმნის ქალურ და ამავე დროს მკაცრ სილუეტს. გამომსახველობითი ნერვიურები და ნაკეთობის ფერში შეხამებული ღილები ხაზს უსვამს შესრულების მაღალ ოსტატობასა და დეტალებისადმი ყურადღებას, რაც დამახასიათებელია Luisa Spagnoli-ს ესთეტიკისთვის. მოდელს აქვს კლასიკური regular fit მორგება, რაც უზრუნველყოფს კომფორტს ყოველდღიურ ტარებისას.",
+    "hy": "Անթերի երկկողմանի ձմեռային վերարկու՝ պատրաստված խիտ բրդյա խառնուրդով գործվածքից (80% բուրդ, 20% պոլիեսթեր), որը կատարյալ պահպանում է ձևը և պաշտպանում ցրտից։ Ճարտարապետական ձևվածքն ընդգծված է թեթևակի ծավալուն 'bombè' թևերով և գոտկատեղի շեշտադրված կտրվածքով, որը ստեղծում է կանացի և միևնույն ժամանակ խիստ ուրվագիծ։ Արտահայտիչ կարերը և իրի գույնին համապատասխան կոճակներն ընդգծում են կատարման բարձր վարպետությունը և դետալների հանդեպ ուշադրությունը, որոնք բնորոշ են Luisa Spagnoli-ի էսթետիկային։ Մոդելն ունի դասական regular fit նստվածք, որն ապահովում է հարմարավետություն առօրյա կրման ընթացքում։",
+    "lv": "Nevainojams divrindu ziemas mētelis, kas izgatavots no blīva jauktas vilnas auduma (80% vilna, 20% poliesters), kurš ideāli saglabā formu un aizsargā no aukstuma. Arhitektonisko piegriezumu izceļ nedaudz apjomīgas 'bombè' piedurknes un akcentēta atgriezta vidukļa līnija, kas rada sievišķīgu un vienlaikus stingru siluetu. Izteiksmīgas šuves un pogas, kas pieskaņotas izstrādājuma tonim, uzsver augstu izpildījuma meistarību un uzmanību detaļām, kas raksturīgas Luisa Spagnoli estētikai. Modelim ir klasisks regular fit piegriezums, nodrošinot komfortu ikdienas valkāšanā.",
+    "lt": "Nepriekaištingas dviejų eilių žieminis paltas, pagamintas iš tankaus vilnonio audinio (80% vilna, 20% poliesteris), kuris idealiai išlaiko formą ir saugo nuo šalčio. Architektūrinį kirpimą pabrėžia šiek tiek tūrinės „bombè“ rankovės ir akcentuota atskirta liemens linija, kurianti moterišką ir kartu griežtą siluetą. Išraiškingos siūlės ir audinio spalvą atitinkančios sagos pabrėžia aukštą meistriškumą ir dėmesį detalėms, būdingą Luisa Spagnoli estetikai. Modelis yra klasikinio „regular fit“ sukirpimo, užtikrinančio patogumą kasdien dėvint.",
+    "pl": "Nienaganny dwurzędowy płaszcz zimowy, wykonany z gęstego mieszanego sukna wełnianego (80% wełna, 20% poliester), które idealnie trzyma formę i chroni przed chłodem. Architektoniczny krój podkreślony jest lekko obszernymi rękawami typu 'bombè' oraz akcentowaną odcinaną linią talii, tworzącą kobiecą, a przy tym surową sylwetkę. Wyraziste wypustki oraz guziki dobrane w tonacji modelu podkreślają wysoki kunszt wykonania i dbałość o detale, charakterystyczne dla estetyki Luisa Spagnoli. Model posiada klasyczny krój regular fit, zapewniający komfort w codziennym noszeniu.",
+    "uk": "Безупречное двубортное зимнее пальто, выполненное из плотного смесового шерстяного сукна (80% шерсть, 20% полиэстер), которое идеально держит форму и защищает от холода. Архитектурный крой подчеркнут слегка объемными рукавами 'bombè' и акцентной отрезной линией талии, создающей женственный и при этом строгий силуэт. Выразительные нервюры и пуговицы, подобранные в тон изделия, подчеркивают высокое мастерство исполнения и внимание к деталям, характерные для эстетики Luisa Spagnoli. Модель имеет классическую посадку regular fit, обеспечивающую комфорт в повседневной носке."
+  },
+  "colors": [
+    {
+      "name": "Marrone",
+      "code": "0961",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg"
+    },
+    {
+      "name": "Verde Bottiglia",
+      "code": "2046",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1221525958691c57c296ff08_45494514_02780250XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Образ 'Urban Chic' (Vetrina 36)",
+        "en": "'Urban Chic' look (Vetrina 36)",
+        "ar": "'Urban Chic' look (Vetrina 36)",
+        "ka": "'Urban Chic' look (Vetrina 36)",
+        "hy": "'Urban Chic' look (Vetrina 36)",
+        "lv": "'Urban Chic' look (Vetrina 36)",
+        "lt": "'Urban Chic' look (Vetrina 36)",
+        "pl": "'Urban Chic' look (Vetrina 36)",
+        "uk": "'Urban Chic' look (Vetrina 36)"
+      },
+      "text": {
+        "ru": "Пальто Scansione 0961 в сочетании с пуловером Capire 2452 и юбкой Fumaiolo 3417.",
+        "en": "Scansione 0961 coat combined with the Capire 2452 pullover and Fumaiolo 3417 skirt.",
+        "ar": "Scansione 0961 coat combined with the Capire 2452 pullover and Fumaiolo 3417 skirt.",
+        "ka": "Scansione 0961 coat combined with the Capire 2452 pullover and Fumaiolo 3417 skirt.",
+        "hy": "Scansione 0961 coat combined with the Capire 2452 pullover and Fumaiolo 3417 skirt.",
+        "lv": "Scansione 0961 coat combined with the Capire 2452 pullover and Fumaiolo 3417 skirt.",
+        "lt": "Scansione 0961 coat combined with the Capire 2452 pullover and Fumaiolo 3417 skirt.",
+        "pl": "Scansione 0961 coat combined with the Capire 2452 pullover and Fumaiolo 3417 skirt.",
+        "uk": "Scansione 0961 coat combined with the Capire 2452 pullover and Fumaiolo 3417 skirt."
+      },
+      "items": [
+        {
+          "name": "Scansione",
+          "code": "0961",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg"
+        },
+        {
+          "name": "Capire",
+          "code": "2452",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tpx4YIVOQIiHt8_Igw7clQ_966025813696f430ca6aa01_65494584_02830020XX1.jpg",
+          "modelId": 2
+        },
+        {
+          "name": "Fumaiolo",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg",
+          "modelId": 64
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 'Natural Tones' (Vetrina 38)",
+        "en": "'Natural Tones' look (Vetrina 38)",
+        "ar": "'Natural Tones' look (Vetrina 38)",
+        "ka": "'Natural Tones' look (Vetrina 38)",
+        "hy": "'Natural Tones' look (Vetrina 38)",
+        "lv": "'Natural Tones' look (Vetrina 38)",
+        "lt": "'Natural Tones' look (Vetrina 38)",
+        "pl": "'Natural Tones' look (Vetrina 38)",
+        "uk": "'Natural Tones' look (Vetrina 38)"
+      },
+      "text": {
+        "ru": "Пальто Scansione 2046 дополненное пуловером Casistica 1151 1181 и юбкой Festone 2046. Акцент — сумка Idilliaco 0986 0002.",
+        "en": "Scansione 2046 coat complemented by the Casistica 1151 1181 pullover and Festone 2046 skirt. Accent — Idilliaco 0986 0002 bag.",
+        "ar": "Scansione 2046 coat complemented by the Casistica 1151 1181 pullover and Festone 2046 skirt. Accent — Idilliaco 0986 0002 bag.",
+        "ka": "Scansione 2046 coat complemented by the Casistica 1151 1181 pullover and Festone 2046 skirt. Accent — Idilliaco 0986 0002 bag.",
+        "hy": "Scansione 2046 coat complemented by the Casistica 1151 1181 pullover and Festone 2046 skirt. Accent — Idilliaco 0986 0002 bag.",
+        "lv": "Scansione 2046 coat complemented by the Casistica 1151 1181 pullover and Festone 2046 skirt. Accent — Idilliaco 0986 0002 bag.",
+        "lt": "Scansione 2046 coat complemented by the Casistica 1151 1181 pullover and Festone 2046 skirt. Accent — Idilliaco 0986 0002 bag.",
+        "pl": "Scansione 2046 coat complemented by the Casistica 1151 1181 pullover and Festone 2046 skirt. Accent — Idilliaco 0986 0002 bag.",
+        "uk": "Scansione 2046 coat complemented by the Casistica 1151 1181 pullover and Festone 2046 skirt. Accent — Idilliaco 0986 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Scansione",
+          "code": "2046",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1221525958691c57c296ff08_45494514_02780250XX1.jpg"
+        },
+        {
+          "name": "Casistica",
+          "code": "1151 1181",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/550185212691f156b48c6a8_03674351_02780680XX1.jpg",
+          "modelId": 384
+        },
+        {
+          "name": "Festone",
+          "code": "2046",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/121628858691f15615a1fa3_04898646_02780480XX1.jpg",
+          "modelId": 389
+        },
+        {
+          "name": "Idilliaco",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 'Sophisticated Contrast' (Look 74)",
+        "en": "'Sophisticated Contrast' look (Look 74)",
+        "ar": "'Sophisticated Contrast' look (Look 74)",
+        "ka": "'Sophisticated Contrast' look (Look 74)",
+        "hy": "'Sophisticated Contrast' look (Look 74)",
+        "lv": "'Sophisticated Contrast' look (Look 74)",
+        "lt": "'Sophisticated Contrast' look (Look 74)",
+        "pl": "'Sophisticated Contrast' look (Look 74)",
+        "uk": "'Sophisticated Contrast' look (Look 74)"
+      },
+      "text": {
+        "ru": "Пальто Scansione 2046 поверх рубашки Lusia 3406 1740.",
+        "en": "Scansione 2046 coat over the Lusia 3406 1740 shirt.",
+        "ar": "Scansione 2046 coat over the Lusia 3406 1740 shirt.",
+        "ka": "Scansione 2046 coat over the Lusia 3406 1740 shirt.",
+        "hy": "Scansione 2046 coat over the Lusia 3406 1740 shirt.",
+        "lv": "Scansione 2046 coat over the Lusia 3406 1740 shirt.",
+        "lt": "Scansione 2046 coat over the Lusia 3406 1740 shirt.",
+        "pl": "Scansione 2046 coat over the Lusia 3406 1740 shirt.",
+        "uk": "Scansione 2046 coat over the Lusia 3406 1740 shirt."
+      },
+      "items": [
+        {
+          "name": "Scansione",
+          "code": "2046",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1221525958691c57c296ff08_45494514_02780250XX1.jpg"
+        },
+        {
+          "name": "Lusia",
+          "code": "3406 1740",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1396325310692424d1b4d2c2_05847867_02781300XX1.jpg",
+          "modelId": 428
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasise the relevance of the bombé sleeve silhouette — a key trend of the season that lends the look softness and modernity without compromising the structure of a classic coat.",
+      "Draw attention to the high wool content (80%), which guarantees comfort even on the harshest winter days while keeping the garment lightweight.",
+      "Recommend Scansione as the ideal choice for monochromatic looks, using the tonal buttons as an element of minimalist luxury."
+    ],
+    "ru": [
+      "Подчеркните актуальность силуэта 'bombè' на рукавах — это ключевой тренд сезона, который добавляет образу мягкости и современности, не нарушая строгости классического пальто.",
+      "Акцентируйте внимание на высоком содержании шерсти (80%), что гарантирует комфорт даже в суровые зимние дни при сохранении легкости изделия.",
+      "Рекомендуйте Scansione как идеальное решение для создания монохромных образов, используя пуговицы в тон как элемент минималистичной роскоши."
+    ],
+    "ar": [
+      "أكدي على جاذبية قصة 'bombè' عند الأكمام - فهي صيحة رئيسية لهذا الموسم تضيف نعومة وحداثة للإطلالة دون المساس برصانة المعطف الكلاسيكي.",
+      "ركزي على نسبة الصوف العالية (80%) التي تضمن الراحة حتى في أيام الشتاء القاسية مع الحفاظ على خفة وزن القطعة.",
+      "أوصي بقطعة Scansione كحل مثالي لخلق إطلالات أحادية اللون، باستخدام الأزرار بنفس لون القماش كعنصر من عناصر الفخامة البسيطة."
+    ],
+    "ka": [
+      "ხაზი გაუსვით მკლავებზე 'bombè' სილუეტის აქტუალურობას — ეს სეზონის მთავარი ტრენდია, რომელიც ლუქს სიმსუბუქესა და თანამედროვეობას მატებს, კლასიკური პალტოს სიმკაცრის დარღვევის გარეშე.",
+      "ყურადღება გაამახვილეთ მატყლის მაღალ შემცველობაზე (80%), რაც უზრუნველყოფს კომფორტს მკაცრ ზამთრის დღეებშიც კი, ნაწარმის სიმსუბუქის შენარჩუნებით.",
+      "რეკომენდაცია გაუწიეთ Scansione-ს, როგორც მონოქრომული ლუქების შესაქმნელ იდეალურ გადაწყვეტას, სადაც ღილები ტონში წარმოადგენს მინიმალიზმური ფუფუნების ელემენტს."
+    ],
+    "hy": [
+      "Ընդգծեք թևքերի 'bombè' ուրվագծի արդիականությունը՝ սա սեզոնի հիմնական թրենդն է, որը կերպարին հաղորդում է փափկություն և ժամանակակից շունչ՝ չխախտելով դասական վերարկուի խստությունը։",
+      "Շեշտադրեք բրդի բարձր պարունակությունը (80%), որը երաշխավորում է հարմարավետություն նույնիսկ ցուրտ ձմեռային օրերին՝ պահպանելով իրի թեթևությունը։",
+      "Խորհուրդ տվեք Scansione-ն որպես մոնոքրոմ կերպարներ ստեղծելու իդեալական լուծում՝ օգտագործելով համահունչ կոճակները որպես մինիմալիստական շքեղության տարր։"
+    ],
+    "lv": [
+      "Uzsveriet 'bombè' silueta aktualitāti uz piedurknēm — tas ir sezonas galvenais trends, kas piešķir tēlam maigumu un mūsdienīgumu, nepārkāpjot klasiska mēteļa stingrību.",
+      "Akcentējiet augsto vilnas saturu (80%), kas garantē komfortu pat bargās ziemas dienās, saglabājot izstrādājuma vieglumu.",
+      "Iesakiet Scansione kā ideālu risinājumu monohromu tēlu radīšanai, izmantojot pieskaņotas pogas kā minimālisma luksusa elementu."
+    ],
+    "lt": [
+      "Pabrėžkite silueto 'bombè' ant rankovių aktualumą — tai pagrindinė sezono tendencija, kuri įvaizdžiui suteikia minkštumo ir modernumo, nepažeidžiant klasikinio palto griežtumo.",
+      "Akcentuokite dėmesį į aukštą vilnos kiekį (80%), kas garantuoja komfortą net atšiauriomis žiemos dienomis išlaikant gaminio lengvumą.",
+      "Rekomenduokite Scansione kaip idealų sprendimą kuriant monochrominius įvaizdžius, naudojant tonas į toną sagas kaip minimalistinės prabangos elementą."
+    ],
+    "pl": [
+      "Podkreśl aktualność sylwetki 'bombè' na rękawach — to kluczowy trend sezonu, który dodaje stylizacji miękkości i nowoczesności, nie naruszając surowości klasycznego płaszcza.",
+      "Skup uwagę na wysokiej zawartości wełny (80%), co gwarantuje komfort nawet w surowe zimowe dni przy zachowaniu lekkości produktu.",
+      "Rekomenduj Scansione jako idealne rozwiązanie do tworzenia monochromatycznych stylizacji, wykorzystując guziki w tym samym odcieniu jako element minimalistycznego luksusu."
+    ],
+    "uk": [
+      "Підкресліть актуальність силуету 'bombè' на рукавах — це ключовий тренд сезону, який додає образу м'якості та сучасності, не порушуючи строгості класичного пальта.",
+      "Акцентуйте увагу на високому вмісті вовни (80%), що гарантує комфорт навіть у суворі зимові дні при збереженні легкості виробу.",
+      "Рекомендуйте Scansione як ідеальне рішення для створення монохромних образів, використовуючи ґудзики в тон як елемент мінімалістичної розкоші."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Боюсь, что рукава 'bombè' добавят мне ненужный объем в плечах.",
+        "a": "Объясните, что крой пальто имеет отрезную талию и четкие линии нервюр, которые визуально вытягивают силуэт, гармонизируя объем рукавов."
+      },
+      {
+        "q": "Меня смущает полиэстер в составе за такую цену.",
+        "a": "Уточните, что 20% технологичных волокон необходимы именно для того, чтобы пальто сохраняло свою архитектурную форму и было устойчиво к деформации и пиллингу."
+      },
+      {
+        "q": "Будет ли это пальто сочетаться с брюками?",
+        "a": "Продемонстрируйте Look 180 из официального стайлинга, где пальто Scansione 0961 идеально дополняет повседневный комплект с брюками."
+      },
+      {
+        "q": "Ткань кажется слишком плотной и жесткой.",
+        "a": "Это плотное сукно специально разработано для защиты от ветра. В процессе носки оно становится более пластичным, сохраняя при этом безупречный 'дорогой' вид."
+      },
+      {
+        "q": "Зеленый цвет 2046 слишком сложный для сочетаний.",
+        "a": "Предложите сочетать его с аксессуарами шоколадного оттенка, как в Look 75, что создаст благородную природную палитру."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Боюсь, что рукава 'bombè' добавят мне ненужный объем в плечах.",
+        "a": "Объясните, что крой пальто имеет отрезную талию и четкие линии нервюр, которые визуально вытягивают силуэт, гармонизируя объем рукавов."
+      },
+      {
+        "q": "Меня смущает полиэстер в составе за такую цену.",
+        "a": "Уточните, что 20% технологичных волокон необходимы именно для того, чтобы пальто сохраняло свою архитектурную форму и было устойчиво к деформации и пиллингу."
+      },
+      {
+        "q": "Будет ли это пальто сочетаться с брюками?",
+        "a": "Продемонстрируйте Look 180 из официального стайлинга, где пальто Scansione 0961 идеально дополняет повседневный комплект с брюками."
+      },
+      {
+        "q": "Ткань кажется слишком плотной и жесткой.",
+        "a": "Это плотное сукно специально разработано для защиты от ветра. В процессе носки оно становится более пластичным, сохраняя при этом безупречный 'дорогой' вид."
+      },
+      {
+        "q": "Зеленый цвет 2046 слишком сложный для сочетаний.",
+        "a": "Предложите сочетать его с аксессуарами шоколадного оттенка, как в Look 75, что создаст благородную природную палитру."
+      }
+    ],
+    "ar": [
+      {
+        "q": "أخشى أن تضفي الأكمام 'bombè' حجماً غير ضروري على كتفي.",
+        "a": "اشرحي أن قصة المعطف تتضمن خصراً محدداً وخطوطاً بارزة (نرفيور) تمد القوام بصرياً وتوازن حجم الأكمام."
+      },
+      {
+        "q": "يقلقني وجود البوليستر في التركيبة بهذا السعر.",
+        "a": "وضحي أن نسبة 20% من الألياف التكنولوجية ضرورية تحديداً ليحافظ المعطف على شكله الهندسي وليكون مقاوماً للتشوه والتنسل."
+      },
+      {
+        "q": "هل سيتماشى هذا المعطف مع البناطيل؟",
+        "a": "اعرضي الإطلالة 180 من التنسيقات الرسمية، حيث يكمل معطف Scansione 0961 بشكل مثالي الطقم اليومي مع البنطال."
+      },
+      {
+        "q": "يبدو القماش سميكاً وخشناً جداً.",
+        "a": "هذا الجوخ الكثيف مصمم خصيصاً للحماية من الرياح. مع الاستخدام، يصبح أكثر مرونة مع الحفاظ على مظهره الفاخر."
+      },
+      {
+        "q": "اللون الأخضر 2046 معقد جداً في التنسيق.",
+        "a": "اقترحي تنسيقه مع إكسسوارات بلون الشوكولاتة، كما في الإطلالة 75، مما سيخلق لوحة ألوان طبيعية نبيلة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მეშინია, რომ 'bombè' მკლავები მხრებში ზედმეტ მოცულობას შემმატებს.",
+        "a": "აუხსენით, რომ პალტოს კროის აქვს გამოყოფილი წელი და ნერვიურების მკაფიო ხაზები, რომლებიც ვიზუალურად ჭიმავს სილუეტს და აბალანსებს მკლავების მოცულობას."
+      },
+      {
+        "q": "მაბნევს შემადგენლობაში არსებული პოლიესტერი ასეთი ფასის პირობებში.",
+        "a": "დააზუსტეთ, რომ 20% ტექნოლოგიური ბოჭკო აუცილებელია სწორედ იმისთვის, რომ პალტომ შეინარჩუნოს თავისი არქიტექტურული ფორმა და იყოს მდგრადი დეფორმაციისა და გაბუსუსების მიმართ."
+      },
+      {
+        "q": "შეხამდება თუ არა ეს პალტო შარვალს?",
+        "a": "წარმოადგინეთ Look 180 ოფიციალური სტაილინგიდან, სადაც პალტო Scansione 0961 იდეალურად ავსებს ყოველდღიურ კომპლექტს შარვალთან ერთად."
+      },
+      {
+        "q": "ქსოვილი ზედმეტად მკვრივი და ხისტი ჩანს.",
+        "a": "ეს მკვრივი სუფნო სპეციალურად არის შემუშავებული ქარისგან დასაცავად. ტარების პროცესში იგი ხდება უფრო პლასტიკური და ამავდროულად ინარჩუნებს უნაკლო 'ძვირფას' იერს."
+      },
+      {
+        "q": "მწვანე ფერი 2046 ზედმეტად რთულია შეხამებისთვის.",
+        "a": "შესთავაზეთ მისი შეხამება შოკოლადის ელფერის აქსესუარებთან, როგორც Look 75-ში, რაც შექმნის კეთილშობილურ ბუნებრივ პალიტრას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Վախենում եմ, որ 'bombè' թևքերը ուսերիս անհարկի ծավալ կավելացնեն",
+        "a": "Բացատրեք, որ վերարկուի ձևվածքն ունի կտրված գոտկատեղ և ռելիեֆային հստակ գծեր, որոնք տեսողականորեն երկարացնում են ուրվագիծը՝ ներդաշնակեցնելով թևքերի ծավալը"
+      },
+      {
+        "q": "Ինձ շփոթեցնում է կազմի մեջ առկա պոլիեսթերը նման գնի դեպքում",
+        "a": "Պարզաբանեք, որ 20% տեխնոլոգիական մանրաթելերն անհրաժեշտ են հենց նրա համար, որպեսզի վերարկուն պահպանի իր ճարտարապետական ձևը և դիմացկուն լինի դեֆորմացիայի և գնդիկների առաջացման նկատմամբ"
+      },
+      {
+        "q": "Արդյո՞ք այս վերարկուն կհամադրվի տաբատների հետ",
+        "a": "Ցույց տվեք պաշտոնական ոճավորման Look 180-ը, որտեղ Scansione 0961 վերարկուն կատարելապես լրացնում է տաբատներով առօրյա համալիրը"
+      },
+      {
+        "q": "Գործվածքը չափազանց խիտ և կոշտ է թվում",
+        "a": "Այս խիտ շալատեսակը հատուկ մշակված է քամուց պաշտպանվելու համար: Կրման ընթացքում այն դառնում է ավելի պլաստիկ՝ միաժամանակ պահպանելով իր անթերի 'թանկ' տեսքը"
+      },
+      {
+        "q": "Կանաչ 2046 գույնը չափազանց բարդ է համադրությունների համար",
+        "a": "Առաջարկեք այն համադրել շոկոլադե երանգի աքսեսուարների հետ, ինչպես Look 75-ում, ինչը կստեղծի ազնիվ բնական պալիտրա."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Baidos, ka 'bombè' piedurknes piešķirs man nevajadzīgu apjomu plecos.",
+        "a": "Paskaidrojiet, ka mēteļa piegriezumam ir atgriezta vidukļa līnija un skaidras vīļu līnijas, kas vizuāli pagarina siluetu, harmonizējot piedurkņu apjomu."
+      },
+      {
+        "q": "Mani mulsina poliesters sastāvā par šādu cenu.",
+        "a": "Precizējiet, ka 20% tehnoloģisko šķiedru ir nepieciešami tieši tādēļ, lai mētelis saglabātu savu arhitektonisko formu un būtu izturīgs pret deformāciju un savelšanos."
+      },
+      {
+        "q": "Vai šis mētelis saderēs ar biksēm?",
+        "a": "Demonstrējiet Look 180 no oficiālā stailinga, kur mētelis Scansione 0961 ideāli papildina ikdienas komplektu ar biksēm."
+      },
+      {
+        "q": "Audums šķiet pārāk blīvs un ciets.",
+        "a": "Šis blīvais audums ir īpaši izstrādāts aizsardzībai pret vēju. Valkāšanas procesā tas kļūst plastiskāks, saglabājot nevainojamu 'dārgu' izskatu."
+      },
+      {
+        "q": "Zaļā krāsa 2046 ir pārāk sarežģīta kombinēšanai.",
+        "a": "Piedāvājiet to kombinēt ar šokolādes toņa aksesuāriem, kā tas ir Look 75, kas radīs cēlu dabisko paleti."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Baiminuosi, kad „bombè“ tipo rankovės suteiks nereikalingo tūrio pečiams.",
+        "a": "Paaiškinkite, kad palto kirpimas turi atskirtą liemenį ir aiškias siūlių linijas, kurios vizualiai ištęsia siluetą, subalansuodamos rankovių tūrį."
+      },
+      {
+        "q": "Mane trikdo poliesteris sudėtyje už tokią kainą.",
+        "a": "Patikslinkite, kad 20% technologinio pluošto yra būtini tam, kad paltas išlaikytų savo architektūrinę formą ir būtų atsparus deformacijai bei pilingui."
+      },
+      {
+        "q": "Ar šis paltas derės su kelnėmis?",
+        "a": "Pademonstruokite „Look 180“ iš oficialaus stiliaus gidų, kur „Scansione 0961“ paltas idealiai papildo kasdienį komplektą su kelnėmis."
+      },
+      {
+        "q": "Audinys atrodo per daug tankus ir kietas.",
+        "a": "Šis tankus audinys buvo specialiai sukurtas apsaugai nuo vėjo. Dėvėjimo procese jis tampa lankstesnis, išlaikydamas nepriekaištingą „brangią“ išvaizdą."
+      },
+      {
+        "q": "Žalia 2046 spalva yra per daug sudėtinga derinimui.",
+        "a": "Pasiūlykite derinti ją su šokoladinio atspalvio aksesuarais, kaip „Look 75“, tai sukurs taurią natūralią paletę."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Obawiam się, że rękawy 'bombè' dodadzą mi niepotrzebnej objętości w ramionach.",
+        "a": "Wyjaśnij, że krój płaszcza ma odciętą talię i wyraźne linie przeszyć, które wizualnie wydłużają sylwetkę, harmonizując objętość rękawów."
+      },
+      {
+        "q": "Niepokoi mnie poliester w składzie za taką cenę.",
+        "a": "Wyjaśnij, że 20% zaawansowanych technologicznie włókien jest niezbędnych właśnie po to, aby płaszcz zachowywał swoją architektoniczną formę oraz był odporny na deformację i mechacenie."
+      },
+      {
+        "q": "Czy ten płaszcz będzie pasował do spodni?",
+        "a": "Zaprezentuj Look 180 z oficjalnego stylingu, gdzie płaszcz Scansione 0961 idealnie uzupełnia codzienny zestaw ze spodniami."
+      },
+      {
+        "q": "Tkanina wydaje się zbyt gęsta i sztywna.",
+        "a": "To gęste sukno zostało specjalnie zaprojektowane do ochrony przed wiatrem. W procesie noszenia staje się bardziej plastyczne, zachowując jednocześnie nienaganny 'drogi' wygląd."
+      },
+      {
+        "q": "Zielony kolor 2046 jest zbyt trudny do łączenia.",
+        "a": "Zaproponuj łączenie go z akcesoriami w czekoladowym odcieniu, jak w Look 75, co stworzy szlachetną naturalną paletę."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Боюся, що рукави 'bombè' додадуть мені непотрібний об'єм у плечах.",
+        "a": "Поясніть, що крій пальта має відрізну талію та чіткі лінії нервюр, які візуально витягують силует, гармонізуючи об'єм рукавів."
+      },
+      {
+        "q": "Мене бентежить поліестер у складі за таку ціну.",
+        "a": "Уточніть, що 20% технологічних волокон необхідні саме для того, щоб пальто зберігало свою архітектурну форму і було стійким до деформації та пілінгу."
+      },
+      {
+        "q": "Чи буде це пальто поєднуватися з брюками?",
+        "a": "Продемонструйте Look 180 з офіційного стайлінгу, де пальто Scansione 0961 ідеально доповнює повсякденний комплект з брюками."
+      },
+      {
+        "q": "Тканина здається занадто щільною та жорсткою.",
+        "a": "Це щільне сукно спеціально розроблено для захисту від вітру. У процесі носіння воно стає більш пластичним, зберігаючи при цьому бездоганний 'дорогий' вигляд."
+      },
+      {
+        "q": "Зелений колір 2046 занадто складний для поєднань.",
+        "a": "Запропонуйте поєднувати його з аксесуарами шоколадного відтінку, як у Look 75, що створить благородну природну палітру."
+      }
+    ]
+  }
+}

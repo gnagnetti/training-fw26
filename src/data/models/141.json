@@ -1,0 +1,376 @@
+{
+  "id": 141,
+  "name": "Malvia",
+  "description": {
+    "en": "An embodiment of aristocratic comfort and impeccable Italian taste: the elongated Malvia cardigan, created from 100% purest virgin wool. The model enchants with the graphic quality of its contrasting trim, which accentuates the architectural precision of the cut and the elegance of its lines. Signature buttons bearing the LS heraldic emblem lend the look a note of noble heritage, while functional patch pockets with flaps harmoniously combine practicality and high aesthetics, making this piece the ideal choice for creating layered ensembles in the \"quiet luxury\" style.",
+    "ru": "Воплощение аристократичного уюта и безупречного итальянского вкуса: удлиненный кардиган Malvia, созданный из 100% чистейшей девственной шерсти. Модель очаровывает графичностью контрастной отделки, подчеркивающей архитектурность кроя и изящество линий. Знаковые пуговицы с геральдической символикой LS привносят в образ ноту благородного наследия, а функциональные накладные карманы с клапанами гармонично сочетают практичность и высокую эстетику, делая это изделие идеальным выбором для создания многослойных ансамблей в стиле «тихой роскоши».",
+    "ar": "تجسيد للأناقة الأرستقراطية والذوق الإيطالي الرفيع: كارديغان Malvia الطويل، المصنوع من صوف بكر نقي بنسبة 100%. يأسر الطراز بتصميم الحواف المتناقضة التي تبرز هندسة القصة ورقة الخطوط. تضفي الأزرار المميزة ذات الرموز النبيلة LS لمسة من التراث الفاخر على الإطلالة، بينما تجمع الجيوب الخارجية العملية ذات الأغطية بين الوظيفة والجمالية العالية، مما يجعل هذه القطعة خيارًا مثاليًا لابتكار تنسيقات متعددة الطبقات بأسلوب \"الرفاهية الهادئة\".",
+    "ka": "არისტოკრატული სიმყუდროვისა და უნაკლო იტალიური გემოვნების განსახიერება: დაგრძელებული კარდიგანი Malvia, რომელიც შექმნილია 100%-ით სუფთა ქალწული მატყლისგან. მოდელი ხიბლავს კონტრასტული მორთულობის გრაფიკულობით, რაც ხაზს უსვამს კროის არქიტექტურულობასა და ხაზების მოხდენილობას. LS-ის ჰერალდიკური სიმბოლიკით გაფორმებული საკულტო ღილები გამოსახულებას ანიჭებს კეთილშობილური მემკვიდრეობის ელფერს, ხოლო სარქვლებიანი ფუნქციური ზედნადები ჯიბეები ჰარმონიულად აერთიანებს პრაქტიკულობასა და მაღალ ესთეტიკას, რაც ამ ნაკეთობას იდეალურ არჩევნად აქცევს „ჩუმი ფუფუნების“ სტილში მრავალშრიანი ანსამბლების შესაქმნელად.",
+    "hy": "Արիստոկրատական հարմարավետության և անթերի իտալական ճաշակի մարմնացում. Malvia երկարաձգված կարդիգանը՝ ստեղծված 100% մաքուր կուսական բրդից: Մոդելը հմայում է հակադրվող եզրագծերի գրաֆիկական տեսքով, որն ընդգծում է կտրվածքի ճարտարապետությունն ու գծերի նրբագեղությունը: LS հերալդիկ խորհրդանիշով նշանային կոճակները կերպարին հաղորդում են ազնվական ժառանգության նոտա, իսկ կափարիչներով ֆունկցիոնալ գրպանները ներդաշնակորեն համատեղում են գործնականությունն ու բարձր էսթետիկան՝ դարձնելով այս հագուստը իդեալական ընտրություն «հանգիստ շքեղության» ոճով բազմաշերտ անսամբլներ ստեղծելու համար:",
+    "lv": "Aristokrātiska mājīguma un nevainojamas itāļu gaumes iemiesojums: pagarinātais kardigāns Malvia, radīts no 100% tīrākās jaunvilnas. Modelis apbur ar kontrastējošās apdares grafiskumu, kas izceļ piegriezuma arhitektoniskumu un līniju grāciju. Zīmola ikoniskās pogas ar heraldisko simboliku LS ienes tēlā cēla mantojuma noti, bet funkcionālās uzšūtās kabatas ar atlokiem harmoniski apvieno praktiskumu un augstu estētiku, padarot šo izstrādājumu par ideālu izvēli daudzslāņu ansambļu radīšanai «klusās greznības» stilā.",
+    "lt": "Aristokratiško jaukumo ir nepriekaištingo itališko skonio įsikūnijimas: pailgintas megztinis Malvia, sukurtas iš 100% gryniausios avies vilnos. Modelis žavi kontrastingos apdailos grafiškumu, pabrėžiančiu kirpimo architektoniškumą ir linijų grakštumą. Ženklios sagos su heraldine LS simbolika suteikia įvaizdžiui kilnaus paveldo natą, o funkcionalios uždėtinės kišenės su atvartais harmoningai sujungia praktiškumą ir aukštą estetiką, todėl šis gaminys yra idealus pasirinkimas kuriant daugiasluoksnius ansamblius „tylios prabangos“ stiliumi.",
+    "pl": "Uosobienie arystokratycznego komfortu i nienagannego włoskiego gustu: przedłużany kardigan Malvia, stworzony w 100% z najczystszej żywej wełny. Model zachwyca graficznym kontrastowym wykończeniem, które podkreśla architektoniczny krój i elegancję linii. Charakterystyczne guziki z heraldycznym symbolem LS wnoszą do stylizacji nutę szlachetnego dziedzictwa, a funkcjonalne naszywane kieszenie z patkami harmonijnie łączą praktyczność z wysoką estetyką, czyniąc ten produkt idealnym wyborem do tworzenia warstwowych zestawów w stylu «quiet luxury».",
+    "uk": "Втілення аристократичного затишку та бездоганного італійського смаку: подовжений кардиган Malvia, створений зі 100% найчистішої вовни virgin wool. Модель зачаровує графічністю контрастної обробки, що підкреслює архітектурність крою та витонченість ліній. Знакові ґудзики з геральдичною символікою LS привносять в образ ноту шляхетної спадщини, а функціональні накладні кишені з клапанами гармонійно поєднують практичність і високу естетику, роблячи цей виріб ідеальним вибором для створення багатошарових ансамблів у стилі «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Nero Cammello",
+      "code": "0101 2246",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Qszl8X8SQFugo1saWqnExA_1841430439696f4362d38204_99119524_02830510XX1.jpg"
+    },
+    {
+      "name": "Panna Grigio Scuro",
+      "code": "0202 0846",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KlVMxQr7SyCrt10DPMy3iw_509161854696f4363420906_31932689_02830520XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Classic Contrast)",
+        "ar": "Look 1 (Classic Contrast)",
+        "ka": "Look 1 (Classic Contrast)",
+        "hy": "Look 1 (Classic Contrast)",
+        "lv": "Look 1 (Classic Contrast)",
+        "lt": "Look 1 (Classic Contrast)",
+        "pl": "Look 1 (Classic Contrast)",
+        "uk": "Look 1 (Classic Contrast)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Классический контраст): Гармоничное сочетание длинного кардигана Malvia 0101 2246 с водолазкой Mantecare 0101 2246 и юбкой Marsica 0101. Образ завершает статусная сумка Iago 2240 0002.",
+        "en": "A harmonious combination of a long Malvia 0101 2246 cardigan with a Mantecare 0101 2246 turtleneck and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a status Iago 2240 0002 bag.",
+        "ar": "A harmonious combination of a long Malvia 0101 2246 cardigan with a Mantecare 0101 2246 turtleneck and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a status Iago 2240 0002 bag.",
+        "ka": "A harmonious combination of a long Malvia 0101 2246 cardigan with a Mantecare 0101 2246 turtleneck and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a status Iago 2240 0002 bag.",
+        "hy": "A harmonious combination of a long Malvia 0101 2246 cardigan with a Mantecare 0101 2246 turtleneck and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a status Iago 2240 0002 bag.",
+        "lv": "A harmonious combination of a long Malvia 0101 2246 cardigan with a Mantecare 0101 2246 turtleneck and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a status Iago 2240 0002 bag.",
+        "lt": "A harmonious combination of a long Malvia 0101 2246 cardigan with a Mantecare 0101 2246 turtleneck and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a status Iago 2240 0002 bag.",
+        "pl": "A harmonious combination of a long Malvia 0101 2246 cardigan with a Mantecare 0101 2246 turtleneck and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a status Iago 2240 0002 bag.",
+        "uk": "A harmonious combination of a long Malvia 0101 2246 cardigan with a Mantecare 0101 2246 turtleneck and a Marsica 0101 skirt (Data not available in official sources). The look is completed by a status Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Malvia",
+          "code": "0101 2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Qszl8X8SQFugo1saWqnExA_1841430439696f4362d38204_99119524_02830510XX1.jpg"
+        },
+        {
+          "name": "Mantecare",
+          "code": "0101 2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WW8xbwIkRpOZTNryF69WAw_1285323695696f436482d1c6_61414433_02830560XX1.jpg",
+          "modelId": 148
+        },
+        {
+          "name": "Marsica",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Aristocratic Grey)",
+        "ar": "Look 2 (Aristocratic Grey)",
+        "ka": "Look 2 (Aristocratic Grey)",
+        "hy": "Look 2 (Aristocratic Grey)",
+        "lv": "Look 2 (Aristocratic Grey)",
+        "lt": "Look 2 (Aristocratic Grey)",
+        "pl": "Look 2 (Aristocratic Grey)",
+        "uk": "Look 2 (Aristocratic Grey)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Аристократичный серый): Элегантный ансамбль из кардигана Malvia 0202 0846, дополненного водолазкой Mantecare 0846 0202 и джинсами Olibis 1088. Финальные штрихи — сумка Ls1928p 0101 0038 и кепи Renno 0814.",
+        "en": "An elegant ensemble featuring a Malvia 0202 0846 cardigan, complemented by a Mantecare 0846 0202 turtleneck and Olibis 1088 jeans. Final touches: an Ls1928p 0101 0038 bag and a Renno 0814 cap.",
+        "ar": "An elegant ensemble featuring a Malvia 0202 0846 cardigan, complemented by a Mantecare 0846 0202 turtleneck and Olibis 1088 jeans. Final touches: an Ls1928p 0101 0038 bag and a Renno 0814 cap.",
+        "ka": "An elegant ensemble featuring a Malvia 0202 0846 cardigan, complemented by a Mantecare 0846 0202 turtleneck and Olibis 1088 jeans. Final touches: an Ls1928p 0101 0038 bag and a Renno 0814 cap.",
+        "hy": "An elegant ensemble featuring a Malvia 0202 0846 cardigan, complemented by a Mantecare 0846 0202 turtleneck and Olibis 1088 jeans. Final touches: an Ls1928p 0101 0038 bag and a Renno 0814 cap.",
+        "lv": "An elegant ensemble featuring a Malvia 0202 0846 cardigan, complemented by a Mantecare 0846 0202 turtleneck and Olibis 1088 jeans. Final touches: an Ls1928p 0101 0038 bag and a Renno 0814 cap.",
+        "lt": "An elegant ensemble featuring a Malvia 0202 0846 cardigan, complemented by a Mantecare 0846 0202 turtleneck and Olibis 1088 jeans. Final touches: an Ls1928p 0101 0038 bag and a Renno 0814 cap.",
+        "pl": "An elegant ensemble featuring a Malvia 0202 0846 cardigan, complemented by a Mantecare 0846 0202 turtleneck and Olibis 1088 jeans. Final touches: an Ls1928p 0101 0038 bag and a Renno 0814 cap.",
+        "uk": "An elegant ensemble featuring a Malvia 0202 0846 cardigan, complemented by a Mantecare 0846 0202 turtleneck and Olibis 1088 jeans. Final touches: an Ls1928p 0101 0038 bag and a Renno 0814 cap."
+      },
+      "items": [
+        {
+          "name": "Malvia",
+          "code": "0202 0846",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KlVMxQr7SyCrt10DPMy3iw_509161854696f4363420906_31932689_02830520XX1.jpg"
+        },
+        {
+          "name": "Mantecare",
+          "code": "0846 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yci8Pmn2Qc2K4CUAa8lsoA_1572868144696f437a4f16c8_58141760_02831300XX1.jpg",
+          "modelId": 148
+        },
+        {
+          "name": "Olibis",
+          "code": "1088",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e85a8ef9-0175-442b-b5a7-cf782a9e05a2-removebg-preview.png",
+          "modelId": 454
+        },
+        {
+          "name": "Ls1928p",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        },
+        {
+          "name": "Renno",
+          "code": "0814",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57693e01-fdb6-4b56-a73b-26c4b4d8ce61.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the quality of the material: 100% pure virgin Merinfleur wool delivers exceptional softness comparable to cashmere and ideal thermoregulation.",
+      "Highlight the prestige of the hardware: the heraldic LS buttons are a symbol of belonging to the exclusive world of Italian high fashion and stand in for jewelry.",
+      "Recommend Malvia as a versatile alternative to a light coat or jacket: the length and density of the knit allow the piece to be worn as a standalone outerwear item during the transitional seasons."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на качестве материала: 100% чистая девственная шерсть Merinfleur обеспечивает исключительную мягкость, сопоставимую с кашемиром, и идеальную терморегуляцию.",
+      "Подчеркните статусность фурнитуры: геральдические пуговицы LS являются символом принадлежности к закрытому миру высокой итальянской моды и заменяют собой ювелирные украшения.",
+      "Рекомендуйте Malvia как универсальную альтернативу легкому пальто или жакету: длина и плотность вязки позволяют носить модель как самостоятельный предмет верхней одежды в межсезонье."
+    ],
+    "ar": [
+      "سلطي الضوء على جودة الخامة: الصوف البكر النقي 100% Merinfleur يوفر نعومة استثنائية تضاهي الكشمير، مع تنظيم حراري مثالي.",
+      "أكدي على رقي الإكسسوارات المعدنية: أزرار LS الشعارية تمثل رمزاً للانتماء لعالم الأزياء الإيطالية الراقية وتغني عن ارتداء المجوهرات.",
+      "رشيحي Malvia كبديل متعدد الاستخدامات للمعطف الخفيف أو السترة: فطول القطعة وكثافة حياكتها يسمحان بارتدائها كقطعة ملابس خارجية مستقلة في المواسم الانتقالية."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება მასალის ხარისხზე: 100% სუფთა ქალწულებრივი შალი Merinfleur უზრუნველყოფს კაშმირთან შესადარებელ განსაკუთრებულ სირბილესა და იდეალურ თერმორეგულაციას.",
+      "ხაზი გაუსვით ფურნიტურის სტატუსს: LS-ის ჰერალდიკური ღილები მაღალი იტალიური მოდის დახურულ სამყაროსთან მიკუთვნებულობის სიმბოლოა და ანაცვლებს საიუველირო ნაკეთობებს.",
+      "რეკომენდაცია გაუწიეთ Malvia-ს, როგორც მსუბუქი პალტოს ან პიჯაკის უნივერსალურ ალტერნატივას: ქსოვის სიგრძე და სიმჭიდროვე საშუალებას იძლევა, მოდელი ატაროთ როგორც დამოუკიდებელი ზედა სამოსი სეზონთაშორის პერიოდში."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք նյութի որակի վրա՝ 100% մաքուր կուսական Merinfleur բուրդն ապահովում է բացառիկ փափկություն՝ համադրելի քաշմիրի հետ, և իդեալական ջերմակարգավորում։",
+      "Ընդգծեք աքսեսուարների կարգավիճակը՝ LS զինանշանային կոճակները հանդիսանում են իտալական բարձր նորաձևության փակ աշխարհին պատկանելության խորհրդանիշ և փոխարինում են ոսկերչական զարդերին։",
+      "Malvia-ն խորհուրդ տվեք որպես թեթև վերարկուի կամ ժակետի համընդհանուր այլընտրանք՝ երկարությունը և հյուսվածքի խտությունը թույլ են տալիս մոդելը կրել որպես վերնահագուստի ինքնուրույն տարր միջսեզոնին։"
+    ],
+    "lv": [
+      "Akcentējiet klienta uzmanību uz materiāla kvalitāti: 100% tīra Merinfleur jaunvilna nodrošina izcilu maigumu, kas līdzinās kašmiram, un ideālu termoregulāciju.",
+      "Uzsveriet furnitūras statusu: LS heraldikas pogas ir piederības zīme slēgtajai itāļu augstās modes pasaulei un aizstāj rotaslietas.",
+      "Iesakiet Malvia kā universālu alternatīvu vieglam mētelim vai žaketei: garums un adījuma blīvums ļauj valkāt šo modeli kā patstāvīgu virsdrēbju priekšmetu starpsezonā."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į medžiagos kokybę: 100% gryna pirminė vilna Merinfleur užtikrina išskirtinį švelnumą, prilygstantį kašmyrui, bei idealų termoreguliavimą.",
+      "Pabrėžkite furnitūros statusą: heraldinės LS sagos yra priklausymo uždaram aukštosios italų mados pasauliui simbolis ir atstoja juvelyrinius papuošalus.",
+      "Rekomenduokite Malvia kaip universalią alternatyvą lengvam paltui ar švarkui: mezgimo ilgis ir tankis leidžia dėvėti modelį kaip savarankišką viršutinį drabužį sezono perėjimo laikotarpiu."
+    ],
+    "pl": [
+      "Zwróć uwagę klientki na jakość materiału: 100% czysta wełna dziewicza Merinfleur zapewnia wyjątkową miękkość, porównywalną z kaszmirem, oraz idealną termoregulację.",
+      "Podkreśl prestiż okuć: heraldyczne guziki LS są symbolem przynależności do ekskluzywnego świata włoskiej mody wysokiej i zastępują biżuterię.",
+      "Rekomenduj Malvia jako uniwersalną alternatywę dla lekkiego płaszcza lub żakietu: długość i gęstość splotu pozwalają nosić model jako samodzielny element odzieży wierzchniej w okresie przejściowym."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на якості матеріалу: 100% чиста вовна Merinfleur забезпечує виняткову м'якість, порівнянну з кашеміром, та ідеальну терморегуляцію.",
+      "Підкресліть статусність фурнітури: геральдичні ґудзики LS є символом приналежності до закритого світу високої італійської моди та замінюють собою ювелірні прикраси.",
+      "Рекомендуйте Malvia як універсальну альтернативу легкому пальту або жакету: довжина та щільність в'язки дозволяють носити модель як самостійний предмет верхнього одягу в міжсезоння."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Wool pieces may quickly lose their shape.",
+        "a": "The use of premium-quality virgin wool and a dense knit guarantees that the Malvia cardigan will retain its structure and impeccable fit for many seasons."
+      },
+      {
+        "q": "Contrasting trim may seem too bold for a business wardrobe.",
+        "a": "On the contrary, the graphic lines of the trim accentuate the precision of the silhouette, transforming classic knitwear into a structured, statement-worthy element of business dressing."
+      },
+      {
+        "q": "Pure wool requires overly demanding care.",
+        "a": "Thanks to the high quality of the fibre's finishing, the piece is less prone to pilling. We recommend professional dry cleaning, which is an investment in the longevity of your luxury wardrobe."
+      },
+      {
+        "q": "A long cardigan may visually shorten the frame.",
+        "a": "The vertical contrasting bands along the front edges and the elongated cut of the Malvia piece create an unbroken line that, on the contrary, visually elongates the silhouette and slims the figure."
+      },
+      {
+        "q": "The piece seems too lightweight for the cold season.",
+        "a": "Virgin wool has unique thermal-insulation properties. The Malvia cardigan is ideal for layered looks, offering comfort both indoors and outdoors."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шерстяные изделия могут быстро терять форму.",
+        "a": "Использование высококачественной девственной шерсти и плотная вязка гарантируют, что кардиган Malvia сохранит свою структуру и безупречную посадку на протяжении многих сезонов."
+      },
+      {
+        "q": "Контрастная отделка может выглядеть слишком ярко для делового гардероба.",
+        "a": "Напротив, графичные линии отделки подчеркивают строгость силуэта, превращая классический трикотаж в структурированный и статусный элемент бизнес-образа."
+      },
+      {
+        "q": "Чистая шерсть требует слишком сложного ухода.",
+        "a": "Благодаря высокому качеству выделки волокна, изделие меньше подвержено пиллингу. Мы рекомендуем профессиональную сухую чистку, что является инвестицией в долговечность вашего люксового гардероба."
+      },
+      {
+        "q": "Длинный кардиган может визуально уменьшать рост.",
+        "a": "Вертикальные контрастные планки вдоль бортов и удлиненный крой Malvia создают непрерывную линию, которая, наоборот, визуально вытягивает силуэт и стройнит фигуру."
+      },
+      {
+        "q": "Модель кажется слишком легкой для холодного времени года.",
+        "a": "Девственная шерсть обладает уникальными теплоизоляционными свойствами. Кардиган Malvia идеально подходит для многослойных образов, обеспечивая комфорт как в помещении, так и на улице."
+      }
+    ],
+    "ar": [
+      {
+        "q": "المنتجات الصوفية قد تفقد شكلها بسرعة.",
+        "a": "إن استخدام الصوف البكر عالي الجودة والحياكة الكثيفة يضمنان أن يحافظ كارديجان Malvia على هيكله ومظهره المثالي لعدة مواسم."
+      },
+      {
+        "q": "الحواف المتباينة قد تبدو براقة أكثر من اللازم لخزانة ملابس العمل.",
+        "a": "على العكس، تبرز الخطوط الجرافيكية للحواف صرامة التصميم، محولة التريكو الكلاسيكي إلى قطعة منظمة وذات مكانة مرموقة في إطلالة العمل."
+      },
+      {
+        "q": "الصوف الخالص يتطلب عناية معقدة للغاية.",
+        "a": "بفضل جودة ألياف الصوف العالية، فإن المنتج أقل عرضة للوبر. ننصح بالتنظيف الجاف الاحترافي، وهو استثمار في ديمومة خزانة ملابسكم الفاخرة."
+      },
+      {
+        "q": "الكارديجان الطويل قد يجعل القامة تبدو أقصر.",
+        "a": "تعمل الأشرطة الرأسية المتباينة على طول الجوانب والقصة الطويلة لـ Malvia على خلق خط متصل يعمل، على العكس، على إطالة القامة بصرياً وإضفاء مظهر رشيق."
+      },
+      {
+        "q": "الموديل يبدو خفيفاً جداً لموسم الشتاء.",
+        "a": "يتمتع الصوف البكر بخصائص عزل حراري فريدة. كارديجان Malvia مثالي للإطلالات متعددة الطبقات، مما يضمن الراحة في الأماكن المغلقة وفي الهواء الطلق."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მატყლის ნაკეთობებმა შესაძლოა სწრაფად დაკარგონ ფორმა.",
+        "a": "უმაღლესი ხარისხის პირველადი მატყლის გამოყენება და მჭიდრო ქსოვა იმის გარანტიაა, რომ კარდიგანი Malvia შეინარჩუნებს თავის სტრუქტურას და უნაკლო ფორმას მრავალი სეზონის განმავლობაში."
+      },
+      {
+        "q": "კონტრასტული გაფორმება შესაძლოა ზედმეტად კაშკაშად გამოიყურებოდეს საქმიანი გარდერობისთვის.",
+        "a": "პირიქით, გაფორმების გრაფიკული ხაზები ხაზს უსვამს სილუეტის სიმკაცრეს და აქცევს კლასიკურ ტრიკოტაჟს საქმიანი იმიჯის სტრუქტურირებულ და სტატუსურ ელემენტად."
+      },
+      {
+        "q": "სუფთა მატყლი მოითხოვს ზედმეტად რთულ მოვლას.",
+        "a": "ბოჭკოების დამუშავების მაღალი ხარისხის წყალობით, ნაკეთობა ნაკლებად ექვემდებარება ბუსუსების წარმოქმნას (პილინგს). ჩვენ გირჩევთ პროფესიონალურ ქიმწმენდას, რაც თქვენი ლუქს-გარდერობის გამძლეობაში ჩადებული ინვესტიციაა."
+      },
+      {
+        "q": "გრძელმა კარდიგანმა შესაძლოა ვიზუალურად შეამციროს სიმაღლე.",
+        "a": "გვერდების გასწვრივ გამავალი ვერტიკალური კონტრასტული ზოლები და Malvia-ს წაგრძელებული კრილი ქმნის უწყვეტ ხაზს, რომელიც, პირიქით, ვიზუალურად აგრძელებს სილუეტს და ატანდერტებს ფიგურას."
+      },
+      {
+        "q": "მოდელი ზედმეტად მსუბუქი ჩანს ცივი სეზონისთვის.",
+        "a": "პირველად მატყლს გააჩნია უნიკალური თბოიზოლაციური თვისებები. კარდიგანი Malvia იდეალურია მრავალშრიანი იმიჯისთვის, რაც უზრუნველყოფს კომფორტს როგორც შენობაში, ისე ქუჩაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բրդյա իրերը կարող են արագ կորցնել ձևը։",
+        "a": "Բարձրորակ կույս բրդի և խիտ հյուսվածքի օգտագործումը երաշխավորում է, որ Malvia ժակետը կպահպանի իր կառուցվածքը և անթերի տեսքը երկար սեզոններ շարունակ։"
+      },
+      {
+        "q": "Հակադիր եզրագծերը կարող են չափազանց վառ թվալ գործարար զգեստապահարանի համար։",
+        "a": "Հակառակը, եզրագծերի գրաֆիկական գծերն ընդգծում են ուրվագծի խստությունը՝ դասական տրիկոտաժը վերածելով գործարար կերպարի կառուցվածքային և կարգավիճակային տարրի։"
+      },
+      {
+        "q": "Մաքուր բուրդը չափազանց բարդ խնամք է պահանջում։",
+        "a": "Մանրաթելերի մշակման բարձր որակի շնորհիվ արտադրանքը ավելի քիչ է ենթակա թափթփման։ Մենք խորհուրդ ենք տալիս մասնագիտական քիմմաքրում, որը ձեր շքեղ զգեստապահարանի երկարակեցության համար ներդրում է։"
+      },
+      {
+        "q": "Երկար ժակետը կարող է տեսողականորեն փոքրացնել հասակը։",
+        "a": "Եզրերի երկայնքով ուղղահայաց հակադիր գծերը և Malvia-ի երկարեցված ձևվածքը ստեղծում են անընդհատ գիծ, որը, ընդհակառակը, տեսողականորեն երկարացնում է ուրվագիծը և բարակեցնում կազմվածքը։"
+      },
+      {
+        "q": "Մոդելը չափազանց թեթև է թվում ցուրտ եղանակի համար։",
+        "a": "Կույս բուրդն օժտված է եզակի ջերմամեկուսիչ հատկություններով։ Malvia ժակետը իդեալական է բազմաշերտ կերպարների համար՝ ապահովելով հարմարավետություն ինչպես փակ տարածքում, այնպես էլ դրսում։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vilnas izstrādājumi var ātri zaudēt formu.",
+        "a": "Augstas kvalitātes jaunvilnas izmantošana un blīvais adījums garantē, ka Malvia kardigans saglabās savu struktūru un nevainojamo piegulumu daudzu sezonu garumā."
+      },
+      {
+        "q": "Kontrastējošā apdare var izskatīties pārāk spilgti lietišķajam garderobes klāstam.",
+        "a": "Gluži pretēji, grafiskās apdares līnijas izceļ silueta stingrību, pārvēršot klasisko trikotāžu par strukturētu un statusu apliecinošu biznesa tēla elementu."
+      },
+      {
+        "q": "Tīra vilna prasa pārāk sarežģītu kopšanu.",
+        "a": "Pateicoties šķiedru augstajai apstrādes kvalitātei, izstrādājums ir mazāk pakļauts savelšanās procesam. Mēs iesakām profesionālu ķīmisko tīrīšanu, kas ir ieguldījums jūsu luksusa garderobes ilgmūžībā."
+      },
+      {
+        "q": "Garais kardigans var vizuāli samazināt augumu.",
+        "a": "Vertikālās kontrastējošās lentes gar bortiem un pagarinātais Malvia piegriezums veido nepārtrauktu līniju, kas, tieši pretēji, vizuāli pagarina siluetu un slaidina figūru."
+      },
+      {
+        "q": "Modelis šķiet pārāk viegls aukstajam gadalaikam.",
+        "a": "Jaunvilnai piemīt unikālas siltumizolācijas īpašības. Malvia kardigans ir lieliski piemērots slāņveida tēliem, nodrošinot komfortu gan telpās, gan ārpus tām."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Vilnos gaminiai gali greitai prarasti formą.",
+        "a": "Aukštos kokybės vilnos naudojimas ir tankus mezgimas garantuoja, kad kardiganas Malvia išlaikys savo struktūrą ir nepriekaištingą formą daugelį sezonų."
+      },
+      {
+        "q": "Kontrastinga apdaila gali atrodyti per ryški verslo garderobui.",
+        "a": "Priešingai, grafiškos apdailos linijos pabrėžia silueto griežtumą, paverčiant klasikinį trikotažą struktūruotu ir statusą pabrėžiančiu verslo stiliaus elementu."
+      },
+      {
+        "q": "Gryna vilna reikalauja per daug sudėtingos priežiūros.",
+        "a": "Dėl aukštos pluošto apdirbimo kokybės gaminys yra mažiau linkęs pūkuotis. Rekomenduojame profesionalų cheminį valymą, kas yra investicija į jūsų prabangaus garderobo ilgaamžiškumą."
+      },
+      {
+        "q": "Ilgas kardiganas gali vizualiai sumažinti ūgį.",
+        "a": "Vertikalios kontrastingos juostos išilgai kraštų ir pailgintas Malvia kirpimas sukuria ištisinę liniją, kuri, priešingai, vizualiai ilgina siluetą ir lieknina figūrą."
+      },
+      {
+        "q": "Modelis atrodo per lengvas šaltajam metų laikui.",
+        "a": "Vilna pasižymi unikaliomis šilumos izoliacinėmis savybėmis. Kardiganas Malvia idealiai tinka daugiasluoksniams deriniams, užtikrindamas komfortą tiek patalpoje, tiek lauke."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wyroby wełniane mogą szybko tracić kształt.",
+        "a": "Zastosowanie wysokiej jakości dziewiczej wełny oraz ścisły splot gwarantują, że kardigan Malvia zachowa swoją strukturę i nienaganne dopasowanie przez wiele sezonów."
+      },
+      {
+        "q": "Kontrastowe wykończenie może wyglądać zbyt jaskrawo do garderoby biznesowej.",
+        "a": "Wręcz przeciwnie, graficzne linie wykończenia podkreślają surowość sylwetki, zmieniając klasyczną dzianinę w strukturalny i prestiżowy element wizerunku biznesowego."
+      },
+      {
+        "q": "Czysta wełna wymaga zbyt skomplikowanej pielęgnacji.",
+        "a": "Dzięki wysokiej jakości obróbce włókien, produkt jest mniej podatny na mechacenie. Zalecamy profesjonalne czyszczenie chemiczne, co stanowi inwestycję w trwałość Państwa luksusowej garderoby."
+      },
+      {
+        "q": "Długi kardigan może wizualnie zmniejszać wzrost.",
+        "a": "Pionowe kontrastowe plisy wzdłuż krawędzi oraz wydłużony krój modelu Malvia tworzą ciągłą linię, która wprost przeciwnie – wizualnie wydłuża sylwetkę i wyszczupla figurę."
+      },
+      {
+        "q": "Model wydaje się zbyt lekki na zimną porę roku.",
+        "a": "Dziewicza wełna posiada unikalne właściwości termoizolacyjne. Kardigan Malvia idealnie nadaje się do stylizacji warstwowych, zapewniając komfort zarówno w pomieszczeniach, jak i na zewnątrz."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Вовняні вироби можуть швидко втрачати форму.",
+        "a": "Використання високоякісної незайманої вовни та щільна в'язка гарантують, що кардиган Malvia збереже свою структуру та бездоганну посадку протягом багатьох сезонів."
+      },
+      {
+        "q": "Контрастна обробка може виглядати занадто яскраво для ділового гардероба.",
+        "a": "Навпаки, графічні лінії оздоблення підкреслюють строгість силуету, перетворюючи класичний трикотаж на структурований і статусний елемент бізнес-образу."
+      },
+      {
+        "q": "Чиста вовна потребує занадто складного догляду.",
+        "a": "Завдяки високій якості вичинки волокна, виріб менше піддається пілінгу. Ми рекомендуємо професійну суху чистку, що є інвестицією у довговічність вашого люксового гардероба."
+      },
+      {
+        "q": "Довгий кардиган може візуально зменшувати зріст.",
+        "a": "Вертикальні контрастні планки вздовж бортів та подовжений крій Malvia створюють безперервну лінію, яка, навпаки, візуально витягує силует і стрункішає фігуру."
+      },
+      {
+        "q": "Модель здається занадто легкою для холодної пори року.",
+        "a": "Незаймана вовна має унікальні теплоізоляційні властивості. Кардиган Malvia ідеально підходить для багатошарових образів, забезпечуючи комфорт як у приміщенні, так і на вулиці."
+      }
+    ]
+  }
+}

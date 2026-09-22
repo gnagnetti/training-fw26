@@ -1,0 +1,368 @@
+{
+  "id": 337,
+  "name": "Spidy",
+  "description": {
+    "en": "The elegant cropped Spidy jacket from Luisa Spagnoli is the quintessence of 'bon ton' style, reimagined for the contemporary woman. Crafted from a luxurious textured bouclÃ© (tessuto armaturato), lending the piece noble volume and depth. The architectural cut is accentuated by small, neat lapels and exquisite framed welt pockets. The principal decorative accent is radiant spherical buttons in gold-tone metal, which elevate the jacket to the status of a jewelry piece within the wardrobe. Fabric composition: 48% polyester, 26% acrylic, 20% wool, 3% cotton, 2% polyamide, 1% viscose.",
+    "ru": "Элегантная укороченная куртка Spidy от Luisa Spagnoli — это квинтэссенция стиля «bon ton», переосмысленная для современной женщины. Модель выполнена из роскошного фактурного букле (tessuto armaturato), который придает изделию благородный объем и глубину. Архитектурный крой подчеркнут небольшими аккуратными лацканами и изысканными прорезными карманами в рамку. Главным декоративным акцентом выступают сияющие сферические пуговицы из золотистого металла, которые наделяют жакет статусом ювелирного украшения в гардеробе. Состав ткани: 48% полиэстер, 26% акрил, 20% шерсть, 3% хлопок, 2% полиамид, 1% вискоза.",
+    "ar": "تعتبر السترة الأنيقة قصيرة الطول Spidy من Luisa Spagnoli جوهر أسلوب \"bon ton\"، المُعاد صياغته للمرأة العصرية. صُمم الموديل من قماش البوكلي الفاخر ذي الملمس البارز (tessuto armaturato)، والذي يمنح القطعة حجماً نبيلاً وعمقاً. يبرز التصميم المعماري بياقات صغيرة وأنيقة وجيوب مقطوعة في إطار بشكل رائع. تعمل الأزرار الكروية المتلألئة المصنوعة من المعدن الذهبي كأبرز لمسة زخرفية، مما يضفي على السترة مكانة قطعة مجوهرات في خزانة الملابس. تركيب القماش: 48% بوليستر، 26% أكريليك، 20% صوف، 3% قطن، 2% بولي أميد، 1% فيسكوز.",
+    "ka": "Luisa Spagnoli-ის ელეგანტური მოკლე куртка Spidy — ეს არის «bon ton» სტილის კვინტესენცია, გადააზრებული თანამედროვე ქალისთვის. მოდელი დამზადებულია მდიდრული ფაქტურული ბუკლესგან (tessuto armaturato), რომელიც ნაკეთობას აძლევს არისტოკრატულ მოცულობასა და სიღრმეს. არქიტექტურული ჭრილი ხაზგასმულია პატარა, აკურატული ლაცკანებით და დახვეწილი ჩაჭრილი ჯიბეებით ჩარჩოში. მთავარ დეკორატიულ აქცენტს წარმოადგენს ოქროსფერი ლითონის მბზინავი სფერული ღილები, რომლებიც ჟაკეტს გარდერობში საიუველირო ნაკეთობის სტატუსს ანიჭებს. ქსოვილის შემადგენლობა: 48% პოლიესტერი, 26% აკრილი, 20% მატყლი, 3% ბამბა, 2% პოლიამიდი, 1% ვისკოზა.",
+    "hy": "Luisa Spagnoli-ի նրբագեղ կարճ Spidy բաճկոնը «bon ton» ոճի էությունն է՝ վերաիմաստավորված ժամանակակից կնոջ համար։ Մոդելը պատրաստված է շքեղ հյուսվածքային բուկլեից (tessuto armaturato), որը արտադրանքին հաղորդում է ազնվական ծավալ և խորություն։ Ճարտարապետական ձևվածքն ընդգծված է փոքր, կոկիկ լացկաններով և «շրջանակի մեջ» նրբագեղ կտրվածքով գրպաններով։ Գլխավոր դեկորատիվ շեշտադրումը ոսկեգույն մետաղից փայլուն գնդաձև կոճակներն են, որոնք ժակետին շնորհում են զարդի կարգավիճակ զգեստապահարանում։ Գործվածքի կազմը՝ 48% պոլիեսթեր, 26% ակրիլ, 20% բուրդ, 3% բամբակ, 2% պոլիամիդ, 1% վիսկոզա։",
+    "lv": "Elegantā īsinātā Spidy jaka no Luisa Spagnoli ir «bon ton» stila kvintesence, kas pārdomāta mūsdienu sievietei. Modelis ir izgatavots no grezna faktūru buklē (tessuto armaturato), kas piešķir izstrādājumam cēlu apjomu un dziļumu. Arhitektonisko piegriezumu izceļ nelieli, akurāti atloki un izsmalcinātas iegrieztas kabatas ar rāmīti. Kā galvenais dekoratīvais akcents izceļas mirdzošas sfēriskas zeltīta metāla pogas, kas piešķir žaketei dārglietas statusu garderobē. Auduma sastāvs: 48% poliesters, 26% akrils, 20% vilna, 3% kokvilna, 2% poliamīds, 1% viskoze.",
+    "lt": "Elegantiška trumpinta Spidy striukė iš Luisa Spagnoli — tai „bon ton“ stiliaus kvintesencija, permąstyta šiuolaikinei moteriai. Modelis pagamintas iš prabangaus faktūrinio buklė (tessuto armaturato), kuris suteikia gaminiui kilnaus tūrio ir gylio. Architektūrinį kirpimą pabrėžia nedideli tvarkingi atlapai ir rafinuotos įleidžiamos kišenės į rėmelį. Pagrindiniu dekoratyviniu akcentu tampa spindinčios sferinės aukso spalvos metalo sagos, kurios suteikia švarkui juvelyrinio dirbinio statusą garderobe. Audinio sudėtis: 48% poliesteris, 26% akrilas, 20% vilna, 3% medvilnė, 2% poliamidas, 1% viskozė.",
+    "pl": "Elegancka krótka kurtka Spidy od Luisa Spagnoli to kwintesencja stylu „bon ton”, zaadaptowana dla współczesnej kobiety. Model wykonany jest z luksusowego fakturowanego bukle (tessuto armaturato), który nadaje wyrobowi szlachetną objętość i głębię. Architektoniczny krój podkreślają niewielkie, staranne klapy oraz wykwintne cięte kieszenie z wypustkami. Głównym akcentem dekoracyjnym są lśniące sferyczne guziki z metalu w złotym kolorze, które nadają żakietowi statusu biżuterii w garderobie. Skład tkaniny: 48% poliester, 26% akryl, 20% wełna, 3% bawełna, 2% poliamid, 1% wiskoza.",
+    "uk": "Елегантна укорочена куртка Spidy від Luisa Spagnoli — це квінтесенція стилю «bon ton», переосмислена для сучасної жінки. Модель виконана з розкішного фактурного букле (tessuto armaturato), який надає виробу благородного об'єму та глибини. Архітектурний крій підкреслений невеликими акуратними лацканами та вишуканими прорізними кишенями в рамку. Головним декоративним акцентом виступають сяючі сферичні ґудзики із золотистого металу, які наділяють жакет статусом ювелірної прикраси в гардеробі. Склад тканини: 48% поліестер, 26% акрил, 20% вовна, 3% бавовна, 2% поліамід, 1% віскоза."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9E0cQd8-TISV4QgurWwIpw_1007642779696f42fe4c4b69_03663208_02821160XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Образ 'Sophisticated Urban' (Vetrina 56)",
+        "en": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "ar": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "ka": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "hy": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "lv": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "lt": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "pl": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "uk": "Look 'Sophisticated Urban' (Vetrina 56)"
+      },
+      "text": {
+        "ru": "Куртка Spidy 0101 поверх классической блузы Limonaia E 0101 в ансамбле с юбкой Fioraliso 0101 и знаковой сумкой Iago 0101 0002.",
+        "en": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "ar": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "ka": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "hy": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "lv": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "lt": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "pl": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "uk": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Spidy",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9E0cQd8-TISV4QgurWwIpw_1007642779696f42fe4c4b69_03663208_02821160XX1.jpg"
+        },
+        {
+          "name": "Fioraliso",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TEQEWHqdRdSxiIlIYz0GbA_1478818389696f43051ee606_09789905_02821340XX1.jpg"
+        },
+        {
+          "name": "Ustica A",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg"
+        },
+        {
+          "name": "Natalidi",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pfdT77bDSaCKBkskoXYauA_1462536374691c57d6248272_36732452_02800130XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 'Sophisticated Urban' (Vetrina 56)",
+        "en": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "ar": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "ka": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "hy": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "lv": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "lt": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "pl": "Look 'Sophisticated Urban' (Vetrina 56)",
+        "uk": "Look 'Sophisticated Urban' (Vetrina 56)"
+      },
+      "text": {
+        "ru": "Куртка Spidy 0101 поверх классической блузы Limonaia E 0101 в ансамбле с юбкой Fioraliso 0101 и знаковой сумкой Iago 0101 0002.",
+        "en": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "ar": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "ka": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "hy": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "lv": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "lt": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "pl": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag.",
+        "uk": "Spidy 0101 jacket over a classic Limonaia E 0101 blouse in an ensemble with a Fioraliso 0101 skirt and the iconic Iago 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Spidy",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9E0cQd8-TISV4QgurWwIpw_1007642779696f42fe4c4b69_03663208_02821160XX1.jpg"
+        },
+        {
+          "name": "Limonaia E",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg"
+        },
+        {
+          "name": "Fioraliso",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TEQEWHqdRdSxiIlIYz0GbA_1478818389696f43051ee606_09789905_02821340XX1.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Образ 'Formal Contrast' (Vetrina 110)",
+        "en": "Look 'Formal Contrast' (Vetrina 110)",
+        "ar": "Look 'Formal Contrast' (Vetrina 110)",
+        "ka": "Look 'Formal Contrast' (Vetrina 110)",
+        "hy": "Look 'Formal Contrast' (Vetrina 110)",
+        "lv": "Look 'Formal Contrast' (Vetrina 110)",
+        "lt": "Look 'Formal Contrast' (Vetrina 110)",
+        "pl": "Look 'Formal Contrast' (Vetrina 110)",
+        "uk": "Look 'Formal Contrast' (Vetrina 110)"
+      },
+      "text": {
+        "ru": "Сочетание модели Spidy 0101 с блузой Lidia 0202 (URL) и брюками Orville 0101 (URL).",
+        "en": "Combination of the Spidy 0101 model with a Lidia 0202 blouse (URL) (Data not available in official sources for URL) and Orville 0101 trousers (URL) (Data not available in official sources for URL).",
+        "ar": "Combination of the Spidy 0101 model with a Lidia 0202 blouse (URL) (Data not available in official sources for URL) and Orville 0101 trousers (URL) (Data not available in official sources for URL).",
+        "ka": "Combination of the Spidy 0101 model with a Lidia 0202 blouse (URL) (Data not available in official sources for URL) and Orville 0101 trousers (URL) (Data not available in official sources for URL).",
+        "hy": "Combination of the Spidy 0101 model with a Lidia 0202 blouse (URL) (Data not available in official sources for URL) and Orville 0101 trousers (URL) (Data not available in official sources for URL).",
+        "lv": "Combination of the Spidy 0101 model with a Lidia 0202 blouse (URL) (Data not available in official sources for URL) and Orville 0101 trousers (URL) (Data not available in official sources for URL).",
+        "lt": "Combination of the Spidy 0101 model with a Lidia 0202 blouse (URL) (Data not available in official sources for URL) and Orville 0101 trousers (URL) (Data not available in official sources for URL).",
+        "pl": "Combination of the Spidy 0101 model with a Lidia 0202 blouse (URL) (Data not available in official sources for URL) and Orville 0101 trousers (URL) (Data not available in official sources for URL).",
+        "uk": "Combination of the Spidy 0101 model with a Lidia 0202 blouse (URL) (Data not available in official sources for URL) and Orville 0101 trousers (URL) (Data not available in official sources for URL)."
+      },
+      "items": [
+        {
+          "name": "Spidy",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9E0cQd8-TISV4QgurWwIpw_1007642779696f42fe4c4b69_03663208_02821160XX1.jpg"
+        },
+        {
+          "name": "Lidia",
+          "code": "0202",
+          "imageUrl": null
+        },
+        {
+          "name": "Orville",
+          "code": "0101",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Direct the client's attention to the cropped length: an ideal technique for visually elongating the legs, especially when paired with high-waisted skirts and trousers.",
+      "Highlight the value of the gold-tone hardware: the spherical buttons are a signature detail of the brand that eliminates the need for additional accessories near the face.",
+      "Suggest Spidy as a versatile investment: thanks to its black color and classic bouclé texture, the jacket transitions effortlessly from an office essential to an evening ensemble."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиентки на укороченной длине (cropped): это идеальный прием для визуального удлинения ног, особенно в сочетании с юбками и брюками на высокой талии.",
+      "Подчеркните ценность золотой фурнитуры: сферические пуговицы — это авторская подпись бренда, которая избавляет от необходимости подбирать дополнительные аксессуары у лица.",
+      "Предлагайте Spidy как универсальную инвестицию: благодаря черному цвету и классической фактуре букле, куртка легко трансформируется из офисного элемента в вечерний наряд."
+    ],
+    "ar": [
+      "ركزي على الطول القصير (Cropped): فهي وسيلة مثالية لإطالة الساقين بصرياً، خاصة عند تنسيقها مع التنانير أو السراويل ذات الخصر العالي.",
+      "أكدي على قيمة الإكسسوارات الذهبية؛ فالأزرار الكروية هي توقيع العلامة التجارية الخاص الذي يغنيكِ عن الحاجة إلى تنسيق إكسسوارات إضافية بالقرب من الوجه.",
+      "اقترحي Spidy كاستثمار متعدد الاستخدامات؛ فبفضل اللون الأسود وقماش البوكليه الكلاسيكي، يمكن تحويل هذه السترة بسهولة من قطعة رسمية للعمل إلى إطلالة مسائية ساحرة."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება მოკლე (cropped) სიგრძეზე: ეს იდეალური ხერხია ფეხების ვიზუალურად დაგრძელებისთვის, განსაკუთრებით მაღალწელიან ქვედაბოლოებთან და შარვლებთან შეხამებისას.",
+      "ხაზი გაუსვით ოქროსფერი ფურნიტურის ღირებულებას: სფერული ღილები ბრენდის საავტორო ხელწერაა, რაც გიხსნით სახის მიდამოში დამატებითი აქსესუარების შერჩევის აუცილებლობისგან.",
+      "შესთავაზეთ Spidy, როგორც უნივერსალური ინვესტიცია: შავი ფერისა და კლასიკური ბუკლეს ფაქტურის წყალობით, ქურთუკი მარტივად ტრანსფორმირდება ოფისის ელემენტიდან საღამოს სამოსად."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք կարճեցված (cropped) երկարության վրա. սա ոտքերը վիզուալ երկարացնելու իդեալական միջոց է, հատկապես բարձր գոտկատեղով կիսաշրջազգեստների և տաբատների հետ համադրելիս։",
+      "Ընդգծեք ոսկեգույն ֆուրնիտուրայի արժեքը. գնդաձև կոճակները բրենդի հեղինակային ստորագրությունն են, որը վերացնում է դեմքի մոտ լրացուցիչ աքսեսուարներ ընտրելու անհրաժեշտությունը։",
+      "Առաջարկեք Spidy-ն որպես բազմակողմանի ներդրում. սև գույնի և դասական բուկլե հյուսվածքի շնորհիվ բաճկոնը հեշտությամբ վերափոխվում է գրասենյակային տարրից երեկոյան հանդերձանքի։"
+    ],
+    "lv": [
+      "Vērsiet klientes uzmanību uz saīsināto garumu (cropped): tas ir ideāls paņēmiens kāju vizuālai pagarināšanai, īpaši kombinācijā ar svārkiem un biksēm ar augstu jostasvietu.",
+      "Uzsveriet zelta furnitūras vērtību: sfēriskās pogas ir zīmola autortiesību paraksts, kas atbrīvo no nepieciešamības izvēlēties papildu aksesuārus pie sejas.",
+      "Piedāvājiet Spidy kā universālu investīciju: pateicoties melnajai krāsai un klasiskajai buklē tekstūrai, jaka viegli transformējas no biroja elementa par vakara tērpu."
+    ],
+    "lt": [
+      "Atkreipkite klientės dėmesį į trumpintą ilgį (cropped): tai idealus būdas vizualiai pailginti kojas, ypač derinant su sijonais ir aukšto liemens kelnėmis.",
+      "Pabrėžkite auksinės furnitūros vertę: sferinės sagos – tai autorinis prekės ženklo parašas, kuris išvaduoja nuo būtinybės derinti papildomus aksesuarus prie veido.",
+      "Siūlykite Spidy kaip universalią investiciją: dėl juodos spalvos ir klasikinės buklė faktūros striukė lengvai transformuojasi iš biuro stiliaus elemento į vakarinį apdarą."
+    ],
+    "pl": [
+      "Zwróć uwagę klientki na skróconą długość (cropped): to idealny sposób na wizualne wydłużenie nóg, szczególnie w połączeniu ze spódnicami i spodniami z wysokim stanem.",
+      "Podkreśl wartość złotych okuć: sferyczne guziki to autorski podpis marki, który zwalnia z konieczności dobierania dodatkowych akcesoriów przy twarzy.",
+      "Proponuj Spidy jako uniwersalną inwestycję: dzięki czarnemu kolorowi i klasycznej fakturze bouclé kurtka łatwo przekształca się z elementu biurowego w wieczorową kreację."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнтки на вкороченій довжині (cropped): це ідеальний прийом для візуального подовження ніг, особливо в поєднанні зі спідницями та брюками на високій талії.",
+      "Підкресліть цінність золотої фурнітури: сферичні ґудзики — це авторський підпис бренду, який позбавляє необхідності підбирати додаткові аксесуари біля обличчя.",
+      "Пропонуйте Spidy як універсальну інвестицію: завдяки чорному кольору та класичній фактурі букле, куртка легко трансформується з офісного елемента у вечірнє вбрання."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "I worry that the cropped style will look too casual.",
+        "a": "On the contrary, thanks to the structured bouclé fabric and gold buttons, Spidy reads as extremely polished. Showcase Look 246, where the jacket creates a sharp, elegant silhouette."
+      },
+      {
+        "q": "The fabric composition contains synthetic fibers.",
+        "a": "Explain that the complex blended composition is essential for maintaining the bouclé's unique architectural form. Polyester and acrylic guarantee durability and prevent the jacket from losing its shape with wear."
+      },
+      {
+        "q": "The gold buttons seem too flashy.",
+        "a": "Emphasize that this is a key trend of the season. They »˜illuminate ' the black fabric, lending the look a more dynamic, contemporary feel and standing in for a brooch or necklace."
+      },
+      {
+        "q": "I'll find it hard to pair this jacket with trousers.",
+        "a": "Recommend trying it with classic high-waisted trousers. The jacket's cropped cut harmonizes the proportions, creating a modern »˜power dressing ' silhouette."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Я опасаюсь, что укороченный фасон будет выглядеть слишком неформально.",
+        "a": "Напротив, благодаря структурированной ткани букле и золотым пуговицам, Spidy выглядит чрезвычайно статусно. Продемонстрируйте Look 246, где жакет создает строгий и элегантный силуэт."
+      },
+      {
+        "q": "В составе ткани есть синтетические волокна.",
+        "a": "Объясните, что сложный смесовый состав необходим для поддержания уникальной архитектурной формы букле. Полиэстер и акрил гарантируют износостойкость и предотвращают деформацию жакета при носке."
+      },
+      {
+        "q": "Золотые пуговицы кажутся слишком яркими.",
+        "a": "Подчеркните, что это ключевой тренд сезона. Они 'подсвечивают' черный цвет ткани, делая образ более динамичным и современным, заменяя собой броши или колье."
+      },
+      {
+        "q": "Мне будет сложно сочетать этот жакет с брюками.",
+        "a": "Посоветуйте примерить его с классическими брюками на высокой посадке. Укороченный крой жакета гармонизирует пропорции, создавая современный силуэт 'power dressing'."
+      }
+    ],
+    "ar": [
+      {
+        "q": "أخشى أن التصميم القصير سيبدو غير رسمي أكثر من اللازم.",
+        "a": "على العكس، بفضل قماش البوكلي المهيكل والأزرار الذهبية، تبدو Spidy في غاية الرقي. استعرضي Look 246، حيث تخلق السترة صورة ظلية صارمة وأنيقة."
+      },
+      {
+        "q": "يوجد ألياف صناعية في تركيبة القماش.",
+        "a": "اشرحي أن التركيبة المخلوطة المعقدة ضرورية للحفاظ على الشكل المعماري الفريد للبوكلي. يضمن البوليستر والأكريليك مقاومة التآكل ويمنعان تشوه السترة أثناء الارتداء."
+      },
+      {
+        "q": "الأزرار الذهبية تبدو براقة أكثر من اللازم.",
+        "a": "أكدي أن هذا هو الاتجاه الرئيسي لهذا الموسم. فهي 'تضيء' لون القماش الأسود، مما يجعل الإطلالة أكثر ديناميكية وعصرية، لتحل محل البروش أو القلائد."
+      },
+      {
+        "q": "سيكون من الصعب عليّ تنسيق هذه السترة مع السراويل.",
+        "a": "انصحي بتجربتها مع سراويل كلاسيكية عالية الخصر. القصة القصيرة للسترة توازن النسب، مما يخلق صورة ظلية عصرية لأسلوب 'قوة الملابس' (power dressing)."
+      }
+    ],
+    "ka": [
+      {
+        "q": "შიში მაქვს, რომ შემოკლებული ფასონი ზედმეტად არაფორმალურად გამოიყურება.",
+        "a": "პირიქით, სტრუქტურირებული ბუკლეს ქსოვილისა და ოქროსფერი ღილების წყალობით, Spidy უკიდურესად სტატუსურად გამოიყურება. წარმოაჩინეთ Look 246, სადაც ჟაკეტი ქმნის მკაცრ და ელეგანტურ სილუეტს."
+      },
+      {
+        "q": "ქსოვილის შემადგენლობაში არის სინთეზური ბოჭკოები.",
+        "a": "ახსენით, რომ რთული შერეული შემადგენლობა აუცილებელია ბუკლეს უნიკალური არქიტექტურული ფორმის შესანარჩუნებლად. პოლიესტერი და აკრილი უზრუნველყოფს ცვეთამედეგობას და აფერხებს ჟაკეტის დეფორმაციას ტარებისას."
+      },
+      {
+        "q": "ოქროსფერი ღილები ზედმეტად კაშკაშა ჩანს.",
+        "a": "ხაზგასმით აღნიშნეთ, რომ ეს სეზონის მთავარი ტრენდია. ისინი 'ანათებენ' ქსოვილის შავ ფერს, რაც იერს უფრო დინამიურსა და თანამედროვეს ხდის და ანაცვლებს ბროშებს ან ყელსაბამებს."
+      },
+      {
+        "q": "გამიჭირდება ამ ჟაკეტის შეხამება შარვალთან.",
+        "a": "ურჩიეთ მოიზომოს მაღალწელიან კლასიკურ შარვალთან. ჟაკეტის შემოკლებული კრაკი ახარმონიებს პროპორციებს და ქმნის თანამედროვე 'power dressing'-ის სილუეტს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ես մտավախություն ունեմ, որ կարճ ֆասոնը չափազանց ոչ ֆորմալ տեսք կունենա։",
+        "a": "Ընդհակառակը, բուկլե կառուցվածքային գործվածքի և ոսկեգույն կոճակների շնորհիվ Spidy-ն չափազանց կարգավիճակային է թվում։ Ցույց տվեք Look 246-ը, որտեղ ժակետը ստեղծում է խիստ և նրբագեղ ուրվագիծ։"
+      },
+      {
+        "q": "Գործվածքի բաղադրության մեջ կան սինթետիկ թելեր։",
+        "a": "Բացատրեք, որ բարդ խառը բաղադրությունն անհրաժեշտ է բուկլեի յուրահատուկ ճարտարապետական ձևը պահպանելու համար։ Պոլիեսթերը և ակրիլը երաշխավորում են մաշվածադիմացկունությունը և կանխում ժակետի դեֆորմացիան կրելու ժամանակ։"
+      },
+      {
+        "q": "Ոսկեգույն կոճակները չափազանց պայծառ են թվում։",
+        "a": "Ընդգծեք, որ սա սեզոնի հիմնական թրենդն է։ Դրանք 'լուսավորում են' գործվածքի սև գույնը՝ կերպարը դարձնելով ավելի դինամիկ և ժամանակակից՝ փոխարինելով բրոշներին կամ վզնոցներին։"
+      },
+      {
+        "q": "Ինձ համար դժվար կլինի համադրել այս ժակետը տաբատների հետ։",
+        "a": "Խորհուրդ տվեք այն փորձել բարձր գոտկատեղով դասական տաբատների հետ։ Ժակետի կարճ կտրվածքը ներդաշնակեցնում է համամասնությունները՝ ստեղծելով 'power dressing' ժամանակակից ուրվագիծ։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Baidos, ka saīsinātais fasons izskatīsies pārāk neformāli.",
+        "a": "Gluži pretēji, pateicoties strukturētajam buklē audumam un zelta pogām, Spidy izskatās ārkārtīgi statusīgi. Demonstrējiet Look 246, kur žakete rada stingru un elegantu siluetu."
+      },
+      {
+        "q": "Auduma sastāvā ir sintētiskās šķiedras.",
+        "a": "Paskaidrojiet, ka sarežģītais jauktā auduma sastāvs ir nepieciešams, lai uzturētu unikālo buklē arhitektonisko formu. Poliesters un akrils garantē nodilumizturību un novērš žaketes deformāciju valkāšanas laikā."
+      },
+      {
+        "q": "Zelta pogas šķiet pārāk košas.",
+        "a": "Uzsveriet, ka tā ir sezonas galvenā tendence. Tās 'izgaismo' melno auduma krāsu, padarot tēlu dinamiskāku un mūsdienīgāku, aizstājot brošas vai kaklarotas."
+      },
+      {
+        "q": "Man būs grūti kombinēt šo žaketi ar biksēm.",
+        "a": "Iesakiet pielaikot to ar klasiskām augstā jostasvietas piegriezuma biksēm. Žaketes saīsinātais piegriezums harmonizē proporcijas, radot mūsdienīgu 'power dressing' siluetu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Я опасаюсь, что укороченный фасон будет выглядеть слишком неформально.",
+        "a": "Напротив, благодаря структурированной ткани букле и золотым пуговицам, Spidy выглядит чрезвычайно статусно. Продемонстрируйте Look 246, где жакет создает строгий и элегантный силуэт."
+      },
+      {
+        "q": "В составе ткани есть синтетические волокна.",
+        "a": "Объясните, что сложный смесовый состав необходим для поддержания уникальной архитектурной формы букле. Полиэстер и акрил гарантируют износостойкость и предотвращают деформацию жакета при носке."
+      },
+      {
+        "q": "Золотые пуговицы кажутся слишком яркими.",
+        "a": "Подчеркните, что это ключевой тренд сезона. Они 'подсвечивают' черный цвет ткани, делая образ более динамичным и современным, заменяя собой броши или колье."
+      },
+      {
+        "q": "Мне будет сложно сочетать этот жакет с брюками.",
+        "a": "Посоветуйте примерить его с классическими брюками на высокой посадке. Укороченный крой жакета гармонизирует пропорции, создавая современный силуэт 'power dressing'."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Obawiam się, że krótki fason będzie wyglądał zbyt nieformalnie.",
+        "a": "Wręcz przeciwnie, dzięki strukturalnej tkaninie typu bouclé i złotym guzikom, Spidy wygląda niezwykle prestiżowo. Zaprezentuj Look 246, gdzie żakiet tworzy surową i elegancką sylwetkę."
+      },
+      {
+        "q": "W składzie tkaniny znajdują się włókna syntetyczne.",
+        "a": "Wyjaśnij, że złożony skład mieszany jest niezbędny do utrzymania unikalnej architektonicznej formy bouclé. Poliester i akryl gwarantują trwałość i zapobiegają odkształceniom żakietu podczas noszenia."
+      },
+      {
+        "q": "Złote guziki wydają się zbyt jaskrawe.",
+        "a": "Podkreśl, że jest to kluczowy trend sezonu. 'Rozświetlają' one czerń tkaniny, czyniąc stylizację bardziej dynamiczną i nowoczesną, zastępując broszki czy naszyjniki."
+      },
+      {
+        "q": "Trudno będzie mi połączyć ten żakiet ze spodniami.",
+        "a": "Doradź przymierzenie go z klasycznymi spodniami z wysokim stanem. Krótki krój żakietu harmonizuje proporcje, tworząc nowoczesną sylwetkę typu 'power dressing'."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Я побоююся, що вкорочений фасон виглядатиме занадто неформально.",
+        "a": "Навпаки, завдяки структурованій тканині букле і золотим ґудзикам, Spidy виглядає надзвичайно статусно. Продемонструйте Look 246, де жакет створює суворий і елегантний силует."
+      },
+      {
+        "q": "У складі тканини є синтетичні волокна.",
+        "a": "Поясніть, що складний сумішевий склад необхідний для підтримки унікальної архітектурної форми букле. Поліестер і акрил гарантують зносостійкість і запобігають деформації жакета при носінні."
+      },
+      {
+        "q": "Золоті ґудзики здаються занадто яскравими.",
+        "a": "Підкресліть, що це ключовий тренд сезону. Вони 'підсвічують' чорний колір тканини, роблячи образ більш динамічним і сучасним, замінюючи собою брошки або кольє."
+      },
+      {
+        "q": "Мені буде складно поєднувати цей жакет із брюками.",
+        "a": "Порадьте приміряти його з класичними брюками на високій посадці. Вкорочений крій жакета гармонізує пропорції, створюючи сучасний силует 'power dressing'."
+      }
+    ]
+  }
+}

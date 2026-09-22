@@ -1,0 +1,365 @@
+{
+  "id": 49,
+  "name": "Fiordaliso",
+  "description": {
+    "en": "The elegant Fiordaliso midi skirt by Luisa Spagnoli is the quintessence of textural luxury and flawless Italian style. Crafted from a noble bouclÃ© fabric that lends the piece an inimitable depth and aristocratic softness. The principal aesthetic accent is gold-tone domed buttons (bombati) that illuminate the fabric's texture and lend the look status. A classic pencil silhouette with an exquisite front slit masterfully sculpts the figure while allowing complete freedom of movement, making this piece a foundational wardrobe element in the 'quiet luxury' aesthetic.",
+    "ru": "Элегантная юбка-миди Fiordaliso от Luisa Spagnoli — это квинтэссенция текстурной роскоши и безупречного итальянского стиля. Модель выполнена из благородного полотна букле, которое дарит изделию неповторимую глубину и аристократичную мягкость. Главным эстетическим акцентом выступают золотистые выпуклые пуговицы (bombati), которые подсвечивают фактуру ткани и придают образу статусность. Классический силуэт «карандаш» с изысканным передним разрезом виртуозно моделирует фигуру, обеспечивая при этом полную свободу движений, что делает эту модель фундаментальным элементом гардероба в эстетике «тихой роскоши».",
+    "ar": "تُجسّد تنورة \"فيورداليزو\" (Fiordaliso) المتوسطة الطول (Midi) من علامة لويزا سبانيولي (Luisa Spagnoli) جوهر الفخامة الملموسة والأناقة الإيطالية الخالصة. صُنِعت هذه القطعة من نسيج البوكليه (Bouclé) النبيل، مما يمنحها عمقاً فريداً ونعومة أريستوقراطية. وتبرز الأزرار الذهبية المحدّبة (Bombati) كعنصر جمالي رئيسي يضيء تفاصيل النسيج ويضفي على الإطلالة هيبة ورقيّاً. كما تعود القَصّة المستقيمة الكلاسيكية (Pencil skirt) مع الفتحة الأمامية الإيطالية لِتنحيت القوام ببراعة وتوفير حرية حركة تامة، لتغدو هذه التنورة ركيزة أساسية لخزانة ملابس تتألق بمفهوم \"الفخامة الهادئة\" (Quiet Luxury).",
+    "ka": "Luisa Spagnoli-ს ელეგანტური მიდი ქვედაბოლო Fiordaliso არის ტექსტურული ფუფუნებისა და უნაკლო იტალიური სტილის კვინტესენცია. მოდელი დამზადებულია ბუკლეს კეთილშობილური ქსოვილისგან, რომელიც ნაკეთობას განუმეორებელ სიღრმესა და არისტოკრატულ სირბილეს სძენს. მთავარ ესთეტიკურ აქცენტად გვევლინება ოქროსფერი ამოზნექილი ღილები (bombati), რომლებიც ანათებს ქსოვილის ფაქტურას და იმიჯს სტატუსურობას ანიჭებს. კლასიკური „ფანქრის“ სილუეტი დახვეწილი წინა ჭრილით ვირტუოზულად აყალიბებს ფიგურას და უზრუნველყოფს მოძრაობის სრულ თავისუფლებას, რაც ამ მოდელს „ჩუმი ფუფუნების“ ესთეტიკაში გარდერობის ფუნდამენტურ ელემენტად აქცევს.",
+    "hy": "Luisa Spagnoli-ի էլեգանտ Fiordaliso միդի-կիսաշրջազգեստը հյուսվածքային շքեղության և իտալական անթերի ոճի էությունը է։ Մոդելը պատրաստված է բուկլեի ազնվական կտորից, որը հագուստին հաղորդում է եզակի խորություն և ազնվական փափկություն։ Էսթետիկ գլխավոր շեշտադրումը ոսկեգույն ուռուցիկ կոճակներն են (bombati), որոնք ընդգծում են կտորի ֆակտուրան և կերպարին հաղորդում են կարգավիճակային տեսք։ Ընդգծված առջևի ճեղքով «մատիտ» դասական ուրվագիծը վիրտուոզ կերպով մոդելավորում է կազմվածքը՝ միաժամանակ ապահովելով շարժման լիակատար ազատություն, ինչը այս մոդելը դարձնում է «լուռ շքեղություն» էսթետիկայի զգեստապահարանի հիմնարար տարր։",
+    "lv": "Eleganti midi svārki Fiordaliso no Luisa Spagnoli ir teksturālas greznības un nevainojama itāļu stila kvintesence. Modelis ir izgatavots no cēla buklē auduma, kas izstrādājumam dāvā neatkārtojamu dziļumu un aristokrātisku mīkstumu. Galvenais estētiskais akcents ir zeltainas, izliektas pogas (bombati), kas izgaismo auduma faktūru un piešķir tēlam statusu. Klasiskais zīmuļsvārku siluets ar izsmalcinātu priekšējo šķēlumu virtuozi modelē figūru, vienlaikus nodrošinot pilnīgu kustību brīvību, kas padara šo modeli par fundamentālu garderobes elementu „klusās greznības” estētikā.",
+    "lt": "Elegantiškas „Fiordaliso“ midi sijonas iš „Luisa Spagnoli“ – tai tekstūrinės prabangos ir nepriekaištingo itališko stiliaus kvintesencija. Modelis pagamintas iš kilnaus „bouclé“ audinio, kuris suteikia gaminiui nepakartojamo gylio ir aristokratiško minkštumo. Pagrindiniu estetiniu akcentu tampa auksinės iškilios sagos (bombati), kurios išryškina audinio faktūrą ir suteikia įvaizdžiui statuso. Klasikinis pieštuko siluetas su rafinuotu priekiniu skeltuku meistriškai modeliuoja figūrą, kartu užtikrindamas visišką judesių laisvę, kas daro šį modelį fundamentaliu garderobo elementu „tylios prabangos“ estetikoje.",
+    "pl": "Elegancka spódnica midi Fiordaliso od Luisa Spagnoli to kwintesencja teksturalnego luksusu i nienagannego włoskiego stylu. Model wykonany jest ze szlachetnej tkaniny boucle, która nadaje produktowi niepowtarzalną głębię i arystokratyczną miękkość. Głównym akcentem estetycznym są złociste, wypukłe guziki (bombati), które podkreślają fakturę tkaniny i dodają stylizacji prestiżu. Klasyczna sylwetka „ołówkowa” z wyrafinowanym przednim rozcięciem mistrzowsko modeluje figurę, zapewniając jednocześnie pełną swobodę ruchów, co czyni ten model fundamentalnym elementem garderoby w estetyce „cichego luksusu”.",
+    "uk": "Елегантна спідниця-міді Fiordaliso від Luisa Spagnoli — це квінтесенція текстурної розкоші та бездоганного італійського стилю. Модель виконана з благородного полотна букле, яке дарує виробу неповторну глибину та аристократичну м'якість. Головним естетичним акцентом виступають золотисті опуклі ґудзики (bombati), які підсвічують фактуру тканини та додають образу статусності. Класичний силует «олівець» із вишуканим переднім розрізом віртуозно моделює фігуру, забезпечуючи при цьому повну свободу рухів, що робить цю модель фундаментальним елементом гардероба в естетиці «тихої розкоші»."
+  },
+  "colors": [],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 56 (Bouclé Chic)",
+        "en": "Total Look 56 (Bouclé Chic)",
+        "ar": "Total Look 56 (Bouclé Chic)",
+        "ka": "Total Look 56 (Bouclé Chic)",
+        "hy": "Total Look 56 (Bouclé Chic)",
+        "lv": "Total Look 56 (Bouclé Chic)",
+        "lt": "Total Look 56 (Bouclé Chic)",
+        "pl": "Total Look 56 (Bouclé Chic)",
+        "uk": "Total Look 56 (Bouclé Chic)"
+      },
+      "text": {
+        "ru": "Сочетание юбки Fiordaliso 0101 с укороченным жакетом Spidy 0101 и классической рубашкой Limonaia E 0101. Образ дополнен статусной сумкой Iago 0101 0002.",
+        "en": "Combination of Fiordaliso 0101 skirt with Spidy 0101 cropped jacket and classic Limonaia E 0101 shirt. The look is completed by a statement Iago 0101 0002 bag.",
+        "ar": "Combination of Fiordaliso 0101 skirt with Spidy 0101 cropped jacket and classic Limonaia E 0101 shirt. The look is completed by a statement Iago 0101 0002 bag.",
+        "ka": "Combination of Fiordaliso 0101 skirt with Spidy 0101 cropped jacket and classic Limonaia E 0101 shirt. The look is completed by a statement Iago 0101 0002 bag.",
+        "hy": "Combination of Fiordaliso 0101 skirt with Spidy 0101 cropped jacket and classic Limonaia E 0101 shirt. The look is completed by a statement Iago 0101 0002 bag.",
+        "lv": "Combination of Fiordaliso 0101 skirt with Spidy 0101 cropped jacket and classic Limonaia E 0101 shirt. The look is completed by a statement Iago 0101 0002 bag.",
+        "lt": "Combination of Fiordaliso 0101 skirt with Spidy 0101 cropped jacket and classic Limonaia E 0101 shirt. The look is completed by a statement Iago 0101 0002 bag.",
+        "pl": "Combination of Fiordaliso 0101 skirt with Spidy 0101 cropped jacket and classic Limonaia E 0101 shirt. The look is completed by a statement Iago 0101 0002 bag.",
+        "uk": "Combination of Fiordaliso 0101 skirt with Spidy 0101 cropped jacket and classic Limonaia E 0101 shirt. The look is completed by a statement Iago 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Fiordaliso",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Spidy",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9E0cQd8-TISV4QgurWwIpw_1007642779696f42fe4c4b69_03663208_02821160XX1.jpg",
+          "modelId": 337
+        },
+        {
+          "name": "Limonaia E",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 110 (Elegant Layering)",
+        "en": "Total Look 110 (Elegant Layering)",
+        "ar": "Total Look 110 (Elegant Layering)",
+        "ka": "Total Look 110 (Elegant Layering)",
+        "hy": "Total Look 110 (Elegant Layering)",
+        "lv": "Total Look 110 (Elegant Layering)",
+        "lt": "Total Look 110 (Elegant Layering)",
+        "pl": "Total Look 110 (Elegant Layering)",
+        "uk": "Total Look 110 (Elegant Layering)"
+      },
+      "text": {
+        "ru": "Situazione 0101 в ансамбле с кардиганом Madira 0101, рубашкой Balda 0202 0101 и юбкой Fiordaliso 0101. Финальный штрих — сумка Ls1928p A 0221 0038.",
+        "en": "Situazione 0101 paired with a Madira 0101 cardigan, Balda 0202 0101 shirt (Data not available in official sources) and Fiordaliso 0101 skirt. The final touch is an Ls1928p A 0221 0038 bag.",
+        "ar": "Situazione 0101 paired with a Madira 0101 cardigan, Balda 0202 0101 shirt (Data not available in official sources) and Fiordaliso 0101 skirt. The final touch is an Ls1928p A 0221 0038 bag.",
+        "ka": "Situazione 0101 paired with a Madira 0101 cardigan, Balda 0202 0101 shirt (Data not available in official sources) and Fiordaliso 0101 skirt. The final touch is an Ls1928p A 0221 0038 bag.",
+        "hy": "Situazione 0101 paired with a Madira 0101 cardigan, Balda 0202 0101 shirt (Data not available in official sources) and Fiordaliso 0101 skirt. The final touch is an Ls1928p A 0221 0038 bag.",
+        "lv": "Situazione 0101 paired with a Madira 0101 cardigan, Balda 0202 0101 shirt (Data not available in official sources) and Fiordaliso 0101 skirt. The final touch is an Ls1928p A 0221 0038 bag.",
+        "lt": "Situazione 0101 paired with a Madira 0101 cardigan, Balda 0202 0101 shirt (Data not available in official sources) and Fiordaliso 0101 skirt. The final touch is an Ls1928p A 0221 0038 bag.",
+        "pl": "Situazione 0101 paired with a Madira 0101 cardigan, Balda 0202 0101 shirt (Data not available in official sources) and Fiordaliso 0101 skirt. The final touch is an Ls1928p A 0221 0038 bag.",
+        "uk": "Situazione 0101 paired with a Madira 0101 cardigan, Balda 0202 0101 shirt (Data not available in official sources) and Fiordaliso 0101 skirt. The final touch is an Ls1928p A 0221 0038 bag."
+      },
+      "items": [
+        {
+          "name": "Situazione",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg",
+          "modelId": 321
+        },
+        {
+          "name": "Madira",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/127431599691f156f750070_99744006_02790140XX1.jpg",
+          "modelId": 430
+        },
+        {
+          "name": "Balda",
+          "code": "0202 0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Fiordaliso",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Ls1928p A",
+          "code": "0221 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_22100380000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Embrace the unique bouclé texture — a timeless classic that instantly signals impeccable taste and elevated status.",
+      "Draw attention to the 'vertical effect': the front slit and high waistline visually elongate the legs, creating a runway-worthy silhouette even in everyday wear.",
+      "Recommend the skirt as an ideal investment: the black hue and classic cut allow the look to transition effortlessly from strict business attire to a formal evening ensemble with the addition of accessories."
+    ],
+    "ru": [
+      "Делайте ставку на уникальную фактуру букле — это вневременная классика, которая мгновенно сообщает о высоком статусе и безупречном вкусе владельца.",
+      "Акцентируйте внимание на 'эффекте вертикали': передний разрез и высокая линия талии визуально удлиняют ноги, создавая подиумный силуэт даже в повседневной носке.",
+      "Рекомендуйте юбку как идеальную инвестицию: черный цвет и классический крой позволяют легко трансформировать образ из строгого делового в торжественный вечерний при помощи аксессуаров."
+    ],
+    "ar": [
+      "راهني على ملمس البوكلي الفريد - فهو كلاسيكية خالدة تعبر فوراً عن المكانة العالية والذوق الرفيع لصاحبتها.",
+      "أكدي على 'التأثير العمودي': فالفتحة الأمامية وخط الخصر المرتفع يطيلان الساقين بصرياً، مما يخلق إطلالة عارضات الأزياء حتى في الارتداء اليومي.",
+      "نوصي بالتنورة كاستثمار مثالي: فاللون الأسود والقصة الكلاسيكية يسمحان بتحويل الإطلالة بسهولة من رسمية عملية إلى مسائية احتفالية باستخدام الإكسسوارات."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი ბუკლეს უნიკალურ ფაქტურაზე — ეს არის მარადიული კლასიკა, რომელიც მყისიერად მიანიშნებს მფლობელის მაღალ სტატუსსა და უნაკლო გემოვნებაზე.",
+      "ყურადღება გაამახვილეთ 'ვერტიკალურ ეფექტზე': წინა ჭრილი და წელის მაღალი ხაზი ვიზუალურად აგრძელებს ფეხებს და ქმნის პოდიუმის სილუეტს ყოველდღიურ ცხოვრებაშიც კი.",
+      "რეკომენდაცია გაუწიეთ ქვედაბოლოს, როგორც იდეალურ ინვესტიციას: შავი ფერი და კლასიკური კროი საშუალებას გაძლევთ მარტივად გარდაქმნათ იერსახე მკაცრი საქმიანიდან საზეიმო საღამოს სტილში, აქსესუარების დახმარებით."
+    ],
+    "hy": [
+      "Խաղադրույք կատարեք բուկլեի յուրահատուկ ֆակտուրայի վրա՝ սա ժամանակից դուրս դասական է, որը միանգամից հաղորդում է բարձր կարգավիճակ և տիրոջ անթերի ճաշակ։",
+      "Շեշտադրեք 'ուղղահայաց էֆեկտը'. առջևի բացվածքը և բարձր գոտկատեղը տեսողականորեն երկարացնում են ոտքերը՝ ստեղծելով պոդիումային սիլուետ նույնիսկ առօրյա կրման ժամանակ։",
+      "Խորհուրդ տվեք կիսաշրջազգեստը որպես իդեալական ներդրում. սև գույնը և դասական ձևվածքը թույլ են տալիս հեշտությամբ փոխակերպել կերպարը խիստ գործնականից դեպի հանդիսավոր երեկոյան՝ աքսեսուարների օգնությամբ։"
+    ],
+    "lv": [
+      "Liekiet likmi uz unikālo bukē faktūru — tā ir mūžīgā klasika, kas acumirklī vēsta par augstu statusu un nevainojamu īpašnieka gaumi.",
+      "Akcentējiet 'vertikālo efektu': priekšējais šķēlums un augstā jostasvieta vizuāli pagarina kājas, radot poдиuma cienīgu siluetu pat ikdienas valkāšanā.",
+      "Iesakiet svārkus kā ideālu investīciju: melnā krāsa un klasiskais piegriezums ļauj ērti transformēt tēlu no stingra lietišķā uz svinīgu vakara tērpu, izmantojot aksesuārus."
+    ],
+    "lt": [
+      "Statykite už unikalią buklė faktūrą – tai nesenstanti klasika, kuri akimirksniu praneša apie aukštą savininko statusą ir nepriekaištingą skonį.",
+      "Akcentuokite „vertikalų efektą“: priekinis skeltukas ir aukšta liemens linija vizualiai ilgina kojas, sukurdami podiumo vertą siluetą net kasdieniame dėvėjime.",
+      "Rekomenduokite sijoną kaip idealią investiciją: juoda spalva ir klasikinis kirpimas leidžia lengvai transformuoti įvaizdį iš griežto dalykinio į šventinį vakarinį pasitelkus aksesuarus."
+    ],
+    "pl": [
+      "Postaw na unikalną fakturę bouclé — to ponadczasowa klasyka, która natychmiast komunikuje wysoki status i nienaganny gust właścicielki.",
+      "Akcentuj 'efekt pionu': przednie rozcięcie i wysoki stan optycznie wydłużają nogi, tworząc wybiegową sylwetkę nawet w codziennym noszeniu.",
+      "Rekomenduj spódnicę jako idealną inwestycję: czarny kolor i klasyczny krój pozwalają łatwo przekształcić wizerunek ze surowego biznesowego w uroczysty wieczorowy za pomocą akcesoriów."
+    ],
+    "uk": [
+      "Робіть ставку на унікальну фактуру букле — це позачасова класика, яка миттєво повідомляє про високий статус і бездоганний смак власника.",
+      "Акцентуйте увагу на 'ефекті вертикалі': передній розріз і висока лінія талії візуально подовжують ноги, створюючи подіумний силует навіть у повсякденному носінні.",
+      "Рекомендуйте спідницю як ідеальну інвестицію: чорний колір і класичний крій дозволяють легко трансформувати образ зі строгого ділового в урочистий вечірній за допомогою аксесуарів."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Bouclé fabric may appear too voluminous on the figure.",
+        "a": "Luisa Spagnoli's designers use a fine-textured bouclé combined with a 'tubino' cut. This creates a clean shape that structures the silhouette without adding bulk."
+      },
+      {
+        "q": "The front slit may seem too bold for an office dress code.",
+        "a": "Thanks to the midi length and the brand's classic aesthetic, the slit remains understated and functional, adding only a touch of contemporary femininity to a tailored look."
+      },
+      {
+        "q": "Concern that loosely woven fabric will quickly snag.",
+        "a": "The fabric composition is predominantly polyester and acrylic (74%), which provides a dense weave and greater durability compared to traditional tweed."
+      },
+      {
+        "q": "How should such a delicate texture and gold buttons be cared for?",
+        "a": "We recommend exclusively professional cleaning. This preserves the pristine loft of the bouclé and the shine of the hardware's galvanic coating for the long term."
+      },
+      {
+        "q": "A black skirt may seem too plain.",
+        "a": "It is precisely the play of light on the bouclé texture and the gleam of the gold buttons that make the Fiordaliso piece a standalone statement item, distinguishing it from ordinary smooth knitwear."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Ткань букле может выглядеть слишком объемной на фигуре.",
+        "a": "Дизайнеры Luisa Spagnoli используют мелкофактурное букле в сочетании с кроем 'tubino'. Это создает четкую форму, которая структурирует силуэт, не добавляя лишних сантиметров."
+      },
+      {
+        "q": "Передний разрез кажется слишком смелым для офисного дресс-кода.",
+        "a": "Благодаря длине миди и классической эстетике бренда, разрез остается сдержанным и функциональным, добавляя лишь ноту современной женственности в строгий образ."
+      },
+      {
+        "q": "Боязнь, что на рыхлой ткани быстро появятся зацепки.",
+        "a": "В составе полотна преобладает полиэстер и акрил (74%), что обеспечивает высокую плотность переплетения нитей и повышенную износостойкость по сравнению с традиционным твидом."
+      },
+      {
+        "q": "Как ухаживать за такой деликатной фактурой и золотыми пуговицами?",
+        "a": "Мы рекомендуем исключительно профессиональную чистку. Это позволит надолго сохранить первозданную пушистость букле и блеск гальванического покрытия фурнитуры."
+      },
+      {
+        "q": "Черная юбка может выглядеть слишком скучно.",
+        "a": "Именно игра света на фактуре букле и мерцание золотых пуговиц делают Fiordaliso самостоятельным арт-объектом, который выделяется на фоне обычного гладкого трикотажа."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قماش البوكليه قد يبدو ضخماً جداً على القوام.",
+        "a": "يستخدم مصممو Luisa Spagnoli قماش بوكليه دقيق الملمس مع قصة 'tubino'. هذا يخلق شكلاً محدداً ينحت القوام دون إضافة سنتيمترات غير ضرورية."
+      },
+      {
+        "q": "الفتحة الأمامية تبدو جريئة جداً لقواعد اللباس المكتبي.",
+        "a": "بفضل طول الميدي والجمالية الكلاسيكية للعلامة التجارية، تظل الفتحة رصينة وعملية، مضيفة لمسة من الأنوثة العصرية للإطلالة الرسمية."
+      },
+      {
+        "q": "الخوف من ظهور خيوط مسحوبة بسرعة على القماش الخفيف.",
+        "a": "يهيمن البوليستر والأكريليك (74%) على تركيب القماش، مما يضمن كثافة عالية في نسج الخيوط ومتانة أكبر مقارنة بالتويد التقليدي."
+      },
+      {
+        "q": "كيفية العناية بملمس حساس كهذا والأزرار الذهبية؟",
+        "a": "نوصي حصراً بالتنظيف المهني. سيسمح ذلك بالحفاظ على رونق البوكليه ولمعان الطلاء الجلفاني للإكسسوارات لفترة طويلة."
+      },
+      {
+        "q": "التنورة السوداء قد تبدو مملة.",
+        "a": "إن تلاعب الضوء على ملمس البوكليه وبريق الأزرار الذهبية هو ما يجعل Fiordaliso قطعة فنية مستقلة تبرز عن التريكو المعتاد ذو السطح الأملس."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ბუკლეს ქსოვილი შესაძლოა ზედმეტად მოცულობითი ჩანდეს ფიგურაზე.",
+        "a": "Luisa Spagnoli-ს დიზაინერები იყენებენ წვრილფაქტურებიან ბუკლეს 'tubino' ჭრასთან კომბინაციაში. ეს ქმნის მკაფიო ფორმას, რომელიც სტრუქტურირებს სილუეტს ზედმეტი სანტიმეტრების დამატების გარეშე."
+      },
+      {
+        "q": "წინა ჭრილი ზედმეტად თამამი ჩანს საოფისე დრეს-კოდისთვის.",
+        "a": "მიდი სიგრძისა და ბრენდის კლასიკური ესთეტიკის წყალობით, ჭრილი რჩება თავშეკავებულად და ფუნქციურად, რაც მხოლოდ თანამედროვე ქალურობის ელფერს მატებს მკაცრ სახეს."
+      },
+      {
+        "q": "შიში იმისა, რომ ფაშარ ქსოვილზე სწრაფად გაჩნდება გამოწეული ძაფები.",
+        "a": "ქსოვილის შემადგენლობაში ჭარბობს პოლიესტერი და აკრილი (74%), რაც უზრუნველყოფს ძაფების წნულის მაღალ სიმკვრივეს და გაზრდილ ცვეთამედეგობას ტრადიციულ ტვიდთან შედარებით."
+      },
+      {
+        "q": "როგორ მოვუაროთ ასეთ დელიკატურ ფაქტურას და ოქროსფერ ღილებს?",
+        "a": "ჩვენ გირჩევთ ექსკლუზიურად პროფესიონალურ წმენდას. ეს საშუალებას მოგცემთ დიდხანს შეინარჩუნოთ ბუკლეს პირვანდელი ფუმფულაობა და ფურნიტურის გალვანური საფარის ბზინვარება."
+      },
+      {
+        "q": "შავი ქვედაბოლო შესაძლოა ზედმეტად მოსაწყენად გამოიყურებოდეს.",
+        "a": "სწორედ ბუკლეს ფაქტურაზე სინათლის თამაში და ოქროსფერი ღილების ციმციმი აქცევს Fiordaliso-ს დამოუკიდებელ არტ-ობიექტად, რომელიც გამოირჩევა ჩვეულებრივი გლუვი ტრიკოტაჟის ფონზე."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բուկլե գործվածքը կարող է չափազանց ծավալուն տեսք ունենալ կազմվածքի վրա",
+        "a": "Luisa Spagnoli-ի դիզայներներն օգտագործում են մանր ֆակտուրային բուկլե՝ 'tubino' ձևվածքի հետ համատեղ: Սա ստեղծում է հստակ ձև, որը կառուցվածք է հաղորդում ուրվագծին՝ առանց ավելորդ սանտիմետրեր ավելացնելու"
+      },
+      {
+        "q": "Առջևի բացվածքը չափազանց համարձակ է թվում գրասենյակային դրես-կոդի համար",
+        "a": "Միդի երկարության և բրենդի դասական էսթետիկայի շնորհիվ՝ բացվածքը մնում է զուսպ և ֆունկցիոնալ՝ ավելացնելով ժամանակակից կանացիության ընդամենը մի նոտա խիստ կերպարին"
+      },
+      {
+        "q": "Վախ, որ փխրուն գործվածքի վրա արագ կառաջանան քերծվածքներ",
+        "a": "Գործվածքի կազմի մեջ գերակշռում են պոլիեսթերը և ակրիլը (74%), ինչն ապահովում է թելերի հյուսման բարձր խտություն և բարձրացված մաշվածքակայունություն՝ ավանդական թվիդի համեմատ"
+      },
+      {
+        "q": "Ինչպե՞ս խնամել այսպիսի նուրբ ֆակտուրան և ոսկեգույն կոճակները",
+        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ մաքրում: Դա թույլ կտա երկար ժամանակ պահպանել բուկլեի նախնական փափկությունը և ֆուրնիտուրայի գալվանական ծածկույթի փայլը"
+      },
+      {
+        "q": "Սև կիսաշրջազգեստը կարող է չափազանց ձանձրալի տեսք ունենալ",
+        "a": "Հենց բուկլեի ֆակտուրայի վրա լույսի խաղը և ոսկեգույն կոճակների փայլատակումն են Fiordaliso-ն դարձնում ինքնուրույն արտ-օբյեկտ, որն առանձնանում է սովորական հարթ տրիկոտաժի ֆոնին"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Buklē audums var izskatīties pārāk apjomīgs uz auguma.",
+        "a": "Luisa Spagnoli dizaineri izmanto smalkfaktūras buklē kombinācijā ar 'tubino' piegriezumu. Tas rada skaidru formu, kas strukturē siluetu, nepievienojot liekus centimetrus."
+      },
+      {
+        "q": "Priekšējais šķēlums šķiet pārāk drosmīgs biroja dreskodam.",
+        "a": "Pateicoties midi garumam un zīmola klasiskajai estētikai, šķēlums paliek atturīgs un funkcionāls, pievienojot tikai modernas sievišķības noti stingrajam tēlam."
+      },
+      {
+        "q": "Bailes, ka uz irdenā auduma ātri parādīsies aizķērumi.",
+        "a": "Auduma sastāvā dominē poliesters un akrils (74%), kas nodrošina augstu diegu pinuma blīvumu un paaugstinātu nodilumizturību salīdzinājumā ar tradicionālo tvīdu."
+      },
+      {
+        "q": "Kā kopt tik delikātu faktūru un zelta pogas?",
+        "a": "Mēs iesakām tikai profesionālo tīrīšanu. Tas ļaus ilgstoši saglabāt buklē sākotnējo pūkainumu un furnitūras galvaniskā pārklājuma spīdumu."
+      },
+      {
+        "q": "Melni svārki var izskatīties pārāk garlaicīgi.",
+        "a": "Tieši gaismas spēle uz buklē faktūras un zelta pogu mirdzums padara Fiordaliso par patstāvīgu mākslas objektu, kas izceļas uz parastās gludās trikotāžas fona."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Buklė audinys gali atrodyti per daug apimties suteikiantis figūrai.",
+        "a": "Luisa Spagnoli dizaineriai naudoja smulkios faktūros buklė derinyje su „tubino“ kirpimu. Tai sukuria aiškią formą, kuri struktūrizuoja siluetą, nepridėdama nereikalingų centimetrų."
+      },
+      {
+        "q": "Priekinis skeltukas atrodo per drąsus biuro aprangos kodui.",
+        "a": "Dėl midi ilgio ir klasikinės prekės ženklo estetikos, skeltukas išlieka santūrus ir funkcionalus, suteikdamas tik šiuolaikiško moteriškumo prieskonį griežtam įvaizdžiui."
+      },
+      {
+        "q": "Baimė, kad ant puraus audinio greitai atsiras užkabinimai.",
+        "a": "Audinio sudėtyje vyrauja poliesteris ir akrilas (74 %), kas užtikrina didelį siūlų pynimo tankumą ir didesnį atsparumą nusidėvėjimui, palyginus su tradiciniu tvidu."
+      },
+      {
+        "q": "Kaip prižiūrėti tokią delikatią faktūrą ir auksines sagas?",
+        "a": "Rekomenduojame tik profesionalų valymą. Tai leis ilgam išsaugoti pirminį buklė purumą ir galvaninės furnitūros dangos blizgesį."
+      },
+      {
+        "q": "Juodas sijonas gali atrodyti per nuobodžiai.",
+        "a": "Būtent šviesos žaismas ant buklė faktūros ir auksinių sagų spindesys daro Fiordaliso savarankišku meno objektu, kuris išsiskiria įprasto lygaus trikotažo fone."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Tkanina typu bouclé może wyglądać zbyt obszernie na figurze.",
+        "a": "Projektanci Luisa Spagnoli stosują drobnoziarniste bouclé w połączeniu z krojem 'tubino'. Tworzy to wyraźną formę, która modeluje sylwetkę, nie dodając zbędnych centymetrów."
+      },
+      {
+        "q": "Przednie rozcięcie wydaje się zbyt śmiałe jak na biurowy dress-code.",
+        "a": "Dzięki długości midi i klasycznej estetyce marki, rozcięcie pozostaje stonowane i funkcjonalne, dodając jedynie nutę nowoczesnej kobiecości do surowej stylizacji."
+      },
+      {
+        "q": "Obawa, że na luźnej tkaninie szybko pojawią się zaciągnięcia.",
+        "a": "W składzie tkaniny przeważa poliester i akryl (74%), co zapewnia wysoką gęstość splotu nici oraz zwiększoną odporność na zużycie w porównaniu z tradycyjnym tweedem."
+      },
+      {
+        "q": "Jak dbać o tak delikatną fakturę i złote guziki?",
+        "a": "Zalecamy wyłącznie profesjonalne czyszczenie. Pozwoli to na długo zachować pierwotną puszystość bouclé oraz blask galwanicznej powłoki elementów ozdobnych."
+      },
+      {
+        "q": "Czarna spódnica może wyglądać zbyt nudno.",
+        "a": "To właśnie gra światła na fakturze bouclé oraz migotanie złotych guzików sprawiają, że Fiordaliso staje się samodzielnym obiektem artystycznym, który wyróżnia się na tle zwykłej, gładkiej dzianiny."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Тканина букле може виглядати занадто об'ємною на фігурі.",
+        "a": "Дизайнери Luisa Spagnoli використовують дрібнофактурне букле в поєднанні з кроєм 'tubino'. Це створює чітку форму, яка структурує силует, не додаючи зайвих сантиметрів."
+      },
+      {
+        "q": "Передній розріз здається занадто сміливим для офісного дрес-коду.",
+        "a": "Завдяки довжині міді та класичній естетиці бренду, розріз залишається стриманим і функціональним, додаючи лише ноту сучасної жіночності в строгий образ."
+      },
+      {
+        "q": "Страх, що на пухкій тканині швидко з'являться зачіпки.",
+        "a": "У складі полотна переважає поліестер і акрил (74%), що забезпечує високу щільність переплетення ниток і підвищену зносостійкість у порівнянні з традиційним твідом."
+      },
+      {
+        "q": "Як доглядати за такою делікатною фактурою та золотими ґудзиками?",
+        "a": "Ми рекомендуємо виключно професійну чистку. Це дозволить надовго зберегти первинну пухнастість букле та блиск гальванічного покриття фурнітури."
+      },
+      {
+        "q": "Чорна спідниця може виглядати занадто нудно.",
+        "a": "Саме гра світла на фактурі букле та мерехтіння золотих ґудзиків роблять Fiordaliso самостійним арт-об'єктом, який виділяється на фоні звичайного гладкого трикотажу."
+      }
+    ]
+  }
+}

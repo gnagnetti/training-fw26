@@ -1,0 +1,513 @@
+{
+  "id": 436,
+  "name": "Mascate",
+  "description": {
+    "en": "The Mascate tunic is the quintessence of contemporary elegance and Luisa Spagnoli's intellectual minimalism. Crafted from high-quality wool yarn, the piece captivates with the noble texture of an intricate punto stoffa weave, which lends the piece flawless density and the ability to hold an architectural shape. The understated 'boxy' silhouette (linea a scatolina), combined with an exquisite high turtleneck collar (dolcevita), creates a status-defining look in the spirit of 'Quiet Luxury'. Particular refinement is lent to the piece by three-quarter sleeves finished with open cuff slits, bringing a note of artistic freedom to the disciplined design. The Regular fit guarantees absolute comfort, transforming the tunic into the ideal foundation for creating layered urban ensembles.",
+    "ru": "Туника Mascate --- это квинтэссенция современной элегантности и интеллектуального минимализма Luisa Spagnoli. Выполненная из высококачественной шерстяной пряжи, модель завораживает благородной фактурой сложного переплетения punto stoffa, которое обеспечивает изделию безупречную плотность и способность держать архитектурную форму. Лаконичный силуэт «коробочка» (linea a scatolina) в сочетании с изысканным высоким воротником-гольф (dolcevita) создает статусный образ в духе «Quiet Luxury». Особую утонченность модели придают рукава длиной 3/4, завершающиеся открытыми разрезами на манжетах, что привносит в строгий дизайн ноту артистичной свободы, Регулярная посадка (vestibilità regular) гарантирует абсолютный комфорт, превращая тунику в идеальный фундамент для создания многослойных городских ансамблей.",
+    "ar": "تونيك Mascate هي جوهر الأناقة المعاصرة والحد الأدنى الفكري لدى Luisa Spagnoli. صُنعت القطعة من خيوط صوفية عالية الجودة، وتأسر الأنظار بملمسها النبيل المنسوج بتقنية punto stoffa المعقدة، مما يمنحها كثافة مثالية وقدرة على الحفاظ على شكلها الهيكلي. تضفي القصة القصيرة «الصندوقية» (linea a scatolina) المقترنة بياقة عالية فاخرة (dolcevita) طابعاً راقياً بروح «الفخامة الهادئة» (Quiet Luxury). تضفي الأكمام بطول 3/4، التي تنتهي بفتحات مكشوفة عند الأطراف، لمسة من الحرية الفنية على التصميم الصارم. يضمن المقاس المنتظم (vestibilità regular) راحة مطلقة، مما يجعل التونيك حجر أساس مثالياً لتنسيقات الطبقات الحضرية.",
+    "ka": "ტუნიკა Mascate --- ეს არის Luisa Spagnoli-ის თანამედროვე ელეგანტურობისა და ინტელექტუალური მინიმალიზმის კვინტესენცია. მაღალი ხარისხის შალის ნართისგან დამზადებული მოდელი მომაჯადოებელია punto stoffa-ს რთული წნულის კეთილშობილური ფაქტურით, რაც ნაკეთობას ანიჭებს უნაკლო სიმკვრივეს და არქიტექტურული ფორმის შენარჩუნების უნარს. „ყუთის“ ლაკონიური სილუეტი (linea a scatolina) დახვეწილ მაღალ საყელოსთან (dolcevita) ერთად ქმნის სტატუსურ იმიჯს „Quiet Luxury“-ის სულისკვეთებით. მოდელს განსაკუთრებულ დახვეწილობას ანიჭებს 3/4 სიგრძის სახელოები, რომლებიც სრულდება მანჟეტებზე ღია ჭრილებით, რაც მკაცრ დიზაინს არტისტული თავისუფლების ნოტს მატებს. რეგულარული მორგება (vestibilità regular) გარანტიას იძლევა აბსოლუტური კომფორტის, რაც ტუნიკას მრავალფენიანი ურბანული ანსამბლების შესაქმნელად იდეალურ საფუძვლად აქცევს.",
+    "hy": "Mascate տունիկան Luisa Spagnoli-ի ժամանակակից էլեգանտության և մտավոր մինիմալիզմի էության մարմնացումն է: Բարձրորակ բրդյա մանվածքից կատարված մոդելը գերում է punto stoffa բարդ հյուսվածքի ազնվական հյուսվածքով, որն արտադրանքին ապահովում է անթերի խտություն և ճարտարապետական ձևը պահելու կարողություն: «Տուփ» (linea a scatolina) լակոնիկ ուրվագիծը՝ նրբագեղ բարձր օձիք-գոլֆի (dolcevita) հետ համադրությամբ, ստեղծում է «Quiet Luxury» ոգով կարգավիճակային կերպար: Մոդելին առանձնահատուկ նրբագեղություն են հաղորդում 3/4 երկարությամբ թևերը, որոնք ավարտվում են մանժետների բաց բացվածքներով, ինչը խիստ դիզայնին հաղորդում է արտիստիկ ազատության նոտա: Կանոնավոր նստվածքը (vestibilità regular) երաշխավորում է բացարձակ հարմարավետություն՝ տունիկան վերածելով բազմաշերտ քաղաքային անսամբլներ ստեղծելու իդեալական հիմքի:",
+    "lv": "Tunika Mascate --- ir mūsdienu elegances un Luisa Spagnoli intelektuālā minimālisma kvintesence. Izgatavots no augstvērtīga vilnas dzijas, modelis apbur ar sarežģīta punto stoffa pinuma cēlo faktūru, kas nodrošina izstrādājumam nevainojamu blīvumu un spēju saglabāt arhitektonisku formu. Lakoniskais «kastītes» siluets (linea a scatolina) apvienojumā ar izsmalcinātu augstu golfa apkakli (dolcevita) rada statusu apliecinošu tēlu «Quiet Luxury» garā. Īpašu izsmalcinātību modelim piešķir 3/4 garuma piedurknes, kas noslēdzas ar atvērtiem šķēlumiem aprocēs, kas ievieš stingrajā dizainā mākslinieciskas brīvības noti. Regulārais piegulums (vestibilità regular) garantē absolūtu komfortu, pārvēršot tuniku par ideālu pamatu daudzslāņu pilsētas ansambļu radīšanai.",
+    "lt": "Tunika Mascate --- tai šiuolaikinės elegancijos ir intelektualaus Luisa Spagnoli minimalizmo kvintesencija. Pagamintas iš aukščiausios kokybės vilnonių siūlų, modelis užburia kilnia sudėtingo pynimo punto stoffa faktūra, kuri užtikrina gaminiui nepriekaištingą tankį ir gebėjimą išlaikyti architektūrinę formą. Lakoniškas „dėžutės“ siluetas (linea a scatolina) kartu su rafinuota aukšta apykakle (dolcevita) sukuria solidų įvaizdį „Quiet Luxury“ dvasia. Ypatingo subtilumo modeliui suteikia 3/4 ilgio rankovės, užsibaigiančios atvirais skeltukais ant rankogalių, kas įneša į griežtą dizainą artistiškos laisvės gaidelę. Reguliarus prigludimas (vestibilità regular) garantuoja absoliutų komfortą, paverčiant tuniką idealu pagrindu kuriant daugiasluoksnius miesto ansamblius.",
+    "pl": "Tunika Mascate to kwintesencja nowoczesnej elegancji i intelektualnego minimalizmu Luisa Spagnoli. Wykonany z wysokiej jakości wełnianej przędzy model urzeka szlachetną fakturą złożonego splotu punto stoffa, który zapewnia produktowi nienaganną gęstość i zdolność do utrzymania architektonicznej formy. Minimalistyczna sylwetka pudełkowa (linea a scatolina) w połączeniu z wyrafinowanym wysokim kołnierzem typu golf (dolcevita) tworzy prestiżowy wizerunek w duchu „Quiet Luxury”. Szczególną subtelność modelowi dodają rękawy o długości 3/4, zakończone otwartymi rozcięciami na mankietach, co wnosi do surowego designu nutę artystycznej swobody. Krój regular (vestibilità regular) gwarantuje absolutny komfort, zmieniając tunikę w idealny fundament do tworzenia wielowarstwowych miejskich stylizacji.",
+    "uk": "Туніка Mascate --- це квінтесенція сучасної елегантності та інтелектуального мінімалізму Luisa Spagnoli. Виконана з високоякісної вовняної пряжі, модель зачаровує благородною фактурою складного переплетення punto stoffa, яке забезпечує виробу бездоганну щільність і здатність тримати архітектурну форму. Лаконічний силует «коробочка» (linea a scatolina) у поєднанні з вишуканим високим коміром-гольф (dolcevita) створює статусний образ у дусі «Quiet Luxury». Особливої витонченості моделі надають рукави довжиною 3/4, що завершуються відкритими розрізами на манжетах, що привносить у суворий дизайн ноту артистичної свободи. Регулярна посадка (vestibilità regular) гарантує абсолютний комфорт, перетворюючи туніку на ідеальний фундамент для створення багатошарових міських ансамблів."
+  },
+  "colors": [
+    {
+      "name": "Crema",
+      "code": "0204",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/251063478691f156bce6dc9_00247433_02780690XX1.jpg"
+    },
+    {
+      "name": "Verde Bottiglia",
+      "code": "2050",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39848814691c579160a923_62691960_02790080XX1.jpg"
+    },
+    {
+      "name": "Melanzana",
+      "code": "0759",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1136552101691c5791c992f1_52218978_02790090XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать тунику Mascate как центральный элемент монохромных и фактурных образов: Вариант 0204 ( Бежевый): В lookbook (Look 2): канонический тотал-лук в натуральных тонах с брюками Modine B 0204 и статусной сумкой из мартелированной кожи Iago 2240 0002.",
+        "en": "The brand's stylists suggest using the Mascate tunic as a key element for monochrome and textured looks: Variant 0204 ( Beige): In the lookbook (Look 2): a canonical total-look in natural tones with Modine B 0204 trousers and a prestigious martellated leather Iago 2240 0002 bag.",
+        "ar": "The brand's stylists suggest using the Mascate tunic as a key element for monochrome and textured looks: Variant 0204 ( Beige): In the lookbook (Look 2): a canonical total-look in natural tones with Modine B 0204 trousers and a prestigious martellated leather Iago 2240 0002 bag.",
+        "ka": "The brand's stylists suggest using the Mascate tunic as a key element for monochrome and textured looks: Variant 0204 ( Beige): In the lookbook (Look 2): a canonical total-look in natural tones with Modine B 0204 trousers and a prestigious martellated leather Iago 2240 0002 bag.",
+        "hy": "The brand's stylists suggest using the Mascate tunic as a key element for monochrome and textured looks: Variant 0204 ( Beige): In the lookbook (Look 2): a canonical total-look in natural tones with Modine B 0204 trousers and a prestigious martellated leather Iago 2240 0002 bag.",
+        "lv": "The brand's stylists suggest using the Mascate tunic as a key element for monochrome and textured looks: Variant 0204 ( Beige): In the lookbook (Look 2): a canonical total-look in natural tones with Modine B 0204 trousers and a prestigious martellated leather Iago 2240 0002 bag.",
+        "lt": "The brand's stylists suggest using the Mascate tunic as a key element for monochrome and textured looks: Variant 0204 ( Beige): In the lookbook (Look 2): a canonical total-look in natural tones with Modine B 0204 trousers and a prestigious martellated leather Iago 2240 0002 bag.",
+        "pl": "The brand's stylists suggest using the Mascate tunic as a key element for monochrome and textured looks: Variant 0204 ( Beige): In the lookbook (Look 2): a canonical total-look in natural tones with Modine B 0204 trousers and a prestigious martellated leather Iago 2240 0002 bag.",
+        "uk": "The brand's stylists suggest using the Mascate tunic as a key element for monochrome and textured looks: Variant 0204 ( Beige): In the lookbook (Look 2): a canonical total-look in natural tones with Modine B 0204 trousers and a prestigious martellated leather Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Modine B",
+          "code": "0204",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/463976847692424e4980af9_14113894_02790550XX1.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 9, 10, 11, 12)",
+        "en": "In displays (Vetrina 9, 10, 11, 12)",
+        "ar": "In displays (Vetrina 9, 10, 11, 12)",
+        "ka": "In displays (Vetrina 9, 10, 11, 12)",
+        "hy": "In displays (Vetrina 9, 10, 11, 12)",
+        "lv": "In displays (Vetrina 9, 10, 11, 12)",
+        "lt": "In displays (Vetrina 9, 10, 11, 12)",
+        "pl": "In displays (Vetrina 9, 10, 11, 12)",
+        "uk": "In displays (Vetrina 9, 10, 11, 12)"
+      },
+      "text": {
+        "ru": "предлагается многослойное сочетание под пальто Stenografo 2716 или под роскошную шубу Savelli 0231 с брюками Modine 0204 или Ottile 3360. Вариант 2050 ( Зеленый):",
+        "en": "a layered combination is suggested under a Stenografo 2716 coat or under a luxurious Savelli 0231 fur coat with Modine 0204 or Ottile 3360 trousers. Variant 2050 ( Green):",
+        "ar": "a layered combination is suggested under a Stenografo 2716 coat or under a luxurious Savelli 0231 fur coat with Modine 0204 or Ottile 3360 trousers. Variant 2050 ( Green):",
+        "ka": "a layered combination is suggested under a Stenografo 2716 coat or under a luxurious Savelli 0231 fur coat with Modine 0204 or Ottile 3360 trousers. Variant 2050 ( Green):",
+        "hy": "a layered combination is suggested under a Stenografo 2716 coat or under a luxurious Savelli 0231 fur coat with Modine 0204 or Ottile 3360 trousers. Variant 2050 ( Green):",
+        "lv": "a layered combination is suggested under a Stenografo 2716 coat or under a luxurious Savelli 0231 fur coat with Modine 0204 or Ottile 3360 trousers. Variant 2050 ( Green):",
+        "lt": "a layered combination is suggested under a Stenografo 2716 coat or under a luxurious Savelli 0231 fur coat with Modine 0204 or Ottile 3360 trousers. Variant 2050 ( Green):",
+        "pl": "a layered combination is suggested under a Stenografo 2716 coat or under a luxurious Savelli 0231 fur coat with Modine 0204 or Ottile 3360 trousers. Variant 2050 ( Green):",
+        "uk": "a layered combination is suggested under a Stenografo 2716 coat or under a luxurious Savelli 0231 fur coat with Modine 0204 or Ottile 3360 trousers. Variant 2050 ( Green):"
+      },
+      "items": [
+        {
+          "name": "Stenografo",
+          "code": "2716",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1584374153691c57c8052430_51905956_02780380XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Savelli",
+          "code": "0231",
+          "imageUrl": null
+        },
+        {
+          "name": "Modine",
+          "code": "0204",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/463976847692424e4980af9_14113894_02790550XX1.jpg"
+        },
+        {
+          "name": "Ottile",
+          "code": "3360",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1112497218692424d84a8be7_81161590_02781520XX1.jpg",
+          "modelId": 469
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 75)",
+        "en": "In the lookbook (Look 75)",
+        "ar": "In the lookbook (Look 75)",
+        "ka": "In the lookbook (Look 75)",
+        "hy": "In the lookbook (Look 75)",
+        "lv": "In the lookbook (Look 75)",
+        "lt": "In the lookbook (Look 75)",
+        "pl": "In the lookbook (Look 75)",
+        "uk": "In the lookbook (Look 75)"
+      },
+      "text": {
+        "ru": "современный городской образ в паре с зауженными брюками Minuccio A 2050.",
+        "en": "a modern urban look paired with slim-fit Minuccio A 2050 trousers.",
+        "ar": "a modern urban look paired with slim-fit Minuccio A 2050 trousers.",
+        "ka": "a modern urban look paired with slim-fit Minuccio A 2050 trousers.",
+        "hy": "a modern urban look paired with slim-fit Minuccio A 2050 trousers.",
+        "lv": "a modern urban look paired with slim-fit Minuccio A 2050 trousers.",
+        "lt": "a modern urban look paired with slim-fit Minuccio A 2050 trousers.",
+        "pl": "a modern urban look paired with slim-fit Minuccio A 2050 trousers.",
+        "uk": "a modern urban look paired with slim-fit Minuccio A 2050 trousers."
+      },
+      "items": [
+        {
+          "name": "Minuccio A",
+          "code": "2050",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281016%29.png",
+          "modelId": 177
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витрине (Vetrina 38, Bambola 1)",
+        "en": "On display (Vetrina 38, Bambola 1)",
+        "ar": "On display (Vetrina 38, Bambola 1)",
+        "ka": "On display (Vetrina 38, Bambola 1)",
+        "hy": "On display (Vetrina 38, Bambola 1)",
+        "lv": "On display (Vetrina 38, Bambola 1)",
+        "lt": "On display (Vetrina 38, Bambola 1)",
+        "pl": "On display (Vetrina 38, Bambola 1)",
+        "uk": "On display (Vetrina 38, Bambola 1)"
+      },
+      "text": {
+        "ru": "зимний выход под структурное пальто Stenografo 2316 в сочетании с классическими брюками Ostiolo 2046 и шляпой Renno 0930. Вариант 0759 ( Сливовый):",
+        "en": "a winter outfit under a structural Stenografo 2316 coat combined with classic Ostiolo 2046 trousers and a Renno 0930 hat. Variant 0759 ( Plum):",
+        "ar": "a winter outfit under a structural Stenografo 2316 coat combined with classic Ostiolo 2046 trousers and a Renno 0930 hat. Variant 0759 ( Plum):",
+        "ka": "a winter outfit under a structural Stenografo 2316 coat combined with classic Ostiolo 2046 trousers and a Renno 0930 hat. Variant 0759 ( Plum):",
+        "hy": "a winter outfit under a structural Stenografo 2316 coat combined with classic Ostiolo 2046 trousers and a Renno 0930 hat. Variant 0759 ( Plum):",
+        "lv": "a winter outfit under a structural Stenografo 2316 coat combined with classic Ostiolo 2046 trousers and a Renno 0930 hat. Variant 0759 ( Plum):",
+        "lt": "a winter outfit under a structural Stenografo 2316 coat combined with classic Ostiolo 2046 trousers and a Renno 0930 hat. Variant 0759 ( Plum):",
+        "pl": "a winter outfit under a structural Stenografo 2316 coat combined with classic Ostiolo 2046 trousers and a Renno 0930 hat. Variant 0759 ( Plum):",
+        "uk": "a winter outfit under a structural Stenografo 2316 coat combined with classic Ostiolo 2046 trousers and a Renno 0930 hat. Variant 0759 ( Plum):"
+      },
+      "items": [
+        {
+          "name": "Stenografo",
+          "code": "2316",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Ostiolo",
+          "code": "2046",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/564070198691c578643a479_28272705_02780100XX1.jpg",
+          "modelId": 468
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 81)",
+        "en": "In the lookbook (Look 81)",
+        "ar": "In the lookbook (Look 81)",
+        "ka": "In the lookbook (Look 81)",
+        "hy": "In the lookbook (Look 81)",
+        "lv": "In the lookbook (Look 81)",
+        "lt": "In the lookbook (Look 81)",
+        "pl": "In the lookbook (Look 81)",
+        "uk": "In the lookbook (Look 81)"
+      },
+      "text": {
+        "ru": "элегантный трикотажный сет с юбкой миди Morolo 0759.",
+        "en": "an elegant knit set with a Morolo 0759 midi skirt.",
+        "ar": "an elegant knit set with a Morolo 0759 midi skirt.",
+        "ka": "an elegant knit set with a Morolo 0759 midi skirt.",
+        "hy": "an elegant knit set with a Morolo 0759 midi skirt.",
+        "lv": "an elegant knit set with a Morolo 0759 midi skirt.",
+        "lt": "an elegant knit set with a Morolo 0759 midi skirt.",
+        "pl": "an elegant knit set with a Morolo 0759 midi skirt.",
+        "uk": "an elegant knit set with a Morolo 0759 midi skirt."
+      },
+      "items": [
+        {
+          "name": "Morolo",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000.jpg",
+          "modelId": 450
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витрине (Vetrina 73, Bambola 1)",
+        "en": "On display (Vetrina 73, Bambola 1)",
+        "ar": "On display (Vetrina 73, Bambola 1)",
+        "ka": "On display (Vetrina 73, Bambola 1)",
+        "hy": "On display (Vetrina 73, Bambola 1)",
+        "lv": "On display (Vetrina 73, Bambola 1)",
+        "lt": "On display (Vetrina 73, Bambola 1)",
+        "pl": "On display (Vetrina 73, Bambola 1)",
+        "uk": "On display (Vetrina 73, Bambola 1)"
+      },
+      "text": {
+        "ru": "статусное сочетание под жакет из джерси Moles 0759 с юбкой Morolo 0759, дополненное шелковым платком Rocchero 4693.",
+        "en": "a prestigious combination under a Moles 0759 jersey jacket with a Morolo 0759 skirt, complemented by a Rocchero 4693 silk scarf.",
+        "ar": "a prestigious combination under a Moles 0759 jersey jacket with a Morolo 0759 skirt, complemented by a Rocchero 4693 silk scarf.",
+        "ka": "a prestigious combination under a Moles 0759 jersey jacket with a Morolo 0759 skirt, complemented by a Rocchero 4693 silk scarf.",
+        "hy": "a prestigious combination under a Moles 0759 jersey jacket with a Morolo 0759 skirt, complemented by a Rocchero 4693 silk scarf.",
+        "lv": "a prestigious combination under a Moles 0759 jersey jacket with a Morolo 0759 skirt, complemented by a Rocchero 4693 silk scarf.",
+        "lt": "a prestigious combination under a Moles 0759 jersey jacket with a Morolo 0759 skirt, complemented by a Rocchero 4693 silk scarf.",
+        "pl": "a prestigious combination under a Moles 0759 jersey jacket with a Morolo 0759 skirt, complemented by a Rocchero 4693 silk scarf.",
+        "uk": "a prestigious combination under a Moles 0759 jersey jacket with a Morolo 0759 skirt, complemented by a Rocchero 4693 silk scarf."
+      },
+      "items": [
+        {
+          "name": "Moles",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2011465512692424d2e88a74_22193304_02781330XX1.jpg",
+          "modelId": 447
+        },
+        {
+          "name": "Morolo",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000.jpg",
+          "modelId": 450
+        },
+        {
+          "name": "Rocchero",
+          "code": "4693",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/UeTI07JEQnuybrvsR-bv5g_2080263624691c57e8aaf160_18464595_02800370XX7.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- Textile armor: Direct the client's attention to the 'punto stoffa' knit. Explain that this is not simply knitwear, but a high-density fabric that 'disciplines' the silhouette, concealing figure nuances and maintaining an impeccable appearance throughout"
+    ],
+    "ru": [
+      "- Текстильная броня: Акцентируйте внимание клиента на вязке «punto stoffa». Объясните, что это не просто трикотаж, а ткань высокой плотности, которая «дисциплинирует» силуэт, скрывая нюансы фигуры и сохраняя безупречный вид в течение всего дня. - Ювелирны"
+    ],
+    "ar": [
+      "- الدرع النسيجي: وجهي انتباه العميل إلى حياكة \"punto stoffa\". اشرحي أن هذا ليس مجرد تريكو عادي، بل قماش عالي الكثافة يعمل على \"تهذيب\" القوام، ويخفي عيوب الجسم ويحافظ على مظهر لا تشوبه شائبة طوال اليوم. - أكمام المجوهرات: أكدي على ميزة الأكمام بطول 3/4 مع"
+    ],
+    "ka": [
+      "- ტექსტილური ჯავშანი: ყურადღება გაამახვილეთ მომხმარებლისთვის „punto stoffa“-ს ქსოვაზე. აუხსენით, რომ ეს არ არის უბრალოდ ტრიკოტაჟი, არამედ მაღალი სიმკვრივის ქსოვილი, რომელიც „დისციპლინირებას“ უკეთებს სილუეტს, ფარავს ფიგურის ნიუანსებს და ინარჩუნებს უნაკლო ი"
+    ],
+    "hy": [
+      "- Տեքստիլ զրահ. Կենտրոնացրեք հաճախորդի ուշադրությունը «punto stoffa» հյուսվածքի վրա: Բացատրեք, որ սա պարզապես տրիկոտաժ չէ, այլ բարձր խտության գործվածք, որը «կարգապահում» է սիլուետը՝ թաքցնելով կազմվածքի նրբությունները և պահպանելով անթերի տեսք ամբողջ օրվա ը"
+    ],
+    "lv": [
+      "- Tekstila bruņas: Akcentējiet klienta uzmanību uz «punto stoffa» adījumu. Paskaidrojiet, ka tas nav vienkārši trikotāža, bet augsta blīvuma audums, kas «disciplinē» siluetu, slēpjot figūras nianses un saglabājot nevainojamu izskatu visas dienas garumā. -"
+    ],
+    "lt": [
+      "- Tekstiliniai šarvai: Akcentuokite klientės dėmesį į „punto stoffa“ mezgimą. Paaiškinkite, kad tai ne tiesiog trikotažas, o aukšto tankio audinys, kuris „drausmina“ siluetą, paslėpdamas figūros niuansus ir išlaikydamas nepriekaištingą išvaizdą visą dieną. - Juvelyrinė rankovė: Pabrėžkite 3/4 rankovių su skeltuku privalumą. Tai ideali detalė parodyti statusą pabrėžiančius laikrodžius ar apyrankes (pavyzdžiui, Navigero 0002), taip pat dėvėti aukštas odines Ubaldo pirštines. - Investicija į bazę: Rekomenduokite modelį kaip „kapsulinio“ garderobo pagrindą. Dėl lakoniško kirpimo ir aukštos apykaklės, tunika vienodai efektingai veikia ir kaip savarankiškas viršutinis drabužis, ir kaip šiltas sluoksnis po Scansione 0961 paltu."
+    ],
+    "pl": [
+      "- Tekstylna zbroja: Skup uwagę klientki na splocie «punto stoffa». Wyjaśnij, że to nie jest zwykła dzianina, a tkanina o wysokiej gęstości, która «dyscyplinuje» sylwetkę, ukrywając niuanse figury i zachowując nienaganny wygląd przez cały dzień. - Biżutery"
+    ],
+    "uk": [
+      "- Текстильна броня: Акцентуйте увагу клієнта на в'язці «punto stoffa». Поясніть, що це не просто трикотаж, а тканина високої щільності, яка «дисциплінує» силует, приховуючи нюанси фігури та зберігаючи бездоганний вигляд протягом усього дня. - Ювелірний ру"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "silhouette Explain that the \"scatolina\" cut is a runway seems too loose» standard, creating the right volume. Paired with the slim-fitting Ostiolo 2046 trousers, it visually elongates the legs. «The wool collar Suggest a tactile test of the softness of Luisa might chafe the Spagnoli's yarn. The high quality of the wool's neck» processing guarantees comfort even against the sensitive skin of the neck. «3/4 sleeves Showcase Look 81: the tunic is designed for aren't suited for layering. It can be paired with the Moles 0759 winter» jacket or worn with long gloves, adding a touch of glamour to the look. «The design looks Point out the details: open slits on the sleeves too plain» and the dense knit texture. These are markers of a luxury piece, made for lovers of understated luxury. «The knit will Explain that the \"punto stoffa\" knit is quickly lose its specifically engineered to prevent distortion. It's shape» one of the most durable weaves in the brand's collection"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Силуэт кажется",
+        "a": "Поясните, что крой «scatolina — это подиумный слишком стандарт, создающий правильный объем. В сочетании с свободным» узкими брюками Ostiolo 2046 он визуально делает ноги стройнее."
+      },
+      {
+        "q": "Шерстяной",
+        "a": "Предложите тактильно оценить мягкость пряжи Luisa воротник может Spagnoli. Высокое качество очистки шерсти натирать шею гарантирует комфорт даже в зоне чувствительной кожи шеи."
+      },
+      {
+        "q": "Рукав 3/4 не",
+        "a": "Продемонстрируйте Look 81: туника создана для подходит для многослойности. Её можно дополнить жакетом Moles зимы 0759 или носить с длинными перчатками, что добавит образу шика."
+      },
+      {
+        "q": "Дизайн выглядит",
+        "a": "Укажите на детали: открытые разрезы на рукавах и слишком просто плотную фактуру вязки. Это маркеры дорогой вещи, предназначенной для любительниц сдержанной роскоши."
+      },
+      {
+        "q": "Трикотаж быстро",
+        "a": "Объясните, что вязка «punto stoffa специально потеряет форму» разработана для предотвращения деформации. Это одно из самых износостойких переплетений в коллекции бренда."
+      }
+    ],
+    "ar": [
+      {
+        "q": "القصة تبدو واسعة أكثر من اللازم",
+        "a": "وضح أن قصة الـ."
+      },
+      {
+        "q": "scatolina",
+        "a": "هي معيار يتبعه كبار المصممين لخلق توازن في الحجم. عند تنسيقها مع بنطال ضيق مثل Ostiolo 2046، فهي تجعل الساقين تبدوان أكثر رشاقة."
+      },
+      {
+        "q": "الياقة الصوفية قد تخدش الرقبة",
+        "a": "اقترح تقييم نعومة خيوط Luisa Spagnoli؛ فعمليات تنقية الصوف عالية الجودة تضمن الراحة حتى على المناطق الحساسة."
+      },
+      {
+        "q": "الأكمام بطول 3/4 ليست مناسبة للشتاء",
+        "a": "استعرض Look 81؛ التونيك صُمم ليكون متعدد الطبقات، ويمكن تكميله بجاكيت Moles 0759 أو ارتداؤه مع قفازات طويلة لإضفاء لمسة من الأناقة."
+      },
+      {
+        "q": "التصميم يبدو بسيطاً جداً",
+        "a": "أشر إلى التفاصيل: الفتحات الجانبية في الأكمام وكثافة الحياكة، فهذه علامات القطع الثمينة المخصصة لمحبات الفخامة الهادئة."
+      },
+      {
+        "q": "التريكو سيفقد شكله بسرعة",
+        "a": "اشرح أن حياكة الـ."
+      },
+      {
+        "q": "punto stoffa",
+        "a": "صُممت خصيصاً لمنع التشوه، وهي واحدة من أكثر الأنسجة تحملاً في مجموعة العلامة التجارية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "წინააღმდეგობა: სტრატეგია გადალახვისთვის: „სილუეტი ზედმეტად თავისუფალი ჩანს",
+        "a": "განუმარტეთ, რომ „scatolina“ კროი არის პოდიუმის სტანდარტი, რომელიც ქმნის სწორ მოცულობას. Ostiolo 2046 ვიწრო შარვალთან შეხამებით ის ვიზუალურად აწერწეტებს ფეხებს. , რომ „scatolina“ კროი არის პოდიუმის სტანდარტი, რომელიც ქმნის სწორ მოცულობას. Ostiolo 2046 ვიწრო შარვალთან შეხამებით ის ვიზუალურად აწერწეტებს ფეხებს."
+      },
+      {
+        "q": "„მატყლის საყელომ შეიძლება გააღიზიანოს კისერი",
+        "a": "შესთავაზეთ ტაქტილურად შეაფასოთ Luisa Spagnoli-ის ძაფის რბილობა. მატყლის გაწმენდის მაღალი ხარისხი უზრუნველყოფს კომფორტს კისრის მგრძნობიარე კანის ზონაშიც კი. ტაქტილურად შეაფასოთ Luisa Spagnoli-ის ძაფის რბილობა. მატყლის გაწმენდის მაღალი ხარისხი უზრუნველყოფს კომფორტს კისრის მგრძნობიარე კანის ზონაშიც კი."
+      },
+      {
+        "q": "„სახელო 3/4 არ უხდება ზამთარს",
+        "a": "წარმოაჩინეთ Look 81: ტუნიკა შექმნილია მრავალფენიანობისთვის. მისი შევსება შესაძლებელია Moles 0759 ჟაკეტით ან გრძელი ხელთათმანებით, რაც ლუქს შიკს შესძენს. Look 81: ტუნიკა შექმნილია მრავალფენიანობისთვის. მისი შევსება შესაძლებელია Moles 0759 ჟაკეტით ან გრძელი ხელთათმანებით, რაც ლუქს შიკს შესძენს."
+      },
+      {
+        "q": "„დიზაინი ზედმეტად მარტივად გამოიყურება",
+        "a": "მიუთითეთ დეტალებზე: ღია ჭრილები სახელოებზე და ქსოვის მკვრივი ფაქტურა. ეს არის ძვირადღირებული ნივთის მარკერები, რომელიც განკუთვნილია თავშეკავებული ფუფუნების მოყვარულთათვის. დეტალებზე: ღია ჭრილები სახელოებზე და ქსოვის მკვრივი ფაქტურა. ეს არის ძვირადღირებული ნივთის მარკერები, რომელიც განკუთვნილია თავშეკავებული ფუფუნების მოყვარულთათვის."
+      },
+      {
+        "q": "„ტრიკოტაჟი სწრაფად დაკარგავს ფორმას",
+        "a": "განუმარტეთ, რომ „punto stoffa“-ს ქსოვა სპეციალურად არის შემუშავებული დეფორმაციის თავიდან ასაცილებლად. ეს არის ბრენდის კოლექციის ერთ-ერთი ყველაზე ცვეთამედეგი წნული."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ուրվագիծը չափազանց ազատ է թվում",
+        "a": "՝ Բացատրեք, որ."
+      },
+      {
+        "q": "scatolina",
+        "a": "կտրվածքը պոդիումային ստանդարտ է, որը ստեղծում է ճիշտ ծավալ: Ostiolo 2046 նեղ տաբատի հետ համադրությամբ այն տեսողականորեն ոտքերը դարձնում է սլացիկ."
+      },
+      {
+        "q": "Բրդյա օձիքը կարող է քերել պարանոցը",
+        "a": "՝ Առաջարկեք հպումով գնահատել Luisa Spagnoli-ի մանվածքի փափկությունը: Բրդի մաքրման բարձր որակը երաշխավորում է հարմարավետություն նույնիսկ պարանոցի զգայուն մաշկի գոտում."
+      },
+      {
+        "q": "3/4 թևը հարմար չէ ձմռան համար",
+        "a": "՝ Ցուցադրեք Look 81-ը. տունիկան ստեղծված է բազմաշերտության համար: Այն կարելի է լրացնել Moles 0759 բաճկոնով կամ կրել երկար ձեռնոցներով, ինչը կերպարին կհաղորդի շիկ."
+      },
+      {
+        "q": "Դիզայնը չափազանց պարզ է թվում",
+        "a": "՝ Մատնանշեք դետալները՝ թևերի բացվածքները և հյուսվածքի խիտ ֆակտուրան: Սրանք զուսպ շքեղության սիրահարների համար նախատեսված թանկարժեք իրի ցուցիչներ են."
+      },
+      {
+        "q": "Տրիկոտաժը արագ կկորցնի իր ձևը",
+        "a": "՝ Բացատրեք, որ."
+      },
+      {
+        "q": "punto stoffa",
+        "a": "հյուսվածքը հատուկ մշակված է դեֆորմացիան կանխելու համար: Սա ապրանքանիշի հավաքածուի ամենամաշվածադիմացկուն հյուսվածքներից մեկն է."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Siluets šķiet",
+        "a": "Izskaidrojiet, ka «scatolina piegriezums ir modes pārāk brīvs» skates standarts, kas rada pareizo apjomu. Kombinācijā ar šaurām Ostiolo 2046 biksēm tas vizuāli padara kājas slaidākas."
+      },
+      {
+        "q": "Vilnas apkakle",
+        "a": "Piedāvājiet taktilā veidā novērtēt Luisa Spagnoli var kairināt kaklu dzijas mīkstumu. Augstā vilnas attīrīšanas kvalitāte garantē komfortu pat jutīgas ādas zonā uz kakla."
+      },
+      {
+        "q": "3/4 piedurkne nav",
+        "a": "Demonstrējiet Look 81: tunika ir radīta piemērota ziemai daudzslāņainībai. To var papildināt ar Moles 0759 jaku vai valkāt ar gariem cimdiem, kas tēlam piešķirs šiku."
+      },
+      {
+        "q": "Dizains izskatās",
+        "a": "Norādiet uz detaļām: atvērtie šķēlumi uz piedurknēm pārāk vienkārši un blīvo adījuma faktūru. Tie ir dārgas lietas rādītāji, kas paredzēti atturīga luksusa cienītājām."
+      },
+      {
+        "q": "Trikotāža ātri",
+        "a": "Izskaidrojiet, ka «punto stoffa adījums ir īpaši zaudēs formu» izstrādāts, lai novērstu deformāciju. Tas ir viens no visnodilumizturīgākajiem pinumiem zīmola kolekcijā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikti „Siluetas atrodo pernelyg laisvas“ –",
+        "a": "Paaiškinkite, kad „scatolina“ kirpimas yra podiumo standartas, kuriantis tinkamą tūrį. Derinant su siauromis Ostiolo 2046 kelnėmis, jis vizualiai lieknina kojas. , kad „scatolina“ kirpimas yra podiumo standartas, kuriantis tinkamą tūrį. Derinant su siauromis Ostiolo 2046 kelnėmis, jis vizualiai lieknina kojas."
+      },
+      {
+        "q": "„Vilnonė apykaklė gali dirginti kaklą“ –",
+        "a": "Pasiūlykite paliesti ir įvertinti Luisa Spagnoli verpalų švelnumą. Aukšta vilnos valymo kokybė garantuoja komfortą net ir jautrios kaklo odos zonoje. paliesti ir įvertinti Luisa Spagnoli verpalų švelnumą. Aukšta vilnos valymo kokybė garantuoja komfortą net ir jautrios kaklo odos zonoje."
+      },
+      {
+        "q": "„3/4 rankovė netinka žiemai“ –",
+        "a": "Pademonstruokite Look 81: tunika sukurta sluoksniavimui. Ją galima papildyti Moles 0759 švarku arba dėvėti su ilgomis pirštinėmis, kas įvaizdžiui suteiks šarmo. Look 81: tunika sukurta sluoksniavimui. Ją galima papildyti Moles 0759 švarku arba dėvėti su ilgomis pirštinėmis, kas įvaizdžiui suteiks šarmo."
+      },
+      {
+        "q": "„Dizainas atrodo pernelyg paprastas“ –",
+        "a": "Atkreipkite dėmesį į detales: atviri skeltukai ant rankovių ir tankią mezgimo faktūrą. Tai brangaus daikto žymenys, skirti subtilios prabangos gerbėjoms. į detales: atviri skeltukai ant rankovių ir tankią mezgimo faktūrą. Tai brangaus daikto žymenys, skirti subtilios prabangos gerbėjoms."
+      },
+      {
+        "q": "„Trikotažas greitai praras formą“ –",
+        "a": "Paaiškinkite, kad „punto stoffa“ mezgimas specialiai sukurtas deformacijos prevencijai. Tai vienas atspariausių dėvėjimuisi mezgimo būdų prekės ženklo kolekcijoje."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Sylwetka wydaje się zbyt obszerna",
+        "a": "Wyjaśnij, że krój."
+      },
+      {
+        "q": "scatolina",
+        "a": "to wybiegowy standard tworzący właściwą objętość. W zestawieniu z wąskimi spodniami Ostiolo 2046 optycznie wydłuża i wysmukla nogi."
+      },
+      {
+        "q": "Wełniany kołnierz może podrażniać szyję",
+        "a": "Zaproponuj sprawdzenie miękkości przędzy Luisa Spagnoli. Wysoka jakość obróbki wełny gwarantuje komfort nawet w strefie wrażliwej skóry szyi."
+      },
+      {
+        "q": "Rękaw 3/4 nie nadaje się na zimę",
+        "a": "Zaprezentuj Look 81: tunika stworzona do warstwowych stylizacji. Można ją uzupełnić żakietem Moles 0759 lub nosić z długimi rękawiczkami, co doda całości szyku."
+      },
+      {
+        "q": "Design wygląda zbyt prosto",
+        "a": "Wskaż na detale: otwarte rozcięcia na rękawach oraz gęstą fakturę splotu. To sygnatury drogiej rzeczy, przeznaczonej dla miłośniczek dyskretnego luksusu."
+      },
+      {
+        "q": "Trykot szybko straci formę",
+        "a": "Wyjaśnij, że splot."
+      },
+      {
+        "q": "punto stoffa",
+        "a": "został zaprojektowany specjalnie w celu zapobiegania deformacji. To jeden z najbardziej wytrzymałych splotów w kolekcji marki."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Силует здається занадто вільним",
+        "a": "Поясніть, що крій."
+      },
+      {
+        "q": "scatolina",
+        "a": "— це подіумний стандарт, що створює правильний об'єм. У поєднанні з вузькими брюками Ostiolo 2046 він візуально робить ноги стрункішими."
+      },
+      {
+        "q": "Вовняний комір може натирати шию",
+        "a": "Запропонуйте тактильно оцінити м'якість пряжі Luisa Spagnoli. Висока якість очищення вовни гарантує комфорт навіть у зоні чутливої шкіри шиї."
+      },
+      {
+        "q": "Рукав 3/4 не підходить для зими",
+        "a": "Продемонструйте Look 81: туніка створена для багатошаровості. Її можна доповнити жакетом Moles 0759 або носити з довгими рукавичками, що додасть образу шику."
+      },
+      {
+        "q": "Дизайн виглядає занадто просто",
+        "a": "Вкажіть на деталі: відкриті розрізи на рукавах і щільну фактуру в'язки. Це маркери дорогої речі, призначеної для поціновувачок стриманої розкоші."
+      },
+      {
+        "q": "Трикотаж швидко втратить форму",
+        "a": "Поясніть, що в'язка."
+      },
+      {
+        "q": "punto stoffa",
+        "a": "спеціально розроблена для запобігання деформації. Це одне з найбільш зносостійких плетінь у колекції бренду."
+      }
+    ]
+  }
+}

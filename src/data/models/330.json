@@ -1,0 +1,412 @@
+{
+  "id": 330,
+  "name": "Soresina",
+  "description": {
+    "en": "The quilted Soresina down coat from Luisa Spagnoli is the embodiment of contemporary winter luxury, uniting functionality with high aesthetics. Crafted from a high-tech blend of polyester and polyamide, ensuring perfect protection from the elements and lasting durability. A refined accent is lent by a detachable, tone-matched soft eco-fur collar, which instantly elevates the practical piece into a status-defining wardrobe item. Particular attention is drawn to the couture finishing: buttons covered in woven eco-leather and a concealed lining with an animal-print motif, adding a note of boldness and individuality to the look. Side vents underscore the dynamic character of the Regular fit silhouette.",
+    "ru": "Стеганый пуховик Soresina от Luisa Spagnoli — это воплощение современной зимней роскоши, сочетающее в себе функциональность и высокую эстетику. Модель выполнена из высокотехнологичного микса полиэстера и полиамида, обеспечивающего идеальную защиту от непогоды и долговечность. Изысканный акцент вносит съемный воротник из мягкого эко-меха в тон, который мгновенно превращает практичное изделие в статусный предмет гардероба. Особого внимания заслуживает кутюрная отделка: пуговицы, обтянутые плетеной эко-кожей, и скрытая подкладка с анималистичным принтом, добавляющая образу дерзости и индивидуальности. Боковые разрезы подчеркивают динамичный характер силуэта regular fit.",
+    "ar": "تعد سترة Soresina المبطنة من Luisa Spagnoli تجسيداً للفخامة الشتوية العصرية، التي تجمع بين الوظيفية والجماليات العالية. صُممت القطعة من مزيج تكنولوجي عالٍ من البوليستر والبولي أميد، مما يوفر حماية مثالية من الطقس القاسي والمتانة. يضفي الياقة القابلة للإزالة المصنوعة من الفرو الصناعي الناعم بنفس اللون لمسة راقية، مما يحول القطعة العملية فوراً إلى قطعة خزانة ملابس مرموقة. تستحق الزخارف الراقية اهتماماً خاصاً: أزرار مغطاة بجلد صناعي مضفر، وبطانة مخفية بطبعة حيوانية تضيف جرأة وشخصية للمظهر. تبرز الفتحات الجانبية الطابع الديناميكي لقصة الـ regular fit.",
+    "ka": "მოკალთული პუჰოვიკი Soresina Luisa Spagnoli-სგან არის თანამედროვე ზამთრის ფუფუნების განსახიერება, რომელიც აერთიანებს ფუნქციურობასა და მაღალ ესთეტიკას. მოდელი შესრულებულია პოლიესტერისა და პოლიამიდის მაღალტექნოლოგიური მიქსისგან, რაც უზრუნველყოფს იდეალურ დაცვას ავდარისგან და გამძლეობას. დახვეწილ აქცენტს ქმნის რბილი ეკო-ბეწვისგან დამზადებული მოსახსნელი საყელო ტონში, რომელიც მყისიერად აქცევს პრაქტიკულ ნაკეთობას გარდერობის სტატუსურ საგნად. განსაკუთრებულ ყურადღებას იმსახურებს კუტიურული დასრულება: წნული ეკო-ტყავით შემოსილი ღილები და ცხოველური პრინტით გაფორმებული ფარული სარჩული, რომელიც იმიჯს მატებს გაბედულებასა და ინდივიდუალურობას. გვერდითი ჭრილები ხაზს უსვამს regular fit სილუეტის დინამიურ ხასიათს.",
+    "hy": "Luisa Spagnoli-ի Soresina թելերով կարված փետրային բաճկոնը ժամանակակից ձմեռային շքեղության մարմնացումն է, որը համատեղում է ֆունկցիոնալությունը և բարձր էսթետիկան: Մոդելը պատրաստված է պոլիեսթերի և պոլիամիդի բարձր տեխնոլոգիական միքսից, որն ապահովում է իդեալական պաշտպանություն վատ եղանակից և երկարակեցություն: Նրբաճաշակ շեշտադրում է հաղորդում նույն երանգի փափուկ էկո-մորթուց հանովի օձիքը, որն ակնթարթորեն գործնական իրը վերածում է զգեստապահարանի կագավիճակային առարկայի: Հատուկ ուշադրության է արժանի կուտյուրային հարդարումը՝ հյուսված էկո-կաշվով պատված կոճակները և կենդանական պրինտով թաքնված աստառը, որը կերպարին ավելացնում է համարձակություն և անհատականություն: Կողային ճեղքերը ընդգծում են regular fit ուրվագծի դինամիկ բնույթը:",
+    "lv": "Stepēta dūnu jaka Soresina no Luisa Spagnoli — mūsdienu ziemas greznības iemiesojums, kas apvieno funkcionalitāti un augstu estētiku. Modelis ir izgatavots no augsto tehnoloģiju poliestera un poliamīda miksa, kas nodrošina ideālu aizsardzību pret sliktiem laikapstākļiem un ilgmūžību. Izsmalcinātu akcentu piešķir noņemama apkakle no maiga eko-kažokādas toņa tonī, kas acumirklī pārvērš praktisku izstrādājumu par statusa garderobes priekšmetu. Īpašu uzmanību ir pelnījusi kutūras apdare: ar pītu eko-ādu apvilktas pogas un slēpta odere ar dzīvnieku rakstu, kas piešķir tēlam drosmi un individualitāti. Sānu šķēlumi uzsver regular fit silueta dinamisku raksturu.",
+    "lt": "Dygsniuota Soresina striukė iš Luisa Spagnoli — tai šiuolaikinės žiemos prabangos įsikūnijimas, sujungiantis funkcionalumą ir aukštą estetiką. Modelis pagamintas iš aukštųjų technologijų poliesterio ir poliamido mišinio, užtikrinančio idealią apsaugą nuo prasto oro ir ilgaamžiškumą. Išskirtinį akcentą suteikia nuimama apykaklė iš švelnaus eko-kailio tonas-į-toną, kuri akimirksniu paverčia praktišką gaminį statusą pabrėžiančiu garderobo elementu. Ypatingo dėmesio verta \"couture\" apdaila: pintos eko-odos aptrauktos sagos ir paslėptas pamušalas su gyvūnų raštu, pridedantis įvaizdžiui drąsos ir individualumo. Šoniniai skeltukai pabrėžia dinamišką regular fit silueto charakterį.",
+    "pl": "Pikowana kurtka puchowa Soresina od Luisa Spagnoli to ucieleśnienie współczesnego zimowego luksusu, łączące funkcjonalność z wysoką estetyką. Model wykonany z zaawansowanej technologicznie mieszanki poliestru i poliamidu, zapewniającej idealną ochronę przed niepogodą oraz trwałość. Wykwintny akcent stanowi odpinany kołnierz z miękkiego eko-futerka w tonacji, który błyskawicznie zmienia praktyczny model w prestiżowy element garderoby. Na szczególną uwagę zasługuje krawieckie wykończenie: guziki obciągnięte plecioną eko-skórą oraz ukryta podszewka z motywem zwierzęcym, dodająca stylizacji wyrazistości i indywidualnego charakteru. Boczne rozcięcia podkreślają dynamiczny charakter sylwetki regular fit.",
+    "uk": "Стьобаний пуховик Soresina від Luisa Spagnoli — це втілення сучасної зимової розкоші, що поєднує в собі функціональність та високу естетику. Модель виконана з високотехнологічного міксу поліестеру та поліаміду, що забезпечує ідеальний захист від негоди та довговічність. Вишуканий акцент вносить знімний комір з м'якого екохутра в тон, який миттєво перетворює практичний виріб на статусний предмет гардероба. На особливу увагу заслуговує кутюрна обробка: ґудзики, обтягнуті плетеною екошкірою, та прихована підкладка з анімалістичним принтом, що додає образу зухвалості та індивідуальності. Бічні розрізи підкреслюють динамічний характер силуету regular fit."
+  },
+  "colors": [
+    {
+      "name": "Nero Nero",
+      "code": "0101 0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281029%29.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 'Urban Elegance' (Look 152)",
+        "en": "Total Look 'Urban Elegance' (Look 152)",
+        "ar": "Total Look 'Urban Elegance' (Look 152)",
+        "ka": "Total Look 'Urban Elegance' (Look 152)",
+        "hy": "Total Look 'Urban Elegance' (Look 152)",
+        "lv": "Total Look 'Urban Elegance' (Look 152)",
+        "lt": "Total Look 'Urban Elegance' (Look 152)",
+        "pl": "Total Look 'Urban Elegance' (Look 152)",
+        "uk": "Total Look 'Urban Elegance' (Look 152)"
+      },
+      "text": {
+        "ru": "Пуховик Soresina 0101 0101 в паре с пуловером Manos 0101 и широкими брюками Oneta 0101. Акцент — ремень Damiana 0101 0002.",
+        "en": "Soresina 0101 0101 down jacket paired with a Manos 0101 pullover and wide-leg Oneta 0101 trousers. Accent — Damiana 0101 0002 belt.",
+        "ar": "Soresina 0101 0101 down jacket paired with a Manos 0101 pullover and wide-leg Oneta 0101 trousers. Accent — Damiana 0101 0002 belt.",
+        "ka": "Soresina 0101 0101 down jacket paired with a Manos 0101 pullover and wide-leg Oneta 0101 trousers. Accent — Damiana 0101 0002 belt.",
+        "hy": "Soresina 0101 0101 down jacket paired with a Manos 0101 pullover and wide-leg Oneta 0101 trousers. Accent — Damiana 0101 0002 belt.",
+        "lv": "Soresina 0101 0101 down jacket paired with a Manos 0101 pullover and wide-leg Oneta 0101 trousers. Accent — Damiana 0101 0002 belt.",
+        "lt": "Soresina 0101 0101 down jacket paired with a Manos 0101 pullover and wide-leg Oneta 0101 trousers. Accent — Damiana 0101 0002 belt.",
+        "pl": "Soresina 0101 0101 down jacket paired with a Manos 0101 pullover and wide-leg Oneta 0101 trousers. Accent — Damiana 0101 0002 belt.",
+        "uk": "Soresina 0101 0101 down jacket paired with a Manos 0101 pullover and wide-leg Oneta 0101 trousers. Accent — Damiana 0101 0002 belt."
+      },
+      "items": [
+        {
+          "name": "Soresina",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281029%29.png"
+        },
+        {
+          "name": "Manos",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Oneta",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg",
+          "modelId": 254
+        },
+        {
+          "name": "Damiana",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/XkJU4saiTOKrQW4-ebp-KQ_417074898696f420c3fdff2_82132830_02800400XX1.jpg",
+          "modelId": 19
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 'Sophisticated Casual' (Look 83/84)",
+        "en": "Total Look 'Sophisticated Casual' (Look 83/84)",
+        "ar": "Total Look 'Sophisticated Casual' (Look 83/84)",
+        "ka": "Total Look 'Sophisticated Casual' (Look 83/84)",
+        "hy": "Total Look 'Sophisticated Casual' (Look 83/84)",
+        "lv": "Total Look 'Sophisticated Casual' (Look 83/84)",
+        "lt": "Total Look 'Sophisticated Casual' (Look 83/84)",
+        "pl": "Total Look 'Sophisticated Casual' (Look 83/84)",
+        "uk": "Total Look 'Sophisticated Casual' (Look 83/84)"
+      },
+      "text": {
+        "ru": "Модель Soresina 0101 0101 в сочетании с белой рубашкой Lucinda 0201, базовым пуловером Manos 0101 и кожаными брюками Overt 0101.",
+        "en": "Soresina 0101 0101 model combined with a white Lucinda 0201 shirt (Data missing in official sources), a basic Manos 0101 pullover and Overt 0101 leather trousers.",
+        "ar": "Soresina 0101 0101 model combined with a white Lucinda 0201 shirt (Data missing in official sources), a basic Manos 0101 pullover and Overt 0101 leather trousers.",
+        "ka": "Soresina 0101 0101 model combined with a white Lucinda 0201 shirt (Data missing in official sources), a basic Manos 0101 pullover and Overt 0101 leather trousers.",
+        "hy": "Soresina 0101 0101 model combined with a white Lucinda 0201 shirt (Data missing in official sources), a basic Manos 0101 pullover and Overt 0101 leather trousers.",
+        "lv": "Soresina 0101 0101 model combined with a white Lucinda 0201 shirt (Data missing in official sources), a basic Manos 0101 pullover and Overt 0101 leather trousers.",
+        "lt": "Soresina 0101 0101 model combined with a white Lucinda 0201 shirt (Data missing in official sources), a basic Manos 0101 pullover and Overt 0101 leather trousers.",
+        "pl": "Soresina 0101 0101 model combined with a white Lucinda 0201 shirt (Data missing in official sources), a basic Manos 0101 pullover and Overt 0101 leather trousers.",
+        "uk": "Soresina 0101 0101 model combined with a white Lucinda 0201 shirt (Data missing in official sources), a basic Manos 0101 pullover and Overt 0101 leather trousers."
+      },
+      "items": [
+        {
+          "name": "Soresina",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281029%29.png"
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Manos",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+        },
+        {
+          "name": "Overt",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ClxEiTWDS22dYpj07lfOuw_1041391370696f42eda52a03_75833389_02820800XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 'Modern Heritage' (Look 87)",
+        "en": "Total Look 'Modern Heritage' (Look 87)",
+        "ar": "Total Look 'Modern Heritage' (Look 87)",
+        "ka": "Total Look 'Modern Heritage' (Look 87)",
+        "hy": "Total Look 'Modern Heritage' (Look 87)",
+        "lv": "Total Look 'Modern Heritage' (Look 87)",
+        "lt": "Total Look 'Modern Heritage' (Look 87)",
+        "pl": "Total Look 'Modern Heritage' (Look 87)",
+        "uk": "Total Look 'Modern Heritage' (Look 87)"
+      },
+      "text": {
+        "ru": "Пуховик Soresina 0101 0101 поверх пуловера Marius 3426 с рубашкой Bacche 0201 и брюками Opacita 1268.",
+        "en": "Soresina 0101 0101 down jacket over a Marius 3426 pullover with a Bacche 0201 shirt and Opacita 1268 trousers.",
+        "ar": "Soresina 0101 0101 down jacket over a Marius 3426 pullover with a Bacche 0201 shirt and Opacita 1268 trousers.",
+        "ka": "Soresina 0101 0101 down jacket over a Marius 3426 pullover with a Bacche 0201 shirt and Opacita 1268 trousers.",
+        "hy": "Soresina 0101 0101 down jacket over a Marius 3426 pullover with a Bacche 0201 shirt and Opacita 1268 trousers.",
+        "lv": "Soresina 0101 0101 down jacket over a Marius 3426 pullover with a Bacche 0201 shirt and Opacita 1268 trousers.",
+        "lt": "Soresina 0101 0101 down jacket over a Marius 3426 pullover with a Bacche 0201 shirt and Opacita 1268 trousers.",
+        "pl": "Soresina 0101 0101 down jacket over a Marius 3426 pullover with a Bacche 0201 shirt and Opacita 1268 trousers.",
+        "uk": "Soresina 0101 0101 down jacket over a Marius 3426 pullover with a Bacche 0201 shirt and Opacita 1268 trousers."
+      },
+      "items": [
+        {
+          "name": "Soresina",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281029%29.png"
+        },
+        {
+          "name": "Marius",
+          "code": "3426",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/786116877691f15720adc30_09207544_02790300XX1.jpg",
+          "modelId": 434
+        },
+        {
+          "name": "Bacche",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Opacita",
+          "code": "1268",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Direct the client's attention to the details: buttons wrapped in braided eco-leather are a hallmark of fine tailoring that sets Soresina apart from ordinary down jackets.",
+      "Demonstrate the functionality of the detachable fur collar: it allows the piece to be adapted for both casual daytime outings and elegant evening occasions.",
+      "Focus on 'hidden luxury': the animal-print lining is a secret touch of the collection that reflects the client's fashion-savvy sensibility."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиентки на деталях: пуговицы, обтянутые плетеной эко-кожей, — это маркер высокого портновского мастерства, выделяющий Soresina среди обычных пуховиков.",
+      "Продемонстрируйте функциональность съемного мехового воротника: это позволяет адаптировать вещь как для повседневных прогулок, так и для элегантных вечерних выходов.",
+      "Сделайте ставку на 'скрытую роскошь': анималистичная подкладка — это секретный штрих коллекции, который подчеркивает осведомленность клиентки в модных трендах."
+    ],
+    "ar": [
+      "سلطي الضوء على التفاصيل: الأزرار المغطاة بالجلد الصناعي المجدول هي علامة على براعة الخياطة الراقية، مما يبرز Soresina بين السترات المنفوخة العادية.",
+      "استعرضي عملية ياقة الفرو القابلة للإزالة: هذا يسمح بتكييف القطعة للمشي اليومي وللإطلالات المسائية الأنيقة.",
+      "راهني على 'الفخامة الخفية': البطانة ذات النقشة الحيوانية هي لمسة سرية في المجموعة تؤكد اطلاع العميل على أحدث صيحات الموضة."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება დეტალებზე: ნაქსოვი ეკო-ტყავით გაწყობილი ღილები — ეს არის მაღალი სამკერვალო ოსტატობის ნიშანი, რომელიც Soresina-ს გამოარჩევს ჩვეულებრივი პუხოვიკებისგან.",
+      "აჩვენეთ მოსახსნელი ბეწვის საყელოს ფუნქციონალურობა: ეს საშუალებას იძლევა ადაპტირება გაუწიოთ სამოსს როგორც ყოველდღიური სეირნობისთვის, ისე ელეგანტური საღამოს გასვლებისთვის.",
+      "გააკეთეთ ფსონი 'ფარულ ფუფუნებაზე': ცხოველური პრინტის უგულებელყოფა — ეს არის კოლექციის საიდუმლო შტრიხი, რომელიც ხაზს უსვამს კლიენტის ინფორმირებულობას მოდური ტრენდების შესახებ."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք մանրուքների վրա՝ հյուսված էկո-կաշվով պատված կոճակները բարձր դերձակային վարպետության ցուցիչ են, որոնք առանձնացնում են Soresina-ն սովորական վերարկուներից։",
+      "Ցուցադրեք հանվող մորթյա օձիքի ֆունկցիոնալությունը՝ դա թույլ է տալիս իրը հարմարեցնել ինչպես ամենօրյա զբոսանքների, այնպես էլ էլեգանտ երեկոյան ելքերի համար։",
+      "Շեշտը դրեք «թաքնված շքեղության» վրա՝ կենդանական պրինտով աստառը հավաքածուի գաղտնի շտրիխն է, որն ընդգծում է հաճախորդի տեղեկացվածությունը նորաձև թրենդներում։"
+    ],
+    "lv": [
+      "Vērsiet klientes uzmanību uz detaļām: pogas, kas apvilktas ar pītu eko-ādu, — tas ir augstas drēbniecības meistarības marķieris, kas izceļ Soresina starp parastām dūnu jakām.",
+      "Demonstrējiet noņemamās kažokādas apkakles funkcionalitāti: tas ļauj pielāgot lietu gan ikdienas pastaigām, gan elegantiem vakara izgājieniem.",
+      "Lieciet uzsvaru uz 'slēpto greznību': dzīvnieku rakstu odere — tas ir kolekcijas slepenais akcents, kas uzsver klientes informētību par modes tendencēm."
+    ],
+    "lt": [
+      "Akcentuokite klientės dėmesį į detales: pintos eko-odos sagos — tai aukštosios siuvimo meistrystės ženklas, išskiriantis Soresina iš įprastų pūkinių striukių.",
+      "Pademonstruokite nuimamos kailinės apykaklės funkcionalumą: tai leidžia pritaikyti drabužį tiek kasdieniams pasivaikščiojimams, tiek elegantiškiems vakariniams išėjimams.",
+      "Statykite už „slaptą prabangą“: gyvūnų rašto pamušalas — tai slaptas kolekcijos akcentas, pabrėžiantis klientės išmanymą mados tendencijose."
+    ],
+    "pl": [
+      "Zwróć uwagę klientki na detale: guziki obszyte plecioną eko-skórą to wyznacznik wysokiego kunsztu krawieckiego, wyróżniający Soresina na tle zwykłych puchówek.",
+      "Zaprezentuj funkcjonalność odpinanego futrzanego kołnierza: pozwala to na dostosowanie rzeczy zarówno do codziennych spacerów, jak i eleganckich wieczorowych wyjść.",
+      "Postaw na 'ukryty luksus': zwierzęca podszewka to sekretny akcent kolekcji, który podkreśla świadomość klientki w zakresie modowych trendów."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнтки на деталях: ґудзики, обтягнуті плетеною екошкірою, — це маркер високої кравецької майстерності, що виділяє Soresina серед звичайних пуховиків.",
+      "Продемонструйте функціональність знімного хутряного коміра: це дозволяє адаптувати річ як для повсякденних прогулянок, так і для елегантних вечірніх виходів.",
+      "Зробіть ставку на 'приховану розкіш': анімалістична підкладка — це секретний штрих колекції, який підкреслює обізнаність клієнтки в модних трендах."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "I feel that the quilted down jacket will visually add extra volume.",
+        "a": "Point out the side slits and the carefully considered regular-fit silhouette, which structure the figure and allow ease of movement without weighing down the look."
+      },
+      {
+        "q": "I prefer 100% natural fur.",
+        "a": "Explain that the eco-fur used, by Luisa Spagnoli, is not only ethical but also outperforms natural fur in durability, retaining its flawless texture even in high humidity."
+      },
+      {
+        "q": "The synthetic fabric composition may be less durable.",
+        "a": "Emphasize that the polyester-and-polyamide blend is the technical standard for premium outerwear, guaranteeing wind resistance and shape retention over many seasons."
+      },
+      {
+        "q": "This down jacket looks too plain in black.",
+        "a": "Highlight the play of textures: the matte quilted fabric contrasts with the sheen of the eco-fur and the woven button details, creating a rich, multi-dimensional look."
+      },
+      {
+        "q": "Would this style be appropriate with a business suit?",
+        "a": "Thanks to its aristocratic details and detachable collar, Soresina pairs beautifully with the tailored Oneta 0101 trousers, striking a balance between formality and comfort."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Мне кажется, что стеганый пуховик будет визуально добавлять лишний объем.",
+        "a": "Укажите на боковые разрезы и выверенный силуэт regular fit, которые структурируют фигуру и обеспечивают легкость движений, не утяжеляя образ."
+      },
+      {
+        "q": "Я предпочитаю 100% натуральный мех.",
+        "a": "Объясните, что используемый эко-мех (eco-fur) от Luisa Spagnoli не только этичен, но и превосходит натуральный по износостойкости, сохраняя безупречную фактуру даже при повышенной влажности."
+      },
+      {
+        "q": "Синтетический состав ткани может быть менее долговечным.",
+        "a": "Подчеркните, что сочетание полиэстера и полиамида — это технологичный стандарт для верхней одежды премиум-класса, гарантирующий ветрозащиту и сохранение формы изделия в течение многих сезонов."
+      },
+      {
+        "q": "Этот пуховик выглядит слишком просто в черном цвете.",
+        "a": "Сделайте акцент на игре фактур: матовая стеганая ткань контрастирует с блеском эко-меха и плетеными деталями пуговиц, создавая многогранный и глубокий образ."
+      },
+      {
+        "q": "Будет ли эта модель уместна с деловым костюмом?",
+        "a": "Благодаря аристократичным деталям и возможности убрать воротник, Soresina идеально дополняет строгие брюки Oneta 0101, сохраняя баланс между формальностью и комфортом."
+      }
+    ],
+    "ar": [
+      {
+        "q": "أشعر أن المعطف المبطن سيضيف حجماً إضافياً للجسم بصرياً.",
+        "a": "أشيري إلى الفتحات الجانبية والقصة المحددة (regular fit) التي تمنح هيكلاً للجسم وتضمن حرية الحركة دون إثقال الإطلالة."
+      },
+      {
+        "q": "أفضل الفراء الطبيعي بنسبة 100%.",
+        "a": "اشرحي أن الفراء الصناعي (eco-fur) المستخدم من Luisa Spagnoli ليس أخلاقياً فحسب، بل يتفوق على الفراء الطبيعي في متانته، محافظاً على ملمسه المثالي حتى في حالات الرطوبة العالية."
+      },
+      {
+        "q": "التركيبة الصناعية للقماش قد تكون أقل متانة.",
+        "a": "أكدي أن مزيج البوليستر والبولي أميد هو المعيار التقني للملابس الخارجية الفاخرة، مما يضمن الحماية من الرياح والحفاظ على شكل القطعة لعدة مواسم."
+      },
+      {
+        "q": "هذا المعطف يبدو بسيطاً جداً باللون الأسود.",
+        "a": "ركزي على تباين الأنسجة؛ حيث تتناغم الخامة المبطنة غير اللامعة مع لمعان الفراء الصناعي وتفاصيل الأزرار المجدولة، مما يخلق إطلالة غنية ومتعددة الأبعاد."
+      },
+      {
+        "q": "هل ستكون هذه القطعة مناسبة مع بدلة عمل؟",
+        "a": "بفضل التفاصيل الأنيقة وإمكانية إزالة الياقة، يكمل معطف Soresina بنطال Oneta 0101 بشكل مثالي، محققاً التوازن بين الرسمية والراحة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მეჩვენება, რომ ნაკერებიანი პუხოვიკი ვიზუალურად ზედმეტ მოცულობას შემატებს.",
+        "a": "მიუთითეთ გვერდითა ჭრილებსა და რეგულირებად სილუეტზე regular fit, რომლებიც აწყობს ფიგურას და უზრუნველყოფს მოძრაობის სიმსუბუქეს, ისე რომ არ ამძიმებს იმიჯს."
+      },
+      {
+        "q": "მე 100%-ით ნატურალურ ბეწვს ვანიჭებ უპირატესობას.",
+        "a": "აუხსენით, რომ Luisa Spagnoli-ს მიერ გამოყენებული ეკო-ბეწვი (eco-fur) არა მხოლოდ ეთიკურია, არამედ აჭარბებს ნატურალურს ცვეთამედეგობით და ინარჩუნებს უნაკლო ფაქტურას მაღალი ტენიანობის დროსაც კი."
+      },
+      {
+        "q": "ქსოვილის სინთეტიკური შემადგენლობა შესაძლოა ნაკლებად გამძლე იყოს.",
+        "a": "ხაზგასმით აღნიშნეთ, რომ პოლიესტერისა და პოლიამიდის კომბინაცია პრემიუმ-კლასის ზედა ტანსაცმლის ტექნოლოგიური სტანდარტია, რაც გარანტირებულ ქარსაფარსა და ნაკეთობის ფორმის შენარჩუნებას უზრუნველყოფს მრავალი სეზონის განმავლობაში."
+      },
+      {
+        "q": "ეს პუხოვიკი შავ ფერში ზედმეტად მარტივად გამოიყურება.",
+        "a": "გაამახვილეთ ყურადღება ფაქტურების თამაშზე: მქრქალი ნაკერებიანი ქსოვილი კონტრასტშია ეკო-ბეწვის ბზინვარებასთან და ღილების წნულ დეტალებთან, რაც ქმნის მრავალმხრივ და ღრმა იმიჯს."
+      },
+      {
+        "q": "იქნება თუ არა ეს მოდელი შესაბამისი საქმიან კოსტიუმთან?",
+        "a": "არისტოკრატული დეტალებისა და საყელოს მოხსნის შესაძლებლობის წყალობით, Soresina იდეალურად ავსებს მკაცრ შარვლებს Oneta 0101 და ინარჩუნებს ბალანსს ფორმალობასა და კომფორტს შორის."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ինձ թվում է, որ թրծված (стеганый) վերարկուն տեսողականորեն ավելորդ ծավալ կավելացնի։",
+        "a": "Մատնանշեք կողային բացվածքները և regular fit հստակ ուրվագիծը, որոնք կառուցվածք են տալիս կազմվածքին և ապահովում շարժումների թեթևություն՝ առանց ծանրացնելու կերպարը։"
+      },
+      {
+        "q": "Ես նախընտրում եմ 100% բնական մորթի։",
+        "a": "Բացատրեք, որ Luisa Spagnoli-ի կողմից օգտագործվող էկո-մորթին (eco-fur) ոչ միայն էթիկական է, այլև իր դիմացկունությամբ գերազանցում է բնականին՝ պահպանելով անթերի ֆակտուրան նույնիսկ բարձր խոնավության դեպքում։"
+      },
+      {
+        "q": "Գործվածքի սինթետիկ կազմը կարող է ավելի քիչ երկարակյաց լինել։",
+        "a": "Ընդգծեք, որ պոլիեսթերի և պոլիամիդի համադրությունը պրեմիում դասի վերնահագուստի համար տեխնոլոգիական ստանդարտ է, որը երաշխավորում է հողմապաշտպանություն և արտադրանքի ձևի պահպանում բազմաթիվ սեզոնների ընթացքում։"
+      },
+      {
+        "q": "Այս վերարկուն շատ պարզ է թվում սև գույնի մեջ։",
+        "a": "Շեշտադրում կատարեք ֆակտուրաների խաղի վրա. փայլատ թրծված գործվածքը հակադրվում է էկո-մորթու փայլին և կոճակների հյուսված մանրամասներին՝ ստեղծելով բազմակողմանի և խորը կերպար։"
+      },
+      {
+        "q": "Արդյո՞ք այս մոդելը տեղին կլինի գործնական կոստյումի հետ։",
+        "a": "Ազնվազարմ մանրամասների և օձիքը հեռացնելու հնարավորության շնորհիվ, Soresina-ն կատարելապես լրացնում է Oneta 0101 խիստ տաբատները ՝ պահպանելով հավասարակշռությունը պաշտոնականության և հարմարավետության միջև։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Man šķiet, ka stepētā dūnu jaka vizuāli piešķirs lieku apjomu.",
+        "a": "Norādiet uz sānu šķēlumiem un izsvērto «regular fit» siluetu, kas strukturē figūru un nodrošina kustību vieglumu, nepadarot tēlu smagnēju."
+      },
+      {
+        "q": "Es dodu priekšroku 100% dabīgām kažokādām.",
+        "a": "Paskaidrojiet, ka izmantotā eko-kažokāda (eco-fur) no Luisa Spagnoli ir ne tikai ētiski ražota, bet arī pārspēj dabīgo izturības ziņā, saglabājot nevainojamu faktūru pat paaugstināta mitruma apstākļos."
+      },
+      {
+        "q": "Sintētiskais auduma sastāvs var būt mazāk izturīgs.",
+        "a": "Uzsveriet, ka poliestera un poliamīda kombinācija ir tehnoloģisks standarts premium klases virsdrēbēm, kas garantē aizsardzību pret vēju un izstrādājuma formas saglabāšanu daudzu sezonu garumā."
+      },
+      {
+        "q": "Šī dūnu jaka melnā krāsā izskatās pārāk vienkārši.",
+        "a": "Lieciet uzsvaru uz faktūru spēli: matētais stepētais audums kontrastē ar eko-kažokādas spīdumu un pītajām pogu detaļām, radot daudzšķautņainu un dziļu tēlu."
+      },
+      {
+        "q": "Vai šis modelis būs piemērots lietišķam kostīmam?",
+        "a": "Pateicoties aristokrātiskajām detaļām un iespējai noņemt apkakli, Soresina lieliski papildina stingrās bikses Oneta 0101, saglabājot līdzsvaru starp formālumu un komfortu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Man atrodo, kad dygsniuotas pūkinis paltas vizualiai pridės papildomos apimties.",
+        "a": "Nurodykite šoninius skeltukus ir suderintą „regular fit“ siluetą, kurie struktūruoja figūrą ir užtikrina judesių lengvumą, neapsunkindami įvaizdžio."
+      },
+      {
+        "q": "Pirmenybę teikiu 100% natūraliam kailiui.",
+        "a": "Paaiškinkite, kad Luisa Spagnoli naudojamas eko-kailis (eco-fur) yra ne tik etiškas, bet ir pranoksta natūralų savo dėvėjimosi savybėmis, išlaikydamas nepriekaištingą faktūrą net esant dideliam drėgnumui."
+      },
+      {
+        "q": "Sintetinė audinio sudėtis gali būti mažiau ilgaamžė.",
+        "a": "Pabrėžkite, kad poliesterio ir poliamido derinys yra aukščiausios klasės viršutinių drabužių technologinis standartas, garantuojantis apsaugą nuo vėjo ir gaminio formos išlaikymą daugelį sezonų."
+      },
+      {
+        "q": "Šis pūkinis paltas atrodo pernelyg paprastai juodos spalvos.",
+        "a": "Akcentuokite faktūrų žaismą: matinis dygsniuotas audinys kontrastuoja su eko-kailio žvilgesiu ir pintomis sagų detalėmis, sukuriant daugiasluoksnį ir gilų įvaizdį."
+      },
+      {
+        "q": "Ar šis modelis tiks prie dalykinio kostiumo?",
+        "a": "Dėka aristokratiškų detalių ir galimybės nuimti apykaklę, Soresina idealiai papildo griežtas kelnes Oneta 0101, išlaikydama balansą tarp formalumo ir komforto."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wydaje mi się, że pikowana kurtka puchowa będzie optycznie dodawać zbędnej objętości.",
+        "a": "Wskaż na boczne rozcięcia i wyważony krój regular fit, które strukturyzują figurę i zapewniają lekkość ruchów, nie obciążając stylizacji."
+      },
+      {
+        "q": "Preferuję 100% naturalne futro.",
+        "a": "Wyjaśnij, że użyte eco-fur od Luisa Spagnoli jest nie tylko etyczne, ale przewyższa naturalne futro pod względem odporności na zużycie, zachowując nienaganną fakturę nawet przy podwyższonej wilgotności."
+      },
+      {
+        "q": "Syntetyczny skład tkaniny może być mniej trwały.",
+        "a": "Podkreśl, że połączenie poliestru i poliamidu to technologiczny standard dla odzieży wierzchniej klasy premium, gwarantujący wiatroszczelność i zachowanie formy produktu przez wiele sezonów."
+      },
+      {
+        "q": "Ta kurtka puchowa wygląda zbyt prosto w czarnym kolorze.",
+        "a": "Postaw akcent na grę faktur: matowa pikowana tkanina kontrastuje z blaskiem eco-fur i plecionymi detalami guzików, tworząc wielowymiarowy i głęboki wizerunek."
+      },
+      {
+        "q": "Czy ten model będzie odpowiedni do garnituru biznesowego?",
+        "a": "Dzięki arystokratycznym detalom i możliwości odpięcia kołnierza, Soresina idealnie dopełnia eleganckie spodnie Oneta 0101, zachowując balans między formalnością a komfortem."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Мені здається, що стьобаний пуховик буде візуально додавати зайвий об'єм.",
+        "a": "Вкажіть на бічні розрізи та вивірений силует regular fit, які структурують фігуру та забезпечують легкість рухів, не обтяжуючи образ."
+      },
+      {
+        "q": "Я віддаю перевагу 100% натуральному хутру.",
+        "a": "Поясніть, що використовуване екохутро (eco-fur) від Luisa Spagnoli не тільки етичне, а й перевершує натуральне за зносостійкістю, зберігаючи бездоганну фактуру навіть при підвищеній вологості."
+      },
+      {
+        "q": "Синтетичний склад тканини може бути менш довговічним.",
+        "a": "Підкресліть, що поєднання поліестеру та поліаміду — це технологічний стандарт для верхнього одягу преміум-класу, який гарантує вітрозахист та збереження форми виробу протягом багатьох сезонів."
+      },
+      {
+        "q": "Цей пуховик виглядає занадто просто в чорному кольорі.",
+        "a": "Зробіть акцент на грі фактур: матова стьобана тканина контрастує з блиском екохутра та плетеними деталями ґудзиків, створюючи багатогранний і глибокий образ."
+      },
+      {
+        "q": "Чи буде ця модель доречною з діловим костюмом?",
+        "a": "Завдяки аристократичним деталям і можливості прибрати комір, Soresina ідеально доповнює суворі штани Oneta 0101, зберігаючи баланс між формальністю та комфортом."
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "id": 140,
+  "name": "Maizena",
+  "description": {
+    "en": "The elegant Maizena sheath mini dress is the embodiment of refined minimalism and Luisa Spagnoli's impeccable Italian craftsmanship. The model is masterfully crafted from 100% pure virgin wool using the exclusive dense \"punto stoffa\" knit technique, guaranteeing an impeccable silhouette and exceptional durability. The clean sleeveless cut accentuates the grace and delicacy of the feminine figure, making this dress the perfect foundation for creating status-defining, layered looks in the \"quiet luxury\" aesthetic.",
+    "ru": "Элегантное мини-платье футляр Maizena — это воплощение изысканного минимализма и безупречного итальянского мастерства Luisa Spagnoli. Модель мастерски выполнена из 100% чистой девственной шерсти в эксклюзивной технике плотной вязки «punto stoffa», которая гарантирует безупречный силуэт и высокую износостойкость. Лаконичный крой без рукавов подчеркивает грацию и хрупкость женской фигуры, превращая это платье в идеальную базу для создания статусных многослойных образов в эстетике «тихой роскоши».",
+    "ar": "فستان الميني الأنيق Maizena هو تجسيد للبساطة الراقية والبراعة الإيطالية الفائقة من Luisa Spagnoli. صُنعت القطعة ببراعة من صوف بكر نقي بنسبة 100% بتقنية الحياكة الكثيفة الحصرية \"punto stoffa\"، التي تضمن صورة ظلية لا تشوبها شائبة ومتانة عالية. يؤكد القص البسيط بدون أكمام على رقة وأنوثة القوام، مما يجعل هذا الفستان أساسًا مثاليًا لابتكار إطلالات متعددة الطبقات بجماليات \"الرفاهية الهادئة\".",
+    "ka": "ელეგანტური მინი-კაბა Maizena — ეს დახვეწილი მინიმალიზმისა და Luisa Spagnoli-ს უნაკლო იტალიური ოსტატობის განსახიერებაა. მოდელი ოსტატურადაა შესრულებული 100%-ით სუფთა ქალწული მატყლისგან, ექსკლუზიური „punto stoffa“-ს მკვრივი ქსოვის ტექნიკით, რაც უზრუნველყოფს უნაკლო სილუეტსა და მაღალ გამძლეობას. ლაკონური, უმკლავო კროი ხაზს უსვამს ქალის ფიგურის მადლსა და სინაზეს, რაც ამ კაბას აქცევს იდეალურ ბაზად „ჩუმი ფუფუნების“ ესთეტიკაში სტატუსური, მრავალშრიანი იმიჯის შესაქმნელად.",
+    "hy": "Maizena էլեգանտ մինի-ֆուտլյար զգեստը Luisa Spagnoli-ի նուրբ մինիմալիզմի և անթերի իտալական վարպետության մարմնացումն է: Մոդելը վարպետորեն պատրաստված է 100% մաքուր կուսական բրդից՝ բարձր խտության «punto stoffa» հյուսվածքի բացառիկ տեխնիկայով, որն ապահովում է անթերի ուրվագիծ և բարձր դիմացկունություն: Առանց թևերի հակիրճ կտրվածքը ընդգծում է կանացի կազմվածքի շնորհքն ու նրբությունը՝ դարձնելով այս զգեստը իդեալական հիմք «հանգիստ շքեղության» էսթետիկայով կարգավիճակային բազմաշերտ կերպարներ ստեղծելու համար:",
+    "lv": "Elegantā mini kleita-futlāris Maizena ir izsmalcināta minimālisma un nevainojamas Luisa Spagnoli itāļu meistarības iemiesojums. Modelis ir meistarīgi izgatavots no 100% tīras jaunvilnas ekskluzīvā blīvā adījuma tehnikā «punto stoffa», kas garantē nevainojamu siluetu un augstu nodilumizturību. Lakoniskais piegriezums bez piedurknēm izceļ sievietes figūras grāciju un trauslumu, padarot šo kleitu par ideālu pamatu statusa bagātu daudzslāņu tēlu radīšanai «klusās greznības» estētikā.",
+    "lt": "Elegantiška mini suknelė-futliaras Maizena – tai rafinuoto minimalizmo ir nepriekaištingo italų meistriškumo Luisa Spagnoli įsikūnijimas. Modelis meistriškai pagamintas iš 100% grynos avies vilnos naudojant išskirtinę tankaus mezgimo techniką „punto stoffa“, kuri užtikrina nepriekaištingą siluetą ir didelį atsparumą dėvėjimuisi. Lakoniškas kirpimas be rankovių pabrėžia moteriškos figūros grakštumą ir trapumą, paverčiant šią suknelę idealu pagrindu kuriant reprezentatyvius daugiasluoksnius įvaizdžius „tylios prabangos“ estetikoje.",
+    "pl": "Elegancka sukienka mini typu etui Maizena to uosobienie wyrafinowanego minimalizmu i nienagannego włoskiego kunsztu Luisa Spagnoli. Model został mistrzowsko wykonany w 100% z czystej żywej wełny w ekskluzywnej technice gęstego splotu «punto stoffa», która gwarantuje nienaganną sylwetkę i wysoką trwałość. Lakoniczny krój bez rękawów podkreśla grację i delikatność kobiecej sylwetki, czyniąc tę sukienkę idealną bazą do tworzenia prestiżowych, warstwowych stylizacji w estetyce «quiet luxury».",
+    "uk": "Елегантна міні-сукня-футляр Maizena — це втілення вишуканого мінімалізму та бездоганної італійської майстерності Luisa Spagnoli. Модель майстерно виконана зі 100% чистої вовни virgin wool в ексклюзивній техніці щільної в'язки «punto stoffa», яка гарантує бездоганний силует і високу зносостійкість. Лаконічний крій без рукавів підкреслює грацію та тендітність жіночої фігури, перетворюючи цю сукню на ідеальну базу для створення статусних багатошарових образів в естетиці «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YyS_5mptS9u-T1byYRDyhQ_144598007696f4362040742_30894184_02830490XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Runway Style)",
+        "ar": "Look 1 (Runway Style)",
+        "ka": "Look 1 (Runway Style)",
+        "hy": "Look 1 (Runway Style)",
+        "lv": "Look 1 (Runway Style)",
+        "lt": "Look 1 (Runway Style)",
+        "pl": "Look 1 (Runway Style)",
+        "uk": "Look 1 (Runway Style)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Подиумный выход): Роскошный многослойный ансамбль, объединяющий платье Maizena 0101 с фактурным жакетом Mantes 3390 под элегантным шерстяным пальто Stenografo 0101. Завершает образ статусная сумка из мартеллированной кожи Iago 0101 0002.",
+        "en": "A luxurious layered ensemble combining a Maizena 0101 dress with a textured Mantes 3390 jacket under an elegant Stenografo 0101 wool coat. The look is finished with a status bag in hammered leather, the Iago 0101 0002.",
+        "ar": "A luxurious layered ensemble combining a Maizena 0101 dress with a textured Mantes 3390 jacket under an elegant Stenografo 0101 wool coat. The look is finished with a status bag in hammered leather, the Iago 0101 0002.",
+        "ka": "A luxurious layered ensemble combining a Maizena 0101 dress with a textured Mantes 3390 jacket under an elegant Stenografo 0101 wool coat. The look is finished with a status bag in hammered leather, the Iago 0101 0002.",
+        "hy": "A luxurious layered ensemble combining a Maizena 0101 dress with a textured Mantes 3390 jacket under an elegant Stenografo 0101 wool coat. The look is finished with a status bag in hammered leather, the Iago 0101 0002.",
+        "lv": "A luxurious layered ensemble combining a Maizena 0101 dress with a textured Mantes 3390 jacket under an elegant Stenografo 0101 wool coat. The look is finished with a status bag in hammered leather, the Iago 0101 0002.",
+        "lt": "A luxurious layered ensemble combining a Maizena 0101 dress with a textured Mantes 3390 jacket under an elegant Stenografo 0101 wool coat. The look is finished with a status bag in hammered leather, the Iago 0101 0002.",
+        "pl": "A luxurious layered ensemble combining a Maizena 0101 dress with a textured Mantes 3390 jacket under an elegant Stenografo 0101 wool coat. The look is finished with a status bag in hammered leather, the Iago 0101 0002.",
+        "uk": "A luxurious layered ensemble combining a Maizena 0101 dress with a textured Mantes 3390 jacket under an elegant Stenografo 0101 wool coat. The look is finished with a status bag in hammered leather, the Iago 0101 0002."
+      },
+      "items": [
+        {
+          "name": "Maizena",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YyS_5mptS9u-T1byYRDyhQ_144598007696f4362040742_30894184_02830490XX1.jpg"
+        },
+        {
+          "name": "Mantes",
+          "code": "3390",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ipCjCp2KRtGb_urUxMn2xA_416890850696f43655c6e65_18497823_02830580XX1.jpg",
+          "modelId": 149
+        },
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the distinctive composition: 100% pure virgin wool (Vergine) delivers remarkable softness and ideal thermoregulation throughout the day.",
+      "Showcase the client the advantages of the 'punto stoffa' knit — a highly technical knitted fabric with a shaping effect that preserves the garment's original form even with frequent wear.",
+      "Recommend the Maizena dress as an ideal 'investment' wardrobe piece: thanks to its understated design, it transitions effortlessly from a professional look to an evening ensemble through a change of accessories and the addition of the collection's statement jackets."
+    ],
+    "ru": [
+      "Сделайте акцент на уникальном составе: 100% чистая девственная шерсть (Vergine) обеспечивает невероятную мягкость и идеальную терморегуляцию в течение всего дня.",
+      "Продемонстрируйте клиенту преимущества вязки «punto stoffa» — это высокотехнологичное трикотажное полотно, которое обладает моделирующим эффектом и сохраняет первоначальную форму изделия даже при интенсивной носке.",
+      "Рекомендуйте платье Maizena как идеальный «инвестиционный» предмет гардероба: благодаря своей лаконичности оно легко трансформируется из делового образа в вечерний при помощи смены аксессуаров и добавления акцентных жакетов коллекции."
+    ],
+    "ar": [
+      "ركزي على التركيبة الفريدة: الصوف البكر النقي 100% (Vergine) يضمن نعومة فائقة وتنظيماً حرارياً مثالياً طوال اليوم.",
+      "استعرضي للعميلة مزايا حياكة «punto stoffa»؛ فهي قماش تريكو متطور تقنياً يتميز بتأثير نحت القوام ويحافظ على شكل القطعة الأصلي حتى مع الاستخدام المكثف.",
+      "رشيحي فستان Maizena كقطعة استثمارية مثالية لخزانة الملابس: بفضل تصميمه الرصين، يمكن تحويله بسهولة من إطلالة عملية إلى إطلالة مسائية من خلال تغيير الإكسسوارات وإضافة سترات مميزة من المجموعة."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება უნიკალურ შემადგენლობაზე: 100% სუფთა ქალწულებრივი შალი (Vergine) უზრუნველყოფს წარმოუდგენელ სირბილესა და იდეალურ თერმორეგულაციას მთელი დღის განმავლობაში.",
+      "დაანახეთ კლიენტს „punto stoffa“-ს ქსოვის უპირატესობები — ეს არის მაღალტექნოლოგიური ტრიკოტაჟის ქსოვილი, რომელიც ფლობს მოდელირების ეფექტს და ინარჩუნებს ნაკეთობის პირვანდელ ფორმას ინტენსიური ტარების დროსაც კი.",
+      "რეკომენდაცია გაუწიეთ კაბა Maizena-ს, როგორც გარდერობის იდეალურ „საინვესტიციო“ ნივთს: თავისი ლაკონიურობის წყალობით, ის ადვილად გარდაიქმნება საქმიანიდან საღამოს სამოსად აქსესუარების შეცვლით და კოლექციის აქცენტირებული პიჯაკების დამატებით."
+    ],
+    "hy": [
+      "Շեշտադրեք եզակի բաղադրությունը՝ 100% մաքուր կուսական բուրդը (Vergine) ապահովում է անհավանական փափկություն և իդեալական ջերմակարգավորում ամբողջ օրվա ընթացքում։",
+      "Հաճախորդին ցուցադրեք «punto stoffa» հյուսվածքի առավելությունները՝ սա բարձր տեխնոլոգիական տրիկոտաժե կտոր է, որն ունի մոդելավորող էֆեկտ և պահպանում է արտադրանքի նախնական ձևը նույնիսկ ինտենսիվ կրելու դեպքում։",
+      "Maizena զգեստը խորհուրդ տվեք որպես զգեստապահարանի իդեալական «ներդրումային» իր՝ իր հակիրճության շնորհիվ այն հեշտությամբ ձևափոխվում է գործնական կերպարից երեկոյանի՝ աքսեսուարների փոփոխության և հավաքածուի շեշտադրող ժակետների ավելացման միջոցով։"
+    ],
+    "lv": [
+      "Akcentējiet unikālo sastāvu: 100% tīra jaunvilna (Vergine) nodrošina neticamu maigumu un ideālu termoregulāciju visas dienas garumā.",
+      "Demonstrējiet klientam «punto stoffa» adījuma priekšrocības — tas ir augsto tehnoloģiju trikotāžas audums, kam piemīt modelējošs efekts un kas saglabā izstrādājuma sākotnējo formu pat intensīvas lietošanas laikā.",
+      "Iesakiet Maizena kleitu kā ideālu «investīciju» garderobes priekšmetu: pateicoties tās lakonismam, tā ir viegli pārveidojama no lietišķa tēla par vakara tēlu, mainot aksesuārus un pievienojot kolekcijas akcenta žaketes."
+    ],
+    "lt": [
+      "Pabrėžkite unikalų audinio sudėtį: 100% gryna pirminė vilna (Vergine) užtikrina neįtikėtiną švelnumą ir idealų termoreguliavimą visą dieną.",
+      "Pademonstruokite klientui „punto stoffa“ mezgimo technikos privalumus — tai aukštųjų technologijų trikotažinis audinys, kuris pasižymi modeliuojančiu efektu ir išlaiko pradinę gaminio formą net intensyviai dėvint.",
+      "Rekomenduokite Maizena suknelę kaip idealų „investicinį“ drabužinės elementą: dėl savo lakoniškumo ji lengvai transformuojasi iš verslo stiliaus į vakarinį, pakeitus aksesuarus ar priderinus akcentinius kolekcijos švarkus."
+    ],
+    "pl": [
+      "Połóż akcent na unikalny skład: 100% czysta wełna dziewicza (Vergine) zapewnia niesamowitą miękkość i idealną termoregulację przez cały dzień.",
+      "Pokaż klientce zalety splotu „punto stoffa” — to zaawansowana technologicznie dzianina, która posiada efekt modelujący i zachowuje pierwotny kształt produktu nawet przy intensywnym noszeniu.",
+      "Rekomenduj sukienkę Maizena jako idealny „inwestycyjny” element garderoby: dzięki swojej prostocie łatwo zmienia się ona ze stroju biznesowego w wieczorowy za pomocą zmiany dodatków i dodania akcentujących żakietów z kolekcji."
+    ],
+    "uk": [
+      "Зробіть акцент на унікальному складі: 100% чиста вовна (Vergine) забезпечує неймовірну м'якість та ідеальну терморегуляцію протягом усього дня.",
+      "Продемонструйте клієнту переваги в'язки «punto stoffa» — це високотехнологічне трикотажне полотно, яке має моделюючий ефект і зберігає початкову форму виробу навіть при інтенсивному носінні.",
+      "Рекомендуйте сукню Maizena як ідеальний «інвестиційний» предмет гардероба: завдяки своїй лаконічності вона легко трансформується з ділового образу у вечірній за допомогою зміни аксесуарів та додавання акцентних жакетів колекції."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Wool may cause tingling or skin irritation.",
+        "a": "For the Merinfleur line, we use only the most delicate, highly refined virgin wool. It is hypoallergenic and has a silky texture comparable in softness to cashmere."
+      },
+      {
+        "q": "The length seems too short for serious meetings.",
+        "a": "This is a classic Italian length that, paired with dense matte tights and a structured jacket, looks aristocratic and fully in keeping with business etiquette."
+      },
+      {
+        "q": "The absence of sleeves limits the piece's seasonality.",
+        "a": "On the contrary, this is the ideal foundation for layering. The Maizena dress pairs beautifully with our silk blouses or fine turtlenecks, allowing for stylish ensembles in any season."
+      },
+      {
+        "q": "Black looks too plain.",
+        "a": "Black in this piece serves as a flawless canvas. It showcases the quality of the knit and allows the focus to fall on our signature jewellery, such as the Narsete necklace or the Nolanite brooch."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шерсть может вызывать покалывание или раздражение на коже.",
+        "a": "Для линии Merinfleur мы используем только самую деликатную девственную шерсть высочайшей очистки. Она отличается гипоаллергенностью и шелковистой текстурой, сравнимой по мягкости с кашемиром."
+      },
+      {
+        "q": "Длина кажется слишком короткой для серьезных встреч.",
+        "a": "Это классическая итальянская длина, которая в сочетании с плотными матовыми колготками и структурированным жакетом выглядит аристократично и соответствует бизнес-этикету."
+      },
+      {
+        "q": "Отсутствие рукавов ограничивает сезонность модели.",
+        "a": "Напротив, это идеальная основа для многослойности. Платье Maizena превосходно сочетается с нашими шелковыми блузами или тонкими водолазками, позволяя создавать стильные ансамбли для любого времени года."
+      },
+      {
+        "q": "Черный цвет выглядит слишком просто.",
+        "a": "Черный цвет в данной модели служит безупречным холстом. Он подчеркивает качество вязки и позволяет сделать акцент на наших знаковых украшениях, таких как колье Narsete или брошь Nolanite."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تسبب الصوف وخزاً أو تهيجاً في البشرة.",
+        "a": "بالنسبة لمجموعة Merinfleur، نستخدم فقط أجود أنواع الصوف البكر فائق النقاء. فهو يتميز بكونه مضاداً للحساسية ويمتلك ملمساً حريرياً يضاهي نعومة الكشمير."
+      },
+      {
+        "q": "يبدو الطول قصيراً جداً للاجتماعات الرسمية.",
+        "a": "هذا هو الطول الإيطالي الكلاسيكي، الذي يبدو أرستقراطياً ومطابقاً لإتيكيت العمل عند تنسيقه مع جوارب طويلة معتمة وسترة منظمة."
+      },
+      {
+        "q": "غياب الأكمام يحد من إمكانية ارتداء الموديل في مواسم مختلفة.",
+        "a": "على العكس تماماً، فإنه يمثل أساساً مثالياً للطبقات. يتناغم فستان Maizena بشكل رائع مع بلوزاتنا الحريرية أو الياقات العالية الرقيقة، مما يتيح لكِ ابتكار إطلالات أنيقة في أي وقت من السنة."
+      },
+      {
+        "q": "اللون الأسود يبدو بسيطاً للغاية.",
+        "a": "يعمل اللون الأسود في هذا الموديل كلوحة مثالية. فهو يبرز جودة الحياكة ويسمح لكِ بتسليط الضوء على قطعنا الأيقونية، مثل قلادة Narsete أو بروش Nolanite."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მატყლმა შესაძლოა გამოიწვიოს ჩხვლეტა ან კანის გაღიზიანება.",
+        "a": "Merinfleur-ის ხაზისთვის ჩვენ ვიყენებთ მხოლოდ ყველაზე დელიკატურ, უმაღლესი ხარისხის პირველად მატყლს. ის გამოირჩევა ჰიპოალერგიულობითა და აბრეშუმისებრი ტექსტურით, რომელიც რბილობით ქაშმირს უტოლდება."
+      },
+      {
+        "q": "სიგრძე ზედმეტად მოკლე ჩანს სერიოზული შეხვედრებისთვის.",
+        "a": "ეს არის კლასიკური იტალიური სიგრძე, რომელიც მჭიდრო, მქრქალ კოლგოტებთან და სტრუქტურირებულ პიჯაკთან ერთად არისტოკრატულად გამოიყურება და შეესაბამება საქმიან ეტიკეტს."
+      },
+      {
+        "q": "სახელოების არარსებობა ზღუდავს მოდელის სეზონურობას.",
+        "a": "პირიქით, ეს მრავალშრიანი სტილისთვის იდეალური საფუძველია. Maizena-ს კაბა შესანიშნავად ეხამება ჩვენს აბრეშუმის ბლუზებს ან თხელ კუსფელდებს, რაც საშუალებას გაძლევთ შექმნათ მოდური ანსამბლები წლის ნებისმიერი დროისთვის."
+      },
+      {
+        "q": "შავი ფერი ზედმეტად მარტივად გამოიყურება.",
+        "a": "შავი ფერი ამ მოდელში უნაკლო ტილოს ფუნქციას ასრულებს. ის ხაზს უსვამს ქსოვის ხარისხს და საშუალებას იძლევა, აქცენტი გაკეთდეს ჩვენს საკულტო სამკაულებზე, როგორიცაა ყელსაბამი Narsete ან ბროში Nolanite."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բուրդը կարող է մաշկի վրա ծակծկոց կամ գրգռվածություն առաջացնել։",
+        "a": "Merinfleur գծի համար մենք օգտագործում ենք միայն ամենանուրբ, բարձրագույն մաքրության կույս բուրդ։ Այն աչքի է ընկնում հիպոալերգենությամբ և մետաքսյա հյուսվածքով, որը փափկությամբ համեմատելի է քաշմիրի հետ։"
+      },
+      {
+        "q": "Երկարությունը կարճ է թվում լուրջ հանդիպումների համար։",
+        "a": "Սա դասական իտալական երկարություն է, որը խիտ անթափանց զուգագուլպաների և կառուցվածքային ժակետի հետ համադրությամբ տեսքին հաղորդում է ազնվականություն և համապատասխանում է գործարար էթիկետին։"
+      },
+      {
+        "q": "Թևերի բացակայությունը սահմանափակում է մոդելի սեզոնայնությունը։",
+        "a": "Հակառակը, սա բազմաշերտ հագուստի իդեալական հիմք է։ Maizena զգեստը հիանալի կերպով համադրվում է մեր մետաքսյա բլուզների կամ բարակ ջեմպրերի հետ՝ թույլ տալով ստեղծել նորաձև անսամբլներ տարվա ցանկացած եղանակի համար։"
+      },
+      {
+        "q": "Սև գույնը չափազանց պարզ է թվում։",
+        "a": "Այս մոդելում սև գույնը հանդես է գալիս որպես անթերի կտավ։ Այն ընդգծում է հյուսվածքի որակը և հնարավորություն տալիս շեշտադրել մեր նշանավոր զարդերը, ինչպիսիք են Narsete վզնոցը կամ Nolanite բրոշը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vilna varētu radīt kņudināšanu vai kairinājumu uz ādas.",
+        "a": "Merinfleur līnijai mēs izmantojam tikai visdelikātāko, augstākās tīrības pakāpes jaunvilnu. Tā izceļas ar hipoalerģiskumu un zīdainu tekstūru, kas mīkstuma ziņā ir salīdzināma ar kašmiru."
+      },
+      {
+        "q": "Garums šķiet pārāk īss nopietnām tikšanās reizēm.",
+        "a": "Šis ir klasisks itāļu garums, kas kombinācijā ar blīvām, matētām zeķubiksēm un strukturētu žaketi izskatās aristokrātiski un atbilst biznesa etiķetei."
+      },
+      {
+        "q": "Piedurkņu trūkums ierobežo modeļa sezonalitāti.",
+        "a": "Gluži pretēji, tas ir ideāls pamats slāņveida tēlam. Maizena kleita lieliski sader ar mūsu zīda blūzēm vai plānajiem džemperiem ar augstu apkakli, ļaujot izveidot stilīgus ansambļus jebkuram gadalaikam."
+      },
+      {
+        "q": "Melnā krāsa izskatās pārāk vienkārši.",
+        "a": "Melnā krāsa šajā modelī kalpo kā nevainojams audekls. Tā izceļ adījuma kvalitāti un ļauj likt akcentu uz mūsu ikoniskajām rotaslietām, piemēram, Narsete kaklarotu vai Nolanite brošu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Vilna gali sukelti niežulį ar odos dirginimą.",
+        "a": "„Merinfleur“ linijai naudojame tik pačią delikačiausią aukščiausio grynumo vilną. Ji pasižymi hipoalerginėmis savybėmis ir šilkine tekstūra, savo švelnumu prilygstančia kašmyrui."
+      },
+      {
+        "q": "Ilgis atrodo per trumpas oficialiems susitikimams.",
+        "a": "Tai klasikinis itališkas ilgis, kuris derinamas su tankiomis matinėmis pėdkelnėmis ir struktūruotu švarku atrodo aristokratiškai bei atitinka verslo etiketą."
+      },
+      {
+        "q": "Rankovių trūkumas riboja modelio sezoniškumą.",
+        "a": "Priešingai, tai idealus pagrindas sluoksniuotam deriniui. Suknelė Maizena puikiai dera su mūsų šilkinėmis palaidinėmis ar plonais golfais, leidžiančiais kurti stilingus ansamblius bet kuriuo metų laiku."
+      },
+      {
+        "q": "Juoda spalva atrodo per daug paprastai.",
+        "a": "Juoda spalva šiame modelyje tarnauja kaip nepriekaištinga drobė. Ji pabrėžia mezgimo kokybę ir leidžia sutelkti dėmesį į mūsų ikoniškus papuošalus, tokius kaip vėrinys Narsete ar sagė Nolanite."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wełna może powodować uczucie kłucia lub podrażnienia skóry.",
+        "a": "W linii Merinfleur stosujemy wyłącznie najbardziej delikatną dziewiczą wełnę najwyższej czystości. Wyróżnia się ona hipoalergicznością oraz jedwabistą teksturą, porównywalną w swojej miękkości do kaszmiru."
+      },
+      {
+        "q": "Długość wydaje się zbyt krótka na poważne spotkania.",
+        "a": "Jest to klasyczna włoska długość, która w połączeniu z kryjącymi, matowymi rajstopami oraz strukturalnym żakietem prezentuje się arystokratycznie i w pełni odpowiada etykiecie biznesowej."
+      },
+      {
+        "q": "Brak rękawów ogranicza sezonowość modelu.",
+        "a": "Przeciwnie, to idealna baza do tworzenia wielowarstwowych stylizacji. Sukienka Maizena doskonale komponuje się z naszymi jedwabnymi bluzkami lub cienkimi golfami, pozwalając na tworzenie stylowych zestawów na każdą porę roku."
+      },
+      {
+        "q": "Czarny kolor wygląda zbyt prosto.",
+        "a": "Czarny kolor w tym modelu służy jako bezbłędne płótno. Podkreśla jakość splotu i pozwala wyeksponować nasze kultowe ozdoby, takie jak naszyjnik Narsete czy broszka Nolanite."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Вовна може викликати поколювання або подразнення на шкірі.",
+        "a": "Для лінії Merinfleur ми використовуємо лише найделікатнішу незайману вовну найвищого очищення. Вона вирізняється гіпоалергенністю та шовковистою текстурою, порівнянною за м'якістю з кашеміром."
+      },
+      {
+        "q": "Довжина здається занадто короткою для серйозних зустрічей.",
+        "a": "Це класична італійська довжина, яка у поєднанні з щільними матовими колготками та структурованим жакетом виглядає аристократично і відповідає бізнес-етикету."
+      },
+      {
+        "q": "Чорний колір виглядає занадто просто.",
+        "a": "Чорний колір у цій моделі слугує бездоганним полотном. Він підкреслює якість в'язки та дозволяє зробити акцент на наших знакових прикрасах, таких як кольє Narsete або брошка Nolanite."
+      }
+    ]
+  }
+}

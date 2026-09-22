@@ -1,0 +1,353 @@
+{
+  "id": 82,
+  "name": "Graffiti",
+  "description": {
+    "en": "An exquisite mini dress in mÃ©lange bouclÃ©, embodying a contemporary interpretation of Luisa Spagnoli's aristocratic style. The piece captivates the eye with an oversized Peter Pan collar with softly rounded edges and a contrasting chiffon lavalliÃ¨re bow. Structured shoulders and long sleeves create a crisp, graphic silhouette, while the fabric's noble texture, combined with an above-the-knee length, strikes the perfect balance between classic heritage and runway-worthy boldness.",
+    "ru": "Изысканное мини-платье из меланжевого букле, воплощающее современную интерпретацию аристократичного стиля Luisa Spagnoli. Модель приковывает взгляд гипертрофированным воротником «Питер Пэн» с мягко закругленными краями и контрастным шифоновым бантом лавальер. Структурированные плечи и длинные рукава создают четкий, графичный силуэт, а благородная фактура ткани в сочетании с длиной выше колена делает этот образ идеальным балансом между классическим наследием и подиумной смелостью.",
+    "ar": "فستان قصير (ميني) رائع من قماش البوكليه الممزوج، يجسد التفسير العصري لأسلوب Luisa Spagnoli الأرستقراطي. يخطف الموديل الأنظار بياقة \"بيتر بان\" المتضخمة ذات الحواف المستديرة بنعومة وربطة شيفون متباينة بنمط \"لافاليير\". تمنح الأكتاف المهيكلة والأكمام الطويلة صورة ظلية واضحة وجرافيكية، بينما تجعل خامة القماش الفاخرة مع الطول فوق الركبة من هذه الإطلالة توازناً مثالياً بين التراث الكلاسيكي وجرأة منصات العرض.",
+    "ka": "დახვეწილი მინი-კაბა მელანჟის ბუკლესგან, რომელიც განასახიერებს Luisa Spagnoli-ს არისტოკრატული სტილის თანამედროვე ინტერპრეტაციას. მოდელი იპყრობს მზერას ჰიპერტროფირებული „პიტერ პენის“ საყელოთი რბილად მომრგვალებული კიდეებითა და კონტრასტული შიფონის ბანტით ლავალიერით. სტრუქტურირებული მხრები და გრძელი სახელოები ქმნის მკაფიო, გრაფიკულ სილუეტს, ხოლო ქსოვილის კეთილშობილური ფაქტურა მუხლს ზემოთ სიგრძესთან კომბინაციაში ამ სახეს კლასიკურ მემკვიდრეობასა და პოდიუმურ სითამამეს შორის იდეალურ ბალანსად აქცევს.",
+    "hy": "Մելանժային բուկլեից պատրաստված նրբաճաշակ մինի-զգեստ, որը մարմնավորում է Luisa Spagnoli-ի արիստոկրատական ոճի ժամանակակից մեկնաբանությունը: Մոդելը գրավում է հայացքները «Փիթեր Փեն» հիպերտրոֆիկ օձիքով՝ մեղմ կլորացված եզրերով և հակադրվող շիֆոնե լավալիեր ժապավենով: Ձևավորված ուսերը և երկար թևերը ստեղծում են հստակ, գրաֆիկական ուրվագիծ, իսկ գործվածքի ազնվական հյուսվածքը՝ ծնկից վեր երկարության հետ համատեղ, այս կերպարը դարձնում է կատարյալ հավասարակշռություն դասական ժառանգության և պոդիումային համարձակության միջև:",
+    "lv": "Izsmalcināta mini kleita no melanža bukē, kas iemieso mūsdienīgu Luisa Spagnoli aristokrātiskā stila interpretāciju. Modelis piesaista skatienus ar hipertrofētu «Pītera Pena» apkakli ar mīksti noapaļotām malām un kontrastējošu šifona lavaljē banti. Strukturēti pleci un garas piedurknēs rada skaidru, grafisku siluetu, bet cēlā auduma faktūra kombinācijā ar garumu virs ceļgala padara šo tēlu par ideālu līdzsvaru starp klasisko mantojumu un modes skates drosmi.",
+    "lt": "Išskirtinė mini suknelė iš melanžinio bukliuoto audinio, įkūnijanti šiuolaikinę aristokratiško Luisa Spagnoli stiliaus interpretaciją. Modelis traukia žvilgsnį hipertrofuota „Peter Pan“ apykakle su švelniai užapvalintais kraštais ir kontrastinga šifonine „lavallière“ stiliaus kaklaraiščio tipo detale. Struktūrizuoti pečiai ir ilgos rankovės sukuria griežtą, grafišką siluetą, o tauri audinio faktūra derinyje su ilgiu virš kelių paverčia šį įvaizdį idealia pusiausvyra tarp klasikinio palikimo ir podiumo drąsos.",
+    "pl": "Wyrafinowana sukienka mini z melanżowego boucle, stanowiąca nowoczesną interpretację arystokratycznego stylu Luisa Spagnoli. Model przykuwa wzrok przerysowanym kołnierzykiem typu „Piotruś Pan” z miękko zaokrąglonymi krawędziami oraz kontrastową szyfonową kokardą lavallière. Zaznaczone ramiona i długie rękawy tworzą wyrazistą, graficzną sylwetkę, a szlachetna faktura tkaniny w połączeniu z długością przed kolano stanowi idealną równowagę między klasycznym dziedzictwem a odwagą wybiegowych trendów.",
+    "uk": "Вишукана мінісукня з меланжевого букле, що втілює сучасну інтерпретацію аристократичного стилю Luisa Spagnoli. Модель приковує погляд гіпертрофованим коміром «Пітер Пен» із м'яко закругленими краями та контрастним шифоновим бантом лавальєр. Структуровані плечі та довгі рукави створюють чіткий, графічний силует, а благородна фактура тканини в поєднанні з довжиною вище коліна робить цей образ ідеальним балансом між класичною спадщиною та подіумною сміливістю."
+  },
+  "colors": [
+    {
+      "name": "Var Grigio Panna Bianco Nero",
+      "code": "3331 0201 0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GRAFFITI_333100000000.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1",
+        "ar": "Look 1",
+        "ka": "Look 1",
+        "hy": "Look 1",
+        "lv": "Look 1",
+        "lt": "Look 1",
+        "pl": "Look 1",
+        "uk": "Look 1",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1: Общий ансамбль, объединяющий платье Graffiti 3331 0201 0101, высокие сапоги Ustica A 0101 и сумку Ls1928p A 0101 0038. Дополнено серьгами Norico 0001 0002 ( Данные отсутствуют в официальных источниках).",
+        "en": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "ar": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "ka": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "hy": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "lv": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "lt": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "pl": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "uk": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Graffiti",
+          "code": "3331 0201 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GRAFFITI_333100000000.jpg"
+        },
+        {
+          "name": "Ustica A",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg"
+        },
+        {
+          "name": "Ls1928p A",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        },
+        {
+          "name": "Norico",
+          "code": "0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202026-02-13%20at%2011.44.51.jpeg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 1",
+        "ar": "Look 1",
+        "ka": "Look 1",
+        "hy": "Look 1",
+        "lv": "Look 1",
+        "lt": "Look 1",
+        "pl": "Look 1",
+        "uk": "Look 1",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1: Общий ансамбль, объединяющий платье Graffiti 3331 0201 0101, высокие сапоги Ustica A 0101 и сумку Ls1928p A 0101 0038. Дополнено серьгами Norico 0001 0002 ( Данные отсутствуют в официальных источниках).",
+        "en": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "ar": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "ka": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "hy": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "lv": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "lt": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "pl": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources).",
+        "uk": "An overall ensemble uniting the Graffiti 3331 0201 0101 dress, high Ustica A 0101 boots and an Ls1928p A 0101 0038 bag. Completed with Norico 0001 0002 earrings ( Data not available in official sources)."
+      },
+      "items": [
+        {
+          "name": "Graffiti",
+          "code": "3331 0201 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GRAFFITI_333100000000.jpg"
+        },
+        {
+          "name": "Ls1928p",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the distinctive statement collar: a ready-made styling solution that removes the need for additional neck jewelry.",
+      "Showcase the richness of the bouclé texture — a material always associated with status and the superior quality characteristic of Italian craftsmanship.",
+      "Recommend pairing the Graffiti piece with our bags from the LS1928 line to highlight both the brand's heritage and its contemporary chic."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на уникальном воротнике statement: это готовое стилистическое решение, которое избавляет от необходимости подбора дополнительных украшений на шею.",
+      "Продемонстрируйте богатство фактуры букле — этот материал всегда ассоциируется со статусностью и высоким качеством, характерным для итальянского производства.",
+      "Рекомендуйте сочетать модель Graffiti с нашими сумками из линии LS1928, чтобы подчеркнуть преемственность традиций и современный шик бренда."
+    ],
+    "ar": [
+      "سلطي الضوء على الياقة الاستثنائية (statement collar): فهي قطعة تصميمية جاهزة تغني عن الحاجة لاختيار قلائد إضافية.",
+      "استعرضي ثراء نسيج البوكلي - فهذه الخامة ترتبط دائماً بالفخامة والجودة العالية التي تميز الصناعة الإيطالية.",
+      "ننصح بتنسيق موديل Graffiti مع حقائبنا من خط LS1928، للتأكيد على استمرارية تقاليد الدار والرقي العصري للعلامة التجارية."
+    ],
+    "ka": [
+      "ყურადღება გაამახვილეთ კლიენტის ყურადღება უნიკალურ statement საყელოზე: ეს არის მზა სტილისტური გადაწყვეტა, რომელიც ათავისუფლებს კისერზე დამატებითი სამკაულების შერჩევის აუცილებლობისგან.",
+      "აჩვენეთ ბუკლეს ფაქტურის სიმდიდრე — ეს მასალა ყოველთვის ასოცირდება სტატუსურობასთან და მაღალ ხარისხთან, რომელიც დამახასიათებელია იტალიური წარმოებისთვის.",
+      "რეკომენდაცია გაუწიეთ Graffiti მოდელის შეხამებას ჩვენს LS1928 ხაზის ჩანთებთან, რათა ხაზი გაუსვათ ტრადიციების უწყვეტობას და ბრენდის თანამედროვე შიკს."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք եզակի statement օձիքի վրա. սա ոճային պատրաստի լուծում է, որը վերացնում է պարանոցի համար հավելյալ զարդեր ընտրելու անհրաժեշտությունը։",
+      "Ցուցադրեք բուկլե գործվածքի հարստությունը. այս նյութը միշտ ասոցացվում է կարգավիճակի և բարձր որակի հետ, որը բնորոշ է իտալական արտադրությանը։",
+      "Առաջարկեք Graffiti մոդելը համադրել մեր LS1928 շարքի պայուսակների հետ՝ ընդգծելու ապրանքանիշի ավանդույթների շարունակականությունը և ժամանակակից նրբագեղությունը։"
+    ],
+    "lv": [
+      "Akcentējiet klienta uzmanību uz unikālo statement apkakli: tas ir gatavs stilistisks risinājums, kas atbrīvo no nepieciešamības piemeklēt papildu rotaslietas kaklam.",
+      "Demonstrējiet buklē faktūras bagātību — šis materiāls vienmēr asociējas ar statusu un augstu kvalitāti, kas raksturīga itāļu ražojumiem.",
+      "Iesakiet kombinēt Graffiti modeli ar mūsu LS1928 līnijas somām, lai uzsvērtu zīmola tradīciju pēctecību un mūsdienīgu šiku."
+    ],
+    "lt": [
+      "Akcentuokite kliento dėmesį į unikalų „statement“ stiliaus atvartą: tai paruoštas stilistinis sprendimas, kuris išlaisvina nuo būtinybės derinti papildomus kaklo papuošalus.",
+      "Pademonstruokite „bouclé“ faktūros turtingumą — ši medžiaga visada asocijuojasi su statusu ir aukšta kokybe, būdinga itališkai gamybai.",
+      "Rekomenduokite derinti Graffiti modelį su mūsų LS1928 linijos rankinėmis, kad pabrėžtumėte tradicijų tęstinumą ir šiuolaikišką prekės ženklo prašmatnumą."
+    ],
+    "pl": [
+      "Skup uwagę klientki na unikalnym kołnierzu statement: to gotowe rozwiązanie stylistyczne, które eliminuje potrzebę doboru dodatkowej biżuterii na szyję.",
+      "Zaprezentuj bogactwo faktury bouclé — ten materiał zawsze kojarzy się ze statusem i wysoką jakością, charakterystyczną dla włoskiej produkcji.",
+      "Rekomenduj łączenie modelu Graffiti z naszymi torebkami z linii LS1928, aby podkreślić ciągłość tradycji i nowoczesny szyk marki."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на унікальному комірі statement: це готове стилістичне рішення, яке позбавляє необхідності підбору додаткових прикрас на шию.",
+      "Продемонструйте багатство фактури букле — цей матеріал завжди асоціюється зі статусністю та високою якістю, характерною для італійського виробництва.",
+      "Рекомендуйте поєднувати модель Graffiti з нашими сумками з лінії LS1928, щоб підкреслити спадкоємність традицій та сучасний шик бренду."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "A mini length may seem insufficiently serious for a business meeting.",
+        "a": "Thanks to its high neckline with long sleeves and dense bouclé texture, the Graffiti piece maintains an impeccable level of elegance, in keeping with daytime dress codes."
+      },
+      {
+        "q": "The light-coloured collar and bow seem impractical.",
+        "a": "The chiffon details and collar trim are crafted from premium-grade materials. With proper professional care, the piece will retain its colour contrast and freshness for years to come."
+      },
+      {
+        "q": "Concern that the bouclé will visually add bulk.",
+        "a": "The design features structured shoulders that balance the proportions, while the straight cut of the dress creates a slender vertical line, gracefully concealing any figure concerns."
+      },
+      {
+        "q": "The contrasting bow feels too restrictive when it comes to accessorising.",
+        "a": "On the contrary, the lavallière bow is the centrepiece accessory of the look. We recommend completing the dress with understated earrings and a bag in a matching tone, as seen in our runway looks."
+      },
+      {
+        "q": "The dress looks too warm.",
+        "a": "The bouclé texture provides gentle warmth and comfort during the transitional season, while remaining breathable and lightweight, allowing you to feel confident throughout the day."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Мини-длина может выглядеть недостаточно серьезно для деловой встречи.",
+        "a": "Благодаря закрытому верху с длинными рукавами и плотной фактуре букле, модель Graffiti сохраняет безупречный уровень элегантности, соответствуя этикету дневных мероприятий."
+      },
+      {
+        "q": "Светлый воротник и бант кажутся непрактичными.",
+        "a": "Детали из шифона и отделка воротника выполнены из материалов премиум-класса. При соблюдении рекомендаций по профессиональному уходу изделие сохранит контрастность и свежесть цветов на долгие годы."
+      },
+      {
+        "q": "Боюсь, что букле будет визуально добавлять объем.",
+        "a": "Дизайн модели включает структурированные плечи, которые уравновешивают пропорции, а прямой крой платья создает стройную вертикаль, скрывая недостатки фигуры."
+      },
+      {
+        "q": "Контрастный бант слишком обязывает в плане аксессуаров.",
+        "a": "Напротив, бант лавальер является центральным аксессуаром образа. Мы рекомендуем дополнить платье лаконичными серьгами и сумкой в тон отделки, как в наших подиумных луках."
+      },
+      {
+        "q": "Платье выглядит слишком теплым.",
+        "a": "Текстура букле обеспечивает мягкое тепло и комфорт в демисезонный период, оставаясь при этом дышащей и легкой, что позволяет чувствовать себя уверенно в течение всего дня."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الطول القصير قد يبدو غير جدي بما يكفي لاجتماع عمل.",
+        "a": "بفضل الجزء العلوي المغلق بأكمام طويلة وخامة 'بوكليه' (bouclé) الكثيفة، يحافظ موديل Graffiti على مستوى مثالي من الأناقة بما يتوافق مع إتيكيت الفعاليات النهارية."
+      },
+      {
+        "q": "الياقة الفاتحة والربطة تبدوان غير عمليتين.",
+        "a": "تفاصيل الشيفون والياقة مصنوعة من خامات ممتازة. مع اتباع تعليمات العناية الاحترافية، ستحافظ القطعة على تباين ألوانها وانتعاشها لسنوات طويلة."
+      },
+      {
+        "q": "أخشى أن قماش البوكليه سيزيد من حجم قوامي بصرياً.",
+        "a": "يتضمن تصميم الموديل أكتافاً مهيكلة توازن التناسب، بينما تخلق القصة المستقيمة للفستان خطاً عمودياً يبرز الرشاقة ويخفي عيوب القوام."
+      },
+      {
+        "q": "الربطة المتباينة تلزمك بنمط معين من الإكسسوارات.",
+        "a": "على العكس تماماً، تعتبر ربطة 'لافاليير' عنصراً أساسياً في الإطلالة. ننصح بتنسيق الفستان مع أقراط بسيطة وحقيبة تتناسب مع لون الإضافات، كما في إطلالات عروض الأزياء لدينا."
+      },
+      {
+        "q": "الفستان يبدو دافئاً أكثر من اللازم.",
+        "a": "يوفر نسيج البوكليه دفئاً ناعماً وراحة في المواسم الانتقالية، مع الحفاظ على كونه جيد التهوية وخفيف الوزن، مما يمنحك ثقة كاملة طوال اليوم."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მინი სიგრძე შეიძლება არ ჩანდეს საკმარისად სერიოზულად საქმიანი შეხვედრისთვის.",
+        "a": "დახურული ზედა ნაწილის გრძელი სახელოებით და ბუკლეს მკვრივი ფაქტურის წყალობით, მოდელი Graffiti ინარჩუნებს ელეგანტურობის უნაკლო დონეს, რომელიც შეესაბამება დღის ღონისძიებების ეტიკეტს."
+      },
+      {
+        "q": "ღია ფერის საყელო და ბანტი არაპრაქტიკული ჩანს.",
+        "a": "შიფონის დეტალები და საყელოს გაფორმება დამზადებულია პრემიუმ-კლასის მასალებისგან. პროფესიონალური მოვლის რეკომენდაციების დაცვის შემთხვევაში, ნაკეთობა შეინარჩუნებს ფერების კონტრასტულობასა და სიახლეს მრავალი წლის განმავლობაში."
+      },
+      {
+        "q": "მეშინია, რომ ბუკლე ვიზუალურად არ დაუმატოს მოცულობა.",
+        "a": "მოდელის დიზაინი მოიცავს სტრუქტურირებულ მხრებს, რომლებიც აბალანსებს პროპორციებს, ხოლო კაბის სწორი ჭრა ქმნის თხელ ვერტიკალს და ფარავს ფიგურის ნაკლოვანებებს."
+      },
+      {
+        "q": "კონტრასტული ბანტი ზედმეტად ავალდებულებს აქსესუარების მხრივ.",
+        "a": "პირიქით, ბანტი „ლავალიერი“ სახის ცენტრალური აქსესუარია. ჩვენ გირჩევთ კაბას შეუხამოთ ლაკონიური საყურეები და მოსაპირკეთებელი ფერის ჩანთა, როგორც ჩვენს პოდიუმის ლუქებში."
+      },
+      {
+        "q": "კაბა ზედმეტად თბილი ჩანს.",
+        "a": "ბუკლეს ტექსტურა უზრუნველყოფს რბილ სითბოს და კომფორტს სეზონთაშორის პერიოდში, ამასთან რჩება სუნთქვადი და მსუბუქი, რაც საშუალებას გაძლევთ იგრძნოთ თავი თავდაჯერებულად მთელი დღის განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Մինի երկարությունը կարող է ոչ բավականաչափ լուրջ թվալ գործնական հանդիպման համար։",
+        "a": "Փակ վերնամասի, երկար թևերի և բուկլեի խիտ ֆակտուրայի շնորհիվ Graffiti մոդելը պահպանում է էլեգանտության անթերի մակարդակ՝ համապատասխանելով ցերեկային միջոցառումների էթիկետին։"
+      },
+      {
+        "q": "Բաց գույնի օձիքը և ժապավենը ոչ գործնական են թվում։",
+        "a": "Շիֆոնե դետալները և օձիքի հարդարանքը կատարված են պրեմիում դասի նյութերից։ Մասնագիտական խնամքի խորհուրդներին հետևելու դեպքում հագուստը կպահպանի գույների հակադրությունը և թարմությունը երկար տարիներ։"
+      },
+      {
+        "q": "Վախենում եմ, որ բուկլեն տեսողականորեն ծավալ կավելացնի։",
+        "a": "Մոդելի դիզայնը ներառում է կառուցվածքային ուսեր, որոնք հավասարակշռում են համամասնությունները, իսկ զգեստի ուղիղ կտրվածքը ստեղծում է սլացիկ ուղղահայաց գիծ՝ թաքցնելով կազմվածքի թերությունները։"
+      },
+      {
+        "q": "Հակադիր ժապավենը չափազանց պարտադրող է աքսեսուարների առումով։",
+        "a": "Ընդհակառակը, լավալյեր ժապավենը կերպարի կենտրոնական աքսեսուարն է։ Մենք խորհուրդ ենք տալիս զգեստը լրացնել լակոնիկ ականջօղերով և հարդարանքի գույնին համահունչ պայուսակով՝ ինչպես մեր պոդիումային լուքերում։"
+      },
+      {
+        "q": "Զգեստը չափազանց տաք է թվում։",
+        "a": "Բուկլեի տեքստուրան ապահովում է փափուկ ջերմություն և հարմարավետություն միջսեզոնային շրջանում՝ միաժամանակ մնալով շնչող և թեթև, ինչը թույլ է տալիս ձեզ վստահ զգալ ողջ օրվա ընթացքում։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Mini garums var izskatīties nepietiekami nopietns lietišķai tikšanās reizei.",
+        "a": "Pateicoties slēgtajai augšdaļai ar garām piedurknēm un blīvajai bukē faktūrai, modelis Graffiti saglabā nevainojamu elegances līmeni, atbilstot dienas pasākumu etiķetei."
+      },
+      {
+        "q": "Gaišā apkakle un bante šķiet nepraktiskas.",
+        "a": "Šifona detaļas un apkakles apdare ir izgatavotas no premium klases materiāliem. Ievērojot profesionālās kopšanas ieteikumus, izstrādājums saglabās krāsu kontrastu un svaigumu ilgus gadus."
+      },
+      {
+        "q": "Baidos, ka bukē vizuāli palielinās apjomu.",
+        "a": "Modeļa dizainā ietilpst strukturēti pleci, kas līdzsvaro proporcijas, bet taisnais kleitas piegriezums rada slaidu vertikāli, slēpjot figūras nepilnības."
+      },
+      {
+        "q": "Kontrastējošā bante pārāk uzliek par pienākumu aksesuāru izvēlē.",
+        "a": "Gluži pretēji, lavaljēra bante ir tēla centrālais aksesuārs. Mēs iesakām kleitu papildināt ar lakoniskajiem auskariem un somu apdares tonī, kā mūsu modes skates tēlos."
+      },
+      {
+        "q": "Kleita izskatās pārāk silta.",
+        "a": "Bukē tekstūra nodrošina maigu siltumu un komfortu starpsezonā, paliekot elpojoša un viegla, kas ļauj justies pārliecināti visas dienas garumā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Mini ilgis gali atrodyti nepakankamai rimtai verslo susitikimui.",
+        "a": "Dėl uždaro viršaus su ilgomis rankovėmis ir tankios „bouclé“ faktūros, modelis Graffiti išlaiko nepriekaištingą elegancijos lygį, atitinkantį dienos renginių etiketą."
+      },
+      {
+        "q": "Šviesi apykaklė ir kaspinas atrodo nepraktiškai.",
+        "a": "Šifono detalės ir apykaklės apdaila pagaminti iš aukščiausios klasės medžiagų. Laikantis profesionalios priežiūros rekomendacijų, gaminys išlaikys spalvų kontrastą ir gaivumą daugelį metų."
+      },
+      {
+        "q": "Bijau, kad „bouclé“ vizualiai pridės apimties.",
+        "a": "Modelio dizainas apima struktūrizuotus pečius, kurie subalansuoja proporcijas, o tiesus suknelės kirpimas sukuria liekną vertikalę, paslėpdamas figūros trūkumus."
+      },
+      {
+        "q": "Kontrastinis kaspinas per daug įpareigoja aksesuarų atžvilgiu.",
+        "a": "Priešingai, „lavallière“ tipo kaspinas yra centrinis įvaizdžio aksesuaras. Rekomenduojame papildyti suknelę lakoniškais auskarais ir rankine, derančia prie apdailos spalvos, kaip ir mūsų podiumo deriniuose."
+      },
+      {
+        "q": "Suknelė atrodo pernelyg šilta.",
+        "a": "„Bouclé“ tekstūra suteikia švelnią šilumą ir komfortą tarpsezoniu, išlikdama laidi orui ir lengva, kas leidžia jaustis užtikrintai visą dieną."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Krótka długość mini może wyglądać niewystarczająco poważnie na spotkanie biznesowe.",
+        "a": "Dzięki zabudowanej górze z długimi rękawami i gęstej fakturze boucle, model Graffiti zachowuje nienaganny poziom elegancji, wpisując się w etykietę dziennych wydarzeń."
+      },
+      {
+        "q": "Jasny kołnierzyk i kokarda wydają się niepraktyczne.",
+        "a": "Detale z szyfonu oraz wykończenie kołnierzyka zostały wykonane z materiałów klasy premium. Przy przestrzeganiu zaleceń dotyczących profesjonalnej pielęgnacji, produkt zachowa kontrastowość i świeżość kolorów na długie lata."
+      },
+      {
+        "q": "Obawiam się, że boucle będzie optycznie dodawać objętości.",
+        "a": "Design modelu obejmuje strukturalne ramiona, które równoważą proporcje, a prosty krój sukienki tworzy smukłą linię pionową, tuszując drobne niedoskonałości figury."
+      },
+      {
+        "q": "Kontrastowa kokarda zbyt narzuca dobór akcesoriów.",
+        "a": "Wręcz przeciwnie, kokarda typu lavallière jest centralnym punktem stylizacji. Zalecamy uzupełnienie sukienki minimalistycznymi kolczykami i torebką w kolorze wykończenia, jak w naszych pokazowych stylizacjach."
+      },
+      {
+        "q": "Sukienka wygląda na zbyt ciepłą.",
+        "a": "Tekstura boucle zapewnia delikatne ciepło i komfort w okresie przejściowym, pozostając jednocześnie oddychającą i lekką, co pozwala czuć się pewnie przez cały dzień."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Міні-довжина може виглядати недостатньо серйозно для ділової зустрічі.",
+        "a": "Завдяки закритому верху з довгими рукавами та щільній фактурі букле, модель Graffiti зберігає бездоганний рівень елегантності, відповідаючи етикету денних заходів."
+      },
+      {
+        "q": "Світлий комір і бант здаються непрактичними.",
+        "a": "Деталі з шифону та оздоблення коміра виконані з матеріалів преміум-класу. При дотриманні рекомендацій щодо професійного догляду виріб збереже контрастність і свіжість кольорів на довгі роки."
+      },
+      {
+        "q": "Боюся, що букле буде візуально додавати об'єму.",
+        "a": "Дизайн моделі включає структуровані плечі, які врівноважують пропорції, а прямий крій сукні створює струнку вертикаль, приховуючи недоліки фігури."
+      },
+      {
+        "q": "Контрастний бант занадто зобов'язує у плані аксесуарів.",
+        "a": "Навпаки, бант лавальєр є центральним аксесуаром образу. Ми рекомендуємо доповнити сукню лаконічними сережками та сумкою у тон оздоблення, як у наших подіумних луках."
+      },
+      {
+        "q": "Сукня виглядає занадто теплою.",
+        "a": "Текстура букле забезпечує м'яке тепло та комфорт у демісезонний період, залишаючись при цьому дихаючою та легкою, що дозволяє почуватися впевнено протягом усього дня."
+      }
+    ]
+  }
+}

@@ -1,0 +1,528 @@
+{
+  "id": 447,
+  "name": "Moles",
+  "description": {
+    "en": "The Moles jacket is a true masterpiece of 'soft tailoring', in which the discipline of a classic blazer meets the unparalleled softness of Italian knitwear. The cropped piece is crafted from noble pure virgin wool (pura lana vergine) using an intricate punto stoffa weave technique, lending the piece the density and stability of suiting fabric. The design is masterfully completed with exquisite pleated details, lending the piece a couture character and architectural depth. Classic lapels and functional flap pockets underscore the piece's status, while the signature enamel buttons bearing the LS logo serve as the jewel-like finishing touch to the look. Thanks to the Regular fit and open cuff slits, the jacket delivers absolute freedom of movement while remaining a symbol of intellectual luxury.",
+    "ru": "Жакет Moles --- это истинный шедевр «мягкого тейлоринга», в котором строгость классического блейзера встречается с непревзойденной нежностью итальянского трикотажа. Укороченная модель (cropped) выполнена из благородной чистой девственной шерсти (pura lana vergine) в технике сложного переплетения punto stoffa, обеспечивающего изделию плотность и стабильность костюмной ткани. Дизайн виртуозно дополнен изысканными деталями плиссе, которые придают модели кутюрный характер и архитектурную глубину. Классические лацканы и функциональные карманы с клапанами подчеркивают статусность изделия, а фирменные эмалированные пуговицы с логотипом LS служат ювелирным завершением образа. Благодаря регулярной посадке (vestibilità regular) и открытым разрезам на манжетах, жакет дарит абсолютную свободу движений, оставаясь символом интеллектуальной роскоши.",
+    "ar": "تعتبر سترة Moles تحفة فنية في مجال «التفصيل الناعم»، حيث تلتقي صرامة البليزر الكلاسيكي مع نعومة التريكو الإيطالي الفائقة. صُممت السترة بقصة قصيرة (cropped) من الصوف البكر الخالص (pura lana vergine) باستخدام تقنية الحياكة المعقدة punto stoffa، التي تمنح القطعة كثافة وثبات قماش البدلات. يكتمل التصميم بتفاصيل البليسيه الراقية التي تضفي طابعاً كوتورياً وعمقاً هندسياً. تبرز الياقات الكلاسيكية والجيوب الوظيفية ذات الأغطية فخامة القطعة، بينما تعمل الأزرار المطلية بالمينا بشعار LS كخاتمة جوهرية للمظهر. بفضل القصة المنتظمة (vestibilità regular) والفتحات الجانبية في الأساور، تمنح السترة حرية حركة مطلقة، لتظل رمزاً للرفاهية الفكرية.",
+    "ka": "Жакет Moles არის \"რბილი ტეილორინგის\" ნამდვილი შედევრი, რომელშიც კლასიკური ბლეიზერის სიმკაცრე იტალიური ტრიკოტაჟის შეუდარებელ სირბილეს ხვდება. укороченная модель (cropped) დამზადებულია კეთილშობილი სუფთა ქალწული მატყლისგან (pura lana vergine) punto stoffa-ს რთული ქსოვის ტექნიკით, რაც ნაკეთობას კოსტუმის ქსოვილის სიმკვრივესა და სტაბილურობას ანიჭებს. დიზაინი ვირტუოზულად არის შევსებული პლისეს დახვეწილი დეტალებით, რომლებიც მოდელს კუტიურის ხასიათსა და არქიტექტურულ სიღრმეს სძენს. კლასიკური ლაპელები და ჯიბეები კლაპნებით ნაკეთობის სტატუსს უსვამს ხაზს, ხოლო ბრენდირებული მომინანქრებული ღილები LS ლოგოთი იმიჯს საიუველირო დასრულებას სძენს. რეგულარული მორგების (vestibilità regular) და მანჟეტებზე ღია ჭრილების წყალობით, ჟაკეტი მოძრაობის აბსოლუტურ თავისუფლებას გვანიჭებს და ინტელექტუალური ფუფუნების სიმბოლოდ რჩება.",
+    "hy": "Moles բաճկոնը «փափուկ թեյլորինգի» իսկական գլուխգործոց է, որտեղ դասական բլեյզերի խստությունը հանդիպում է իտալական տրիկոտաժի անզուգական նրբությանը։ Կարճացված մոդելը (cropped) պատրաստված է ազնվական մաքուր կուսական բրդից (pura lana vergine)՝ punto stoffa բարդ հյուսվածքի տեխնիկայով, որն իրին հաղորդում է կոստյումային գործվածքի խտություն և կայունություն։ Դիզայնը վիրտուոզ կերպով լրացված է պլիսեի նուրբ դետալներով, որոնք մոդելին հաղորդում են կուտյուրային բնույթ և ճարտարապետական խորություն։ Դասական լացկաններն ու փականներով ֆունկցիոնալ գրպաններն ընդգծում են իրի կարգավիճակը, իսկ LS լոգոտիպով էմալապատ ֆիրմային կոճակները ծառայում են որպես կերպարի ոսկերչական ավարտ։ Կանոնավոր ձևվածքի (vestibilità regular) և թևքերի բացվածքների շնորհիվ բաճկոնը պարգևում է շարժման բացարձակ ազատություն՝ մնալով մտավոր շքեղության խորհրդանիշ։",
+    "lv": "Žakete Moles — tas ir patiess „maigā teiloringa” šedevrs, kurā klasiska bleizera stingrība satiekas ar itāļu trikotāžas nepārspējamo maigumu. Saīsinātais modelis (cropped) ir izgatavots no cēlas tīras jaunvilnas (pura lana vergine), izmantojot sarežģīto punto stoffa pinuma tehniku, kas izstrādājumam piešķir uzvalka audumam raksturīgo blīvumu un stabilitāti. Dizainu virtuozi papildina izsmalcinātas plisē detaļas, kas modelim piešķir koutūra raksturu un arhitektonisku dziļumu. Klasiskās atloks un funkcionālās kabatas ar atlokiem uzsver izstrādājuma statusu, bet firmas emaljētās pogas ar LS logotipu kalpo kā rotaslietas, kas noslēdz tēlu. Pateicoties regulāram piegriezumam (vestibilità regular) un atvērtajiem šķēlumiem uz aprocēm, žakete dāvā absolūtu kustību brīvību, paliekot par intelektuālā luksusa simbolu.",
+    "lt": "Švarkas Moles – tai tikras „minkšto siuvimo“ šedevras, kuriame klasikinio švarko griežtumas susitinka su neprilygstamu itališko trikotažo švelnumu. Trumpintas modelis (cropped) pagamintas iš kilnios grynos merino vilnos (pura lana vergine), naudojant sudėtingą punto stoffa pynimo techniką, suteikiančią gaminiui kostiuminio audinio tankumą ir stabilumą. Dizainą meistriškai papildo išskirtinės klostuotos detalės, kurios suteikia modeliui aukštosios mados charakterį ir architektūrinio gylio. Klasikiniai atlapai ir funkcionalios kišenės su atvartais pabrėžia gaminio statusą, o firminės emaliuotos sagos su LS logotipu tarnauja kaip juvelyrinis įvaizdžio užbaigimas. Dėl reguliaraus sukirpimo (vestibilità regular) ir atvirų skeltukų ant rankogalių švarkas suteikia absoliučią judėjimo laisvę, išlikdamas intelektualios prabangos simboliu.",
+    "pl": "Żakiet Moles to prawdziwe arcydzieło „miękkiego krawiectwa”, w którym surowość klasycznego blezera spotyka się z niezrównaną delikatnością włoskiej dzianiny. Skrócony model (cropped) wykonany jest ze szlachetnej czystej dziewiczej wełny (pura lana vergine) w technice złożonego splotu punto stoffa, zapewniającego produktowi gęstość i stabilność tkaniny garniturowej. Projekt został wirtuozersko uzupełniony wykwintnymi detalami plisowanymi, które nadają modelowi krawiecki charakter i architektoniczną głębię. Klasyczne klapy i funkcjonalne kieszenie z patkami podkreślają status produktu, a firmowe emaliowane guziki z logo LS służą jako jubilerskie wykończenie stylizacji. Dzięki regularnemu krojowi (vestibilità regular) i otwartym rozcięciom na mankietach, żakiet daje absolutną swobodę ruchów, pozostając symbolem intelektualnego luksusu.",
+    "uk": "Жакет Moles --- це справжній шедевр «м'якого тейлорингу», у якому строгість класичного блейзера зустрічається з неперевершеною ніжністю італійського трикотажу. Укорочена модель (cropped) виконана з благородної чистої дівочої вовни (pura lana vergine) у техніці складного плетіння punto stoffa, що забезпечує виробу щільність і стабільність костюмної тканини. Дизайн віртуозно доповнений вишуканими деталями плісе, які надають моделі кутюрного характеру та архітектурної глибини. Класичні лацкани та функціональні кишені з клапанами підкреслюють статусність виробу, а фірмові емальовані ґудзики з логотипом LS слугують ювелірним завершенням образу. Завдяки регулярній посадці (vestibilità regular) та відкритим розрізам на манжетах, жакет дарує абсолютну свободу рухів, залишаючись символом інтелектуальної розкоші."
+  },
+  "colors": [
+    {
+      "name": "Panna",
+      "code": "0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1702573811692424d34b7382_33574360_02781340XX1.jpg"
+    },
+    {
+      "name": "Senape",
+      "code": "1936",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1844512759692424d2892078_32836015_02781320XX1.jpg"
+    },
+    {
+      "name": "Melanzana",
+      "code": "0759",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2011465512692424d2e88a74_22193304_02781330XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда Luisa Spagnoli предлагают использовать жакет Moles как для создания женственных сетов с юбками, так и для динамичных городских образов: Вариант 0759 ( Сливовый): В lookbook (Look 84) и на витринах (Vetrina 73, Bambola 1): канонический трикотажный тотал-лук с туникой Mascate 0759 и юбкой миди Morolo 0759, дополненный шелковым платком Rocchero 4693.",
+        "en": "The Luisa Spagnoli brand stylists suggest using the Moles jacket both for creating feminine sets with skirts and for dynamic urban looks: Option 0759 ( Plum): In lookbook (Look 84) and on display (Vetrina 73, Bambola 1): a canonical knit total-look with a Mascate 0759 tunic and a Morolo 0759 midi skirt, complemented by a Rocchero 4693 silk scarf.",
+        "ar": "The Luisa Spagnoli brand stylists suggest using the Moles jacket both for creating feminine sets with skirts and for dynamic urban looks: Option 0759 ( Plum): In lookbook (Look 84) and on display (Vetrina 73, Bambola 1): a canonical knit total-look with a Mascate 0759 tunic and a Morolo 0759 midi skirt, complemented by a Rocchero 4693 silk scarf.",
+        "ka": "The Luisa Spagnoli brand stylists suggest using the Moles jacket both for creating feminine sets with skirts and for dynamic urban looks: Option 0759 ( Plum): In lookbook (Look 84) and on display (Vetrina 73, Bambola 1): a canonical knit total-look with a Mascate 0759 tunic and a Morolo 0759 midi skirt, complemented by a Rocchero 4693 silk scarf.",
+        "hy": "The Luisa Spagnoli brand stylists suggest using the Moles jacket both for creating feminine sets with skirts and for dynamic urban looks: Option 0759 ( Plum): In lookbook (Look 84) and on display (Vetrina 73, Bambola 1): a canonical knit total-look with a Mascate 0759 tunic and a Morolo 0759 midi skirt, complemented by a Rocchero 4693 silk scarf.",
+        "lv": "The Luisa Spagnoli brand stylists suggest using the Moles jacket both for creating feminine sets with skirts and for dynamic urban looks: Option 0759 ( Plum): In lookbook (Look 84) and on display (Vetrina 73, Bambola 1): a canonical knit total-look with a Mascate 0759 tunic and a Morolo 0759 midi skirt, complemented by a Rocchero 4693 silk scarf.",
+        "lt": "The Luisa Spagnoli brand stylists suggest using the Moles jacket both for creating feminine sets with skirts and for dynamic urban looks: Option 0759 ( Plum): In lookbook (Look 84) and on display (Vetrina 73, Bambola 1): a canonical knit total-look with a Mascate 0759 tunic and a Morolo 0759 midi skirt, complemented by a Rocchero 4693 silk scarf.",
+        "pl": "The Luisa Spagnoli brand stylists suggest using the Moles jacket both for creating feminine sets with skirts and for dynamic urban looks: Option 0759 ( Plum): In lookbook (Look 84) and on display (Vetrina 73, Bambola 1): a canonical knit total-look with a Mascate 0759 tunic and a Morolo 0759 midi skirt, complemented by a Rocchero 4693 silk scarf.",
+        "uk": "The Luisa Spagnoli brand stylists suggest using the Moles jacket both for creating feminine sets with skirts and for dynamic urban looks: Option 0759 ( Plum): In lookbook (Look 84) and on display (Vetrina 73, Bambola 1): a canonical knit total-look with a Mascate 0759 tunic and a Morolo 0759 midi skirt, complemented by a Rocchero 4693 silk scarf."
+      },
+      "items": [
+        {
+          "name": "Mascate",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1136552101691c5791c992f1_52218978_02790090XX1.jpg",
+          "modelId": 436
+        },
+        {
+          "name": "Morolo",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000.jpg",
+          "modelId": 450
+        },
+        {
+          "name": "Rocchero",
+          "code": "4693",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/UeTI07JEQnuybrvsR-bv5g_2080263624691c57e8aaf160_18464595_02800370XX7.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 75, Bambola 2)",
+        "en": "On display (Vetrina 75, Bambola 2)",
+        "ar": "On display (Vetrina 75, Bambola 2)",
+        "ka": "On display (Vetrina 75, Bambola 2)",
+        "hy": "On display (Vetrina 75, Bambola 2)",
+        "lv": "On display (Vetrina 75, Bambola 2)",
+        "lt": "On display (Vetrina 75, Bambola 2)",
+        "pl": "On display (Vetrina 75, Bambola 2)",
+        "uk": "On display (Vetrina 75, Bambola 2)"
+      },
+      "text": {
+        "ru": "современное прочтение с поло Mlacaria 0970 и юбкой Morolo 0759.",
+        "en": "a modern interpretation with an Mlacaria 0970 polo and a Morolo 0759 skirt.",
+        "ar": "a modern interpretation with an Mlacaria 0970 polo and a Morolo 0759 skirt.",
+        "ka": "a modern interpretation with an Mlacaria 0970 polo and a Morolo 0759 skirt.",
+        "hy": "a modern interpretation with an Mlacaria 0970 polo and a Morolo 0759 skirt.",
+        "lv": "a modern interpretation with an Mlacaria 0970 polo and a Morolo 0759 skirt.",
+        "lt": "a modern interpretation with an Mlacaria 0970 polo and a Morolo 0759 skirt.",
+        "pl": "a modern interpretation with an Mlacaria 0970 polo and a Morolo 0759 skirt.",
+        "uk": "a modern interpretation with an Mlacaria 0970 polo and a Morolo 0759 skirt."
+      },
+      "items": [
+        {
+          "name": "Mlacaria",
+          "code": "0970",
+          "imageUrl": null
+        },
+        {
+          "name": "Morolo",
+          "code": "0759",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000.jpg",
+          "modelId": 450
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 74, Bambola 3)",
+        "en": "On display (Vetrina 74, Bambola 3)",
+        "ar": "On display (Vetrina 74, Bambola 3)",
+        "ka": "On display (Vetrina 74, Bambola 3)",
+        "hy": "On display (Vetrina 74, Bambola 3)",
+        "lv": "On display (Vetrina 74, Bambola 3)",
+        "lt": "On display (Vetrina 74, Bambola 3)",
+        "pl": "On display (Vetrina 74, Bambola 3)",
+        "uk": "On display (Vetrina 74, Bambola 3)"
+      },
+      "text": {
+        "ru": "многослойный образ под объемным коротким пальто Soppalco 0733 в паре с рубашкой Limonaia 0202 ( и вельветовыми брюками Olap 2259. Вариант 1936 ( Серый):",
+        "en": "a layered look under a voluminous short Soppalco 0733 coat paired with a Limonaia 0202 shirt ( and Olap 2259 corduroy trousers. Option 1936 ( Grey):",
+        "ar": "a layered look under a voluminous short Soppalco 0733 coat paired with a Limonaia 0202 shirt ( and Olap 2259 corduroy trousers. Option 1936 ( Grey):",
+        "ka": "a layered look under a voluminous short Soppalco 0733 coat paired with a Limonaia 0202 shirt ( and Olap 2259 corduroy trousers. Option 1936 ( Grey):",
+        "hy": "a layered look under a voluminous short Soppalco 0733 coat paired with a Limonaia 0202 shirt ( and Olap 2259 corduroy trousers. Option 1936 ( Grey):",
+        "lv": "a layered look under a voluminous short Soppalco 0733 coat paired with a Limonaia 0202 shirt ( and Olap 2259 corduroy trousers. Option 1936 ( Grey):",
+        "lt": "a layered look under a voluminous short Soppalco 0733 coat paired with a Limonaia 0202 shirt ( and Olap 2259 corduroy trousers. Option 1936 ( Grey):",
+        "pl": "a layered look under a voluminous short Soppalco 0733 coat paired with a Limonaia 0202 shirt ( and Olap 2259 corduroy trousers. Option 1936 ( Grey):",
+        "uk": "a layered look under a voluminous short Soppalco 0733 coat paired with a Limonaia 0202 shirt ( and Olap 2259 corduroy trousers. Option 1936 ( Grey):"
+      },
+      "items": [
+        {
+          "name": "Soppalco",
+          "code": "0733",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1763425955691c57c36a48f3_35962156_02780270XX1.jpg",
+          "modelId": 329
+        },
+        {
+          "name": "Limonaia",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIA_117100000000.jpg",
+          "modelId": 416
+        },
+        {
+          "name": "Olap",
+          "code": "2259",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/894988827691f15a03fcb79_08463233_02780960XX1.jpg",
+          "modelId": 243
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "В lookbook (Look 80) и на витринах (Vetrina 112, Bambola 2)",
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null
+      },
+      "text": {
+        "ru": "интеллектуальный деловой образ с белой рубашкой Loriana 0201 и строгими брюками Orville 0101. - Акцентный сет: стилисты также рекомендуют сочетание с широкими джинсами Opaglio 0927, как представлено в Look 80. Вариант 0202 ( Белый):",
+        "en": "In lookbook (Look 80) and on display (Vetrina 112, Bambola 2): an intellectual business look with a white Loriana 0201 shirt and crisp Orville 0101 trousers. - Accent set: stylists also recommend combining with wide-leg Opaglio 0927 jeans, as presented in Look 80. Option 0202 ( White):",
+        "ar": "In lookbook (Look 80) and on display (Vetrina 112, Bambola 2): an intellectual business look with a white Loriana 0201 shirt and crisp Orville 0101 trousers. - Accent set: stylists also recommend combining with wide-leg Opaglio 0927 jeans, as presented in Look 80. Option 0202 ( White):",
+        "ka": "In lookbook (Look 80) and on display (Vetrina 112, Bambola 2): an intellectual business look with a white Loriana 0201 shirt and crisp Orville 0101 trousers. - Accent set: stylists also recommend combining with wide-leg Opaglio 0927 jeans, as presented in Look 80. Option 0202 ( White):",
+        "hy": "In lookbook (Look 80) and on display (Vetrina 112, Bambola 2): an intellectual business look with a white Loriana 0201 shirt and crisp Orville 0101 trousers. - Accent set: stylists also recommend combining with wide-leg Opaglio 0927 jeans, as presented in Look 80. Option 0202 ( White):",
+        "lv": "In lookbook (Look 80) and on display (Vetrina 112, Bambola 2): an intellectual business look with a white Loriana 0201 shirt and crisp Orville 0101 trousers. - Accent set: stylists also recommend combining with wide-leg Opaglio 0927 jeans, as presented in Look 80. Option 0202 ( White):",
+        "lt": "In lookbook (Look 80) and on display (Vetrina 112, Bambola 2): an intellectual business look with a white Loriana 0201 shirt and crisp Orville 0101 trousers. - Accent set: stylists also recommend combining with wide-leg Opaglio 0927 jeans, as presented in Look 80. Option 0202 ( White):",
+        "pl": "In lookbook (Look 80) and on display (Vetrina 112, Bambola 2): an intellectual business look with a white Loriana 0201 shirt and crisp Orville 0101 trousers. - Accent set: stylists also recommend combining with wide-leg Opaglio 0927 jeans, as presented in Look 80. Option 0202 ( White):",
+        "uk": "In lookbook (Look 80) and on display (Vetrina 112, Bambola 2): an intellectual business look with a white Loriana 0201 shirt and crisp Orville 0101 trousers. - Accent set: stylists also recommend combining with wide-leg Opaglio 0927 jeans, as presented in Look 80. Option 0202 ( White):"
+      },
+      "items": [
+        {
+          "name": "Loriana",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg",
+          "modelId": 425
+        },
+        {
+          "name": "Orville",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "На витринах (Vetrina 7, Bambola 3)",
+        "en": "On display (Vetrina 7, Bambola 3)",
+        "ar": "On display (Vetrina 7, Bambola 3)",
+        "ka": "On display (Vetrina 7, Bambola 3)",
+        "hy": "On display (Vetrina 7, Bambola 3)",
+        "lv": "On display (Vetrina 7, Bambola 3)",
+        "lt": "On display (Vetrina 7, Bambola 3)",
+        "pl": "On display (Vetrina 7, Bambola 3)",
+        "uk": "On display (Vetrina 7, Bambola 3)"
+      },
+      "text": {
+        "ru": "свежий летний образ с рубашкой Limonaia 0202 ( и брюками Assessore 0221.",
+        "en": "a fresh summer look with a Limonaia 0202 shirt ( and Assessore 0221 trousers.",
+        "ar": "a fresh summer look with a Limonaia 0202 shirt ( and Assessore 0221 trousers.",
+        "ka": "a fresh summer look with a Limonaia 0202 shirt ( and Assessore 0221 trousers.",
+        "hy": "a fresh summer look with a Limonaia 0202 shirt ( and Assessore 0221 trousers.",
+        "lv": "a fresh summer look with a Limonaia 0202 shirt ( and Assessore 0221 trousers.",
+        "lt": "a fresh summer look with a Limonaia 0202 shirt ( and Assessore 0221 trousers.",
+        "pl": "a fresh summer look with a Limonaia 0202 shirt ( and Assessore 0221 trousers.",
+        "uk": "a fresh summer look with a Limonaia 0202 shirt ( and Assessore 0221 trousers."
+      },
+      "items": [
+        {
+          "name": "Limonaia",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIA_117100000000.jpg",
+          "modelId": 416
+        },
+        {
+          "name": "Assessore",
+          "code": "0221",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Зимняя интерпретация (Vetrina 103, Bambola 3)",
+        "en": "Winter interpretation (Vetrina 103, Bambola 3)",
+        "ar": "Winter interpretation (Vetrina 103, Bambola 3)",
+        "ka": "Winter interpretation (Vetrina 103, Bambola 3)",
+        "hy": "Winter interpretation (Vetrina 103, Bambola 3)",
+        "lv": "Winter interpretation (Vetrina 103, Bambola 3)",
+        "lt": "Winter interpretation (Vetrina 103, Bambola 3)",
+        "pl": "Winter interpretation (Vetrina 103, Bambola 3)",
+        "uk": "Winter interpretation (Vetrina 103, Bambola 3)"
+      },
+      "text": {
+        "ru": "под ярким пальто Scatto 0202 в комплекте с пуловером Mano 0202 и брюками Osten 0209.",
+        "en": "under a vibrant Scatto 0202 coat complete with a Mano 0202 pullover and Osten 0209 trousers.",
+        "ar": "under a vibrant Scatto 0202 coat complete with a Mano 0202 pullover and Osten 0209 trousers.",
+        "ka": "under a vibrant Scatto 0202 coat complete with a Mano 0202 pullover and Osten 0209 trousers.",
+        "hy": "under a vibrant Scatto 0202 coat complete with a Mano 0202 pullover and Osten 0209 trousers.",
+        "lv": "under a vibrant Scatto 0202 coat complete with a Mano 0202 pullover and Osten 0209 trousers.",
+        "lt": "under a vibrant Scatto 0202 coat complete with a Mano 0202 pullover and Osten 0209 trousers.",
+        "pl": "under a vibrant Scatto 0202 coat complete with a Mano 0202 pullover and Osten 0209 trousers.",
+        "uk": "under a vibrant Scatto 0202 coat complete with a Mano 0202 pullover and Osten 0209 trousers."
+      },
+      "items": [
+        {
+          "name": "Scatto",
+          "code": "0202",
+          "imageUrl": null
+        },
+        {
+          "name": "Mano",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281019%29.png"
+        },
+        {
+          "name": "Osten",
+          "code": "0209",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000%20%284%29.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- A textile 'Hybrid': Direct the client's attention to the punto stoffa knit. Explain that the Moles jacket has the structural stability of a classic blazer, while remaining as comfortable as a favorite cardigan. This is the ideal piece for those who valu"
+    ],
+    "ru": [
+      "- Текстильный «Гибрид»: Акцентируйте внимание клиента на вязке punto stoffa. Объясните, что жакет Moles обладает формоустойчивостью классического блейзера, но при этом комфортен как любимый кардиган. Это идеальная вещь для тех, кто ценит статус без ущерба"
+    ],
+    "ar": [
+      "- «هجين» النسيج: وجهي انتباه العميل إلى حياكة punto stoffa. اشرحي أن سترة Moles تتمتع بثبات الشكل الخاص بالبليزر الكلاسيكي، ولكنها مريحة مثل الكارديجان المفضل. إنها القطعة المثالية لمن يقدر المكانة دون التضحية بالراحة. - جماليات البليسيه: أكدي على وجود تف"
+    ],
+    "ka": [
+      "- ტექსტილური «ჰიბრიდი»: გაამახვილეთ კლიენტის ყურადღება punto stoffa-ს ქსოვაზე. აუხსენით, რომ Moles-ის პიჯაკს აქვს კლასიკური ბლეიზერის ფორმის მდგრადობა, მაგრამ ამავდროულად ისეთივე კომფორტულია, როგორც საყვარელი კარდიგანი. ეს არის იდეალური ნივთი მათთვის, ვინ"
+    ],
+    "hy": [
+      "- Տեքստիլ «Հիբրիդ». Շեշտադրեք հաճախորդի ուշադրությունը punto stoffa հյուսվածքի վրա: Բացատրեք, որ Moles ժակետն ունի դասական բլեյզերի ձևապահպանման հատկություն, սակայն հարմարավետ է ինչպես սիրելի կարդիգանը: Սա իդեալական իր է նրանց համար, ովքեր գնահատում են կա"
+    ],
+    "lv": [
+      "- Tekstila «Hibrīds»: Akcentējiet klienta uzmanību uz punto stoffa adījumu. Paskaidrojiet, ka Moles žaketei piemīt klasiska bleizera formas noturība, taču vienlaikus tā ir ērta kā iecienīts kardigans. Šis ir ideāls apģērbs tiem, kas novērtē statusu, neupu"
+    ],
+    "lt": [
+      "- Tekstilinis „Hibridas“: Akcentuokite kliento dėmesį į punto stoffa mezgimą. Paaiškinkite, kad Moles švarkas pasižymi klasikinio bleizerio formos stabilumu, tačiau kartu yra patogus kaip mėgstamiausias kardiganas. Tai idealus drabužis tiems, kurie vertina statusą neaukojant patogumo. - Plisuotės estetika: Pabrėžkite plisuotų detalių buvimą ant švarko. Tai unikalus Luisa Spagnoli dizaino sprendimas, kuris išskiria modelį iš įprasto trikotažo, paversdamas jį podiumo mados objektu ir pabrėždamas prekės ženklo dėmesį detalėms. - Silueto meistriškumas: Rekomenduokite modelį norint sukurti aktualias proporcijas. Trumpintas švarko ilgis kartu su aukštintu kelnių ar sijonų liemeniu (pavyzdžiui, Morolo 0759) vizualiai ilgina kojas ir struktūruoja figūrą, sukuriant modernų bei liekną siluetą."
+    ],
+    "pl": [
+      "- Tekstylna \"hybryda\": Skup uwagę klienta na splocie punto stoffa. Wyjaśnij, że żakiet Moles posiada stabilność formy klasycznego blezera, będąc jednocześnie wygodnym niczym ulubiony kardigan. To idealny wybór dla tych, którzy cenią status bez kompromisów"
+    ],
+    "uk": [
+      "- Текстильний «Гібрид»: Акцентуйте увагу клієнта на в’язці punto stoffa. Поясніть, що жакет Moles володіє формостійкістю класичного блейзера, але при цьому комфортний як улюблений кардиган. Це ідеальна річ для тих, хто цінує статус без шкоди зручності. -"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "cropped On the contrary, the jacket is designed to end length might add exactly at the waistline. Paired with the high- bulk» waisted Orville 0101 trousers, it visually \"breaks\" the silhouette at its narrowest point, emphasizing the waist. «I'm worried the Explain that in Spagnoli pieces, the pleating is pleated details set using a special wool-fiber fixation will come apart technique. Following the care recommendations, with wear» the pleats will retain their architectural shape for years. «The knit jacket Point out the density of the punto stoffa knit will stretch out (Milano jersey). This is one of the most stable at the elbows» weaves, preventing distortion and preserving the crispness of the jacket's lines even with active use. «The enamel Emphasize that LS's signature hardware is a marker buttons are too of belonging to the \"Quiet Luxury\" world. The noticeable» buttons are crafted in the style of fine jewelry and allow the client to minimize the use of other accessories. «The wool might Remind the client that pura lana vergine is a be too warm for natural thermoregulator. It wicks away excess the office» heat and lets the skin breathe, ensuring a comfortable microclimate both indoors in cooler settings and outdoors"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Укороченная длина Напротив, жакет спроектирован так, чтобы (cropped) может заканчиваться на линии талии. В сочетании с полнить",
+        "a": "высокой посадкой брюк Orville 0101 он визуально."
+      },
+      {
+        "q": "разбивает",
+        "a": "силуэт в самом узком месте, подчеркивая стройность."
+      },
+      {
+        "q": "Боюсь, что детали",
+        "a": "Поясните, что в моделях Spagnoli плиссировка плиссе разойдутся выполняется по специальной технологии фиксации при носке волокон шерсти. При соблюдении рекомендаций по уходу детали сохранят свою архитектурную форму годами."
+      },
+      {
+        "q": "Трикотажный жакет",
+        "a": "Укажите на плотность вязки punto stoffa быстро вытянется в (миланское джерси). Это одно из самых стабильных локтях переплетений, которое предотвращает деформацию и сохраняет четкость линий жакета даже при активной эксплуатации."
+      },
+      {
+        "q": "Эмалированные",
+        "a": "Подчеркните, что фирменная фурнитура LS — это пуговицы слишком маркер принадлежности к миру «Quiet Luxury . заметны» Пуговицы выполнены в стиле ювелирных украшений и позволяют минимизировать использование других аксессуаров."
+      },
+      {
+        "q": "Шерсть может быть",
+        "a": "Напомните, что pura lana vergine — это слишком теплой для натуральный терморегулятор. Она отводит лишнее офиса тепло и позволяет коже дышать, обеспечивая комфортный микроклимат как в прохладном помещении, так и на улице."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الطول القصير (cropped) قد يبرز عيوب القوام",
+        "a": "على العكس تماماً، صُممت السترة بحيث تنتهي عند خط الخصر. ومع تنسيقها مع سروال Orville 0101 عالي الخصر، فإنها تعمل بصرياً على."
+      },
+      {
+        "q": "تقسيم",
+        "a": "القوام عند أضيق نقطة فيه، مما يبرز نحافة القوام."
+      },
+      {
+        "q": "أخشى أن تتفكك تفاصيل الطيات عند الارتداء",
+        "a": "وضّحي أن طيات الـ (Plisse) في موديلات Spagnoli تُنفذ باستخدام تقنية خاصة لتثبيت ألياف الصوف. ومع اتباع تعليمات العناية، ستحتفظ التفاصيل بشكلها المعماري لسنوات."
+      },
+      {
+        "q": "سترة التريكو ستتمدد بسرعة عند المرفقين",
+        "a": "أشيري إلى كثافة حياكة الـ punto stoffa (جيرسي ميلانو). وهي واحدة من أكثر الأنسجة استقراراً، مما يمنع التمدد ويحافظ على حدة خطوط السترة حتى مع الاستخدام المكثف."
+      },
+      {
+        "q": "الأزرار المطلية بالمينا بارزة جداً",
+        "a": "أكدي أن الإكسسوارات المميزة لـ LS هي علامة تدل على الانتماء لعالم."
+      },
+      {
+        "q": "الرفاهية الهادئة",
+        "a": "(Quiet Luxury). الأزرار مصممة بأسلوب الحلي والمجوهرات، مما يتيح لكِ تقليل الحاجة إلى استخدام إكسسوارات أخرى."
+      },
+      {
+        "q": "الصوف قد يكون دافئاً جداً للمكتب",
+        "a": "ذكّري العميلة بأن الـ pura lana vergine هو منظم حراري طبيعي. فهو يطرد الحرارة الزائدة ويسمح للبشرة بالتنفس، مما يوفر مناخاً مريحاً في الأماكن المغلقة والمفتوحة على حد سواء."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მოკლე სიგრძე (cropped) შეიძლება წელის ხაზზე მთავრდებოდეს. Orville 0101-ის მაღალწელიან შარვალთან კომბინაციაში ის ვიზუალურად „ყოფს“ სილუეტს ყველაზე ვიწრო ადგილას და ხაზს უსვამს ტანადობას. «მეშინია, რომ პლისეს დეტალები ტარებისას გაიხსნას",
+        "a": "განუმარტეთ, რომ Spagnoli-ის მოდელებში პლისირება მატყლის ბოჭკოების ფიქსაციის სპეციალური ტექნოლოგიით სრულდება. მოვლის წესების დაცვით, დეტალები თავის არქიტექტურულ ფორმას წლების განმავლობაში შეინარჩუნებს."
+      },
+      {
+        "q": "ტრიკოტაჟის ქურთუკი იდაყვებში მალე გაიწელება",
+        "a": "მიუთითეთ punto stoffa-ს (მილანური ჯერსი) ქსოვის სიმკვრივეზე. ეს არის ერთ-ერთი ყველაზე მდგრადი ქსოვა, რომელიც ხელს უშლის დეფორმაციას და ინარჩუნებს ქურთუკის ხაზების სიცხადეს აქტიური გამოყენების დროსაც კი."
+      },
+      {
+        "q": "ემალირებული ღილები ზედმეტად შესამჩნევია",
+        "a": "ხაზი გაუსვით, რომ ბრენდირებული ფურნიტურა LS არის."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "-ის სამყაროსადმი კუთვნილების ნიშანი. ღილები იუველირული ნაკეთობების სტილშია შესრულებული და სხვა აქსესუარების გამოყენების საჭიროებას ამცირებს."
+      },
+      {
+        "q": "მატყლი ოფისისთვის შესაძლოა ზედმეტად თბილი იყოს",
+        "a": "შეახსენეთ, რომ pura lana vergine ბუნებრივი თერმორეგულატორია. ის აცილებს ზედმეტ სითბოს და აძლევს კანს სუნთქვის საშუალებას, რაც უზრუნველყოფს კომფორტულ მიკროკლიმატს როგორც გრილ სათავსში, ისე გარეთ."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կարճացված երկարությունը (cropped) կարող է լրացնել",
+        "a": "Հակառակը, բաճկոնը նախագծված է այնպես, որ ավարտվի գոտկատեղի գծի վրա։ Orville 0101 բարձր գոտկատեղով տաբատի հետ համադրությամբ այն տեսողականորեն."
+      },
+      {
+        "q": "կոտրում",
+        "a": "է սիլուետը ամենանեղ հատվածում՝ ընդգծելով կազմվածքի սլացիկությունը։."
+      },
+      {
+        "q": "Վախենում եմ, որ պլիսեի դետալները կբացվեն կրելու ընթացքում",
+        "a": "Պարզաբանեք, որ Spagnoli-ի մոդելներում պլիսեն կատարվում է բրդյա մանրաթելերի ամրացման հատուկ տեխնոլոգիայով։ Խնամքի վերաբերյալ առաջարկությունները պահպանելու դեպքում դետալները տարիներ շարունակ կպահպանեն իրենց ճարտարապետական ձևը։."
+      },
+      {
+        "q": "Տրիկոտաժե բաճկոնը արագ կձգվի արմունկներում",
+        "a": "Նշեք punto stoffa (միլանյան ջերսի) հյուսվածքի խտության մասին։ Սա ամենակայուն հյուսվածքներից մեկն է, որը կանխում է դեֆորմացիան և պահպանում է բաճկոնի գծերի հստակությունը նույնիսկ ակտիվ օգտագործման ժամանակ։."
+      },
+      {
+        "q": "Էմալապատ կոճակները չափազանց նկատելի են",
+        "a": "Շեշտեք, որ LS-ի ֆիրմային աքսեսուարները."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "աշխարհին պատկանելության նշան են։ Կոճակները կատարված են ոսկերչական զարդերի ոճով և թույլ են տալիս նվազագույնի հասցնել այլ աքսեսուարների օգտագործումը։."
+      },
+      {
+        "q": "Բուրդը կարող է չափազանց տաք լինել գրասենյակի համար",
+        "a": "Հիշեցրեք, որ pura lana vergine-ը բնական թերմոռեգուլյատոր է։ Այն հեռացնում է ավելորդ ջերմությունը և թույլ է տալիս մաշկին շնչել՝ ապահովելով հարմարավետ միկրոկլիմա ինչպես զով սենյակում, այնպես էլ դրսում։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Saīsināts garums (cropped) var beigties pie vidukļa līnijas. Kombinācijā ar Orville 0101 bikšu augsto jostasvietu tas vizuāli „sadala",
+        "a": "siluetu visšaurākajā vietā, izceļot slaidumu."
+      },
+      {
+        "q": "Baidos, ka plisējuma detaļas atšķersies valkāšanas laikā",
+        "a": "Paskaidrojiet, ka Spagnoli modeļos plisējums tiek izpildīts, izmantojot īpašu vilnas šķiedru fiksācijas tehnoloģiju. Ievērojot kopšanas ieteikumus, detaļas saglabās savu arhitektonisko formu gadiem ilgi."
+      },
+      {
+        "q": "Adīta jaka ātri izstaipīsies elkoņos",
+        "a": "Norādiet uz punto stoffa (Milānas džersija) adījuma blīvumu. Tas ir viens no visstabilākajiem pinumiem, kas novērš deformāciju un saglabā jakas līniju skaidrību pat aktīvas lietošanas laikā."
+      },
+      {
+        "q": "Emaillētas pogas ir pārāk pamanāmas",
+        "a": "Uzsveriet, ka firmas furnitūra LS — tā ir."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "pasaules piederības zīme. Pogas ir izgatavotas rotaslietu stilā un ļauj minimizēt citu aksesuāru izmantošanu."
+      },
+      {
+        "q": "Vilna var būt pārāk silta birojam",
+        "a": "Atgādiniet, ka pura lana vergine — tas ir dabisks termoregulators. Tā izvada lieko siltumu un ļauj ādai elpot, nodrošinot komfortablu mikroklimatu gan vēsā telpā, gan ārā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Sutrumpintas ilgis (cropped) gali pilninti“ Priešingai, švarkas sukonstruotas taip, kad baigtųsi ties liemens linija. Derinant su aukšto liemens kelnėmis Orville 0101, jis vizualiai „skaido“ siluetą siauriausioje vietoje, pabrėždamas lieknas formas. „Bijau, kad plisuotos detalės dėvint išsisklaidys",
+        "a": "Paaiškinkite, kad Spagnoli modeliuose plisuotė atliekama naudojant specialią vilnos pluošto fiksavimo technologiją. Laikantis priežiūros rekomendacijų, detalės išlaikys savo architektūrinę formą daugelį metų. , kad Spagnoli modeliuose plisuotė atliekama naudojant specialią vilnos pluošto fiksavimo technologiją. Laikantis priežiūros rekomendacijų, detalės išlaikys savo architektūrinę formą daugelį metų."
+      },
+      {
+        "q": "„Megztas švarkas greitai išsitampys alkūnėse",
+        "a": "Atkreipkite dėmesį į punto stoffa (milano džersio) mezgimo tankumą. Tai vienas stabiliausių pynimų, kuris apsaugo nuo deformacijos ir išlaiko švarko linijų ryškumą net ir aktyviai dėvint. į punto stoffa (milano džersio) mezgimo tankumą. Tai vienas stabiliausių pynimų, kuris apsaugo nuo deformacijos ir išlaiko švarko linijų ryškumą net ir aktyviai dėvint."
+      },
+      {
+        "q": "„Emaliuotos sagos per daug pastebimos",
+        "a": "Pabrėžkite, kad firmine LS furnitūra yra „Quiet Luxury“ pasaulio priklausomybės ženklas. Sagos pagamintos juvelyrinių dirbinių stiliumi ir leidžia minimalizuoti kitų aksesuarų naudojimą. , kad firmine LS furnitūra yra „Quiet Luxury“ pasaulio priklausomybės ženklas. Sagos pagamintos juvelyrinių dirbinių stiliumi ir leidžia minimalizuoti kitų aksesuarų naudojimą."
+      },
+      {
+        "q": "„Vilna gali būti per šilta biurui",
+        "a": "Priminkite, kad pura lana vergine yra natūralus termoreguliatorius. Ji išsklaido perteklinę šilumą ir leidžia odai kvėpuoti, užtikrindama komfortišką mikroklimatą tiek vėsioje patalpoje, tiek lauke."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Skrócona długość (cropped) może pełnić",
+        "a": "Na przekór temu, żakiet został zaprojektowany tak, aby kończył się w linii talii. W połączeniu z wysokim stanem spodni Orville 0101 wizualnie."
+      },
+      {
+        "q": "rozbija",
+        "a": "sylwetkę w najwęższym miejscu, podkreślając smukłość."
+      },
+      {
+        "q": "Obawiam się, że detale plisowania rozejdą się podczas noszenia",
+        "a": "Wyjaśnij, że w modelach Spagnoli plisowanie wykonuje się według specjalnej technologii utrwalania włókien wełny. Przy przestrzeganiu zaleceń dotyczących pielęgnacji, detale zachowają swój architektoniczny kształt przez lata."
+      },
+      {
+        "q": "Żakiet dzianinowy szybko wypcha się w łokciach",
+        "a": "Wskaż na gęstość splotu punto stoffa (dżersej mediolański). Jest to jeden z najbardziej stabilnych splotów, który zapobiega deformacji i zachowuje wyrazistość linii żakietu nawet przy aktywnym użytkowaniu."
+      },
+      {
+        "q": "Emaliowane guziki są zbyt widoczne",
+        "a": "Podkreśl, że firmowa galanteria LS — to wyznacznik przynależności do świata."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": ". Guziki wykonane są w stylu biżuterii i pozwalają zminimalizować użycie innych dodatków."
+      },
+      {
+        "q": "Wełna może być zbyt ciepła do biura",
+        "a": "Przypomnij, że pura lana vergine — to naturalny termoregulujący materiał. Odprowadza nadmiar ciepła i pozwala skórze oddychać, zapewniając komfortowy mikroklimat zarówno w chłodnym pomieszczeniu, jak i na zewnątrz."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Укорочена довжина (cropped) може повнити",
+        "a": "Навпаки, жакет спроєктований так, щоб закінчуватися на лінії талії. У поєднанні з високою посадкою штанів Orville 0101 він візуально."
+      },
+      {
+        "q": "розбиває",
+        "a": "силует у найвужчому місці, підкреслюючи стрункість."
+      },
+      {
+        "q": "Боюся, що деталі плісе розійдуться під час носіння",
+        "a": "Поясніть, що в моделях Spagnoli плісирування виконується за спеціальною технологією фіксації волокон вовни. За умови дотримання рекомендацій щодо догляду деталі збережуть свою архітектурну форму роками."
+      },
+      {
+        "q": "Трикотажний жакет швидко витягнеться в ліктях",
+        "a": "Вкажіть на щільність в’язки punto stoffa (міланське джерсі). Це одне з найбільш стабільних переплетень, яке запобігає деформації та зберігає чіткість ліній жакета навіть при активній експлуатації."
+      },
+      {
+        "q": "Емальовані ґудзики занадто помітні",
+        "a": "Підкресліть, що фірмова фурнітура LS — це маркер приналежності до світу."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": ". Ґудзики виконані в стилі ювелірних прикрас і дозволяють мінімізувати використання інших аксесуарів."
+      },
+      {
+        "q": "Вовна може бути занадто теплою для офісу",
+        "a": "Нагадайте, що pura lana vergine — це натуральний терморегулятор. Вона відводить зайве тепло і дозволяє шкірі дихати, забезпечуючи комфортний мікроклімат як у прохолодному приміщенні, так і на вулиці."
+      }
+    ]
+  }
+}

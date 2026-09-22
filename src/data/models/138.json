@@ -1,0 +1,405 @@
+{
+  "id": 138,
+  "name": "Magnesite",
+  "description": {
+    "en": "The elegant, contemporary Magnesite pullover from the exclusive Merinfleur line is the embodiment of refined comfort and Italian craftsmanship. The model is crafted using the dense \"punto stoffa\" knit technique from high-quality 100% virgin wool, ensuring impeccable shape retention and a noble texture. A high turtleneck lends the look an aristocratic air, while functional side slits and flat-ribbed edge finishing underscore the piece's contemporary character. The signature round gold-tone LS logo appliquÃ© serves as a jewel-like accent, completing this status-defining piece for the daytime wardrobe.",
+    "ru": "Элегантный и современный пуловер Magnesite из эксклюзивной линии Merinfleur — это воплощение изысканного комфорта и итальянского мастерства. Модель выполнена в технике плотной вязки «punto stoffa» из высококачественной 100% девственной шерсти, обеспечивающей безупречное сохранение формы и благородную фактуру. Высокий воротник-гольф придает образу аристократизм, а функциональные боковые разрезы и края, обработанные в плоский рубчик, подчеркивают современный характер изделия. Знаковая круглая золотистая аппликация с логотипом LS служит ювелирным акцентом, завершая этот статусный предмет дневного гардероба.",
+    "ar": "بلوفر Magnesite الأنيق والعصري من خط Merinfleur الحصري هو تجسيد للراحة الفاخرة والبراعة الإيطالية. صُنعت القطعة بتقنية الحياكة الكثيفة \"punto stoffa\" من صوف بكر عالي الجودة بنسبة 100%، مما يضمن الحفاظ على شكلها بشكل مثالي وملمسًا نبيلًا. تضفي الياقة العالية طابعًا أرستقراطيًا على المظهر، بينما تؤكد الفتحات الجانبية العملية والحواف المعالجة بغرزة مضلعة مسطحة على الطابع العصري للقطعة. وتعد قطعة الزينة الذهبية المستديرة المميزة التي تحمل شعار LS لمسة تشبه المجوهرات، لتكمل هذا التصميم الراقي المناسب للإطلالات النهارية.",
+    "ka": "ელეგანტური და თანამედროვე პულოვერი Magnesite ექსკლუზიური ხაზიდან Merinfleur — ეს არის დახვეწილი კომფორტისა და იტალიური ოსტატობის განსახიერება. მოდელი შესრულებულია „punto stoffa“-ს მკვრივი ქსოვის ტექნიკით 100% უმაღლესი ხარისხის ქალწულებრივი მატყლისგან, რაც უზრუნველყოფს ფორმის უნაკლო შენარჩუნებასა და კეთილშობილურ ფაქტურას. მაღალი გოლფის საყელო გამოსახულებას არისტოკრატიულობას ანიჭებს, ხოლო ფუნქციური გვერდითი ჭრილები და ბრტყელი ნეკნული ქსოვილით დამუშავებული კიდეები ხაზს უსვამს ნაკეთობის თანამედროვე ხასიათს. საკულტო მრგვალი ოქროსფერი აპლიკაცია LS-ის ლოგოთი ემსახურება როგორც საიუველირო აქცენტი, რომელიც ასრულებს დღის გარდერობის ამ სტატუსურ ნივთს.",
+    "hy": "Magnesite էլեգանտ և ժամանակակից պուլովերը Merinfleur բացառիկ գծից նրբագեղ հարմարավետության և իտալական վարպետության մարմնացումն է: Մոդելը պատրաստված է «punto stoffa» խիտ հյուսքի տեխնիկայով՝ բարձրորակ 100% կուսական բրդից, որն ապահովում է ձևի անթերի պահպանում և ազնվական փաստուրա: Բարձր գոլֆ-օձիքը կերպարին հաղորդում է արիստոկրատիզմ, իսկ ֆունկցիոնալ կողային ճեղքվածքները և հարթ կողավոր եզրերը ընդգծում են հագուստի ժամանակակից բնույթը: LS լոգոտիպով նշանային կլոր ոսկեգույն ապլիկացիան ծառայում է որպես զարդեղենային շեշտադրում՝ եզրափակելով ցերեկային զգեստապահարանի այս կարգավիճակային իրը:",
+    "lv": "Elegants un mūsdienīgs Magnesite džemperis no ekskluzīvās Merinfleur līnijas ir izsmalcināta komforta un itāļu meistarības iemiesojums. Modelis izgatavots \"punto stoffa\" blīvās adīšanas tehnikā no augstas kvalitātes 100% jaunvilnas, kas nodrošina nevainojamu formas saglabāšanu un cēlu tekstūru. Augstā golfa apkakle tēlam piešķir aristokrātismu, bet funkcionālie sānu šķēlumi un ar plakanu rievojumu apstrādātās malas uzsver izstrādājuma mūsdienīgo raksturu. Zīmīgā apaļā zeltītā aplikācija ar LS logotipu kalpo kā juvelierizstrādājumu akcents, noslēdzot šo statusa pilno dienas garderobes priekšmetu.",
+    "lt": "Elegantiškas ir šiuolaikiškas Magnesite megztinis iš ekskliuzyvinės Merinfleur linijos — tai rafinuoto komforto ir itališko meistriškumo įsikūnijimas. Modelis pagamintas naudojant tankaus „punto stoffa“ mezgimo techniką iš aukščiausios kokybės 100% nekirptos vilnos, užtikrinančios nepriekaištingą formos išlaikymą ir kilnią faktūrą. Aukšta golfas tipo apykaklė įvaizdžiui suteikia aristokratiškumo, o funkcionalūs šoniniai skeltukai ir plokščiu briaunotu raštu apdoroti kraštai pabrėžia šiuolaikišką gaminio charakterį. Kultinė apvali aukso spalvos aplikacija su LS logotipu tarnauja kaip juvelyrinis akcentas, užbaigiantis šį statusą pabrėžiantį kasdienio garderobo elementą.",
+    "pl": "Elegancki i nowoczesny pulower Magnesite z ekskluzywnej linii Merinfleur to ucieleśnienie wyrafinowanego komfortu i włoskiego kunsztu. Model wykonany techniką ścisłego splotu \"punto stoffa\" z wysokiej jakości 100% dziewiczej wełny, zapewniającej nienaganne zachowanie formy i szlachetną fakturę. Wysoki golf nadaje stylizacji arystokratyzmu, a funkcjonalne boczne rozcięcia oraz brzegi wykończone płaskim ściągaczem podkreślają nowoczesny charakter produktu. Charakterystyczna okrągła złota aplikacja z logo LS służy jako jubilerski akcent, wieńcząc ten prestiżowy element dziennej garderoby.",
+    "uk": "Елегантний та сучасний пуловер Magnesite з ексклюзивної лінії Merinfleur — це втілення вишуканого комфорту та італійської майстерності. Модель виконана в техніці щільної в'язки «punto stoffa» з високоякісної 100% натуральної вовни, що забезпечує бездоганне збереження форми та благородну фактуру. Високий комір-гольф надає образу аристократизму, а функціональні бічні розрізи та краї, оброблені в плоский рубчик, підкреслюють сучасний характер виробу. Знакова кругла золотиста аплікація з логотипом LS служить ювелірним акцентом, завершуючи цей статусний предмет денного гардероба."
+  },
+  "colors": [
+    {
+      "name": "Var Celeste Polvere",
+      "code": "3423",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3fYo_UU5Rmq40CooNzA-5g_533087305696f4356e2f754_72300204_02830090XX1.jpg"
+    },
+    {
+      "name": "Var Nero Nocciola",
+      "code": "3568",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281025%29.png"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Urban Luxe)",
+        "ar": "Look 1 (Urban Luxe)",
+        "ka": "Look 1 (Urban Luxe)",
+        "hy": "Look 1 (Urban Luxe)",
+        "lv": "Look 1 (Urban Luxe)",
+        "lt": "Look 1 (Urban Luxe)",
+        "pl": "Look 1 (Urban Luxe)",
+        "uk": "Look 1 (Urban Luxe)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Городской люкс): Сочетание пуловера Magnesite 3568 с кожаным бомбером Spareggio 0996 и кожаной юбкой Fidente 0996.",
+        "en": "A combination of a Magnesite 3568 pullover with a Spareggio 0996 leather bomber and a Fidente 0996 leather skirt.",
+        "ar": "A combination of a Magnesite 3568 pullover with a Spareggio 0996 leather bomber and a Fidente 0996 leather skirt.",
+        "ka": "A combination of a Magnesite 3568 pullover with a Spareggio 0996 leather bomber and a Fidente 0996 leather skirt.",
+        "hy": "A combination of a Magnesite 3568 pullover with a Spareggio 0996 leather bomber and a Fidente 0996 leather skirt.",
+        "lv": "A combination of a Magnesite 3568 pullover with a Spareggio 0996 leather bomber and a Fidente 0996 leather skirt.",
+        "lt": "A combination of a Magnesite 3568 pullover with a Spareggio 0996 leather bomber and a Fidente 0996 leather skirt.",
+        "pl": "A combination of a Magnesite 3568 pullover with a Spareggio 0996 leather bomber and a Fidente 0996 leather skirt.",
+        "uk": "A combination of a Magnesite 3568 pullover with a Spareggio 0996 leather bomber and a Fidente 0996 leather skirt."
+      },
+      "items": [
+        {
+          "name": "Magnesite",
+          "code": "3568",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281025%29.png"
+        },
+        {
+          "name": "Spareggio",
+          "code": "0996",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2NiFlQdATsqtiyLCjMWh9Q_1848836899696f42fd755c70_44100840_02821130XX1.jpg",
+          "modelId": 333
+        },
+        {
+          "name": "Fidente",
+          "code": "0996",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8yyxLDhfQoGPfXSuzRNYIA_109176338691c57c742f5e1_48030380_02780360XX1.jpg",
+          "modelId": 47
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Refined Layering)",
+        "ar": "Look 2 (Refined Layering)",
+        "ka": "Look 2 (Refined Layering)",
+        "hy": "Look 2 (Refined Layering)",
+        "lv": "Look 2 (Refined Layering)",
+        "lt": "Look 2 (Refined Layering)",
+        "pl": "Look 2 (Refined Layering)",
+        "uk": "Look 2 (Refined Layering)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Утонченная многослойность): Ансамбль из пуловера Magnesite 3568 под джинсовым кабаном Squadratura 0101 0988 в паре с кожаными брюками Overt 0978.",
+        "en": "An ensemble featuring a Magnesite 3568 pullover under a Squadratura 0101 0988 denim jacket paired with Overt 0978 leather trousers.",
+        "ar": "An ensemble featuring a Magnesite 3568 pullover under a Squadratura 0101 0988 denim jacket paired with Overt 0978 leather trousers.",
+        "ka": "An ensemble featuring a Magnesite 3568 pullover under a Squadratura 0101 0988 denim jacket paired with Overt 0978 leather trousers.",
+        "hy": "An ensemble featuring a Magnesite 3568 pullover under a Squadratura 0101 0988 denim jacket paired with Overt 0978 leather trousers.",
+        "lv": "An ensemble featuring a Magnesite 3568 pullover under a Squadratura 0101 0988 denim jacket paired with Overt 0978 leather trousers.",
+        "lt": "An ensemble featuring a Magnesite 3568 pullover under a Squadratura 0101 0988 denim jacket paired with Overt 0978 leather trousers.",
+        "pl": "An ensemble featuring a Magnesite 3568 pullover under a Squadratura 0101 0988 denim jacket paired with Overt 0978 leather trousers.",
+        "uk": "An ensemble featuring a Magnesite 3568 pullover under a Squadratura 0101 0988 denim jacket paired with Overt 0978 leather trousers."
+      },
+      "items": [
+        {
+          "name": "Magnesite",
+          "code": "3568",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281025%29.png"
+        },
+        {
+          "name": "Squadratura",
+          "code": "0101 0988",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1074652343691c5789294382_44386307_02780160XX1.jpg",
+          "modelId": 490
+        },
+        {
+          "name": "Overt",
+          "code": "0978",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/aRhuWFmbR-y2VnGMh2DLyQ_818557080696f42ee1851b3_58178703_02820810XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 3 (Intellectual Casual)",
+        "ar": "Look 3 (Intellectual Casual)",
+        "ka": "Look 3 (Intellectual Casual)",
+        "hy": "Look 3 (Intellectual Casual)",
+        "lv": "Look 3 (Intellectual Casual)",
+        "lt": "Look 3 (Intellectual Casual)",
+        "pl": "Look 3 (Intellectual Casual)",
+        "uk": "Look 3 (Intellectual Casual)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 3 (Интеллектуальный кэжуал): Пуловер Magnesite 3423 с широкими джинсами Olla 1248 и лоферами Uramaky 0990, дополненный серьгами Nagorno 0002.",
+        "en": "A Magnesite 3423 pullover with wide-leg Olla 1248 jeans and Uramaky 0990 loafers, completed by Nagorno 0002 earrings.",
+        "ar": "A Magnesite 3423 pullover with wide-leg Olla 1248 jeans and Uramaky 0990 loafers, completed by Nagorno 0002 earrings.",
+        "ka": "A Magnesite 3423 pullover with wide-leg Olla 1248 jeans and Uramaky 0990 loafers, completed by Nagorno 0002 earrings.",
+        "hy": "A Magnesite 3423 pullover with wide-leg Olla 1248 jeans and Uramaky 0990 loafers, completed by Nagorno 0002 earrings.",
+        "lv": "A Magnesite 3423 pullover with wide-leg Olla 1248 jeans and Uramaky 0990 loafers, completed by Nagorno 0002 earrings.",
+        "lt": "A Magnesite 3423 pullover with wide-leg Olla 1248 jeans and Uramaky 0990 loafers, completed by Nagorno 0002 earrings.",
+        "pl": "A Magnesite 3423 pullover with wide-leg Olla 1248 jeans and Uramaky 0990 loafers, completed by Nagorno 0002 earrings.",
+        "uk": "A Magnesite 3423 pullover with wide-leg Olla 1248 jeans and Uramaky 0990 loafers, completed by Nagorno 0002 earrings."
+      },
+      "items": [
+        {
+          "name": "Magnesite",
+          "code": "3423",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3fYo_UU5Rmq40CooNzA-5g_533087305696f4356e2f754_72300204_02830090XX1.jpg"
+        },
+        {
+          "name": "Olla",
+          "code": "1248",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1890676542692424d4b4f858_36560463_02781390XX1.jpg",
+          "modelId": 456
+        },
+        {
+          "name": "Uramaky",
+          "code": "0990",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky%20nero.PNG"
+        },
+        {
+          "name": "Nagorno",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG",
+          "modelId": 198
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the distinctive quality of virgin wool (Vergine): the material is remarkably soft and lightweight, while offering exceptional insulating properties.",
+      "Showcase the gold LS appliqué — this detail elevates the essential pullover into the realm of premium pieces, removing the need for additional adornment.",
+      "Recommend the piece as the ideal foundation for layered looks: the side slits allow the pullover to drape beautifully over trousers or skirts without adding bulk beneath outerwear."
+    ],
+    "ru": [
+      "Сделайте акцент на уникальном качестве девственной шерсти (Vergine): материал невероятно мягкий и легкий, при этом обладает исключительными теплоизоляционными свойствами.",
+      "Продемонстрируйте золотистую аппликацию LS — эта деталь переводит базовый пуловер в разряд премиальных изделий, избавляя от необходимости в дополнительных украшениях.",
+      "Рекомендуйте модель как идеальную базу для многослойных образов: боковые разрезы позволяют пуловеру красиво драпироваться поверх брюк или юбок, не создавая лишнего объема под верхней одеждой."
+    ],
+    "ar": [
+      "ركزي على الجودة الفريدة للصوف البكر (Vergine): الخامة ناعمة وخفيفة للغاية، مع تمتعها بخصائص عزل حراري استثنائية.",
+      "استعرضي شعار LS الذهبي المطبق؛ فهذه التفصيلة ترتقي بالكنزة الأساسية إلى مصاف القطع الفاخرة، مما يغني عن الحاجة إلى حلي إضافية.",
+      "رشيحي هذا الموديل كقاعدة مثالية للإطلالات متعددة الطبقات: فالفتحات الجانبية تتيح للكنزة أن تتهدل بجمال فوق البناطيل أو التنانير دون تكوين حجم زائد تحت الملابس الخارجية."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება ხელუხლებელი მატყლის (Vergine) უნიკალურ ხარისხზე: მასალა წარმოუდგენლად რბილი და მსუბუქია, თანაც ფლობს განსაკუთრებულ თბოიზოლაციურ თვისებებს.",
+      "წარმოადგინეთ ოქროსფერი LS აპლიკაცია — ეს დეტალი საბაზისო პულოვერს პრემიუმ-კლასის ნაწარმთა კატეგორიაში გადაიყვანს და დამატებითი სამკაულების საჭიროებას აქრობს.",
+      "გაუწიეთ რეკომენდაცია მოდელს, როგორც იდეალურ ბაზას მრავალშრიანი იმიჯებისთვის: გვერდითი ჭრილები საშუალებას აძლევს პულოვერს, ლამაზად დაიფაროს შარვალზე ან ქვედაბოლოზე, გარე ტანსაცმლის ქვეშ ზედმეტი მოცულობის შექმნის გარეშე."
+    ],
+    "hy": [
+      "Շեշտը դրեք կուսական բրդի (Vergine) եզակի որակի վրա. նյութը անհավանական փափուկ է և թեթև, ընդ որում՝ ունի բացառիկ ջերմամեկուսիչ հատկություններ։",
+      "Ցուցադրեք ոսկեգույն LS ապլիկացիան՝ այս դետալը բազային պուլովերը տեղափոխում է պրեմիում դասի ապրանքների շարք՝ վերացնելով լրացուցիչ զարդերի անհրաժեշտությունը։",
+      "Առաջարկեք մոդելը որպես շերտավոր կերպարների իդեալական բազա. կողային ճեղքվածքները թույլ են տալիս պուլովերին գեղեցիկ դրապիրվել տաբատների կամ կիսաշրջազգեստների վրայով՝ վերնազգեստի տակ ավելորդ ծավալ չստեղծելով։"
+    ],
+    "lv": [
+      "Сделайте акцент на уникальном качестве девственной шерсти (Vergine): материал невероятно мягкий и легкий, при этом обладает исключительными теплоизоляционными свойствами.",
+      "Продемонстрируйте золотистую аппликацию LS — эта деталь переводит базовый пуловер в разряд премиальных изделий, избавляя от необходимости в дополнительных украшениях.",
+      "Рекомендуйте модель как идеальную базу для многослойных образов: боковые разрезы позволяют пуловеру красиво драпироваться поверх брюк или юбок, не создавая лишнего объема под верхней одеждой."
+    ],
+    "lt": [
+      "Padarykite akcentą į unikalų pirminės vilnos (Vergine) kokybę: medžiaga yra neįtikėtinai švelni ir lengva, kartu pasižyminti išskirtinėmis termoizoliacinėmis savybėmis.",
+      "Pademonstruokite aukso spalvos LS aplikaciją — ši detalė pakelia bazinį megztinį į aukščiausios klasės gaminių kategoriją, panaikindama papildomų papuošalų poreikį.",
+      "Rekomenduokite modelį kaip idealų pagrindą daugiasluoksniams įvaizdžiams: šoniniai skeltukai leidžia megztiniui gražiai kristi virš kelnių ar sijonų, nesudarant nereikalingos apimties po viršutiniais drabužiais."
+    ],
+    "pl": [
+      "Połóż nacisk na unikalną jakość żywej wełny (Vergine): materiał jest niesamowicie miękki i lekki, przy czym posiada wyjątkowe właściwości termoizolacyjne.",
+      "Zaprezentuj złocistą aplikację LS — ten detal przenosi bazowy pulower do kategorii produktów premium, eliminując potrzebę dodatkowych ozdób.",
+      "Rekomenduj model jako idealną bazę dla warstwowych stylizacji: boczne rozcięcia pozwalają pulowerowi pięknie układać się na spodniach lub spódnicach, nie tworząc zbędnej objętości pod odzieżą wierzchnią."
+    ],
+    "uk": [
+      "Зробіть акцент на унікальній якості натуральної вовни (Vergine): матеріал неймовірно м'який і легкий, при цьому володіє винятковими теплоізоляційними властивостями.",
+      "Продемонструйте золотисту аплікацію LS — ця деталь переводить базовий пуловер у розряд преміальних виробів, позбавляючи потреби в додаткових прикрасах.",
+      "Рекомендуйте модель як ідеальну базу для багатошарових образів: бічні розрізи дозволяють пуловеру красиво драпіруватися поверх штанів або спідниць, не створюючи зайвого об'єму під верхнім одягом."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Wool may be scratchy or cause irritation.",
+        "a": "Luisa Spagnoli pieces use only select, highly refined virgin wool. It is hypoallergenic and has a silky texture, ensuring comfort even in contact with sensitive skin."
+      },
+      {
+        "q": "A high collar may feel too tight.",
+        "a": "The turtleneck collar of the Magnesite piece is crafted in an elastic knit that gently hugs the neck, providing warmth without any sense of constriction."
+      },
+      {
+        "q": "Side slits may look careless.",
+        "a": "On the contrary, the slits are designed to enhance the fit to the figure and ensure freedom of movement. This is a contemporary design detail that lends the silhouette dynamism."
+      },
+      {
+        "q": "A light shade (Celeste Polvere) may be impractical.",
+        "a": "This noble dusty-blue shade is one of the most on-trend colours of the season. Thanks to the quality of the wool, the piece cleans easily with professional care and retains its original vibrancy for a long time."
+      },
+      {
+        "q": "The pullover looks too simple for its price.",
+        "a": "The true value of Magnesite lies in the impeccable quality of the Merinfleur material and the 'punto stoffa' knitting technique. This is an investment in a lasting wardrobe staple that will never go out of style."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шерсть может быть колючей или вызывать раздражение.",
+        "a": "Для моделей Luisa Spagnoli используется только отборная девственная шерсть высочайшей очистки. Она гипоаллергенна и обладает шелковистой текстурой, обеспечивая комфорт даже при контакте с чувствительной кожей."
+      },
+      {
+        "q": "Высокий воротник может казаться слишком тугим.",
+        "a": "Воротник-гольф в модели Magnesite выполнен эластичной вязкой, которая мягко облегает шею, обеспечивая тепло без ощущения давления."
+      },
+      {
+        "q": "Боковые разрезы могут выглядеть небрежно.",
+        "a": "Напротив, разрезы спроектированы для улучшения посадки по фигуре и обеспечения свободы движений. Это современный дизайнерский прием, который придает силуэту динамику."
+      },
+      {
+        "q": "Светлый оттенок (Celeste Polvere) может быть непрактичным.",
+        "a": "Этот благородный пыльно-голубой цвет является одним из самых актуальных в сезоне. Благодаря качеству шерсти, изделие легко очищается при профессиональном уходе и долго сохраняет первоначальную яркость."
+      },
+      {
+        "q": "Пуловер выглядит слишком просто за свою стоимость.",
+        "a": "Истинная ценность Magnesite — в безупречном качестве материала Merinfleur и технике вязки «punto stoffa». Это инвестиция в долговечный базовый гардероб, который не выйдет из моды десятилетиями."
+      }
+    ],
+    "ar": [
+      {
+        "q": "ماجنيزيت",
+        "a": "(Magnesite) بحباكة مرنة تلتف بنعومة حول العنق، لتضمن الدفء المثالي دون أي إحساس بالضغط. وتُضفي الفتحات الجانبية المتقنة لمسة حداثية تعزز من ملاءمة القطعة للقوام وتمنح حركة انسيابية وسلاسة ساحرة مع كل خطوة. كما يُعد اللون الأزرق المغبر (Celeste Polvere) من أكثر الدرجات اللونية النبيلة والعصرية؛ إذ يسهل الحفاظ على نضارته وبريقه الأصلي عبر العناية المتخصصة بفضل الجودة العالية لألياف الصوف. وتكمن القيمة الحقيقية لسويتر."
+      },
+      {
+        "q": "ماجنيزيت",
+        "a": "في الجودة الاستثنائية لنسيج صوف."
+      },
+      {
+        "q": "ميرينفلور",
+        "a": "(Merinfleur) وتقنية الحياكة القماشية المتقنة (Punto stoffa)؛ ليكون هذا التصميم استثماراً مستداماً في خزانة ملابس كلاسيكية راقية تتجاوز حدود الزمن وتُجسد مفهوم."
+      },
+      {
+        "q": "الفخامة الهادئة",
+        "a": "(Quiet Luxury)."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მატყლი შეიძლება ჩხვლეტდეს ან გაღიზიანებას იწვევდეს.",
+        "a": "Luisa Spagnoli-ის მოდელებისთვის გამოიყენება მხოლოდ უმაღლესი გაწმენდის რჩეული ქალწული მატყლი. ის ჰიპოალერგიულია და გააჩნია აბრეშუმისებრი ტექსტურა, რაც უზრუნველყოფს კომფორტს მგრძნობიარე კანთან კონტაქტის დროსაც კი."
+      },
+      {
+        "q": "მაღალი საყელო შეიძლება ზედმეტად ვიწრო ჩანდეს.",
+        "a": "Magnesite-ის მოდელში გოლფის საყელო შესრულებულია ელასტიკური ქსოვით, რომელიც რბილად ეკვრის კისერს და უზრუნველყოფს სითბოს დაწოლის შეგრძნების გარეშე."
+      },
+      {
+        "q": "გვერდითი ჭრილები შეიძლება დაუდევრად გამოიყურებოდეს.",
+        "a": "პირიქით, ჭრილები დაპროექტებულია ფიგურაზე მოხერხებულად მორგებისა და მოძრაობის თავისუფლების უზრუნველსაყოფად. ეს არის თანამედროვე დიზაინერული ხერხი, რომელიც სილუეტს დინამიკას ანიჭებს."
+      },
+      {
+        "q": "ღია ფერი (Celeste Polvere) შეიძლება არაპრაქტიკული იყოს.",
+        "a": "ეს კეთილშობილური მტვრისფერ-ცისფერი ფერი სეზონის ერთ-ერთი ყველაზე აქტუალური ფერია. მატყლის ხარისხის წყალობით, ნაკეთობა ადვილად იწმინდება პროფესიონალური მოვლისას და დიდხანს ინარჩუნებს პირვანდელ სიკაშკაშეს."
+      },
+      {
+        "q": "პულოვერი თავისი ღირებულების მიხედვით ზედმეტად მარტივად გამოიყურება.",
+        "a": "Magnesite-ის ნამდვილი ღირებულება Merinfleur-ის მასალის უნაკლო ხარისხსა და «punto stoffa» ქსოვის ტექნიკაშია. ეს არის ინვესტიცია გამძლე საბაზისო გარდერობში, რომელიც ათწლეულების განმავლობაში არ გადავა მოდიდან."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բուրդը կարող է ծակել կամ գրգռում առաջացնել։",
+        "a": "Luisa Spagnoli մոդելների համար օգտագործվում է միայն ամենաբարձր մաքրության ընտիր կույս բուրդ։ Այն հիպոալերգեն է և ունի մետաքսյա հյուսվածք՝ ապահովելով հարմարավետություն նույնիսկ զգայուն մաշկի հետ շփման ժամանակ։"
+      },
+      {
+        "q": "Բարձր օձիքը կարող է չափազանց ձիգ թվալ։",
+        "a": "Magnesite մոդելի գոլֆ-օձիքը պատրաստված է էլաստիկ հյուսվածքով, որը մեղմորեն գրկում է պարանոցը՝ ապահովելով ջերմություն առանց ճնշման զգացողության։"
+      },
+      {
+        "q": "Կողային բացվածքները կարող են անփույթ թվալ։",
+        "a": "Ընդհակառակը, բացվածքները նախագծված են կազմվածքի վրա նստվածքը բարելավելու և շարժումների ազատություն ապահովելու համար։ Սա ժամանակակից դիզայներական հնարք է, որը ուրվագծին հաղորդում է դինամիկա։"
+      },
+      {
+        "q": "Բաց երանգը (Celeste Polvere) կարող է անգործնական լինել։",
+        "a": "Այս ազնիվ փոշե-երկնագույն գույնը սեզոնի ամենաակտուալներից է։ Բրդի որակի շնորհիվ արտադրանքը պրոֆեսիոնալ խնամքի դեպքում հեշտությամբ մաքրվում է և երկար պահպանում սկզբնական վառությունը։"
+      },
+      {
+        "q": "Պուլովերը իր արժեքի համեմատ չափազանց պարզ է թվում։",
+        "a": "Magnesite-ի իրական արժեքը Merinfleur նյութի անթերի որակի և «punto stoffa» հյուսման տեխնիկայի մեջ է։ Սա ներդրում է երկարակյաց բազային զգեստապահարանի մեջ, որը նորաձևությունից դուրս չի գա տասնամյակներ շարունակ։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vilna var būt durstīga vai izraisīt kairinājumu.",
+        "a": "Luisa Spagnoli modeļiem tiek izmantota tikai atlasīta augstākās attīrīšanas pakāpes pirmreizējā vilna. Tā ir hipoalerģiska un ar zīdainu tekstūru, nodrošinot komfortu pat saskarē ar jutīgu ādu."
+      },
+      {
+        "q": "Augstā apkakle var šķist pārāk cieša.",
+        "a": "Magnesite modeļa golfa apkakle ir izgatavota ar elastīgu adījumu, kas maigi pieguļ kaklam, nodrošinot siltumu bez spiediena sajūtas."
+      },
+      {
+        "q": "Sānu iegriezumi var izskatīties nevīžīgi.",
+        "a": "Gluži pretēji, iegriezumi ir projektēti, lai uzlabotu piegulumu figūrai un nodrošinātu kustību brīvību. Tas ir mūsdienīgs dizaineru paņēmiens, kas piešķir siluetam dinamiku."
+      },
+      {
+        "q": "Gaišais tonis (Celeste Polvere) var būt nepraktisks.",
+        "a": "Šī cēlā putekļaini zilā krāsa ir viena no aktuālākajām sezonā. Pateicoties vilnas kvalitātei, izstrādājums ir viegli tīrāms ar profesionālu kopšanu un ilgi saglabā sākotnējo spožumu."
+      },
+      {
+        "q": "Pulovers izskatās pārāk vienkārši savai cenai.",
+        "a": "Magnesite patiesā vērtība ir nevainojamajā Merinfleur materiāla kvalitātē un „punto stoffa” adīšanas tehnikā. Tā ir investīcija ilgmūžīgā pamata garderobē, kas neizies no modes gadu desmitiem."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Vilna gali būti šiurkšti ar dirginti.",
+        "a": "Luisa Spagnoli modeliams naudojama tik atrinkta aukščiausio išvalymo nekalta vilna. Ji hipoalerginė ir pasižymi šilkine tekstūra, užtikrinančia komfortą net kontaktuojant su jautria oda."
+      },
+      {
+        "q": "Aukšta apykaklė gali atrodyti per daug veržti.",
+        "a": "Magnesite modelio golfo apykaklė pagaminta iš elastingo mezginio, kuris švelniai priglunda prie kaklo, suteikdamas šilumą be spaudimo pojūčio."
+      },
+      {
+        "q": "Šoniniai skeltukai gali atrodyti netvarkingai.",
+        "a": "Priešingai, skeltukai sukurti tam, kad pagerintų prigludimą prie figūros ir užtikrintų judesių laisvę. Tai modernus dizaino sprendimas, suteikiantis siluetui dinamikos."
+      },
+      {
+        "q": "Šviesus atspalvis (Celeste Polvere) gali būti nepraktiškas.",
+        "a": "Ši kilni dulkėtai mėlyna spalva yra viena aktualiausių šį sezoną. Dėl vilnos kokybės gaminys lengvai valomas profesionaliu būdu ir ilgai išsaugo pradinį ryškumą."
+      },
+      {
+        "q": "Megztinis atrodo per daug paprastas savo kainai.",
+        "a": "Tikroji Magnesite vertė — nepriekaištinga Merinfleur medžiagos kokybė ir „punto stoffa“ mezgimo technika. Tai investicija į ilgaamžį bazinį garderobą, kuris neišeis iš mados dešimtmečius."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wełna może być gryząca lub powodować podrażnienia.",
+        "a": "W modelach Luisa Spagnoli stosowana jest wyłącznie wyselekcjonowana wełna dziewicza najwyższej czystości. Jest hipoalergiczna i posiada jedwabistą teksturę, zapewniając komfort nawet w kontakcie z wrażliwą skórą."
+      },
+      {
+        "q": "Wysoki kołnierz może wydawać się zbyt ciasny.",
+        "a": "Golf w modelu Magnesite wykonany jest z elastycznego splotu, który miękko otula szyję, zapewniając ciepło bez uczucia ucisku."
+      },
+      {
+        "q": "Boczne rozcięcia mogą wyglądać niechlujnie.",
+        "a": "Wręcz przeciwnie, rozcięcia zaprojektowano w celu poprawy dopasowania do sylwetki i zapewnienia swobody ruchów. To nowoczesny zabieg projektowy, który nadaje sylwetce dynamiki."
+      },
+      {
+        "q": "Jasny odcień (Celeste Polvere) może być niepraktyczny.",
+        "a": "Ten szlachetny, przybrudzony błękit jest jednym z najbardziej aktualnych kolorów w sezonie. Dzięki jakości wełny wyrób łatwo czyści się podczas profesjonalnej pielęgnacji i długo zachowuje pierwotną wyrazistość."
+      },
+      {
+        "q": "Pulower wygląda zbyt prosto jak na swoją cenę.",
+        "a": "Prawdziwą wartością modelu Magnesite jest bezbłędna jakość materiału Merinfleur i technika splotu „punto stoffa”. To inwestycja w trwałą bazę garderoby, która nie wyjdzie z mody przez dziesięciolecia."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Вовна може бути колючою або викликати подразнення.",
+        "a": "Для моделей Luisa Spagnoli використовується лише відбірна незаймана вовна найвищої очистки. Вона гіпоалергенна і має шовковисту текстуру, забезпечуючи комфорт навіть при контакті з чутливою шкірою."
+      },
+      {
+        "q": "Високий комір може здаватися надто тугим.",
+        "a": "Комір-гольф у моделі Magnesite виконаний еластичною в'язкою, яка м'яко облягає шию, забезпечуючи тепло без відчуття тиску."
+      },
+      {
+        "q": "Бічні розрізи можуть виглядати недбало.",
+        "a": "Навпаки, розрізи спроєктовані для поліпшення посадки по фігурі та забезпечення свободи рухів. Це сучасний дизайнерський прийом, який надає силуету динаміки."
+      },
+      {
+        "q": "Світлий відтінок (Celeste Polvere) може бути непрактичним.",
+        "a": "Цей благородний пильно-блакитний колір є одним із найактуальніших у сезоні. Завдяки якості вовни, виріб легко очищується при професійному догляді та довго зберігає початкову яскравість."
+      },
+      {
+        "q": "Пуловер виглядає надто просто за свою вартість.",
+        "a": "Справжня цінність Magnesite — у бездоганній якості матеріалу Merinfleur та техніці в'язки «punto stoffa». Це інвестиція в довговічний базовий гардероб, який не вийде з моди десятиліттями."
+      }
+    ]
+  }
+}

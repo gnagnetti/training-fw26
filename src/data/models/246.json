@@ -1,0 +1,398 @@
+{
+  "id": 246,
+  "name": "Olinda",
+  "description": {
+    "en": "The Olinda trousers are the quintessence of flawless everyday style and aristocratic restraint from Luisa Spagnoli. The classic-cut piece is crafted from a noble blend fabric incorporating natural wool and silk, lending the fabric a delicate sheen and exceptional softness. Elegant pintucks (pinces), combined with a straight Regular fit silhouette, create a structured, feminine look, while a concealed zip closure and belt loops underscore the attention to detail. These trousers will serve as the ideal foundation for creating 'quiet luxury' ensembles, ensuring comfort and flawless elegance throughout the day.",
+    "ru": "Брюки Olinda — это квинтэссенция безупречного повседневного стиля и аристократичной сдержанности от Luisa Spagnoli. Модель классического кроя выполнена из благородного смесового полотна с добавлением натуральной шерсти и шелка, что дарит ткани деликатное сияние и исключительную мягкость. Элегантные защипы (pinces) в сочетании с прямым силуэтом (Regular fit) создают структурированный и женственный образ, а потайная молния и шлевки для ремня подчеркивают внимание к деталям. Эти брюки станут идеальным фундаментом для создания ансамблей в стиле «тихой роскоши», обеспечивая комфорт и безупречную элегантность на протяжении всего дня.",
+    "ar": "تُعد بنطلونات Olinda جوهر الأسلوب اليومي الخالي من العيوب والتحفظ الأرستقراطي من Luisa Spagnoli. الموديل ذو القصة الكلاسيكية مصنوع من نسيج مخلوط نبيل مع إضافة الصوف الطبيعي والحرير، مما يمنح القماش بريقاً دقيقاً ونعومة استثنائية. الكسرات الأنيقة (pinces) جنبًا إلى جنب مع القص المستقيم (Regular fit) تخلق مظهراً منظماً وأنثوياً، بينما تؤكد السحّاب المخفي وعرى الحزام على الاهتمام بالتفاصيل. ستصبح هذه البنطلونات الأساس المثالي لابتكار إطلالات بأسلوب «الفخامة الهادئة»، مما يضمن الراحة والأناقة الخالية من العيوب طوال اليوم.",
+    "ka": "Olinda-ს შარვალი Luisa Spagnoli-ს უნაკლო ყოველდღიური სტილისა და არისტოკრატული თავშეკავებულობის კვინტესენციაა. კლასიკური კროის მოდელი დამზადებულია ბუნებრივი მატყლისა და აბრეშუმის დამატებით კეთილშობილური შერეული ქსოვილისგან, რაც ქსოვილს ანიჭებს ნაზ ბზინვარებას და გამორჩეულ სირბილეს. ელეგანტური ნაკეცები (pinces) სწორ სილუეტთან (Regular fit) კომბინაციაში ქმნის სტრუქტურირებულ და ქალურ გამოსახულებას, ხოლო ფარული ელვა-შესაკრავი და ქამრის მარყუჟები ხაზს უსვამს დეტალებისადმი ყურადღებას. ეს შარვალი გახდება „ჩუმი ფუფუნების“ სტილის ანსამბლების შესაქმნელად იდეალური საფუძველი, რაც უზრუნველყოფს კომფორტს და უნაკლო ელეგანტურობას მთელი დღის განმავლობაში.",
+    "hy": "Olinda տաբատը Luisa Spagnoli-ի անթերի առօրյա ոճի և արիստոկրատական զսպվածության էությունն է: Դասական կտրվածքի մոդելը պատրաստված է բնական բրդի և մետաքսի հավելումով ազնիվ խառը կտորից, որը գործվածքին հաղորդում է նուրբ փայլ և բացառիկ փափկություն: Նրբագեղ ծալքերը (pinces) ուղիղ ուրվագծի (Regular fit) հետ համատեղ ստեղծում են կառուցվածքային և կանացի կերպար, իսկ թաքնված կայծակաճարմանդը և գոտու անցակները ընդգծում են դետալների հանդեպ ուշադրությունը: Այս տաբատները կդառնան իդեալական հիմք «լուռ շքեղության» ոճով անսամբլներ ստեղծելու համար՝ ապահովելով հարմարավետություն և անթերի նրբագեղություն ամբողջ օրվա ընթացքում.",
+    "lv": "Bikses Olinda — tā ir nevainojama ikdienas stila un aristokrātiskas atturības kvintesence no Luisa Spagnoli. Klasiskā piegriezuma modelis ir izgatavots no cēla jaukta auduma ar dabīgās vilnas un zīda piejaukumu, kas audumam dāvā smalku mirdzumu un izcilu maigumu. Elegantas ieloces (pinces) kombinācijā ar taisnu siluetu (Regular fit) rada strukturētu un sievišķīgu tēlu, bet paslēptais rāvējslēdzējs un jostas cilpas uzsver uzmanību detaļām. Šīs bikses kļūs par ideālu pamatu ansambļu radīšanai „klusās greznības” stilā, nodrošinot komfortu un nevainojamu eleganci visas dienas garumā.",
+    "lt": "Olinda kelnės – tai nepriekaištingo kasdienio stiliaus ir aristokratiško santūrumo kvintesencija iš Luisa Spagnoli. Klasikinio kirpimo modelis pagamintas iš tauraus mišraus audinio su natūralios vilnos ir šilko priemaiša, kas audiniui suteikia subtilų spindesį ir išskirtinį minkštumą. Elegantiškos klostės (pinces) kartu su tiesiu siluetu (Regular fit) sukuria struktūrišką ir moterišką įvaizdį, o paslėptas užtrauktukas ir kilpos diržui pabrėžia dėmesį detalėms. Šios kelnės taps idealiu pagrindu kuriant „tylios prabangos“ stiliaus ansamblius, užtikrinančias komfortą ir nepriekaištingą eleganciją visą dieną.",
+    "pl": "Spodnie Olinda to kwintesencja nienagannego codziennego stylu i arystokratycznej powściągliwości od Luisa Spagnoli. Model o klasycznym kroju wykonano ze szlachetnej mieszanej tkaniny z dodatkiem naturalnej wełny i jedwabiu, co nadaje materiałowi delikatny połysk i wyjątkową miękkość. Eleganckie zaszewki (pinces) w połączeniu z prostą sylwetką (Regular fit) tworzą ustrukturyzowany i kobiecy wizerunek, a kryty suwak oraz szlufki na pasek podkreślają dbałość o detale. Te spodnie staną się idealnym fundamentem do tworzenia zestawów w stylu «cichego luksusu», zapewniając komfort i nienaganną elegancję przez cały dzień.",
+    "uk": "Брюки Olinda — це квінтесенція бездоганного повсякденного стилю та аристократичної стриманості від Luisa Spagnoli. Модель класичного крою виконана з благородного змішаного полотна з додаванням натуральної вовни та шовку, що дарує тканині делікатне сяйво та виняткову м'якість. Елегантні защипи (pinces) у поєднанні з прямим силуетом (Regular fit) створюють структурований та жіночний образ, а потайна блискавка та шльовки для ременя підкреслюють увагу до деталей. Ці брюки стануть ідеальним фундаментом для створення ансамблів у стилі «тихої розкоші», забезпечуючи комфорт та бездоганну елегантність протягом усього дня."
+  },
+  "colors": [
+    {
+      "name": "Var Marrone",
+      "code": "3404",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-zYTZ534RoOB5w7RExMFfw_226965868696f42e6eeab90_44429190_02820650XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Vetrina 100)",
+        "en": "Total Look (Vetrina 100)",
+        "ar": "Total Look (Vetrina 100)",
+        "ka": "Total Look (Vetrina 100)",
+        "hy": "Total Look (Vetrina 100)",
+        "lv": "Total Look (Vetrina 100)",
+        "lt": "Total Look (Vetrina 100)",
+        "pl": "Total Look (Vetrina 100)",
+        "uk": "Total Look (Vetrina 100)"
+      },
+      "text": {
+        "ru": "Olinda 3404 в сочетании с жакетом Merende 2234 и классической рубашкой Lucinda 0201.",
+        "en": "Olinda 3404 combined with the Merende 2234 jacket and classic Lucinda 0201 shirt.",
+        "ar": "Olinda 3404 combined with the Merende 2234 jacket and classic Lucinda 0201 shirt.",
+        "ka": "Olinda 3404 combined with the Merende 2234 jacket and classic Lucinda 0201 shirt.",
+        "hy": "Olinda 3404 combined with the Merende 2234 jacket and classic Lucinda 0201 shirt.",
+        "lv": "Olinda 3404 combined with the Merende 2234 jacket and classic Lucinda 0201 shirt.",
+        "lt": "Olinda 3404 combined with the Merende 2234 jacket and classic Lucinda 0201 shirt.",
+        "pl": "Olinda 3404 combined with the Merende 2234 jacket and classic Lucinda 0201 shirt.",
+        "uk": "Olinda 3404 combined with the Merende 2234 jacket and classic Lucinda 0201 shirt."
+      },
+      "items": [
+        {
+          "name": "Olinda",
+          "code": "3404",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-zYTZ534RoOB5w7RExMFfw_226965868696f42e6eeab90_44429190_02820650XX1.jpg"
+        },
+        {
+          "name": "Merende",
+          "code": "2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/748832174691f157692a0b6_36843969_02790440XX1.jpg",
+          "modelId": 442
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sophisticated Urban (Vetrina 101)",
+        "en": "Sophisticated Urban (Vetrina 101)",
+        "ar": "Sophisticated Urban (Vetrina 101)",
+        "ka": "Sophisticated Urban (Vetrina 101)",
+        "hy": "Sophisticated Urban (Vetrina 101)",
+        "lv": "Sophisticated Urban (Vetrina 101)",
+        "lt": "Sophisticated Urban (Vetrina 101)",
+        "pl": "Sophisticated Urban (Vetrina 101)",
+        "uk": "Sophisticated Urban (Vetrina 101)"
+      },
+      "text": {
+        "ru": "Olinda 3404 дополненные тренчем Supporre 0995 и блузой Latteria A 0994.",
+        "en": "Olinda 3404 complemented by the Supporre 0995 trench coat and Latteria A 0994 blouse.",
+        "ar": "Olinda 3404 complemented by the Supporre 0995 trench coat and Latteria A 0994 blouse.",
+        "ka": "Olinda 3404 complemented by the Supporre 0995 trench coat and Latteria A 0994 blouse.",
+        "hy": "Olinda 3404 complemented by the Supporre 0995 trench coat and Latteria A 0994 blouse.",
+        "lv": "Olinda 3404 complemented by the Supporre 0995 trench coat and Latteria A 0994 blouse.",
+        "lt": "Olinda 3404 complemented by the Supporre 0995 trench coat and Latteria A 0994 blouse.",
+        "pl": "Olinda 3404 complemented by the Supporre 0995 trench coat and Latteria A 0994 blouse.",
+        "uk": "Olinda 3404 complemented by the Supporre 0995 trench coat and Latteria A 0994 blouse."
+      },
+      "items": [
+        {
+          "name": "Olinda",
+          "code": "3404",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-zYTZ534RoOB5w7RExMFfw_226965868696f42e6eeab90_44429190_02820650XX1.jpg"
+        },
+        {
+          "name": "Supporre",
+          "code": "0995",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A-_m01BxSlCI2yq9LK3j-A_1990879054696f430060bf33_29956349_02821230XX1.jpg",
+          "modelId": 354
+        },
+        {
+          "name": "Latteria A",
+          "code": "0994",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/j__M1_8VRfWTU6KNBj3dfw_1833518067696f42375a3cc3_36777422_02820360XX1.jpg",
+          "modelId": 412
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Modern Heritage (Look 174)",
+        "en": "Modern Heritage (Look 174)",
+        "ar": "Modern Heritage (Look 174)",
+        "ka": "Modern Heritage (Look 174)",
+        "hy": "Modern Heritage (Look 174)",
+        "lv": "Modern Heritage (Look 174)",
+        "lt": "Modern Heritage (Look 174)",
+        "pl": "Modern Heritage (Look 174)",
+        "uk": "Modern Heritage (Look 174)"
+      },
+      "text": {
+        "ru": "Olinda 3404 в ансамбле с меховой курткой Stelle 0919 и рубашкой Latteria A 0994.",
+        "en": "Olinda 3404 paired with the Stelle 0919 fur jacket and Latteria A 0994 shirt.",
+        "ar": "Olinda 3404 paired with the Stelle 0919 fur jacket and Latteria A 0994 shirt.",
+        "ka": "Olinda 3404 paired with the Stelle 0919 fur jacket and Latteria A 0994 shirt.",
+        "hy": "Olinda 3404 paired with the Stelle 0919 fur jacket and Latteria A 0994 shirt.",
+        "lv": "Olinda 3404 paired with the Stelle 0919 fur jacket and Latteria A 0994 shirt.",
+        "lt": "Olinda 3404 paired with the Stelle 0919 fur jacket and Latteria A 0994 shirt.",
+        "pl": "Olinda 3404 paired with the Stelle 0919 fur jacket and Latteria A 0994 shirt.",
+        "uk": "Olinda 3404 paired with the Stelle 0919 fur jacket and Latteria A 0994 shirt."
+      },
+      "items": [
+        {
+          "name": "Olinda",
+          "code": "3404",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-zYTZ534RoOB5w7RExMFfw_226965868696f42e6eeab90_44429190_02820650XX1.jpg"
+        },
+        {
+          "name": "Stelle",
+          "code": "0919",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/v0SMZo0VQaKGpkN_-N_65w_698883230696f42feb83970_50231303_02821190XX1.jpg"
+        },
+        {
+          "name": "Latteria A",
+          "code": "0994",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/j__M1_8VRfWTU6KNBj3dfw_1833518067696f42375a3cc3_36777422_02820360XX1.jpg",
+          "modelId": 412
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Focus the client's attention on the impeccable Regular fit: the straight cut is a timeless investment that visually elongates the silhouette and flatters any figure type.",
+      "Emphasise the value of the fabric: a high viscose content (95%) gives the material a silky hand and a noble matte sheen characteristic of the luxury segment.",
+      "Recommend Olino as a foundational piece for a capsule wardrobe: thanks to its minimalist design, these trousers transition effortlessly from a tailored business look to an evening ensemble with a simple change of accessories."
+    ],
+    "ru": [
+      "Сфокусируйте внимание клиента на уникальном составе ткани: присутствие натурального шелка (10% в составе) придает брюкам Olinda статусное сияние и особую долговечность.",
+      "Подчеркните преимущества кроя с защипами (pinces): этот элемент не только отражает актуальные подиумные тенденции, но и гарантирует безупречную посадку, скрывая нюансы фигуры и обеспечивая свободу движений.",
+      "Рекомендуйте оттенок Marrone Mélange как безупречную базу для зимнего гардероба: этот сложный цвет идеально гармонирует как с теплыми бежевыми тонами, так и с глубокими контрастными оттенками коллекции."
+    ],
+    "ar": [
+      "ركزي انتباه العميل على التركيبة الفريدة للقماش: وجود الحرير الطبيعي (10% من التركيبة) يمنح بنطال Olinda لمعاناً راقياً ومتانة خاصة.",
+      "أبرزي مزايا القصّة ذات الثنيات (pinces): هذا العنصر لا يعكس فقط أحدث اتجاهات منصات العرض، بل يضمن أيضاً مقاساً مثالياً، ويخفي تفاصيل الجسم غير المرغوبة ويضمن حرية الحركة.",
+      "رشحي درجة Marrone Mélange كقاعدة مثالية لخزانة الملابس الشتوية: هذا اللون المعقد ينسجم بشكل مثالي مع درجات البيج الدافئة ومع الألوان العميقة المتباينة في المجموعة."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება ქსოვილის უნიკალურ შემადგენლობაზე: ნატურალური აბრეშუმის არსებობა (10% შემადგენლობაში) Olinda-ს შარვლებს ანიჭებს სტატუსურ ბზინვარებასა და განსაკუთრებულ გამძლეობას.",
+      "ხაზი გაუსვით ნაკეცებიანი (pinces) ჭრილის უპირატესობებს: ეს ელემენტი არა მხოლოდ ასახავს პოდიუმის აქტუალურ ტენდენციებს, არამედ გარანტიას იძლევა უნაკლო მორგების, ფიგურის ნიუანსების დამალვისა და მოძრაობის თავისუფლების უზრუნველყოფის.",
+      "რეკომენდაცია გაუწიეთ Marrone Mélange-ის ფერს, როგორც ზამთრის გარდერობის უნაკლო ბაზას: ეს რთული ფერი იდეალურად ჰარმონიზდება როგორც თბილ კრემისფერ ტონებთან, ასევე კოლექციის ღრმა კონტრასტულ ფერებთან."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք գործվածքի եզակի բաղադրության վրա. բնական մետաքսի առկայությունը (10% բաղադրության մեջ) Olinda տաբատին հաղորդում է կարգավիճակային փայլ և հատուկ երկարակեցություն:",
+      "Ընդգծեք ներծալքներով (pinces) ձևվածքի առավելությունները. այս տարրը ոչ միայն արտացոլում է պոդիումային արդի միտումները, այլև երաշխավորում է անթերի նստվածք՝ թաքցնելով կազմվածքի նրբությունները և ապահովելով շարժման ազատություն:",
+      "Խորհուրդ տվեք Marrone Mélange երանգը որպես ձմեռային զգեստապահարանի անթերի հիմք. այս բարդ գույնը իդեալականորեն ներդաշնակում է ինչպես տաք բեժ երանգների, այնպես էլ հավաքածուի խորը կոնտրաստային երանգների հետ:"
+    ],
+    "lv": [
+      "Fokusējiet klienta uzmanību uz unikālo auduma sastāvu: dabīgā zīda klātbūtne (10% sastāvā) piešķir biksēm Olinda statusīgu mirdzumu un īpašu ilgmūžību.",
+      "Uzsveriet piegriezuma ar ielocēm (pinces) priekšrocības: šis elements ne tikai atspoguļo aktuālās modes skates tendences, bet arī garantē nevainojamu piegulumu, slēpjot figūras nianses un nodrošinot kustību brīvību.",
+      "Iesakiet toni Marrone Mélange kā nevainojamu pamatu ziemas garderobei: šī sarežģītā krāsa ideāli harmonē gan ar siltiem bēšiem toņiem, gan ar dziļiem, kontrastējošiem kolekcijas toņiem."
+    ],
+    "lt": [
+      "Sufokusuokite kliento dėmesį į unikalią audinio sudėtį: natūralaus šilko buvimas (10% sudėtyje) suteikia kelnėms Olinda statuso kupiną žvilgesį ir ypatingą ilgaamžiškumą.",
+      "Pabrėžkite kirpimo su klostėmis (pinces) privalumus: šis elementas ne tik atspindi aktualias podiumo tendencijas, bet ir garantuoja nepriekaištingą prigludimą, paslėpdamas figūros niuansus ir užtikrindamas judesių laisvę.",
+      "Rekomenduokite Marrone Mélange atspalvį kaip nepriekaištingą pagrindą žiemos garderobui: ši sudėtinga spalva idealiai dera tiek su šiltais smėlio tonais, tiek su giliais kontrastingais kolekcijos atspalviais."
+    ],
+    "pl": [
+      "Skup uwagę klientki na unikalnym składzie tkaniny: obecność naturalnego jedwabiu (10% w składzie) nadaje spodniom Olinda szlachetny blask i szczególną trwałość.",
+      "Podkreśl zalety kroju z zaszewkami (pinces): ten element nie tylko odzwierciedla aktualne trendy wybiegowe, ale także gwarantuje nieskazitelne dopasowanie, maskując niuanse sylwetki i zapewniając swobodę ruchów.",
+      "Polecaj odcień Marrone Mélange jako bezbłędną bazę zimowej garderoby: ten złożony kolor idealnie harmonizuje zarówno z ciepłymi odcieniami beżu, jak i z głębokimi kontrastowymi barwami kolekcji."
+    ],
+    "uk": [
+      "Сфокусуйте увагу клієнта на унікальному складі тканини: присутність натурального шовку (10% у складі) надає штанам Olinda статного сяйва та особливої довговічності.",
+      "Підкресліть переваги крою із защіпами (pinces): цей елемент не лише відображає актуальні подіумні тенденції, а й гарантує бездоганну посадку, приховуючи нюанси фігури та забезпечуючи свободу рухів.",
+      "Рекомендуйте відтінок Marrone Mélange як бездоганну базу для зимового гардероба: цей складний колір ідеально гармоніює як із теплими бежевими тонами, так і з глибокими контрастними відтінками колекції."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "A blended fabric composition may be less comfortable than 100% wool.",
+        "a": "Explain to the client that the addition of silk, cotton, and high-technology fibres makes the fabric gentler against the skin and significantly increases its resistance to deformation, while preserving all of wool's thermal properties."
+      },
+      {
+        "q": "Pleats at the waist may visually add unwanted volume.",
+        "a": "Point out that in the Olinda piece, the pleats are designed to form crisp vertical lines that, on the contrary, structure the silhouette and visually elongate the proportions."
+      },
+      {
+        "q": "The trousers look too formal for everyday occasions.",
+        "a": "Demonstrate the possibilities of eclectic styling: suggest pairing them with the voluminous Stelle 0919 fur jacket or relaxed knitwear, to create a contemporary casual-chic look."
+      },
+      {
+        "q": "Difficulty finding footwear to match the regular, straight-leg cut.",
+        "a": "Recommend pairing this style with elegant heeled ankle boots or classic loafers, which will accentuate the aristocratic quality of the cut and preserve the clean lines of the silhouette."
+      },
+      {
+        "q": "The fabric's demanding care requirements.",
+        "a": "Remind the client that pieces of this calibre require professional, delicate cleaning. This is what guarantees the trousers will retain their shape, noble texture, and richness of colour for years to come."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Смесовый состав ткани может быть менее комфортным, чем 100% шерсть",
+        "a": "Объясните клиенту, что добавление шелка, хлопка и высокотехнологичных волокон делает ткань более нежной при соприкосновении с кожей и значительно повышает ее устойчивость к деформации, сохраняя при этом все тепловые свойства шерсти."
+      },
+      {
+        "q": "Защипы на талии могут визуально добавлять нежелательный объем",
+        "a": "Укажите на то, что в модели Olinda защипы спроектированы таким образом, чтобы формировать четкие вертикальные линии, которые, напротив, структурируют силуэт и визуально вытягивают пропорции."
+      },
+      {
+        "q": "Брюки выглядят слишком официально для повседневных выходов",
+        "a": "Продемонстрируйте возможности эклектичного стайлинга: предложите сочетать их с объемной меховой курткой Stelle 0919 или расслабленным трикотажем, чтобы создать современный образ в стиле casual-chic."
+      },
+      {
+        "q": "Сложность в подборе обуви под прямой крой Regular fit",
+        "a": "Посоветуйте сочетать данную модель с изящными ботильонами на каблуке или классическими лоферами, что подчеркнет аристократизм кроя и сохранит чистоту линий силуэта."
+      },
+      {
+        "q": "Требовательность ткани к уходу",
+        "a": "Напомните, что изделия такого класса требуют профессиональной деликатной чистки. Это является залогом того, что брюки сохранят свою форму, благородную фактуру и насыщенность цвета на долгие годы."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تكون التركيبة الممزوجة للقماش أقل راحة من الصوف بنسبة 100%",
+        "a": "اشرح للعميل أن إضافة الحرير والقطن والألياف عالية التقنية تجعل القماش أكثر نعومة عند ملامسة الجلد وتزيد بشكل كبير من مقاومته للتشوه، مع الحفاظ على جميع الخصائص الحرارية للصوف."
+      },
+      {
+        "q": "قد تضيف الثنيات عند الخصر حجماً غير مرغوب فيه بصرياً",
+        "a": "أشر إلى أن الثنيات في موديل Olinda مصممة بطريقة تشكل خطوطاً عمودية واضحة، تعمل على هيكلة القوام وإطالة التناسبات بصرياً بدلاً من العكس."
+      },
+      {
+        "q": "تبدو السراويل رسمية جداً للإطلالات اليومية",
+        "a": "اعرض إمكانيات التنسيق الانتقائي: اقترح تنسيقها مع سترة فرو ضخمة Stelle 0919 أو تريكو مريح لخلق إطلالة عصرية بأسلوب casual-chic."
+      },
+      {
+        "q": "صعوبة اختيار الأحذية المناسبة لقصّة Regular fit",
+        "a": "انصح بتنسيق هذا الموديل مع بوت كاحل أنيق بكعب أو أحذية Loafers كلاسيكية، مما يبرز أرستقراطية القص ويحافظ على نقاء خطوط القوام."
+      },
+      {
+        "q": "تطلب القماش عناية خاصة",
+        "a": "ذكّر بأن القطع من هذا المستوى تتطلب تنظيفاً مهنياً دقيقاً، وهو ضمان للحفاظ على شكل السراويل وملمسها النبيل وتشبع لونها لسنوات عديدة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ქსოვილის შერეული შემადგენლობა შეიძლება ნაკლებად კომფორტული იყოს, ვიდრე 100% მატყლი",
+        "a": "აუხსენით კლიენტს, რომ აბრეშუმის, ბამბის და მაღალტექნოლოგიური ბოჭკოების დამატება ქსოვილს უფრო ნაზს ხდის კანთან შეხებისას და მნიშვნელოვნად ზრდის მის მდგრადობას დეფორმაციის მიმართ, ამასთანავე ინარჩუნებს მატყლის ყველა თერმულ თვისებას."
+      },
+      {
+        "q": "წელზე შეკერილმა ნაკეცებმა შეიძლება ვიზუალურად შესძინოს არასასურველი მოცულობა",
+        "a": "მიუთითეთ იმაზე, რომ Olinda-ს მოდელში ნაკეცები ისეა დაპროექტებული, რომ ჩამოაყალიბოს მკაფიო ვერტიკალური ხაზები, რომლებიც, პირიქით, აკეთილშობილებს სილუეტს და ვიზუალურად ჭიმავს პროპორციებს."
+      },
+      {
+        "q": "შარვალი ზედმეტად ოფიციალურად გამოიყურება ყოველდღიური გასვლებისთვის",
+        "a": "აჩვენეთ ეკლექტური სტაილინგის შესაძლებლობები: შესთავაზეთ მათი შეხამება Stelle 0919-ის მოცულობით ბეწვის ქურთუკთან ან თავისუფალ ტრიკოტაჟთან, რათა შექმნათ თანამედროვე იმიჯი casual-chic სტილში."
+      },
+      {
+        "q": "Regular fit-ის სწორი კროისთვის ფეხსაცმლის შერჩევის სირთულე",
+        "a": "ურჩიეთ აღნიშნული მოდელი შეუხამოთ ქუსლიან ელეგანტურ ბოტილიონებს ან კლასიკურ ლოფერებს, რაც ხაზს გაუსვამს კროის არისტოკრატიზმს და შეინარჩუნებს სილუეტის ხაზების სისუფთავეს."
+      },
+      {
+        "q": "ქსოვილის მოვლის მოთხოვნილება",
+        "a": "შეახსენეთ, რომ ასეთი კლასის ნაკეთობები საჭიროებს პროფესიონალურ დელიკატურ წმენდას. ეს არის გარანტია იმისა, რომ შარვალი შეინარჩუნებს თავის ფორმას, კეთილშობილურ ფაქტურას და ფერის სიღრმეს მრავალი წლის განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Գործվածքի խառը բաղադրությունը կարող է ավելի քիչ հարմարավետ լինել, քան 100% բուրդը",
+        "a": "Բացատրեք հաճախորդին, որ մետաքսի, բամբակի և բարձր տեխնոլոգիական մանրաթելերի ավելացումը գործվածքը մաշկի հետ շփվելիս դարձնում է ավելի նուրբ և զգալիորեն բարձրացնում է դրա դիմացկունությունը դեֆորմացիայի նկատմամբ՝ միաժամանակ պահպանելով բրդի բոլոր ջերմային հատկությունները։"
+      },
+      {
+        "q": "Գոտկատեղի ծալքերը կարող են վիզուալ ավելացնել անցանկալի ծավալ",
+        "a": "Մատնանշեք, որ Olinda մոդելում ծալքերը նախագծված են այնպես, որ ձևավորեն հստակ ուղղահայաց գծեր, որոնք, ընդհակառակը, կառուցվածքավորում են սիլուետը և վիզուալ երկարացնում համամասնությունները։"
+      },
+      {
+        "q": "Տաբատը չափազանց պաշտոնական է թվում առօրյա ելքերի համար",
+        "a": "Ցույց տվեք էկլեկտիկ ստայլինգի հնարավորությունները. առաջարկեք համադրել այն Stelle 0919 ծավալուն մորթյա բաճկոնի կամ ազատ տրիկոտաժի հետ՝ casual-chic ոճով ժամանակակից կերպար ստեղծելու համար։"
+      },
+      {
+        "q": "Regular fit ուղիղ կտրվածքի համար կոշիկ ընտրելու բարդությունը",
+        "a": "Խորհուրդ տվեք այս մոդելը համադրել կրունկով նրբագեղ կիսաճտքավոր կոշիկների կամ դասական լոֆերների հետ, ինչը կընդգծի կտրվածքի արիստոկրատիզմը և կպահպանի սիլուետի գծերի մաքրությունը։"
+      },
+      {
+        "q": "Գործվածքի պահանջկոտությունը խնամքի հարցում",
+        "a": "Հիշեցրեք, որ նման դասի իրերը պահանջում են պրոֆեսիոնալ նուրբ մաքրում։ Սա երաշխիք է այն բանի, որ տաբատը երկար տարիներ կպահպանի իր ձևը, ազնվական հյուսվածքը և գույնի հագեցվածությունը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Auduma jauktais sastāvs var būt mazāk komfortabls nekā 100% vilna",
+        "a": "Paskaidrojiet klientam, ka zīda, kokvilnas un augsto tehnoloģiju šķiedru pievienošana padara audumu maigāku saskarē ar ādu un ievērojami paaugstina tā izturību pret deformāciju, vienlaikus saglabājot visas vilnas siltuma īpašības."
+      },
+      {
+        "q": "Ieloces jostasvietā var vizuāli pievienot nevēlamu apjomu",
+        "a": "Norādiet uz to, ka modelī Olinda ieloces ir projektētas tādā veidā, lai veidotu skaidras vertikālās līnijas, kuras, pretēji, strukturē siluetu un vizuāli izstiepj proporcijas."
+      },
+      {
+        "q": "Bikses izskatās pārāk oficiāli ikdienas iznācieniem",
+        "a": "Demonstrējiet eklektiskā stailinga iespējas: piedāvājiet kombinēt tās ar apjomīgu kažokādas jaku Stelle 0919 vai atbrīvotu trikotāžu, lai izveidotu modernu tēlu casual-chic stilā."
+      },
+      {
+        "q": "Sarežģītība apavu izvēlē pie taisnā piegriezuma Regular fit",
+        "a": "Iesakiet kombinēt šo modeli ar gracioziem potīšu zābakiem uz papēža vai klasiskiem loferiem, kas uzsvērs piegriezuma aristokrātismu un saglabās silueta līniju tīrību."
+      },
+      {
+        "q": "Auduma prasīgums pret kopšanu",
+        "a": "Atgādiniet, ka šādas klases izstrādājumi prasa profesionālu delikāto tīrīšanu. Tas ir ķīla tam, ka bikses saglabās savu formu, cēlo faktūru un krāsas piesātinājumu daudzu gadu garumā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Mišri audinio sudėtis gali būti mažiau patogi nei 100% vilna",
+        "a": "Paaiškinkite klientei, kad šilko, medvilnės ir aukštųjų technologijų pluoštų pridėjimas daro audinį švelnesnį prisilietus prie odos ir žymiai padidina jo atsparumą deformacijai, kartu išlaikant visas vilnos šilumines savybes."
+      },
+      {
+        "q": "Klostės ties liemeniu gali vizualiai pridėti nepageidaujamos apimties",
+        "a": "Nurodykite, kad Olinda modelyje klostės suprojektuotos taip, kad formuotų aiškias vertikalias linijas, kurios, priešingai, struktūrizuoja siluetą ir vizualiai ilgina proporcijas."
+      },
+      {
+        "q": "Kelnės atrodo per daug oficialiai kasdieniams išėjimams",
+        "a": "Pademonstruokite eklektiško stiliaus galimybes: pasiūlykite derinti jas su masyviu kailiniu Stelle 0919 švarku ar atsipalaidavusiu trikotažu, kad sukurtumėte modernų casual-chic stiliaus įvaizdį."
+      },
+      {
+        "q": "Sunkumai parenkant avalynę prie tiesaus Regular fit kirpimo",
+        "a": "Patarkite derinti šį modelį su elegantiškais aulinukais ant kulno ar klasikiniais loaferiais, kas pabrėš kirpimo aristokratiškumą ir išsaugos silueto linijų švarą."
+      },
+      {
+        "q": "Audinio reiklumas priežiūrai",
+        "a": "Priminkite, kad tokios klasės gaminiai reikalauja profesionalaus delikaus valymo. Tai garantija, kad kelnės išsaugos savo formą, kilnią faktūrą ir spalvos sodrumą ilgus metus."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Skład mieszany tkaniny może być mniej komfortowy niż 100% wełna",
+        "a": "Wyjaśnij klientce, że dodatek jedwabiu, bawełny i zaawansowanych technologicznie włókien czyni tkaninę delikatniejszą w kontakcie ze skórą i znacznie zwiększa jej odporność na odkształcenia, zachowując przy tym wszystkie właściwości termiczne wełny."
+      },
+      {
+        "q": "Zaszewki w talii mogą optycznie dodawać niechcianej objętości",
+        "a": "Wskaż na to, że w modelu Olinda zaszewki zaprojektowano w taki sposób, aby tworzyły wyraźne pionowe linie, które wręcz strukturują sylwetkę i optycznie wydłużają proporcje."
+      },
+      {
+        "q": "Spodnie wyglądają zbyt oficjalnie na codzienne wyjścia",
+        "a": "Zaprezentuj możliwości eklektycznej stylizacji: zaproponuj połączenie ich z obszerną futrzaną kurtką Stelle 0919 lub rozluźnioną dzianiną, aby stworzyć nowoczesny wizerunek w stylu casual-chic."
+      },
+      {
+        "q": "Trudność w doborze obuwia do prostego kroju Regular fit",
+        "a": "Doradź łączenie tego modelu z eleganckimi botkami na obcasie lub klasycznymi mokasynami, co podkreśli arystokratyczność kroju i zachowa czystość linii sylwetki."
+      },
+      {
+        "q": "Wymagania tkaniny co do pielęgnacji",
+        "a": "Przypomnij, że wyroby tej klasy wymagają profesjonalnego, delikatnego czyszczenia. Jest to gwarancja, że spodnie zachowają swój kształt, szlachetną fakturę i nasycenie koloru na długie lata."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Сумішевий склад тканини може бути менш комфортним, ніж 100% вовна",
+        "a": "Поясніть клієнту, що додавання шовку, бавовни та високотехнологічних волокон робить тканину ніжнішою при зіткненні зі шкірою і значно підвищує її стійкість до деформації, зберігаючи при цьому всі теплові властивості вовни."
+      },
+      {
+        "q": "Защипи на талії можуть візуально додавати небажаний об'єм",
+        "a": "Вкажіть на те, що в моделі Olinda защипи спроєктовані таким чином, щоб формувати чіткі вертикальні лінії, які, навпаки, структурують силует і візуально витягують пропорції."
+      },
+      {
+        "q": "Штани виглядають занадто офіційно для повсякденних виходів",
+        "a": "Продемонструйте можливості еклектичного стайлінгу: запропонуйте поєднувати їх з об'ємною хутряною курткою Stelle 0919 або розслабленим трикотажем, щоб створити сучасний образ у стилі casual-chic."
+      },
+      {
+        "q": "Складність у підборі взуття під прямий крій Regular fit",
+        "a": "Порадьте поєднувати цю модель із витонченими ботильйонами на підборах або класичними лоферами, що підкреслить аристократизм крою і збереже чистоту ліній силуету."
+      },
+      {
+        "q": "Вимогливість тканини до догляду",
+        "a": "Нагадайте, що вироби такого класу вимагають професійної делікатної чистки. Це є запорукою того, що штани збережуть свою форму, благородну фактуру та насиченість кольору на довгі роки."
+      }
+    ]
+  }
+}

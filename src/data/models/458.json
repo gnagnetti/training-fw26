@@ -1,0 +1,335 @@
+{
+  "id": 458,
+  "name": "Onega",
+  "description": {
+    "en": "Data not available in official sources. A technical description of the piece and details of its fit are not included in the current lookbook.",
+    "ru": "Данные отсутствуют в официальных источниках. Техническое описание модели и детали её посадки не представлены в текущем lookbook.",
+    "ar": "هذه البيانات غير متوفرة في المصادر الرسمية. لم يتم تقديم الوصف الفني للقطعة وتفاصيل قصتها في كتيب العرض الحالي.",
+    "ka": "ოფიციალურ წყაროებში მონაცემები არ მოიპოვება. მოდელის ტექნიკური აღწერა და მისი მორგების დეტალები ამჟამინდელ lookbook-ში წარმოდგენილი არ არის.",
+    "hy": "Տվյալները բացակայում են պաշտոնական աղբյուրներում։ Մոդելի տեխնիկական նկարագրությունը և դրա նստվածքի մանրամասները ներկայիս lookbook-ում ներկայացված չեն։",
+    "lv": "Dati nav pieejami oficiālajos avotos. Modeļa tehniskais apraksts un informācija par piegulumu pašreizējā lookbook nav sniegta.",
+    "lt": "Duomenų oficialiuose šaltiniuose nėra. Techninis modelio aprašymas ir prigludimo detalės dabartiniame lookbook nėra pateikti.",
+    "pl": "Brak danych w oficjalnych źródłach. Opis techniczny modelu oraz szczegóły dotyczące dopasowania nie są przedstawione w bieżącym lookbooku.",
+    "uk": "Дані відсутні в офіційних джерелах. Технічний опис моделі та деталі її посадки не представлені в поточному lookbook."
+  },
+  "colors": [
+    {
+      "name": "Blu",
+      "code": "1204",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1917785367692424d5743365_23685218_02781410XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Вариант 1204",
+        "en": "On display (Vetrina 91, Bambola 2)",
+        "ar": "On display (Vetrina 91, Bambola 2)",
+        "ka": "On display (Vetrina 91, Bambola 2)",
+        "hy": "On display (Vetrina 91, Bambola 2)",
+        "lv": "On display (Vetrina 91, Bambola 2)",
+        "lt": "On display (Vetrina 91, Bambola 2)",
+        "pl": "On display (Vetrina 91, Bambola 2)",
+        "uk": "On display (Vetrina 91, Bambola 2)"
+      },
+      "text": {
+        "ru": "На витринах (Vetrina 91, Bambola 2): зимняя стилизация под пальто Soncio 0963 1161 с жакетом Mity 3441 и пуловером Contagiri 0202. Финальные акценты --- шляпа Renno 0930 и сумка Idoneo 0928 0945 0007",
+        "en": "winter styling under a Soncio 0963 1161 coat with a Mity 3441 jacket and a Contagiri 0202 pullover. Final accents --- a Renno 0930 hat and an Idoneo 0928 0945 0007 bag",
+        "ar": "winter styling under a Soncio 0963 1161 coat with a Mity 3441 jacket and a Contagiri 0202 pullover. Final accents --- a Renno 0930 hat and an Idoneo 0928 0945 0007 bag",
+        "ka": "winter styling under a Soncio 0963 1161 coat with a Mity 3441 jacket and a Contagiri 0202 pullover. Final accents --- a Renno 0930 hat and an Idoneo 0928 0945 0007 bag",
+        "hy": "winter styling under a Soncio 0963 1161 coat with a Mity 3441 jacket and a Contagiri 0202 pullover. Final accents --- a Renno 0930 hat and an Idoneo 0928 0945 0007 bag",
+        "lv": "winter styling under a Soncio 0963 1161 coat with a Mity 3441 jacket and a Contagiri 0202 pullover. Final accents --- a Renno 0930 hat and an Idoneo 0928 0945 0007 bag",
+        "lt": "winter styling under a Soncio 0963 1161 coat with a Mity 3441 jacket and a Contagiri 0202 pullover. Final accents --- a Renno 0930 hat and an Idoneo 0928 0945 0007 bag",
+        "pl": "winter styling under a Soncio 0963 1161 coat with a Mity 3441 jacket and a Contagiri 0202 pullover. Final accents --- a Renno 0930 hat and an Idoneo 0928 0945 0007 bag",
+        "uk": "winter styling under a Soncio 0963 1161 coat with a Mity 3441 jacket and a Contagiri 0202 pullover. Final accents --- a Renno 0930 hat and an Idoneo 0928 0945 0007 bag"
+      },
+      "items": [
+        {
+          "name": "Soncio",
+          "code": "0963 1161",
+          "imageUrl": null
+        },
+        {
+          "name": "Merende",
+          "code": "2234",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/748832174691f157692a0b6_36843969_02790440XX1.jpg",
+          "modelId": 442
+        },
+        {
+          "name": "Leonidas",
+          "code": "3173",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2hzpCfH4RfeaLd4HduSNWg_1540085088696f42e0485205_82454446_02820410XX1.jpg",
+          "modelId": 105
+        },
+        {
+          "name": "Idoneo",
+          "code": "0928 0945 0007",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда Luisa Spagnoli предлагают интегрировать брюки Onega в элегантные многослойные образы, сочетая их с укороченной верхней одеждой и фактурным трикотажем: Вариант 1204: На витринах (Vetrina 90, Bambola 1): статусный городской ансамбль под укороченным пальто Soncio 0963 1161 в сочетании с жакетом Merende 2234 и рубашкой Leonidas 3173. Образ дополнен сумкой Idoneo 0928 0945 0007.",
+        "en": "Luisa Spagnoli stylists suggest integrating Onega trousers into elegant layered looks, combining them with cropped outerwear and textured knitwear: Option 1204: On display (Vetrina 90, Bambola 1): a high-status city ensemble under a short Soncio 0963 1161 coat combined with a Merende 2234 jacket and a Leonidas 3173 shirt. The look is complemented by an Idoneo 0928 0945 0007 bag.",
+        "ar": "Luisa Spagnoli stylists suggest integrating Onega trousers into elegant layered looks, combining them with cropped outerwear and textured knitwear: Option 1204: On display (Vetrina 90, Bambola 1): a high-status city ensemble under a short Soncio 0963 1161 coat combined with a Merende 2234 jacket and a Leonidas 3173 shirt. The look is complemented by an Idoneo 0928 0945 0007 bag.",
+        "ka": "Luisa Spagnoli stylists suggest integrating Onega trousers into elegant layered looks, combining them with cropped outerwear and textured knitwear: Option 1204: On display (Vetrina 90, Bambola 1): a high-status city ensemble under a short Soncio 0963 1161 coat combined with a Merende 2234 jacket and a Leonidas 3173 shirt. The look is complemented by an Idoneo 0928 0945 0007 bag.",
+        "hy": "Luisa Spagnoli stylists suggest integrating Onega trousers into elegant layered looks, combining them with cropped outerwear and textured knitwear: Option 1204: On display (Vetrina 90, Bambola 1): a high-status city ensemble under a short Soncio 0963 1161 coat combined with a Merende 2234 jacket and a Leonidas 3173 shirt. The look is complemented by an Idoneo 0928 0945 0007 bag.",
+        "lv": "Luisa Spagnoli stylists suggest integrating Onega trousers into elegant layered looks, combining them with cropped outerwear and textured knitwear: Option 1204: On display (Vetrina 90, Bambola 1): a high-status city ensemble under a short Soncio 0963 1161 coat combined with a Merende 2234 jacket and a Leonidas 3173 shirt. The look is complemented by an Idoneo 0928 0945 0007 bag.",
+        "lt": "Luisa Spagnoli stylists suggest integrating Onega trousers into elegant layered looks, combining them with cropped outerwear and textured knitwear: Option 1204: On display (Vetrina 90, Bambola 1): a high-status city ensemble under a short Soncio 0963 1161 coat combined with a Merende 2234 jacket and a Leonidas 3173 shirt. The look is complemented by an Idoneo 0928 0945 0007 bag.",
+        "pl": "Luisa Spagnoli stylists suggest integrating Onega trousers into elegant layered looks, combining them with cropped outerwear and textured knitwear: Option 1204: On display (Vetrina 90, Bambola 1): a high-status city ensemble under a short Soncio 0963 1161 coat combined with a Merende 2234 jacket and a Leonidas 3173 shirt. The look is complemented by an Idoneo 0928 0945 0007 bag.",
+        "uk": "Luisa Spagnoli stylists suggest integrating Onega trousers into elegant layered looks, combining them with cropped outerwear and textured knitwear: Option 1204: On display (Vetrina 90, Bambola 1): a high-status city ensemble under a short Soncio 0963 1161 coat combined with a Merende 2234 jacket and a Leonidas 3173 shirt. The look is complemented by an Idoneo 0928 0945 0007 bag."
+      },
+      "items": [
+        {
+          "name": "Soncio",
+          "code": "0963 1161",
+          "imageUrl": null
+        },
+        {
+          "name": "Mity",
+          "code": "3441",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/w7ia5WvoTAeZwlznKmkrsw_293308709696f4377880a32_37996036_02831200XX1.jpg",
+          "modelId": 184
+        },
+        {
+          "name": "Contagiri",
+          "code": "0202",
+          "imageUrl": null
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        },
+        {
+          "name": "Idoneo",
+          "code": "0928 0945 0007",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [],
+    "ru": [],
+    "ar": [],
+    "ka": [],
+    "hy": [],
+    "lv": [],
+    "lt": [],
+    "pl": [],
+    "uk": []
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The tapestry motif feels too bold.",
+        "a": "Explain that floral jacquard is a hallmark of elevated style. Suggest balancing it with an understated base piece, such as the Manos 0970 pullover, as styled in our displays. |"
+      },
+      {
+        "q": "The tapestry fabric might be stiff.",
+        "a": "The density of the fabric in the Sancire model is essential to maintaining the architectural shape and crisp lines of the cut. It guarantees the piece will retain a flawless appearance for years to come. |"
+      },
+      {
+        "q": "The double-breasted cut visually widens the figure.",
+        "a": "On the contrary, thanks to the vita sfilata construction (accentuated waist), this jacket 'gathers in' the silhouette, turning the fabric's structure into a figure-flattering tool. |"
+      },
+      {
+        "q": "It's difficult to find trousers to match this texture.",
+        "a": "Demonstrate the ready-made solution from Display Case 22: the Orlato 2436 trousers in warm tones create a harmonious transition and underscore the richness of the floral palette. |"
+      },
+      {
+        "q": "This piece is only suited to formal occasions.",
+        "a": "Thanks to the Regular fit, the jacket can be worn more casually. Suggest trying it with understated trousers for daytime meetings, adding an element of high fashion to everyday looks."
+      }
+    ],
+    "ru": [
+      {
+        "q": "The tapestry motif feels too bold.",
+        "a": "Explain that floral jacquard is a hallmark of elevated style. Suggest balancing it with an understated base piece, such as the Manos 0970 pullover, as styled in our displays. |"
+      },
+      {
+        "q": "The tapestry fabric might be stiff.",
+        "a": "The density of the fabric in the Sancire model is essential to maintaining the architectural shape and crisp lines of the cut. It guarantees the piece will retain a flawless appearance for years to come. |"
+      },
+      {
+        "q": "The double-breasted cut visually widens the figure.",
+        "a": "On the contrary, thanks to the vita sfilata construction (accentuated waist), this jacket 'gathers in' the silhouette, turning the fabric's structure into a figure-flattering tool. |"
+      },
+      {
+        "q": "It's difficult to find trousers to match this texture.",
+        "a": "Demonstrate the ready-made solution from Display Case 22: the Orlato 2436 trousers in warm tones create a harmonious transition and underscore the richness of the floral palette. |"
+      },
+      {
+        "q": "This piece is only suited to formal occasions.",
+        "a": "Thanks to the Regular fit, the jacket can be worn more casually. Suggest trying it with understated trousers for daytime meetings, adding an element of high fashion to everyday looks."
+      }
+    ],
+    "ar": [
+      {
+        "q": "The tapestry motif feels too bold.",
+        "a": "Explain that floral jacquard is a hallmark of elevated style. Suggest balancing it with an understated base piece, such as the Manos 0970 pullover, as styled in our displays. |"
+      },
+      {
+        "q": "The tapestry fabric might be stiff.",
+        "a": "The density of the fabric in the Sancire model is essential to maintaining the architectural shape and crisp lines of the cut. It guarantees the piece will retain a flawless appearance for years to come. |"
+      },
+      {
+        "q": "The double-breasted cut visually widens the figure.",
+        "a": "On the contrary, thanks to the vita sfilata construction (accentuated waist), this jacket 'gathers in' the silhouette, turning the fabric's structure into a figure-flattering tool. |"
+      },
+      {
+        "q": "It's difficult to find trousers to match this texture.",
+        "a": "Demonstrate the ready-made solution from Display Case 22: the Orlato 2436 trousers in warm tones create a harmonious transition and underscore the richness of the floral palette. |"
+      },
+      {
+        "q": "This piece is only suited to formal occasions.",
+        "a": "Thanks to the Regular fit, the jacket can be worn more casually. Suggest trying it with understated trousers for daytime meetings, adding an element of high fashion to everyday looks."
+      }
+    ],
+    "ka": [
+      {
+        "q": "The tapestry motif feels too bold.",
+        "a": "Explain that floral jacquard is a hallmark of elevated style. Suggest balancing it with an understated base piece, such as the Manos 0970 pullover, as styled in our displays. |"
+      },
+      {
+        "q": "The tapestry fabric might be stiff.",
+        "a": "The density of the fabric in the Sancire model is essential to maintaining the architectural shape and crisp lines of the cut. It guarantees the piece will retain a flawless appearance for years to come. |"
+      },
+      {
+        "q": "The double-breasted cut visually widens the figure.",
+        "a": "On the contrary, thanks to the vita sfilata construction (accentuated waist), this jacket 'gathers in' the silhouette, turning the fabric's structure into a figure-flattering tool. |"
+      },
+      {
+        "q": "It's difficult to find trousers to match this texture.",
+        "a": "Demonstrate the ready-made solution from Display Case 22: the Orlato 2436 trousers in warm tones create a harmonious transition and underscore the richness of the floral palette. |"
+      },
+      {
+        "q": "This piece is only suited to formal occasions.",
+        "a": "Thanks to the Regular fit, the jacket can be worn more casually. Suggest trying it with understated trousers for daytime meetings, adding an element of high fashion to everyday looks."
+      }
+    ],
+    "hy": [
+      {
+        "q": "The tapestry motif feels too bold.",
+        "a": "Explain that floral jacquard is a hallmark of elevated style. Suggest balancing it with an understated base piece, such as the Manos 0970 pullover, as styled in our displays. |"
+      },
+      {
+        "q": "The tapestry fabric might be stiff.",
+        "a": "The density of the fabric in the Sancire model is essential to maintaining the architectural shape and crisp lines of the cut. It guarantees the piece will retain a flawless appearance for years to come. |"
+      },
+      {
+        "q": "The double-breasted cut visually widens the figure.",
+        "a": "On the contrary, thanks to the vita sfilata construction (accentuated waist), this jacket 'gathers in' the silhouette, turning the fabric's structure into a figure-flattering tool. |"
+      },
+      {
+        "q": "It's difficult to find trousers to match this texture.",
+        "a": "Demonstrate the ready-made solution from Display Case 22: the Orlato 2436 trousers in warm tones create a harmonious transition and underscore the richness of the floral palette. |"
+      },
+      {
+        "q": "This piece is only suited to formal occasions.",
+        "a": "Thanks to the Regular fit, the jacket can be worn more casually. Suggest trying it with understated trousers for daytime meetings, adding an element of high fashion to everyday looks."
+      }
+    ],
+    "lv": [
+      {
+        "q": "The tapestry motif feels too bold.",
+        "a": "Explain that floral jacquard is a hallmark of elevated style. Suggest balancing it with an understated base piece, such as the Manos 0970 pullover, as styled in our displays. |"
+      },
+      {
+        "q": "The tapestry fabric might be stiff.",
+        "a": "The density of the fabric in the Sancire model is essential to maintaining the architectural shape and crisp lines of the cut. It guarantees the piece will retain a flawless appearance for years to come. |"
+      },
+      {
+        "q": "The double-breasted cut visually widens the figure.",
+        "a": "On the contrary, thanks to the vita sfilata construction (accentuated waist), this jacket 'gathers in' the silhouette, turning the fabric's structure into a figure-flattering tool. |"
+      },
+      {
+        "q": "It's difficult to find trousers to match this texture.",
+        "a": "Demonstrate the ready-made solution from Display Case 22: the Orlato 2436 trousers in warm tones create a harmonious transition and underscore the richness of the floral palette. |"
+      },
+      {
+        "q": "This piece is only suited to formal occasions.",
+        "a": "Thanks to the Regular fit, the jacket can be worn more casually. Suggest trying it with understated trousers for daytime meetings, adding an element of high fashion to everyday looks."
+      }
+    ],
+    "lt": [
+      {
+        "q": "The tapestry motif feels too bold.",
+        "a": "Explain that floral jacquard is a hallmark of elevated style. Suggest balancing it with an understated base piece, such as the Manos 0970 pullover, as styled in our displays. |"
+      },
+      {
+        "q": "The tapestry fabric might be stiff.",
+        "a": "The density of the fabric in the Sancire model is essential to maintaining the architectural shape and crisp lines of the cut. It guarantees the piece will retain a flawless appearance for years to come. |"
+      },
+      {
+        "q": "The double-breasted cut visually widens the figure.",
+        "a": "On the contrary, thanks to the vita sfilata construction (accentuated waist), this jacket 'gathers in' the silhouette, turning the fabric's structure into a figure-flattering tool. |"
+      },
+      {
+        "q": "It's difficult to find trousers to match this texture.",
+        "a": "Demonstrate the ready-made solution from Display Case 22: the Orlato 2436 trousers in warm tones create a harmonious transition and underscore the richness of the floral palette. |"
+      },
+      {
+        "q": "This piece is only suited to formal occasions.",
+        "a": "Thanks to the Regular fit, the jacket can be worn more casually. Suggest trying it with understated trousers for daytime meetings, adding an element of high fashion to everyday looks."
+      }
+    ],
+    "pl": [
+      {
+        "q": "The tapestry motif feels too bold.",
+        "a": "Explain that floral jacquard is a hallmark of elevated style. Suggest balancing it with an understated base piece, such as the Manos 0970 pullover, as styled in our displays. |"
+      },
+      {
+        "q": "The tapestry fabric might be stiff.",
+        "a": "The density of the fabric in the Sancire model is essential to maintaining the architectural shape and crisp lines of the cut. It guarantees the piece will retain a flawless appearance for years to come. |"
+      },
+      {
+        "q": "The double-breasted cut visually widens the figure.",
+        "a": "On the contrary, thanks to the vita sfilata construction (accentuated waist), this jacket 'gathers in' the silhouette, turning the fabric's structure into a figure-flattering tool. |"
+      },
+      {
+        "q": "It's difficult to find trousers to match this texture.",
+        "a": "Demonstrate the ready-made solution from Display Case 22: the Orlato 2436 trousers in warm tones create a harmonious transition and underscore the richness of the floral palette. |"
+      },
+      {
+        "q": "This piece is only suited to formal occasions.",
+        "a": "Thanks to the Regular fit, the jacket can be worn more casually. Suggest trying it with understated trousers for daytime meetings, adding an element of high fashion to everyday looks."
+      }
+    ],
+    "uk": [
+      {
+        "q": "The tapestry motif feels too bold.",
+        "a": "Explain that floral jacquard is a hallmark of elevated style. Suggest balancing it with an understated base piece, such as the Manos 0970 pullover, as styled in our displays. |"
+      },
+      {
+        "q": "The tapestry fabric might be stiff.",
+        "a": "The density of the fabric in the Sancire model is essential to maintaining the architectural shape and crisp lines of the cut. It guarantees the piece will retain a flawless appearance for years to come. |"
+      },
+      {
+        "q": "The double-breasted cut visually widens the figure.",
+        "a": "On the contrary, thanks to the vita sfilata construction (accentuated waist), this jacket 'gathers in' the silhouette, turning the fabric's structure into a figure-flattering tool. |"
+      },
+      {
+        "q": "It's difficult to find trousers to match this texture.",
+        "a": "Demonstrate the ready-made solution from Display Case 22: the Orlato 2436 trousers in warm tones create a harmonious transition and underscore the richness of the floral palette. |"
+      },
+      {
+        "q": "This piece is only suited to formal occasions.",
+        "a": "Thanks to the Regular fit, the jacket can be worn more casually. Suggest trying it with understated trousers for daytime meetings, adding an element of high fashion to everyday looks."
+      }
+    ]
+  }
+}

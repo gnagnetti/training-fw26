@@ -1,0 +1,405 @@
+{
+  "id": 13,
+  "name": "Costanzo",
+  "description": {
+    "en": "This exquisite short-sleeve top from Luisa Spagnoli is the quintessence of everyday luxury. Styled after the classic T-shirt, it is elevated to the realm of high fashion through the use of a noble blend of 90% pure wool and 10% cashmere. Particular charm is lent by edges finished in contrasting trim, which accentuates the graphic quality of the silhouette and the brand's attention to detail. The Regular fit ensures flawless comfort, transforming this knit top into a foundational wardrobe piece for creating status-defining layered ensembles in the 'quiet luxury' aesthetic.",
+    "ru": "Этот изысканный топ с короткими рукавами от Luisa Spagnoli представляет собой квинтэссенцию повседневной роскоши. Модель, выполненная в стиле классической футболки, возведена в ранг высокой моды благодаря использованию благородной смеси 90% натуральной шерсти и 10% кашемира. Особое очарование изделию придают края, выполненные с контрастной отделкой, что подчеркивает графичность силуэта и внимание бренда к деталям. Прямая посадка (Regular fit) обеспечивает безупречный комфорт, превращая этот трикотажный топ в фундаментальный элемент гардероба для создания статусных многослойных ансамблей в эстетике «тихой роскоши».",
+    "ar": "يُمثّل هذا التوب الراقي بأكمام قصيرة من Luisa Spagnoli جوهر الفخامة اليومية. صُممت هذه القطعة بأسلوب التيشيرت الكلاسيكي، لترتقي إلى مصاف الأزياء الراقية بفضل استخدام مزيج فاخر من 90% صوف طبيعي و10% كشمير. وتضفي الحواف ذات التشطيبات المتباينة سحراً خاصاً على القطعة، مما يبرز الخطوط الجرافيكية للقصة واهتمام العلامة التجارية بأدق التفاصيل. تضمن القصة المستقيمة (Regular fit) راحة لا تضاهى، مما يجعل هذا التوب التريكو عنصراً أساسياً في خزانة الملابس لإطلالات متعددة الطبقات تتسم بجمالية «الفخامة الهادئة».",
+    "ka": "Luisa Spagnoli-ს ეს დახვეწილი მოკლემკლავიანი ტოპი ყოველდღიური ფუფუნების კვინტესენციას წარმოადგენს. კლასიკური მაისურის სტილში შესრულებული მოდელი მაღალი მოდის რანგშია აყვანილი 90% ნატურალური მატყლისა და 10% ქაშმირის კეთილშობილური ნარევის გამოყენების წყალობით. ნაკეთობას განსაკუთრებულ ხიბლს მატებს კონტრასტული მორთულობის მქონე ნაპირები, რაც ხაზს უსვამს სილუეტის გრაფიკულობას და ბრენდის ყურადღებას დეტალებისადმი. სწორი მორგება (Regular fit) უზრუნველყოფს უნაკლო კომფორტს და ამ ნაქსოვ ტოპს გარდერობის ფუნდამენტურ ელემენტად აქცევს „ჩუმი ფუფუნების“ ესთეტიკაში სტატუსური მრავალფენიანი ანსამბლების შესაქმნელად.",
+    "hy": "Luisa Spagnoli-ի այս նրբաճաշակ կարճաթև տոպը առօրյա շքեղության մարմնացումն է։ Դասական շապիկի ոճով կատարված այս մոդելը բարձր նորաձևության մակարդակի է հասցված՝ շնորհիվ 90% բնական բրդի և 10% քաշմիրի վեհաշուք համադրության։ Իրին հատուկ հմայք են հաղորդում հակադիր եզրագծերը, որոնք ընդգծում են ուրվագծի գրաֆիկականությունը և բրենդի ուշադրությունը դետալների նկատմամբ։ Ուղիղ ձևվածքը (Regular fit) ապահովում է անթերի հարմարավետություն՝ դարձնելով այս տրիկոտաժե տոպը զգեստապահարանի հիմնարար տարր՝ «հանգիստ շքեղության» էսթետիկայով կարգավիճակային բազմաշերտ համադրություններ ստեղծելու համար։",
+    "lv": "Šis izsmalcinātais tops ar īsām piedurknēm no Luisa Spagnoli ir ikdienas greznības kvintesence. Modelis, kas veidots klasiska T-krekla stilā, ir pacelts augstās modes līmenī, pateicoties cēlam 90% dabīgas vilnas un 10% kašmira maisījumam. Īpašu šarmu izstrādājumam piešķir malas ar kontrastējošu apdari, kas izceļ silueta grafiskumu un zīmola uzmanību detaļām. Taisnais piegriezums (Regular fit) nodrošina nevainojamu komfortu, pārvēršot šo trikotāžas topu par fundamentālu garderobes elementu statusa pilnu daudzslāņu ansambļu radīšanai \"klusās greznības\" estētikā.",
+    "lt": "Šis rafinuotas Luisa Spagnoli trumpomis rankovėmis topas yra kasdienės prabangos kvintesencija. Klasikinio marškinėlių stiliaus modelis pakylėtas į aukštosios mados rangą naudojant taurų 90% natūralios vilnos ir 10% kašmyro mišinį. Ypatingo žavesio gaminiui suteikia kontrastinga apdaila kraštuose, pabrėžianti silueto grakštumą ir prekės ženklo dėmesį detalėms. Taisyklingas (Regular fit) sukirpimas užtikrina nepriekaištingą komfortą, paversdamas šį trikotažinį topą fundamentaliu garderobo elementu, skirtu kurti stilingus sluoksniuotus derinius „tyliosios prabangos“ estetikoje.",
+    "pl": "Ten wyrafinowany top z krótkimi rękawami od Luisa Spagnoli to kwintesencja codziennego luksusu. Model, wykonany w stylu klasycznego T-shirtu, został wzniesiony do rangi wysokiej mody dzięki zastosowaniu szlachetnej mieszanki 90% naturalnej wełny i 10% kaszmiru. Szczególnego uroku nadają wykończenia brzegów w kontrastowym kolorze, co podkreśla graficzną formę sylwetki i dbałość marki o detale. Prosty krój (Regular fit) zapewnia nieskazitelny komfort, czyniąc ten dzianinowy top podstawowym elementem garderoby do tworzenia statusowych, warstwowych stylizacji w estetyce „cichego luksusu”.",
+    "uk": "Цей вишуканий топ з короткими рукавами від Luisa Spagnoli являє собою квінтесенцію повсякденної розкоші. Модель, виконана у стилі класичної футболки, зведена в ранг високої моди завдяки використанню благородної суміші 90% натуральної вовни та 10% кашеміру. Особливого шарму виробу додають краї, виконані з контрастним оздобленням, що підкреслює графічність силуету та увагу бренду до деталей. Пряма посадка (Regular fit) забезпечує бездоганний комфорт, перетворюючи цей трикотажний топ на фундаментальний елемент гардероба для створення статусних багатошарових ансамблів в естетиці «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Beige",
+      "code": "1111",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nYRKsT7_QPCEFsCDij_7UA_2042203972696f435aed6179_50606973_02830260XX1.jpg"
+    },
+    {
+      "name": "Vinaccia",
+      "code": "2453",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b9397548-e72b-429f-88d3-6accdfb80a77.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 194 (Vinaccia)",
+        "en": "Total Look 194 (Vinaccia)",
+        "ar": "Total Look 194 (Vinaccia)",
+        "ka": "Total Look 194 (Vinaccia)",
+        "hy": "Total Look 194 (Vinaccia)",
+        "lv": "Total Look 194 (Vinaccia)",
+        "lt": "Total Look 194 (Vinaccia)",
+        "pl": "Total Look 194 (Vinaccia)",
+        "uk": "Total Look 194 (Vinaccia)"
+      },
+      "text": {
+        "ru": "Cirillo 2453 в сочетании с Costanzo 2453, брюками Ottana 3417 и сапогами Ustica A 2450. Образ дополнен колье Navali 0002, ремнем Dogale A 0986 0002 и браслетом Niassesi 2449 0002. Navoncella 0002 — Данные отсутствуют в официальных источниках.",
+        "en": "Cirillo 2453 combined with Costanzo 2453, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed with a Navali 0002 necklace, Dogale A 0986 0002 belt and Niassesi 2449 0002 bracelet. Navoncella 0002 — Data not available in official sources.",
+        "ar": "Cirillo 2453 combined with Costanzo 2453, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed with a Navali 0002 necklace, Dogale A 0986 0002 belt and Niassesi 2449 0002 bracelet. Navoncella 0002 — Data not available in official sources.",
+        "ka": "Cirillo 2453 combined with Costanzo 2453, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed with a Navali 0002 necklace, Dogale A 0986 0002 belt and Niassesi 2449 0002 bracelet. Navoncella 0002 — Data not available in official sources.",
+        "hy": "Cirillo 2453 combined with Costanzo 2453, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed with a Navali 0002 necklace, Dogale A 0986 0002 belt and Niassesi 2449 0002 bracelet. Navoncella 0002 — Data not available in official sources.",
+        "lv": "Cirillo 2453 combined with Costanzo 2453, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed with a Navali 0002 necklace, Dogale A 0986 0002 belt and Niassesi 2449 0002 bracelet. Navoncella 0002 — Data not available in official sources.",
+        "lt": "Cirillo 2453 combined with Costanzo 2453, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed with a Navali 0002 necklace, Dogale A 0986 0002 belt and Niassesi 2449 0002 bracelet. Navoncella 0002 — Data not available in official sources.",
+        "pl": "Cirillo 2453 combined with Costanzo 2453, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed with a Navali 0002 necklace, Dogale A 0986 0002 belt and Niassesi 2449 0002 bracelet. Navoncella 0002 — Data not available in official sources.",
+        "uk": "Cirillo 2453 combined with Costanzo 2453, Ottana 3417 trousers and Ustica A 2450 boots. The look is completed with a Navali 0002 necklace, Dogale A 0986 0002 belt and Niassesi 2449 0002 bracelet. Navoncella 0002 — Data not available in official sources."
+      },
+      "items": [
+        {
+          "name": "Cirillo",
+          "code": "2453",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GZM4AgwUTcGIE6gIgDQ4Bg_746214061696f435a87aea9_84750972_02830180XX1.jpg",
+          "modelId": 12
+        },
+        {
+          "name": "Costanzo",
+          "code": "2453",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b9397548-e72b-429f-88d3-6accdfb80a77.jpg"
+        },
+        {
+          "name": "Ottana",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TQWq2qXmRQayYc7Z7KMgUg_391295727696f42ed3bd804_80361111_02820790XX1.jpg",
+          "modelId": 271
+        },
+        {
+          "name": "Ustica A",
+          "code": "2450",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_245000000000.jpg"
+        },
+        {
+          "name": "Navali",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/811531311691c57d6aba2e4_67623166_02800140XX1.jpg"
+        },
+        {
+          "name": "Dogale A",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0e5e02e9-a1bd-47f8-963b-3247cdd9d527.jpg"
+        },
+        {
+          "name": "Niassesi",
+          "code": "2449 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2449.png"
+        },
+        {
+          "name": "Navoncella",
+          "code": "0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 201 (Beige)",
+        "en": "Total Look 201 (Beige)",
+        "ar": "Total Look 201 (Beige)",
+        "ka": "Total Look 201 (Beige)",
+        "hy": "Total Look 201 (Beige)",
+        "lv": "Total Look 201 (Beige)",
+        "lt": "Total Look 201 (Beige)",
+        "pl": "Total Look 201 (Beige)",
+        "uk": "Total Look 201 (Beige)"
+      },
+      "text": {
+        "ru": "Cirillo 1111 дополнен топом Costanzo 1111, брюками Olap 1119 и ботильонами Urbana 0981. Акценты: колье Nuevitas 0002 0001, кулон Niccioleta 1120 0002 и браслет Niassesi 1116 0002.",
+        "en": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 ankle boots. Accents: Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet.",
+        "ar": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 ankle boots. Accents: Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet.",
+        "ka": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 ankle boots. Accents: Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet.",
+        "hy": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 ankle boots. Accents: Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet.",
+        "lv": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 ankle boots. Accents: Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet.",
+        "lt": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 ankle boots. Accents: Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet.",
+        "pl": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 ankle boots. Accents: Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet.",
+        "uk": "Cirillo 1111 complemented by a Costanzo 1111 top, Olap 1119 trousers and Urbana 0981 ankle boots. Accents: Nuevitas 0002 0001 necklace, Niccioleta 1120 0002 pendant and Niassesi 1116 0002 bracelet."
+      },
+      "items": [
+        {
+          "name": "Cirillo",
+          "code": "1111",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/V4PwhiraQcmzaF8uZFBdAg_1621175979696f435a26d2f6_89162056_02830170XX1.jpg",
+          "modelId": 12
+        },
+        {
+          "name": "Costanzo",
+          "code": "1111",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nYRKsT7_QPCEFsCDij_7UA_2042203972696f435aed6179_50606973_02830260XX1.jpg"
+        },
+        {
+          "name": "Olap",
+          "code": "1119",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Urbana",
+          "code": "0981",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7BoHBVbqTtCtxociDR_4dQ_2049283379696f42280ae740_09477040_02801350XX1.jpg"
+        },
+        {
+          "name": "Nuevitas",
+          "code": "0002 0001",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e39e2515-7056-4e2f-8a1c-57aeb3a2cca5-removebg-preview.png",
+          "modelId": 234
+        },
+        {
+          "name": "Niccioleta",
+          "code": "1120 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/124283544691c57dae87814_56906608_02800210XX1.jpg",
+          "modelId": 217
+        },
+        {
+          "name": "Niassesi",
+          "code": "1116 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1116.png"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Embrace the 'set concept': present Costanzo alongside the Cirillo cardigan in matching tones for an impeccable runway-worthy twin-set, synonymous with Luisa Spagnoli elegance.",
+      "Draw the client's attention to the premium composition: 10% cashmere lends the knit the very softness that makes the piece indispensable for wear against the skin.",
+      "Emphasize versatility: the contrasting trim allows the top to be paired effortlessly with tailored Olap trousers or more relaxed denim, while preserving a note of high style."
+    ],
+    "ru": [
+      "Делайте ставку на «концепцию сета»: предлагайте Costanzo вместе с кардиганом Cirillo того же оттенка для создания безупречного подиумного twin-set, что является синонимом элегантности Luisa Spagnoli.",
+      "Акцентируйте внимание клиента на премиальном составе: 10% кашемира придают трикотажу ту самую мягкость, которая делает модель незаменимой для ношения непосредственно на тело.",
+      "Подчеркните универсальность: контрастная отделка позволяет легко комбинировать топ как со строгими деловыми брюками Olap, так и с более расслабленными джинсами, сохраняя ноту высокого стиля."
+    ],
+    "ar": [
+      "اعتمدي على «مفهوم الطقم المتكامل»: اقترحي تنسيق Costanzo مع سترة Cirillo بنفس الدرجة اللونية للحصول على إطلالة «توين سيت» لا تشوبها شائبة، والتي تُعد مرادفاً لأناقة Luisa Spagnoli.",
+      "ركزي على تركيبة المادة الفاخرة: فنسبة 10% من الكشمير تمنح النسيج تلك النعومة الفائقة التي تجعل من القطعة خياراً مثالياً للارتداء مباشرة على البشرة.",
+      "أبرزي تعدد استخدامات القطعة: إذ تتيح الحواف المتباينة تنسيق التوب بسهولة سواء مع سراويل Olap الرسمية أو مع سراويل الجينز الكاجوال، مع الحفاظ دائماً على لمسة من الرقي العالي."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება „სეტის კონცეფციაზე“: შესთავაზეთ Costanzo, კარდიგან Cirillo-სთან ერთად, იმავე ტონალობაში, რათა შექმნათ უნაკლო პოდიუმის twin-set, რაც Luisa Spagnoli-ს ელეგანტურობის სინონიმია.",
+      "მიაქცევინეთ კლიენტის ყურადღება პრემიუმ შემადგენლობაზე: 10% ქაშმირი ტრიკოტაჟს ანიჭებს იმ განსაკუთრებულ სირბილეს, რომელიც მოდელს შეუცვლელს ხდის ტანზე პირდაპირ ჩასაცმელად.",
+      "ხაზი გაუსვით მრავალფეროვნებას: კონტრასტული მორთულობა საშუალებას იძლევა ტოპი მარტივად შეუხამოთ როგორც მკაცრ საქმიან შარვალს Olap, ისე უფრო თავისუფალ ჯინსებს, მაღალი სტილის შენარჩუნებით."
+    ],
+    "hy": [
+      "Կատարեք խաղադրույք «հավաքածուի հայեցակարգի» վրա. առաջարկեք Costanzo-ն նույն երանգի Cirillo քարդիգանի հետ միասին՝ ստեղծելու անթերի պոդիումային twin-set, որը Luisa Spagnoli-ի էլեգանտության հոմանիշն է:",
+      "Կենտրոնացրեք հաճախորդի ուշադրությունը պրեմիում կազմի վրա. 10% քաշմիրը տրիկոտաժին հաղորդում է այն նույն փափկությունը, որը մոդելը դարձնում է անփոխարինելի՝ անմիջապես մարմնին կրելու համար:",
+      "Ընդգծեք բազմակողմանիությունը. հակադիր երիզավորումը թույլ է տալիս հեշտությամբ համադրել տոպը ինչպես Olap գործնական խիստ տաբատների, այնպես էլ ավելի հանգիստ ջինսերի հետ՝ պահպանելով բարձր ոճի նոտան:"
+    ],
+    "lv": [
+      "Veidojiet likmi uz „seta koncepciju”: piedāvājiet Costanzo kopā ar tāda paša toņa Cirillo kardiganu, lai izveidotu nevainojamu modes skates cienīgu twin-set, kas ir Luisa Spagnoli elegancei sinonīms.",
+      "Akcentējiet klienta uzmanību uz sastāva kvalitāti: 10% kašmira piešķir trikotāžai to īpašo mīkstumu, kas padara šo modeli neaizstājamu valkāšanai tieši uz ķermeņa.",
+      "Uzsveriet universālumu: kontrastējošā apdare ļauj viegli kombinēt topu gan ar lietišķajām Olap biksēm, gan ar brīvāka stila džinsiem, saglabājot augstā stila noti."
+    ],
+    "lt": [
+      "Statykite ant „komplekto koncepcijos“: pasiūlykite Costanzo kartu su tos pačios spalvos kardiganu Cirillo, kad sukurtumėte nepriekaištingą podiumo stiliaus twin-set, kuris yra Luisa Spagnoli elegancijos sinonimas.",
+      "Atkreipkite kliento dėmesį į aukščiausios kokybės sudėtį: 10% kašmyro suteikia trikotažui būtent tą švelnumą, dėl kurio šis modelis tampa nepakeičiamas dėvint tiesiai ant kūno.",
+      "Pabrėžkite universalumą: kontrastinga apdaila leidžia lengvai derinti viršutinę dalį tiek su griežtomis dalykinėmis kelnėmis Olap, tiek su laisvesnio stiliaus džinsais, išlaikant aukšto stiliaus natą."
+    ],
+    "pl": [
+      "Postaw na „koncepcję zestawu”: zaproponuj Costanzo wraz z kardiganem Cirillo w tym samym odcieniu, aby stworzyć nienaganny, wybiegowy twin-set, który jest synonimem elegancji Luisa Spagnoli.",
+      "Zwróć uwagę klientki na skład premium: 10% kaszmiru nadaje dzianinie tę wyjątkową miękkość, która czyni model niezastąpionym do noszenia bezpośrednio na ciało.",
+      "Podkreśl uniwersalność: kontrastowe wykończenie pozwala łatwo łączyć top zarówno z eleganckimi spodniami biznesowymi Olap, jak i z bardziej swobodnymi dżinsami, zachowując nutę wysokiego stylu."
+    ],
+    "uk": [
+      "Робіть ставку на «концепцію сету»: пропонуйте Costanzo разом із кардиганом Cirillo того ж відтінку для створення бездоганного подіумного twin-set, що є синонімом елегантності Luisa Spagnoli.",
+      "Акцентуйте увагу клієнта на преміальному складі: 10% кашеміру додають трикотажу ту саму м'якість, яка робить модель незамінною для носіння безпосередньо на тіло.",
+      "Підкресліть універсальність: контрастне оздоблення дозволяє легко комбінувати топ як із суворими діловими штанами Olap, так і з більш розслабленими джинсами, зберігаючи ноту високого стилю."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "A short sleeve seems impractical for a winter collection.",
+        "a": "The top is designed as the ideal base layer beneath jackets and cardigans. The wool-and-cashmere blend ensures excellent thermoregulation even without a long sleeve."
+      },
+      {
+        "q": "Concern that carded wool may feel uncomfortable against the skin.",
+        "a": "Thanks to the addition of cashmere, the fiber becomes remarkably soft and silky, minimizing any irritation even for those with sensitive skin."
+      },
+      {
+        "q": "The design seems too simple.",
+        "a": "True luxury lies in the quality of the material and the purity of the lines. The contrasting trim is a subtle styling device that sets the Costanzo model apart from basic knitwear."
+      },
+      {
+        "q": "The Vinaccia (2453) shade is too intense.",
+        "a": "The 'wine berry' shade is one of the most status-defining of the season. It beautifully illuminates the face and harmonizes perfectly with the neutral grey and brown palette."
+      },
+      {
+        "q": "How should such a delicate combined knit be cared for?",
+        "a": "We recommend professional cleaning, to preserve the cashmere's voluminous structure and the brightness of the contrasting details for many seasons to come."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Короткий рукав кажется непрактичным для зимней коллекции.",
+        "a": "Топ спроектирован как идеальный нижний слой под жакеты и кардиганы. Сочетание шерсти и кашемира обеспечивает превосходную терморегуляцию даже при отсутствии длинного рукава."
+      },
+      {
+        "q": "Боязнь, что кардная шерсть может вызывать дискомфорт на коже.",
+        "a": "Благодаря добавлению кашемира волокно становится необычайно нежным и шелковистым, что минимизирует любое раздражение даже у обладательниц чувствительной кожи."
+      },
+      {
+        "q": "Дизайн кажется слишком простым.",
+        "a": "Истинная роскошь кроется в качестве материала и чистоте линий. Контрастная отделка — это тонкий стилистический прием, который выделяет модель Costanzo среди базового трикотажа."
+      },
+      {
+        "q": "Цвет Vinaccia (2453) слишком насыщенный.",
+        "a": "Оттенок «винная ягода» является одним из самых статусных в сезоне. Он великолепно подсвечивает лицо и идеально гармонирует с нейтральной серой и коричневой палитрой."
+      },
+      {
+        "q": "Как ухаживать за таким деликатным комбинированным трикотажем?",
+        "a": "Мы рекомендуем профессиональную чистку, чтобы сохранить объемную структуру кашемира и яркость контрастных деталей на многие сезоны."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يبدو الكم القصير غير عملي لمجموعة الشتاء.",
+        "a": "صُمم هذا التوب ليكون طبقة أساسية مثالية تحت السترات والكارديجان. يضمن مزيج الصوف والكشمير تنظيماً حرارياً فائقاً حتى بدون أكمام طويلة."
+      },
+      {
+        "q": "الخوف من أن الصوف الممشط قد يسبب عدم الراحة على الجلد.",
+        "a": "بفضل إضافة الكشمير، تصبح الألياف ناعمة وحريرية بشكل استثنائي، مما يقلل من أي تهيج حتى لذوات البشرة الحساسة."
+      },
+      {
+        "q": "التصميم يبدو بسيطاً للغاية.",
+        "a": "تكمن الفخامة الحقيقية في جودة الخامة ونقاء الخطوط. الزخرفة المتباينة هي لمسة أسلوبية دقيقة تميز طراز Costanzo عن التريكو الأساسي."
+      },
+      {
+        "q": "لون Vinaccia (2453) مشبع جداً.",
+        "a": "يُعد هذا اللون"
+      }
+    ],
+    "ka": [
+      {
+        "q": "მოკლე სახელოები ზამთრის კოლექციისთვის არაპრაქტიკული გვეჩვენება.",
+        "a": "ტოპი შექმნილია როგორც იდეალური ქვედა შრე ჟაკეტებისა და კარდიგანებისთვის. მატყლისა და ქაშმირის კომბინაცია უზრუნველყოფს თერმორეგულაციის შესანიშნავ დონეს გრძელი სახელოების გარეშეც კი."
+      },
+      {
+        "q": "შიში იმისა, რომ კარდირებული მატყლი შესაძლოა კანზე დისკომფორტს იწვევდეს.",
+        "a": "ქაშმირის დამატების წყალობით ბოჭკო არაჩვეულებრივად ნაზი და აბრეშუმისებრი ხდება, რაც მინიმუმამდე ამცირებს გაღიზიანებას მგრძნობიარე კანის მქონე ქალბატონებისთვისაც კი."
+      },
+      {
+        "q": "დიზაინი ზედმეტად მარტივი ჩანს.",
+        "a": "ნამდვილი ფუფუნება მასალის ხარისხსა და ხაზების სიწმინდეშია. კონტრასტული მორთულობა არის დახვეწილი სტილისტური ილეთი, რომელიც Costanzo-ს მოდელს ძირითადი ტრიკოტაჟისგან გამოარჩევს."
+      },
+      {
+        "q": "ფერი Vinaccia (2453) ზედმეტად მკვეთრია.",
+        "a": "„ღვინის კენკრის“ ფერი სეზონის ერთ-ერთი ყველაზე სტატუსური ტონია. ის შესანიშნავად ანათებს სახეს და იდეალურად ჰარმონიზდება ნეიტრალურ ნაცრისფერ და ყავისფერ პალიტრასთან."
+      },
+      {
+        "q": "როგორ მოვუაროთ ასეთ დელიკატურ კომბინირებულ ტრიკოტაჟს?",
+        "a": "ჩვენ გირჩევთ პროფესიონალურ წმენდას, რათა მრავალი სეზონის განმავლობაში შეინარჩუნოთ ქაშმირის მოცულობითი სტრუქტურა და კონტრასტული დეტალების სიკაშკაშე."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կարճ թևը ձմեռային հավաքածուի համար անգործնական է թվում։",
+        "a": "Տոպը նախագծված է որպես իդեալական ներքին շերտ բաճկոնների և կարդիգանների տակ։ Բրդի և կաշմիրի համադրությունը ապահովում է հիանալի ջերմակարգավորում նույնիսկ երկար թևերի բացակայության դեպքում։"
+      },
+      {
+        "q": "Մտավախություն, որ կարդային բուրդը կարող է անհարմարություն առաջացնել մաշկի վրա։",
+        "a": "Կաշմիրի ավելացման շնորհիվ մանրաթելը դառնում է անչափ նուրբ և մետաքսանման, ինչը նվազագույնի է հասցնում ցանկացած գրգռվածություն նույնիսկ զգայուն մաշկ ունեցողների մոտ։"
+      },
+      {
+        "q": "Դիզայնը շատ պարզ է թվում։",
+        "a": "Իսկական շքեղությունը թաքնված է նյութի որակի և գծերի մաքրության մեջ։ Հակադիր եզրագծումը նուրբ ոճային հնարք է, որը Costanzo մոդելը առանձնացնում է բազային տրիկոտաժից։"
+      },
+      {
+        "q": "Vinaccia (2453) գույնը շատ հագեցած է։",
+        "a": "Գինեհատապ» երանգը սեզոնի ամենաստատուսային երանգներից է։ Այն հիանալի լուսավորում է դեմքը և իդեալականորեն ներդաշնակվում չեզոք մոխրագույն և շագանակագույն պալիտրայի հետ։"
+      },
+      {
+        "q": "Ինչպե՞ս խնամել այսպիսի նուրբ համակցված տրիկոտաժը։",
+        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ մաքրում, որպեսզի պահպանվի կաշմիրի ծավալային կառուցվածքը և հակադիր դետալների պայծառությունը երկար սեզոններ շարունակ։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Īsās piedurknes šķiet nepraktiskas ziemas kolekcijai.",
+        "a": "Tops ir izstrādāts kā ideāls apakšslānis zem žaketēm un jaciņām. Vilnas un kašmira kombinācija nodrošina izcilu termoregulāciju pat bez garām piedurknēm."
+      },
+      {
+        "q": "Bailes, ka kārstā vilna var radīt diskomfortu uz ādas.",
+        "a": "Pateicoties kašmira pievienojumam, šķiedra kļūst neparasti maiga un zīdaina, kas mazina jebkādu kairinājumu pat sievietēm ar jutīgu ādu."
+      },
+      {
+        "q": "Dizains šķiet pārāk vienkāršs.",
+        "a": "Patiesa greznība slēpjas materiāla kvalitātē un līniju tīrībā. Kontrastējošā apdare ir smalks stilistisks paņēmiens, kas izceļ Costanzo modeli starp bāzes trikotāžas izstrādājumiem."
+      },
+      {
+        "q": "Vinaccia (2453) krāsa ir pārāk piesātināta.",
+        "a": "Vīnogu” tonis ir viens no statusa simboliem šajā sezonā. Tas lieliski izgaismo seju un ideāli harmonē ar neitrālu pelēko un brūno paleti."
+      },
+      {
+        "q": "Kā kopt šādu smalku kombinētu trikotāžu?",
+        "a": "Mēs iesakām profesionālo tīrīšanu, lai saglabātu kašmira apjomīgo struktūru un kontrastējošo detaļu spilgtumu daudzām sezonām."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Trumpas rankovės atrodo nepraktiškos žiemos kolekcijai.",
+        "a": "Topas suprojektuotas kaip idealus apatinis sluoksnis po švarkais ir megztiniais. Vilnos ir kašmyro derinys užtikrina puikią termoreguliaciją net ir esant trumpoms rankovėms."
+      },
+      {
+        "q": "Baimė, kad karšinė vilna gali kelti diskomfortą odai.",
+        "a": "Dėl kašmyro priemaišos pluoštas tampa itin švelnus ir šilkinis, kas sumažina bet kokį dirginimą net ir jautrią odą turinčioms klientėms."
+      },
+      {
+        "q": "Dizainas atrodo per paprastas.",
+        "a": "Tikroji prabanga slypi medžiagos kokybėje ir linijų grynumo pojūtyje. Kontrastingas apdailos akcentas – tai subtilus stilistinis sprendimas, kuris išskiria modelį Costanzo iš bazinio trikotažo."
+      },
+      {
+        "q": "Spalva Vinaccia (2453) atrodo per sodri.",
+        "a": "„Vyno uogos“ atspalvis yra vienas statusiškiausių šį sezoną. Jis puikiai išryškina veidą ir idealiai dera su neutralia pilka bei ruda palete."
+      },
+      {
+        "q": "Kaip prižiūrėti tokį subtilų kombinuotą trikotažą?",
+        "a": "Rekomenduojame profesionalų valymą, kad išsaugotumėte purią kašmyro struktūrą ir kontrastingų detalių ryškumą daugeliui sezonų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Krótki rękaw wydaje się niepraktyczny w kolekcji zimowej.",
+        "a": "Top został zaprojektowany jako idealna warstwa spodnia pod żakiety i kardigany. Połączenie wełny i kaszmiru zapewnia doskonałą termoregulację nawet przy braku długiego rękawa."
+      },
+      {
+        "q": "Obawa, że wełna zgrzebna może powodować dyskomfort na skórze.",
+        "a": "Dzięki dodatkowi kaszmiru włókno staje się wyjątkowo delikatne i jedwabiste, co minimalizuje wszelkie podrażnienia nawet u kobiet o wrażliwej skórze."
+      },
+      {
+        "q": "Design wydaje się zbyt prosty.",
+        "a": "Prawdziwy luksus kryje się w jakości materiału i czystości linii. Kontrastowe wykończenie to subtelny zabieg stylistyczny, który wyróżnia model Costanzo na tle podstawowego trykotu."
+      },
+      {
+        "q": "Kolor Vinaccia (2453) jest zbyt intensywny.",
+        "a": "Odcień „winnej jagody” jest jednym z najbardziej prestiżowych w sezonie. Wspaniale rozświetla twarz i idealnie harmonizuje z neutralną szarą i brązową paletą."
+      },
+      {
+        "q": "Jak dbać o tak delikatny, kombinowany trykot?",
+        "a": "Zalecamy profesjonalne czyszczenie, aby zachować objętościową strukturę kaszmiru i wyrazistość kontrastowych detali przez wiele sezonów."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Короткий рукав здається непрактичним для зимової колекції.",
+        "a": "Топ спроєктований як ідеальний нижній шар під жакети та кардигани. Поєднання вовни та кашеміру забезпечує чудову терморегуляцію навіть за відсутності довгого рукава."
+      },
+      {
+        "q": "Побоювання, що кардна вовна може викликати дискомфорт на шкірі.",
+        "a": "Завдяки додаванню кашеміру волокно стає надзвичайно ніжним та шовковистим, що мінімізує будь-яке подразнення навіть у власниць чутливої шкіри."
+      },
+      {
+        "q": "Дизайн здається занадто простим.",
+        "a": "Справжня розкіш криється в якості матеріалу та чистоті ліній. Контрастна оздоблення — це тонкий стилістичний прийом, який виділяє модель Costanzo серед базового трикотажу."
+      },
+      {
+        "q": "Колір Vinaccia (2453) занадто насичений.",
+        "a": "Відтінок «винна ягода» є одним з найстатусніших у сезоні. Він чудово підсвічує обличчя та ідеально гармоніює з нейтральною сірою та коричневою палітрою."
+      },
+      {
+        "q": "Як доглядати за таким делікатним комбінованим трикотажем?",
+        "a": "Ми рекомендуємо професійну чистку, щоб зберегти об'ємну структуру кашеміру та яскравість контрастних деталей на багато сезонів."
+      }
+    ]
+  }
+}

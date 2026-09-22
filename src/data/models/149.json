@@ -1,0 +1,366 @@
+{
+  "id": 149,
+  "name": "Mantes",
+  "description": {
+    "en": "An embodiment of aristocratic comfort and impeccable Italian style: the long, deconstructed Mantes cardigan from the exclusive Merinfleur line. The model is masterfully crafted from a noble blend of 71% virgin wool and 12% delicate mohair, lending exceptional softness and warmth. A bold animal print, reinterpreted by Luisa Spagnoli, achieves a status-defining restraint through the exquisite Var Maculato Marrone colourway. An integrated belt allows the waist to be accentuated, creating a feminine silhouette, while patch pockets with clean, solid-toned profiles underscore the couture attention to detail.",
+    "ru": "Воплощение аристократичного уюта и безупречного итальянского стиля: длинный деструктурированный кардиган Mantes из эксклюзивной линии Merinfleur. Модель мастерски выполнена из благородного сочетания 71% девственной шерсти и 12% нежного мохера, что дарит исключительную мягкость и тепло. Смелый анималистичный принт в интерпретации Luisa Spagnoli обретает статусную сдержанность благодаря изысканной цветовой гамме Var Maculato Marrone. Интегрированный пояс позволяет акцентировать талию, создавая женственный силуэт, а накладные карманы с лаконичными однотонными профилями подчеркивают кутюрное внимание к деталям.",
+    "ar": "تجسيد للراحة الأرستقراطية وأسلوب إيطالي لا تشوبه شائبة: كارديغان Mantes طويل وغير مهيكل من خط Merinfleur الحصري. صُممت القطعة ببراعة من مزيج فاخر من 71% صوف بكر و12% موهير ناعم، مما يضفي نعومة ودفئاً استثنائياً. يكتسب طبعة الحيوانات الجريئة بتفسير Luisa Spagnoli وقاراً رفيع المستوى بفضل لوحة ألوان Var Maculato Marrone الراقية. يسمح الحزام المدمج بإبراز الخصر لخلق صورة ظلية أنثوية، بينما تؤكد الجيوب الخارجية ذات الحواف الأحادية اللون اللطيفة على الاهتمام الراقي بالتفاصيل.",
+    "ka": "არისტოკრატული კომფორტისა და უნაკლო იტალიური სტილის განსხეულება: გრძელი, დესტრუქტურირებული კარდიგანი Mantes ექსკლუზიური ხაზიდან Merinfleur. მოდელი ოსტატურადაა შესრულებული 71% ქალწულის მატყლისა და 12% ნაზი მოჰერის კეთილშობილური ნაზავისგან, რაც მას განსაკუთრებულ სირბილესა და სითბოს ანიჭებს. Luisa Spagnoli-ს ინტერპრეტაციით შესრულებული თამამი ცხოველური პრინტი Var Maculato Marrone-ს დახვეწილი ფერთა გამის წყალობით სტატუსურ თავშეკავებულობას იძენს. ინტეგრირებული ქამარი საშუალებას გაძლევთ ხაზი გაუსვათ წელს, რითაც იქმნება ქალური სილუეტი, ხოლო ლაკონური ერთფეროვანი პროფილების მქონე ნაქსოვი ჯიბეები ხაზს უსვამს დეტალებისადმი კუტიურულ ყურადღებას.",
+    "hy": "Արիստոկրատական հարմարավետության և իտալական անթերի ոճի մարմնացում. Mantes երկար դեստրուկտուրավորված քարդիգան՝ Merinfleur բացառիկ հավաքածուից: Մոդելը վարպետորեն պատրաստված է 71% անարատ բրդի և 12% նուրբ մոհերի ազնիվ համադրությունից, որը շնորհում է բացառիկ փափկություն և ջերմություն: Luisa Spagnoli-ի մեկնաբանմամբ համարձակ կենդանական պրինտն ստանում է կարգավիճակային զսպվածություն՝ շնորհիվ Var Maculato Marrone նրբագեղ գունային գամմայի: Ներկառուցված գոտին թույլ է տալիս շեշտադրել գոտկատեղը՝ ստեղծելով կանացի սիլուետ, իսկ լակոնիկ միագույն պրոֆիլներով վերադիր գրպաններն ընդգծում են մանրուքների նկատմամբ կուտյուրային ուշադրությունը:",
+    "lv": "Aristokrātiska mājīguma un nevainojama itāļu stila iemiesojums: garš dekonstruēts Mantes kardigans no ekskluzīvās Merinfleur līnijas. Modelis ir meistarīgi izgatavots no cēla 71% jaunvilnas un 12% maiga mohēras sajaukuma, kas dāvā izcilu mīkstumu un siltumu. Drosmīgā dzīvnieku apdruka Luisa Spagnoli interpretācijā iegūst statusisku atturību, pateicoties izsmalcinātajai Var Maculato Marrone krāsu gammai. Integrētā josta ļauj akcentēt vidukli, radot sievišķīgu siluetu, bet uzšūtās kabatas ar lakoniskiem vienkrāsainiem profiliem uzsver kūtūras līmeņa uzmanību detaļām.",
+    "lt": "Aristokratiško jaukumo ir nepriekaištingo itališko stiliaus įsikūnijimas: ilgas destruktūrizuotas Mantes kardiganas iš išskirtinės Merinfleur linijos. Modelis meistriškai pagamintas iš kilnaus 71% pirminės vilnos ir 12% švelnaus moherio derinio, suteikiančio išskirtinį minkštumą bei šilumą. Drąsus gyvūnų raštas Luisa Spagnoli interpretacijoje įgauna statuso kupiną santūrumą dėka rafinuotos Var Maculato Marrone spalvų gamos. Integruotas diržas leidžia pabrėžti liemenį, sukuriant moterišką siluetą, o uždėtinės kišenės su lakoniškais vienspalviais profiliais pabrėžia aukštosios mados dėmesį detalėms.",
+    "pl": "Ucieleśnienie arystokratycznej wygody i nienagannego włoskiego stylu: długi, dekonstruowany kardigan Mantes z ekskluzywnej linii Merinfleur. Model wykonany po mistrzowsku ze szlachetnego połączenia 71% wełny dziewiczej i 12% delikatnego moheru, co zapewnia wyjątkową miękkość i ciepło. Śmiały zwierzęcy print w interpretacji Luisa Spagnoli zyskuje dystyngowaną powściągliwość dzięki wyrafinowanej gamie kolorystycznej Var Maculato Marrone. Zintegrowany pasek pozwala podkreślić talię, tworząc kobiecą sylwetkę, a naszywane kieszenie z lakonicznymi, jednolitymi profilami podkreślają couture'ową dbałość o detale.",
+    "uk": "Втілення аристократичного затишку та бездоганного італійського стилю: довгий деструктурований кардиган Mantes з ексклюзивної лінії Merinfleur. Модель майстерно виконана з благородного поєднання 71% вовни virgin wool та 12% ніжного мохеру, що дарує виняткову м'якість і тепло. Сміливий анімалістичний принт в інтерпретації Luisa Spagnoli набуває статусної стриманості завдяки вишуканій кольоровій гамі Var Maculato Marrone. Інтегрований пояс дозволяє акцентувати талію, створюючи жіночний силует, а накладні кишені з лаконічними однотонними профілями підкреслюють кутюрну увагу до деталей."
+  },
+  "colors": [
+    {
+      "name": "Var Maculato Marrone",
+      "code": "3390",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ipCjCp2KRtGb_urUxMn2xA_416890850696f43655c6e65_18497823_02830580XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 2 (Runway Layering)",
+        "ar": "Look 2 (Runway Layering)",
+        "ka": "Look 2 (Runway Layering)",
+        "hy": "Look 2 (Runway Layering)",
+        "lv": "Look 2 (Runway Layering)",
+        "lt": "Look 2 (Runway Layering)",
+        "pl": "Look 2 (Runway Layering)",
+        "uk": "Look 2 (Runway Layering)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Подиумная многослойность): Элегантный выход, объединяющий пальто Stenografo 0101, кардиган Mantes 3390 и платье Maizena 0101. Финальный штрих — сумка Iago 0101 0002.",
+        "en": "An elegant outfit combining the Stenografo 0101 coat, Mantes 3390 cardigan and Maizena 0101 dress. The finishing touch is the Iago 0101 0002 bag.",
+        "ar": "An elegant outfit combining the Stenografo 0101 coat, Mantes 3390 cardigan and Maizena 0101 dress. The finishing touch is the Iago 0101 0002 bag.",
+        "ka": "An elegant outfit combining the Stenografo 0101 coat, Mantes 3390 cardigan and Maizena 0101 dress. The finishing touch is the Iago 0101 0002 bag.",
+        "hy": "An elegant outfit combining the Stenografo 0101 coat, Mantes 3390 cardigan and Maizena 0101 dress. The finishing touch is the Iago 0101 0002 bag.",
+        "lv": "An elegant outfit combining the Stenografo 0101 coat, Mantes 3390 cardigan and Maizena 0101 dress. The finishing touch is the Iago 0101 0002 bag.",
+        "lt": "An elegant outfit combining the Stenografo 0101 coat, Mantes 3390 cardigan and Maizena 0101 dress. The finishing touch is the Iago 0101 0002 bag.",
+        "pl": "An elegant outfit combining the Stenografo 0101 coat, Mantes 3390 cardigan and Maizena 0101 dress. The finishing touch is the Iago 0101 0002 bag.",
+        "uk": "An elegant outfit combining the Stenografo 0101 coat, Mantes 3390 cardigan and Maizena 0101 dress. The finishing touch is the Iago 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Mantes",
+          "code": "3390",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ipCjCp2KRtGb_urUxMn2xA_416890850696f43655c6e65_18497823_02830580XX1.jpg"
+        },
+        {
+          "name": "Limonaia",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg",
+          "modelId": 416
+        },
+        {
+          "name": "Orville",
+          "code": "0101",
+          "imageUrl": null
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 1 (Urban Luxe)",
+        "ar": "Look 1 (Urban Luxe)",
+        "ka": "Look 1 (Urban Luxe)",
+        "hy": "Look 1 (Urban Luxe)",
+        "lv": "Look 1 (Urban Luxe)",
+        "lt": "Look 1 (Urban Luxe)",
+        "pl": "Look 1 (Urban Luxe)",
+        "uk": "Look 1 (Urban Luxe)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Городской люкс): Сочетание кардигана Mantes 3390 с шелковой блузой Limonaia 0101 и брюками Orville 0101. Ансамбль завершает статусная сумка Iago 2240 0002.",
+        "en": "A combination of the Mantes 3390 cardigan with the Limonaia 0101 silk blouse and Orville 0101 trousers (Data not available in official sources). The ensemble is completed by the statement Iago 2240 0002 bag.",
+        "ar": "A combination of the Mantes 3390 cardigan with the Limonaia 0101 silk blouse and Orville 0101 trousers (Data not available in official sources). The ensemble is completed by the statement Iago 2240 0002 bag.",
+        "ka": "A combination of the Mantes 3390 cardigan with the Limonaia 0101 silk blouse and Orville 0101 trousers (Data not available in official sources). The ensemble is completed by the statement Iago 2240 0002 bag.",
+        "hy": "A combination of the Mantes 3390 cardigan with the Limonaia 0101 silk blouse and Orville 0101 trousers (Data not available in official sources). The ensemble is completed by the statement Iago 2240 0002 bag.",
+        "lv": "A combination of the Mantes 3390 cardigan with the Limonaia 0101 silk blouse and Orville 0101 trousers (Data not available in official sources). The ensemble is completed by the statement Iago 2240 0002 bag.",
+        "lt": "A combination of the Mantes 3390 cardigan with the Limonaia 0101 silk blouse and Orville 0101 trousers (Data not available in official sources). The ensemble is completed by the statement Iago 2240 0002 bag.",
+        "pl": "A combination of the Mantes 3390 cardigan with the Limonaia 0101 silk blouse and Orville 0101 trousers (Data not available in official sources). The ensemble is completed by the statement Iago 2240 0002 bag.",
+        "uk": "A combination of the Mantes 3390 cardigan with the Limonaia 0101 silk blouse and Orville 0101 trousers (Data not available in official sources). The ensemble is completed by the statement Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Mantes",
+          "code": "3390",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ipCjCp2KRtGb_urUxMn2xA_416890850696f43655c6e65_18497823_02830580XX1.jpg"
+        },
+        {
+          "name": "Maizena",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YyS_5mptS9u-T1byYRDyhQ_144598007696f4362040742_30894184_02830490XX1.jpg",
+          "modelId": 140
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the exquisite texture: 100% virgin wool (Vergine) delivers remarkable softness and cosy warmth, belying the piece's featherlight, weightless appearance.",
+      "Highlight the prestige of the lace trim: the hand-finished detailing and scalloped edge elevate Mantisia from a simple scarf into a jewel-like finishing touch for any ensemble.",
+      "Position this piece as the ideal investment accessory: with its timeless design and Made in Italy craftsmanship, it will remain relevant season after season."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на уникальном составе материала: сочетание девственной шерсти и мохера обеспечивает непревзойденный теплообмен и тактильный комфорт класса люкс.",
+      "Подчеркните инвестиционную ценность модели: анималистичный принт на длинном кардигане является вневременной классикой, которая легко интегрируется как в дневные, так и в вечерние образы.",
+      "Продемонстрируйте универсальность кроя: благодаря отсутствию жесткой структуры и наличию пояса, модель идеально садится на любой тип фигуры, позволяя варьировать степень прилегания."
+    ],
+    "ar": [
+      "سلطي الضوء على التركيبة الفريدة للمادة: فالمزيج بين الصوف البكر (virgin wool) والموهير يضمن تبادلاً حرارياً لا يضاهى وراحة ملموسة تليق بالفخامة.",
+      "أكدي على القيمة الاستثمارية لهذا التصميم: فالنقش الحيواني (animalier) على الكارديغان الطويل يُعد كلاسيكية خالدة تتناغم بسهولة مع الإطلالات النهارية والمسائية على حد سواء.",
+      "استعرضي مرونة القصّة: بفضل غياب الهيكل القاسي ووجود الحزام، يأتي التصميم ليلائم بشكل مثالي أي نوع من الأجسام، مما يتيح التحكم في درجة الملاءمة."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება მასალის უნიკალურ შემადგენლობაზე: ქალწულებრივი მატყლისა და მოჰერის კომბინაცია უზრუნველყოფს შეუდარებელ თბოგაცვლასა და ლუქსის კლასის ტაქტილურ კომფორტს.",
+      "ხაზი გაუსვით მოდელის საინვესტიციო ღირებულებას: ცხოველური პრინტი გრძელ კარდიგანზე არის დროზე აცდენილი კლასიკა, რომელიც ადვილად ინტეგრირდება როგორც დღის, ისე საღამოს იმიჯებში.",
+      "წარმოაჩინეთ ჭრის მრავალფეროვნება: მკაცრი სტრუქტურის არარსებობისა და ქამრის წყალობით, მოდელი იდეალურად ერგება ნებისმიერი ტიპის ფიგურას, რაც საშუალებას იძლევა მოახდინოთ მორგების ხარისხის ვარიაცია."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք նյութի յուրահատուկ բաղադրության վրա. անարատ բրդի և մոհերի համադրությունը ապահովում է անգերազանցելի ջերմափոխանակում և լյուքս դասի տակտիլ հարմարավետություն:",
+      "Ընդգծեք մոդելի ներդրումային արժեքը. երկար ժակետի վրա կենդանական պրինտը հավերժական դասական է, որը հեշտությամբ ինտեգրվում է ինչպես ցերեկային, այնպես էլ երեկոյան կերպարներում:",
+      "Ցուցադրեք ձևվածքի բազմակողմանիությունը. խիստ կառուցվածքի բացակայության և գոտու առկայության շնորհիվ մոդելը կատարյալ է նստում ցանկացած տիպի կազմվածքի վրա՝ թույլ տալով փոփոխել կիպության աստիճանը:"
+    ],
+    "lv": [
+      "Vērsiet klienta uzmanību uz materiāla unikālo sastāvu: pirmreizējās vilnas un mohēras savienojums nodrošina nepārspējamu siltumapmaiņu un luksusa klases taktilu komfortu.",
+      "Uzsveriet modeļa investīciju vērtību: dzīvnieku raksts uz gara kardigana ir mūžīga klasika, kas viegli iekļaujas gan dienas, gan vakara tēlos.",
+      "Demonstrējiet piegriezuma universālumu: pateicoties stingras struktūras neesamībai un jostas klātbūtnei, modelis lieliski piestāv jebkuram figūras tipam, ļaujot variēt piegulšanas pakāpi."
+    ],
+    "lt": [
+      "Akcentuokite kliento dėmesį į unikalią medžiagos sudėtį: avies vilnos ir moheros derinys užtikrina neprilygstamą šilumos balansą ir prabangų taktilinį komfortą.",
+      "Pabrėžkite modelio investicinę vertę: gyvūninio rašto ilgas kardiganas yra nesenstanti klasika, kurią lengva pritaikyti tiek dieniniam, tiek vakariniam įvaizdžiui.",
+      "Pademonstruokite kirpimo universalumą: dėl standžios struktūros nebuvimo ir diržo, modelis idealiai tinka bet kokio tipo figūrai, leidžiant varijuoti prigludimo laipsniu."
+    ],
+    "pl": [
+      "Zwróć uwagę klientki na unikalny skład materiału: połączenie wełny dziewiczej i moheru zapewnia niezrównaną termoregulację oraz luksusowy komfort w dotyku.",
+      "Podkreśl inwestycyjną wartość modelu: zwierzęcy nadruk na długim kardiganie to ponadczasowa klasyka, która z łatwością wpisuje się zarówno w dzienne, jak i wieczorowe stylizacje.",
+      "Zaprezentuj uniwersalność kroju: dzięki braku sztywnej konstrukcji oraz obecności paska, model idealnie układa się na każdej sylwetce, pozwalając na regulację stopnia dopasowania."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на унікальному складі матеріалу: поєднання вовни virgin та мохеру забезпечує неперевершений теплообмін і тактильний комфорт класу люкс.",
+      "Підкресліть інвестиційну цінність моделі: анімалістичний принт на довгому кардигані є позачасовою класикою, яка легко інтегрується як у денні, так і у вечірні образи.",
+      "Продемонструйте універсальність крою: завдяки відсутності жорсткої структури та наявності пояса, модель ідеально сідає на будь-який тип фігури, дозволяючи варіювати ступінь прилягання."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The leopard print seems too bold.",
+        "a": "In the Mantes piece, the pattern is rendered in noble coffee-and-brown tones, which, combined with the matte texture of the wool, makes it an elegant accent in a 'quiet luxury' style."
+      },
+      {
+        "q": "Mohair content may cause discomfort or shed.",
+        "a": "We use the finest mohair in a precisely calibrated proportion (12%) with virgin wool. This guarantees fibre stability and remarkable softness in contact with the skin."
+      },
+      {
+        "q": "A long cardigan may visually add weight to the silhouette.",
+        "a": "On the contrary, the vertical lines of the pattern and the elongated cut elongate the proportions, while the belt clearly defines the waistline, preserving a slender figure."
+      },
+      {
+        "q": "What can such a distinctive wardrobe piece be paired with?",
+        "a": "This piece is highly versatile: the brand's stylists recommend wearing it with structured blouses and trousers, as well as over understated sheath dresses, to create statement layered looks."
+      },
+      {
+        "q": "Caring for the piece seems burdensome.",
+        "a": "Professional dry cleaning is required to preserve the noble, brushed texture of the mohair and the structure of the wool. This is the key to your cardigan retaining its pristine appearance for many years to come."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Принт 'леопард' кажется слишком активным.",
+        "a": "В модели Mantes рисунок выполнен в благородных кофейно-коричневых тонах, что в сочетании с матовой фактурой шерсти делает его элегантным акцентом в стиле 'тихой роскоши'."
+      },
+      {
+        "q": "Мохер в составе может вызывать дискомфорт или линять.",
+        "a": "Мы используем мохер высочайшего качества в строго выверенной пропорции (12%) с девственной шерстью. Это гарантирует стабильность волокон и невероятную нежность при контакте с кожей."
+      },
+      {
+        "q": "Длинный кардиган может визуально утяжелять силуэт.",
+        "a": "Напротив, вертикальные линии рисунка и удлиненный крой вытягивают пропорции, а пояс помогает четко обозначить линию талии, сохраняя стройность фигуры."
+      },
+      {
+        "q": "С чем сочетать такой сложный предмет гардероба?",
+        "a": "Модель универсальна: стилисты бренда рекомендуют носить её как со строгими блузами и брюками, так и поверх лаконичных платьев-футляров, создавая статусные многослойные сеты."
+      },
+      {
+        "q": "Уход за изделием кажется обременительным.",
+        "a": "Для сохранения благородной ворсистой фактуры мохера и структуры шерсти необходима профессиональная сухая чистка. Это залог того, что ваш кардиган сохранит первозданный вид на многие годы."
+      }
+    ],
+    "ar": [
+      {
+        "q": "تبدو نقشة 'النمر' جريئة أكثر من اللازم.",
+        "a": "في طراز Mantes، تم تنفيذ النقشة بألوان بنية قهوائية نبيلة، مما يجعلها، مع الملمس المطفأ للصوف، لمسة أنيقة تتماشى مع نمط 'الرفاهية الهادئة'."
+      },
+      {
+        "q": "قد يسبب الموهير في التكوين عدم الراحة أو يتساقط.",
+        "a": "نحن نستخدم موهير بأعلى مستويات الجودة وبنسبة مدروسة بدقة (12%) مع الصوف البكر. هذا يضمن ثبات الألياف ونعومة فائقة عند ملامستها للبشرة."
+      },
+      {
+        "q": "الكارديغان الطويل قد يثقل الصورة الظلية بصرياً.",
+        "a": "على العكس، تعمل الخطوط العمودية للنقشة والقصة الطويلة على إطالة القوام، بينما يساعد الحزام في تحديد خط الخصر بوضوح، مع الحفاظ على رشاقة الشكل."
+      },
+      {
+        "q": "مع ماذا يمكن تنسيق هذه القطعة المعقدة في خزانة الملابس؟",
+        "a": "الطراز متعدد الاستخدامات: يوصي مصممو العلامة بارتدائه مع البلوزات والسراويل الرسمية، أو فوق فساتين غمد بسيطة، لخلق إطلالات متعددة الطبقات تعكس الرقي."
+      },
+      {
+        "q": "يبدو العناية بالمنتج عبئاً.",
+        "a": "للحفاظ على الملمس الوبري النبيل للموهير وبنية الصوف، يلزم التنظيف الجاف الاحترافي. هذا هو الضمان بأن يحتفظ الكارديغان بمظهره الأصلي لسنوات عديدة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ლეოპარდის' პრინტი ზედმეტად თვალშისაცემად გვეჩვენება.",
+        "a": "Mantes-ის მოდელში ნახატი შესრულებულია კეთილშობილურ ყავისფერ-ყავისფერ ტონებში, რაც მატყლის მქრქალ ფაქტურასთან ერთად მას 'ჩუმი ფუფუნების' სტილის ელეგანტურ აქცენტად აქცევს."
+      },
+      {
+        "q": "შემადგენლობაში არსებულმა მოჰერმა შეიძლება გამოიწვიოს დისკომფორტი ან ბუსუსების ცვენა.",
+        "a": "ჩვენ ვიყენებთ უმაღლესი ხარისხის მოჰერს მკაცრად განსაზღვრული პროპორციით (12%) ხელუხლებელ მატყლთან ერთად. ეს უზრუნველყოფს ბოჭკოების სტაბილურობას და კანთან შეხებისას წარმოუდგენელ სირბილეს."
+      },
+      {
+        "q": "გრძელ კარდიგანს შეუძლია ვიზუალურად დაამძიმოს სილუეტი.",
+        "a": "პირიქით, ნახატის ვერტიკალური ხაზები და წაგრძელებული ჭრილი აგრძელებს პროპორციებს, ხოლო ქამარი გვეხმარება წელის ხაზის მკაფიოდ გამოკვეთაში, რაც ინარჩუნებს ფიგურის სილამაზეს."
+      },
+      {
+        "q": "რითი შევუხამოთ გარდერობის ასეთი რთული ნივთი?",
+        "a": "მოდელი უნივერსალურია: ბრენდის სტილისტები გვირჩევენ მის ტარებას როგორც მკაცრ ბლუზებთან და შარვლებთან, ასევე ლაკონურ კაბებთან ერთად, რაც ქმნის სტატუსურ მრავალშრიან სეტებს."
+      },
+      {
+        "q": "მოვლა ზედმეტად დამღლელად გვეჩვენება.",
+        "a": "მოჰერის კეთილშობილური ბუსუსოვანი ფაქტურისა და მატყლის სტრუქტურის შესანარჩუნებლად საჭიროა პროფესიონალური ქიმწმენდა. ეს არის გარანტია იმისა, რომ თქვენი კარდიგანი წლების განმავლობაში შეინარჩუნებს პირვანდელ იერს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ընձառյուծի» պրինտը չափազանց ակտիվ է թվում։",
+        "a": "Mantes մոդելի մեջ նախշը կատարված է ազնվական սուրճ-շագանակագույն երանգներով, ինչը բրդի փայլատ հյուսվածքի հետ համադրությամբ այն դարձնում է «լուռ շքեղության» ոճի նրբագեղ շեշտադրում։"
+      },
+      {
+        "q": "Կազմի մեջ առկա մոհերը կարող է անհարմարություն պատճառել կամ թափվել։",
+        "a": "Մենք օգտագործում ենք ամենաբարձր որակի մոհեր՝ խստորեն հաշվարկված համամասնությամբ (12%) կուսական բրդի հետ։ Սա երաշխավորում է մանրաթելերի կայունությունը և անհավատալի նրբություն մաշկի հետ շփման ժամանակ։"
+      },
+      {
+        "q": "Երկար քարդիգանը կարող է տեսողականորեն ծանրացնել սիլուետը։",
+        "a": "Հակառակը, նախշի ուղղահայաց գծերը և երկարացված ձևվածքը ձգում են համաչափությունները, իսկ գոտին օգնում է հստակ ընդգծել գոտկատեղը՝ պահպանելով կազմվածքի սլացիկությունը։"
+      },
+      {
+        "q": "Ի՞նչի հետ համադրել զգեստապահարանի այս բարդ իրը։",
+        "a": "Մոդելը ունիվերսալ է. բրենդի ոճաբանները խորհուրդ են տալիս այն կրել ինչպես խիստ բլուզների և տաբատների հետ, այնպես էլ լակոնիկ պատյան-զգեստների վրայից՝ ստեղծելով կարգավիճակային բազմաշերտ հանդերձանքներ։"
+      },
+      {
+        "q": "Իրի խնամքը բարդ է թվում։",
+        "a": "Մոհերի ազնվական թավշյա հյուսվածքը և բրդի կառուցվածքը պահպանելու համար անհրաժեշտ է պրոֆեսիոնալ քիմմաքրում։ Սա երաշխիքն է այն բանի, որ ձեր քարդիգանը կպահպանի իր սկզբնական տեսքը երկար տարիներ։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Leoparda raksts šķiet pārāk uzkrītošs.",
+        "a": "Mantes modelī zīmējums ir izpildīts cēlajos kafijas brūnos toņos, kas kombinācijā ar matētu vilnas faktūru padara to par elegantu akcentu 'klusās greznības' stilā."
+      },
+      {
+        "q": "Mohēra sastāvā var izraisīt diskomfortu vai izplūkt.",
+        "a": "Mēs izmantojam visaugstākās kvalitātes mohēru stingri noteiktās proporcijās (12%) ar jaunvilnu. Tas garantē šķiedru stabilitāti un neticamu maigumu saskarē ar ādu."
+      },
+      {
+        "q": "Garais kardigans var vizuāli padarīt siluetu smagnējāku.",
+        "a": "Gluži pretēji, zīmējuma vertikālās līnijas un pagarinātais piegriezums pagarina proporcijas, bet josta palīdz skaidri iezīmēt vidukļa līniju, saglabājot figūras slaidumu."
+      },
+      {
+        "q": "Ar ko kombinēt tik sarežģītu garderobes priekšmetu?",
+        "a": "Modelis ir universāls: zīmola stilisti iesaka valkāt to gan ar lietišķām blūzēm un biksēm, gan pāri lakoniskām kleitām-etvijām, veidojot statusa pilnus daudzslāņu tēlus."
+      },
+      {
+        "q": "Izstrādājuma kopšana šķiet apgrūtinoša.",
+        "a": "Lai saglabātu cēlo pūkaino mohēras faktūru un vilnas struktūru, ir nepieciešama profesionāla ķīmiskā tīrīšana. Tas ir garants tam, ka jūsu kardigans saglabās savu sākotnējo izskatu daudzu gadu garumā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Leopardo raštas atrodo per daug aktyvus.",
+        "a": "Modelyje Mantes raštas sukurtas tauriais kavos ir rudos spalvos tonais, o derinant su matine vilnos faktūra, jis tampa elegantišku „tylios prabangos“ stiliaus akcentu."
+      },
+      {
+        "q": "Sudėtyje esantis moheris gali sukelti diskomfortą ar šertis.",
+        "a": "Naudojame aukščiausios kokybės moherį griežtai subalansuota proporcija (12 %) su pirmaprade vilna. Tai užtikrina pluošto stabilumą ir neįtikėtiną švelnumą kontaktuojant su oda."
+      },
+      {
+        "q": "Ilgas kardiganas gali vizualiai apsunkinti siluetą.",
+        "a": "Priešingai, vertikalios rašto linijos ir pailgintas kirpimas ilgina proporcijas, o diržas padeda aiškiai pabrėžti liemens liniją, išsaugant figūros grakštumą."
+      },
+      {
+        "q": "Su kuo derinti tokį sudėtingą garderobo elementą?",
+        "a": "Modelis universalus: prekės ženklo stilistai rekomenduoja dėvėti jį tiek su griežtomis palaidinėmis ir kelnėmis, tiek ant glaustų suknelių-futliarų, sukuriant solidžius daugiasluoksnius derinius."
+      },
+      {
+        "q": "Gaminio priežiūra atrodo varginanti.",
+        "a": "Norint išsaugoti taurią pūkuotą moherio faktūrą ir vilnos struktūrą, būtinas profesionalus cheminis valymas. Tai garantija, kad jūsų kardiganas išsaugos savo pirminę išvaizdą daugelį metų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wzór 'leopard' wydaje się zbyt wyrazisty.",
+        "a": "W modelu Mantes rysunek wykonano w szlachetnych kawowo-brązowych odcieniach, co w połączeniu z matową fakturą wełny czyni go eleganckim akcentem w stylu 'cichego luksusu'."
+      },
+      {
+        "q": "Moher w składzie może powodować dyskomfort lub linieć.",
+        "a": "Używamy moheru najwyższej jakości w ściśle określonej proporcji (12%) z dziewiczą wełną. Gwarantuje to stabilność włókien i niesamowitą delikatność w kontakcie ze skórą."
+      },
+      {
+        "q": "Długi kardigan może optycznie obciążać sylwetkę.",
+        "a": "Wręcz przeciwnie, pionowe linie rysunku i wydłużony krój wydłużają proporcje, a pasek pomaga wyraźnie zaznaczyć linię talii, zachowując smukłość figury."
+      },
+      {
+        "q": "Z czym łączyć tak złożony element garderoby?",
+        "a": "Model jest uniwersalny: styliści marki zalecają noszenie go zarówno ze sztywnymi bluzkami i spodniami, jak i na wierzchu minimalistycznych sukienek etui, tworząc prestiżowe wielowarstwowe zestawy."
+      },
+      {
+        "q": "Pielęgnacja wyrobu wydaje się uciążliwa.",
+        "a": "Aby zachować szlachetną, puszystą fakturę moheru i strukturę wełny, konieczne jest profesjonalne czyszczenie chemiczne. To gwarancja, że Twój kardigan zachowa nieskazitelny wygląd przez wiele lat."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Принт «леопард» здається занадто активним.",
+        "a": "У моделі Mantes малюнок виконаний у благородних кавово-коричневих тонах, що в поєднанні з матовою фактурою вовни робить його елегантним акцентом у стилі «тихої розкоші»."
+      },
+      {
+        "q": "Мохер у складі може викликати дискомфорт або линяти.",
+        "a": "Ми використовуємо мохер найвищої якості у строго вивіреній пропорції (12%) з дівочою вовною. Це гарантує стабільність волокон і неймовірну ніжність при контакті зі шкірою."
+      },
+      {
+        "q": "Довгий кардиган може візуально обтяжувати силует.",
+        "a": "Навпаки, вертикальні лінії малюнка та подовжений крій витягують пропорції, а пояс допомагає чітко окреслити лінію талії, зберігаючи стрункість фігури."
+      },
+      {
+        "q": "З чим поєднувати такий складний предмет гардероба?",
+        "a": "Модель універсальна: стилісти бренду рекомендують носити її як зі строгими блузами та штанами, так і поверх лаконічних суконь-футлярів, створюючи статусні багатошарові сети."
+      },
+      {
+        "q": "Догляд за виробом здається обтяжливим.",
+        "a": "Для збереження благородної ворсистої фактури мохеру та структури вовни необхідна професійна суха чистка. Це запорука того, що ваш кардиган збереже первісний вигляд на багато років."
+      }
+    ]
+  }
+}

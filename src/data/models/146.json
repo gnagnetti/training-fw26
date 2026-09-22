@@ -1,0 +1,681 @@
+{
+  "id": 146,
+  "name": "Manografo",
+  "description": {
+    "en": "The embodiment of intellectual style and impeccable Italian craftsmanship: the elegant Manografo turtleneck from the exclusive Merinfleur line. The model is crafted from a noble blend of virgin wool and high-tech fibres using a dense knit technique that ensures a sculptural silhouette and superb shape retention. The principal jewel-like accent is the signature gold-tone LS logo appliquÃ©, which lends the piece couture status. The clean design, with flat-ribbed edge finishing and an accentuated waistline, creates an aristocratic look in the \"quiet luxury\" aesthetic.",
+    "ru": "Воплощение интеллектуального стиля и безупречного итальянского мастерства: элегантная водолазка Manografo из эксклюзивной линии Merinfleur. Модель выполнена из благородного сочетания девственной шерсти и высокотехнологичных волокон в технике плотной вязки, обеспечивающей скульптурный силуэт и превосходное сохранение формы. Главным ювелирным акцентом выступает знаковая золотистая аппликация с логотипом LS, которая придает изделию кутюрный статус. Лаконичный дизайн с отделкой краев в плоский рубчик и подчеркнутая линия талии создают аристократичный образ в эстетике «тихой роскоши».",
+    "ar": "تجسيد للأسلوب الفكري والبراعة الإيطالية التي لا تشوبها شائبة: بلوزة Manografo ذات الياقة العالية الأنيقة من خط Merinfleur الحصري. صُنعت القطعة من مزيج فاخر من الصوف البكر والألياف عالية التقنية بتقنية الحياكة الكثيفة، مما يضمن صورة ظلية منحوتة وحفاظًا ممتازًا على شكلها. تبرز قطعة الزينة الذهبية المميزة التي تحمل شعار LS كأهم لمسة تشبه المجوهرات، مما يمنح القطعة مكانة فاخرة. يخلق التصميم البسيط مع الحواف المضلعة المسطحة والخصر المحدد مظهرًا أرستقراطيًا بجماليات \"الرفاهية الهادئة\".",
+    "ka": "ინტელექტუალური სტილისა და უნაკლო იტალიური ოსტატობის განსახიერება: ელეგანტური კუსარიანი სვიტერი Manografo ექსკლუზიური ხაზიდან Merinfleur. მოდელი შესრულებულია ქალწული მატყლისა და მაღალტექნოლოგიური ბოჭკოების კეთილშობილური კომბინაციით მკვრივი ქსოვის ტექნიკით, რაც უზრუნველყოფს სკულპტურულ სილუეტსა და ფორმის შესანიშნავ შენარჩუნებას. მთავარ საიუველირო აქცენტს წარმოადგენს LS-ის ლოგოიანი საკულტო ოქროსფერი აპლიკაცია, რომელიც ნაკეთობას კუტიურულ სტატუსს ანიჭებს. ლაკონური დიზაინი ბრტყელი ღვინით დამუშავებული კიდეებითა და ხაზგასმული წელის ხაზი ქმნის არისტოკრატულ იმიჯს „ჩუმი ფუფუნების“ ესთეტიკაში.",
+    "hy": "Ինտելեկտուալ ոճի և անթերի իտալական վարպետության մարմնացում. Manografo էլեգանտ գլխաշոր-ջեմփերը Merinfleur բացառիկ գծից: Մոդելը պատրաստված է կուսական բրդի և բարձր տեխնոլոգիական մանրաթելերի ազնվական համադրությամբ՝ բարձր խտության հյուսվածքի տեխնիկայով, որն ապահովում է քանդակային ուրվագիծ և ձևի գերազանց պահպանում: Գլխավոր ոսկերչական շեշտադրումը LS լոգոտիպով նշանային ոսկեգույն ապլիկացիան է, որը հագուստին հաղորդում է կուտյուր կարգավիճակ: Հարթ ռետինե եզրերով հակիրճ դիզայնը և ընդգծված իրանը ստեղծում են արիստոկրատական կերպար «հանգիստ շքեղության» էսթետիկայով:",
+    "lv": "Intelektuālā stila un nevainojamas itāļu meistarības iemiesojums: elegantā водолазка Manografo no ekskluzīvās līnijas Merinfleur. Modelis ir izgatavots no cēla jaunvilnas un augsto tehnoloģiju šķiedru savienojuma blīvā adījuma tehnikā, kas nodrošina skulpturālu siluetu un izcilu formas saglabāšanu. Kā galvenais juvelierizstrādājuma akcents izceļas ikoniskā zeltītā aplikācija ar logotipu LS, kas izstrādājumam piešķir kutīra statusu. Lakoniskais dizains ar malu apdari plakanā rievojumā un izceltā vidukļa līnija rada aristokrātisku tēlu «klusās greznības» estētikā.",
+    "lt": "Intelektualaus stiliaus ir nepriekaištingo itališko meistriškumo įsikūnijimas: elegantiškas golfas Manografo iš išskirtinės linijos Merinfleur. Modelis pagamintas iš kilnaus avies vilnos ir aukštųjų technologijų pluoštų derinio tankaus mezgimo technika, užtikrinančia skulptūrišką siluetą ir puikų formos išlaikymą. Pagrindiniu juvelyriniu akcentu tampa ženkli auksinė aplikacija su LS logotipu, kuri suteikia gaminiui prabangų statusą. Lakoniškas dizainas su kraštų apdaila plokščiu briaunotu raštu ir pabrėžta liemens linija sukuria aristokratišką įvaizdį „tylios prabangos“ estetikoje.",
+    "pl": "Uosobienie intelektualnego stylu i nienagannego włoskiego kunsztu: elegancki golf Manografo z ekskluzywnej linii Merinfleur. Model został wykonany ze szlachetnego połączenia żywej wełny i zaawansowanych technologicznie włókien w technice gęstego splotu, zapewniającej rzeźbiarską sylwetkę i doskonałe zachowanie formy. Głównym jubilerskim akcentem jest charakterystyczna złocista aplikacja z logo LS, która nadaje produktowi statusu couture. Lakoniczny design z wykończeniem krawędzi płaskim ściągaczem oraz podkreślona linia talii tworzą arystokratyczny wizerunek w estetyce «quiet luxury».",
+    "uk": "Втілення інтелектуального стилю та бездоганної італійської майстерності: елегантна водолазка Manografo з ексклюзивної лінії Merinfleur. Модель виконана з благородного поєднання вовни virgin wool та високотехнологічних волокон у техніці щільної в'язки, що забезпечує скульптурний силует і чудове збереження форми. Головним ювелірним акцентом виступає знакова золотиста аплікація з логотипом LS, яка надає виробу кутюрного статусу. Лаконічний дизайн з обробкою країв у плоский рубчик і підкреслена лінія талії створюють аристократичний образ в естетиці «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Menta",
+      "code": "0506",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSF_50600000000.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Tonal Luxury)",
+        "ar": "Look 1 (Tonal Luxury)",
+        "ka": "Look 1 (Tonal Luxury)",
+        "hy": "Look 1 (Tonal Luxury)",
+        "lv": "Look 1 (Tonal Luxury)",
+        "lt": "Look 1 (Tonal Luxury)",
+        "pl": "Look 1 (Tonal Luxury)",
+        "uk": "Look 1 (Tonal Luxury)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Тональная роскошь): Изысканное сочетание водолазки Manografo 0506 с жакетом Maurilia 0506 и брюками Opaglio 0927, дополненное статусной сумкой Iago 2240 0002.",
+        "en": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by a status Iago 2240 0002 bag.",
+        "ar": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by a status Iago 2240 0002 bag.",
+        "ka": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by a status Iago 2240 0002 bag.",
+        "hy": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by a status Iago 2240 0002 bag.",
+        "lv": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by a status Iago 2240 0002 bag.",
+        "lt": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by a status Iago 2240 0002 bag.",
+        "pl": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by a status Iago 2240 0002 bag.",
+        "uk": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by a status Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Manografo",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSF_50600000000.jpg"
+        },
+        {
+          "name": "Maurilia",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kxBSsZ-hQ8m944H5LFR0cA_8187316696f4375c3a165_51356027_02831140XX1.jpg",
+          "modelId": 160
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 3 (Runway Minimalism)",
+        "ar": "Look 3 (Runway Minimalism)",
+        "ka": "Look 3 (Runway Minimalism)",
+        "hy": "Look 3 (Runway Minimalism)",
+        "lv": "Look 3 (Runway Minimalism)",
+        "lt": "Look 3 (Runway Minimalism)",
+        "pl": "Look 3 (Runway Minimalism)",
+        "uk": "Look 3 (Runway Minimalism)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 3 (Подиумный минимализм): Водолазка Manografo 0506 с классической рубашкой Lucinda 0201 под структурированным жакетом Scattare 3370 (Данные об URL отсутствуют в официальных источниках).",
+        "en": "A Manografo 0506 turtleneck with a classic Lucinda 0201 shirt under a structured Scattare 3370 jacket (URL data missing from official sources).",
+        "ar": "A Manografo 0506 turtleneck with a classic Lucinda 0201 shirt under a structured Scattare 3370 jacket (URL data missing from official sources).",
+        "ka": "A Manografo 0506 turtleneck with a classic Lucinda 0201 shirt under a structured Scattare 3370 jacket (URL data missing from official sources).",
+        "hy": "A Manografo 0506 turtleneck with a classic Lucinda 0201 shirt under a structured Scattare 3370 jacket (URL data missing from official sources).",
+        "lv": "A Manografo 0506 turtleneck with a classic Lucinda 0201 shirt under a structured Scattare 3370 jacket (URL data missing from official sources).",
+        "lt": "A Manografo 0506 turtleneck with a classic Lucinda 0201 shirt under a structured Scattare 3370 jacket (URL data missing from official sources).",
+        "pl": "A Manografo 0506 turtleneck with a classic Lucinda 0201 shirt under a structured Scattare 3370 jacket (URL data missing from official sources).",
+        "uk": "A Manografo 0506 turtleneck with a classic Lucinda 0201 shirt under a structured Scattare 3370 jacket (URL data missing from official sources)."
+      },
+      "items": [
+        {
+          "name": "Manografo",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSF_50600000000.jpg"
+        },
+        {
+          "name": "Scattare",
+          "code": "3370",
+          "imageUrl": null
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Freschezza",
+          "code": "3370",
+          "imageUrl": null
+        },
+        {
+          "name": "Intatto",
+          "code": "0101 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 1 (Tonal Luxury)",
+        "ar": "Look 1 (Tonal Luxury)",
+        "ka": "Look 1 (Tonal Luxury)",
+        "hy": "Look 1 (Tonal Luxury)",
+        "lv": "Look 1 (Tonal Luxury)",
+        "lt": "Look 1 (Tonal Luxury)",
+        "pl": "Look 1 (Tonal Luxury)",
+        "uk": "Look 1 (Tonal Luxury)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Тональная роскошь): Изысканное сочетание водолазки Manografo 0506 с жакетом Maurilia 0506 и брюками Opaglio 0927, дополненное сумкой Iago 2240 0002.",
+        "en": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by an Iago 2240 0002 bag.",
+        "ar": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by an Iago 2240 0002 bag.",
+        "ka": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by an Iago 2240 0002 bag.",
+        "hy": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by an Iago 2240 0002 bag.",
+        "lv": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by an Iago 2240 0002 bag.",
+        "lt": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by an Iago 2240 0002 bag.",
+        "pl": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by an Iago 2240 0002 bag.",
+        "uk": "An exquisite combination of a Manografo 0506 turtleneck with a Maurilia 0506 jacket and Opaglio 0927 trousers, complemented by an Iago 2240 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Manografo",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSF_50600000000.jpg"
+        },
+        {
+          "name": "Maurilia",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kxBSsZ-hQ8m944H5LFR0cA_8187316696f4375c3a165_51356027_02831140XX1.jpg",
+          "modelId": 160
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Urban Chic)",
+        "ar": "Look 2 (Urban Chic)",
+        "ka": "Look 2 (Urban Chic)",
+        "hy": "Look 2 (Urban Chic)",
+        "lv": "Look 2 (Urban Chic)",
+        "lt": "Look 2 (Urban Chic)",
+        "pl": "Look 2 (Urban Chic)",
+        "uk": "Look 2 (Urban Chic)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Городской шик): Многослойный ансамбль, объединяющий Manografo 0506 под элегантным пальто Summit 0987 в паре с кожаными брюками Overt 0978.",
+        "en": "A layered ensemble combining a Manografo 0506 under an elegant Summit 0987 coat paired with Overt 0978 leather trousers.",
+        "ar": "A layered ensemble combining a Manografo 0506 under an elegant Summit 0987 coat paired with Overt 0978 leather trousers.",
+        "ka": "A layered ensemble combining a Manografo 0506 under an elegant Summit 0987 coat paired with Overt 0978 leather trousers.",
+        "hy": "A layered ensemble combining a Manografo 0506 under an elegant Summit 0987 coat paired with Overt 0978 leather trousers.",
+        "lv": "A layered ensemble combining a Manografo 0506 under an elegant Summit 0987 coat paired with Overt 0978 leather trousers.",
+        "lt": "A layered ensemble combining a Manografo 0506 under an elegant Summit 0987 coat paired with Overt 0978 leather trousers.",
+        "pl": "A layered ensemble combining a Manografo 0506 under an elegant Summit 0987 coat paired with Overt 0978 leather trousers.",
+        "uk": "A layered ensemble combining a Manografo 0506 under an elegant Summit 0987 coat paired with Overt 0978 leather trousers."
+      },
+      "items": [
+        {
+          "name": "Manografo",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSF_50600000000.jpg"
+        },
+        {
+          "name": "Summit",
+          "code": "0987",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0fciOmWLSOKx_DqL-UXBYw_1247342274696f42fff21e07_39452345_02821220XX1.jpg",
+          "modelId": 353
+        },
+        {
+          "name": "Overt",
+          "code": "0978",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/aRhuWFmbR-y2VnGMh2DLyQ_818557080696f42ee1851b3_58178703_02820810XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Urban Chic)",
+        "ar": "Look 2 (Urban Chic)",
+        "ka": "Look 2 (Urban Chic)",
+        "hy": "Look 2 (Urban Chic)",
+        "lv": "Look 2 (Urban Chic)",
+        "lt": "Look 2 (Urban Chic)",
+        "pl": "Look 2 (Urban Chic)",
+        "uk": "Look 2 (Urban Chic)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Городской шик): Многослойный ансамбль, объединяющий Manografo 0506 под жакетом Scattare 3370 (Данные об URL отсутствуют в официальных источниках) с классической рубашкой Lucinda 0201 и юбкой Freschezza 3370 (Данные об URL отсутствуют в официальных источниках), завершенный сумкой Intatto 0101 0002.",
+        "en": "A layered ensemble combining a Manografo 0506 under a Scattare 3370 jacket (URL data missing from official sources) with a classic Lucinda 0201 shirt and a Freschezza 3370 skirt (URL data missing from official sources), completed by an Intatto 0101 0002 bag.",
+        "ar": "A layered ensemble combining a Manografo 0506 under a Scattare 3370 jacket (URL data missing from official sources) with a classic Lucinda 0201 shirt and a Freschezza 3370 skirt (URL data missing from official sources), completed by an Intatto 0101 0002 bag.",
+        "ka": "A layered ensemble combining a Manografo 0506 under a Scattare 3370 jacket (URL data missing from official sources) with a classic Lucinda 0201 shirt and a Freschezza 3370 skirt (URL data missing from official sources), completed by an Intatto 0101 0002 bag.",
+        "hy": "A layered ensemble combining a Manografo 0506 under a Scattare 3370 jacket (URL data missing from official sources) with a classic Lucinda 0201 shirt and a Freschezza 3370 skirt (URL data missing from official sources), completed by an Intatto 0101 0002 bag.",
+        "lv": "A layered ensemble combining a Manografo 0506 under a Scattare 3370 jacket (URL data missing from official sources) with a classic Lucinda 0201 shirt and a Freschezza 3370 skirt (URL data missing from official sources), completed by an Intatto 0101 0002 bag.",
+        "lt": "A layered ensemble combining a Manografo 0506 under a Scattare 3370 jacket (URL data missing from official sources) with a classic Lucinda 0201 shirt and a Freschezza 3370 skirt (URL data missing from official sources), completed by an Intatto 0101 0002 bag.",
+        "pl": "A layered ensemble combining a Manografo 0506 under a Scattare 3370 jacket (URL data missing from official sources) with a classic Lucinda 0201 shirt and a Freschezza 3370 skirt (URL data missing from official sources), completed by an Intatto 0101 0002 bag.",
+        "uk": "A layered ensemble combining a Manografo 0506 under a Scattare 3370 jacket (URL data missing from official sources) with a classic Lucinda 0201 shirt and a Freschezza 3370 skirt (URL data missing from official sources), completed by an Intatto 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Manografo",
+          "code": "0506",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSF_50600000000.jpg"
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Scattare",
+          "code": "3370",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the Merinfleur material: the high virgin wool content (70%) delivers exceptional softness and comfortable thermoregulation.",
+      "Highlight the value of the gold LS appliqué — this handcrafted element elevates the turtleneck from an essential piece into a collectible item.",
+      "Recommend the piece as the ideal foundation for building layered, runway-inspired looks: thanks to the dense 'punto stoffa' knit, the item sits beautifully beneath jackets without adding unwanted volume."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на материале Merinfleur: высокое содержание девственной шерсти (70%) обеспечивает исключительную мягкость и комфортную терморегуляцию.",
+      "Подчеркните ценность золотистой аппликации LS — этот элемент ручной работы делает водолазку не просто базовой вещью, а коллекционным предметом коллекции.",
+      "Рекомендуйте модель как идеальную основу для создания многослойных подиумных образов: благодаря плотной вязке «punto stoffa» изделие идеально ложится под жакеты, не создавая лишнего объема."
+    ],
+    "ar": [
+      "سلطي الضوء على خامة Merinfleur: النسبة العالية من الصوف البكر (70%) تضمن نعومة استثنائية وتنظيماً حرارياً مريحاً.",
+      "أكدي على قيمة تطبيق شعار LS الذهبي؛ فهذا العنصر المصنوع يدوياً يجعل الكنزة ذات الياقة العالية أكثر من مجرد قطعة أساسية، بل قطعة مقتناة من المجموعة.",
+      "رشيحي هذا التصميم كأساس مثالي لإبداع إطلالات عروض الأزياء متعددة الطبقات: بفضل حياكة «punto stoffa» الكثيفة، تتناغم القطعة بانسيابية تحت السترات دون التسبب في أي حجم زائد."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება Merinfleur-ის მასალაზე: ქალწულებრივი შალის მაღალი შემცველობა (70%) უზრუნველყოფს განსაკუთრებულ სირბილესა და კომფორტულ თერმორეგულაციას.",
+      "ხაზი გაუსვით ოქროსფერი აპლიკაცია LS-ის ღირებულებას — ეს ხელნაკეთი ელემენტი ხდის წყალოლაზს არა უბრალოდ საბაზისო ნივთად, არამედ კოლექციის სარეკლამო ნიმუშად.",
+      "რეკომენდაცია გაუწიეთ მოდელს, როგორც მრავალფენიანი პოდიუმის იმიჯების შესაქმნელ იდეალურ საფუძველს: „punto stoffa“-ს მკვრივი ქსოვის წყალობით, ნაკეთობა იდეალურად ჯდება პიჯაკების ქვეშ, ზედმეტი მოცულობის შექმნის გარეშე."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք Merinfleur նյութի վրա՝ կուսական բրդի բարձր պարունակությունը (70%) ապահովում է բացառիկ փափկություն և հարմարավետ ջերմակարգավորում։",
+      "Ընդգծեք LS ոսկեգույն ապլիկացիայի արժեքը՝ ձեռքի աշխատանքի այս տարրը ջեմփերը դարձնում է ոչ միայն բազային իր, այլ հավաքածուի հավաքածուի առարկա։",
+      "Մոդելը խորհուրդ տվեք որպես բազմաշերտ պոդիումային կերպարներ ստեղծելու իդեալական հիմք՝ «punto stoffa» խիտ հյուսվածքի շնորհիվ արտադրանքը կատարելապես տեղավորվում է ժակետների տակ՝ չստեղծելով ավելորդ ծավալ։"
+    ],
+    "lv": [
+      "Akcentējiet klienta uzmanību uz Merinfleur materiālu: augsts jaunvilnas saturs (70%) nodrošina izcilu maigumu un komfortablu termoregulāciju.",
+      "Uzsveriet zeltainās LS aplikācijas vērtību — šis ar rokām darinātais elements padara ūdenslīnijas džemperi ne tikai par bāzes lietu, bet par kolekcijas izcilu priekšmetu.",
+      "Iesakiet modeli kā ideālu pamatu daudzslāņu modes tēlu radīšanai: pateicoties blīvajam «punto stoffa» adījumam, izstrādājums lieliski pieguļ zem žaketēm, neradot lieku apjomu."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į Merinfleur medžiagą: aukšta pirminės vilnos koncentracija (70%) užtikrina išskirtinį švelnumą ir patogų termoreguliavimą.",
+      "Pabrėžkite auksinės LS aplikacijos vertę — šis rankų darbo elementas paverčia golfą ne tik baziniu drabužiu, bet ir kolekcine vertybe.",
+      "Rekomenduokite modelį kaip idealų pagrindą kuriant daugiasluoksnius podiumo stiliaus įvaizdžius: dėl tankaus „punto stoffa“ mezgimo gaminys idealiai tinka po švarkais, nesukurdamas nereikalingos apimties."
+    ],
+    "pl": [
+      "Zwróć uwagę klientki na materiał Merinfleur: wysoka zawartość wełny dziewiczej (70%) zapewnia wyjątkową miękkość i komfortową termoregulację.",
+      "Podkreśl wartość złocistej aplikacji LS — ten ręcznie wykonany element sprawia, że golf staje się nie tylko bazową rzeczą, ale kolekcjonerskim przedmiotem kolekcji.",
+      "Rekomenduj model jako idealną bazę do tworzenia wielowarstwowych stylizacji wybiegowych: dzięki gęstemu splotowi „punto stoffa” produkt idealnie układa się pod żakietami, nie tworząc zbędnej objętości."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на матеріалі Merinfleur: високий вміст вовни (70%) забезпечує виняткову м'якість та комфортну терморегуляцію.",
+      "Підкресліть цінність золотистої аплікації LS — цей елемент ручної роботи робить водолазку не просто базовою річчю, а колекційним предметом колекції.",
+      "Рекомендуйте модель як ідеальну основу для створення багатошарових подіумних образів: завдяки щільній в'язці «punto stoffa» виріб ідеально лягає під жакети, не створюючи зайвого об'єму."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The composition includes acrylic (30%).",
+        "a": "The addition of a high-technology fibre is essential to achieving the dense-knit technique. This guarantees the piece retains its sculpted silhouette and resists deformation, even after repeated cleaning."
+      },
+      {
+        "q": "The piece seems too plain visually.",
+        "a": "The true luxury of Manografo lies in the details: the jewellery-like sheen of the LS logo and the flawless texture of the knit make it a benchmark of contemporary minimalism."
+      },
+      {
+        "q": "A high collar may cause discomfort.",
+        "a": "This piece uses the finest, highly refined virgin wool, prized for being hypoallergenic and silky to the touch, eliminating any prickling sensation."
+      },
+      {
+        "q": "The light mint shade (Menta) is difficult to pair.",
+        "a": "This refreshing colour is a key shade of the season. It pairs beautifully with our core palette — from caramel (Opaglio) to classic black and deep navy."
+      },
+      {
+        "q": "A fitted cut may cling too closely to the figure.",
+        "a": "The dense structure of the Merinfleur knit offers a gentle shaping effect, softly smoothing the lines and ensuring confidence with every movement. |"
+      },
+      {
+        "q": "The composition includes acrylic (30%).",
+        "a": "The addition of a high-technology fibre is essential to achieving the dense-knit technique. This guarantees the piece retains its sculpted silhouette and resists deformation, even after repeated cleaning."
+      },
+      {
+        "q": "The piece seems too simple for its category.",
+        "a": "The true luxury of Manografo lies in the details: the jewellery-like sheen of the LS logo and the flawless texture of the knit make it a benchmark of contemporary minimalism."
+      },
+      {
+        "q": "A high collar may cause discomfort.",
+        "a": "This piece uses the finest, highly refined virgin wool, prized for being hypoallergenic and silky to the touch, eliminating any prickling sensation."
+      },
+      {
+        "q": "The light mint shade (Menta) is difficult to pair.",
+        "a": "This refreshing colour is a key shade of the season. It pairs beautifully with our core palette — from caramel (Opaglio) to classic black and deep navy."
+      },
+      {
+        "q": "A fitted cut may cling too closely to the figure.",
+        "a": "The dense structure of the Merinfleur knit offers a shaping effect, softly smoothing the lines and ensuring the confident fit characteristic of premium knitwear."
+      }
+    ],
+    "ru": [
+      {
+        "q": "В составе присутствует акрил (30%).",
+        "a": "Добавление высокотехнологичного волокна необходимо для реализации техники плотной вязки. Это гарантирует, что изделие сохранит свой скульптурный силуэт и не деформируется после многочисленных чисток."
+      },
+      {
+        "q": "Модель кажется слишком простой визуально.",
+        "a": "Истинная роскошь Manografo — в деталях: ювелирный блеск логотипа LS и безупречная текстура полотна делают её эталоном современного минимализма."
+      },
+      {
+        "q": "Высокий воротник может вызывать дискомфорт.",
+        "a": "Для этой модели используется тончайшая девственная шерсть высочайшей очистки, которая отличается гипоаллергенностью и шелковистой текстурой, исключая покалывание."
+      },
+      {
+        "q": "Светлый оттенок мяты (Menta) сложно сочетать.",
+        "a": "Этот освежающий цвет является ключевым в сезоне. Он идеально гармонирует с нашей базовой палитрой — от карамельного (Opaglio) до классического черного и глубокого синего."
+      },
+      {
+        "q": "Приталенный крой может слишком облегать фигуру.",
+        "a": "Плотная структура трикотажа Merinfleur обладает легким моделирующим эффектом, мягко сглаживая линии и обеспечивая уверенность в каждом движении. |"
+      },
+      {
+        "q": "В составе присутствует акрил (30%).",
+        "a": "Добавление высокотехнологичного волокна необходимо для реализации техники плотной вязки. Это гарантирует, что изделие сохранит свой скульптурный силуэт и не деформируется после многочисленных чисток."
+      },
+      {
+        "q": "Модель кажется слишком простой для своей категории.",
+        "a": "Истинная роскошь Manografo — в деталях: ювелирный блеск логотипа LS и безупречная текстура полотна делают её эталоном современного минимализма."
+      },
+      {
+        "q": "Высокий воротник может вызывать дискомфорт.",
+        "a": "Для этой модели используется тончайшая девственная шерсть высочайшей очистки, которая отличается гипоаллергенностью и шелковистой текстурой, исключая покалывание."
+      },
+      {
+        "q": "Светлый оттенок мяты (Menta) сложно сочетать.",
+        "a": "Этот освежающий цвет является ключевым в сезоне. Он идеально гармонирует с нашей базовой палитрой — от карамельного (Opaglio) до классического черного и глубокого синего."
+      },
+      {
+        "q": "Приталенный крой может слишком облегать фигуру.",
+        "a": "Плотная структура трикотажа Merinfleur обладает моделирующим эффектом, мягко сглаживая линии и обеспечивая уверенную посадку, характерную для премиального трикотажа."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يحتوي التكوين على أكريليك (30%).",
+        "a": "إضافة ألياف عالية التقنية ضرورية لتنفيذ تقنية الحياكة الكثيفة. هذا يضمن أن يحتفظ المنتج بقوامه المنحوت وألا يتشوه بعد عمليات التنظيف المتكررة."
+      },
+      {
+        "q": "الموديل يبدو بسيطاً جداً من الناحية البصرية.",
+        "a": "الرفاهية الحقيقية في Manografo تكمن في التفاصيل: بريق شعار LS الجوهري وملمس القماش الذي لا تشوبه شائبة يجعلانه معياراً للبساطة العصرية."
+      },
+      {
+        "q": "الياقة العالية قد تسبب عدم الراحة.",
+        "a": "يُستخدم لهذا الموديل أجود أنواع الصوف البكر فائق النقاء، الذي يتميز بكونه مضاداً للحساسية وملمساً حريرياً يمنع الشعور بالوخز."
+      },
+      {
+        "q": "درجة لون النعناع الفاتحة (Menta) صعبة التنسيق.",
+        "a": "هذا اللون المنعش هو لون رئيسي في هذا الموسم. وهو يتناغم تماماً مع لوحة ألواننا الأساسية - من لون الكراميل (Opaglio) إلى الأسود الكلاسيكي والأزرق العميق."
+      },
+      {
+        "q": "القصة المخصرة قد تلتصق بالجسم أكثر من اللازم.",
+        "a": "الهيكل الكثيف لتريكو Merinfleur يمتلك تأثيراً نحتياً خفيفاً، حيث ينعم الخطوط بلطف ويضمن الثقة في كل حركة. |"
+      },
+      {
+        "q": "يحتوي التكوين على أكريليك (30%).",
+        "a": "إضافة ألياف عالية التقنية ضرورية لتنفيذ تقنية الحياكة الكثيفة. هذا يضمن أن يحتفظ المنتج بقوامه المنحوت وألا يتشوه بعد عمليات التنظيف المتكررة."
+      },
+      {
+        "q": "الموديل يبدو بسيطاً جداً بالنسبة لفئته.",
+        "a": "الرفاهية الحقيقية في Manografo تكمن في التفاصيل: بريق شعار LS الجوهري وملمس القماش الذي لا تشوبه شائبة يجعلانه معياراً للبساطة العصرية."
+      },
+      {
+        "q": "الياقة العالية قد تسبب عدم الراحة.",
+        "a": "يُستخدم لهذا الموديل أجود أنواع الصوف البكر فائق النقاء، الذي يتميز بكونه مضاداً للحساسية وملمساً حريرياً يمنع الشعور بالوخز."
+      },
+      {
+        "q": "درجة لون النعناع الفاتحة (Menta) صعبة التنسيق.",
+        "a": "هذا اللون المنعش هو لون رئيسي في هذا الموسم. وهو يتناغم تماماً مع لوحة ألواننا الأساسية - من لون الكراميل (Opaglio) إلى الأسود الكلاسيكي والأزرق العميق."
+      },
+      {
+        "q": "القصة المخصرة قد تلتصق بالجسم أكثر من اللازم.",
+        "a": "الهيكل الكثيف لتريكو Merinfleur يمتلك تأثيراً نحتياً، حيث ينعم الخطوط بلطف ويضمن مظهراً واثقاً يتميز به التريكو الفاخر."
+      }
+    ],
+    "ka": [
+      {
+        "q": "შემადგენლობაში არის აკრილი (30%).",
+        "a": "მაღალტექნოლოგიური ბოჭკოს დამატება აუცილებელია მჭიდრო ქსოვის ტექნიკის რეალიზებისთვის. ეს იმის გარანტიაა, რომ ნაკეთობა შეინარჩუნებს თავის სკულპტურულ სილუეტს და არ დეფორმირდება მრავალჯერადი წმენდის შემდეგ."
+      },
+      {
+        "q": "მოდელი ვიზუალურად ზედმეტად მარტივი ჩანს.",
+        "a": "Manografo-ს ჭეშმარიტი ფუფუნება დეტალებშია: LS-ის ლოგოს საიუველირო ბრწყინვალება და ტილოს უნაკლო ტექსტურა მას თანამედროვე მინიმალიზმის ეტალონად აქცევს."
+      },
+      {
+        "q": "მაღალმა საყელომ შესაძლოა დისკომფორტი გამოიწვიოს.",
+        "a": "ამ მოდელისთვის გამოიყენება უმაღლესი ხარისხის, უთხელესი პირველადი მატყლი, რომელიც გამოირჩევა ჰიპოალერგიულობითა და აბრეშუმისებრი ტექსტურით, რაც გამორიცხავს ჩხვლეტას."
+      },
+      {
+        "q": "პიტნის ღია ფერის (Menta) შეხამება რთულია.",
+        "a": "ეს გამაგრილებელი ფერი სეზონის მთავარი აქცენტია. ის იდეალურად ეხამება ჩვენს საბაზისო პალიტრას — კარამელისფერიდან (Opaglio) კლასიკურ შავ და ღრმა ლურჯ ფერებამდე."
+      },
+      {
+        "q": "ტანზე მომდგარი კრილი შესაძლოა ზედმეტად მჭიდროდ ეკვროდეს ფიგურას.",
+        "a": "Merinfleur-ის ტრიკოტაჟის მჭიდრო სტრუქტურას აქვს მსუბუქი მოდელირების ეფექტი, რბილად ასწორებს ხაზებს და უზრუნველყოფს თავდაჯერებულობას მოძრაობისას. |"
+      },
+      {
+        "q": "შემადგენლობაში არის აკრილი (30%).",
+        "a": "მაღალტექნოლოგიური ბოჭკოს დამატება აუცილებელია მჭიდრო ქსოვის ტექნიკის რეალიზებისთვის. ეს იმის გარანტიაა, რომ ნაკეთობა შეინარჩუნებს თავის სკულპტურულ სილუეტს და არ დეფორმირდება მრავალჯერადი წმენდის შემდეგ."
+      },
+      {
+        "q": "მოდელი ზედმეტად მარტივი ჩანს თავისი კატეგორიისთვის.",
+        "a": "Manografo-ს ჭეშმარიტი ფუფუნება დეტალებშია: LS-ის ლოგოს საიუველირო ბრწყინვალება და ტილოს უნაკლო ტექსტურა მას თანამედროვე მინიმალიზმის ეტალონად აქცევს."
+      },
+      {
+        "q": "მაღალმა საყელომ შესაძლოა დისკომფორტი გამოიწვიოს.",
+        "a": "ამ მოდელისთვის გამოიყენება უმაღლესი ხარისხის, უთხელესი პირველადი მატყლი, რომელიც გამოირჩევა ჰიპოალერგიულობითა და აბრეშუმისებრი ტექსტურით, რაც გამორიცხავს ჩხვლეტას."
+      },
+      {
+        "q": "პიტნის ღია ფერის (Menta) შეხამება რთულია.",
+        "a": "ეს გამაგრილებელი ფერი სეზონის მთავარი აქცენტია. ის იდეალურად ეხამება ჩვენს საბაზისო პალიტრას — კარამელისფერიდან (Opaglio) კლასიკურ შავ და ღრმა ლურჯ ფერებამდე."
+      },
+      {
+        "q": "ტანზე მომდგარი კრილი შესაძლოა ზედმეტად მჭიდროდ ეკვროდეს ფიგურას.",
+        "a": "Merinfleur-ის ტრიკოტაჟის მჭიდრო სტრუქტურას აქვს მოდელირების ეფექტი, რბილად ასწორებს ხაზებს და უზრუნველყოფს თავდაჯერებულ მორგებას, რაც დამახასიათებელია პრემიუმ-ტრიკოტაჟისთვის."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բաղադրության մեջ առկա է ակրիլ (30%)",
+        "a": "Բարձր տեխնոլոգիական մանրաթելի ավելացումն անհրաժեշտ է խիտ հյուսման տեխնիկան իրականացնելու համար։ Սա երաշխավորում է, որ արտադրանքը կպահպանի իր քանդակային ուրվագիծը և չի դեֆորմացվի բազմաթիվ մաքրումներից հետո։"
+      },
+      {
+        "q": "Մոդելը տեսողականորեն չափազանց պարզ է թվում։",
+        "a": "Manografo-ի իսկական շքեղությունը մանրուքների մեջ է՝ LS լոգոտիպի ոսկերչական փայլը և կտավի անթերի հյուսվածքը այն դարձնում են ժամանակակից մինիմալիզմի չափանիշ։"
+      },
+      {
+        "q": "Բարձր օձիքը կարող է անհարմարություն առաջացնել։",
+        "a": "Այս մոդելի համար օգտագործվում է ամենանուրբ, բարձրագույն մաքրության կույս բուրդ, որն աչքի է ընկնում հիպոալերգենությամբ և մետաքսյա հյուսվածքով՝ բացառելով ծակծկոցը։"
+      },
+      {
+        "q": "Անանուխի (Menta) բաց երանգը դժվար է համադրել։",
+        "a": "Այս թարմացնող գույնը սեզոնի առանցքային գույնն է։ Այն իդեալականորեն ներդաշնակում է մեր բազային գունապնակին՝ կարամելայինից (Opaglio) մինչև դասական սև և խորը կապույտ։"
+      },
+      {
+        "q": "Գոտկատեղը ընդգծող ձևվածքը կարող է չափազանց սեղմել կազմվածքը։",
+        "a": "Merinfleur տրիկոտաժի խիտ կառուցվածքն օժտված է թեթև մոդելավորող էֆեկտով, մեղմորեն հարթեցնելով գծերը և ապահովելով վստահություն յուրաքանչյուր շարժման մեջ։ |"
+      },
+      {
+        "q": "Բաղադրության մեջ առկա է ակրիլ (30%)",
+        "a": "Բարձր տեխնոլոգիական մանրաթելի ավելացումն անհրաժեշտ է խիտ հյուսման տեխնիկան իրականացնելու համար։ Սա երաշխավորում է, որ արտադրանքը կպահպանի իր քանդակային ուրվագիծը և չի դեֆորմացվի բազմաթիվ մաքրումներից հետո։"
+      },
+      {
+        "q": "Մոդելը իր կատեգորիայի համար չափազանց պարզ է թվում։",
+        "a": "Manografo-ի իսկական շքեղությունը մանրուքների մեջ է՝ LS լոգոտիպի ոսկերչական փայլը և կտավի անթերի հյուսվածքը այն դարձնում են ժամանակակից մինիմալիզմի չափանիշ։"
+      },
+      {
+        "q": "Բարձր օձիքը կարող է անհարմարություն առաջացնել։",
+        "a": "Այս մոդելի համար օգտագործվում է ամենանուրբ, բարձրագույն մաքրության կույս բուրդ, որն աչքի է ընկնում հիպոալերգենությամբ և մետաքսյա հյուսվածքով՝ բացառելով ծակծկոցը։"
+      },
+      {
+        "q": "Անանուխի (Menta) բաց երանգը դժվար է համադրել։",
+        "a": "Այս թարմացնող գույնը սեզոնի առանցքային գույնն է։ Այն իդեալականորեն ներդաշնակում է մեր բազային գունապնակին՝ կարամելայինից (Opaglio) մինչև դասական սև և խորը կապույտ։"
+      },
+      {
+        "q": "Գոտկատեղը ընդգծող ձևվածքը կարող է չափազանց սեղմել կազմվածքը։",
+        "a": "Merinfleur տրիկոտաժի խիտ կառուցվածքն օժտված է մոդելավորող էֆեկտով, մեղմորեն հարթեցնելով գծերը և ապահովելով պրեմիում դասի տրիկոտաժին բնորոշ վստահելի նստվածք։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Sastāvā ir akrils (30%).",
+        "a": "Augsto tehnoloģiju šķiedras pievienošana ir nepieciešama blīvās adīšanas tehnikas realizācijai. Tas garantē, ka izstrādājums saglabās savu skulpturālo siluetu un nedeformēsies pēc daudzām tīrīšanas reizēm."
+      },
+      {
+        "q": "Modelis vizuāli šķiet pārāk vienkāršs.",
+        "a": "Patiesā Manografo greznība slēpjas detaļās: LS logotipa juvelierizstrādājumu spīdums un auduma nevainojamā tekstūra padara to par mūsdienu minimālisma etalonu."
+      },
+      {
+        "q": "Augsta apkakle var radīt diskomfortu.",
+        "a": "Šim modelim tiek izmantota visplānākā, augstākās tīrības pakāpes jaunvilna, kas izceļas ar hipoalerģiskumu un zīdainu tekstūru, novēršot kņudināšanu."
+      },
+      {
+        "q": "Gaišo piparmētru (Menta) toni ir grūti kombinēt.",
+        "a": "Šī atsvaidzinošā krāsa ir sezonas atslēgas tonis. Tā lieliski harmonizē ar mūsu bāzes paleti — no karameļu (Opaglio) līdz klasiski melnajam un dziļi zilajam."
+      },
+      {
+        "q": "Pieguļošais piegriezums var pārāk cieši aptvert figūru.",
+        "a": "Blīvā Merinfleur trikotāžas struktūra piemīt vieglam modelējošam efektam, maigi izlīdzinot līnijas un nodrošinot pārliecību katrā kustībā. |"
+      },
+      {
+        "q": "Sastāvā ir akrils (30%).",
+        "a": "Augsto tehnoloģiju šķiedras pievienošana ir nepieciešama blīvās adīšanas tehnikas realizācijai. Tas garantē, ka izstrādājums saglabās savu skulpturālo siluetu un nedeformēsies pēc daudzām tīrīšanas reizēm."
+      },
+      {
+        "q": "Modelis šķiet pārāk vienkāršs savai kategorijai.",
+        "a": "Patiesā Manografo greznība slēpjas detaļās: LS logotipa juvelierizstrādājumu spīdums un auduma nevainojamā tekstūra padara to par mūsdienu minimālisma etalonu."
+      },
+      {
+        "q": "Augsta apkakle var radīt diskomfortu.",
+        "a": "Šim modelim tiek izmantota visplānākā, augstākās tīrības pakāpes jaunvilna, kas izceļas ar hipoalerģiskumu un zīdainu tekstūru, novēršot kņudināšanu."
+      },
+      {
+        "q": "Gaišo piparmētru (Menta) toni ir grūti kombinēt.",
+        "a": "Šī atsvaidzinošā krāsa ir sezonas atslēgas tonis. Tā lieliski harmonizē ar mūsu bāzes paleti — no karameļu (Opaglio) līdz klasiski melnajam un dziļi zilajam."
+      },
+      {
+        "q": "Pieguļošais piegriezums var pārāk cieši aptvert figūru.",
+        "a": "Blīvā Merinfleur trikotāžas struktūra piemīt modelējošam efektam, maigi izlīdzinot līnijas un nodrošinot pārliecinošu piegulumu, kas raksturīgs premium trikotāžai."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Sudėtyje yra akrilo (30%).",
+        "a": "Aukštųjų technologijų pluošto pridėjimas yra būtinas tankaus mezgimo technikos įgyvendinimui. Tai garantuoja, kad gaminys išlaikys savo skulptūrišką siluetą ir nebus deformuotas po daugybinių valymų."
+      },
+      {
+        "q": "Modelis atrodo vizualiai per paprastas.",
+        "a": "Tikroji Manografo prabanga – detalėse: juvelyrinis LS logotipo žvilgesys ir nepriekaištinga audinio tekstūra daro jį šiuolaikinio minimalizmo etalonu."
+      },
+      {
+        "q": "Aukšta apykaklė gali sukelti diskomfortą.",
+        "a": "Šiam modeliui naudojama ploniausia aukščiausio grynumo vilna, kuri pasižymi hipoalerginėmis savybėmis ir šilkine tekstūra, pašalinančia niežulį."
+      },
+      {
+        "q": "Šviesų mėtų atspalvį (Menta) sunku derinti.",
+        "a": "Ši gaivi spalva yra pagrindinė šį sezoną. Ji idealiai dera su mūsų bazine palete – nuo karamelinės (Opaglio) iki klasikinės juodos ir gilios mėlynos."
+      },
+      {
+        "q": "Prigludęs kirpimas gali per daug apnuoginti figūrą.",
+        "a": "Tanki „Merinfleur“ trikotažo struktūra turi lengvą modeliuojantį efektą, švelniai glotnindama linijas ir užtikrindama pasitikėjimą kiekviename judesyje. |"
+      },
+      {
+        "q": "Sudėtyje yra akrilo (30%).",
+        "a": "Aukštųjų technologijų pluošto pridėjimas yra būtinas tankaus mezgimo technikos įgyvendinimui. Tai garantuoja, kad gaminys išlaikys savo skulptūrišką siluetą ir nebus deformuotas po daugybinių valymų."
+      },
+      {
+        "q": "Modelis atrodo per paprastas savo kategorijai.",
+        "a": "Tikroji Manografo prabanga – detalėse: juvelyrinis LS logotipo žvilgesys ir nepriekaištinga audinio tekstūra daro jį šiuolaikinio minimalizmo etalonu."
+      },
+      {
+        "q": "Aukšta apykaklė gali sukelti diskomfortą.",
+        "a": "Šiam modeliui naudojama ploniausia aukščiausio grynumo vilna, kuri pasižymi hipoalerginėmis savybėmis ir šilkine tekstūra, pašalinančia niežulį."
+      },
+      {
+        "q": "Šviesų mėtų atspalvį (Menta) sunku derinti.",
+        "a": "Ši gaivi spalva yra pagrindinė šį sezoną. Ji idealiai dera su mūsų bazine palete – nuo karamelinės (Opaglio) iki klasikinės juodos ir gilios mėlynos."
+      },
+      {
+        "q": "Prigludęs kirpimas gali per daug apnuoginti figūrą.",
+        "a": "Tanki „Merinfleur“ trikotažo struktūra turi modeliuojantį efektą, švelniai glotnindama linijas ir užtikrindama užtikrintą prigludimą, būdingą premium klasės trikotažui."
+      }
+    ],
+    "pl": [
+      {
+        "q": "W składzie obecny jest akryl (30%).",
+        "a": "Dodatek zaawansowanego technologicznie włókna jest niezbędny do realizacji techniki ścisłego splotu. Gwarantuje to, że produkt zachowa swoją rzeźbiarską sylwetkę i nie ulegnie deformacji po wielu czyszczeniach."
+      },
+      {
+        "q": "Model wydaje się zbyt prosty wizualnie.",
+        "a": "Prawdziwy luksus Manografo tkwi w detalach: jubilerski blask logo LS oraz nieskazitelna tekstura dzianiny czynią go wzorem współczesnego minimalizmu."
+      },
+      {
+        "q": "Wysoki kołnierz może powodować dyskomfort.",
+        "a": "Do tego modelu użyto najcieńszej dziewiczej wełny najwyższej czystości, która wyróżnia się hipoalergicznością i jedwabistą fakturą, wykluczając uczucie kłucia."
+      },
+      {
+        "q": "Jasny odcień mięty (Menta) jest trudny do łączenia.",
+        "a": "Ten orzeźwiający kolor jest kluczowy w tym sezonie. Idealnie harmonizuje z naszą podstawową paletą – od karmelu (Opaglio) po klasyczną czerń i głęboki granat."
+      },
+      {
+        "q": "Taliowany krój może zbyt mocno opinać figurę.",
+        "a": "Ścisła struktura dzianiny Merinfleur posiada lekki efekt modelujący, delikatnie wygładzając linie i zapewniając pewność w każdym ruchu. |"
+      },
+      {
+        "q": "W składzie obecny jest akryl (30%).",
+        "a": "Dodatek zaawansowanego technologicznie włókna jest niezbędny do realizacji techniki ścisłego splotu. Gwarantuje to, że produkt zachowa swoją rzeźbiarską sylwetkę i nie ulegnie deformacji po wielu czyszczeniach."
+      },
+      {
+        "q": "Model wydaje się zbyt prosty dla swojej kategorii.",
+        "a": "Prawdziwy luksus Manografo tkwi w detalach: jubilerski blask logo LS oraz nieskazitelna tekstura dzianiny czynią go wzorem współczesnego minimalizmu."
+      },
+      {
+        "q": "Wysoki kołnierz może powodować dyskomfort.",
+        "a": "Do tego modelu użyto najcieńszej dziewiczej wełny najwyższej czystości, która wyróżnia się hipoalergicznością i jedwabistą fakturą, wykluczając uczucie kłucia."
+      },
+      {
+        "q": "Jasny odcień mięty (Menta) jest trudny do łączenia.",
+        "a": "Ten orzeźwiający kolor jest kluczowy w tym sezonie. Idealnie harmonizuje z naszą podstawową paletą – od karmelu (Opaglio) po klasyczną czerń i głęboki granat."
+      },
+      {
+        "q": "Taliowany krój może zbyt mocno opinać figurę.",
+        "a": "Ścisła struktura dzianiny Merinfleur posiada efekt modelujący, delikatnie wygładzając linie i zapewniając pewne dopasowanie, charakterystyczne dla dzianin premium."
+      }
+    ],
+    "uk": [
+      {
+        "q": "У складі присутній акрил (30%).",
+        "a": "Додавання високотехнологічного волокна необхідне для реалізації техніки щільної в'язки. Це гарантує, що виріб збереже свій скульптурний силует і не деформується після численних чисток."
+      },
+      {
+        "q": "Модель здається занадто простою візуально.",
+        "a": "Справжня розкіш Manografo — у деталях: ювелірний блиск логотипа LS та бездоганна текстура полотна роблять її еталоном сучасного мінімалізму."
+      },
+      {
+        "q": "Високий комір може викликати дискомфорт.",
+        "a": "Для цієї моделі використовується найтонша незаймана вовна найвищого очищення, яка вирізняється гіпоалергенністю та шовковистою текстурою, виключаючи поколювання."
+      },
+      {
+        "q": "Світлий відтінок м'яти (Menta) складно поєднувати.",
+        "a": "Цей освіжаючий колір є ключовим у сезоні. Він ідеально гармоніює з нашою базовою палітрою — від карамельного (Opaglio) до класичного чорного та глибокого синього."
+      },
+      {
+        "q": "Приталений крій може занадто облягати фігуру.",
+        "a": "Щільна структура трикотажу Merinfleur має легкий моделюючий ефект, м'яко згладжуючи лінії та забезпечуючи впевненість у кожному русі. |"
+      },
+      {
+        "q": "У складі присутній акрил (30%).",
+        "a": "Додавання високотехнологічного волокна необхідне для реалізації техніки щільної в'язки. Це гарантує, що виріб збереже свій скульптурний силует і не деформується після численних чисток."
+      },
+      {
+        "q": "Модель здається занадто простою для своєї категорії.",
+        "a": "Справжня розкіш Manografo — у деталях: ювелірний блиск логотипа LS та бездоганна текстура полотна роблять її еталоном сучасного мінімалізму."
+      },
+      {
+        "q": "Високий комір може викликати дискомфорт.",
+        "a": "Для цієї моделі використовується найтонша незаймана вовна найвищого очищення, яка вирізняється гіпоалергенністю та шовковистою текстурою, виключаючи поколювання."
+      },
+      {
+        "q": "Світлий відтінок м'яти (Menta) складно поєднувати.",
+        "a": "Цей освіжаючий колір є ключовим у сезоні. Він ідеально гармоніює з нашою базовою палітрою — від карамельного (Opaglio) до класичного чорного та глибокого синього."
+      },
+      {
+        "q": "Приталений крій може занадто облягати фігуру.",
+        "a": "Щільна структура трикотажу Merinfleur має моделюючий ефект, м'яко згладжуючи лінії та забезпечуючи впевнену посадку, характерну для преміального трикотажу."
+      }
+    ]
+  }
+}

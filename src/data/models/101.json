@@ -1,0 +1,397 @@
+{
+  "id": 101,
+  "name": "Latteria",
+  "description": {
+    "en": "An embodiment of romantic elegance for the everyday wardrobe: the exquisite Latteria blouse, crafted from a noble blend of cotton and silk. The model enchants with a delicate striped print and a contemporary Korean-style stand collar. The centrepiece is the layered flounces at the cuffs, lending the silhouette movement and femininity, while genuine mother-of-pearl buttons underscore the impeccable quality and couture status of the piece.",
+    "ru": "Воплощение романтичной элегантности в повседневном гардеробе: изысканная блуза Latteria, выполненная из благородного сочетания хлопка и шелка. Модель очаровывает деликатным полосатым принтом и современным воротником-стойкой в корейском стиле. Главным акцентом выступают многослойные воланы на манжетах, придающие образу динамику и женственность, а пуговицы из натурального перламутра подчеркивают безупречное качество и кутюрный статус изделия.",
+    "ar": "تجسيد للأناقة الرومانسية في خزانة ملابسك اليومية: بلوزة Latteria الراقية، المصنوعة من مزيج فاخر من القطن والحرير. يأسر هذا الموديل الألباب بنقشة مقلمة رقيقة وياقة قائمة عصرية على الطراز الكوري. تبرز الكشكشة متعددة الطبقات على الأساور كعنصر أساسي يضفي ديناميكية وأنوثة على الإطلالة، بينما تؤكد الأزرار المصنوعة من اللؤلؤ الطبيعي على الجودة العالية والطابع الراقي (الكوتور) للقطعة.",
+    "ka": "რომანტიული ელეგანტურობის განსახიერება ყოველდღიურ გარდერობში: დახვეწილი ბლუზა Latteria, შექმნილი ბამბისა და აბრეშუმის კეთილშობილური ნაზავისგან. მოდელი ხიბლავს დელიკატური ზოლიანი პრინტით და თანამედროვე კორეული სტილის საყელო-стойка-თი. მთავარი აქცენტია მანჟეტებზე არსებული მრავალფენიანი ვოლანები, რომლებიც გამოსახულებას დინამიკასა და ქალურობას ანიჭებს, ხოლო ნატურალური მარგალიტის ღილები ხაზს უსვამს ნაკეთობის უნაკლო ხარისხსა და კუტიურ სტატუსს.",
+    "hy": "Ռոմանտիկ նրբագեղության մարմնացումը առօրյա զգեստապահարանում. Latteria նրբաճաշակ բլուզ, որը պատրաստված է բամբակի և մետաքսի ազնիվ համադրությունից: Մոդելը հմայում է նուրբ գծավոր պրինտով և կորեական ոճի ժամանակակից կանգնած օձիքով: Գլխավոր շեշտադրումը թևքերի վրա առկա բազմաշերտ ծալազարդերն են, որոնք կերպարին հաղորդում են դինամիկա և կանացիություն, իսկ բնական մարգարտյա կոճակները ընդգծում են հագուստի անթերի որակն ու կուտյուրային կարգավիճակը:",
+    "lv": "Romantiskas elegances iemiesojums ikdienas garderobē: izsmalcināta blūze Latteria, kas darināta no cēla kokvilnas un zīda maisījuma. Modeli apbur smalkais svītrainais apdruka un mūsdienīgā stāvapkakle korejiešu stilā. Galvenais akcents ir daudzslāņu volāni uz aprocēm, kas tēlam piešķir dinamiku un sievišķību, bet dabīgā perlamutra pogas izceļ izstrādājuma nevainojamo kvalitāti un kutīra statusu.",
+    "lt": "Romantiškos elegancijos įsikūnijimas kasdieniame garderobe: rafinuota Latteria palaidinė, pagaminta iš prabangaus medvilnės ir šilko derinio. Modelį žavi subtilus dryžuotas raštas ir moderni korėjietiško stiliaus apykaklė-stovelis. Pagrindinis akcentas – daugiasluoksniai raukiniai ant rankogalių, suteikiantys įvaizdžiui dinamikos bei moteriškumo, o natūralaus perlamutro sagos pabrėžia nepriekaištingą kokybę ir „couture“ statusą.",
+    "pl": "Ucieleśnienie romantycznej elegancji w codziennej garderobie: wyrafinowana bluzka Latteria, wykonana ze szlachetnego połączenia bawełny i jedwabiu. Model zachwyca delikatnym nadrukiem w paski oraz nowoczesnym kołnierzykiem typu stójka w stylu koreańskim. Głównym akcentem są wielowarstwowe falbany na mankietach, nadające stylizacji dynamiki i kobiecości, a guziki z naturalnej masy perłowej podkreślają nienaganną jakość oraz krawiecki status modelu.",
+    "uk": "Втілення романтичної елегантності в повсякденному гардеробі: вишукана блуза Latteria, виконана з благородного поєднання бавовни та шовку. Модель зачаровує делікатним смугастим принтом та сучасним коміром-стійкою в корейському стилі. Головним акцентом виступають багатошарові волани на манжетах, що додають образу динаміки та жіночності, а ґудзики з натурального перламутру підкреслюють бездоганну якість та кутюрний статус виробу."
+  },
+  "colors": [],
+  "looks": [
+    {
+      "title": {
+        "en": "Look 1 (Aristocratic beige)",
+        "ar": "Look 1 (Aristocratic beige)",
+        "ka": "Look 1 (Aristocratic beige)",
+        "hy": "Look 1 (Aristocratic beige)",
+        "lv": "Look 1 (Aristocratic beige)",
+        "lt": "Look 1 (Aristocratic beige)",
+        "pl": "Look 1 (Aristocratic beige)",
+        "uk": "Look 1 (Aristocratic beige)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 1 (Аристократичный бежевый): Сочетание блузы Latteria 0218 с жакетом Micologia 1117 1118 и юбкой Minia 1117 1118, дополненное колье Narsete 0002.",
+        "en": "A combination of the Latteria 0218 blouse with the Micologia 1117 1118 jacket and the Minia 1117 1118 skirt, complemented by the Narsete 0002 necklace.",
+        "ar": "A combination of the Latteria 0218 blouse with the Micologia 1117 1118 jacket and the Minia 1117 1118 skirt, complemented by the Narsete 0002 necklace.",
+        "ka": "A combination of the Latteria 0218 blouse with the Micologia 1117 1118 jacket and the Minia 1117 1118 skirt, complemented by the Narsete 0002 necklace.",
+        "hy": "A combination of the Latteria 0218 blouse with the Micologia 1117 1118 jacket and the Minia 1117 1118 skirt, complemented by the Narsete 0002 necklace.",
+        "lv": "A combination of the Latteria 0218 blouse with the Micologia 1117 1118 jacket and the Minia 1117 1118 skirt, complemented by the Narsete 0002 necklace.",
+        "lt": "A combination of the Latteria 0218 blouse with the Micologia 1117 1118 jacket and the Minia 1117 1118 skirt, complemented by the Narsete 0002 necklace.",
+        "pl": "A combination of the Latteria 0218 blouse with the Micologia 1117 1118 jacket and the Minia 1117 1118 skirt, complemented by the Narsete 0002 necklace.",
+        "uk": "A combination of the Latteria 0218 blouse with the Micologia 1117 1118 jacket and the Minia 1117 1118 skirt, complemented by the Narsete 0002 necklace."
+      },
+      "items": [
+        {
+          "name": "Latteria",
+          "code": "0218",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1723971240691c57c79cc7c5_03631804_02780370XX1.jpg"
+        },
+        {
+          "name": "Micologia",
+          "code": "1117 1118",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/959747307691f1576f006d2_02395475_02790480XX1.jpg",
+          "modelId": 174
+        },
+        {
+          "name": "Minia",
+          "code": "1117 1118",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1302431902691f15784924a8_40669437_02790520XX1.jpg",
+          "modelId": 445
+        },
+        {
+          "name": "Narsete",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/17819755691c57d4e4e7d2_07198257_02800110XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Daytime luxe)",
+        "ar": "Look 2 (Daytime luxe)",
+        "ka": "Look 2 (Daytime luxe)",
+        "hy": "Look 2 (Daytime luxe)",
+        "lv": "Look 2 (Daytime luxe)",
+        "lt": "Look 2 (Daytime luxe)",
+        "pl": "Look 2 (Daytime luxe)",
+        "uk": "Look 2 (Daytime luxe)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Дневной люкс): Элегантный дуэт блузы Latteria 2417 и юбки Fumaiolo 3417, завершенный туфлями Uragano A 0986.",
+        "en": "An elegant duet of the Latteria 2417 blouse and the Fumaiolo 3417 skirt, completed by Uragano A 0986 shoes.",
+        "ar": "An elegant duet of the Latteria 2417 blouse and the Fumaiolo 3417 skirt, completed by Uragano A 0986 shoes.",
+        "ka": "An elegant duet of the Latteria 2417 blouse and the Fumaiolo 3417 skirt, completed by Uragano A 0986 shoes.",
+        "hy": "An elegant duet of the Latteria 2417 blouse and the Fumaiolo 3417 skirt, completed by Uragano A 0986 shoes.",
+        "lv": "An elegant duet of the Latteria 2417 blouse and the Fumaiolo 3417 skirt, completed by Uragano A 0986 shoes.",
+        "lt": "An elegant duet of the Latteria 2417 blouse and the Fumaiolo 3417 skirt, completed by Uragano A 0986 shoes.",
+        "pl": "An elegant duet of the Latteria 2417 blouse and the Fumaiolo 3417 skirt, completed by Uragano A 0986 shoes.",
+        "uk": "An elegant duet of the Latteria 2417 blouse and the Fumaiolo 3417 skirt, completed by Uragano A 0986 shoes."
+      },
+      "items": [
+        {
+          "name": "Latteria",
+          "code": "2417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3Mx2ef25TdugVXg2-i0IIg_1643286833696f42dfd5b5f6_19897444_02820400XX1.jpg"
+        },
+        {
+          "name": "Fumaiolo",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg",
+          "modelId": 64
+        },
+        {
+          "name": "Uragano A",
+          "code": "0986",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URAGANO_98600000000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 3 (Urban chic)",
+        "ar": "Look 3 (Urban chic)",
+        "ka": "Look 3 (Urban chic)",
+        "hy": "Look 3 (Urban chic)",
+        "lv": "Look 3 (Urban chic)",
+        "lt": "Look 3 (Urban chic)",
+        "pl": "Look 3 (Urban chic)",
+        "uk": "Look 3 (Urban chic)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 3 (Городской шик): Композиция из блузы Latteria 2290, жакета Seduta 3417 и брюк Ottana 3417.",
+        "en": "A composition featuring the Latteria 2290 blouse, the Seduta 3417 jacket and the Ottana 3417 trousers.",
+        "ar": "A composition featuring the Latteria 2290 blouse, the Seduta 3417 jacket and the Ottana 3417 trousers.",
+        "ka": "A composition featuring the Latteria 2290 blouse, the Seduta 3417 jacket and the Ottana 3417 trousers.",
+        "hy": "A composition featuring the Latteria 2290 blouse, the Seduta 3417 jacket and the Ottana 3417 trousers.",
+        "lv": "A composition featuring the Latteria 2290 blouse, the Seduta 3417 jacket and the Ottana 3417 trousers.",
+        "lt": "A composition featuring the Latteria 2290 blouse, the Seduta 3417 jacket and the Ottana 3417 trousers.",
+        "pl": "A composition featuring the Latteria 2290 blouse, the Seduta 3417 jacket and the Ottana 3417 trousers.",
+        "uk": "A composition featuring the Latteria 2290 blouse, the Seduta 3417 jacket and the Ottana 3417 trousers."
+      },
+      "items": [
+        {
+          "name": "Latteria",
+          "code": "2290",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OxP-8zSLRqGg62DhCYQfDw_394817131696f423836da77_32008806_02820390XX1.jpg"
+        },
+        {
+          "name": "Seduta",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bepctPXfSIK7vqF5pwZQkQ_283102043696f42f4b2c696_85048935_02820950XX1.jpg"
+        },
+        {
+          "name": "Ottana",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TQWq2qXmRQayYc7Z7KMgUg_391295727696f42ed3bd804_80361111_02820790XX1.jpg",
+          "modelId": 271
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the distinctive fabric composition: the blend of cotton and silk delivers exceptional softness, a refined matte sheen, and comfort throughout the day.",
+      "Showcase the striking ruffled cuffs: a ready-made styling detail that allows the Latteria blouse to become the centerpiece even of the most understated look.",
+      "Recommend the stand collar as a modern and more refined alternative to the classic collar, ideal for layered looks with the collection's jackets."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на уникальном составе ткани: сочетание хлопка и шелка обеспечивает исключительную мягкость, благородный матовый блеск и комфорт в течение всего дня.",
+      "Продемонстрируйте эффектные манжеты с воланами: это готовое стилистическое решение, которое позволяет блузе Latteria стать центральным элементом даже самого лаконичного образа.",
+      "Рекомендуйте воротник-стойку как современную и более утонченную альтернативу классическому воротнику, идеально подходящую для многослойных образов с жакетами коллекции."
+    ],
+    "ar": [
+      "سلطي الضوء للعميلة على التكوين الفريد للقماش: مزيج القطن والحرير يضمن نعومة استثنائية، وبريقاً مطفياً راقياً، وراحة تدوم طوال اليوم.",
+      "اعرضي الأكمام ذات الكشكشة الجذابة: فهي حل تصميمي جاهز يتيح لبلوزة Latteria أن تصبح عنصراً محورياً حتى في أكثر الإطلالات بساطة.",
+      "انصحي بياقة القميص القائمة (الواقفة) كبديل عصري وأكثر دقة من الياقة الكلاسيكية، وهي مثالية للإطلالات متعددة الطبقات مع سترات المجموعة."
+    ],
+    "ka": [
+      "ყურადღება გაამახვილეთ მომხმარებლის ყურადღება ქსოვილის უნიკალურ შემადგენლობაზე: ბამბისა და აბრეშუმის კომბინაცია უზრუნველყოფს განსაკუთრებულ სირბილეს, კეთილშობილურ მქრქალ ბზინვარებას და კომფორტს მთელი დღის განმავლობაში.",
+      "წარმოაჩინეთ მანჟეტები ხელის ეფექტური ნაოჭებით (ვოლანებით): ეს არის მზა სტილისტური გადაწყვეტა, რომელიც საშუალებას აძლევს ბლუზას Latteria გახდეს ყველაზე ლაკონური იმიჯის ცენტრალური ელემენტიც კი.",
+      "რეკომენდაცია გაუწიეთ სადგარი-საყელოს, როგორც თანამედროვე და უფრო დახვეწილ ალტერნატივას კლასიკური საყელოსთვის, რომელიც იდეალურად შეეფერება კოლექციის პიჯაკებთან მრავალშრიან კომბინაციებს."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք գործվածքի եզակի բաղադրության վրա. բամբակի և մետաքսի համադրությունը ապահովում է բացառիկ փափկություն, ազնիվ փայլատ փայլ և հարմարավետություն ամբողջ օրվա ընթացքում:",
+      "Ցուցադրեք ծալքերով տպավորիչ թևքերը. սա պատրաստի ոճային լուծում է, որը թույլ է տալիս Latteria բլուզին դառնալ նույնիսկ ամենալակոնիկ կերպարի կենտրոնական տարրը:",
+      "Խորհուրդ տվեք կանգնած օձիքը որպես դասական օձիքի ժամանակակից և ավելի նրբագեղ այլընտրանք, որը հիանալի է հավաքածուի ժակետների հետ շերտավոր կերպարների համար:"
+    ],
+    "lv": [
+      "Akcentējiet klienta uzmanību uz auduma unikālo sastāvu: kokvilnas un zīda kombinācija nodrošina izcilu maigumu, cēlu matētu spīdumu un komfortu visas dienas garumā.",
+      "Demonstrējiet efektīvās manšetes ar volāniem: tas ir gatavs stilistisks risinājums, kas ļauj blūzei Latteria kļūt par centrālo elementu pat vislakoniskākajā tēlā.",
+      "Iesakiet stāvapkakli kā mūsdienīgu un izsmalcinātāku alternatīvu klasiskajai apkaklei, kas ir ideāli piemērota daudzslāņu tēliem ar kolekcijas žaketēm."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į unikalią audinio sudėtį: medvilnės ir šilko derinys užtikrina išskirtinį švelnumą, taurų matinį blizgesį bei komfortą visą dieną.",
+      "Pademonstruokite įspūdingus rankogalius su raukiniais: tai stilingas sprendimas, leidžiantis Latteria palaidinei tapti pagrindiniu net ir lakoniškiausio įvaizdžio akcentu.",
+      "Rekomenduokite stačią apykaklę kaip šiuolaikišką ir rafinuotesnę klasikinės apykaklės alternatyvą, idealiai tinkančią sluoksniuotiems deriniams su kolekcijos švarkais."
+    ],
+    "pl": [
+      "Podkreśl wyjątkowy skład tkaniny: połączenie bawełny i jedwabiu zapewnia wyjątkową miękkość, szlachetny matowy połysk oraz komfort przez cały dzień.",
+      "Zaprezentuj efektowne mankiety z falbankami: to gotowe rozwiązanie stylizacyjne, dzięki któremu bluzka Latteria staje się głównym elementem nawet najbardziej minimalistycznej stylizacji.",
+      "Zaproponuj stójkę jako nowoczesną i bardziej wyrafinowaną alternatywę dla klasycznego kołnierzyka, idealną do wielowarstwowych stylizacji z żakietami z kolekcji."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на унікальному складі тканини: поєднання бавовни та шовку забезпечує виняткову м'якість, благородний матовий блиск і комфорт протягом усього дня.",
+      "Продемонструйте ефектні манжети з воланами: це готове стилістичне рішення, яке дозволяє блузі Latteria стати центральним елементом навіть найлаконічнішого образу.",
+      "Рекомендуйте комір-стійку як сучасну та більш витончену альтернативу класичному коміру, що ідеально пасує для багатошарових образів із жакетами колекції."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The blouse seems too delicate given its silk content.",
+        "a": "The addition of premium-quality cotton (76%) makes the fabric more durable and practical to wear, while preserving all the aesthetic qualities of natural silk."
+      },
+      {
+        "q": "Ruffled sleeves may be cumbersome under outerwear.",
+        "a": "The ruffles are crafted from a lightweight, fluid material that fits easily within the sleeves of our coats and jackets, creating a beautiful, layered accent at the wrist."
+      },
+      {
+        "q": "A striped print may visually add width.",
+        "a": "On the contrary, the fine vertical stripe, combined with the understated cut and stand collar, visually elongates the silhouette, lending the figure a slender line."
+      },
+      {
+        "q": "It's difficult to pair bottoms with such an eye-catching sleeve design.",
+        "a": "The Latteria blouse pairs beautifully with pencil skirts or classic trousers from our collection. We recommend styling it with the Fumaiolo piece to create a truly statement-worthy ensemble."
+      },
+      {
+        "q": "Mother-of-pearl buttons require special care.",
+        "a": "The use of natural mother-of-pearl is a hallmark of superior quality. With proper care — whether delicate hand-washing or professional cleaning — the hardware will retain its sheen for decades."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Блуза кажется слишком хрупкой из-за шелка в составе.",
+        "a": "Добавление высококачественного хлопка (76%) делает ткань более прочной и практичной в носке, сохраняя при этом все эстетические достоинства натурального шелка."
+      },
+      {
+        "q": "Воланы на рукавах могут мешать под верхней одеждой.",
+        "a": "Воланы выполнены из легкого струящегося материала, который легко помещается в рукава наших пальто и жакетов, создавая при этом красивый многослойный акцент на запястьях."
+      },
+      {
+        "q": "Полосатый принт может визуально полнить.",
+        "a": "Напротив, тонкая вертикальная полоска в сочетании с лаконичным кроем и воротником-стойкой визуально вытягивает силуэт, придавая фигуре стройность."
+      },
+      {
+        "q": "Сложно подобрать низ к такому активному дизайну рукавов.",
+        "a": "Блуза Latteria идеально гармонирует с юбками-карандаш или классическими брюками из нашей коллекции. Мы рекомендуем сочетать её с моделью Fumaiolo для создания статусного ансамбля."
+      },
+      {
+        "q": "Перламутровые пуговицы требуют особого ухода.",
+        "a": "Использование натурального перламутра — это знак высокого качества. При соблюдении рекомендаций по деликатной стирке или профессиональному уходу фурнитура сохранит свое сияние десятилетиями."
+      }
+    ],
+    "ar": [
+      {
+        "q": "تبدو البلوزة هشة للغاية بسبب الحرير في تركيبتها.",
+        "a": "إن إضافة القطن عالي الجودة (76%) تجعل القماش أكثر متانة وعملية في الارتداء، مع الحفاظ على كافة الخصائص الجمالية للحرير الطبيعي."
+      },
+      {
+        "q": "قد تعيق الكشكشة الموجودة على الأكمام ارتداء الملابس الخارجية.",
+        "a": "صُنعت الكشكشة من مادة خفيفة ومنسدلة تنساب بسهولة داخل أكمام معاطفنا وستراتنا، مما يضفي لمسة جمالية متعددة الطبقات على المعصمين."
+      },
+      {
+        "q": "قد تجعل الطبعة المقلمة المظهر يبدو أكثر امتلاءً.",
+        "a": "على العكس من ذلك، فإن الخطوط العمودية الدقيقة المقترنة بالقصة البسيطة والياقة القائمة تمنح القامة مظهراً ممشوقاً وتزيد من أناقة القوام."
+      },
+      {
+        "q": "من الصعب تنسيق قطعة سفلية مع هذا التصميم الحيوي للأكمام.",
+        "a": "تنسجم بلوزة Latteria بشكل مثالي مع التنانير ذات قصة القلم الرصاص أو السراويل الكلاسيكية من مجموعتنا. ننصح بتنسيقها مع موديل Fumaiolo للحصول على طلة تعكس الفخامة."
+      },
+      {
+        "q": "تتطلب الأزرار الصدفية عناية خاصة.",
+        "a": "إن استخدام عرق اللؤلؤ الطبيعي هو علامة على الجودة العالية. ومع اتباع تعليمات الغسيل الرقيق أو العناية الاحترافية، ستحتفظ هذه التفاصيل ببريقها لعقود."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ბლუზა ზედმეტად ნაზი ჩანს შემადგენლობაში აბრეშუმის არსებობის გამო.",
+        "a": "მაღალი ხარისხის ბამბის (76%) დამატება ქსოვილს უფრო გამძლესა და პრაქტიკულს ხდის, ნატურალური აბრეშუმის ყველა ესთეტიკური ღირსების შენარჩუნებით."
+      },
+      {
+        "q": "სახელოებზე არსებული ფრიალი შესაძლოა ხელს უშლიდეს ზედა სამოსის ქვეშ.",
+        "a": "ფრიალი დამზადებულია მსუბუქი, მოძრავი მასალისგან, რომელიც ადვილად თავსდება ჩვენი პალტოებისა და ქურთუკების სახელოებში, რაც მაჯებზე ლამაზ, მრავალშრიან აქცენტს ქმნის."
+      },
+      {
+        "q": "ზოლიანი პრინტი შესაძლოა ვიზუალურად ასუქებდეს.",
+        "a": "პირიქით, თხელი ვერტიკალური ზოლი ლაკონურ ჭრილთან და ყელთან ერთად ვიზუალურად აგრძელებს სილუეტს და ფიგურას დახვეწილობას ანიჭებს."
+      },
+      {
+        "q": "რთულია ასეთი აქტიური დიზაინის სახელოების მქონე ბლუზისთვის ქვედაბოლოს შერჩევა.",
+        "a": "ბლუზა Latteria იდეალურად ეხამება ჩვენი კოლექციიდან კალთებს ან კლასიკურ შარვლებს. ჩვენ გირჩევთ მის შეხამებას Fumaiolo მოდელთან სტატუსური ანსამბლის შესაქმნელად."
+      },
+      {
+        "q": "სადაფის ღილებს განსაკუთრებული მოვლა სჭირდება.",
+        "a": "ნატურალური სადაფის გამოყენება მაღალი ხარისხის ნიშანია. დელიკატური რეცხვის ან პროფესიონალური მოვლის რეკომენდაციების დაცვით, ფურნიტურა ათწლეულების განმავლობაში შეინარჩუნებს თავის ბზინვარებას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բլուզը թվում է չափազանց նուրբ՝ կազմի մեջ առկա մետաքսի պատճառով",
+        "a": "Բարձրորակ բամբակի (76%) ավելացումը գործվածքը դարձնում է ավելի ամուր և գործնական՝ պահպանելով բնական մետաքսի բոլոր էսթետիկ առավելությունները"
+      },
+      {
+        "q": "Թևքերի վոլանները կարող են խանգարել վերնահագուստի տակ",
+        "a": "Վոլանները պատրաստված են թեթև, հոսուն նյութից, որը հեշտությամբ տեղավորվում է մեր վերարկուների և ժակետների թևքերի մեջ՝ միաժամանակ ստեղծելով դաստակների վրա գեղեցիկ բազմաշերտ շեշտադրում"
+      },
+      {
+        "q": "Գծավոր պրինտը կարող է վիզուալ գիրացնել",
+        "a": "Ընդհակառակը, բարակ ուղղահայաց գիծը՝ լակոնիկ ձևվածքի և կանգնած օձիքի հետ համադրությամբ, վիզուալ երկարացնում է ուրվագիծը՝ կազմվածքին հաղորդելով նրբագեղություն"
+      },
+      {
+        "q": "Դժվար է ընտրել ներքնազգեստ թևքերի նման ակտիվ դիզայնի համար",
+        "a": "Latteria բլուզը կատարելապես համադրվում է մեր հավաքածուի մատիտ-կիսաշրջազգեստների կամ դասական տաբատների հետ: Մենք խորհուրդ ենք տալիս այն համադրել Fumaiolo մոդելի հետ՝ ստեղծելով կարգավիճակային անսամբլ"
+      },
+      {
+        "q": "Սադափե կոճակները հատուկ խնամք են պահանջում",
+        "a": "Բնական սադափի օգտագործումը բարձր որակի նշան է: Նուրբ լվացման կամ մասնագիտացված խնամքի առաջարկությունները պահպանելու դեպքում աքսեսուարը կպահպանի իր փայլը տասնամյակներ շարունակ"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Blūze šķiet pārāk trausla, jo tās sastāvā ir zīds.",
+        "a": "Augstas kvalitātes kokvilnas (76%) pievienošana padara audumu izturīgāku un praktiskāku valkāšanai, vienlaikus saglabājot visas dabīgā zīda estētiskās priekšrocības."
+      },
+      {
+        "q": "Volāni uz piedurknēm var traucēt zem virsdrēbēm.",
+        "a": "Volāni ir izgatavoti no viegla, plūstoša materiāla, kas viegli ievietojams mūsu mēteļu un žakešu piedurknēs, vienlaikus radot skaistu, daudzslāņainu akcentu uz plaukstu locītavām."
+      },
+      {
+        "q": "Svītrainā apdruka var vizuāli palielināt.",
+        "a": "Gluži pretēji, smalka vertikāla svītra apvienojumā ar lakonisku piegriezumu un stāvapkakli vizuāli pagarina siluetu, piešķirot figūrai slaidumu."
+      },
+      {
+        "q": "Grūti piemeklēt apakšdaļu tik aktīvam piedurkņu dizainam.",
+        "a": "Latteria blūze lieliski harmonē ar zīmuļsvārkiem vai klasiskām biksēm no mūsu kolekcijas. Mēs iesakām to kombinēt ar modeli Fumaiolo, lai radītu statusa cienīgu ansambli."
+      },
+      {
+        "q": "Pērļmātes pogām nepieciešama īpaša kopšana.",
+        "a": "Dabīgās pērļmātes izmantošana ir augstas kvalitātes zīme. Ievērojot ieteikumus par saudzīgu mazgāšanu vai profesionālu kopšanu, furnitūra saglabās savu spīdumu gadu desmitiem."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Dėl sudėtyje esančio šilko palaidinė atrodo pernelyg trapi.",
+        "a": "Pridėta aukštos kokybės medvilnė (76 %) suteikia audiniui tvirtumo ir praktiškumo, išsaugant visas estetines natūralaus šilko savybes."
+      },
+      {
+        "q": "Rankovių raukiniai gali trukdyti dėvint viršutinius drabužius.",
+        "a": "Raukiniai sukurti iš lengvos, krentančios medžiagos, kuri lengvai telpa po mūsų paltų ir švarkų rankovėmis, sukurdama gražų daugiasluoksnį akcentą ties riešais."
+      },
+      {
+        "q": "Dryžuotas raštas gali vizualiai stambinti.",
+        "a": "Priešingai, smulki vertikali juostelė kartu su lakonišku kirpimu ir stačia apykakle vizualiai ilgina siluetą, suteikdama figūrai grakštumo."
+      },
+      {
+        "q": "Sunku parinkti apatinę drabužių dalį prie tokio aktyvaus rankovių dizaino.",
+        "a": "Latteria palaidinė idealiai dera prie mūsų kolekcijos pieštuko formos sijonų ar klasikinių kelnių. Rekomenduojame derinti ją su Fumaiolo modeliu, norint sukurti statusą pabrėžiantį ansamblį."
+      },
+      {
+        "q": "Perlamutrinės sagos reikalauja ypatingos priežiūros.",
+        "a": "Natūralaus perlamutro naudojimas yra aukščiausios kokybės ženklas. Laikantis subtilaus skalbimo ar profesionalios priežiūros rekomendacijų, furnitūra išsaugos savo spindesį ištisus dešimtmečius."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Bluzka wydaje się zbyt delikatna ze względu na zawartość jedwabiu.",
+        "a": "Dodatek wysokiej jakości bawełny (76%) sprawia, że tkanina jest bardziej wytrzymała i praktyczna w noszeniu, zachowując jednocześnie wszystkie estetyczne walory naturalnego jedwabiu."
+      },
+      {
+        "q": "Falbanki na rękawach mogą przeszkadzać pod odzieżą wierzchnią.",
+        "a": "Falbanki wykonano z lekkiego, zwiewnego materiału, który z łatwością mieści się w rękawach naszych płaszczy i żakietów, tworząc jednocześnie piękny, wielowarstwowy akcent przy nadgarstkach."
+      },
+      {
+        "q": "Pasiasty wzór może optycznie pogrubiać.",
+        "a": "Wręcz przeciwnie, delikatne pionowe paski w połączeniu z minimalistycznym krojem i kołnierzykiem typu stójka optycznie wydłużają sylwetkę, nadając jej smukłości."
+      },
+      {
+        "q": "Trudno dobrać dół do tak wyrazistych rękawów.",
+        "a": "Bluzka Latteria idealnie harmonizuje ze spódnicami ołówkowymi lub klasycznymi spodniami z naszej kolekcji. Rekomendujemy zestawienie jej z modelem Fumaiolo dla uzyskania prestiżowego zestawu."
+      },
+      {
+        "q": "Perłowe guziki wymagają specjalnej pielęgnacji.",
+        "a": "Zastosowanie naturalnej masy perłowej to znak najwyższej jakości. Przy przestrzeganiu zaleceń dotyczących delikatnego prania lub profesjonalnej pielęgnacji, elementy te zachowają swój blask przez dziesięciolecia."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Блуза здається занадто крихкою через шовк у складі.",
+        "a": "Додавання високоякісної бавовни (76%) робить тканину більш міцною та практичною у носінні, зберігаючи при цьому всі естетичні переваги натурального шовку."
+      },
+      {
+        "q": "Волани на рукавах можуть заважати під верхнім одягом.",
+        "a": "Волани виконані з легкого струмливого матеріалу, який легко поміщається в рукави наших пальт і жакетів, створюючи при цьому красивий багатошаровий акцент на зап'ястях."
+      },
+      {
+        "q": "Смугастий принт може візуально повнити.",
+        "a": "Навпаки, тонка вертикальна смужка у поєднанні з лаконічним кроєм та коміром-стійкою візуально витягує силует, надаючи фігурі стрункості."
+      },
+      {
+        "q": "Складно підібрати низ до такого активного дизайну рукавів.",
+        "a": "Блуза Latteria ідеально гармоніює зі спідницями-олівець або класичними брюками з нашої колекції. Ми рекомендуємо поєднувати її з моделлю Fumaiolo для створення статусного ансамблю."
+      },
+      {
+        "q": "Перламутрові ґудзики потребують особливого догляду.",
+        "a": "Використання натурального перламутру — це знак високої якості. При дотриманні рекомендацій щодо делікатного прання або професійного догляду фурнітура збереже своє сяйво десятиліттями."
+      }
+    ]
+  }
+}

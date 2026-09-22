@@ -1,0 +1,418 @@
+{
+  "id": 254,
+  "name": "Oneta",
+  "description": {
+    "en": "The Oneta trousers are a bold, contemporary reading of urban elegance from Luisa Spagnoli. Crafted from high-quality eco-leather that masterfully replicates the softness of natural nappa while offering durability and ethical sourcing. The loose fit, combined with wide legs and open pintucks (pinces), creates a dynamic, architectural silhouette that underscores confidence and elevated status. A belt with loops and a classic zip-and-button closure allow for the creation of flawless 'quiet luxury' ensembles, making these trousers a key element of a runway-worthy look.",
+    "ru": "Брюки Oneta — это смелое и современное прочтение городской элегантности от Luisa Spagnoli. Модель выполнена из высококачественной экокожи, которая виртуозно имитирует мягкость натуральной наппы, обеспечивая при этом долговечность и этичность. Свободный крой (loose fit) в сочетании с широкими штанинами и открытыми защипами (pinces) создает динамичный, архитектурный силуэт, подчеркивающий уверенность и высокий статус владелицы. Пояс со шлевками и классическая застежка на молнию и пуговицу позволяют создавать безупречные ансамбли в стиле «тихой роскоши», делая эти брюки ключевым элементом подиумного образа.",
+    "ar": "تعتبر سراويل Oneta قراءة جريئة ومعاصرة للأناقة الحضرية من Luisa Spagnoli. صُنع هذا الموديل من جلد صديق للبيئة عالي الجودة يحاكي ببراعة نعومة جلد النابا الطبيعي، مع ضمان المتانة والأخلاقيات في التصنيع. تمنح القصة الواسعة (loose fit) مع الأرجل العريضة والطيات البارزة (pinces) قواماً ديناميكياً وهيكلياً يعزز ثقة ومكانة من ترتديها. يسمح الخصر المزين بعُرى الحزام والسحاب الكلاسيكي مع الزر بتنسيق إطلالات متكاملة بأسلوب «الرفاهية الهادئة»، مما يجعل هذه السراويل قطعة أساسية في عروض الأزياء.",
+    "ka": "შარვალი Oneta — ეს არის Luisa Spagnoli-სგან ურბანული ელეგანტურობის გაბედული და თანამედროვე გააზრება. მოდელი დამზადებულია მაღალი ხარისხის ეკოკანისგან, რომელიც ვირტუოზულად ბაძავს ნატურალური ნაპას სირბილეს, ამავდროულად უზრუნველყოფს გამძლეობასა და ეთიკურობას. თავისუფალი კროი (loose fit) ფართო შარვლის ტოტებთან და ღია ნაკეცებთან (pinces) ერთად ქმნის დინამიურ, არქიტექტურულ სილუეტს, რომელიც ხაზს უსვამს მფლობელის თავდაჯერებულობასა და მაღალ სტატუსს. ქამრის მარყუჟები და ელვა-შესაკრავითა და ღილით გაფორმებული კლასიკური საკეტი საშუალებას იძლევა შეიქმნას უნაკლო ანსამბლები „ჩუმი ფუფუნების“ სტილში, რაც ამ შარვალს პოდიუმის იმიჯის საკვანძო ელემენტად აქცევს.",
+    "hy": "Oneta տաբատը Luisa Spagnoli-ի կողմից քաղաքային էլեգանտության համարձակ և ժամանակակից մեկնաբանությունն է։ Մոդելը պատրաստված է բարձրորակ էկոկաշվից, որը վարպետորեն նմանակում է բնական նապայի փափկությունը՝ միաժամանակ ապահովելով երկարակեցություն և էթիկականություն։ Ազատ կտրվածքը (loose fit) լայն փողքերի և բաց պենսերի (pinces) հետ համատեղ ստեղծում է դինամիկ, ճարտարապետական ուրվագիծ՝ ընդգծելով կրողի վստահությունը և բարձր կարգավիճակը։ Անցքերով գոտին և կայծակաճարմանդով ու կոճակով դասական ճարմանդը թույլ են տալիս ստեղծել «հանգիստ շքեղության» ոճի անթերի անսամբլներ՝ դարձնելով այս տաբատը պոդիումային կերպարի առանցքային տարր։",
+    "lv": "Bikses Oneta ir drosmīgs un mūsdienīgs Luisa Spagnoli pilsētas elegance interpretējums. Modelis ir izgatavots no augstas kvalitātes eko-ādas, kas virtuozi imitē dabīgās napas mīkstumu, vienlaikus nodrošinot izturību un ētiskumu. Brīvs piegriezums (loose fit) apvienojumā ar platām starām un atvērtām ielocēm (pinces) rada dinamisku, arhitektonisku siluetu, kas izceļ valkātājas pārliecību un augsto statusu. Jostasvieta ar cilpām un klasiskā aizdare ar rāvējslēdzēju un pogu ļauj radīt nevainojamus ansambļus „klusā luksusa” stilā, padarot šīs bikses par galveno modes skatuvju tēla elementu.",
+    "lt": "Oneta kelnės – tai drąsus ir modernus miesto elegancijos traktavimas iš Luisa Spagnoli. Modelis pagamintas iš aukštos kokybės eko-odos, kuri meistriškai imituoja natūralios nappa odos minkštumą, kartu užtikrinant ilgaamžiškumą ir etiškumą. Laisvas kirpimas (loose fit) kartu su plačiomis klešnėmis ir atviromis klostėmis (pinces) sukuria dinamišką, architektūrišką siluetą, pabrėžiantį savininkės pasitikėjimą ir aukštą statusą. Liemuo su kilpomis diržui ir klasikinis užsegimas užtrauktuku bei saga leidžia kurti nepriekaištingus ansamblius „tylios prabangos“ stiliumi, paverčiant šias kelnes pagrindiniu podiumo įvaizdžio elementu.",
+    "pl": "Spodnie Oneta to odważna i nowoczesna interpretacja miejskiej elegancji od Luisa Spagnoli. Model wykonany jest z wysokiej jakości ekoskóry, która w mistrzowski sposób imituje miękkość naturalnego nappa, zapewniając jednocześnie trwałość i etyczność. Luźny krój (loose fit) w połączeniu z szerokimi nogawkami i otwartymi zaszewkami (pinces) tworzy dynamiczną, architektoniczną sylwetkę, podkreślającą pewność siebie i wysoki status właścicielki. Pas ze szlufkami oraz klasyczne zapięcie na zamek i guzik pozwalają tworzyć nienaganne zestawy w stylu „cichego luksusu”, czyniąc te spodnie kluczowym elementem wybiegowej stylizacji.",
+    "uk": "Брюки Oneta — це сміливе та сучасне прочитання міської елегантності від Luisa Spagnoli. Модель виконана з високоякісної екошкіри, яка віртуозно імітує м'якість натуральної наппи, забезпечуючи при цьому довговічність та етичність. Вільний крій (loose fit) у поєднанні з широкими штанинами та відкритими защипами (pinces) створює динамічний, архітектурний силует, що підкреслює впевненість та високий статус власниці. Пояс зі шльовками та класична застібка на блискавку і ґудзик дозволяють створювати бездоганні ансамблі в стилі «тихої розкоші», роблячи ці брюки ключовим елементом подіумного образу."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Look 17 (Urban Heritage)",
+        "en": "Look 17 (Urban Heritage)",
+        "ar": "Look 17 (Urban Heritage)",
+        "ka": "Look 17 (Urban Heritage)",
+        "hy": "Look 17 (Urban Heritage)",
+        "lv": "Look 17 (Urban Heritage)",
+        "lt": "Look 17 (Urban Heritage)",
+        "pl": "Look 17 (Urban Heritage)",
+        "uk": "Look 17 (Urban Heritage)"
+      },
+      "text": {
+        "ru": "Роскошный многослойный образ в черных тонах — брюки Oneta 0101 дополнены пальто Stenografo 0101, жакетом Menola 2246 ( Данные об URL отсутствуют в официальных источниках), пуловером Manos F 2246 и сумкой Iago 0101 0002.",
+        "en": "A luxurious layered look in black tones — trousers Oneta 0101 complemented by coat Stenografo 0101, jacket Menola 2246 ( URL data missing in official sources), pullover Manos F 2246 and bag Iago 0101 0002.",
+        "ar": "A luxurious layered look in black tones — trousers Oneta 0101 complemented by coat Stenografo 0101, jacket Menola 2246 ( URL data missing in official sources), pullover Manos F 2246 and bag Iago 0101 0002.",
+        "ka": "A luxurious layered look in black tones — trousers Oneta 0101 complemented by coat Stenografo 0101, jacket Menola 2246 ( URL data missing in official sources), pullover Manos F 2246 and bag Iago 0101 0002.",
+        "hy": "A luxurious layered look in black tones — trousers Oneta 0101 complemented by coat Stenografo 0101, jacket Menola 2246 ( URL data missing in official sources), pullover Manos F 2246 and bag Iago 0101 0002.",
+        "lv": "A luxurious layered look in black tones — trousers Oneta 0101 complemented by coat Stenografo 0101, jacket Menola 2246 ( URL data missing in official sources), pullover Manos F 2246 and bag Iago 0101 0002.",
+        "lt": "A luxurious layered look in black tones — trousers Oneta 0101 complemented by coat Stenografo 0101, jacket Menola 2246 ( URL data missing in official sources), pullover Manos F 2246 and bag Iago 0101 0002.",
+        "pl": "A luxurious layered look in black tones — trousers Oneta 0101 complemented by coat Stenografo 0101, jacket Menola 2246 ( URL data missing in official sources), pullover Manos F 2246 and bag Iago 0101 0002.",
+        "uk": "A luxurious layered look in black tones — trousers Oneta 0101 complemented by coat Stenografo 0101, jacket Menola 2246 ( URL data missing in official sources), pullover Manos F 2246 and bag Iago 0101 0002."
+      },
+      "items": [
+        {
+          "name": "Oneta",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg"
+        },
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Menola",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1815204296691f1575c6b463_06852164_02790420XX1.jpg",
+          "modelId": 441
+        },
+        {
+          "name": "Manos F",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/62874749691c57928c68a3_59975180_02790240XX1.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1EgYMmsHR8CKCf21XFRf_w_1188776956696f421ee36d12_22232479_02800640XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 19 (Sophisticated Contrast)",
+        "en": "Look 19 (Sophisticated Contrast)",
+        "ar": "Look 19 (Sophisticated Contrast)",
+        "ka": "Look 19 (Sophisticated Contrast)",
+        "hy": "Look 19 (Sophisticated Contrast)",
+        "lv": "Look 19 (Sophisticated Contrast)",
+        "lt": "Look 19 (Sophisticated Contrast)",
+        "pl": "Look 19 (Sophisticated Contrast)",
+        "uk": "Look 19 (Sophisticated Contrast)"
+      },
+      "text": {
+        "ru": "Элегантный зимний ансамбль — Oneta 0101 в сочетании с жакетом Madira 2435, пуловером Manos 2435 и кепкой Rotterdam 2439.",
+        "en": "An elegant winter ensemble — Oneta 0101 combined with jacket Madira 2435, pullover Manos 2435 and cap Rotterdam 2439.",
+        "ar": "An elegant winter ensemble — Oneta 0101 combined with jacket Madira 2435, pullover Manos 2435 and cap Rotterdam 2439.",
+        "ka": "An elegant winter ensemble — Oneta 0101 combined with jacket Madira 2435, pullover Manos 2435 and cap Rotterdam 2439.",
+        "hy": "An elegant winter ensemble — Oneta 0101 combined with jacket Madira 2435, pullover Manos 2435 and cap Rotterdam 2439.",
+        "lv": "An elegant winter ensemble — Oneta 0101 combined with jacket Madira 2435, pullover Manos 2435 and cap Rotterdam 2439.",
+        "lt": "An elegant winter ensemble — Oneta 0101 combined with jacket Madira 2435, pullover Manos 2435 and cap Rotterdam 2439.",
+        "pl": "An elegant winter ensemble — Oneta 0101 combined with jacket Madira 2435, pullover Manos 2435 and cap Rotterdam 2439.",
+        "uk": "An elegant winter ensemble — Oneta 0101 combined with jacket Madira 2435, pullover Manos 2435 and cap Rotterdam 2439."
+      },
+      "items": [
+        {
+          "name": "Oneta",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg"
+        },
+        {
+          "name": "Madira",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/696491514691f1570375713_09110086_02790160XX1.jpg",
+          "modelId": 430
+        },
+        {
+          "name": "Manos",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+        },
+        {
+          "name": "Rotterdam",
+          "code": "2439",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b4568a5d-6591-432e-a116-f6e5247f5b6f.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 109 (Business Luxury)",
+        "en": "Look 109 (Business Luxury)",
+        "ar": "Look 109 (Business Luxury)",
+        "ka": "Look 109 (Business Luxury)",
+        "hy": "Look 109 (Business Luxury)",
+        "lv": "Look 109 (Business Luxury)",
+        "lt": "Look 109 (Business Luxury)",
+        "pl": "Look 109 (Business Luxury)",
+        "uk": "Look 109 (Business Luxury)"
+      },
+      "text": {
+        "ru": "Безупречный дневной образ — Oneta 0101 в паре с жакетом Modici 0101, рубашкой Lucinda 0201 и сумкой Idilliaco 0101 0002.",
+        "en": "A flawless daytime look — Oneta 0101 paired with jacket Modici 0101, shirt Lucinda 0201 and bag Idilliaco 0101 0002.",
+        "ar": "A flawless daytime look — Oneta 0101 paired with jacket Modici 0101, shirt Lucinda 0201 and bag Idilliaco 0101 0002.",
+        "ka": "A flawless daytime look — Oneta 0101 paired with jacket Modici 0101, shirt Lucinda 0201 and bag Idilliaco 0101 0002.",
+        "hy": "A flawless daytime look — Oneta 0101 paired with jacket Modici 0101, shirt Lucinda 0201 and bag Idilliaco 0101 0002.",
+        "lv": "A flawless daytime look — Oneta 0101 paired with jacket Modici 0101, shirt Lucinda 0201 and bag Idilliaco 0101 0002.",
+        "lt": "A flawless daytime look — Oneta 0101 paired with jacket Modici 0101, shirt Lucinda 0201 and bag Idilliaco 0101 0002.",
+        "pl": "A flawless daytime look — Oneta 0101 paired with jacket Modici 0101, shirt Lucinda 0201 and bag Idilliaco 0101 0002.",
+        "uk": "A flawless daytime look — Oneta 0101 paired with jacket Modici 0101, shirt Lucinda 0201 and bag Idilliaco 0101 0002."
+      },
+      "items": [
+        {
+          "name": "Oneta",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg"
+        },
+        {
+          "name": "Modici",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tvlH-u8bSsGWHc50goiuVw_626527006696f436e7af525_91890335_02830860XX1.jpg",
+          "modelId": 185
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Idilliaco",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_10100020000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the distinctive fabric composition: 30% lyocell makes the denim remarkably soft and supple, guaranteeing a flawless fit for wide-leg trousers without unwanted stiffness.",
+      "Recommend accentuating the waistline by tucking in knitwear or blouses: this highlights the decorative pleats and coin pocket, creating a feminine silhouette.",
+      "Emphasise the versatility of the piece: thanks to the deep Blu Scuro 1262 shade, the Ontani trousers adapt effortlessly from sporty chic with the Sportivo jacket to an elegant Heritage look with the Cremina jacket."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на актуальности материала: экокожа — это ключевой тренд сезона, который добавляет современную ноту в классический гардероб и отличается исключительной практичностью.",
+      "Подчеркните преимущества кроя 'loose fit' с открытыми защипами: такая конструкция обеспечивает свободу движений и формирует модный объем, который визуально стройнит талию.",
+      "Рекомендуйте стилизовать брюки Oneta с обувью на каблуке или платформе, например, ботильонами Urbana, чтобы максимально удлинить силуэт и сбалансировать ширину штанин."
+    ],
+    "ar": [
+      "ركزي انتباه العميل على عصرية الخامة: فالجلد الصناعي (إيكو ليذر) هو صيحة الموسم الأساسية التي تضفي لمسة عصرية على الملابس الكلاسيكية وتتميز بعملية استثنائية.",
+      "أبرزي مزايا قصة 'loose fit' مع الكسرات المفتوحة: تمنح هذه القصة حرية في الحركة وتخلق حجماً عصرياً ينحف الخصر بصرياً.",
+      "يُنصح بتنسيق سراويل Oneta مع أحذية ذات كعب أو منصة (بلاتفورم)، مثل بوتات Urbana، لإطالة القامة وتوازن عرض الساقين."
+    ],
+    "ka": [
+      "აქცენტი გააკეთეთ კლიენტის ყურადღება მასალის აქტუალობაზე: ეკოტყავი — ეს არის სეზონის მთავარი ტრენდი, რომელიც თანამედროვე ნოტს მატებს კლასიკურ გარდერობს და გამოირჩევა განსაკუთრებული პრაქტიკულობით.",
+      "ხაზი გაუსვით 'loose fit'-ის უპირატესობებს ღია ნაკეცებით: ასეთი კონსტრუქცია უზრუნველყოფს მოძრაობის თავისუფლებას და ქმნის მოდურ მოცულობას, რომელიც ვიზუალურად აწვრილებს წელს.",
+      "რეკომენდაცია გაუწიეთ Oneta-ს შარვლის სტილიზებას ქუსლიან ან პლატფორმიან ფეხსაცმელთან, მაგალითად, Urbana-ს ბოტილიონებთან, რათა მაქსიმალურად გაიგრძელოთ სილუეტი და დააბალანსოთ შარვლის ტოტების სიგანე."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը կենտրոնացրեք նյութի արդիականության վրա. էկո-կաշին սեզոնի գլխավոր թրենդն է, որը դասական զգեստապահարանին հաղորդում է ժամանակակից շունչ և առանձնանում է բացառիկ գործնականությամբ։",
+      "Ընդգծեք 'loose fit' ձևվածքի առավելությունները՝ բաց ծալքերով. նման կառուցվածքը ապահովում է շարժման ազատություն և ստեղծում նորաձև ծավալ, որը տեսողականորեն նեղացնում է իրանը։",
+      "Oneta տաբատները խորհուրդ տվեք համադրել բարձրակրունկ կամ պլատֆորմով կոշիկների հետ, օրինակ՝ Urbana կիսաճտքավոր կոշիկների հետ, որպեսզի առավելագույնս երկարացնեք սիլուետը և հավասարակշռեք տաբատի փողքերի լայնությունը։"
+    ],
+    "lv": [
+      "Akcentējiet klienta uzmanību uz materiāla aktualitāti: ekoāda — tas ir sezonas galvenais trends, kas piešķir modernu noti klasiskai garderobei un izceļas ar izcilu praktiskumu.",
+      "Uzsveriet 'loose fit' piegriezuma priekšrocības ar atvērtām ielocēm: šāda konstrukcija nodrošina kustību brīvību un veido modernu apjomu, kas vizuāli slaidina vidukli.",
+      "Iesakiet stilizēt Oneta bikses ar apaviem uz papēža vai platformas, piemēram, Urbana potīšzābakiem, lai maksimāli pagarinātu siluetu un līdzsvarotu staru platumu."
+    ],
+    "lt": [
+      "Akcentuokite kliento dėmesį į audinio aktualumą: eko oda – tai pagrindinė sezono tendencija, kuri suteikia modernumo klasikiniam garderobui ir pasižymi išskirtiniu praktiškumu.",
+      "Pabrėžkite 'loose fit' kirpimo su atviromis klostėmis privalumus: tokia konstrukcija suteikia judėjimo laisvę ir suformuoja madingą tūrį, kuris vizualiai lieknina liemenį.",
+      "Rekomenduokite derinti Oneta kelnes su avalyne aukštesniu kulnu ar platforma, pavyzdžiui, aulinukais Urbana, kad maksimaliai pailgintumėte siluetą ir subalansuotumėte klešnių plotį."
+    ],
+    "pl": [
+      "Akcentuj uwagę klienta na aktualności materiału: ekoskóra to kluczowy trend sezonu, który dodaje nowoczesną nutę do klasycznej garderoby i wyróżnia się wyjątkową praktycznością.",
+      "Podkreśl zalety kroju 'loose fit' z otwartymi zaszewkami: taka konstrukcja zapewnia swobodę ruchów i tworzy modną objętość, która optycznie wyszczupla talię.",
+      "Rekomenduj stylizowanie spodni Oneta z obuwiem na obcasie lub platformie, na przykład botkami Urbana, aby maksymalnie wydłużyć sylwetkę i zrównoważyć szerokość nogawek."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на актуальності матеріалу: екошкіра — це ключовий тренд сезону, який додає сучасну ноту в класичний гардероб і вирізняється винятковою практичністю.",
+      "Підкресліть переваги крою 'loose fit' з відкритими защипами: така конструкція забезпечує свободу рухів і формує модний об'єм, який візуально робить талію стрункішою.",
+      "Рекомендуйте стилізувати штани Oneta з взуттям на підборах або платформі, наприклад, ботильйонами Urbana, щоб максимально подовжити силует і збалансувати ширину штанин."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Eco-leather may be uncomfortable for extended indoor wear.",
+        "a": "Reassure the client of the premium quality of the composition (50% polyester, 50% polyurethane). The material was developed specifically for Luisa Spagnoli: it has the necessary softness and an interior finish that feels pleasant against the skin and prevents discomfort."
+      },
+      {
+        "q": "A relaxed cut may visually add volume to the hips.",
+        "a": "Clarify that it is precisely the pinces and the high waist that create the correct vertical lines. Paired with a fitted jacket or a tucked-in shirt, the trousers, on the contrary, create a striking, feminine hourglass silhouette."
+      },
+      {
+        "q": "Faux leather requires demanding, specialised care.",
+        "a": "On the contrary, emphasise the practicality: unlike natural leather, this style is more resistant to moisture. Only delicate professional cleaning is needed to preserve its structure and shine."
+      },
+      {
+        "q": "Black Nero 0101 leather looks too severe.",
+        "a": "Demonstrate the possibilities of 'soft-luxury' styling: pair the trousers with soft Manos knitwear or cashmere to soften the leather's texture and create a refined, casual look."
+      },
+      {
+        "q": "The trousers may quickly lose their shape and stretch out at the knees.",
+        "a": "Point out the high density and resilience of the fabric. The technical polyester base guarantees the Oneta trousers will retain the intended volume of the leg and crisp lines throughout the season."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Экокожа может быть некомфортной для длительной носки в помещении",
+        "a": "Заверьте клиента в премиальном качестве состава (50% полиэстер, 50% полиуретан). Материал разработан специально для Luisa Spagnoli: он обладает необходимой мягкостью и внутренней отделкой, которая приятна к телу и предотвращает дискомфорт."
+      },
+      {
+        "q": "Свободный крой может визуально добавлять объем бедрам",
+        "a": "Поясните, что именно защипы (pinces) и высокая посадка создают правильные вертикальные линии. В сочетании с приталенным жакетом или заправленной рубашкой брюки, напротив, создают эффектный женственный силуэт «песочные часы»."
+      },
+      {
+        "q": "Искусственная кожа требует сложного специфического ухода",
+        "a": "Напротив, подчеркните практичность: в отличие от натуральной кожи, эта модель более устойчива к влаге. Для сохранения структуры и блеска рекомендуется лишь деликатная профессиональная чистка."
+      },
+      {
+        "q": "Черный цвет Nero 0101 в коже выглядит слишком агрессивно",
+        "a": "Продемонстрируйте возможности 'soft-luxury' стайлинга: сочетайте брюки с мягким трикотажем Manos или кашемиром, чтобы смягчить фактуру кожи и создать благородный повседневный образ."
+      },
+      {
+        "q": "Брюки могут быстро потерять форму и вытянуться на коленях",
+        "a": "Укажите на высокую плотность и упругость полотна. Технологичная основа из полиэстера гарантирует, что брюки Oneta будут сохранять заданный объем штанин и четкость линий на протяжении всего сезона."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الجلد الصناعي قد يكون غير مريح للارتداء الطويل في الأماكن المغلقة",
+        "a": "أكدي للعميلة على الجودة الممتازة للتركيبة (50% بوليستر، 50% بولي يوريثان)، حيث تم تطوير المادة خصيصاً لـ Luisa Spagnoli لتتمتع بالنعومة اللازمة والبطانة الداخلية المريحة للجسم التي تمنع أي إزعاج."
+      },
+      {
+        "q": "القصة الواسعة قد تزيد من حجم الوركين بصرياً",
+        "a": "وضحي أن الثنيات (pinces) والخصر العالي هما ما يخلقان الخطوط الطولية الصحيحة، وبالتنسيق مع سترة ضيقة أو قميص مدسوس، يمنح السروال بدلاً من ذلك شكلاً أنثوياً جذاباً يشبه «الساعة الرملية»."
+      },
+      {
+        "q": "الجلد الصناعي يتطلب عناية خاصة ومعقدة",
+        "a": "على العكس، أكدي على الطابع العملي، فبخلاف الجلد الطبيعي، هذا الموديل أكثر مقاومة للرطوبة، ولا يتطلب سوى تنظيف احترافي دقيق للحفاظ على بنيته وبريقه."
+      },
+      {
+        "q": "لون Nero 0101 في الجلد يبدو عدوانياً جداً",
+        "a": "استعرضي إمكانيات تنسيق 'soft-luxury'، حيث يمكنك دمج السروال مع قطع التريكو الناعمة Manos أو الكشمير لتخفيف حدة ملمس الجلد وخلق إطلالة يومية راقية."
+      },
+      {
+        "q": "السروال قد يفقد شكله بسرعة ويتمدد عند الركبتين",
+        "a": "أشيري إلى الكثافة العالية ومرونة القماش، فالأساس التكنولوجي من البوليستر يضمن أن سروال Oneta سيحافظ على حجم الأرجل ووضوح الخطوط طوال الموسم."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ეკო-ტყავი შესაძლოა არაკომფორტული იყოს შენობაში ხანგრძლივი ტარებისთვის",
+        "a": "დაარწმუნეთ კლიენტი შემადგენლობის პრემიალურ ხარისხში (50% პოლიესტერი, 50% პოლიურეთანი). მასალა სპეციალურად Luisa Spagnoli-სთვის არის შემუშავებული: ის ფლობს საჭირო სირბილეს და შიდა დამუშავებას, რომელიც სასიამოვნოა სხეულისთვის და ხელს უშლის დისკომფორტს."
+      },
+      {
+        "q": "თავისუფალი ჭრა შესაძლოა ვიზუალურად მატებდეს მოცულობას თეძოებზე",
+        "a": "განმარტეთ, რომ სწორედ ნაოჭები (pinces) და მაღალი წელი ქმნის სწორ ვერტიკალურ ხაზებს. მოტმასნილ პიჯაკთან ან შიგნით შეკეცილ პერანგთან ერთად, შარვალი, პირიქით, ქმნის ეფექტურ ქალურ სილუეტს „ქვიშის საათი“."
+      },
+      {
+        "q": "ხელოვნური ტყავი მოითხოვს რთულ და სპეციფიკურ მოვლას",
+        "a": "პირიქით, ხაზი გაუსვით პრაქტიკულობას: ნამდვილი ტყავისგან განსხვავებით, ეს მოდელი უფრო მდგრადია ნესტის მიმართ. სტრუქტურისა და ბზინვარების შესანარჩუნებლად რეკომენდებულია მხოლოდ დელიკატური პროფესიონალური წმენდა."
+      },
+      {
+        "q": "შავი Nero 0101 ფერი ტყავში შესაძლოა ზედმეტად აგრესიულად გამოიყურებოდეს",
+        "a": "აჩვენეთ 'soft-luxury' სტილის შესაძლებლობები: შეუხამეთ შარვალი Manos-ის რბილ ტრიკოტაჟს ან ქაშმირს, რათა დაარბილოთ ტყავის ფაქტურა და შექმნათ კეთილშობილური ყოველდღიური იმიჯი."
+      },
+      {
+        "q": "შარვალმა შესაძლოა სწრაფად დაკარგოს ფორმა და გაიწელოს მუხლებში",
+        "a": "მიუთითეთ ქსოვილის მაღალ სიმკვრივესა და ელასტიურობაზე. პოლიესტერის ტექნოლოგიური ბაზა გარანტიას იძლევა, რომ Oneta-ს შარვალი შეინარჩუნებს შარვლის ტოტების მოცულობასა და ხაზების სიცხადეს მთელი სეზონის განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Էկոկաշին կարող է անհարմար լինել տարածքում երկար ժամանակ կրելու համար",
+        "a": "Վստահեցրեք հաճախորդին բաղադրության պրեմիում որակի մասին (50% պոլիեսթեր, 50% պոլիուրեթան): Նյութը մշակվել է հատուկ Luisa Spagnoli-ի համար. այն ունի անհրաժեշտ փափկություն և ներքին երեսպատում, որը հաճելի է մարմնին և կանխում է անհարմարությունը"
+      },
+      {
+        "q": "Ազատ կտրվածքը կարող է վիզուալ ծավալ ավելացնել ազդրերին",
+        "a": "Պարզաբանեք, որ հենց ներծալվածքները (pinces) և բարձր գոտկատեղն են ստեղծում ճիշտ ուղղահայաց գծեր: Իրանը ընդգծող բաճկոնի կամ ներս մտցրած վերնաշապիկի հետ համադրությամբ տաբատը, ընդհակառակը, ստեղծում է տպավորիչ կանացի «ավազե ժամացույց» ուրվագիծ"
+      },
+      {
+        "q": "Արհեստական կաշին պահանջում է բարդ հատուկ խնամք",
+        "a": "Ընդհակառակը, ընդգծեք գործնականությունը. ի տարբերություն բնական կաշվի, այս մոդելն ավելի դիմացկուն է խոնավության նկատմամբ: Կառուցվածքն ու փայլը պահպանելու համար խորհուրդ է տրվում միայն նուրբ պրոֆեսիոնալ մաքրում"
+      },
+      {
+        "q": "Nero 0101 սև գույնը կաշվի մեջ չափազանց ագրեսիվ է թվում",
+        "a": "Ցույց տվեք 'soft-luxury' ոճավորման հնարավորությունները. համադրեք տաբատը Manos փափուկ տրիկոտաժի կամ քաշմիրի հետ՝ կաշվի հյուսվածքը մեղմելու և ազնվական առօրյա կերպար ստեղծելու համար"
+      },
+      {
+        "q": "Տաբատը կարող է արագ կորցնել ձևը և ձգվել ծնկների հատվածում",
+        "a": "Մատնանշեք կտորի բարձր խտությունն ու առաձգականությունը: Պոլիեսթերի տեխնոլոգիական հիմքը երաշխավորում է, որ Oneta տաբատը կպահպանի տաբատի փողքերի տրված ծավալը և գծերի հստակությունը ամբողջ սեզոնի ընթացքում"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Eko-āda var būt neērta ilgstošai valkāšanai telpās",
+        "a": "Aplieciniet klientam sastāva premium kvalitāti (50% poliesters, 50% poliuretāns). Materiāls ir izstrādāts speciāli Luisa Spagnoli: tam piemīt nepieciešamais maigums un iekšējā apdare, kas ir patīkama ķermenim un novērš diskomfortu."
+      },
+      {
+        "q": "Brīvais piegriezums var vizuāli pievienot apjomu gurniem",
+        "a": "Paskaidrojiet, ka tieši ieloces (pinces) un augstā jostasvieta veido pareizās vertikālās līnijas. Kombinācijā ar pieguļošu žaketi vai iekšā ieliktu kreklu bikses, tieši pretēji, rada efektīvu sievišķīgu «smilšu pulksteņa» siluetu."
+      },
+      {
+        "q": "Mākslīgā āda prasa sarežģītu specifisku kopšanu",
+        "a": "Gluži pretēji, uzsveriet praktiskumu: atšķirībā no dabīgās ādas, šis modelis ir izturīgāks pret mitrumu. Struktūras un spīduma saglabāšanai ieteicama tikai delikāta profesionālā tīrīšana."
+      },
+      {
+        "q": "Melnā krāsa Nero 0101 ādā izskatās pārāk agresīvi",
+        "a": "Demonstrējiet 'soft-luxury' stila iespējas: kombinējiet bikses ar mīksto Manos trikotāžu vai kašmiru, lai mīkstinātu ādas faktūru un radītu cēlu ikdienas tēlu."
+      },
+      {
+        "q": "Bikses var ātri zaudēt formu un izstaipīties ceļgalos",
+        "a": "Norādiet uz auduma augsto blīvumu un elastību. Tehnoloģiskā poliestera pamatne garantē, ka Oneta bikses saglabās noteikto staru apjomu un līniju skaidrību visas sezonas garumā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Dirbtinė oda gali būti nepatogi ilgai dėvint patalpose",
+        "a": "Patikinkite klientę dėl aukščiausios sudėties kokybės (50 % poliesteris, 50 % poliuretanas). Medžiaga sukurta specialiai Luisa Spagnoli: ji pasižymi būtinu minkštumu ir vidiniu paviršiumi, kuris yra malonus kūnui ir apsaugo nuo diskomforto."
+      },
+      {
+        "q": "Laisvas kirpimas gali vizualiai pridėti apimties klubams",
+        "a": "Paaiškinkite, kad būtent klostės (pinces) ir aukštas liemuo sukuria taisyklingas vertikalias linijas. Derinant su liemenuotu švarku ar įkištais marškiniais, kelnės, priešingai, sukuria efektingą moterišką „smėlio laikrodžio“ siluetą."
+      },
+      {
+        "q": "Dirbtinei odai reikalinga sudėtinga specifinė priežiūra",
+        "a": "Priešingai, pabrėžkite praktiškumą: skirtingai nei natūrali oda, šis modelis yra atsparesnis drėgmei. Norint išsaugoti struktūrą ir blizgesį, rekomenduojamas tik delikatus profesionalus valymas."
+      },
+      {
+        "q": "Juoda Nero 0101 spalva odoje atrodo per daug agresyviai",
+        "a": "Pademonstruokite 'soft-luxury' stiliaus galimybes: derinkite kelnes su minkštu Manos trikotažu ar kašmyru, kad sušvelnintumėte odos faktūrą ir sukurtumėte kilnų kasdienį įvaizdį."
+      },
+      {
+        "q": "Kelnės gali greitai prarasti formą ir išsitempti ties keliais",
+        "a": "Atkreipkite dėmesį į didelį audinio tankį ir tamprumą. Technologinis poliesterio pagrindas garantuoja, kad Oneta kelnės išlaikys nustatytą klešnių apimtį ir linijų aiškumą viso sezono metu."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Eko-skóra może być niekomfortowa w długotrwałym noszeniu w pomieszczeniach",
+        "a": "Zapewnij klientkę o najwyższej jakości składu (50% poliester, 50% poliuretan). Materiał został opracowany specjalnie dla Luisa Spagnoli: posiada niezbędną miękkość oraz wykończenie wewnętrzne, które jest przyjemne dla ciała i zapobiega dyskomfortowi."
+      },
+      {
+        "q": "Luźny krój może optycznie dodawać objętości biodrom",
+        "a": "Wyjaśnij, że to właśnie zaszewki (pinces) i wysoki stan tworzą odpowiednie linie pionowe. W połączeniu z dopasowanym żakietem lub wpuszczoną koszulą spodnie tworzą natomiast efektowną, kobiecą sylwetkę „klepsydry”."
+      },
+      {
+        "q": "Sztuczna skóra wymaga skomplikowanej, specjalistycznej pielęgnacji",
+        "a": "Wręcz przeciwnie, podkreśl praktyczność: w przeciwieństwie do skóry naturalnej, ten model jest bardziej odporny na wilgoć. Dla zachowania struktury i połysku zaleca się jedynie delikatne czyszczenie profesjonalne."
+      },
+      {
+        "q": "Czarny kolor Nero 0101 w skórze wygląda zbyt agresywnie",
+        "a": "Pokaż możliwości stylizacji typu 'soft-luxury': łącz spodnie z miękką dzianiną Manos lub kaszmirem, aby złagodzić fakturę skóry i stworzyć szlachetny codzienny wizerunek."
+      },
+      {
+        "q": "Spodnie mogą szybko stracić fason i wyciągnąć się na kolanach",
+        "a": "Wskaż na wysoką gęstość i sprężystość tkaniny. Technologiczna baza z poliestru gwarantuje, że spodnie Oneta będą zachowywać nadaną objętość nogawek oraz wyrazistość linii przez cały sezon."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Екошкіра може бути некомфортною для тривалого носіння в приміщенні",
+        "a": "Запевніть клієнта в преміальній якості складу (50% поліестер, 50% поліуретан). Матеріал розроблений спеціально для Luisa Spagnoli: він володіє необхідною м'якістю та внутрішньою обробкою, яка приємна до тіла і запобігає дискомфорту."
+      },
+      {
+        "q": "Вільний крій може візуально додавати об'єм стегнам",
+        "a": "Поясніть, що саме защипи (pinces) і висока посадка створюють правильні вертикальні лінії. У поєднанні з приталеним жакетом або заправленою сорочкою штани, навпаки, створюють ефектний жіночний силует «пісочний годинник»."
+      },
+      {
+        "q": "Штучна шкіра потребує складного специфічного догляду",
+        "a": "Навпаки, підкресліть практичність: на відміну від натуральної шкіри, ця модель більш стійка до вологи. Для збереження структури та блиску рекомендується лише делікатне професійне чищення."
+      },
+      {
+        "q": "Чорний колір Nero 0101 у шкірі виглядає занадто агресивно",
+        "a": "Продемонструйте можливості 'soft-luxury' стайлінгу: поєднуйте штани з м'яким трикотажем Manos або кашеміром, щоб пом'якшити фактуру шкіри та створити благородний повсякденний образ."
+      },
+      {
+        "q": "Штани можуть швидко втратити форму і витягнутися на колінах",
+        "a": "Вкажіть на високу щільність і пружність полотна. Технологічна основа з поліестеру гарантує, що штани Oneta будуть зберігати заданий об'єм штанин і чіткість ліній протягом усього сезону."
+      }
+    ]
+  }
+}

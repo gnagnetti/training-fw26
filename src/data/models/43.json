@@ -1,0 +1,317 @@
+{
+  "id": 43,
+  "name": "Felis",
+  "description": {
+    "en": "The Felis midi skirt by Luisa Spagnoli is the impeccable embodiment of aristocratic restraint and flawless Italian style. Cut in a classic pencil silhouette (tubino), the piece accentuates feminine lines while retaining a disciplined architectural cut. A noble herringbone pattern (spinato) in a deep burgundy hue lends the piece visual depth and textural luxury. Considered details, such as waist darts for a perfect fit and a double back vent, ensure exceptional comfort and freedom of movement, transforming this skirt into a foundational element of the 'quiet luxury' wardrobe.",
+    "ru": "Юбка-миди Felis от Luisa Spagnoli — это безупречное воплощение аристократичной сдержанности и безупречного итальянского стиля. Модель, выполненная в классическом силуэте «карандаш» (tubino), подчеркивает женственность линий, сохраняя при этом строгий архитектурный крой. Использование благородного узора «в елочку» (spinato) в глубоком бордовом оттенке придает изделию визуальную глубину и текстурную роскошь. Продуманные детали, такие как вытачки на талии для идеальной посадки и двойная шлица сзади, обеспечивают исключительный комфорт и свободу движений, превращая эту юбку в фундаментальный элемент гардероба в стиле «тихой роскоши».",
+    "ar": "تُجسّد تنورة \"فيليس\" (Felis) المتوسطة الطول (Midi) من علامة لويزا سبانيولي (Luisa Spagnoli) الجوهر الحقيقي للرزانة الأريستوقراطية والأناقة الإيطالية الخالصة. تأتي القطعة بالقَصّة المستقيمة الكلاسيكية (Tubino) لتُبرز أنوثة القوام ببراعة، مع الحفاظ على طابع معماري متقن. ويضفي نمط \"كسرة السنبلة\" (Spinato) النبيل باللون العنابي الداكن عمقاً بصرية وفخامة ملموسة على النسيج. كما تضمن التفاصيل المدروسة، كالعطفات المتقنة عند الخصر والفتحة الخلفية المزدوجة، ملاءمة مثالية وراحة استثنائية أثناء الحركة، لتغدو هذه التنورة ركيزة أساسية لخزانة ملابس تتألق بمفهوم \"الفخامة الهادئة\" (Quiet Luxury).",
+    "ka": "Luisa Spagnoli-ს მიდი ქვედაბოლო Felis არის არისტოკრატული თავშეკავებულობისა და იტალიური სტილის უნაკლო განსახიერება. კლასიკური „ფანქრის“ (tubino) სილუეტის მქონე მოდელი ხაზს უსვამს ხაზების ქალურობას და ინარჩუნებს მკაცრ არქიტექტურულ ჭრას. კეთილშობილური „ნაძვისებრი“ (spinato) ნიმუშის გამოყენება ღრმა ბორდოსფერ ტონში ნაკეთობას ვიზუალურ სიღრმესა და ტექსტურულ ფუფუნებას სძენს. გააზრებული დეტალები, როგორიცაა წელზე არსებული ჩახსნილები იდეალური მორგებისთვის და ორმაგი ჭრილი უკან, უზრუნველყოფს განსაკუთრებულ კომფორტსა და მოძრაობის თავისუფლებას, რაც ამ ქვედაბოლოს „ჩუმი ფუფუნების“ სტილის გარდერობის ფუნდამენტურ ელემენტად აქცევს.",
+    "hy": "Luisa Spagnoli-ի Felis միդի-կիսաշրջազգեստը ազնվական զսպվածության և իտալական անթերի ոճի կատարյալ մարմնացումն է։ «Մատիտ» (tubino) դասական ուրվագծով մոդելը ընդգծում է կանացի գծերը՝ պահպանելով խիստ ճարտարապետական ձևվածքը։ «Եղևնաձև» (spinato) ազնվական նախշի կիրառումը խորը բորդո գույնի մեջ հաղորդում է տեսողական խորություն և հյուսվածքային շքեղություն։ Մանրակրկիտ դետալները, ինչպիսիք են իրանի վրա կատարված տեգերը՝ կատարյալ տեսքի համար, և հետևի մասում առկա կրկնակի ճեղքը, ապահովում են բացառիկ հարմարավետություն և շարժման ազատություն՝ այս կիսաշրջազգեստը դարձնելով «լուռ շքեղություն» ոճի զգեստապահարանի հիմնարար տարր։",
+    "lv": "Midi svārki Felis no Luisa Spagnoli ir nevainojams aristokrātiskas atturības un izcila itāļu stila iemiesojums. Modelis, kas veidots klasiskā zīmuļsvārku (tubino) siluetā, izceļ līniju sievišķību, vienlaikus saglabājot stingru, arhitektonisku piegriezumu. Cēla „skujiņas” raksta (spinato) izmantošana dziļā bordo tonī piešķir izstrādājumam vizuālu dziļumu un teksturālu greznību. Pārdomātas detaļas, piemēram, iešuves jostasvietā ideālai piegulošai formai un dubultais šķēlums aizmugurē, nodrošina izcilu komfortu un kustību brīvību, padarot šos svārkus par fundamentālu „klusās greznības” stila garderobes elementu.",
+    "lt": "„Felis“ midi sijonas iš „Luisa Spagnoli“ – tai nepriekaištingas aristokratiško santūrumo ir tobulo itališko stiliaus įsikūnijimas. Klasikinio pieštuko („tubino“) silueto modelis pabrėžia linijų moteriškumą, išlaikydamas griežtą architektūrinį kirpimą. Kilnus eglutės raštas („spinato“) giliame bordo atspalvyje suteikia gaminiui vizualaus gylio ir tekstūrinės prabangos. Apgalvotos detalės, tokios kaip liemens įsiuvai tobulam prigludimui ir dvigubas skeltukas nugaroje, užtikrina išskirtinį komfortą ir judesių laisvę, paverčiant šį sijoną fundamentaliu „tylios prabangos“ stiliaus garderobo elementu.",
+    "pl": "Spódnica midi Felis od Luisa Spagnoli to nienaganna definicja arystokratycznej powściągliwości i doskonałego włoskiego stylu. Model, wykonany w klasycznej sylwetce „ołówek” (tubino), podkreśla kobiecość linii, zachowując jednocześnie surowy, architektoniczny krój. Zastosowanie szlachetnego wzoru „w jodełkę” (spinato) w głębokim bordowym odcieniu nadaje produktowi wizualną głębię i teksturalny luksus. Przemyślane detale, takie jak zaszewki w talii dla idealnego dopasowania i podwójne rozcięcie z tyłu, zapewniają wyjątkowy komfort i swobodę ruchów, czyniąc tę spódnicę fundamentalnym elementem garderoby w stylu „cichego luksusu”.",
+    "uk": "Спідниця-міді Felis від Luisa Spagnoli — це бездоганне втілення аристократичної стриманості та бездоганного італійського стилю. Модель, виконана у класичному силуеті «олівець» (tubino), підкреслює жіночність ліній, зберігаючи при цьому суворий архітектурний крій. Використання благородного візерунка «в ялинку» (spinato) у глибокому бордовому відтінку додає виробу візуальної глибини та текстурної розкоші. Продумані деталі, такі як виточки на талії для ідеальної посадки та подвійна шліца ззаду, забезпечують винятковий комфорт і свободу рухів, перетворюючи цю спідницю на фундаментальний елемент гардероба в стилі «тихої розкоші»."
+  },
+  "colors": [
+    {
+      "name": "Var Spinato Bordeaux",
+      "code": "3417",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b1f20d8b-e87b-4fbc-9079-4eee44769e32.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 35",
+        "en": "Total Look 35",
+        "ar": "Total Look 35",
+        "ka": "Total Look 35",
+        "hy": "Total Look 35",
+        "lv": "Total Look 35",
+        "lt": "Total Look 35",
+        "pl": "Total Look 35",
+        "uk": "Total Look 35"
+      },
+      "text": {
+        "ru": "Сочетание юбки Felis 3417 с жакетом Seduta 3417 и пуловером Manos F 2435.",
+        "en": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "ar": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "ka": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "hy": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "lv": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "lt": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "pl": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "uk": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover."
+      },
+      "items": [
+        {
+          "name": "Felis",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b1f20d8b-e87b-4fbc-9079-4eee44769e32.jpg"
+        },
+        {
+          "name": "Seduta",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bepctPXfSIK7vqF5pwZQkQ_283102043696f42f4b2c696_85048935_02820950XX1.jpg"
+        },
+        {
+          "name": "Manos F",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 35",
+        "en": "Total Look 35",
+        "ar": "Total Look 35",
+        "ka": "Total Look 35",
+        "hy": "Total Look 35",
+        "lv": "Total Look 35",
+        "lt": "Total Look 35",
+        "pl": "Total Look 35",
+        "uk": "Total Look 35"
+      },
+      "text": {
+        "ru": "Сочетание юбки Felis 3417 с жакетом Seduta 3417 и пуловером Manos F 2435.",
+        "en": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "ar": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "ka": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "hy": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "lv": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "lt": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "pl": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover.",
+        "uk": "Combination of Felis 3417 skirt with Seduta 3417 jacket and Manos F 2435 pullover."
+      },
+      "items": [
+        {
+          "name": "Felis",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b1f20d8b-e87b-4fbc-9079-4eee44769e32.jpg"
+        },
+        {
+          "name": "Seduta",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bepctPXfSIK7vqF5pwZQkQ_283102043696f42f4b2c696_85048935_02820950XX1.jpg"
+        },
+        {
+          "name": "Manos F",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the herringbone (spinato) pattern — an enduring classic of Italian tailoring that lends the look depth and a sophisticated complexity.",
+      "Recommend Felis as the foundation of a professional wardrobe: the burgundy hue paired with the pencil silhouette reads as professional while remaining remarkably feminine.",
+      "Highlight the craftsmanship of the cut: the double back vent is not only a hallmark of superior quality but also ensures a flawless fit with every movement."
+    ],
+    "ru": [
+      "Делайте акцент на узоре «spinato» (елочка) — это неувядающая классика итальянского портновского искусства, которая придает образу глубину и статусную сложность.",
+      "Рекомендуйте Felis как основу делового гардероба: цвет бордо в сочетании с силуэтом «карандаш» выглядит профессионально и в то же время невероятно женственно.",
+      "Подчеркните мастерство кроя: двойная шлица сзади не только является признаком высокого качества изделия, но и гарантирует безупречную посадку при любом движении."
+    ],
+    "ar": [
+      "ركزي على نمط «spinato» (عظمة السمكة) — فهو كلاسيكية خالدة لفن الخياطة الإيطالية، تضفي على الإطلالة عمقاً وتعقيداً راقياً.",
+      "نوصي بـ Felis كأساس لخزانة ملابس العمل: فاللون العنابي مع قصة «القلم» يبدو احترافياً وفي الوقت نفسه أنثوياً للغاية.",
+      "أكدي على مهارة القص: فوجود فتحة مزدوجة من الخلف ليس فقط علامة على جودة القطعة العالية، بل يضمن أيضاً مقاساً مثالياً مع كل حركة."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება „spinato“-ს (ნაძვისებრი) ორნამენტზე — ეს არის იტალიური სამკერვალო ხელოვნების მარადიული კლასიკა, რომელიც იერსახეს სიღრმესა და დახვეწილობას ანიჭებს.",
+      "რეკომენდაცია გაუწიეთ Felis-ს, როგორც საქმიანი გარდერობის საფუძველს: ბორდოსფერი ფერი „ფანქარი“ სილუეტთან ერთად გამოიყურება პროფესიონალურად და ამავდროულად საოცრად ქალურად.",
+      "ხაზი გაუსვით ჭრის ოსტატობას: უკანა მხარეს ორმაგი ჭრილი არა მხოლოდ ნაკეთობის მაღალი ხარისხის ნიშანია, არამედ გარანტია იმისა, რომ იგი უნაკლოდ მოერგება სხეულს ნებისმიერი მოძრაობისას."
+    ],
+    "hy": [
+      "Շեշտադրեք «spinato» (եղևնաձև) նախշը՝ սա իտալական դերձակագործության անանցանելի դասականն է, որը կերպարին հաղորդում է խորություն և կարգավիճակային բարդություն։",
+      "Խորհուրդ տվեք Felis-ը որպես գործնական զգեստապահարանի հիմք. բորդո գույնը «մատիտ» սիլուետի հետ համադրությամբ պրոֆեսիոնալ է թվում և միաժամանակ անչափ կանացի։",
+      "Ընդգծեք ձևվածքի վարպետությունը. հետևի մասում կրկնակի ճեղքվածքը ոչ միայն արտադրանքի բարձր որակի նշան է, այլև երաշխավորում է անթերի տեսք ցանկացած շարժման դեպքում։"
+    ],
+    "lv": [
+      "Izceliet «spinato» (skujiņraksta) rakstu — tā ir itāļu drēbniecības mākslas nezūdošā klasika, kas tēlam piešķir dziļumu un statusu apliecinošu izsmalcinātību.",
+      "Iesakiet Felis kā lietišķās garderobes pamatu: bordo krāsa apvienojumā ar zīmuļsvārku siluetu izskatās profesionāli un vienlaikus neticami sievišķīgi.",
+      "Uzsveriet piegriezuma meistarību: dubultais šķēlums aizmugurē ir ne tikai augstas kvalitātes apliecinājums, bet arī garantē nevainojamu piegulumu jebkurā kustībā."
+    ],
+    "lt": [
+      "Pabrėžkite „spinato“ (silkės rašto) motyvą – tai nesenstanti italų siuvimo meno klasika, suteikianti įvaizdžiui gylio ir prabangaus sudėtingumo.",
+      "Rekomenduokite Felis kaip dalykinės garderobo kapsulės pagrindą: bordo spalva derinyje su „pieštuko“ siluetu atrodo profesionaliai ir kartu neįtikėtinai moteriškai.",
+      "Pabrėžkite kirpimo meistriškumą: dvigubas skeltukas nugaroje ne tik liudija aukštą gaminio kokybę, bet ir užtikrina nepriekaištingą prigludimą bet kokio judesio metu."
+    ],
+    "pl": [
+      "Kładź nacisk na wzór «spinato» (jodełka) — to ponadczasowa klasyka włoskiego krawiectwa, która nadaje stylizacji głębi i prestiżowej wyrafinowania.",
+      "Rekomenduj Felis jako fundament biznesowej garderoby: kolor bordowy w połączeniu z fasonem «ołówek» wygląda profesjonalnie, a zarazem niezwykle kobieco.",
+      "Podkreśl kunszt kroju: podwójny rozporek z tyłu nie tylko świadczy o wysokiej jakości wykonania, ale również gwarantuje nienaganne dopasowanie podczas każdego ruchu."
+    ],
+    "uk": [
+      "Робіть акцент на візерунку «spinato» (ялинка) — це нев'януча класика італійського кравецького мистецтва, яка надає образу глибини та статусної складності.",
+      "Рекомендуйте Felis як основу ділового гардероба: колір бордо у поєднанні з силуетом «олівець» виглядає професійно і водночас неймовірно жіночно.",
+      "Підкресліть майстерність крою: подвійна шліца ззаду не тільки є ознакою високої якості виробу, а й гарантує бездоганну посадку при будь-якому русі."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The composition includes polyester and polyamide.",
+        "a": "It is precisely the presence of high-technology fibres (40% polyester and 10% polyamide) that allows the skirt to retain its architectural shape, resist deformation, and significantly improve durability with daily wear."
+      },
+      {
+        "q": "The skirt seems too formal for everyday occasions.",
+        "a": "Style the Felis piece with a soft, contrasting knit, such as the Manos F 2435 pullover, to balance the structured cut and create a contemporary 'Luxury Casual' look."
+      },
+      {
+        "q": "A herringbone pattern may add years to the look.",
+        "a": "In this piece, the pattern is rendered in a fashionable burgundy tone, elevating it from retro territory into the realm of contemporary 'old money' classicism, conveying a sense of high social standing."
+      },
+      {
+        "q": "Concern about the care required for wool-blend fabric.",
+        "a": "To preserve the fabric's original texture and the precision of the cut, we recommend exclusively professional dry cleaning, ensuring the garment's longevity across many seasons."
+      }
+    ],
+    "ru": [
+      {
+        "q": "В составе присутствуют полиэстер и полиамид.",
+        "a": "Именно наличие высокотехнологичных волокон (40% полиэстера и 10% полиамида) позволяет юбке сохранять свою архитектурную форму, препятствует деформации и значительно повышает износостойкость при ежедневной носке."
+      },
+      {
+        "q": "Юбка кажется слишком официальной для повседневности.",
+        "a": "Стилизуйте модель Felis с мягким контрастным трикотажем, таким как пуловер Manos F 2435, чтобы сбалансировать строгость кроя и создать актуальный образ в стиле «Luxury Casual»."
+      },
+      {
+        "q": "Узор «елочка» может добавлять возраста.",
+        "a": "В данной модели узор выполнен в актуальном бордовом цвете, что переводит его из разряда ретро в категорию современной классики «old money», подчеркивающей высокий социальный статус."
+      },
+      {
+        "q": "Сложность в уходе за смесовой шерстью.",
+        "a": "Для сохранения первозданной текстуры ткани и точности линий кроя мы рекомендуем исключительно профессиональную химчистку, что гарантирует сохранность изделия на долгие сезоны."
+      }
+    ],
+    "ar": [
+      {
+        "q": "يحتوي التركيب على البوليستر والبولي أميد.",
+        "a": "إن وجود ألياف عالية التقنية (40% بوليستر و10% بولي أميد) هو ما يسمح للتنورة بالحفاظ على شكلها الهندسي، ويمنع تشوهها، ويزيد بشكل ملحوظ من متانتها للاستخدام اليومي."
+      },
+      {
+        "q": "تبدو التنورة رسمية للغاية بالنسبة للحياة اليومية.",
+        "a": "نسقي موديل Felis مع تريكو ناعم متباين، مثل بلوفر Manos F 2435، لتحقيق التوازن بين صرامة القصة وخلق إطلالة عصرية بأسلوب «Luxury Casual»."
+      },
+      {
+        "q": "نمط «عظمة السمكة» قد يبدو متقدماً في العمر.",
+        "a": "في هذا الموديل، تم تنفيذ النمط بلون بورغندي عصري، مما ينقله من فئة الطراز القديم (ريترو) إلى فئة الكلاسيكيات المعاصرة «old money» التي تؤكد على المكانة الاجتماعية الرفيعة."
+      },
+      {
+        "q": "صعوبة العناية بالصوف المخلوط.",
+        "a": "للحفاظ على ملمس القماش الأصلي ودقة خطوط القص، نوصي بالتنظيف الجاف الاحترافي حصراً، مما يضمن الحفاظ على القطعة لعدة مواسم."
+      }
+    ],
+    "ka": [
+      {
+        "q": "შემადგენლობაში არის პოლიესტერი და პოლიამიდი.",
+        "a": "სწორედ მაღალტექნოლოგიური ბოჭკოების (40% პოლიესტერი და 10% პოლიამიდი) არსებობა საშუალებას აძლევს ქვედაბოლოს შეინარჩუნოს თავისი არქიტექტურული ფორმა, ხელს უშლის დეფორმაციას და მნიშვნელოვნად ზრდის ცვეთამედეგობას ყოველდღიური ტარებისას."
+      },
+      {
+        "q": "ქვედაბოლო ზედმეტად ოფიციალური ჩანს ყოველდღიურობისთვის.",
+        "a": "დაასტილიზეთ მოდელი Felis რბილი კონტრასტული ტრიკოტაჟით, როგორიცაა პულოვერი Manos F 2435, რათა დააბალანსოთ ჭრის სიმკაცრე და შექმნათ აქტუალური სახე «Luxury Casual» სტილში."
+      },
+      {
+        "q": "ნაძვისებრი» (ე.წ. «ეშკა») ნიმუში შესაძლოა ამატებდეს ასაკს.",
+        "a": "ამ მოდელში ნიმუში შესრულებულია აქტუალურ ბორდოსფერში, რაც მას რეტროდან გადაიყვანს თანამედროვე «old money» კლასიკის კატეგორიაში, რაც ხაზს უსვამს მაღალ სოციალურ სტატუსს."
+      },
+      {
+        "q": "ნარევ მატყლის მოვლის სირთულე.",
+        "a": "ქსოვილის პირვანდელი ტექსტურისა და ჭრის ხაზების სიზუსტის შესანარჩუნებლად ჩვენ გირჩევთ ექსკლუზიურად პროფესიონალურ ქიმწმენდას, რაც გარანტიას იძლევა ნაკეთობის შენარჩუნების მრავალი სეზონის განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Կազմի մեջ առկա են պոլիեսթեր և պոլիամիդ",
+        "a": "Հենց բարձրտեխնոլոգիական մանրաթելերի առկայությունը (40% պոլիեսթեր և 10% պոլիամիդ) հնարավորություն է տալիս կիսաշրջազգեստին պահպանել իր ճարտարապետական ձևը, կանխում է դեֆորմացիան և զգալիորեն բարձրացնում է մաշվածքակայունությունը ամենօրյա կրման ընթացքում"
+      },
+      {
+        "q": "Կիսաշրջազգեստը չափազանց պաշտոնական է թվում առօրյայի համար",
+        "a": "Ոճավորեք Felis մոդելը փափուկ հակադրվող տրիկոտաժով, ինչպիսին է Manos F 2435 պուլովերը, որպեսզի հավասարակշռեք ձևվածքի խստությունը և ստեղծեք արդիական կերպար «Luxury Casual» ոճով"
+      },
+      {
+        "q": "Եղևնաձև» նախշը կարող է տարիք ավելացնել",
+        "a": "Այս մոդելում նախշը կատարված է արդիական բորդո գույնով, ինչը այն ռետրո կատեգորիայից տեղափոխում է «old money» ժամանակակից դասականի դասակարգ, որն ընդգծում է բարձր սոցիալական կարգավիճակը"
+      },
+      {
+        "q": "Խառը բրդի խնամքի բարդությունը",
+        "a": "Գործվածքի նախնական հյուսվածքը և ձևվածքի գծերի ճշգրտությունը պահպանելու համար մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում, ինչը երաշխավորում է արտադրանքի պահպանումը երկար սեզոնների ընթացքում"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Sastāvā ir poliesters un poliamīds.",
+        "a": "Tieši augsto tehnoloģiju šķiedru klātbūtne (40% poliestera un 10% poliamīda) ļauj svārkiem saglabāt savu arhitektonisko formu, novērš deformāciju un ievērojami palielina nodilumizturību ikdienas valkāšanā."
+      },
+      {
+        "q": "Svārki šķiet pārāk oficiāli ikdienai.",
+        "a": "Stilojiet modeli Felis ar mīkstu kontrastējošu trikotāžu, piemēram, džemperi Manos F 2435, lai līdzsvarotu piegriezuma stingrību un radītu aktuālu tēlu «Luxury Casual» stilā."
+      },
+      {
+        "q": "Raksts «eglīte» var pievienot vecumu.",
+        "a": "Šajā modelī raksts ir izpildīts aktuālā bordo krāsā, kas to pārceļ no retro kategorijas uz modernās «old money» klasikas kategoriju, uzsverot augstu sociālo statusu."
+      },
+      {
+        "q": "Sarežģīta kopšana jaukta tipa vilnai.",
+        "a": "Lai saglabātu auduma sākotnējo tekstūru un piegriezuma līniju precizitāti, mēs iesakām tikai profesionālo ķīmisko tīrīšanu, kas garantē izstrādājuma saglabāšanos daudzām sezonām."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Sudėtyje yra poliesterio ir poliamido.",
+        "a": "Būtent aukštųjų technologijų pluošto (40 % poliesterio ir 10 % poliamido) naudojimas leidžia sijonui išlaikyti savo architektūrinę formą, neleidžia jam deformuotis ir gerokai padidina atsparumą nusidėvėjimui kasdienio nešiojimo metu."
+      },
+      {
+        "q": "Sijonas atrodo per daug oficialus kasdienai.",
+        "a": "Derinkite Felis modelį su švelniu kontrastingu trikotažu, pavyzdžiui, Manos F 2435 džemperiu, kad subalansuotumėte kirpimo griežtumą ir sukurtumėte aktualų „Luxury Casual“ stiliaus įvaizdį."
+      },
+      {
+        "q": "„Eglutės“ raštas gali pridėti amžiaus.",
+        "a": "Šiame modelyje raštas atliktas aktualia bordo spalva, kuri perkelia jį iš retro kategorijos į šiuolaikinės „old money“ klasikos kategoriją, pabrėžiančią aukštą socialinį statusą."
+      },
+      {
+        "q": "Sudėtinga priežiūra dėl vilnos mišinio.",
+        "a": "Siekiant išsaugoti pirminę audinio tekstūrą ir kirpimo linijų tikslumą, rekomenduojame tik profesionalų cheminį valymą, kuris garantuoja gaminio ilgaamžiškumą daugeliui sezonų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "W składzie obecne są poliester i poliamid.",
+        "a": "To właśnie obecność włókien zaawansowanych technologicznie (40% poliestru i 10% poliamidu) pozwala spódnicy zachować jej architektoniczną formę, zapobiega deformacji i znacząco zwiększa odporność na zużycie przy codziennym noszeniu."
+      },
+      {
+        "q": "Spódnica wydaje się zbyt oficjalna do codziennych stylizacji.",
+        "a": "Stylizuj model Felis z miękką, kontrastującą dzianiną, taką jak pulower Manos F 2435, aby zrównoważyć surowość kroju i stworzyć aktualny look w stylu „Luxury Casual”."
+      },
+      {
+        "q": "Wzór w „jodełkę” może dodawać lat.",
+        "a": "W tym modelu wzór wykonany jest w aktualnym bordowym odcieniu, co przenosi go z kategorii retro do nowoczesnej klasyki „old money”, podkreślającej wysoki status społeczny."
+      },
+      {
+        "q": "Trudności w pielęgnacji wełny mieszanej.",
+        "a": "Aby zachować pierwotną teksturę tkaniny i precyzję linii kroju, zalecamy wyłącznie profesjonalne czyszczenie chemiczne, co gwarantuje trwałość produktu przez wiele sezonów."
+      }
+    ],
+    "uk": [
+      {
+        "q": "У складі присутні поліестер та поліамід.",
+        "a": "Саме наявність високотехнологічних волокон (40% поліестеру та 10% поліаміду) дозволяє спідниці зберігати свою архітектурну форму, перешкоджає деформації та значно підвищує зносостійкість при щоденному носінні."
+      },
+      {
+        "q": "Спідниця здається занадто офіційною для повсякденності.",
+        "a": "Стилізуйте модель Felis з м'яким контрастним трикотажем, таким як пуловер Manos F 2435, щоб збалансувати строгість крою та створити актуальний образ у стилі «Luxury Casual»."
+      },
+      {
+        "q": "Візерунок «ялинка» може додавати віку.",
+        "a": "У цій моделі візерунок виконаний в актуальному бордовому кольорі, що переводить його з розряду ретро в категорію сучасної класики «old money», що підкреслює високий соціальний статус."
+      },
+      {
+        "q": "Складність у догляді за сумішевою вовною.",
+        "a": "Для збереження первинної текстури тканини та точності ліній крою ми рекомендуємо виключно професійну хімчистку, що гарантує збереження виробу на довгі сезони."
+      }
+    ]
+  }
+}

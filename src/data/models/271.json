@@ -1,0 +1,417 @@
+{
+  "id": 271,
+  "name": "Ottana",
+  "description": {
+    "en": "The Ottana trousers are the flawless embodiment of classic style and aristocratic elegance from Luisa Spagnoli. The straight-cut piece is crafted from a noble blend fabric in a traditional herringbone pattern (spigato), lending the look depth and textural expressiveness. The meticulously calibrated Regular fit silhouette, with its classic cut, completed with belt loops and a secure zip-and-hook-and-bar closure, makes Ottana an indispensable foundation for creating status-defining winter ensembles in the 'quiet luxury' aesthetic. The fabric's natural wool content guarantees comfort and flawless thermoregulation.",
+    "ru": "Брюки Ottana — это безупречное воплощение классического стиля и аристократичной элегантности от Luisa Spagnoli. Модель прямого кроя выполнена из благородного смесового полотна с традиционным узором «елочка» (spigato), который придает образу глубину и текстурную выразительность. Тщательно выверенный силуэт Regular fit с классической посадкой, дополненный шлевками для ремня и надежной застежкой на молнию и ганжетто, делает Ottana незаменимой базой для создания статусных зимних ансамблей в эстетике «тихой роскоши». Состав ткани с содержанием натуральной шерсти гарантирует комфорт и безупречную терморегуляцию.",
+    "ar": "تعتبر سراويل Ottana تجسيداً لا تشوبه شائبة للنمط الكلاسيكي والأناقة الأرستقراطية من Luisa Spagnoli. الموديل ذو القصة المستقيمة مصنوع من نسيج فاخر مخلوط بنقشة «عظمة السمكة» (spigato) التقليدية، التي تضفي على الإطلالة عمقاً وجمالاً ملموساً. قصة Regular fit المصممة بعناية مع الخصر الكلاسيكي، والمعززة بعُرى الحزام وسحاب موثوق ومشبك (ganzetto)، تجعل من Ottana قطعة أساسية لا غنى عنها لتنسيق إطلالات شتوية راقية بجماليات «الرفاهية الهادئة». كما تضمن تركيبة القماش التي تحتوي على الصوف الطبيعي الراحة والتنظيم الحراري المثالي.",
+    "ka": "შარვალი Ottana — ეს არის კლასიკური სტილისა და არისტოკრატული ელეგანტურობის უნაკლო განსახიერება Luisa Spagnoli-სგან. სწორი წყობის მოდელი შესრულებულია კეთილშობილური ქსოვილისგან, ტრადიციული „ნაძვისებრი“ ნაქსოვით (spigato), რომელიც სახეს სიღრმესა და ტექსტურულ გამოკვეთილობას ანიჭებს. საგულდაგულოდ გამოზომილი Regular fit სილუეტი კლასიკური დგომით, ქამრისთვის გათვალისწინებული მარყუჟებითა და საიმედო ელვა-შესაკრავით და კავით (ganzetto), Ottana-ს ხდის შეუცვლელ ბაზად „ჩუმი ფუფუნების“ ესთეტიკაში სტატუსური ზამთრის ანსამბლების შესაქმნელად. ნატურალური მატყლის შემცველი ქსოვილის შემადგენლობა გარანტიას იძლევა კომფორტისა და უნაკლო თერმორეგულაციის.",
+    "hy": "Ottana տաբատը Luisa Spagnoli-ի դասական ոճի և արիստոկրատական էլեգանտության անթերի մարմնավորումն է։ Ուղիղ կտրվածքով մոդելը պատրաստված է «եղնիկի ոսկոր» (spigato) ավանդական նախշով ազնվական խառը կտավից, որը կերպարին հաղորդում է խորություն և տեքստուրային արտահայտչականություն։ Regular fit մանրակրկիտ հաշվարկված ուրվագիծը՝ դասական գոտկատեղով, գոտու համար նախատեսված անցակներով և կայծակաճարմանդով ու գանժետոյով (gangetto) հուսալի ամրացմամբ, Ottana-ն դարձնում է անփոխարինելի հիմք «լուռ շքեղության» էսթետիկայով կարգավիճակային ձմեռային անսամբլներ ստեղծելու համար։ Բնական բրդի պարունակությամբ գործվածքի կազմը երաշխավորում է հարմարավետություն և անթերի ջերմակարգավորում։",
+    "lv": "Bikses Ottana — tas ir nevainojams klasiskā stila un aristokrātiskas elegances iemiesojums no Luisa Spagnoli. Taisna piegriezuma modelis ir izgatavots no cēla jaukta auduma ar tradicionālu „skujiņas” rakstu (spigato), kas piešķir tēlam dziļumu un tekstūras izteiksmīgumu. Rūpīgi izsvērts Regular fit siluets ar klasisku piegulumu, ko papildina jostas cilpas un uzticama aizdare ar rāvējslēdzēju un āķīti (ganzetto), padara Ottana par neaizstājamu pamatu statusa pilnu ziemas ansambļu radīšanai „klusās greznības” estētikā. Auduma sastāvs ar dabīgas vilnas saturu garantē komfortu un nevainojamu termoregulāciju.",
+    "lt": "Ottana kelnės – tai nepriekaištingas klasikinio stiliaus ir aristokratiškos elegancijos įsikūnijimas iš Luisa Spagnoli. Tiesioginio kirpimo modelis pagamintas iš kilnaus mišraus audinio su tradiciniu „eglutės“ (spigato) raštu, kuris suteikia įvaizdžiui gilumo bei tekstūrinio išraiškingumo. Kruopščiai suderintas Regular fit siluetas su klasikiniu liemeniu, papildytas kilpomis diržui bei patikimu užsegimu užtrauktuku ir kabliuku (ganzetto), daro Ottana nepakeičiama baze kuriant solidžius žiemos ansamblius „tylios prabangos“ estetikoje. Audinio sudėtis su natūralia vilna garantuoja komfortą ir nepriekaištingą termoreguliaciją.",
+    "pl": "Spodnie Ottana to doskonałe ucieleśnienie klasycznego stylu i arystokratycznej elegancji od Luisa Spagnoli. Model o prostym kroju został wykonany ze szlachetnej mieszanki tkanin z tradycyjnym wzorem „jodełki” (spigato), który nadaje całości głębię i wyrazistą fakturę. Starannie wyważona sylwetka Regular fit z klasycznym stanem, uzupełniona szlufkami na pasek oraz niezawodnym zapięciem na zamek i haftkę (ganchetto), czyni model Ottana niezbędną bazą do tworzenia prestiżowych zimowych stylizacji w estetyce „cichego luksusu”. Skład tkaniny z zawartością naturalnej wełny gwarantuje komfort i doskonałą termoregulację.",
+    "uk": "Брюки Ottana — це бездоганне втілення класичного стилю та аристократичної елегантності від Luisa Spagnoli. Модель прямого крою виконана з благородного сумішевого полотна з традиційним візерунком «ялинка» (spigato), який надає образу глибини та текстурної виразності. Ретельно вивірений силует Regular fit з класичною посадкою, доповнений шльовками для ременя та надійною застібкою на блискавку і ганжетто, робить Ottana незамінною базою для створення статусних зимових ансамблів в естетиці «тихої розкоші». Склад тканини з вмістом натуральної вовни гарантує комфорт і бездоганну терморегуляцію."
+  },
+  "colors": [
+    {
+      "name": "Var Spinato Bordeaux",
+      "code": "3417",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TQWq2qXmRQayYc7Z7KMgUg_391295727696f42ed3bd804_80361111_02820790XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look (Look 192)",
+        "en": "Total Look (Look 192)",
+        "ar": "Total Look (Look 192)",
+        "ka": "Total Look (Look 192)",
+        "hy": "Total Look (Look 192)",
+        "lv": "Total Look (Look 192)",
+        "lt": "Total Look (Look 192)",
+        "pl": "Total Look (Look 192)",
+        "uk": "Total Look (Look 192)"
+      },
+      "text": {
+        "ru": "Брюки Ottana 3417 в безупречном сочетании с жакетом Seduta 3417, блузой Latteria A 2290 и обувью Uranio A 2233.",
+        "en": "Trousers Ottana 3417 in a flawless combination with jacket Seduta 3417, blouse Latteria A 2290 and footwear Uranio A 2233.",
+        "ar": "Trousers Ottana 3417 in a flawless combination with jacket Seduta 3417, blouse Latteria A 2290 and footwear Uranio A 2233.",
+        "ka": "Trousers Ottana 3417 in a flawless combination with jacket Seduta 3417, blouse Latteria A 2290 and footwear Uranio A 2233.",
+        "hy": "Trousers Ottana 3417 in a flawless combination with jacket Seduta 3417, blouse Latteria A 2290 and footwear Uranio A 2233.",
+        "lv": "Trousers Ottana 3417 in a flawless combination with jacket Seduta 3417, blouse Latteria A 2290 and footwear Uranio A 2233.",
+        "lt": "Trousers Ottana 3417 in a flawless combination with jacket Seduta 3417, blouse Latteria A 2290 and footwear Uranio A 2233.",
+        "pl": "Trousers Ottana 3417 in a flawless combination with jacket Seduta 3417, blouse Latteria A 2290 and footwear Uranio A 2233.",
+        "uk": "Trousers Ottana 3417 in a flawless combination with jacket Seduta 3417, blouse Latteria A 2290 and footwear Uranio A 2233."
+      },
+      "items": [
+        {
+          "name": "Ottana",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TQWq2qXmRQayYc7Z7KMgUg_391295727696f42ed3bd804_80361111_02820790XX1.jpg"
+        },
+        {
+          "name": "Seduta",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bepctPXfSIK7vqF5pwZQkQ_283102043696f42f4b2c696_85048935_02820950XX1.jpg"
+        },
+        {
+          "name": "Latteria A",
+          "code": "2290",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OxP-8zSLRqGg62DhCYQfDw_394817131696f423836da77_32008806_02820390XX1.jpg",
+          "modelId": 412
+        },
+        {
+          "name": "Uranio A",
+          "code": "2233",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_223300000000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Winter Heritage (Vetrina 35)",
+        "en": "Winter Heritage (Vetrina 35)",
+        "ar": "Winter Heritage (Vetrina 35)",
+        "ka": "Winter Heritage (Vetrina 35)",
+        "hy": "Winter Heritage (Vetrina 35)",
+        "lv": "Winter Heritage (Vetrina 35)",
+        "lt": "Winter Heritage (Vetrina 35)",
+        "pl": "Winter Heritage (Vetrina 35)",
+        "uk": "Winter Heritage (Vetrina 35)"
+      },
+      "text": {
+        "ru": "Ottana 3417 дополнены пуловером Mabels 2435, рубашкой Lucinda 0201, кепкой Rotterdam 2439 и сумкой Idilliaco 0986 0002.",
+        "en": "Ottana 3417 complemented by pullover Mabels 2435, shirt Lucinda 0201, cap Rotterdam 2439 and bag Idilliaco 0986 0002.",
+        "ar": "Ottana 3417 complemented by pullover Mabels 2435, shirt Lucinda 0201, cap Rotterdam 2439 and bag Idilliaco 0986 0002.",
+        "ka": "Ottana 3417 complemented by pullover Mabels 2435, shirt Lucinda 0201, cap Rotterdam 2439 and bag Idilliaco 0986 0002.",
+        "hy": "Ottana 3417 complemented by pullover Mabels 2435, shirt Lucinda 0201, cap Rotterdam 2439 and bag Idilliaco 0986 0002.",
+        "lv": "Ottana 3417 complemented by pullover Mabels 2435, shirt Lucinda 0201, cap Rotterdam 2439 and bag Idilliaco 0986 0002.",
+        "lt": "Ottana 3417 complemented by pullover Mabels 2435, shirt Lucinda 0201, cap Rotterdam 2439 and bag Idilliaco 0986 0002.",
+        "pl": "Ottana 3417 complemented by pullover Mabels 2435, shirt Lucinda 0201, cap Rotterdam 2439 and bag Idilliaco 0986 0002.",
+        "uk": "Ottana 3417 complemented by pullover Mabels 2435, shirt Lucinda 0201, cap Rotterdam 2439 and bag Idilliaco 0986 0002."
+      },
+      "items": [
+        {
+          "name": "Ottana",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TQWq2qXmRQayYc7Z7KMgUg_391295727696f42ed3bd804_80361111_02820790XX1.jpg"
+        },
+        {
+          "name": "Mabels",
+          "code": "2435",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg",
+          "modelId": 131
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Rotterdam",
+          "code": "2439",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b4568a5d-6591-432e-a116-f6e5247f5b6f.jpg"
+        },
+        {
+          "name": "Idilliaco",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Sophisticated Office (Vetrina 36)",
+        "en": "Sophisticated Office (Vetrina 36)",
+        "ar": "Sophisticated Office (Vetrina 36)",
+        "ka": "Sophisticated Office (Vetrina 36)",
+        "hy": "Sophisticated Office (Vetrina 36)",
+        "lv": "Sophisticated Office (Vetrina 36)",
+        "lt": "Sophisticated Office (Vetrina 36)",
+        "pl": "Sophisticated Office (Vetrina 36)",
+        "uk": "Sophisticated Office (Vetrina 36)"
+      },
+      "text": {
+        "ru": "Гармоничный ансамбль из Ottana 3417, жакета Seduta 3417, блузы Latteria A 2417 и сумки Idilliaco 0986 0002.",
+        "en": "A harmonious ensemble consisting of Ottana 3417, jacket Seduta 3417, blouse Latteria A 2417 and bag Idilliaco 0986 0002.",
+        "ar": "A harmonious ensemble consisting of Ottana 3417, jacket Seduta 3417, blouse Latteria A 2417 and bag Idilliaco 0986 0002.",
+        "ka": "A harmonious ensemble consisting of Ottana 3417, jacket Seduta 3417, blouse Latteria A 2417 and bag Idilliaco 0986 0002.",
+        "hy": "A harmonious ensemble consisting of Ottana 3417, jacket Seduta 3417, blouse Latteria A 2417 and bag Idilliaco 0986 0002.",
+        "lv": "A harmonious ensemble consisting of Ottana 3417, jacket Seduta 3417, blouse Latteria A 2417 and bag Idilliaco 0986 0002.",
+        "lt": "A harmonious ensemble consisting of Ottana 3417, jacket Seduta 3417, blouse Latteria A 2417 and bag Idilliaco 0986 0002.",
+        "pl": "A harmonious ensemble consisting of Ottana 3417, jacket Seduta 3417, blouse Latteria A 2417 and bag Idilliaco 0986 0002.",
+        "uk": "A harmonious ensemble consisting of Ottana 3417, jacket Seduta 3417, blouse Latteria A 2417 and bag Idilliaco 0986 0002."
+      },
+      "items": [
+        {
+          "name": "Ottana",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TQWq2qXmRQayYc7Z7KMgUg_391295727696f42ed3bd804_80361111_02820790XX1.jpg"
+        },
+        {
+          "name": "Seduta",
+          "code": "3417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bepctPXfSIK7vqF5pwZQkQ_283102043696f42f4b2c696_85048935_02820950XX1.jpg"
+        },
+        {
+          "name": "Latteria A",
+          "code": "2417",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3Mx2ef25TdugVXg2-i0IIg_1643286833696f42dfd5b5f6_19897444_02820400XX1.jpg",
+          "modelId": 412
+        },
+        {
+          "name": "Idilliaco",
+          "code": "0986 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw attention to the timeless herringbone pattern (spigato): this classic print is a symbol of impeccable taste and remains relevant regardless of shifting seasonal trends.",
+      "Emphasise the benefits of the Regular fit: the straight silhouette skilfully structures the figure's proportions, visually lengthens the legs, and delivers exceptional all-day comfort.",
+      "Recommend this piece as the foundation for a luxurious Heritage look: the blend of wool and acetate guarantees warmth and longevity, making the Ottana trousers an investment piece for the winter wardrobe."
+    ],
+    "ru": [
+      "Акцентируйте внимание на вневременном узоре «елочка» (spigato): этот классический принт является символом безупречного вкуса и остается актуальным вне зависимости от смены сезонных трендов.",
+      "Подчеркните преимущества кроя Regular fit: прямой силуэт мастерски структурирует пропорции фигуры, визуально удлиняет ноги и обеспечивает исключительный комфорт в течение всего дня.",
+      "Рекомендуйте модель как основу для роскошного Heritage-образа: сочетание шерсти и ацетата гарантирует тепло и долговечность, превращая брюки Ottana в инвестиционный элемент зимнего гардероба."
+    ],
+    "ar": [
+      "ركزي انتباه العميل على نقشة 'عظمة السمكة' (spigato) الخالدة: فهذه النقشة الكلاسيكية رمز للذوق الرفيع وتظل عصرية بغض النظر عن تغير صيحات المواسم.",
+      "أبرزي مزايا قصة Regular fit: فالقصة المستقيمة تعمل ببراعة على هيكلة تناسق القامة، وتطيل الساقين بصرياً، وتوفر راحة فائقة طوال اليوم.",
+      "رشحي هذا الموديل كأساس لإطلالة Heritage فاخرة: فمزيج الصوف والأسيتات يضمن الدفء والمتانة، مما يجعل سراويل Ottana قطعة استثمارية في خزانة الشتاء."
+    ],
+    "ka": [
+      "გაამახვილეთ ყურადღება მარადიულ «елочка» (spigato) ორნამენტზე: ეს კლასიკური პრინტი უნაკლო გემოვნების სიმბოლოა და აქტუალობას ინარჩუნებს სეზონური ტრენდების ცვლილების მიუხედავად.",
+      "ხაზი გაუსვით Regular fit ჭრის უპირატესობებს: სწორი სილუეტი ოსტატურად აწყობს ფიგურის პროპორციებს, ვიზუალურად აგრძელებს ფეხებს და უზრუნველყოფს განსაკუთრებულ კომფორტს მთელი დღის განმავლობაში.",
+      "რეკომენდაცია გაუწიეთ მოდელს, როგორც მდიდრული Heritage-სტილის საფუძველს: მატყლისა და აცეტატის კომბინაცია უზრუნველყოფს სითბოს და გამძლეობას, რაც Ottana-ს შარვალს ზამთრის გარდერობის საინვესტიციო ელემენტად აქცევს."
+    ],
+    "hy": [
+      "Շեշտադրեք հաճախորդի ուշադրությունը հավերժական «եղևնաձև» (spigato) նախշի վրա. այս դասական պրինտը անթերի ճաշակի խորհրդանիշ է և մնում է արդիական՝ անկախ սեզոնային թրենդների փոփոխությունից։",
+      "Ընդգծեք Regular fit ձևվածքի առավելությունները. ուղիղ ուրվագիծը վարպետորեն կառուցվածքավորում է կազմվածքի համաչափությունները, վիզուալ երկարացնում ոտքերը և ապահովում բացառիկ հարմարավետություն ամբողջ օրվա ընթացքում։",
+      "Առաջարկեք մոդելը որպես շքեղ Heritage-կերպարի հիմք. բրդի և ացետատի համադրությունը երաշխավորում է ջերմություն և երկարակեցություն՝ Ottana տաբատը վերածելով ձմեռային զգեստապահարանի ներդրումային տարրի։"
+    ],
+    "lv": [
+      "Akcentējiet uzmanību uz mūžīgo «eglītes» rakstu (spigato): šī klasiskā apdruka ir nevainojamas gaumes simbols un paliek aktuāla neatkarīgi no sezonas tendenču maiņas.",
+      "Uzsveriet Regular fit piegriezuma priekšrocības: taisnais siluets meistarīgi strukturē figūras proporcijas, vizuāli pagarina kājas un nodrošina izcilu komfortu visas dienas garumā.",
+      "Rekomendējiet modeli kā pamatu greznam Heritage-tēlam: vilnas un acetāta kombinācija garantē siltumu un ilgmūžību, pārvēršot Ottana bikses par investīciju elementu ziemas garderobē."
+    ],
+    "lt": [
+      "Atkreipkite dėmesį į nesenstantį „eglutės“ raštą (spigato): šis klasikinis raštas yra nepriekaištingo skonio simbolis, išliekantis aktualus nepaisant besikeičiančių sezono tendencijų.",
+      "Pabrėžkite „Regular fit“ kirpimo privalumus: tiesus siluetas meistriškai struktūrizuoja figūros proporcijas, vizualiai ilgina kojas ir užtikrina išskirtinį komfortą visą dieną.",
+      "Rekomenduokite šį modelį kaip prabangaus Heritage įvaizdžio pagrindą: vilnos ir acetato derinys garantuoja šilumą bei ilgaamžiškumą, paversdamas Ottana kelnes investicine žiemos garderobo detale."
+    ],
+    "pl": [
+      "Skup uwagę na ponadczasowym wzorze „jodełki” (spigato): ten klasyczny print jest symbolem nienagannego gustu i pozostaje aktualny niezależnie od zmieniających się trendów sezonowych.",
+      "Podkreśl zalety kroju Regular fit: prosta sylwetka mistrzowsko strukturyzuje proporcje figury, optycznie wydłuża nogi i zapewnia wyjątkowy komfort przez cały dzień.",
+      "Rekomenduj model jako bazę dla luksusowego looku Heritage: połączenie wełny i acetatu gwarantuje ciepło i trwałość, zamieniając spodnie Ottana w inwestycyjny element zimowej garderoby."
+    ],
+    "uk": [
+      "Акцентуйте увагу на позачасовому візерунку «ялинка» (spigato): цей класичний принт є символом бездоганного смаку та залишається актуальним незалежно від зміни сезонних трендів.",
+      "Підкресліть переваги крою Regular fit: прямий силует майстерно структурує пропорції фігури, візуально подовжує ноги та забезпечує винятковий комфорт протягом усього дня.",
+      "Рекомендуйте модель як основу для розкішного Heritage-образу: поєднання вовни та ацетату гарантує тепло та довговічність, перетворюючи штани Ottana на інвестиційний елемент зимового гардероба."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Wool trousers may crease with extended wear at the office or while travelling.",
+        "a": "Clarify that thanks to the technical blended composition (40% polyester and 25% acetate), the fabric has enhanced resilience, holds its shape beautifully, and is far less prone to deformation than pure wool."
+      },
+      {
+        "q": "The herringbone pattern in Bordeaux may look too formal for everyday wear.",
+        "a": "Demonstrate the possibilities of eclectic styling: suggest pairing the trousers with cosy knitwear, such as the Mabels 2435 pullover, to add a note of relaxed chic to the look."
+      },
+      {
+        "q": "The material may seem insufficiently dense for a cold winter.",
+        "a": "Point out the high quality of the natural wool content. It offers excellent thermal-insulation properties, while the addition of acetate lends the fabric the necessary density, protecting against the wind without unnecessary bulk."
+      },
+      {
+        "q": "Difficulty finding footwear to match the straight-leg cut.",
+        "a": "Thanks to the classic width, the Ottana style pairs beautifully with both elegant heeled Uranio A 2233 ankle boots and more masculine loafers, accentuating the aristocratic quality of the cut."
+      },
+      {
+        "q": "Classic creased trousers require demanding care.",
+        "a": "Reassure the client that the use of premium-quality Italian fabrics is the key to longevity. Professional dry cleaning will preserve the crispness of the crease and the noble texture of the herringbone pattern for many seasons."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Шерстяные брюки могут мяться при длительной носке в офисе или во время поездок.",
+        "a": "Поясните, что благодаря технологичному смесовому составу (40% полиэстера и 25% ацетата) ткань обладает повышенной упругостью, отлично держит форму и гораздо меньше подвержена деформации, чем чистая шерсть."
+      },
+      {
+        "q": "Узор «елочка» в цвете Bordeaux может выглядеть слишком официально для повседневности.",
+        "a": "Продемонстрируйте возможности эклектичного стайлинга: предложите сочетать брюки с уютным трикотажем, например пуловером Mabels 2435, чтобы добавить образу расслабленного шика."
+      },
+      {
+        "q": "Материал может казаться недостаточно плотным для холодной зимы.",
+        "a": "Укажите на высокое качество натуральной шерсти в составе. Она обладает превосходными теплоизолирующими свойствами, а добавление ацетата придает ткани необходимую плотность, защищая от ветра без лишнего объема."
+      },
+      {
+        "q": "Сложность в подборе обуви под прямой крой штанин.",
+        "a": "Благодаря классической ширине, модель Ottana идеально гармонирует как с изящными ботильонами на каблуке Uranio A 2233, так и с более маскулинными лоферами, подчеркивая аристократизм кроя."
+      },
+      {
+        "q": "Классические брюки со стрелками требуют сложного ухода.",
+        "a": "Заверьте клиента, что использование высококачественных итальянских тканей — залог долговечности. Профессиональная сухая чистка позволит сохранить четкость стрелок и благородную фактуру «елочки» на многие сезоны."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تتجعد السراويل الصوفية عند ارتدائها لفترات طويلة في المكتب أو أثناء السفر.",
+        "a": "وضحي أنه بفضل التركيبة التقنية المخلوطة (40% بوليستر و25% أسيتات)، يتمتع النسيج بمرونة عالية، ويحافظ على شكله بشكل ممتاز، وهو أقل عرضة للتشوه مقارنة بالصوف الخالص."
+      },
+      {
+        "q": "نقشة «عظمة السمكة» باللون Bordeaux قد تبدو رسمية أكثر من اللازم للاستخدام اليومي.",
+        "a": "استعرضي إمكانيات التنسيق المبتكرة: اقترحي ارتداء السراويل مع قطعة تريكو مريحة، مثل كنزة Mabels 2435، لإضفاء لمسة من الأناقة العفوية."
+      },
+      {
+        "q": "قد لا تبدو المادة كثيفة بما يكفي لشتاء بارد.",
+        "a": "أشيري إلى الجودة العالية للصوف الطبيعي في التركيبة، حيث يتمتع بخصائص عزل حراري فائقة، كما تمنح إضافة الأسيتات القماش الكثافة اللازمة للحماية من الرياح دون زيادة في الحجم."
+      },
+      {
+        "q": "صعوبة تنسيق الأحذية مع القصة المستقيمة.",
+        "a": "بفضل العرض الكلاسيكي، يتناغم طراز Ottana بشكل مثالي مع أحذية الكاحل الأنيقة ذات الكعب Uranio A 2233، وكذلك مع أحذية اللوفرز ذات الطابع الذكوري، مما يبرز أرستقراطية التصميم."
+      },
+      {
+        "q": "السراويل الكلاسيكية ذات الثنيات تتطلب عناية خاصة.",
+        "a": "طمئني العميل بأن استخدام الأقمشة الإيطالية الفاخرة هو سر المتانة. التنظيف الجاف الاحترافي سيحافظ على حدة الثنيات ونقشة «عظمة السمكة» الفاخرة لسنوات عديدة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მატყლის შარვალი შესაძლოა დაიჭმუჭნოს ოფისში ხანგრძლივი ყოფნისას ან მგზავრობის დროს.",
+        "a": "განუმარტეთ, რომ ტექნოლოგიური შერეული შემადგენლობის (40% პოლიესტერი და 25% აცეტატი) წყალობით ქსოვილს გააჩნია მომატებული დრეკადობა, შესანიშნავად ინარჩუნებს ფორმას და გაცილებით ნაკლებად ექვემდებარება დეფორმაციას, ვიდრე სუფთა მატყლი."
+      },
+      {
+        "q": "„ნაძვისებრი“ ორნამენტი Bordeaux ფერში შეიძლება ზედმეტად ოფიციალურად გამოიყურებოდეს ყოველდღიურობისთვის.",
+        "a": "წარმოაჩინეთ ეკლექტური სტილიზების შესაძლებლობები: შესთავაზეთ შარვლის შეხამება მყუდრო ტრიკოტაჟთან, მაგალითად, პულოვერ Mabels 2435-თან, რათა იმიჯს თავისუფალი შიკი შემატოთ."
+      },
+      {
+        "q": "მასალა შესაძლოა ცივი ზამთრისთვის საკმარისად მკვრივი არ გეჩვენოთ.",
+        "a": "მიუთითეთ შემადგენლობაში არსებული ნატურალური მატყლის მაღალ ხარისხზე. მას გააჩნია უმაღლესი თბოიზოლაციური თვისებები, ხოლო აცეტატის დამატება ქსოვილს ანიჭებს საჭირო სიმკვრივეს, რაც გიცავთ ქარისგან ზედმეტი მოცულობის გარეშე."
+      },
+      {
+        "q": "სწორკუთხა შარვლის ჭრისთვის ფეხსაცმლის შერჩევის სირთულე.",
+        "a": "კლასიკური სიგანის წყალობით, მოდელი Ottana იდეალურად ჰარმონიზდება როგორც დახვეწილ, ქუსლიან Uranio A 2233 ბოტილიონებთან, ისე უფრო მასკულინურ ლოფერებთან, რაც ხაზს უსვამს ჭრის არისტოკრატიულობას."
+      },
+      {
+        "q": "ისრიან კლასიკურ შარვალს რთული მოვლა სჭირდება.",
+        "a": "დაარწმუნეთ კლიენტი, რომ მაღალი ხარისხის იტალიური ქსოვილების გამოყენება გამძლეობის გარანტია. პროფესიონალური ქიმწმენდა საშუალებას მოგცემთ შეინარჩუნოთ ისრების სიმკვეთრე და „ნაძვისებრი“ ფაქტურის კეთილშობილება მრავალი სეზონის განმავლობაში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բրդյա տաբատները կարող են կնճռոտվել գրասենյակում երկար ժամանակ կրելու կամ ուղևորությունների ժամանակ",
+        "a": "Պարզաբանեք, որ տեխնոլոգիական խառը բաղադրության (40% պոլիեսթեր և 25% ացետատ) շնորհիվ գործվածքն ունի բարձր առաձգականություն, հիանալի պահում է ձևը և շատ ավելի քիչ է ենթարկվում դեֆորմացիայի, քան մաքուր բուրդը"
+      },
+      {
+        "q": "Bordeaux գույնի «եղնիկի եղջյուր» նախշը կարող է չափազանց պաշտոնական թվալ առօրյայի համար",
+        "a": "Ցույց տվեք էկլեկտիկ ոճավորման հնարավորությունները. առաջարկեք տաբատը համադրել հարմարավետ տրիկոտաժի հետ, օրինակ՝ Mabels 2435 պուլովերով, որպեսզի կերպարին ավելացնեք հանգիստ շիկ"
+      },
+      {
+        "q": "Նյութը կարող է բավականաչափ խիտ չթալ ցուրտ ձմռան համար",
+        "a": "Նշեք բաղադրության մեջ բնական բրդի բարձր որակը: Այն ունի գերազանց ջերմամեկուսիչ հատկություններ, իսկ ացետատի ավելացումը գործվածքին հաղորդում է անհրաժեշտ խտություն՝ պաշտպանելով քամուց առանց ավելորդ ծավալի"
+      },
+      {
+        "q": "Տաբատի ուղիղ կտրվածքի տակ կոշիկ ընտրելու բարդությունը",
+        "a": "Դասական լայնության շնորհիվ Ottana մոդելը իդեալականորեն ներդաշնակվում է ինչպես Uranio A 2233 կրունկավոր նրբագեղ կոշիկների, այնպես էլ ավելի տղամարդկային լոֆերների հետ՝ ընդգծելով կտրվածքի ազնվականությունը"
+      },
+      {
+        "q": "Սլաքներով դասական տաբատները պահանջում են բարդ խնամք",
+        "a": "Հավաստիացրեք հաճախորդին, որ բարձրորակ իտալական գործվածքների օգտագործումը երկարակեցության գրավականն է: Պրոֆեսիոնալ քիմմաքրումը թույլ կտա պահպանել սլաքների հստակությունը և «եղնիկի եղջյուր» ֆակտուրան շատ սեզոններ շարունակ"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Vilnas bikses var saburzīties ilgstošas valkāšanas laikā birojā vai ceļojumu laikā.",
+        "a": "Paskaidrojiet, ka, pateicoties tehnoloģiskajam jauktajam sastāvam (40% poliestera un 25% acetāta), audums piemīt paaugstināta elastība, lieliski notur formu un ir daudz mazāk pakļauts deformācijai nekā tīra vilna."
+      },
+      {
+        "q": "Eglītes» raksts Bordeaux krāsā var izskatīties pārāk oficiāli ikdienai.",
+        "a": "Demonstrējiet eklektiskā stila iespējas: piedāvājiet kombinēt bikses ar mājīgu trikotāžu, piemēram, puloveru Mabels 2435, lai pievienotu tēlam atbrīvotu šiku."
+      },
+      {
+        "q": "Materiāls var šķist nepietiekami blīvs aukstai ziemai.",
+        "a": "Norādiet uz augsto dabīgās vilnas kvalitāti sastāvā. Tai piemīt izcilas siltumizolācijas īpašības, bet acetāta pievienošana piešķir audumam nepieciešamo blīvumu, pasargājot no vēja bez lieka apjoma."
+      },
+      {
+        "q": "Grūtības saskaņot apavus ar taisnu staru piegriezumu.",
+        "a": "Pateicoties klasiskajam platumam, modelis Ottana lieliski harmonē gan ar izsmalcinātiem potīšzābakiem uz Uranio A 2233 papēža, gan ar vīrišķīgāka stila loferiem, uzsverot piegriezuma aristokrātismu."
+      },
+      {
+        "q": "Klasiskas bikses ar ielocēm prasa sarežģītu kopšanu.",
+        "a": "Aplieciniet klientam, ka augstākās kvalitātes itāļu audumu izmantošana ir ilgmūžības garants. Profesionālā ķīmiskā tīrīšana ļaus saglabāt ieloču asumu un cēlo «eglītes» faktūru daudzām sezonām."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Vilnonės kelnės gali glamžytis ilgai dėvint biure ar kelionių metu.",
+        "a": "Paaiškinkite, kad dėl technologinio mišraus sudėties (40% poliesterio ir 25% acetato) audinys yra ypač elastingas, puikiai išlaiko formą ir yra žymiai mažiau linkęs deformuotis nei gryna vilna."
+      },
+      {
+        "q": "Eglutės raštas Bordeaux spalvoje gali atrodyti per daug oficialiai kasdienybėje.",
+        "a": "Pademonstruokite eklektiško derinimo galimybes: pasiūlykite derinti kelnes su jaukiu trikotažu, pavyzdžiui, Mabels 2435 megztiniu, kad įvaizdžiui suteiktumėte laisvo stiliaus prabangos."
+      },
+      {
+        "q": "Medžiaga gali atrodyti nepakankamai tanki šaltai žiemai.",
+        "a": "Atkreipkite dėmesį į aukštą natūralios vilnos kokybę sudėtyje. Ji pasižymi puikiomis termoizoliacinėmis savybėmis, o acetato pridėjimas suteikia audiniui reikiamą tankį, saugantį nuo vėjo be nereikalingos apimties."
+      },
+      {
+        "q": "Sudėtinga parinkti avalynę prie tiesaus kirpimo klešnių.",
+        "a": "Dėl klasikinio pločio, modelis Ottana idealiai dera tiek su grakščiais Uranio A 2233 aukštakulniais aulinukais, tiek su vyriško stiliaus loaferiais, pabrėžiant kirpimo aristokratiškumą."
+      },
+      {
+        "q": "Klasikinės kelnės su kantais reikalauja sudėtingos priežiūros.",
+        "a": "Patikinkite klientą, kad aukščiausios kokybės itališkų audinių naudojimas – ilgaamžiškumo garantas. Profesionalus sausas valymas leis išsaugoti kanto ryškumą ir kilnią eglutės faktūrą daugelį sezonų."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wełniane spodnie mogą gnieść się podczas długiego noszenia w biurze lub w trakcie podróży.",
+        "a": "Wyjaśnij, że dzięki technologicznemu składowi mieszanemu (40% poliestru i 25% octanu) tkanina posiada podwyższoną elastyczność, doskonale trzyma formę i jest znacznie mniej podatna na odkształcenia niż czysta wełna."
+      },
+      {
+        "q": "Wzór „jodełka” w kolorze Bordeaux może wyglądać zbyt oficjalnie na co dzień.",
+        "a": "Zaprezentuj możliwości eklektycznego stylizowania: zaproponuj połączenie spodni z przytulną dzianiną, na przykład pulowerem Mabels 2435, aby dodać stylizacji nutę nonszalanckiego szyku."
+      },
+      {
+        "q": "Materiał może wydawać się niewystarczająco gruby na mroźną zimę.",
+        "a": "Wskaż na wysoką jakość naturalnej wełny w składzie. Posiada ona doskonałe właściwości termoizolacyjne, a dodatek octanu nadaje tkaninie niezbędną gęstość, chroniąc przed wiatrem bez zbędnej objętości."
+      },
+      {
+        "q": "Trudność w doborze obuwia do prostego kroju nogawek.",
+        "a": "Dzięki klasycznej szerokości model Ottana idealnie harmonizuje zarówno z eleganckimi botkami na obcasie Uranio A 2233, jak i z bardziej męskimi mokasynami, podkreślając arystokratyzm kroju."
+      },
+      {
+        "q": "Klasyczne spodnie z kantem wymagają skomplikowanej pielęgnacji.",
+        "a": "Zapewnij klientkę, że stosowanie wysokiej jakości włoskich tkanin to gwarancja trwałości. Profesjonalne czyszczenie chemiczne pozwoli zachować ostrość kantów i szlachetną fakturę „jodełki” przez wiele sezonów."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Вовняні брюки можуть м’ятися при тривалому носінні в офісі або під час поїздок.",
+        "a": "Поясніть, що завдяки технологічному змішаному складу (40% поліестеру та 25% ацетату) тканина володіє підвищеною пружністю, відмінно тримає форму і значно менше піддається деформації, ніж чиста вовна."
+      },
+      {
+        "q": "Візерунок «ялинка» у кольорі Bordeaux може виглядати занадто офіційно для повсякденності.",
+        "a": "Продемонструйте можливості еклектичного стайлінгу: запропонуйте поєднувати брюки із затишним трикотажем, наприклад пуловером Mabels 2435, щоб додати образу розслабленого шику."
+      },
+      {
+        "q": "Матеріал може здаватися недостатньо щільним для холодної зими.",
+        "a": "Вкажіть на високу якість натуральної вовни у складі. Вона володіє чудовими теплоізоляційними властивостями, а додавання ацетату надає тканині необхідної щільності, захищаючи від вітру без зайвого об’єму."
+      },
+      {
+        "q": "Складність у підборі взуття під прямий крій штанин.",
+        "a": "Завдяки класичній ширині, модель Ottana ідеально гармоніює як із витонченими ботильйонами на підборах Uranio A 2233, так і з більш маскулінними лоферами, підкреслюючи аристократизм крою."
+      },
+      {
+        "q": "Класичні брюки зі стрілками потребують складного догляду.",
+        "a": "Запевніть клієнта, що використання високоякісних італійських тканин — запорука довговічності. Професійна суха чистка дозволить зберегти чіткість стрілок і благородну фактуру «ялинки» на багато сезонів."
+      }
+    ]
+  }
+}

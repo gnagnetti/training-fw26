@@ -1,0 +1,306 @@
+{
+  "id": 218,
+  "name": "Niccone",
+  "description": {
+    "en": "",
+    "ru": "",
+    "ar": "",
+    "ka": "",
+    "hy": "",
+    "lv": "",
+    "lt": "",
+    "pl": "",
+    "uk": ""
+  },
+  "colors": [
+    {
+      "name": "Avventurina Verde Oro",
+      "code": "1712 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Kvg9qbKFQ0W9nIFBb8xu3Q_1190896916691c57dba3df25_87020430_02800220XX1.jpg"
+    },
+    {
+      "name": "Nero Oro",
+      "code": "0101 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Kvg9qbKFQ0W9nIFBb8xu3Q_1190896916691c57dba3df25_87020430_02800220XX1.jpg"
+    },
+    {
+      "name": "Rosso Oro",
+      "code": "1695 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Kvg9qbKFQ0W9nIFBb8xu3Q_1190896916691c57dba3df25_87020430_02800220XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Данные отсутствуют в официальных источниках",
+        "en": "Data not available in official sources",
+        "ar": "Data not available in official sources",
+        "ka": "Data not available in official sources",
+        "hy": "Data not available in official sources",
+        "lv": "Data not available in official sources",
+        "lt": "Data not available in official sources",
+        "pl": "Data not available in official sources",
+        "uk": "Data not available in official sources"
+      },
+      "items": []
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw attention to the exclusivity of the handcrafted work and its Italian provenance: the Norrisia brooch is an investment accessory that reflects a commitment to the traditions of fine quality.",
+      "Showcase the versatility of styling: suggest the client pin the brooch to the lapel of the classic Stenografo 0101 coat, or secure it to a pullover's collar for a 'quiet luxury' look.",
+      "Recommend the brooch as the perfect status gift: the combination of fine brass and crystals, presented in signature packaging, makes Norrisia an infallible choice for discerning individuals."
+    ],
+    "ru": [
+      "Сфокусируйте внимание клиента на составе: использование 55% натуральных камней делает каждое изделие уникальным и подчеркивает его высокую ценность.",
+      "Акцентируйте внимание на универсальности длины: колье Niccone идеально дополняет как лаконичные кашемировые водолазки, так и глубокие вырезы вечерних платьев, визуально вытягивая силуэт.",
+      "Предложите это украшение в качестве статусного подарка: ручная работа 'Made in Italy' и фирменная эстетика Luisa Spagnoli делают его беспроигрышным выбором для взыскательных ценителей."
+    ],
+    "ar": [
+      "ركزي انتباه العميل على التركيبة: استخدام 55% من الأحجار الطبيعية يجعل كل قطعة فريدة من نوعها ويبرز قيمتها العالية.",
+      "سلطي الضوء على تعدد استخدامات الطول: قلادة Niccone تكمل بشكل مثالي كلاً من كنزات الكشمير ذات الياقة العالية البسيطة والفساتين ذات الياقات العميقة، مما يمنح القامة مظهراً أكثر رشاقة.",
+      "اقترحي هذه القطعة كهدية ذات طابع مميز: العمل اليدوي المتقن 'Made in Italy' والجمالية الخاصة بدار Luisa Spagnoli تجعلها خياراً لا غبار عليه للذواقة الباحثين عن التميز."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება შემადგენლობაზე: 55% ბუნებრივი ქვების გამოყენება თითოეულ ნაკეთობას უნიკალურს ხდის და ხაზს უსვამს მის მაღალ ღირებულებას.",
+      "აქცენტი გააკეთეთ სიგრძის უნივერსალურობაზე: ყელსაბამი Niccone იდეალურად ავსებს როგორც ლაკონიურ ქაშმირის გოლფებს, ასევე საღამოს კაბების ღრმა დეკოლტეს, რაც ვიზუალურად აგრძელებს სილუეტს.",
+      "შესთავაზეთ ეს სამკაული როგორც სტატუსური საჩუქარი: ხელნაკეთი 'Made in Italy' და Luisa Spagnoli-ს საფირმო ესთეტიკა მას წაგებულ ვარიანტს გამორიცხულ არჩევნად აქცევს გამორჩეული გემოვნების მქონე მცოდნეებისთვის."
+    ],
+    "hy": [
+      "Կենտրոնացրեք հաճախորդի ուշադրությունը կազմի վրա. 55% բնական քարերի օգտագործումը յուրաքանչյուր իր դարձնում է եզակի և ընդգծում դրա բարձր արժեքը։",
+      "Շեշտադրեք երկարության համընդհանուր լինելը. Niccone վզնոցը կատարյալ կերպով լրացնում է թե՛ լակոնիկ քաշմիրե գոլֆերը, թե՛ երեկոյան զգեստների խորը դեկոլտեները՝ տեսողականորեն երկարացնելով սիլուետը։",
+      "Առաջարկեք այս զարդը որպես ստատուսային նվեր. 'Made in Italy' ձեռքի աշխատանքը և Luisa Spagnoli-ի ֆիրմային էսթետիկան այն դարձնում են անթերի ընտրություն պահանջկոտ գնահատողների համար։"
+    ],
+    "lv": [
+      "Vērsiet klienta uzmanību uz sastāvu: 55% dabīgo akmeņu izmantošana padara katru izstrādājumu unikālu un izceļ tā augsto vērtību.",
+      "Akcentējiet garuma daudzpusību: kaklarota Niccone lieliski papildina gan lakoniskus kašmira džemperus ar augstu apkakli, gan vakarkleitas ar dziļu izgriezumu, vizuāli izstiepjot siluetu.",
+      "Piedāvājiet šo rotaslietu kā statusa dāvanu: ar rokām darinātais 'Made in Italy' un Luisa Spagnoli firmas estētika padara to par nevainojamu izvēli prasīgiem pazinējiem."
+    ],
+    "lt": [
+      "Sutelkite kliento dėmesį į sudėtį: 55 % natūralių akmenų naudojimas daro kiekvieną gaminį unikalų ir pabrėžia jo didelę vertę.",
+      "Akcentuokite ilgio universalumą: Niccone vėrinys idealiai papildo tiek lakoniškus kašmyro golfus, tiek gilias vakarinių suknelių iškirptes, vizualiai grakštindamas siluetą.",
+      "Pasiūlykite šį papuošalą kaip statusą pabrėžiančią dovaną: rankų darbo „Made in Italy“ kokybė ir firminė Luisa Spagnoli estetika daro jį nepriekaištingu pasirinkimu reikliems gurmanams."
+    ],
+    "pl": [
+      "Skup uwagę klienta na składzie: wykorzystanie 55% naturalnych kamieni sprawia, że każdy egzemplarz jest unikatowy i podkreśla jego wysoką wartość.",
+      "Akcentuj uniwersalność długości: naszyjnik Niccone idealnie dopełnia zarówno minimalistyczne kaszmirowe golfy, jak i głębokie dekolty sukien wieczorowych, optycznie wydłużając sylwetkę.",
+      "Zaproponuj tę biżuterię jako prezent o wysokim statusie: ręczne wykonanie 'Made in Italy' oraz firmowa estetyka Luisa Spagnoli czynią go wyborem idealnym dla najbardziej wymagających koneserów."
+    ],
+    "uk": [
+      "Сфокусуйте увагу клієнта на складі: використання 55% натурального каміння робить кожен виріб унікальним та підкреслює його високу цінність.",
+      "Акцентуйте увагу на універсальності довжини: кольє Niccone ідеально доповнює як лаконічні кашемірові водолазки, так і глибокі вирізи вечірніх суконь, візуально витягуючи силует.",
+      "Запропонуйте цю прикрасу як статусний подарунок: ручна робота 'Made in Italy' та фірмова естетика Luisa Spagnoli роблять її безпрограшним вибором для вимогливих поціновувачів."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The gold-tone finish may quickly lose its shine.",
+        "a": "Reassure the client of the exceptional quality of Luisa Spagnoli's galvanic plating. With simple jewellery-care practices (avoiding contact with water and perfume), the necklace will retain its shine for years to come."
+      },
+      {
+        "q": "The necklace may be too heavy due to the natural stones.",
+        "a": "Explain that the piece's construction is carefully balanced. The combination of lightweight brass and resin inlays allows the long necklace to be worn comfortably throughout the day."
+      },
+      {
+        "q": "The piece seems too large for a casual look.",
+        "a": "Demonstrate the current trend toward statement accessories. The Niccone necklace can instantly transform a simple, essential look into an elegant, 'quiet luxury' ensemble."
+      },
+      {
+        "q": "Natural stones may be fragile.",
+        "a": "Emphasise the security of the settings. The use of premium-quality materials and Italian craftsmanship guarantee the piece's longevity with careful handling."
+      },
+      {
+        "q": "Difficulty finding clothing to match such a design.",
+        "a": "Clarify that the Niccone colour palette (particularly the aventurine variant) harmonises with most shades in the winter collection — from classic beige to deep navy — becoming the look's principal styling accent."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Золотистое покрытие может быстро потерять блеск",
+        "a": "Заверьте клиента в высочайшем качестве гальванического напыления Luisa Spagnoli. При соблюдении простых правил ухода за бижутерией (избегать контакта с водой и парфюмом), колье сохранит свое сияние на долгие годы."
+      },
+      {
+        "q": "Колье может быть слишком тяжелым из-за натуральных камней",
+        "a": "Объясните, что конструкция украшения тщательно сбалансирована. Сочетание легкой латуни и вставок из смолы позволяет носить длинное колье с комфортом в течение всего дня."
+      },
+      {
+        "q": "Украшение кажется слишком крупным для повседневного образа",
+        "a": "Продемонстрируйте актуальный тренд на массивные аксессуары. Колье Niccone способно мгновенно преобразить простой базовый образ в элегантный ансамбль в стиле 'тихой роскоши'."
+      },
+      {
+        "q": "Натуральные камни могут быть хрупкими",
+        "a": "Подчеркните надежность фиксации элементов в оправе. Использование высококачественных материалов и итальянская сборка гарантируют долговечность украшения при бережном обращении."
+      },
+      {
+        "q": "Сложность в подборе подходящей одежды под такой дизайн",
+        "a": "Поясните, что цветовая палитра Niccone (особенно вариант с авантюрином) гармонирует с большинством оттенков зимней коллекции — от классического бежевого до глубокого синего, становясь главным стилистическим акцентом."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تفقد الطبقة الذهبية بريقها بسرعة",
+        "a": "طمئني العميل بجودة الطلاء الكهربائي الفائقة لدى Luisa Spagnoli. مع اتباع قواعد العناية البسيطة بالمجوهرات (تجنب ملامسة الماء والعطور)، ستحتفظ القلادة بلمعانها لسنوات طويلة."
+      },
+      {
+        "q": "قد تكون القلادة ثقيلة الوزن بسبب الأحجار الطبيعية",
+        "a": "اشرحي أن تصميم القطعة متوازن بعناية فائقة. فمزيج النحاس الخفيف مع إضافات الراتنج يسمح بارتداء هذه القلادة الطويلة براحة تامة طوال اليوم."
+      },
+      {
+        "q": "القطعة تبدو كبيرة الحجم للاستخدام اليومي",
+        "a": "استعرضي التوجه العصري للأكسسوارات الضخمة. يمكن لقلادة Niccone أن تحول بلمسة واحدة المظهر البسيط إلى إطلالة أنيقة تعكس أسلوب 'الرفاهية الهادئة'."
+      },
+      {
+        "q": "قد تكون الأحجار الطبيعية هشة",
+        "a": "أكدي على متانة تثبيت العناصر في الإطار. استخدام مواد عالية الجودة والتصنيع الإيطالي يضمن ديمومة القطعة عند التعامل معها بعناية."
+      },
+      {
+        "q": "صعوبة في تنسيق الملابس المناسبة مع هذا التصميم",
+        "a": "وضحي أن لوحة ألوان Niccone (خاصة النسخة المطعمة بحجر الأفنتورين) تتناغم مع معظم ألوان المجموعة الشتوية — بدءاً من البيج الكلاسيكي وصولاً إلى الأزرق العميق، لتصبح لمسة الأناقة الأساسية في الإطلالة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მოოქროვილმა საფარმა შეიძლება მალე დაკარგოს ბზინვარება",
+        "a": "დაარწმუნეთ კლიენტი Luisa Spagnoli-ს გალვანური შესხურების უმაღლეს ხარისხში. ბიჟუტერიის მოვლის მარტივი წესების დაცვით (წყალთან და პარფიუმერიასთან კონტაქტის თავიდან აცილება), ყელსაბამი შეინარჩუნებს თავის ბზინვარებას მრავალი წლის განმავლობაში."
+      },
+      {
+        "q": "ყელსაბამი შეიძლება იყოს ძალიან მძიმე ნატურალური ქვების გამო",
+        "a": "აუხსენით, რომ სამკაულის კონსტრუქცია საგულდაგულოდაა დაბალანსებული. მსუბუქი თითბერისა და ფისოვანი ჩანართების კომბინაცია საშუალებას გაძლევთ ატაროთ გრძელი ყელსაბამი კომფორტულად მთელი დღის განმავლობაში."
+      },
+      {
+        "q": "სამკაული ყოველდღიური იმიჯისთვის ზედმეტად მასიური ჩანს",
+        "a": "აჩვენეთ მასიური აქსესუარების აქტუალური ტენდენცია. ყელსაბამს Niccone შეუძლია მყისიერად გარდაქმნას მარტივი საბაზისო იმიჯი „ჩუმი ფუფუნების“ სტილის ელეგანტურ ანსამბლად."
+      },
+      {
+        "q": "ნატურალური ქვები შეიძლება იყოს მყიფე",
+        "a": "ხაზგასმით აღნიშნეთ ჩარჩოში ელემენტების ფიქსაციის საიმედოობა. მაღალი ხარისხის მასალების გამოყენება და იტალიური აწყობა უზრუნველყოფს სამკაულის გამძლეობას ფრთხილად მოპყრობისას."
+      },
+      {
+        "q": "ასეთი დიზაინისთვის შესაფერისი ტანსაცმლის შერჩევის სირთულე",
+        "a": "განმარტეთ, რომ Niccone-ს ფერთა პალიტრა (განსაკუთრებით ავანტურინის ვარიანტი) ჰარმონიაშია ზამთრის კოლექციის უმეტეს ფერებთან — კლასიკური კრემისფერიდან ღრმა ლურჯამდე, რაც მას მთავარ სტილისტურ აქცენტად აქცევს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ոսկեզօծումը կարող է արագ կորցնել փայլը",
+        "a": "Վստահեցրեք հաճախորդին Luisa Spagnoli-ի գալվանական ծածկույթի ամենաբարձր որակի մասին: Զարդերի խնամքի պարզ կանոններին հետևելու դեպքում (խուսափել ջրի և օծանելիքի հետ շփումից), վզնոցը կպահպանի իր փայլը երկար տարիներ"
+      },
+      {
+        "q": "Վզնոցը կարող է չափազանց ծանր լինել բնական քարերի պատճառով",
+        "a": "Բացատրեք, որ զարդի կառուցվածքը մանրակրկիտ հավասարակշռված է: Թեթև արույրի և խեժից ներդիրների համադրությունը թույլ է տալիս երկար վզնոցը կրել հարմարավետությամբ ամբողջ օրվա ընթացքում"
+      },
+      {
+        "q": "Զարդը չափազանց մեծ է թվում առօրյա կերպարի համար",
+        "a": "Ցուցադրեք զանգվածային աքսեսուարների արդիական թրենդը: Niccone վզնոցը կարող է ակնթարթորեն պարզ բազային կերպարը վերածել «լուռ շքեղության» ոճի էլեգանտ անսամբլի"
+      },
+      {
+        "q": "Բնական քարերը կարող են փխրուն լինել",
+        "a": "Ընդգծեք իրանակալի մեջ տարրերի ամրացման հուսալիությունը: Բարձրորակ նյութերի օգտագործումը և իտալական հավաքումը երաշխավորում են զարդի երկարակեցությունը խնամքով օգտագործման դեպքում"
+      },
+      {
+        "q": "Նման դիզայնի համար հարմար հագուստ ընտրելու բարդությունը",
+        "a": "Պարզաբանեք, որ Niccone-ի գունային գամման (հատկապես ավանտյուրինով տարբերակը) ներդաշնակվում է ձմեռային հավաքածուի երանգների մեծամասնության հետ՝ դասական բեժից մինչև խորը կապույտ, դառնալով գլխավոր ոճային շեշտադրումը"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Zeltītais pārklājums var ātri zaudēt spožumu",
+        "a": "Aplieciniet klientam Luisa Spagnoli galvaniskā pārklājuma visaugstāko kvalitāti. Ievērojot vienkāršus bižutērijas kopšanas noteikumus (izvairīties no saskares ar ūdeni un parfimēriju), kaklarota saglabās savu mirdzumu daudzus gadus."
+      },
+      {
+        "q": "Kaklarota var būt pārāk smaga dabīgo akmeņu dēļ",
+        "a": "Paskaidrojiet, ka rotaslietas konstrukcija ir rūpīgi sabalansēta. Vieglā misiņa un sveķu ieliktņu kombinācija ļauj nēsāt garo kaklarotu ar komfortu visas dienas garumā."
+      },
+      {
+        "q": "Rota šķiet pārāk liela ikdienas tēlam",
+        "a": "Demonstrējiet aktuālo masīvo aksesuāru tendenci. Niccone kaklarota spēj acumirklī pārveidot vienkāršu bāzes tēlu elegantā ansamblī \"klusās greznības\" stilā."
+      },
+      {
+        "q": "Dabīgie akmeņi var būt trausli",
+        "a": "Uzsveriet elementu fiksācijas uzticamību ietvarā. Augstas kvalitātes materiālu izmantošana un itāļu montāža garantē rotaslietas ilgmūžību, ja ar to apietas saudzīgi."
+      },
+      {
+        "q": "Grūtības piemeklēt atbilstošu apģērbu šādam dizainam",
+        "a": "Paskaidrojiet, ka Niccone krāsu palete (īpaši variants ar avanturīnu) harmonē ar lielāko daļu ziemas kolekcijas toņu — no klasiskā bēšā līdz dziļi zilajam, kļūstot par galveno stilistisko akcentu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Auksinė danga gali greitai prarasti blizgesį",
+        "a": "Užtikrinkite klientą dėl aukščiausios Luisa Spagnoli galvaninio padengimo kokybės. Laikantis paprastų bižuterijos priežiūros taisyklių (vengti sąlyčio su vandeniu ir kvepalais), vėrinys išlaikys savo spindesį ilgus metus."
+      },
+      {
+        "q": "Vėrinys gali būti per sunkus dėl natūralių akmenų",
+        "a": "Paaiškinkite, kad papuošalo konstrukcija yra kruopščiai subalansuota. Lengvo žalvario ir dervos intarpų derinys leidžia patogiai nešioti ilgą vėrinį visą dieną."
+      },
+      {
+        "q": "Papuošalas atrodo per didelis kasdieniam įvaizdžiui",
+        "a": "Pademonstruokite aktualią masyvių aksesuarų tendenciją. Niccone vėrinys gali akimirksniu paversti paprastą bazinį įvaizdį elegantišku „tylios prabangos“ stiliaus ansambliu."
+      },
+      {
+        "q": "Natūralūs akmenys gali būti trapūs",
+        "a": "Pabrėžkite elementų fiksavimo rėmelyje patikimumą. Aukštos kokybės medžiagų naudojimas ir itališkas surinkimas garantuoja papuošalo ilgaamžiškumą tinkamai prižiūrint."
+      },
+      {
+        "q": "Sunku parinkti tinkamus drabužius prie tokio dizaino",
+        "a": "Paaiškinkite, kad Niccone spalvų paletė (ypač variantas su aventurinu) dera su dauguma žiemos kolekcijos atspalvių – nuo klasikinio smėlio iki sodrios mėlynos, tapdama pagrindiniu stilistiniu akcentu."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Золотистое покрытие может быстро потерять блеск",
+        "a": "Заверьте клиента в высочайшем качестве гальванического напыления Luisa Spagnoli. При соблюдении простых правил ухода за бижутерией (избегать контакта с водой и парфюмом), колье сохранит свое сияние на долгие годы."
+      },
+      {
+        "q": "Колье может быть слишком тяжелым из-за натуральных камней",
+        "a": "Объясните, что конструкция украшения тщательно сбалансирована. Сочетание легкой латуни и вставок из смолы позволяет носить длинное колье с комфортом в течение всего дня."
+      },
+      {
+        "q": "Украшение кажется слишком крупным для повседневного образа",
+        "a": "Продемонстрируйте актуальный тренд на массивные аксессуары. Колье Niccone способно мгновенно преобразить простой базовый образ в элегантный ансамбль в стиле 'тихой роскоши'."
+      },
+      {
+        "q": "Натуральные камни могут быть хрупкими",
+        "a": "Подчеркните надежность фиксации элементов в оправе. Использование высококачественных материалов и итальянская сборка гарантируют долговечность украшения при бережном обращении."
+      },
+      {
+        "q": "Сложность в подборе подходящей одежды под такой дизайн",
+        "a": "Поясните, что цветовая палитра Niccone (особенно вариант с авантюрином) гармонирует с большинством оттенков зимней коллекции — от классического бежевого до глубокого синего, становясь главным стилистическим акцентом."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Золотисте покриття може швидко втратити блиск",
+        "a": "Запевніть клієнта у найвищій якості гальванічного напилення Luisa Spagnoli. При дотриманні простих правил догляду за біжутерією (уникати контакту з водою та парфумами), кольє збереже своє сяйво на довгі роки."
+      },
+      {
+        "q": "Кольє може бути занадто важким через натуральне каміння",
+        "a": "Поясніть, що конструкція прикраси ретельно збалансована. Поєднання легкої латуні та вставок зі смоли дозволяє носити довге кольє з комфортом протягом усього дня."
+      },
+      {
+        "q": "Прикраса здається занадто великою для повсякденного образу",
+        "a": "Продемонструйте актуальний тренд на масивні аксесуари. Кольє Niccone здатне миттєво перетворити простий базовий образ на елегантний ансамбль у стилі 'тихої розкоші'."
+      },
+      {
+        "q": "Натуральне каміння може бути крихким",
+        "a": "Підкресліть надійність фіксації елементів в оправі. Використання високоякісних матеріалів та італійська збірка гарантують довговічність прикраси при дбайливому поводженні."
+      },
+      {
+        "q": "Складність у підборі відповідного одягу під такий дизайн",
+        "a": "Поясніть, що кольорова палітра Niccone (особливо варіант з авантюрином) гармонує з більшістю відтінків зимової колекції — від класичного бежевого до глибокого синього, стаючи головним стилістичним акцентом."
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "id": 227,
+  "name": "Norrisia",
+  "description": {
+    "en": "Refined Norris Earrings — the epitome of fine jewelry craftsmanship and botanical motifs in the signature Luisa Spagnoli aesthetic. Crafted from high-grade brass using micro-pave techniques, the delicate drop leaves are fully encrusted with shimmering cubic zirconia.",
+    "ru": "Роскошная брошь Norrisia — это квинтэссенция ювелирного искусства и флористических мотивов в эстетике Luisa Spagnoli. Аксессуар в форме изысканного цветка выполнен из высококачественной латуни с использованием техники микро-паве: лепестки, полностью усыпанные сияющими кристаллами, обрамляют выразительную сердцевину с контрастным декором. Изделие категории 'Made in Italy' служит безупречным финальным штрихом, придающим любому ансамблю статусность и утонченное сияние.",
+    "ar": "تُعد بروش Norrisia الفاخرة جوهر فن المجوهرات والزخارف الزهرية في جماليات Luisa Spagnoli. صُمم هذا الإكسسوار على شكل زهرة رائعة من النحاس عالي الجودة باستخدام تقنية الترصيع الدقيق (micro-pave): حيث تغطي بتلات الزهرة بالكامل كريستالات متلألئة تحيط بقلب معبر بلمسة ديكور متباينة. يمثل هذا المنتج الذي يحمل علامة 'Made in Italy' اللمسة النهائية المثالية التي تضفي على أي زي طابعاً من الرقي والبريق الأنيق.",
+    "ka": "Norrisia-ს მდიდრული ბროში Luisa Spagnoli-ს ესთეტიკაში საიუველირო ხელოვნებისა და ფლორისტული მოტივების კვინტესენციაა. დახვეწილი ყვავილის ფორმის აქსესუარი შესრულებულია მაღალი ხარისხის თითბერისგან მიკრო-პავეს ტექნიკის გამოყენებით: კაშკაშა კრისტალებით სრულად მოფენილი ფურცლები აჩარჩოებს კონტრასტული დეკორის მქონე გამოკვეთილ გულს. 'Made in Italy' კატეგორიის ნაკეთობა წარმოადგენს უნაკლო დასკვნით შტრიხს, რომელიც ნებისმიერ ანსამბლს სტატუსურ და დახვეწილ ბზინვარებას სძენს.",
+    "hy": "Norrisia շքեղ բրոշը Luisa Spagnoli-ի էսթետիկայում ոսկերչական արվեստի և ֆլորիստիկական մոտիվների էությունն է: Նրբագեղ ծաղկի տեսքով այս աքսեսուարը պատրաստված է բարձրորակ արույրից՝ միկրո-պավե տեխնիկայի կիրառմամբ. փայլուն բյուրեղներով ամբողջությամբ պատված թերթիկները շրջանակում են արտահայտիչ միջուկը՝ հակադրվող դեկորով: «Made in Italy» կատեգորիայի այս իրը ծառայում է որպես անթերի վերջնական շտրիխ՝ ցանկացած անսամբլին հաղորդելով կարգավիճակ և նուրբ փայլ:",
+    "lv": "Greznā broša Norrisia ir juvelierizstrādājumu mākslas un floristikas motīvu kvintesence Luisa Spagnoli estētikā. Izsmalcināta zieda formā veidotais aksesuārs ir izgatavots no augstas kvalitātes misiņa, izmantojot mikro-pavé tehniku: ziedlapiņas, kas pilnībā klātas mirdzošiem kristāliem, ietver izteiksmīgu serdi ar kontrastējošu dekoru. Izstrādājums no kategorijas 'Made in Italy' kalpo kā nevainojams noslēdzošais akcents, piešķirot jebkuram ansamblim statusu un izsmalcinātu mirdzumu.",
+    "lt": "Prabangi Norrisia sagė – tai juvelyrikos meno ir gėlių motyvų kvintesencija Luisa Spagnoli estetikoje. Išskirtinės gėlės formos aksesuaras pagamintas iš aukštos kokybės žalvario, naudojant mikro-pavé techniką: spindinčiais kristalais visiškai nusėti žiedlapiai įrėmina išraiškingą šerdį su kontrastinga apdaila. „Made in Italy“ kategorijos gaminys yra nepriekaištingas akcentas, suteikiantis bet kokiam ansambliui statuso ir rafinuoto spindesio.",
+    "pl": "Luksusowa broszka Norrisia to kwintesencja sztuki jubilerskiej i motywów florystycznych w estetyce Luisa Spagnoli. Dodatek w kształcie wyrafinowanego kwiatu wykonany jest z wysokiej jakości mosiądzu przy użyciu techniki mikro-pave: płatki, w całości obsypane lśniącymi kryształami, okalają wyrazisty środek z kontrastowym dekorem. Produkt kategorii 'Made in Italy' stanowi bezbłędne wykończenie, nadające każdej stylizacji prestiżu i subtelnego blasku.",
+    "uk": "Розкішна брошка Norrisia — це квінтесенція ювелірного мистецтва та флористичних мотивів в естетиці Luisa Spagnoli. Аксесуар у формі вишуканої квітки виконаний із високоякісної латуні з використанням техніки мікро-паве: пелюстки, повністю всипані сяючими кристалами, обрамляють виразну серцевину з контрастним декором. Виріб категорії 'Made in Italy' слугує бездоганним фінальним штрихом, що надає будь-якому ансамблю статусності та витонченого сяйва."
+  },
+  "colors": [
+    {
+      "name": "Rubino Nickel Oro",
+      "code": "1639 0001 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/AOySRGZUSoun0d6YBUW0NA_618347052691c57df90eaa3_39293022_02800270XX1.jpg"
+    },
+    {
+      "name": "Smeraldo Nickel Oro",
+      "code": "2003 0001 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/AOySRGZUSoun0d6YBUW0NA_618347052691c57df90eaa3_39293022_02800270XX1.jpg"
+    },
+    {
+      "name": "Fumo Nickel Oro",
+      "code": "0068 0001 0002",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/AOySRGZUSoun0d6YBUW0NA_618347052691c57df90eaa3_39293022_02800270XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Данные отсутствуют в официальных источниках",
+        "en": "Data not available in official sources",
+        "ar": "Data not available in official sources",
+        "ka": "Data not available in official sources",
+        "hy": "Data not available in official sources",
+        "lv": "Data not available in official sources",
+        "lt": "Data not available in official sources",
+        "pl": "Data not available in official sources",
+        "uk": "Data not available in official sources"
+      },
+      "items": []
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasise the versatility of the clip fastening: it is the ideal solution for clients without pierced ears and guarantees comfortable wear for heavier jewellery without the risk of stretching the earlobe.",
+      "Draw attention to the Made in Italy quality: a composition of 60% brass and 40% high-quality glass ensures durability and a sparkle comparable to precious stones.",
+      "Recommend Notabili as an investment gift: the teardrop shape is an eternal classic of the jewellery wardrobe, flattering any face shape and visually elongating the neck."
+    ],
+    "ru": [
+      "Акцентируйте внимание на эксклюзивности ручной работы и итальянском происхождении: брошь Norrisia — это инвестиционный аксессуар, который подчеркивает приверженность традициям высокого качества.",
+      "Продемонстрируйте многогранность стилизации: предложите клиенту украсить этой брошью лацкан классического пальто Stenografo 0101 или закрепить её на воротнике пуловера для создания образа в стиле 'quiet luxury'.",
+      "Рекомендуйте брошь как идеальный вариант статусного подарка: сочетание благородной латуни и кристаллов в фирменной упаковке делает Norrisia беспроигрышным выбором для взыскательных особ."
+    ],
+    "ar": [
+      "سلطي الضوء على حصرية العمل اليدوي والأصل الإيطالي: بروش Norrisia هو إكسسوار استثماري يؤكد الالتزام بتقاليد الجودة العالية.",
+      "أبرزي تعدد طرق التنسيق: اقترحي على العميل تزيين طية صدر معطف Stenografo 0101 بهذا البروش، أو تثبيته على ياقة الكنزة للحصول على إطلالة بأسلوب 'quiet luxury'.",
+      "رشحي البروش كخيار مثالي لهدية قيمة: الجمع بين النحاس النبيل والكريستال في عبوة العلامة التجارية يجعل Norrisia اختياراً مثالياً للأذواق الرفيعة."
+    ],
+    "ka": [
+      "აქცენტი გააკეთეთ ხელნაკეთი ნამუშევრის ექსკლუზიურობასა და იტალიურ წარმომავლობაზე: ბროში Norrisia — ეს არის საინვესტიციო აქსესუარი, რომელიც ხაზს უსვამს მაღალი ხარისხის ტრადიციებისადმი ერთგულებას.",
+      "წარმოაჩინეთ სტილიზაციის მრავალფეროვნება: შესთავაზეთ კლიენტს ამ ბროშით გააფორმოს კლასიკური პალტო Stenografo 0101 -ის ლაპელი ან დაამაგროს ის პულოვერის საყელოზე 'quiet luxury' სტილის იმიჯის შესაქმნელად.",
+      "რეკომენდაცია გაუწიეთ ბროშს, როგორც სტატუსური საჩუქრის იდეალურ ვარიანტს: კეთილშობილური თითბერისა და კრისტალების კომბინაცია საფირმო შეფუთვაში Norrisia-ს ხდის წაგებულ ვარიანტს გამორიცხულ არჩევნად მომთხოვნი პერსონებისთვის."
+    ],
+    "hy": [
+      "Շեշտադրեք ձեռքի աշխատանքի բացառիկությունը և իտալական ծագումը. Norrisia բրոշը ներդրումային աքսեսուար է, որն ընդգծում է բարձր որակի ավանդույթներին նվիրվածությունը։",
+      "Ցուցադրեք ոճավորման բազմակողմանիությունը. հաճախորդին առաջարկեք այս բրոշով զարդարել Stenografo 0101 դասական վերարկուի լացկանը կամ ամրացնել այն պուլովերի օձիքին՝ 'quiet luxury' ոճի կերպար ստեղծելու համար։",
+      "Խորհուրդ տվեք բրոշը որպես ստատուսային նվերի իդեալական տարբերակ. ազնվական փողի և բյուրեղների համադրությունը ֆիրմային փաթեթավորման մեջ Norrisia-ն դարձնում է անթերի ընտրություն պահանջկոտ անձանց համար։"
+    ],
+    "lv": [
+      "Akcentējiet uzmanību uz roku darba ekskluzivitāti un itāļu izcelsmi: broša Norrisia ir investīciju aksesuārs, kas uzsver piederību augstas kvalitātes tradīcijām.",
+      "Demonstrējiet stilizācijas daudzpusību: piedāvājiet klientam izrotāt ar šo brošu klasiskā mēteļa Stenografo 0101 atloku vai piestiprināt to pie pulovera apkakles, lai radītu tēlu 'quiet luxury' stilā.",
+      "Iesakiet brošu kā ideālu statusa dāvanas variantu: cēlā misiņa un kristālu apvienojums firmas iepakojumā padara Norrisia par nevainojamu izvēli prasīgām personībām."
+    ],
+    "lt": [
+      "Akcentuokite rankų darbo išskirtinumą ir itališką kilmę: Norrisia segė – tai investicinis aksesuaras, pabrėžiantis atsidavimą aukštos kokybės tradicijoms.",
+      "Pademonstruokite stilizavimo įvairiapusiškumą: pasiūlykite klientui šia sege papuošti klasikinio Stenografo 0101 palto atlapus arba pritvirtinti ją prie megztinio apykaklės, sukuriant „quiet luxury“ stiliaus įvaizdį.",
+      "Rekomenduokite segę kaip idealų statusą pabrėžiančios dovanos variantą: kilnaus žalvario ir kristalų derinys firminėje pakuotėje daro Norrisia nepriekaištingu pasirinkimu reiklioms asmenybėms."
+    ],
+    "pl": [
+      "Akcentuj ekskluzywność ręcznego wykonania i włoskie pochodzenie: broszka Norrisia to akcesorium inwestycyjne, które podkreśla przywiązanie do tradycji wysokiej jakości.",
+      "Zaprezentuj wielowymiarowość stylizacji: zaproponuj klientce ozdobienie tą broszką klapy klasycznego płaszcza Stenografo 0101 lub przypięcie jej do kołnierza pulowera dla stworzenia stylizacji w nurcie 'quiet luxury'.",
+      "Rekomenduj broszkę jako idealny prezent o wysokim statusie: połączenie szlachetnego mosiądzu i kryształów w firmowym opakowaniu sprawia, że Norrisia jest doskonałym wyborem dla wyrafinowanych osób."
+    ],
+    "uk": [
+      "Акцентуйте увагу на ексклюзивності ручної роботи та італійському походженні: брошка Norrisia — це інвестиційний аксесуар, який підкреслює прихильність до традицій високої якості.",
+      "Продемонструйте багатогранність стилізації: запропонуйте клієнту прикрасити цією брошкою лацкан класичного пальта Stenografo 0101 або закріпити її на комірі пуловера для створення образу в стилі 'quiet luxury'.",
+      "Рекомендуйте брошку як ідеальний варіант статусного подарунка: поєднання благородної латуні та кристалів у фірмовій упаковці робить Norrisia безпрограшним вибором для вимогливих осіб."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Crystals may look too dressy for everyday wear.",
+        "a": "Explain that thanks to its understated black or smoky backdrop (in the Fumo variant), the brooch fits harmoniously into a daytime wardrobe, adding a note of understated sophistication without excessive formality."
+      },
+      {
+        "q": "The brooch may damage the delicate fabric of a piece.",
+        "a": "Clarify that the brooch's fastening is designed with premium materials in mind. For fine silk, recommend attaching the accessory to sturdier elements, such as a jacket lapel or a belt."
+      },
+      {
+        "q": "Concern about losing stones during active wear.",
+        "a": "Reassure the client of the exceptional quality of the pavé setting. Each crystal is securely fastened in the metal setting to the standards of Italian jewellery craftsmanship, guaranteeing the decoration's integrity."
+      },
+      {
+        "q": "The accessory seems large for a petite figure.",
+        "a": "Emphasise that Norrisia is a true 'statement accessory,' meant to be the single bold focal point. It visually pulls the look together, allowing you to forgo a necklace or statement earrings."
+      },
+      {
+        "q": "Difficulty finding pairings due to its striking design.",
+        "a": "Demonstrate how easily the brooch pairs with understated pieces, such as the Solarita 0101 jacket, transforming a basic ensemble into an elegant evening look."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Кристаллы могут выглядеть слишком нарядно для повседневной носки",
+        "a": "Объясните, что благодаря сдержанному черному или дымчатому фону (в варианте Fumo), брошь гармонично вписывается в дневной гардероб, добавляя ноту сдержанного аристократизма без излишней торжественности."
+      },
+      {
+        "q": "Брошь может повредить деликатную ткань изделия",
+        "a": "Поясните, что застежка броши спроектирована с учетом работы с премиальными материалами. Для тонкого шелка рекомендуйте крепить аксессуар на более плотные элементы, такие как борт жакета или пояс."
+      },
+      {
+        "q": "Страх потери камней при активной носке",
+        "a": "Заверьте клиента в высоком качестве исполнения паве. Каждый кристалл надежно зафиксирован в металлической оправе по стандартам итальянского ювелирного мастерства, что гарантирует сохранность декора."
+      },
+      {
+        "q": "Аксессуар кажется крупным для миниатюрной фигуры",
+        "a": "Подчеркните, что Norrisia — это 'statement accessory', который должен быть единственным ярким акцентом. Она визуально собирает образ, позволяя отказаться от колье или массивных серег."
+      },
+      {
+        "q": "Сложность в подборе сочетаний из-за выразительного дизайна",
+        "a": "Продемонстрируйте, как легко брошь сочетается с лаконичными моделями, например, жакетом Solarita 0101, превращая базовый комплект в элегантный вечерний наряд."
+      }
+    ],
+    "ar": [
+      {
+        "q": "قد تبدو البلورات رسمية أكثر من اللازم للاستخدام اليومي",
+        "a": "اشرحي أنه بفضل الخلفية السوداء أو الدخانية الهادئة (في نسخة Fumo)، تتناغم البروش مع خزانة الملابس النهارية، مما يضفي لمسة من الرقي المتحفظ دون تكلف زائد."
+      },
+      {
+        "q": "قد تتسبب البروش في إتلاف الأقمشة الرقيقة",
+        "a": "وضحي أن مشبك البروش مصمم خصيصاً ليتناسب مع المواد الفاخرة. بالنسبة للحرير الناعم، يُنصح بتثبيت الأكسسوار على أجزاء أكثر سماكة، مثل حافة السترة أو الحزام."
+      },
+      {
+        "q": "الخوف من فقدان الأحجار عند الارتداء المستمر",
+        "a": "طمئني العميل بجودة التنفيذ العالية. كل بلورة مثبتة بإحكام في الإطار المعدني وفقاً لمعايير صياغة المجوهرات الإيطالية، مما يضمن الحفاظ على الزينة."
+      },
+      {
+        "q": "يبدو الأكسسوار كبيراً على القامة الصغيرة",
+        "a": "أكدي أن Norrisia هي 'قطعة استثنائية' يجب أن تكون العنصر الأبرز في الإطلالة. فهي تمنح المظهر توازناً بصرياً يغني عن الحاجة لقلادة أو أقراط ضخمة."
+      },
+      {
+        "q": "صعوبة في تنسيق التصميم الجريء",
+        "a": "استعرضي مدى سهولة تنسيق البروش مع القطع البسيطة، مثل سترة Solarita 0101، لتحويل الطقم الأساسي إلى إطلالة مسائية أنيقة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "კრისტალები შეიძლება ყოველდღიური ტარებისთვის ზედმეტად სადღესასწაულოდ გამოიყურებოდეს",
+        "a": "აუხსენით, რომ თავშეკავებული შავი ან ბოლიანი ფონის წყალობით (ვარიანტი Fumo), გულსაბნევი ჰარმონიულად ერწყმის დღის გარდერობს და მატებს თავშეკავებული არისტოკრატიზმის ნოტს ზედმეტი პომპეზურობის გარეშე."
+      },
+      {
+        "q": "გულსაბნევმა შეიძლება დააზიანოს ნაკეთობის დელიკატური ქსოვილი",
+        "a": "განმარტეთ, რომ გულსაბნევის შესაკრავი დაპროექტებულია პრემიუმ მასალებთან მუშაობის გათვალისწინებით. თხელი აბრეშუმისთვის რეკომენდაცია გაუწიეთ აქსესუარის დამაგრებას უფრო მკვრივ ელემენტებზე, როგორიცაა პიჯაკის ბორტი ან ქამარი."
+      },
+      {
+        "q": "აქტიური ტარებისას ქვების დაკარგვის შიში",
+        "a": "დაარწმუნეთ კლიენტი პავეს შესრულების მაღალ ხარისხში. თითოეული კრისტალი საიმედოდაა დაფიქსირებული ლითონის ჩარჩოში იტალიური საიუველირო ოსტატობის სტანდარტების შესაბამისად, რაც უზრუნველყოფს დეკორის შენარჩუნებას."
+      },
+      {
+        "q": "აქსესუარი მინიატურული ფიგურისთვის მასიური ჩანს",
+        "a": "ხაზგასმით აღნიშნეთ, რომ Norrisia არის 'statement accessory', რომელიც უნდა იყოს ერთადერთი კაშკაშა აქცენტი. ის ვიზუალურად კრავს იმიჯს და გაძლევთ საშუალებას უარი თქვათ ყელსაბამზე ან მასიურ საყურეებზე."
+      },
+      {
+        "q": "გამოხატული დიზაინის გამო შეხამების სირთულე",
+        "a": "აჩვენეთ, თუ რამდენად ადვილად ეხამება გულსაბნევი ლაკონიურ მოდელებს, მაგალითად, პიჯაკს Solarita 0101, რაც საბაზისო კომპლექტს ელეგანტურ საღამოს სამოსად გარდაქმნის."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բյուրեղները կարող են չափազանց տոնական թվալ առօրյա կրման համար",
+        "a": "Բացատրեք, որ զուսպ սև կամ ծխագույն ֆոնի շնորհիվ (Fumo տարբերակում), բրոշը ներդաշնակորեն տեղավորվում է ցերեկային զգեստապահարանում՝ ավելացնելով զուսպ արիստոկրատիայի նոտա առանց ավելորդ հանդիսավորության"
+      },
+      {
+        "q": "Բրոշը կարող է վնասել հագուստի նուրբ կտորը",
+        "a": "Պարզաբանեք, որ բրոշի ամրակը նախագծված է պրեմիում նյութերի հետ աշխատելու հաշվարկով: Նուրբ մետաքսի համար խորհուրդ տվեք աքսեսուարն ամրացնել ավելի խիտ տարրերի վրա, ինչպիսիք են ժակետի եզրը կամ գոտկատեղը"
+      },
+      {
+        "q": "Քարերը կորցնելու վախ ակտիվ կրման դեպքում",
+        "a": "Վստահեցրեք հաճախորդին պավե կատարման բարձր որակի մասին: Յուրաքանչյուր բյուրեղ ապահով ամրացված է մետաղական շրջանակի մեջ՝ իտալական ոսկերչական վարպետության ստանդարտներով, ինչը երաշխավորում է դեկորի պահպանումը"
+      },
+      {
+        "q": "Աքսեսուարը փոքրամարմին կազմվածքի համար մեծ է թվում",
+        "a": "Ընդգծեք, որ Norrisia-ն «statement accessory» է, որը պետք է լինի միակ վառ շեշտադրումը: Այն տեսողականորեն հավաքում է կերպարը՝ թույլ տալով հրաժարվել վզնոցից կամ զանգվածային ականջօղերից"
+      },
+      {
+        "q": "Արտահայտիչ դիզայնի պատճառով համադրություններ ընտրելու բարդությունը",
+        "a": "Ցուցադրեք, թե որքան հեշտ է բրոշը համադրվում լակոնիկ մոդելների հետ, օրինակ՝ Solarita 0101 ժակետի, բազային կոմպլեկտը վերածելով էլեգանտ երեկոյան հանդերձանքի"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Kristāli var izskatīties pārāk grezni ikdienas nēsāšanai",
+        "a": "Paskaidrojiet, ka, pateicoties atturīgajam melnajam vai dūmakainajam fonam (Fumo variantā), broša harmoniski iekļaujas dienas garderobē, pievienojot atturīga aristokrātisma noti bez pārmērīgas svinīguma sajūtas."
+      },
+      {
+        "q": "Broša var sabojāt izstrādājuma delikāto audumu",
+        "a": "Paskaidrojiet, ka brošas aizdare ir izstrādāta, ņemot vērā darbu ar premium materiāliem. Plānam zīdam ieteicams stiprināt aksesuāru pie blīvākiem elementiem, piemēram, žaketes atlokiem vai jostas."
+      },
+      {
+        "q": "Bailes par akmeņu zaudēšanu aktīvas nēsāšanas laikā",
+        "a": "Aplieciniet klientam pave izpildījuma augsto kvalitāti. Katrs kristāls ir droši fiksēts metāla ietvarā atbilstoši itāļu juvelierizstrādājumu meistardarba standartiem, kas garantē dekoru noturību."
+      },
+      {
+        "q": "Aksesuārs šķiet liels smalkai figūrai",
+        "a": "Uzsveriet, ka Norrisia ir \"statement accessory\", kuram jābūt vienīgajam spilgtajam akcentam. Tā vizuāli savāc tēlu, ļaujot atteikties no kaklarotas vai masīviem auskariem."
+      },
+      {
+        "q": "Grūtības piemeklēt kombinācijas izteiksmīgā dizaina dēļ",
+        "a": "Demonstrējiet, cik viegli broša sader ar lakoniskiem modeļiem, piemēram, žaketi Solarita 0101, pārvēršot bāzes komplektu elegantā vakartērpā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Kristalai gali atrodyti per puošniai kasdieniam nešiojimui",
+        "a": "Paaiškinkite, kad dėl santūraus juodo arba dūminio fono (Fumo variante) sagė harmoningai įsilieja į dienos garderobą, suteikdama santūrios aristokratijos natą be perteklinio iškilmingumo."
+      },
+      {
+        "q": "Sagė gali pažeisti delikačius audinius",
+        "a": "Paaiškinkite, kad sagės užsegimas suprojektuotas atsižvelgiant į darbą su aukščiausios kokybės medžiagomis. Plonam šilkui rekomenduokite aksesuarą segti prie tankesnių elementų, pavyzdžiui, švarko atlapo ar diržo."
+      },
+      {
+        "q": "Baimė prarasti akmenis aktyviai dėvint",
+        "a": "Užtikrinkite klientą dėl aukštos „pavé“ technikos kokybės. Kiekvienas kristalas patikimai pritvirtintas metaliniame rėmelyje pagal itališko juvelyrikos meistriškumo standartus, o tai garantuoja dekoro išsaugojimą."
+      },
+      {
+        "q": "Aksesuaras atrodo per didelis smulkiai figūrai",
+        "a": "Pabrėžkite, kad Norrisia yra „statement“ aksesuaras, kuris turėtų būti vienintelis ryškus akcentas. Ji vizualiai surenka įvaizdį, leisdama atsisakyti vėrinio ar masyvių auskarų."
+      },
+      {
+        "q": "Sunku suderinti dėl išraiškingo dizaino",
+        "a": "Pademonstruokite, kaip lengvai sagė dera prie lakoniškų modelių, pavyzdžiui, švarko Solarita 0101, paversdama bazinį komplektą elegantišku vakariniu apdaru."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Кристаллы могут выглядеть слишком нарядно для повседневной носки",
+        "a": "Объясните, что благодаря сдержанному черному или дымчатому фону (в варианте Fumo), брошь гармонично вписывается в дневной гардероб, добавляя ноту сдержанного аристократизма без излишней торжественности."
+      },
+      {
+        "q": "Брошь может повредить деликатную ткань изделия",
+        "a": "Поясните, что застежка броши спроектирована с учетом работы с премиальными материалами. Для тонкого шелка рекомендуйте крепить аксессуар на более плотные элементы, такие как борт жакета или пояс."
+      },
+      {
+        "q": "Страх потери камней при активной носке",
+        "a": "Заверьте клиента в высоком качестве исполнения паве. Каждый кристалл надежно зафиксирован в металлической оправе по стандартам итальянского ювелирного мастерства, что гарантирует сохранность декора."
+      },
+      {
+        "q": "Аксессуар кажется крупным для миниатюрной фигуры",
+        "a": "Подчеркните, что Norrisia — это 'statement accessory', который должен быть единственным ярким акцентом. Она визуально собирает образ, позволяя отказаться от колье или массивных серег."
+      },
+      {
+        "q": "Сложность в подборе сочетаний из-за выразительного дизайна",
+        "a": "Продемонстрируйте, как легко брошь сочетается с лаконичными моделями, например, жакетом Solarita 0101, превращая базовый комплект в элегантный вечерний наряд."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Кристали можуть виглядати занадто ошатно для повсякденного носіння",
+        "a": "Поясніть, що завдяки стриманому чорному або димчастому фону (у варіанті Fumo), брошка гармонійно вписується у денний гардероб, додаючи ноту стриманого аристократизму без зайвої урочистості."
+      },
+      {
+        "q": "Брошка може пошкодити делікатну тканину виробу",
+        "a": "Поясніть, що застібка брошки спроектована з урахуванням роботи з преміальними матеріалами. Для тонкого шовку рекомендуйте кріпити аксесуар на більш щільні елементи, такі як борт жакета або пояс."
+      },
+      {
+        "q": "Страх втрати каміння при активному носінні",
+        "a": "Запевніть клієнта у високій якості виконання паве. Кожен кристал надійно зафіксований у металевій оправі за стандартами італійської ювелірної майстерності, що гарантує збереження декору."
+      },
+      {
+        "q": "Аксесуар здається великим для мініатюрної фігури",
+        "a": "Підкресліть, що Norrisia — це 'statement accessory', який має бути єдиним яскравим акцентом. Вона візуально збирає образ, дозволяючи відмовитися від кольє або масивних сережок."
+      },
+      {
+        "q": "Складність у підборі поєднань через виразний дизайн",
+        "a": "Продемонструйте, як легко брошка поєднується з лаконічними моделями, наприклад, жакетом Solarita 0101, перетворюючи базовий комплект на елегантний вечірній наряд."
+      }
+    ]
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "id": 502,
+  "name": "Zambrone",
+  "description": {
+    "en": "The Zambrone 0470 top is a precious accent within the Luisa Spagnoli collection, embodying the aesthetic of 'shimmering knitwear'. Crafted from a noble viscose-blend fabric, masterfully interwoven with metallic threads that create an effect of delicate shimmer. The piece's architecture celebrates refined femininity: short sleeves with a softly gathered shoulder line form a delicate, graceful silhouette, while an elegant lavalliÃ¨re collar allows the look to be interpreted individually â€” from a voluminous, formal bow to a relaxed knot. Thanks to the Regular fit, the Zambrone pullover is flawlessly balanced, offering the comfort of knitwear alongside the refinement of an evening blouse.",
+    "ru": "Топ Zambrone 0470 --- это драгоценный акцент в коллекции Luisa Spagnoli, воплощающий эстетику «сияющего трикотажа». Модель выполнена из благородного смесового вискозного полотна, искусно переплетенного с металлизированными нитями, которые создают эффект деликатного мерцания. Архитектура изделия воспевает утонченную женственность: короткие рукава с мягко присобранной линией плеч формируют хрупкий и грациозный силуэт, а элегантный воротник-лавальер (lavallière) позволяет индивидуально интерпретировать образ --- от пышного торжественного банта до расслабленного узла. Благодаря регулярной посадке (vestibilità regolare), пуловер Zambrone идеально сбалансирован, предлагая комфорт трикотажа в сочетании с изысканностью вечерней блузы.",
+    "ar": "يعد توب Zambrone 0470 لمسة ثمينة في مجموعة Luisa Spagnoli، حيث يجسد جماليات \"التريكو المتألق\". صُمم الموديل من نسيج فيسكوز فاخر ومخلوط، منسوج ببراعة بخيوط معدنية تضفي تأثيراً لامعاً ورقيقاً. تحتفي بنية القطعة بالأنوثة الراقية: حيث تشكل الأكمام القصيرة ذات خط الكتف المزموم برقة قواماً هشاً وأنيقاً، بينما تتيح ياقة اللف (lavallière) تفسيراً فردياً للإطلالة --- من فيونكة احتفالية ضخمة إلى عقدة مسترخية. بفضل قصة المقاس المنتظم (vestibilità regolare)، يتميز بلوفر Zambrone بتوازن مثالي، ليجمع بين راحة التريكو ورقي البلوزة المسائية.",
+    "ka": "Zambrone 0470 ტოპი --- ეს არის ძვირფასი აქცენტი Luisa Spagnoli-ს კოლექციაში, რომელიც განასახიერებს „მბზინავი ნაქსოვის“ ესთეტიკას. მოდელი დამზადებულია კეთილშობილი შერეული ვისკოზის ქსოვილისგან, რომელიც ოსტატურად არის გადაწნული მეტალიზებულ ძაფებთან, რაც ქმნის ნაზი ციმციმის ეფექტს. ნაკეთობის არქიტექტურა განადიდებს დახვეწილ ქალურობას: მოკლე სახელოები მხრის რბილად შეკრული ხაზით ქმნის ნაზ და გრაციოზულ სილუეტს, ხოლო ელეგანტური ლავალიეს საყელო (lavallière) საშუალებას იძლევა ინდივიდუალურად მოარგოთ სტილი --- დაწყებული მდიდრული სადღესასწაულო ბანტიდან, დასრულებული თავისუფალი კვანძით. რეგულარული ჭრის (vestibilità regolare) წყალობით, Zambrone პულოვერი იდეალურად არის ბალანსირებული და გვთავაზობს ნაქსოვის კომფორტს საღამოს ბლუზის დახვეწილობასთან ერთად.",
+    "hy": "Zambrone 0470-ը Luisa Spagnoli հավաքածուի թանկարժեք շեշտադրումն է, որը մարմնավորում է «փայլուն տրիկոտաժի» էսթետիկան։ Մոդելը պատրաստված է վիսկոզայի ազնվական խառնուրդից՝ հմտորեն միահյուսված մետաղական թելերով, որոնք ստեղծում են նուրբ փայլի էֆեկտ։ Ապրանքի ճարտարապետությունը գովերգում է նրբագեղ կանացիությունը. կարճ թևերը՝ ուսի մեղմ հավաքված գծով, ձևավորում են փխրուն և նրբագեղ ուրվագիծ, իսկ էլեգանտ lavallière օձիքը թույլ է տալիս անհատական մեկնաբանել կերպարը՝ փարթամ հանդիսավոր ժապավենից մինչև ազատ հանգույց։ Շնորհիվ vestibilità regolare-ի, Zambrone պուլովերը հիանալի հավասարակշռված է՝ առաջարկելով տրիկոտաժի հարմարավետություն՝ երեկոյան բլուզի նրբագեղության հետ մեկտեղ։",
+    "lv": "Tops Zambrone 0470 --- ir dārgs akcents Luisa Spagnoli kolekcijā, kas iemieso «mirdzošās trikotāžas» estētiku. Modelis ir izgatavots no cēla viskozes maisījuma auduma, kas prasmīgi savīts ar metalizētiem diegiem, radot delikāta mirdzuma efektu. Izstrādājuma arhitektūra cildina izsmalcinātu sievišķību: īsas piedurknes ar maigi pievilktu plecu līniju veido trauslu un graciozu siluetu, bet eleganta lavaljēra (lavallière) apkakle ļauj individuāli interpretēt tēlu --- no kupla svinīga bantes mezgla līdz nepiespiestam mezglam. Pateicoties regulāram piegriezumam (vestibilità regolare), pulovers Zambrone ir ideāli sabalansēts, piedāvājot trikotāžas komfortu apvienojumā ar vakara blūzes izsmalcinātību.",
+    "lt": "Topas Zambrone 0470 --- tai brangakmenio vertas akcentas Luisa Spagnoli kolekcijoje, įkūnijantis „žėrinčio trikotažo“ estetiką. Modelis pagamintas iš kilnaus mišraus viskozės audinio, meistriškai perinto su metalizuotais siūlais, kurie sukuria subtilaus mirgėjimo efektą. Gaminio architektūra šlovina rafinuotą moteriškumą: trumpos rankovės su švelniai surinkta pečių linija formuoja trapų ir grakštų siluetą, o elegantiška lavallière apykaklė leidžia individualiai interpretuoti įvaizdį --- nuo puošnaus iškilmingo kaspino iki atsipalaidavusio mazgo. Dėl reguliaraus prigludimo (vestibilità regolare), megztinis Zambrone yra idealiai subalansuotas, siūlydamas trikotažo patogumą derinyje su vakarinės palaidinės rafinuotumu.",
+    "pl": "Top Zambrone 0470 --- to cenny akcent w kolekcji Luisa Spagnoli, ucieleśniający estetykę „lśniącej dzianiny”. Model wykonany ze szlachetnej mieszanki wiskozowej, kunsztownie przeplatanej metalizowanymi nićmi, które tworzą efekt delikatnego migotania. Architektura produktu celebruje wyrafinowaną kobiecość: krótkie rękawy z delikatnie marszczoną linią ramion tworzą subtelną i pełną gracji sylwetkę, a elegancki kołnierz typu lavallière pozwala na indywidualną interpretację stylizacji --- od okazałej, uroczystej kokardy po swobodny węzeł. Dzięki regularnemu krojowi (vestibilità regolare), pulower Zambrone jest idealnie zrównoważony, oferując komfort dzianiny w połączeniu z wyrafinowaniem wieczorowej bluzki.",
+    "uk": "Топ Zambrone 0470 --- це дорогоцінний акцент у колекції Luisa Spagnoli, що втілює естетику «сяючого трикотажу». Модель виконана з благородного змісового віскозного полотна, майстерно переплетеного з металізованими нитками, які створюють ефект делікатного мерехтіння. Архітектура виробу оспівує витончену жіночність: короткі рукави з м'яко призібраною лінією плечей формують тендітний і граціозний силует, а елегантний комір-лавальєр (lavallière) дозволяє індивідуально інтерпретувати образ --- від пишного урочистого банта до розслабленого вузла. Завдяки регулярній посадці (vestibilità regolare), пуловер Zambrone ідеально збалансований, пропонуючи комфорт трикотажу в поєднанні з вишуканістю вечірньої блузи."
+  },
+  "colors": [
+    {
+      "name": "Platino",
+      "code": "0470",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2102351462691f157b4f2435_32170440_02790740XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда предлагают использовать сияющую фактуру Zambrone 0470 ( для создания величественных вечерних ансамблей и интеллектуальных городских образов: Вариант 0470 ( Сияющий): Подиумный Total Look (Look 109): безупречное вечернее сочетание с узкими брюками из парчи Ovada 3312.",
+        "en": "Brand stylists suggest using the radiant texture of Zambrone 0470 ( to create majestic evening ensembles and sophisticated urban looks: Option 0470 ( Radiant): Runway Total Look (Look 109): a flawless evening combination with slim-fit brocade trousers Ovada 3312.",
+        "ar": "Brand stylists suggest using the radiant texture of Zambrone 0470 ( to create majestic evening ensembles and sophisticated urban looks: Option 0470 ( Radiant): Runway Total Look (Look 109): a flawless evening combination with slim-fit brocade trousers Ovada 3312.",
+        "ka": "Brand stylists suggest using the radiant texture of Zambrone 0470 ( to create majestic evening ensembles and sophisticated urban looks: Option 0470 ( Radiant): Runway Total Look (Look 109): a flawless evening combination with slim-fit brocade trousers Ovada 3312.",
+        "hy": "Brand stylists suggest using the radiant texture of Zambrone 0470 ( to create majestic evening ensembles and sophisticated urban looks: Option 0470 ( Radiant): Runway Total Look (Look 109): a flawless evening combination with slim-fit brocade trousers Ovada 3312.",
+        "lv": "Brand stylists suggest using the radiant texture of Zambrone 0470 ( to create majestic evening ensembles and sophisticated urban looks: Option 0470 ( Radiant): Runway Total Look (Look 109): a flawless evening combination with slim-fit brocade trousers Ovada 3312.",
+        "lt": "Brand stylists suggest using the radiant texture of Zambrone 0470 ( to create majestic evening ensembles and sophisticated urban looks: Option 0470 ( Radiant): Runway Total Look (Look 109): a flawless evening combination with slim-fit brocade trousers Ovada 3312.",
+        "pl": "Brand stylists suggest using the radiant texture of Zambrone 0470 ( to create majestic evening ensembles and sophisticated urban looks: Option 0470 ( Radiant): Runway Total Look (Look 109): a flawless evening combination with slim-fit brocade trousers Ovada 3312.",
+        "uk": "Brand stylists suggest using the radiant texture of Zambrone 0470 ( to create majestic evening ensembles and sophisticated urban looks: Option 0470 ( Radiant): Runway Total Look (Look 109): a flawless evening combination with slim-fit brocade trousers Ovada 3312."
+      },
+      "items": [
+        {
+          "name": "Zambrone",
+          "code": "0470",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2102351462691f157b4f2435_32170440_02790740XX1.jpg"
+        },
+        {
+          "name": "Ovada",
+          "code": "3312",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/936942396691c5786a14ef5_62573932_02780110XX1.jpg",
+          "modelId": 470
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Интеллектуальный Denim (Look 112)",
+        "en": "Intellectual Denim (Look 112)",
+        "ar": "Intellectual Denim (Look 112)",
+        "ka": "Intellectual Denim (Look 112)",
+        "hy": "Intellectual Denim (Look 112)",
+        "lv": "Intellectual Denim (Look 112)",
+        "lt": "Intellectual Denim (Look 112)",
+        "pl": "Intellectual Denim (Look 112)",
+        "uk": "Intellectual Denim (Look 112)"
+      },
+      "text": {
+        "ru": "современный контрастный сет с широкими джинсами Olla 1073.",
+        "en": "a modern, contrasting set with wide-leg jeans Olla 1073.",
+        "ar": "a modern, contrasting set with wide-leg jeans Olla 1073.",
+        "ka": "a modern, contrasting set with wide-leg jeans Olla 1073.",
+        "hy": "a modern, contrasting set with wide-leg jeans Olla 1073.",
+        "lv": "a modern, contrasting set with wide-leg jeans Olla 1073.",
+        "lt": "a modern, contrasting set with wide-leg jeans Olla 1073.",
+        "pl": "a modern, contrasting set with wide-leg jeans Olla 1073.",
+        "uk": "a modern, contrasting set with wide-leg jeans Olla 1073."
+      },
+      "items": [
+        {
+          "name": "Olla",
+          "code": "1073",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png",
+          "modelId": 456
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Торжественный выход (Vetrina 114, 115, 115 A)",
+        "en": "Formal Occasion (Vetrina 114, 115, 115 A)",
+        "ar": "Formal Occasion (Vetrina 114, 115, 115 A)",
+        "ka": "Formal Occasion (Vetrina 114, 115, 115 A)",
+        "hy": "Formal Occasion (Vetrina 114, 115, 115 A)",
+        "lv": "Formal Occasion (Vetrina 114, 115, 115 A)",
+        "lt": "Formal Occasion (Vetrina 114, 115, 115 A)",
+        "pl": "Formal Occasion (Vetrina 114, 115, 115 A)",
+        "uk": "Formal Occasion (Vetrina 114, 115, 115 A)"
+      },
+      "text": {
+        "ru": "жакет надет в паре с нарядным блейзером Suggestivo 3312 и брюками Ovada 3312. Образ дополнен сумкой Inise 0212 0002.",
+        "en": "the jacket is paired with an elegant blazer Suggestivo 3312 and trousers Ovada 3312. The look is completed with the Inise 0212 0002 bag.",
+        "ar": "the jacket is paired with an elegant blazer Suggestivo 3312 and trousers Ovada 3312. The look is completed with the Inise 0212 0002 bag.",
+        "ka": "the jacket is paired with an elegant blazer Suggestivo 3312 and trousers Ovada 3312. The look is completed with the Inise 0212 0002 bag.",
+        "hy": "the jacket is paired with an elegant blazer Suggestivo 3312 and trousers Ovada 3312. The look is completed with the Inise 0212 0002 bag.",
+        "lv": "the jacket is paired with an elegant blazer Suggestivo 3312 and trousers Ovada 3312. The look is completed with the Inise 0212 0002 bag.",
+        "lt": "the jacket is paired with an elegant blazer Suggestivo 3312 and trousers Ovada 3312. The look is completed with the Inise 0212 0002 bag.",
+        "pl": "the jacket is paired with an elegant blazer Suggestivo 3312 and trousers Ovada 3312. The look is completed with the Inise 0212 0002 bag.",
+        "uk": "the jacket is paired with an elegant blazer Suggestivo 3312 and trousers Ovada 3312. The look is completed with the Inise 0212 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Suggestivo",
+          "code": "3312",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1287694275692424e30b1d31_79451638_02781770XX1.jpg",
+          "modelId": 499
+        },
+        {
+          "name": "Ovada",
+          "code": "3312",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/936942396691c5786a14ef5_62573932_02780110XX1.jpg",
+          "modelId": 470
+        },
+        {
+          "name": "Inise",
+          "code": "0212 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Сложная городская многослойность (Vetrina 136, Bambola 3)",
+        "en": "Sophisticated urban layering (Vetrina 136, Bambola 3)",
+        "ar": "Sophisticated urban layering (Vetrina 136, Bambola 3)",
+        "ka": "Sophisticated urban layering (Vetrina 136, Bambola 3)",
+        "hy": "Sophisticated urban layering (Vetrina 136, Bambola 3)",
+        "lv": "Sophisticated urban layering (Vetrina 136, Bambola 3)",
+        "lt": "Sophisticated urban layering (Vetrina 136, Bambola 3)",
+        "pl": "Sophisticated urban layering (Vetrina 136, Bambola 3)",
+        "uk": "Sophisticated urban layering (Vetrina 136, Bambola 3)"
+      },
+      "text": {
+        "ru": "артистичное сочетание под кабан Vigilante 0202 с брюками Ovada 3312 и сумкой Inise 0212 0002.",
+        "en": "an artistic combination under the Vigilante 0202 caban with trousers Ovada 3312 and the Inise 0212 0002 bag.",
+        "ar": "an artistic combination under the Vigilante 0202 caban with trousers Ovada 3312 and the Inise 0212 0002 bag.",
+        "ka": "an artistic combination under the Vigilante 0202 caban with trousers Ovada 3312 and the Inise 0212 0002 bag.",
+        "hy": "an artistic combination under the Vigilante 0202 caban with trousers Ovada 3312 and the Inise 0212 0002 bag.",
+        "lv": "an artistic combination under the Vigilante 0202 caban with trousers Ovada 3312 and the Inise 0212 0002 bag.",
+        "lt": "an artistic combination under the Vigilante 0202 caban with trousers Ovada 3312 and the Inise 0212 0002 bag.",
+        "pl": "an artistic combination under the Vigilante 0202 caban with trousers Ovada 3312 and the Inise 0212 0002 bag.",
+        "uk": "an artistic combination under the Vigilante 0202 caban with trousers Ovada 3312 and the Inise 0212 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Vigilante",
+          "code": "0202",
+          "imageUrl": null
+        },
+        {
+          "name": "Ovada",
+          "code": "3312",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/936942396691c5786a14ef5_62573932_02780110XX1.jpg",
+          "modelId": 470
+        },
+        {
+          "name": "Inise",
+          "code": "0212 0002",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The 'Built-in Jewelry' effect: Direct the client's attention to the fact that the lavallière collar and the fabric's metallic shimmer eliminate the need to select jewelry. This is a ready-made solution for those who value understated luxury. - Mastery o"
+    ],
+    "ru": [
+      "- Эффект «Built-in Jewelry»: Акцентируйте внимание клиента на том, что воротник-лавальер и металлизированный блеск ткани избавляют от необходимости подбора украшений. Это готовое решение для тех, кто ценит лаконичную роскошь. - Мастерство коррекции плеч:"
+    ],
+    "ar": [
+      "- تأثير «المجوهرات المدمجة» (Built-in Jewelry): وجهي انتباه العميل إلى أن ياقة «اللافاليير» واللمعان المعدني للنسيج يغنيان عن الحاجة لاختيار مجوهرات إضافية؛ فهو حل متكامل لمن يقدرون الفخامة الراقية والبسيطة. - براعة تصحيح الكتفين: أكدي أن الكشكشة الخفيفة"
+    ],
+    "ka": [
+      "- ეფექტი „Built-in Jewelry“: გაამახვილეთ კლიენტის ყურადღება იმაზე, რომ ლავალიეს საყელო და ქსოვილის მეტალიზებული ბზინვარება ათავისუფლებს სამკაულების შერჩევის აუცილებლობისგან. ეს არის მზა გადაწყვეტა მათთვის, ვინც აფასებს ლაკონიურ ფუფუნებას. - მხრების კორექც"
+    ],
+    "hy": [
+      "- «Built-in Jewelry» էֆեկտ՝ շեշտադրեք հաճախորդի ուշադրությունը այն բանի վրա, որ լավալյեր օձիքը և գործվածքի մետաղական փայլը ազատում են զարդեր ընտրելու անհրաժեշտությունից։ Սա պատրաստի լուծում է նրանց համար, ովքեր գնահատում են լակոնիկ շքեղությունը։ - Ուսերի"
+    ],
+    "lv": [
+      "- Эффект «Built-in Jewelry»: Акцентируйте внимание клиента на том, что воротник-лавальер и металлизированный блеск ткани избавляют от необходимости подбора украшений. Это готовое решение для тех, кто ценит лаконичную роскошь. - Мастерство коррекции плеч:"
+    ],
+    "lt": [
+      "- „Built-in Jewelry“ efektas: atkreipkite kliento dėmesį į tai, kad lavalier stiliaus apykaklė ir metalizuotas audinio žvilgesys panaikina papuošalų derinimo būtinybę. Tai paruoštas sprendimas vertinantiems lakonišką prabangą. - Pečių korekcijos meistriškumas: pabrėžkite, kad lengvas suraukimas ties pečiais (spalle arricciate) vizualiai formuoja taisyklingą laikyseną ir subalansuoja figūrą, kontrasto dėka vizualiai susiaurinant liemenį. - Investicija į universalumą: papasakokite klientui apie galimybę dėvėti šį viršutinį drabužį ištisus metus. Žiemą jis puikiai tinka kaip puošnus sluoksnis po švarku (pavyzdžiui, Suggestivo 3312), o šiltuoju metų laiku tampa savarankišku įvaizdžio akcentu derinant su džinsu."
+    ],
+    "pl": [
+      "- Efekt «Built-in Jewelry»: Zwróć uwagę klientki na to, że kołnierz typu lavallière oraz metaliczny blask tkaniny eliminują potrzebę dobierania biżuterii. To gotowe rozwiązanie dla osób ceniących minimalistyczny luksus. - Kunszt korekcji ramion: Podkreśl"
+    ],
+    "uk": [
+      "- Ефект «Built-in Jewelry»: Акцентуйте увагу клієнта на тому, що комір-лавальєр та металізований блиск тканини позбавляють від необхідності підбору прикрас. Це готове рішення для тих, хто цінує лаконічну розкіш. - Майстерність корекції плечей: Підкресліть"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Металлизированная Смесовая вискоза в основе Zambrone 0470 нить может колоться",
+        "a": "обеспечивает исключительную мягкость. Технология вязки разработана так, что люрекс деликатно интегрирован в полотно, сохраняя комфорт при контакте с кожей."
+      },
+      {
+        "q": "Топ выглядит слишком Продемонстрируйте Look 112: в паре с джинсами нарядно для будней",
+        "a": "Olla 1073 сияние приглушается, создавая актуальный образ в стиле."
+      },
+      {
+        "q": "Everyday Sparkle",
+        "a": "подходящий для делового обеда."
+      },
+      {
+        "q": "Сложно завязывать Это преимущество, а не сложность. Воротник бант на шее",
+        "a": "можно оставить свободным, имитируя шарф, или завязать в один узел, что придаст образу современную динамику в духе Luisa Spagnoli."
+      },
+      {
+        "q": "Короткий рукав Напротив, отсутствие длинного рукава делает непрактичен для зимней Zambrone идеальным партнером для узких коллекции",
+        "a": "жакетов, таких как Suggestivo, предотвращая излишний объем в зоне локтей."
+      },
+      {
+        "q": "Сияющая фактура Благодаря vestibilità regolare (регулярной может подчеркнуть посадке), топ не облегает плотно, а мягко нюансы фигуры",
+        "a": "драпируется, скрывая нюансы, в то время как мерцание нитей."
+      },
+      {
+        "q": "размывает",
+        "a": "силуэт, добавляя ему легкости."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Металлизированная Смесовая вискоза в основе Zambrone 0470 нить может колоться",
+        "a": "обеспечивает исключительную мягкость. Технология вязки разработана так, что люрекс деликатно интегрирован в полотно, сохраняя комфорт при контакте с кожей."
+      },
+      {
+        "q": "Топ выглядит слишком",
+        "a": "Продемонстрируйте Look 112: в паре с джинсами нарядно для будней Olla 1073 сияние приглушается, создавая актуальный образ в стиле."
+      },
+      {
+        "q": "Everyday Sparkle",
+        "a": "подходящий для делового обеда."
+      },
+      {
+        "q": "Сложно завязывать Это преимущество, а не сложность. Воротник бант на шее",
+        "a": "можно оставить свободным, имитируя шарф, или завязать в один узел, что придаст образу современную динамику в духе Luisa Spagnoli."
+      },
+      {
+        "q": "Короткий рукав Напротив, отсутствие длинного рукава делает непрактичен для зимней Zambrone идеальным партнером для узких коллекции",
+        "a": "жакетов, таких как Suggestivo, предотвращая излишний объем в зоне локтей."
+      },
+      {
+        "q": "Сияющая фактура Благодаря vestibilità regolare (регулярной может подчеркнуть посадке), топ не облегает плотно, а мягко нюансы фигуры",
+        "a": "драпируется, скрывая нюансы, в то время как мерцание нитей."
+      },
+      {
+        "q": "размывает",
+        "a": "силуэт, добавляя ему легкости."
+      }
+    ],
+    "ar": [
+      {
+        "q": "خيوط Zambrone 0470 المصنوعة من الفيسكوز المخلوط والمعدني قد تسبب وخزاً",
+        "a": "توفر نعومة استثنائية. لقد تم تطوير تقنية الحياكة بحيث يتم دمج خيوط اللوريكس بدقة داخل القماش، مما يحافظ على الراحة عند ملامستها للبشرة."
+      },
+      {
+        "q": "التوب يبدو رسمياً للغاية للإطلالات اليومية",
+        "a": "استعرضي Look 112: عند تنسيقه مع الجينز، يتم تخفيف بريق Olla 1073، مما يخلق إطلالة عصرية بأسلوب."
+      },
+      {
+        "q": "Everyday Sparkle",
+        "a": "المناسبة لغداء عمل."
+      },
+      {
+        "q": "من الصعب ربط عقدة القميص حول الرقبة",
+        "a": "هذه ميزة وليست صعوبة. يمكن ترك ربطة العنق حرة لمحاكاة وشاح، أو ربطها بعقدة واحدة، مما يضفي على المظهر حيوية عصرية بروح Luisa Spagnoli."
+      },
+      {
+        "q": "الأكمام القصيرة غير عملية للمجموعة الشتوية",
+        "a": "على العكس تماماً، غياب الأكمام الطويلة يجعل من Zambrone شريكاً مثالياً للسترات الضيقة مثل Suggestivo، مما يمنع الحجم الزائد عند المرفقين."
+      },
+      {
+        "q": "الملمس المتلألئ قد يبرز عيوب الجسم",
+        "a": "بفضل vestibilità regolare (المقاس المنتظم)، لا يلتصق التوب بالجسم، بل ينسدل بنعومة ليخفي العيوب، بينما يعمل بريق الخيوط على."
+      },
+      {
+        "q": "تمويه",
+        "a": "الصورة الظلية، مما يمنحها خفة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მეტალიზებული ვისკოზის ნაზავი Zambrone 0470 ძაფი შეიძლება იყოს უხეში",
+        "a": "უზრუნველყოფს განსაკუთრებულ სირბილეს. ქსოვის ტექნოლოგია შემუშავებულია ისე, რომ ლურექსი დელიკატურად არის ინტეგრირებული ტილოში, რაც ინარჩუნებს კომფორტს კანთან კონტაქტისას."
+      },
+      {
+        "q": "ტოპი გამოიყურება ძალიან წარმოადგინეთ Look 112: ჯინსებთან შეხამებული სამუშაო დღეებისთვის",
+        "a": "Olla 1073 ბზინვარება რბილდება და ქმნის აქტუალურ."
+      },
+      {
+        "q": "Everyday Sparkle",
+        "a": "სტილის ლუქს, რომელიც შესაფერისია საქმიანი სადილისთვის."
+      },
+      {
+        "q": "რთულია შეკვრა ეს უპირატესობაა და არა სირთულე. ბაფთის საყელო კისერზე",
+        "a": "შეიძლება დატოვოთ თავისუფლად, შარფის იმიტაციით, ან შეკრათ ერთ კვანძად, რაც იერსახეს შესძენს თანამედროვე დინამიკას Luisa Spagnoli-ს სულისკვეთებით."
+      },
+      {
+        "q": "მოკლე მკლავი პირიქით, გრძელი მკლავის არარსებობა ხდის არაპრაქტიკულია ზამთრის Zambrone-ს იდეალურ პარტნიორად ვიწრო კოლექციისთვის",
+        "a": "ჟაკეტებისთვის, როგორიცაა Suggestivo, რაც ხელს უშლის ზედმეტ მოცულობას იდაყვის არეში."
+      },
+      {
+        "q": "მბზინავი ფაქტურა vestibilità regolare-ს (რეგულარული შეიძლება ხაზი გაუსვას ზომის) წყალობით, ტოპი არ არის ზედმეტად ფიგურის ნიუანსებს",
+        "a": "მჭიდრო, არამედ რბილად დრაპირდება და ფარავს ნიუანსებს, მაშინ როცა ძაფების ციმციმი."
+      },
+      {
+        "q": "ბუნდოვანს",
+        "a": "ხდის სილუეტს და მატებს მას სიმსუბუქეს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Մետալիզացված վիսկոզայից խառնուրդը Zambrone 0470 թելը կարող է ծակել",
+        "a": "ապահովում է բացառիկ փափկություն։ Տրիկոտաժի տեխնոլոգիան մշակված է այնպես, որ լյուրեքսը նրբորեն է ներառված կտորի մեջ՝ պահպանելով հարմարավետությունը մաշկի հետ շփման ժամանակ։."
+      },
+      {
+        "q": "Թոփը չափազանց ցուցադրական է առօրյայի համար",
+        "a": "Ցուցադրեք Look 112-ը. ջինսերի հետ համադրելիս Olla 1073-ի փայլը մեղմանում է՝ ստեղծելով արդիական."
+      },
+      {
+        "q": "Everyday Sparkle",
+        "a": "ոճի կերպար, որը հարմար է գործնական ճաշի համար։."
+      },
+      {
+        "q": "Դժվար է կապել պարանոցի ժապավենը",
+        "a": "Սա առավելություն է, այլ ոչ թե դժվարություն։ Օձիքը կարելի է թողնել ազատ՝ իմիտացնելով շարֆը, կամ կապել մեկ հանգույցով, ինչը Luisa Spagnoli-ի ոգով կհաղորդի կերպարին ժամանակակից դինամիկա։."
+      },
+      {
+        "q": "Կարճ թևը անգործնական է ձմեռային հավաքածուի համար",
+        "a": "Հակառակը, առանց երկար թևի Zambrone-ը հանդիսանում է կիպ բաճկոնների, ինչպիսիք են Suggestivo-ն, կատարյալ զուգընկերը՝ կանխելով ավելորդ ծավալը արմունկների հատվածում։."
+      },
+      {
+        "q": "Փայլուն ֆակտուրան կարող է ընդգծել կազմվածքի նրբությունները",
+        "a": "vestibilità regolare (կանոնավոր ձևվածքի) շնորհիվ թոփը կիպ չէ, այլ մեղմորեն դրեյպվում է՝ թաքցնելով նրբությունները, մինչդեռ թելերի թարթումը."
+      },
+      {
+        "q": "աղոտում է",
+        "a": "ուրվագիծը՝ հաղորդելով դրան թեթևություն։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Metāliskais pavediens Zambrone 0470 sastāvā var kost",
+        "a": "nodrošina izcilu maigumu. Adīšanas tehnoloģija ir izstrādāta tā, lai lurekss būtu delikāti integrēts audumā, saglabājot komfortu saskarē ar ādu."
+      },
+      {
+        "q": "Tops izskatās pārāk",
+        "a": "Demonstrējiet Look 112: pārī ar džinsiem svinīgi ikdienai Olla 1073 mirdzums tiek pieklusināts, radot aktuālu tēlu."
+      },
+      {
+        "q": "Everyday Sparkle",
+        "a": "stilā, kas piemērots lietišķām pusdienām."
+      },
+      {
+        "q": "Grūti sasiet Tas ir ieguvums, nevis sarežģījums. Bantes apkakli uz kakla",
+        "a": "var atstāt brīvu, imitējot šalli, vai sasiet vienā mezglā, kas tēlam piešķirs modernu dinamiku Luisa Spagnoli garā."
+      },
+      {
+        "q": "Īsā piedurkne Pretēji, garās piedurknes trūkums padara ir nepraktiska ziemas Zambrone par ideālu partneri šaurām Zambrone kolekcijai",
+        "a": "jakām, tādām kā Suggestivo, novēršot lieku apjomu elkoņu zonā."
+      },
+      {
+        "q": "Mirdzošā faktūra Pateicoties vestibilità regolare (regulārai var izcelt figūras piegrieztnes), tops nepieguļ cieši, bet maigi nianses",
+        "a": "drapējas, apslēpjot nianses, kamēr diegu mirdzums."
+      },
+      {
+        "q": "izpludina",
+        "a": "siluetu, piešķirot tam vieglumu."
+      }
+    ],
+    "lt": [],
+    "pl": [
+      {
+        "q": "Metalizowana wiskoza mieszana w bazie Zambrone 0470 nić może kłuć",
+        "a": "zapewnia wyjątkową miękkość. Technologia dziania została opracowana tak, aby lureks był delikatnie wkomponowany w tkaninę, zachowując komfort w kontakcie ze skórą."
+      },
+      {
+        "q": "Top wygląda zbyt Zaprezentuj Look 112: w połączeniu z dżinsami strojna do pracy",
+        "a": "Olla 1073 blask zostaje złagodzony, tworząc aktualny look w stylu."
+      },
+      {
+        "q": "Everyday Sparkle",
+        "a": "odpowiedni na lunch biznesowy."
+      },
+      {
+        "q": "Trudno wiązać To zaleta, a nie utrudnienie. Kołnierzyk kokarda na szyi",
+        "a": "można pozostawić luźno, imitując szalik, lub zawiązać w jeden węzeł, co nada stylizacji nowoczesną dynamikę w duchu Luisa Spagnoli."
+      },
+      {
+        "q": "Krótki rękaw Wręcz przeciwnie, brak długiego rękawa sprawia niepraktyczny na zimę że Zambrone jest idealnym partnerem dla dopasowanych kolekcji",
+        "a": "żakietów, takich jak Suggestivo, zapobiegając nadmiernej objętości w okolicach łokci."
+      },
+      {
+        "q": "Błyszcząca faktura Dzięki vestibilità regolare (regularnemu może podkreślić krojowi), top nie przylega ściśle, lecz miękko mankamenty figury",
+        "a": "układa się, maskując niedoskonałości, podczas gdy mieniące się nici."
+      },
+      {
+        "q": "rozmywają",
+        "a": "sylwetkę, dodając jej lekkości."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Металізована Змішана віскоза в основі Zambrone 0470 нитка може колотися",
+        "a": "забезпечує виняткову м'якість. Технологія в'язки розроблена так, що люрекс делікатно інтегрований у полотно, зберігаючи комфорт при контакті зі шкірою."
+      },
+      {
+        "q": "Топ виглядає занадто",
+        "a": "Продемонструйте Look 112: у парі з джинсами ошатно для буднів Olla 1073 сяйво приглушується, створюючи актуальний образ у стилі."
+      },
+      {
+        "q": "Everyday Sparkle",
+        "a": "що підходить для ділового обіду."
+      },
+      {
+        "q": "Складно зав'язувати Це перевага, а не складність. Комір бант на шиї",
+        "a": "можна залишити вільним, імітуючи шарф, або зав'язати в один вузол, що додасть образу сучасної динаміки в дусі Luisa Spagnoli."
+      },
+      {
+        "q": "Короткий рукав Навпаки, відсутність довгого рукава робить непрактичний для зимової Zambrone ідеальним партнером для вузьких колекції",
+        "a": "жакетів, таких як Suggestivo, запобігаючи зайвому об'єму в зоні ліктів."
+      },
+      {
+        "q": "Сяюча фактура Завдяки vestibilità regolare (регулярній може підкреслити посадці), топ не облягає щільно, а м'яко нюанси фігури",
+        "a": "драпірується, приховуючи нюанси, в той час як мерехтіння ниток."
+      },
+      {
+        "q": "розмиває",
+        "a": "силует, додаючи йому легкості."
+      }
+    ]
+  }
+}

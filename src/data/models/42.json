@@ -1,0 +1,362 @@
+{
+  "id": 42,
+  "name": "Faustin",
+  "description": {
+    "en": "The elegant Faustin midi skirt is the true embodiment of evening chic and aristocratic femininity from Luisa Spagnoli. Crafted from exquisite lined lace, it creates a mesmerizing interplay of texture and depth of color. The classic pencil silhouette (tubino), paired with a below-the-knee length, perfectly sculpts the figure, underscoring its wearer's status and refined taste. A concealed back zip closure ensures flawless purity of line, transforming this piece into a foundational element of the formal wardrobe.",
+    "ru": "Элегантная юбка-миди Faustin — истинное воплощение вечернего шика и аристократичной женственности от Luisa Spagnoli. Модель выполнена из изысканного кружева на подкладке, что создает завораживающую игру фактур и глубину цвета. Классический силуэт «карандаш» (tubino) в сочетании с длиной ниже колена идеально моделирует фигуру, подчеркивая статус и утонченный вкус своей владелицы. Потайная застежка-молния на задней панели обеспечивает безупречную чистоту линий, превращая это изделие в фундаментальный элемент торжественного гардероба.",
+    "ar": "تُجسّد تنورة \"فوستان\" (Faustin) المتوسطة الطول (Midi) الجوهر الحقيقي للرقي المسائي والأنوثة الأريستوقراطية من علامة لويزا سبانيولي (Luisa Spagnoli). صُمّمت هذه القطعة من الدانتيل الفاخر المبطّن، مما يخلق تناغماً ساحراً بين الملمس والعمق اللوني. وتأتي القَصّة المستقيمة الكلاسيكية (Tubino) بطول يتجاوز الركبة لتنحيت القوام ببراعة، مُبرزةً المكانة العالية والذوق الرفيع لسيدتها. كما يضمن السحّاب الخفي في الجزء الخلفي انسيابية تامة ونقاءً في الخطوط، لتغدو هذه التنورة قطعة أساسية لا غنى عنها في خزانة الأمسيات والمناسبات الفاخرة.",
+    "ka": "ელეგანტური მიდი-ქვედაბოლო Faustin — Luisa Spagnoli-ს საღამოს შიკისა და არისტოკრატული ქალურობის ჭეშმარიტი განსახიერება. მოდელი შესრულებულია სარჩულიან დახვეწილ მაქმანზე, რაც ქმნის ფაქტურების მომაჯადოებელ თამაშსა და ფერის სიღრმეს. კლასიკური „ფანქრის“ (tubino) სილუეტი მუხლს ქვემოთ სიგრძესთან კომბინაციაში იდეალურად მოდელირებს ფიგურას, ხაზს უსვამს მისი მფლობელის სტატუსსა და დახვეწილ გემოვნებას. უკანა პანელზე არსებული ფარული ელვა-შესაკრავი უზრუნველყოფს ხაზების უნაკლო სისუფთავეს, რაც ამ ნაკეთობას სადღესასწაულო გარდერობის ფუნდამენტურ ელემენტად აქცევს.",
+    "hy": "Faustin էլեգանտ միդի-կիսաշրջազգեստը Luisa Spagnoli-ի կողմից երեկոյան շիկի և արիստոկրատ կանացիության իսկական մարմնացումն է։ Մոդելը պատրաստված է աստառի վրա նրբագեղ ժանյակից, ինչը ստեղծում է հյուսվածքների հիպնոսացնող խաղ և գույնի խորություն։ «Մատիտ» (tubino) դասական ուրվագիծը՝ ծնկից ներքև երկարության հետ համատեղ, իդեալականորեն մոդելավորում է կազմվածքը՝ ընդգծելով իր տիրուհու կարգավիճակը և նրբաճաշակությունը։ Հետևի մասում գտնվող թաքնված կայծակ-ճարմանդը ապահովում է գծերի անթերի մաքրություն՝ այս հոդվածը վերածելով հանդիսավոր զգեստապահարանի հիմնարար տարրի։",
+    "lv": "Elegantie midi svārki Faustin ir patiess vakara šika un aristokrātiskas sievišķības iemiesojums no Luisa Spagnoli. Modelis ir izgatavots no izsmalcinātas mežģīnes uz oderes, kas rada aizraujošu faktūru spēli un krāsu dziļumu. Klasiskais «zīmuļsvārku» (tubino) siluets apvienojumā ar garumu zem ceļgala ideāli modelē figūru, uzsverot statusu un tā īpašnieces izsmalcināto gaumi. Slēptais rāvējslēdzējs aizmugurējā panelī nodrošina nevainojamu līniju tīrību, pārvēršot šo izstrādājumu par svinīgās garderobes fundamentālu elementu.",
+    "lt": "Elegantiškas midi sijonas „Faustin“ – tai tikras vakarinio prašmatnumo ir aristokratiško moteriškumo įsikūnijimas iš „Luisa Spagnoli“. Modelis pagamintas iš rafinuotų nėrinių su pamušalu, sukuriant užburiančią faktūrų žaismę ir spalvų gylį. Klasikinis pieštuko siluetas (tubino) kartu su žemiau kelių esančiu ilgiu idealiai modeliuoja figūrą, pabrėždamas savo savininkės statusą ir subtilų skonį. Paslėptas užtrauktukas galinėje dalyje užtikrina nepriekaištingą linijų švarą, paversdamas šį gaminį fundamentaliu šventinio garderobo elementu.",
+    "pl": "Elegancka spódnica midi Faustin to prawdziwe ucieleśnienie wieczorowego szyku i arystokratycznej kobiecości od Luisa Spagnoli. Model wykonany jest z wykwintnej koronki na podszewce, co tworzy hipnotyzującą grę faktur i głębię koloru. Klasyczna sylwetka „ołówkowa” (tubino) w połączeniu z długością za kolano idealnie modeluje sylwetkę, podkreślając status i wyrafinowany gust właścicielki. Kryty zamek błyskawiczny na tylnym panelu zapewnia nienaganną czystość linii, przekształcając ten wyrób w fundamentalny element uroczystej garderoby.",
+    "uk": "Елегантна спідниця-міді Faustin — справжнє втілення вечірнього шику та аристократичної жіночності від Luisa Spagnoli. Модель виконана з вишуканого мережива на підкладці, що створює захопливу гру фактур і глибину кольору. Класичний силует «олівець» (tubino) у поєднанні з довжиною нижче коліна ідеально моделює фігуру, підкреслюючи статус і витончений смак своєї власниці. Потайна застібка-блискавка на задній панелі забезпечує бездоганну чистоту ліній, перетворюючи цей виріб на фундаментальний елемент урочистого гардероба."
+  },
+  "colors": [
+    {
+      "name": "Nero",
+      "code": "0101",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dGH9ZaVFQbyTxVct5sWatA_1894557478696f422c166df5_93606032_02820020XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look Vetrina 85",
+        "en": "Total Look Vetrina 85",
+        "ar": "Total Look Vetrina 85",
+        "ka": "Total Look Vetrina 85",
+        "hy": "Total Look Vetrina 85",
+        "lv": "Total Look Vetrina 85",
+        "lt": "Total Look Vetrina 85",
+        "pl": "Total Look Vetrina 85",
+        "uk": "Total Look Vetrina 85"
+      },
+      "text": {
+        "ru": "Юбка Faustin 0101 в сочетании с кабаном Svista 0101 и кружевной блузой Liquorosa 0101.",
+        "en": "Faustin 0101 skirt combined with a Svista 0101 cape and Liquorosa 0101 lace blouse.",
+        "ar": "Faustin 0101 skirt combined with a Svista 0101 cape and Liquorosa 0101 lace blouse.",
+        "ka": "Faustin 0101 skirt combined with a Svista 0101 cape and Liquorosa 0101 lace blouse.",
+        "hy": "Faustin 0101 skirt combined with a Svista 0101 cape and Liquorosa 0101 lace blouse.",
+        "lv": "Faustin 0101 skirt combined with a Svista 0101 cape and Liquorosa 0101 lace blouse.",
+        "lt": "Faustin 0101 skirt combined with a Svista 0101 cape and Liquorosa 0101 lace blouse.",
+        "pl": "Faustin 0101 skirt combined with a Svista 0101 cape and Liquorosa 0101 lace blouse.",
+        "uk": "Faustin 0101 skirt combined with a Svista 0101 cape and Liquorosa 0101 lace blouse."
+      },
+      "items": [
+        {
+          "name": "Faustin",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dGH9ZaVFQbyTxVct5sWatA_1894557478696f422c166df5_93606032_02820020XX1.jpg"
+        },
+        {
+          "name": "Svista",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Y5nVSE1gSb6SPip95-cHFA_898560113696f43013e28f4_95099051_02821250XX1.jpg"
+        },
+        {
+          "name": "Liquorosa",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0eGzd548TS6sNF3a6bE7Eg_1039106981696f42e18a2cd7_22787282_02820510XX1.jpg",
+          "modelId": 113
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 133",
+        "en": "Total Look 133",
+        "ar": "Total Look 133",
+        "ka": "Total Look 133",
+        "hy": "Total Look 133",
+        "lv": "Total Look 133",
+        "lt": "Total Look 133",
+        "pl": "Total Look 133",
+        "uk": "Total Look 133"
+      },
+      "text": {
+        "ru": "Faustin 0101 дополнен блузой Liquorosa 0101, капой Situazione 0101 и сумкой Iroise 0101 0002.",
+        "en": "Faustin 0101 complemented by a Liquorosa 0101 blouse, Situazione 0101 cape and Iroise 0101 0002 bag.",
+        "ar": "Faustin 0101 complemented by a Liquorosa 0101 blouse, Situazione 0101 cape and Iroise 0101 0002 bag.",
+        "ka": "Faustin 0101 complemented by a Liquorosa 0101 blouse, Situazione 0101 cape and Iroise 0101 0002 bag.",
+        "hy": "Faustin 0101 complemented by a Liquorosa 0101 blouse, Situazione 0101 cape and Iroise 0101 0002 bag.",
+        "lv": "Faustin 0101 complemented by a Liquorosa 0101 blouse, Situazione 0101 cape and Iroise 0101 0002 bag.",
+        "lt": "Faustin 0101 complemented by a Liquorosa 0101 blouse, Situazione 0101 cape and Iroise 0101 0002 bag.",
+        "pl": "Faustin 0101 complemented by a Liquorosa 0101 blouse, Situazione 0101 cape and Iroise 0101 0002 bag.",
+        "uk": "Faustin 0101 complemented by a Liquorosa 0101 blouse, Situazione 0101 cape and Iroise 0101 0002 bag."
+      },
+      "items": [
+        {
+          "name": "Faustin",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dGH9ZaVFQbyTxVct5sWatA_1894557478696f422c166df5_93606032_02820020XX1.jpg"
+        },
+        {
+          "name": "Liquorosa",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0eGzd548TS6sNF3a6bE7Eg_1039106981696f42e18a2cd7_22787282_02820510XX1.jpg",
+          "modelId": 113
+        },
+        {
+          "name": "Situazione",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg",
+          "modelId": 321
+        },
+        {
+          "name": "Iroise",
+          "code": "0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cougRXqXSLCLpSH5I324CQ_361816691696f422261f4e8_02648203_02800700XX1.jpg",
+          "modelId": 96
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the concept of 'Timeless Elegance': the lace pencil skirt is a classic piece, impervious to trends and a reliable investment for special occasions.",
+      "Recommend Faustin as the ideal foundation for monochrome black looks: combining different lace textures, as with the Liquorosa blouse, creates a rich and multifaceted evening ensemble.",
+      "Highlight the craftsmanship of the cut: the lining not only ensures comfort but also guarantees an impeccable fit, concealing any imperfections while preserving the garment's shape."
+    ],
+    "ru": [
+      "Делайте акцент на концепции 'Timeless Elegance': кружевная юбка-футляр — это классика, которая не подвластна времени и является надежной инвестицией в гардероб для особых случаев.",
+      "Рекомендуйте Faustin как идеальную базу для монохромных черных образов: сочетание разных кружевных фактур (как с блузой Liquorosa) создает роскошный и многогранный вечерний ансамбль.",
+      "Подчеркните мастерство кроя: наличие подкладки не только обеспечивает комфорт, но и гарантирует безупречную посадку, скрывая любые несовершенства и сохраняя форму изделия."
+    ],
+    "ar": [
+      "ركزي على مفهوم 'Timeless Elegance': التنورة الضيقة المصنوعة من الدانتيل هي كلاسيكية تتحدى الزمن وتعد استثماراً آمناً لخزانة الملابس الخاصة بالمناسبات المميزة.",
+      "نوصي بـ Faustin كقاعدة مثالية للإطلالات السوداء الأحادية: فمزيج أنسجة الدانتيل المختلفة (مثل بلوزة Liquorosa) يخلق طقماً مسائياً فاخراً ومتعدد الأبعاد.",
+      "أكدي على مهارة القص: فوجود البطانة لا يوفر الراحة فحسب، بل يضمن أيضاً مظهراً مثالياً، حيث تخفي أي عيوب وتحافظ على شكل القطعة."
+    ],
+    "ka": [
+      "გააკეთეთ აქცენტი 'Timeless Elegance'-ის კონცეფციაზე: მაქმანებიანი ქვედაბოლო-ფუტლიარი — ეს არის კლასიკა, რომელიც დროზეა დამოკიდებული და წარმოადგენს საიმედო ინვესტიციას განსაკუთრებული შემთხვევებისთვის განკუთვნილ გარდერობში.",
+      "გირჩევთ Faustin, როგორც იდეალურ ბაზას მონოქრომული შავი იმიჯებისთვის: სხვადასხვა მაქმანებიანი ფაქტურების კომბინაცია (როგორც ბლუზა Liquorosa-სთან) ქმნის მდიდრულ და მრავალმხრივ საღამოს ანსამბლს.",
+      "ხაზი გაუსვით კროის ოსტატობას: სარჩულის არსებობა არა მხოლოდ უზრუნველყოფს კომფორტს, არამედ გარანტიას იძლევა უნაკლო მორგების, ფარავს რა ნებისმიერ ნაკლოვანებას და ინარჩუნებს ნაკეთობის ფორმას."
+    ],
+    "hy": [
+      "Շեշտը դրեք 'Timeless Elegance' հայեցակարգի վրա. ժանյակավոր կիսաշրջազգեստ-ֆուտլյարը դասական է, որը ենթակա չէ ժամանակին և հանդիսանում է հուսալի ներդրում հատուկ առիթների համար նախատեսված զգեստապահարանում:",
+      "Առաջարկեք Faustin-ը որպես սև միագույն կերպարների համար կատարյալ հիմք. տարբեր ժանյակավոր հյուսվածքների համադրությունը (ինչպես Liquorosa բլուզի հետ) ստեղծում է շքեղ և բազմակողմանի երեկոյան անսամբլ:",
+      "Ընդգծեք կտրվածքի վարպետությունը. աստառի առկայությունը ոչ միայն ապահովում է հարմարավետություն, այլև երաշխավորում է անթերի տեսք՝ թաքցնելով ցանկացած թերություն և պահպանելով իրի ձևը:"
+    ],
+    "lv": [
+      "Lieciet akcentu uz 'Timeless Elegance' koncepciju: mežģīņu zīmuļsvārki ir klasika, kas nav pakļauta laikam un ir droša investīcija garderobē īpašiem gadījumiem.",
+      "Iesakiet Faustin kā ideālu bāzi melniem vienkrāsainiem tēliem: dažādu mežģīņu faktūru kombinācija (kā ar blūzi Liquorosa) rada greznu un daudzpusīgu vakara ansambli.",
+      "Uzsveriet piegriezuma meistarību: oderes klātbūtne ne tikai nodrošina komfortu, bet arī garantē nevainojamu piegulumu, slēpjot jebkādas nepilnības un saglabājot izstrādājuma formu."
+    ],
+    "lt": [
+      "Akcentuokite 'Timeless Elegance' koncepciją: nėriniuotas pieštuko formos sijonas — tai klasika, nepavaldi laikui, ir patikima investicija į ypatingų progų garderobą.",
+      "Rekomenduokite Faustin kaip idealų pagrindą vienspalviams juodiems įvaizdžiams: skirtingų nėrinių faktūrų derinys (pavyzdžiui, su palaidine Liquorosa) sukuria prabangų ir daugialypį vakarinį ansamblį.",
+      "Pabrėžkite kirpimo meistriškumą: pamušalas ne tik užtikrina komfortą, bet ir garantuoja nepriekaištingą prigludimą, paslėpdamas bet kokius netobulumus ir išlaikydamas gaminio formą."
+    ],
+    "pl": [
+      "Postaw na koncepcję 'Timeless Elegance': koronkowa spódnica ołówkowa to klasyka, która jest ponadczasowa i stanowi niezawodną inwestycję w garderobę na specjalne okazje.",
+      "Rekomenduj Faustin jako idealną bazę do monochromatycznych czarnych stylizacji: połączenie różnych koronkowych faktur (jak z bluzką Liquorosa) tworzy luksusowy i wielowymiarowy wieczorowy zestaw.",
+      "Podkreśl mistrzostwo kroju: obecność podszewki nie tylko zapewnia komfort, ale także gwarantuje nienaganne dopasowanie, maskując wszelkie niedoskonałości i zachowując formę produktu."
+    ],
+    "uk": [
+      "Робіть акцент на концепції 'Timeless Elegance': мереживна спідниця-футляр — це класика, яка не підвладна часу і є надійною інвестицією в гардероб для особливих випадків.",
+      "Рекомендуйте Faustin як ідеальну базу для монохромних чорних образів: поєднання різних мереживних фактур (як із блузою Liquorosa) створює розкішний та багатогранний вечірній ансамбль.",
+      "Підкресліть майстерність крою: наявність підкладки не лише забезпечує комфорт, а й гарантує бездоганну посадку, приховуючи будь-які недосконалості та зберігаючи форму виробу."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Lace may feel too formal for frequent wear.",
+        "a": "Style the Faustin piece with a simple cashmere jumper to create a 'Luxury Casual' look, ideal for an evening at the theatre or a gallery opening."
+      },
+      {
+        "q": "Concern about snagging on such a delicate material.",
+        "a": "Luisa Spagnoli lace features a densely woven construction. Furthermore, the piece is fully lined, which minimises contact between the outer layer and the body and enhances durability."
+      },
+      {
+        "q": "A below-the-knee length may visually shorten the silhouette.",
+        "a": "The high waist and tapered cut create a clean vertical line. Paired with classic Unica A 0101 0002 pumps, the skirt in fact visually elongates the legs."
+      },
+      {
+        "q": "100% polyamide may not provide sufficient comfort.",
+        "a": "The use of high-technology polyamide fibres allows for extraordinary fineness and detail in the lace pattern, while the soft lining ensures a pleasant tactile feel."
+      },
+      {
+        "q": "Concern about the care required for such an intricate piece.",
+        "a": "To preserve the pristine structure of the lace and the richness of the black colour, we strongly recommend exclusively professional dry cleaning."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Кружево кажется слишком обязывающим для частого использования.",
+        "a": "Стилизуйте модель Faustin с лаконичным кашемировым джемпером для создания образа в стиле 'Luxury Casual', подходящего для визита в театр или на вернисаж."
+      },
+      {
+        "q": "Боязнь зацепок на деликатном материале.",
+        "a": "Кружево Luisa Spagnoli обладает высокой плотностью плетения. Тем не менее, модель полностью посажена на подкладку, что минимизирует контакт внешнего слоя с телом и повышает износостойкость."
+      },
+      {
+        "q": "Длина ниже колена может визуально укорачивать силуэт.",
+        "a": "За счет высокой посадки на талии и зауженного кроя создается четкая вертикальная линия. В сочетании с классическими туфлями-лодочками Unica A 0101 0002 юбка, напротив, визуально удлиняет ноги."
+      },
+      {
+        "q": "100% полиамид может не обеспечивать достаточный комфорт.",
+        "a": "Использование высокотехнологичных волокон полиамида позволяет добиться невероятной тонкости и детализации кружевного узора, в то время как мягкая подкладка гарантирует приятные тактильные ощущения."
+      },
+      {
+        "q": "Сложность в уходе за таким сложным изделием.",
+        "a": "Для сохранения первозданной структуры кружева и насыщенности черного цвета мы настоятельно рекомендуем исключительно профессиональную сухую чистку."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الدانتيل يبدو مقيداً جداً للاستخدام المتكرر.",
+        "a": "نسقي موديل Faustin مع كنزة كشمير بسيطة للحصول على إطلالة بأسلوب 'Luxury Casual'، مناسبة لزيارة المسرح أو المعارض الفنية."
+      },
+      {
+        "q": "القلق من حدوث تمزقات في المادة الرقيقة.",
+        "a": "يتميز دانتيل Luisa Spagnoli بكثافة نسج عالية. ومع ذلك، فإن الموديل مبطن بالكامل، مما يقلل من تلامس الطبقة الخارجية مع الجسم ويزيد من متانتها."
+      },
+      {
+        "q": "الطول الذي يتجاوز الركبة قد يجعل القوام يبدو أقصر بصرياً.",
+        "a": "بفضل الخصر العالي والقصة الضيقة، يتشكل خط عمودي واضح. وبالتنسيق مع أحذية الكعب العالي الكلاسيكية Unica A 0101 0002، تساهم التنورة في إطالة الساقين بصرياً."
+      },
+      {
+        "q": "بولياميد 100% قد لا يوفر الراحة الكافية.",
+        "a": "يسمح استخدام ألياف البولياميد عالية التقنية بتحقيق دقة وتفاصيل مذهلة في نقش الدانتيل، بينما تضمن البطانة الناعمة إحساساً مريحاً عند اللمس."
+      },
+      {
+        "q": "صعوبة العناية بقطعة معقدة كهذه.",
+        "a": "للحفاظ على بنية الدانتيل الأصلية وكثافة اللون الأسود، نوصي بشدة بالتنظيف الجاف الاحترافي حصراً."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მაქმანი ზედმეტად ვალდებულად ჩანს ხშირი გამოყენებისთვის.",
+        "a": "შეუხამეთ მოდელი Faustin ლაკონურ ქაშმირის ჯემპერს 'Luxury Casual' სტილის იმიჯის შესაქმნელად, რომელიც შესაფერისია თეატრში ან ვერნისაჟზე ვიზიტისთვის."
+      },
+      {
+        "q": "შიში დელიკატურ მასალაზე ძაფების გამოწევის გამო.",
+        "a": "Luisa Spagnoli-ს მაქმანი გამოირჩევა ქსოვის მაღალი სიმკვრივით. მიუხედავად ამისა, მოდელი სრულად არის დასმული სარჩულზე, რაც მინიმუმამდე ამცირებს გარე ფენის კონტაქტს სხეულთან და ზრდის ცვეთამედეგობას."
+      },
+      {
+        "q": "მუხლს ქვემოთ სიგრძემ შესაძლოა ვიზუალურად დაამოკლოს სილუეტი.",
+        "a": "წელზე მაღალი დაჯდომისა და შევიწროებული კროის ხარჯზე იქმნება მკაფიო ვერტიკალური ხაზი. კლასიკურ ფეხსაცმელ Unica A 0101 0002 -თან ერთად კალთა, პირიქით, ვიზუალურად აგრძელებს ფეხებს."
+      },
+      {
+        "q": "100% პოლიამიდმა შესაძლოა არ უზრუნველყოს საკმარისი კომფორტი.",
+        "a": "პოლიამიდის მაღალტექნოლოგიური ბოჭკოების გამოყენება საშუალებას იძლევა მივაღწიოთ მაქმანისებრი ორნამენტის წარმოუდგენელ დახვეწილობასა და დეტალიზაციას, ხოლო რბილი სარჩული უზრუნველყოფს სასიამოვნო ტაქტილურ შეგრძნებებს."
+      },
+      {
+        "q": "სირთულე ასეთი რთული ნაკეთობის მოვლისას.",
+        "a": "მაქმანის პირველადი სტრუქტურისა და შავი ფერის სიღრმის შესანარჩუნებლად ჩვენ კატეგორიულად გირჩევთ მხოლოდ პროფესიონალურ მშრალ წმენდას."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Ժանյակը չափազանց պարտավորեցնող է թվում հաճախակի օգտագործման համար",
+        "a": "Ոճավորեք Faustin մոդելը լակոնիկ քաշմիրե ջեմփերով՝ 'Luxury Casual' ոճի կերպար ստեղծելու համար, որը հարմար է թատրոն կամ ցուցահանդես այցելելու համար"
+      },
+      {
+        "q": "Նուրբ նյութի վրա քերծվածքների վախ",
+        "a": "Luisa Spagnoli-ի ժանյակն ունի հյուսվածքի բարձր խտություն: Այնուամենայնիվ, մոդելը լիովին ունի աստառ, ինչը նվազագույնի է հասցնում արտաքին շերտի շփումը մարմնի հետ և բարձրացնում մաշվածադիմացկունությունը"
+      },
+      {
+        "q": "Ծնկից ցածր երկարությունը կարող է տեսողականորեն կարճացնել ուրվագիծը",
+        "a": "Իրանի հատվածում բարձր գոտկատեղի և նեղացված կտրվածքի հաշվին ստեղծվում է հստակ ուղղահայաց գիծ: Unica A 0101 0002 դասական կոշիկների հետ համադրությամբ կիսաշրջազգեստը, ընդհակառակը, տեսողականորեն երկարացնում է ոտքերը"
+      },
+      {
+        "q": "100% պոլիամիդը կարող է բավարար հարմարավետություն չապահովել",
+        "a": "Պոլիամիդի բարձրտեխնոլոգիական թելերի օգտագործումը թույլ է տալիս հասնել ժանյակավոր նախշի անհավանական նրբության և դետալացման, մինչդեռ փափուկ աստառը երաշխավորում է հաճելի շոշափելի զգացողություններ"
+      },
+      {
+        "q": "Այսպիսի բարդ իրի խնամքի բարդությունը",
+        "a": "Ժանյակի սկզբնական կառուցվածքը և սև գույնի հագեցվածությունը պահպանելու համար մենք խստորեն խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Mežģīnes šķiet pārāk uzmācīgas biežai lietošanai.",
+        "a": "Stilojiet Faustin modeli ar lakonisku kašmira džemperi, lai radītu 'Luxury Casual' stila tēlu, kas piemērots vizītei teātrī vai vernisāžā."
+      },
+      {
+        "q": "Bailes no āķiem uz delikāta materiāla.",
+        "a": "Luisa Spagnoli mežģīnēm ir augsts pinuma blīvums. Tomēr modelis ir pilnībā uzlikts uz oderes, kas samazina ārējā slāņa kontaktu ar ķermeni un palielina nodilumizturību."
+      },
+      {
+        "q": "Garums zem ceļgala var vizuāli saīsināt siluetu.",
+        "a": "Pateicoties augstajai jostasvietai un sašaurinātajam piegriezumam, tiek radīta skaidra vertikāla līnija. Kombinācijā ar klasiskām laiviņkurpēm Unica A 0101 0002 svārki, gluži pretēji, vizuāli pagarina kājas."
+      },
+      {
+        "q": "100% poliamīds var nenodrošināt pietiekamu komfortu.",
+        "a": "Augsto tehnoloģiju poliamīda šķiedru izmantošana ļauj panākt neticamu mežģīņu raksta smalkumu un detalizāciju, kamēr mīksta odere garantē patīkamas taustes sajūtas."
+      },
+      {
+        "q": "Sarežģītība kopšanā par tik sarežģītu izstrādājumu.",
+        "a": "Lai saglabātu mežģīņu sākotnējo struktūru un melnās krāsas piesātinātību, mēs stingri iesakām tikai profesionālu ķīmisko tīrīšanu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Nėriniai atrodo per daug įpareigojantys dažnam naudojimui.",
+        "a": "Stilizuokite Faustin modelį su lakonišku kašmyro megztiniu, kad sukurtumėte 'Luxury Casual' stiliaus įvaizdį, tinkantį vizitui į teatrą ar vernisažą."
+      },
+      {
+        "q": "Baimė dėl užkabinimų ant subtilios medžiagos.",
+        "a": "Luisa Spagnoli nėriniai pasižymi aukštu audimo tankiu. Nepaisant to, modelis yra visiškai su pamušalu, kas sumažina išorinio sluoksnio kontaktą su kūnu ir padidina atsparumą dilimui."
+      },
+      {
+        "q": "Ilgis žemiau kelių gali vizualiai trumpinti siluetą.",
+        "a": "Dėl aukšto liemens ir siaurinto kirpimo sukuriama aiški vertikali linija. Derinant su klasikiniais laivelio tipo bateliais Unica A 0101 0002, sijonas, priešingai, vizualiai ilgina kojas."
+      },
+      {
+        "q": "100% poliamidas gali neužtikrinti pakankamo komforto.",
+        "a": "Aukštųjų technologijų poliamido pluoštų naudojimas leidžia pasiekti neįtikėtiną nėrinių rašto plonumą ir detalumą, o minkštas pamušalas garantuoja malonius taktilinius pojūčius."
+      },
+      {
+        "q": "Sudėtinga priežiūra tokiam delikačiam gaminiui.",
+        "a": "Norint išsaugoti pirminę nėrinių struktūrą ir juodos spalvos sodrumą, primygtinai rekomenduojame išskirtinai profesionalų cheminį valymą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Koronka wydaje się zbyt wymagająca do częstego noszenia.",
+        "a": "Stylizuj model Faustin z minimalistycznym kaszmirowym swetrem, aby stworzyć look w stylu 'Luxury Casual', idealny na wizytę w teatrze lub wernisaż."
+      },
+      {
+        "q": "Obawa przed zaciągnięciami na delikatnym materiale.",
+        "a": "Koronka Luisa Spagnoli wyróżnia się wysoką gęstością splotu. Co więcej, model posiada pełną podszewkę, co minimalizuje kontakt warstwy zewnętrznej z ciałem i zwiększa trwałość produktu."
+      },
+      {
+        "q": "Długość poniżej kolana może optycznie skracać sylwetkę.",
+        "a": "Dzięki wysokiemu stanowi i zwężanemu krojowi tworzy się wyraźna pionowa linia. W połączeniu z klasycznymi czółenkami Unica A 0101 0002 spódnica, wprost przeciwnie, optycznie wydłuża nogi."
+      },
+      {
+        "q": "100% poliamid może nie zapewniać wystarczającego komfortu.",
+        "a": "Zastosowanie zaawansowanych technologicznie włókien poliamidowych pozwala uzyskać niezwykłą finezję i detalizację koronkowego wzoru, podczas gdy miękka podszewka gwarantuje przyjemne odczucia w dotyku."
+      },
+      {
+        "q": "Trudności w pielęgnacji tak złożonego produktu.",
+        "a": "Aby zachować pierwotną strukturę koronki i głębię czerni, zdecydowanie zalecamy wyłącznie profesjonalne czyszczenie chemiczne."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Мереживо здається занадто зобов'язуючим для частого використання.",
+        "a": "Стилізуйте модель Faustin з лаконічним кашеміровим джемпером для створення образу в стилі 'Luxury Casual', що підходить для візиту в театр або на вернісаж."
+      },
+      {
+        "q": "Побоювання щодо зачіпок на делікатному матеріалі.",
+        "a": "Мереживо Luisa Spagnoli має високу щільність плетіння. Тим не менш, модель повністю посаджена на підкладку, що мінімізує контакт зовнішнього шару з тілом і підвищує зносостійкість."
+      },
+      {
+        "q": "Довжина нижче коліна може візуально вкорочувати силует.",
+        "a": "Завдяки високій посадці на талії та звуженому крою створюється чітка вертикальна лінія. У поєднанні з класичними туфлями-човниками Unica A 0101 0002 спідниця, навпаки, візуально подовжує ноги."
+      },
+      {
+        "q": "100% поліамід може не забезпечувати достатній комфорт.",
+        "a": "Використання високотехнологічних волокон поліаміду дозволяє досягти неймовірної тонкості та деталізації мереживного візерунка, тоді як м'яка підкладка гарантує приємні тактильні відчуття."
+      },
+      {
+        "q": "Складність у догляді за таким складним виробом.",
+        "a": "Для збереження первозданної структури мережива та насиченості чорного кольору ми наполегливо рекомендуємо виключно професійну суху чистку."
+      }
+    ]
+  }
+}

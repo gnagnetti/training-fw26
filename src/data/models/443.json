@@ -1,0 +1,570 @@
+{
+  "id": 443,
+  "name": "Meritare",
+  "description": {
+    "en": "The Meritare pullover is the embodiment of refined minimalism and tactile luxury, created in the finest traditions of Luisa Spagnoli's knitwear artistry. Crafted from the finest pure virgin wool (pura lana vergine), whose noble texture is underscored by a flat-rib weave (coste piatte). The classic silhouette with a high turtleneck collar (dolcevita) delivers a sense of absolute comfort and security, while the Regular fit ensures flawless purity of line. The design's principal jewel-like accent is the signature flat gold-tone LS buttons, adorning the cuffs, which transforms a basic wardrobe staple into a status-defining object in the 'Quiet Luxury' style.",
+    "ru": "Пуловер Meritare --- это воплощение изысканного минимализма и тактильной роскоши, созданное в лучших традициях трикотажного искусства Luisa Spagnoli. Модель выполнена из чистой девственной шерсти (pura lana vergine) высшего качества, чья благородная фактура подчеркнута переплетением в плоский рубчик (coste piatte). Классический силуэт с высоким воротником-гольф (dolcevita) дарит ощущение абсолютного комфорта и защищенности, в то время как регулярная посадка (vestibilità regular) обеспечивает безупречную чистоту линий. Главным ювелирным акцентом дизайна выступают фирменные золотистые плоские пуговицы LS, украшающие манжеты, что превращает базовый элемент гардероба в статусный объект стиля «Quiet Luxury».",
+    "ar": "يُعد بلوفر Meritare تجسيداً للبساطة الراقية والرفاهية الملموسة، وهو ابتكار نابع من أرقى تقاليد فن التريكو لدى Luisa Spagnoli. صُممت القطعة من الصوف البكر الخالص (pura lana vergine) عالي الجودة، حيث تم إبراز ملمسها النبيل بنمط الحياكة المضلعة المسطحة (coste piatte). تمنح القصة الكلاسيكية ذات الياقة العالية (dolcevita) شعوراً بالراحة المطلقة والحماية، بينما تضمن القصة المنتظمة (vestibilità regular) خطوطاً انسيابية لا تشوبها شائبة. تبرز أزرار LS الذهبية المسطحة كأهم لمسة جمالية تزين الأساور، مما يحول هذه القطعة الأساسية إلى رمز للأناقة تحت مفهوم «Quiet Luxury».",
+    "ka": "Meritare პულოვერი არის დახვეწილი მინიმალიზმისა და ტაქტილური ფუფუნების განსახიერება, რომელიც შექმნილია Luisa Spagnoli-ის ტრიკოტაჟის ხელოვნების საუკეთესო ტრადიციებში. მოდელი შესრულებულია უმაღლესი ხარისხის სუფთა ქალწულებრივი მატყლისგან (pura lana vergine), რომლის კეთილშობილურ ფაქტურას ხაზს უსვამს ბრტყელი ნეკნებით გადაწნვა (coste piatte). კლასიკური სილუეტი მაღალი საყელოთი (dolcevita) ანიჭებს აბსოლუტური კომფორტისა და დაცულობის შეგრძნებას, მაშინ როდესაც რეგულარული მორგება (vestibilità regular) უზრუნველყოფს ხაზების უნაკლო სისუფთავეს. დიზაინის მთავარ საიუველირო აქცენტს წარმოადგენს ბრენდული ოქროსფერი ბრტყელი LS ღილები, რომლებიც ამშვენებს მანჟეტებს, რაც გარდერობის ბაზისურ ელემენტს აქცევს „Quiet Luxury“-ის სტილის სტატუსურ ობიექტად.",
+    "hy": "Meritare պուլովերը նրբագեղ մինիմալիզմի և տակտիլ շքեղության մարմնացում է, որը ստեղծված է Luisa Spagnoli տրիկոտաժի արվեստի լավագույն ավանդույթներով։ Մոդելը կատարված է բարձրագույն որակի մաքուր կուսական բրդից (pura lana vergine), որի ազնվական հյուսվածքն ընդգծված է հարթ կողավոր հյուսվածքով (coste piatte)։ Բարձր գոլֆ-օձիքով (dolcevita) դասական սիլուետը բացարձակ հարմարավետության և պաշտպանվածության զգացում է պարգևում, մինչդեռ կանոնավոր նստվածքը (vestibilità regular) ապահովում է գծերի անթերի մաքրություն։ Դիզայնի գլխավոր ոսկերչական շեշտադրումը LS ֆիրմային ոսկեգույն հարթ կոճակներն են, որոնք զարդարում են թևքերը, ինչը զգեստապահարանի բազային տարրը վերածում է «Quiet Luxury» ոճի կարգավիճակային օբյեկտի։",
+    "lv": "Puloveris Meritare --- ir izsmalcināta minimālisma un taktilas greznības iemiesojums, kas radīts labākajās Luisa Spagnoli adījumu mākslas tradīcijās. Modelis ir izgatavots no augstākās kvalitātes tīras jaunvilnas (pura lana vergine), kuras cēlo faktūru izceļ plakanais rievojums (coste piatte). Klasiskais siluets ar augsto golfa apkakli (dolcevita) dāvā absolūta komforta un aizsargātības sajūtu, kamēr regulāra piegriezuma (vestibilità regular) nodrošina nevainojamu līniju tīrību. Par galveno dizaina juvelierizstrādājumu akcentu kalpo firmas zelta krāsas plakanās LS pogas, kas rotā manšetes, kas pārvērš garderobes bāzes elementu par «Quiet Luxury» stila statusa objektu.",
+    "lt": "Megztinis Meritare --- tai rafinuoto minimalizmo ir lytėjimo prabangos įsikūnijimas, sukurtas geriausiomis Luisa Spagnoli mezgimo meno tradicijomis. Modelis pagamintas iš aukščiausios kokybės grynos vilnos (pura lana vergine), kurios kilnų faktūriškumą pabrėžia plokščias briaunotas mezgimas (coste piatte). Klasikinis siluetas su aukšta apykakle (dolcevita) suteikia absoliutaus komforto ir apsaugos pojūtį, o reguliarus prigludimas (vestibilità regular) užtikrina nepriekaištingą linijų švarą. Pagrindinis dizaino juvelyrinis akcentas --- firminės auksinės plokščios LS sagos, puošiančios rankogalius, kurios paverčia bazinį garderobo elementą statusą pabrėžiančiu „Quiet Luxury“ stiliaus objektu.",
+    "pl": "Pulower Meritare to ucieleśnienie wyrafinowanego minimalizmu i zmysłowego luksusu, stworzone w najlepszych tradycjach sztuki dziewiarskiej Luisa Spagnoli. Model wykonany z czystej żywej wełny (pura lana vergine) najwyższej jakości, której szlachetną fakturę podkreśla splot w płaski prążek (coste piatte). Klasyczna sylwetka z wysokim kołnierzem typu golf (dolcevita) zapewnia poczucie absolutnego komfortu i ochrony, podczas gdy regularny krój (vestibilità regular) gwarantuje nienaganną czystość linii. Głównym jubilerskim akcentem wzornictwa są firmowe złociste płaskie guziki LS, zdobiące mankiety, co przekształca podstawowy element garderoby w prestiżowy obiekt stylu „Quiet Luxury”.",
+    "uk": "Пуловер Meritare --- це втілення вишуканого мінімалізму та тактильної розкоші, створене в найкращих традиціях трикотажного мистецтва Luisa Spagnoli. Модель виконана з чистої дівочої вовни (pura lana vergine) вищої якості, чия благородна фактура підкреслена переплетенням у плоский рубчик (coste piatte). Класичний силует із високим коміром-гольф (dolcevita) дарує відчуття абсолютного комфорту та захищеності, тоді як регулярна посадка (vestibilità regular) забезпечує бездоганну чистоту ліній. Головним ювелірним акцентом дизайну виступають фірмові золотисті плоскі ґудзики LS, що прикрашають манжети, що перетворює базовий елемент гардероба на статусний об'єкт стилю «Quiet Luxury»."
+  },
+  "colors": [
+    {
+      "name": "Arancio",
+      "code": "1550",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1588775792691f156da99291_86057950_02780740XX1.jpg"
+    },
+    {
+      "name": "Grigio",
+      "code": "0823",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1244194360691f156e0b6c67_05072027_02780750XX1.jpg"
+    },
+    {
+      "name": "Rosa",
+      "code": "0319",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fgjq8XA9RAyif0O1AdGoSQ_633554709691f156ae8bae4_59302424_02780670XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты бренда демонстрируют универсальность Meritare, интегрируя его как в женственные образы с юбками, так и в динамичные городские сеты: Вариант 1550 ( Бежевый): Look 32: артистичное сочетание с мини-юбкой из жаккарда гобелен Flacone 4575 и высокими кожаными сапогами Ulisside 0101 0038.",
+        "en": "The brand's stylists demonstrate the versatility of Meritare, integrating it into both feminine looks with skirts and dynamic urban sets: Option 1550 ( Beige): Look 32: an artistic combination with a Flacone 4575 tapestry jacquard mini-skirt and tall Ulisside 0101 0038 leather boots.",
+        "ar": "The brand's stylists demonstrate the versatility of Meritare, integrating it into both feminine looks with skirts and dynamic urban sets: Option 1550 ( Beige): Look 32: an artistic combination with a Flacone 4575 tapestry jacquard mini-skirt and tall Ulisside 0101 0038 leather boots.",
+        "ka": "The brand's stylists demonstrate the versatility of Meritare, integrating it into both feminine looks with skirts and dynamic urban sets: Option 1550 ( Beige): Look 32: an artistic combination with a Flacone 4575 tapestry jacquard mini-skirt and tall Ulisside 0101 0038 leather boots.",
+        "hy": "The brand's stylists demonstrate the versatility of Meritare, integrating it into both feminine looks with skirts and dynamic urban sets: Option 1550 ( Beige): Look 32: an artistic combination with a Flacone 4575 tapestry jacquard mini-skirt and tall Ulisside 0101 0038 leather boots.",
+        "lv": "The brand's stylists demonstrate the versatility of Meritare, integrating it into both feminine looks with skirts and dynamic urban sets: Option 1550 ( Beige): Look 32: an artistic combination with a Flacone 4575 tapestry jacquard mini-skirt and tall Ulisside 0101 0038 leather boots.",
+        "lt": "The brand's stylists demonstrate the versatility of Meritare, integrating it into both feminine looks with skirts and dynamic urban sets: Option 1550 ( Beige): Look 32: an artistic combination with a Flacone 4575 tapestry jacquard mini-skirt and tall Ulisside 0101 0038 leather boots.",
+        "pl": "The brand's stylists demonstrate the versatility of Meritare, integrating it into both feminine looks with skirts and dynamic urban sets: Option 1550 ( Beige): Look 32: an artistic combination with a Flacone 4575 tapestry jacquard mini-skirt and tall Ulisside 0101 0038 leather boots.",
+        "uk": "The brand's stylists demonstrate the versatility of Meritare, integrating it into both feminine looks with skirts and dynamic urban sets: Option 1550 ( Beige): Look 32: an artistic combination with a Flacone 4575 tapestry jacquard mini-skirt and tall Ulisside 0101 0038 leather boots."
+      },
+      "items": [
+        {
+          "name": "Flacone",
+          "code": "4575",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/312601795691c578d055ad3_23883009_02780240XX1.jpg",
+          "modelId": 390
+        },
+        {
+          "name": "Ulisside",
+          "code": "0101 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 89",
+        "en": "Look 89",
+        "ar": "Look 89",
+        "ka": "Look 89",
+        "hy": "Look 89",
+        "lv": "Look 89",
+        "lt": "Look 89",
+        "pl": "Look 89",
+        "uk": "Look 89"
+      },
+      "text": {
+        "ru": "статусный многослойный образ под кожаный тренч Samir 0101 в паре с юбкой-карандаш Florina 0101 и акцентной сумкой Idasola 3407 0101 0002. Вариант 0823 ( Молочный):",
+        "en": "a status-oriented layered look under a Samir 0101 leather trench coat paired with a Florina 0101 pencil skirt and an accent Idasola 3407 0101 0002 bag. Option 0823 ( Milk):",
+        "ar": "a status-oriented layered look under a Samir 0101 leather trench coat paired with a Florina 0101 pencil skirt and an accent Idasola 3407 0101 0002 bag. Option 0823 ( Milk):",
+        "ka": "a status-oriented layered look under a Samir 0101 leather trench coat paired with a Florina 0101 pencil skirt and an accent Idasola 3407 0101 0002 bag. Option 0823 ( Milk):",
+        "hy": "a status-oriented layered look under a Samir 0101 leather trench coat paired with a Florina 0101 pencil skirt and an accent Idasola 3407 0101 0002 bag. Option 0823 ( Milk):",
+        "lv": "a status-oriented layered look under a Samir 0101 leather trench coat paired with a Florina 0101 pencil skirt and an accent Idasola 3407 0101 0002 bag. Option 0823 ( Milk):",
+        "lt": "a status-oriented layered look under a Samir 0101 leather trench coat paired with a Florina 0101 pencil skirt and an accent Idasola 3407 0101 0002 bag. Option 0823 ( Milk):",
+        "pl": "a status-oriented layered look under a Samir 0101 leather trench coat paired with a Florina 0101 pencil skirt and an accent Idasola 3407 0101 0002 bag. Option 0823 ( Milk):",
+        "uk": "a status-oriented layered look under a Samir 0101 leather trench coat paired with a Florina 0101 pencil skirt and an accent Idasola 3407 0101 0002 bag. Option 0823 ( Milk):"
+      },
+      "items": [
+        {
+          "name": "Samir",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2125352506691c57cc4cb114_63347318_02780450XX3.jpg"
+        },
+        {
+          "name": "Florina",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/714741276691c5789e0ccf8_89780377_02780180XX1.jpg",
+          "modelId": 391
+        },
+        {
+          "name": "Idasola",
+          "code": "3407 0101 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/idasola.png"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 30, Bambola 2",
+        "en": "Vetrina 30, Bambola 2",
+        "ar": "Vetrina 30, Bambola 2",
+        "ka": "Vetrina 30, Bambola 2",
+        "hy": "Vetrina 30, Bambola 2",
+        "lv": "Vetrina 30, Bambola 2",
+        "lt": "Vetrina 30, Bambola 2",
+        "pl": "Vetrina 30, Bambola 2",
+        "uk": "Vetrina 30, Bambola 2"
+      },
+      "text": {
+        "ru": "интеллектуальный кэжуал под классический тренч Single 1210 0844 с широкими джинсами Olla 1073.",
+        "en": "intellectual casual under a classic Single 1210 0844 trench coat with wide-leg Olla 1073 jeans.",
+        "ar": "intellectual casual under a classic Single 1210 0844 trench coat with wide-leg Olla 1073 jeans.",
+        "ka": "intellectual casual under a classic Single 1210 0844 trench coat with wide-leg Olla 1073 jeans.",
+        "hy": "intellectual casual under a classic Single 1210 0844 trench coat with wide-leg Olla 1073 jeans.",
+        "lv": "intellectual casual under a classic Single 1210 0844 trench coat with wide-leg Olla 1073 jeans.",
+        "lt": "intellectual casual under a classic Single 1210 0844 trench coat with wide-leg Olla 1073 jeans.",
+        "pl": "intellectual casual under a classic Single 1210 0844 trench coat with wide-leg Olla 1073 jeans.",
+        "uk": "intellectual casual under a classic Single 1210 0844 trench coat with wide-leg Olla 1073 jeans."
+      },
+      "items": [
+        {
+          "name": "Single",
+          "code": "1210 0844",
+          "imageUrl": null
+        },
+        {
+          "name": "Olla",
+          "code": "1073",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png",
+          "modelId": 456
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 31, Bambola 1",
+        "en": "Vetrina 31, Bambola 1",
+        "ar": "Vetrina 31, Bambola 1",
+        "ka": "Vetrina 31, Bambola 1",
+        "hy": "Vetrina 31, Bambola 1",
+        "lv": "Vetrina 31, Bambola 1",
+        "lt": "Vetrina 31, Bambola 1",
+        "pl": "Vetrina 31, Bambola 1",
+        "uk": "Vetrina 31, Bambola 1"
+      },
+      "text": {
+        "ru": "сложный подиумный сет под жакет Stafilo 3261 и пальто Speziale 0805 с брюками Odorico 3261.",
+        "en": "a complex runway set under a Stafilo 3261 jacket and a Speziale 0805 coat with Odorico 3261 trousers.",
+        "ar": "a complex runway set under a Stafilo 3261 jacket and a Speziale 0805 coat with Odorico 3261 trousers.",
+        "ka": "a complex runway set under a Stafilo 3261 jacket and a Speziale 0805 coat with Odorico 3261 trousers.",
+        "hy": "a complex runway set under a Stafilo 3261 jacket and a Speziale 0805 coat with Odorico 3261 trousers.",
+        "lv": "a complex runway set under a Stafilo 3261 jacket and a Speziale 0805 coat with Odorico 3261 trousers.",
+        "lt": "a complex runway set under a Stafilo 3261 jacket and a Speziale 0805 coat with Odorico 3261 trousers.",
+        "pl": "a complex runway set under a Stafilo 3261 jacket and a Speziale 0805 coat with Odorico 3261 trousers.",
+        "uk": "a complex runway set under a Stafilo 3261 jacket and a Speziale 0805 coat with Odorico 3261 trousers."
+      },
+      "items": [
+        {
+          "name": "Stafilo",
+          "code": "3261",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/746502062691c578981c1c3_14675480_02780170XX1.jpg",
+          "modelId": 491
+        },
+        {
+          "name": "Speziale",
+          "code": "0805",
+          "imageUrl": null
+        },
+        {
+          "name": "Odorico",
+          "code": "3261",
+          "imageUrl": null,
+          "modelId": 452
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 57, Bambola 2",
+        "en": "Vetrina 57, Bambola 2",
+        "ar": "Vetrina 57, Bambola 2",
+        "ka": "Vetrina 57, Bambola 2",
+        "hy": "Vetrina 57, Bambola 2",
+        "lv": "Vetrina 57, Bambola 2",
+        "lt": "Vetrina 57, Bambola 2",
+        "pl": "Vetrina 57, Bambola 2",
+        "uk": "Vetrina 57, Bambola 2"
+      },
+      "text": {
+        "ru": "зимний выход под структурное пальто-халат Stenografo 0101 в сочетании со шляпой Renno 0814.",
+        "en": "a winter look under a structural wrap coat Stenografo 0101 combined with a Renno 0814 hat.",
+        "ar": "a winter look under a structural wrap coat Stenografo 0101 combined with a Renno 0814 hat.",
+        "ka": "a winter look under a structural wrap coat Stenografo 0101 combined with a Renno 0814 hat.",
+        "hy": "a winter look under a structural wrap coat Stenografo 0101 combined with a Renno 0814 hat.",
+        "lv": "a winter look under a structural wrap coat Stenografo 0101 combined with a Renno 0814 hat.",
+        "lt": "a winter look under a structural wrap coat Stenografo 0101 combined with a Renno 0814 hat.",
+        "pl": "a winter look under a structural wrap coat Stenografo 0101 combined with a Renno 0814 hat.",
+        "uk": "a winter look under a structural wrap coat Stenografo 0101 combined with a Renno 0814 hat."
+      },
+      "items": [
+        {
+          "name": "Stenografo",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/423075215691f159ece82c7_01062323_02780930XX1.jpg",
+          "modelId": 496
+        },
+        {
+          "name": "Renno",
+          "code": "0814",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57693e01-fdb6-4b56-a73b-26c4b4d8ce61.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 67, Bambola 2",
+        "en": "Vetrina 67, Bambola 2",
+        "ar": "Vetrina 67, Bambola 2",
+        "ka": "Vetrina 67, Bambola 2",
+        "hy": "Vetrina 67, Bambola 2",
+        "lv": "Vetrina 67, Bambola 2",
+        "lt": "Vetrina 67, Bambola 2",
+        "pl": "Vetrina 67, Bambola 2",
+        "uk": "Vetrina 67, Bambola 2"
+      },
+      "text": {
+        "ru": "функциональный образ под куртку в стиле милитари Squadratura 0101 0988 с брюками Overt 0978. Вариант 0319 ( Голубой):",
+        "en": "a functional look under a military-style Squadratura 0101 0988 jacket with Overt 0978 trousers. Option 0319 ( Light Blue):",
+        "ar": "a functional look under a military-style Squadratura 0101 0988 jacket with Overt 0978 trousers. Option 0319 ( Light Blue):",
+        "ka": "a functional look under a military-style Squadratura 0101 0988 jacket with Overt 0978 trousers. Option 0319 ( Light Blue):",
+        "hy": "a functional look under a military-style Squadratura 0101 0988 jacket with Overt 0978 trousers. Option 0319 ( Light Blue):",
+        "lv": "a functional look under a military-style Squadratura 0101 0988 jacket with Overt 0978 trousers. Option 0319 ( Light Blue):",
+        "lt": "a functional look under a military-style Squadratura 0101 0988 jacket with Overt 0978 trousers. Option 0319 ( Light Blue):",
+        "pl": "a functional look under a military-style Squadratura 0101 0988 jacket with Overt 0978 trousers. Option 0319 ( Light Blue):",
+        "uk": "a functional look under a military-style Squadratura 0101 0988 jacket with Overt 0978 trousers. Option 0319 ( Light Blue):"
+      },
+      "items": [
+        {
+          "name": "Squadratura",
+          "code": "0101 0988",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1074652343691c5789294382_44386307_02780160XX1.jpg",
+          "modelId": 490
+        },
+        {
+          "name": "Overt",
+          "code": "0978",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/aRhuWFmbR-y2VnGMh2DLyQ_818557080696f42ee1851b3_58178703_02820810XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Look 57",
+        "en": "Look 57",
+        "ar": "Look 57",
+        "ka": "Look 57",
+        "hy": "Look 57",
+        "lv": "Look 57",
+        "lt": "Look 57",
+        "pl": "Look 57",
+        "uk": "Look 57"
+      },
+      "text": {
+        "ru": "расслабленный люкс в паре с широкими джинсами-палаццо Opaglio 0927.",
+        "en": "relaxed luxury paired with wide-leg Opaglio 0927 palazzo jeans.",
+        "ar": "relaxed luxury paired with wide-leg Opaglio 0927 palazzo jeans.",
+        "ka": "relaxed luxury paired with wide-leg Opaglio 0927 palazzo jeans.",
+        "hy": "relaxed luxury paired with wide-leg Opaglio 0927 palazzo jeans.",
+        "lv": "relaxed luxury paired with wide-leg Opaglio 0927 palazzo jeans.",
+        "lt": "relaxed luxury paired with wide-leg Opaglio 0927 palazzo jeans.",
+        "pl": "relaxed luxury paired with wide-leg Opaglio 0927 palazzo jeans.",
+        "uk": "relaxed luxury paired with wide-leg Opaglio 0927 palazzo jeans."
+      },
+      "items": [
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Vetrina 66, Bambola 3",
+        "en": "Vetrina 66, Bambola 3",
+        "ar": "Vetrina 66, Bambola 3",
+        "ka": "Vetrina 66, Bambola 3",
+        "hy": "Vetrina 66, Bambola 3",
+        "lv": "Vetrina 66, Bambola 3",
+        "lt": "Vetrina 66, Bambola 3",
+        "pl": "Vetrina 66, Bambola 3",
+        "uk": "Vetrina 66, Bambola 3"
+      },
+      "text": {
+        "ru": "современный зимний сет под стеганый пуховик Slalicornia 2262 с зауженными джинсами Olibis 1088 и шляпой Renno 0814.",
+        "en": "a modern winter set under a quilted Slalicornia 2262 down jacket with slim Olibis 1088 jeans and a Renno 0814 hat.",
+        "ar": "a modern winter set under a quilted Slalicornia 2262 down jacket with slim Olibis 1088 jeans and a Renno 0814 hat.",
+        "ka": "a modern winter set under a quilted Slalicornia 2262 down jacket with slim Olibis 1088 jeans and a Renno 0814 hat.",
+        "hy": "a modern winter set under a quilted Slalicornia 2262 down jacket with slim Olibis 1088 jeans and a Renno 0814 hat.",
+        "lv": "a modern winter set under a quilted Slalicornia 2262 down jacket with slim Olibis 1088 jeans and a Renno 0814 hat.",
+        "lt": "a modern winter set under a quilted Slalicornia 2262 down jacket with slim Olibis 1088 jeans and a Renno 0814 hat.",
+        "pl": "a modern winter set under a quilted Slalicornia 2262 down jacket with slim Olibis 1088 jeans and a Renno 0814 hat.",
+        "uk": "a modern winter set under a quilted Slalicornia 2262 down jacket with slim Olibis 1088 jeans and a Renno 0814 hat."
+      },
+      "items": [
+        {
+          "name": "Slalicornia",
+          "code": "2262",
+          "imageUrl": null
+        },
+        {
+          "name": "Olibis",
+          "code": "1088",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e85a8ef9-0175-442b-b5a7-cf782a9e05a2-removebg-preview.png",
+          "modelId": 454
+        },
+        {
+          "name": "Renno",
+          "code": "0814",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/57693e01-fdb6-4b56-a73b-26c4b4d8ce61.jpg"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- The 'Vertical Line' effect: Direct the client's attention to the flat-rib knit. Unlike a bulky knit, this texture creates fine vertical lines that visually discipline the silhouette and slim the figure. - A jewel-like accent at the wrists: Highlight the"
+    ],
+    "ru": [
+      "- Эффект «Вертикали»: Акцентируйте внимание клиента на вязке в плоский рубчик. В отличие от объемной вязки, эта фактура создает тонкие вертикальные линии, которые визуально дисциплинируют силуэт и делают фигуру стройнее. - Ювелирный акцент на запястьях: П"
+    ],
+    "ar": [
+      "- تأثير «الخطوط العمودية»: وجهي انتباه العميل إلى الحياكة ذات الضلوع المسطحة. وعلى عكس الحياكة الضخمة، تخلق هذه البنية خطوطاً عمودية دقيقة تضبط القوام بصرياً وتجعل الشكل يبدو أكثر رشاقة. - لمسة مجوهرات على المعصمين: أكدي على وجود أزرار LS الذهبية على الأك"
+    ],
+    "ka": [
+      "- «ვერტიკალის» ეფექტი: ყურადღება გაამახვილეთ მომხმარებლის ბრტყელ ნეკნებიან ქსოვაზე. მოცულობითი ქსოვისგან განსხვავებით, ეს ფაქტურა ქმნის თხელ ვერტიკალურ ხაზებს, რომლებიც ვიზუალურად აწესრიგებს სილუეტს და ფიგურას უფრო მეტად ათხელებს. - საიუველირო აქცენტი მაჯ"
+    ],
+    "hy": [
+      "- «Ուղղահայացի» էֆեկտը. Հաճախորդի ուշադրությունը հրավիրեք հարթ գծավոր հյուսվածքին: Ի տարբերություն ծավալուն հյուսվածքի՝ այս ֆակտուրան ստեղծում է բարակ ուղղահայաց գծեր, որոնք տեսողականորեն կարգավորում են ուրվագիծը և կազմվածքն ավելի բարակ դարձնում: - Ոսկերչ"
+    ],
+    "lv": [
+      "- \"Vertikāles\" efekts: Akcentējiet klienta uzmanību uz plakano ribu adījumu. Atšķirībā no apjomīga adījuma, šī faktūra rada smalkas vertikālas līnijas, kas vizuāli disciplinē siluetu un padara figūru slaidāku. - Juvelierizstrādājumu akcents uz plaukstu lo"
+    ],
+    "lt": [
+      "- „Vertikalės“ efektas: Akcentuokite klientui plokščio rumbelio mezgimą. Skirtingai nei stambus mezgimas, ši faktūra sukuria subtilias vertikalias linijas, kurios vizualiai disciplinuoja siluetą ir lieknina figūrą. - Juvelyrinis akcentas ant riešų: Pabrėžkite aukso spalvos LS sagas ant rankogalių. Ši detalė leidžia atsisakyti apyrankių, sutelkiant dėmesį į rankų grakštumą ir pabrėžiant aukščiausios kokybės gaminio statusą. - Investicija į „Pura Lana“: Akcentuokite 100% pura lana vergine sudėtį. Paaiškinkite, kad tai pirmojo kirpimo vilna, pasižyminti unikalia termoreguliacija --- ji šildo lauke ir leidžia odai kvėpuoti patalpoje, išlaikydama formą daugelį metų."
+    ],
+    "pl": [
+      "- Efekt „Wertykału”: Zwróć uwagę klienta na splot w płaski ściągacz. W przeciwieństwie do wypukłego splotu, ta faktura tworzy subtelne pionowe linie, które optycznie modelują sylwetkę i wysmuklają figurę. - Jubilerski akcent na nadgarstkach: Podkreśl obec"
+    ],
+    "uk": [
+      "- Ефект «Вертикалі»: Акцентуйте увагу клієнта на в’язці у плаский рубчик. На відміну від об’ємної в’язки, ця фактура створює тонкі вертикальні лінії, які візуально дисциплінують силует і роблять фігуру стрункішою. - Ювелірний акцент на зап’ястях: Підкресл"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The",
+        "a": "high collar Point out the elasticity of the \"coste piatte\" knit. might be The collar hugs the neck softly without applying uncomfortable» excess pressure, and adapts to the body's movements. «The wool might Suggest a tactile test of the softness of the virgin be itchy» wool. Spagnoli pieces use a top-grade, refined fiber suitable even for sensitive skin. «Light shades Highlight the \"brightening\" effect of the milky (0823) aren't shade. It illuminates the complexion, and with practical» proper care, quality wool is easily cleaned without losing its sheen. «The design seems Point out the details: the flat rib and gold too basic» buttons. This is a classic that never goes out of style and serves as the perfect canvas for any accessories. «I'm worried the Explain that the dense rib knit (coste piatte) has pullover will an excellent fiber \"memory.\" It preserves the stretch out» piece's structure and prevents distortion at the elbows"
+      }
+    ],
+    "ru": [
+      {
+        "q": "Высокий",
+        "a": "Укажите на эластичность вязки «coste piatte . воротник может Воротник мягко облегает шею, не создавая излишнего мешать» давления, и адаптируется к движениям тела."
+      },
+      {
+        "q": "Шерсть может",
+        "a": "Предложите тактильно оценить мягкость девственной колоться шерсти. В изделиях Spagnoli используется очищенное волокно высшей пробы, которое подходит даже для чувствительной кожи."
+      },
+      {
+        "q": "Светлые",
+        "a": "Подчеркните «омолаживающий эффект молочного цвета. оттенки (0823) Он подсвечивает лицо, а качественная шерсть при непрактичны» правильном уходе легко очищается и не теряет сияния."
+      },
+      {
+        "q": "Дизайн кажется",
+        "a": "Обратите внимание на детали: плоский рубчик и золотые слишком пуговицы. Это классика, которая никогда не выйдет из базовым моды и является идеальным холстом для любых аксессуаров."
+      },
+      {
+        "q": "Боюсь, что",
+        "a": "Поясните, что плотная вязка в рубчик (coste piatte) пуловер обладает высокой «памятью волокна. Она сохраняет растянется» структуру изделия и предотвращает деформацию в локтях."
+      }
+    ],
+    "ar": [
+      {
+        "q": "ال",
+        "a": "الياقة العالية قد تسبب ضيقاً» أظهري مرونة الحياكة بنمط «coste piatte». الياقة تلتف حول الرقبة بنعومة دون التسبب في أي ضغط وتتكيف مع حركة الجسم. «الصوف قد يسبب وخزاً» اقترحي لمس نعومة صوف البكر. في قطع Spagnoli، نستخدم أليافاً منقى من الدرجة الأولى تناسب حتى البشرة الحساسة. «الألوان الفاتحة (0823) غير عملية» أكدي على التأثير المجدد للون الحليبي. فهو يضيء الوجه، والصوف عالي الجودة سهل التنظيف ويحافظ على بريقه مع العناية الصحيحة. «التصميم يبدو أساسياً أكثر من اللازم» وجهي الانتباه إلى التفاصيل: التضليع المسطح والأزرار الذهبية. هذه كلاسيكية لن تخرج عن الموضة أبداً، وهي لوحة مثالية لأي إكسسوارات. «أخشى أن يتمدد البلوفر» اشرحي أن الحياكة الكثيفة المضلعة (coste piatte) تتمتع بـ «ذاكرة» عالية للألياف، فهي تحافظ على هيكل القطعة وتمنع الترهل عند المرفقين"
+      }
+    ],
+    "ka": [
+      {
+        "q": "მაღალი საყელო შესაძლოა ხელს მიშლიდეს",
+        "a": "მიუთითეთ."
+      },
+      {
+        "q": "coste piatte“-ს ქსოვის ელასტიურობაზე. საყელო რბილად ეკვრის კისერს, ზედმეტი ზეწოლის გარეშე და ეგუება სხეულის მოძრაობებს. «შალი შესაძლოა მჩხვლეტავი იყოს",
+        "a": "შესთავაზეთ ტაქტილურად შეაფასონ ქალწულებრივი შალის სირბილე. Spagnoli-ს ნაწარმში გამოიყენება უმაღლესი სინჯის გასუფთავებული ბოჭკო, რომელიც მგრძნობიარე კანისთვისაც კი იდეალურია."
+      },
+      {
+        "q": "ღია ფერები (0823) არაპრაქტიკულია",
+        "a": "ხაზი გაუსვით რძისფრის."
+      },
+      {
+        "q": "გამაახალგაზრდავებელ“ ეფექტს. ის ანათებს სახეს, ხოლო მაღალი ხარისხის შალი სათანადო მოვლისას ადვილად იწმინდება და არ კარგავს ბზინვარებას. «დიზაინი ზედმეტად ბაზური ჩანს",
+        "a": "ყურადღება მიაქციეთ დეტალებს: ბრტყელ ნაქსოვს და ოქროსფერ ღილებს. ეს არის კლასიკა, რომელიც არასოდეს გადავა მოდიდან და წარმოადგენს იდეალურ ტილოს ნებისმიერი აქსესუარისთვის."
+      },
+      {
+        "q": "მეშინია, რომ პულოვერი გაიწელება",
+        "a": "განუმარტეთ, რომ „coste piatte“-ს მჭიდრო ქსოვილს გააჩნია ბოჭკოს მაღალი „მეხსიერება“. ის ინარჩუნებს ნაწარმის სტრუქტურას და ხელს უშლის დეფორმაციას იდაყვებში."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Բարձր օձիկը կարող է խանգարել",
+        "a": "՝ Մատնանշեք."
+      },
+      {
+        "q": "coste piatte",
+        "a": "հյուսվածքի առաձգականությունը։ Օձիկը փափուկ գրկում է պարանոցը՝ առանց ավելորդ ճնշում գործադրելու, և հարմարվում է մարմնի շարժումներին։."
+      },
+      {
+        "q": "Բուրդը կարող է ծակել",
+        "a": "՝ Առաջարկեք շոշափելով գնահատել դիցուհու բրդի փափկությունը։ Spagnoli-ի արտադրանքներում օգտագործվում է ամենաբարձր որակի մաքրված մանրաթել, որը հարմար է նույնիսկ զգայուն մաշկի համար։."
+      },
+      {
+        "q": "Բաց երանգները (0823) անգործնական են",
+        "a": "՝ Ընդգծեք կաթնագույնի."
+      },
+      {
+        "q": "երիտասարդացնող",
+        "a": "ազդեցությունը։ Այն լուսավորում է դեմքը, իսկ որակյալ բուրդը ճիշտ խնամքի դեպքում հեշտությամբ մաքրվում է և չի կորցնում իր փայլը։."
+      },
+      {
+        "q": "Դիզայնը չափազանց բազային է թվում",
+        "a": "՝ Ուշադրություն դարձրեք մանրուքներին՝ հարթ կողագծերին և ոսկեգույն կոճակներին։ Սա դասական է, որը երբեք դուրս չի գա նորաձևությունից և հանդիսանում է կատարյալ հիմք ցանկացած աքսեսուարի համար։."
+      },
+      {
+        "q": "Վախենում եմ, որ պուլովերը կձգվի",
+        "a": "՝ Բացատրեք, որ խիտ կողագծերով (coste piatte) հյուսվածքը օժտված է մանրաթելի բարձր."
+      },
+      {
+        "q": "հիշողությամբ",
+        "a": "։ Այն պահպանում է արտադրանքի կառուցվածքը և կանխում արմունկների հատվածում դեֆորմացիան։."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Augsta apkakle var",
+        "a": "Norādiet uz «coste piatte adījuma elastību. Apkakle traucēt» maigi pieguļ kaklam, neradot lieku spiedienu, un pielāgojas ķermeņa kustībām."
+      },
+      {
+        "q": "Vilna var kost",
+        "a": "Piedāvājiet taktilā veidā novērtēt pirmatnējās vilnas maigumu. Spagnoli izstrādājumos tiek izmantota augstākās kvalitātes attīrīta šķiedra, kas piemērota pat jutīgai ādai."
+      },
+      {
+        "q": "Gaišie toņi (0823)",
+        "a": "Uzsveriet piena krāsas «atjaunojošo efektu. Tā izgaismo nav praktiski» seju, bet kvalitatīvā vilna ar pareizu kopšanu viegli tīrāma un nezaudē savu spožumu."
+      },
+      {
+        "q": "Dizains šķiet",
+        "a": "Pievērsiet uzmanību detaļām: plakanā rievojuma adījums pārāk vienkāršs un zelta pogas. Tā ir klasika, kas nekad neizies no modes un ir ideāls fons jebkuriem aksesuāriem."
+      },
+      {
+        "q": "Baidos, ka pulovers",
+        "a": "Izskaidrojiet, ka blīvais rievotais adījums (coste piatte) izstaipīsies piemīt augsta šķiedras."
+      },
+      {
+        "q": "atmiņa",
+        "a": ". Tas saglabā izstrādājuma struktūru un novērš deformāciju elkoņu zonā."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas: Strategija įveikti: „Aukšta apykaklė",
+        "a": "Atkreipkite dėmesį į „coste piatte“ mezgimo gali trukdyti“ elastingumą. Apykaklė švelniai priglunda prie kaklo, nespausdama ir prisitaikydama prie kūno judesių. į „coste piatte“ mezgimo gali trukdyti“ elastingumą. Apykaklė švelniai priglunda prie kaklo, nespausdama ir prisitaikydama prie kūno judesių."
+      },
+      {
+        "q": "„Vilna gali būti",
+        "a": "Pasiūlykite paliesti ir pajusti pirminės vilnos (virgin wool) šiurkšti“ minkštumą. Spagnoli gaminiuose naudojamas aukščiausios kokybės išgrynintas pluoštas, tinkantis net jautriai odai. paliesti ir pajusti pirminės vilnos (virgin wool) šiurkšti“ minkštumą. Spagnoli gaminiuose naudojamas aukščiausios kokybės išgrynintas pluoštas, tinkantis net jautriai odai."
+      },
+      {
+        "q": "„Šviesūs atspalviai",
+        "a": "Pabrėžkite pieno spalvos jauninamąjį efektą. Ji (0823) nepraktiški“ šviesina veidą, o kokybiška vilna tinkamai prižiūrint lengvai valosi ir nepraranda savo spindesio. pieno spalvos jauninamąjį efektą. Ji (0823) nepraktiški“ šviesina veidą, o kokybiška vilna tinkamai prižiūrint lengvai valosi ir nepraranda savo spindesio."
+      },
+      {
+        "q": "„Dizainas atrodo per",
+        "a": "Atkreipkite dėmesį į detales: plokščias rumbelis ir auksinės daug bazinis“ sagos. Tai klasika, kuri niekada neišeis iš mados ir yra idealus pagrindas bet kokiems aksesuarams. į detales: plokščias rumbelis ir auksinės daug bazinis“ sagos. Tai klasika, kuri niekada neišeis iš mados ir yra idealus pagrindas bet kokiems aksesuarams."
+      },
+      {
+        "q": "„Bijau, kad",
+        "a": "Paaiškinkite, jog tankus mezgimas rumbeliais (coste piatte) puloveris išsitampys“ pasižymi aukšta pluošto „atmintimi“. Jis išlaiko gaminio struktūrą ir apsaugo nuo deformacijos alkūnių srityje."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wysoki kołnierz",
+        "a": "Wskaż na elastyczność splotu „coste piatte . Kołnierz może przeszkadzać” delikatnie otula szyję, nie tworząc nadmiernego ucisku i dopasowując się do ruchów ciała."
+      },
+      {
+        "q": "Wełna może gryźć",
+        "a": "Zaproponuj dotykową ocenę miękkości dziewiczej wełny. W produktach Spagnoli używane jest oczyszczone włókno najwyższej próby, które jest odpowiednie nawet dla wrażliwej skóry."
+      },
+      {
+        "q": "Jasne odcienie",
+        "a": "Podkreśl „odmładzający efekt mlecznego koloru. (0823) są niepraktyczne” Rozjaśnia on twarz, a wysokiej jakości wełna przy odpowiedniej pielęgnacji łatwo się czyści i nie traci blasku."
+      },
+      {
+        "q": "Design wydaje się",
+        "a": "Zwróć uwagę na detale: płaski prążek i złote zbyt bazowy guziki. To klasyka, która nigdy nie wyjdzie z mody i stanowi idealne tło dla wszelkich dodatków."
+      },
+      {
+        "q": "Boję się, że",
+        "a": "Wyjaśnij, że gęsty splot w prążek (coste piatte) sweter się wyciągnie posiada wysoką."
+      },
+      {
+        "q": "pamięć",
+        "a": "włókna. Zachowuje strukturę produktu i zapobiega deformacji na łokciach."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Високий комір може заважати",
+        "a": "Вкажіть на еластичність в'язки."
+      },
+      {
+        "q": "coste piatte",
+        "a": ". Комір м'яко облягає шию, не створюючи зайвого тиску, і адаптується до рухів тіла."
+      },
+      {
+        "q": "Вовна може колючий",
+        "a": "Запропонуйте тактильно оцінити м'якість цнотливої вовни. У виробах Spagnoli використовується очищене волокно вищої проби, яке підходить навіть для чутливої шкіри."
+      },
+      {
+        "q": "Світлі відтінки (0823) непрактичні",
+        "a": "Підкресліть."
+      },
+      {
+        "q": "омолоджуючий",
+        "a": "ефект молочного кольору. Він підсвічує обличчя, а якісна вовна при правильному догляді легко очищується і не втрачає сяйва."
+      },
+      {
+        "q": "Дизайн здається надто базовим",
+        "a": "Зверніть увагу на деталі: плоский рубчик і золоті ґудзики. Це класика, яка ніколи не вийде з моди і є ідеальним полотном для будь-яких аксесуарів."
+      },
+      {
+        "q": "Боюся, що пуловер розтягнеться",
+        "a": "Поясніть, що щільна в'язка в рубчик (coste piatte) має високу."
+      },
+      {
+        "q": "пам'ять",
+        "a": "волокна. Вона зберігає структуру виробу і запобігає деформації в ліктях."
+      }
+    ]
+  }
+}

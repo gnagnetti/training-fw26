@@ -1,0 +1,433 @@
+{
+  "id": 460,
+  "name": "Onirico",
+  "description": {
+    "en": "The Onirico 1224 trousers are an artistic reading of classic denim, in which functionality meets exquisite details in the spirit of Luisa Spagnoli. Crafted from high-quality cotton denim, the piece is defined by an on-trend wide cut (vestibilitÃ wide), creating a majestic, relaxed silhouette. The principal status-defining accent is the signature heraldic LS buttons, which elevate a basic wardrobe staple into an object of high fashion. The piece's considered architecture includes classic French pockets, belt loops, and an exclusive contrasting embroidered patch (salpa) at the back, underscoring the brand's attention to every detail of execution.",
+    "ru": "Брюки Onirico 1224 --- это артистичное прочтение классического денима, в котором функциональность встречается с изысканными деталями в духе Luisa Spagnoli. Модель выполнена из высококачественного хлопкового денима и отличается актуальным широким кроем (vestibilità wide), создающим величественный и свободный силуэт. Главным статусным акцентом выступают фирменные геральдические пуговицы LS, которые превращают базовый элемент гардероба в объект высокой моды. Продуманная архитектура изделия включает классические французские карманы, шлевки для ремня и эксклюзивную контрастную вышитую нашивку (salpa) сзади, подчеркивающую внимание бренда к каждой детали исполнения.",
+    "ar": "سراويل Onirico 1224 هي قراءة فنية للدينم الكلاسيكي، حيث تلتقي الوظيفة بالتفاصيل الفاخرة بروح Luisa Spagnoli. صُنعت القطعة من الدنيم القطني عالي الجودة وتتميز بقصة واسعة عصرية (vestibilità wide)، مما يخلق صورة ظلية مهيبة وحرة. السمة الفاخرة الرئيسية هي الأزرار التي تحمل شعار LS، والتي تحول قطعة أساسية إلى عنصر من الأزياء الراقية. تتضمن بنية القطعة جيوباً فرنسية كلاسيكية، وحلقات حزام، ورقعة مطرزة متباينة (salpa) من الخلف، مما يؤكد اهتمام العلامة بكل تفاصيل التنفيذ.",
+    "ka": "Onirico 1224-ის შარვალი არის კლასიკური დენიმის არტისტული ინტერპრეტაცია, რომელშიც ფუნქციონალობა Luisa Spagnoli-ის სულისკვეთების დახვეწილ დეტალებს ხვდება. მოდელი დამზადებულია მაღალი ხარისხის ბამბის დენიმისგან და გამოირჩევა აქტუალური ფართო კროით (vestibilità wide), რომელიც ქმნის დიდებულ და თავისუფალ სილუეტს. მთავარი სტატუსური აქცენტი არის ბრენდირებული ჰერალდიკური LS ღილაკები, რომლებიც გარდერობის საბაზისო ელემენტს მაღალი მოდის ობიექტად აქცევს. ნაკეთობის გააზრებული არქიტექტურა მოიცავს კლასიკურ ფრანგულ ჯიბეებს, ქამრის ყულფებს და ექსკლუზიურ კონტრასტულ ნაქარგ ნაჭდევს (salpa) უკანა მხარეს, რაც ხაზს უსვამს ბრენდის ყურადღებას შესრულების ყველა დეტალისადმი.",
+    "hy": "Onirico 1224 տաբատը դասական դենիմի արվեստային ընթերցում է, որտեղ ֆունկցիոնալությունը հանդիպում է Luisa Spagnoli-ի ոգով նուրբ մանրամասներին։ Մոդելը պատրաստված է բարձրորակ բամբակյա դենիմից և առանձնանում է արդիական լայն կտրվածքով (vestibilità wide), որը ստեղծում է վեհաշուք և ազատ ուրվագիծ։ Գլխավոր կարգավիճակային շեշտադրումը LS ֆիրմային հերալդիկ կոճակներն են, որոնք զգեստապահարանի բազային տարրը վերածում են բարձր նորաձևության օբյեկտի։ Հագուստի մտածված ճարտարապետությունը ներառում է դասական ֆրանսիական գրպաններ, գոտկատեղի անցուղիներ և հետևի մասում բացառիկ կոնտրաստային ասեղնագործված պիտակ (salpa), որն ընդգծում է բրենդի ուշադրությունը կատարման յուրաքանչյուր մանրուքի նկատմամբ։",
+    "lv": "Onirico 1224 bikses ir klasiskā džinsa māksliniecisks lasījums, kurā funkcionalitāte satiekas ar izsmalcinātām detaļām Luisa Spagnoli garā. Modelis ir izgatavots no augstas kvalitātes kokvilnas džinsa un izceļas ar aktuālu platu piegriezumu (vestibilità wide), kas rada majestātisku un brīvu siluetu. Galvenais statusa akcents ir firmas heraldikas LS pogas, kas pārvērš garderobes bāzes elementu par augstās modes objektu. Pārdomātā izstrādājuma arhitektūra ietver klasiskas franču kabatas, jostas cilpas un ekskluzīvu kontrastējošu izšūtu ielāpu (salpa) aizmugurē, uzsverot zīmola uzmanību pret katru izpildījuma detaļu.",
+    "lt": "Kelnės Onirico 1224 --- tai artistiškas klasikinio džinso interpretavimas, kuriame funkcionalumas susitinka su rafinuotomis detalėmis Luisa Spagnoli dvasioje. Modelis pagamintas iš aukštos kokybės medvilninio džinso ir išsiskiria aktualiu plačiu kirpimu (vestibilità wide), sukuriančiu didingą ir laisvą siluetą. Svarbiausiu statuso akcentu tampa firminės heraldinės LS sagos, kurios paverčia bazinį garderobo elementą aukštosios mados objektu. Apgalvota gaminio architektūra apima klasikines prancūziškas kišenes, kilpas diržui ir išskirtinį kontrastinį išsiuvinėtą antsiuvą (salpa) nugarinėje dalyje, pabrėžiant prekės ženklo dėmesį kiekvienai atlikimo detalei.",
+    "pl": "Spodnie Onirico 1224 to artystyczna interpretacja klasycznego denimu, w której funkcjonalność spotyka się z wyrafinowanymi detalami w duchu Luisa Spagnoli. Model wykonany z wysokiej jakości bawełnianego denimu i wyróżniający się aktualnym szerokim krojem (vestibilità wide), tworzącym majestatyczną i swobodną sylwetkę. Głównym akcentem podkreślającym status są firmowe heraldyczne guziki LS, które przekształcają bazowy element garderoby w obiekt wysokiej mody. Przemyślana architektura produktu obejmuje klasyczne kieszenie francuskie, szlufki na pasek oraz ekskluzywną, kontrastową naszywkę (salpa) z tyłu, podkreślającą dbałość marki o każdy detal wykonania.",
+    "uk": "Брюки Onirico 1224 --- це артистичне прочитання класичного деніму, в якому функціональність зустрічається з вишуканими деталями в дусі Luisa Spagnoli. Модель виконана з високоякісного бавовняного деніму та вирізняється актуальним широким кроєм (vestibilità wide), що створює величний і вільний силует. Головним статусним акцентом виступають фірмові геральдичні ґудзики LS, які перетворюють базовий елемент гардероба на об'єкт високої моди. Продумана архітектура виробу включає класичні французькі кишені, шльовки для ременя та ексклюзивну контрастну вишиту нашивку (salpa) ззаду, що підкреслює увагу бренду до кожної деталі виконання."
+  },
+  "colors": [
+    {
+      "name": "Blu",
+      "code": "1224",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "Стилисты Luisa Spagnoli предлагают интегрировать Onirico 1224 ( в сложные многослойные ансамбли, балансируя между подиумным шиком и городским комфортом: Вариант 1224 ( Индиго): Total Denim Look (Vetrina 1, 2, 93): современный сет с жилетом из денима Selettivo 1224, дополненный рубашками Lucinda 0201 или Barberino 0201 и аксессуарами: шляпой Renno 0930 и сумками Iago 2240 0002 или Ipositano 0920 0002.",
+        "en": "Luisa Spagnoli stylists suggest integrating Onirico 1224 ( into complex layered ensembles, balancing between runway chic and urban comfort: Option 1224 ( Indigo): Total Denim Look (Vetrina 1, 2, 93): a modern set with a Selettivo 1224 denim vest, complemented by Lucinda 0201 or Barberino 0201 shirts and accessories: a Renno 0930 hat and Iago 2240 0002 or Ipositano 0920 0002 bags.",
+        "ar": "Luisa Spagnoli stylists suggest integrating Onirico 1224 ( into complex layered ensembles, balancing between runway chic and urban comfort: Option 1224 ( Indigo): Total Denim Look (Vetrina 1, 2, 93): a modern set with a Selettivo 1224 denim vest, complemented by Lucinda 0201 or Barberino 0201 shirts and accessories: a Renno 0930 hat and Iago 2240 0002 or Ipositano 0920 0002 bags.",
+        "ka": "Luisa Spagnoli stylists suggest integrating Onirico 1224 ( into complex layered ensembles, balancing between runway chic and urban comfort: Option 1224 ( Indigo): Total Denim Look (Vetrina 1, 2, 93): a modern set with a Selettivo 1224 denim vest, complemented by Lucinda 0201 or Barberino 0201 shirts and accessories: a Renno 0930 hat and Iago 2240 0002 or Ipositano 0920 0002 bags.",
+        "hy": "Luisa Spagnoli stylists suggest integrating Onirico 1224 ( into complex layered ensembles, balancing between runway chic and urban comfort: Option 1224 ( Indigo): Total Denim Look (Vetrina 1, 2, 93): a modern set with a Selettivo 1224 denim vest, complemented by Lucinda 0201 or Barberino 0201 shirts and accessories: a Renno 0930 hat and Iago 2240 0002 or Ipositano 0920 0002 bags.",
+        "lv": "Luisa Spagnoli stylists suggest integrating Onirico 1224 ( into complex layered ensembles, balancing between runway chic and urban comfort: Option 1224 ( Indigo): Total Denim Look (Vetrina 1, 2, 93): a modern set with a Selettivo 1224 denim vest, complemented by Lucinda 0201 or Barberino 0201 shirts and accessories: a Renno 0930 hat and Iago 2240 0002 or Ipositano 0920 0002 bags.",
+        "lt": "Luisa Spagnoli stylists suggest integrating Onirico 1224 ( into complex layered ensembles, balancing between runway chic and urban comfort: Option 1224 ( Indigo): Total Denim Look (Vetrina 1, 2, 93): a modern set with a Selettivo 1224 denim vest, complemented by Lucinda 0201 or Barberino 0201 shirts and accessories: a Renno 0930 hat and Iago 2240 0002 or Ipositano 0920 0002 bags.",
+        "pl": "Luisa Spagnoli stylists suggest integrating Onirico 1224 ( into complex layered ensembles, balancing between runway chic and urban comfort: Option 1224 ( Indigo): Total Denim Look (Vetrina 1, 2, 93): a modern set with a Selettivo 1224 denim vest, complemented by Lucinda 0201 or Barberino 0201 shirts and accessories: a Renno 0930 hat and Iago 2240 0002 or Ipositano 0920 0002 bags.",
+        "uk": "Luisa Spagnoli stylists suggest integrating Onirico 1224 ( into complex layered ensembles, balancing between runway chic and urban comfort: Option 1224 ( Indigo): Total Denim Look (Vetrina 1, 2, 93): a modern set with a Selettivo 1224 denim vest, complemented by Lucinda 0201 or Barberino 0201 shirts and accessories: a Renno 0930 hat and Iago 2240 0002 or Ipositano 0920 0002 bags."
+      },
+      "items": [
+        {
+          "name": "Onirico",
+          "code": "1224",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg"
+        },
+        {
+          "name": "Selettivo",
+          "code": "1224",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/45343318692424dc1734e9_80849161_02781610XX1.jpg",
+          "modelId": 480
+        },
+        {
+          "name": "Lucinda",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Barberino",
+          "code": "0201",
+          "imageUrl": null
+        },
+        {
+          "name": "Renno",
+          "code": "0930",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/8e09b374-977d-4525-b1ab-f8d405b785e3.jpg"
+        },
+        {
+          "name": "Iago",
+          "code": "2240 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pPKAJyd4QEmcmVBttAaFpw_1733856224696f421e02ec19_56647549_02800630XX1.jpg"
+        },
+        {
+          "name": "Ipositano",
+          "code": "0920 0002",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Сложный зимний «Sport-Luxe» (Vetrina 87)",
+        "en": "Complex winter \"Sport-Luxe\" (Vetrina 87)",
+        "ar": "Complex winter \"Sport-Luxe\" (Vetrina 87)",
+        "ka": "Complex winter \"Sport-Luxe\" (Vetrina 87)",
+        "hy": "Complex winter \"Sport-Luxe\" (Vetrina 87)",
+        "lv": "Complex winter \"Sport-Luxe\" (Vetrina 87)",
+        "lt": "Complex winter \"Sport-Luxe\" (Vetrina 87)",
+        "pl": "Complex winter \"Sport-Luxe\" (Vetrina 87)",
+        "uk": "Complex winter \"Sport-Luxe\" (Vetrina 87)"
+      },
+      "text": {
+        "ru": "под защитой технологичного парки Sinuosita 0101 0101 в сочетании с жилетом Selettivo 1224, рубашкой Leila 0201 и пуловером Manos 2246.",
+        "en": "layered under a technical Sinuosita 0101 0101 parka combined with a Selettivo 1224 vest, a Leila 0201 shirt and a Manos 2246 pullover.",
+        "ar": "layered under a technical Sinuosita 0101 0101 parka combined with a Selettivo 1224 vest, a Leila 0201 shirt and a Manos 2246 pullover.",
+        "ka": "layered under a technical Sinuosita 0101 0101 parka combined with a Selettivo 1224 vest, a Leila 0201 shirt and a Manos 2246 pullover.",
+        "hy": "layered under a technical Sinuosita 0101 0101 parka combined with a Selettivo 1224 vest, a Leila 0201 shirt and a Manos 2246 pullover.",
+        "lv": "layered under a technical Sinuosita 0101 0101 parka combined with a Selettivo 1224 vest, a Leila 0201 shirt and a Manos 2246 pullover.",
+        "lt": "layered under a technical Sinuosita 0101 0101 parka combined with a Selettivo 1224 vest, a Leila 0201 shirt and a Manos 2246 pullover.",
+        "pl": "layered under a technical Sinuosita 0101 0101 parka combined with a Selettivo 1224 vest, a Leila 0201 shirt and a Manos 2246 pullover.",
+        "uk": "layered under a technical Sinuosita 0101 0101 parka combined with a Selettivo 1224 vest, a Leila 0201 shirt and a Manos 2246 pullover."
+      },
+      "items": [
+        {
+          "name": "Sinuosita",
+          "code": "0101 0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/U0zfEciTRril1sAeNWTung_1279272056696f42f726ce55_67715627_02821010XX1.jpg",
+          "modelId": 320
+        },
+        {
+          "name": "Selettivo",
+          "code": "1224",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/45343318692424dc1734e9_80849161_02781610XX1.jpg",
+          "modelId": 480
+        },
+        {
+          "name": "Leila",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "modelId": 414
+        },
+        {
+          "name": "Manos",
+          "code": "2246",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/62874749691c57928c68a3_59975180_02790240XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Городской шик (Vetrina 90, 92)",
+        "en": "Urban chic (Vetrina 90, 92)",
+        "ar": "Urban chic (Vetrina 90, 92)",
+        "ka": "Urban chic (Vetrina 90, 92)",
+        "hy": "Urban chic (Vetrina 90, 92)",
+        "lv": "Urban chic (Vetrina 90, 92)",
+        "lt": "Urban chic (Vetrina 90, 92)",
+        "pl": "Urban chic (Vetrina 90, 92)",
+        "uk": "Urban chic (Vetrina 90, 92)"
+      },
+      "text": {
+        "ru": "ансамбль с укороченной курткой-пальто Soncio 0963 1161 или жакетом Stelle 0919, дополненный фактурным трикотажем Conducente 2335 или Caprese 2331.",
+        "en": "an ensemble with a short Soncio 0963 1161 coat or Stelle 0919 jacket, complemented by textured Conducente 2335 or Caprese 2331 knitwear.",
+        "ar": "an ensemble with a short Soncio 0963 1161 coat or Stelle 0919 jacket, complemented by textured Conducente 2335 or Caprese 2331 knitwear.",
+        "ka": "an ensemble with a short Soncio 0963 1161 coat or Stelle 0919 jacket, complemented by textured Conducente 2335 or Caprese 2331 knitwear.",
+        "hy": "an ensemble with a short Soncio 0963 1161 coat or Stelle 0919 jacket, complemented by textured Conducente 2335 or Caprese 2331 knitwear.",
+        "lv": "an ensemble with a short Soncio 0963 1161 coat or Stelle 0919 jacket, complemented by textured Conducente 2335 or Caprese 2331 knitwear.",
+        "lt": "an ensemble with a short Soncio 0963 1161 coat or Stelle 0919 jacket, complemented by textured Conducente 2335 or Caprese 2331 knitwear.",
+        "pl": "an ensemble with a short Soncio 0963 1161 coat or Stelle 0919 jacket, complemented by textured Conducente 2335 or Caprese 2331 knitwear.",
+        "uk": "an ensemble with a short Soncio 0963 1161 coat or Stelle 0919 jacket, complemented by textured Conducente 2335 or Caprese 2331 knitwear."
+      },
+      "items": [
+        {
+          "name": "Soncio",
+          "code": "0963 1161",
+          "imageUrl": null
+        },
+        {
+          "name": "Stelle",
+          "code": "0919",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/v0SMZo0VQaKGpkN_-N_65w_698883230696f42feb83970_50231303_02821190XX1.jpg"
+        },
+        {
+          "name": "Conducente",
+          "code": "2335",
+          "imageUrl": null
+        },
+        {
+          "name": "Caprese",
+          "code": "2331",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q-dcDsRCTh-irYmaGwi0fg_1660235822696f430d81f0d5_01266196_02830040XX1.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Игра фактур (Look 211, 212)",
+        "en": "Texture play (Look 211, 212)",
+        "ar": "Texture play (Look 211, 212)",
+        "ka": "Texture play (Look 211, 212)",
+        "hy": "Texture play (Look 211, 212)",
+        "lv": "Texture play (Look 211, 212)",
+        "lt": "Texture play (Look 211, 212)",
+        "pl": "Texture play (Look 211, 212)",
+        "uk": "Texture play (Look 211, 212)"
+      },
+      "text": {
+        "ru": "артистичное сочетание с мягким пуловером Mano H 0202 под мантильей Mira 0202 или жакетом Maurilia 0202.",
+        "en": "an artistic combination with a soft Mano H 0202 pullover under a Mira 0202 mantilla or a Maurilia 0202 jacket.",
+        "ar": "an artistic combination with a soft Mano H 0202 pullover under a Mira 0202 mantilla or a Maurilia 0202 jacket.",
+        "ka": "an artistic combination with a soft Mano H 0202 pullover under a Mira 0202 mantilla or a Maurilia 0202 jacket.",
+        "hy": "an artistic combination with a soft Mano H 0202 pullover under a Mira 0202 mantilla or a Maurilia 0202 jacket.",
+        "lv": "an artistic combination with a soft Mano H 0202 pullover under a Mira 0202 mantilla or a Maurilia 0202 jacket.",
+        "lt": "an artistic combination with a soft Mano H 0202 pullover under a Mira 0202 mantilla or a Maurilia 0202 jacket.",
+        "pl": "an artistic combination with a soft Mano H 0202 pullover under a Mira 0202 mantilla or a Maurilia 0202 jacket.",
+        "uk": "an artistic combination with a soft Mano H 0202 pullover under a Mira 0202 mantilla or a Maurilia 0202 jacket."
+      },
+      "items": [
+        {
+          "name": "Mano H",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281019%29.png"
+        },
+        {
+          "name": "Mira",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A9uRxdXcRpiCkjgx3Y2pSw_1598015888696f43785c9df9_64067927_02831250XX1.jpg",
+          "modelId": 178
+        },
+        {
+          "name": "Maurilia",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ZCnho2JsTWiRlK5fdRlc9g_738156072696f4367dcf304_04744855_02830680XX1.jpg",
+          "modelId": 160
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- Mastery of the Wide Fit silhouette: Direct the client's attention to the wide-leg cut. Explain that this style is not only at the height of trend, but masterfully corrects proportions, creating the effect of endlessly long legs, especially when paired w"
+    ],
+    "ru": [
+      "- Мастерство силуэта Wide Fit: Акцентируйте внимание клиента на широком крое. Объясните, что такой фасон не только находится на пике трендов, но и виртуозно корректирует пропорции, создавая эффект бесконечно длинных ног, особенно в паре с обувью на платфо"
+    ],
+    "ar": [
+      "- براعة قصّة Wide Fit: ركزي انتباه العميل على القصّة العريضة. وضحي أن هذا النمط لا يتربع فقط على قمة الصيحات، بل يصحح النسب ببراعة، مما يخلق تأثيراً لأرجل طويلة جداً، خاصة عند تنسيقه مع أحذية المنصة (platform) أو الكعب العالي. - الكود الشعاري للعلامة التج"
+    ],
+    "ka": [
+      "- Wide Fit-ის სილუეტის ოსტატობა: გაამახვილეთ კლიენტის ყურადღება ფართო ჭრილზე. აუხსენით, რომ ასეთი ფასონი არა მხოლოდ ტენდენციების პიკზეა, არამედ ვირტუოზულად ასწორებს პროპორციებს, ქმნის უსასრულოდ გრძელი ფეხების ეფექტს, განსაკუთრებით პლატფორმიან ან ქუსლიან ფ"
+    ],
+    "hy": [
+      "- Wide Fit սիլուետի վարպետությունը. Հաճախորդի ուշադրությունը կենտրոնացրեք լայն կտրվածքի վրա: Բացատրեք, որ նման ֆասոնը ոչ միայն թրենդների գագաթնակետին է, այլև վարպետորեն շտկում է համաչափությունները՝ ստեղծելով անվերջ երկար ոտքերի էֆեկտ, հատկապես պլատֆորմ կա"
+    ],
+    "lv": [
+      "- Wide Fit silueta meistarība: Vērsiet klienta uzmanību uz plato piegriezumu. Paskaidrojiet, ka šāds fasons ne tikai atrodas trendu virsotnē, bet arī virtuozi koriģē proporcijas, radot bezgalīgi garu kāju efektu, īpaši pārī ar apaviem uz platformas vai pa"
+    ],
+    "lt": [
+      "- Wide Fit silueto meistriškumas: atkreipkite kliento dėmesį į platų kirpimą. Paaiškinkite, kad toks modelis ne tik yra mados viršūnėje, bet ir meistriškai koreguoja proporcijas, sukuriant neįtikėtinai ilgų kojų efektą, ypač derinant su avalyne ant platformos ar kulnais. - Prekės ženklo heraldikos kodas: pabrėžkite LS logotipo sagų vertę. Šios detalės perkelia džinsus iš casual kategorijos į „intelektualios prabangos“ kategoriją, leidžiančią dėvėti juos verslo susitikimuose „Friday casual“ formatu. - Investicija į universalumą: pasiūlykite šį modelį kaip bazę „Total Denim Look“ deriniui (kartu su Selettivo 1224). Tai paruoštas stilistinis sprendimas, kuris atrodo prabangiai ir konceptualiai, išvaduojant klientą nuo poreikio derinti viršutinę dalį."
+    ],
+    "pl": [
+      "- Mistrzostwo sylwetki Wide Fit: Zwróć uwagę klientki na szeroki krój. Wyjaśnij, że taki fason nie tylko znajduje się u szczytu trendów, ale także wirtuozersko koryguje proporcje, tworząc efekt nieskończenie długich nóg, zwłaszcza w parze z obuwiem na pla"
+    ],
+    "uk": [
+      "- Майстерність силуету Wide Fit: Акцентуйте увагу клієнта на широкому крої. Поясніть, що такий фасон не тільки перебуває на піку трендів, а й віртуозно коригує пропорції, створюючи ефект нескінченно довгих ніг, особливо в парі із взуттям на платформі або"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The leather shirt feels too bold.",
+        "a": "On the contrary, this is a contemporary classic. Thanks to the tone-matched collar and buttons, the Sarmoneta reads as understated. Demonstrate Display Case 112: paired with knitwear, it looks remarkably elegant. |"
+      },
+      {
+        "q": "I'm concerned leather will feel uncomfortable indoors.",
+        "a": "The jacket has a Regular fit and is crafted from a fine-grain finish, ensuring natural breathability and freedom of movement, unlike heavier leather biker jackets. |"
+      },
+      {
+        "q": "The buttons might not be secure.",
+        "a": "Luisa Spagnoli uses high-quality hardware. The buttons on this piece are engineered for frequent use and covered in tone-matched fabric for aesthetic refinement. |"
+      },
+      {
+        "q": "Leather requires complex upkeep.",
+        "a": "High-quality smooth leather is in fact quite practical. It is less prone to soiling than suede and, with minimal care, will last for decades, becoming a vintage treasure. |"
+      },
+      {
+        "q": "What can I pair with black so it doesn't look somber?",
+        "a": "Use the layering approach from Display Case 53: add the light-toned Leila 0201 shirt and the vibrant Roaschia silk scarf to brighten the complexion and lend the look dynamism."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Широкие штанины",
+        "a": "Укажите на безупречную посадку в области талии и выглядят слишком французские карманы. Модель Onirico громоздко дисциплинирует силуэт сверху, позволяя объему внизу работать на динамику походки, а не на лишний вес."
+      },
+      {
+        "q": "Джинсы — это не",
+        "a": "Обратите внимание на крой. Наличие французских мой стиль, я карманов и сарториальных деталей сближает эту предпочитаю модель с классическими брюками-палаццо, сохраняя классику при этом комфорт денима."
+      },
+      {
+        "q": "Геральдические Напротив, золотистый металл LS работает как пуговицы слишком ювелирное украшение. Это позволяет минимизировать обязывают",
+        "a": "аксессуары, оставляя образ чистым и статусным."
+      },
+      {
+        "q": "Боюсь, что 100% Деним Luisa Spagnoli проходит специальную хлопок будет слишком обработку, которая обеспечивает мягкость ткани жестким",
+        "a": "при сохранении её архитектурной формы, необходимой для широкого кроя."
+      },
+      {
+        "q": "С чем сочетать Цвет 1224 — это идеальный нейтральный фон. такой насыщенный",
+        "a": "Продемонстрируйте Vetrina 92: он великолепно индиго? гармонирует как со светлым трикотажем, так и со сложными меланжевыми оттенками верхней одежды."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الساق الواسعة تبدو ضخمة",
+        "a": "- ركزوا على المقاس المثالي عند الخصر والجيوب الفرنسية. يضبط موديل Onirico القوام من الأعلى، مما يسمح للحجم في الأسفل بإضفاء حيوية على الحركة بدلاً من إضافة وزن زائد."
+      },
+      {
+        "q": "الدنيم ليس من أسلوبي، فأنا أفضل الكلاسيكيات",
+        "a": "- انتبهوا إلى القصّة. وجود الجيوب الفرنسية والتفاصيل الترزية يقرب هذا الموديل من سراويل الـ."
+      },
+      {
+        "q": "Palazzo",
+        "a": "الكلاسيكية، مع الحفاظ على راحة الدنيم."
+      },
+      {
+        "q": "الأزرار ذات الطابع النبيل (Heraldic) رسمية أكثر من اللازم",
+        "a": "- على العكس، المعدن الذهبي لـ LS يعمل كقطعة مجوهرات. وهذا يسمح بتقليل الإكسسوارات، مما يجعل الإطلالة نقية وراقية."
+      },
+      {
+        "q": "أخشى أن يكون القطن 100% قاسياً جداً",
+        "a": "- يخضع دنيم Luisa Spagnoli لمعالجة خاصة تضمن نعومة النسيج مع الحفاظ على شكله الهيكلي المطلوب للقصّات الواسعة."
+      },
+      {
+        "q": "مع ماذا يمكن تنسيق هذا اللون النيلي القوي؟",
+        "a": "- اللون 1224 هو خلفية محايدة مثالية. استعرضوا Vetrina 92: فهو يتناغم بشكل رائع مع التريكو الفاتح ومع ألوان الميلانج المعقدة للملابس الخارجية."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ფართო ტოტები ზედმეტად მასიურად გამოიყურება",
+        "a": "მიუთითეთ უნაკლო მორგებაზე წელის არეში და ფრანგულ ჯიბეებზე. მოდელი Onirico დისციპლინას უწევს სილუეტს ზედა ნაწილში, რაც საშუალებას აძლევს ქვედა ნაწილის მოცულობას იმუშაოს სიარულის დინამიკაზე და არა ზედმეტ წონაზე."
+      },
+      {
+        "q": "ჯინსი — ეს არ არის ჩემი სტილი, მე კლასიკას ვანიჭებ უპირატესობას",
+        "a": "მიაქციეთ ყურადღება ჭრას. ფრანგული ჯიბეებისა და სარტორული დეტალების არსებობა ამ მოდელს აახლოებს კლასიკურ შარვალ-პალაცოსთან, დენიმისთვის დამახასიათებელი კომფორტის შენარჩუნებით."
+      },
+      {
+        "q": "ჰერალდიკური ღილები ზედმეტად მავალდებულებელია",
+        "a": "პირიქით, ოქროსფერი მეტალი LS მუშაობს როგორც საიუველირო ნაკეთობა. ეს საშუალებას გაძლევთ მინიმუმამდე დაიყვანოთ აქსესუარები და შეინარჩუნოთ ლუქი სუფთა და სტატუსური."
+      },
+      {
+        "q": "მეშინია, რომ 100% ბამბა ზედმეტად უხეში იქნება",
+        "a": "დენიმი Luisa Spagnoli გადის სპეციალურ დამუშავებას, რომელიც უზრუნველყოფს ქსოვილის სირბილეს, ხოლო ინარჩუნებს არქიტექტურულ ფორმას, რაც აუცილებელია ფართო ჭრისთვის."
+      },
+      {
+        "q": "რით შევათავსო ასეთი ნაჯერი ინდიგო?",
+        "a": "ფერი 1224 — ეს არის იდეალური ნეიტრალური ფონი. წარმოაჩინეთ Vetrina 92: ის შესანიშნავად ჰარმონიზდება როგორც ღია ფერის ნაქსოვთან, ასევე ზედა ტანსაცმლის რთულ მელანჟურ ელფერებთან."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Լայն տաբատները շատ ծավալուն են թվում»։",
+        "a": "Մատնանշեք գոտկատեղի հատվածում անթերի նստվածքը և ֆրանսիական գրպանները։ Onirico մոդելը կարգավորում է վերին սիլուետը՝ թույլ տալով ներքևի ծավալին աշխատել քայլվածքի դինամիկայի վրա, այլ ոչ թե ավելորդ քաշի։ «Ջինսերը իմ ոճը չեն, ես նախընտրում եմ դասականը»։ Ուշադրություն դարձրեք ձևվածքին։ Ֆրանսիական գրպանների և սարտորիալ դետալների առկայությունը այս մոդելը մոտեցնում է դասական պալացցո տաբատներին՝ միաժամանակ պահպանելով դենիմի հարմարավետությունը։ «Հերալդիկ կոճակները շատ պարտավորեցնող են»։ Ընդհակառակը, LS-ի ոսկեգույն մետաղը աշխատում է որպես զարդ։ Սա թույլ է տալիս նվազագույնի հասցնել աքսեսուարները՝ կերպարը թողնելով մաքուր և ստատուսային։ «Վախենում եմ, որ 100% բամբակը շատ կոշտ կլինի»։ Luisa Spagnoli-ի դենիմը անցնում է հատուկ մշակում, որն ապահովում է գործվածքի փափկությունը՝ պահպանելով լայն ձևվածքի համար անհրաժեշտ ճարտարապետական ձևը։ «Ինչո՞վ համադրել այս հագեցած ինդիգո գույնը»։ 1224 գույնը իդեալական չեզոք ֆոն է։ Ցույց տվեք Vetrina 92-ը՝ այն հիանալի ներդաշնակում է ինչպես բաց գույնի տրիկոտաժի, այնպես էլ վերնազգեստի բարդ մելանժային երանգների հետ։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Platās staras izskatās pārāk apjomīgi",
+        "a": "Norādiet uz nevainojamo pieguldījumu jostasvietā un franču kabatām. Modelis Onirico disciplinē siluetu augšpusē, ļaujot apjomam apakšā strādāt uz gaitas dinamiku, nevis uz lieko svaru."
+      },
+      {
+        "q": "Džinsi — tas nav mans stils, es dodu priekšroku klasikai",
+        "a": "Pievērsiet uzmanību piegriezumam. Franču kabatu un sartoriālo detaļu klātbūtne tuvina šo modeli klasiskajām palazzo biksēm, vienlaikus saglabājot denima komfortu."
+      },
+      {
+        "q": "Heraldikas pogas ir pārāk uzmācīgas",
+        "a": "Gluži pretēji, zeltainais metāls LS darbojas kā juvelierizstrādājums. Tas ļauj minimizēt aksesuārus, atstājot tēlu tīru un statusa cienīgu."
+      },
+      {
+        "q": "Baidos, ka 100% kokvilna būs pārāk stingra",
+        "a": "Denims Luisa Spagnoli iziet īpašu apstrādi, kas nodrošina auduma mīkstumu, vienlaikus saglabājot tā arhitektonisko formu, kas nepieciešama platam piegriezumam."
+      },
+      {
+        "q": "Ar ko kombinēt tik piesātinātu indigo?",
+        "a": "Krāsa 1224 — tas ir ideāls neitrāls fons. Demonstrējiet Vetrina 92: tas lieliski harmonē gan ar gaišu trikotāžu, gan ar sarežģītiem virsdrēbju melanža toņiem."
+      }
+    ],
+    "lt": [
+      {
+        "q": "„Plačios klešnės atrodo per stambiai",
+        "a": "Atkreipkite dėmesį į nepriekaištingą prigludimą ties liemeniu ir prancūziškas kišenes. Modelis Onirico disciplinuoja siluetą viršuje, leisdamas apačios apimčiai dirbti eisenos dinamikai, o ne papildomam svoriui. į nepriekaištingą prigludimą ties liemeniu ir prancūziškas kišenes. Modelis Onirico disciplinuoja siluetą viršuje, leisdamas apačios apimčiai dirbti eisenos dinamikai, o ne papildomam svoriui."
+      },
+      {
+        "q": "„Džinsai — tai ne mano stilius, aš renkuosi klasiką",
+        "a": "Atkreipkite dėmesį į kirpimą. Prancūziškų kišenių ir sartorialinių detalių buvimas priartina šį modelį prie klasikinių „palazzo“ kelnių, išlaikant džinso komfortą. „Heraldiškos sagos per daug įpareigoja“ Priešingai, auksinis LS metalas veikia kaip juvelyrinis dirbinys. Tai leidžia minimalizuoti aksesuarus, paliekant įvaizdį švarų ir statusinį. „Bijau, kad 100% medvilnė bus per kieta“ Luisa Spagnoli džinsas praeina specialų apdorojimą, kuris užtikrina audinio minkštumą išlaikant jo architektūrinę formą, būtiną plačiam kirpimui. į kirpimą. Prancūziškų kišenių ir sartorialinių detalių buvimas priartina šį modelį prie klasikinių „palazzo“ kelnių, išlaikant džinso komfortą. „Heraldiškos sagos per daug įpareigoja“ Priešingai, auksinis LS metalas veikia kaip juvelyrinis dirbinys. Tai leidžia minimalizuoti aksesuarus, paliekant įvaizdį švarų ir statusinį. „Bijau, kad 100% medvilnė bus per kieta“ Luisa Spagnoli džinsas praeina specialų apdorojimą, kuris užtikrina audinio minkštumą išlaikant jo architektūrinę formą, būtiną plačiam kirpimui."
+      },
+      {
+        "q": "„Su kuo derinti tokį sodrų indigo?“ Spalva 1224 — tai idealus neutralus fonas.",
+        "a": "Pademonstruokite Vetrina 92: jis puikiai dera tiek su šviesiu trikotažu, tiek su sudėtingais melanžiniais viršutinių drabužių atspalviais."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Szerokie nogawki wyglądają zbyt masywnie",
+        "a": "Wskaż na nienaganne dopasowanie w talii i francuskie kieszenie. Model Onirico dyscyplinuje sylwetkę od góry, pozwalając objętości na dole pracować na dynamikę ruchu, a nie na dodawanie kilogramów."
+      },
+      {
+        "q": "Dżins to nie mój styl, preferuję klasykę",
+        "a": "Zwróć uwagę na krój. Obecność francuskich kieszeni i krawieckich detali zbliża ten model do klasycznych spodni palazzo, zachowując przy tym komfort dżinsu."
+      },
+      {
+        "q": "Heraldyczne guziki są zbyt zobowiązujące",
+        "a": "Wręcz przeciwnie, złocisty metal LS działa jak biżuteria. Pozwala to zminimalizować dodatki, pozostawiając stylizację czystą i prestiżową."
+      },
+      {
+        "q": "Obawiam się, że 100% bawełna będzie zbyt sztywna",
+        "a": "Dżins Luisa Spagnoli przechodzi specjalną obróbkę, która zapewnia miękkość tkaniny przy zachowaniu jej architektonicznej formy, niezbędnej dla szerokiego kroju."
+      },
+      {
+        "q": "Z czym łączyć tak nasycony indygo?",
+        "a": "Kolor 1224 to idealne neutralne tło. Zaprezentuj Vetrina 92: doskonale harmonizuje zarówno z jasną dzianiną, jak i ze skomplikowanymi melanżowymi odcieniami odzieży wierzchniej."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Широкі штанини",
+        "a": "Вкажіть на бездоганну посадку в області талії та виглядають надто французькі кишені. Модель Onirico громіздко дисциплінує силует зверху, дозволяючи об'єму знизу працювати на динаміку ходи, а не на зайву вагу."
+      },
+      {
+        "q": "Джинси — це не",
+        "a": "Зверніть увагу на крій. Наявність французьких мій стиль, я кишень та сарторіальних деталей зближує цю віддаю перевагу модель з класичними брюками-палаццо, зберігаючи класиці при цьому комфорт деніму."
+      },
+      {
+        "q": "Геральдичні Навпаки, золотистий метал LS працює як ґудзики надто ювелірна прикраса. Це дозволяє мінімізувати зобов'язують",
+        "a": "аксесуари, залишаючи образ чистим та статусним."
+      },
+      {
+        "q": "Боюся, що 100% Денім Luisa Spagnoli проходить спеціальну бавовна буде надто обробку, яка забезпечує м'якість тканини жорсткою",
+        "a": "при збереженні її архітектурної форми, необхідної для широкого крою."
+      },
+      {
+        "q": "З чим поєднувати Колір 1224 — це ідеальний нейтральний фон. такий насичений",
+        "a": "Продемонструйте Vetrina 92: він чудово індиго? гармоніює як зі світлим трикотажем, так і зі складними меланжевими відтінками верхнього одягу."
+      }
+    ]
+  }
+}

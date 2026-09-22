@@ -1,0 +1,375 @@
+{
+  "id": 4,
+  "name": "Caserta",
+  "description": {
+    "en": "The Caserta pullover is the embodiment of refined comfort and contemporary elegance from Luisa Spagnoli. Cut in a relaxed silhouette from a noble wool and cashmere blend, it offers exceptional tactile sensation and warmth. The design is accentuated by a voluminous turtleneck collar and kimono-cut sleeves that create a striking architectural volume. High ribbed cuffs delicately draw attention to the wrists, lending the look refinement. This pullover strikes a perfect balance between relaxed style and impeccable Italian quality.",
+    "ru": "Пуловер Caserta — это воплощение изысканного комфорта и современной элегантности от Luisa Spagnoli. Модель свободного силуэта, выполненная из благородной смеси шерсти и кашемира, дарит исключительные тактильные ощущения и тепло. Дизайн подчеркнут объемным воротником-гольфом и рукавами покроя кимоно, создающими актуальный архитектурный объем. Высокие манжеты, связанные резинкой, деликатно акцентируют внимание на запястьях, придавая образу утонченность. Этот пуловер представляет собой идеальный баланс между расслабленным стилем и безупречным итальянским качеством.",
+    "ar": "يُجسد بلوفر Caserta الراحة الفاخرة والأناقة العصرية من Luisa Spagnoli. يتميز الموديل بقصة واسعة ومصنوع من مزيج نبيل من الصوف والكشمير ليمنح شعوراً استثنائياً بالراحة والدفء. يبرز التصميم بياقة عريضة (Golf collar) وأكمام على طراز الكيمونو تضفي حجماً هندسياً مواكباً للموضة. وتؤكد الأساور العريضة المحاكة بنمط مضلع على دقة التفاصيل عند المعصمين، مما يضفي لمسة من الرقي، ليحقق هذا البلوفر توازناً مثالياً بين الأسلوب المريح والجودة الإيطالية الفائقة.",
+    "ka": "პულოვერი Caserta არის Luisa Spagnoli-ს დახვეწილი კომფორტისა და თანამედროვე ელეგანტურობის განსახიერება. თავისუფალი სილუეტის მოდელი, რომელიც შესრულებულია მატყლისა და ქაშმირის კეთილშობილური ნაზავით, განსაკუთრებულ ტაქტილურ შეგრძნებებსა და სითბოს გვჩუქნის. დიზაინი ხაზგასმულია მოცულობითი გოლფის საყელოთი და კიმონოს სტილის სახელოებით, რომლებიც აქტუალურ არქიტექტურულ მოცულობას ქმნიან. რეზინით ნაქსოვი მაღალი მანჟეტები დელიკატურად ამახვილებს ყურადღებას მაჯებზე და იმიჯს დახვეწილობას სძენს. ეს პულოვერი წარმოადგენს იდეალურ ბალანსს თავისუფალ სტილსა და უნაკლო იტალიურ ხარისხს შორის.",
+    "hy": "Caserta պուլովերը Luisa Spagnoli-ի նրբաճաշակ հարմարավետության և ժամանակակից էլեգանտության մարմնացումն է։ Ազատ ուրվագծով մոդելը, որը պատրաստված է բրդի և քաշմիրի ազնվազն խառնուրդից, պարգևում է բացառիկ տակտիլ զգացողություններ և ջերմություն։ Դիզայնն ընդգծված է ծավալուն գոլֆ-օձիքով և կիմոնո ոճի թևերով, որոնք ստեղծում են արդիական ճարտարապետական ծավալ։ ռետինով հյուսված բարձր թևքերը նրբորեն շեշտադրում են դաստակները՝ կերպարին հաղորդելով նրբագեղություն։ Այս պուլովերը հանդիսանում է հանգիստ ոճի և իտալական անթերի որակի իդեալական հավասարակշռություն։",
+    "lv": "Caserta džemperis ir izsmalcināta komforta un mūsdienīgas elegances iemiesojums no Luisa Spagnoli. Brīva silueta modelis, kas izgatavots no cēla vilnas un kašmira maisījuma, sniedz izcilas taktīlas sajūtas un siltumu. Dizainu izceļ apjomīga golfa apkakle un kimono piegriezuma piedurknes, kas rada aktuālu arhitektonisku apjomu. Augstas, elastīgajā adījumā veidotas aproces delikāti akcentē uzmanību uz plaukstu locītavām, piešķirot tēlam izsmalcinātību. Šis džemperis ir ideāls līdzsvars starp nepiespiestu stilu un nevainojamu itāļu kvalitāti.",
+    "lt": "Puloveris Caserta – tai išskirtinio komforto ir šiuolaikinės elegancijos įsikūnijimas iš Luisa Spagnoli. Laisvo silueto modelis, pagamintas iš tauraus vilnos ir kašmyro mišinio, suteikia išskirtinius taktilinius pojūčius ir šilumą. Dizainą pabrėžia didelė golfo tipo apykaklė ir kimono stiliaus rankovės, kuriančios aktualų architektūrinį tūrį. Aukšti, gumele megzti rankogaliai subtiliai akcentuoja riešus, suteikdami įvaizdžiui rafinuotumo. Šis puloveris yra idealus balansas tarp atsipalaidavusio stiliaus ir nepriekaištingos itališkos kokybės.",
+    "pl": "Pulower Caserta to ucieleśnienie wyrafinowanego komfortu i nowoczesnej elegancji od Luisa Spagnoli. Model o luźnym kroju, wykonany ze szlachetnej mieszanki wełny i kaszmiru, zapewnia wyjątkowe doznania dotykowe oraz ciepło. Design podkreślono obszernym kołnierzem typu golf oraz rękawami o kroju kimono, tworzącymi aktualną, architektoniczną formę. Wysokie mankiety wykończone ściągaczem delikatnie akcentują nadgarstki, dodając stylizacji wyrafinowania. Ten pulower stanowi idealną równowagę między swobodnym stylem a nienaganną włoską jakością.",
+    "uk": "Пуловер Caserta — це втілення вишуканого комфорту та сучасної елегантності від Luisa Spagnoli. Модель вільного силуету, виконана з благородної суміші вовни та кашеміру, дарує виняткові тактильні відчуття та тепло. Дизайн підкреслений об'ємним коміром-гольфом та рукавами крою кімоно, що створюють актуальний архітектурний об'єм. Високі манжети, пов'язані резинкою, делікатно акцентують увагу на зап'ястях, надаючи образу витонченості. Цей пуловер є ідеальним балансом між розслабленим стилем та бездоганною італійською якістю."
+  },
+  "colors": [
+    {
+      "name": "Blu Inchiostro",
+      "code": "2544",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/W1aXfSOzQDSO-GRNfAbOfw_373832204696f43567b5bc8_49607223_02830060XX1.jpg"
+    },
+    {
+      "name": "Grigio Melange",
+      "code": "0856",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bX-dAybdTxKK_QxHTqy-FQ_1848300653696f430e286d40_01104931_02830050XX2.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Total Look 211 (Blu Inchiostro)",
+        "en": "Total Look 211 (Blu Inchiostro)",
+        "ar": "Total Look 211 (Blu Inchiostro)",
+        "ka": "Total Look 211 (Blu Inchiostro)",
+        "hy": "Total Look 211 (Blu Inchiostro)",
+        "lv": "Total Look 211 (Blu Inchiostro)",
+        "lt": "Total Look 211 (Blu Inchiostro)",
+        "pl": "Total Look 211 (Blu Inchiostro)",
+        "uk": "Total Look 211 (Blu Inchiostro)"
+      },
+      "text": {
+        "ru": "Caserta 2544 гармонично сочетается с брюками Olap 0214, дополнен браслетом Navigero 0002, колье Navali 0002 и туфлями Usuale A 0901 0002.",
+        "en": "Caserta 2544 harmoniously combined with Olap 0214 trousers, accessorized with a Navigero 0002 bracelet, Navali 0002 necklace and Usuale A 0901 0002 shoes.",
+        "ar": "Caserta 2544 harmoniously combined with Olap 0214 trousers, accessorized with a Navigero 0002 bracelet, Navali 0002 necklace and Usuale A 0901 0002 shoes.",
+        "ka": "Caserta 2544 harmoniously combined with Olap 0214 trousers, accessorized with a Navigero 0002 bracelet, Navali 0002 necklace and Usuale A 0901 0002 shoes.",
+        "hy": "Caserta 2544 harmoniously combined with Olap 0214 trousers, accessorized with a Navigero 0002 bracelet, Navali 0002 necklace and Usuale A 0901 0002 shoes.",
+        "lv": "Caserta 2544 harmoniously combined with Olap 0214 trousers, accessorized with a Navigero 0002 bracelet, Navali 0002 necklace and Usuale A 0901 0002 shoes.",
+        "lt": "Caserta 2544 harmoniously combined with Olap 0214 trousers, accessorized with a Navigero 0002 bracelet, Navali 0002 necklace and Usuale A 0901 0002 shoes.",
+        "pl": "Caserta 2544 harmoniously combined with Olap 0214 trousers, accessorized with a Navigero 0002 bracelet, Navali 0002 necklace and Usuale A 0901 0002 shoes.",
+        "uk": "Caserta 2544 harmoniously combined with Olap 0214 trousers, accessorized with a Navigero 0002 bracelet, Navali 0002 necklace and Usuale A 0901 0002 shoes."
+      },
+      "items": [
+        {
+          "name": "Caserta",
+          "code": "2544",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/W1aXfSOzQDSO-GRNfAbOfw_373832204696f43567b5bc8_49607223_02830060XX1.jpg"
+        },
+        {
+          "name": "Olap",
+          "code": "0214",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YfLJIN9OTCCGsGAaoXfqug_610004726696f4308184709_09444034_02821440XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Navigero",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1112265162691c57d765cee8_66461141_02800150XX1.jpg"
+        },
+        {
+          "name": "Navali",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/811531311691c57d6aba2e4_67623166_02800140XX1.jpg"
+        },
+        {
+          "name": "Usuale A",
+          "code": "0901 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USUALE_90100020000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Total Look 228 (Grigio Melange)",
+        "en": "Total Look 228 (Grigio Melange)",
+        "ar": "Total Look 228 (Grigio Melange)",
+        "ka": "Total Look 228 (Grigio Melange)",
+        "hy": "Total Look 228 (Grigio Melange)",
+        "lv": "Total Look 228 (Grigio Melange)",
+        "lt": "Total Look 228 (Grigio Melange)",
+        "pl": "Total Look 228 (Grigio Melange)",
+        "uk": "Total Look 228 (Grigio Melange)"
+      },
+      "text": {
+        "ru": "Caserta 0856 в паре с джинсами Olla 1073, декорирован брошью Nabrezina 0068 0001 0002 и дополнен лоферами Uramaky 0101.",
+        "en": "Caserta 0856 paired with Olla 1073 jeans, decorated with a Nabrezina 0068 0001 0002 brooch and completed with Uramaky 0101 loafers.",
+        "ar": "Caserta 0856 paired with Olla 1073 jeans, decorated with a Nabrezina 0068 0001 0002 brooch and completed with Uramaky 0101 loafers.",
+        "ka": "Caserta 0856 paired with Olla 1073 jeans, decorated with a Nabrezina 0068 0001 0002 brooch and completed with Uramaky 0101 loafers.",
+        "hy": "Caserta 0856 paired with Olla 1073 jeans, decorated with a Nabrezina 0068 0001 0002 brooch and completed with Uramaky 0101 loafers.",
+        "lv": "Caserta 0856 paired with Olla 1073 jeans, decorated with a Nabrezina 0068 0001 0002 brooch and completed with Uramaky 0101 loafers.",
+        "lt": "Caserta 0856 paired with Olla 1073 jeans, decorated with a Nabrezina 0068 0001 0002 brooch and completed with Uramaky 0101 loafers.",
+        "pl": "Caserta 0856 paired with Olla 1073 jeans, decorated with a Nabrezina 0068 0001 0002 brooch and completed with Uramaky 0101 loafers.",
+        "uk": "Caserta 0856 paired with Olla 1073 jeans, decorated with a Nabrezina 0068 0001 0002 brooch and completed with Uramaky 0101 loafers."
+      },
+      "items": [
+        {
+          "name": "Caserta",
+          "code": "0856",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bX-dAybdTxKK_QxHTqy-FQ_1848300653696f430e286d40_01104931_02830050XX2.jpg"
+        },
+        {
+          "name": "Olla",
+          "code": "1073",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/76c4b186-5565-4440-a457-4d0c57cfa520-removebg-preview.png",
+          "modelId": 456
+        },
+        {
+          "name": "Nabrezina",
+          "code": "0068 0001 0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1988193391691c57e8db2b01_98940325_02800380XX1.jpg"
+        },
+        {
+          "name": "Uramaky",
+          "code": "0101",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/urmaky.png"
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Emphasize the premium composition: 10% cashmere combined with 90% pure wool delivers extraordinary softness and warmth without unnecessary weight.",
+      "Recommend the piece as a cornerstone of a 'quiet luxury' wardrobe — the loose fit and kimono sleeves create a refined and contemporary silhouette.",
+      "Suggest a play of contrasts: the voluminous Caserta pullover pairs beautifully with slim-fit Olap trousers or understated Olla denim, creating a balanced daytime look."
+    ],
+    "ru": [
+      "Делайте акцент на премиальном составе: 10% кашемира в сочетании с 90% натуральной шерсти обеспечивают невероятную мягкость и тепло без лишнего веса.",
+      "Рекомендуйте модель как основу гардероба в стиле 'quiet luxury' — свободный крой (Loose fit) и рукава-кимоно создают дорогой и современный силуэт.",
+      "Предлагайте игру контрастов: объемный пуловер Caserta идеально сочетается с узкими брюками Olap или лаконичным денимом Olla, создавая сбалансированный повседневный образ."
+    ],
+    "ar": [
+      "ركزي على المكونات الفاخرة: 10% كشمير ممزوج مع 90% صوف طبيعي يضمن نعومة فائقة ودفئاً مثالياً دون أي ثقل.",
+      "رشحي هذا الموديل كأساس لخزانة الملابس بأسلوب 'quiet luxury' — القصة الواسعة (Loose fit) وأكمام الكيمونو تخلق صورة ظلية عصرية وفخمة.",
+      "اقترحي تباين التصاميم: البلوفر الواسع Caserta يمتزج بشكل مثالي مع السراويل الضيقة Olap أو الجينز البسيط Olla، لخلق إطلالة يومية متوازنة."
+    ],
+    "ka": [
+      "გაამახვილეთ აქცენტი პრემიალურ შემადგენლობაზე: 10% ქაშმირი 90% ნატურალურ მატყლთან კომბინაციაში უზრუნველყოფს წარმოუდგენელ რბილობას და სითბოს ზედმეტი წონის გარეშე.",
+      "ურჩიეთ მოდელი, როგორც გარდერობის საფუძველი 'quiet luxury' სტილში — თავისუფალი კროი (Loose fit) და კიმონოსებური სახელოები ქმნის ძვირადღირებულ და თანამედროვე სილუეტს.",
+      "შესთავაზეთ კონტრასტების თამაში: მოცულობითი პულოვერი Caserta იდეალურად ეხამება ვიწრო შარვალ Olap-ს ან ლაკონურ დენიმ Olla-ს, რაც ქმნის დაბალანსებულ ყოველდღიურ იმიჯს."
+    ],
+    "hy": [
+      "Շեշտը դրեք պրեմիում բաղադրության վրա. 10% քաշմիրը 90% բնական բրդի հետ համատեղ ապահովում են անհավանական փափկություն և ջերմություն՝ առանց ավելորդ ծանրության:",
+      "Առաջարկեք մոդելը որպես 'quiet luxury' ոճի զգեստապահարանի հիմք՝ ազատ ձևվածքը (Loose fit) և կիմոնո-թևքերը ստեղծում են թանկարժեք և ժամանակակից ուրվագիծ:",
+      "Առաջարկեք հակադրությունների խաղ. ծավալուն Caserta պուլովերը կատարյալ համադրվում է նեղ Olap տաբատների կամ լակոնիկ Olla դենիմի հետ՝ ստեղծելով հավասարակշռված առօրյա կերպար:"
+    ],
+    "lv": [
+      "Lieciet uzsvaru uz premium klases sastāvu: 10% kašmira savienojumā ar 90% dabīgas vilnas nodrošina neticamu mīkstumu un siltumu bez lieka svara.",
+      "Iesakiet modeli kā 'quiet luxury' stila garderobes pamatu — brīvais piegriezums (Loose fit) un kimono piedurknes rada dārgu un modernu siluetu.",
+      "Piedāvājiet kontrastu spēli: apjomīgais pulovers Caserta ideāli sader ar šaurām biksēm Olap vai lakonisku džinsu Olla, radot līdzsvarotu ikdienas tēlu."
+    ],
+    "lt": [
+      "Akcentuokite aukščiausios kokybės sudėtį: 10% kašmyro derinys su 90% natūralios vilnos užtikrina neįtikėtiną švelnumą ir šilumą be nereikalingo svorio.",
+      "Rekomenduokite modelį kaip 'quiet luxury' stiliaus garderobo pagrindą — laisvas kirpimas (Loose fit) ir kimono rankovės sukuria prabangų ir modernų siluetą.",
+      "Pasiūlykite kontrastų žaismą: tūrinis Caserta megztinis idealiai dera su siauromis kelnėmis Olap arba lakonišku džinsu Olla, sukuriant subalansuotą kasdienį įvaizdį."
+    ],
+    "pl": [
+      "Połóż nacisk na skład premium: 10% kaszmiru w połączeniu z 90% naturalnej wełny zapewnia niesamowitą miękkość i ciepło bez zbędnego ciężaru.",
+      "Rekomenduj ten model jako fundament garderoby w stylu 'quiet luxury' — luźny krój (Loose fit) i rękawy typu kimono tworzą kosztowną i nowoczesną sylwetkę.",
+      "Zaproponuj grę kontrastów: obszerny pulower Caserta idealnie komponuje się z wąskimi spodniami Olap lub lakonicznym denimem Olla, tworząc zbalansowaną stylizację na co dzień."
+    ],
+    "uk": [
+      "Робіть акцент на преміальному складі: 10% кашеміру в поєднанні з 90% натуральної вовни забезпечують неймовірну м'якість та тепло без зайвої ваги.",
+      "Рекомендуйте модель як основу гардеробу в стилі 'quiet luxury' — вільний крій (Loose fit) та рукави-кімоно створюють дорогий і сучасний силует.",
+      "Пропонуйте гру контрастів: об'ємний пуловер Caserta ідеально поєднується з вузькими штанами Olap або лаконічним денімом Olla, створюючи збалансований повсякденний образ."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The model seems too loose and may add volume.",
+        "a": "The voluminous cut is designed to create an on-trend oversized silhouette. Paired with a slim bottom (such as skinny trousers), the pullover instead accentuates the delicacy of the figure."
+      },
+      {
+        "q": "Concern that the turtleneck collar will be uncomfortable.",
+        "a": "Thanks to the addition of cashmere, the collar has a particular softness. Its relaxed 'morbido collo dolcevita' shape does not constrict the neck, ensuring comfort."
+      },
+      {
+        "q": "How should such a delicate wool-and-cashmere blend be cared for?",
+        "a": "The use of high-quality carded wool minimizes pilling. We recommend professional cleaning or gentle hand-washing to preserve the fibers' plush texture."
+      },
+      {
+        "q": "The Blu Inchiostro shade seems too dark.",
+        "a": "This is a deep, noble shade that this season serves as a status-defining alternative to black. It beautifully illuminates the face, especially when paired with gold-tone accessories."
+      },
+      {
+        "q": "Can this model be adapted for a more formal occasion?",
+        "a": "Absolutely. Adding statement jewelry, such as the Nabrezina brooch or the Navali necklace, instantly elevates the look's degree of formality."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Модель кажется слишком свободной и может полнить.",
+        "a": "Объемный крой разработан для создания актуального оверсайз-силуэта. В сочетании с узким низом (например, брюками-скинни) пуловер, напротив, подчеркивает хрупкость фигуры."
+      },
+      {
+        "q": "Боязнь, что воротник-гольф будет вызывать дискомфорт.",
+        "a": "Благодаря добавлению кашемира воротник обладает особой мягкостью. Его свободная форма 'morbido collo dolcevita' не сдавливает шею, обеспечивая уют."
+      },
+      {
+        "q": "Как ухаживать за такой деликатной смесью шерсти и кашемира?",
+        "a": "Использование кардной шерсти высокого качества минимизирует пилинг. Мы рекомендуем профессиональную чистку или бережную ручную стирку для сохранения пушистой структуры волокон."
+      },
+      {
+        "q": "Цвет Blu Inchiostro кажется слишком темным.",
+        "a": "Это глубокий и благородный оттенок, который в этом сезоне является статусной альтернативой черному. Он великолепно подсвечивает лицо, особенно в сочетании с золотыми аксессуарами."
+      },
+      {
+        "q": "Можно ли адаптировать эту модель для более формального выхода?",
+        "a": "Безусловно. Добавление эффектных украшений, таких как брошь Nabrezina или колье Navali, мгновенно повышает градус нарядности образа."
+      }
+    ],
+    "ar": [
+      {
+        "q": "القطعة تبدو واسعة جداً وقد تزيد من حجم القوام.",
+        "a": "صممت القصة الواسعة لخلق مظهر 'أوفيرسايز' عصري. وبدمجها مع قطعة سفلية ضيقة (مثل بناطيل السكيني)، يبرز البلوفر هشاشة القوام بشكل جذاب."
+      },
+      {
+        "q": "الخوف من أن ياقة الجولف ستسبب عدم الراحة.",
+        "a": "بفضل إضافة الكشمير، تتميز الياقة بنعومة فائقة. شكلها الحر 'morbido collo dolcevita' لا يضغط على الرقبة ويضمن الراحة."
+      },
+      {
+        "q": "كيفية العناية بهذا المزيج الرقيق من الصوف والكشمير؟",
+        "a": "استخدام الصوف الممشط عالي الجودة يقلل من احتمالية التوبر. نوصي بالتنظيف الاحترافي أو الغسيل اليدوي اللطيف للحفاظ على بنية الألياف."
+      },
+      {
+        "q": "لون Blu Inchiostro يبدو داكناً جداً.",
+        "a": "إنه لون عميق ونبيل، وهو هذا الموسم بديل فخم للون الأسود. يضيء الوجه بشكل رائع، خاصة عند تنسيقه مع الإكسسوارات الذهبية."
+      },
+      {
+        "q": "هل يمكن تكييف هذه القطعة للخروجات الرسمية؟",
+        "a": "بالطبع. إضافة إكسسوارات ملفتة مثل دبوس Nabrezina أو قلادة Navali ترفع فوراً من مستوى فخامة المظهر."
+      }
+    ],
+    "ka": [
+      {
+        "q": "მოდელი ზედმეტად თავისუფალი ჩანს და შეიძლება ასუქებდეს.",
+        "a": "მოცულობითი კროი შემუშავებულია აქტუალური ოვერსაიზ-სილუეტის შესაქმნელად. ვიწრო ქვედა ნაწილთან (მაგალითად, ვიწრო შარვალთან) კომბინაციაში, პულოვერი, პირიქით, ხაზს უსვამს ფიგურის სისუსტეს."
+      },
+      {
+        "q": "შიში იმისა, რომ გოლფ-საყელო დისკომფორტს გამოიწვევს.",
+        "a": "ქაშმირის დამატების წყალობით საყელოს გააჩნია განსაკუთრებული რბილობა. მისი თავისუფალი ფორმა 'morbido collo dolcevita' არ უჭერს ყელს და უზრუნველყოფს სიმყუდროვეს."
+      },
+      {
+        "q": "როგორ მოვუაროთ მატყლისა და ქაშმირის ასეთ დელიკატურ ნაზავს?",
+        "a": "მაღალი ხარისხის კარდული მატყლის გამოყენება ამცირებს დაკოტვას. ჩვენ რეკომენდაციას ვუწევთ პროფესიონალურ წმენდას ან ფრთხილ ხელის დაბანას ბოჭკოების ფუმფულა სტრუქტურის შესანარჩუნებლად."
+      },
+      {
+        "q": "Blu Inchiostro ფერი ზედმეტად მუქი ჩანს.",
+        "a": "ეს არის ღრმა და კეთილშობილური ტონი, რომელიც ამ სეზონზე შავის სტატუსურ ალტერნატივას წარმოადგენს. იგი შესანიშნავად ანათებს სახეს, განსაკუთრებით ოქროს აქსესუარებთან კომბინაციაში."
+      },
+      {
+        "q": "შესაძლებელია თუ არა ამ მოდელის ადაპტირება უფრო ფორმალური გასასვლელისთვის?",
+        "a": "რა თქმა უნდა. ეფექტური სამკაულების დამატება, როგორიცაა ბროში Nabrezina ან ყელსაბამი Navali, მყისიერად მატებს სახეს სადღესასწაულო იერს."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Մոդելը չափազանց ազատ է թվում և կարող է գիրացնել։",
+        "a": "Ծավալային կտրվածքը մշակվել է արդիական օվերսայզ ուրվագիծ ստեղծելու համար։ Նեղ ներքնազգեստի (օրինակ՝ սքինի տաբատների) հետ համակցությամբ պուլովերը, ընդհակառակը, ընդգծում է կազմվածքի փխրունությունը։"
+      },
+      {
+        "q": "Մտավախություն, որ գոլֆ օձիքը անհարմարություն կառաջացնի։",
+        "a": "Քաշմիրի ավելացման շնորհիվ օձիքն ունի հատուկ փափկություն։ Դրա «morbido collo dolcevita» ազատ ձևը չի ճնշում պարանոցը՝ ապահովելով հարմարավետություն։"
+      },
+      {
+        "q": "Ինչպե՞ս խնամել բրդի և քաշմիրի այսպիսի նուրբ խառնուրդը։",
+        "a": "Բարձրորակ քարտային բրդի օգտագործումը նվազագույնի է հասցնում գնդիկների առաջացումը։ Մենք խորհուրդ ենք տալիս մասնագիտական մաքրում կամ զգույշ ձեռքով լվացում՝ թելերի փափուկ կառուցվածքը պահպանելու համար։"
+      },
+      {
+        "q": "Blu Inchiostro գույնը չափազանց մուգ է թվում։",
+        "a": "Սա խորը և ազնվական երանգ է, որն այս մրցաշրջանում հանդիսանում է սևի կարգավիճակային այլընտրանք։ Այն հրաշալի կերպով լուսավորում է դեմքը, հատկապես ոսկեգույն աքսեսուարների հետ համակցությամբ։"
+      },
+      {
+        "q": "Հնարավո՞ր է արդյոք այս մոդելը հարմարեցնել ավելի պաշտոնական ելքի համար։",
+        "a": "Անշուշտ։ Էֆեկտիվ զարդերի ավելացումը, ինչպիսիք են Nabrezina բրոշը կամ Navali վզնոցը, ակնթարթորեն բարձրացնում է կերպարի տոնականությունը։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Modelis šķiet pārāk brīvs un var padarīt pilnīgāku.",
+        "a": "Apjomīgais piegriezums ir izstrādāts aktuāla oversize silueta radīšanai. Kombinācijā ar šauru apakšdaļu (piemēram, skinny biksēm) pulovers, gluži pretēji, izceļ figūras trauslumu."
+      },
+      {
+        "q": "Bailes, ka golfa apkakle var radīt diskomfortu.",
+        "a": "Pateicoties kašmira pievienojumam, apkakle ir īpaši mīksta. Tās brīvā 'morbido collo dolcevita' forma nespiež kaklu, nodrošinot omulību."
+      },
+      {
+        "q": "Kā kopt šādu delikātu vilnas un kašmira maisījumu?",
+        "a": "Augstas kvalitātes kārstās vilnas izmantošana mazina pūkošanos (pīlingu). Mēs iesakām profesionālu tīrīšanu vai saudzīgu mazgāšanu ar rokām, lai saglabātu šķiedru pūkaino struktūru."
+      },
+      {
+        "q": "Blu Inchiostro krāsa šķiet pārāk tumša.",
+        "a": "Tas ir dziļš un cēls tonis, kas šajā sezonā ir statusa alternatīva melnajai krāsai. Tas lieliski izgaismo seju, īpaši kombinācijā ar zelta aksesuāriem."
+      },
+      {
+        "q": "Vai šo modeli var adaptēt formālākai izejai?",
+        "a": "Protams. Efektīvu rotaslietu, piemēram, Nabrezina brošas vai Navali kaklarotas pievienošana, acumirklī paaugstina tēla svinīguma pakāpi."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Modelis atrodo pernelyg laisvas ir gali stambinti.",
+        "a": "Tūrinis kirpimas sukurtas siekiant sukurti aktualų oversize siluetą. Derinant su siaura apatine dalimi (pavyzdžiui, siaurėjančiomis kelnėmis), megztinis, priešingai, pabrėžia figūros trapumą."
+      },
+      {
+        "q": "Baimė, kad golfo tipo apykaklė kels diskomfortą.",
+        "a": "Dėl pridėto kašmyro apykaklė yra itin minkšta. Jos laisva morbido collo dolcevita forma neveržia kaklo ir suteikia jaukumo."
+      },
+      {
+        "q": "Kaip prižiūrėti tokią delikačią vilnos ir kašmyro sudėtį?",
+        "a": "Aukštos kokybės karšinės vilnos naudojimas sumažina vėlimąsi. Rekomenduojame profesionalų valymą arba švelnų rankinį skalbimą, kad išsaugotumėte purią pluoštų struktūrą."
+      },
+      {
+        "q": "Blu Inchiostro spalva atrodo pernelyg tamsi.",
+        "a": "Tai gilus ir kilnus atspalvis, kuris šį sezoną yra statusinė alternatyva juodai spalvai. Jis puikiai išryškina veidą, ypač derinant su auksiniais aksesuarais."
+      },
+      {
+        "q": "Ar galima šį modelį pritaikyti formalesniam išėjimui?",
+        "a": "Žinoma. Įspūdingų papuošalų, tokių kaip Nabrezina sagė ar Navali vėrinys, pridėjimas akimirksniu suteikia įvaizdžiui daugiau puošnumo."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Model wydaje się zbyt luźny i może pogrubiać.",
+        "a": "Obszerny krój został zaprojektowany w celu stworzenia aktualnej sylwetki oversize. W połączeniu z wąskim dołem (na przykład spodniami typu skinny), sweter wręcz przeciwnie – podkreśla kruchość figury."
+      },
+      {
+        "q": "Obawa, że golf będzie powodował dyskomfort.",
+        "a": "Dzięki dodatkowi kaszmiru kołnierz posiada wyjątkową miękkość. Jego luźna forma 'morbido collo dolcevita' nie uciska szyi, zapewniając przytulność."
+      },
+      {
+        "q": "Jak dbać o taką delikatną mieszankę wełny i kaszmiru?",
+        "a": "Zastosowanie wysokiej jakości wełny zgrzebnej minimalizuje mechacenie. Zalecamy profesjonalne czyszczenie lub delikatne pranie ręczne w celu zachowania puszystej struktury włókien."
+      },
+      {
+        "q": "Kolor Blu Inchiostro wydaje się zbyt ciemny.",
+        "a": "To głęboki i szlachetny odcień, który w tym sezonie jest prestiżową alternatywą dla czerni. Wspaniale rozświetla twarz, zwłaszcza w połączeniu ze złotymi dodatkami."
+      },
+      {
+        "q": "Czy można zaadaptować ten model na bardziej formalne wyjście?",
+        "a": "Oczywiście. Dodanie efektownych ozdób, takich jak broszka Nabrezina lub naszyjnik Navali, natychmiast podnosi stopień elegancji stylizacji."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Модель здається занадто вільною і може повнити.",
+        "a": "Об'ємний крій розроблений для створення актуального оверсайз-силуету. У поєднанні з вузьким низом (наприклад, брюками-скінні) пуловер, навпаки, підкреслює тендітність фігури."
+      },
+      {
+        "q": "Побоювання, що комір-гольф викликатиме дискомфорт.",
+        "a": "Завдяки додаванню кашеміру комір володіє особливою м'якістю. Його вільна форма 'morbido collo dolcevita' не стискає шию, забезпечуючи затишок."
+      },
+      {
+        "q": "Як доглядати за такою делікатною сумішшю вовни та кашеміру?",
+        "a": "Використання кардної вовни високої якості мінімізує пілінг. Ми рекомендуємо професійну чистку або дбайливе ручне прання для збереження пухнастої структури волокон."
+      },
+      {
+        "q": "Колір Blu Inchiostro здається занадто темним.",
+        "a": "Це глибокий і благородний відтінок, який у цьому сезоні є статусною альтернативою чорному. Він чудово підсвічує обличчя, особливо в поєднанні з золотими аксесуарами."
+      },
+      {
+        "q": "Чи можна адаптувати цю модель для більш формального виходу?",
+        "a": "Безумовно. Додавання ефектних прикрас, таких як брошка Nabrezina або кольє Navali, миттєво підвищує градус ошатності образу."
+      }
+    ]
+  }
+}

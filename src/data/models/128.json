@@ -1,0 +1,378 @@
+{
+  "id": 128,
+  "name": "Lunotto",
+  "description": {
+    "en": "An impeccable interpretation of daytime elegance: the Lunotto blouse, masterfully crafted from silk satin with an exquisite print. The fluidity of the lines and the noble matte sheen of the fabric underscore the piece's status. A classic collar and refined genuine mother-of-pearl buttons complete the look, making it the ideal choice for the modern woman who values luxury in the details.",
+    "ru": "Безупречная интерпретация дневной элегантности: блуза Lunotto, мастерски выполненная из шелкового атласа с изысканным принтом. Плавность линий и благородный матовый блеск ткани подчеркивают статусность изделия. Классический воротник и утонченные пуговицы из натурального перламутра завершают образ, делая его идеальным выбором для современной женщины, ценящей роскошь в деталях.",
+    "ar": "تفسير مثالي للأناقة النهارية: بلوزة Lunotto، المصنوعة ببراعة من ساتان الحرير بنقشة راقية. تبرز انسيابية الخطوط واللمعان المطفأ الفاخر للنسيج مكانة القطعة. تُكمل الياقة الكلاسيكية والأزرار الأنيقة المصنوعة من اللؤلؤ الطبيعي الإطلالة، مما يجعلها الخيار الأمثل للمرأة العصرية التي تقدر الفخامة في كل تفصيل.",
+    "ka": "დღის ელეგანტურობის უნაკლო ინტერპრეტაცია: ბლუზა Lunotto, ოსტატურად შესრულებული აბრეშუმის ატლასისგან დახვეწილი პრინტით. ხაზების სირბილე და ქსოვილის კეთილშობილი მქრქალი ბზინვარება ხაზს უსვამს ნაკეთობის სტატუსურობას. კლასიკური საყელო და ნატურალური დედა-მარგალიტის დახვეწილი ღილები ასრულებს იმიჯს და მას აქცევს იდეალურ არჩევანად თანამედროვე ქალისთვის, რომელიც აფასებს ფუფუნებას დეტალებში.",
+    "hy": "Ցերեկային էլեգանտության անթերի մեկնաբանություն՝ Lunotto բլուզ, որը վարպետորեն պատրաստված է նուրբ պրինտով մետաքսե ատլասից։ Գծերի սահունությունը և կտորի ազնվական փայլատ փայլն ընդգծում են արտադրանքի կարգավիճակը։ Դասական օձիքը և բնական սադափից պատրաստված նուրբ կոճակները ամբողջացնում են կերպարը՝ դարձնելով այն իդեալական ընտրություն ժամանակակից կնոջ համար, ով գնահատում է շքեղությունը դետալներում։",
+    "lv": "Nevainojama dienas elegances interpretācija: blūze *Lunotto*, kas meistarīgi darināta no zīda satīna ar smalku apdruku. Līniju plūstamība un auduma cēlais, matētais spīdums izceļ apģērba ekskluzivitāti. Klasiskā apkakle un izsmalcinātās dabīgā pērļmātes pogas piešķir tēlam pilnību, padarot to par ideālu izvēli mūsdienīgai sievietei, kura novērtē luksusu detaļās.",
+    "lt": "Nepriekaištinga dieninės elegancijos interpretacija: palaidinė Lunotto, meistriškai sukurta iš šilko atlaso su rafinuotu marginimu. Linijų sklandumas ir taurus matinis audinio žvilgesys pabrėžia gaminio statusą. Klasikinė apykaklė ir subtilios natūralaus perlamutro sagos užbaigia įvaizdį, todėl tai yra idealus pasirinkimas šiuolaikinei moteriai, vertinančiai prabangą detalėse.",
+    "pl": "Nienaganna interpretacja dziennej elegancji: bluzka Lunotto, mistrzowsko wykonana z jedwabnego atłasu z wyrafinowanym wzorem. Płynność linii i szlachetny matowy połysk tkaniny podkreślają prestiżowy charakter modelu. Klasyczny kołnierzyk i subtelne guziki z naturalnej masy perłowej dopełniają całość, czyniąc ją idealnym wyborem dla współczesnej kobiety ceniącej luksus w każdym detalu.",
+    "uk": "Бездоганна інтерпретація денної елегантності: блуза Lunotto, майстерно виконана з шовкового атласу з вишуканим принтом. Плавність ліній і благородний матовий блиск тканини підкреслюють статусність виробу. Класичний комір і витончені ґудзики з натурального перламутру завершують образ, роблячи його ідеальним вибором для сучасної жінки, що цінує розкіш у деталях."
+  },
+  "colors": [
+    {
+      "name": "Var Spinato Verde",
+      "code": "3418",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LUNOTTO_0.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Образ 1 (Total Look)",
+        "en": "Look 1 (Total Look)",
+        "ar": "Look 1 (Total Look)",
+        "ka": "Look 1 (Total Look)",
+        "hy": "Look 1 (Total Look)",
+        "lv": "Look 1 (Total Look)",
+        "lt": "Look 1 (Total Look)",
+        "pl": "Look 1 (Total Look)",
+        "uk": "Look 1 (Total Look)"
+      },
+      "text": {
+        "ru": "Сочетание блузы Lunotto 3418 с жакетом Salve A 1789 и брюками Odini 1789. Дополнено сапогами Ulisside 2240 0038, серьгами Neanide 0002 и брошью Nolanite A 0002.",
+        "en": "A combination of the Lunotto 3418 blouse with the Salve A 1789 jacket and the Odini 1789 trousers. Complemented by Ulisside 2240 0038 boots, the Neanide 0002 earrings and the Nolanite A 0002 brooch.",
+        "ar": "A combination of the Lunotto 3418 blouse with the Salve A 1789 jacket and the Odini 1789 trousers. Complemented by Ulisside 2240 0038 boots, the Neanide 0002 earrings and the Nolanite A 0002 brooch.",
+        "ka": "A combination of the Lunotto 3418 blouse with the Salve A 1789 jacket and the Odini 1789 trousers. Complemented by Ulisside 2240 0038 boots, the Neanide 0002 earrings and the Nolanite A 0002 brooch.",
+        "hy": "A combination of the Lunotto 3418 blouse with the Salve A 1789 jacket and the Odini 1789 trousers. Complemented by Ulisside 2240 0038 boots, the Neanide 0002 earrings and the Nolanite A 0002 brooch.",
+        "lv": "A combination of the Lunotto 3418 blouse with the Salve A 1789 jacket and the Odini 1789 trousers. Complemented by Ulisside 2240 0038 boots, the Neanide 0002 earrings and the Nolanite A 0002 brooch.",
+        "lt": "A combination of the Lunotto 3418 blouse with the Salve A 1789 jacket and the Odini 1789 trousers. Complemented by Ulisside 2240 0038 boots, the Neanide 0002 earrings and the Nolanite A 0002 brooch.",
+        "pl": "A combination of the Lunotto 3418 blouse with the Salve A 1789 jacket and the Odini 1789 trousers. Complemented by Ulisside 2240 0038 boots, the Neanide 0002 earrings and the Nolanite A 0002 brooch.",
+        "uk": "A combination of the Lunotto 3418 blouse with the Salve A 1789 jacket and the Odini 1789 trousers. Complemented by Ulisside 2240 0038 boots, the Neanide 0002 earrings and the Nolanite A 0002 brooch."
+      },
+      "items": [
+        {
+          "name": "Lunotto",
+          "code": "3418",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LUNOTTO_0.jpg"
+        },
+        {
+          "name": "Salve A",
+          "code": "1789",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/vxWux3ofS5SFEVbTaGH9Cg_99445790696f42f07c9277_19680844_02820850XX1.jpg",
+          "modelId": 294
+        },
+        {
+          "name": "Odini",
+          "code": "1789",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg",
+          "modelId": 451
+        },
+        {
+          "name": "Ulisside",
+          "code": "2240 0038",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg"
+        },
+        {
+          "name": "Neanide",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1605403396691c57d8aee920_21613301_02800170XX1.jpg"
+        },
+        {
+          "name": "Nolanite A",
+          "code": "0002",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NOLANITE_200000000.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Look 2 (Urban chic)",
+        "ar": "Look 2 (Urban chic)",
+        "ka": "Look 2 (Urban chic)",
+        "hy": "Look 2 (Urban chic)",
+        "lv": "Look 2 (Urban chic)",
+        "lt": "Look 2 (Urban chic)",
+        "pl": "Look 2 (Urban chic)",
+        "uk": "Look 2 (Urban chic)",
+        "ru": null
+      },
+      "text": {
+        "ru": "Образ 2 (Городской шик): Многослойный ансамбль из блузы Lunotto 3418, кардигана Merende 1736 и брюк Olap 1119 под курткой Scrittoio 1729 0992.",
+        "en": "A layered ensemble consisting of the Lunotto 3418 blouse, the Merende 1736 cardigan and the Olap 1119 trousers under the Scrittoio 1729 0992 jacket.",
+        "ar": "A layered ensemble consisting of the Lunotto 3418 blouse, the Merende 1736 cardigan and the Olap 1119 trousers under the Scrittoio 1729 0992 jacket.",
+        "ka": "A layered ensemble consisting of the Lunotto 3418 blouse, the Merende 1736 cardigan and the Olap 1119 trousers under the Scrittoio 1729 0992 jacket.",
+        "hy": "A layered ensemble consisting of the Lunotto 3418 blouse, the Merende 1736 cardigan and the Olap 1119 trousers under the Scrittoio 1729 0992 jacket.",
+        "lv": "A layered ensemble consisting of the Lunotto 3418 blouse, the Merende 1736 cardigan and the Olap 1119 trousers under the Scrittoio 1729 0992 jacket.",
+        "lt": "A layered ensemble consisting of the Lunotto 3418 blouse, the Merende 1736 cardigan and the Olap 1119 trousers under the Scrittoio 1729 0992 jacket.",
+        "pl": "A layered ensemble consisting of the Lunotto 3418 blouse, the Merende 1736 cardigan and the Olap 1119 trousers under the Scrittoio 1729 0992 jacket.",
+        "uk": "A layered ensemble consisting of the Lunotto 3418 blouse, the Merende 1736 cardigan and the Olap 1119 trousers under the Scrittoio 1729 0992 jacket."
+      },
+      "items": [
+        {
+          "name": "Lunotto",
+          "code": "3418",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LUNOTTO_0.jpg"
+        },
+        {
+          "name": "Merende",
+          "code": "1736",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1929290977691f15a3cde391_66200932_02790790XX1.jpg",
+          "modelId": 442
+        },
+        {
+          "name": "Olap",
+          "code": "1119",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg",
+          "modelId": 243
+        },
+        {
+          "name": "Scrittoio",
+          "code": "1729 0992",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/22486811691f159c0fa9a1_69307500_02780880XX1.jpg",
+          "modelId": 477
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "Draw the client's attention to the distinctive composition: the blend of natural silk and viscose (34%/66%) guarantees the material's noble sheen and exceptional durability.",
+      "Showcase the genuine mother-of-pearl buttons — this hand-finished detail underscores the authenticity of Luisa Spagnoli's Italian tailoring artistry.",
+      "Recommend Lunotto as a versatile wardrobe staple: thanks to its fluid drape, it sits beautifully beneath structured jackets without adding unwanted volume."
+    ],
+    "ru": [
+      "Акцентируйте внимание клиента на уникальном составе: сочетание натурального шелка и вискозы (34%/66%) гарантирует благородное сияние материала и исключительную износостойкость.",
+      "Продемонстрируйте пуговицы из натурального перламутра — этот элемент ручной работы подчеркивает аутентичность итальянского портновского искусства Luisa Spagnoli.",
+      "Рекомендуйте Lunotto как универсальную основу гардероба: благодаря текучей фактуре она идеально ложится под структурированные жакеты, не создавая лишнего объема."
+    ],
+    "ar": [
+      "سلطي الضوء للعميل على التركيبة الفريدة: مزيج الحرير الطبيعي والفيسكوز (34%/66%) يضمن بريقاً نبيلاً للمادة ومقاومة استثنائية للتلف.",
+      "اعرضي الأزرار المصنوعة من عرق اللؤلؤ الطبيعي؛ فهذا التفصيل المصنوع يدوياً يؤكد أصالة فن الخياطة الإيطالي لدى Luisa Spagnoli.",
+      "انصحي بـ Lunotto كأساس متعدد الاستخدامات لخزانة الملابس: بفضل قوامها الانسيابي، فهي تندمج بشكل مثالي تحت السترات ذات الهيكل المحدد دون خلق أي حجم إضافي."
+    ],
+    "ka": [
+      "გაამახვილეთ კლიენტის ყურადღება უნიკალურ შემადგენლობაზე: ნატურალური აბრეშუმისა და ვისკოზის (34%/66%) კომბინაცია მასალის კეთილშობილურ ბზინვარებას და განსაკუთრებულ გამძლეობას გარანტირებს.",
+      "დაანახეთ ნატურალური მარგალიტის ღილები — ეს ხელნაკეთი ელემენტი Luisa Spagnoli-ს იტალიური მკერავის ხელოვნების ავთენტურობას უსვამს ხაზს.",
+      "რეკომენდაცია გაუწიეთ Lunotto-ს, როგორც გარდერობის უნივერსალურ საფუძველს: მისი დენადი ფაქტურის წყალობით ის იდეალურად ჯდება სტრუქტურირებული პიჯაკების ქვეშ და არ ქმნის ზედმეტ მოცულობას."
+    ],
+    "hy": [
+      "Հաճախորդի ուշադրությունը հրավիրեք եզակի բաղադրությանը. բնական մետաքսի և վիսկոզայի (34%/66%) համադրությունը երաշխավորում է նյութի ազնվական փայլը և բացառիկ մաշվածակայունությունը:",
+      "Ցույց տվեք բնական մարգարտյա կոճակները. այս ձեռագործ տարրը ընդգծում է Luisa Spagnoli-ի իտալական դերձակային արվեստի իսկությունը:",
+      "Առաջարկեք Lunotto-ն որպես զգեստապահարանի ունիվերսալ հիմք. հոսուն փաստուրայի շնորհիվ այն իդեալաբար տեղավորվում է կառուցվածքային բաճկոնների տակ՝ առանց ավելորդ ծավալ ստեղծելու:"
+    ],
+    "lv": [
+      "Акцентируйте внимание клиента на уникальном составе: сочетание натурального шелка и вискозы (34%/66%) гарантирует благородное сияние материала и исключительную износостойкость.",
+      "Продемонстрируйте пуговицы из натурального перламутра — этот элемент ручной работы подчеркивает аутентичность итальянского портновского искусства Luisa Spagnoli.",
+      "Рекомендуйте Lunotto как универсальную основу гардероба: благодаря текучей фактуре она идеально ложится под структурированные жакеты, не создавая лишнего объема."
+    ],
+    "lt": [
+      "Atkreipkite kliento dėmesį į unikalią sudėtį: natūralaus šilko ir viskozės derinys (34%/66%) garantuoja kilnų medžiagos žvilgesį ir išskirtinį atsparumą dilimui.",
+      "Pademonstruokite sagas iš natūralaus perlamutro – šis rankų darbo elementas pabrėžia Luisa Spagnoli itališko siuvimo meno autentiškumą.",
+      "Rekomenduokite Lunotto kaip universalų garderobo pagrindą: dėl krintančios faktūros ji idealiai tinka po struktūriniais švarkais, nesukurdama papildomos apimties."
+    ],
+    "pl": [
+      "Zwróć uwagę klientki na unikalny skład: połączenie naturalnego jedwabiu i wiskozy (34%/66%) gwarantuje szlachetny blask materiału i wyjątkową odporność na zużycie.",
+      "Zaprezentuj guziki z naturalnej masy perłowej — ten element wykonany ręcznie podkreśla autentyczność włoskiego kunsztu krawieckiego Luisa Spagnoli.",
+      "Rekomenduj Lunotto jako uniwersalną bazę garderoby: dzięki lejącej fakturze idealnie układa się pod strukturalnymi żakietami, nie tworząc zbędnej objętości."
+    ],
+    "uk": [
+      "Акцентуйте увагу клієнта на унікальному складі: поєднання натурального шовку та віскози (34%/66%) гарантує благородне сяйво матеріалу та виняткову зносостійкість.",
+      "Продемонструйте ґудзики з натурального перламутру — цей елемент ручної роботи підкреслює автентичність італійського кравецького мистецтва Luisa Spagnoli.",
+      "Рекомендуйте Lunotto як універсальну основу гардероба: завдяки плинній фактурі вона ідеально лягає під структуровані жакети, не створюючи зайвого об'єму."
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "The print seems too bold for a business wardrobe.",
+        "a": "In the Lunotto piece, the print is rendered in an aristocratic colour palette, allowing it to fit harmoniously into a business context when paired with the structured Salve A jacket."
+      },
+      {
+        "q": "Silk fabric requires demanding professional care.",
+        "a": "The addition of viscose to the composition makes the fabric more practical and resistant to creasing, while preserving all the aesthetic qualities of natural silk."
+      },
+      {
+        "q": "Mother-of-pearl buttons look fragile.",
+        "a": "The use of natural mother-of-pearl is a marker of superior quality. The buttons are securely fastened to the brand's couture standards."
+      },
+      {
+        "q": "The blouse may look too loose.",
+        "a": "The regular fit is designed to ensure comfort and freedom of movement, while the fluidity of the material elegantly accentuates the silhouette."
+      },
+      {
+        "q": "It's difficult to find footwear to match such a bold pattern.",
+        "a": "Our stylists recommend pairing this piece with understated leather Ulisside boots in neutral tones to balance the look."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Принт кажется слишком смелым для делового гардероба.",
+        "a": "В модели Lunotto принт выполнен в аристократичной цветовой гамме, что позволяет ей гармонично вписаться в деловой контекст при сочетании со строгим жакетом Salve A."
+      },
+      {
+        "q": "Шелковая ткань требует сложного профессионального ухода.",
+        "a": "Добавление вискозы в состав делает ткань более практичной и устойчивой к сминанию, сохраняя при этом все эстетические достоинства натурального шелка."
+      },
+      {
+        "q": "Перламутровые пуговицы выглядят хрупкими.",
+        "a": "Использование натурального перламутра — это маркер высокого качества. Пуговицы надежно зафиксированы по кутюрным стандартам бренда."
+      },
+      {
+        "q": "Блуза может выглядеть слишком свободной.",
+        "a": "Регулярный крой (Regular fit) разработан для обеспечения комфорта и свободы движений, при этом текучесть материала изящно подчеркивает силуэт."
+      },
+      {
+        "q": "Сложно подобрать обувь к такому активному рисунку.",
+        "a": "Наши стилисты рекомендуют сочетать модель с лаконичными кожаными сапогами Ulisside в нейтральных оттенках, чтобы сбалансировать образ."
+      }
+    ],
+    "ar": [
+      {
+        "q": "تبدو الطبعة جريئة جداً لخزانة الملابس العملية.",
+        "a": "في تصميم Lunotto، تأتي الطبعة بألوان أرستقراطية تسمح لها بالاندماج بانسجام في سياق العمل عند تنسيقها مع سترة Salve A الرسمية."
+      },
+      {
+        "q": "قماش الحرير يتطلب عناية مهنية معقدة.",
+        "a": "إضافة الفيسكوز إلى التركيبة تجعل القماش أكثر عملية ومقاومة للتجعد، مع الاحتفاظ بجميع المزايا الجمالية للحرير الطبيعي."
+      },
+      {
+        "q": "الأزرار المصنوعة من اللؤلؤ تبدو هشة.",
+        "a": "استخدام اللؤلؤ الطبيعي هو علامة على الجودة العالية؛ فالأزرار مثبتة بإحكام وفقاً لمعايير الدار الفاخرة."
+      },
+      {
+        "q": "قد تبدو البلوزة واسعة جداً.",
+        "a": "تم تطوير القصّة العادية (Regular fit) لضمان الراحة وحرية الحركة، بينما تبرز انسيابية المادة القوام بشكل أنيق."
+      },
+      {
+        "q": "من الصعب اختيار حذاء يناسب هذا النمط النشط.",
+        "a": "ينصح خبراؤنا بتنسيق القطعة مع أحذية جلدية بسيطة من طراز Ulisside بألوان محايدة لموازنة الإطلالة."
+      }
+    ],
+    "ka": [
+      {
+        "q": "პრინტი ზედმეტად თამამი ჩანს საქმიანი გარდერობისთვის.",
+        "a": "მოდელში Lunotto პრინტი შესრულებულია არისტოკრატულ ფერთა გამაში, რაც საშუალებას აძლევს მას ჰარმონიულად ჩაჯდეს საქმიან კონტექსტში მკაცრ პიჯაკთან Salve A შეხამებისას."
+      },
+      {
+        "q": "აბრეშუმის ქსოვილი მოითხოვს რთულ პროფესიონალურ მოვლას.",
+        "a": "შემადგენლობაში ვისკოზის დამატება ქსოვილს უფრო პრაქტიკულს და დაჭმუჭვნის მიმართ მდგრადს ხდის, ხოლო ბუნებრივი აბრეშუმისთვის დამახასიათებელ ყველა ესთეტიკურ ღირსებას ინარჩუნებს."
+      },
+      {
+        "q": "მარგალიტის ღილები მყიფე ჩანს.",
+        "a": "ბუნებრივი მარგალიტის გამოყენება მაღალი ხარისხის ნიშანია. ღილები საიმედოდაა დაფიქსირებული ბრენდის კუტიურული სტანდარტების მიხედვით."
+      },
+      {
+        "q": "ბლუზა შესაძლოა ზედმეტად თავისუფალი ჩანდეს.",
+        "a": "რეგულარული ჭრა (Regular fit) შემუშავებულია კომფორტისა და მოძრაობის თავისუფლების უზრუნველსაყოფად, ამავდროულად მასალის დენადობა ეფექტურად უსვამს ხაზს სილუეტს."
+      },
+      {
+        "q": "რთულია ფეხსაცმლის შერჩევა ასეთი აქტიური ნახატისთვის.",
+        "a": "ჩვენი სტილისტები გვირჩევენ მოდელის შეხამებას თავშეკავებულ ტყავის ჩექმებთან Ulisside ნეიტრალურ ფერებში, რათა დააბალანსოთ იმიჯი."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Պրինտը չափազանց համարձակ է թվում գործնական զգեստապահարանի համար։",
+        "a": "Lunotto մոդելում պրինտն արված է արիստոկրատ գունային գամմայով, ինչը թույլ է տալիս նրան ներդաշնակորեն տեղավորվել գործնական համատեքստում՝ Salve A խիստ բաճկոնի հետ համադրելիս։"
+      },
+      {
+        "q": "Մետաքսե կտորը պահանջում է բարդ պրոֆեսիոնալ խնամք։",
+        "a": "Կազմության մեջ վիսկոզայի ավելացումը կտորն ավելի գործնական է դարձնում և կայուն կնճռոտման նկատմամբ՝ պահպանելով բնական մետաքսի բոլոր էսթետիկ առավելությունները։"
+      },
+      {
+        "q": "Սադաֆե կոճակները փխրուն են թվում։",
+        "a": "Բնական սադաֆի օգտագործումը բարձր որակի ցուցանիշ է։ Կոճակները հուսալիորեն ամրացված են ապրանքանիշի կուտյուրային ստանդարտներին համապատասխան։"
+      },
+      {
+        "q": "Բլուզը կարող է չափազանց ազատ նայվել։",
+        "a": "Regular fit-ը մշակված է հարմարավետություն և շարժման ազատություն ապահովելու համար, ընդ որում նյութի հոսունությունը նրբագեղորեն ընդգծում է ուրվագիծը։"
+      },
+      {
+        "q": "Դժվար է կոշիկ ընտրել նման ակտիվ նախշի համար։",
+        "a": "Մեր ոճաբանները խորհուրդ են տալիս մոդելը համադրել Ulisside չեզոք երանգների լակոնիկ կաշվե երկարաճիտ կոշիկների հետ՝ կերպարը հավասարակշռելու համար։"
+      }
+    ],
+    "lv": [
+      {
+        "q": "Apdruka šķiet pārāk drosmīga lietišķajai garderobei.",
+        "a": "Lunotto modelī apdruka ir veidota aristokrātiskā krāsu gammā, kas ļauj tai harmoniski iekļauties lietišķajā kontekstā, kombinējot ar stingru Salve A žaketi."
+      },
+      {
+        "q": "Zīda audums prasa sarežģītu profesionālu kopšanu.",
+        "a": "Viskozes pievienošana sastāvam padara audumu praktiskāku un izturīgāku pret burzīšanos, vienlaikus saglabājot visas dabīgā zīda estētiskās priekšrocības."
+      },
+      {
+        "q": "Pērlamutra pogas izskatās trauslas.",
+        "a": "Dabīgā pērlamutra izmantošana ir augstas kvalitātes marķieris. Pogas ir droši fiksētas pēc zīmola augstākajiem standarta standartiem."
+      },
+      {
+        "q": "Blūze var izskatīties pārāk brīva.",
+        "a": "Regulārais piegriezums (Regular fit) ir izstrādāts, lai nodrošinātu komfortu un kustību brīvību, turklāt materiāla plūstamība izsmalcināti izceļ siluetu."
+      },
+      {
+        "q": "Grūti piemeklēt apavus tik aktīvam rakstam.",
+        "a": "Mūsu stilisti iesaka kombinēt modeli ar lakoniskiem ādas zābakiem Ulisside neitrālos toņos, lai līdzsvarotu tēlu."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Raštas atrodo per drąsus dalykiniam garderobui.",
+        "a": "Lunotto modelyje raštas atliktas aristokratiška spalvų gama, kas leidžia jam harmoningai įsilieti į dalykinį kontekstą derinant su griežtu Salve A švarku."
+      },
+      {
+        "q": "Šilko audiniui reikalinga sudėtinga profesionali priežiūra.",
+        "a": "Viskozės įtraukimas į sudėtį daro audinį praktiškesnį ir atsparesnį glamžymuisi, išlaikant visus natūralaus šilko estetinius privalumus."
+      },
+      {
+        "q": "Perlamutrinės sagos atrodo trapios.",
+        "a": "Natūralaus perlamutro naudojimas yra aukštos kokybės ženklas. Sagos patikimai pritvirtintos pagal prekės ženklo „couture“ standartus."
+      },
+      {
+        "q": "Palaidinė gali atrodyti per laisva.",
+        "a": "„Regular fit“ kirpimas sukurtas užtikrinti patogumą ir judesių laisvę, o medžiagos takumas grakščiai pabrėžia siluetą."
+      },
+      {
+        "q": "Sunku parinkti avalynę prie tokio aktyvaus rašto.",
+        "a": "Mūsų stilistai rekomenduoja derinti modelį su lakoniškais odiniais Ulisside batais neutraliais atspalviais, kad subalansuotumėte įvaizdį."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Wzór wydaje się zbyt odważny do garderoby biznesowej.",
+        "a": "W modelu Lunotto wzór wykonany jest w arystokratycznej gamie kolorystycznej, co pozwala mu harmonijnie wpisać się w kontekst biznesowy przy połączeniu ze surowym żakietem Salve A."
+      },
+      {
+        "q": "Jedwabna tkanina wymaga skomplikowanej profesjonalnej pielęgnacji.",
+        "a": "Dodatek wiskozy w składzie sprawia, że tkanina jest bardziej praktyczna i odporna na gniecenie, zachowując przy tym wszystkie estetyczne zalety naturalnego jedwabiu."
+      },
+      {
+        "q": "Perłowe guziki wyglądają na kruche.",
+        "a": "Użycie naturalnej masy perłowej to wyznacznik wysokiej jakości. Guziki są solidnie przymocowane zgodnie z krawieckimi standardami marki."
+      },
+      {
+        "q": "Bluzka może wyglądać zbyt luźno.",
+        "a": "Regularny krój (Regular fit) został zaprojektowany w celu zapewnienia komfortu i swobody ruchów, przy czym płynność materiału elegancko podkreśla sylwetkę."
+      },
+      {
+        "q": "Trudno dobrać obuwie do tak aktywnego wzoru.",
+        "a": "Nasi styliści zalecają łączenie modelu z lakonicznymi skórzanymi kozakami Ulisside w neutralnych odcieniach, aby zrównoważyć wizerunek."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Принт здається занадто сміливим для ділового гардероба.",
+        "a": "У моделі Lunotto принт виконаний в аристократичній кольоровій гамі, що дозволяє їй гармонійно вписатися в діловий контекст при поєднанні зі суворим жакетом Salve A."
+      },
+      {
+        "q": "Шовкова тканина вимагає складного професійного догляду.",
+        "a": "Додавання віскози до складу робить тканину практичнішою та стійкішою до зминання, зберігаючи при цьому всі естетичні переваги натурального шовку."
+      },
+      {
+        "q": "Перламутрові ґудзики виглядають крихкими.",
+        "a": "Використання натурального перламутру — це маркер високої якості. Ґудзики надійно зафіксовані за кутюрними стандартами бренду."
+      },
+      {
+        "q": "Блуза може виглядати занадто вільною.",
+        "a": "Регулярний крій (Regular fit) розроблений для забезпечення комфорту та свободи рухів, при цьому плинність матеріалу витончено підкреслює силует."
+      },
+      {
+        "q": "Складно підібрати взуття до такого активного малюнка.",
+        "a": "Наші стилісти рекомендують поєднувати модель із лаконічними шкіряними чоботами Ulisside у нейтральних відтінках, щоб збалансувати образ."
+      }
+    ]
+  }
+}

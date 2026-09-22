@@ -1,0 +1,414 @@
+{
+  "id": 385,
+  "name": "Cuoricino",
+  "description": {
+    "en": "This elegant 'bon ton' cardigan is the true embodiment of refinement and soft luxury inherent to Luisa Spagnoli's DNA. Crafted from a noble blend of wool and cashmere, it envelops the wearer in softness and delivers flawless comfort, underscoring its owner's status. An exquisite contrast in the edge finishing creates a graphic, contemporary silhouette, while the cropped length, combined with the Regular fit, allows the look to be accentuated with precision. Particular charm is lent to the piece by miniature patch pockets, adorned with enamel buttons bearing the LS logo, which serve as the jewel-like finishing touch to this stylish masterpiece.",
+    "ru": "Этот элегантный кардиган в стиле «bon ton» --- истинное воплощение утонченности и мягкой роскоши, присущей ДНК Luisa Spagnoli. Выполненный из благородного сочетания шерсти и кашемира, он окутывает нежностью и дарит безупречный комфорт, подчеркивая статус своей обладательницы. Изысканный контраст в отделке профилей создает графичный и современный силуэт, а укороченная длина cropped в сочетании с регулярной посадкой позволяет идеально расставить акценты в образе. Особое очарование модели придают миниатюрные накладные карманы, украшенные эмалированными пуговицами с логотипом LS, которые служат ювелирным завершением этого стильного шедевра.",
+    "ar": "يُجسّد هذا الكارديجان الأنيق بأسلوب \"بون تون\" (Bon ton) الجوهر الحقيقي للرقي والفخامة الناعمة التي تعكس الهوية الأصيلة لعلامة لويزا سبانيولي (Luisa Spagnoli). صُنِع النسيج من مزيج فاخر يجمع بين الصوف الخالص والكاكشمير النبيل، ليلتف حول الجسد بنعومة فائقة ويمنح راحة استثنائية تُبرز المكانة الرفيعة لسيدته. ويخلق التباين الإيطالي المتقن في تحديد الحواف قَواماً هندسياً معاصراً، بينما تُتيح القَصّة القصيرة (Cropped) مع المقاس القياسي (Regular fit) إبراز تفاصيل الإطلالة ببراعة متناهية. وتكتمل الجاذبية الخاصة لهذا التصميم بالجيوب الصغيرة المضافة، والمزدانة بأزرار مطلية بالمينا تحمل شعار الدار (LS)، لتكون بمثابة لمسة جوهرية تُتوّج هذه التحفة الفنية.",
+    "ka": "ეს ელეგანტური «bon ton» სტილის კარდიგანი არის დახვეწილობისა და რბილი ფუფუნების ჭეშმარიტი განსახიერება, რომელიც Luisa Spagnoli-ს დნმ-ს ახასიათებს. შესრულებული მატყლისა და ქაშმირის კეთილშობილური ნაზავისგან, ის ნაზად გვახვევს და უნაკლო კომფორტს გვანიჭებს, რაც ხაზს უსვამს მისი მფლობელის სტატუსს. პროფილების დასრულებაში არსებული დახვეწილი კონტრასტი ქმნის გრაფიკულ და თანამედროვე სილუეტს, ხოლო მოკლე cropped სიგრძე რეგულარულ მორგებასთან ერთად იძლევა იერსახეში აქცენტების იდეალურად დასმის საშუალებას. მოდელს განსაკუთრებულ მომხიბვლელობას სძენს მინიატურული ზედნადები ჯიბეები, რომლებიც მორთულია LS ლოგოიანი ემალირებული ღილებით, რაც ამ სტილური შედევრის საიუველირო დასრულებას წარმოადგენს.",
+    "hy": "Bon ton ոճի այս նրբագեղ կարդիգանը Luisa Spagnoli-ի ԴՆԹ-ին բնորոշ նրբաճաշակության և նուրբ շքեղության իրական մարմնացումն է: Պատրաստված բրդի և կաշմիրի ազնվական համադրությունից՝ այն պարուրում է քնքշությամբ և պարգևում անթերի հարմարավետություն՝ ընդգծելով իր տիրուհու կարգավիճակը: Եզրագծերի ձևավորման մեջ առկա նուրբ կոնտրաստը ստեղծում է գրաֆիկական և ժամանակակից ուրվագիծ, իսկ կարճ cropped երկարությունը՝ regular կտրվածքի հետ համատեղ, թույլ է տալիս կատարելապես շեշտադրումներ կատարել կերպարում: Մոդելին առանձնահատուկ հմայք են հաղորդում LS լոգոտիպով էմալապատ կոճակներով զարդարված մանրանկար գրպանները, որոնք ծառայում են որպես այս նորաձև գլուխգործոցի ոսկերչական ավարտ:",
+    "lv": "Šis elegantais bon ton stila kardigāns ir pati izsmalcinātības un maigās greznības būtība, kas piemīt Luisa Spagnoli DNS. Izgatavots no cēla vilnas un kašmira maisījuma, tas ietin maigumā un dāvā nevainojamu komfortu, uzsverot tā valkātājas statusu. Izsmalcināts kontrasts profilu apdarē rada grafisku un modernu siluetu, bet saīsinātais cropped garums kombinācijā ar regulāru piegriezumu ļauj ideāli izvietot tēla akcentus. Īpašu burvību modelim piešķir miniatūras uzšūtās kabatas, kas rotātas ar emaljētām pogām ar LS logotipu, kalpojot kā juvelierizstrādājumu cienīgs šī stilīgā meistardarba noslēgums.",
+    "lt": "Šis elegantiškas „bon ton“ stiliaus kardiganas – tikras rafinuotumo ir švelnios prabangos, būdingos Luisa Spagnoli DNR, įsikūnijimas. Pagamintas iš tauriojo vilnos ir kašmyro derinio, jis apgaubia švelnumu ir suteikia nepriekaištingą komfortą, pabrėždamas savo savininkės statusą. Išskirtinis profilių apdailos kontrastas sukuria grafišką ir šiuolaikišką siluetą, o sutrumpintas (cropped) ilgis kartu su standartiniu kirpimu leidžia idealiai sudėlioti įvaizdžio akcentus. Ypatingo žavesio modeliui suteikia miniatiūrinės prisiūtos kišenėlės, puoštos emaliuotomis sagomis su LS logotipu, kurios tampa juvelyriniu šio stilingo šedevro užbaigimu.",
+    "pl": "Ten elegancki kardigan w stylu «bon ton» to prawdziwe ucieleśnienie wyrafinowania i miękkiego luksusu, wpisane w DNA Luisa Spagnoli. Wykonany ze szlachetnego połączenia wełny i kaszmiru, otula delikatnością i zapewnia nienaganny komfort, podkreślając status swojej właścicielki. Wyrafinowany kontrast w wykończeniu profili tworzy graficzną i nowoczesną sylwetkę, a skrócona długość cropped w połączeniu ze standardowym krojem pozwala idealnie wyeksponować proporcje stylizacji. Szczególnego uroku modelowi dodają miniaturowe naszywane kieszonki, ozdobione emaliowanymi guzikami z logo LS, które stanowią jubilerskie wykończenie tego stylowego arcydzieła.",
+    "uk": "Цей елегантний кардиган у стилі «bon ton» — справжнє втілення витонченості та м'якої розкоші, притаманної ДНК Luisa Spagnoli. Виконаний із благородного поєднання вовни та кашеміру, він огортає ніжністю та дарує бездоганний комфорт, підкреслюючи статус своєї власниці. Вишуканий контраст в оздобленні профілів створює графічний та сучасний силует, а вкорочена довжина cropped у поєднанні з регулярною посадкою дозволяє ідеально розставити акценти в образі. Особливого шарму моделі надають мініатюрні накладні кишені, оздоблені емальованими ґудзиками з логотипом LS, які слугують ювелірним завершенням цього стильного шедевра."
+  },
+  "colors": [
+    {
+      "name": "Grigio Melange Panna",
+      "code": "0838 0202",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2049573906691f156f184530_48041689_02790120XX1.jpg"
+    },
+    {
+      "name": "Castagna Rosa",
+      "code": "2203 0372",
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1757139112691f156cf0ef90_19905590_02780720XX1.jpg"
+    }
+  ],
+  "looks": [
+    {
+      "title": {
+        "ru": "Вариант 0838 0202",
+        "en": "In the window (Vetrina 27)",
+        "ar": "In the window (Vetrina 27)",
+        "ka": "In the window (Vetrina 27)",
+        "hy": "In the window (Vetrina 27)",
+        "lv": "In the window (Vetrina 27)",
+        "lt": "In the window (Vetrina 27)",
+        "pl": "In the window (Vetrina 27)",
+        "uk": "In the window (Vetrina 27)"
+      },
+      "text": {
+        "ru": "На витрине (Vetrina 27): модель представлена с пуловером Casilda 0838 0202 и брюками Osten 0202.",
+        "en": "the model is presented with the Casilda 0838 0202 pullover and Osten 0202 trousers. Version 2203 0372:",
+        "ar": "the model is presented with the Casilda 0838 0202 pullover and Osten 0202 trousers. Version 2203 0372:",
+        "ka": "the model is presented with the Casilda 0838 0202 pullover and Osten 0202 trousers. Version 2203 0372:",
+        "hy": "the model is presented with the Casilda 0838 0202 pullover and Osten 0202 trousers. Version 2203 0372:",
+        "lv": "the model is presented with the Casilda 0838 0202 pullover and Osten 0202 trousers. Version 2203 0372:",
+        "lt": "the model is presented with the Casilda 0838 0202 pullover and Osten 0202 trousers. Version 2203 0372:",
+        "pl": "the model is presented with the Casilda 0838 0202 pullover and Osten 0202 trousers. Version 2203 0372:",
+        "uk": "the model is presented with the Casilda 0838 0202 pullover and Osten 0202 trousers. Version 2203 0372:"
+      },
+      "items": [
+        {
+          "name": "Casilda",
+          "code": "0838 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1034968455691f156ea00bd5_67326572_02790110XX1.jpg",
+          "modelId": 383
+        },
+        {
+          "name": "Osten E",
+          "code": "0209",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000%20%284%29.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": null,
+        "ar": null,
+        "ka": null,
+        "hy": null,
+        "lv": null,
+        "lt": null,
+        "pl": null,
+        "uk": null,
+        "ru": null
+      },
+      "text": {
+        "ru": "На основе данных lookbook и оформления витрин, предлагаются следующие безупречные сочетания total look: Вариант 0838 0202: В lookbook: предлагается изысканный дуэт с топ-кардиганом Casilda 0838 0202 и классическими брюками Osten E 0209.",
+        "en": "Based on lookbook data and window displays, the following impeccable total look combinations are suggested: Version 0838 0202: In the lookbook: an exquisite duo is suggested with the Casilda 0838 0202 top-cardigan and classic Osten E 0209 trousers.",
+        "ar": "Based on lookbook data and window displays, the following impeccable total look combinations are suggested: Version 0838 0202: In the lookbook: an exquisite duo is suggested with the Casilda 0838 0202 top-cardigan and classic Osten E 0209 trousers.",
+        "ka": "Based on lookbook data and window displays, the following impeccable total look combinations are suggested: Version 0838 0202: In the lookbook: an exquisite duo is suggested with the Casilda 0838 0202 top-cardigan and classic Osten E 0209 trousers.",
+        "hy": "Based on lookbook data and window displays, the following impeccable total look combinations are suggested: Version 0838 0202: In the lookbook: an exquisite duo is suggested with the Casilda 0838 0202 top-cardigan and classic Osten E 0209 trousers.",
+        "lv": "Based on lookbook data and window displays, the following impeccable total look combinations are suggested: Version 0838 0202: In the lookbook: an exquisite duo is suggested with the Casilda 0838 0202 top-cardigan and classic Osten E 0209 trousers.",
+        "lt": "Based on lookbook data and window displays, the following impeccable total look combinations are suggested: Version 0838 0202: In the lookbook: an exquisite duo is suggested with the Casilda 0838 0202 top-cardigan and classic Osten E 0209 trousers.",
+        "pl": "Based on lookbook data and window displays, the following impeccable total look combinations are suggested: Version 0838 0202: In the lookbook: an exquisite duo is suggested with the Casilda 0838 0202 top-cardigan and classic Osten E 0209 trousers.",
+        "uk": "Based on lookbook data and window displays, the following impeccable total look combinations are suggested: Version 0838 0202: In the lookbook: an exquisite duo is suggested with the Casilda 0838 0202 top-cardigan and classic Osten E 0209 trousers."
+      },
+      "items": [
+        {
+          "name": "Casilda",
+          "code": "0838 0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1034968455691f156ea00bd5_67326572_02790110XX1.jpg",
+          "modelId": 383
+        },
+        {
+          "name": "Osten",
+          "code": "0202",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000%20%284%29.jpg"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 2203 0372",
+        "en": "In the lookbook",
+        "ar": "In the lookbook",
+        "ka": "In the lookbook",
+        "hy": "In the lookbook",
+        "lv": "In the lookbook",
+        "lt": "In the lookbook",
+        "pl": "In the lookbook",
+        "uk": "In the lookbook"
+      },
+      "text": {
+        "ru": "В lookbook: для создания женственного образа рекомендуется сочетание с топом Casilda 2203 0372 и юбкой Fenice B 2226.",
+        "en": "to create a feminine look, a combination with the Casilda 2203 0372 top and the Fenice B 2226 skirt is recommended.",
+        "ar": "to create a feminine look, a combination with the Casilda 2203 0372 top and the Fenice B 2226 skirt is recommended.",
+        "ka": "to create a feminine look, a combination with the Casilda 2203 0372 top and the Fenice B 2226 skirt is recommended.",
+        "hy": "to create a feminine look, a combination with the Casilda 2203 0372 top and the Fenice B 2226 skirt is recommended.",
+        "lv": "to create a feminine look, a combination with the Casilda 2203 0372 top and the Fenice B 2226 skirt is recommended.",
+        "lt": "to create a feminine look, a combination with the Casilda 2203 0372 top and the Fenice B 2226 skirt is recommended.",
+        "pl": "to create a feminine look, a combination with the Casilda 2203 0372 top and the Fenice B 2226 skirt is recommended.",
+        "uk": "to create a feminine look, a combination with the Casilda 2203 0372 top and the Fenice B 2226 skirt is recommended."
+      },
+      "items": [
+        {
+          "name": "Casilda",
+          "code": "2203 0372",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1500869539691f156c92c048_45838506_02780710XX1.jpg",
+          "modelId": 383
+        },
+        {
+          "name": "Fenice B",
+          "code": "2226",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/548516493692424c9b2f596_35398249_02781060XX1.jpg",
+          "modelId": 388
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Вариант 2203 0372",
+        "en": "In the window (Vetrina 68)",
+        "ar": "In the window (Vetrina 68)",
+        "ka": "In the window (Vetrina 68)",
+        "hy": "In the window (Vetrina 68)",
+        "lv": "In the window (Vetrina 68)",
+        "lt": "In the window (Vetrina 68)",
+        "pl": "In the window (Vetrina 68)",
+        "uk": "In the window (Vetrina 68)"
+      },
+      "text": {
+        "ru": "На витрине (Vetrina 68): представлен более динамичный и многослойный образ: куртка Sportivo 2226, классическая рубашка Leila 0201 и джинсы-палаццо Opaglio 0927.",
+        "en": "a more dynamic and layered look is presented: the Sportivo 2226 jacket, the classic Leila 0201 shirt, and Opaglio 0927 palazzo jeans.",
+        "ar": "a more dynamic and layered look is presented: the Sportivo 2226 jacket, the classic Leila 0201 shirt, and Opaglio 0927 palazzo jeans.",
+        "ka": "a more dynamic and layered look is presented: the Sportivo 2226 jacket, the classic Leila 0201 shirt, and Opaglio 0927 palazzo jeans.",
+        "hy": "a more dynamic and layered look is presented: the Sportivo 2226 jacket, the classic Leila 0201 shirt, and Opaglio 0927 palazzo jeans.",
+        "lv": "a more dynamic and layered look is presented: the Sportivo 2226 jacket, the classic Leila 0201 shirt, and Opaglio 0927 palazzo jeans.",
+        "lt": "a more dynamic and layered look is presented: the Sportivo 2226 jacket, the classic Leila 0201 shirt, and Opaglio 0927 palazzo jeans.",
+        "pl": "a more dynamic and layered look is presented: the Sportivo 2226 jacket, the classic Leila 0201 shirt, and Opaglio 0927 palazzo jeans.",
+        "uk": "a more dynamic and layered look is presented: the Sportivo 2226 jacket, the classic Leila 0201 shirt, and Opaglio 0927 palazzo jeans."
+      },
+      "items": [
+        {
+          "name": "Sportivo",
+          "code": "2226",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2028777710691c57c6d3c711_09306569_02780350XX1.jpg",
+          "modelId": 489
+        },
+        {
+          "name": "Leila",
+          "code": "0201",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "modelId": 414
+        },
+        {
+          "name": "Opaglio",
+          "code": "0927",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2134929375692424d668cd78_06695675_02781440XX1.jpg",
+          "modelId": 461
+        }
+      ]
+    }
+  ],
+  "advice": {
+    "en": [
+      "- Emphasis on an exclusive composition: Highlight that the use of cashmere not only makes the piece remarkably soft, but also provides exceptional warmth at a minimal weight. - Proportion correction: Recommend the cropped cut as an ideal tool for visually"
+    ],
+    "ru": [
+      "- Акцент на эксклюзивность состава: Подчеркните, что использование кашемира в составе не только делает изделие невероятно мягким, но и обеспечивает исключительное тепло при минимальном весе модели. - Коррекция пропорций: Рекомендуйте укороченный крой crop"
+    ],
+    "ar": [
+      "- التركيز على تميز الخامة: أكدي أن استخدام الكشمير لا يمنح القطعة نعومة فائقة فحسب، بل يوفر دفئاً استثنائياً مع خفة وزن ملحوظة. - تعديل القوام: ركحي بقصة الـ cropped كأداة مثالية لإطالة الساقين بصرياً، خاصة عند تنسيقها مع سراويل أو تنانير ذات خصر عالٍ. -"
+    ],
+    "ka": [
+      "- აქცენტი შემადგენლობის ექსკლუზიურობაზე: ხაზი გაუსვით, რომ ქაშმირის გამოყენება ნაკეთობას არა მხოლოდ წარმოუდგენლად რბილს ხდის, არამედ უზრუნველყოფს განსაკუთრებულ სითბოს მოდელის მინიმალური წონის პირობებში. - პროპორციების კორექცია: რეკომენდაცია გაუწიეთ დამოკლ"
+    ],
+    "hy": [
+      "- Շեշտադրում կազմի բացառիկության վրա. Ընդգծեք, որ քաշմիրի օգտագործումը կազմի մեջ ոչ միայն իրը դարձնում է անհավանական փափուկ, այլև ապահովում է բացառիկ ջերմություն՝ մոդելի նվազագույն քաշի դեպքում: - Համամասնությունների շտկում. Առաջարկեք cropped կարճ կտրվածք"
+    ],
+    "lv": [
+      "- Akcents uz sastāva ekskluzivitāti: Uzsveriet, ka kašmira izmantošana sastāvā ne tikai padara izstrādājumu neticami mīkstu, bet arī nodrošina izcilu siltumu pie minimāla modeļa svara. - Proporciju korekcija: Rekomendējiet saīsināto cropped piegriezumu kā"
+    ],
+    "lt": [
+      "- Akcentas į sudėties išskirtinumą: pabrėžkite, kad kašmyro naudojimas gaminyje ne tik suteikia neįtikėtino švelnumo, bet ir užtikrina išskirtinę šilumą esant minimaliam modelio svoriui. - Proporcijų korekcija: rekomenduokite sutrumpintą cropped kirpimą kaip idealų įrankį vizualiai pailginti kojas, ypač derinant su aukšto liemens kelnėmis ar sijonais. - Statuso detalės: atkreipkite kliento dėmesį į emaliuotas sagas su logotipu – ši detalė pabrėžia priklausymą aukštosios italų mados pasauliui ir paverčia kardiganą užbaigtu aksesuaru."
+    ],
+    "pl": [
+      "- Akcent na ekskluzywność składu: Podkreśl, że użycie kaszmiru nie tylko sprawia, że produkt jest niezwykle miękki, ale zapewnia również wyjątkowe ciepło przy minimalnej wadze modelu. - Korekta proporcji: Rekomenduj krótki krój cropped jako idealne narzęd"
+    ],
+    "uk": [
+      "- Акцент на ексклюзивність складу: Підкресліть, що використання кашеміру в складі не тільки робить виріб неймовірно м'яким, а й забезпечує виняткове тепло при мінімальній вазі моделі. - Корекція пропорцій: Рекомендуйте укорочений крій cropped як ідеальний"
+    ]
+  },
+  "objections": {
+    "en": [
+      {
+        "q": "Too short a style.",
+        "a": "Explain that the cropped length is a current trend that helps balance the silhouette and accentuate the waistline without adding bulk to the hips."
+      },
+      {
+        "q": "Looks too formal.",
+        "a": "Demonstrate the piece's versatility by suggesting it be tried with the Opaglio 0927 jeans, as shown in the brand's concept, for a relaxed yet chic look."
+      },
+      {
+        "q": "I'm afraid the contrasting trim is too much of a statement.",
+        "a": "Emphasize that the contrasting piping is a style classic that makes accessorizing easier, allowing the cardigan to be paired with both light and dark wardrobe elements."
+      },
+      {
+        "q": "The wool may be scratchy.",
+        "a": "Remind the client that the composition includes high-quality cashmere, which neutralizes the wool's scratchiness, making the fabric gentle even on the most sensitive skin."
+      },
+      {
+        "q": "Difficult to choose a base layer.",
+        "a": "Suggest a ready-made solution from the brand's designers — the Casilda pullovers or Leila shirts, which are a perfect match in cut and color palette."
+      }
+    ],
+    "ru": [
+      {
+        "q": "Слишком",
+        "a": "Объясните, что длина cropped — это актуальный короткая тренд, который помогает сбалансировать силуэт и модель подчеркнуть линию талии, не создавая лишнего объема на бедрах."
+      },
+      {
+        "q": "Выглядит",
+        "a": "Продемонстрируйте универсальность модели, предложив слишком примерить её с джинсами Opaglio 0927, как это официально представлено в концепции бренда для создания расслабленного, но шикарного образа."
+      },
+      {
+        "q": "Боюсь, что",
+        "a": "Подчеркните, что контрастные канты — это классика контрастная стиля, которая облегчает подбор аксессуаров, позволяя отделка сочетать кардиган как со светлыми, так и с темными обязывает элементами гардероба."
+      },
+      {
+        "q": "Шерсть может",
+        "a": "Напомните, что в состав входит высококачественный быть колючей кашемир, который нейтрализует колкость шерсти, делая полотно нежным даже для самой чувствительной кожи."
+      },
+      {
+        "q": "Сложно",
+        "a": "Предложите готовое решение от дизайнеров бренда — подобрать нижний пуловеры Casilda или рубашки Leila, которые слой идеально подходят по крою и цветовой гамме."
+      }
+    ],
+    "ar": [
+      {
+        "q": "الموديل قصير جداً",
+        "a": "اشرحي أن الطول القصير (cropped) هو صيحة عصرية تساعد في موازنة القوام وإبراز خط الخصر دون إضافة حجم غير ضروري عند الوركين."
+      },
+      {
+        "q": "تبدو رسمية جداً",
+        "a": "أظهري تنوع الموديل من خلال اقتراح تنسيقه مع جينز Opaglio 0927، كما هو معروض في مفهوم العلامة التجارية للحصول على إطلالة مريحة وأنيقة."
+      },
+      {
+        "q": "أخشى أن تكون الحواف المتباينة متكلفة",
+        "a": "أكدي أن الحواف المتباينة هي كلاسيكية في الأناقة، مما يسهل اختيار الإكسسوارات ويسمح بتنسيق الكارديجان مع قطع ملابس فاتحة أو داكنة."
+      },
+      {
+        "q": "الصوف قد يكون خشناً",
+        "a": "ذكّري العميل بأن التركيبة تحتوي على كشمير عالي الجودة، والذي يعادل خشونة الصوف ويجعل القماش ناعماً حتى على البشرة الأكثر حساسية."
+      },
+      {
+        "q": "صعوبة اختيار طبقة سفلية",
+        "a": "اقترحي حلاً جاهزاً من مصممي العلامة التجارية، مثل كنزات Casilda أو قمصان Leila التي تتناسب تماماً من حيث القصة والألوان."
+      }
+    ],
+    "ka": [
+      {
+        "q": "ზედმეტად",
+        "a": "განუმარტეთ, რომ სიგრძე cropped — ეს არის აქტუალური მოკლე ტრენდი, რომელიც ეხმარება სილუეტის დაბალანსებას და მოდელი ხაზგასმას წელის ხაზის, თეძოებზე ზედმეტი მოცულობის შექმნის გარეშე."
+      },
+      {
+        "q": "გამოიყურება",
+        "a": "აჩვენეთ მოდელის მრავალმხრივობა, შესთავაზეთ ზედმეტად მოესინჯათ ის ჯინსებთან Opaglio 0927, როგორც ეს ოფიციალურად წარმოდგენილია ბრენდის კონცეფციაში მოდუნებული, მაგრამ შიკი იმიჯის შესაქმნელად."
+      },
+      {
+        "q": "მეშინია, რომ",
+        "a": "ხაზი გაუსვით, რომ კონტრასტული კანტები — ეს არის კლასიკა კონტრასტული სტილის, რომელიც ამარტივებს აქსესუარების შერჩევას, რაც საშუალებას იძლევა დასრულება შეუხამოთ კარდიგანი როგორც ღია, ისე მუქი მავალდებულებელია გარდერობის ელემენტებს."
+      },
+      {
+        "q": "მატყლი შეიძლება",
+        "a": "შეახსენეთ, რომ შემადგენლობაში შედის მაღალი ხარისხის იყოს ქავილიანი ქაშმირი, რომელიც ანეიტრალებს მატყლის სიმკაცრეს, რაც ტილოს ნაზს ხდის ყველაზე მგრძნობიარე კანისთვისაც კი."
+      },
+      {
+        "q": "რთულია",
+        "a": "შესთავაზეთ მზა გადაწყვეტა ბრენდის დიზაინერებისგან — ქვედა პულოვერები Casilda ან პერანგები Leila, რომლებიც ფენის იდეალურად შეეფერება კერვისა და ფერთა გამის მიხედვით."
+      }
+    ],
+    "hy": [
+      {
+        "q": "Слишком Объясните, что длина cropped — это актуальный короткая тренд, который помогает сбалансировать силуэт и модель",
+        "a": "подчеркнуть линию талии, не создавая лишнего объема на бедрах."
+      },
+      {
+        "q": "Выглядит Продемонстрируйте универсальность модели, предложив слишком примерить её с джинсами Opaglio 0927, как это официально",
+        "a": "представлено в концепции бренда для создания расслабленного, но шикарного образа."
+      },
+      {
+        "q": "Боюсь, что Подчеркните, что контрастные канты — это классика контрастная стиля, которая облегчает подбор аксессуаров, позволяя отделка сочетать кардиган как со светлыми, так и с темными обязывает",
+        "a": "элементами гардероба."
+      },
+      {
+        "q": "Шерсть может Напомните, что в состав входит высококачественный быть колючей",
+        "a": "кашемир, который нейтрализует колкость шерсти, делая полотно нежным даже для самой чувствительной кожи."
+      },
+      {
+        "q": "Сложно Предложите готовое решение от дизайнеров бренда — подобрать нижний пуловеры Casilda или рубашки Leila, которые слой",
+        "a": "идеально подходят по крою и цветовой гамме."
+      }
+    ],
+    "lv": [
+      {
+        "q": "Pārāk īss",
+        "a": "Izskaidrojiet, ka cropped garums ir aktuāls modelis trends, kas palīdz līdzsvarot siluetu un izcelt vidukļa līniju, neradot lieku apjomu uz gurniem."
+      },
+      {
+        "q": "Izskatās pārāk",
+        "a": "Nodemonstrējiet modeļa universālumu, piedāvājot oficiāli piemērīt to ar džinsiem Opaglio 0927, kā tas ir atspoguļots zīmola koncepcijā relaksēta, bet šika tēla radīšanai."
+      },
+      {
+        "q": "Baidos, ka",
+        "a": "Uzsveriet, ka kontrastējošas apmales ir stila klasika, kontrastējoša kas atvieglo aksesuāru izvēli, ļaujot kombinēt apdare ir uzliekoša kardiganu gan ar gaišiem, gan ar tumšiem garderobes elementiem."
+      },
+      {
+        "q": "Vilna var būt",
+        "a": "Atgādiniet, ka sastāvā ietilpst augstas kvalitātes kodīga kašmirs, kas neitralizē vilnas kodīgumu, padarot audumu maigu pat visjutīgākajai ādai."
+      },
+      {
+        "q": "Grūti piemeklēt",
+        "a": "Piedāvājiet gatavu risinājumu no zīmola apakšējo slāni dizaineriem — puloverus Casilda vai kreklus Leila, kas ideāli atbilst pēc piegriezuma un krāsu gammas."
+      }
+    ],
+    "lt": [
+      {
+        "q": "Prieštaravimas Įveikimo strategija „Per daug",
+        "a": "Paaiškinkite, kad cropped ilgis – tai aktuali trumpas tendencija, padedanti subalansuoti siluetą ir modelis“ pabrėžti liemens liniją, nesukuriant papildomos apimties klubų srityje. , kad cropped ilgis – tai aktuali trumpas tendencija, padedanti subalansuoti siluetą ir modelis“ pabrėžti liemens liniją, nesukuriant papildomos apimties klubų srityje."
+      },
+      {
+        "q": "„Atrodo",
+        "a": "Parodykite modelio universalumą pasiūlius per daug pasimatuoti jį su džinsais Opaglio 0927, kaip tai oficialiai“ pristatoma prekės ženklo koncepcijoje kuriant atsipalaidavusį, bet prašmatnų įvaizdį. modelio universalumą pasiūlius per daug pasimatuoti jį su džinsais Opaglio 0927, kaip tai oficialiai“ pristatoma prekės ženklo koncepcijoje kuriant atsipalaidavusį, bet prašmatnų įvaizdį."
+      },
+      {
+        "q": "„Bijau, kad",
+        "a": "Pabrėžkite, jog kontrastingi krašteliai – tai stiliaus kontrastinga klasika, kuri palengvina aksesuarų parinkimą, apdaila leidžiant derinti kardiganą tiek su šviesiais, tiek įpareigoja“ su tamsiais garderobo elementais. , jog kontrastingi krašteliai – tai stiliaus kontrastinga klasika, kuri palengvina aksesuarų parinkimą, apdaila leidžiant derinti kardiganą tiek su šviesiais, tiek įpareigoja“ su tamsiais garderobo elementais."
+      },
+      {
+        "q": "„Vilna gali",
+        "a": "Priminkite, kad sudėtyje yra aukščiausios kokybės būti šiurkšti“ kašmyro, kuris neutralizuoja vilnos šiurkštumą, padarydamas audinį švelnų net ir jautriausiai odai. , kad sudėtyje yra aukščiausios kokybės būti šiurkšti“ kašmyro, kuris neutralizuoja vilnos šiurkštumą, padarydamas audinį švelnų net ir jautriausiai odai."
+      },
+      {
+        "q": "„Sunku",
+        "a": "Pasiūlykite paruoštą prekės ženklo dizainerių sprendimą – parinkti apatinį megztinius Casilda arba palaidines Leila, kurie sluoksnį“ idealiai tinka pagal kirpimą ir spalvų gamą."
+      }
+    ],
+    "pl": [
+      {
+        "q": "Zbyt",
+        "a": "Wyjaśnij, że długość cropped to aktualny krótki trend, który pomaga zrównoważyć sylwetkę i model podkreślić linię talii, nie tworząc zbędnej objętości na biodrach."
+      },
+      {
+        "q": "Wygląda",
+        "a": "Pokaż uniwersalność modelu, proponując zbyt przymierzenie go z jeansami Opaglio 0927, jak to oficjalnie zaprezentowano w koncepcji marki dla stworzenia luźnego, ale szykownego wizerunku."
+      },
+      {
+        "q": "Obawiam się, że",
+        "a": "Podkreśl, że kontrastowe lamówki to klasyka kontrastowe stylu, która ułatwia dobór akcesoriów, pozwalając wykończenie łączy łączyć kardigan zarówno z jasnymi, jak i ciemnymi elementami garderoby."
+      },
+      {
+        "q": "Wełna może",
+        "a": "Przypomnij, że w składzie znajduje się wysokiej jakości być kłująca kaszmir, który neutralizuje kłucie wełny, czyniąc dzianinę delikatną nawet dla najbardziej wrażliwej skóry."
+      },
+      {
+        "q": "Trudno dobrać",
+        "a": "Zaproponuj gotowe rozwiązanie od projektantów marki — dolną warstwę swetry Casilda lub koszule Leila, które idealnie pasują krojem i kolorystyką."
+      }
+    ],
+    "uk": [
+      {
+        "q": "Занадто",
+        "a": "Поясніть, що довжина cropped — це актуальний коротка тренд, який допомагає збалансувати силует і модель підкреслити лінію талії, не створюючи зайвого об'єму на стегнах."
+      },
+      {
+        "q": "Виглядає",
+        "a": "Продемонструйте універсальність моделі, запропонувавши занадто приміряти її з джинсами Opaglio 0927, як це офіційно представлено в концепції бренду для створення розслабленого, але шикарного образу."
+      },
+      {
+        "q": "Боюся, що",
+        "a": "Підкресліть, що контрастні канти — це класика контрастна стилю, яка полегшує підбір аксесуарів, дозволяючи оздоблення поєднувати кардиган як зі світлими, так і з темними обтяжує елементами гардероба."
+      },
+      {
+        "q": "Вовна може",
+        "a": "Нагадайте, що до складу входить високоякісний бути колючою кашемір, який нейтралізує колючість вовни, роблячи полотно ніжним навіть для найчутливішої шкіри."
+      },
+      {
+        "q": "Складно",
+        "a": "Запропонуйте готове рішення від дизайнерів бренду — підібрати нижній пуловери Casilda або сорочки Leila, які шар ідеально підходять за кроєм та кольоровою гамою."
+      }
+    ]
+  }
+}
