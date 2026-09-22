@@ -16,7 +16,10 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/714741276691c5789e0ccf8_89780377_02780180XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/714741276691c5789e0ccf8_89780377_02780180XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/714741276691c5789e0ccf8_89780377_02780180XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -141,7 +144,7 @@
         {
           "name": "Slituazione",
           "code": "0101",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg"
         },
         {
           "name": "Cromatura",
@@ -190,7 +193,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         }
       ]
     },
@@ -508,5 +511,8 @@
         "a": "Підкресліть, що лаконічність — це сила даної моделі. Вона дозволяє поєднувати її з найскладнішими фактурами колекції: від екошкіри Samir 0101 до жаккарда жакета Cromatura 0101. ![](media/image15.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/714741276691c5789e0ccf8_89780377_02780180XX1.jpg"
+  ]
 }

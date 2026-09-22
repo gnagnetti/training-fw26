@@ -16,17 +16,26 @@
     {
       "name": "Bordeaux",
       "code": "2435",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/696491514691f1570375713_09110086_02790160XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/696491514691f1570375713_09110086_02790160XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/696491514691f1570375713_09110086_02790160XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/127431599691f156f750070_99744006_02790140XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/127431599691f156f750070_99744006_02790140XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/127431599691f156f750070_99744006_02790140XX1.jpg"
+      ]
     },
     {
       "name": "Rosa",
       "code": "0319",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/109519432691f156fcf7e25_35913854_02790150XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/109519432691f156fcf7e25_35913854_02790150XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/109519432691f156fcf7e25_35913854_02790150XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -63,7 +72,7 @@
         {
           "name": "Ulisside",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview (2).png"
         },
         {
           "name": "Iago",
@@ -99,7 +108,7 @@
         {
           "name": "Manos",
           "code": "2435",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         },
         {
           "name": "Oneta",
@@ -255,7 +264,7 @@
         {
           "name": "Osten",
           "code": "0202",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000%20%284%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000 (4).jpg"
         },
         {
           "name": "Balda",
@@ -554,5 +563,10 @@
         "a": "елемент розкішного повсякденного стилю. ![](media/image66.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image67.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/696491514691f1570375713_09110086_02790160XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/127431599691f156f750070_99744006_02790140XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/109519432691f156fcf7e25_35913854_02790150XX1.jpg"
+  ]
 }

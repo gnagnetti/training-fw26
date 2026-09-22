@@ -16,17 +16,26 @@
     {
       "name": "Blu Inchiostro",
       "code": "2544",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/965f2c29-676c-4192-8d8f-b78a724a8831-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/965f2c29-676c-4192-8d8f-b78a724a8831-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/965f2c29-676c-4192-8d8f-b78a724a8831-removebg-preview.png"
+      ]
     },
     {
       "name": "Grigio Melange",
       "code": "0802",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/l5Z0et8oRpG_yhMCrEQ3ZA_2006503328696f436fb9b4d9_08969134_02830950XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/l5Z0et8oRpG_yhMCrEQ3ZA_2006503328696f436fb9b4d9_08969134_02830950XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/l5Z0et8oRpG_yhMCrEQ3ZA_2006503328696f436fb9b4d9_08969134_02830950XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/72979c1e-3971-4160-8873-e5877a21adf5-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/72979c1e-3971-4160-8873-e5877a21adf5-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/72979c1e-3971-4160-8873-e5877a21adf5-removebg-preview.png"
+      ]
     }
   ],
   "looks": [
@@ -211,7 +220,7 @@
         {
           "name": "Ls1928p A",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     }
@@ -478,5 +487,10 @@
         "a": "Підкресліть, що щільне прилягання манжет — це не тільки стильний елемент, а й функціональне рішення, яке запобігає потраплянню холодного повітря і дозволяє рукаву легко ковзати всередині пальта."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/965f2c29-676c-4192-8d8f-b78a724a8831-removebg-preview.png",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/l5Z0et8oRpG_yhMCrEQ3ZA_2006503328696f436fb9b4d9_08969134_02830950XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/72979c1e-3971-4160-8873-e5877a21adf5-removebg-preview.png"
+  ]
 }

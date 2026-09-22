@@ -16,12 +16,18 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zagarolo.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zagarolo.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zagarolo.png"
+      ]
     },
     {
       "name": "Oro",
       "code": "0428",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1051776270692424e73558f3_18046401_02790720XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1051776270692424e73558f3_18046401_02790720XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1051776270692424e73558f3_18046401_02790720XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -389,5 +395,9 @@
         "a": "(bespoke style). Вони захищають тканину від тертя і створюють цілісний, дорогий образ, не відволікаючи уваги на метал. ![](media/image200.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zagarolo.png",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1051776270692424e73558f3_18046401_02790720XX1.jpg"
+  ]
 }

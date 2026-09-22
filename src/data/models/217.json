@@ -16,27 +16,42 @@
     {
       "name": "Nero Oro",
       "code": "0101 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9250d22d-835d-4da7-9154-b6aac463973a-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9250d22d-835d-4da7-9154-b6aac463973a-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9250d22d-835d-4da7-9154-b6aac463973a-removebg-preview.png"
+      ]
     },
     {
       "name": "Occhio Di Tigre Oro",
       "code": "0906 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/86ca6bd1-c593-405a-8664-9e414cd60257-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/86ca6bd1-c593-405a-8664-9e414cd60257-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/86ca6bd1-c593-405a-8664-9e414cd60257-removebg-preview.png"
+      ]
     },
     {
       "name": "Verde Oro",
       "code": "0568 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/066d677c-c884-4db4-9ded-f568c520c9da-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/066d677c-c884-4db4-9ded-f568c520c9da-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/066d677c-c884-4db4-9ded-f568c520c9da-removebg-preview.png"
+      ]
     },
     {
       "name": "Arancio Oro",
       "code": "1594 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/74de1b7d-aa84-4a13-a749-2bb2c1b29163-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/74de1b7d-aa84-4a13-a749-2bb2c1b29163-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/74de1b7d-aa84-4a13-a749-2bb2c1b29163-removebg-preview.png"
+      ]
     },
     {
       "name": "Agata Naturale Oro",
       "code": "1120 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/124283544691c57dae87814_56906608_02800210XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/124283544691c57dae87814_56906608_02800210XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/124283544691c57dae87814_56906608_02800210XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -78,7 +93,7 @@
         {
           "name": "Manos F",
           "code": "0970",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000 (1).jpg"
         },
         {
           "name": "Orlato A",
@@ -467,5 +482,12 @@
         "a": "Натуральні камені (агат, тигрове око) мають високу щільність. У кольє вони надійно зафіксовані в оправі, що мінімізує ризик пошкодження при звичайному використанні."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9250d22d-835d-4da7-9154-b6aac463973a-removebg-preview.png",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/86ca6bd1-c593-405a-8664-9e414cd60257-removebg-preview.png",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/066d677c-c884-4db4-9ded-f568c520c9da-removebg-preview.png",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/74de1b7d-aa84-4a13-a749-2bb2c1b29163-removebg-preview.png",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/124283544691c57dae87814_56906608_02800210XX1.jpg"
+  ]
 }

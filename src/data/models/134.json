@@ -16,12 +16,18 @@
     {
       "name": "Nero Nero",
       "code": "0101 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/g381HkZ0QFKHoK4V-FYjsg_2078295593696f4360460570_64319565_02830410XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/g381HkZ0QFKHoK4V-FYjsg_2078295593696f4360460570_64319565_02830410XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/g381HkZ0QFKHoK4V-FYjsg_2078295593696f4360460570_64319565_02830410XX1.jpg"
+      ]
     },
     {
       "name": "Beige Tortora",
       "code": "1163 1122",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MADELIN_116399990000%20%282%29.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MADELIN_116399990000 (2).jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MADELIN_116399990000 (2).jpg"
+      ]
     }
   ],
   "looks": [
@@ -52,7 +58,7 @@
         {
           "name": "Madelin",
           "code": "1163 1122",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MADELIN_116399990000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MADELIN_116399990000 (2).jpg"
         },
         {
           "name": "Ls1928gp",
@@ -104,7 +110,7 @@
         {
           "name": "Ls1928p",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     },
@@ -407,5 +413,9 @@
         "a": "Особливість техніки «punto stoffa» Luisa Spagnoli полягає у підвищеній щільності та стабільності полотна, що гарантує збереження початкової форми сукні протягом багатьох сезонів."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/g381HkZ0QFKHoK4V-FYjsg_2078295593696f4360460570_64319565_02830410XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MADELIN_116399990000 (2).jpg"
+  ]
 }

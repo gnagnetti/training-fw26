@@ -16,12 +16,18 @@
     {
       "name": "Blu Inchiostro",
       "code": "2544",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/THcZAxKrQtyUuRn1NlxAfw_1714278876696f436a94c0d6_81431318_02830780XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/THcZAxKrQtyUuRn1NlxAfw_1714278876696f436a94c0d6_81431318_02830780XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/THcZAxKrQtyUuRn1NlxAfw_1714278876696f436a94c0d6_81431318_02830780XX1.jpg"
+      ]
     },
     {
       "name": "Verde Bottiglia",
       "code": "2050",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3ec740e2-c84b-450d-be5d-33778390592f-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3ec740e2-c84b-450d-be5d-33778390592f-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3ec740e2-c84b-450d-be5d-33778390592f-removebg-preview.png"
+      ]
     }
   ],
   "looks": [
@@ -57,7 +63,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Minuccio",
@@ -360,5 +366,9 @@
         "a": "Кольори Verde Bottiglia та Blu Inchiostro є базовими кольорами зимового гардероба 'luxury'. Вони легше поєднуються з аксесуарами, ніж класичний чорний, і виглядають благородніше при штучному освітленні."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/THcZAxKrQtyUuRn1NlxAfw_1714278876696f436a94c0d6_81431318_02830780XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3ec740e2-c84b-450d-be5d-33778390592f-removebg-preview.png"
+  ]
 }

@@ -16,12 +16,18 @@
     {
       "name": "Grigio Perla",
       "code": "0809",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/N4kpuTJgRrqVtJEHXUVbtw_2745288696f42f948f606_55872285_02821040XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/N4kpuTJgRrqVtJEHXUVbtw_2745288696f42f948f606_55872285_02821040XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/N4kpuTJgRrqVtJEHXUVbtw_2745288696f42f948f606_55872285_02821040XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -146,7 +152,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Roaschia",
@@ -402,5 +408,9 @@
         "a": "Покажіть варіанти стилізації з денімом або базовими штанами. Завдяки лаконічному дизайну, Situazione легко трансформується з вечірнього предмета гардероба в елемент розкішного стилю 'casual luxury'."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/N4kpuTJgRrqVtJEHXUVbtw_2745288696f42f948f606_55872285_02821040XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kjqlZwubSP-Q0ztOqwZ8dg_357551222696f42f8d7cd45_44101591_02821030XX1.jpg"
+  ]
 }

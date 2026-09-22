@@ -16,7 +16,10 @@
     {
       "name": "Var Maculato Marrone",
       "code": "3390",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/sf_X_8TcR-ObvSuGMf6O6A_1152017837696f4365c601d6_48411476_02830610XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/sf_X_8TcR-ObvSuGMf6O6A_1152017837696f4365c601d6_48411476_02830610XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/sf_X_8TcR-ObvSuGMf6O6A_1152017837696f4365c601d6_48411476_02830610XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -52,12 +55,12 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Marsica",
           "code": "0101",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/sf_X_8TcR-ObvSuGMf6O6A_1152017837696f4365c601d6_48411476_02830610XX1.jpg"
         },
         {
           "name": "Iago",
@@ -98,7 +101,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Fabula",
@@ -360,5 +363,8 @@
         "a": "Наші стилісти рекомендують поєднувати модель з лаконічною чорною спідницею Fabula або класичними штанами колекції, що дозволить збалансувати образ і зробити пуловер головним акцентом."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/sf_X_8TcR-ObvSuGMf6O6A_1152017837696f4365c601d6_48411476_02830610XX1.jpg"
+  ]
 }

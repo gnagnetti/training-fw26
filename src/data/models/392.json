@@ -16,7 +16,10 @@
     {
       "name": "Var Nero Crema",
       "code": "3410",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/722670603691f1561b51c63_70556303_02780490XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/722670603691f1561b51c63_70556303_02780490XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/722670603691f1561b51c63_70556303_02780490XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -53,7 +56,7 @@
         {
           "name": "Mossa G",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAB_10100000000%20%284%29.jpg",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAB_10100000000 (4).jpg",
           "modelId": 192
         }
       ]
@@ -322,5 +325,8 @@
         "a": "технологією, яка гарантує збереження форми складок навіть після тривалого використання. ![](media/image16.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/722670603691f1561b51c63_70556303_02780490XX1.jpg"
+  ]
 }

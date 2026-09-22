@@ -16,12 +16,18 @@
     {
       "name": "Tabacco",
       "code": "2234",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/748832174691f157692a0b6_36843969_02790440XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/748832174691f157692a0b6_36843969_02790440XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/748832174691f157692a0b6_36843969_02790440XX1.jpg"
+      ]
     },
     {
       "name": "Verde Militare",
       "code": "1736",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1929290977691f15a3cde391_66200932_02790790XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1929290977691f15a3cde391_66200932_02790790XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1929290977691f15a3cde391_66200932_02790790XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -84,7 +90,7 @@
         {
           "name": "Single",
           "code": "2731 1167",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1331191701691c578853baa0_07542947_02780150XX1.jpg"
         },
         {
           "name": "Lusia",
@@ -545,5 +551,9 @@
         "a": "Специфіка щільної в'язки та крій реглан мінімізують натяг полотна в ліктьовій зоні, дозволяючи жакету зберігати первозданний вигляд при активному носінні. ![](media/image93.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image94.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image95.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/748832174691f157692a0b6_36843969_02790440XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1929290977691f15a3cde391_66200932_02790790XX1.jpg"
+  ]
 }

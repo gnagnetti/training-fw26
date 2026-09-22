@@ -16,12 +16,18 @@
     {
       "name": "Blu Inchiostro",
       "code": "2544",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/hNWBzHZ0R9iuL0RjESStng_1117394734696f43692f6b28_43871780_02830720XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/hNWBzHZ0R9iuL0RjESStng_1117394734696f43692f6b28_43871780_02830720XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/hNWBzHZ0R9iuL0RjESStng_1117394734696f43692f6b28_43871780_02830720XX1.jpg"
+      ]
     },
     {
       "name": "Verde Bottiglia",
       "code": "2050",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0079%20%284%29.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0079 (4).jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0079 (4).jpg"
+      ]
     }
   ],
   "looks": [
@@ -52,7 +58,7 @@
         {
           "name": "Meduna",
           "code": "2050",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0079%20%284%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0079 (4).jpg"
         },
         {
           "name": "Scansione",
@@ -136,7 +142,7 @@
         {
           "name": "Meduna",
           "code": "2050",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0079%20%284%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0079 (4).jpg"
         },
         {
           "name": "Navali",
@@ -471,5 +477,9 @@
         "a": "Завдяки класичному силуету, Meduna універсальна: вона чудово поєднується як зі статусними чоботами Ulisside, так і з елегантними туфлями-човниками Uragano."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/hNWBzHZ0R9iuL0RjESStng_1117394734696f43692f6b28_43871780_02830720XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0079 (4).jpg"
+  ]
 }

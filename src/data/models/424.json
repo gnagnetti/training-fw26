@@ -16,7 +16,10 @@
     {
       "name": "Var Fondo Marrone",
       "code": "4575",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1961687562691f15665852c3_99168484_02780580XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1961687562691f15665852c3_99168484_02780580XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1961687562691f15665852c3_99168484_02780580XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -101,7 +104,7 @@
         {
           "name": "Slamir",
           "code": "0101",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2125352506691c57cc4cb114_63347318_02780450XX3.jpg"
         }
       ]
     },
@@ -451,5 +454,8 @@
         "a": "складного активний малюнок» принту, що перетворює ошатну блузу на елемент повсякденної розкоші. ![](media/image57.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1961687562691f15665852c3_99168484_02780580XX1.jpg"
+  ]
 }

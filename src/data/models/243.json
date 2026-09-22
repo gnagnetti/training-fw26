@@ -16,32 +16,50 @@
     {
       "name": "Sabbia",
       "code": "1168",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ynGKN9IHR7KZkKRYYDtgyg_1991141854696f42e6826470_95751980_02820640XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ynGKN9IHR7KZkKRYYDtgyg_1991141854696f42e6826470_95751980_02820640XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ynGKN9IHR7KZkKRYYDtgyg_1991141854696f42e6826470_95751980_02820640XX1.jpg"
+      ]
     },
     {
       "name": "Meringa",
       "code": "0214",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YfLJIN9OTCCGsGAaoXfqug_610004726696f4308184709_09444034_02821440XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YfLJIN9OTCCGsGAaoXfqug_610004726696f4308184709_09444034_02821440XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YfLJIN9OTCCGsGAaoXfqug_610004726696f4308184709_09444034_02821440XX1.jpg"
+      ]
     },
     {
       "name": "Beige Freddo",
       "code": "1119",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg"
+      ]
     },
     {
       "name": "Blu Colore",
       "code": "1296",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/293172957691f15a1048f00_73901415_02780980XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/293172957691f15a1048f00_73901415_02780980XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/293172957691f15a1048f00_73901415_02780980XX1.jpg"
+      ]
     },
     {
       "name": "Grigio",
       "code": "1031",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/601963602691f15a15f3cd2_56066529_02780990XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/601963602691f15a15f3cd2_56066529_02780990XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/601963602691f15a15f3cd2_56066529_02780990XX1.jpg"
+      ]
     },
     {
       "name": "Tabacco",
       "code": "2259",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/894988827691f15a03fcb79_08463233_02780960XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/894988827691f15a03fcb79_08463233_02780960XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/894988827691f15a03fcb79_08463233_02780960XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -742,5 +760,13 @@
         "a": "Поясніть, що вертикальна спрямованість рубчика, навпаки, працює як оптичний фільтр, витягуючи лінії та роблячи фігуру стрункішою."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ynGKN9IHR7KZkKRYYDtgyg_1991141854696f42e6826470_95751980_02820640XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YfLJIN9OTCCGsGAaoXfqug_610004726696f4308184709_09444034_02821440XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/210533503691f15a0984590_62131782_02780970XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/293172957691f15a1048f00_73901415_02780980XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/601963602691f15a15f3cd2_56066529_02780990XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/894988827691f15a03fcb79_08463233_02780960XX1.jpg"
+  ]
 }

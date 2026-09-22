@@ -16,17 +16,26 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/beVciW1ZQAO2aet6tz4teg_1384514893696f4377e75048_28824063_02831240XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/beVciW1ZQAO2aet6tz4teg_1384514893696f4377e75048_28824063_02831240XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/beVciW1ZQAO2aet6tz4teg_1384514893696f4377e75048_28824063_02831240XX1.jpg"
+      ]
     },
     {
       "name": "Panna",
       "code": "0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A9uRxdXcRpiCkjgx3Y2pSw_1598015888696f43785c9df9_64067927_02831250XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A9uRxdXcRpiCkjgx3Y2pSw_1598015888696f43785c9df9_64067927_02831250XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A9uRxdXcRpiCkjgx3Y2pSw_1598015888696f43785c9df9_64067927_02831250XX1.jpg"
+      ]
     },
     {
       "name": "Cammello",
       "code": "2246",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%2855%29.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (55).png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (55).png"
+      ]
     }
   ],
   "looks": [
@@ -163,7 +172,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Olla",
@@ -174,7 +183,7 @@
         {
           "name": "Ulisside",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview (2).png"
         },
         {
           "name": "Dancing",
@@ -430,5 +439,10 @@
         "a": "Підкресліть, що додавання високотехнологічного акрилу необхідне для того, щоб така об'ємна річ, як мантія, не деформувалася під власною вагою, залишалася легкою і зберігала бездоганну форму фризів протягом багатьох років."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/beVciW1ZQAO2aet6tz4teg_1384514893696f4377e75048_28824063_02831240XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A9uRxdXcRpiCkjgx3Y2pSw_1598015888696f43785c9df9_64067927_02831250XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (55).png"
+  ]
 }

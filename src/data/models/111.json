@@ -16,7 +16,10 @@
     {
       "name": "Nero Nero",
       "code": "0101 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281028%29.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1028).png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1028).png"
+      ]
     }
   ],
   "looks": [
@@ -47,7 +50,7 @@
         {
           "name": "Linearita",
           "code": "0101 0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281028%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1028).png"
         },
         {
           "name": "Orilia",
@@ -89,13 +92,13 @@
         {
           "name": "Lanificio",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281026%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1026).png",
           "modelId": 99
         },
         {
           "name": "Linearita",
           "code": "0101 0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281028%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1028).png"
         },
         {
           "name": "Orilia",
@@ -336,5 +339,8 @@
         "a": "Дані відсутні в офіційних джерелах."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1028).png"
+  ]
 }

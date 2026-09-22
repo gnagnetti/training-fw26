@@ -16,7 +16,10 @@
     {
       "name": "Var Maculato Marrone",
       "code": "3390",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ipCjCp2KRtGb_urUxMn2xA_416890850696f43655c6e65_18497823_02830580XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ipCjCp2KRtGb_urUxMn2xA_416890850696f43655c6e65_18497823_02830580XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ipCjCp2KRtGb_urUxMn2xA_416890850696f43655c6e65_18497823_02830580XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -358,5 +361,8 @@
         "a": "Для збереження благородної ворсистої фактури мохеру та структури вовни необхідна професійна суха чистка. Це запорука того, що ваш кардиган збереже первісний вигляд на багато років."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ipCjCp2KRtGb_urUxMn2xA_416890850696f43655c6e65_18497823_02830580XX1.jpg"
+  ]
 }

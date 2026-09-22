@@ -16,7 +16,10 @@
     {
       "name": "Grigio Panna",
       "code": "1034 0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/gotica.PNG"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/gotica.PNG",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/gotica.PNG"
+      ]
     }
   ],
   "looks": [
@@ -67,7 +70,7 @@
         {
           "name": "Ls1928p A",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     },
@@ -322,5 +325,8 @@
         "a": "Завдяки вертикальним конструктивним лініям та формі годе, ця сукня чудово виглядає як із класичними човниками, так і з нашими стильними чобітьми Ulisside."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/gotica.PNG"
+  ]
 }

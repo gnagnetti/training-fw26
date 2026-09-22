@@ -16,12 +16,18 @@
     {
       "name": "Var Fondo Crema",
       "code": "3286",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/559945947692424cf4d56c0_68733961_02781230XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/559945947692424cf4d56c0_68733961_02781230XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/559945947692424cf4d56c0_68733961_02781230XX1.jpg"
+      ]
     },
     {
       "name": "Var Fondo Nero",
       "code": "3352",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/270961893691c578a46e800_57164892_02780190XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/270961893691c578a46e800_57164892_02780190XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/270961893691c578a46e800_57164892_02780190XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -189,7 +195,7 @@
         {
           "name": "Modine B",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MODINE_10100000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MODINE_10100000000 (1).jpg"
         }
       ]
     },
@@ -291,5 +297,9 @@
     "lt": [],
     "pl": [],
     "uk": []
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/559945947692424cf4d56c0_68733961_02781230XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/270961893691c578a46e800_57164892_02780190XX1.jpg"
+  ]
 }

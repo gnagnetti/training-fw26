@@ -16,7 +16,10 @@
     {
       "name": "Var Platino",
       "code": "3312",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/936942396691c5786a14ef5_62573932_02780110XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/936942396691c5786a14ef5_62573932_02780110XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/936942396691c5786a14ef5_62573932_02780110XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -52,7 +55,7 @@
         {
           "name": "Stenia",
           "code": "3312",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_331200000000%20%281%29.jpg",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_331200000000 (1).jpg",
           "modelId": 495
         },
         {
@@ -102,7 +105,7 @@
         {
           "name": "Stenia",
           "code": "3312",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_331200000000%20%281%29.jpg",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_331200000000 (1).jpg",
           "modelId": 495
         }
       ]
@@ -397,5 +400,8 @@
         "a": "зафіксовані в структурі жаккарда, що запобігає появі зачіпок при дбайливому поводженні. ![](media/image145.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/936942396691c5786a14ef5_62573932_02780110XX1.jpg"
+  ]
 }

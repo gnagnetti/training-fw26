@@ -16,7 +16,10 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1764487439691f15708da0e4_68043488_02790180XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1764487439691f15708da0e4_68043488_02790180XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1764487439691f15708da0e4_68043488_02790180XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -380,5 +383,8 @@
         "a": "Запропонуйте приміряти жакет на лаконічний шовковий топ або навіть на голе тіло під закриту застібку для створення більш гострого, вечірнього образу, як це часто практикується в подіумних стилізаціях. ![](media/image71.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image72.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1764487439691f15708da0e4_68043488_02790180XX1.jpg"
+  ]
 }

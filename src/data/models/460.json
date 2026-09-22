@@ -16,7 +16,10 @@
     {
       "name": "Blu",
       "code": "1224",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -121,7 +124,7 @@
         {
           "name": "Leila",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         },
         {
@@ -158,7 +161,7 @@
         {
           "name": "Soncio",
           "code": "0963 1161",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e0r4p7GdTVyJ63LSWEZZjQ_823327549696f42fa6897f3_01024722_02821060XX1.jpg"
         },
         {
           "name": "Stelle",
@@ -204,7 +207,7 @@
         {
           "name": "Mano H",
           "code": "0202",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281019%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1019).png"
         },
         {
           "name": "Mira",
@@ -445,5 +448,8 @@
         "a": "Продемонструйте Vetrina 92: він чудово індиго? гармоніює як зі світлим трикотажем, так і зі складними меланжевими відтінками верхнього одягу."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg"
+  ]
 }

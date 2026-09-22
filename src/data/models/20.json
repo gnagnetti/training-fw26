@@ -16,17 +16,26 @@
     {
       "name": "Nero Oro",
       "code": "0101 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/iuEnEoCARWWf9yOqv1LK8g_680715967696f4210807fb9_92361746_02800450XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/iuEnEoCARWWf9yOqv1LK8g_680715967696f4210807fb9_92361746_02800450XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/iuEnEoCARWWf9yOqv1LK8g_680715967696f4210807fb9_92361746_02800450XX1.jpg"
+      ]
     },
     {
       "name": "Tabacco Oro",
       "code": "2209 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/jGKMA86_TiSwQ5CNcLElag_102451197696f420ec978f0_98197160_02800430XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/jGKMA86_TiSwQ5CNcLElag_102451197696f420ec978f0_98197160_02800430XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/jGKMA86_TiSwQ5CNcLElag_102451197696f420ec978f0_98197160_02800430XX1.jpg"
+      ]
     },
     {
       "name": "Viola Oro",
       "code": "0784 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eiSO3jbvS0i_wLzoLeOWVw_1729358228696f420faa47e7_01053025_02800440XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eiSO3jbvS0i_wLzoLeOWVw_1729358228696f420faa47e7_01053025_02800440XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eiSO3jbvS0i_wLzoLeOWVw_1729358228696f420faa47e7_01053025_02800440XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -78,7 +87,7 @@
         {
           "name": "Roboamo",
           "code": "3463",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Progetto%20senza%20titolo%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Progetto senza titolo (1).png"
         },
         {
           "name": "Damiera",
@@ -330,5 +339,10 @@
         "a": "Фурнітура Luisa Spagnoli захищена високотехнологічним гальванічним покриттям, яке зберігає початковий блиск і стійке до мікроподряпин."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/iuEnEoCARWWf9yOqv1LK8g_680715967696f4210807fb9_92361746_02800450XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/jGKMA86_TiSwQ5CNcLElag_102451197696f420ec978f0_98197160_02800430XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eiSO3jbvS0i_wLzoLeOWVw_1729358228696f420faa47e7_01053025_02800440XX1.jpg"
+  ]
 }

@@ -16,12 +16,18 @@
     {
       "name": "Grigio Melange Panna",
       "code": "0838 0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1034968455691f156ea00bd5_67326572_02790110XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1034968455691f156ea00bd5_67326572_02790110XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1034968455691f156ea00bd5_67326572_02790110XX1.jpg"
+      ]
     },
     {
       "name": "Castagna Rosa",
       "code": "2203 0372",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1500869539691f156c92c048_45838506_02780710XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1500869539691f156c92c048_45838506_02780710XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1500869539691f156c92c048_45838506_02780710XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -62,7 +68,7 @@
         {
           "name": "Osten E",
           "code": "0209",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000%20%284%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000 (4).jpg"
         }
       ]
     },
@@ -98,7 +104,7 @@
         {
           "name": "Osten",
           "code": "0202",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000%20%284%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000 (4).jpg"
         },
         {
           "name": "Super",
@@ -368,5 +374,9 @@
         "a": "Parodykite viršutinės dalies savarankiškumą kaip įsigyti antrą savarankišką gaminį, kuris dėl apdailos atrodo užbaigtas net ir be švarko. (kardigano)."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1034968455691f156ea00bd5_67326572_02790110XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1500869539691f156c92c048_45838506_02780710XX1.jpg"
+  ]
 }

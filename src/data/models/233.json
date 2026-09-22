@@ -16,7 +16,10 @@
     {
       "name": "Oro",
       "code": "0002",
-      "imageUrl": null
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png"
+      ]
     }
   ],
   "looks": [
@@ -292,5 +295,8 @@
         "a": "Дані відсутні в офіційних джерелах."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png"
+  ]
 }

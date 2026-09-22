@@ -16,12 +16,18 @@
     {
       "name": "Beige",
       "code": "1111",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nYRKsT7_QPCEFsCDij_7UA_2042203972696f435aed6179_50606973_02830260XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nYRKsT7_QPCEFsCDij_7UA_2042203972696f435aed6179_50606973_02830260XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nYRKsT7_QPCEFsCDij_7UA_2042203972696f435aed6179_50606973_02830260XX1.jpg"
+      ]
     },
     {
       "name": "Vinaccia",
       "code": "2453",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b9397548-e72b-429f-88d3-6accdfb80a77.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b9397548-e72b-429f-88d3-6accdfb80a77.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b9397548-e72b-429f-88d3-6accdfb80a77.jpg"
+      ]
     }
   ],
   "looks": [
@@ -401,5 +407,9 @@
         "a": "Ми рекомендуємо професійну чистку, щоб зберегти об'ємну структуру кашеміру та яскравість контрастних деталей на багато сезонів."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nYRKsT7_QPCEFsCDij_7UA_2042203972696f435aed6179_50606973_02830260XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b9397548-e72b-429f-88d3-6accdfb80a77.jpg"
+  ]
 }

@@ -16,7 +16,10 @@
     {
       "name": "Var Spinato Tortora Marrone",
       "code": "3414 0917",
-      "imageUrl": null
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9bae8280/images/large/14393915486a44ec439b5757_88053473.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9bae8280/images/large/14393915486a44ec439b5757_88053473.jpg?sw=500"
+      ]
     }
   ],
   "looks": [
@@ -47,7 +50,7 @@
         {
           "name": "Sindi",
           "code": "3414 0917",
-          "imageUrl": null
+          "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9bae8280/images/large/14393915486a44ec439b5757_88053473.jpg?sw=500"
         },
         {
           "name": "Mossa",
@@ -88,7 +91,7 @@
         {
           "name": "Sindi",
           "code": "3414 1792",
-          "imageUrl": null
+          "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9bae8280/images/large/14393915486a44ec439b5757_88053473.jpg?sw=500"
         },
         {
           "name": "Nagorno",
@@ -355,5 +358,8 @@
         "a": "Зверніть увагу на гру фактур: мерехтіння оксамиту та блиск геральдичних ґудзиків LS 'підсвічують' класичний принт, роблячи його сучасним та виразним."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9bae8280/images/large/14393915486a44ec439b5757_88053473.jpg?sw=500"
+  ]
 }

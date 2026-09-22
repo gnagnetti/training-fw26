@@ -16,7 +16,10 @@
     {
       "name": "Var Fondo Marrone",
       "code": "4575",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/312601795691c578d055ad3_23883009_02780240XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/312601795691c578d055ad3_23883009_02780240XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/312601795691c578d055ad3_23883009_02780240XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -53,7 +56,7 @@
         {
           "name": "Ulisside",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview (2).png"
         },
         {
           "name": "Semaforo",
@@ -102,7 +105,7 @@
         {
           "name": "Manos",
           "code": "2435",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         }
       ]
     },
@@ -444,5 +447,8 @@
         "a": ". ![](media/image14.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/312601795691c578d055ad3_23883009_02780240XX1.jpg"
+  ]
 }

@@ -16,7 +16,10 @@
     {
       "name": "Var Nero Panna Rosa Panna Nero",
       "code": "4626 0202 0101",
-      "imageUrl": null
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw87078c4b/images/large/13909162926a1ff3689d8183_80763105_02860310XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw87078c4b/images/large/13909162926a1ff3689d8183_80763105_02860310XX1.jpg?sw=500"
+      ]
     }
   ],
   "looks": [
@@ -341,5 +344,8 @@
         "a": "знизить градус урочистості, зберігаючи елегантність. ![](media/image23.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw87078c4b/images/large/13909162926a1ff3689d8183_80763105_02860310XX1.jpg?sw=500"
+  ]
 }

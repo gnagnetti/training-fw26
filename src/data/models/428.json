@@ -16,12 +16,18 @@
     {
       "name": "Var Fondo Nero Nero",
       "code": "3402 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1696684085692424d22bd006_54589516_02781310XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1696684085692424d22bd006_54589516_02781310XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1696684085692424d22bd006_54589516_02781310XX1.jpg"
+      ]
     },
     {
       "name": "Var Verde   Senape Verde Militare",
       "code": "3406 1740",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1396325310692424d1b4d2c2_05847867_02781300XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1396325310692424d1b4d2c2_05847867_02781300XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1396325310692424d1b4d2c2_05847867_02781300XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -554,5 +560,9 @@
         "a": ". ![](media/image62.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1696684085692424d22bd006_54589516_02781310XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1396325310692424d1b4d2c2_05847867_02781300XX1.jpg"
+  ]
 }

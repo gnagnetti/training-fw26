@@ -41,7 +41,7 @@
         {
           "name": "Fiordaliso",
           "code": "0101",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TEQEWHqdRdSxiIlIYz0GbA_1478818389696f43051ee606_09789905_02821340XX1.jpg"
         },
         {
           "name": "Spidy",
@@ -105,7 +105,7 @@
         {
           "name": "Fiordaliso",
           "code": "0101",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TEQEWHqdRdSxiIlIYz0GbA_1478818389696f43051ee606_09789905_02821340XX1.jpg"
         },
         {
           "name": "Ls1928p A",
@@ -357,5 +357,8 @@
         "a": "Саме гра світла на фактурі букле та мерехтіння золотих ґудзиків роблять Fiordaliso самостійним арт-об'єктом, який виділяється на фоні звичайного гладкого трикотажу."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TEQEWHqdRdSxiIlIYz0GbA_1478818389696f43051ee606_09789905_02821340XX1.jpg"
+  ]
 }

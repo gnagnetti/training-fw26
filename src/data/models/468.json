@@ -16,17 +16,26 @@
     {
       "name": "Melanzana",
       "code": "0733",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/212434150691c57c6790734_66577885_02780330XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/212434150691c57c6790734_66577885_02780330XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/212434150691c57c6790734_66577885_02780330XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1281132529691c5785e00d35_92819205_02780090XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1281132529691c5785e00d35_92819205_02780090XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1281132529691c5785e00d35_92819205_02780090XX1.jpg"
+      ]
     },
     {
       "name": "Verde Bottiglia",
       "code": "2046",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/564070198691c578643a479_28272705_02780100XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/564070198691c578643a479_28272705_02780100XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/564070198691c578643a479_28272705_02780100XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -590,5 +599,10 @@
         "a": "Ostiolo миттєво набувають сучасного та зухвалого характеру. ![](media/image143.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/212434150691c57c6790734_66577885_02780330XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1281132529691c5785e00d35_92819205_02780090XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/564070198691c578643a479_28272705_02780100XX1.jpg"
+  ]
 }

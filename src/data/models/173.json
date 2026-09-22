@@ -16,17 +16,26 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/5d1b9dae-d867-4820-8892-b937bd127371-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/5d1b9dae-d867-4820-8892-b937bd127371-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/5d1b9dae-d867-4820-8892-b937bd127371-removebg-preview.png"
+      ]
     },
     {
       "name": "Tabacco",
       "code": "2234",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JakQkAGhQh6-K43qoGM5eA_196022933696f436b684e64_02326623_02830800XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JakQkAGhQh6-K43qoGM5eA_196022933696f436b684e64_02326623_02830800XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JakQkAGhQh6-K43qoGM5eA_196022933696f436b684e64_02326623_02830800XX1.jpg"
+      ]
     },
     {
       "name": "Verde Militare",
       "code": "1781",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MET_178100000000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MET_178100000000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MET_178100000000.jpg"
+      ]
     }
   ],
   "looks": [
@@ -62,7 +71,7 @@
         {
           "name": "Roboamo",
           "code": "3463",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Progetto%20senza%20titolo%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Progetto senza titolo (1).png"
         },
         {
           "name": "Ulisside",
@@ -156,7 +165,7 @@
         {
           "name": "Scolpito",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0091%20%282%29.jpg",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0091 (2).jpg",
           "modelId": 305
         },
         {
@@ -413,5 +422,10 @@
         "a": "Кольори Nero, Tabacco і Verde Militare є базою 'тихої розкоші'. Запропонуйте оживити образ контрастною шовковою хусткою або ременем із золотистою фурнітурою з колекції LS."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/5d1b9dae-d867-4820-8892-b937bd127371-removebg-preview.png",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/JakQkAGhQh6-K43qoGM5eA_196022933696f436b684e64_02326623_02830800XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MET_178100000000.jpg"
+  ]
 }

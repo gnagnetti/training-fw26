@@ -16,7 +16,10 @@
     {
       "name": "Var Spinato Bordeaux",
       "code": "3417",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TQWq2qXmRQayYc7Z7KMgUg_391295727696f42ed3bd804_80361111_02820790XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TQWq2qXmRQayYc7Z7KMgUg_391295727696f42ed3bd804_80361111_02820790XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TQWq2qXmRQayYc7Z7KMgUg_391295727696f42ed3bd804_80361111_02820790XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -405,5 +408,8 @@
         "a": "Запевніть клієнта, що використання високоякісних італійських тканин — запорука довговічності. Професійна суха чистка дозволить зберегти чіткість стрілок і благородну фактуру «ялинки» на багато сезонів."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TQWq2qXmRQayYc7Z7KMgUg_391295727696f42ed3bd804_80361111_02820790XX1.jpg"
+  ]
 }

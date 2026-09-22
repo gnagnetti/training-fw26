@@ -16,7 +16,10 @@
     {
       "name": "Var Beige Nocciola",
       "code": "3274",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VOlpN15mQ7-Gfc5_RcvCtQ_552888534696f42e48d4647_09441657_02820600XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VOlpN15mQ7-Gfc5_RcvCtQ_552888534696f42e48d4647_09441657_02820600XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VOlpN15mQ7-Gfc5_RcvCtQ_552888534696f42e48d4647_09441657_02820600XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -394,5 +397,8 @@
         "a": "Підкресліть, що світлі штани — це маркер розкоші в зимовому гардеробі. Матеріал має брудовідштовхувальні властивості вовни і при правильному догляді збереже первозданну яскравість на багато сезонів."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VOlpN15mQ7-Gfc5_RcvCtQ_552888534696f42e48d4647_09441657_02820600XX1.jpg"
+  ]
 }

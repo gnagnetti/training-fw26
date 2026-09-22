@@ -16,7 +16,10 @@
     {
       "name": "Marrone Oro Chiaro",
       "code": "0946 0038",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/decibel.PNG"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/decibel.PNG",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/decibel.PNG"
+      ]
     }
   ],
   "looks": [
@@ -58,7 +61,7 @@
         {
           "name": "Mano H",
           "code": "0202",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281019%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1019).png"
         },
         {
           "name": "Onirico",
@@ -92,12 +95,12 @@
         {
           "name": "Uramaky",
           "code": "0990",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky%20nero.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky nero.PNG"
         },
         {
           "name": "Xariel A",
           "code": "3307 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-10%20at%2014.20.26%20%282%29.jpeg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp Image 2025-12-10 at 14.20.26 (2).jpeg"
         }
       ]
     }
@@ -332,5 +335,8 @@
         "a": "Ця ширина спроєктована спеціально для носіння як у петлях штанів колекції (наприклад, Onirico 1224 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/186596956692424d60ac991_44172985_02781420XX1.jpg так і поверх верхнього одягу для створення подіумного силуету."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/decibel.PNG"
+  ]
 }

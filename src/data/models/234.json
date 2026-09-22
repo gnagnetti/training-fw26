@@ -16,7 +16,10 @@
     {
       "name": "Oro Nickel",
       "code": "0002 0001",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e39e2515-7056-4e2f-8a1c-57aeb3a2cca5-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e39e2515-7056-4e2f-8a1c-57aeb3a2cca5-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e39e2515-7056-4e2f-8a1c-57aeb3a2cca5-removebg-preview.png"
+      ]
     }
   ],
   "looks": [
@@ -453,5 +456,8 @@
         "a": "Вкажіть на використання високотехнологічного гальванічного напилення Luisa Spagnoli. При дотриманні простих правил догляду (уникати парфумерії та вологи) прикраса збереже своє сяйво на довгі роки."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e39e2515-7056-4e2f-8a1c-57aeb3a2cca5-removebg-preview.png"
+  ]
 }

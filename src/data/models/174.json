@@ -16,12 +16,18 @@
     {
       "name": "Nero Tabacco",
       "code": "0101 2234",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ema_wbDiQ1a0Lj1RymcvnQ_1735110920696f436bcfc079_62732838_02830810XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ema_wbDiQ1a0Lj1RymcvnQ_1735110920696f436bcfc079_62732838_02830810XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ema_wbDiQ1a0Lj1RymcvnQ_1735110920696f436bcfc079_62732838_02830810XX1.jpg"
+      ]
     },
     {
       "name": "Beige Beige",
       "code": "1117 1118",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/959747307691f1576f006d2_02395475_02790480XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/959747307691f1576f006d2_02395475_02790480XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/959747307691f1576f006d2_02395475_02790480XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -163,7 +169,7 @@
         {
           "name": "Manos F",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Fabula",
@@ -428,5 +434,9 @@
         "a": "Кольори Nero/Tabacco і Beige/Beige є базовими кольорами палітри Luisa Spagnoli. Вони легко інтегруються в гардероб, поєднуючись як із класичним денімом, так і з шовковими блузами пастельних тонів."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ema_wbDiQ1a0Lj1RymcvnQ_1735110920696f436bcfc079_62732838_02830810XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/959747307691f1576f006d2_02395475_02790480XX1.jpg"
+  ]
 }

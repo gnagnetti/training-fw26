@@ -16,12 +16,18 @@
     {
       "name": "Gianduia",
       "code": "0966",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/XanHz_VwTMiEGmxquz7osw_394796177696f4233069342_55630340_02820200XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/XanHz_VwTMiEGmxquz7osw_394796177696f4233069342_55630340_02820200XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/XanHz_VwTMiEGmxquz7osw_394796177696f4233069342_55630340_02820200XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1fXm1ML1RcWL0m1EaEA_lA_482142787696f423277d5f4_22348172_02820190XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1fXm1ML1RcWL0m1EaEA_lA_482142787696f423277d5f4_22348172_02820190XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1fXm1ML1RcWL0m1EaEA_lA_482142787696f423277d5f4_22348172_02820190XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -62,12 +68,12 @@
         {
           "name": "Norico",
           "code": "0202 0001 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202026-02-13%20at%2011.44.51.jpeg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp Image 2026-02-13 at 11.44.51.jpeg"
         },
         {
           "name": "Ialofane",
           "code": "0101 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000%20%281%29.jpg",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000 (1).jpg",
           "modelId": 90
         },
         {
@@ -114,7 +120,7 @@
         {
           "name": "Notabili",
           "code": "0069 0001 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Cattura%20%282%29.PNG",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Cattura (2).PNG",
           "modelId": 229
         },
         {
@@ -376,5 +382,9 @@
         "a": "Довжина сукні розрахована на використання високих підборів. У парі з нашими туфлями Ullano A 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ab7471c9-c1c6-4a62-b524-62d471856f2c-removebg-preview.png поділ буде витончено парити над поверхнею, створюючи ефект летючої ходи."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/XanHz_VwTMiEGmxquz7osw_394796177696f4233069342_55630340_02820200XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1fXm1ML1RcWL0m1EaEA_lA_482142787696f423277d5f4_22348172_02820190XX1.jpg"
+  ]
 }

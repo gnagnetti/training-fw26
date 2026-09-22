@@ -16,7 +16,10 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YqwkwyA5QMqJiZQWrpBl9g_1744343220696f42ff2d54e7_32709159_02821200XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YqwkwyA5QMqJiZQWrpBl9g_1744343220696f42ff2d54e7_32709159_02821200XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YqwkwyA5QMqJiZQWrpBl9g_1744343220696f42ff2d54e7_32709159_02821200XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -117,7 +120,7 @@
         {
           "name": "Norico",
           "code": "0001 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202026-02-13%20at%2011.44.51.jpeg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp Image 2026-02-13 at 11.44.51.jpeg"
         },
         {
           "name": "Norreni",
@@ -378,5 +381,8 @@
         "a": "Порадьте використовувати Strass поверх легких шовкових суконь або навіть у парі з темним денімом. Його лаконічний крій із круглим вирізом робить його однією з найбільш універсальних моделей вечірньої колекції."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YqwkwyA5QMqJiZQWrpBl9g_1744343220696f42ff2d54e7_32709159_02821200XX1.jpg"
+  ]
 }

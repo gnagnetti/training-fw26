@@ -16,7 +16,10 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ShtSHt_fT-idibjnVPS0vw_1302349068696f42fdd67220_15467480_02821140XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ShtSHt_fT-idibjnVPS0vw_1302349068696f42fdd67220_15467480_02821140XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ShtSHt_fT-idibjnVPS0vw_1302349068696f42fdd67220_15467480_02821140XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -356,5 +359,8 @@
         "a": "Даний тип шкіри вирізняється високою зносостійкістю і стійкістю до зовнішніх впливів. При правильному зберіганні на плечиках виріб збереже свій первозданний вигляд на багато сезонів."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ShtSHt_fT-idibjnVPS0vw_1302349068696f42fdd67220_15467480_02821140XX1.jpg"
+  ]
 }

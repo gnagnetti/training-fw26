@@ -16,7 +16,10 @@
     {
       "name": "Panna Nero",
       "code": "0202 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/517709194692424c8761803_70152623_02780770XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/517709194692424c8761803_70152623_02780770XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/517709194692424c8761803_70152623_02780770XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -360,5 +363,8 @@
         "a": "лаконічну сумку Inise 0101 0002, як показано у вітринах. Це перетворить модель на ідеальне вбрання для ділового коктейлю або статусного обіду."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/517709194692424c8761803_70152623_02780770XX1.jpg"
+  ]
 }

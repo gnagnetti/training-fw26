@@ -16,12 +16,18 @@
     {
       "name": "Verde Militare",
       "code": "1736",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000%20%285%29.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000 (5).jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000 (5).jpg"
+      ]
     },
     {
       "name": "Melanzana",
       "code": "0759",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2069679827691f1578acc705_27521813_02790530XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2069679827691f1578acc705_27521813_02790530XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2069679827691f1578acc705_27521813_02790530XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -556,5 +562,9 @@
         "a": ", допомагаючи виробу зберігати форму та чіткість ліній навіть при активному носінні. ![](media/image103.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image104.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image105.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000 (5).jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2069679827691f1578acc705_27521813_02790530XX1.jpg"
+  ]
 }

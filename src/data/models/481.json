@@ -16,7 +16,10 @@
     {
       "name": "Var Fondo Marrone",
       "code": "4575",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/53771580691c578707d222_85966206_02780120XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/53771580691c578707d222_85966206_02780120XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/53771580691c578707d222_85966206_02780120XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -341,5 +344,8 @@
         "a": "зігріваючим шаром між сорочкою та верхнім одягом, зберігаючи тепло та додаючи образу глибини. ![](media/image164.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image165.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image166.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/53771580691c578707d222_85966206_02780120XX1.jpg"
+  ]
 }

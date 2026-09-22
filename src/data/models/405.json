@@ -16,7 +16,10 @@
     {
       "name": "Var Fondo Nero",
       "code": "3402",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1090627397691f1598edb408_39867978_02780800XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1090627397691f1598edb408_39867978_02780800XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1090627397691f1598edb408_39867978_02780800XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -47,7 +50,7 @@
         {
           "name": "Ulisside",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview (2).png"
         },
         {
           "name": "Iago",
@@ -355,5 +358,8 @@
         "a": "0002), які не будуть сперечатися зі складністю принту. ![](media/image31.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1090627397691f1598edb408_39867978_02780800XX1.jpg"
+  ]
 }

@@ -16,7 +16,10 @@
     {
       "name": "Var Spinato Bordeaux",
       "code": "3417",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -53,7 +56,7 @@
         {
           "name": "Manos",
           "code": "2435",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         },
         {
           "name": "Fumaiolo",
@@ -382,5 +385,8 @@
         "a": "Сумішевий склад із додаванням ацетату та поліестеру робить тканину приємною на дотик і забезпечує комфортну легкість, зберігаючи при цьому всі теплозберігаючі властивості натуральної вовни."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wwFiw_oWT2q_GVyGFGdBTA_2101252950696f422e559462_75140582_02820100XX1.jpg"
+  ]
 }

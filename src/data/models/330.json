@@ -16,7 +16,10 @@
     {
       "name": "Nero Nero",
       "code": "0101 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281029%29.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1029).png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1029).png"
+      ]
     }
   ],
   "looks": [
@@ -47,12 +50,12 @@
         {
           "name": "Soresina",
           "code": "0101 0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281029%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1029).png"
         },
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Oneta",
@@ -95,7 +98,7 @@
         {
           "name": "Soresina",
           "code": "0101 0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281029%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1029).png"
         },
         {
           "name": "Lucinda",
@@ -105,7 +108,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Overt",
@@ -141,7 +144,7 @@
         {
           "name": "Soresina",
           "code": "0101 0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281029%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1029).png"
         },
         {
           "name": "Marius",
@@ -404,5 +407,8 @@
         "a": "Завдяки аристократичним деталям і можливості прибрати комір, Soresina ідеально доповнює суворі штани Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg зберігаючи баланс між формальністю та комфортом."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1029).png"
+  ]
 }

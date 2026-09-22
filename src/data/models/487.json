@@ -16,7 +16,10 @@
     {
       "name": "Var Beige Bordo Verd Marrone Cioccolato",
       "code": "4606 0943",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/svcK70kjTJ6nl3dBFxBhTQ_881375690691f1568ab2b44_04266070_02780620XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/svcK70kjTJ6nl3dBFxBhTQ_881375690691f1568ab2b44_04266070_02780620XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/svcK70kjTJ6nl3dBFxBhTQ_881375690691f1568ab2b44_04266070_02780620XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -58,7 +61,7 @@
         {
           "name": "Ulisside",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview (2).png"
         }
       ]
     },
@@ -89,7 +92,7 @@
         {
           "name": "Manos",
           "code": "0970",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000 (1).jpg"
         },
         {
           "name": "Olap",
@@ -131,7 +134,7 @@
         {
           "name": "Manos",
           "code": "0970",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000 (1).jpg"
         },
         {
           "name": "Olap",
@@ -379,5 +382,8 @@
         "a": "довговічність виробу як інвестиції."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/svcK70kjTJ6nl3dBFxBhTQ_881375690691f1568ab2b44_04266070_02780620XX1.jpg"
+  ]
 }

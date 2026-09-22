@@ -16,7 +16,10 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7v0FTekRSaSnQaOwEt8Jvw_2126572995696f42e2d8b804_09815521_02820550XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7v0FTekRSaSnQaOwEt8Jvw_2126572995696f42e2d8b804_09815521_02820550XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7v0FTekRSaSnQaOwEt8Jvw_2126572995696f42e2d8b804_09815521_02820550XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -367,5 +370,8 @@
         "a": "Бретелі виконані з м'якого шовкового сатину та оснащені регуляторами, що дозволяє розподілити навантаження та налаштувати максимально комфортну довжину для будь-якого типу фігури."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7v0FTekRSaSnQaOwEt8Jvw_2126572995696f42e2d8b804_09815521_02820550XX1.jpg"
+  ]
 }

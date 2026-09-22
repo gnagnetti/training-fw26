@@ -16,7 +16,10 @@
     {
       "name": "Blu",
       "code": "1204",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1917785367692424d5743365_23685218_02781410XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1917785367692424d5743365_23685218_02781410XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1917785367692424d5743365_23685218_02781410XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -47,7 +50,7 @@
         {
           "name": "Soncio",
           "code": "0963 1161",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e0r4p7GdTVyJ63LSWEZZjQ_823327549696f42fa6897f3_01024722_02821060XX1.jpg"
         },
         {
           "name": "Merende",
@@ -95,7 +98,7 @@
         {
           "name": "Soncio",
           "code": "0963 1161",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e0r4p7GdTVyJ63LSWEZZjQ_823327549696f42fa6897f3_01024722_02821060XX1.jpg"
         },
         {
           "name": "Mity",
@@ -335,5 +338,8 @@
         "a": "Thanks to the Regular fit, the jacket can be worn more casually. Suggest trying it with understated trousers for daytime meetings, adding an element of high fashion to everyday looks."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1917785367692424d5743365_23685218_02781410XX1.jpg"
+  ]
 }

@@ -16,7 +16,10 @@
     {
       "name": "Var Platino",
       "code": "3312",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1287694275692424e30b1d31_79451638_02781770XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1287694275692424e30b1d31_79451638_02781770XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1287694275692424e30b1d31_79451638_02781770XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -395,5 +398,8 @@
         "a": "гармоніюють із жакетом, позбавляючи вас від необхідності пошуку. ![](media/image198.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image199.png){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1287694275692424e30b1d31_79451638_02781770XX1.jpg"
+  ]
 }

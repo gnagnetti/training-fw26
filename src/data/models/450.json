@@ -16,17 +16,26 @@
     {
       "name": "Bordeaux",
       "code": "2435",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/395382139691f157a33ff87_20039445_02790630XX1.jpg"
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwfa654b51/images/large/10731562866a1ff34bc164f4_60618504_02850140XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwfa654b51/images/large/10731562866a1ff34bc164f4_60618504_02850140XX1.jpg?sw=500"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/395382139691f157a33ff87_20039445_02790630XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/395382139691f157a33ff87_20039445_02790630XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/395382139691f157a33ff87_20039445_02790630XX1.jpg"
+      ]
     },
     {
       "name": "Melanzana",
       "code": "0759",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000.jpg"
+      ]
     }
   ],
   "looks": [
@@ -137,7 +146,7 @@
         {
           "name": "Mlacaria",
           "code": "0970",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/74efb9cd-f75a-4ac5-903b-2b4b34e4fd86-removebg-preview.png"
         },
         {
           "name": "Moles",
@@ -264,7 +273,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         }
       ]
     }
@@ -545,5 +554,10 @@
         "a": "із Look 81: поєднання спідниці та верху в одному кольорі створює безперервну кольорову вертикаль, яка візуально додає зросту та стрункості. ![](media/image113.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image114.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image115.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwfa654b51/images/large/10731562866a1ff34bc164f4_60618504_02850140XX1.jpg?sw=500",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/395382139691f157a33ff87_20039445_02790630XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOROLO_75900000000.jpg"
+  ]
 }

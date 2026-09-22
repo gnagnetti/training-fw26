@@ -16,7 +16,10 @@
     {
       "name": "Var Beige Nocciola",
       "code": "3274",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/PqG9-FYmSSKd6ktSwYBrtw_1218135521696f42f58904d5_23806936_02820980XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/PqG9-FYmSSKd6ktSwYBrtw_1218135521696f42f58904d5_23806936_02820980XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/PqG9-FYmSSKd6ktSwYBrtw_1218135521696f42f58904d5_23806936_02820980XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -140,7 +143,7 @@
         {
           "name": "Manos F",
           "code": "2435",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         }
       ]
     }
@@ -391,5 +394,8 @@
         "a": "Покажіть, як гармонійно блейзер поєднується з базовими кольорами: білим, кремовим або шоколадним, представленими в колекції пуловерів Manos F (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/62874749691c57928c68a3_59975180_02790240XX1.jpg."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/PqG9-FYmSSKd6ktSwYBrtw_1218135521696f42f58904d5_23806936_02820980XX1.jpg"
+  ]
 }

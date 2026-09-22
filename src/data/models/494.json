@@ -16,17 +16,26 @@
     {
       "name": "Blu Blu",
       "code": "1291 1291",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/37479405691f159c6b1639_55399273_02780890XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/37479405691f159c6b1639_55399273_02780890XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/37479405691f159c6b1639_55399273_02780890XX1.jpg"
+      ]
     },
     {
       "name": "Bordeaux Marrone",
       "code": "2418 0931",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1499307170691f159cc0a287_69513073_02780900XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1499307170691f159cc0a287_69513073_02780900XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1499307170691f159cc0a287_69513073_02780900XX1.jpg"
+      ]
     },
     {
       "name": "Marrone Marrone",
       "code": "0931 0931",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/731338292691f15a22ad6f7_40618956_02781010XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/731338292691f15a22ad6f7_40618956_02781010XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/731338292691f15a22ad6f7_40618956_02781010XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -75,7 +84,7 @@
         {
           "name": "Manos",
           "code": "0970",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000 (1).jpg"
         }
       ]
     }
@@ -287,5 +296,10 @@
         "a": "гарантує власниці унікальність і рідкість образу."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/37479405691f159c6b1639_55399273_02780890XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1499307170691f159cc0a287_69513073_02780900XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/731338292691f15a22ad6f7_40618956_02781010XX1.jpg"
+  ]
 }

@@ -16,7 +16,10 @@
     {
       "name": "Var Noce Verde Oliva",
       "code": "3372",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/586510734691f15a317bb26_78264238_02781030XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/586510734691f15a317bb26_78264238_02781030XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/586510734691f15a317bb26_78264238_02781030XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -145,12 +148,12 @@
         {
           "name": "Manos",
           "code": "0951",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         },
         {
           "name": "Leila",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         }
       ]
@@ -441,5 +444,8 @@
         "a": "візуально довшою, а образ --- більш статусним та артистичним. ![](media/image146.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/586510734691f15a317bb26_78264238_02781030XX1.jpg"
+  ]
 }

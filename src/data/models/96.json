@@ -16,22 +16,34 @@
     {
       "name": "Marrone Oro",
       "code": "0994 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7spHNOP2QYKtkcTkc6e25Q_1348814134696f422344df15_71713074_02800710XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7spHNOP2QYKtkcTkc6e25Q_1348814134696f422344df15_71713074_02800710XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7spHNOP2QYKtkcTkc6e25Q_1348814134696f422344df15_71713074_02800710XX1.jpg"
+      ]
     },
     {
       "name": "Nero Oro",
       "code": "0101 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cougRXqXSLCLpSH5I324CQ_361816691696f422261f4e8_02648203_02800700XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cougRXqXSLCLpSH5I324CQ_361816691696f422261f4e8_02648203_02800700XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cougRXqXSLCLpSH5I324CQ_361816691696f422261f4e8_02648203_02800700XX1.jpg"
+      ]
     },
     {
       "name": "Champagne Oro",
       "code": "0212 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bh054MdiSKKEM-NPLgzYnA_1932535666696f42291c1a50_67050088_02801430XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bh054MdiSKKEM-NPLgzYnA_1932535666696f42291c1a50_67050088_02801430XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bh054MdiSKKEM-NPLgzYnA_1932535666696f42291c1a50_67050088_02801430XX1.jpg"
+      ]
     },
     {
       "name": "Verde Pino Oro",
       "code": "2004 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7706505e-60b7-43f9-a8a2-5435010c42a0-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7706505e-60b7-43f9-a8a2-5435010c42a0-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7706505e-60b7-43f9-a8a2-5435010c42a0-removebg-preview.png"
+      ]
     }
   ],
   "looks": [
@@ -420,5 +432,11 @@
         "a": "Матовий фініш універсальний. Він гармонійно поєднується як з лаковою шкірою, так і з атласними туфлями, такими як наша модель Udita (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/26a004e2-2211-4fe0-8a64-48232e44c8d0-removebg-preview.png."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7spHNOP2QYKtkcTkc6e25Q_1348814134696f422344df15_71713074_02800710XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cougRXqXSLCLpSH5I324CQ_361816691696f422261f4e8_02648203_02800700XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bh054MdiSKKEM-NPLgzYnA_1932535666696f42291c1a50_67050088_02801430XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7706505e-60b7-43f9-a8a2-5435010c42a0-removebg-preview.png"
+  ]
 }

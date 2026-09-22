@@ -16,17 +16,26 @@
     {
       "name": "Grigio Melange Grigio Melange",
       "code": "0802 0816",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Gh5AuRKrRy-NeEE0GszlMg_1242207552696f43755db3c9_42747205_02831130XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Gh5AuRKrRy-NeEE0GszlMg_1242207552696f43755db3c9_42747205_02831130XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Gh5AuRKrRy-NeEE0GszlMg_1242207552696f43755db3c9_42747205_02831130XX1.jpg"
+      ]
     },
     {
       "name": "Nero Var Maculato Marrone",
       "code": "0101 3439",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3kNtZOruR-eCnxMUOwytGQ_735352222696f4374894804_26830686_02831110XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3kNtZOruR-eCnxMUOwytGQ_735352222696f4374894804_26830686_02831110XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3kNtZOruR-eCnxMUOwytGQ_735352222696f4374894804_26830686_02831110XX1.jpg"
+      ]
     },
     {
       "name": "Panna Marrone",
       "code": "0202 0913",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3AyLRjGgT1WIxNPjMZn5hQ_248320122696f4374ec3a11_45459311_02831120XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3AyLRjGgT1WIxNPjMZn5hQ_248320122696f4374ec3a11_45459311_02831120XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3AyLRjGgT1WIxNPjMZn5hQ_248320122696f4374ec3a11_45459311_02831120XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -121,7 +130,7 @@
         {
           "name": "Urbana",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%2827%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (27).png"
         },
         {
           "name": "Dogale A",
@@ -136,7 +145,7 @@
         {
           "name": "Ls1928p",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     },
@@ -178,7 +187,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Fabula",
@@ -449,5 +458,10 @@
         "a": "Це класичний елемент стилю «old money», який підкреслює аристократизм виробу. Для урочистого випадку достатньо додати наші знакові прикраси, такі як сережки Nagorno або кольє Narsete, щоб образ заграв новими барвами."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Gh5AuRKrRy-NeEE0GszlMg_1242207552696f43755db3c9_42747205_02831130XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3kNtZOruR-eCnxMUOwytGQ_735352222696f4374894804_26830686_02831110XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3AyLRjGgT1WIxNPjMZn5hQ_248320122696f4374ec3a11_45459311_02831120XX1.jpg"
+  ]
 }

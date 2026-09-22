@@ -16,7 +16,10 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/BtQDR10RQcqlW_zq2aAUyw_1859370581696f42ea269446_74918326_02820710XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/BtQDR10RQcqlW_zq2aAUyw_1859370581696f42ea269446_74918326_02820710XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/BtQDR10RQcqlW_zq2aAUyw_1859370581696f42ea269446_74918326_02820710XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -52,7 +55,7 @@
         {
           "name": "Linearita",
           "code": "0101 0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281028%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1028).png",
           "modelId": 111
         },
         {
@@ -94,13 +97,13 @@
         {
           "name": "Lanificio",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281026%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1026).png",
           "modelId": 99
         },
         {
           "name": "Linearita",
           "code": "0101 0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281028%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1028).png",
           "modelId": 111
         },
         {
@@ -357,5 +360,8 @@
         "a": "Дані відсутні в офіційних джерелах."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/BtQDR10RQcqlW_zq2aAUyw_1859370581696f42ea269446_74918326_02820710XX1.jpg"
+  ]
 }

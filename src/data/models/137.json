@@ -16,17 +16,26 @@
     {
       "name": "Rosa",
       "code": "0325",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1RZ6w9NkRu6CB3jEFuMqyw_1022194540696f43618ba9a5_38551177_02830460XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1RZ6w9NkRu6CB3jEFuMqyw_1022194540696f43618ba9a5_38551177_02830460XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1RZ6w9NkRu6CB3jEFuMqyw_1022194540696f43618ba9a5_38551177_02830460XX1.jpg"
+      ]
     },
     {
       "name": "Panna Nero",
       "code": "0202 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/459091259691c578ed8f774_10269127_02790020XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/459091259691c578ed8f774_10269127_02790020XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/459091259691c578ed8f774_10269127_02790020XX1.jpg"
+      ]
     },
     {
       "name": "Melanzana",
       "code": "0759",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1047676143691c5792309957_52262244_02790170XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1047676143691c5792309957_52262244_02790170XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1047676143691c5792309957_52262244_02790170XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -373,5 +382,10 @@
         "a": "Ця модель універсальна. Вона бездоганно поєднується як з нашими класичними лоферами Uramaky (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/urmaky.png для офісу, так і зі статусними чоботями Ulisside (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg для міського виходу."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1RZ6w9NkRu6CB3jEFuMqyw_1022194540696f43618ba9a5_38551177_02830460XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/459091259691c578ed8f774_10269127_02790020XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1047676143691c5792309957_52262244_02790170XX1.jpg"
+  ]
 }

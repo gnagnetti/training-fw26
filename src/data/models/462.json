@@ -16,7 +16,10 @@
     {
       "name": "Grigio Scuro",
       "code": "1078",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/257147451692424d6c23c32_02483052_02781450XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/257147451692424d6c23c32_02483052_02781450XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/257147451692424d6c23c32_02483052_02781450XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -84,7 +87,7 @@
         {
           "name": "Slamir",
           "code": "0101",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2125352506691c57cc4cb114_63347318_02780450XX3.jpg"
         },
         {
           "name": "Lisio",
@@ -137,7 +140,7 @@
         {
           "name": "Leila",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         },
         {
@@ -435,5 +438,8 @@
         "a": "бавовни, яка тримає форму flared-силуету і зберігає структуру штанини навіть при активному носінні. ![](media/image132.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/257147451692424d6c23c32_02483052_02781450XX1.jpg"
+  ]
 }

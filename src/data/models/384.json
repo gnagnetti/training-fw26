@@ -16,12 +16,18 @@
     {
       "name": "Beige Beige",
       "code": "1151 1181",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/550185212691f156b48c6a8_03674351_02780680XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/550185212691f156b48c6a8_03674351_02780680XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/550185212691f156b48c6a8_03674351_02780680XX1.jpg"
+      ]
     },
     {
       "name": "Nero Cammello",
       "code": "0101 2352",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/698663437691f156a654f44_71053554_02780660XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/698663437691f156a654f44_71053554_02780660XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/698663437691f156a654f44_71053554_02780660XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -451,5 +457,9 @@
         "a": "Продемонструйте універсальність: пуловер однаково виборі доповнюючих розкішно виглядає і з зухвалою спідницею з екошкіри речей Fabula 0101, і зі строгими брюками Onesta 2710."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/550185212691f156b48c6a8_03674351_02780680XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/698663437691f156a654f44_71053554_02780660XX1.jpg"
+  ]
 }

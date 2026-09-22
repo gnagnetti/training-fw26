@@ -16,12 +16,18 @@
     {
       "name": "Var Toni Grigio",
       "code": "3421",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yyz2fwI3TfaYHxif56HoIw_1683337760696f4379690928_47645276_02831270XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yyz2fwI3TfaYHxif56HoIw_1683337760696f4379690928_47645276_02831270XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yyz2fwI3TfaYHxif56HoIw_1683337760696f4379690928_47645276_02831270XX1.jpg"
+      ]
     },
     {
       "name": "Var Verde Oliv Bordo",
       "code": "3349",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eDNHV1c0RjWSZGmKSRYFrg_608445424696f436c3f19c0_12821392_02830820XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eDNHV1c0RjWSZGmKSRYFrg_608445424696f436c3f19c0_12821392_02830820XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eDNHV1c0RjWSZGmKSRYFrg_608445424696f436c3f19c0_12821392_02830820XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -63,7 +69,7 @@
         {
           "name": "Manos",
           "code": "0821",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         },
         {
           "name": "Olla",
@@ -170,12 +176,12 @@
         {
           "name": "Formazione",
           "code": "0996",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (43).png"
         },
         {
           "name": "Uboldo",
           "code": "2218 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281020%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1020).png"
         }
       ]
     },
@@ -475,5 +481,9 @@
         "a": "Стилізуйте Cremona з базовими джинсами Olla або строгими брюками Olivetano для створення образу в стилі Casual Chic, де розкіш проявляється в деталях."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yyz2fwI3TfaYHxif56HoIw_1683337760696f4379690928_47645276_02831270XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eDNHV1c0RjWSZGmKSRYFrg_608445424696f436c3f19c0_12821392_02830820XX1.jpg"
+  ]
 }

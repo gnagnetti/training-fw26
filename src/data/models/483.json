@@ -16,12 +16,18 @@
     {
       "name": "Blu Grigio Melange",
       "code": "1210 0844",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1158246152691c5787c51e54_13468104_02780140XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1158246152691c5787c51e54_13468104_02780140XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1158246152691c5787c51e54_13468104_02780140XX1.jpg"
+      ]
     },
     {
       "name": "Fango Beige Melange",
       "code": "2731 1167",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1331191701691c578853baa0_07542947_02780150XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1331191701691c578853baa0_07542947_02780150XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1331191701691c578853baa0_07542947_02780150XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -52,7 +58,7 @@
         {
           "name": "Clips",
           "code": "1161",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/n9YQHX-WRFK_XqIYbVmWuA_1927036083696f4372bb92b0_86901760_02831050XX1.jpg"
         },
         {
           "name": "Battistero",
@@ -104,7 +110,7 @@
         {
           "name": "Clips",
           "code": "1161",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/n9YQHX-WRFK_XqIYbVmWuA_1927036083696f4372bb92b0_86901760_02831050XX1.jpg"
         },
         {
           "name": "Fabula",
@@ -237,7 +243,7 @@
         {
           "name": "Clips",
           "code": "0838",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/L3LH0y22TvKUJ1-PXhhWGg_921510504696f4359b2b916_48995210_02830160XX1.jpg"
         },
         {
           "name": "Ontani",
@@ -480,5 +486,9 @@
         "a": "Запропонуйте приміряти його з джинсами занадто суворим Olla 1073 (Look 30), щоб побачити, як суворість тренча ефектно контрастує з розслабленістю деніму."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1158246152691c5787c51e54_13468104_02780140XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1331191701691c578853baa0_07542947_02780150XX1.jpg"
+  ]
 }

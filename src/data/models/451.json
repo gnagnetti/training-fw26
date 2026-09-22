@@ -16,27 +16,45 @@
     {
       "name": "Verde Militare",
       "code": "1789",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg"
+      ]
     },
     {
       "name": "Bluette",
       "code": "2527",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/yLie7KkdTOiiId5CrV5e2Q_857147775696f43030a14f5_50093958_02821290XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/yLie7KkdTOiiId5CrV5e2Q_857147775696f43030a14f5_50093958_02821290XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/yLie7KkdTOiiId5CrV5e2Q_857147775696f43030a14f5_50093958_02821290XX1.jpg"
+      ]
     },
     {
       "name": "Mattone",
       "code": "1547",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1190273499692424d3a44493_94003181_02781350XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1190273499692424d3a44493_94003181_02781350XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1190273499692424d3a44493_94003181_02781350XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg",
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/yLie7KkdTOiiId5CrV5e2Q_857147775696f43030a14f5_50093958_02821290XX1.jpg",
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1190273499692424d3a44493_94003181_02781350XX1.jpg",
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1000796252692424d4084125_63956219_02781360XX1.jpg"
+      ]
     },
     {
       "name": "Rosa",
       "code": "0326",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1000796252692424d4084125_63956219_02781360XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1000796252692424d4084125_63956219_02781360XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1000796252692424d4084125_63956219_02781360XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -381,7 +399,7 @@
         {
           "name": "Mlacaria",
           "code": "0101",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1c1747b9-ac92-471a-ae98-e3c1b6b2eb99-removebg-preview.png"
         }
       ]
     },
@@ -704,5 +722,11 @@
         "a": "Зверніть увагу на регулярний крій (vestibilità regolare). Це золота середина між вузькими моделями та оверсайзом, яка гарантує актуальність штанів незалежно від мінливих трендів."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/pLfifpMXRCmVcSHvIaEzMg_905103448696f42e421e330_54955005_02820590XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/yLie7KkdTOiiId5CrV5e2Q_857147775696f43030a14f5_50093958_02821290XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1190273499692424d3a44493_94003181_02781350XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1000796252692424d4084125_63956219_02781360XX1.jpg"
+  ]
 }

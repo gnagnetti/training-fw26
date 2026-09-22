@@ -16,12 +16,18 @@
     {
       "name": "Var Grigio Panna",
       "code": "3331",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%2843%29.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (43).png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (43).png"
+      ]
     },
     {
       "name": "Var Marrone",
       "code": "3404",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Tku_9qrwQfeWKiFEyBWMzg_1163675978696f422de2e643_18151331_02820090XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Tku_9qrwQfeWKiFEyBWMzg_1163675978696f422de2e643_18151331_02820090XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Tku_9qrwQfeWKiFEyBWMzg_1163675978696f422de2e643_18151331_02820090XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -63,12 +69,12 @@
         {
           "name": "Manos F",
           "code": "0951",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         },
         {
           "name": "Uboldo",
           "code": "2218",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281020%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1020).png"
         },
         {
           "name": "Iago",
@@ -427,5 +433,9 @@
         "a": "Для збереження первинної фактури букле та блиску шовкових ниток ми рекомендуємо виключно професійну хімчистку, що забезпечить довговічність вашої інвестиції в гардероб."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (43).png",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Tku_9qrwQfeWKiFEyBWMzg_1163675978696f422de2e643_18151331_02820090XX1.jpg"
+  ]
 }

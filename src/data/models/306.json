@@ -16,12 +16,18 @@
     {
       "name": "Nero Visone",
       "code": "0101 0989",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-6KdKxirSmiVRYl7WOAhvg_26649427696f430a3da358_88679153_02821480XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-6KdKxirSmiVRYl7WOAhvg_26649427696f430a3da358_88679153_02821480XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-6KdKxirSmiVRYl7WOAhvg_26649427696f430a3da358_88679153_02821480XX1.jpg"
+      ]
     },
     {
       "name": "Tortora Tortora",
       "code": "2712 2712",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/lKqGNM1tQte9sZoxxMIz-Q_868057012696f42f4183f64_90266146_02820930XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/lKqGNM1tQte9sZoxxMIz-Q_868057012696f42f4183f64_90266146_02820930XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/lKqGNM1tQte9sZoxxMIz-Q_868057012696f42f4183f64_90266146_02820930XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -57,7 +63,7 @@
         {
           "name": "Manos F",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Olibis",
@@ -68,7 +74,7 @@
         {
           "name": "Ulisside",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview (2).png"
         },
         {
           "name": "Nagorno",
@@ -79,12 +85,12 @@
         {
           "name": "Uboldo",
           "code": "0101 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281022%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1022).png"
         },
         {
           "name": "Xnina A",
           "code": "0101 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-10%20at%2014.20.26%20%281%29.jpeg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp Image 2025-12-10 at 14.20.26 (1).jpeg"
         }
       ]
     },
@@ -385,5 +391,9 @@
         "a": "Зверніть увагу на контрастне оздоблення Visone (0989), яке додає виробу унікальний дизайнерський штрих і візуальну глибину."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-6KdKxirSmiVRYl7WOAhvg_26649427696f430a3da358_88679153_02821480XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/lKqGNM1tQte9sZoxxMIz-Q_868057012696f42f4183f64_90266146_02820930XX1.jpg"
+  ]
 }

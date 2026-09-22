@@ -16,17 +16,26 @@
     {
       "name": "Blu",
       "code": "1251",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eJHu-sI1Q8OS92vLFM1qJg_1816500344696f4358cfc0e6_72397790_02830140XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eJHu-sI1Q8OS92vLFM1qJg_1816500344696f4358cfc0e6_72397790_02830140XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eJHu-sI1Q8OS92vLFM1qJg_1816500344696f4358cfc0e6_72397790_02830140XX1.jpg"
+      ]
     },
     {
       "name": "Grigio Medio",
       "code": "0835",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nFFz4HPvRuyIO8rYkcmQxA_164523697696f435861d906_09889662_02830130XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nFFz4HPvRuyIO8rYkcmQxA_164523697696f435861d906_09889662_02830130XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nFFz4HPvRuyIO8rYkcmQxA_164523697696f435861d906_09889662_02830130XX1.jpg"
+      ]
     },
     {
       "name": "Verde Oliva",
       "code": "1726",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OoQX1NUFQ3GROS6Sue6f-A_711887232696f4359482488_46795419_02830150XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OoQX1NUFQ3GROS6Sue6f-A_711887232696f4359482488_46795419_02830150XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OoQX1NUFQ3GROS6Sue6f-A_711887232696f4359482488_46795419_02830150XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -62,7 +71,7 @@
         {
           "name": "Leila A",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png"
         },
         {
           "name": "Olap",
@@ -89,7 +98,7 @@
         {
           "name": "Roboamo",
           "code": "3463",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Progetto%20senza%20titolo%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Progetto senza titolo (1).png"
         }
       ]
     },
@@ -441,5 +450,10 @@
         "a": "Посадка Regular fit розроблена так, щоб делікатно облягати фігуру. Спущене плече створює актуальний силует, не перевантажуючи образ зайвим об'ємом."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eJHu-sI1Q8OS92vLFM1qJg_1816500344696f4358cfc0e6_72397790_02830140XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nFFz4HPvRuyIO8rYkcmQxA_164523697696f435861d906_09889662_02830130XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OoQX1NUFQ3GROS6Sue6f-A_711887232696f4359482488_46795419_02830150XX1.jpg"
+  ]
 }

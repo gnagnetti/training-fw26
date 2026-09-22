@@ -16,7 +16,10 @@
     {
       "name": "Nero Nero Nero",
       "code": "0101 0101 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fondazione%20nero.PNG"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fondazione nero.PNG",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fondazione nero.PNG"
+      ]
     }
   ],
   "looks": [
@@ -47,7 +50,7 @@
         {
           "name": "Fondazione",
           "code": "0101 0101 0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fondazione%20nero.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fondazione nero.PNG"
         },
         {
           "name": "Soana",
@@ -63,7 +66,7 @@
         {
           "name": "Ialofane",
           "code": "0101 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000%20%281%29.jpg",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000 (1).jpg",
           "modelId": 90
         }
       ]
@@ -95,7 +98,7 @@
         {
           "name": "Fondazione",
           "code": "0101 0101 0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fondazione%20nero.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fondazione nero.PNG"
         },
         {
           "name": "Soana",
@@ -357,5 +360,8 @@
         "a": "Для виробів такого рівня складності ми наполегливо рекомендуємо виключно професійну хімчистку, щоб гарантувати збереження структури мережива та всіх ярусів."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fondazione nero.PNG"
+  ]
 }

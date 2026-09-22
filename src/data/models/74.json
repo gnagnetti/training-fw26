@@ -16,12 +16,18 @@
     {
       "name": "Marrone",
       "code": "0970",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OuVAL2gTRcuD5yJgucIucg_1754614739696f430bb59464_68046319_02821510XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OuVAL2gTRcuD5yJgucIucg_1754614739696f430bb59464_68046319_02821510XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OuVAL2gTRcuD5yJgucIucg_1754614739696f430bb59464_68046319_02821510XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NsCGHo0-QraSfVBQVdsEaA_770233866696f4230983031_21729690_02820140XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NsCGHo0-QraSfVBQVdsEaA_770233866696f4230983031_21729690_02820140XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NsCGHo0-QraSfVBQVdsEaA_770233866696f4230983031_21729690_02820140XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -104,7 +110,7 @@
         {
           "name": "Ls1928p A",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     },
@@ -396,5 +402,9 @@
         "a": "Чорний колір 'Nero' у цій фактурі має благородний матовий блиск. Ви можете додати яскравості образу за допомогою контрастних аксесуарів або шарфа з нашої колекції."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OuVAL2gTRcuD5yJgucIucg_1754614739696f430bb59464_68046319_02821510XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NsCGHo0-QraSfVBQVdsEaA_770233866696f4230983031_21729690_02820140XX1.jpg"
+  ]
 }

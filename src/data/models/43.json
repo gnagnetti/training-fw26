@@ -16,7 +16,10 @@
     {
       "name": "Var Spinato Bordeaux",
       "code": "3417",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b1f20d8b-e87b-4fbc-9079-4eee44769e32.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b1f20d8b-e87b-4fbc-9079-4eee44769e32.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b1f20d8b-e87b-4fbc-9079-4eee44769e32.jpg"
+      ]
     }
   ],
   "looks": [
@@ -57,7 +60,7 @@
         {
           "name": "Manos F",
           "code": "2435",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         }
       ]
     },
@@ -98,7 +101,7 @@
         {
           "name": "Manos F",
           "code": "2435",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         }
       ]
     }
@@ -305,5 +308,8 @@
         "a": "Для збереження первинної текстури тканини та точності ліній крою ми рекомендуємо виключно професійну хімчистку, що гарантує збереження виробу на довгі сезони."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b1f20d8b-e87b-4fbc-9079-4eee44769e32.jpg"
+  ]
 }

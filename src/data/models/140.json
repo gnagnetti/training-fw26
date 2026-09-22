@@ -16,7 +16,10 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YyS_5mptS9u-T1byYRDyhQ_144598007696f4362040742_30894184_02830490XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YyS_5mptS9u-T1byYRDyhQ_144598007696f4362040742_30894184_02830490XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YyS_5mptS9u-T1byYRDyhQ_144598007696f4362040742_30894184_02830490XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -287,5 +290,8 @@
         "a": "Чорний колір у цій моделі слугує бездоганним полотном. Він підкреслює якість в'язки та дозволяє зробити акцент на наших знакових прикрасах, таких як кольє Narsete або брошка Nolanite."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YyS_5mptS9u-T1byYRDyhQ_144598007696f4362040742_30894184_02830490XX1.jpg"
+  ]
 }

@@ -16,17 +16,26 @@
     {
       "name": "Arancio",
       "code": "1550",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1588775792691f156da99291_86057950_02780740XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1588775792691f156da99291_86057950_02780740XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1588775792691f156da99291_86057950_02780740XX1.jpg"
+      ]
     },
     {
       "name": "Grigio",
       "code": "0823",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1244194360691f156e0b6c67_05072027_02780750XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1244194360691f156e0b6c67_05072027_02780750XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1244194360691f156e0b6c67_05072027_02780750XX1.jpg"
+      ]
     },
     {
       "name": "Rosa",
       "code": "0319",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fgjq8XA9RAyif0O1AdGoSQ_633554709691f156ae8bae4_59302424_02780670XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fgjq8XA9RAyif0O1AdGoSQ_633554709691f156ae8bae4_59302424_02780670XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fgjq8XA9RAyif0O1AdGoSQ_633554709691f156ae8bae4_59302424_02780670XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -63,7 +72,7 @@
         {
           "name": "Ulisside",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview (2).png"
         }
       ]
     },
@@ -136,7 +145,7 @@
         {
           "name": "Single",
           "code": "1210 0844",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1158246152691c5787c51e54_13468104_02780140XX1.jpg"
         },
         {
           "name": "Olla",
@@ -184,7 +193,7 @@
         {
           "name": "Odorico",
           "code": "3261",
-          "imageUrl": null,
+          "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3df06711/images/large/13858798126a1ff3d1df4494_54851837_02861080XX1.jpg?sw=500",
           "modelId": 452
         }
       ]
@@ -322,7 +331,7 @@
         {
           "name": "Slalicornia",
           "code": "2262",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bsANrcajRV23YcQN_03KVw_1493745328696f42eeaa4df0_98253593_02820820XX1.jpg"
         },
         {
           "name": "Olibis",
@@ -618,5 +627,10 @@
         "a": "волокна. Вона зберігає структуру виробу і запобігає деформації в ліктях. ![](media/image96.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image97.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image98.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1588775792691f156da99291_86057950_02780740XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1244194360691f156e0b6c67_05072027_02780750XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fgjq8XA9RAyif0O1AdGoSQ_633554709691f156ae8bae4_59302424_02780670XX1.jpg"
+  ]
 }

@@ -16,17 +16,26 @@
     {
       "name": "Panna",
       "code": "0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1702573811692424d34b7382_33574360_02781340XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1702573811692424d34b7382_33574360_02781340XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1702573811692424d34b7382_33574360_02781340XX1.jpg"
+      ]
     },
     {
       "name": "Senape",
       "code": "1936",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1844512759692424d2892078_32836015_02781320XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1844512759692424d2892078_32836015_02781320XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1844512759692424d2892078_32836015_02781320XX1.jpg"
+      ]
     },
     {
       "name": "Melanzana",
       "code": "0759",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2011465512692424d2e88a74_22193304_02781330XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2011465512692424d2e88a74_22193304_02781330XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2011465512692424d2e88a74_22193304_02781330XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -100,7 +109,7 @@
         {
           "name": "Mlacaria",
           "code": "0970",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/74efb9cd-f75a-4ac5-903b-2b4b34e4fd86-removebg-preview.png"
         },
         {
           "name": "Morolo",
@@ -266,12 +275,12 @@
         {
           "name": "Mano",
           "code": "0202",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281019%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1019).png"
         },
         {
           "name": "Osten",
           "code": "0209",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000%20%284%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000 (4).jpg"
         }
       ]
     }
@@ -528,5 +537,10 @@
         "a": "Нагадайте, що pura lana vergine --- це натуральний терморегулятор. Вона відводить зайве тепло і дозволяє шкірі дихати, забезпечуючи комфортний мікроклімат як у прохолодному приміщенні, так і на вулиці. ![](media/image106.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image107.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1702573811692424d34b7382_33574360_02781340XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1844512759692424d2892078_32836015_02781320XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2011465512692424d2e88a74_22193304_02781330XX1.jpg"
+  ]
 }

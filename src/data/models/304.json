@@ -16,7 +16,10 @@
     {
       "name": "Var Nero Panna",
       "code": "3285",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0090.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0090.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0090.jpg"
+      ]
     }
   ],
   "looks": [
@@ -165,7 +168,7 @@
         {
           "name": "Ialofane",
           "code": "0101 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000%20%281%29.jpg",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000 (1).jpg",
           "modelId": 90
         }
       ]
@@ -385,5 +388,8 @@
         "a": "Меланж 3285 у чорно-білій гамі є нейтральною базою. Він ідеально гармоніює з будь-якими однотонними речами чорного, білого або пастельних відтінків, як у запропонованих нами Total Looks."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0090.jpg"
+  ]
 }

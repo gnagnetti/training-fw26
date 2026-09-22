@@ -16,7 +16,10 @@
     {
       "name": "Oro",
       "code": "0428",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/655962240692424e793fde8_95975775_02790750XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/655962240692424e793fde8_95975775_02790750XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/655962240692424e793fde8_95975775_02790750XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -94,7 +97,7 @@
         {
           "name": "Manos",
           "code": "0970",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000 (1).jpg"
         }
       ]
     }
@@ -342,5 +345,8 @@
         "a": ". складно поєднувати з Як показано у Vetrina 99, він ідеально гармоніює моїм гардеробом» з базовими кольорами (чорним, синім, сірим), працюючи як делікатний колірний акцент. ![](media/image203.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image204.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/655962240692424e793fde8_95975775_02790750XX1.jpg"
+  ]
 }

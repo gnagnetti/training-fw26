@@ -16,12 +16,18 @@
     {
       "name": "Blu",
       "code": "1227",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/597341675691f15a1bcb170_07541284_02781000XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/597341675691f15a1bcb170_07541284_02781000XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/597341675691f15a1bcb170_07541284_02781000XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/597341675691f15a1bcb170_07541284_02781000XX1.jpg"
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7f23c875/images/large/11300896086a1ff47deb0925_96035280_02861380XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7f23c875/images/large/11300896086a1ff47deb0925_96035280_02861380XX1.jpg?sw=500"
+      ]
     }
   ],
   "looks": [
@@ -137,7 +143,7 @@
         {
           "name": "Frascati",
           "code": "1227",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%287%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (7).png",
           "modelId": 395
         }
       ]
@@ -387,5 +393,9 @@
         "a": "босоніжками на тонкому каблуці, які підкреслять крихкість щиколотки під широким краєм брюк. ![](media/image134.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image135.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image136.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/597341675691f15a1bcb170_07541284_02781000XX1.jpg",
+    "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7f23c875/images/large/11300896086a1ff47deb0925_96035280_02861380XX1.jpg?sw=500"
+  ]
 }

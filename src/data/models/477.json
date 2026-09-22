@@ -16,7 +16,10 @@
     {
       "name": "Verde Militare Marrone",
       "code": "1729 0992",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/22486811691f159c0fa9a1_69307500_02780880XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/22486811691f159c0fa9a1_69307500_02780880XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/22486811691f159c0fa9a1_69307500_02780880XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -420,5 +423,8 @@
         "a": "фурнітура (блискавка та ґудзики) розрахована на довгу експлуатацію. ![](media/image160.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/22486811691f159c0fa9a1_69307500_02780880XX1.jpg"
+  ]
 }

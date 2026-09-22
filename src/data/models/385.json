@@ -16,12 +16,18 @@
     {
       "name": "Grigio Melange Panna",
       "code": "0838 0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2049573906691f156f184530_48041689_02790120XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2049573906691f156f184530_48041689_02790120XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2049573906691f156f184530_48041689_02790120XX1.jpg"
+      ]
     },
     {
       "name": "Castagna Rosa",
       "code": "2203 0372",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1757139112691f156cf0ef90_19905590_02780720XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1757139112691f156cf0ef90_19905590_02780720XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1757139112691f156cf0ef90_19905590_02780720XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -58,7 +64,7 @@
         {
           "name": "Osten E",
           "code": "0209",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000%20%284%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000 (4).jpg"
         }
       ]
     },
@@ -95,7 +101,7 @@
         {
           "name": "Osten",
           "code": "0202",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000%20%284%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000 (4).jpg"
         }
       ]
     },
@@ -170,7 +176,7 @@
         {
           "name": "Leila",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         },
         {
@@ -410,5 +416,9 @@
         "a": "Запропонуйте готове рішення від дизайнерів бренду — підібрати нижній пуловери Casilda або сорочки Leila, які шар ідеально підходять за кроєм та кольоровою гамою."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2049573906691f156f184530_48041689_02790120XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1757139112691f156cf0ef90_19905590_02780720XX1.jpg"
+  ]
 }

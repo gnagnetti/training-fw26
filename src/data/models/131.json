@@ -16,12 +16,18 @@
     {
       "name": "Blu",
       "code": "1270",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Oa1OALUhQTKc0szFpGj60A_1620258802696f435edcff88_75280408_02830350XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Oa1OALUhQTKc0szFpGj60A_1620258802696f435edcff88_75280408_02830350XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Oa1OALUhQTKc0szFpGj60A_1620258802696f435edcff88_75280408_02830350XX1.jpg"
+      ]
     },
     {
       "name": "Bordeaux",
       "code": "2435",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -372,5 +378,9 @@
         "a": "Вертикальна орієнтація паттерна та приталений крій (Regular fit) візуально витягують силует, надаючи фігурі стрункості та витонченості."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Oa1OALUhQTKc0szFpGj60A_1620258802696f435edcff88_75280408_02830350XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/TIY7-EzGS2aiWUKmv5MNjQ_1476171627696f435f9d8fe1_81528124_02830360XX1.jpg"
+  ]
 }

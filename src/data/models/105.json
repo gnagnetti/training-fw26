@@ -16,7 +16,10 @@
     {
       "name": "Var Panna Ruggine",
       "code": "3173",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2hzpCfH4RfeaLd4HduSNWg_1540085088696f42e0485205_82454446_02820410XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2hzpCfH4RfeaLd4HduSNWg_1540085088696f42e0485205_82454446_02820410XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2hzpCfH4RfeaLd4HduSNWg_1540085088696f42e0485205_82454446_02820410XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -68,7 +71,7 @@
         {
           "name": "Uramaky",
           "code": "0990",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky%20nero.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky nero.PNG"
         }
       ]
     },
@@ -376,5 +379,8 @@
         "a": "Щільність плетіння бавовни та шовку підібрана таким чином, щоб забезпечити благородну напівпрозорість, характерну для дорогих тканин, зберігаючи при цьому необхідну стриманість образу."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2hzpCfH4RfeaLd4HduSNWg_1540085088696f42e0485205_82454446_02820410XX1.jpg"
+  ]
 }

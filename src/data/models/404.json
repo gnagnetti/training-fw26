@@ -16,7 +16,10 @@
     {
       "name": "Var Nero Crema",
       "code": "3410",
-      "imageUrl": null
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwfa0e8796/images/large/10268765876a1ff3aae0c7c2_61444837_02860440XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwfa0e8796/images/large/10268765876a1ff3aae0c7c2_61444837_02860440XX1.jpg?sw=500"
+      ]
     }
   ],
   "looks": [
@@ -350,5 +353,8 @@
         "a": "де на першому місці стоїть якість тканини."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwfa0e8796/images/large/10268765876a1ff3aae0c7c2_61444837_02860440XX1.jpg?sw=500"
+  ]
 }

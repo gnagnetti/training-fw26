@@ -16,12 +16,18 @@
     {
       "name": "Celeste",
       "code": "0620",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1hGKdyecTBqaCk9fqoZ-fw_1206728860696f4369a3c3b5_02291338_02830730XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1hGKdyecTBqaCk9fqoZ-fw_1206728860696f4369a3c3b5_02291338_02830730XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1hGKdyecTBqaCk9fqoZ-fw_1206728860696f4369a3c3b5_02291338_02830730XX1.jpg"
+      ]
     },
     {
       "name": "Marrone",
       "code": "0970",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/O6mLi2foTByXD_ntjMO28w_111968251696f436a2c6170_84066799_02830740XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/O6mLi2foTByXD_ntjMO28w_111968251696f436a2c6170_84066799_02830740XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/O6mLi2foTByXD_ntjMO28w_111968251696f436a2c6170_84066799_02830740XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -69,7 +75,7 @@
         {
           "name": "Leila",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         },
         {
@@ -117,7 +123,7 @@
         {
           "name": "Uramaky",
           "code": "0990",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky%20nero.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky nero.PNG"
         },
         {
           "name": "Navigero",
@@ -127,7 +133,7 @@
         {
           "name": "Leila",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         }
       ]
@@ -423,5 +429,9 @@
         "a": "Ми рекомендуємо професійну суху чистку. Це інвестиція в довговічність вашого гардероба, яка дозволить зберегти структуру плетіння та унікальну м'якість 100% вовни Merinfleur."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1hGKdyecTBqaCk9fqoZ-fw_1206728860696f4369a3c3b5_02291338_02830730XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/O6mLi2foTByXD_ntjMO28w_111968251696f436a2c6170_84066799_02830740XX1.jpg"
+  ]
 }

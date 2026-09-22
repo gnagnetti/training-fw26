@@ -16,17 +16,26 @@
     {
       "name": "Bordeaux",
       "code": "2445",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1368746391691f159ba2d2d8_92724591_02780870XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1368746391691f159ba2d2d8_92724591_02780870XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1368746391691f159ba2d2d8_92724591_02780870XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/306742918691f159adb4f80_06607702_02780850XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/306742918691f159adb4f80_06607702_02780850XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/306742918691f159adb4f80_06607702_02780850XX1.jpg"
+      ]
     },
     {
       "name": "Verde Oliva",
       "code": "1747",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/872618733691f15a373c4f5_92660832_02781040XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/872618733691f15a373c4f5_92660832_02781040XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/872618733691f15a373c4f5_92660832_02781040XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -68,7 +77,7 @@
         {
           "name": "Ulisside",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview (2).png"
         }
       ]
     },
@@ -99,7 +108,7 @@
         {
           "name": "Mlacaria",
           "code": "0101",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1c1747b9-ac92-471a-ae98-e3c1b6b2eb99-removebg-preview.png"
         },
         {
           "name": "Ornago",
@@ -141,7 +150,7 @@
         {
           "name": "Manos",
           "code": "2435",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         },
         {
           "name": "Flacone",
@@ -215,7 +224,7 @@
         {
           "name": "Leila",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         },
         {
@@ -491,5 +500,10 @@
         "a": "і надати образу динаміки."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1368746391691f159ba2d2d8_92724591_02780870XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/306742918691f159adb4f80_06607702_02780850XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/872618733691f15a373c4f5_92660832_02781040XX1.jpg"
+  ]
 }

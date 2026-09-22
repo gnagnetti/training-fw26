@@ -16,17 +16,26 @@
     {
       "name": "Blu",
       "code": "1221",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/i2e0LUF3RDeiroccYAfYLg_2093400656696f42e5710f44_40363493_02820620XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/i2e0LUF3RDeiroccYAfYLg_2093400656696f42e5710f44_40363493_02820620XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/i2e0LUF3RDeiroccYAfYLg_2093400656696f42e5710f44_40363493_02820620XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YFFY1s4iR8mmZlK3FNEjEQ_850058026696f42e4f083b6_29969679_02820610XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YFFY1s4iR8mmZlK3FNEjEQ_850058026696f42e4f083b6_29969679_02820610XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YFFY1s4iR8mmZlK3FNEjEQ_850058026696f42e4f083b6_29969679_02820610XX1.jpg"
+      ]
     },
     {
       "name": "Rubino",
       "code": "2446",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OBHYTOGMQBaSb5Sw8RcPPQ_663073251696f42e6227508_06588102_02820630XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OBHYTOGMQBaSb5Sw8RcPPQ_663073251696f42e6227508_06588102_02820630XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OBHYTOGMQBaSb5Sw8RcPPQ_663073251696f42e6227508_06588102_02820630XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -68,7 +77,7 @@
         {
           "name": "Logge B",
           "code": "1221",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/logge%20blu.PNG",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/logge blu.PNG",
           "modelId": 423
         }
       ]
@@ -111,7 +120,7 @@
         {
           "name": "Lezioni",
           "code": "2446",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LEZIONI_224600000000%20%281%29.jpg",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LEZIONI_224600000000 (1).jpg",
           "modelId": 415
         }
       ]
@@ -452,5 +461,10 @@
         "a": "Продемонструйте можливості стайлінгу: у поєднанні з лаконічним кашеміровим трикотажем штани Offida перетворюються на вишуканий елемент денного образу для особливих випадків."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/i2e0LUF3RDeiroccYAfYLg_2093400656696f42e5710f44_40363493_02820620XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/YFFY1s4iR8mmZlK3FNEjEQ_850058026696f42e4f083b6_29969679_02820610XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OBHYTOGMQBaSb5Sw8RcPPQ_663073251696f42e6227508_06588102_02820630XX1.jpg"
+  ]
 }

@@ -16,7 +16,10 @@
     {
       "name": "Bianco",
       "code": "0201",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -441,5 +444,8 @@
         "a": "просто база, а самостійний стейтмент-об'єкт, здатний оновити будь-який звичний костюм. ![](media/image58.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg"
+  ]
 }

@@ -16,17 +16,26 @@
     {
       "name": "Nero Oro",
       "code": "0101 2302",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dcF6HOVdQ7iqWehI_upkTg_1751198497696f435dea6910_55225797_02830330XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dcF6HOVdQ7iqWehI_upkTg_1751198497696f435dea6910_55225797_02830330XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dcF6HOVdQ7iqWehI_upkTg_1751198497696f435dea6910_55225797_02830330XX1.jpg"
+      ]
     },
     {
       "name": "Nocciola Oro",
       "code": "1105 2302",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VpGJSiTCR6KovTVV5ZpWMA_2113102145696f435e76c3d1_04142034_02830340XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VpGJSiTCR6KovTVV5ZpWMA_2113102145696f435e76c3d1_04142034_02830340XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VpGJSiTCR6KovTVV5ZpWMA_2113102145696f435e76c3d1_04142034_02830340XX1.jpg"
+      ]
     },
     {
       "name": "Panna Oro",
       "code": "0202 0428",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dcF6HOVdQ7iqWehI_upkTg_1751198497696f435dea6910_55225797_02830330XX1.jpg"
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3dcebde4/images/large/2926951386a43ac2ea6c821_06985318.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3dcebde4/images/large/2926951386a43ac2ea6c821_06985318.jpg?sw=500"
+      ]
     }
   ],
   "looks": [
@@ -403,5 +412,10 @@
         "a": "Ми наполегливо рекомендуємо професійну хімчистку, щоб надовго зберегти пухнасту текстуру мохеру та первісний блиск люрексу."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dcF6HOVdQ7iqWehI_upkTg_1751198497696f435dea6910_55225797_02830330XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/VpGJSiTCR6KovTVV5ZpWMA_2113102145696f435e76c3d1_04142034_02830340XX1.jpg",
+    "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3dcebde4/images/large/2926951386a43ac2ea6c821_06985318.jpg?sw=500"
+  ]
 }

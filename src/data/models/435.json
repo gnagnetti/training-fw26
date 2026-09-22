@@ -16,12 +16,18 @@
     {
       "name": "Grigio Scuro",
       "code": "0846",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/148084481691c578e6c3c80_36711670_02790010XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/148084481691c578e6c3c80_36711670_02790010XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/148084481691c578e6c3c80_36711670_02790010XX1.jpg"
+      ]
     },
     {
       "name": "Cammello",
       "code": "2246",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/358978118691f15726496d0_52174510_02790310XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/358978118691f15726496d0_52174510_02790310XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/358978118691f15726496d0_52174510_02790310XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -479,5 +485,9 @@
         "a": "у стилі Fashion Show. ![](media/image78.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image79.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image80.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
-  }
+  },
+  "gallery": [
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/148084481691c578e6c3c80_36711670_02790010XX1.jpg",
+    "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/358978118691f15726496d0_52174510_02790310XX1.jpg"
+  ]
 }
