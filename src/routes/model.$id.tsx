@@ -77,6 +77,10 @@ function ModelPage() {
   const [pdfState, setPdfState] = useState<"idle" | "loading" | "error">("idle");
 
   const hero = heroImage(model);
+  const shownImages = new Set<string>(
+    model.colors.flatMap((c) => (c.imageUrls && c.imageUrls.length > 0 ? c.imageUrls : c.imageUrl ? [c.imageUrl] : [])),
+  );
+  const extraImages = (model.gallery ?? []).filter((u) => !shownImages.has(u));
   const advice =
     model.advice[lang] && model.advice[lang].length > 0
       ? model.advice[lang]
@@ -143,22 +147,41 @@ function ModelPage() {
       {model.colors.length > 0 && (
         <Section title={t("colors")}>
           <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
-            {model.colors.map((c) => (
-              <figure key={`${c.name}-${c.code}`}>
-                <ImageTile
-                  src={c.imageUrl}
-                  alt={`${model.name} ${c.name}`}
-                  className="aspect-[3/4] w-full"
-                  onClick={() =>
-                    c.imageUrl &&
-                    setZoom({ src: c.imageUrl, caption: `${model.name} — ${c.name} (${c.code})` })
-                  }
-                />
-                <figcaption className="mt-1.5 text-xs leading-snug text-foreground">
-                  {c.name}
-                  <span className="block text-[11px] text-muted-foreground">({c.code})</span>
-                </figcaption>
-              </figure>
+            {model.colors.flatMap((c) => {
+              const urls = c.imageUrls && c.imageUrls.length > 0 ? c.imageUrls : [c.imageUrl];
+              return urls.map((url, idx) => (
+                <figure key={`${c.name}-${c.code}-${idx}`}>
+                  <ImageTile
+                    src={url}
+                    alt={`${model.name} ${c.name}`}
+                    className="aspect-[3/4] w-full"
+                    onClick={() =>
+                      url &&
+                      setZoom({ src: url, caption: `${model.name} — ${c.name} (${c.code})` })
+                    }
+                  />
+                  <figcaption className="mt-1.5 text-xs leading-snug text-foreground">
+                    {c.name}
+                    <span className="block text-[11px] text-muted-foreground">({c.code})</span>
+                  </figcaption>
+                </figure>
+              ));
+            })}
+          </div>
+        </Section>
+      )}
+
+      {extraImages.length > 0 && (
+        <Section title={t("colors")}>
+          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
+            {extraImages.map((url, i) => (
+              <ImageTile
+                key={url}
+                src={url}
+                alt={`${model.name} ${i + 1}`}
+                className="aspect-[3/4] w-full"
+                onClick={() => setZoom({ src: url, caption: model.name })}
+              />
             ))}
           </div>
         </Section>

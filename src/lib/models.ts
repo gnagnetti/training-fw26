@@ -6,6 +6,7 @@ export interface ColorVariant {
   name: string;
   code: string;
   imageUrl: string | null;
+  imageUrls?: string[];
 }
 
 export interface OutfitItem {
@@ -48,6 +49,7 @@ export interface Model {
   looks: Look[];
   advice: Record<string, string[]>;
   objections: Record<string, Objection[]>;
+  gallery?: string[];
 }
 
 export const modelIndex: { id: number; name: string }[] = index;
