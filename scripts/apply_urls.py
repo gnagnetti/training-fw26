@@ -89,6 +89,13 @@ for path in sorted(glob.glob(os.path.join(ROOT, "src/data/models/*.json"))):
             stats["colors_ok"] += 1
         else:
             stats["colors_missing"] += 1
+    rn = resolve_name(norm_name(d["name"]))
+    gallery = list(by_name.get(rn, [])) if rn else []
+    if d.get("gallery") != gallery:
+        changed = True
+    d["gallery"] = gallery
+    stats["gallery_imgs"] += len(gallery)
+
     for look in d.get("looks", []):
         for it in look.get("items", []):
             urls = lookup(it.get("name", ""), it.get("code", ""))
