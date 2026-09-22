@@ -16,7 +16,10 @@
     {
       "name": "Var Spinato Verde",
       "code": "3418",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LUNOTTO_0.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LUNOTTO_0.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LUNOTTO_0.jpg"
+      ]
     }
   ],
   "looks": [

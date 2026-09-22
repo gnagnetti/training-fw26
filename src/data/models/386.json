@@ -16,7 +16,10 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1793823539691c5782a10598_51289165_02780010XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -59,7 +62,7 @@
         {
           "name": "Manos F",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Cremina",
@@ -134,12 +137,12 @@
         {
           "name": "Single",
           "code": "2731 1167",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1331191701691c578853baa0_07542947_02780150XX1.jpg"
         },
         {
           "name": "Clips",
           "code": "1161",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/n9YQHX-WRFK_XqIYbVmWuA_1927036083696f4372bb92b0_86901760_02831050XX1.jpg"
         },
         {
           "name": "Contagiri",
@@ -223,7 +226,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         }
       ]
     },
@@ -260,12 +263,12 @@
         {
           "name": "Mlacaria",
           "code": "0101",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1c1747b9-ac92-471a-ae98-e3c1b6b2eb99-removebg-preview.png"
         },
         {
           "name": "Rloaschia",
           "code": "3359",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/roaschi.png"
         }
       ]
     }

@@ -16,12 +16,18 @@
     {
       "name": "Cioccolato",
       "code": "0987",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0fciOmWLSOKx_DqL-UXBYw_1247342274696f42fff21e07_39452345_02821220XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0fciOmWLSOKx_DqL-UXBYw_1247342274696f42fff21e07_39452345_02821220XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0fciOmWLSOKx_DqL-UXBYw_1247342274696f42fff21e07_39452345_02821220XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bjr89i15TKOAEm6clqi2Pg_1337518141696f42ff914c67_98886619_02821210XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bjr89i15TKOAEm6clqi2Pg_1337518141696f42ff914c67_98886619_02821210XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bjr89i15TKOAEm6clqi2Pg_1337518141696f42ff914c67_98886619_02821210XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -57,7 +63,7 @@
         {
           "name": "Ulisside",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview (2).png"
         },
         {
           "name": "Ricci",
@@ -67,7 +73,7 @@
         {
           "name": "Uboldo",
           "code": "0101 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281022%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1022).png"
         }
       ]
     },
@@ -114,7 +120,7 @@
         {
           "name": "Xariel A",
           "code": "3307 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-10%20at%2014.20.26%20%282%29.jpeg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp Image 2025-12-10 at 14.20.26 (2).jpeg"
         }
       ]
     },

@@ -16,7 +16,10 @@
     {
       "name": "Oro",
       "code": "0428",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0169%20%281%29.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0169 (1).jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0169 (1).jpg"
+      ]
     }
   ],
   "looks": [

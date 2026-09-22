@@ -16,17 +16,26 @@
     {
       "name": "Marrone",
       "code": "0970",
-      "imageUrl": null
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc33037a2/images/large/19927620526a201b971e7ee0_43285351_02870620XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc33037a2/images/large/19927620526a201b971e7ee0_43285351_02870620XX1.jpg?sw=500"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": null
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2849a6cc/images/large/12792768306a201b9633c867_61450769_02870600XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2849a6cc/images/large/12792768306a201b9633c867_61450769_02870600XX1.jpg?sw=500"
+      ]
     },
     {
       "name": "Panna",
       "code": "0202",
-      "imageUrl": null
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2a29f351/images/large/849640606a201b96a04e52_64156267_02870610XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2a29f351/images/large/849640606a201b96a04e52_64156267_02870610XX1.jpg?sw=500"
+      ]
     }
   ],
   "looks": [

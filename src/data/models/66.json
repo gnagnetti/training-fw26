@@ -16,7 +16,10 @@
     {
       "name": "Oro",
       "code": "0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GALALITE_0%20%281%29.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GALALITE_0 (1).jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GALALITE_0 (1).jpg"
+      ]
     }
   ],
   "looks": [
@@ -47,7 +50,7 @@
         {
           "name": "Galalite",
           "code": "0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GALALITE_0%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GALALITE_0 (1).jpg"
         },
         {
           "name": "Iroise",
@@ -84,7 +87,7 @@
         {
           "name": "Galalite",
           "code": "0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GALALITE_0%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GALALITE_0 (1).jpg"
         },
         {
           "name": "Neanide",

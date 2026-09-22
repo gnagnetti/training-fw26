@@ -16,12 +16,18 @@
     {
       "name": "Var Bluette",
       "code": "3441",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/w7ia5WvoTAeZwlznKmkrsw_293308709696f4377880a32_37996036_02831200XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/w7ia5WvoTAeZwlznKmkrsw_293308709696f4377880a32_37996036_02831200XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/w7ia5WvoTAeZwlznKmkrsw_293308709696f4377880a32_37996036_02831200XX1.jpg"
+      ]
     },
     {
       "name": "Var Cammello",
       "code": "3374",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/figTUWpoTa2gZPu9oRzUfA_931594082696f43771a2813_21938047_02831190XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/figTUWpoTa2gZPu9oRzUfA_931594082696f43771a2813_21938047_02831190XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/figTUWpoTa2gZPu9oRzUfA_931594082696f43771a2813_21938047_02831190XX1.jpg"
+      ]
     }
   ],
   "looks": [

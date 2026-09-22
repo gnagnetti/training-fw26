@@ -16,7 +16,10 @@
     {
       "name": "Cuoio",
       "code": "2226",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2028777710691c57c6d3c711_09306569_02780350XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2028777710691c57c6d3c711_09306569_02780350XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2028777710691c57c6d3c711_09306569_02780350XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -90,13 +93,13 @@
         {
           "name": "Leila",
           "code": "0684",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         },
         {
           "name": "Manos",
           "code": "0970",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000 (1).jpg"
         },
         {
           "name": "Onirico",
@@ -155,7 +158,7 @@
         {
           "name": "LS1928P",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     },
@@ -192,7 +195,7 @@
         {
           "name": "Leila",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         },
         {
@@ -272,7 +275,7 @@
         {
           "name": "Mlacaria",
           "code": "0970",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/74efb9cd-f75a-4ac5-903b-2b4b34e4fd86-removebg-preview.png"
         },
         {
           "name": "Lucinda",

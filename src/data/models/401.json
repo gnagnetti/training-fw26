@@ -16,12 +16,18 @@
     {
       "name": "Var Fondo Nero",
       "code": "4622",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/309593506691c57c3ec0014_79340618_02780280XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/309593506691c57c3ec0014_79340618_02780280XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/309593506691c57c3ec0014_79340618_02780280XX1.jpg"
+      ]
     },
     {
       "name": "Var Fondo Verde",
       "code": "4614",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ceb2bbb3-0ee3-42ef-b61d-e401d3dd094d.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ceb2bbb3-0ee3-42ef-b61d-e401d3dd094d.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ceb2bbb3-0ee3-42ef-b61d-e401d3dd094d.jpg"
+      ]
     }
   ],
   "looks": [

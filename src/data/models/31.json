@@ -16,12 +16,18 @@
     {
       "name": "Castagna Oro",
       "code": "2203 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ibis%20colore.PNG"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ibis colore.PNG",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ibis colore.PNG"
+      ]
     },
     {
       "name": "Savana Fango Oro",
       "code": "2726 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/DINDI_121700930000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/DINDI_121700930000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/DINDI_121700930000.jpg"
+      ]
     }
   ],
   "looks": [
@@ -52,7 +58,7 @@
         {
           "name": "Dindi B",
           "code": "2203 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ibis%20colore.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ibis colore.PNG"
         },
         {
           "name": "Maurilia",
@@ -63,7 +69,7 @@
         {
           "name": "Mano H",
           "code": "0202",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281019%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1019).png"
         },
         {
           "name": "Onirico",
@@ -79,7 +85,7 @@
         {
           "name": "Xnina A",
           "code": "3248 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-12%20at%2010.52.59.jpeg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp Image 2025-12-12 at 10.52.59.jpeg"
         }
       ]
     }

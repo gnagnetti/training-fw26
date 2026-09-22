@@ -16,22 +16,36 @@
     {
       "name": "Blu Oro",
       "code": "1227 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000.jpg"
+      ]
     },
     {
       "name": "Marrone Oro",
       "code": "0993 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bY6wJXy6TvKLy7-5erDxaA_2108574309696f42209cb429_45584211_02800660XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bY6wJXy6TvKLy7-5erDxaA_2108574309696f42209cb429_45584211_02800660XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bY6wJXy6TvKLy7-5erDxaA_2108574309696f42209cb429_45584211_02800660XX1.jpg"
+      ]
     },
     {
       "name": "Nero Oro",
       "code": "0101 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000%20%281%29.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000 (1).jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000 (1).jpg"
+      ]
     },
     {
       "name": "Rubino Oro",
       "code": "2446 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000.jpg",
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bY6wJXy6TvKLy7-5erDxaA_2108574309696f42209cb429_45584211_02800660XX1.jpg",
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000 (1).jpg"
+      ]
     }
   ],
   "looks": [
@@ -159,7 +173,7 @@
         {
           "name": "Ialofane",
           "code": "0101 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IALOFANE_10100020000 (1).jpg"
         }
       ]
     }

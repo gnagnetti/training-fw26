@@ -16,7 +16,10 @@
     {
       "name": "Var Nero Panna Spina Marrone",
       "code": "3470 0913",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0672eeac-225d-415a-a979-5986802b98c8-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0672eeac-225d-415a-a979-5986802b98c8-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0672eeac-225d-415a-a979-5986802b98c8-removebg-preview.png"
+      ]
     }
   ],
   "looks": [
@@ -105,7 +108,7 @@
         {
           "name": "Manos F",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Morolo",
@@ -116,7 +119,7 @@
         {
           "name": "Ls1928p A",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     }

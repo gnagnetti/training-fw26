@@ -16,17 +16,26 @@
     {
       "name": "Crema",
       "code": "0204",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/251063478691f156bce6dc9_00247433_02780690XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/251063478691f156bce6dc9_00247433_02780690XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/251063478691f156bce6dc9_00247433_02780690XX1.jpg"
+      ]
     },
     {
       "name": "Verde Bottiglia",
       "code": "2050",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39848814691c579160a923_62691960_02790080XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39848814691c579160a923_62691960_02790080XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39848814691c579160a923_62691960_02790080XX1.jpg"
+      ]
     },
     {
       "name": "Melanzana",
       "code": "0759",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1136552101691c5791c992f1_52218978_02790090XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1136552101691c5791c992f1_52218978_02790090XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1136552101691c5791c992f1_52218978_02790090XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -141,7 +150,7 @@
         {
           "name": "Minuccio A",
           "code": "2050",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281016%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1016).png",
           "modelId": 177
         }
       ]

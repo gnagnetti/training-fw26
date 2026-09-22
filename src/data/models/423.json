@@ -16,12 +16,18 @@
     {
       "name": "Blu",
       "code": "1221",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/logge%20blu.PNG"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/logge blu.PNG",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/logge blu.PNG"
+      ]
     },
     {
       "name": "Platino",
       "code": "1133",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1660075475692424d0126fa6_77222965_02781250XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1660075475692424d0126fa6_77222965_02781250XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1660075475692424d0126fa6_77222965_02781250XX1.jpg"
+      ]
     }
   ],
   "looks": [

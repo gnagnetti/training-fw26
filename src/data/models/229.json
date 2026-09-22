@@ -16,22 +16,34 @@
     {
       "name": "Smeraldo Nickel Oro",
       "code": "2003 0001 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/5e495676-4dc4-4958-88c6-5bee6e785f5b-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/5e495676-4dc4-4958-88c6-5bee6e785f5b-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/5e495676-4dc4-4958-88c6-5bee6e785f5b-removebg-preview.png"
+      ]
     },
     {
       "name": "Blu Nickel Oro",
       "code": "1204 0001 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/notabili2.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/notabili2.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/notabili2.png"
+      ]
     },
     {
       "name": "Nickel Oro",
       "code": "0001 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/notabili1000.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/notabili1000.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/notabili1000.png"
+      ]
     },
     {
       "name": "Topazio Nickel Oro",
       "code": "0069 0001 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Cattura%20%282%29.PNG"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Cattura (2).PNG",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Cattura (2).PNG"
+      ]
     }
   ],
   "looks": [
@@ -62,7 +74,7 @@
         {
           "name": "Notabili",
           "code": "0069 0001 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Cattura%20%282%29.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Cattura (2).PNG"
         },
         {
           "name": "Lotty",
@@ -119,7 +131,7 @@
         {
           "name": "Notabili",
           "code": "0069 0001 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Cattura%20%282%29.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Cattura (2).PNG"
         },
         {
           "name": "Gradis",

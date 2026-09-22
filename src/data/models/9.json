@@ -16,7 +16,10 @@
     {
       "name": "Celeste",
       "code": "0637",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ippR9KCMQ_GOpzZe1V_CHA_2090121335696f4357bc02b2_65815731_02830110XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ippR9KCMQ_GOpzZe1V_CHA_2090121335696f4357bc02b2_65815731_02830110XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ippR9KCMQ_GOpzZe1V_CHA_2090121335696f4357bc02b2_65815731_02830110XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -68,7 +71,7 @@
         {
           "name": "Uramaky",
           "code": "0990",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky%20nero.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky nero.PNG"
         }
       ]
     }

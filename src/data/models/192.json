@@ -16,52 +16,82 @@
     {
       "name": "Marrone",
       "code": "0970",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7b9e70ac-1f12-46cb-beea-852f7a2328f9-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7b9e70ac-1f12-46cb-beea-852f7a2328f9-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7b9e70ac-1f12-46cb-beea-852f7a2328f9-removebg-preview.png"
+      ]
     },
     {
       "name": "Grigio Scuro",
       "code": "0846",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7b9e70ac-1f12-46cb-beea-852f7a2328f9-removebg-preview.png"
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbc3e6d65/images/large/15908575026a44dc4b49c640_37594394.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbc3e6d65/images/large/15908575026a44dc4b49c640_37594394.jpg?sw=500"
+      ]
     },
     {
       "name": "Beige",
       "code": "1117",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/424744066692424e6cb3288_17813942_02790660XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/424744066692424e6cb3288_17813942_02790660XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/424744066692424e6cb3288_17813942_02790660XX1.jpg"
+      ]
     },
     {
       "name": "Beige",
       "code": "1196",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1521180938691c57957f00e9_43412502_02790690XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1521180938691c57957f00e9_43412502_02790690XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1521180938691c57957f00e9_43412502_02790690XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAB_10100000000%20%284%29.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAB_10100000000 (4).jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAB_10100000000 (4).jpg"
+      ]
     },
     {
       "name": "Panna",
       "code": "0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAC_20200000000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAC_20200000000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAC_20200000000.jpg"
+      ]
     },
     {
       "name": "Rosa",
       "code": "0319",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/mossa1.PNG"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/mossa1.PNG",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/mossa1.PNG"
+      ]
     },
     {
       "name": "Senape",
       "code": "1936",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1502023806691c5795df5d54_53746819_02790700XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1502023806691c5795df5d54_53746819_02790700XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1502023806691c5795df5d54_53746819_02790700XX1.jpg"
+      ]
     },
     {
       "name": "Verde Bottiglia",
       "code": "2050",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/905979432691c579646ed87_60926812_02790710XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/905979432691c579646ed87_60926812_02790710XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/905979432691c579646ed87_60926812_02790710XX1.jpg"
+      ]
     },
     {
       "name": "Melanzana",
       "code": "0759",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281018%29.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1018).png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1018).png"
+      ]
     }
   ],
   "looks": [
@@ -92,7 +122,7 @@
         {
           "name": "Mossa G",
           "code": "0759",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281018%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1018).png"
         },
         {
           "name": "Moles",
@@ -103,7 +133,7 @@
         {
           "name": "Minuccio A",
           "code": "0759",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281017%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1017).png",
           "modelId": 177
         }
       ]
@@ -135,7 +165,7 @@
         {
           "name": "Mossa G",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAB_10100000000%20%284%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MOSSAB_10100000000 (4).jpg"
         },
         {
           "name": "Solarita",

@@ -16,7 +16,10 @@
     {
       "name": "Var Maculato Marrone Nero Nero",
       "code": "3439 0101 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281030%29.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1030).png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1030).png"
+      ]
     }
   ],
   "looks": [
@@ -47,12 +50,12 @@
         {
           "name": "Soriano",
           "code": "3439 0101 0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281030%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1030).png"
         },
         {
           "name": "Manos F",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Oneta",
@@ -63,7 +66,7 @@
         {
           "name": "Urbana",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%2827%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (27).png"
         }
       ]
     },
@@ -94,7 +97,7 @@
         {
           "name": "Soriano",
           "code": "3439 0101 0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281030%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1030).png"
         },
         {
           "name": "Lucinda",
@@ -104,7 +107,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Oneta",

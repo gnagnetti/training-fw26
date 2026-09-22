@@ -16,7 +16,10 @@
     {
       "name": "Var Fondo Marrone",
       "code": "4575",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2116079218691f15633b8343_02949261_02780520XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2116079218691f15633b8343_02949261_02780520XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2116079218691f15633b8343_02949261_02780520XX1.jpg"
+      ]
     }
   ],
   "looks": [

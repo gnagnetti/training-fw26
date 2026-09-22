@@ -16,12 +16,18 @@
     {
       "name": "Marrone Oro",
       "code": "0968 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NDDXZlsZRQ-5m0qisclEew_1647479317696f420deafbd7_64681520_02800420XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NDDXZlsZRQ-5m0qisclEew_1647479317696f420deafbd7_64681520_02800420XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NDDXZlsZRQ-5m0qisclEew_1647479317696f420deafbd7_64681520_02800420XX1.jpg"
+      ]
     },
     {
       "name": "Nero Oro",
       "code": "0101 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/XkJU4saiTOKrQW4-ebp-KQ_417074898696f420c3fdff2_82132830_02800400XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/XkJU4saiTOKrQW4-ebp-KQ_417074898696f420c3fdff2_82132830_02800400XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/XkJU4saiTOKrQW4-ebp-KQ_417074898696f420c3fdff2_82132830_02800400XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -52,13 +58,13 @@
         {
           "name": "Soresina",
           "code": "0101 0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281029%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1029).png",
           "modelId": 330
         },
         {
           "name": "Manos F",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Oneta",
@@ -105,18 +111,18 @@
         {
           "name": "Scolpito",
           "code": "0101 0913",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0091%20%282%29.jpg",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0091 (2).jpg",
           "modelId": 305
         },
         {
           "name": "Manos F",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Ulisside",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview (2).png"
         },
         {
           "name": "Damiana",

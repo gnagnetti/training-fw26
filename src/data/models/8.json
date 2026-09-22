@@ -16,7 +16,10 @@
     {
       "name": "Marrone Oro",
       "code": "0952 0428",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0128%20%281%29.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0128 (1).jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0128 (1).jpg"
+      ]
     }
   ],
   "looks": [
@@ -47,7 +50,7 @@
         {
           "name": "Cavina",
           "code": "0952 0428",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0128%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0128 (1).jpg"
         },
         {
           "name": "Latteria",
@@ -64,7 +67,7 @@
         {
           "name": "Iri",
           "code": "0970 0002",
-          "imageUrl": null
+          "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc33037a2/images/large/19927620526a201b971e7ee0_43285351_02870620XX1.jpg?sw=500"
         }
       ]
     },

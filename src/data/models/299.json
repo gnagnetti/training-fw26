@@ -16,7 +16,10 @@
     {
       "name": "Cioccolato",
       "code": "0985",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9N1WYFCYQiyYLLWef1_qQw_1966625180696f42f0e46ef9_00176441_02820860XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9N1WYFCYQiyYLLWef1_qQw_1966625180696f42f0e46ef9_00176441_02820860XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/9N1WYFCYQiyYLLWef1_qQw_1966625180696f42f0e46ef9_00176441_02820860XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -72,7 +75,7 @@
         {
           "name": "Manos",
           "code": "0970",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000 (1).jpg"
         }
       ]
     }

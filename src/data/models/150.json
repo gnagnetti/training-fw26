@@ -16,12 +16,18 @@
     {
       "name": "Nero Nero",
       "code": "0101 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39a5d911-b2c6-4ed8-9b34-d8898a311c62-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39a5d911-b2c6-4ed8-9b34-d8898a311c62-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39a5d911-b2c6-4ed8-9b34-d8898a311c62-removebg-preview.png"
+      ]
     },
     {
       "name": "Panna Panna",
       "code": "0202 0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/39a5d911-b2c6-4ed8-9b34-d8898a311c62-removebg-preview.png"
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw400cd315/images/large/02870550XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw400cd315/images/large/02870550XX1.jpg?sw=500"
+      ]
     }
   ],
   "looks": [
@@ -63,7 +69,7 @@
         {
           "name": "Ls1928p",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     }

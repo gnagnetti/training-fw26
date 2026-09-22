@@ -16,7 +16,10 @@
     {
       "name": "Var Maculato Marrone Nero",
       "code": "3390 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANCANTE_339000000000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANCANTE_339000000000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANCANTE_339000000000.jpg"
+      ]
     }
   ],
   "looks": [

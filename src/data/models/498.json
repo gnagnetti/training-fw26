@@ -16,17 +16,26 @@
     {
       "name": "Arancio Arancio",
       "code": "1575 1575",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1565620198691f159d236851_64658413_02780910XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1565620198691f159d236851_64658413_02780910XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1565620198691f159d236851_64658413_02780910XX1.jpg"
+      ]
     },
     {
       "name": "Blu Blu",
       "code": "1206 1206",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/437278670691f159e0d1786_03754090_02780920XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/437278670691f159e0d1786_03754090_02780920XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/437278670691f159e0d1786_03754090_02780920XX1.jpg"
+      ]
     },
     {
       "name": "Grigio Melange Grigio",
       "code": "0817 1022",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/144663504692424e1b33464_10342439_02781750XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/144663504692424e1b33464_10342439_02781750XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/144663504692424e1b33464_10342439_02781750XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -63,7 +72,7 @@
         {
           "name": "Manos",
           "code": "0821",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         },
         {
           "name": "Olla",
@@ -268,7 +277,7 @@
         {
           "name": "Manos",
           "code": "0951",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         },
         {
           "name": "Fulcro",
@@ -305,7 +314,7 @@
         {
           "name": "Manos",
           "code": "0951",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         },
         {
           "name": "Orlato",

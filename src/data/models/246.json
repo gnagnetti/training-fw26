@@ -16,7 +16,10 @@
     {
       "name": "Var Marrone",
       "code": "3404",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-zYTZ534RoOB5w7RExMFfw_226965868696f42e6eeab90_44429190_02820650XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-zYTZ534RoOB5w7RExMFfw_226965868696f42e6eeab90_44429190_02820650XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-zYTZ534RoOB5w7RExMFfw_226965868696f42e6eeab90_44429190_02820650XX1.jpg"
+      ]
     }
   ],
   "looks": [

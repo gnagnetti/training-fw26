@@ -16,12 +16,18 @@
     {
       "name": "Marrone",
       "code": "0961",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg"
+      ]
     },
     {
       "name": "Verde Bottiglia",
       "code": "2046",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1221525958691c57c296ff08_45494514_02780250XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1221525958691c57c296ff08_45494514_02780250XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1221525958691c57c296ff08_45494514_02780250XX1.jpg"
+      ]
     }
   ],
   "looks": [

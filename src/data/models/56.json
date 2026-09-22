@@ -16,7 +16,10 @@
     {
       "name": "Var Beige Nocciola",
       "code": "3274",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7yuoR1bWTgyth5POk6xtow_2013389323696f422d086a32_26895525_02820060XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7yuoR1bWTgyth5POk6xtow_2013389323696f422d086a32_26895525_02820060XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7yuoR1bWTgyth5POk6xtow_2013389323696f422d086a32_26895525_02820060XX1.jpg"
+      ]
     }
   ],
   "looks": [

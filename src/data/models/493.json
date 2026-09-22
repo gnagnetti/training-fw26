@@ -16,12 +16,18 @@
     {
       "name": "Blu Blu",
       "code": "1227 1227",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/177383321692424dde8ffc5_33514197_02781670XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/177383321692424dde8ffc5_33514197_02781670XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/177383321692424dde8ffc5_33514197_02781670XX1.jpg"
+      ]
     },
     {
       "name": "Panna Panna",
       "code": "0202 0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/194907617692424de8221c7_67855153_02781680XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/194907617692424de8221c7_67855153_02781680XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/194907617692424de8221c7_67855153_02781680XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -84,7 +90,7 @@
         {
           "name": "Frascati",
           "code": "1227",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%287%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (7).png",
           "modelId": 395
         }
       ]
@@ -116,7 +122,7 @@
         {
           "name": "Frascati",
           "code": "1227",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%287%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (7).png",
           "modelId": 395
         }
       ]

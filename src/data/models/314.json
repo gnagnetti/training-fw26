@@ -16,12 +16,18 @@
     {
       "name": "Bluette",
       "code": "2527",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A3abRVUzTIC2qwZhUoAVDA_1978587936696f42f5250e37_36989507_02820970XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A3abRVUzTIC2qwZhUoAVDA_1978587936696f42f5250e37_36989507_02820970XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A3abRVUzTIC2qwZhUoAVDA_1978587936696f42f5250e37_36989507_02820970XX1.jpg"
+      ]
     },
     {
       "name": "Mattone",
       "code": "1547",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/531490407691f1568569555_18801954_02780610XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/531490407691f1568569555_18801954_02780610XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/531490407691f1568569555_18801954_02780610XX1.jpg"
+      ]
     }
   ],
   "looks": [

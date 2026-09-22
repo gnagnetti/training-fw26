@@ -16,12 +16,18 @@
     {
       "name": "Marrone Scuro Oro",
       "code": "0920 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0Cm0xdBISdqRUMvJc60YLw_874780102696f4216bd03f2_72297559_02800520XX2.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0Cm0xdBISdqRUMvJc60YLw_874780102696f4216bd03f2_72297559_02800520XX2.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0Cm0xdBISdqRUMvJc60YLw_874780102696f4216bd03f2_72297559_02800520XX2.jpg"
+      ]
     },
     {
       "name": "Nero Oro",
       "code": "0101 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wPnI00v6QjudMWnpK1Cwrg_1175182247696f4215e8b3b0_16251169_02800510XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wPnI00v6QjudMWnpK1Cwrg_1175182247696f4215e8b3b0_16251169_02800510XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/wPnI00v6QjudMWnpK1Cwrg_1175182247696f4215e8b3b0_16251169_02800510XX1.jpg"
+      ]
     }
   ],
   "looks": [

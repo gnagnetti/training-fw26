@@ -16,12 +16,18 @@
     {
       "name": "Nero Cammello",
       "code": "0101 2246",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Qszl8X8SQFugo1saWqnExA_1841430439696f4362d38204_99119524_02830510XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Qszl8X8SQFugo1saWqnExA_1841430439696f4362d38204_99119524_02830510XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Qszl8X8SQFugo1saWqnExA_1841430439696f4362d38204_99119524_02830510XX1.jpg"
+      ]
     },
     {
       "name": "Panna Grigio Scuro",
       "code": "0202 0846",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KlVMxQr7SyCrt10DPMy3iw_509161854696f4363420906_31932689_02830520XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KlVMxQr7SyCrt10DPMy3iw_509161854696f4363420906_31932689_02830520XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KlVMxQr7SyCrt10DPMy3iw_509161854696f4363420906_31932689_02830520XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -63,7 +69,7 @@
         {
           "name": "Marsica",
           "code": "0101",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/sf_X_8TcR-ObvSuGMf6O6A_1152017837696f4365c601d6_48411476_02830610XX1.jpg"
         },
         {
           "name": "Iago",
@@ -116,7 +122,7 @@
         {
           "name": "Ls1928p",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         },
         {
           "name": "Renno",

@@ -16,7 +16,10 @@
     {
       "name": "Grigio Melange",
       "code": "0813",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/egax8JISQYK6_qkM5jsxng_821559414696f4304481fb1_06686794_02821320XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/egax8JISQYK6_qkM5jsxng_821559414696f4304481fb1_06686794_02821320XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/egax8JISQYK6_qkM5jsxng_821559414696f4304481fb1_06686794_02821320XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -165,7 +168,7 @@
         {
           "name": "Ls1928p A",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         },
         {
           "name": "Uranio A",

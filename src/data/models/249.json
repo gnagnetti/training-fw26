@@ -16,17 +16,26 @@
     {
       "name": "Blu",
       "code": "1251",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/QXBRddRtRfyF-CI0R37DgA_392918825696f43087b6123_57329480_02821450XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/QXBRddRtRfyF-CI0R37DgA_392918825696f43087b6123_57329480_02821450XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/QXBRddRtRfyF-CI0R37DgA_392918825696f43087b6123_57329480_02821450XX1.jpg"
+      ]
     },
     {
       "name": "Marrone Cioccolato",
       "code": "0943",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qdI5UwLCT1OH3R6NaxIWHg_1650191426696f42e87b11a6_96447037_02820670XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qdI5UwLCT1OH3R6NaxIWHg_1650191426696f42e87b11a6_96447037_02820670XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/qdI5UwLCT1OH3R6NaxIWHg_1650191426696f42e87b11a6_96447037_02820670XX1.jpg"
+      ]
     },
     {
       "name": "Verde Muschio",
       "code": "1793",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cvNRdSSbR3uGZFsM3BKLqg_26644077696f42e8e0b843_49978902_02820680XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cvNRdSSbR3uGZFsM3BKLqg_26644077696f42e8e0b843_49978902_02820680XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/cvNRdSSbR3uGZFsM3BKLqg_26644077696f42e8e0b843_49978902_02820680XX1.jpg"
+      ]
     }
   ],
   "looks": [

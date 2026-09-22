@@ -16,17 +16,26 @@
     {
       "name": "Bordeaux",
       "code": "2439",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1009101303691c5790f2b730_18424116_02790070XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1009101303691c5790f2b730_18424116_02790070XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1009101303691c5790f2b730_18424116_02790070XX1.jpg"
+      ]
     },
     {
       "name": "Senape",
       "code": "1936",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/745495074691c5795177578_49121809_02790460XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/745495074691c5795177578_49121809_02790460XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/745495074691c5795177578_49121809_02790460XX1.jpg"
+      ]
     },
     {
       "name": "Verde Militare",
       "code": "1736",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/601058410691c5794a8b9e5_88791406_02790450XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/601058410691c5794a8b9e5_88791406_02790450XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/601058410691c5794a8b9e5_88791406_02790450XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -215,7 +224,7 @@
         {
           "name": "Leila",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         },
         {

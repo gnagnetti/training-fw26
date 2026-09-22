@@ -16,12 +16,18 @@
     {
       "name": "Var Celeste Polvere",
       "code": "3423",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3fYo_UU5Rmq40CooNzA-5g_533087305696f4356e2f754_72300204_02830090XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3fYo_UU5Rmq40CooNzA-5g_533087305696f4356e2f754_72300204_02830090XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3fYo_UU5Rmq40CooNzA-5g_533087305696f4356e2f754_72300204_02830090XX1.jpg"
+      ]
     },
     {
       "name": "Var Nero Nocciola",
       "code": "3568",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281025%29.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1025).png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1025).png"
+      ]
     }
   ],
   "looks": [
@@ -52,7 +58,7 @@
         {
           "name": "Magnesite",
           "code": "3568",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281025%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1025).png"
         },
         {
           "name": "Spareggio",
@@ -95,7 +101,7 @@
         {
           "name": "Magnesite",
           "code": "3568",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281025%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1025).png"
         },
         {
           "name": "Squadratura",
@@ -148,7 +154,7 @@
         {
           "name": "Uramaky",
           "code": "0990",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky%20nero.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky nero.PNG"
         },
         {
           "name": "Nagorno",

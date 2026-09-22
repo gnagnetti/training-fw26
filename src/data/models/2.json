@@ -16,17 +16,26 @@
     {
       "name": "Bordeaux",
       "code": "2452",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tpx4YIVOQIiHt8_Igw7clQ_966025813696f430ca6aa01_65494584_02830020XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tpx4YIVOQIiHt8_Igw7clQ_966025813696f430ca6aa01_65494584_02830020XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tpx4YIVOQIiHt8_Igw7clQ_966025813696f430ca6aa01_65494584_02830020XX1.jpg"
+      ]
     },
     {
       "name": "Grigio Melange",
       "code": "0829",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eb047c27-acac-4b5a-a97c-f54ad6d9fd9d.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eb047c27-acac-4b5a-a97c-f54ad6d9fd9d.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/eb047c27-acac-4b5a-a97c-f54ad6d9fd9d.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7gE-VLFDQvq9vexaNQ3bxw_2132901143696f430c387c93_50366657_02830010XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7gE-VLFDQvq9vexaNQ3bxw_2132901143696f430c387c93_50366657_02830010XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/7gE-VLFDQvq9vexaNQ3bxw_2132901143696f430c387c93_50366657_02830010XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -109,7 +118,7 @@
         {
           "name": "Franchezza",
           "code": "0863",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza grigio melange.PNG",
           "modelId": 57
         },
         {
@@ -125,7 +134,7 @@
         {
           "name": "Xnina A",
           "code": "0101 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-10%20at%2014.20.26%20%281%29.jpeg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp Image 2025-12-10 at 14.20.26 (1).jpeg"
         }
       ]
     },

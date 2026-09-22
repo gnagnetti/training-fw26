@@ -16,7 +16,10 @@
     {
       "name": "Var Grigio Panna Bianco Nero",
       "code": "3331 0201 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GRAFFITI_333100000000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GRAFFITI_333100000000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/GRAFFITI_333100000000.jpg"
+      ]
     }
   ],
   "looks": [
@@ -57,12 +60,12 @@
         {
           "name": "Ls1928p A",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         },
         {
           "name": "Norico",
           "code": "0001 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202026-02-13%20at%2011.44.51.jpeg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp Image 2026-02-13 at 11.44.51.jpeg"
         }
       ]
     },
@@ -98,7 +101,7 @@
         {
           "name": "Ls1928p",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     }

@@ -16,7 +16,10 @@
     {
       "name": "Var Fondo Nero",
       "code": "3402",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1489537710692424cad2ff96_85622943_02781090XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1489537710692424cad2ff96_85622943_02781090XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1489537710692424cad2ff96_85622943_02781090XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -165,7 +168,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         }
       ]
     }

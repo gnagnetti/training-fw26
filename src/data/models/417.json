@@ -16,7 +16,10 @@
     {
       "name": "Panna Panna",
       "code": "0202 0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/957906673691f15644561f7_84414523_02780530XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/957906673691f15644561f7_84414523_02780530XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/957906673691f15644561f7_84414523_02780530XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -129,7 +132,7 @@
         {
           "name": "Marsica",
           "code": "0101",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/sf_X_8TcR-ObvSuGMf6O6A_1152017837696f4365c601d6_48411476_02830610XX1.jpg"
         }
       ]
     },

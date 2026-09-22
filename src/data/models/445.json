@@ -16,12 +16,18 @@
     {
       "name": "Nero Tabacco",
       "code": "0101 2234",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2DArnQrxTg-oql1-E0SPpg_1318458338696f436d73ee42_37110795_02830840XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2DArnQrxTg-oql1-E0SPpg_1318458338696f436d73ee42_37110795_02830840XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2DArnQrxTg-oql1-E0SPpg_1318458338696f436d73ee42_37110795_02830840XX1.jpg"
+      ]
     },
     {
       "name": "Beige Beige",
       "code": "1117 1118",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1302431902691f15784924a8_40669437_02790520XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1302431902691f15784924a8_40669437_02790520XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1302431902691f15784924a8_40669437_02790520XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -107,7 +113,7 @@
         {
           "name": "Ubnoldo",
           "code": "0971 0002",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1021).png"
         }
       ]
     },
@@ -188,7 +194,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Ubaldo",
@@ -247,7 +253,7 @@
         {
           "name": "LS1928P",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     }

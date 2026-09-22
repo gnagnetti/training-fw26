@@ -16,17 +16,27 @@
     {
       "name": "Rubino Nickel Oro",
       "code": "1639 0001 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/AOySRGZUSoun0d6YBUW0NA_618347052691c57df90eaa3_39293022_02800270XX1.jpg"
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0d719d54/images/large/9961602846a20004b4ea611_27991349_02871140XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0d719d54/images/large/9961602846a20004b4ea611_27991349_02871140XX1.jpg?sw=500"
+      ]
     },
     {
       "name": "Smeraldo Nickel Oro",
       "code": "2003 0001 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/AOySRGZUSoun0d6YBUW0NA_618347052691c57df90eaa3_39293022_02800270XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/AOySRGZUSoun0d6YBUW0NA_618347052691c57df90eaa3_39293022_02800270XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/AOySRGZUSoun0d6YBUW0NA_618347052691c57df90eaa3_39293022_02800270XX1.jpg"
+      ]
     },
     {
       "name": "Fumo Nickel Oro",
       "code": "0068 0001 0002",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/AOySRGZUSoun0d6YBUW0NA_618347052691c57df90eaa3_39293022_02800270XX1.jpg"
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0d719d54/images/large/9961602846a20004b4ea611_27991349_02871140XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0d719d54/images/large/9961602846a20004b4ea611_27991349_02871140XX1.jpg?sw=500",
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/AOySRGZUSoun0d6YBUW0NA_618347052691c57df90eaa3_39293022_02800270XX1.jpg"
+      ]
     }
   ],
   "looks": [

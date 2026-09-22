@@ -16,17 +16,26 @@
     {
       "name": "Melanzana",
       "code": "0733",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/607627786691f15652daa90_90514398_02780550XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/607627786691f15652daa90_90514398_02780550XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/607627786691f15652daa90_90514398_02780550XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/838290756691f15659973f8_28663137_02780560XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/838290756691f15659973f8_28663137_02780560XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/838290756691f15659973f8_28663137_02780560XX1.jpg"
+      ]
     },
     {
       "name": "Verde Bottiglia",
       "code": "2046",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/220670995691f1564c8d998_07274629_02780540XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/220670995691f1564c8d998_07274629_02780540XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/220670995691f1564c8d998_07274629_02780540XX1.jpg"
+      ]
     }
   ],
   "looks": [

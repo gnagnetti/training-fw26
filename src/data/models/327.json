@@ -16,12 +16,18 @@
     {
       "name": "Blu Blu",
       "code": "1221 1221",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tILigkVvRVmc5dv-Ai3nYQ_770621120696f42fb71ee52_38606030_02821080XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tILigkVvRVmc5dv-Ai3nYQ_770621120696f42fb71ee52_38606030_02821080XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tILigkVvRVmc5dv-Ai3nYQ_770621120696f42fb71ee52_38606030_02821080XX1.jpg"
+      ]
     },
     {
       "name": "Rubino Rubino",
       "code": "2446 2446",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LP0W97I7Q-6DEa75JykENw_1169263196696f42fbd36f68_89337037_02821090XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LP0W97I7Q-6DEa75JykENw_1169263196696f42fbd36f68_89337037_02821090XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LP0W97I7Q-6DEa75JykENw_1169263196696f42fbd36f68_89337037_02821090XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -57,7 +63,7 @@
         {
           "name": "Logge",
           "code": "1221",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/logge%20blu.PNG",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/logge blu.PNG",
           "modelId": 118
         },
         {
@@ -111,7 +117,7 @@
         {
           "name": "Lezioni",
           "code": "2446",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LEZIONI_224600000000%20%281%29.jpg",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LEZIONI_224600000000 (1).jpg",
           "modelId": 415
         },
         {

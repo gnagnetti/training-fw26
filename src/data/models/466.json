@@ -16,7 +16,10 @@
     {
       "name": "Var Gess.Blu Notte",
       "code": "3261",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/84252206691c578561a766_94450101_02780080XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/84252206691c578561a766_94450101_02780080XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/84252206691c578561a766_94450101_02780080XX1.jpg"
+      ]
     }
   ],
   "looks": [

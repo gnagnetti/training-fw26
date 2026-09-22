@@ -16,12 +16,18 @@
     {
       "name": "Var Blu Lurex",
       "code": "3357",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_335700000000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_335700000000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_335700000000.jpg"
+      ]
     },
     {
       "name": "Var Platino",
       "code": "3312",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_331200000000%20%281%29.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_331200000000 (1).jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/STENIA_331200000000 (1).jpg"
+      ]
     }
   ],
   "looks": [

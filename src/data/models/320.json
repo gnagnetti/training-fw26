@@ -16,12 +16,18 @@
     {
       "name": "Nero Nero",
       "code": "0101 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/U0zfEciTRril1sAeNWTung_1279272056696f42f726ce55_67715627_02821010XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/U0zfEciTRril1sAeNWTung_1279272056696f42f726ce55_67715627_02821010XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/U0zfEciTRril1sAeNWTung_1279272056696f42f726ce55_67715627_02821010XX1.jpg"
+      ]
     },
     {
       "name": "Nero Beige",
       "code": "0101 1186",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/U0zfEciTRril1sAeNWTung_1279272056696f42f726ce55_67715627_02821010XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/U0zfEciTRril1sAeNWTung_1279272056696f42f726ce55_67715627_02821010XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/U0zfEciTRril1sAeNWTung_1279272056696f42f726ce55_67715627_02821010XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -62,7 +68,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Minuccio",
@@ -109,7 +115,7 @@
         {
           "name": "Leila",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         },
         {

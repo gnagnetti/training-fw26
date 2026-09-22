@@ -16,22 +16,34 @@
     {
       "name": "Bordeaux",
       "code": "2435",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ead13f2a-f799-4e6b-918c-1ed7af5c7ff7-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ead13f2a-f799-4e6b-918c-1ed7af5c7ff7-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ead13f2a-f799-4e6b-918c-1ed7af5c7ff7-removebg-preview.png"
+      ]
     },
     {
       "name": "Marrone",
       "code": "0970",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/74efb9cd-f75a-4ac5-903b-2b4b34e4fd86-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/74efb9cd-f75a-4ac5-903b-2b4b34e4fd86-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/74efb9cd-f75a-4ac5-903b-2b4b34e4fd86-removebg-preview.png"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1c1747b9-ac92-471a-ae98-e3c1b6b2eb99-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1c1747b9-ac92-471a-ae98-e3c1b6b2eb99-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1c1747b9-ac92-471a-ae98-e3c1b6b2eb99-removebg-preview.png"
+      ]
     },
     {
       "name": "Panna",
       "code": "0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/99ed411f-86cc-4129-a8b5-d0b12d260196-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/99ed411f-86cc-4129-a8b5-d0b12d260196-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/99ed411f-86cc-4129-a8b5-d0b12d260196-removebg-preview.png"
+      ]
     }
   ],
   "looks": [

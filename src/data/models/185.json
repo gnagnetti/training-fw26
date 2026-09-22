@@ -16,12 +16,18 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tvlH-u8bSsGWHc50goiuVw_626527006696f436e7af525_91890335_02830860XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tvlH-u8bSsGWHc50goiuVw_626527006696f436e7af525_91890335_02830860XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/tvlH-u8bSsGWHc50goiuVw_626527006696f436e7af525_91890335_02830860XX1.jpg"
+      ]
     },
     {
       "name": "Panna",
       "code": "0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3t9WU6qrQtWjIPAxBEDX0Q_1339733322696f436ee64bb3_28064893_02830870XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3t9WU6qrQtWjIPAxBEDX0Q_1339733322696f436ee64bb3_28064893_02830870XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/3t9WU6qrQtWjIPAxBEDX0Q_1339733322696f436ee64bb3_28064893_02830870XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -57,7 +63,7 @@
         {
           "name": "Mano",
           "code": "0202",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281019%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1019).png"
         },
         {
           "name": "Meme",
@@ -108,7 +114,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Oneta",
@@ -192,7 +198,7 @@
         {
           "name": "Modine B",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MODINE_10100000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MODINE_10100000000 (1).jpg"
         }
       ]
     }

@@ -16,7 +16,10 @@
     {
       "name": "Cuoio",
       "code": "2226",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/548516493692424c9b2f596_35398249_02781060XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/548516493692424c9b2f596_35398249_02781060XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/548516493692424c9b2f596_35398249_02781060XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -91,7 +94,7 @@
         {
           "name": "Leila",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         },
         {

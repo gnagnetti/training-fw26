@@ -16,12 +16,18 @@
     {
       "name": "Cammello",
       "code": "2328",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dy8XIV3dSJKeLAiihND0GQ_1780848425696f4300c29220_26044595_02821240XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dy8XIV3dSJKeLAiihND0GQ_1780848425696f4300c29220_26044595_02821240XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/dy8XIV3dSJKeLAiihND0GQ_1780848425696f4300c29220_26044595_02821240XX1.jpg"
+      ]
     },
     {
       "name": "Marrone",
       "code": "0995",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A-_m01BxSlCI2yq9LK3j-A_1990879054696f430060bf33_29956349_02821230XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A-_m01BxSlCI2yq9LK3j-A_1990879054696f430060bf33_29956349_02821230XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/A-_m01BxSlCI2yq9LK3j-A_1990879054696f430060bf33_29956349_02821230XX1.jpg"
+      ]
     }
   ],
   "looks": [

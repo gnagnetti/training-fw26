@@ -16,17 +16,26 @@
     {
       "name": "Blu",
       "code": "1252",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/73342695692424e0ebfcb8_89693690_02781730XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/73342695692424e0ebfcb8_89693690_02781730XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/73342695692424e0ebfcb8_89693690_02781730XX1.jpg"
+      ]
     },
     {
       "name": "Cammello",
       "code": "2301",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/126250642692424e0955b78_78856537_02781720XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/126250642692424e0955b78_78856537_02781720XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/126250642692424e0955b78_78856537_02781720XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2114695200692424e15335c3_18677453_02781740XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2114695200692424e15335c3_18677453_02781740XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2114695200692424e15335c3_18677453_02781740XX1.jpg"
+      ]
     }
   ],
   "looks": [

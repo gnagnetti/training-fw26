@@ -16,47 +16,74 @@
     {
       "name": "Blu Inchiostro",
       "code": "2544",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NVoUDC5hSh-_ll973FicDA_1836626867696f4307470cc7_02681906_02821420XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NVoUDC5hSh-_ll973FicDA_1836626867696f4307470cc7_02681906_02821420XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NVoUDC5hSh-_ll973FicDA_1836626867696f4307470cc7_02681906_02821420XX1.jpg"
+      ]
     },
     {
       "name": "Grigio Scuro",
       "code": "0846",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Minuccio%20modello%20%281%29.PNG"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Minuccio modello (1).PNG",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Minuccio modello (1).PNG"
+      ]
     },
     {
       "name": "Beige",
       "code": "1117",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MINUCCIO_113700000000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MINUCCIO_113700000000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MINUCCIO_113700000000.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MINUENDOL_10100000000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MINUENDOL_10100000000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MINUENDOL_10100000000.jpg"
+      ]
     },
     {
       "name": "Panna",
       "code": "0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MINUENDOM_20200000000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MINUENDOM_20200000000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MINUENDOM_20200000000.jpg"
+      ]
     },
     {
       "name": "Cammello",
       "code": "2246",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/44a050a8-738e-4eee-9a3e-18fce3cbb172-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/44a050a8-738e-4eee-9a3e-18fce3cbb172-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/44a050a8-738e-4eee-9a3e-18fce3cbb172-removebg-preview.png"
+      ]
     },
     {
       "name": "Verde Bottiglia",
       "code": "2050",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281016%29.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1016).png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1016).png"
+      ]
     },
     {
       "name": "Melanzana",
       "code": "0759",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281017%29.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1017).png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1017).png"
+      ]
     },
     {
       "name": "Bordeaux",
       "code": "2435",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NVoUDC5hSh-_ll973FicDA_1836626867696f4307470cc7_02681906_02821420XX1.jpg"
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw5d6435ba/images/large/11159505896a1ff8f5b58b48_34195452_02841320XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw5d6435ba/images/large/11159505896a1ff8f5b58b48_34195452_02841320XX1.jpg?sw=500"
+      ]
     }
   ],
   "looks": [
@@ -130,7 +157,7 @@
         {
           "name": "Minuccio A",
           "code": "2050",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281016%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1016).png"
         },
         {
           "name": "Mascate",
@@ -167,7 +194,7 @@
         {
           "name": "Minuccio A",
           "code": "0759",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281017%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1017).png"
         },
         {
           "name": "Moles",
@@ -178,7 +205,7 @@
         {
           "name": "Mossa G",
           "code": "0759",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281018%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1018).png",
           "modelId": 192
         }
       ]

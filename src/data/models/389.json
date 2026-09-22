@@ -16,17 +16,26 @@
     {
       "name": "Melanzana",
       "code": "0733",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/FESTONE_73300000000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/FESTONE_73300000000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/FESTONE_73300000000.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/128523816691c57830dca49_01467768_02780020XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/128523816691c57830dca49_01467768_02780020XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/128523816691c57830dca49_01467768_02780020XX1.jpg"
+      ]
     },
     {
       "name": "Verde Bottiglia",
       "code": "2046",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/121628858691f15615a1fa3_04898646_02780480XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/121628858691f15615a1fa3_04898646_02780480XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/121628858691f15615a1fa3_04898646_02780480XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -251,7 +260,7 @@
         {
           "name": "Scolpito",
           "code": "0101 0913",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0091%20%282%29.jpg",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/0000_0091 (2).jpg",
           "modelId": 305
         },
         {

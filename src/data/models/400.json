@@ -16,7 +16,10 @@
     {
       "name": "Platino Platino",
       "code": "1133 1133",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2087305396692424c81fe3f5_48510708_02780640XX12.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2087305396692424c81fe3f5_48510708_02780640XX12.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/2087305396692424c81fe3f5_48510708_02780640XX12.jpg"
+      ]
     }
   ],
   "looks": [

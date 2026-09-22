@@ -16,7 +16,10 @@
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IXvyIF7SRK6hYKevjnFpEw_831137449696f42f9b2a2d4_32797153_02821050XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IXvyIF7SRK6hYKevjnFpEw_831137449696f42f9b2a2d4_32797153_02821050XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IXvyIF7SRK6hYKevjnFpEw_831137449696f42f9b2a2d4_32797153_02821050XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -99,7 +102,7 @@
         {
           "name": "Fondazione",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fondazione%20nero.PNG",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/fondazione nero.PNG",
           "modelId": 55
         }
       ]

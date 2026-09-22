@@ -16,12 +16,18 @@
     {
       "name": "Verde Militare",
       "code": "1789",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/vxWux3ofS5SFEVbTaGH9Cg_99445790696f42f07c9277_19680844_02820850XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/vxWux3ofS5SFEVbTaGH9Cg_99445790696f42f07c9277_19680844_02820850XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/vxWux3ofS5SFEVbTaGH9Cg_99445790696f42f07c9277_19680844_02820850XX1.jpg"
+      ]
     },
     {
       "name": "Rosa",
       "code": "0326",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1393038525692424d90fc184_00755460_02781540XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1393038525692424d90fc184_00755460_02781540XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1393038525692424d90fc184_00755460_02781540XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -142,12 +148,12 @@
         {
           "name": "Manos",
           "code": "0970",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000 (1).jpg"
         },
         {
           "name": "Leila A",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png"
         }
       ]
     }

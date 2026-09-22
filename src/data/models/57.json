@@ -16,12 +16,18 @@
     {
       "name": "Bordeaux",
       "code": "2435",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG"
+      "imageUrl": "https://www.luisaspagnoli.com/it/it/543584_243500000000_franchezza.html",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/it/it/543584_243500000000_franchezza.html"
+      ]
     },
     {
       "name": "Grigio Melange",
       "code": "0863",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza grigio melange.PNG",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza grigio melange.PNG"
+      ]
     }
   ],
   "looks": [
@@ -58,12 +64,12 @@
         {
           "name": "Franchezza",
           "code": "2435",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG"
+          "imageUrl": "https://www.luisaspagnoli.com/it/it/543584_243500000000_franchezza.html"
         },
         {
           "name": "Ls1928p A",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     },
@@ -100,7 +106,7 @@
         {
           "name": "Franchezza",
           "code": "0863",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza grigio melange.PNG"
         }
       ]
     },
@@ -137,7 +143,7 @@
         {
           "name": "Franchezza",
           "code": "0863",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza grigio melange.PNG"
         },
         {
           "name": "Ustica A",
@@ -184,7 +190,7 @@
         {
           "name": "Franchezza",
           "code": "0863",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza%20grigio%20melange.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/franchezza grigio melange.PNG"
         },
         {
           "name": "Ustica A",
@@ -194,7 +200,7 @@
         {
           "name": "Xnina A",
           "code": "0101 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-10%20at%2014.20.26%20%281%29.jpeg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp Image 2025-12-10 at 14.20.26 (1).jpeg"
         }
       ]
     }

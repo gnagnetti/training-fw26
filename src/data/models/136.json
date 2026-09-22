@@ -16,17 +16,26 @@
     {
       "name": "Panna Panna",
       "code": "0202 0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WPI5Q9rDTb64Th8LneGfVQ_804989879696f436124a4b6_69325323_02830440XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WPI5Q9rDTb64Th8LneGfVQ_804989879696f436124a4b6_69325323_02830440XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WPI5Q9rDTb64Th8LneGfVQ_804989879696f436124a4b6_69325323_02830440XX1.jpg"
+      ]
     },
     {
       "name": "Grigio Melange Grigio Melange",
       "code": "0802 0863",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MAESTOSITA_80299990000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MAESTOSITA_80299990000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MAESTOSITA_80299990000.jpg"
+      ]
     },
     {
       "name": "Bordeaux Bordeaux",
       "code": "2435 2435",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WPI5Q9rDTb64Th8LneGfVQ_804989879696f436124a4b6_69325323_02830440XX1.jpg"
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw359d9768/images/large/2246586736a1ff8980cfed8_55555695_02840520XX11.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw359d9768/images/large/2246586736a1ff8980cfed8_55555695_02840520XX11.jpg?sw=500"
+      ]
     }
   ],
   "looks": [
@@ -110,7 +119,7 @@
         {
           "name": "Norico",
           "code": "0202 0001 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202026-02-13%20at%2011.44.51.jpeg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp Image 2026-02-13 at 11.44.51.jpeg"
         },
         {
           "name": "Ls1928p A",

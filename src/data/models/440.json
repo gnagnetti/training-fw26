@@ -16,17 +16,26 @@
     {
       "name": "Crema Nero",
       "code": "0204 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/494185053691c57941ac2e3_15558577_02790400XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/494185053691c57941ac2e3_15558577_02790400XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/494185053691c57941ac2e3_15558577_02790400XX1.jpg"
+      ]
     },
     {
       "name": "Nero Panna",
       "code": "0101 0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1906230012691c57936a4ba0_72020696_02790390XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1906230012691c57936a4ba0_72020696_02790390XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1906230012691c57936a4ba0_72020696_02790390XX1.jpg"
+      ]
     },
     {
       "name": "Rosa",
       "code": "0319",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/363191265691f1575414b17_64019449_02790410XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/363191265691f1575414b17_64019449_02790410XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/363191265691f1575414b17_64019449_02790410XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -291,7 +300,7 @@
         {
           "name": "Osten",
           "code": "0202",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000%20%284%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENA_20200000000 (4).jpg"
         }
       ]
     }

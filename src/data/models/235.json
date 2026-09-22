@@ -16,12 +16,18 @@
     {
       "name": "Verde Bottiglia Nero",
       "code": "2001 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/529561439691c57e2acebb1_24096631_02800310XX1.jpg"
+      "imageUrl": "https://www.luisaspagnoli.com/it/it/543673_200101010000_nuttidi.html",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/it/it/543673_200101010000_nuttidi.html"
+      ]
     },
     {
       "name": "Bordeaux Nero",
       "code": "2452 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/529561439691c57e2acebb1_24096631_02800310XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/529561439691c57e2acebb1_24096631_02800310XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/529561439691c57e2acebb1_24096631_02800310XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -116,12 +122,12 @@
         {
           "name": "Ulisside",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview (2).png"
         },
         {
           "name": "Ls1928p A",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     }

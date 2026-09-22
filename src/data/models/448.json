@@ -16,12 +16,18 @@
     {
       "name": "Tabacco",
       "code": "2234",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/133445466692424e60a8ba4_47387365_02790590XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/133445466692424e60a8ba4_47387365_02790590XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/133445466692424e60a8ba4_47387365_02790590XX1.jpg"
+      ]
     },
     {
       "name": "Verde Bottiglia",
       "code": "2050",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/439158744691f15a43fd0d7_26445537_02790800XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/439158744691f15a43fd0d7_26445537_02790800XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/439158744691f15a43fd0d7_26445537_02790800XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -166,7 +172,7 @@
         {
           "name": "Manos",
           "code": "0951",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         },
         {
           "name": "Oneta",

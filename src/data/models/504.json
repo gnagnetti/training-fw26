@@ -16,12 +16,18 @@
     {
       "name": "Oro",
       "code": "0428",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/531120833691f156d52cfa1_12213786_02780730XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/531120833691f156d52cfa1_12213786_02780730XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/531120833691f156d52cfa1_12213786_02780730XX1.jpg"
+      ]
     },
     {
       "name": "Platino",
       "code": "0470",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1320403997692424e66c2b38_73624200_02790650XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1320403997692424e66c2b38_73624200_02790650XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1320403997692424e66c2b38_73624200_02790650XX1.jpg"
+      ]
     }
   ],
   "looks": [

@@ -16,12 +16,18 @@
     {
       "name": "Fango",
       "code": "2710",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/612412840691c578b4bc602_37755049_02780210XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/612412840691c578b4bc602_37755049_02780210XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/612412840691c578b4bc602_37755049_02780210XX1.jpg"
+      ]
     },
     {
       "name": "Grigio",
       "code": "1046",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1311942934691c57c61a1f82_64535418_02780320XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1311942934691c57c61a1f82_64535418_02780320XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1311942934691c57c61a1f82_64535418_02780320XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -57,7 +63,7 @@
         {
           "name": "Legale B",
           "code": "0202",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LEGALE_20200000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LEGALE_20200000000 (1).jpg"
         }
       ]
     },
@@ -104,7 +110,7 @@
         {
           "name": "Iri",
           "code": "0970 0002",
-          "imageUrl": null
+          "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc33037a2/images/large/19927620526a201b971e7ee0_43285351_02870620XX1.jpg?sw=500"
         }
       ]
     },

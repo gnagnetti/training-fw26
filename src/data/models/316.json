@@ -16,7 +16,10 @@
     {
       "name": "Blu Panna",
       "code": "1294 0235",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WzYXb10kQQaRbo3srKWFvA_1873521069696f42f6059416_18779616_02820990XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WzYXb10kQQaRbo3srKWFvA_1873521069696f42f6059416_18779616_02820990XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WzYXb10kQQaRbo3srKWFvA_1873521069696f42f6059416_18779616_02820990XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -58,7 +61,7 @@
         {
           "name": "Leila",
           "code": "0201",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview%20%281%29.png",
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/e8b6b63d-de73-4eb7-bca4-3c06a3b2d408-removebg-preview (1).png",
           "modelId": 414
         },
         {
@@ -149,7 +152,7 @@
         {
           "name": "Mano H",
           "code": "0202",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image%20%281019%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image (1019).png"
         },
         {
           "name": "Olap",

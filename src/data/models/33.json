@@ -16,7 +16,10 @@
     {
       "name": "Oro Topazio",
       "code": "0002 0069",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/discordia.PNG"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/discordia.PNG",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/discordia.PNG"
+      ]
     }
   ],
   "looks": [

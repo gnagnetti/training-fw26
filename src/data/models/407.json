@@ -16,12 +16,18 @@
     {
       "name": "Blu",
       "code": "1281",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/223995917691f1569d724c0_62116816_02780650XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/223995917691f1569d724c0_62116816_02780650XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/223995917691f1569d724c0_62116816_02780650XX1.jpg"
+      ]
     },
     {
       "name": "Verde Bottiglia",
       "code": "2015",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/604043782691f1596e9bfd0_55503550_02780760XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/604043782691f1596e9bfd0_55503550_02780760XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/604043782691f1596e9bfd0_55503550_02780760XX1.jpg"
+      ]
     }
   ],
   "looks": [

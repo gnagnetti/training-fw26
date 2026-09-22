@@ -16,12 +16,18 @@
     {
       "name": "Nero Nero",
       "code": "0101 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1163694159692424d73708f3_17637906_02781480XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1163694159692424d73708f3_17637906_02781480XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1163694159692424d73708f3_17637906_02781480XX1.jpg"
+      ]
     },
     {
       "name": "Platino Platino",
       "code": "1133 1133",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/627244568692424d7908840_65280895_02781490XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/627244568692424d7908840_65280895_02781490XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/627244568692424d7908840_65280895_02781490XX1.jpg"
+      ]
     }
   ],
   "looks": [

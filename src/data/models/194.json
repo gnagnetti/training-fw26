@@ -16,12 +16,18 @@
     {
       "name": "Nero Nero",
       "code": "0101 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/addd17e8-7aa8-4c53-84c5-8f993bf51d55-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/addd17e8-7aa8-4c53-84c5-8f993bf51d55-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/addd17e8-7aa8-4c53-84c5-8f993bf51d55-removebg-preview.png"
+      ]
     },
     {
       "name": "Cammello Marrone",
       "code": "2246 0908",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b4991194-d13f-4a76-9331-b1cced3212eb-removebg-preview.png"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b4991194-d13f-4a76-9331-b1cced3212eb-removebg-preview.png",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/b4991194-d13f-4a76-9331-b1cced3212eb-removebg-preview.png"
+      ]
     }
   ],
   "looks": [
@@ -156,7 +162,7 @@
         {
           "name": "Ls1928p A",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     }

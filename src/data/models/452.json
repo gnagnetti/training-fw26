@@ -16,7 +16,10 @@
     {
       "name": "Var Gess.Blu Notte",
       "code": "3261",
-      "imageUrl": null
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3df06711/images/large/13858798126a1ff3d1df4494_54851837_02861080XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3df06711/images/large/13858798126a1ff3d1df4494_54851837_02861080XX1.jpg?sw=500"
+      ]
     }
   ],
   "looks": [

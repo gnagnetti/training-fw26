@@ -16,12 +16,18 @@
     {
       "name": "Grigio Melange",
       "code": "0802",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/B_5y67AxQdm4Jsf13k2OIg_48850342696f4378c52613_95053070_02831260XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/B_5y67AxQdm4Jsf13k2OIg_48850342696f4378c52613_95053070_02831260XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/B_5y67AxQdm4Jsf13k2OIg_48850342696f4378c52613_95053070_02831260XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/C81i57xwSmG4hW-bz71DEw_2138554498696f436dddaa68_76350065_02830850XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/C81i57xwSmG4hW-bz71DEw_2138554498696f436dddaa68_76350065_02830850XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/C81i57xwSmG4hW-bz71DEw_2138554498696f436dddaa68_76350065_02830850XX1.jpg"
+      ]
     }
   ],
   "looks": [

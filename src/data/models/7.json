@@ -16,17 +16,26 @@
     {
       "name": "Blu",
       "code": "1251",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uc1CyVvMRxq35iiNrN6cig_638464507696f437093a2c8_38813856_02831000XX1.jpg"
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw215431cb/images/large/16688816366a1ff86c972d12_38462165_02840140XX11.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw215431cb/images/large/16688816366a1ff86c972d12_38462165_02840140XX11.jpg?sw=500"
+      ]
     },
     {
       "name": "Menta",
       "code": "0506",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uc1CyVvMRxq35iiNrN6cig_638464507696f437093a2c8_38813856_02831000XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uc1CyVvMRxq35iiNrN6cig_638464507696f437093a2c8_38813856_02831000XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uc1CyVvMRxq35iiNrN6cig_638464507696f437093a2c8_38813856_02831000XX1.jpg"
+      ]
     },
     {
       "name": "Peonia",
       "code": "1802",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/FvNEyO1hTF2ukTdVI6WIyA_1912334563696f43716d5de8_92507245_02831020XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/FvNEyO1hTF2ukTdVI6WIyA_1912334563696f43716d5de8_92507245_02831020XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/FvNEyO1hTF2ukTdVI6WIyA_1912334563696f43716d5de8_92507245_02831020XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -73,7 +82,7 @@
         {
           "name": "Uramaky",
           "code": "0990",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky%20nero.PNG"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Uramaky nero.PNG"
         }
       ]
     },
@@ -115,17 +124,17 @@
         {
           "name": "Urbana",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview%20%2827%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/image-removebg-preview (27).png"
         },
         {
           "name": "Xnina A",
           "code": "0101 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp%20Image%202025-12-10%20at%2014.20.26%20%281%29.jpeg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp Image 2025-12-10 at 14.20.26 (1).jpeg"
         },
         {
           "name": "Ls1928p A",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     }

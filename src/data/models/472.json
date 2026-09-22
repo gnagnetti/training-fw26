@@ -16,7 +16,10 @@
     {
       "name": "Var Fondo Marrone",
       "code": "4575",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1994942207692424d9757ad7_34222557_02781550XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1994942207692424d9757ad7_34222557_02781550XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1994942207692424d9757ad7_34222557_02781550XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -94,7 +97,7 @@
         {
           "name": "Manos",
           "code": "0970",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000 (1).jpg"
         },
         {
           "name": "Orlato",

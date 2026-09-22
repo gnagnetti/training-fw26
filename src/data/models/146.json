@@ -16,7 +16,10 @@
     {
       "name": "Menta",
       "code": "0506",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSF_50600000000.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSF_50600000000.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSF_50600000000.jpg"
+      ]
     }
   ],
   "looks": [

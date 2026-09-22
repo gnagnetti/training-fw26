@@ -16,7 +16,10 @@
     {
       "name": "Var Nero Marrone",
       "code": "3350",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-IaN1H9ZSWmR6e-Yueowvg_608072851696f42303006c0_16679541_02820130XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-IaN1H9ZSWmR6e-Yueowvg_608072851696f42303006c0_16679541_02820130XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/-IaN1H9ZSWmR6e-Yueowvg_608072851696f42303006c0_16679541_02820130XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -58,7 +61,7 @@
         {
           "name": "Ulisside",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview%20%282%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WhatsApp_Image_2025-12-04_at_09.24.39-removebg-preview (2).png"
         }
       ]
     },
@@ -104,7 +107,7 @@
         {
           "name": "Ls1928p A",
           "code": "0101 0038",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000%20%282%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LS1928P_10100180000 (2).jpg"
         }
       ]
     }

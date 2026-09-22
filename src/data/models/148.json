@@ -16,12 +16,18 @@
     {
       "name": "Grigio Scuro Panna",
       "code": "0846 0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yci8Pmn2Qc2K4CUAa8lsoA_1572868144696f437a4f16c8_58141760_02831300XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yci8Pmn2Qc2K4CUAa8lsoA_1572868144696f437a4f16c8_58141760_02831300XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Yci8Pmn2Qc2K4CUAa8lsoA_1572868144696f437a4f16c8_58141760_02831300XX1.jpg"
+      ]
     },
     {
       "name": "Nero Cammello",
       "code": "0101 2246",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WW8xbwIkRpOZTNryF69WAw_1285323695696f436482d1c6_61414433_02830560XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WW8xbwIkRpOZTNryF69WAw_1285323695696f436482d1c6_61414433_02830560XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WW8xbwIkRpOZTNryF69WAw_1285323695696f436482d1c6_61414433_02830560XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -63,7 +69,7 @@
         {
           "name": "Marsica",
           "code": "0101",
-          "imageUrl": null
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/sf_X_8TcR-ObvSuGMf6O6A_1152017837696f4365c601d6_48411476_02830610XX1.jpg"
         },
         {
           "name": "Speziale",

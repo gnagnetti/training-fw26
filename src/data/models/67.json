@@ -16,7 +16,10 @@
     {
       "name": "Var Marrone",
       "code": "3404",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Nhigv8TeTU2FMKqZDoiS_A_1556361996696f422f85cb57_80664217_02820120XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Nhigv8TeTU2FMKqZDoiS_A_1556361996696f422f85cb57_80664217_02820120XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/Nhigv8TeTU2FMKqZDoiS_A_1556361996696f422f85cb57_80664217_02820120XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -52,7 +55,7 @@
         {
           "name": "Necessario",
           "code": "0986 0002",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/necessario%200986.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/necessario 0986.png"
         },
         {
           "name": "Danielina",
@@ -113,7 +116,7 @@
         {
           "name": "Manos F",
           "code": "0970",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_223400000000 (1).jpg"
         },
         {
           "name": "Iago",

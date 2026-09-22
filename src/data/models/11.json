@@ -16,17 +16,26 @@
     {
       "name": "Beige",
       "code": "1161",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/n9YQHX-WRFK_XqIYbVmWuA_1927036083696f4372bb92b0_86901760_02831050XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/n9YQHX-WRFK_XqIYbVmWuA_1927036083696f4372bb92b0_86901760_02831050XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/n9YQHX-WRFK_XqIYbVmWuA_1927036083696f4372bb92b0_86901760_02831050XX1.jpg"
+      ]
     },
     {
       "name": "Grigio Melange",
       "code": "0838",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/L3LH0y22TvKUJ1-PXhhWGg_921510504696f4359b2b916_48995210_02830160XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/L3LH0y22TvKUJ1-PXhhWGg_921510504696f4359b2b916_48995210_02830160XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/L3LH0y22TvKUJ1-PXhhWGg_921510504696f4359b2b916_48995210_02830160XX1.jpg"
+      ]
     },
     {
       "name": "Rosa",
       "code": "0328",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MbeL4xnySfS_ovyysI_vjA_56409257696f4371d37826_90343541_02831030XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MbeL4xnySfS_ovyysI_vjA_56409257696f4371d37826_90343541_02831030XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MbeL4xnySfS_ovyysI_vjA_56409257696f4371d37826_90343541_02831030XX1.jpg"
+      ]
     }
   ],
   "looks": [

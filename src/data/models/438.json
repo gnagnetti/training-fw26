@@ -16,12 +16,18 @@
     {
       "name": "Bordeaux",
       "code": "2435",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/167603057691f1573d6b716_18231868_02790360XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/167603057691f1573d6b716_18231868_02790360XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/167603057691f1573d6b716_18231868_02790360XX1.jpg"
+      ]
     },
     {
       "name": "Nero",
       "code": "0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/311852686691f15737dbf77_23321855_02790350XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/311852686691f15737dbf77_23321855_02790350XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/311852686691f15737dbf77_23321855_02790350XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -52,12 +58,12 @@
         {
           "name": "Minuccio",
           "code": "2435",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NVoUDC5hSh-_ll973FicDA_1836626867696f4307470cc7_02681906_02821420XX1.jpg"
+          "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw5d6435ba/images/large/11159505896a1ff8f5b58b48_34195452_02841320XX1.jpg?sw=500"
         },
         {
           "name": "Legale B",
           "code": "0202",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LEGALE_20200000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LEGALE_20200000000 (1).jpg"
         }
       ]
     },
@@ -88,12 +94,12 @@
         {
           "name": "Manos",
           "code": "2435",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         },
         {
           "name": "Minuccio",
           "code": "2435",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/NVoUDC5hSh-_ll973FicDA_1836626867696f4307470cc7_02681906_02821420XX1.jpg"
+          "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw5d6435ba/images/large/11159505896a1ff8f5b58b48_34195452_02841320XX1.jpg?sw=500"
         },
         {
           "name": "Importante",
@@ -135,7 +141,7 @@
         {
           "name": "Modine B",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MODINE_10100000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MODINE_10100000000 (1).jpg"
         }
       ]
     },
@@ -172,12 +178,12 @@
         {
           "name": "Manos",
           "code": "0951",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         },
         {
           "name": "Modine",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MODINE_10100000000%20%281%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MODINE_10100000000 (1).jpg"
         },
         {
           "name": "Idasola",

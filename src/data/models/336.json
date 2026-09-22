@@ -16,7 +16,10 @@
     {
       "name": "Var Grigio Panna",
       "code": "3331",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zwGI1zFWTrWaBDjRh3_05w_931393777696f430b4be833_87873246_02821500XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zwGI1zFWTrWaBDjRh3_05w_931393777696f430b4be833_87873246_02821500XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/zwGI1zFWTrWaBDjRh3_05w_931393777696f430b4be833_87873246_02821500XX1.jpg"
+      ]
     }
   ],
   "looks": [

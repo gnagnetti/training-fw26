@@ -16,17 +16,26 @@
     {
       "name": "Menta",
       "code": "0506",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kxBSsZ-hQ8m944H5LFR0cA_8187316696f4375c3a165_51356027_02831140XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kxBSsZ-hQ8m944H5LFR0cA_8187316696f4375c3a165_51356027_02831140XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/kxBSsZ-hQ8m944H5LFR0cA_8187316696f4375c3a165_51356027_02831140XX1.jpg"
+      ]
     },
     {
       "name": "Panna",
       "code": "0202",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ZCnho2JsTWiRlK5fdRlc9g_738156072696f4367dcf304_04744855_02830680XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ZCnho2JsTWiRlK5fdRlc9g_738156072696f4367dcf304_04744855_02830680XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/ZCnho2JsTWiRlK5fdRlc9g_738156072696f4367dcf304_04744855_02830680XX1.jpg"
+      ]
     },
     {
       "name": "Cammello",
       "code": "2246",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MAURILIA_231000000000%20%283%29.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MAURILIA_231000000000 (3).jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MAURILIA_231000000000 (3).jpg"
+      ]
     }
   ],
   "looks": [
@@ -67,7 +76,7 @@
         {
           "name": "Osten",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENC_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/OSTENC_10100000000 (3).jpg"
         },
         {
           "name": "Medoro",
@@ -103,7 +112,7 @@
         {
           "name": "Maurilia",
           "code": "2246",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MAURILIA_231000000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MAURILIA_231000000000 (3).jpg"
         },
         {
           "name": "Manos",

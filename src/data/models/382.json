@@ -16,7 +16,10 @@
     {
       "name": "Grigio Melange",
       "code": "0856",
-      "imageUrl": null
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd709c30f/images/large/7125922776a201ba6d1c847_50812405_02871740XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd709c30f/images/large/7125922776a201ba6d1c847_50812405_02871740XX1.jpg?sw=500"
+      ]
     }
   ],
   "looks": [

@@ -16,7 +16,10 @@
     {
       "name": "Nero Nero Nero",
       "code": "0101 0101 0101",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/_Ir3PSh3TSS-MC7SeRmEdw_776146626696f42310fe0b6_09808030_02820150XX1-2.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/_Ir3PSh3TSS-MC7SeRmEdw_776146626696f42310fe0b6_09808030_02820150XX1-2.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/_Ir3PSh3TSS-MC7SeRmEdw_776146626696f42310fe0b6_09808030_02820150XX1-2.jpg"
+      ]
     }
   ],
   "looks": [

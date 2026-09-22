@@ -16,12 +16,18 @@
     {
       "name": "Beige",
       "code": "1163",
-      "imageUrl": null
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw982e1ede/images/large/12208786046a1ff3d7278f19_03380338_02861180XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw982e1ede/images/large/12208786046a1ff3d7278f19_03380338_02861180XX1.jpg?sw=500"
+      ]
     },
     {
       "name": "Vinaccia",
       "code": "2453",
-      "imageUrl": null
+      "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4d59caed/images/large/8507445506a1ff4f9429d25_07004880_02881050XX1.jpg?sw=500",
+      "imageUrls": [
+        "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4d59caed/images/large/8507445506a1ff4f9429d25_07004880_02881050XX1.jpg?sw=500"
+      ]
     }
   ],
   "looks": [
@@ -134,7 +140,7 @@
         {
           "name": "Manos",
           "code": "1736",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview%20%281%29.png"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/314c63a1-d679-4a25-a961-3d80f833772c-removebg-preview (1).png"
         }
       ]
     },

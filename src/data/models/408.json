@@ -16,7 +16,10 @@
     {
       "name": "Blu Beige",
       "code": "1219 1136",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1090919112691f15a282b145_96317919_02781020XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1090919112691f15a282b145_96317919_02781020XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1090919112691f15a282b145_96317919_02781020XX1.jpg"
+      ]
     }
   ],
   "looks": [

@@ -16,12 +16,18 @@
     {
       "name": "Bordeaux",
       "code": "2439",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1197999749691f1574dbd530_20416087_02790380XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1197999749691f1574dbd530_20416087_02790380XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1197999749691f1574dbd530_20416087_02790380XX1.jpg"
+      ]
     },
     {
       "name": "Nero Cammello",
       "code": "0101 2246",
-      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1275497118691f1574379f96_26559022_02790370XX1.jpg"
+      "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1275497118691f1574379f96_26559022_02790370XX1.jpg",
+      "imageUrls": [
+        "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1275497118691f1574379f96_26559022_02790370XX1.jpg"
+      ]
     }
   ],
   "looks": [
@@ -52,7 +58,7 @@
         {
           "name": "Modine",
           "code": "2439",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/1894289842692424e57f36f5_04380624_02790570XX1.jpg"
+          "imageUrl": "https://www.luisaspagnoli.com/dw/image/v2/BFPQ_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb7e6b9f9/images/large/528880496a1ff922061c42_05494073_02841490XX1.jpg?sw=500"
         }
       ]
     },
@@ -153,7 +159,7 @@
         {
           "name": "Manos",
           "code": "0101",
-          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000%20%283%29.jpg"
+          "imageUrl": "https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000 (3).jpg"
         },
         {
           "name": "Foligno",
