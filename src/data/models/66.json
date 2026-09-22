@@ -150,89 +150,89 @@
   "objections": {
     "en": [
       {
-        "q": "A mini length may seem insufficiently formal.",
-        "a": "Thanks to the rich texture of macramé lace and understated raglan sleeves, the piece maintains an aristocratic balance, fully in keeping with cocktail-event etiquette."
+        "q": "A mini length may seem insufficiently formal",
+        "a": "Thanks to the rich texture of macramÃ© lace and understated raglan sleeves, the piece maintains an aristocratic balance, fully in keeping with cocktail-event etiquette."
       },
       {
-        "q": "The metallic thread may cause discomfort.",
+        "q": "The metallic thread may cause discomfort",
         "a": "The Galalite dress is fully lined with a soft lining, which prevents any contact between the metallic fibres and the skin, ensuring maximum comfort throughout the evening."
       },
       {
-        "q": "The lace fabric seems too delicate for wear.",
-        "a": "Despite its visually airy appearance, macramé is one of the most durable weaving techniques. The high quality of execution guarantees the piece will retain its shape."
+        "q": "The lace fabric seems too delicate for wear",
+        "a": "Despite its visually airy appearance, macramÃ© is one of the most durable weaving techniques. The high quality of execution guarantees the piece will retain its shape."
       },
       {
-        "q": "It's difficult to find footwear to match such a striking gold shimmer.",
+        "q": "It's difficult to find footwear to match such a striking gold shimmer",
         "a": "The 'Oro' gold shade is a classic neutral within the eveningwear wardrobe. We recommend pairing it with understated matching shoes or accessories, such as the Iroise 0212 0002."
       },
       {
-        "q": "This dress is only suitable for a single occasion.",
+        "q": "This dress is only suitable for a single occasion",
         "a": "Galalite is a timeless Luisa Spagnoli classic. By varying the accessories and hairstyle, you can create fresh looks for a range of social occasions across many seasons."
       }
     ],
     "ru": [
       {
-        "q": "Длина мини может выглядеть недостаточно официально.",
-        "a": "Благодаря богатой фактуре кружева макраме и сдержанному верху с рукавами реглан, модель сохраняет аристократичный баланс и полностью соответствует этикету коктейльных мероприятий."
+        "q": "Длина мини может показаться недостаточно формальной",
+        "a": "Благодаря богатой фактуре кружева макраме и лаконичным рукавам реглан, изделие сохраняет аристократичный баланс, полностью соответствующий этикету коктейльных мероприятий."
       },
       {
-        "q": "Металлизированная нить может вызывать дискомфорт.",
-        "a": "Платье Galalite полностью посажено на мягкую подкладку, что исключает контакт металлизированных волокон с кожей и обеспечивает максимальный комфорт в течение всего вечера."
+        "q": "Металлизированная нить может вызывать дискомфорт",
+        "a": "Платье Galalite полностью на мягкой подкладке, что исключает контакт металлизированных волокон с кожей, обеспечивая максимальный комфорт на протяжении всего вечера."
       },
       {
-        "q": "Кружевное полотно кажется слишком деликатным для носки.",
-        "a": "Несмотря на визуальную воздушность, макраме — это одна из самых прочных техник плетения. Высокое качество исполнения гарантирует сохранение формы изделия."
+        "q": "Кружевная ткань кажется слишком деликатной",
+        "a": "Несмотря на визуальную воздушность, макраме — одна из самых износостойких техник плетения. Высокое качество исполнения гарантирует, что изделие сохранит свою форму."
       },
       {
-        "q": "Сложно подобрать обувь к такому активному золотому блеску.",
-        "a": "Золотой оттенок 'Oro' является классическим нейтральным цветом в вечернем гардеробе. Мы рекомендуем дополнить его лаконичными туфлями в тон или аксессуарами, такими как Iroise 0212 0002."
+        "q": "Сложно подобрать обувь к такому яркому золотому сиянию",
+        "a": "Золотой оттенок «Oro» — это классический нейтральный тон в вечернем гардеробе. Мы рекомендуем дополнить его лаконичной обувью или аксессуарами в тон, например, моделью Iroise 0212 0002."
       },
       {
-        "q": "Это платье только для одного выхода.",
-        "a": "Galalite — это вневременная классика Luisa Spagnoli. Изменяя аксессуары и прическу, вы сможете создавать новые образы для различных светских событий на протяжении многих сезонов."
+        "q": "Это платье подходит только для одного выхода",
+        "a": "Galalite — это вневременная классика Luisa Spagnoli. Варьируя аксессуары и укладку, вы сможете создавать свежие образы для самых разных светских событий на протяжении многих сезонов."
       }
     ],
     "ar": [
       {
-        "q": "قد يبدو الطول القصير (ميني) غير رسمي بما فيه الكفاية.",
+        "q": "قد يبدو الطول القصير (ميني) غير رسمي بما فيه الكفاية",
         "a": "بفضل ملمس دانتيل المكرامي الغني والجزء العلوي المحتشم بأكمام راجلان، يحافظ الموديل على توازن أرستقراطي ويتماشى تماماً مع قواعد الأزياء في حفلات الكوكتيل."
       },
       {
-        "q": "قد تسبب الخيوط المعدنية عدم الارتياح.",
+        "q": "قد تسبب الخيوط المعدنية عدم الارتياح",
         "a": "فستان Galalite مبطن بالكامل ببطانة ناعمة، مما يمنع تلامس الألياف المعدنية مع الجلد ويضمن أقصى درجات الراحة طوال الأمسية."
       },
       {
-        "q": "يبدو نسيج الدانتيل رقيقاً جداً للارتداء.",
+        "q": "يبدو نسيج الدانتيل رقيقاً جداً للارتداء",
         "a": "على الرغم من خفته الظاهرة، يعتبر المكرامي أحد أقوى تقنيات النسيج. إن جودة التنفيذ العالية تضمن الحفاظ على شكل القطعة."
       },
       {
-        "q": "من الصعب اختيار أحذية تناسب هذا البريق الذهبي القوي.",
-        "a": "يعتبر اللون الذهبي 'Oro' لوناً محايداً كلاسيكياً في خزانة ملابس السهرة. ننصح بتنسيقه مع أحذية بسيطة بنفس اللون أو إكسسوارات مثل Iroise 0212 0002."
+        "q": "من الصعب اختيار أحذية تناسب هذا البريق الذهبي القوي",
+        "a": "يعتبر اللون الذهبي 'Oro' لوناً محايداً كلاسيكياً في خزانة ملابس السهرة. ننصح بتنسيقه مع أحذية بسيطة بنفس اللون أو إكسسوارات مثل Iroise 0212 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bh054MdiSKKEM-NPLgzYnA_1932535666696f42291c1a50_67050088_02801430XX1.jpg."
       },
       {
-        "q": "هذا الفستان مناسب للخروج مرة واحدة فقط.",
+        "q": "هذا الفستان مناسب للخروج مرة واحدة فقط",
         "a": "Galalite هو كلاسيكية خالدة من Luisa Spagnoli. من خلال تغيير الإكسسوارات وتصفيفة الشعر، يمكنك ابتكار إطلالات جديدة لمختلف المناسبات الاجتماعية على مدى عدة مواسم."
       }
     ],
     "ka": [
       {
-        "q": "მინი სიგრძე შესაძლოა არასაკმარისად ოფიციალურად გამოიყურებოდეს.",
+        "q": "მინი სიგრძე შესაძლოა არასაკმარისად ოფიციალურად გამოიყურებოდეს",
         "a": "მაკრამეს მაქმანის მდიდარი ფაქტურისა და რეგლანის სახელოებიანი თავშეკავებული ზედა ნაწილის წყალობით, მოდელი ინარჩუნებს არისტოკრატულ ბალანსს და სრულად შეესაბამება კოქტეილის ღონისძიებების ეტიკეტს."
       },
       {
-        "q": "მეტალიზებულმა ძაფმა შესაძლოა დისკომფორტი გამოიწვიოს.",
+        "q": "მეტალიზებულმა ძაფმა შესაძლოა დისკომფორტი გამოიწვიოს",
         "a": "კაბა Galalite სრულად არის დატანილი რბილ სარჩულზე, რაც გამორიცხავს მეტალიზებული ბოჭკოების კანთან კონტაქტს და უზრუნველყოფს მაქსიმალურ კომფორტს მთელი საღამოს განმავლობაში."
       },
       {
-        "q": "მაქმანის ქსოვილი ზედმეტად დელიკატური ჩანს ტარებისთვის.",
+        "q": "მაქმანის ქსოვილი ზედმეტად დელიკატური ჩანს ტარებისთვის",
         "a": "ვიზუალური ჰაეროვნების მიუხედავად, მაკრამე წნვის ერთ-ერთი ყველაზე მტკიცე ტექნიკაა. შესრულების მაღალი ხარისხი უზრუნველყოფს ნივთის ფორმის შენარჩუნებას."
       },
       {
-        "q": "რთულია ფეხსაცმლის შერჩევა ასეთი აქტიური ოქროსფერი ბზინვარებისთვის.",
-        "a": "ოქროსფერი ტონი 'Oro' საღამოს გარდერობში კლასიკურ ნეიტრალურ ფერად ითვლება. ჩვენ გირჩევთ შეავსოთ იგი ლაკონიური, ტონში გადაწყვეტილი ფეხსაცმლით ან ისეთი აქსესუარებით, როგორიცაა Iroise 0212 0002."
+        "q": "რთულია ფეხსაცმლის შერჩევა ასეთი აქტიური ოქროსფერი ბზინვარებისთვის",
+        "a": "ოქროსფერი ტონი 'Oro' საღამოს გარდერობში კლასიკურ ნეიტრალურ ფერად ითვლება. ჩვენ გირჩევთ შეავსოთ იგი ლაკონიური, ტონში გადაწყვეტილი ფეხსაცმლით ან ისეთი აქსესუარებით, როგორიცაა Iroise 0212 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bh054MdiSKKEM-NPLgzYnA_1932535666696f42291c1a50_67050088_02801430XX1.jpg."
       },
       {
-        "q": "ეს კაბა მხოლოდ ერთი გასვლისთვისაა.",
+        "q": "ეს კაბა მხოლოდ ერთი გასვლისთვისაა",
         "a": "Galalite არის Luisa Spagnoli-ს დროზე მაღლა მდგომი კლასიკა. აქსესუარებისა და ვარცხნილობის შეცვლით, თქვენ შეძლებთ შექმნათ ახალი იმიჯები სხვადასხვა საერო ღონისძიებისთვის მრავალი სეზონის განმავლობაში."
       }
     ],
@@ -260,89 +260,89 @@
     ],
     "lv": [
       {
-        "q": "Mini garums var izskatīties nepietiekami oficiāli.",
+        "q": "Mini garums var izskatīties nepietiekami oficiāli",
         "a": "Pateicoties bagātīgajai makramē mežģīņu faktūrai un atturīgajai augšdaļai ar reglāna piedurknēm, modelis saglabā aristokrātisku līdzsvaru un pilnībā atbilst kokteiļpasākumu etiķetei."
       },
       {
-        "q": "Metalizētais diegs var radīt diskomfortu.",
+        "q": "Metalizētais diegs var radīt diskomfortu",
         "a": "Kleita Galalite ir pilnībā uzlikta uz mīkstas oderes, kas izslēdz metalizēto šķiedru kontaktu ar ādu un nodrošina maksimālu komfortu visa vakara garumā."
       },
       {
-        "q": "Mežģīņu audums šķiet pārāk smalks valkāšanai.",
+        "q": "Mežģīņu audums šķiet pārāk smalks valkāšanai",
         "a": "Neskatoties uz vizuālo gaisīgumu, makramē ir viena no visizturīgākajām pīšanas tehnikām. Augstā izpildījuma kvalitāte garantē izstrādājuma formas saglabāšanu."
       },
       {
-        "q": "Grūti piemeklēt apavus tik aktīvam zelta spīdumam.",
-        "a": "Zelta tonis 'Oro' ir klasiska neitrāla krāsa vakara garderobē. Mēs iesakām papildināt to ar lakoniskām kurpēm tonī vai aksesuāriem, piemēram, Iroise 0212 0002."
+        "q": "Grūti piemeklēt apavus tik aktīvam zelta spīdumam",
+        "a": "Zelta tonis 'Oro' ir klasiska neitrāla krāsa vakara garderobē. Mēs iesakām papildināt to ar lakoniskām kurpēm tonī vai aksesuāriem, piemēram, Iroise 0212 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bh054MdiSKKEM-NPLgzYnA_1932535666696f42291c1a50_67050088_02801430XX1.jpg."
       },
       {
-        "q": "Šī kleita ir tikai vienai iziešanai.",
+        "q": "Šī kleita ir tikai vienai iziešanai",
         "a": "Galalite ir Luisa Spagnoli nezūdošā klasika. Mainot aksesuārus un frizūru, jūs varēsiet radīt jaunus tēlus dažādiem saviesīgiem notikumiem daudzu sezonu garumā."
       }
     ],
     "lt": [
       {
-        "q": "Mini ilgis gali atrodyti nepakankamai oficialiai.",
+        "q": "Mini ilgis gali atrodyti nepakankamai oficialiai",
         "a": "Dėl turtingos makramė nėrinių faktūros ir santūrios viršutinės dalies su reglano rankovėmis, modelis išlaiko aristokratišką pusiausvyrą ir visiškai atitinka kokteilių vakarėlių etiketą."
       },
       {
-        "q": "Metalizuotas siūlas gali kelti diskomfortą.",
+        "q": "Metalizuotas siūlas gali kelti diskomfortą",
         "a": "Suknelė Galalite turi pilną minkštą pamušalą, kuris pašalina metalizuotų pluoštų kontaktą su oda ir užtikrina maksimalų komfortą visą vakarą."
       },
       {
-        "q": "Nėrinių audinys atrodo per daug subtilus dėvėjimui.",
+        "q": "Nėrinių audinys atrodo per daug subtilus dėvėjimui",
         "a": "Nepaisant vizualaus lengvumo, makramė yra viena iš patvariausių pynimo technikų. Aukšta atlikimo kokybė garantuoja gaminio formos išlaikymą."
       },
       {
-        "q": "Sunku parinkti avalynę prie tokio ryškaus auksinio žvilgesio.",
-        "a": "Auksinis atspalvis 'Oro' yra klasikinė neutrali spalva vakariniame garderobe. Rekomenduojame jį derinti su lakoniškais bateliais tonas-į-toną arba aksesuarais, tokiais kaip Iroise 0212 0002."
+        "q": "Sunku parinkti avalynę prie tokio ryškaus auksinio žvilgesio",
+        "a": "Auksinis atspalvis 'Oro' yra klasikinė neutrali spalva vakariniame garderobe. Rekomenduojame jį derinti su lakoniškais bateliais tonas-į-toną arba aksesuarais, tokiais kaip Iroise 0212 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bh054MdiSKKEM-NPLgzYnA_1932535666696f42291c1a50_67050088_02801430XX1.jpg."
       },
       {
-        "q": "Ši suknelė skirta tik vienam kartui.",
+        "q": "Ši suknelė skirta tik vienam kartui",
         "a": "Galalite — tai Luisa Spagnoli laikui nepavaldi klasika. Keisdami aksesuarus ir šukuoseną, galėsite kurti naujus įvaizdžius įvairiems reprezentaciniams renginiams daugelį sezonų."
       }
     ],
     "pl": [
       {
-        "q": "Długość mini może wyglądać na zbyt mało oficjalną.",
+        "q": "Długość mini może wyglądać na zbyt mało oficjalną",
         "a": "Dzięki bogatej fakturze koronki makramé i stonowanej górze z rękawami typu reglan, model zachowuje arystokratyczny balans i w pełni odpowiada etykiecie przyjęć koktajlowych."
       },
       {
-        "q": "Metalizowana nić może powodować dyskomfort.",
+        "q": "Metalizowana nić może powodować dyskomfort",
         "a": "Sukienka Galalite jest w całości wykończona miękką podszewką, co wyklucza kontakt metalizowanych włókien ze skórą i zapewnia maksymalny komfort przez cały wieczór."
       },
       {
-        "q": "Koronkowa tkanina wydaje się zbyt delikatna do noszenia.",
+        "q": "Koronkowa tkanina wydaje się zbyt delikatna do noszenia",
         "a": "Mimo wizualnej lekkości, makramé to jedna z najtrwalszych technik plecionkarskich. Wysoka jakość wykonania gwarantuje zachowanie formy produktu."
       },
       {
-        "q": "Trudno dobrać obuwie do tak wyrazistego złotego blasku.",
-        "a": "Złoty odcień 'Oro' jest klasycznym, neutralnym kolorem w wieczorowej garderobie. Zalecamy uzupełnienie go minimalistycznymi czółenkami w tonie lub akcesoriami, takimi jak Iroise 0212 0002."
+        "q": "Trudno dobrać obuwie do tak wyrazistego złotego blasku",
+        "a": "Złoty odcień 'Oro' jest klasycznym, neutralnym kolorem w wieczorowej garderobie. Zalecamy uzupełnienie go minimalistycznymi czółenkami w tonie lub akcesoriami, takimi jak Iroise 0212 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bh054MdiSKKEM-NPLgzYnA_1932535666696f42291c1a50_67050088_02801430XX1.jpg."
       },
       {
-        "q": "Ta sukienka nadaje się tylko na jedno wyjście.",
+        "q": "Ta sukienka nadaje się tylko na jedno wyjście",
         "a": "Galalite to ponadczasowa klasyka Luisa Spagnoli. Zmieniając dodatki i fryzurę, będą Państwo mogli tworzyć nowe stylizacje na różne uroczyste wydarzenia przez wiele sezonów."
       }
     ],
     "uk": [
       {
-        "q": "Довжина міні може виглядати недостатньо офіційно.",
+        "q": "Довжина міні може виглядати недостатньо офіційно",
         "a": "Завдяки багатій фактурі мережива макраме та стриманому верху з рукавами реглан, модель зберігає аристократичний баланс і повністю відповідає етикету коктейльних заходів."
       },
       {
-        "q": "Металізована нитка може викликати дискомфорт.",
+        "q": "Металізована нитка може викликати дискомфорт",
         "a": "Сукня Galalite повністю посаджена на м'яку підкладку, що виключає контакт металізованих волокон зі шкірою та забезпечує максимальний комфорт протягом усього вечора."
       },
       {
-        "q": "Мереживне полотно здається занадто делікатним для носіння.",
+        "q": "Мереживне полотно здається занадто делікатним для носіння",
         "a": "Попри візуальну легкість, макраме — це одна з найміцніших технік плетіння. Висока якість виконання гарантує збереження форми виробу."
       },
       {
-        "q": "Складно підібрати взуття до такого активного золотого блиску.",
-        "a": "Золотий відтінок 'Oro' є класичним нейтральним кольором у вечірньому гардеробі. Ми рекомендуємо доповнити його лаконічними туфлями в тон або аксесуарами, такими як Iroise 0212 0002."
+        "q": "Складно підібрати взуття до такого активного золотого блиску",
+        "a": "Золотий відтінок 'Oro' є класичним нейтральним кольором у вечірньому гардеробі. Ми рекомендуємо доповнити його лаконічними туфлями в тон або аксесуарами, такими як Iroise 0212 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/bh054MdiSKKEM-NPLgzYnA_1932535666696f42291c1a50_67050088_02801430XX1.jpg."
       },
       {
-        "q": "Ця сукня тільки для одного виходу.",
+        "q": "Ця сукня тільки для одного виходу",
         "a": "Galalite — це позачасова класика Luisa Spagnoli. Змінюючи аксесуари та зачіску, ви зможете створювати нові образи для різних світських подій протягом багатьох сезонів."
       }
     ]

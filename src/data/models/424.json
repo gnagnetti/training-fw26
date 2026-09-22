@@ -219,34 +219,54 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "print seems Explain that the intricate tapestry motif is a too intricate» hallmark of the \"Quiet Luxury\" style. It pairs beautifully with foundation pieces (such as the Olla 1073), becoming the standout intellectual accent of the look. «I'm worried the Point out the silk slip lining included with the fabric will show piece. It was designed specifically for this through» model, ensuring complete confidence and comfort. «Georgette is a Remind the client of layering. Paired with the very sheer fabric Semaforo 4575 vest or worn under the Scalare for winter» 0817 jacket, the shirt provides the necessary warmth while keeping the look light. «The ruffles add Note that in this piece, the ruffles are made unwanted volume» from the finest georgette, which doesn't hold rigid volume but simply creates a soft play of light and shadow, without adding bulk. «I don't know what Showcase the finished pairing from Look 34: denim is to wear with such the perfect ally for \"taming\" a bold, an intricate print» intricate print, turning a statement blouse into an everyday-luxury piece"
+        "q": "The print seems Explain that the intricate tapestry motif is a too intricate",
+        "a": "hallmark of the \"Quiet Luxury\" style. It pairs beautifully with foundation pieces (such as the Olla 1073), becoming the standout intellectual accent of the look."
+      },
+      {
+        "q": "I'm worried the Point out the silk slip lining included with the fabric will show piece. It was designed specifically for this through",
+        "a": "model, ensuring complete confidence and comfort."
+      },
+      {
+        "q": "Georgette is a Remind the client of layering. Paired with the very sheer fabric Semaforo 4575 vest or worn under the Scalare for winter",
+        "a": "0817 jacket, the shirt provides the necessary warmth while keeping the look light."
+      },
+      {
+        "q": "The ruffles add Note that in this piece, the ruffles are made unwanted volume",
+        "a": "from the finest georgette, which doesn't hold rigid volume but simply creates a soft play of light and shadow, without adding bulk."
+      },
+      {
+        "q": "I don't know what Showcase the finished pairing from Look 34: denim is to wear with such the perfect ally for \"taming\" a bold, an intricate print",
+        "a": "intricate print, turning a statement blouse into an everyday-luxury piece. ![](media/image57.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Принт кажется",
-        "a": "Поясните, что сложный рисунок гобелена — это слишком сложным маркер стиля."
+        "q": "Принт кажется слишком сложным",
+        "a": ". Ответ: Поясните, что замысловатый гобеленовый мотив — визитная карточка стиля."
       },
       {
-        "q": "Quiet Luxury",
-        "a": ". Он идеально сочетается с базовыми вещами (например, Olla 1073), становясь главным интеллектуальным акцентом."
+        "q": "тихая роскошь",
+        "a": ". Он великолепно сочетается с базовыми вещами (такими как Olla 1073), становясь интеллектуальным акцентом образа. Возражение."
       },
       {
-        "q": "Боюсь, что ткань",
-        "a": "Укажите на входящую в комплект шелковую будет подкладку-чехол. Она разработана специально для просвечивать этой модели, гарантируя абсолютную уверенность и комфорт."
+        "q": "Боюсь, ткань будет просвечивать",
+        "a": ". Ответ: Укажите на шелковую подкладку-комбинацию, входящую в комплект. Она разработана специально для этой модели, обеспечивая полную уверенность и комфорт. Возражение."
       },
       {
-        "q": "Джорджетта —",
-        "a": "Напомните о многослойности. В сочетании с жилетом очень тонкая ткань Semaforo 4575 или под жакет Scalare 0817 для зимы рубашка создает необходимую теплоемкость, сохраняя при этом легкость образа."
+        "q": "Жоржет — слишком прозрачная ткань для зимы",
+        "a": ". Ответ: Напомните о многослойности. В паре с жилетом Semaforo 4575 или под жакетом Scalare 0817 блуза обеспечивает необходимое тепло, сохраняя легкость образа. Возражение."
       },
       {
-        "q": "Рюши добавляют Отметьте, что в данной модели рюши выполнены из лишний объем",
-        "a": "тончайшей джорджетты, которая не держит жесткий объем, а лишь создает мягкую игру света и тени, не утяжеляя фигуру."
+        "q": "Оборки добавляют нежелательный объем",
+        "a": ". Ответ: Отметьте, что в этом изделии оборки выполнены из тончайшего жоржета, который не держит жесткий объем, а лишь создает мягкую игру света и тени, не утяжеляя силуэт. Возражение."
       },
       {
-        "q": "Не знаю, с чем",
-        "a": "Продемонстрируйте готовое решение из Look 34: деним носить такой — лучший союзник для «успокоения сложного активный рисунок» принта, превращающий нарядную блузу в элемент повседневной роскоши."
+        "q": "Не знаю, с чем носить такой сложный принт",
+        "a": ". Ответ: Покажите готовое сочетание из образа 34: деним — идеальный союзник для."
+      },
+      {
+        "q": "укрощения",
+        "a": "сложного принта, превращающий акцентную блузу в вещь в стиле everyday-luxury."
       }
     ],
     "ar": [
@@ -276,7 +296,7 @@
       },
       {
         "q": "لتهدئة",
-        "a": "النقشة المعقدة، مما يحول البلوزة الفاخرة إلى قطعة من الفخامة اليومية."
+        "a": "النقشة المعقدة، مما يحول البلوزة الفاخرة إلى قطعة من الفخامة اليومية. ![](media/image57.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -328,7 +348,7 @@
       },
       {
         "q": "հանգստացնելու",
-        "a": "համար, որը տոնական բլուզը վերածում է առօրյա շքեղության տարրի։."
+        "a": "համար, որը տոնական բլուզը վերածում է առօրյա շքեղության տարրի։ ![](media/image57.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
@@ -407,28 +427,28 @@
     ],
     "uk": [
       {
-        "q": "Принт здається",
-        "a": "Поясніть, що складний малюнок гобелена — це занадто складним маркер стилю."
+        "q": "Принт здається Поясніть, що складний малюнок гобелена --- це занадто складним",
+        "a": "маркер стилю."
       },
       {
         "q": "Quiet Luxury",
         "a": ". Він ідеально поєднується з базовими речами (наприклад, Olla 1073), стаючи головним інтелектуальним акцентом."
       },
       {
-        "q": "Боюсь, що тканина",
-        "a": "Вкажіть на шовкову підкладку-чохол, що входить до буде комплекту. Вона розроблена спеціально для цієї просвічувати моделі, гарантуючи абсолютну впевненість та комфорт."
+        "q": "Боюсь, що тканина Вкажіть на шовкову підкладку-чохол, що входить до буде комплекту. Вона розроблена спеціально для цієї просвічувати",
+        "a": "моделі, гарантуючи абсолютну впевненість та комфорт."
       },
       {
-        "q": "Джорджет —",
-        "a": "Нагадайте про багатошаровість. У поєднанні з жилетом дуже тонка тканина Semaforo 4575 або під жакет Scalare 0817 для зими сорочка створює необхідну теплоємність, зберігаючи при цьому легкість образу."
+        "q": "Джорджет --- Нагадайте про багатошаровість. У поєднанні з жилетом дуже тонка тканина Semaforo 4575 або під жакет Scalare 0817 для зими",
+        "a": "сорочка створює необхідну теплоємність, зберігаючи при цьому легкість образу."
       },
       {
         "q": "Рюші додають Зазначте, що в даній моделі рюші виконані з зайвий об'єм",
         "a": "найтоншого джорджету, який не тримає жорсткий об'єм, а лише створює м'яку гру світла та тіні, не обтяжуючи фігуру."
       },
       {
-        "q": "Не знаю, з чим",
-        "a": "Продемонструйте готове рішення з Look 34: денім носити такий — найкращий союзник для «заспокоєння складного активний малюнок» принту, що перетворює ошатну блузу на елемент повсякденної розкоші."
+        "q": "Не знаю, з чим Продемонструйте готове рішення з Look 34: денім носити такий --- найкращий союзник для «заспокоєння",
+        "a": "складного активний малюнок» принту, що перетворює ошатну блузу на елемент повсякденної розкоші. ![](media/image57.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

@@ -226,86 +226,82 @@
     ],
     "ru": [
       {
-        "q": "Боюсь, что рукава 'bombè' добавят мне ненужный объем в плечах.",
+        "q": "Боюсь, что рукава 'bombè' добавят мне ненужный объем в плечах",
         "a": "Объясните, что крой пальто имеет отрезную талию и четкие линии нервюр, которые визуально вытягивают силуэт, гармонизируя объем рукавов."
       },
       {
-        "q": "Меня смущает полиэстер в составе за такую цену.",
+        "q": "Меня смущает полиэстер в составе за такую цену",
         "a": "Уточните, что 20% технологичных волокон необходимы именно для того, чтобы пальто сохраняло свою архитектурную форму и было устойчиво к деформации и пиллингу."
       },
       {
         "q": "Будет ли это пальто сочетаться с брюками?",
-        "a": "Продемонстрируйте Look 180 из официального стайлинга, где пальто Scansione 0961 идеально дополняет повседневный комплект с брюками."
+        "a": "Продемонстрируйте Look 180 из официального стайлинга, где пальто Scansione 0961 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg идеально дополняет повседневный комплект с брюками."
       },
       {
-        "q": "Ткань кажется слишком плотной и жесткой.",
+        "q": "Ткань кажется слишком плотной и жесткой",
         "a": "Это плотное сукно специально разработано для защиты от ветра. В процессе носки оно становится более пластичным, сохраняя при этом безупречный 'дорогой' вид."
       },
       {
-        "q": "Зеленый цвет 2046 слишком сложный для сочетаний.",
+        "q": "Зеленый цвет 2046 слишком сложный для сочетаний",
         "a": "Предложите сочетать его с аксессуарами шоколадного оттенка, как в Look 75, что создаст благородную природную палитру."
       }
     ],
     "ar": [
       {
-        "q": "أخشى أن تضفي الأكمام 'bombè' حجماً غير ضروري على كتفي.",
+        "q": "أخشى أن تضفي الأكمام 'bombè' حجماً غير ضروري على كتفي",
         "a": "اشرحي أن قصة المعطف تتضمن خصراً محدداً وخطوطاً بارزة (نرفيور) تمد القوام بصرياً وتوازن حجم الأكمام."
       },
       {
-        "q": "يقلقني وجود البوليستر في التركيبة بهذا السعر.",
-        "a": "وضحي أن نسبة 20% من الألياف التكنولوجية ضرورية تحديداً ليحافظ المعطف على شكله الهندسي وليكون مقاوماً للتشوه والتنسل."
+        "q": "يقلقني وجود البوليستر في التركيبة بهذا السعر",
+        "a": "وضحي أن نسبة 20% من الألياف التكنولوجية ضرورية تحديداً ليحافظ المعطف على شكله الهندسي وليكون مقاوماً للتشوه والتنسل. «هل سيتماشى هذا المعطف مع البناطيل؟» اعرضي الإطلالة 180 من التنسيقات الرسمية، حيث يكمل معطف Scansione 0961 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg بشكل مثالي الطقم اليومي مع البنطال."
       },
       {
-        "q": "هل سيتماشى هذا المعطف مع البناطيل؟",
-        "a": "اعرضي الإطلالة 180 من التنسيقات الرسمية، حيث يكمل معطف Scansione 0961 بشكل مثالي الطقم اليومي مع البنطال."
-      },
-      {
-        "q": "يبدو القماش سميكاً وخشناً جداً.",
+        "q": "يبدو القماش سميكاً وخشناً جداً",
         "a": "هذا الجوخ الكثيف مصمم خصيصاً للحماية من الرياح. مع الاستخدام، يصبح أكثر مرونة مع الحفاظ على مظهره الفاخر."
       },
       {
-        "q": "اللون الأخضر 2046 معقد جداً في التنسيق.",
+        "q": "اللون الأخضر 2046 معقد جداً في التنسيق",
         "a": "اقترحي تنسيقه مع إكسسوارات بلون الشوكولاتة، كما في الإطلالة 75، مما سيخلق لوحة ألوان طبيعية نبيلة."
       }
     ],
     "ka": [
       {
-        "q": "მეშინია, რომ 'bombè' მკლავები მხრებში ზედმეტ მოცულობას შემმატებს.",
+        "q": "მეშინია, რომ 'bombè' მკლავები მხრებში ზედმეტ მოცულობას შემმატებს",
         "a": "აუხსენით, რომ პალტოს კროის აქვს გამოყოფილი წელი და ნერვიურების მკაფიო ხაზები, რომლებიც ვიზუალურად ჭიმავს სილუეტს და აბალანსებს მკლავების მოცულობას."
       },
       {
-        "q": "მაბნევს შემადგენლობაში არსებული პოლიესტერი ასეთი ფასის პირობებში.",
+        "q": "მაბნევს შემადგენლობაში არსებული პოლიესტერი ასეთი ფასის პირობებში",
         "a": "დააზუსტეთ, რომ 20% ტექნოლოგიური ბოჭკო აუცილებელია სწორედ იმისთვის, რომ პალტომ შეინარჩუნოს თავისი არქიტექტურული ფორმა და იყოს მდგრადი დეფორმაციისა და გაბუსუსების მიმართ."
       },
       {
         "q": "შეხამდება თუ არა ეს პალტო შარვალს?",
-        "a": "წარმოადგინეთ Look 180 ოფიციალური სტაილინგიდან, სადაც პალტო Scansione 0961 იდეალურად ავსებს ყოველდღიურ კომპლექტს შარვალთან ერთად."
+        "a": "წარმოადგინეთ Look 180 ოფიციალური სტაილინგიდან, სადაც პალტო Scansione 0961 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg იდეალურად ავსებს ყოველდღიურ კომპლექტს შარვალთან ერთად."
       },
       {
-        "q": "ქსოვილი ზედმეტად მკვრივი და ხისტი ჩანს.",
+        "q": "ქსოვილი ზედმეტად მკვრივი და ხისტი ჩანს",
         "a": "ეს მკვრივი სუფნო სპეციალურად არის შემუშავებული ქარისგან დასაცავად. ტარების პროცესში იგი ხდება უფრო პლასტიკური და ამავდროულად ინარჩუნებს უნაკლო 'ძვირფას' იერს."
       },
       {
-        "q": "მწვანე ფერი 2046 ზედმეტად რთულია შეხამებისთვის.",
+        "q": "მწვანე ფერი 2046 ზედმეტად რთულია შეხამებისთვის",
         "a": "შესთავაზეთ მისი შეხამება შოკოლადის ელფერის აქსესუარებთან, როგორც Look 75-ში, რაც შექმნის კეთილშობილურ ბუნებრივ პალიტრას."
       }
     ],
     "hy": [
       {
         "q": "Վախենում եմ, որ 'bombè' թևքերը ուսերիս անհարկի ծավալ կավելացնեն",
-        "a": "Բացատրեք, որ վերարկուի ձևվածքն ունի կտրված գոտկատեղ և ռելիեֆային հստակ գծեր, որոնք տեսողականորեն երկարացնում են ուրվագիծը՝ ներդաշնակեցնելով թևքերի ծավալը"
+        "a": "Բացատրեք, որ վերարկուի ձևվածքն ունի կտրված գոտկատեղ և ռելիեֆային հստակ գծեր, որոնք տեսողականորեն երկարացնում են ուրվագիծը՝ ներդաշնակեցնելով թևքերի ծավալը."
       },
       {
         "q": "Ինձ շփոթեցնում է կազմի մեջ առկա պոլիեսթերը նման գնի դեպքում",
-        "a": "Պարզաբանեք, որ 20% տեխնոլոգիական մանրաթելերն անհրաժեշտ են հենց նրա համար, որպեսզի վերարկուն պահպանի իր ճարտարապետական ձևը և դիմացկուն լինի դեֆորմացիայի և գնդիկների առաջացման նկատմամբ"
+        "a": "Պարզաբանեք, որ 20% տեխնոլոգիական մանրաթելերն անհրաժեշտ են հենց նրա համար, որպեսզի վերարկուն պահպանի իր ճարտարապետական ձևը և դիմացկուն լինի դեֆորմացիայի և գնդիկների առաջացման նկատմամբ."
       },
       {
         "q": "Արդյո՞ք այս վերարկուն կհամադրվի տաբատների հետ",
-        "a": "Ցույց տվեք պաշտոնական ոճավորման Look 180-ը, որտեղ Scansione 0961 վերարկուն կատարելապես լրացնում է տաբատներով առօրյա համալիրը"
+        "a": "Ցույց տվեք պաշտոնական ոճավորման Look 180-ը, որտեղ Scansione 0961 վերարկուն (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg կատարելապես լրացնում է տաբատներով առօրյա համալիրը."
       },
       {
         "q": "Գործվածքը չափազանց խիտ և կոշտ է թվում",
-        "a": "Այս խիտ շալատեսակը հատուկ մշակված է քամուց պաշտպանվելու համար: Կրման ընթացքում այն դառնում է ավելի պլաստիկ՝ միաժամանակ պահպանելով իր անթերի 'թանկ' տեսքը"
+        "a": "Այս խիտ շալատեսակը հատուկ մշակված է քամուց պաշտպանվելու համար: Կրման ընթացքում այն դառնում է ավելի պլաստիկ՝ միաժամանակ պահպանելով իր անթերի 'թանկ' տեսքը."
       },
       {
         "q": "Կանաչ 2046 գույնը չափազանց բարդ է համադրությունների համար",
@@ -314,89 +310,89 @@
     ],
     "lv": [
       {
-        "q": "Baidos, ka 'bombè' piedurknes piešķirs man nevajadzīgu apjomu plecos.",
+        "q": "Baidos, ka 'bombè' piedurknes piešķirs man nevajadzīgu apjomu plecos",
         "a": "Paskaidrojiet, ka mēteļa piegriezumam ir atgriezta vidukļa līnija un skaidras vīļu līnijas, kas vizuāli pagarina siluetu, harmonizējot piedurkņu apjomu."
       },
       {
-        "q": "Mani mulsina poliesters sastāvā par šādu cenu.",
+        "q": "Mani mulsina poliesters sastāvā par šādu cenu",
         "a": "Precizējiet, ka 20% tehnoloģisko šķiedru ir nepieciešami tieši tādēļ, lai mētelis saglabātu savu arhitektonisko formu un būtu izturīgs pret deformāciju un savelšanos."
       },
       {
         "q": "Vai šis mētelis saderēs ar biksēm?",
-        "a": "Demonstrējiet Look 180 no oficiālā stailinga, kur mētelis Scansione 0961 ideāli papildina ikdienas komplektu ar biksēm."
+        "a": "Demonstrējiet Look 180 no oficiālā stailinga, kur mētelis Scansione 0961 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg ideāli papildina ikdienas komplektu ar biksēm."
       },
       {
-        "q": "Audums šķiet pārāk blīvs un ciets.",
+        "q": "Audums šķiet pārāk blīvs un ciets",
         "a": "Šis blīvais audums ir īpaši izstrādāts aizsardzībai pret vēju. Valkāšanas procesā tas kļūst plastiskāks, saglabājot nevainojamu 'dārgu' izskatu."
       },
       {
-        "q": "Zaļā krāsa 2046 ir pārāk sarežģīta kombinēšanai.",
+        "q": "Zaļā krāsa 2046 ir pārāk sarežģīta kombinēšanai",
         "a": "Piedāvājiet to kombinēt ar šokolādes toņa aksesuāriem, kā tas ir Look 75, kas radīs cēlu dabisko paleti."
       }
     ],
     "lt": [
       {
-        "q": "Baiminuosi, kad „bombè“ tipo rankovės suteiks nereikalingo tūrio pečiams.",
+        "q": "Baiminuosi, kad „bombè“ tipo rankovės suteiks nereikalingo tūrio pečiams",
         "a": "Paaiškinkite, kad palto kirpimas turi atskirtą liemenį ir aiškias siūlių linijas, kurios vizualiai ištęsia siluetą, subalansuodamos rankovių tūrį."
       },
       {
-        "q": "Mane trikdo poliesteris sudėtyje už tokią kainą.",
+        "q": "Mane trikdo poliesteris sudėtyje už tokią kainą",
         "a": "Patikslinkite, kad 20% technologinio pluošto yra būtini tam, kad paltas išlaikytų savo architektūrinę formą ir būtų atsparus deformacijai bei pilingui."
       },
       {
         "q": "Ar šis paltas derės su kelnėmis?",
-        "a": "Pademonstruokite „Look 180“ iš oficialaus stiliaus gidų, kur „Scansione 0961“ paltas idealiai papildo kasdienį komplektą su kelnėmis."
+        "a": "Pademonstruokite „Look 180“ iš oficialaus stiliaus gidų, kur „Scansione 0961“ (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg paltas idealiai papildo kasdienį komplektą su kelnėmis."
       },
       {
-        "q": "Audinys atrodo per daug tankus ir kietas.",
+        "q": "Audinys atrodo per daug tankus ir kietas",
         "a": "Šis tankus audinys buvo specialiai sukurtas apsaugai nuo vėjo. Dėvėjimo procese jis tampa lankstesnis, išlaikydamas nepriekaištingą „brangią“ išvaizdą."
       },
       {
-        "q": "Žalia 2046 spalva yra per daug sudėtinga derinimui.",
+        "q": "Žalia 2046 spalva yra per daug sudėtinga derinimui",
         "a": "Pasiūlykite derinti ją su šokoladinio atspalvio aksesuarais, kaip „Look 75“, tai sukurs taurią natūralią paletę."
       }
     ],
     "pl": [
       {
-        "q": "Obawiam się, że rękawy 'bombè' dodadzą mi niepotrzebnej objętości w ramionach.",
+        "q": "Obawiam się, że rękawy 'bombè' dodadzą mi niepotrzebnej objętości w ramionach",
         "a": "Wyjaśnij, że krój płaszcza ma odciętą talię i wyraźne linie przeszyć, które wizualnie wydłużają sylwetkę, harmonizując objętość rękawów."
       },
       {
-        "q": "Niepokoi mnie poliester w składzie za taką cenę.",
+        "q": "Niepokoi mnie poliester w składzie za taką cenę",
         "a": "Wyjaśnij, że 20% zaawansowanych technologicznie włókien jest niezbędnych właśnie po to, aby płaszcz zachowywał swoją architektoniczną formę oraz był odporny na deformację i mechacenie."
       },
       {
         "q": "Czy ten płaszcz będzie pasował do spodni?",
-        "a": "Zaprezentuj Look 180 z oficjalnego stylingu, gdzie płaszcz Scansione 0961 idealnie uzupełnia codzienny zestaw ze spodniami."
+        "a": "Zaprezentuj Look 180 z oficjalnego stylingu, gdzie płaszcz Scansione 0961 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg idealnie uzupełnia codzienny zestaw ze spodniami."
       },
       {
-        "q": "Tkanina wydaje się zbyt gęsta i sztywna.",
+        "q": "Tkanina wydaje się zbyt gęsta i sztywna",
         "a": "To gęste sukno zostało specjalnie zaprojektowane do ochrony przed wiatrem. W procesie noszenia staje się bardziej plastyczne, zachowując jednocześnie nienaganny 'drogi' wygląd."
       },
       {
-        "q": "Zielony kolor 2046 jest zbyt trudny do łączenia.",
+        "q": "Zielony kolor 2046 jest zbyt trudny do łączenia",
         "a": "Zaproponuj łączenie go z akcesoriami w czekoladowym odcieniu, jak w Look 75, co stworzy szlachetną naturalną paletę."
       }
     ],
     "uk": [
       {
-        "q": "Боюся, що рукави 'bombè' додадуть мені непотрібний об'єм у плечах.",
+        "q": "Боюся, що рукави 'bombè' додадуть мені непотрібний об'єм у плечах",
         "a": "Поясніть, що крій пальта має відрізну талію та чіткі лінії нервюр, які візуально витягують силует, гармонізуючи об'єм рукавів."
       },
       {
-        "q": "Мене бентежить поліестер у складі за таку ціну.",
+        "q": "Мене бентежить поліестер у складі за таку ціну",
         "a": "Уточніть, що 20% технологічних волокон необхідні саме для того, щоб пальто зберігало свою архітектурну форму і було стійким до деформації та пілінгу."
       },
       {
         "q": "Чи буде це пальто поєднуватися з брюками?",
-        "a": "Продемонструйте Look 180 з офіційного стайлінгу, де пальто Scansione 0961 ідеально доповнює повсякденний комплект з брюками."
+        "a": "Продемонструйте Look 180 з офіційного стайлінгу, де пальто Scansione 0961 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/WDu1Ie_2TLCfXS6sapBREA_929555794696f42f1be1be1_27317241_02820880XX1.jpg ідеально доповнює повсякденний комплект з брюками."
       },
       {
-        "q": "Тканина здається занадто щільною та жорсткою.",
+        "q": "Тканина здається занадто щільною та жорсткою",
         "a": "Це щільне сукно спеціально розроблено для захисту від вітру. У процесі носіння воно стає більш пластичним, зберігаючи при цьому бездоганний 'дорогий' вигляд."
       },
       {
-        "q": "Зелений колір 2046 занадто складний для поєднань.",
+        "q": "Зелений колір 2046 занадто складний для поєднань",
         "a": "Запропонуйте поєднувати його з аксесуарами шоколадного відтінку, як у Look 75, що створить благородну природну палітру."
       }
     ]

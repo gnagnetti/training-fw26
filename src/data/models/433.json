@@ -95,34 +95,50 @@
   "objections": {
     "en": [
       {
-        "q": "Wool",
-        "a": "knitwear Remind the client that Luisa Spagnoli uses might irritate the delicate lana vergine wool, whose fibers skin» offer exceptional softness and thermoregulation, providing \"second-skin\" comfort. «The ruffles look Explain that the knit is highly supple. The too voluminous ruffles rest gently under a coat or jacket under outerwear» and instantly spring back into shape once the outer layer is removed. «The black knit Point out the play of textures and the shine of looks too plain» the gold hardware. Paired with the Fabula 0101 eco-leather skirt, the look becomes sophisticated and elevated. «The ruffles will Explain that Spagnoli's dense knit is engineered be hard to care to preserve its decorative elements. Following the for» care recommendations, the ruffles will keep their shape for years. «The \"serafino\" Showcase how the ruffles and gold buttons style feels too transform this basic piece into an elegant sporty» evening look, especially paired with a maxi skirt"
+        "q": "Wool knitwear Remind the client that Luisa Spagnoli uses might irritate the delicate lana vergine wool, whose fibers skin",
+        "a": "offer exceptional softness and thermoregulation, providing \"second-skin\" comfort."
+      },
+      {
+        "q": "The ruffles look Explain that the knit is highly supple. The too voluminous ruffles rest gently under a coat or jacket under outerwear",
+        "a": "and instantly spring back into shape once the outer layer is removed."
+      },
+      {
+        "q": "The black knit Point out the play of textures and the shine of looks too plain",
+        "a": "the gold hardware. Paired with the Fabula 0101 eco-leather skirt, the look becomes sophisticated and elevated."
+      },
+      {
+        "q": "The ruffles will Explain that Spagnoli's dense knit is engineered be hard to care to preserve its decorative elements. Following the for",
+        "a": "care recommendations, the ruffles will keep their shape for years."
+      },
+      {
+        "q": "The \"serafino\" Showcase how the ruffles and gold buttons style feels too transform this basic piece into an elegant sporty",
+        "a": "evening look, especially paired with a maxi skirt. ![](media/image73.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image74.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image75.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Шерстяной трикотаж",
-        "a": "Напомните, что Luisa Spagnoli использует может раздражать деликатную шерсть lana vergine, волокна кожу которой обладают особой мягкостью и терморегуляцией, обеспечивая комфорт."
+        "q": "Шерстяной трикотаж может раздражать кожу",
+        "a": "> Напомните, что Luisa Spagnoli использует деликатную шерсть lana vergine, волокна которой обеспечивают исключительную мягкость и терморегуляцию, создавая комфорт."
       },
       {
         "q": "второй кожи",
         "a": "."
       },
       {
-        "q": "Воланы выглядят",
-        "a": "Поясните, что трикотаж обладает высокой слишком объемными под пластичностью. Воланы мягко прилегают под пальто верхней одеждой или жакетом и мгновенно восстанавливают форму при снятии верхнего слоя."
+        "q": "Оборки выглядят слишком объемными под верхней одеждой",
+        "a": "> Объясните, что трикотаж обладает высокой пластичностью. Оборки мягко располагаются под пальто или жакетом и мгновенно восстанавливают форму после снятия верхнего слоя."
       },
       {
-        "q": "Черный трикотаж",
-        "a": "Укажите на игру фактур и блеск золотой фурнитуры. выглядит слишком В сочетании с юбкой из экокожи Fabula 0101 просто образ становится сложным и торжественным."
+        "q": "Черный трикотаж выглядит слишком просто",
+        "a": "> Укажите на игру фактур и блеск золотой фурнитуры. В паре с юбкой из эко-кожи Fabula 0101 образ становится утонченным и статусным."
       },
       {
-        "q": "За воланами будет",
-        "a": "Объясните, что плотная вязка Spagnoli разработана сложно ухаживать с учетом сохранения декоративных элементов. При соблюдении рекомендаций по уходу воланы сохранят свою форму годами."
+        "q": "За оборками будет сложно ухаживать",
+        "a": "> Объясните, что плотный трикотаж Spagnoli разработан так, чтобы сохранять декоративные элементы. При соблюдении рекомендаций по уходу оборки сохранят свою форму на долгие годы."
       },
       {
-        "q": "Стиль \\'серафино\\",
-        "a": "Продемонстрируйте, как воланы и золотые пуговицы кажется слишком трансформируют эту базу в элегантный вечерний спортивным вариант, особенно в паре с макси-юбкой."
+        "q": "Стиль \"серафино\" кажется слишком спортивным",
+        "a": "> Продемонстрируйте, как оборки и золотые пуговицы превращают эту базовую вещь в элегантный вечерний образ, особенно в сочетании с юбкой макси."
       }
     ],
     "ar": [
@@ -148,7 +164,7 @@
       },
       {
         "q": "طراز الـ 'سيرافينو' يبدو رياضياً أكثر من اللازم",
-        "a": "استعرض كيف تحول الكشكشة والأزرار الذهبية هذه القطعة الأساسية إلى خيار مسائي أنيق، خاصة عند تنسيقها مع تنورة ماكسي."
+        "a": "استعرض كيف تحول الكشكشة والأزرار الذهبية هذه القطعة الأساسية إلى خيار مسائي أنيق، خاصة عند تنسيقها مع تنورة ماكسي. ![](media/image73.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image74.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image75.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -195,34 +211,34 @@
         "a": "՝ Բացատրեք, որ Spagnoli-ի խիտ հյուսվածքը մշակված է դեկորատիվ տարրերի պահպանման հաշվառմամբ: Խնամքի խորհուրդներին հետևելու դեպքում վոլանները տարիներ շարունակ կպահպանեն իրենց ձևը."
       },
       {
-        "q": "Սերաֆինո",
-        "a": "ոճը չափազանց սպորտային է թվում»՝ Ցուցադրեք, թե ինչպես են վոլաններն ու ոսկեգույն կոճակները այս բազային մոդելը վերածում էլեգանտ երեկոյան տարբերակի, հատկապես մաքսի-կիսաշրջազգեստի հետ համադրությամբ."
+        "q": "«Սերաֆինո",
+        "a": "ոճը չափազանց սպորտային է թվում»՝ Ցուցադրեք, թե ինչպես են վոլաններն ու ոսկեգույն կոճակները այս բազային մոդելը վերածում էլեգանտ երեկոյան տարբերակի, հատկապես մաքսի-կիսաշրջազգեստի հետ համադրությամբ: ![](media/image73.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image74.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image75.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Vilnas trikotāža",
-        "a": "Atgādiniet, ka Luisa Spagnoli izmanto var kairināt delikāto lana vergine vilnu, kuras šķiedras ādu piemīt īpašs mīkstums un termoregulācija, nodrošinot."
+        "q": "Vilnas trikotāža Atgādiniet, ka Luisa Spagnoli izmanto var kairināt delikāto lana vergine vilnu, kuras šķiedras ādu",
+        "a": "piemīt īpašs mīkstums un termoregulācija, nodrošinot."
       },
       {
         "q": "otrās ādas",
         "a": "komfortu."
       },
       {
-        "q": "Volāni izskatās",
-        "a": "Izskaidrojiet, ka trikotāža ir ļoti plastiska. pārāk apjomīgi zem Volāni maigi pieguļ zem mēteļa vai jakas un virsdrēbēm acumirklī atgūst formu, novelkot virsējo kārtu."
+        "q": "Volāni izskatās Izskaidrojiet, ka trikotāža ir ļoti plastiska. pārāk apjomīgi zem Volāni maigi pieguļ zem mēteļa vai jakas un virsdrēbēm",
+        "a": "acumirklī atgūst formu, novelkot virsējo kārtu."
       },
       {
-        "q": "Melna trikotāža",
-        "a": "Norādiet uz faktūru spēli un zelta furnitūras izskatās pārāk mirdzumu. Apvienojumā ar Fabula 0101 ekoudas svārkiem vienkārši tēls kļūst sarežģīts un svinīgs."
+        "q": "Melna trikotāža Norādiet uz faktūru spēli un zelta furnitūras izskatās pārāk mirdzumu. Apvienojumā ar Fabula 0101 ekoudas svārkiem vienkārši",
+        "a": "tēls kļūst sarežģīts un svinīgs."
       },
       {
-        "q": "Par volāniem būs",
-        "a": "Izskaidrojiet, ka blīvais Spagnoli adījums ir izstrādāts grūti kopt ņemot vērā dekoratīvo elementu saglabāšanu. Ievērojot kopšanas ieteikumus, volāni saglabās savu formu gadiem ilgi."
+        "q": "Par volāniem būs Izskaidrojiet, ka blīvais Spagnoli adījums ir izstrādāts grūti kopt",
+        "a": "ņemot vērā dekoratīvo elementu saglabāšanu. Ievērojot kopšanas ieteikumus, volāni saglabās savu formu gadiem ilgi."
       },
       {
-        "q": "Stils 'serafino",
-        "a": "Demonstrējiet, kā volāni un zelta pogas transformē šo šķiet pārāk bāzes modeli elegantā vakara variantā, īpaši sportisks pārī ar maksi svārkiem."
+        "q": "Stils 'serafino' Demonstrējiet, kā volāni un zelta pogas transformē šo šķiet pārāk bāzes modeli elegantā vakara variantā, īpaši sportisks",
+        "a": "pārī ar maksi svārkiem. ![](media/image73.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image74.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image75.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -296,7 +312,7 @@
       },
       {
         "q": "Стиль 'серафіно' здається занадто спортивним",
-        "a": "Продемонструйте, як волани та золоті ґудзики трансформують цю базу в елегантний вечірній варіант, особливо в парі з максіспідницею."
+        "a": "Продемонструйте, як волани та золоті ґудзики трансформують цю базу в елегантний вечірній варіант, особливо в парі з максіспідницею. ![](media/image73.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image74.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image75.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

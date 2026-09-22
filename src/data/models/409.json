@@ -146,96 +146,84 @@
   "objections": {
     "en": [
       {
-        "q": "The print looks too intricate and demanding.",
-        "a": "Explain that the intricate «tapestry » motif is a hallmark of «Quiet Luxury. » It is self-sufficient and requires nothing more than understated accessories."
+        "q": "The print looks too intricate and demanding",
+        "a": " Response: Explain that the intricate «tapestry » motif is a hallmark of."
       },
       {
-        "q": "I 'm worried the dress will look too voluminous.",
-        "a": "Suggest trying the piece with the Darsena 0101 belt, as styled in the lookbook. This creates a clear waist definition, transforming the loose silhouette into an alluring hourglass shape."
+        "q": "Quiet Luxury",
+        "a": " It is self-sufficient and requires nothing more than understated accessories. Objection: «I »™m worried the dress will look too voluminous. » Response: Suggest trying the piece with the Darsena 0101 belt, as styled in the lookbook. This creates a clear waist definition, transforming the loose silhouette into an alluring hourglass shape. Objection."
       },
       {
-        "q": "The ankle length is impractical for city wear.",
-        "a": "Point to the fluidity of the viscose. The dress is constructed to allow full freedom of movement, and the alla caviglia length pairs beautifully with both tall boots and elegant shoes."
+        "q": "The ankle length is impractical for city wear",
+        "a": " Response: Point to the fluidity of the viscose. The dress is constructed to allow full freedom of movement, and the alla caviglia length pairs beautifully with both tall boots and elegant shoes. Objection."
       },
       {
-        "q": "The ruffles and flounces feel too girlish.",
-        "a": "Emphasise that, as executed by Luisa Spagnoli, the ruffles are an element of «bon ton » and neo-romantic style which, paired with the print 's dark ground, reads as sophisticated and mature."
+        "q": "The ruffles and flounces feel too girlish",
+        "a": " Response: Emphasise that, as executed by Luisa Spagnoli, the ruffles are an element of «bon ton » and neo-romantic style which, paired with the print »™s dark ground, reads as sophisticated and mature. Objection."
       },
       {
-        "q": "The viscose georgette feels too thin.",
-        "a": "Remind the client that Luisa Spagnoli 's georgette is remarkably durable despite its weightlessness. It holds the shape of the flounces beautifully and provides excellent temperature regulation"
+        "q": "The viscose georgette feels too thin",
+        "a": " Response: Remind the client that Luisa Spagnoli »™s georgette is remarkably durable despite its weightlessness. It holds the shape of the flounces beautifully and provides excellent temperature regulation. ![](media/image36.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image37.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Принт выглядит",
-        "a": "Поясните, что сложный узор «шпалера — это слишком сложным и маркер высокого стиля."
+        "q": "Принт выглядит слишком сложным и обязывающим",
+        "a": ". Ответ: Этот изысканный."
       },
       {
-        "q": "Quiet Luxury",
-        "a": ". Он обязывающим» самодостаточен и не требует дополнительных украшений, кроме лаконичных аксессуаров."
+        "q": "гобеленовый",
+        "a": "мотив — квинтэссенция."
       },
       {
-        "q": "Боюсь, что платье",
-        "a": "Предложите примерить модель с поясом Darsena будет выглядеть 0101, как в Lookbook. Это создаст четкий слишком объемным акцент на талии, превращая свободный силуэт в соблазнительные."
+        "q": "тихой роскоши",
+        "a": ". Он самодостаточен и требует лишь лаконичных аксессуаров. Возражение."
+      },
+      {
+        "q": "Боюсь, платье будет выглядеть слишком объемным",
+        "a": ". Ответ: Рекомендуем дополнить образ ремнем Darsena 0101, как в лукбуке. Это акцентирует талию, превращая свободный силуэт в соблазнительные."
       },
       {
         "q": "песочные часы",
-        "a": "."
+        "a": ". Возражение."
       },
       {
-        "q": "Длина до щиколотки",
-        "a": "Укажите на текучесть вискозы. Платье неудобна для города сконструировано так, чтобы не стеснять движений, а длина."
+        "q": "Длина до щиколотки непрактична для города",
+        "a": ". Ответ: Оцените пластичность вискозы. Платье сконструировано так, чтобы не стеснять движений, а длина alla caviglia идеально сочетается как с высокими сапогами, так и с элегантными туфлями. Возражение."
       },
       {
-        "q": "alla caviglia",
-        "a": "идеально сочетается как с высокими сапогами, так и с изящными туфлями."
+        "q": "Воланы и оборки кажутся слишком инфантильными",
+        "a": ". Ответ: В исполнении Luisa Spagnoli оборки — это элемент стиля."
       },
       {
-        "q": "Рюши и воланы",
-        "a": "Подчеркните, что в исполнении Luisa Spagnoli добавляют рюши — это элемент стиля «bon ton и инфантильности» нео-романтизма, который в сочетании с темной базой принта выглядит статусно и взросло."
+        "q": "bon ton",
+        "a": "и неоромантизма, который на темном фоне принта выглядит благородно и зрело. Возражение."
       },
       {
-        "q": "Вискозная",
-        "a": "Напомните, что джорджетта Luisa Spagnoli джорджетта кажется обладает высокой прочностью при своей слишком тонкой невесомости. Она прекрасно держит форму воланов и обеспечивает безупречную терморегуляцию."
+        "q": "Вискозный жоржет кажется слишком тонким",
+        "a": ". Ответ: Жоржет от Luisa Spagnoli удивительно износостойкий, несмотря на свою невесомость. Он безупречно держит форму воланов и обладает превосходной терморегуляцией."
       }
     ],
     "ar": [
       {
-        "q": "النقشة تبدو معقدة",
-        "a": "وضحي أن نقشة التعريشة."
-      },
-      {
-        "q": "المعقدة هي رمز للأناقة الرفيعة بأسلوب",
-        "a": "الفخامة الهادئة."
-      },
-      {
-        "q": "للغاية ومُلزمة",
+        "q": "النقشة تبدو معقدة وضحي أن نقشة \"التعريشة\" المعقدة هي رمز للأناقة الرفيعة بأسلوب \"الفخامة الهادئة\" للغاية ومُلزمة",
         "a": "(Quiet Luxury). فهي مكتفية بذاتها ولا تتطلب إضافات سوى إكسسوارات بسيطة."
       },
       {
-        "q": "أخشى أن يبدو الفستان",
-        "a": "اقترحي تجربة الموديل مع حزام Darsena 0101، تماماً كما في كتالوج الموديلات (Lookbook). واسعاً جداً سيخلق ذلك تحديداً واضحاً للخصر، محولاً القصة الفضفاضة إلى شكل."
-      },
-      {
-        "q": "الساعة الرملية",
-        "a": "الجذاب."
+        "q": "أخشى أن يبدو الفستان اقترحي تجربة الموديل مع حزام Darsena 0101، تماماً كما في كتالوج الموديلات (Lookbook). واسعاً جداً",
+        "a": "سيخلق ذلك تحديداً واضحاً للخصر، محولاً القصة الفضفاضة إلى شكل \"الساعة الرملية\" الجذاب."
       },
       {
         "q": "طول الكاحل غير مريح اشيري إلى انسيابية الفسكوز. الفستان مصمم بحيث لا يعيق الحركة، كما أن طول للمدينة",
         "a": "(alla caviglia) يتناسب تماماً مع الجزم الطويلة أو الأحذية الأنيقة."
       },
       {
-        "q": "الكشكشة والكرانيش تضفي",
-        "a": "أكدي أن الكشكشة بتوقيع Luisa Spagnoli هي عنصر من أسلوب bon ton."
-      },
-      {
-        "q": "والنيو-رومانسية، انطباعاً طفولياً",
+        "q": "الكشكشة والكرانيش تضفي أكدي أن الكشكشة بتوقيع Luisa Spagnoli هي عنصر من أسلوب \"bon ton\" والنيو-رومانسية، انطباعاً طفولياً",
         "a": "والتي تبدو ذات مكانة وقورة عند دمجها مع أرضية النقشة الداكنة."
       },
       {
         "q": "جيرسيه الفسكوز يبدو ذكري العميل بأن جيرسيه (جورجيت) Luisa Spagnoli يتمتع بمتانة عالية رغم خفته الفائقة. رقيقاً جداً",
-        "a": "إنه يحافظ على شكل الكرانيش ببراعة ويضمن تهوية مثالية."
+        "a": "إنه يحافظ على شكل الكرانيش ببراعة ويضمن تهوية مثالية. ![](media/image36.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image37.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -245,7 +233,7 @@
       },
       {
         "q": "შპალერა",
-        "a": "— ეს."
+        "a": "ეს."
       },
       {
         "q": "Quiet Luxury",
@@ -277,7 +265,7 @@
       },
       {
         "q": "ვისკოზის ჟორჟეტი ზედმეტად თხელი ჩანს",
-        "a": "შეახსენეთ, რომ Luisa Spagnoli-ს ჟორჟეტს გააჩნია მაღალი სიმტკიცე თავისი წონა-სიმსუბუქის მიუხედავად. ის შესანიშნავად ინარჩუნებს ფრილების ფორმას და უზრუნველყოფს უნაკლო თერმორეგულაციას."
+        "a": "შეახსენეთ, რომ Luisa Spagnoli-ს ჟორჟეტს გააჩნია მაღალი სიმტკიცე თავისი წონა-სიმსუბუქის მიუხედავად. ის შესანიშნავად ინარჩუნებს ფრილების ფორმას და უზრუნველყოფს უნაკლო თერმორეგულაციას. ![](media/image36.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image37.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -319,7 +307,7 @@
       },
       {
         "q": "Վիսկոզե ժորժետը չափազանց բարակ է թվում",
-        "a": "Հիշեցրեք, որ Luisa Spagnoli-ի ժորժետը ունի բարձր ամրություն՝ իր անկշռելիության հետ մեկտեղ։ Այն հրաշալի պահում է ծալքերի ձևը և ապահովում անթերի ջերմակարգավորում։."
+        "a": "Հիշեցրեք, որ Luisa Spagnoli-ի ժորժետը ունի բարձր ամրություն՝ իր անկշռելիության հետ մեկտեղ։ Այն հրաշալի պահում է ծալքերի ձևը և ապահովում անթերի ջերմակարգավորում։ ![](media/image36.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image37.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
@@ -329,7 +317,7 @@
       },
       {
         "q": "špalēras",
-        "a": "raksts — tas ir augsta stila."
+        "a": "raksts --- tas ir augsta stila."
       },
       {
         "q": "Quiet Luxury",
@@ -353,7 +341,7 @@
       },
       {
         "q": "Volāni un krokas piešķir bērnišķību",
-        "a": "Uzsveriet, ka Luisa Spagnoli izpildījumā volāni — tas ir."
+        "a": "Uzsveriet, ka Luisa Spagnoli izpildījumā volāni --- tas ir."
       },
       {
         "q": "bon ton",
@@ -361,7 +349,7 @@
       },
       {
         "q": "Viskozes žoržets šķiet pārāk plāns",
-        "a": "Atgādiniet, ka Luisa Spagnoli žoržets piemīt augsta izturība, neskatoties uz tā vieglumu. Tas lieliski notur volānu formu un nodrošina nevainojamu termoregulāciju."
+        "a": "Atgādiniet, ka Luisa Spagnoli žoržets piemīt augsta izturība, neskatoties uz tā vieglumu. Tas lieliski notur volānu formu un nodrošina nevainojamu termoregulāciju. ![](media/image36.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image37.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -426,36 +414,36 @@
     ],
     "uk": [
       {
-        "q": "Принт виглядає",
-        "a": "Поясніть, що складний візерунок «шпалера — це надто складним і маркер високого стилю."
+        "q": "Принт виглядає Поясніть, що складний візерунок «шпалера",
+        "a": "це надто складним і маркер високого стилю."
       },
       {
         "q": "Quiet Luxury",
         "a": ". Він обтяжливим» самодостатній і не вимагає додаткових прикрас, окрім лаконічних аксесуарів."
       },
       {
-        "q": "Боюся, що сукня",
-        "a": "Запропонуйте приміряти модель з поясом Darsena буде виглядати 0101, як у Lookbook. Це створить чіткий надто об’ємною акцент на талії, перетворюючи вільний силует на спокусливий."
+        "q": "Боюся, що сукня Запропонуйте приміряти модель з поясом Darsena буде виглядати 0101, як у Lookbook. Це створить чіткий надто об’ємною",
+        "a": "акцент на талії, перетворюючи вільний силует на спокусливий."
       },
       {
         "q": "пісочний годинник",
         "a": "."
       },
       {
-        "q": "Довжина до щиколотки",
-        "a": "Вкажіть на плинність віскози. Сукня незручна для міста сконструйована так, щоб не обмежувати рухів, а довжина."
+        "q": "Довжина до щиколотки Вкажіть на плинність віскози. Сукня незручна для міста",
+        "a": "сконструйована так, щоб не обмежувати рухів, а довжина."
       },
       {
         "q": "alla caviglia",
         "a": "ідеально поєднується як з високими чоботями, так і з витонченими туфлями."
       },
       {
-        "q": "Рюші та волани",
-        "a": "Підкресліть, що у виконанні Luisa Spagnoli додають рюші — це елемент стилю «bon ton та інфантильності» неоромантизму, який у поєднанні з темною базою принта виглядає статусно і доросло."
+        "q": "Рюші та волани Підкресліть, що у виконанні Luisa Spagnoli додають рюші --- це елемент стилю «bon ton",
+        "a": "та інфантильності» неоромантизму, який у поєднанні з темною базою принта виглядає статусно і доросло."
       },
       {
-        "q": "Віскозна",
-        "a": "Нагадайте, що джорджет Luisa Spagnoli джорджет здається володіє високою міцністю при своїй надто тонкою невагомості. Вона чудово тримає форму воланів і забезпечує бездоганну терморегуляцію."
+        "q": "Віскозна Нагадайте, що джорджет Luisa Spagnoli джорджет здається володіє високою міцністю при своїй надто тонкою",
+        "a": "невагомості. Вона чудово тримає форму воланів і забезпечує бездоганну терморегуляцію. ![](media/image36.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image37.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

@@ -214,90 +214,90 @@
   "objections": {
     "en": [
       {
-        "q": "Tweed may seem too heavy or stiff.",
+        "q": "Tweed may seem too heavy or stiff",
         "a": "Thanks to the addition of silk and cotton, the fabric of the Gallerie dress possesses remarkable lightness and flexibility, while still preserving the impeccable structure of tweed."
       },
       {
-        "q": "A sleeveless style is not entirely practical for the cold season.",
+        "q": "A sleeveless style is not entirely practical for the cold season",
         "a": "This dress is designed around the concept of layering. It pairs beautifully with our fine cashmere turtlenecks or silk blouses, creating an elegant daytime look."
       },
       {
-        "q": "Tweed dresses can sometimes look too ageing.",
+        "q": "Tweed dresses can sometimes look too ageing",
         "a": "The contemporary godet-effect cut and the animal-print belt bring a note of fashion-forward daring to the classic Gallerie silhouette."
       },
       {
-        "q": "A complex fabric composition makes care more difficult.",
+        "q": "A complex fabric composition makes care more difficult",
         "a": "The use of premium-quality fibres guarantees the longevity of the piece. Professional dry cleaning preserves the structure of the tweed and the vibrancy of the colour for many seasons."
       },
       {
-        "q": "A below-the-knee length may call only for a high heel.",
+        "q": "A below-the-knee length may call only for a high heel",
         "a": "Thanks to the godet cut, which visually softens the lower portion, this dress looks equally harmonious with classic pumps or our cylindrical-shaft Ulisside boots."
       }
     ],
     "ru": [
       {
-        "q": "Твид может казаться слишком тяжелым или жестким.",
-        "a": "Благодаря добавлению шелка и хлопка, материал платья Gallerie обладает удивительной легкостью и пластичностью, сохраняя при этом безупречную форму твида."
+        "q": "Твид может казаться слишком тяжелым или жестким",
+        "a": "Благодаря добавлению шелка и хлопка ткань платья Gallerie обладает удивительной легкостью и пластичностью, сохраняя при этом безупречную структуру твида."
       },
       {
-        "q": "Модель без рукавов не совсем практична для холодного сезона.",
-        "a": "Это платье создано для концепции многослойности. Оно великолепно сочетается с нашими тонкими кашемировыми водолазками или шелковыми блузами, создавая элегантный дневной образ."
+        "q": "Модель без рукавов не совсем практична для холодного сезона",
+        "a": "Это платье создано в концепции многослойности. Оно великолепно сочетается с нашими тонкими кашемировыми водолазками или шелковыми блузами, создавая элегантный дневной образ."
       },
       {
-        "q": "Твидовые платья иногда выглядят слишком возрастными.",
-        "a": "Современный крой с эффектом годе и пояс с анималистичным принтом вносят в классический образ Gallerie нотки актуальной моды и дерзости."
+        "q": "Твидовые платья иногда могут выглядеть возрастными",
+        "a": "Современный крой с эффектом годе и ремень с анималистичным принтом привносят ноту модной дерзости в классический силуэт Gallerie."
       },
       {
-        "q": "Сложный состав ткани затрудняет уход.",
-        "a": "Использование высококачественных волокон гарантирует долговечность изделия. Профессиональная сухая чистка позволит сохранить структуру твида и яркость цвета на многие сезоны."
+        "q": "Сложный состав ткани затрудняет уход",
+        "a": "Использование волокон премиального качества гарантирует долговечность изделия. Профессиональная химчистка сохранит структуру твида и насыщенность цвета на многие сезоны."
       },
       {
-        "q": "Длина ниже колена может требовать только высокого каблука.",
-        "a": "Благодаря крою годе, который визуально облегчает нижнюю часть, это платье гармонично смотрится как с классическими лодочками, так и с нашими сапогами с цилиндрическим голенищем Ulisside."
+        "q": "Длина ниже колена требует только высокого каблука",
+        "a": "Благодаря крою годе, который визуально смягчает нижнюю часть, это платье выглядит одинаково гармонично как с классическими лодочками, так и с нашими сапогами Ulisside на цилиндрическом каблуке."
       }
     ],
     "ar": [
       {
-        "q": "قد يبدو التويد ثقيلاً أو قاسياً جداً.",
+        "q": "قد يبدو التويد ثقيلاً أو قاسياً جداً",
         "a": "بفضل إضافة الحرير والقطن، يتمتع قماش فستان Gallerie بخفة ومرونة مذهلة، مع الحفاظ على شكل التويد المثالي."
       },
       {
-        "q": "الموديل بدون أكمام ليس عملياً جداً للموسم البارد.",
+        "q": "الموديل بدون أكمام ليس عملياً جداً للموسم البارد",
         "a": "صُمم هذا الفستان ليعتمد مفهوم الطبقات. وهو يتناغم بشكل رائع مع كنزات الياقة العالية الكشميرية الرفيعة أو البلوزات الحريرية، ليخلق إطلالة نهارية أنيقة."
       },
       {
-        "q": "تبدو فساتين التويد أحياناً أكبر من عمر المرأة.",
+        "q": "تبدو فساتين التويد أحياناً أكبر من عمر المرأة",
         "a": "التصميم الحديث مع تأثير «جوديه» والحزام ذو النقشة الحيوانية يضفي على إطلالة Gallerie الكلاسيكية لمسات من الموضة العصرية والجرأة."
       },
       {
-        "q": "تركيبة القماش المعقدة تجعل العناية به صعبة.",
+        "q": "تركيبة القماش المعقدة تجعل العناية به صعبة",
         "a": "يضمن استخدام الألياف عالية الجودة متانة القطعة. التنظيف الجاف المهني سيسمح بالحفاظ على هيكل التويد وسطوع اللون لعدة مواسم."
       },
       {
-        "q": "الطول أسفل الركبة قد يتطلب ارتداء كعب عالٍ فقط.",
-        "a": "بفضل تصميم الـ «جوديه» الذي يمنح خفة بصرية للجزء السفلي، يبدو هذا الفستان متناغماً سواء مع أحذية القوارب الكلاسيكية أو مع أحذيتنا ذات الساق الأسطوانية Ulisside."
+        "q": "الطول أسفل الركبة قد يتطلب ارتداء كعب عالٍ فقط",
+        "a": "بفضل تصميم الـ «جوديه» الذي يمنح خفة بصرية للجزء السفلي، يبدو هذا الفستان متناغماً سواء مع أحذية القوارب الكلاسيكية أو مع أحذيتنا ذات الساق الأسطوانية Ulisside (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg."
       }
     ],
     "ka": [
       {
-        "q": "ტვიდი შესაძლოა ზედმეტად მძიმე ან ხისტი ჩანდეს.",
+        "q": "ტვიდი შესაძლოა ზედმეტად მძიმე ან ხისტი ჩანდეს",
         "a": "აბრეშუმისა და ბამბის დამატების წყალობით, კაბა Gallerie-ს მასალა ფლობს საოცარ სიმსუბუქესა და პლასტიკურობას, ამასთანავე ინარჩუნებს ტვიდის უნაკლო ფორმას."
       },
       {
-        "q": "უნამოსო მოდელი არცთუ ისე პრაქტიკულია ცივი სეზონისთვის.",
+        "q": "უნამოსო მოდელი არცთუ ისე პრაქტიკულია ცივი სეზონისთვის",
         "a": "ეს კაბა შექმნილია მრავალფენიანობის კონცეფციისთვის. იგი ბრწყინვალედ ეხამება ჩვენს თხელ ქაშმირის გოლფებს ან აბრეშუმის ბლუზებს, რაც ქმნის ელეგანტურ დღის იმიჯს."
       },
       {
-        "q": "ტვიდის კაბები ზოგჯერ ზედმეტად ასაკობრივი ჩანს.",
+        "q": "ტვიდის კაბები ზოგჯერ ზედმეტად ასაკობრივი ჩანს",
         "a": "თანამედროვე ჭრილი „გოდეს“ ეფექტით და ცხოველური პრინტის მქონე ქამარი, კლასიკურ იმიჯ Gallerie-ს შემოაქვს აქტუალური მოდისა და სითამამის ნოტები."
       },
       {
-        "q": "ქსოვილის რთული შემადგენლობა ართულებს მოვლას.",
+        "q": "ქსოვილის რთული შემადგენლობა ართულებს მოვლას",
         "a": "მაღალი ხარისხის ბოჭკოების გამოყენება გარანტიას იძლევა ნივთის გამძლეობისა. პროფესიონალური მშრალი წმენდა საშუალებას მოგცემთ შეინარჩუნოთ ტვიდის სტრუქტურა და ფერის სიკაშკაშე მრავალი სეზონის განმავლობაში."
       },
       {
-        "q": "მუხლს ქვემოთ სიგრძე შესაძლოა მოითხოვდეს მხოლოდ მაღალ ქუსლს.",
-        "a": "„გოდეს“ ჭრილის წყალობით, რომელიც ვიზუალურად ამსუბუქებს ქვედა ნაწილს, ეს კაბა ჰარმონიულად გამოიყურება როგორც კლასიკურ ნავებთან, ისე ჩვენს ცილინდრული ყალიბის ჩექმებთან Ulisside."
+        "q": "მუხლს ქვემოთ სიგრძე შესაძლოა მოითხოვდეს მხოლოდ მაღალ ქუსლს",
+        "a": "„გოდეს“ ჭრილის წყალობით, რომელიც ვიზუალურად ამსუბუქებს ქვედა ნაწილს, ეს კაბა ჰარმონიულად გამოიყურება როგორც კლასიკურ ნავებთან, ისე ჩვენს ცილინდრული ყალიბის ჩექმებთან Ulisside (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg."
       }
     ],
     "hy": [
@@ -324,86 +324,90 @@
     ],
     "lv": [
       {
-        "q": "Tvīds var šķist pārāk smags vai stingrs.",
+        "q": "Tvīds var šķist pārāk smags vai stingrs",
         "a": "Pateicoties zīda un kokvilnas piejaukumam, kleitas Gallerie materiālam piemīt pārsteidzošs vieglums un plastika, vienlaikus saglabājot nevainojamu tvīda formu."
       },
       {
-        "q": "Modelis bez piedurknēm nav īsti praktisks aukstajai sezonai.",
+        "q": "Modelis bez piedurknēm nav īsti praktisks aukstajai sezonai",
         "a": "Šī kleita ir radīta slāņošanas koncepcijai. Tā lieliski sader ar mūsu plānajām kašmira ūdenslīnijas apkakles blūzēm vai zīda blūzēm, radot elegantu dienas tēlu."
       },
       {
-        "q": "Tvīda kleitas dažreiz izskatās pārāk vecmodīgas.",
+        "q": "Tvīda kleitas dažreiz izskatās pārāk vecmodīgas",
         "a": "Mūsdienīgs piegriezums ar godē efektu un josta ar dzīvniecisku apdruku ienes klasiskajā Gallerie tēlā aktuālās modes un drosmes notis."
       },
       {
-        "q": "Sarežģītais auduma sastāvs apgrūtina kopšanu.",
+        "q": "Sarežģītais auduma sastāvs apgrūtina kopšanu",
         "a": "Augstas kvalitātes šķiedru izmantošana garantē izstrādājuma ilgmūžību. Profesionāla ķīmiskā tīrīšana ļaus saglabāt tvīda struktūru un krāsas spilgtumu daudzas sezonas."
       },
       {
-        "q": "Garums zem ceļa var prasīt tikai augstu papēdi.",
-        "a": "Pateicoties godē piegriezumam, kas vizuāli atvieglo apakšējo daļu, šī kleita harmoniski izskatās gan ar klasiskajām laiviņām, gan ar mūsu zābakiem ar cilindrisku stulmu Ulisside."
+        "q": "Garums zem ceļa var prasīt tikai augstu papēdi",
+        "a": "Pateicoties godē piegriezumam, kas vizuāli atvieglo apakšējo daļu, šī kleita harmoniski izskatās gan ar klasiskajām laiviņām, gan ar mūsu zābakiem ar cilindrisku stulmu Ulisside (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg."
       }
     ],
     "lt": [
       {
-        "q": "Tvido audinys gali pasirodyti per sunkus arba kietas.",
+        "q": "Tvido audinys gali pasirodyti per sunkus arba kietas",
         "a": "Dėl šilko ir medvilnės priemaišos suknelės Gallerie medžiaga pasižymi stulbinančiu lengvumu ir plastiškumu, kartu išlaikydama nepriekaištingą tvido formą."
       },
       {
-        "q": "Tvido suknelės kartais atrodo per daug brandžios.",
+        "q": "Modelis be rankovių nėra itin praktiškas šaltuoju sezonu",
+        "a": "Ši suknelė sukurta laikantis daugiasluoksniškumo koncepcijos. Ji puikiai dera su mūsų plonais kašmyro golfais ar šilko palaidinėmis, sukuriant elegantišką dieninį įvaizdį."
+      },
+      {
+        "q": "Tvido suknelės kartais atrodo per daug brandžios",
         "a": "Modernus kirpimas su „godé“ efektu ir diržas su gyvūniniu raštu suteikia klasikiniam Gallerie įvaizdžiui aktualios mados ir drąsos natų."
       },
       {
-        "q": "Sudėtinga audinio sudėtis apsunkina priežiūrą.",
+        "q": "Sudėtinga audinio sudėtis apsunkina priežiūrą",
         "a": "Aukštos kokybės pluoštų naudojimas garantuoja gaminio ilgaamžiškumą. Profesionalus sausas valymas leis išsaugoti tvido struktūrą ir spalvos ryškumą daugelį sezonų."
       },
       {
-        "q": "Ilgis žemiau kelių gali reikalauti tik aukšto kulno.",
-        "a": "Dėl „godé“ kirpimo, kuris vizualiai lengvina apatinę dalį, ši suknelė harmoningai atrodo tiek su klasikiniais bateliais-laiveliais, tiek su mūsų batais cilindriniu aulu Ulisside."
+        "q": "Ilgis žemiau kelių gali reikalauti tik aukšto kulno",
+        "a": "Dėl „godé“ kirpimo, kuris vizualiai lengvina apatinę dalį, ši suknelė harmoningai atrodo tiek su klasikiniais bateliais-laiveliais, tiek su mūsų batais cilindriniu aulu Ulisside (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg."
       }
     ],
     "pl": [
       {
-        "q": "Tweed może wydawać się zbyt ciężki lub sztywny.",
+        "q": "Tweed może wydawać się zbyt ciężki lub sztywny",
         "a": "Dzięki dodatkowi jedwabiu i bawełny materiał sukienki Gallerie posiada niezwykłą lekkość i plastyczność, zachowując przy tym nieskazitelną formę tweedu."
       },
       {
-        "q": "Model bez rękawów nie jest zbyt praktyczny na chłodniejszy sezon.",
+        "q": "Model bez rękawów nie jest zbyt praktyczny na chłodniejszy sezon",
         "a": "Ta sukienka została stworzona z myślą o koncepcji warstwowości. Wspaniale komponuje się z naszymi cienkimi kaszmirowymi golfami lub jedwabnymi bluzkami, tworząc elegancki zestaw dzienny."
       },
       {
-        "q": "Sukienki z tweedu czasami wyglądają zbyt poważnie.",
+        "q": "Sukienki z tweedu czasami wyglądają zbyt poważnie",
         "a": "Nowoczesny krój z efektem gode i pasek z motywem zwierzęcym wnoszą do klasycznego wizerunku Gallerie nuty aktualnej mody i pewności siebie."
       },
       {
-        "q": "Złożony skład tkaniny utrudnia pielęgnację.",
+        "q": "Złożony skład tkaniny utrudnia pielęgnację",
         "a": "Zastosowanie wysokiej jakości włókien gwarantuje trwałość produktu. Profesjonalne czyszczenie chemiczne pozwoli zachować strukturę tweedu i intensywność koloru na wiele sezonów."
       },
       {
-        "q": "Długość poniżej kolana może wymagać tylko wysokiego obcasa.",
-        "a": "Dzięki krojowi gode, który wizualnie odciąża dolną partię, sukienka harmonijnie prezentuje się zarówno z klasycznymi czółenkami, jak i z naszymi kozakami z cylindryczną cholewką Ulisside."
+        "q": "Długość poniżej kolana może wymagać tylko wysokiego obcasa",
+        "a": "Dzięki krojowi gode, który wizualnie odciąża dolną partię, sukienka harmonijnie prezentuje się zarówno z klasycznymi czółenkami, jak i z naszymi kozakami z cylindryczną cholewką Ulisside (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg."
       }
     ],
     "uk": [
       {
-        "q": "Твід може здаватися занадто важким або жорстким.",
+        "q": "Твід може здаватися занадто важким або жорстким",
         "a": "Завдяки додаванню шовку та бавовни, матеріал сукні Gallerie має дивовижну легкість і пластичність, зберігаючи при цьому бездоганну форму твіду."
       },
       {
-        "q": "Модель без рукавів не зовсім практична для холодного сезону.",
+        "q": "Модель без рукавів не зовсім практична для холодного сезону",
         "a": "Ця сукня створена для концепції багатошаровості. Вона чудово поєднується з нашими тонкими кашеміровими водолазками або шовковими блузами, створюючи елегантний денний образ."
       },
       {
-        "q": "Твідові сукні іноді виглядають занадто віковими.",
+        "q": "Твідові сукні іноді виглядають занадто віковими",
         "a": "Сучасний крій з ефектом годе та пояс з анімалістичним принтом вносять у класичний образ Gallerie нотки актуальної моди та зухвалості."
       },
       {
-        "q": "Складний склад тканини ускладнює догляд.",
+        "q": "Складний склад тканини ускладнює догляд",
         "a": "Використання високоякісних волокон гарантує довговічність виробу. Професійна суха чистка дозволить зберегти структуру твіду та яскравість кольору на багато сезонів."
       },
       {
-        "q": "Довжина нижче коліна може вимагати тільки високого підбора.",
-        "a": "Завдяки крою годе, який візуально полегшує нижню частину, ця сукня гармонійно виглядає як з класичними човниками, так і з нашими чобітьми з циліндричною халявою Ulisside."
+        "q": "Довжина нижче коліна може вимагати тільки високого підбора",
+        "a": "Завдяки крою годе, який візуально полегшує нижню частину, ця сукня гармонійно виглядає як з класичними човниками, так і з нашими чобітьми з циліндричною халявою Ulisside (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/KXcd3RQpRempSSjJYb6_JA_362957278696f4225f41342_14448703_02801260XX1.jpg."
       }
     ]
   }

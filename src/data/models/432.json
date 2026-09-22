@@ -128,38 +128,54 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "bouclé might Point out the cropped cut and open cuffs. add bulk» These details \"open up\" the slender zones of the body (waist and wrists), which, combined with the regular fit, creates a slim, modern silhouette. «The metal chain On the contrary, showcase Look 99 with denim. looks too Pairing the eye-catching trim with simple Olla flashy» 1073 jeans \"grounds\" the look, moving it from formal occasionwear into everyday-luxury territory. «The hook Explain that the concealed hooks were chosen closure is specifically so as not to overload the jacket's uncomfortable» front with extra details, preserving the continuous line of the decorative chain and creating a \"Haute Couture\" effect. «The fabric seems Remind the client that Luisa Spagnoli uses a too delicate» premium wool blend with mohair, known for its durability and its ability to hold the bouclé's voluminous texture for a long time. «What can I wear Suggest trying the jacket over a simple silk besides a white top, or even directly against the skin under a closed shirt?» closure, for a sharper, evening-ready look, as is often done in runway styling"
+        "q": "The bouclÃ© might Point out the cropped cut and open cuffs. add bulk",
+        "a": "These details \"open up\" the slender zones of the body (waist and wrists), which, combined with the regular fit, creates a slim, modern silhouette."
+      },
+      {
+        "q": "The metal chain On the contrary, showcase Look 99 with denim. looks too Pairing the eye-catching trim with simple Olla flashy",
+        "a": "1073 jeans \"grounds\" the look, moving it from formal occasionwear into everyday-luxury territory."
+      },
+      {
+        "q": "The hook Explain that the concealed hooks were chosen closure is specifically so as not to overload the jacket's uncomfortable",
+        "a": "front with extra details, preserving the continuous line of the decorative chain and creating a \"Haute Couture\" effect."
+      },
+      {
+        "q": "The fabric seems Remind the client that Luisa Spagnoli uses a too delicate",
+        "a": "premium wool blend with mohair, known for its durability and its ability to hold the bouclÃ©'s voluminous texture for a long time."
+      },
+      {
+        "q": "What can I wear Suggest trying the jacket over a simple silk besides a white top, or even directly against the skin under a closed shirt?",
+        "a": "closure, for a sharper, evening-ready look, as is often done in runway styling. ![](media/image71.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image72.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Букле может",
-        "a": "Укажите на укороченный крой (cropped) и открытые полнить манжеты. Эти детали."
+        "q": "Букле может добавить объема",
+        "a": "> Укажите на укороченный крой и открытые манжеты. Эти детали."
       },
       {
         "q": "открывают",
-        "a": "тонкие зоны тела (талию и запястья), что в сочетании с регулярной посадкой создает стройный и современный силуэт."
+        "a": "изящные зоны тела (талию и запястья), что в сочетании с классической посадкой создает стройный, современный силуэт."
       },
       {
-        "q": "Металлическая",
-        "a": "Продемонстрируйте Look 99 с денимом. Сочетание цепь выглядит активной отделки с простыми джинсами Olla 1073 слишком «приземляет образ, переводя его из разряда претенциозно» парадных в категорию повседневной роскоши."
+        "q": "Металлическая цепочка выглядит слишком броско",
+        "a": "> Напротив, покажите образ 99 с денимом. Сочетание эффектной отделки с лаконичными джинсами Olla 1073."
       },
       {
-        "q": "Застежка на",
-        "a": "Объясните, что скрытые крючки выбраны специально, крючках неудобна чтобы не перегружать фасад жакета лишними деталями и сохранить непрерывную линию декоративной цепи, создавая эффект."
+        "q": "заземляет",
+        "a": "образ, переводя его из разряда торжественных в категорию повседневной роскоши."
       },
       {
-        "q": "Haute Couture",
-        "a": "."
+        "q": "Застежка на крючках неудобна",
+        "a": "> Объясните, что скрытые крючки выбраны специально, чтобы не перегружать фронтальную часть жакета лишними деталями, сохраняя непрерывную линию декоративной цепочки и создавая эффект Haute Couture."
       },
       {
-        "q": "Ткань кажется",
-        "a": "Напомните, что Luisa Spagnoli использует слишком высококачественную смесовую шерсть с добавлением деликатной мохера, которая отличается износостойкостью и способностью сохранять объемную фактуру букле в течение долгого времени."
+        "q": "Ткань кажется слишком деликатной",
+        "a": "> Напомните, что Luisa Spagnoli использует премиальную шерстяную смесь с мохером, известную своей износостойкостью и способностью долго сохранять объемную текстуру букле."
       },
       {
-        "q": "С чем носить",
-        "a": "Предложите примерить жакет на лаконичный шелковый кроме белой топ или даже на голое тело под закрытую застежку рубашки? для создания более острого, вечернего образа, как это часто практикуется в подиумных стилизациях."
+        "q": "С чем носить, кроме белого топа?",
+        "a": "> Предложите примерить жакет на голое тело под застегнутый ряд крючков для более острого, вечернего образа, как это часто делают на подиуме."
       }
     ],
     "ar": [
@@ -185,7 +201,7 @@
       },
       {
         "q": "كيف يمكن تنسيقه بعيداً عن القميص الأبيض؟",
-        "a": "اقترح تجربة الجاكيت فوق قميص حريري بسيط أو مباشرة على الجلد مع إغلاق الأزرار بالكامل لخلق مظهر مسائي حاد وعصري، كما هو متبع في عروض الأزياء."
+        "a": "اقترح تجربة الجاكيت فوق قميص حريري بسيط أو مباشرة على الجلد مع إغلاق الأزرار بالكامل لخلق مظهر مسائي حاد وعصري، كما هو متبع في عروض الأزياء. ![](media/image71.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image72.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -241,37 +257,37 @@
       },
       {
         "q": "Ինչի՞ հետ կրել, բացի շապիկի սպիտակ օձիքից",
-        "a": "՝ Առաջարկեք բաճկոնը փորձել լակոնիկ մետաքսե տոպի կամ նույնիսկ մերկ մարմնի վրա՝ փակ ամրացումով, ավելի սուր, երեկոյան կերպար ստեղծելու համար, ինչպես հաճախ արվում է պոդիումային ոճավորումներում."
+        "a": "՝ Առաջարկեք բաճկոնը փորձել լակոնիկ մետաքսե տոպի կամ նույնիսկ մերկ մարմնի վրա՝ փակ ամրացումով, ավելի սուր, երեկոյան կերպար ստեղծելու համար, ինչպես հաճախ արվում է պոդիումային ոճավորումներում: ![](media/image71.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image72.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Buklē var",
-        "a": "Norādiet uz saīsināto piegriezumu (cropped) un atvērtajām padarīt pilnīgāku aprocēm. Šīs detaļas."
+        "q": "Buklē var Norādiet uz saīsināto piegriezumu (cropped) un atvērtajām padarīt pilnīgāku",
+        "a": "aprocēm. Šīs detaļas."
       },
       {
         "q": "atklāj",
         "a": "smalkās ķermeņa zonas (vidukli un plaukstu locītavas), kas apvienojumā ar regulāro piegriezumu rada slaidu un modernu siluetu."
       },
       {
-        "q": "Metāliska",
-        "a": "Demonstrējiet Look 99 ar džinsu audumu. ķēde izskatās pārāk Kombinējot izteiksmīgo apdari ar vienkāršiem Olla 1073 pretenziozi džinsiem, tēls kļūst piezemētāks, pārejot no svinīgo kategorijas uz ikdienas luksusa kategoriju."
+        "q": "Metāliska Demonstrējiet Look 99 ar džinsu audumu. ķēde izskatās pārāk Kombinējot izteiksmīgo apdari ar vienkāršiem Olla 1073 pretenziozi",
+        "a": "džinsiem, tēls kļūst piezemētāks, pārejot no svinīgo kategorijas uz ikdienas luksusa kategoriju."
       },
       {
-        "q": "Aizdare uz",
-        "a": "Izskaidrojiet, ka slēptās āķītes ir izvēlētas āķītēm ir neērta speciāli, lai nepārslogotu jakas priekšpusi ar liekām detaļām un saglabātu nepārtrauktu dekoratīvās ķēdes līniju, radot."
+        "q": "Aizdare uz Izskaidrojiet, ka slēptās āķītes ir izvēlētas āķītēm ir neērta",
+        "a": "speciāli, lai nepārslogotu jakas priekšpusi ar liekām detaļām un saglabātu nepārtrauktu dekoratīvās ķēdes līniju, radot."
       },
       {
         "q": "Haute Couture",
         "a": "efektu."
       },
       {
-        "q": "Audums šķiet",
-        "a": "Atgādiniet, ka Luisa Spagnoli izmanto pārāk delikāts augstas kvalitātes vilnas maisījumu ar mohēras piejaukumu, kas izceļas ar nodilumizturību un spēju saglabāt buklē apjomīgo faktūru ilgstošā laika posmā."
+        "q": "Audums šķiet Atgādiniet, ka Luisa Spagnoli izmanto pārāk delikāts",
+        "a": "augstas kvalitātes vilnas maisījumu ar mohēras piejaukumu, kas izceļas ar nodilumizturību un spēju saglabāt buklē apjomīgo faktūru ilgstošā laika posmā."
       },
       {
-        "q": "Ar ko valkāt",
-        "a": "Piedāvājiet pielaikot jaku pie lakoniska zīda topiņa izņemot baltu vai pat uz kailas miesas zem aizpogātas aizdares, kreklu? lai radītu asāku, vakara tēlu, kā tas bieži tiek praktizēts modes skatēs."
+        "q": "Ar ko valkāt, Piedāvājiet pielaikot jaku pie lakoniska zīda topiņa izņemot baltu vai pat uz kailas miesas zem aizpogātas aizdares, kreklu?",
+        "a": "lai radītu asāku, vakara tēlu, kā tas bieži tiek praktizēts modes skatēs. ![](media/image71.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image72.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -361,7 +377,7 @@
       },
       {
         "q": "З чим носити, окрім білої сорочки?",
-        "a": "Запропонуйте приміряти жакет на лаконічний шовковий топ або навіть на голе тіло під закриту застібку для створення більш гострого, вечірнього образу, як це часто практикується в подіумних стилізаціях."
+        "a": "Запропонуйте приміряти жакет на лаконічний шовковий топ або навіть на голе тіло під закриту застібку для створення більш гострого, вечірнього образу, як це часто практикується в подіумних стилізаціях. ![](media/image71.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image72.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

@@ -293,15 +293,15 @@
     ],
     "ru": [
       {
-        "q": "Деним выглядит",
-        "a": "Обратите внимание на сарториальные детали: слишком приталенный крой и фирменные пуговицы LS. В повседневно сочетании с белой рубашкой Lucinda 0201 жилет приобретает нарядный и статусный вид."
+        "q": "Деним выглядит Обратите внимание на сарториальные детали: слишком приталенный крой и фирменные пуговицы LS. В повседневно",
+        "a": "сочетании с белой рубашкой Lucinda 0201 жилет приобретает нарядный и статусный вид."
       },
       {
         "q": "Жилет может Модель имеет vestibilità regular (регулярную сидеть слишком посадку), что обеспечивает свободу. Вы можете легко плотно",
         "a": "отрегулировать прилегание с помощью мартингалы на спинке."
       },
       {
-        "q": "Сложно подобрать Дизайнеры бренда рекомендуют идеальную пару — низ к джинсовому брюки Onirico 1224. Total Denim Look — это жилету",
+        "q": "Сложно подобрать Дизайнеры бренда рекомендуют идеальную пару --- низ к джинсовому брюки Onirico 1224. Total Denim Look --- это жилету",
         "a": "один из главных трендов сезона, транслирующий уверенный стиль."
       },
       {
@@ -310,7 +310,7 @@
       },
       {
         "q": "Эта вещь только Напротив, посмотрите на стилизацию в Vetrina 87: для теплого жилет является ключевым элементом зимней сезона",
-        "a": "многослойности, надежно сохраняя тепло между рубашкой и теплым парка."
+        "a": "многослойности, надежно сохраняя тепло между рубашкой и теплым парка. ![](media/image163.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ar": [
@@ -332,14 +332,30 @@
       },
       {
         "q": "هذه القطعة مناسبة فقط للموسم الدافئ",
-        "a": "على العكس، انظري إلى التنسيق في Vetrina 87: الصديري عنصر أساسي لتعدد الطبقات في الشتاء، حيث يحفظ الدفء بفعالية بين القميص والسترة الدافئة."
+        "a": "على العكس، انظري إلى التنسيق في Vetrina 87: الصديري عنصر أساسي لتعدد الطبقات في الشتاء، حيث يحفظ الدفء بفعالية بين القميص والسترة الدافئة. ![](media/image163.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [],
     "hy": [
       {
-        "q": "Դենիմը չափազանց առօրյա տեսք ունի»։",
-        "a": "Ուշադրություն դարձրեք սարտորիալ մանրամասներին. չափազանց ընդգծված կտրվածք և LS ֆիրմային կոճակներ: Lucinda 0201 սպիտակ վերնաշապիկի հետ համադրությամբ ժիլետը ստանում է տոնական և կարգավիճակային տեսք: «Ժիլետը կարող է շատ կիպ նստել»։ Մոդելն ունի vestibilità regular (կանոնավոր նստվածք), որն ապահովում է ազատություն: Դուք կարող եք հեշտությամբ կարգավորել գոտկատեղը մեջքի մարտինգալի միջոցով: «Դժվար է հարմար զույգ գտնել դենիմե ժիլետի համար»։ Բրենդի դիզայներները խորհուրդ են տալիս իդեալական զույգը՝ Onirico 1224 տաբատը: Total Denim Look-ը սեզոնի գլխավոր թրենդներից է, որը հաղորդում է վստահ ոճ: «Գործվածքը չափազանց կոշտ է թվում»։ Luisa Spagnoli-ի արտադրանքի բարձրորակ բամբակն անցնում է հատուկ մշակում, որն ապահովում է գործվածքի փափկությունը՝ պահպանելով արտադրանքի ճարտարապետական ձևը: «Այս իրը միայն տաք սեզոնի համար է»։ Հակառակը, նայեք Vetrina 87-ի ոճավորմանը. ժիլետը ձմեռային բազմաշերտության առանցքային տարր է, որը հուսալիորեն ջերմություն է պահպանում վերնաշապիկի և տաք պարկայի միջև"
+        "q": "Դենիմը չափազանց առօրյա տեսք ունի",
+        "a": "։ Ռազմավարություն՝ Ուշադրություն դարձրեք սարտորիալ մանրամասներին. չափազանց ընդգծված կտրվածք և LS ֆիրմային կոճակներ: Lucinda 0201 սպիտակ վերնաշապիկի հետ համադրությամբ ժիլետը ստանում է տոնական և կարգավիճակային տեսք."
+      },
+      {
+        "q": "Ժիլետը կարող է շատ կիպ նստել",
+        "a": "։ Մոդելն ունի vestibilità regular (կանոնավոր նստվածք), որն ապահովում է ազատություն: Դուք կարող եք հեշտությամբ կարգավորել գոտկատեղը մեջքի մարտինգալի միջոցով."
+      },
+      {
+        "q": "Դժվար է հարմար զույգ գտնել դենիմե ժիլետի համար",
+        "a": "։ Բրենդի դիզայներները խորհուրդ են տալիս իդեալական զույգը՝ Onirico 1224 տաբատը: Total Denim Look-ը սեզոնի գլխավոր թրենդներից է, որը հաղորդում է վստահ ոճ."
+      },
+      {
+        "q": "Գործվածքը չափազանց կոշտ է թվում",
+        "a": "։ Luisa Spagnoli-ի արտադրանքի բարձրորակ բամբակն անցնում է հատուկ մշակում, որն ապահովում է գործվածքի փափկությունը՝ պահպանելով արտադրանքի ճարտարապետական ձևը."
+      },
+      {
+        "q": "Այս իրը միայն տաք սեզոնի համար է",
+        "a": "։ Հակառակը, նայեք Vetrina 87-ի ոճավորմանը. ժիլետը ձմեռային բազմաշերտության առանցքային տարր է, որը հուսալիորեն ջերմություն է պահպանում վերնաշապիկի և տաք պարկայի միջև: ![](media/image163.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
@@ -361,7 +377,7 @@
       },
       {
         "q": "Šī lieta ir tikai siltajai sezonai",
-        "a": "Gluži pretēji, paskatieties uz stilizāciju Vetrina 87: veste ir galvenais ziemas daudzslāņainības elements, droši saglabājot siltumu starp kreklu un siltu parku."
+        "a": "Gluži pretēji, paskatieties uz stilizāciju Vetrina 87: veste ir galvenais ziemas daudzslāņainības elements, droši saglabājot siltumu starp kreklu un siltu parku. ![](media/image163.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -373,36 +389,36 @@
     "pl": [
       {
         "q": "Denim wygląda zbyt codziennie",
-        "a": "-> Proszę zwrócić uwagę na detale krawieckie: mocno taliowany krój i firmowe guziki LS. W połączeniu z białą koszulą Lucinda 0201 kamizelka nabiera wizytowego i prestiżowego wyglądu."
+        "a": "> Proszę zwrócić uwagę na detale krawieckie: mocno taliowany krój i firmowe guziki LS. W połączeniu z białą koszulą Lucinda 0201 kamizelka nabiera wizytowego i prestiżowego wyglądu."
       },
       {
         "q": "Kamizelka może leżeć zbyt ciasno",
-        "a": "-> Model ma vestibilità regular (regularny krój), co zapewnia swobodę. Można łatwo wyregulować dopasowanie za pomocą paska na plecach."
+        "a": "> Model ma vestibilità regular (regularny krój), co zapewnia swobodę. Można łatwo wyregulować dopasowanie za pomocą paska na plecach."
       },
       {
         "q": "Trudno dobrać dół do dżinsowej kamizelki",
-        "a": "-> Projektanci marki polecają idealną parę — spodnie Onirico 1224. Total Denim Look to jeden z głównych trendów sezonu, emanujący pewnym stylem."
+        "a": "> Projektanci marki polecają idealną parę — spodnie Onirico 1224. Total Denim Look to jeden z głównych trendów sezonu, emanujący pewnym stylem."
       },
       {
         "q": "Tkanina wydaje się zbyt sztywna",
-        "a": "-> Wysokiej jakości bawełna w produktach Luisa Spagnoli przechodzi specjalną obróbkę, zapewniającą miękkość materiału przy jednoczesnym zachowaniu architektonicznej formy produktu."
+        "a": "> Wysokiej jakości bawełna w produktach Luisa Spagnoli przechodzi specjalną obróbkę, zapewniającą miękkość materiału przy jednoczesnym zachowaniu architektonicznej formy produktu."
       },
       {
         "q": "Ta rzecz jest tylko na ciepły sezon",
-        "a": "-> Wręcz przeciwnie, proszę spojrzeć na stylizację w Vetrina 87: kamizelka jest kluczowym elementem zimowej warstwowości, niezawodnie zatrzymując ciepło między koszulą a ciepłym płaszczem."
+        "a": "> Wręcz przeciwnie, proszę spojrzeć na stylizację w Vetrina 87: kamizelka jest kluczowym elementem zimowej warstwowości, niezawodnie zatrzymując ciepło między koszulą a ciepłym płaszczem. ![](media/image163.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "uk": [
       {
-        "q": "Денім виглядає",
-        "a": "Зверніть увагу на сарторіальні деталі: занадто приталений крій та фірмові ґудзики LS. У повсякденно поєднанні з білою сорочкою Lucinda 0201 жилет набуває ошатного та статусного вигляду."
+        "q": "Денім виглядає Зверніть увагу на сарторіальні деталі: занадто приталений крій та фірмові ґудзики LS. У повсякденно",
+        "a": "поєднанні з білою сорочкою Lucinda 0201 жилет набуває ошатного та статусного вигляду."
       },
       {
         "q": "Жилет може Модель має vestibilità regular (регулярну сидіти занадто посадку), що забезпечує свободу. Ви можете легко щільно",
         "a": "відрегулювати прилягання за допомогою мартингали на спинці."
       },
       {
-        "q": "Складно підібрати Дизайнери бренду рекомендують ідеальну пару — низ до джинсового брюки Onirico 1224. Total Denim Look — це жилета",
+        "q": "Складно підібрати Дизайнери бренду рекомендують ідеальну пару --- низ до джинсового брюки Onirico 1224. Total Denim Look --- це жилета",
         "a": "один із головних трендів сезону, що транслює впевнений стиль."
       },
       {
@@ -411,7 +427,7 @@
       },
       {
         "q": "Ця річ тільки Навпаки, подивіться на стилізацію у Vetrina 87: для теплого жилет є ключовим елементом зимової сезону",
-        "a": "багатошаровості, надійно зберігаючи тепло між сорочкою та теплою паркою."
+        "a": "багатошаровості, надійно зберігаючи тепло між сорочкою та теплою паркою. ![](media/image163.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

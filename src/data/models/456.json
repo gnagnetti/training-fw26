@@ -359,24 +359,32 @@
     ],
     "ru": [
       {
-        "q": "Широкие джинсы",
-        "a": "Укажите на плотность денима и выверенную посадку могут выглядеть в области талии. Модель Olla дисциплинирует мешковато фигуру в верхней части, позволяя объему внизу работать на динамику, а не на лишний вес."
+        "q": "Широкие джинсы выглядят мешковато",
+        "a": "> Подчеркните плотность денима и безупречную посадку по талии. Модель Olla дисциплинирует силуэт в верхней части, позволяя объему внизу работать на эстетику образа, не создавая лишней массивности."
       },
       {
-        "q": "Потертости",
-        "a": "Поясните, что техника высветления в данной модели выглядят слишком — это дизайнерский прием «Quiet Luxury . повседневно» Продемонстрируйте Look 100: в сочетании с кожей и шелком такие джинсы выглядят остромодно и дорого."
+        "q": "Эффект потертости выглядит слишком повседневно",
+        "a": "> Поясните, что техника состаривания в этой модели — это осознанный выбор в эстетике."
       },
       {
-        "q": "С чем носить такую",
-        "a": "Рекомендуйте обувь на платформе или устойчивом ширину брючин? каблуке (например, сапоги Ulisside). Это максимизирует подиумный эффект и предотвращает соприкосновение края брюк с землей."
+        "q": "тихой роскоши",
+        "a": ". Продемонстрируйте образ №100: в сочетании с кожей и шелком эти джинсы выглядят остромодно и дорого."
       },
       {
-        "q": "Серебристый Напротив, деликатная фурнитура LS — это знак логотип может качества. Серебристый металл на дениме считается ограничивать в выборе нейтральным и отлично гармонирует как с украшений",
-        "a": "холодными, так и с теплыми оттенками аксессуаров."
+        "q": "С чем носить такие широкие брючины?",
+        "a": "> Рекомендуйте обувь на платформе или устойчивом каблуке (например, ботильоны Ulisside). Это усиливает подиумный эффект и предотвращает соприкосновение края брюк с землей."
       },
       {
-        "q": "Боюсь, что 100% Высококачественный хлопок Luisa Spagnoli обладает хлопок будет неудобен естественной эластичностью и «дышит",
-        "a": "обеспечивая в носке» комфорт в течение всего дня, при этом джинсы не вытягиваются на коленях, сохраняя форму."
+        "q": "Серебряный логотип ограничивает выбор украшений",
+        "a": "> Напротив, лаконичная фурнитура LS — признак качества. Серебристый металл на дениме считается нейтральным и гармонирует как с холодными, так и с теплыми оттенками аксессуаров."
+      },
+      {
+        "q": "Боюсь, что 100% хлопок будет некомфортен в носке",
+        "a": "> Высококачественный хлопок Luisa Spagnoli обладает естественной эластичностью и."
+      },
+      {
+        "q": "дышит",
+        "a": ", обеспечивая комфорт в течение всего дня, при этом джинсы не вытягиваются в коленях, сохраняя архитектурную форму."
       }
     ],
     "ar": [
@@ -406,17 +414,17 @@
       },
       {
         "q": "يتنفس",
-        "a": "مما يضمن الراحة طوال اليوم، مع عدم تمدد الجينز عند الركبتين، مما يحافظ على شكله."
+        "a": "، مما يضمن الراحة طوال اليوم، مع عدم تمدد الجينز عند الركبتين، مما يحافظ على شكله. ![](media/image125.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
       {
-        "q": "ფართო ჯინსები შეიძლება",
-        "a": "მიუთითეთ დენიმის სიმკვრივესა და წელის მიდამოში ტომრისებურად გამოიყურებოდეს კარგად მორგებაზე. მოდელი Olla აწესრიგებს ფიგურას ზედა ნაწილში, რაც საშუალებას აძლევს ქვედა ნაწილის მოცულობას იმუშაოს დინამიკაზე და არა ზედმეტ წონაზე."
+        "q": "ფართო ჯინსები შეიძლება მიუთითეთ დენიმის სიმკვრივესა და წელის მიდამოში ტომრისებურად გამოიყურებოდეს",
+        "a": "კარგად მორგებაზე. მოდელი Olla აწესრიგებს ფიგურას ზედა ნაწილში, რაც საშუალებას აძლევს ქვედა ნაწილის მოცულობას იმუშაოს დინამიკაზე და არა ზედმეტ წონაზე."
       },
       {
-        "q": "დაძველებები ზედმეტად",
-        "a": "განმარტეთ, რომ ამ მოდელში განათების ტექნიკა — ეს ყოველდღიურად გამოიყურება არის დიზაინერული მიღება."
+        "q": "დაძველებები ზედმეტად განმარტეთ, რომ ამ მოდელში განათების ტექნიკა — ეს ყოველდღიურად გამოიყურება",
+        "a": "არის დიზაინერული მიღება."
       },
       {
         "q": "Quiet Luxury",
@@ -432,7 +440,7 @@
       },
       {
         "q": "მეშინია, რომ 100% Luisa Spagnoli-ს მაღალი ხარისხის ბამბა ფლობს ბამბა არ იქნება კომფორტული ბუნებრივ ელასტიკურობას და «სუნთქავს",
-        "a": "რაც უზრუნველყოფს ტარებისას» კომფორტს მთელი დღის განმავლობაში, ამასთან ჯინსები არ იწელება მუხლებში და ინარჩუნებს ფორმას."
+        "a": ", რაც უზრუნველყოფს ტარებისას» კომფორტს მთელი დღის განმავლობაში, ამასთან ჯინსები არ იწელება მუხლებში და ინარჩუნებს ფორმას. ![](media/image125.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -462,29 +470,29 @@
       },
       {
         "q": "շնչում է",
-        "a": "՝ ապահովելով հարմարավետություն ողջ օրվա ընթացքում, ընդ որում ջինսերը ծնկների հատվածում չեն ձգվում՝ պահպանելով ձևը."
+        "a": "՝ ապահովելով հարմարավետություն ողջ օրվա ընթացքում, ընդ որում ջինսերը ծնկների հատվածում չեն ձգվում՝ պահպանելով ձևը: ![](media/image125.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Plati džinsi var",
-        "a": "Norādiet uz džinsa blīvumu un izsvērtu piegulumu izskatīties maisveidīgi jostasvietas zonā. Olla modelis disciplinē figūru augšdaļā, ļaujot apjomam apakšā strādāt uz dinamiku, nevis uz lieko svaru."
+        "q": "Plati džinsi var Norādiet uz džinsa blīvumu un izsvērtu piegulumu izskatīties maisveidīgi",
+        "a": "jostasvietas zonā. Olla modelis disciplinē figūru augšdaļā, ļaujot apjomam apakšā strādāt uz dinamiku, nevis uz lieko svaru."
       },
       {
-        "q": "Nolietojuma",
-        "a": "Paskaidrojiet, ka balināšanas tehnika šajā modelī — tas pazīmes izskatās ir «Quiet Luxury dizainera paņēmiens. pārāk ikdienišķi» Demonstrējiet Look 100: apvienojumā ar ādu un zīdu šādi džinsi izskatās ļoti moderni un dārgi."
+        "q": "Nolietojuma Paskaidrojiet, ka balināšanas tehnika šajā modelī --- tas pazīmes izskatās ir «Quiet Luxury",
+        "a": "dizainera paņēmiens. pārāk ikdienišķi» Demonstrējiet Look 100: apvienojumā ar ādu un zīdu šādi džinsi izskatās ļoti moderni un dārgi."
       },
       {
-        "q": "Ar ko nēsāt šādu",
-        "a": "Iesakiet apavus uz platformas vai stabila papēža bikšu staru platumu? (piemēram, zābaki Ulisside). Tas maksimizē podija efektu un novērš bikšu malas saskari ar zemi."
+        "q": "Ar ko nēsāt šādu Iesakiet apavus uz platformas vai stabila papēža bikšu staru platumu?",
+        "a": "(piemēram, zābaki Ulisside). Tas maksimizē podija efektu un novērš bikšu malas saskari ar zemi."
       },
       {
-        "q": "Sudrabots logotips Pretēji, LS smalkā furnitūra — tā ir kvalitātes var ierobežot zīme. Sudrabots metāls uz džinsa tiek uzskatīts par rotaslietu izvēli",
+        "q": "Sudrabots logotips Pretēji, LS smalkā furnitūra --- tā ir kvalitātes var ierobežot zīme. Sudrabots metāls uz džinsa tiek uzskatīts par rotaslietu izvēli",
         "a": "neitrālu un lieliski harmonē gan ar aukstiem, gan ar siltiem aksesuāru toņiem."
       },
       {
         "q": "Baidos, ka 100% Luisa Spagnoli augstas kvalitātes kokvilnai piemīt kokvilna būs neērta dabiska elastība, un tas «elpo",
-        "a": "nodrošinot komfortu nēsāšanā» visas dienas garumā, turklāt džinsi neizstaipās uz ceļgaliem, saglabājot formu."
+        "a": ", nodrošinot komfortu nēsāšanā» visas dienas garumā, turklāt džinsi neizstaipās uz ceļgaliem, saglabājot formu. ![](media/image125.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -528,7 +536,7 @@
       },
       {
         "q": "oddycha",
-        "a": "zapewniając komfort przez cały dzień, przy czym jeansy nie wypychają się na kolanach, zachowując formę."
+        "a": ", zapewniając komfort przez cały dzień, przy czym jeansy nie wypychają się na kolanach, zachowując formę. ![](media/image125.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "uk": [

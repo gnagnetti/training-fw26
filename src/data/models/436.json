@@ -297,30 +297,58 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "silhouette Explain that the \"scatolina\" cut is a runway seems too loose» standard, creating the right volume. Paired with the slim-fitting Ostiolo 2046 trousers, it visually elongates the legs. «The wool collar Suggest a tactile test of the softness of Luisa might chafe the Spagnoli's yarn. The high quality of the wool's neck» processing guarantees comfort even against the sensitive skin of the neck. «3/4 sleeves Showcase Look 81: the tunic is designed for aren't suited for layering. It can be paired with the Moles 0759 winter» jacket or worn with long gloves, adding a touch of glamour to the look. «The design looks Point out the details: open slits on the sleeves too plain» and the dense knit texture. These are markers of a luxury piece, made for lovers of understated luxury. «The knit will Explain that the \"punto stoffa\" knit is quickly lose its specifically engineered to prevent distortion. It's shape» one of the most durable weaves in the brand's collection"
+        "q": "The silhouette Explain that the \"scatolina\" cut is a runway seems too loose",
+        "a": "standard, creating the right volume. Paired with the slim-fitting Ostiolo 2046 trousers, it visually elongates the legs."
+      },
+      {
+        "q": "The wool collar Suggest a tactile test of the softness of Luisa might chafe the Spagnoli's yarn. The high quality of the wool's neck",
+        "a": "processing guarantees comfort even against the sensitive skin of the neck."
+      },
+      {
+        "q": "3/4 sleeves Showcase Look 81: the tunic is designed for aren't suited for layering. It can be paired with the Moles 0759 winter",
+        "a": "jacket or worn with long gloves, adding a touch of glamour to the look."
+      },
+      {
+        "q": "The design looks Point out the details: open slits on the sleeves too plain",
+        "a": "and the dense knit texture. These are markers of a luxury piece, made for lovers of understated luxury."
+      },
+      {
+        "q": "The knit will Explain that the \"punto stoffa\" knit is quickly lose its specifically engineered to prevent distortion. It's shape",
+        "a": "one of the most durable weaves in the brand's collection. ![](media/image81.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image82.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Силуэт кажется",
-        "a": "Поясните, что крой «scatolina — это подиумный слишком стандарт, создающий правильный объем. В сочетании с свободным» узкими брюками Ostiolo 2046 он визуально делает ноги стройнее."
+        "q": "Силуэт кажется слишком свободным",
+        "a": "> Объясните, что крой."
       },
       {
-        "q": "Шерстяной",
-        "a": "Предложите тактильно оценить мягкость пряжи Luisa воротник может Spagnoli. Высокое качество очистки шерсти натирать шею гарантирует комфорт даже в зоне чувствительной кожи шеи."
+        "q": "scatolina",
+        "a": "это подиумный стандарт, создающий правильный объем. В паре с зауженными брюками Ostiolo 2046 он визуально удлиняет ноги."
       },
       {
-        "q": "Рукав 3/4 не",
-        "a": "Продемонстрируйте Look 81: туника создана для подходит для многослойности. Её можно дополнить жакетом Moles зимы 0759 или носить с длинными перчатками, что добавит образу шика."
+        "q": "Шерстяной воротник может натирать шею",
+        "a": "> Предложите оценить тактильную мягкость пряжи Luisa Spagnoli. Высочайшее качество обработки шерсти гарантирует комфорт даже при контакте с чувствительной кожей шеи."
       },
       {
-        "q": "Дизайн выглядит",
-        "a": "Укажите на детали: открытые разрезы на рукавах и слишком просто плотную фактуру вязки. Это маркеры дорогой вещи, предназначенной для любительниц сдержанной роскоши."
+        "q": "Рукава 3/4 не подходят для зимы",
+        "a": "> Покажите образ 81: туника создана для многослойности. Ее можно сочетать с жакетом Moles 0759 или носить с длинными перчатками, добавляя образу ноту гламура."
       },
       {
-        "q": "Трикотаж быстро",
-        "a": "Объясните, что вязка «punto stoffa специально потеряет форму» разработана для предотвращения деформации. Это одно из самых износостойких переплетений в коллекции бренда."
+        "q": "Дизайн выглядит слишком просто",
+        "a": "> Укажите на детали: открытые разрезы на рукавах и плотную текстуру вязки. Это маркеры люксового изделия, созданного для ценителей."
+      },
+      {
+        "q": "тихой роскоши",
+        "a": "."
+      },
+      {
+        "q": "Трикотаж быстро потеряет форму",
+        "a": "> Объясните, что вязка."
+      },
+      {
+        "q": "punto stoffa",
+        "a": "специально разработана для предотвращения деформации. Это одно из самых износостойких плетений в коллекции бренда."
       }
     ],
     "ar": [
@@ -350,7 +378,7 @@
       },
       {
         "q": "punto stoffa",
-        "a": "صُممت خصيصاً لمنع التشوه، وهي واحدة من أكثر الأنسجة تحملاً في مجموعة العلامة التجارية."
+        "a": "صُممت خصيصاً لمنع التشوه، وهي واحدة من أكثر الأنسجة تحملاً في مجموعة العلامة التجارية. ![](media/image81.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image82.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -402,29 +430,29 @@
       },
       {
         "q": "punto stoffa",
-        "a": "հյուսվածքը հատուկ մշակված է դեֆորմացիան կանխելու համար: Սա ապրանքանիշի հավաքածուի ամենամաշվածադիմացկուն հյուսվածքներից մեկն է."
+        "a": "հյուսվածքը հատուկ մշակված է դեֆորմացիան կանխելու համար: Սա ապրանքանիշի հավաքածուի ամենամաշվածադիմացկուն հյուսվածքներից մեկն է: ![](media/image81.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image82.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Siluets šķiet",
-        "a": "Izskaidrojiet, ka «scatolina piegriezums ir modes pārāk brīvs» skates standarts, kas rada pareizo apjomu. Kombinācijā ar šaurām Ostiolo 2046 biksēm tas vizuāli padara kājas slaidākas."
+        "q": "Siluets šķiet Izskaidrojiet, ka «scatolina",
+        "a": "piegriezums ir modes pārāk brīvs» skates standarts, kas rada pareizo apjomu. Kombinācijā ar šaurām Ostiolo 2046 biksēm tas vizuāli padara kājas slaidākas."
       },
       {
-        "q": "Vilnas apkakle",
-        "a": "Piedāvājiet taktilā veidā novērtēt Luisa Spagnoli var kairināt kaklu dzijas mīkstumu. Augstā vilnas attīrīšanas kvalitāte garantē komfortu pat jutīgas ādas zonā uz kakla."
+        "q": "Vilnas apkakle Piedāvājiet taktilā veidā novērtēt Luisa Spagnoli var kairināt kaklu",
+        "a": "dzijas mīkstumu. Augstā vilnas attīrīšanas kvalitāte garantē komfortu pat jutīgas ādas zonā uz kakla."
       },
       {
-        "q": "3/4 piedurkne nav",
-        "a": "Demonstrējiet Look 81: tunika ir radīta piemērota ziemai daudzslāņainībai. To var papildināt ar Moles 0759 jaku vai valkāt ar gariem cimdiem, kas tēlam piešķirs šiku."
+        "q": "3/4 piedurkne nav Demonstrējiet Look 81: tunika ir radīta piemērota ziemai",
+        "a": "daudzslāņainībai. To var papildināt ar Moles 0759 jaku vai valkāt ar gariem cimdiem, kas tēlam piešķirs šiku."
       },
       {
-        "q": "Dizains izskatās",
-        "a": "Norādiet uz detaļām: atvērtie šķēlumi uz piedurknēm pārāk vienkārši un blīvo adījuma faktūru. Tie ir dārgas lietas rādītāji, kas paredzēti atturīga luksusa cienītājām."
+        "q": "Dizains izskatās Norādiet uz detaļām: atvērtie šķēlumi uz piedurknēm pārāk vienkārši",
+        "a": "un blīvo adījuma faktūru. Tie ir dārgas lietas rādītāji, kas paredzēti atturīga luksusa cienītājām."
       },
       {
-        "q": "Trikotāža ātri",
-        "a": "Izskaidrojiet, ka «punto stoffa adījums ir īpaši zaudēs formu» izstrādāts, lai novērstu deformāciju. Tas ir viens no visnodilumizturīgākajiem pinumiem zīmola kolekcijā."
+        "q": "Trikotāža ātri Izskaidrojiet, ka «punto stoffa",
+        "a": "adījums ir īpaši zaudēs formu» izstrādāts, lai novērstu deformāciju. Tas ir viens no visnodilumizturīgākajiem pinumiem zīmola kolekcijā. ![](media/image81.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image82.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -486,7 +514,7 @@
       },
       {
         "q": "scatolina",
-        "a": "— це подіумний стандарт, що створює правильний об'єм. У поєднанні з вузькими брюками Ostiolo 2046 він візуально робить ноги стрункішими."
+        "a": "це подіумний стандарт, що створює правильний об'єм. У поєднанні з вузькими брюками Ostiolo 2046 він візуально робить ноги стрункішими."
       },
       {
         "q": "Вовняний комір може натирати шию",
@@ -506,7 +534,7 @@
       },
       {
         "q": "punto stoffa",
-        "a": "спеціально розроблена для запобігання деформації. Це одне з найбільш зносостійких плетінь у колекції бренду."
+        "a": "спеціально розроблена для запобігання деформації. Це одне з найбільш зносостійких плетінь у колекції бренду. ![](media/image81.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image82.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

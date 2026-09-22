@@ -208,15 +208,15 @@
   "objections": {
     "en": [
       {
-        "q": "Leather clothing seems too costly and impractical.",
+        "q": "Leather clothing seems too costly and impractical",
         "a": "The Fidente skirt is a true 'timeless piece.' Natural leather develops a noble patina over time and only grows more valuable, effectively replacing dozens of seasonal items."
       },
       {
-        "q": "Concern that a deep slit may appear too provocative.",
+        "q": "Concern that a deep slit may appear too provocative",
         "a": "Thanks to its midi length (al polpaccio) and structured pencil silhouette, the slit remains an elegant styling detail, allowing freedom of movement without compromising propriety."
       },
       {
-        "q": "Leather may be stiff and uncomfortable to wear.",
+        "q": "Leather may be stiff and uncomfortable to wear",
         "a": "Luisa Spagnoli uses a specially finished leather known for its exceptional softness and elasticity, moving with the lines of the body and ensuring comfort throughout the day."
       },
       {
@@ -224,65 +224,61 @@
         "a": "We recommend exclusively professional leather cleaning. This preserves the integrity of the fibres and the richness of the Marrone shade for many seasons to come."
       },
       {
-        "q": "Concern about styling such a bold material.",
+        "q": "Concern about styling such a bold material",
         "a": "The Fidente skirt is surprisingly versatile. It pairs beautifully with a classic Loriana 0201 shirt for the office, as well as with an eveningwear top for a formal occasion."
       }
     ],
     "ru": [
       {
-        "q": "Кожаная одежда кажется слишком дорогой и непрактичной.",
-        "a": "Юбка Fidente — это 'timeless piece' (вещь вне времени). Натуральная кожа со временем приобретает благородную патину и становится только ценнее, заменяя десятки сезонных вещей."
+        "q": "Кожаная одежда кажется слишком дорогой и непрактичной",
+        "a": "Юбка Fidente — это инвестиция в гардероб вне времени. Натуральная кожа со временем приобретает благородную патину и становится лишь ценнее, эффективно заменяя десятки сезонных вещей."
       },
       {
-        "q": "Боязнь, что глубокий разрез выглядит слишком вызывающе.",
-        "a": "Благодаря длине миди (al polpaccio) и строгому силуэту «карандаш», разрез остается элегантным стилистическим приемом, обеспечивающим свободу движений без ущерба для приличия."
+        "q": "Опасение, что глубокий разрез может выглядеть слишком вызывающе",
+        "a": "Благодаря длине миди (al polpaccio) и структурированному силуэту «карандаш», разрез остается элегантной деталью, обеспечивающей свободу движений без ущерба для строгости образа."
       },
       {
-        "q": "Кожа может быть жесткой и неудобной в носке.",
-        "a": "Luisa Spagnoli использует кожу специальной выделки, которая отличается исключительной мягкостью и эластичностью, адаптируясь к линиям тела и обеспечивая комфорт в течение всего дня."
+        "q": "Кожа может быть жесткой и некомфортной в носке",
+        "a": "Luisa Spagnoli использует специально обработанную кожу, известную своей исключительной мягкостью и эластичностью, которая повторяет линии тела и гарантирует комфорт в течение всего дня."
       },
       {
-        "q": "Как правильно ухаживать за изделием из 100% натуральной кожи?",
-        "a": "Мы рекомендуем исключительно профессиональную чистку для кожи. Это позволит сохранить структуру волокон и насыщенность оттенка Marrone на многие сезоны."
+        "q": "Как ухаживать за изделием из 100% натуральной кожи?",
+        "a": "Мы рекомендуем исключительно профессиональную чистку для кожи. Это сохранит целостность волокон и глубину оттенка Marrone на долгие сезоны."
       },
       {
-        "q": "Сложность в стилизации такого активного материала.",
-        "a": "Юбка Fidente на удивление универсальна. Она идеально сочетается как с базовой рубашкой Loriana 0201 для офиса, так и с вечерним топом для торжественного мероприятия."
+        "q": "Сложность стилизации такого смелого материала",
+        "a": "Юбка Fidente удивительно универсальна. Она безупречно сочетается как с классической рубашкой Loriana 0201 для офиса, так и с вечерним топом для торжественного случая."
       }
     ],
     "ar": [
       {
-        "q": "الملابس الجلدية تبدو باهظة الثمن وغير عملية.",
+        "q": "الملابس الجلدية تبدو باهظة الثمن وغير عملية",
         "a": "تنورة Fidente هي «قطعة خالدة» (timeless piece). يكتسب الجلد الطبيعي مع مرور الوقت بريقاً وقيمة أكبر، مما يجعله بديلاً لعشرات القطع الموسمية."
       },
       {
-        "q": "الخوف من أن تبدو الفتحة العميقة جريئة أكثر من اللازم.",
+        "q": "الخوف من أن تبدو الفتحة العميقة جريئة أكثر من اللازم",
         "a": "بفضل طول الميدي وقصة القلم الرصاص الصارمة، تظل الفتحة لمسة جمالية أنيقة توفر حرية الحركة دون الإخلال بالحياء."
       },
       {
-        "q": "الجلد قد يكون قاسياً وغير مريح في الارتداء.",
-        "a": "تستخدم Luisa Spagnoli جلداً مدبوغاً بطريقة خاصة يتميز بنعومة ومرونة استثنائيتين، حيث يتكيف مع خطوط الجسم ويوفر الراحة طوال اليوم."
+        "q": "الجلد قد يكون قاسياً وغير مريح في الارتداء",
+        "a": "تستخدم Luisa Spagnoli جلداً مدبوغاً بطريقة خاصة يتميز بنعومة ومرونة استثنائيتين، حيث يتكيف مع خطوط الجسم ويوفر الراحة طوال اليوم. «كيفية العناية الصحيحة بقطعة مصنوعة من الجلد الطبيعي 100%؟» نوصي حصراً بالتنظيف المهني للجلد. سيسمح ذلك بالحفاظ على بنية الألياف وثراء لون Marrone لعدة مواسم."
       },
       {
-        "q": "كيفية العناية الصحيحة بقطعة مصنوعة من الجلد الطبيعي 100%؟",
-        "a": "نوصي حصراً بالتنظيف المهني للجلد. سيسمح ذلك بالحفاظ على بنية الألياف وثراء لون Marrone لعدة مواسم."
-      },
-      {
-        "q": "صعوبة تنسيق هذه الخامة الجريئة.",
-        "a": "تنورة Fidente متعددة الاستخدامات بشكل مدهش. فهي تتناسب تماماً مع قميص أساسي Loriana 0201 للمكتب، ومع توب سهرة للمناسبات الرسمية."
+        "q": "صعوبة تنسيق هذه الخامة الجريئة",
+        "a": "تنورة Fidente متعددة الاستخدامات بشكل مدهش. فهي تتناسب تماماً مع قميص أساسي Loriana 0201 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg للمكتب، ومع توب سهرة للمناسبات الرسمية."
       }
     ],
     "ka": [
       {
-        "q": "ტყავის სამოსი ზედმეტად ძვირი და არაპრაქტიკული ჩანს.",
+        "q": "ტყავის სამოსი ზედმეტად ძვირი და არაპრაქტიკული ჩანს",
         "a": "ქვედაბოლო Fidente არის 'timeless piece' (დროში უცვლელი ნივთი). ნატურალური ტყავი დროთა განმავლობაში იძენს კეთილშობილურ პატინას და მხოლოდ უფრო ფასეული ხდება, რითაც ანაცვლებს ათეულობით სეზონურ ნივთს."
       },
       {
-        "q": "შიში იმისა, რომ ღრმა ჭრილი ზედმეტად გამომწვევად გამოიყურება.",
+        "q": "შიში იმისა, რომ ღრმა ჭრილი ზედმეტად გამომწვევად გამოიყურება",
         "a": "მიდი სიგრძის (al polpaccio) და მკაცრი «ფანქარი» სილუეტის წყალობით, ჭრილი რჩება ელეგანტურ სტილისტურ მიღებად, რომელიც უზრუნველყოფს მოძრაობის თავისუფლებას წესიერების შელახვის გარეშე."
       },
       {
-        "q": "ტყავი შესაძლოა იყოს მკვრივი და მოუხერხებელი ტარებისას.",
+        "q": "ტყავი შესაძლოა იყოს მკვრივი და მოუხერხებელი ტარებისას",
         "a": "Luisa Spagnoli იყენებს სპეციალური დამუშავების ტყავს, რომელიც გამოირჩევა განსაკუთრებული სირბილით და ელასტიკურობით, ადაპტირდება სხეულის ხაზებთან და უზრუნველყოფს კომფორტს მთელი დღის განმავლობაში."
       },
       {
@@ -290,43 +286,51 @@
         "a": "ჩვენ გირჩევთ ექსკლუზიურად ტყავის პროფესიონალურ წმენდას. ეს საშუალებას მოგცემთ შეინარჩუნოთ ბოჭკოების სტრუქტურა და Marrone-ს ელფერის სიღრმე მრავალი სეზონის განმავლობაში."
       },
       {
-        "q": "ასეთი აქტიური მასალის სტილიზების სირთულე.",
-        "a": "ქვედაბოლო Fidente საოცრად უნივერსალურია. ის იდეალურად ეხამება როგორც საბაზისო პერანგს Loriana 0201 ოფისისთვის, ასევე საღამოს ტოპს საზეიმო ღონისძიებისთვის."
+        "q": "ასეთი აქტიური მასალის სტილიზების სირთულე",
+        "a": "ქვედაბოლო Fidente საოცრად უნივერსალურია. ის იდეალურად ეხამება როგორც საბაზისო პერანგს Loriana 0201 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg ოფისისთვის, ასევე საღამოს ტოპს საზეიმო ღონისძიებისთვის."
       }
     ],
     "hy": [
       {
         "q": "Կաշվե հագուստը չափազանց թանկ և ոչ գործնական է թվում",
-        "a": "Fidente կիսաշրջազգեստը «timeless piece» է (ժամանակից դուրս իր): Բնական կաշին ժամանակի ընթացքում ձեռք է բերում ազնիվ պատինա և դառնում է ավելի արժեքավոր՝ փոխարինելով տասնյակ սեզոնային իրերի"
+        "a": "Fidente կիսաշրջազգեստը."
+      },
+      {
+        "q": "timeless piece",
+        "a": "է (ժամանակից դուրս իր): Բնական կաշին ժամանակի ընթացքում ձեռք է բերում ազնիվ պատինա և դառնում է ավելի արժեքավոր՝ փոխարինելով տասնյակ սեզոնային իրերի."
       },
       {
         "q": "Վախ, որ խորը բացվածքը չափազանց սադրիչ տեսք ունի",
-        "a": "Միդի երկարության (al polpaccio) և «մատիտ» խիստ ուրվագծի շնորհիվ՝ բացվածքը մնում է էլեգանտ ոճական հնարք, որն ապահովում է շարժման ազատություն՝ առանց բարեվայելչությանը վնասելու"
+        "a": "Միդի երկարության (al polpaccio) և."
+      },
+      {
+        "q": "մատիտ",
+        "a": "խիստ ուրվագծի շնորհիվ՝ բացվածքը մնում է էլեգանտ ոճական հնարք, որն ապահովում է շարժման ազատություն՝ առանց բարեվայելչությանը վնասելու."
       },
       {
         "q": "Կաշին կարող է լինել կոշտ և անհարմար կրելու համար",
-        "a": "Luisa Spagnoli-ն օգտագործում է հատուկ մշակված կաշի, որն առանձնանում է բացառիկ փափկությամբ և առաձգականությամբ՝ հարմարվելով մարմնի գծերին և ապահովելով հարմարավետություն ամբողջ օրվա ընթացքում"
+        "a": "Luisa Spagnoli-ն օգտագործում է հատուկ մշակված կաշի, որն առանձնանում է բացառիկ փափկությամբ և առաձգականությամբ՝ հարմարվելով մարմնի գծերին և ապահովելով հարմարավետություն ամբողջ օրվա ընթացքում."
       },
       {
         "q": "Ինչպե՞ս ճիշտ խնամել 100% բնական կաշվից պատրաստված արտադրանքը",
-        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ մաքրում կաշվի համար: Դա թույլ կտա պահպանել մանրաթելերի կառուցվածքը և Marrone երանգի հագեցվածությունը երկար սեզոնների ընթացքում"
+        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ մաքրում կաշվի համար: Դա թույլ կտա պահպանել մանրաթելերի կառուցվածքը և Marrone երանգի հագեցվածությունը երկար սեզոնների ընթացքում."
       },
       {
         "q": "Այսպիսի ակտիվ նյութի ոճավորման բարդությունը",
-        "a": "Fidente կիսաշրջազգեստը զարմանալիորեն ունիվերսալ է: Այն կատարյալ համադրվում է ինչպես բազային Loriana 0201 վերնաշապիկի հետ գրասենյակի համար, այնպես էլ երեկոյան տոպի հետ՝ տոնական միջոցառման համար"
+        "a": "Fidente կիսաշրջազգեստը զարմանալիորեն ունիվերսալ է: Այն կատարյալ համադրվում է ինչպես բազային Loriana 0201 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg վերնաշապիկի հետ գրասենյակի համար, այնպես էլ երեկոյան տոպի հետ՝ տոնական միջոցառման համար."
       }
     ],
     "lv": [
       {
-        "q": "Ādas apģērbs šķiet pārāk dārgs un nepraktisks.",
+        "q": "Ādas apģērbs šķiet pārāk dārgs un nepraktisks",
         "a": "Svārki Fidente ir 'timeless piece' (lieta ārpus laika). Dabīgā āda laika gaitā iegūst cēlu patīnu un kļūst tikai vērtīgāka, aizstājot desmitiem sezonas lietu."
       },
       {
-        "q": "Bailes, ka dziļš šķēlums izskatās pārāk izaicinoši.",
+        "q": "Bailes, ka dziļš šķēlums izskatās pārāk izaicinoši",
         "a": "Pateicoties midi garumam (al polpaccio) un stingrajam «zīmuļsvārku» siluetam, šķēlums paliek elegants stilistisks paņēmiens, nodrošinot kustību brīvību bez pieklājības robežu pārkāpšanas."
       },
       {
-        "q": "Āda var būt cieta un neērta valkāšanā.",
+        "q": "Āda var būt cieta un neērta valkāšanā",
         "a": "Luisa Spagnoli izmanto speciāli apstrādātu ādu, kas izceļas ar izcilu mīkstumu un elastību, pielāgojoties ķermeņa līnijām un nodrošinot komfortu visas dienas garumā."
       },
       {
@@ -334,21 +338,21 @@
         "a": "Mēs iesakām tikai profesionālo ādas tīrīšanu. Tas ļaus saglabāt šķiedru struktūru un Marrone toņa piesātinājumu daudzām sezonām."
       },
       {
-        "q": "Sarežģītība tik aktīva materiāla stilizēšanā.",
-        "a": "Svārki Fidente ir pārsteidzoši universāli. Tie lieliski sader gan ar pamata kreklu Loriana 0201 birojam, gan ar vakara topu svinīgam pasākumam."
+        "q": "Sarežģītība tik aktīva materiāla stilizēšanā",
+        "a": "Svārki Fidente ir pārsteidzoši universāli. Tie lieliski sader gan ar pamata kreklu Loriana 0201 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg birojam, gan ar vakara topu svinīgam pasākumam."
       }
     ],
     "lt": [
       {
-        "q": "Odiniai drabužiai atrodo per brangūs ir nepraktiški.",
+        "q": "Odiniai drabužiai atrodo per brangūs ir nepraktiški",
         "a": "Fidente sijonas — tai „timeless piece“ (amžina vertybė). Natūrali oda laikui bėgant įgauna taurią patiną ir tampa tik vertingesnė, pakeisdama daugybę sezoninių daiktų."
       },
       {
-        "q": "Baimė, kad gilus skeltukas atrodo pernelyg iššaukiančiai.",
+        "q": "Baimė, kad gilus skeltukas atrodo pernelyg iššaukiančiai",
         "a": "Dėl midi ilgio (al polpaccio) ir griežto „pieštuko“ silueto, skeltukas išlieka elegantišku stilistiniu sprendimu, suteikiančiu judėjimo laisvę be jokio vulgarumo."
       },
       {
-        "q": "Oda gali būti kieta ir nepatogi nešioti.",
+        "q": "Oda gali būti kieta ir nepatogi nešioti",
         "a": "Luisa Spagnoli naudoja specialiai apdirbtą odą, kuri pasižymi išskirtiniu minkštumu ir elastingumu, prisitaikydama prie kūno linijų ir užtikrindama komfortą visą dieną."
       },
       {
@@ -356,21 +360,21 @@
         "a": "Rekomenduojame tik profesionalų odos valymą. Tai leis išsaugoti pluošto struktūrą ir Marrone atspalvio sodrumą daugelį sezonų."
       },
       {
-        "q": "Sudėtinga derinti tokią išraiškingą medžiagą.",
-        "a": "Fidente sijonas yra stebėtinai universalus. Jis idealiai dera tiek su pagrindiniais Loriana 0201 marškiniais biure, tiek su vakariniu viršutiniu drabužiu iškilmingam renginiui."
+        "q": "Sudėtinga derinti tokią išraiškingą medžiagą",
+        "a": "Fidente sijonas yra stebėtinai universalus. Jis idealiai dera tiek su pagrindiniais Loriana 0201 marškiniais (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg biure, tiek su vakariniu viršutiniu drabužiu iškilmingam renginiui."
       }
     ],
     "pl": [
       {
-        "q": "Skórzana odzież wydaje się zbyt droga i niepraktyczna.",
+        "q": "Skórzana odzież wydaje się zbyt droga i niepraktyczna",
         "a": "Spódnica Fidente to 'timeless piece' (rzecz ponadczasowa). Naturalna skóra z czasem zyskuje szlachetną patynę i staje się tylko cenniejsza, zastępując dziesiątki sezonowych ubrań."
       },
       {
-        "q": "Obawa, że głębokie rozcięcie wygląda zbyt wyzywająco.",
+        "q": "Obawa, że głębokie rozcięcie wygląda zbyt wyzywająco",
         "a": "Dzięki długości midi (al polpaccio) i surowemu krojowi typu „ołówek”, rozcięcie pozostaje eleganckim zabiegiem stylistycznym, zapewniającym swobodę ruchów bez uszczerbku dla zasad dobrego smaku."
       },
       {
-        "q": "Skóra może być sztywna i niewygodna w noszeniu.",
+        "q": "Skóra może być sztywna i niewygodna w noszeniu",
         "a": "Luisa Spagnoli używa skóry specjalnie wyprawianej, która wyróżnia się wyjątkową miękkością i elastycznością, dopasowując się do linii ciała i zapewniając komfort przez cały dzień."
       },
       {
@@ -378,21 +382,21 @@
         "a": "Zalecamy wyłącznie profesjonalne czyszczenie skóry. Pozwoli to zachować strukturę włókien i nasycenie odcienia Marrone na wiele sezonów."
       },
       {
-        "q": "Trudność w stylizacji tak wyrazistego materiału.",
-        "a": "Spódnica Fidente jest zaskakująco uniwersalna. Idealnie komponuje się zarówno z bazową koszulą Loriana 0201 do biura, jak i z wieczorowym topem na uroczyste wydarzenie."
+        "q": "Trudność w stylizacji tak wyrazistego materiału",
+        "a": "Spódnica Fidente jest zaskakująco uniwersalna. Idealnie komponuje się zarówno z bazową koszulą Loriana 0201 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg do biura, jak i z wieczorowym topem na uroczyste wydarzenie."
       }
     ],
     "uk": [
       {
-        "q": "Шкіряний одяг здається занадто дорогим і непрактичним.",
+        "q": "Шкіряний одяг здається занадто дорогим і непрактичним",
         "a": "Спідниця Fidente — це 'timeless piece' (річ поза часом). Натуральна шкіра з часом набуває благородної патини і стає тільки ціннішою, замінюючи десятки сезонних речей."
       },
       {
-        "q": "Страх, що глибокий розріз виглядає занадто зухвало.",
+        "q": "Страх, що глибокий розріз виглядає занадто зухвало",
         "a": "Завдяки довжині міді (al polpaccio) та строгому силуету «олівець», розріз залишається елегантним стилістичним прийомом, що забезпечує свободу рухів без шкоди для пристойності."
       },
       {
-        "q": "Шкіра може бути жорсткою і незручною в носінні.",
+        "q": "Шкіра може бути жорсткою і незручною в носінні",
         "a": "Luisa Spagnoli використовує шкіру спеціальної вичинки, яка відрізняється винятковою м'якістю та еластичністю, адаптуючись до ліній тіла та забезпечуючи комфорт протягом усього дня."
       },
       {
@@ -400,8 +404,8 @@
         "a": "Ми рекомендуємо виключно професійну чистку для шкіри. Це дозволить зберегти структуру волокон і насиченість відтінку Marrone на багато сезонів."
       },
       {
-        "q": "Складність у стилізації такого активного матеріалу.",
-        "a": "Спідниця Fidente напрочуд універсальна. Вона ідеально поєднується як з базовою сорочкою Loriana 0201 для офісу, так і з вечірнім топом для урочистого заходу."
+        "q": "Складність у стилізації такого активного матеріалу",
+        "a": "Спідниця Fidente напрочуд універсальна. Вона ідеально поєднується як з базовою сорочкою Loriana 0201 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/153074450692424d097e944_13615490_02781260XX1.jpg для офісу, так і з вечірнім топом для урочистого заходу."
       }
     ]
   }

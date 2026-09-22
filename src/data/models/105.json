@@ -172,199 +172,207 @@
   "objections": {
     "en": [
       {
-        "q": "Silk content may make the blouse too demanding to care for.",
+        "q": "Silk content may make the blouse too demanding to care for",
         "a": "Thanks to the predominance of cotton (76%), the Leonidas fabric is more practical and resistant to wear than pure silk, while preserving a luxurious appearance."
       },
       {
-        "q": "Ruffled sleeves may look too voluminous under a jacket.",
+        "q": "Ruffled sleeves may look too voluminous under a jacket",
         "a": "The ruffles are crafted from a lightweight material that drapes softly. They are designed specifically to make a stylish 'appearance' from beneath a jacket sleeve, without creating any discomfort."
       },
       {
-        "q": "Stripes may seem too casual for a brand of this calibre.",
+        "q": "Stripes may seem too casual for a brand of this calibre",
         "a": "In this piece, the delicate graphic pattern and the distinctive 'Panna Ruggine' colourway, combined with mother-of-pearl hardware, elevate the blouse into the realm of luxury casual."
       },
       {
-        "q": "A stand collar may not be entirely comfortable.",
+        "q": "A stand collar may not be entirely comfortable",
         "a": "The Leonidas stand collar has been calibrated to a precise height with a soft fit, ensuring freedom of movement and a contemporary, understated look without the need to tie restrictive bows."
       },
       {
-        "q": "Light-coloured fabric may be sheer.",
+        "q": "Light-coloured fabric may be sheer",
         "a": "The density of the cotton-and-silk weave has been carefully calibrated to achieve the noble translucency characteristic of fine fabrics, while preserving the necessary discretion of the look."
       }
     ],
     "ru": [
       {
-        "q": "Шелк в составе может сделать блузу слишком сложной в уходе.",
-        "a": "Благодаря преобладанию хлопка (76%), ткань Leonidas более практична и устойчива к износу, чем чистый шелк, сохраняя при этом роскошный внешний вид."
+        "q": "Содержание шелка делает блузу слишком требовательной в уходе",
+        "a": "Благодаря преобладанию хлопка (76%), ткань Leonidas более практична и устойчива к износу, чем чистый шелк, при этом она сохраняет свой роскошный вид."
       },
       {
-        "q": "Воланы на рукавах могут выглядеть слишком объемно под жакетом.",
-        "a": "Воланы выполнены из легкого материала, который мягко драпируется. Они созданы специально для того, чтобы стать стильным 'выходом' из-под рукава верхней одежды, не создавая дискомфорта."
+        "q": "Оборки на рукавах могут выглядеть слишком объемно под жакетом",
+        "a": "Оборки выполнены из легкого материала, который мягко драпируется. Они созданы специально для того, чтобы стильно выглядывать из-под рукава жакета, не создавая никакого дискомфорта."
       },
       {
-        "q": "Полоска кажется слишком повседневной для бренда такого уровня.",
-        "a": "В данной модели используется деликатная графика и уникальное цветовое решение 'Panna Ruggine', что в сочетании с перламутровой фурнитурой переводит блузу в категорию 'luxury casual'."
+        "q": "Полоска может казаться слишком повседневной для бренда такого уровня",
+        "a": "В этом изделии деликатный графичный узор и благородная палитра Panna Ruggine в сочетании с перламутровой фурнитурой возводят блузу в ранг «тихой роскоши»."
       },
       {
-        "q": "Корейский воротник может быть не слишком удобным.",
-        "a": "Воротник-стойка Leonidas имеет выверенную высоту и мягкую посадку, обеспечивая свободу движений и современный лаконичный вид без необходимости завязывать тугие банты."
+        "q": "Воротник-стойка может быть не совсем удобным",
+        "a": "Воротник-стойка Leonidas выверен до миллиметра и обладает мягкой посадкой, обеспечивая свободу движений и современный, сдержанный вид без необходимости завязывать сковывающие банты."
       },
       {
-        "q": "Светлая ткань может просвечивать.",
-        "a": "Плотность плетения хлопка и шелка подобрана таким образом, чтобы обеспечить благородную полупрозрачность, характерную для дорогих тканей, сохраняя при этом необходимую сдержанность образа."
+        "q": "Светлая ткань может просвечивать",
+        "a": "Плотность плетения хлопка и шелка была тщательно выверена для достижения благородной полупрозрачности, характерной для тканей высокого качества, при сохранении необходимой деликатности образа."
       }
     ],
     "ar": [
       {
-        "q": "قد يجعل الحرير البلوزة صعبة العناية.",
+        "q": "قد يجعل الحرير البلوزة صعبة العناية",
         "a": "بفضل نسبة القطن العالية (76%)، يتميز قماش Leonidas بكونه أكثر عملية ومقاومة للاهتراء مقارنة بالحرير الخالص، مع الاحتفاظ بمظهره الفاخر."
       },
       {
-        "q": "قد تبدو الكشكشة على الأكمام ضخمة جداً تحت السترة.",
+        "q": "قد تبدو الكشكشة على الأكمام ضخمة جداً تحت السترة",
         "a": "صُممت الكشكشة من قماش خفيف ينسدل بنعومة، وهي مخصصة لتكون لمسة أنيقة تبرز من تحت أكمام الملابس الخارجية دون التسبب في أي إزعاج."
       },
       {
-        "q": "يبدو التخطيط بسيطاً للغاية بالنسبة لعلامة تجارية بهذا المستوى.",
+        "q": "يبدو التخطيط بسيطاً للغاية بالنسبة لعلامة تجارية بهذا المستوى",
         "a": "يستخدم هذا الموديل رسومات دقيقة وتوليفة ألوان فريدة 'Panna Ruggine'، والتي تجعل البلوزة، مقترنة بالأزرار الصدفية، تندرج تحت فئة 'الفخامة اليومية'."
       },
       {
-        "q": "قد لا تكون الياقة الكورية مريحة للغاية.",
+        "q": "قد لا تكون الياقة الكورية مريحة للغاية",
         "a": "تتميز الياقة القائمة في موديل Leonidas بارتفاع مدروس ومقاس مريح، مما يمنح حرية الحركة ومظهراً عصرياً بسيطاً دون الحاجة إلى عقد ربطات العنق المعقدة."
       },
       {
-        "q": "قد تكون القماش الفاتح شفافاً.",
+        "q": "قد تكون القماش الفاتح شفافاً",
         "a": "تم اختيار كثافة نسيج القطن والحرير بعناية لتوفير شفافية راقية تشتهر بها الأقمشة الفاخرة، مع الحفاظ على الوقار اللازم للإطلالة."
       }
     ],
     "ka": [
       {
-        "q": "შემადგენლობაში არსებული აბრეშუმის გამო ბლუზას შესაძლოა რთული მოვლა სჭირდებოდეს.",
+        "q": "შემადგენლობაში არსებული აბრეშუმის გამო ბლუზას შესაძლოა რთული მოვლა სჭირდებოდეს",
         "a": "ბამბის (76%) მაღალი წილის წყალობით, Leonidas-ის ქსოვილი უფრო პრაქტიკული და ცვეთაგამძლეა, ვიდრე სუფთა აბრეშუმი, ამავდროულად ინარჩუნებს ფუფუნების იერს."
       },
       {
-        "q": "სახელოებზე არსებული ფრიალი ქურთუკის ქვეშ შესაძლოა ზედმეტად მოცულობითი ჩანდეს.",
+        "q": "სახელოებზე არსებული ფრიალი ქურთუკის ქვეშ შესაძლოა ზედმეტად მოცულობითი ჩანდეს",
         "a": "ფრიალი დამზადებულია მსუბუქი მასალისგან, რომელიც რბილად დრაპირდება. ისინი სპეციალურად იმისთვის შეიქმნა, რომ ზედა სამოსის სახელოდან ელეგანტურად გამოჩნდეს, ყოველგვარი დისკომფორტის გარეშე."
       },
       {
-        "q": "ზოლები ამ დონის ბრენდისთვის შესაძლოა ზედმეტად ყოველდღიურად გამოიყურებოდეს.",
+        "q": "ზოლები ამ დონის ბრენდისთვის შესაძლოა ზედმეტად ყოველდღიურად გამოიყურებოდეს",
         "a": "ამ მოდელში გამოყენებულია დელიკატური გრაფიკა და უნიკალური ფერთა გამა 'Panna Ruggine', რაც სადაფის ფურნიტურასთან ერთად ბლუზას 'luxury casual' კატეგორიაში გადაიყვანს."
       },
       {
-        "q": "კორეული ტიპის საყელო შესაძლოა არ იყოს მაინცდამაინც მოსახერხებელი.",
+        "q": "კორეული ტიპის საყელო შესაძლოა არ იყოს მაინცდამაინც მოსახერხებელი",
         "a": "Leonidas-ის საყელო-სადგარს გააჩნია ზუსტად გათვლილი სიმაღლე და რბილი მორგება, რაც მოძრაობის თავისუფლებას უზრუნველყოფს და ქმნის თანამედროვე, ლაკონურ იერს, მჭიდრო ბაფთების შეკვრის საჭიროების გარეშე."
       },
       {
-        "q": "ღია ფერის ქსოვილი შესაძლოა გამჭვირვალე იყოს.",
+        "q": "ღია ფერის ქსოვილი შესაძლოა გამჭვირვალე იყოს",
         "a": "ბამბისა და აბრეშუმის ქსოვის სიმკვრივე ისეა შერჩეული, რომ უზრუნველყოს ძვირფასი ქსოვილებისთვის დამახასიათებელი კეთილშობილური ნახევარგამჭვირვალობა, ამავდროულად შეინარჩუნოს იმიჯისთვის აუცილებელი თავშეკავებულობა."
       }
     ],
     "hy": [
       {
         "q": "Կազմի մեջ առկա մետաքսը կարող է բլուզի խնամքը չափազանց բարդացնել",
-        "a": "Բամբակի (76%) գերակշռության շնորհիվ Leonidas գործվածքն ավելի գործնական է և մաշվածության նկատմամբ կայուն, քան մաքուր մետաքսը, միաժամանակ պահպանելով շքեղ տեսքը"
+        "a": "Բամբակի (76%) գերակշռության շնորհիվ Leonidas գործվածքն ավելի գործնական է և մաշվածության նկատմամբ կայուն, քան մաքուր մետաքսը, միաժամանակ պահպանելով շքեղ տեսքը."
       },
       {
         "q": "Թևքերի վոլանները կարող են չափազանց ծավալուն երևալ ժակետի տակ",
-        "a": "Վոլանները պատրաստված են թեթև նյութից, որը մեղմորեն դրեյրվում է: Դրանք ստեղծված են հատուկ նրա համար, որպեսզի դառնան վերնահագուստի թևքից դուրս եկող նորաձև դետալ՝ առանց անհարմարություն ստեղծելու"
+        "a": "Վոլանները պատրաստված են թեթև նյութից, որը մեղմորեն դրեյրվում է: Դրանք ստեղծված են հատուկ նրա համար, որպեսզի դառնան վերնահագուստի թևքից դուրս եկող նորաձև դետալ՝ առանց անհարմարություն ստեղծելու."
       },
       {
         "q": "Գծավոր պրինտը չափազանց առօրյա է թվում նման մակարդակի բրենդի համար",
-        "a": "Այս մոդելում օգտագործվում է նուրբ գրաֆիկա և «Panna Ruggine» յուրահատուկ գունային լուծում, որը սադափե ֆուրնիտուրայի հետ համադրությամբ բլուզը տեղափոխում է «luxury casual» կատեգորիա"
+        "a": "Այս մոդելում օգտագործվում է նուրբ գրաֆիկա և."
+      },
+      {
+        "q": "Panna Ruggine",
+        "a": "յուրահատուկ գունային լուծում, որը սադափե ֆուրնիտուրայի հետ համադրությամբ բլուզը տեղափոխում է."
+      },
+      {
+        "q": "luxury casual",
+        "a": "կատեգորիա."
       },
       {
         "q": "Կորեական օձիքը կարող է ոչ այնքան հարմարավետ լինել",
-        "a": "Leonidas-ի կանգնած օձիքն ունի ճշգրիտ բարձրություն և փափուկ նստվածք, ինչն ապահովում է շարժումների ազատություն և ժամանակակից լակոնիկ տեսք՝ առանց պինդ ժապավեններ կապելու անհրաժեշտության"
+        "a": "Leonidas-ի կանգնած օձիքն ունի ճշգրիտ բարձրություն և փափուկ նստվածք, ինչն ապահովում է շարժումների ազատություն և ժամանակակից լակոնիկ տեսք՝ առանց պինդ ժապավեններ կապելու անհրաժեշտության."
       },
       {
         "q": "Բաց գույնի գործվածքը կարող է թափանցիկ լինել",
-        "a": "Բամբակի և մետաքսի հյուսվածքի խտությունն ընտրված է այնպես, որ ապահովի թանկարժեք գործվածքներին բնորոշ ազնվական կիսաթափանցիկություն՝ պահպանելով կերպարի անհրաժեշտ զուսպությունը"
+        "a": "Բամբակի և մետաքսի հյուսվածքի խտությունն ընտրված է այնպես, որ ապահովի թանկարժեք գործվածքներին բնորոշ ազնվական կիսաթափանցիկություն՝ պահպանելով կերպարի անհրաժեշտ զուսպությունը."
       }
     ],
     "lv": [
       {
-        "q": "Zīds sastāvā var padarīt blūzi pārāk sarežģīti kopjamu.",
+        "q": "Zīds sastāvā var padarīt blūzi pārāk sarežģīti kopjamu",
         "a": "Pateicoties kokvilnas pārsvaram (76%), Leonidas audums ir praktiskāks un izturīgāks pret nodilumu nekā tīrs zīds, vienlaikus saglabājot greznu izskatu."
       },
       {
-        "q": "Volāni uz piedurknēm zem žaketes var izskatīties pārāk apjomīgi.",
+        "q": "Volāni uz piedurknēm zem žaketes var izskatīties pārāk apjomīgi",
         "a": "Volāni ir izgatavoti no viegla materiāla, kas maigi drapējas. Tie ir radīti speciāli tam, lai kļūtu par stilīgu 'iznācienu' no virsdrēbju piedurknes, neradot diskomfortu."
       },
       {
-        "q": "Svītras šķiet pārāk ikdienišķas šāda līmeņa zīmolam.",
+        "q": "Svītras šķiet pārāk ikdienišķas šāda līmeņa zīmolam",
         "a": "Šajā modelī tiek izmantota smalka grafika un unikāls krāsu risinājums 'Panna Ruggine', kas apvienojumā ar pērļmātes furnitūru pārceļ blūzi 'luxury casual' kategorijā."
       },
       {
-        "q": "Korejiešu apkakle var nebūt pārāk ērta.",
+        "q": "Korejiešu apkakle var nebūt pārāk ērta",
         "a": "Leonidas stāvapkaklei ir rūpīgi izsvērts augstums un mīksta piekļaušanās, nodrošinot kustību brīvību un modernu, lakonisku izskatu bez nepieciešamības siet ciešas lentes."
       },
       {
-        "q": "Gaišs audums var būt caurspīdīgs.",
+        "q": "Gaišs audums var būt caurspīdīgs",
         "a": "Kokvilnas un zīda pinuma blīvums ir izvēlēts tā, lai nodrošinātu cēlu caurspīdīgumu, kas raksturīgs dārgiem audumiem, vienlaikus saglabājot tēla nepieciešamo atturību."
       }
     ],
     "lt": [
       {
-        "q": "Šilkas sudėtyje gali apsunkinti palaidinės priežiūrą.",
+        "q": "Šilkas sudėtyje gali apsunkinti palaidinės priežiūrą",
         "a": "Dėl vyraujančio medvilnės kiekio (76 %), Leonidas audinys yra praktiškesnis ir atsparesnis nusidėvėjimui nei grynas šilkas, tačiau išlaiko prabangią išvaizdą."
       },
       {
-        "q": "Rankovių raukiniai gali atrodyti per daug dideli po švarku.",
+        "q": "Rankovių raukiniai gali atrodyti per daug dideli po švarku",
         "a": "Raukiniai pagaminti iš lengvos medžiagos, kuri minkštai krenta. Jie sukurti specialiai tam, kad taptų stilinga detale, išlendančia iš po viršutinio drabužio rankovės, nesukeliant jokio diskomforto."
       },
       {
-        "q": "Dryžiai atrodo per daug kasdieniški tokio lygio prekės ženklui.",
+        "q": "Dryžiai atrodo per daug kasdieniški tokio lygio prekės ženklui",
         "a": "Šiame modelyje naudojama subtili grafika ir unikalus spalvų derinys „Panna Ruggine“, kurie kartu su perlamutrine furnitūra perkelia palaidinę į „luxury casual“ kategoriją."
       },
       {
-        "q": "Koreietiška apykaklė gali būti ne itin patogi.",
+        "q": "Koreietiška apykaklė gali būti ne itin patogi",
         "a": "Leonidas stačios apykaklės aukštis yra puikiai subalansuotas, ji patogiai priglunda, suteikdama judėjimo laisvę ir modernų, minimalistinį įvaizdį be poreikio rišti sudėtingus kaspinus."
       },
       {
-        "q": "Šviesus audinys gali persišviesti.",
+        "q": "Šviesus audinys gali persišviesti",
         "a": "Medvilnės ir šilko pynimo tankis parinktas taip, kad būtų užtikrintas kilnus, brangiems audiniams būdingas pusiau permatomas efektas, kartu išlaikant būtiną įvaizdžio santūrumą."
       }
     ],
     "pl": [
       {
-        "q": "Jedwab w składzie może sprawiać, że bluzka będzie trudna w pielęgnacji.",
+        "q": "Jedwab w składzie może sprawiać, że bluzka będzie trudna w pielęgnacji",
         "a": "Dzięki przewadze bawełny (76%), tkanina Leonidas jest bardziej praktyczna i odporna na zużycie niż czysty jedwab, zachowując przy tym luksusowy wygląd."
       },
       {
-        "q": "Falbanki na rękawach mogą wydawać się zbyt obszerne pod żakietem.",
+        "q": "Falbanki na rękawach mogą wydawać się zbyt obszerne pod żakietem",
         "a": "Falbanki wykonano z lekkiego materiału, który miękko się układa. Stworzono je specjalnie po to, aby stanowiły stylowy akcent wystający spod rękawa odzieży wierzchniej, nie powodując dyskomfortu."
       },
       {
-        "q": "Paski wydają się zbyt codzienne dla marki tej klasy.",
+        "q": "Paski wydają się zbyt codzienne dla marki tej klasy",
         "a": "W tym modelu zastosowano delikatną grafikę i unikalną kolorystykę 'Panna Ruggine', co w połączeniu z perłową biżuterią przesuwa bluzkę do kategorii 'luxury casual'."
       },
       {
-        "q": "Koreański kołnierzyk może nie być zbyt wygodny.",
+        "q": "Koreański kołnierzyk może nie być zbyt wygodny",
         "a": "Stójka w modelu Leonidas ma precyzyjnie dobraną wysokość i miękkie dopasowanie, zapewniając swobodę ruchów oraz nowoczesny, minimalistyczny wygląd bez konieczności wiązania ciasnych kokard."
       },
       {
-        "q": "Jasna tkanina może prześwitywać.",
+        "q": "Jasna tkanina może prześwitywać",
         "a": "Gęstość splotu bawełny i jedwabiu została dobrana tak, aby zapewnić szlachetną półprzezroczystość, charakterystyczną dla drogich tkanin, zachowując przy tym niezbędną powściągliwość stylizacji."
       }
     ],
     "uk": [
       {
-        "q": "Шовк у складі може зробити блузу занадто складною у догляді.",
+        "q": "Шовк у складі може зробити блузу занадто складною у догляді",
         "a": "Завдяки переважанню бавовни (76%), тканина Leonidas більш практична та стійка до зношування, ніж чистий шовк, зберігаючи при цьому розкішний зовнішній вигляд."
       },
       {
-        "q": "Волани на рукавах можуть виглядати занадто об'ємно під жакетом.",
+        "q": "Волани на рукавах можуть виглядати занадто об'ємно під жакетом",
         "a": "Волани виконані з легкого матеріалу, який м'яко драпірується. Вони створені спеціально для того, щоб стати стильним 'виходом' з-під рукава верхнього одягу, не створюючи дискомфорту."
       },
       {
-        "q": "Смужка здається занадто повсякденною для бренду такого рівня.",
+        "q": "Смужка здається занадто повсякденною для бренду такого рівня",
         "a": "У цій моделі використовується делікатна графіка та унікальне колірне рішення 'Panna Ruggine', що у поєднанні з перламутровою фурнітурою переводить блузу в категорію 'luxury casual'."
       },
       {
-        "q": "Корейський комір може бути не надто зручним.",
+        "q": "Корейський комір може бути не надто зручним",
         "a": "Комір-стійка Leonidas має вивірену висоту та м'яку посадку, забезпечуючи свободу рухів і сучасний лаконічний вигляд без необхідності зав'язувати тугі банти."
       },
       {
-        "q": "Світла тканина може просвічуватися.",
+        "q": "Світла тканина може просвічуватися",
         "a": "Щільність плетіння бавовни та шовку підібрана таким чином, щоб забезпечити благородну напівпрозорість, характерну для дорогих тканин, зберігаючи при цьому необхідну стриманість образу."
       }
     ]

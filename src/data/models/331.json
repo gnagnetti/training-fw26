@@ -165,73 +165,69 @@
   "objections": {
     "en": [
       {
-        "q": "I'm afraid the leopard print will look too bold.",
-        "a": "Point out the considered design: the wide solid-color collar and classic regular-fit silhouette »˜tame ' the print, elevating it to an aristocratic accent."
+        "q": "I'm afraid the leopard print will look too bold",
+        "a": "Point out the considered design: the wide solid-color collar and classic regular-fit silhouette »˜tame »™ the print, elevating it to an aristocratic accent."
       },
       {
         "q": "Is this jacket warm enough for real winter weather?",
         "a": "Clarify that Soriano falls into the warm outerwear category. Its high-density pile and satin lining provide excellent thermal insulation while keeping the piece lightweight."
       },
       {
-        "q": "Faux fur might lose its look after just one season.",
+        "q": "Faux fur might lose its look after just one season",
         "a": "Emphasize the brand's premium-quality materials. Modacrylic is prized for its high durability and its ability to retain its original sheen and softness even with extended wear."
       },
       {
-        "q": "The cropped cut may visually widen the hips.",
-        "a": "Suggest trying the jacket with the Oneta trousers. The vertical closure line and clean shoulder line harmonize the proportions, creating a slender silhouette."
+        "q": "The cropped cut may visually widen the hips",
+        "a": "Suggest trying the jacket with the Oneta trousers (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg The vertical closure line and clean shoulder line harmonize the proportions, creating a slender silhouette."
       },
       {
-        "q": "This fur feels too dressy for everyday life.",
-        "a": "Showcase Look 149 with the essential Manos pullover. This proves that Soriano is a versatile piece that adapts effortlessly to an urban style."
+        "q": "This fur feels too dressy for everyday life",
+        "a": "Showcase Look 149 with the essential Manos pullover (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000.jpg (3).jpg). This proves that Soriano is a versatile piece that adapts effortlessly to an urban style."
       }
     ],
     "ru": [
       {
-        "q": "Я боюсь, что леопардовый принт будет выглядеть слишком вызывающе.",
-        "a": "Обратите внимание на выверенный дизайн: широкий однотонный воротник и классический силуэт regular fit 'усмиряют' принт, переводя его в разряд аристократичного акцента."
+        "q": "Боюсь, леопардовый принт будет выглядеть слишком вызывающе",
+        "a": "Обратите внимание на продуманный дизайн: широкий однотонный воротник и классический силуэт regular-fit «укрощают» принт, возводя его в ранг аристократичного акцента."
       },
       {
-        "q": "Достаточно ли теплая эта куртка для настоящей зимы?",
-        "a": "Уточните, что Soriano относится к категории теплой верхней одежды. Высокая плотность ворса и атласная подкладка обеспечивают отличную теплоизоляцию, сохраняя при этом легкость изделия."
+        "q": "Достаточно ли эта куртка теплая для настоящей зимы?",
+        "a": "Soriano относится к категории теплой верхней одежды. Высокая плотность ворса и атласная подкладка обеспечивают превосходную термоизоляцию, сохраняя при этом легкость изделия."
       },
       {
-        "q": "Искусственный мех может потерять вид после первого сезона.",
-        "a": "Подчеркните премиальный статус материалов бренда. Модакрил отличается высокой износостойкостью и способностью сохранять первоначальный блеск и мягкость даже при длительной носке."
+        "q": "Искусственный мех может потерять вид уже через сезон",
+        "a": "Мы используем материалы премиального качества. Модакрил ценится за высокую износостойкость и способность сохранять первоначальный блеск и мягкость даже при длительной носке."
       },
       {
-        "q": "Укороченный фасон может визуально увеличить объем бедер.",
-        "a": "Предложите примерить жаккон с брюками Oneta. Вертикальная линия застежки и четкая линия плеч гармонизируют пропорции, создавая стройный силуэт."
+        "q": "Укороченный крой может визуально расширять бедра",
+        "a": "Попробуйте сочетать куртку с брюками Oneta. Вертикальная линия застежки и чистая линия плеча гармонизируют пропорции, создавая стройный силуэт."
       },
       {
-        "q": "Этот мех кажется мне слишком нарядным для повседневной жизни.",
-        "a": "Продемонстрируйте Look 149 с базовым пуловером Manos. Это доказывает, что Soriano — универсальная вещь, которая легко адаптируется под городской стиль."
+        "q": "Этот мех кажется слишком нарядным для повседневной жизни",
+        "a": "Образ 149 с базовым пуловером Manos доказывает, что Soriano — универсальная вещь, которая легко адаптируется к городскому стилю."
       }
     ],
     "ar": [
       {
-        "q": "أخشى أن تبدو نقشة الفهد لافتة للنظر أكثر من اللازم.",
-        "a": "لفتي الانتباه إلى التصميم المدروس؛ فالياقة العريضة ذات اللون الواحد والقصة الكلاسيكية (regular fit) تلطف من حدة النقشة، مما يجعلها لمسة راقية."
+        "q": "أخشى أن تبدو نقشة الفهد لافتة للنظر أكثر من اللازم",
+        "a": "لفتي الانتباه إلى التصميم المدروس؛ فالياقة العريضة ذات اللون الواحد والقصة الكلاسيكية (regular fit) تلطف من حدة النقشة، مما يجعلها لمسة راقية. «هل هذه السترة دافئة بما يكفي لشتاء حقيقي؟» وضحي أن Soriano تنتمي لفئة الملابس الخارجية الدافئة؛ حيث توفر كثافة الوبر والبطانة الساتان عزلاً حرارياً ممتازاً مع الحفاظ على خفة القطعة."
       },
       {
-        "q": "هل هذه السترة دافئة بما يكفي لشتاء حقيقي؟",
-        "a": "وضحي أن Soriano تنتمي لفئة الملابس الخارجية الدافئة؛ حيث توفر كثافة الوبر والبطانة الساتان عزلاً حرارياً ممتازاً مع الحفاظ على خفة القطعة."
-      },
-      {
-        "q": "قد يفقد الفراء الصناعي مظهره بعد الموسم الأول.",
+        "q": "قد يفقد الفراء الصناعي مظهره بعد الموسم الأول",
         "a": "أكدي على المكانة الراقية لخامات العلامة التجارية، حيث يتميز الموداكريل بمتانته العالية وقدرته على الاحتفاظ بلمعانه ونعومته حتى بعد الارتداء الطويل."
       },
       {
-        "q": "قد يزيد القصة القصيرة من حجم الأرداف بصرياً.",
-        "a": "اقترحي تجربة السترة مع بنطال Oneta، فخط الأزرار الرأسي وخط الكتف الواضح ينسقان التناسبات ويخلقان قواماً ممشوقاً."
+        "q": "قد يزيد القصة القصيرة من حجم الأرداف بصرياً",
+        "a": "اقترحي تجربة السترة مع بنطال Oneta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg فخط الأزرار الرأسي وخط الكتف الواضح ينسقان التناسبات ويخلقان قواماً ممشوقاً."
       },
       {
-        "q": "يبدو هذا الفراء رسمياً جداً بالنسبة لي للحياة اليومية.",
-        "a": "استعرضي Look 149 مع بلوفر أساسي Manos، فهذا يثبت أن Soriano قطعة متعددة الاستخدامات تتكيف بسهولة مع الأسلوب الحضري."
+        "q": "يبدو هذا الفراء رسمياً جداً بالنسبة لي للحياة اليومية",
+        "a": "استعرضي Look 149 مع بلوفر أساسي Manos (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000.jpg (3).jpg)، فهذا يثبت أن Soriano قطعة متعددة الاستخدامات تتكيف بسهولة مع الأسلوب الحضري."
       }
     ],
     "ka": [
       {
-        "q": "მეშინია, რომ ლეოპარდის პრინტი ზედმეტად გამომწვევად გამოიყურება.",
+        "q": "მეშინია, რომ ლეოპარდის პრინტი ზედმეტად გამომწვევად გამოიყურება",
         "a": "ყურადღება მიაქციეთ დახვეწილ დიზაინს: ფართო ერთფეროვანი საყელო და კლასიკური სილუეტი regular fit „ალაგმავს“ პრინტს და მას არისტოკრატული აქცენტის კატეგორიაში გადაიყვანს."
       },
       {
@@ -239,43 +235,47 @@
         "a": "დააზუსტეთ, რომ Soriano მიეკუთვნება თბილი ზედა ტანსაცმლის კატეგორიას. ბეწვის მაღალი სიმკვრივე და ატლასის სარჩული უზრუნველყოფს შესანიშნავ თბოიზოლაციას და თან ინარჩუნებს ნაკეთობის სიმსუბუქეს."
       },
       {
-        "q": "ხელოვნურმა ბეწვმა შესაძლოა პირველივე სეზონის შემდეგ დაკარგოს იერსახე.",
+        "q": "ხელოვნურმა ბეწვმა შესაძლოა პირველივე სეზონის შემდეგ დაკარგოს იერსახე",
         "a": "ხაზგასმით აღნიშნეთ ბრენდის მასალების პრემიალური სტატუსი. მოდაკრილი გამოირჩევა მაღალი ცვეთამედეგობით და პირვანდელი ბზინვარებისა და სირბილის შენარჩუნების უნარით ხანგრძლივი ტარების დროსაც კი."
       },
       {
-        "q": "დამოკლებულმა ფასონმა შესაძლოა ვიზუალურად გაზარდოს თეძოების მოცულობა.",
-        "a": "შესთავაზეთ ჟაკეტის მოსინჯვა შარვალთან Oneta. შესაკრავის ვერტიკალური ხაზი და მხრების მკაფიო ხაზი ახდენს პროპორციების ჰარმონიზებას და ქმნის მოხდენილ სილუეტს."
+        "q": "დამოკლებულმა ფასონმა შესაძლოა ვიზუალურად გაზარდოს თეძოების მოცულობა",
+        "a": "შესთავაზეთ ჟაკეტის მოსინჯვა შარვალთან Oneta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg შესაკრავის ვერტიკალური ხაზი და მხრების მკაფიო ხაზი ახდენს პროპორციების ჰარმონიზებას და ქმნის მოხდენილ სილუეტს."
       },
       {
-        "q": "ეს ბეწვი ყოველდღიური ცხოვრებისთვის ზედმეტად ელეგანტურად მეჩვენება.",
-        "a": "აჩვენეთ Look 149 საბაზისო პულოვერთან Manos. ეს ამტკიცებს, რომ Soriano უნივერსალური ნივთია, რომელიც ადვილად ერგება საქალაქო სტილს."
+        "q": "ეს ბეწვი ყოველდღიური ცხოვრებისთვის ზედმეტად ელეგანტურად მეჩვენება",
+        "a": "აჩვენეთ Look 149 საბაზისო პულოვერთან Manos (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000.jpg (3).jpg). ეს ამტკიცებს, რომ Soriano უნივერსალური ნივთია, რომელიც ადვილად ერგება საქალაქო სტილს."
       }
     ],
     "hy": [
       {
         "q": "Ես վախենում եմ, որ լեոպարդային պրինտը չափազանց աչքի ընկնող կլինի։",
-        "a": "Ուշադրություն դարձրեք հստակ դիզայնին. լայն միագույն օձիքը և դասական regular fit ուրվագիծը «հնազանդեցնում» են պրինտը՝ այն տեղափոխելով ազնվազարմ շեշտադրման կարգավիճակ։"
+        "a": "Ուշադրություն դարձրեք հստակ դիզայնին. լայն միագույն օձիքը և դասական regular fit ուրվագիծը."
+      },
+      {
+        "q": "հնազանդեցնում",
+        "a": "են պրինտը՝ այն տեղափոխելով ազնվազարմ շեշտադրման կարգավիճակ։."
       },
       {
         "q": "Արդյո՞ք այս բաճկոնը բավականաչափ տաք է իսկական ձմռան համար։",
-        "a": "Պարզաբանեք, որ Soriano-ն դասվում է տաք վերնահագուստի կատեգորիային։ Թավի խտությունը և ատլասե աստառը ապահովում են գերազանց ջերմամեկուսացում՝ պահպանելով միաժամանակ արտադրանքի թեթևությունը։"
+        "a": "Պարզաբանեք, որ Soriano-ն դասվում է տաք վերնահագուստի կատեգորիային։ Թավի խտությունը և ատլասե աստառը ապահովում են գերազանց ջերմամեկուսացում՝ պահպանելով միաժամանակ արտադրանքի թեթևությունը։."
       },
       {
         "q": "Արհեստական մորթին կարող է կորցնել տեսքը առաջին սեզոնից հետո։",
-        "a": "Ընդգծեք ապրանքանիշի նյութերի պրեմիում կարգավիճակը։ Մոդակրիլը տարբերվում է բարձր դիմացկունությամբ և սկզբնական փայլն ու փափկությունը պահպանելու ունակությամբ նույնիսկ երկարատև կրելուց հետո։"
+        "a": "Ընդգծեք ապրանքանիշի նյութերի պրեմիում կարգավիճակը։ Մոդակրիլը տարբերվում է բարձր դիմացկունությամբ և սկզբնական փայլն ու փափկությունը պահպանելու ունակությամբ նույնիսկ երկարատև կրելուց հետո։."
       },
       {
         "q": "Կարճեցված ֆասոնը կարող է տեսողականորեն մեծացնել կոնքերի ծավալը։",
-        "a": "Առաջարկեք չափել ժակկոնը (жаккон) Oneta տաբատների հետ: Ամրացման ուղղահայաց գիծը և ուսերի հստակ գիծը ներդաշնակեցնում են համամասնությունները՝ ստեղծելով բարեկազմ ուրվագիծ։"
+        "a": "Առաջարկեք չափել ժակկոնը (жаккон) Oneta տաբատների հետ (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg Ամրացման ուղղահայաց գիծը և ուսերի հստակ գիծը ներդաշնակեցնում են համամասնությունները՝ ստեղծելով բարեկազմ ուրվագիծ։."
       },
       {
         "q": "Այս մորթին ինձ շատ տոնական է թվում առօրյա կյանքի համար։",
-        "a": "Ցույց տվեք Look 149-ը՝ Manos բազային պուլովերով: Սա ապացուցում է, որ Soriano-ն ունիվերսալ իր է, որը հեշտությամբ հարմարվում է քաղաքային ոճին։"
+        "a": "Ցույց տվեք Look 149-ը՝ Manos բազային պուլովերով (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000.jpg (3).jpg): Սա ապացուցում է, որ Soriano-ն ունիվերսալ իր է, որը հեշտությամբ հարմարվում է քաղաքային ոճին։."
       }
     ],
     "lv": [
       {
-        "q": "Baidos, ka leoparda raksts izskatīsies pārāk izaicinoši.",
+        "q": "Baidos, ka leoparda raksts izskatīsies pārāk izaicinoši",
         "a": "Vērsiet uzmanību uz izsvērto dizainu: plata vienkrāsaina apkakle un klasisks «regular fit» siluets «savalda» apdruku, pārvēršot to aristokrātiska akcenta kategorijā."
       },
       {
@@ -283,21 +283,21 @@
         "a": "Precizējiet, ka Soriano pieder pie siltu virsdrēbju kategorijas. Augsts plūksnu blīvums un satīna odere nodrošina izcilu siltumizolāciju, vienlaikus saglabājot izstrādājuma vieglumu."
       },
       {
-        "q": "Mākslīgā kažokāda var zaudēt izskatu pēc pirmās sezonas.",
+        "q": "Mākslīgā kažokāda var zaudēt izskatu pēc pirmās sezonas",
         "a": "Uzsveriet zīmola materiālu premium statusu. Modakrils izceļas ar augstu nodilumizturību un spēju saglabāt sākotnējo spīdumu un maigumu pat pēc ilgstošas valkāšanas."
       },
       {
-        "q": "Saīsinātais fasons var vizuāli palielināt gurnu apjomu.",
-        "a": "Piedāvājiet pielaikot jaku ar biksēm Oneta. Vertikālā aizdares līnija un skaidrā plecu līnija harmonizē proporcijas, radot slaidu siluetu."
+        "q": "Saīsinātais fasons var vizuāli palielināt gurnu apjomu",
+        "a": "Piedāvājiet pielaikot jaku ar biksēm Oneta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg Vertikālā aizdares līnija un skaidrā plecu līnija harmonizē proporcijas, radot slaidu siluetu."
       },
       {
-        "q": "Šī kažokāda man šķiet pārāk grezna ikdienas dzīvei.",
-        "a": "Demonstrējiet Look 149 ar bāzes puloveru Manos. Tas pierāda, ka Soriano ir universāla lieta, kas viegli adaptējas pilsētas stilam."
+        "q": "Šī kažokāda man šķiet pārāk grezna ikdienas dzīvei",
+        "a": "Demonstrējiet Look 149 ar bāzes puloveru Manos (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000.jpg (3).jpg). Tas pierāda, ka Soriano ir universāla lieta, kas viegli adaptējas pilsētas stilam."
       }
     ],
     "lt": [
       {
-        "q": "Bijau, kad leopardo raštas atrodys pernelyg iššaukiančiai.",
+        "q": "Bijau, kad leopardo raštas atrodys pernelyg iššaukiančiai",
         "a": "Atkreipkite dėmesį į suderintą dizainą: plati vienspalvė apykaklė ir klasikinis „regular fit“ siluetas „suvaldo“ raštą, priskirdami jį prie aristokratiškų akcentų kategorijos."
       },
       {
@@ -305,21 +305,21 @@
         "a": "Patikslinkite, kad Soriano priklauso šiltų viršutinių drabužių kategorijai. Didelis plauko tankis ir atlasinis pamušalas užtikrina puikią termoizoliaciją, išsaugant gaminio lengvumą."
       },
       {
-        "q": "Dirbtinis kailis gali prarasti išvaizdą po pirmo sezono.",
+        "q": "Dirbtinis kailis gali prarasti išvaizdą po pirmo sezono",
         "a": "Pabrėžkite prekės ženklo medžiagų „premium“ statusą. Modakrilas pasižymi dideliu atsparumu dėvėjimuisi ir gebėjimu išsaugoti pradinį spindesį bei minkštumą net ilgai dėvint."
       },
       {
-        "q": "Trumpintas fasonas gali vizualiai padidinti klubų apimtį.",
-        "a": "Pasiūlykite pasimatuoti „jakoną“ su kelnėmis Oneta. Vertikali užsegimo linija ir aiški pečių linija harmonizuoja proporcijas, sukurdamos grakštų siluetą."
+        "q": "Trumpintas fasonas gali vizualiai padidinti klubų apimtį",
+        "a": "Pasiūlykite pasimatuoti „jakoną“ su kelnėmis Oneta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg Vertikali užsegimo linija ir aiški pečių linija harmonizuoja proporcijas, sukurdamos grakštų siluetą."
       },
       {
-        "q": "Šis kailis man atrodo pernelyg puošnus kasdieniam gyvenimui.",
-        "a": "Pademonstruokite Look 149 su baziniu megztiniu Manos. Tai įrodo, kad Soriano — universalus daiktas, kuris lengvai prisitaiko prie miesto stiliaus."
+        "q": "Šis kailis man atrodo pernelyg puošnus kasdieniam gyvenimui",
+        "a": "Pademonstruokite Look 149 su baziniu megztiniu Manos (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000.jpg (3).jpg). Tai įrodo, kad Soriano — universalus daiktas, kuris lengvai prisitaiko prie miesto stiliaus."
       }
     ],
     "pl": [
       {
-        "q": "Obawiam się, że lamparci wzór będzie wyglądał zbyt wyzywająco.",
+        "q": "Obawiam się, że lamparci wzór będzie wyglądał zbyt wyzywająco",
         "a": "Zwróć uwagę na przemyślany design: szeroki, jednolity kołnierz i klasyczny krój regular fit „łagodzą” nadruk, przenosząc go do rangi arystokratycznego akcentu."
       },
       {
@@ -327,21 +327,21 @@
         "a": "Wyjaśnij, że Soriano należy do kategorii ciepłej odzieży wierzchniej. Wysoka gęstość włosia i atłasowa podszewka zapewniają doskonałą termoizolację, zachowując przy tym lekkość produktu."
       },
       {
-        "q": "Sztuczne futro może stracić wygląd po pierwszym sezonie.",
+        "q": "Sztuczne futro może stracić wygląd po pierwszym sezonie",
         "a": "Podkreśl prestiżowy status materiałów marki. Modakryl wyróżnia się wysoką odpornością na zużycie i zdolnością do zachowania pierwotnego blasku oraz miękkości nawet przy długotrwałym noszeniu."
       },
       {
-        "q": "Krótki fason może optycznie powiększyć biodra.",
-        "a": "Zaproponuj przymierzenie żakietu ze spodniami Oneta. Pionowa linia zapięcia i wyraźna linia ramion harmonizują proporcje, tworząc smukłą sylwetkę."
+        "q": "Krótki fason może optycznie powiększyć biodra",
+        "a": "Zaproponuj przymierzenie żakietu ze spodniami Oneta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg Pionowa linia zapięcia i wyraźna linia ramion harmonizują proporcje, tworząc smukłą sylwetkę."
       },
       {
-        "q": "To futro wydaje mi się zbyt strojne na co dzień.",
-        "a": "Zaprezentuj Look 149 z bazowym pulowerem Manos. To dowodzi, że Soriano jest uniwersalną rzeczą, która łatwo adaptuje się do miejskiego stylu."
+        "q": "To futro wydaje mi się zbyt strojne na co dzień",
+        "a": "Zaprezentuj Look 149 z bazowym pulowerem Manos (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000.jpg (3).jpg). To dowodzi, że Soriano jest uniwersalną rzeczą, która łatwo adaptuje się do miejskiego stylu."
       }
     ],
     "uk": [
       {
-        "q": "Я боюся, що леопардовий принт буде виглядати занадто зухвало.",
+        "q": "Я боюся, що леопардовий принт буде виглядати занадто зухвало",
         "a": "Зверніть увагу на вивірений дизайн: широкий однотонний комір та класичний силует regular fit 'упокорюють' принт, переводячи його в розряд аристократичного акценту."
       },
       {
@@ -349,16 +349,16 @@
         "a": "Уточніть, що Soriano належить до категорії теплого верхнього одягу. Висока щільність ворсу та атласна підкладка забезпечують відмінну теплоізоляцію, зберігаючи при цьому легкість виробу."
       },
       {
-        "q": "Штучне хутро може втратити вигляд після першого сезону.",
+        "q": "Штучне хутро може втратити вигляд після першого сезону",
         "a": "Підкресліть преміальний статус матеріалів бренду. Модакрил вирізняється високою зносостійкістю та здатністю зберігати первинний блиск і м'якість навіть при тривалому носінні."
       },
       {
-        "q": "Укорочений фасон може візуально збільшити об'єм стегон.",
-        "a": "Запропонуйте приміряти жаккон зі штанами Oneta. Вертикальна лінія застібки та чітка лінія плечей гармонізують пропорції, створюючи стрункий силует."
+        "q": "Укорочений фасон може візуально збільшити об'єм стегон",
+        "a": "Запропонуйте приміряти жаккон зі штанами Oneta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg Вертикальна лінія застібки та чітка лінія плечей гармонізують пропорції, створюючи стрункий силует."
       },
       {
-        "q": "Це хутро здається мені занадто ошатним для повсякденного життя.",
-        "a": "Продемонструйте Look 149 з базовим пуловером Manos. Це доводить, що Soriano — універсальна річ, яка легко адаптується під міський стиль."
+        "q": "Це хутро здається мені занадто ошатним для повсякденного життя",
+        "a": "Продемонструйте Look 149 з базовим пуловером Manos (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/MANOSB_10100000000.jpg (3).jpg). Це доводить, що Soriano — універсальна річ, яка легко адаптується під міський стиль."
       }
     ]
   }

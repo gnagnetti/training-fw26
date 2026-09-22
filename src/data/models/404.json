@@ -126,60 +126,52 @@
   "objections": {
     "en": [
       {
-        "q": "The print feels too busy.",
-        "a": "Explain that the classic black-and-white palette and the shirt-dress 's clean tailoring balance the graphic pattern. The dress is easily tempered with solid-colour outerwear, such as the Stenografo 0101 coat."
+        "q": "The print feels too busy",
+        "a": " Response: Explain that the classic black-and-white palette and the shirt-dress »™s clean tailoring balance the graphic pattern. The dress is easily tempered with solid-colour outerwear, such as the Stenografo 0101 coat. Objection: «Three-quarter sleeves aren »™t suited to winter. » Response: Point out that this sleeve length is ideal for showcasing a watch or bracelets. In colder weather, suggest completing the look with long leather gloves, which adds a note of aristocratic polish. Objection."
       },
       {
-        "q": "Three-quarter sleeves aren 't suited to winter.",
-        "a": "Point out that this sleeve length is ideal for showcasing a watch or bracelets. In colder weather, suggest completing the look with long leather gloves, which adds a note of aristocratic polish."
+        "q": "Viscose creases easily",
+        "a": " Response: Remind the client that Luisa Spagnoli uses a specially woven, high-density viscose that holds its shape beautifully and is far more crease-resistant than standard fabrics. Objection."
       },
       {
-        "q": "Viscose creases easily.",
-        "a": "Remind the client that Luisa Spagnoli uses a specially woven, high-density viscose that holds its shape beautifully and is far more crease-resistant than standard fabrics."
+        "q": "The midi length (mid-calf) shortens the figure",
+        "a": " Response: Recommend trying the dress with tall boots in a shade matching the black element of the print. This creates an unbroken vertical line that, in fact, visually elongates the silhouette. Objection."
       },
       {
-        "q": "The midi length (mid-calf) shortens the figure.",
-        "a": "Recommend trying the dress with tall boots in a shade matching the black element of the print. This creates an unbroken vertical line that, in fact, visually elongates the silhouette."
-      },
-      {
-        "q": "The dress looks too simple.",
-        "a": "Draw attention to the details — the collar, the cuffs, and the intricacy of the print itself. In this case, the simplicity of the cut is a hallmark of «Quiet Luxury, » where fabric quality takes centre stage"
+        "q": "The dress looks too simple",
+        "a": " Response: Draw attention to the details »” the collar, the cuffs, and the intricacy of the print itself. In this case, the simplicity of the cut is a hallmark of «Quiet Luxury, » where fabric quality takes centre stage. ![](media/image30.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Принт кажется",
-        "a": "Поясните, что классическая черно-белая гамма и слишком строгий крой шемизье «уравновешивают графику. активным» Платье легко усмирить однотонной верхней одеждой, такой как пальто Stenografo 0101."
+        "q": "Принт кажется слишком активным",
+        "a": ". Ответ: Классическая черно-белая палитра и лаконичный крой платья-рубашки уравновешивают графичный узор. Платье легко гармонирует с однотонной верхней одеждой, например, с пальто Stenografo 0101. Возражение."
       },
       {
-        "q": "Рукав 3/4 не",
-        "a": "Укажите на то, что такая длина рукава идеальна для подходит для демонстрации часов или браслетов. В холодное время зимы года предложите дополнить образ длинными кожаными перчатками — это добавит образу аристократизма."
+        "q": "Рукава три четверти не подходят для зимы",
+        "a": ". Ответ: Эта длина идеальна для демонстрации часов или браслетов. В холодное время года рекомендуем дополнить образ высокими кожаными перчатками, что добавит ноту аристократичного лоска. Возражение."
       },
       {
-        "q": "Вискоза может",
-        "a": "Напомните, что Luisa Spagnoli использует вискозу сильно мяться специального плетения с высокой плотностью, которая отлично держит форму и гораздо устойчивее к сминанию, чем обычные ткани."
+        "q": "Вискоза быстро мнется",
+        "a": ". Ответ: Luisa Spagnoli использует специально разработанную высокоплотную вискозу, которая превосходно держит форму и гораздо более устойчива к заломам, чем стандартные ткани. Возражение."
       },
       {
-        "q": "Длина миди (до",
-        "a": "Рекомендуйте примерить платье с высокими сапогами в середины икры) тон черного элемента принта. Это создаст непрерывную укорачивает вертикаль, которая, напротив, визуально вытянет рост силуэт."
+        "q": "Длина миди укорачивает фигуру",
+        "a": ". Ответ: Рекомендуем примерить платье с высокими сапогами в тон черному элементу принта. Это создает непрерывную вертикаль, которая визуально удлиняет силуэт. Возражение."
       },
       {
-        "q": "Платье выглядит",
-        "a": "Обратите внимание на детали: воротник, манжеты и слишком просто сложность самого принта. Лаконичность кроя в данном случае — это признак высокого стиля."
+        "q": "Платье выглядит слишком просто",
+        "a": ". Ответ: Обратите внимание на детали: воротник, манжеты и сложность самого принта. В данном случае лаконичность кроя — это манифест."
       },
       {
-        "q": "Quiet Luxury",
-        "a": "где во главу угла ставится качество ткани."
+        "q": "тихой роскоши",
+        "a": ", где на первый план выходит безупречное качество материала."
       }
     ],
     "ar": [
       {
         "q": "تبدو الطبعة جريئة للغاية",
-        "a": "وضح أن لوحة الألوان الكلاسيكية بالأبيض والأسود وقصة القميص الرصينة."
-      },
-      {
-        "q": "توازن",
-        "a": "الطبعة الرسومية. يمكن تهدئة الفستان بسهولة بملابس خارجية أحادية اللون، مثل معطف Stenografo 0101."
+        "a": "وضح أن لوحة الألوان الكلاسيكية بالأبيض والأسود وقصة القميص الرصينة \"توازن\" الطبعة الرسومية. يمكن تهدئة الفستان بسهولة بملابس خارجية أحادية اللون، مثل معطف Stenografo 0101."
       },
       {
         "q": "طول الكم 3/4 غير مناسب لفصل الشتاء",
@@ -195,21 +187,17 @@
       },
       {
         "q": "يبدو الفستان بسيطاً للغاية",
-        "a": "انتبه إلى التفاصيل: الياقة، الأساور، وتعقيد الطبعة ذاتها. البساطة في القصة هنا هي علامة على نمط."
-      },
-      {
-        "q": "الفخامة الهادئة",
-        "a": "(Quiet Luxury)، حيث تكون أولوية العناية هي جودة القماش."
+        "a": "انتبه إلى التفاصيل: الياقة، الأساور، وتعقيد الطبعة ذاتها. البساطة في القصة هنا هي علامة على نمط \"الفخامة الهادئة\" (Quiet Luxury)، حيث تكون أولوية العناية هي جودة القماش. ![](media/image30.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
       {
         "q": "პრინტი ზედმეტად აქტიური ჩანს",
-        "a": "განუმარტეთ, რომ კლასიკური შავ-თეთრი გამა და კაბა-პერანგის მკაცრი ჭრა აბალანსებს გრაფიკულ პრინტს. კაბის."
+        "a": "განუმარტეთ, რომ კლასიკური შავ-თეთრი გამა და კაბა-პერანგის მკაცრი ჭრა აბალანსებს გრაფიკულ პრინტს. კაბის „დაშოშმინება“ მარტივია ერთტონიანი ზედა სამოსით, მაგალითად, პალტო Stenografo 0101-ით."
       },
       {
-        "q": "დაშოშმინება“ მარტივია ერთტონიანი ზედა სამოსით, მაგალითად, პალტო Stenografo 0101-ით. «3/4 სახელო ზამთრის პერიოდისთვის არ გამოდგება",
-        "a": "მიუთითეთ იმაზე, რომ სახელოს ასეთი სიგრძე იდეალურია საათის ან სამაჯურების დემონსტრირებისთვის. წელიწადის ცივ დროს შესთავაზეთ იერსახე გრძელი ტყავის ხელთათმანებით შეავსოთ — ეს იერსახეს არისტოკრატულობას მიანიჭებს."
+        "q": "3/4 სახელო ზამთრის პერიოდისთვის არ გამოდგება",
+        "a": "მიუთითეთ იმაზე, რომ სახელოს ასეთი სიგრძე იდეალურია საათის ან სამაჯურების დემონსტრირებისთვის. წელიწადის ცივ დროს შესთავაზეთ იერსახე გრძელი ტყავის ხელთათმანებით შეავსოთ --- ეს იერსახეს არისტოკრატულობას მიანიჭებს."
       },
       {
         "q": "ვისკოზა შეიძლება ძლიერად დაიჭმუჭნოს",
@@ -221,43 +209,67 @@
       },
       {
         "q": "კაბა ზედმეტად მარტივი ჩანს",
-        "a": "ყურადღება გაამახვილეთ დეტალებზე: საყელო, მანჟეტები და პრინტის სირთულე. ამ შემთხვევაში ლაკონიური ჭრა არის „Quiet Luxury“-ს მაღალი სტილის ნიშანი, სადაც მთავარი აქცენტი ქსოვილის ხარისხზე კეთდება."
+        "a": "ყურადღება გაამახვილეთ დეტალებზე: საყელო, მანჟეტები და პრინტის სირთულე. ამ შემთხვევაში ლაკონიური ჭრა არის „Quiet Luxury“-ს მაღალი სტილის ნიშანი, სადაც მთავარი აქცენტი ქსოვილის ხარისხზე კეთდება. ![](media/image30.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
       {
         "q": "Պրինտը չափազանց ակտիվ է թվում",
-        "a": "Պարզաբանեք, որ դասական սև ու սպիտակ գամման և շեմիզեի խիստ ձևվածքը «հավասարակշռում» են գրաֆիկան։ Զգեստը հեշտ է հանդարտեցնել միագույն վերնազգեստով, ինչպիսին է Stenografo 0101 վերարկուն։ «3/4 թևքը հարմար չէ ձմեռվա համար» Մատնանշեք, որ թևքի այս երկարությունը իդեալական է ժամացույցներ կամ ապարանջաններ ցուցադրելու համար։ Տարվա ցուրտ եղանակին առաջարկեք կերպարը լրացնել երկար կաշվե ձեռնոցներով. սա կերպարին կհաղորդի արիստոկրատիա։ «Վիսկոզան կարող է շատ կնճռոտվել» Հիշեցրեք, որ Luisa Spagnoli-ն օգտագործում է հատուկ հյուսվածքի բարձր խտության վիսկոզա, որը գերազանց պահպանում է ձևը և շատ ավելի դիմացկուն է կնճռոտմանը, քան սովորական գործվածքները։ «Միդի երկարությունը (մինչև սրունքի կեսը) կարճացնում է հասակը» Առաջարկեք փորձել զգեստը պրինտի սև տարրի երանգի բարձրահասակ կոշիկներով։ Սա կստեղծի անընդհատ ուղղահայաց, որը, ընդհակառակը, տեսողականորեն կերկարացնի ուրվագիծը։ «Զգեստը չափազանց պարզ է թվում» Ուշադրություն դարձրեք դետալներին՝ օձիքին, թևքածալերին և բուն պրինտի բարդությանը։ Ձևվածքի լակոնիկությունը տվյալ դեպքում «Quiet Luxury» բարձր ոճի նշան է, որտեղ առաջնայինը գործվածքի որակն է։"
+        "a": "Ռազմավարություն՝ Պարզաբանեք, որ դասական սև ու սպիտակ գամման և շեմիզեի խիստ ձևվածքը."
+      },
+      {
+        "q": "հավասարակշռում",
+        "a": "են գրաֆիկան։ Զգեստը հեշտ է հանդարտեցնել միագույն վերնազգեստով, ինչպիսին է Stenografo 0101 վերարկուն։."
+      },
+      {
+        "q": "3/4 թևքը հարմար չէ ձմեռվա համար",
+        "a": "Մատնանշեք, որ թևքի այս երկարությունը իդեալական է ժամացույցներ կամ ապարանջաններ ցուցադրելու համար։ Տարվա ցուրտ եղանակին առաջարկեք կերպարը լրացնել երկար կաշվե ձեռնոցներով. սա կերպարին կհաղորդի արիստոկրատիա։."
+      },
+      {
+        "q": "Վիսկոզան կարող է շատ կնճռոտվել",
+        "a": "Հիշեցրեք, որ Luisa Spagnoli-ն օգտագործում է հատուկ հյուսվածքի բարձր խտության վիսկոզա, որը գերազանց պահպանում է ձևը և շատ ավելի դիմացկուն է կնճռոտմանը, քան սովորական գործվածքները։."
+      },
+      {
+        "q": "Միդի երկարությունը (մինչև սրունքի կեսը) կարճացնում է հասակը",
+        "a": "Առաջարկեք փորձել զգեստը պրինտի սև տարրի երանգի բարձրահասակ կոշիկներով։ Սա կստեղծի անընդհատ ուղղահայաց, որը, ընդհակառակը, տեսողականորեն կերկարացնի ուրվագիծը։."
+      },
+      {
+        "q": "Զգեստը չափազանց պարզ է թվում",
+        "a": "Ուշադրություն դարձրեք դետալներին՝ օձիքին, թևքածալերին և բուն պրինտի բարդությանը։ Ձևվածքի լակոնիկությունը տվյալ դեպքում."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "բարձր ոճի նշան է, որտեղ առաջնայինը գործվածքի որակն է։ ![](media/image30.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Apdruka šķiet",
-        "a": "Paskaidrojiet, ka klasiskā melnbaltā gamma un pārāk aktīva krekla tipa piegriezums."
+        "q": "Apdruka šķiet Paskaidrojiet, ka klasiskā melnbaltā gamma un pārāk aktīva",
+        "a": "krekla tipa piegriezums."
       },
       {
         "q": "līdzsvaro",
         "a": "grafiku. Kleitu ir viegli savaldīt ar vienkrāsainu virsdrēbi, piemēram, mēteli Stenografo 0101."
       },
       {
-        "q": "3/4 piedurkne nav",
-        "a": "Norādiet uz to, ka šāds piedurknes garums ir ideāls piemērota ziemai pulksteņu vai rokassprādžu demonstrēšanai. Aukstajā gadalaikā piedāvājiet papildināt tēlu ar gariem ādas cimdiem — tas piešķirs tēlam aristokrātismu."
+        "q": "3/4 piedurkne nav Norādiet uz to, ka šāds piedurknes garums ir ideāls piemērota ziemai",
+        "a": "pulksteņu vai rokassprādžu demonstrēšanai. Aukstajā gadalaikā piedāvājiet papildināt tēlu ar gariem ādas cimdiem --- tas piešķirs tēlam aristokrātismu."
       },
       {
-        "q": "Viskoze var ļoti",
-        "a": "Atgādiniet, ka Luisa Spagnoli izmanto īpaša pinuma burzīties viskozi ar augstu blīvumu, kas lieliski saglabā formu un ir daudz noturīgāka pret burzīšanos nekā parastie audumi."
+        "q": "Viskoze var ļoti Atgādiniet, ka Luisa Spagnoli izmanto īpaša pinuma burzīties",
+        "a": "viskozi ar augstu blīvumu, kas lieliski saglabā formu un ir daudz noturīgāka pret burzīšanos nekā parastie audumi."
       },
       {
-        "q": "Midi garums (līdz",
-        "a": "Iesakiet pielaikot kleitu ar augstiem zābakiem apakšstilba vidum) apdrukas melnā elementa tonī. Tas radīs nepārtrauktu saīsina augumu vertikāli, kas, gluži pretēji, vizuāli izstieps siluetu."
+        "q": "Midi garums (līdz Iesakiet pielaikot kleitu ar augstiem zābakiem apakšstilba vidum) apdrukas melnā elementa tonī. Tas radīs nepārtrauktu saīsina augumu",
+        "a": "vertikāli, kas, gluži pretēji, vizuāli izstieps siluetu."
       },
       {
-        "q": "Kleita izskatās",
-        "a": "Pievērsiet uzmanību detaļām: apkaklei, aprocēm un pārāk vienkārši pašas apdrukas sarežģītībai. Piegriezuma lakonisms šajā gadījumā — tā ir augstā stila."
+        "q": "Kleita izskatās Pievērsiet uzmanību detaļām: apkaklei, aprocēm un pārāk vienkārši",
+        "a": "pašas apdrukas sarežģītībai. Piegriezuma lakonisms šajā gadījumā --- tā ir augstā stila."
       },
       {
         "q": "Quiet Luxury",
-        "a": "pazīme, kur galvenais uzsvars tiek likts uz auduma kvalitāti."
+        "a": "pazīme, kur galvenais uzsvars tiek likts uz auduma kvalitāti. ![](media/image30.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [

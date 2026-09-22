@@ -157,24 +157,28 @@
     ],
     "ru": [
       {
-        "q": "The tapestry motif feels too bold.",
-        "a": "Explain that floral jacquard is a hallmark of elevated style. Suggest balancing it with an understated base piece, such as the Manos 0970 pullover, as styled in our displays. |"
+        "q": "Гобеленовый мотив кажется слишком броским",
+        "a": ". Ответ: Объясните, что цветочный жаккард — это признак высокого стиля. Предложите сбалансировать его лаконичной базовой вещью, например, пуловером Manos 0970, как представлено в наших витринах. | Возражение."
       },
       {
-        "q": "The tapestry fabric might be stiff.",
-        "a": "The density of the fabric in the Sancire model is essential to maintaining the architectural shape and crisp lines of the cut. It guarantees the piece will retain a flawless appearance for years to come. |"
+        "q": "Гобеленовая ткань может быть жесткой",
+        "a": ". Ответ: Плотность ткани в модели Sancire необходима для поддержания архитектурной формы и четких линий кроя. Это гарантирует, что изделие сохранит безупречный вид на долгие годы. | Возражение."
       },
       {
-        "q": "The double-breasted cut visually widens the figure.",
-        "a": "On the contrary, thanks to the vita sfilata construction (accentuated waist), this jacket 'gathers in' the silhouette, turning the fabric's structure into a figure-flattering tool. |"
+        "q": "Двубортный крой визуально расширяет фигуру",
+        "a": ". Ответ: Напротив, благодаря конструкции vita sfilata (акцентированная талия), этот жакет."
       },
       {
-        "q": "It's difficult to find trousers to match this texture.",
-        "a": "Demonstrate the ready-made solution from Display Case 22: the Orlato 2436 trousers in warm tones create a harmonious transition and underscore the richness of the floral palette. |"
+        "q": "собирает",
+        "a": "силуэт, превращая структуру ткани в инструмент для коррекции фигуры. | Возражение."
       },
       {
-        "q": "This piece is only suited to formal occasions.",
-        "a": "Thanks to the Regular fit, the jacket can be worn more casually. Suggest trying it with understated trousers for daytime meetings, adding an element of high fashion to everyday looks."
+        "q": "Сложно подобрать брюки к такой фактуре",
+        "a": ". Ответ: Продемонстрируйте готовое решение из витрины №22: брюки Orlato 2436 в теплых тонах создают гармоничный переход и подчеркивают богатство цветочной палитры. | Возражение."
+      },
+      {
+        "q": "Эта вещь подходит только для официальных случаев",
+        "a": ". Ответ: Благодаря крою Regular fit жакет можно носить более расслабленно. Предложите примерить его с лаконичными брюками для дневных встреч, добавляя элемент высокой моды в повседневные образы."
       }
     ],
     "ar": [

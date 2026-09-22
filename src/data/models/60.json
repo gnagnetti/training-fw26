@@ -227,199 +227,203 @@
   "objections": {
     "en": [
       {
-        "q": "Bouclé fabric may appear too voluminous and visually add bulk.",
+        "q": "BouclÃ© fabric may appear too voluminous and visually add bulk",
         "a": "The melange fabric in this piece has an optimal density and weight. Thanks to the circle cut, the fabric falls in vertical folds, creating a slender, fluid silhouette."
       },
       {
-        "q": "Concern that the fabric may quickly deform or lose its shape.",
+        "q": "Concern that the fabric may quickly deform or lose its shape",
         "a": "The use of high-technology fibres (35% polyester) combined with wool and silk guarantees the stability of the fabric structure and prevents creasing throughout the day."
       },
       {
-        "q": "A mid-calf length seems challenging when it comes to choosing footwear.",
+        "q": "A mid-calf length seems challenging when it comes to choosing footwear",
         "a": "This is, in fact, the most prestigious length. We recommend pairing it with tall Ustica A boots or heeled shoes to visually elongate the frame."
       },
       {
-        "q": "Melange seems too casual for formal occasions.",
+        "q": "Melange seems too casual for formal occasions",
         "a": "Thanks to its noble silken sheen and the ability to style it with fine jewellery-inspired knitwear (the Cromatura piece), the Frazione skirt transitions effortlessly into an evening look."
       },
       {
-        "q": "Concern about caring for such a multi-fibre composition.",
-        "a": "To preserve the pristine bouclé texture and the sheen of the silk threads, we recommend exclusively professional dry cleaning, ensuring the longevity of your wardrobe investment."
+        "q": "Concern about caring for such a multi-fibre composition",
+        "a": "To preserve the pristine bouclÃ© texture and the sheen of the silk threads, we recommend exclusively professional dry cleaning, ensuring the longevity of your wardrobe investment."
       }
     ],
     "ru": [
       {
-        "q": "Ткань букле может выглядеть слишком объемной и визуально полнить.",
-        "a": "Меланжевое полотно в этой модели обладает оптимальной плотностью и весом. Благодаря крою «солнце», ткань ниспадает вертикальными фалдами, создавая стройный и летящий силуэт."
+        "q": "Ткань букле может казаться слишком объемной и визуально добавлять лишние килограммы",
+        "a": "Меланжевая ткань в этом изделии обладает оптимальной плотностью и весом. Благодаря крою «солнце», ткань ниспадает вертикальными складками, создавая стройный, струящийся силуэт."
       },
       {
-        "q": "Боязнь, что ткань быстро деформируется или потеряет форму.",
-        "a": "Использование высокотехнологичных волокон (35% полиэстера) в сочетании с шерстью и шелком гарантирует стабильность структуры ткани и предотвращает сминаемость в течение дня."
+        "q": "Опасение, что ткань быстро деформируется или потеряет форму",
+        "a": "Использование высокотехнологичных волокон (35% полиэстер) в сочетании с шерстью и шелком гарантирует стабильность структуры ткани и отсутствие заломов в течение дня."
       },
       {
-        "q": "Длина до середины икры кажется сложной для подбора обуви.",
-        "a": "Именно эта длина является наиболее статусной. Мы рекомендуем сочетать её с высокими сапогами Ustica A или туфлями на каблуке для визуального удлинения роста."
+        "q": "Длина до середины икры кажется сложной в подборе обуви",
+        "a": "Напротив, это самая статусная длина. Мы рекомендуем сочетать ее с высокими сапогами Ustica A или обувью на каблуке, чтобы визуально вытянуть силуэт."
       },
       {
-        "q": "Меланж кажется слишком повседневным для торжественных выходов.",
-        "a": "Благодаря благородному шелковому отливу и возможности стилизации с ювелирным трикотажем (модель Cromatura), юбка Frazione легко трансформируется в вечерний образ."
+        "q": "Меланж кажется слишком повседневным для торжественных случаев",
+        "a": "Благодаря благородному шелковому блеску и возможности стилизации с трикотажем, напоминающим ювелирное украшение (модель Cromatura), юбка Frazione легко трансформируется в вечерний образ."
       },
       {
-        "q": "Сложность в уходе за многокомпонентным составом волокон.",
-        "a": "Для сохранения первозданной фактуры букле и блеска шелковых нитей мы рекомендуем исключительно профессиональную химчистку, что обеспечит долговечность вашей инвестиции в гардероб."
+        "q": "Беспокойство об уходе за многокомпонентным составом",
+        "a": "Чтобы сохранить первозданную фактуру букле и блеск шелковых нитей, мы рекомендуем исключительно профессиональную химчистку, обеспечивающую долговечность вашей инвестиции в гардероб."
       }
     ],
     "ar": [
       {
-        "q": "قد يبدو قماش البوكلي ضخماً ويزيد من حجم الجسم بصرياً.",
+        "q": "قد يبدو قماش البوكلي ضخماً ويزيد من حجم الجسم بصرياً",
         "a": "يتميز النسيج الميلاج في هذا الموديل بكثافة ووزن مثاليين. وبفضل قصة «الشمس»، ينسدل القماش بتموجات عمودية، مما يخلق قواماً رشيقاً وانسيابياً."
       },
       {
-        "q": "الخوف من أن يفقد القماش شكله أو يتشوه بسرعة.",
+        "q": "الخوف من أن يفقد القماش شكله أو يتشوه بسرعة",
         "a": "استخدام الألياف عالية التقنية (35% بوليستر) مع الصوف والحرير يضمن ثبات هيكل النسيج ويمنع التجعد طوال اليوم."
       },
       {
-        "q": "طول منتصف الساق يبدو صعباً في اختيار الحذاء.",
-        "a": "هذا الطول تحديداً هو الأكثر رقياً. ننصح بتنسيقه مع جزمة طويلة Ustica A أو حذاء بكعب لإطالة القامة بصرياً."
+        "q": "طول منتصف الساق يبدو صعباً في اختيار الحذاء",
+        "a": "هذا الطول تحديداً هو الأكثر رقياً. ننصح بتنسيقه مع جزمة طويلة Ustica A (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg أو حذاء بكعب لإطالة القامة بصرياً."
       },
       {
-        "q": "قد يبدو الميلاج عادياً جداً للمناسبات الرسمية.",
+        "q": "قد يبدو الميلاج عادياً جداً للمناسبات الرسمية",
         "a": "بفضل البريق الحريري النبيل وإمكانية تنسيقها مع التريكو المزين بالمجوهرات (موديل Cromatura)، تتحول تنورة Frazione بسهولة إلى إطلالة مسائية."
       },
       {
-        "q": "صعوبة العناية بتركيبة الألياف المتعددة.",
+        "q": "صعوبة العناية بتركيبة الألياف المتعددة",
         "a": "للحفاظ على الملمس الأصلي للبوكلي وبريق خيوط الحرير، نوصي حصرياً بالتنظيف الجاف الاحترافي لضمان ديمومة استثمارك في خزانة ملابسك."
       }
     ],
     "ka": [
       {
-        "q": "ბუკლეს ქსოვილი შეიძლება გამოიყურებოდეს ზედმეტად მოცულობითად და ვიზუალურად ასუქებდეს.",
+        "q": "ბუკლეს ქსოვილი შეიძლება გამოიყურებოდეს ზედმეტად მოცულობითად და ვიზუალურად ასუქებდეს",
         "a": "ამ მოდელის მელანჟის ქსოვილს გააჩნია ოპტიმალური სიმკვრივე და წონა. „მზის“ კროის წყალობით, ქსოვილი ვერტიკალური ნაკეცებით ეშვება და ქმნის ტანწერწეტა და ჰაეროვან სილუეტს."
       },
       {
-        "q": "შიში იმისა, რომ ქსოვილი სწრაფად დეფორმირდება ან დაკარგავს ფორმას.",
+        "q": "შიში იმისა, რომ ქსოვილი სწრაფად დეფორმირდება ან დაკარგავს ფორმას",
         "a": "მაღალტექნოლოგიური ბოჭკოების (35% პოლიესტერი) გამოყენება მატყლთან და აბრეშუმთან ერთად უზრუნველყოფს ქსოვილის სტრუქტურის სტაბილურობას და ხელს უშლის დაჭმუჭვნას დღის განმავლობაში."
       },
       {
-        "q": "შუა წვივამდე სიგრძე რთულად მოსაჩვენებელია ფეხსაცმლის შერჩევისთვის.",
-        "a": "სწორედ ეს სიგრძეა ყველაზე სტატუსური. ჩვენ გირჩევთ შეუხამოთ ის მაღალ ჩექმებს Ustica A ან ქუსლიან ფეხსაცმელს სიმაღლის ვიზუალური დაგრძელებისთვის."
+        "q": "შუა წვივამდე სიგრძე რთულად მოსაჩვენებელია ფეხსაცმლის შერჩევისთვის",
+        "a": "სწორედ ეს სიგრძეა ყველაზე სტატუსური. ჩვენ გირჩევთ შეუხამოთ ის მაღალ ჩექმებს Ustica A (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg ან ქუსლიან ფეხსაცმელს სიმაღლის ვიზუალური დაგრძელებისთვის."
       },
       {
-        "q": "მელანჟი ზედმეტად ყოველდღიურად გამოიყურება საზეიმო გასვლებისთვის.",
+        "q": "მელანჟი ზედმეტად ყოველდღიურად გამოიყურება საზეიმო გასვლებისთვის",
         "a": "კეთილშობილური აბრეშუმისებრი ბზინვარებისა და იუველირული ტრიკოტაჟის (მოდელი Cromatura) მოდელთან სტილიზების შესაძლებლობის წყალობით, ქვედაბოლო Frazione ადვილად ტრანსფორმირდება საღამოს იმიჯად."
       },
       {
-        "q": "ბოჭკოების მრავალკომპონენტიანი შემადგენლობის მოვლის სირთულე.",
+        "q": "ბოჭკოების მრავალკომპონენტიანი შემადგენლობის მოვლის სირთულე",
         "a": "ბუკლეს პირველადი ფაქტურისა და აბრეშუმის ძაფების ბზინვარების შესანარჩუნებლად ჩვენ გირჩევთ ექსკლუზიურად პროფესიონალურ ქიმწმენდას, რაც უზრუნველყოფს თქვენი გარდერობის ინვესტიციის ხანგრძლივობას."
       }
     ],
     "hy": [
       {
         "q": "Բուկլե գործվածքը կարող է չափազանց ծավալուն թվալ և տեսողականորեն գիրացնել",
-        "a": "Այս մոդելի մելանժային գործվածքն օժտված է օպտիմալ խտությամբ և քաշով։ «Արև» կտրվածքի շնորհիվ գործվածքը իջնում է ուղղահայաց ծալքերով՝ ստեղծելով սլացիկ և թեթև ուրվագիծ։"
+        "a": "Այս մոդելի մելանժային գործվածքն օժտված է օպտիմալ խտությամբ և քաշով։."
+      },
+      {
+        "q": "Արև",
+        "a": "կտրվածքի շնորհիվ գործվածքը իջնում է ուղղահայաց ծալքերով՝ ստեղծելով սլացիկ և թեթև ուրվագիծ։."
       },
       {
         "q": "Վախ, որ գործվածքը արագ կձևախեղվի կամ կկորցնի ձևը",
-        "a": "Բարձրտեխնոլոգիական մանրաթելերի (35% պոլիեսթեր) օգտագործումը բրդի և մետաքսի հետ համադրությամբ երաշխավորում է գործվածքի կառուցվածքի կայունությունը և կանխում է օրվա ընթացքում կնճռոտվելը։"
+        "a": "Բարձրտեխնոլոգիական մանրաթելերի (35% պոլիեսթեր) օգտագործումը բրդի և մետաքսի հետ համադրությամբ երաշխավորում է գործվածքի կառուցվածքի կայունությունը և կանխում է օրվա ընթացքում կնճռոտվելը։."
       },
       {
         "q": "Միջին սրունքի երկարությունը բարդ է թվում կոշիկ ընտրելիս",
-        "a": "Հենց այս երկարությունն է ամենակարգավիճակայինը։ Մենք խորհուրդ ենք տալիս այն համադրել Ustica A բարձր ճտքավոր կոշիկների կամ կրունկով կոշիկների հետ՝ հասակը տեսողականորեն երկարացնելու համար։"
+        "a": "Հենց այս երկարությունն է ամենակարգավիճակայինը։ Մենք խորհուրդ ենք տալիս այն համադրել Ustica A (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg բարձր ճտքավոր կոշիկների կամ կրունկով կոշիկների հետ՝ հասակը տեսողականորեն երկարացնելու համար։."
       },
       {
         "q": "Մելանժը չափազանց առօրյա է թվում հանդիսավոր ելքերի համար",
-        "a": "Ազնիվ մետաքսե փայլի և զարդարուն տրիկոտաժի (Cromatura մոդել) հետ համադրվելու հնարավորության շնորհիվ՝ Frazione կիսաշրջազգեստը հեշտությամբ վերափոխվում է երեկոյան կերպարի։"
+        "a": "Ազնիվ մետաքսե փայլի և զարդարուն տրիկոտաժի (Cromatura մոդել) հետ համադրվելու հնարավորության շնորհիվ՝ Frazione կիսաշրջազգեստը հեշտությամբ վերափոխվում է երեկոյան կերպարի։."
       },
       {
         "q": "Բազմաբաղադրիչ մանրաթելային կազմի խնամքի բարդությունը",
-        "a": "Բուկլեի սկզբնական փաստուրան և մետաքսե թելերի փայլը պահպանելու համար մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում, ինչը կապահովի ձեր զգեստապահարանի ներդրման երկարակեցությունը։"
+        "a": "Բուկլեի սկզբնական փաստուրան և մետաքսե թելերի փայլը պահպանելու համար մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում, ինչը կապահովի ձեր զգեստապահարանի ներդրման երկարակեցությունը։."
       }
     ],
     "lv": [
       {
-        "q": "Buklē audums var izskatīties pārāk apjomīgs un vizuāli padarīt pilnīgāku.",
+        "q": "Buklē audums var izskatīties pārāk apjomīgs un vizuāli padarīt pilnīgāku",
         "a": "Melanža audumam šajā modelī piemīt optimāls blīvums un svars. Pateicoties „saules” piegriezumam, audums krīt vertikālās krokās, veidojot slaidu un lidojošu siluetu."
       },
       {
-        "q": "Bažas, ka audums ātri deformēsies vai zaudēs formu.",
+        "q": "Bažas, ka audums ātri deformēsies vai zaudēs formu",
         "a": "Augsto tehnoloģiju šķiedru (35% poliestera) izmantošana kombinācijā ar vilnu un zīdu garantē auduma struktūras stabilitāti un novērš burzīšanos dienas laikā."
       },
       {
-        "q": "Garums līdz ikru vidum šķiet sarežģīts apavu izvēlei.",
-        "a": "Tieši šis garums ir visstatusiskākais. Mēs iesakām to kombinēt ar augstiem zābakiem Ustica A vai kurpēm uz papēža, lai vizuāli pagarinātu augumu."
+        "q": "Garums līdz ikru vidum šķiet sarežģīts apavu izvēlei",
+        "a": "Tieši šis garums ir visstatusiskākais. Mēs iesakām to kombinēt ar augstiem zābakiem Ustica A (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg vai kurpēm uz papēža, lai vizuāli pagarinātu augumu."
       },
       {
-        "q": "Melanžs šķiet pārāk ikdienišķs svinīgiem izgājieniem.",
+        "q": "Melanžs šķiet pārāk ikdienišķs svinīgiem izgājieniem",
         "a": "Pateicoties cēlam zīda atspīdumam un iespējai stilizēt ar juvelierizstrādājumu trikotāžu (modelis Cromatura), svārki Frazione viegli transformējas vakara tēlā."
       },
       {
-        "q": "Sarežģītība kopšanā par daudzkomponentu šķiedru sastāvu.",
+        "q": "Sarežģītība kopšanā par daudzkomponentu šķiedru sastāvu",
         "a": "Lai saglabātu buklē sākotnējo faktūru un zīda diegu spīdumu, mēs iesakām tikai profesionālo ķīmisko tīrīšanu, kas nodrošinās jūsu investīcijas garderobē ilgmūžību."
       }
     ],
     "lt": [
       {
-        "q": "Buklė audinys gali atrodyti per daug didelis ir vizualiai stambinti.",
+        "q": "Buklė audinys gali atrodyti per daug didelis ir vizualiai stambinti",
         "a": "Melžtas audinys šiame modelyje pasižymi optimaliu tankiu ir svoriu. Dėl „saulės“ kirpimo audinys krenta vertikaliomis klostėmis, sukuriantis liekną ir sklandų siluetą."
       },
       {
-        "q": "Baimė, kad audinys greitai deformuosis arba praras formą.",
+        "q": "Baimė, kad audinys greitai deformuosis arba praras formą",
         "a": "Aukštųjų technologijų pluoštų (35 % poliesteris) naudojimas kartu su vilna ir šilku garantuoja audinio struktūros stabilumą ir apsaugo nuo glamžymosi visą dieną."
       },
       {
-        "q": "Ilgis iki blauzdos vidurio atrodo sudėtingas derinant batus.",
-        "a": "Būtent šis ilgis yra pats solidžiausias. Rekomenduojame derinti jį su aukštais aulinukais Ustica A arba bateliais su kulnu, kad vizualiai pailgintumėte ūgį."
+        "q": "Ilgis iki blauzdos vidurio atrodo sudėtingas derinant batus",
+        "a": "Būtent šis ilgis yra pats solidžiausias. Rekomenduojame derinti jį su aukštais aulinukais Ustica A (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg arba bateliais su kulnu, kad vizualiai pailgintumėte ūgį."
       },
       {
-        "q": "Melanžas atrodo per daug kasdieniškas šventiniams išėjimams.",
+        "q": "Melanžas atrodo per daug kasdieniškas šventiniams išėjimams",
         "a": "Dėl kilnaus šilko spindesio ir galimybės derinti su juvelyriniu trikotažu (modelis Cromatura), Frazione sijonas lengvai transformuojasi į vakarinį įvaizdį."
       },
       {
-        "q": "Sudėtinga daugiakomponentės pluoštų sudėties priežiūra.",
+        "q": "Sudėtinga daugiakomponentės pluoštų sudėties priežiūra",
         "a": "Kad išsaugotumėte pradinę buklė faktūrą ir šilko siūlų spindesį, rekomenduojame tik profesionalų cheminį valymą, kuris užtikrins jūsų investicijos į garderobą ilgaamžiškumą."
       }
     ],
     "pl": [
       {
-        "q": "Tkanina typu bouclé może wyglądać zbyt masywnie i optycznie pogrubiać.",
+        "q": "Tkanina typu bouclé może wyglądać zbyt masywnie i optycznie pogrubiać",
         "a": "Melanżowy materiał w tym modelu posiada optymalną gęstość i wagę. Dzięki krojowi typu „koło”, tkanina układa się w pionowe fałdy, tworząc smukłą i zwiewną sylwetkę."
       },
       {
-        "q": "Obawa, że tkanina szybko się odkształci lub straci formę.",
+        "q": "Obawa, że tkanina szybko się odkształci lub straci formę",
         "a": "Zastosowanie zaawansowanych technologicznie włókien (35% poliestru) w połączeniu z wełną i jedwabiem gwarantuje stabilność struktury tkaniny i zapobiega gnieceniu się w ciągu dnia."
       },
       {
-        "q": "Długość do połowy łydki wydaje się trudna w doborze obuwia.",
-        "a": "Właśnie ta długość jest najbardziej prestiżowa. Zalecamy łączyć ją z wysokimi kozakami Ustica A lub butami na obcasie, aby optycznie wydłużyć sylwetkę."
+        "q": "Długość do połowy łydki wydaje się trudna w doborze obuwia",
+        "a": "Właśnie ta długość jest najbardziej prestiżowa. Zalecamy łączyć ją z wysokimi kozakami Ustica A (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg lub butami na obcasie, aby optycznie wydłużyć sylwetkę."
       },
       {
-        "q": "Melanż wydaje się zbyt codzienny na uroczyste wyjścia.",
+        "q": "Melanż wydaje się zbyt codzienny na uroczyste wyjścia",
         "a": "Dzięki szlachetnemu jedwabnemu połyskowi i możliwości łączenia z biżuteryjną dzianiną (model Cromatura), spódnica Frazione łatwo przekształca się w wieczorową stylizację."
       },
       {
-        "q": "Trudność w pielęgnacji wieloskładnikowej mieszanki włókien.",
+        "q": "Trudność w pielęgnacji wieloskładnikowej mieszanki włókien",
         "a": "Aby zachować pierwotną fakturę bouclé i blask jedwabnych nici, zalecamy wyłącznie profesjonalne czyszczenie chemiczne, co zapewni trwałość Twojej inwestycji w garderobę."
       }
     ],
     "uk": [
       {
-        "q": "Тканина букле може виглядати надто об'ємною і візуально повнити.",
+        "q": "Тканина букле може виглядати надто об'ємною і візуально повнити",
         "a": "Меланжеве полотно у цій моделі володіє оптимальною щільністю та вагою. Завдяки крою «сонце», тканина спадає вертикальними фалдами, створюючи стрункий та летячий силует."
       },
       {
-        "q": "Боязнь, що тканина швидко деформується або втратить форму.",
+        "q": "Боязнь, що тканина швидко деформується або втратить форму",
         "a": "Використання високотехнологічних волокон (35% поліестеру) у поєднанні з вовною та шовком гарантує стабільність структури тканини та запобігає зминання протягом дня."
       },
       {
-        "q": "Довжина до середини ікри здається складною для підбору взуття.",
-        "a": "Саме ця довжина є найбільш статусною. Ми рекомендуємо поєднувати її з високими чоботами Ustica A або туфлями на підборах для візуального подовження зросту."
+        "q": "Довжина до середини ікри здається складною для підбору взуття",
+        "a": "Саме ця довжина є найбільш статусною. Ми рекомендуємо поєднувати її з високими чоботами Ustica A (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg або туфлями на підборах для візуального подовження зросту."
       },
       {
-        "q": "Меланж здається надто повсякденним для урочистих виходів.",
+        "q": "Меланж здається надто повсякденним для урочистих виходів",
         "a": "Завдяки благородному шовковому відливу та можливості стилізації з ювелірним трикотажем (модель Cromatura), спідниця Frazione легко трансформується у вечірній образ."
       },
       {
-        "q": "Складність у догляді за багатокомпонентним складом волокон.",
+        "q": "Складність у догляді за багатокомпонентним складом волокон",
         "a": "Для збереження первинної фактури букле та блиску шовкових ниток ми рекомендуємо виключно професійну хімчистку, що забезпечить довговічність вашої інвестиції в гардероб."
       }
     ]

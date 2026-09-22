@@ -228,24 +228,36 @@
     ],
     "ru": [
       {
-        "q": "Укороченная",
-        "a": "Объясните, что это подиумный стандарт для создания длина кажется правильных пропорций. В сочетании с брюками непрактичной Minuccio 2246 на высокой посадке изделие не открывает тело, а лишь подчеркивает талию."
+        "q": "Укороченная длина кажется непрактичной",
+        "a": "поясните, что это подиумный стандарт для создания идеальных пропорций; в паре с брюками Minuccio 2246 с высокой талией изделие лишь деликатно акцентирует силуэт."
       },
       {
-        "q": "Двубортный крой",
-        "a": "Укажите на мягкую линию «blouson и пластичность может добавлять девственной шерсти. В отличие от ткани, трикотаж объема» мягко драпируется, сглаживая линии и не создавая лишней жесткости в зоне груди."
+        "q": "Двубортный крой добавит объема",
+        "a": "обратите внимание на мягкую линию."
       },
       {
-        "q": "Шерсть может",
-        "a": "Напомните, что Luisa Spagnoli использует быть сложной в высококачественную pura lana vergine. Это уходе волокно первой стрижки, которое при правильном уходе не скатывается и сохраняет форму десятилетиями, являясь инвестицией."
+        "q": "blouson",
+        "a": "и пластичность натуральной шерсти: в отличие от костюмной ткани, трикотаж мягко драпируется, сглаживая линии без лишней жесткости."
       },
       {
-        "q": "Пуговицы под рог",
-        "a": "Подчеркните, что стиль «Heritage — это ДНК выглядят слишком бренда. Эти пуговицы в сочетании с современным традиционно» кроем cropped создают актуальный баланс между классикой и авангардом."
+        "q": "Шерсть сложна в уходе",
+        "a": "напомните, что премиальная."
       },
       {
-        "q": "Боюсь, что он Натуральная шерсть — это природный будет слишком терморегулятор. Она позволяет коже дышать, теплым для обеспечивая комфорт как на улице, так и в офисе, помещения",
-        "a": "предотвращая перегрев."
+        "q": "pura lana vergine",
+        "a": "при должном уходе не скатывается и сохраняет форму десятилетиями, являясь настоящей инвестицией."
+      },
+      {
+        "q": "Пуговицы под рог выглядят слишком традиционно",
+        "a": "подчеркните, что стиль."
+      },
+      {
+        "q": "Heritage",
+        "a": "это ДНК бренда, а в сочетании с современным кроем они создают актуальный баланс между классикой и авангардом."
+      },
+      {
+        "q": "Боюсь, в нем будет слишком жарко",
+        "a": "натуральная шерсть — это природный терморегулятор, позволяющий коже дышать и обеспечивающий комфорт как в помещении, так и на улице."
       }
     ],
     "ar": [
@@ -275,7 +287,7 @@
       },
       {
         "q": "أخشى أن يكون حاراً جداً للاستخدام في الأماكن المغلقة",
-        "a": "الصوف الطبيعي منظم حراري طبيعي. فهو يسمح للبشرة بالتنفس، مما يوفر الراحة في الخارج وفي المكتب، ويمنع الحرارة الزائدة."
+        "a": "الصوف الطبيعي منظم حراري طبيعي. فهو يسمح للبشرة بالتنفس، مما يوفر الراحة في الخارج وفي المكتب، ويمنع الحرارة الزائدة. ![](media/image91.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image92.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -285,19 +297,19 @@
       },
       {
         "q": "ორბორტიანი დიზაინი შეიძლება მოცულობას მატებდეს",
-        "a": "მიუთითეთ."
+        "a": "მიუთითეთ „blouson“-ის რბილ ხაზზე და ქალწულებრივი მატყლის პლასტიკურობაზე. ქსოვილისგან განსხვავებით, ნაქსოვი რბილად დრაპირდება, არბილებს ხაზებს და არ ქმნის ზედმეტ სიმკაცრეს გულმკერდის ზონაში."
       },
       {
-        "q": "blouson“-ის რბილ ხაზზე და ქალწულებრივი მატყლის პლასტიკურობაზე. ქსოვილისგან განსხვავებით, ნაქსოვი რბილად დრაპირდება, არბილებს ხაზებს და არ ქმნის ზედმეტ სიმკაცრეს გულმკერდის ზონაში. «მატყლის მოვლა შეიძლება რთული იყოს",
+        "q": "მატყლის მოვლა შეიძლება რთული იყოს",
         "a": "შეახსენეთ, რომ Luisa Spagnoli იყენებს მაღალი ხარისხის pura lana vergine-ს. ეს არის პირველი კრეჭის ბოჭკო, რომელიც სწორი მოვლის პირობებში არ ბუსუსდება და ათწლეულების განმავლობაში ინარჩუნებს ფორმას, რაც მას ინვესტიციად აქცევს."
       },
       {
         "q": "რქისებრი ღილები ზედმეტად ტრადიციულად გამოიყურება",
-        "a": "ხაზგასმით აღნიშნეთ, რომ."
+        "a": "ხაზგასმით აღნიშნეთ, რომ „Heritage“-ს სტილი ბრენდის დნმ-ია. ეს ღილები თანამედროვე cropped ჭრილთან ერთად ქმნის აქტუალურ ბალანსს კლასიკასა და ავანგარდს შორის."
       },
       {
-        "q": "Heritage“-ს სტილი ბრენდის დნმ-ია. ეს ღილები თანამედროვე cropped ჭრილთან ერთად ქმნის აქტუალურ ბალანსს კლასიკასა და ავანგარდს შორის. «მეშინია, რომ შენობისთვის ზედმეტად თბილი იქნება",
-        "a": "ბუნებრივი მატყლი ბუნებრივი თერმორეგულატორია. ის კანს სუნთქვის საშუალებას აძლევს და უზრუნველყოფს კომფორტს როგორც გარეთ, ისე ოფისში, გადახურების გარეშე."
+        "q": "მეშინია, რომ შენობისთვის ზედმეტად თბილი იქნება",
+        "a": "ბუნებრივი მატყლი ბუნებრივი თერმორეგულატორია. ის კანს სუნთქვის საშუალებას აძლევს და უზრუნველყოფს კომფორტს როგორც გარეთ, ისე ოფისში, გადახურების გარეშე. ![](media/image91.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image92.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -327,29 +339,29 @@
       },
       {
         "q": "Վախենում եմ, որ այն շատ տաք կլինի փակ տարածքի համար",
-        "a": "Բնական բուրդը բնական ջերմակարգավորիչ է: Այն թույլ է տալիս մաշկին շնչել՝ ապահովելով հարմարավետություն ինչպես դրսում, այնպես էլ գրասենյակում՝ կանխելով գերտաքացումը."
+        "a": "Բնական բուրդը բնական ջերմակարգավորիչ է: Այն թույլ է տալիս մաշկին շնչել՝ ապահովելով հարմարավետություն ինչպես դրսում, այնպես էլ գրասենյակում՝ կանխելով գերտաքացումը: ![](media/image91.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image92.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Saīsināts garums",
-        "a": "Paskaidrojiet, ka tas ir modes skates standarts pareizu šķiet nepraktisks proporciju radīšanai. Kombinācijā ar Minuccio 2246 biksēm ar augsto jostasvietu izstrādājums neatklāj ķermeni, bet tikai izceļ vidukli."
+        "q": "Saīsināts garums Paskaidrojiet, ka tas ir modes skates standarts pareizu šķiet nepraktisks",
+        "a": "proporciju radīšanai. Kombinācijā ar Minuccio 2246 biksēm ar augsto jostasvietu izstrādājums neatklāj ķermeni, bet tikai izceļ vidukli."
       },
       {
-        "q": "Divrindu piegriezums",
-        "a": "Norādiet uz maigo «blouson līniju un jaunvilnas var pievienot apjomu» plastiskumu. Atšķirībā no auduma, trikotāža maigi drapējas, nogludinot līnijas un neradot lieku stingrību krūšu zonā."
+        "q": "Divrindu piegriezums Norādiet uz maigo «blouson",
+        "a": "līniju un jaunvilnas var pievienot apjomu» plastiskumu. Atšķirībā no auduma, trikotāža maigi drapējas, nogludinot līnijas un neradot lieku stingrību krūšu zonā."
       },
       {
-        "q": "Vilna var būt sarežģīta",
-        "a": "Atgādiniet, ka Luisa Spagnoli izmanto augstas kvalitātes kopšanā pura lana vergine. Šī ir pirmās cirpšanas šķiedra, kas pareizi kopta nepa- pūkojas un saglabā formu gadu desmitiem, būdama investīcija."
+        "q": "Vilna var būt sarežģīta Atgādiniet, ka Luisa Spagnoli izmanto augstas kvalitātes kopšanā",
+        "a": "pura lana vergine. Šī ir pirmās cirpšanas šķiedra, kas pareizi kopta nepa- pūkojas un saglabā formu gadu desmitiem, būdama investīcija."
       },
       {
-        "q": "Pogas ar raga imitāciju",
-        "a": "Uzsveriet, ka «Heritage stils — ir zīmola DNS. izskatās pārāk tradicionāli» Šīs pogas kombinācijā ar modernu cropped piegriezumu rada aktuālu līdzsvaru starp klasiku un avangardu."
+        "q": "Pogas ar raga imitāciju Uzsveriet, ka «Heritage",
+        "a": "stils --- ir zīmola DNS. izskatās pārāk tradicionāli» Šīs pogas kombinācijā ar modernu cropped piegriezumu rada aktuālu līdzsvaru starp klasiku un avangardu."
       },
       {
-        "q": "Baidos, ka tas būs pārāk Dabīgā vilna — ir dabisks termoregulators. Tā ļauj silti telpām",
-        "a": "ādai elpot, nodrošinot komfortu gan ārā, gan birojā, novēršot pārkaršanu."
+        "q": "Baidos, ka tas būs pārāk Dabīgā vilna --- ir dabisks termoregulators. Tā ļauj silti telpām",
+        "a": "ādai elpot, nodrošinot komfortu gan ārā, gan birojā, novēršot pārkaršanu. ![](media/image91.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image92.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [

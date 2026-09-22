@@ -301,34 +301,54 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "knit skirt Point out the punto stoffa knitting technique. This will quickly is one of the most stable weaves, which prevents lose its shape» distortion of the piece and preserves the crispness of straight lines even with active wear. «The elastic The waistband is designed to be flat and waistband looks discreet. Paired with the Mascate 0759 tunic too plain» or the Moles 0759 jacket, it provides comfort that stays hidden from view, without disrupting the sharpness of the look. «The wool might Remind the client that this is pura lana vergine irritate my skin» — the most delicate category of wool. It undergoes an intensive purification process, ensuring softness and a comfortable microclimate (breathing indoors and providing warmth outdoors). «The plum shade On the contrary, in the FW 26 collection this is (0759) is too one of the foundational, statement shades. specific» Showcase Vetrina 73: paired with the gold hardware of the Iago bag and silk, it looks luxurious and aristocratic. «The straight midi Use the \"Total Look\" technique from Look 81: skirt might shorten pairing the skirt and top in the same color my legs» creates an uninterrupted vertical line of color that visually adds height and slimness"
+        "q": "The knit skirt Point out the punto stoffa knitting technique. This will quickly is one of the most stable weaves, which prevents lose its shape",
+        "a": "distortion of the piece and preserves the crispness of straight lines even with active wear."
+      },
+      {
+        "q": "The elastic The waistband is designed to be flat and waistband looks discreet. Paired with the Mascate 0759 tunic too plain",
+        "a": "or the Moles 0759 jacket, it provides comfort that stays hidden from view, without disrupting the sharpness of the look."
+      },
+      {
+        "q": "The wool might Remind the client that this is pura lana vergine irritate my skin",
+        "a": "»” the most delicate category of wool. It undergoes an intensive purification process, ensuring softness and a comfortable microclimate (breathing indoors and providing warmth outdoors)."
+      },
+      {
+        "q": "The plum shade On the contrary, in the FW 26 collection this is (0759) is too one of the foundational, statement shades. specific",
+        "a": "Showcase Vetrina 73: paired with the gold hardware of the Iago bag and silk, it looks luxurious and aristocratic."
+      },
+      {
+        "q": "The straight midi Use the \"Total Look\" technique from Look 81: skirt might shorten pairing the skirt and top in the same color my legs",
+        "a": "creates an uninterrupted vertical line of color that visually adds height and slimness. ![](media/image113.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image114.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image115.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Трикотажная",
-        "a": "Укажите на технику вязки punto stoffa. Это одно юбка быстро из самых стабильных переплетений, которое потеряет форму предотвращает деформацию изделия, сохраняя четкость прямых линий даже при активной носке."
+        "q": "Трикотажная юбка быстро потеряет форму",
+        "a": "> Обратите внимание на технику плетения punto stoffa. Это одно из самых стабильных переплетений, которое предотвращает деформацию изделия и сохраняет безупречную четкость линий даже при активной носке."
       },
       {
-        "q": "Эластичный Пояс спроектирован так, чтобы быть плоским и пояс выглядит незаметным. В сочетании с туникой Mascate 0759 слишком просто",
-        "a": "или жакетом Moles 0759 он обеспечивает комфорт, скрытый от глаз, не нарушая строгости образа."
+        "q": "Эластичный пояс выглядит слишком просто",
+        "a": "> Пояс сконструирован так, чтобы оставаться плоским и незаметным. В сочетании с туникой Mascate 0759 или жакетом Moles 0759 он обеспечивает комфорт, скрытый от глаз, не нарушая архитектурного силуэта образа."
       },
       {
-        "q": "Шерсть может",
-        "a": "Напомните, что это pura lana vergine — самая раздражать деликатная категория шерсти. Она проходит высокую кожу степень очистки, обеспечивая мягкость и комфортный микроклимат (."
+        "q": "Шерсть может раздражать кожу",
+        "a": "> Напомните клиенту, что это pura lana vergine — самая деликатная категория шерсти. Она проходит интенсивную очистку, гарантируя мягкость и комфортный микроклимат: изделие."
       },
       {
         "q": "дышит",
-        "a": "в помещении и греет на улице)."
+        "a": "в помещении и дарит тепло на улице."
       },
       {
-        "q": "Сливовый цвет Напротив, в коллекции FW 26 это один из базовых (0759) слишком статусных оттенков.",
-        "a": "Продемонстрируйте Vetrina 73: в специфичен сочетании с золотой фурнитурой сумки Iago и шелком он выглядит роскошно и аристократично."
+        "q": "Оттенок сливы (0759) слишком специфичен",
+        "a": "> Напротив, в коллекции FW 26 это один из фундаментальных, акцентных цветов. Представьте Vetrina 73: в сочетании с золотой фурнитурой сумки Iago и шелком он выглядит роскошно и аристократично."
       },
       {
-        "q": "Прямая юбка Используйте прием «Total Look",
-        "a": "из Look 81: сочетание миди может юбки и верха в одном цвете создает непрерывную укорачивать цветовую вертикаль, которая визуально добавляет роста ноги» и стройности."
+        "q": "Прямая юбка миди может визуально укоротить ноги",
+        "a": "> Используйте технику."
+      },
+      {
+        "q": "Total Look",
+        "a": "из образа 81: сочетание юбки и топа в едином цвете создает непрерывную вертикаль, которая визуально добавляет рост и стройнит."
       }
     ],
     "ar": [
@@ -358,7 +378,7 @@
       },
       {
         "q": "Total Look",
-        "a": "من Look 81: الجمع بين التنورة والقطعة العلوية بنفس اللون يخلق عموداً لونياً مستمراً، مما يضيف بصرياً الطول والنحافة للساقين."
+        "a": "من Look 81: الجمع بين التنورة والقطعة العلوية بنفس اللون يخلق عموداً لونياً مستمراً، مما يضيف بصرياً الطول والنحافة للساقين. ![](media/image113.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image114.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image115.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -388,7 +408,7 @@
       },
       {
         "q": "Total Look",
-        "a": "-ის ხერხი Look 81-დან: ქვედაკაბისა და ზედა ნაწილის ერთ ფერში შეხამება ქმნის უწყვეტ ფერად ვერტიკალს, რომელიც ვიზუალურად მატებს სიმაღლეს და ტანადობას."
+        "a": "ის ხერხი Look 81-დან: ქვედაკაბისა და ზედა ნაწილის ერთ ფერში შეხამება ქმნის უწყვეტ ფერად ვერტიკალს, რომელიც ვიზუალურად მატებს სიმაღლეს და ტანადობას. ![](media/image113.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image114.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image115.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -418,7 +438,7 @@
       },
       {
         "q": "Total Look",
-        "a": "հնարքը Look 81-ից. կիսաշրջազգեստի և վերնամասի համադրությունը նույն գույնի մեջ ստեղծում է անընդհատ գունային ուղղահայաց, որը տեսողականորեն ավելացնում է հասակն ու սլացիկությունը։."
+        "a": "հնարքը Look 81-ից. կիսաշրջազգեստի և վերնամասի համադրությունը նույն գույնի մեջ ստեղծում է անընդհատ գունային ուղղահայաց, որը տեսողականորեն ավելացնում է հասակն ու սլացիկությունը։ ![](media/image113.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image114.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image115.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
@@ -432,7 +452,7 @@
       },
       {
         "q": "Vilna var kairināt ādu",
-        "a": "Atgādiniet, ka tā ir pura lana vergine — visdelikātākā vilnas kategorija. Tā iziet augstu attīrīšanas pakāpi, nodrošinot mīkstumu un komfortablu mikroklimatu (."
+        "a": "Atgādiniet, ka tā ir pura lana vergine --- visdelikātākā vilnas kategorija. Tā iziet augstu attīrīšanas pakāpi, nodrošinot mīkstumu un komfortablu mikroklimatu (."
       },
       {
         "q": "elpo",
@@ -448,7 +468,7 @@
       },
       {
         "q": "Total Look",
-        "a": "paņēmienu no Look 81: svārku un augšdaļas kombinācija vienā krāsā rada nepārtrauktu krāsu vertikāli, kas vizuāli pievieno garumu un slaidumu."
+        "a": "paņēmienu no Look 81: svārku un augšdaļas kombinācija vienā krāsā rada nepārtrauktu krāsu vertikāli, kas vizuāli pievieno garumu un slaidumu. ![](media/image113.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image114.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image115.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -506,7 +526,7 @@
       },
       {
         "q": "Вовна може подразнювати шкіру",
-        "a": "Нагадайте, що це pura lana vergine — найделікатніша категорія вовни. Вона проходить високий ступінь очищення, забезпечуючи м’якість і комфортний мікроклімат (."
+        "a": "Нагадайте, що це pura lana vergine --- найделікатніша категорія вовни. Вона проходить високий ступінь очищення, забезпечуючи м’якість і комфортний мікроклімат (."
       },
       {
         "q": "дихає",
@@ -522,7 +542,7 @@
       },
       {
         "q": "Total Look",
-        "a": "із Look 81: поєднання спідниці та верху в одному кольорі створює безперервну кольорову вертикаль, яка візуально додає зросту та стрункості."
+        "a": "із Look 81: поєднання спідниці та верху в одному кольорі створює безперервну кольорову вертикаль, яка візуально додає зросту та стрункості. ![](media/image113.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image114.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image115.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

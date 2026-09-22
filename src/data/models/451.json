@@ -456,34 +456,54 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "waist pleats Explain that in the Odini model, the pleats are might add \"open\" and soft. Paired with the high waist and unwanted volume» pressed crease, they, in fact, create the right geometry that slims and elongates the legs. «A wool blend Remind the client that adding modern fibers to seems less wool is the key to a piece's longevity. The prestigious» trousers wrinkle less and don't stretch out at the knees, preserving the LS brand's aesthetic for a long time. «The creases Point out the high quality of the tailoring. In require too much Luisa Spagnoli pieces, the crease is set during upkeep» production so that it's easy to maintain with minimal home care or steaming. «The classic cut Showcase Vetrina 54: paired with the Mlacaria looks too formal» 0101 polo and a short bomber jacket, the trousers become the foundation for a fashion-forward \"Sport-Luxe\" look. «The width of the Point out the regular cut (vestibilità regolare). trouser legs seems This is the perfect middle ground between slim excessive» styles and oversized fits, ensuring the trousers stay relevant regardless of shifting trends."
+        "q": "The waist pleats Explain that in the Odini model, the pleats are might add \"open\" and soft. Paired with the high waist and unwanted volume",
+        "a": "pressed crease, they, in fact, create the right geometry that slims and elongates the legs."
+      },
+      {
+        "q": "A wool blend Remind the client that adding modern fibers to seems less wool is the key to a piece's longevity. The prestigious",
+        "a": "trousers wrinkle less and don't stretch out at the knees, preserving the LS brand's aesthetic for a long time."
+      },
+      {
+        "q": "The creases Point out the high quality of the tailoring. In require too much Luisa Spagnoli pieces, the crease is set during upkeep",
+        "a": "production so that it's easy to maintain with minimal home care or steaming."
+      },
+      {
+        "q": "The classic cut Showcase Vetrina 54: paired with the Mlacaria looks too formal",
+        "a": "0101 polo and a short bomber jacket, the trousers become the foundation for a fashion-forward \"Sport-Luxe\" look."
+      },
+      {
+        "q": "The width of the Point out the regular cut (vestibilitÃ regolare). trouser legs seems This is the perfect middle ground between slim excessive",
+        "a": "styles and oversized fits, ensuring the trousers stay relevant regardless of shifting trends."
       }
     ],
     "ru": [
       {
-        "q": "Защипы на талии",
-        "a": "Поясните, что в модели Odini защипы «открытые могут добавлять и мягкие. В сочетании с высокой посадкой и лишний объем» заутюженной стрелкой они, напротив, создают правильную геометрию, которая стройнит и удлиняет ноги."
+        "q": "Складки на талии добавят лишний объем",
+        "a": "> Объясните, что в модели Odini складки."
       },
       {
-        "q": "Смесовая шерсть",
-        "a": "Напомните, что добавление современных волокон к кажется менее шерсти — это залог долговечности изделия. Брюки престижной меньше мнутся и не вытягиваются на коленях, сохраняя эстетику бренда LS долгое время."
+        "q": "открытые",
+        "a": "и мягкие. В сочетании с высокой посадкой и заутюженной стрелкой они создают правильную геометрию, которая стройнит и удлиняет ноги."
       },
       {
-        "q": "Стрелки требуют",
-        "a": "Укажите на высокое качество портновской обработки. слишком сложного В изделиях Luisa Spagnoli стрелка фиксируется на ухода этапе производства так, чтобы её было легко поддерживать при минимальном домашнем уходе или отпаривании."
+        "q": "Смесовая шерсть кажется менее престижной",
+        "a": "> Напомните, что добавление современных волокон в шерсть — залог долговечности изделия. Брюки меньше мнутся и не вытягиваются в коленях, надолго сохраняя эстетику бренда LS."
       },
       {
-        "q": "Классический",
-        "a": "Продемонстрируйте Vetrina 54: в сочетании с поло фасон выглядит Mlacaria 0101 и коротким кабаном брюки слишком превращаются в основу для остромодного образа в официально стиле."
+        "q": "Стрелки требуют сложного ухода",
+        "a": "> Подчеркните высокое качество кроя. В изделиях Luisa Spagnoli стрелка фиксируется при производстве, что облегчает уход в домашних условиях — достаточно минимального отпаривания."
+      },
+      {
+        "q": "Классический крой выглядит слишком формально",
+        "a": "> Покажите Vetrina 54: в сочетании с поло Mlacaria 0101 и коротким бомбером брюки становятся фундаментом для актуального образа в стиле."
       },
       {
         "q": "Sport-Luxe",
         "a": "."
       },
       {
-        "q": "Ширина брючин",
-        "a": "Обратите внимание на регулярный крой (vestibilità кажется regolare). Это золотая середина между узкими избыточной моделями и оверсайзом, которая гарантирует актуальность брюк вне зависимости от переменчивых трендов."
+        "q": "Ширина брючин кажется избыточной",
+        "a": "> Укажите на классический крой (vestibilità regolare). Это идеальный баланс между зауженными моделями и оверсайзом, гарантирующий, что брюки останутся актуальными вне зависимости от смены трендов."
       }
     ],
     "ar": [
@@ -519,10 +539,10 @@
     "ka": [
       {
         "q": "წელზე ნაოჭები შესაძლოა მატებდეს ზედმეტ მოცულობას",
-        "a": "განუმარტეთ, რომ Odini-ის მოდელში ნაოჭები არის."
+        "a": "განუმარტეთ, რომ Odini-ის მოდელში ნაოჭები არის „ღია“ და რბილი. მაღალ წელთან და დაუთოებულ ისრებთან კომბინაციაში ისინი, პირიქით, ქმნიან სწორ გეომეტრიას, რომელიც ატანადებს და აგრძელებს ფეხებს."
       },
       {
-        "q": "ღია“ და რბილი. მაღალ წელთან და დაუთოებულ ისრებთან კომბინაციაში ისინი, პირიქით, ქმნიან სწორ გეომეტრიას, რომელიც ატანადებს და აგრძელებს ფეხებს. «შერეული მატყლი უფრო ნაკლებად პრესტიჟული ჩანს",
+        "q": "შერეული მატყლი უფრო ნაკლებად პრესტიჟული ჩანს",
         "a": "შეახსენეთ, რომ მატყლში თანამედროვე ბოჭკოების დამატება არის ნაკეთობის გამძლეობის გარანტია. შარვალი ნაკლებად იჭმუჭნება და არ იწელება მუხლებზე, რაც დიდი ხნის განმავლობაში ინარჩუნებს LS ბრენდის ესთეტიკას."
       },
       {
@@ -535,7 +555,7 @@
       },
       {
         "q": "Sport-Luxe",
-        "a": "-ის სტილში მოდური იმიჯის საფუძვლად."
+        "a": "ის სტილში მოდური იმიჯის საფუძვლად."
       },
       {
         "q": "შარვლის ტოტების სიგანე ზედმეტად გადაჭარბებული ჩანს",
@@ -583,7 +603,7 @@
       },
       {
         "q": "Jaukta vilna šķiet mazāk prestiža",
-        "a": "Atgādiniet, ka mūsdienu šķiedru pievienošana vilnai — tas ir izstrādājuma ilgmūžības ķīla. Bikses mazāk burzās un neizstaipās ceļgalos, saglabājot LS zīmola estētiku ilgu laiku."
+        "a": "Atgādiniet, ka mūsdienu šķiedru pievienošana vilnai --- tas ir izstrādājuma ilgmūžības ķīla. Bikses mazāk burzās un neizstaipās ceļgalos, saglabājot LS zīmola estētiku ilgu laiku."
       },
       {
         "q": "Vīles prasa pārāk sarežģītu kopšanu",
@@ -665,7 +685,7 @@
       },
       {
         "q": "Сумішева вовна здається менш престижною",
-        "a": "Нагадайте, що додавання сучасних волокон до вовни — це запорука довговічності виробу. Штани менше мнуться і не витягуються на колінах, зберігаючи естетику бренду LS довгий час."
+        "a": "Нагадайте, що додавання сучасних волокон до вовни --- це запорука довговічності виробу. Штани менше мнуться і не витягуються на колінах, зберігаючи естетику бренду LS довгий час."
       },
       {
         "q": "Стрілки вимагають занадто складного догляду",

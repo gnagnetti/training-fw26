@@ -302,38 +302,54 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "cardigan Explain that this is the key silhouette of the seems too short» season. The cropped length is designed specifically for wearing over dresses (as in Look 21) or with high-waisted bottoms, creating a modern, slimming silhouette. «The gold buttons Emphasize that this is Luisa Spagnoli's signature are too flashy» touch. The flat button shape makes them elegant and understated, adding a note of \"Quiet Luxury\" to the look. «The wool might Suggest a tactile test of the softness of pura be itchy» lana vergine. This is the most delicate first-shearing fiber, designed for maximum comfort even against sensitive skin. «The ribbed knit Point out that the Madira piece uses precisely might add bulk» a \"flat rib\" (coste piatte). Unlike bulky knits, this texture creates vertical lines that discipline the silhouette. «It's hard to fit Showcase Look 58: paired with the Opaglio 0927 into an everyday denim, this jacket instantly becomes an element wardrobe» of luxurious everyday style"
+        "q": "The cardigan Explain that this is the key silhouette of the seems too short",
+        "a": "season. The cropped length is designed specifically for wearing over dresses (as in Look 21) or with high-waisted bottoms, creating a modern, slimming silhouette."
+      },
+      {
+        "q": "The gold buttons Emphasize that this is Luisa Spagnoli's signature are too flashy",
+        "a": "touch. The flat button shape makes them elegant and understated, adding a note of \"Quiet Luxury\" to the look."
+      },
+      {
+        "q": "The wool might Suggest a tactile test of the softness of pura be itchy",
+        "a": "lana vergine. This is the most delicate first-shearing fiber, designed for maximum comfort even against sensitive skin."
+      },
+      {
+        "q": "The ribbed knit Point out that the Madira piece uses precisely might add bulk",
+        "a": "a \"flat rib\" (coste piatte). Unlike bulky knits, this texture creates vertical lines that discipline the silhouette."
+      },
+      {
+        "q": "It's hard to fit Showcase Look 58: paired with the Opaglio 0927 into an everyday denim, this jacket instantly becomes an element wardrobe",
+        "a": "of luxurious everyday style. ![](media/image66.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image67.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Кардиган",
-        "a": "Поясните, что это ключевой силуэт сезона. Укороченная кажется слишком длина разработана специально для ношения поверх коротким платьев (как в Look 21) или с поясными изделиями на высокой талии, что создает современный и стройный силуэт."
+        "q": "Кардиган кажется слишком коротким",
+        "a": "> Это ключевой архитектурный силуэт сезона. Укороченная длина специально разработана для безупречной посадки поверх платьев (как в образе 21) или в сочетании с брюками с высокой талией, что создает современный, визуально стройнящий силуэт."
       },
       {
-        "q": "Золотые",
-        "a": "Подчеркните, что это фирменный почерк Luisa Spagnoli. пуговицы слишком Плоская форма пуговиц делает их элегантными и яркие сдержанными, добавляя образу ноту."
+        "q": "Золотые пуговицы выглядят слишком броско",
+        "a": "> Подчеркните, что это фирменный акцент Luisa Spagnoli. Плоская форма пуговиц придает им элегантную сдержанность, добавляя образу ноту."
       },
       {
-        "q": "Quiet Luxury",
+        "q": "тихой роскоши",
         "a": "."
       },
       {
-        "q": "Шерсть может",
-        "a": "Предложите тактильно оценить мягкость pura lana колоться vergine. Это самое деликатное волокно первой стрижки, которое разработано для максимального комфорта даже при контакте с нежной кожей."
+        "q": "Шерсть может колоться",
+        "a": "> Предложите тактильный тест: это pura lana vergine, нежнейшее волокно первой стрижки, созданное для максимального комфорта даже при контакте с чувствительной кожей."
       },
       {
-        "q": "Вязка в рубчик",
-        "a": "Укажите на то, что в модели Madira использован может полнить именно."
+        "q": "Рельефная вязка может полнить",
+        "a": "> Обратите внимание, что в модели Madira используется."
       },
       {
-        "q": "плоский рубчик",
-        "a": "(coste piatte). В отличие от объемной вязки, эта фактура создает вертикальные линии, которые дисциплинируют силуэт."
+        "q": "плоская коса",
+        "a": "(coste piatte). В отличие от объемного трикотажа, эта фактура создает вертикальные линии, которые дисциплинируют силуэт."
       },
       {
-        "q": "Сложно вписать",
-        "a": "Продемонстрируйте Look 58: в сочетании с денимом в повседневный Opaglio 0927 этот жакет мгновенно превращается в гардероб элемент роскошного повседневного стиля."
+        "q": "Сложно вписать в повседневный гардероб",
+        "a": "> Продемонстрируйте образ 58: в сочетании с денимом Opaglio 0927 этот жакет мгновенно становится элементом роскошного повседневного стиля."
       }
     ],
     "ar": [
@@ -363,7 +379,7 @@
       },
       {
         "q": "من الصعب تنسيقه مع الملابس اليومية",
-        "a": "استعرض Look 58: عند تنسيقه مع جينز Opaglio 0927 يتحول هذا الجاكيت فوراً إلى قطعة من أسلوب الفخامة اليومية."
+        "a": "استعرض Look 58: عند تنسيقه مع جينز Opaglio 0927 يتحول هذا الجاكيت فوراً إلى قطعة من أسلوب الفخامة اليومية. ![](media/image66.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image67.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -377,7 +393,7 @@
       },
       {
         "q": "Quiet Luxury",
-        "a": "-ის ნოტს მატებს."
+        "a": "ის ნოტს მატებს."
       },
       {
         "q": "მატყლი შესაძლოა ჩხვლეტდეს",
@@ -393,7 +409,7 @@
       },
       {
         "q": "რთულია ყოველდღიურ გარდერობში ჩართვა",
-        "a": "წარმოადგინეთ Look 58: Opaglio 0927 დენიმთან შეხამებით ეს პიჯაკი მყისიერად გარდაიქმნება ფუფუნების ყოველდღიური სტილის ელემენტად."
+        "a": "წარმოადგინეთ Look 58: Opaglio 0927 დენიმთან შეხამებით ეს პიჯაკი მყისიერად გარდაიქმნება ფუფუნების ყოველდღიური სტილის ელემენტად. ![](media/image66.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image67.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -423,7 +439,7 @@
       },
       {
         "q": "Բարդ է ներառել առօրյա զգեստապահարանում",
-        "a": "Ցուցադրեք Look 58-ը. Opaglio 0927 դենիմի հետ համադրելիս այս ժակետն ակնթարթորեն վերածվում է շքեղ առօրյա ոճի տարրի։."
+        "a": "Ցուցադրեք Look 58-ը. Opaglio 0927 դենիմի հետ համադրելիս այս ժակետն ակնթարթորեն վերածվում է շքեղ առօրյա ոճի տարրի։ ![](media/image66.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image67.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
@@ -510,32 +526,32 @@
     ],
     "uk": [
       {
-        "q": "Кардиган",
-        "a": "Поясніть, що це ключовий силует сезону. Укорочена здається занадто довжина розроблена спеціально для носіння поверх коротким суконь (як у Look 21) або з поясними виробами на високій талії, що створює сучасний і стрункий силует."
+        "q": "Кардиган Поясніть, що це ключовий силует сезону. Укорочена здається занадто довжина розроблена спеціально для носіння поверх коротким",
+        "a": "суконь (як у Look 21) або з поясними виробами на високій талії, що створює сучасний і стрункий силует."
       },
       {
-        "q": "Золоті",
-        "a": "Підкресліть, що це фірмовий почерк Luisa Spagnoli. ґудзики занадто Пласка форма ґудзиків робить їх елегантними та яскраві стриманими, додаючи образу ноту."
+        "q": "Золоті Підкресліть, що це фірмовий почерк Luisa Spagnoli. ґудзики занадто Пласка форма ґудзиків робить їх елегантними та яскраві",
+        "a": "стриманими, додаючи образу ноту."
       },
       {
         "q": "Quiet Luxury",
         "a": "."
       },
       {
-        "q": "Шерсть може",
-        "a": "Запропонуйте тактильно оцінити м'якість pura lana колотися vergine. Це найделікатніше волокно першої стрижки, яке розроблене для максимального комфорту навіть при контакті з ніжною шкірою."
+        "q": "Шерсть може Запропонуйте тактильно оцінити м'якість pura lana колотися",
+        "a": "vergine. Це найделікатніше волокно першої стрижки, яке розроблене для максимального комфорту навіть при контакті з ніжною шкірою."
       },
       {
-        "q": "В'язка в рубчик",
-        "a": "Вкажіть на те, що в моделі Madira використаний може повнити саме."
+        "q": "В'язка в рубчик Вкажіть на те, що в моделі Madira використаний може повнити",
+        "a": "саме."
       },
       {
         "q": "плаский рубчик",
         "a": "(coste piatte). На відміну від об'ємної в'язки, ця фактура створює вертикальні лінії, які дисциплінують силует."
       },
       {
-        "q": "Складно вписати",
-        "a": "Продемонструйте Look 58: у поєднанні з денімом у повсякденний Opaglio 0927 цей жакет миттєво перетворюється на гардероб елемент розкішного повсякденного стилю."
+        "q": "Складно вписати Продемонструйте Look 58: у поєднанні з денімом у повсякденний Opaglio 0927 цей жакет миттєво перетворюється на гардероб",
+        "a": "елемент розкішного повсякденного стилю. ![](media/image66.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image67.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

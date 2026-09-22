@@ -264,54 +264,46 @@
   "objections": {
     "en": [
       {
-        "q": "The elastic waistband looks too plain.",
+        "q": "The elastic waistband looks too plain",
         "a": "Explain that, in this style, it is engineered to be as flat and technical as possible. This design choice allows the skirt to sit like a \"second skin\" under fitted knitwear or tailored jackets, without adding bulk."
       },
       {
-        "q": "Viscose may wrinkle.",
+        "q": "Viscose may wrinkle",
         "a": "Point out that this is a high-quality blended fabric (misto viscosa). The addition of modern fibers allows the fabric to hold its \"sheath\" shape and resist creasing far better than pure viscose."
       },
       {
-        "q": "The pencil skirt restricts movement.",
+        "q": "The pencil skirt restricts movement",
         "a": "Point out the center back slit. It's engineered to allow complete freedom of stride while preserving the iconic narrow silhouette."
       },
       {
-        "q": "This below-the-knee length doesn't suit me.",
+        "q": "This below-the-knee length doesn't suit me",
         "a": "Showcase Look 89. Paired with heels and the right proportions on top, this length is considered the epitome of elegance, as it conceals the knee while revealing the most flattering part of the leg."
       },
       {
-        "q": "The design is too minimal.",
-        "a": "Emphasize that simplicity is this piece's strength. It allows for pairing with the collection's most elaborate textures — from the Samir 0101 eco-leather to the jacquard of the Cromatura 0101 jacket."
+        "q": "The design is too minimal",
+        "a": "Emphasize that simplicity is this piece's strength. It allows for pairing with the collection's most elaborate textures »” from the Samir 0101 eco-leather to the jacquard of the Cromatura 0101 jacket."
       }
     ],
     "ru": [
       {
-        "q": "Эластичный пояс",
-        "a": "Поясните, что в данной модели он выполнен максимально выглядит слишком плоско и технологично. Это дизайнерское решение для просто того, чтобы юбка сидела как."
+        "q": "Эластичный пояс выглядит слишком просто",
+        "a": "В этой модели он спроектирован максимально плоским и технологичным, чтобы юбка сидела как «вторая кожа» под приталенным трикотажем или жакетами, не создавая лишнего объема."
       },
       {
-        "q": "вторая кожа",
-        "a": "под облегающим трикотажем или приталенными жакетами, не создавая лишних объемов."
+        "q": "Вискоза может мяться",
+        "a": "Это высококачественный смесовый состав (misto viscosa). Добавление современных волокон позволяет ткани сохранять безупречную форму и сопротивляться заломам гораздо эффективнее чистой вискозы."
       },
       {
-        "q": "Вискоза может",
-        "a": "Укажите на то, что это смесовое полотно высокого мяться качества (misto viscosa). Добавление современных волокон позволяет ткани держать форму."
+        "q": "Юбка-карандаш сковывает движения",
+        "a": "Шлица по центру спинки разработана для полной свободы шага при сохранении знакового узкого силуэта."
       },
       {
-        "q": "футляра",
-        "a": "и быть гораздо более устойчивой к сминанию, чем чистая вискоза."
+        "q": "Длина ниже колена мне не идет",
+        "a": "Взгляните на образ 89: в сочетании с каблуком и выверенными пропорциями верха эта длина считается эталоном элегантности, скрывая колено и подчеркивая самую изящную часть ноги."
       },
       {
-        "q": "Юбка-карандаш",
-        "a": "Обратите внимание на наличие центрального разреза сковывает сзади. Он сконструирован таким образом, чтобы движения обеспечить полную свободу шага, сохраняя при этом канонический узкий силуэт."
-      },
-      {
-        "q": "Такая длина",
-        "a": "Продемонстрируйте образ из Look 89. В сочетании с (ниже колена) мне каблуком и правильными пропорциями верха такая длина не подходит считается эталоном элегантности, так как она скрывает колено и открывает самую изящную часть ноги."
-      },
-      {
-        "q": "Слишком",
-        "a": "Подчеркните, что лаконичность — это сила данной лаконичный модели. Она позволяет сочетать её с самыми сложными дизайн фактурами коллекции: от экокожи Samir 0101 до жаккарда жакета Cromatura 0101."
+        "q": "Дизайн слишком минималистичен",
+        "a": "Лаконичность — главная сила этого изделия. Она позволяет сочетать юбку с самыми фактурными элементами коллекции: от эко-кожи Samir 0101 до жаккарда жакета Cromatura 0101."
       }
     ],
     "ar": [
@@ -341,7 +333,7 @@
       },
       {
         "q": "تصميم بسيط جداً",
-        "a": "أكدوا على أن البساطة هي نقطة قوة هذا الموديل. فهي تسمح بتنسيقها مع أكثر خامات المجموعة تعقيداً: من الجلد البيئي Samir 0101 إلى جاكيت الجاكارد Cromatura 0101."
+        "a": "أكدوا على أن البساطة هي نقطة قوة هذا الموديل. فهي تسمح بتنسيقها مع أكثر خامات المجموعة تعقيداً: من الجلد البيئي Samir 0101 إلى جاكيت الجاكارد Cromatura 0101. ![](media/image15.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -371,7 +363,7 @@
       },
       {
         "q": "ზედმეტად ლაკონიური დიზაინი",
-        "a": "ხაზი გაუსვით, რომ ლაკონიურობა არის ამ მოდელის ძალა. ის საშუალებას გაძლევთ შეახამოთ იგი კოლექციის ყველაზე რთულ ფაქტურებთან: ეკოტყავიდან Samir 0101 დაწყებული, ქურთუკ Cromatura 0101-ის ჟაკარდამდე."
+        "a": "ხაზი გაუსვით, რომ ლაკონიურობა არის ამ მოდელის ძალა. ის საშუალებას გაძლევთ შეახამოთ იგი კოლექციის ყველაზე რთულ ფაქტურებთან: ეკოტყავიდან Samir 0101 დაწყებული, ქურთუკ Cromatura 0101-ის ჟაკარდამდე. ![](media/image15.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -401,7 +393,7 @@
       },
       {
         "q": "Չափազանց հակիրճ դիզայն",
-        "a": "Ընդգծեք, որ լակոնիկությունը այս մոդելի ուժն է։ Այն թույլ է տալիս համադրել այն հավաքածուի ամենաբարդ հյուսվածքների հետ՝ սկսած Samir 0101 էկո-կաշվից մինչև Cromatura 0101 բաճկոնի ժակարդը։."
+        "a": "Ընդգծեք, որ լակոնիկությունը այս մոդելի ուժն է։ Այն թույլ է տալիս համադրել այն հավաքածուի ամենաբարդ հյուսվածքների հետ՝ սկսած Samir 0101 էկո-կաշվից մինչև Cromatura 0101 բաճկոնի ժակարդը։ ![](media/image15.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
@@ -431,7 +423,7 @@
       },
       {
         "q": "Pārāk lakonisks dizains",
-        "a": "Uzsveriet, ka lakoniskums — tas ir šī modeļa spēks. Tas ļauj to kombinēt ar visām kolekcijas sarežģītajām faktūrām: no ekoādas Samir 0101 līdz žaketes Cromatura 0101 žakardam."
+        "a": "Uzsveriet, ka lakoniskums --- tas ir šī modeļa spēks. Tas ļauj to kombinēt ar visām kolekcijas sarežģītajām faktūrām: no ekoādas Samir 0101 līdz žaketes Cromatura 0101 žakardam. ![](media/image15.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -513,7 +505,7 @@
       },
       {
         "q": "Занадто лаконічний дизайн",
-        "a": "Підкресліть, що лаконічність — це сила даної моделі. Вона дозволяє поєднувати її з найскладнішими фактурами колекції: від екошкіри Samir 0101 до жаккарда жакета Cromatura 0101."
+        "a": "Підкресліть, що лаконічність — це сила даної моделі. Вона дозволяє поєднувати її з найскладнішими фактурами колекції: від екошкіри Samir 0101 до жаккарда жакета Cromatura 0101. ![](media/image15.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

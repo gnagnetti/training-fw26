@@ -158,163 +158,167 @@
   "objections": {
     "en": [
       {
-        "q": "The lace collar seems too high-maintenance.",
-        "a": "The collar is detachable, which greatly simplifies the piece's care and allows it to be washed separately, keeping the look fresh."
+        "q": "The lace collar seems too high-maintenance",
+        "a": "The collar is detachable, which greatly simplifies the piece's care and allows it to be washed separately, keeping the look fresh. [] -> The cut of the Gotica sleeves is balanced by the fitted silhouette and elbow length, creating harmonious, contemporary proportions without excess volume."
       },
       {
-        "q": "Wool flannel may feel stiff.",
+        "q": "Wool flannel may feel stiff",
         "a": "The premium wool used, combined with polyester and elastane, makes the fabric soft, supple, and resistant to creasing throughout the day."
       },
       {
-        "q": "The design looks too traditional.",
+        "q": "The design looks too traditional",
         "a": "Contrasting buttons with the gold logo and a fashion-forward skirt cut lend this classic piece a modern, luxury character in line with global trends."
       },
       {
-        "q": "A below-the-knee length calls only for a high heel.",
+        "q": "A below-the-knee length calls only for a high heel",
         "a": "Thanks to its vertical structural lines and godet shape, this dress looks equally beautiful with classic pumps or our stylish Ulisside boots."
       }
     ],
     "ru": [
       {
-        "q": "Кружевной воротничок кажется слишком марким.",
-        "a": "Воротничок является съемным, что значительно упрощает уход за изделием и позволяет стирать его отдельно, сохраняя свежесть образа."
+        "q": "Кружевной воротник кажется сложным в уходе",
+        "a": "Воротник выполнен съемным, что значительно упрощает уход за изделием и позволяет стирать его отдельно, сохраняя безупречную свежесть образа."
       },
       {
-        "q": "Шерстяная фланель может быть жесткой.",
-        "a": "Используемая высококачественная шерсть в сочетании с полиэстером и эластаном делает ткань мягкой, пластичной и устойчивой к сминанию в течение дня."
+        "q": "Рукава кажутся слишком объемными",
+        "a": "Крой рукавов Gotica сбалансирован приталенным силуэтом и длиной до локтя, создавая гармоничные современные пропорции без излишнего объема."
       },
       {
-        "q": "Дизайн выглядит слишком традиционно.",
-        "a": "Контрастные пуговицы с золотым логотипом и актуальный крой юбки придают этой классической модели современный люксовый характер, соответствующий мировым трендам."
+        "q": "Шерстяная фланель может казаться жесткой",
+        "a": "Премиальная шерсть в сочетании с полиэстером и эластаном делает ткань мягкой, податливой и устойчивой к заминанию в течение всего дня."
       },
       {
-        "q": "Длина ниже колена требует только высокого каблука.",
-        "a": "Благодаря вертикальным конструктивным линиям и форме годе, это платье отлично смотрится как с классическими лодочками, так и с нашими стильными сапогами Ulisside."
+        "q": "Дизайн выглядит слишком традиционным",
+        "a": "Контрастные пуговицы с золотым логотипом и актуальный крой юбки придают этому классическому изделию современный, роскошный характер в духе мировых трендов."
+      },
+      {
+        "q": "Длина ниже колена требует только высокого каблука",
+        "a": "Благодаря вертикальным конструктивным линиям и форме годе, это платье выглядит одинаково эффектно как с классическими лодочками, так и с нашими стильными ботильонами Ulisside."
       }
     ],
     "ar": [
       {
-        "q": "ياقة الدانتيل تبدو سريعة الاتساخ.",
-        "a": "الياقة قابلة للإزالة، مما يسهل العناية بالقطعة بشكل كبير ويسمح بغسلها بشكل منفصل للحفاظ على رونق الإطلالة."
+        "q": "ياقة الدانتيل تبدو سريعة الاتساخ",
+        "a": "الياقة قابلة للإزالة، مما يسهل العناية بالقطعة بشكل كبير ويسمح بغسلها بشكل منفصل للحفاظ على رونق الإطلالة. [] -> تم موازنة قصة أكمام Gotica بقصة مخصرة وطول يصل إلى المرفق، مما يخلق تناسباً عصرياً متناغماً دون حجم زائد."
       },
       {
-        "q": "فانيلا الصوف قد تكون خشنة.",
+        "q": "فانيلا الصوف قد تكون خشنة",
         "a": "الصوف عالي الجودة المستخدم مع البوليستر والإيلاستين يجعل القماش ناعماً ومرناً ومقاوماً للتجعد طوال اليوم."
       },
       {
-        "q": "التصميم يبدو تقليدياً أكثر من اللازم.",
+        "q": "التصميم يبدو تقليدياً أكثر من اللازم",
         "a": "الأزرار المتباينة التي تحمل شعار العلامة الذهبي وقصة التنورة العصرية تمنح هذا الموديل الكلاسيكي طابعاً فاخراً يتماشى مع صيحات الموضة العالمية."
       },
       {
-        "q": "الطول تحت الركبة يتطلب كعباً عالياً فقط.",
+        "q": "الطول تحت الركبة يتطلب كعباً عالياً فقط",
         "a": "بفضل الخطوط العمودية المصممة وشكل الجوديه (godet)، يبدو هذا الفستان رائعاً سواء مع حذاء الكعب الكلاسيكي أو مع أحذية Ulisside الطويلة العصرية."
       }
     ],
     "ka": [
       {
-        "q": "მაქმანებიანი საყელო ზედმეტად ადვილად გასვრად ჩანს.",
-        "a": "საყელო არის მოსახსნელი, რაც მნიშვნელოვნად ამარტივებს ნაკეთობის მოვლას და საშუალებას იძლევა გაირეცხოს ცალკე, რაც ინარჩუნებს სახის სიახლეს."
+        "q": "მაქმანებიანი საყელო ზედმეტად ადვილად გასვრად ჩანს",
+        "a": "საყელო არის მოსახსნელი, რაც მნიშვნელოვნად ამარტივებს ნაკეთობის მოვლას და საშუალებას იძლევა გაირეცხოს ცალკე, რაც ინარჩუნებს სახის სიახლეს. [] -> სახელოების ჭრა Gotica ბალანსდება ტანზე მომდგარი სილუეტით და იდაყვამდე სიგრძით, რაც ქმნის ჰარმონიულ თანამედროვე პროპორციებს ზედმეტი მოცულობის გარეშე."
       },
       {
-        "q": "მატყლის ფლანელი შეიძლება იყოს უხეში.",
+        "q": "მატყლის ფლანელი შეიძლება იყოს უხეში",
         "a": "გამოყენებული მაღალი ხარისხის მატყლი პოლიესტერთან და ელასტანთან კომბინაციაში ქსოვილს ხდის რბილს, პლასტიკურს და დღის განმავლობაში დაჭმუჭვნისადმი მდგრადს."
       },
       {
-        "q": "დიზაინი ზედმეტად ტრადიციულად გამოიყურება.",
+        "q": "დიზაინი ზედმეტად ტრადიციულად გამოიყურება",
         "a": "კონტრასტული ღილები ოქროსფერი ლოგოთი და ქვედაბოლოს აქტუალური ჭრა ამ კლასიკურ მოდელს ანიჭებს თანამედროვე ლუქს-ხასიათს, რომელიც შეესაბამება მსოფლიო ტენდენციებს."
       },
       {
-        "q": "მუხლს ქვემოთ სიგრძე მხოლოდ მაღალ ქუსლს მოითხოვს.",
+        "q": "მუხლს ქვემოთ სიგრძე მხოლოდ მაღალ ქუსლს მოითხოვს",
         "a": "ვერტიკალური კონსტრუქციული ხაზებისა და „გოდეს“ ფორმის წყალობით, ეს კაბა შესანიშნავად გამოიყურება როგორც კლასიკურ „ნავისებურ“ ფეხსაცმელთან, ისე ჩვენს სტილურ Ulisside-ის ჩექმებთან ერთად."
       }
     ],
     "hy": [
       {
         "q": "Ժանյակավոր օձիքը չափազանց հեշտ կեղտոտվող է թվում։",
-        "a": "Օձիքը հանովի է, ինչը զգալիորեն հեշտացնում է հագուստի խնամքը և թույլ է տալիս լվանալ այն առանձին՝ պահպանելով կերպարի թարմությունը։"
+        "a": "Օձիքը հանովի է, ինչը զգալիորեն հեշտացնում է հագուստի խնամքը և թույլ է տալիս լվանալ այն առանձին՝ պահպանելով կերպարի թարմությունը։ [] -> Gotica թևքերի կտրվածքը հավասարակշռված է մարմնին ընդգծող սիլուետով և մինչև արմունկը հասնող երկարությամբ, ինչը ստեղծում է ներդաշնակ ժամանակակից համամասնություններ՝ առանց ավելորդ ծավալի։."
       },
       {
         "q": "Բրդյա ֆլանելը կարող է կոշտ լինել։",
-        "a": "Օգտագործված բարձրորակ բուրդը պոլիեսթերի և էլաստանի հետ համադրությամբ գործվածքը դարձնում է փափուկ, պլաստիկ և դիմացկուն ծալքերի նկատմամբ օրվա ընթացքում։"
+        "a": "Օգտագործված բարձրորակ բուրդը պոլիեսթերի և էլաստանի հետ համադրությամբ գործվածքը դարձնում է փափուկ, պլաստիկ և դիմացկուն ծալքերի նկատմամբ օրվա ընթացքում։."
       },
       {
         "q": "Դիզայնը չափազանց ավանդական է թվում։",
-        "a": "Ոսկեգույն լոգոտիպով հակադիր կոճակները և կիսաշրջազգեստի արդիական կտրվածքը այս դասական մոդելին հաղորդում են ժամանակակից շքեղ բնույթ՝ համապատասխան համաշխարհային թրենդներին։"
+        "a": "Ոսկեգույն լոգոտիպով հակադիր կոճակները և կիսաշրջազգեստի արդիական կտրվածքը այս դասական մոդելին հաղորդում են ժամանակակից շքեղ բնույթ՝ համապատասխան համաշխարհային թրենդներին։."
       },
       {
         "q": "Ծնկից ներքև երկարությունը պահանջում է միայն բարձր կրունկ։",
-        "a": "Ուղղահայաց կառուցվածքային գծերի և գոդե ձևի շնորհիվ այս զգեստը հիանալի է նայվում ինչպես դասական լոդոչկա կոշիկների, այնպես էլ մեր ոճային Ulisside երկարաճիտ կոշիկների հետ։"
+        "a": "Ուղղահայաց կառուցվածքային գծերի և գոդե ձևի շնորհիվ այս զգեստը հիանալի է նայվում ինչպես դասական լոդոչկա կոշիկների, այնպես էլ մեր ոճային Ulisside երկարաճիտ կոշիկների հետ։."
       }
     ],
     "lv": [
       {
-        "q": "Mežģīņu apkaklīte šķiet pārāk ātri smērējoša.",
-        "a": "Apkaklīte ir noņemama, kas ievērojami atvieglo izstrādājuma kopšanu un ļauj to mazgāt atsevišķi, saglabājot tēla svaigumu."
+        "q": "Mežģīņu apkaklīte šķiet pārāk ātri smērējoša",
+        "a": "Apkaklīte ir noņemama, kas ievērojami atvieglo izstrādājuma kopšanu un ļauj to mazgāt atsevišķi, saglabājot tēla svaigumu. [] -> Piedurkņu Gotica piegriezums ir sabalansēts ar piegulošu siluetu un garumu līdz elkonim, kas rada harmoniskas, modernas proporcijas bez lieka apjoma."
       },
       {
-        "q": "Vilnas flanelis var būt ciets.",
+        "q": "Vilnas flanelis var būt ciets",
         "a": "Izmantotā augstas kvalitātes vilna kombinācijā ar poliesteru un elastānu padara audumu mīkstu, plastisku un izturīgu pret burzīšanos dienas laikā."
       },
       {
-        "q": "Dizains izskatās pārāk tradicionāls.",
+        "q": "Dizains izskatās pārāk tradicionāls",
         "a": "Kontrastējošās pogas ar zelta logotipu un aktuālais svārku piegriezums piešķir šim klasiskajam modelim mūsdienīgu luksusa raksturu, kas atbilst pasaules tendencēm."
       },
       {
-        "q": "Garums zem ceļgala prasa tikai augstu papēdi.",
+        "q": "Garums zem ceļgala prasa tikai augstu papēdi",
         "a": "Pateicoties vertikālajām konstruktīvajām līnijām un godē formai, šī kleita lieliski izskatās gan ar klasiskajām laiviņām, gan ar mūsu stilīgajiem zābakiem Ulisside."
       }
     ],
     "lt": [
       {
-        "q": "Nėriniuota apykaklė atrodo pernelyg greitai susitepanti.",
-        "a": "Apykaklė yra nuimama, kas žymiai palengvina gaminio priežiūrą ir leidžia ją skalbti atskirai, išlaikant įvaizdžio gaivumą."
+        "q": "Nėriniuota apykaklė atrodo pernelyg greitai susitepanti",
+        "a": "Apykaklė yra nuimama, kas žymiai palengvina gaminio priežiūrą ir leidžia ją skalbti atskirai, išlaikant įvaizdžio gaivumą. [] -> Gotica rankovių kirpimas subalansuotas liemenuotu siluetu ir ilgiu iki alkūnės, kas sukuria harmoningas šiuolaikines proporcijas be nereikalingos apimties."
       },
       {
-        "q": "Vilnonė flanelė gali būti kieta.",
+        "q": "Vilnonė flanelė gali būti kieta",
         "a": "Naudojama aukščiausios kokybės vilna derinyje su poliesteriu ir elastanu daro audinį minkštą, plastišką ir atsparų glamžymuisi visą dieną."
       },
       {
-        "q": "Dizainas atrodo pernelyg tradiciškai.",
+        "q": "Dizainas atrodo pernelyg tradiciškai",
         "a": "Kontrastinės sagos su auksiniu logotipu ir aktualus sijono kirpimas suteikia šiam klasikiniam modeliui šiuolaikišką prabangų charakterį, atitinkantį pasaulines tendencijas."
       },
       {
-        "q": "Ilgis žemiau kelių reikalauja tik aukšto kulno.",
+        "q": "Ilgis žemiau kelių reikalauja tik aukšto kulno",
         "a": "Dėl vertikalių konstrukcinių linijų ir „godet“ formos ši suknelė puikiai atrodo tiek su klasikiniais laiveliais, tiek su mūsų stilingais ilgaauliais Ulisside."
       }
     ],
     "pl": [
       {
-        "q": "Koronkowy kołnierzyk wydaje się zbyt podatny na zabrudzenia.",
-        "a": "Kołnierzyk jest odpinany, co znacznie ułatwia pielęgnację produktu i pozwala prać go oddzielnie, zachowując świeżość wyglądu."
+        "q": "Koronkowy kołnierzyk wydaje się zbyt podatny na zabrudzenia",
+        "a": "Kołnierzyk jest odpinany, co znacznie ułatwia pielęgnację produktu i pozwala prać go oddzielnie, zachowując świeżość wyglądu. [] -> Krój rękawów Gotica został zrównoważony taliowaną sylwetką i długością do łokcia, co tworzy harmonijne, nowoczesne proporcje bez zbędnej objętości."
       },
       {
-        "q": "Wełniana flanela może być szorstka.",
+        "q": "Wełniana flanela może być szorstka",
         "a": "Zastosowana wysokiej jakości wełna w połączeniu z poliestrem i elastanem sprawia, że tkanina jest miękka, plastyczna i odporna na gniecenie w ciągu dnia."
       },
       {
-        "q": "Design wygląda zbyt tradycyjnie.",
+        "q": "Design wygląda zbyt tradycyjnie",
         "a": "Kontrastowe guziki ze złotym logo oraz modny krój spódnicy nadają temu klasycznemu modelowi nowoczesny, luksusowy charakter, zgodny ze światowymi trendami."
       },
       {
-        "q": "Długość poniżej kolana wymaga tylko wysokiego obcasa.",
+        "q": "Długość poniżej kolana wymaga tylko wysokiego obcasa",
         "a": "Dzięki pionowym liniom konstrukcyjnym i formie gode, ta sukienka świetnie wygląda zarówno z klasycznymi czółenkami, jak i z naszymi stylowymi kozakami Ulisside."
       }
     ],
     "uk": [
       {
-        "q": "Мереживний комірець здається занадто мазким.",
-        "a": "Комірець є знімним, що значно спрощує догляд за виробом і дозволяє прати його окремо, зберігаючи свіжість образу."
+        "q": "Мереживний комірець здається занадто мазким",
+        "a": "Комірець є знімним, що значно спрощує догляд за виробом і дозволяє прати його окремо, зберігаючи свіжість образу. [] -> Крій рукавів Gotica збалансований приталеним силуетом та довжиною до ліктя, що створює гармонійні сучасні пропорції без зайвого об'єму."
       },
       {
-        "q": "Вовняна фланель може бути жорсткою.",
+        "q": "Вовняна фланель може бути жорсткою",
         "a": "Використовувана високоякісна вовна у поєднанні з поліестером та еластаном робить тканину м'якою, пластичною та стійкою до зминання протягом дня."
       },
       {
-        "q": "Дизайн виглядає занадто традиційно.",
+        "q": "Дизайн виглядає занадто традиційно",
         "a": "Контрастні ґудзики із золотим логотипом та актуальний крій спідниці додають цій класичній моделі сучасного люксового характеру, що відповідає світовим трендам."
       },
       {
-        "q": "Довжина нижче коліна вимагає тільки високих підборів.",
+        "q": "Довжина нижче коліна вимагає тільки високих підборів",
         "a": "Завдяки вертикальним конструктивним лініям та формі годе, ця сукня чудово виглядає як із класичними човниками, так і з нашими стильними чобітьми Ulisside."
       }
     ]

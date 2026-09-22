@@ -223,7 +223,7 @@
   "objections": {
     "en": [
       {
-        "q": "The skirt may restrict movement due to its narrow cut.",
+        "q": "The skirt may restrict movement due to its narrow cut",
         "a": "The designers incorporated a centre back slit that preserves the clean lines of the silhouette while ensuring full freedom of stride and comfort when seated."
       },
       {
@@ -231,65 +231,61 @@
         "a": "We recommend exclusively professional dry cleaning to preserve the original texture of the melange and the shape of the darts over time."
       },
       {
-        "q": "A below-the-knee length may feel too formal.",
+        "q": "A below-the-knee length may feel too formal",
         "a": "Paired with loafers or ankle boots on a sturdy heel, such as the Ustica A 101, the midi length transforms into an ultra-modern Urban Chic look."
       },
       {
-        "q": "Concern that the fabric may feel scratchy due to the wool content.",
+        "q": "Concern that the fabric may feel scratchy due to the wool content",
         "a": "The addition of silk and cotton to the fabric composition makes the inner surface smooth and pleasant to the touch, neutralising the traditional roughness of wool fibres."
       },
       {
-        "q": "The melange effect may seem less formal than a solid fabric.",
+        "q": "The melange effect may seem less formal than a solid fabric",
         "a": "On the contrary, melange lends the look depth and understated sophistication. It is the choice of women who value individuality and exclusivity of material in everyday business style."
       }
     ],
     "ru": [
       {
-        "q": "Юбка может сковывать движения из-за узкого кроя.",
-        "a": "Дизайнеры предусмотрели центральную шлицу сзади, которая сохраняет чистоту линий силуэта, при этом гарантируя полную свободу шага и комфорт при сидении."
+        "q": "Юбка может сковывать движения из-за узкого кроя",
+        "a": "Дизайнеры предусмотрели шлицу сзади, которая сохраняет чистоту архитектурного силуэта, обеспечивая при этом полную свободу шага и комфорт в положении сидя."
       },
       {
-        "q": "Как ухаживать за такой сложной смесью волокон (шерсть, шелк, хлопок)?",
-        "a": "Мы рекомендуем исключительно профессиональную химчистку (dry clean only), чтобы надолго сохранить первозданную структуру меланжа и форму вытачек."
+        "q": "Как ухаживать за таким сложным составом волокон (шерсть, шелк, хлопок)?",
+        "a": "Мы рекомендуем исключительно профессиональную химчистку, чтобы сохранить благородную фактуру меланжа и форму вытачек на долгие годы."
       },
       {
-        "q": "Длина ниже колена кажется слишком официальной.",
-        "a": "В сочетании с лоферами или ботильонами на устойчивом каблуке, такими как Ustica A 101, длина миди трансформируется в ультрамодный образ в стиле Urban Chic."
+        "q": "Длина ниже колена может казаться слишком строгой",
+        "a": "В сочетании с лоферами или ботильонами на устойчивом каблуке, такими как Ustica A 101, длина миди трансформируется в ультрасовременный образ в стиле Urban Chic."
       },
       {
-        "q": "Боязнь, что ткань будет колоться из-за наличия шерсти.",
-        "a": "Добавление шелка и хлопка в состав полотна делает внутреннюю поверхность ткани гладкой и приятной на ощупь, нейтрализуя традиционную жесткость шерстяных волокон."
+        "q": "Опасение, что ткань может колоться из-за содержания шерсти",
+        "a": "Добавление шелка и хлопка в состав ткани делает внутреннюю поверхность гладкой и приятной на ощупь, нейтрализуя традиционную грубость шерстяных волокон."
       },
       {
-        "q": "Меланжевый эффект выглядит менее формально, чем гладкая ткань.",
-        "a": "Напротив, меланж придает образу глубину и статусную сложность. Это выбор женщин, ценящих индивидуальность и эксклюзивность материалов в повседневном деловом стиле."
+        "q": "Меланжевый эффект может казаться менее формальным, чем однотонная ткань",
+        "a": "Напротив, меланж придает образу глубину и сдержанную утонченность. Это выбор женщин, которые ценят индивидуальность и эксклюзивность материала в деловом стиле."
       }
     ],
     "ar": [
       {
-        "q": "قد تعيق التنورة الحركة بسبب قصتها الضيقة.",
-        "a": "صمم المصممون فتحة مركزية خلفية تحافظ على نقاء خطوط القصة، مع ضمان حرية كاملة في الحركة والراحة عند الجلوس."
+        "q": "قد تعيق التنورة الحركة بسبب قصتها الضيقة",
+        "a": "صمم المصممون فتحة مركزية خلفية تحافظ على نقاء خطوط القصة، مع ضمان حرية كاملة في الحركة والراحة عند الجلوس. «كيف يمكن العناية بمزيج الألياف المعقد هذا (الصوف، الحرير، القطن)؟» نوصي حصرياً بالتنظيف الجاف الاحترافي (dry clean only) للحفاظ على بنية النسيج الممزوج وشكل الثنيات لفترة طويلة."
       },
       {
-        "q": "كيف يمكن العناية بمزيج الألياف المعقد هذا (الصوف، الحرير، القطن)؟",
-        "a": "نوصي حصرياً بالتنظيف الجاف الاحترافي (dry clean only) للحفاظ على بنية النسيج الممزوج وشكل الثنيات لفترة طويلة."
+        "q": "الطول الذي يتجاوز الركبة يبدو رسمياً أكثر من اللازم",
+        "a": "عند تنسيقها مع أحذية الـ Loafers أو البوت القصير ذي الكعب الثابت، مثل Ustica A 101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg يتحول الطول المتوسط (ميدي) إلى إطلالة عصرية بأسلوب Urban Chic."
       },
       {
-        "q": "الطول الذي يتجاوز الركبة يبدو رسمياً أكثر من اللازم.",
-        "a": "عند تنسيقها مع أحذية الـ Loafers أو البوت القصير ذي الكعب الثابت، مثل Ustica A 101، يتحول الطول المتوسط (ميدي) إلى إطلالة عصرية بأسلوب Urban Chic."
-      },
-      {
-        "q": "القلق من أن القماش قد يسبب حكة بسبب وجود الصوف.",
+        "q": "القلق من أن القماش قد يسبب حكة بسبب وجود الصوف",
         "a": "إضافة الحرير والقطن إلى تركيبة النسيج تجعل السطح الداخلي للقماش ناعماً ولطيفاً على البشرة، مما يزيل الخشونة التقليدية لألياف الصوف."
       },
       {
-        "q": "تأثير النسيج الممزوج (الميلانج) يبدو أقل رسمية من القماش السادة.",
+        "q": "تأثير النسيج الممزوج (الميلانج) يبدو أقل رسمية من القماش السادة",
         "a": "على العكس من ذلك، يضفي نسيج الميلانج عمقاً وتعقيداً راقياً على الإطلالة. إنه خيار السيدات اللواتي يقدّرن التميز وتفرد المواد في إطلالات العمل اليومية."
       }
     ],
     "ka": [
       {
-        "q": "კალთამ შესაძლოა მოძრაობა შეზღუდოს ვიწრო კროის გამო.",
+        "q": "კალთამ შესაძლოა მოძრაობა შეზღუდოს ვიწრო კროის გამო",
         "a": "დიზაინერებმა გაითვალისწინეს ცენტრალური ჭრილი უკანა მხარეს, რომელიც ინარჩუნებს სილუეტის ხაზების სისუფთავეს და ამავდროულად გარანტიას იძლევა ნაბიჯის სრული თავისუფლებისა და ჯდომისას კომფორტის."
       },
       {
@@ -297,43 +293,43 @@
         "a": "ჩვენ გირჩევთ მხოლოდ პროფესიონალურ ქიმწმენდას (dry clean only), რათა დიდხანს შეინარჩუნოთ მელანჟის პირველადი სტრუქტურა და ნაკერების ფორმა."
       },
       {
-        "q": "მუხლს ქვემოთ სიგრძე ზედმეტად ოფიციალური ჩანს.",
-        "a": "ლოფერებთან ან მდგრად ქუსლიან ბოტილიონებთან ერთად, როგორიცაა Ustica A 101, მიდი სიგრძე გარდაიქმნება ულტრამოდურ Urban Chic სტილის იმიჯად."
+        "q": "მუხლს ქვემოთ სიგრძე ზედმეტად ოფიციალური ჩანს",
+        "a": "ლოფერებთან ან მდგრად ქუსლიან ბოტილიონებთან ერთად, როგორიცაა Ustica A 101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg მიდი სიგრძე გარდაიქმნება ულტრამოდურ Urban Chic სტილის იმიჯად."
       },
       {
-        "q": "შიში იმისა, რომ ქსოვილი იქნება ჩხვლეტია მატყლის არსებობის გამო.",
+        "q": "შიში იმისა, რომ ქსოვილი იქნება ჩხვლეტია მატყლის არსებობის გამო",
         "a": "ქსოვილის შემადგენლობაში აბრეშუმისა და ბამბის დამატება ხდის ზედაპირის შიდა ნაწილს გლუვს და სასიამოვნოს შეხებისას, რაც ანეიტრალებს მატყლის ბოჭკოების ტრადიციულ სიმკაცრეს."
       },
       {
-        "q": "მელანჟის ეფექტი უფრო ნაკლებად ფორმალური ჩანს, ვიდრე გლუვი ქსოვილი.",
+        "q": "მელანჟის ეფექტი უფრო ნაკლებად ფორმალური ჩანს, ვიდრე გლუვი ქსოვილი",
         "a": "პირიქით, მელანჟი იმიჯს სძენს სიღრმესა და სტატუსურ სირთულეს. ეს არის იმ ქალების არჩევანი, რომლებიც აფასებენ ინდივიდუალობასა და მასალების ექსკლუზიურობას ყოველდღიურ საქმიან სტილში."
       }
     ],
     "hy": [
       {
         "q": "Կիսաշրջազգեստը կարող է սահմանափակել շարժումները նեղ կտրվածքի պատճառով",
-        "a": "Դիզայներները նախատեսել են հետևի մասում կենտրոնական ճեղքվածք, որը պահպանում է ուրվագծի գծերի մաքրությունը՝ միաժամանակ երաշխավորելով քայլքի լիարժեք ազատություն և հարմարավետություն նստած վիճակում"
+        "a": "Դիզայներները նախատեսել են հետևի մասում կենտրոնական ճեղքվածք, որը պահպանում է ուրվագծի գծերի մաքրությունը՝ միաժամանակ երաշխավորելով քայլքի լիարժեք ազատություն և հարմարավետություն նստած վիճակում."
       },
       {
         "q": "Ինչպե՞ս խնամել թելերի այսպիսի բարդ խառնուրդը (բուրդ, մետաքս, բամբակ)",
-        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում (dry clean only), որպեսզի երկար ժամանակ պահպանվի մելանժի սկզբնական կառուցվածքը և նետվածքների ձևը"
+        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում (dry clean only), որպեսզի երկար ժամանակ պահպանվի մելանժի սկզբնական կառուցվածքը և նետվածքների ձևը."
       },
       {
         "q": "Ծնկից ցածր երկարությունը չափազանց պաշտոնական է թվում",
-        "a": "Լոֆերների կամ կայուն կրունկով կիսաճտքավոր կոշիկների հետ համադրությամբ, ինչպիսիք են Ustica A 101, միդի երկարությունը վերածվում է Urban Chic ոճի գերժամանակակից կերպարի"
+        "a": "Լոֆերների կամ կայուն կրունկով կիսաճտքավոր կոշիկների հետ համադրությամբ, ինչպիսիք են Ustica A 101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg միդի երկարությունը վերածվում է Urban Chic ոճի գերժամանակակից կերպարի."
       },
       {
         "q": "Վախ, որ գործվածքը բրդի առկայության պատճառով կծակի",
-        "a": "Գործվածքի կազմում մետաքսի և բամբակի ավելացումը դարձնում է գործվածքի ներքին մակերեսը հարթ և շոշափելիս հաճելի՝ չեզոքացնելով բրդյա թելերի ավանդական կոշտությունը"
+        "a": "Գործվածքի կազմում մետաքսի և բամբակի ավելացումը դարձնում է գործվածքի ներքին մակերեսը հարթ և շոշափելիս հաճելի՝ չեզոքացնելով բրդյա թելերի ավանդական կոշտությունը."
       },
       {
         "q": "Մելանժային էֆեկտը ավելի քիչ պաշտոնական է երևում, քան հարթ գործվածքը",
-        "a": "Ընդհակառակը, մելանժը կերպարին հաղորդում է խորություն և կարգավիճակային բարդություն: Սա այն կանանց ընտրությունն է, ովքեր գնահատում են անհատականությունը և նյութերի բացառիկությունը առօրյա գործնական ոճում"
+        "a": "Ընդհակառակը, մելանժը կերպարին հաղորդում է խորություն և կարգավիճակային բարդություն: Սա այն կանանց ընտրությունն է, ովքեր գնահատում են անհատականությունը և նյութերի բացառիկությունը առօրյա գործնական ոճում."
       }
     ],
     "lv": [
       {
-        "q": "Svārki var ierobežot kustības šaurā piegriezuma dēļ.",
+        "q": "Svārki var ierobežot kustības šaurā piegriezuma dēļ",
         "a": "Dizaineri ir paredzējuši centrālo šķēlumu aizmugurē, kas saglabā silueta līniju tīrību, vienlaikus garantējot pilnīgu soļa brīvību un komfortu sēžot."
       },
       {
@@ -341,21 +337,21 @@
         "a": "Mēs iesakām tikai profesionālu ķīmisko tīrīšanu (dry clean only), lai uz ilgu laiku saglabātu melanžas sākotnējo struktūru un iešuves formu."
       },
       {
-        "q": "Garums zem ceļgala šķiet pārāk oficiāls.",
-        "a": "Kombinācijā ar loferiem vai potīšzābakiem uz stabila papēža, tādiem kā Ustica A 101, midi garums transformējas par ultramodernu tēlu Urban Chic stilā."
+        "q": "Garums zem ceļgala šķiet pārāk oficiāls",
+        "a": "Kombinācijā ar loferiem vai potīšzābakiem uz stabila papēža, tādiem kā Ustica A 101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg midi garums transformējas par ultramodernu tēlu Urban Chic stilā."
       },
       {
-        "q": "Bailes, ka audums būs ass vilnas klātbūtnes dēļ.",
+        "q": "Bailes, ka audums būs ass vilnas klātbūtnes dēļ",
         "a": "Zīda un kokvilnas pievienošana auduma sastāvam padara auduma iekšējo virsmu gludu un patīkamu pieskārienam, neitralizējot tradicionālo vilnas šķiedru stingrību."
       },
       {
-        "q": "Melanžas efekts izskatās mazāk formāli nekā gluds audums.",
+        "q": "Melanžas efekts izskatās mazāk formāli nekā gluds audums",
         "a": "Gluži pretēji, melanža piešķir tēlam dziļumu un statusa sarežģītību. Tā ir izvēle sievietēm, kuras novērtē materiālu individualitāti un ekskluzivitāti ikdienas lietišķajā stilā."
       }
     ],
     "lt": [
       {
-        "q": "Sijonas gali varžyti judesius dėl siauro kirpimo.",
+        "q": "Sijonas gali varžyti judesius dėl siauro kirpimo",
         "a": "Dizaineriai numatė centrinį skeltuką nugarinėje dalyje, kuris išsaugo silueto linijų grynumą, kartu garantuodamas visišką žingsnio laisvę ir patogumą sėdint."
       },
       {
@@ -363,21 +359,21 @@
         "a": "Rekomenduojame išskirtinai profesionalų cheminį valymą (dry clean only), kad ilgam išsaugotumėte pirminę melanžo struktūrą ir įsiuvų formą."
       },
       {
-        "q": "Ilgis žemiau kelių atrodo per daug oficialiai.",
-        "a": "Derinant su loaferiais ar aulinukais stabiliu kulnu, tokiais kaip Ustica A 101, midi ilgis virsta ultramoderniu Urban Chic stiliaus įvaizdžiu."
+        "q": "Ilgis žemiau kelių atrodo per daug oficialiai",
+        "a": "Derinant su loaferiais ar aulinukais stabiliu kulnu, tokiais kaip Ustica A 101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg midi ilgis virsta ultramoderniu Urban Chic stiliaus įvaizdžiu."
       },
       {
-        "q": "Baimė, kad audinys bus šiurkštus dėl vilnos sudėties.",
+        "q": "Baimė, kad audinys bus šiurkštus dėl vilnos sudėties",
         "a": "Šilko ir medvilnės įmaišymas į audinio sudėtį daro vidinį paviršių glotnų ir malonų liesti, neutralizuojant tradicinį vilnos pluošto kietumą."
       },
       {
-        "q": "Melanžo efektas atrodo mažiau formaliai nei glotnus audinys.",
+        "q": "Melanžo efektas atrodo mažiau formaliai nei glotnus audinys",
         "a": "Priešingai, melanžas suteikia įvaizdžiui gylio ir statuso. Tai pasirinkimas moterų, vertinančių individualumą ir medžiagų išskirtinumą kasdieniame verslo stiliuje."
       }
     ],
     "pl": [
       {
-        "q": "Spódnica może krępować ruchy ze względu na wąski krój.",
+        "q": "Spódnica może krępować ruchy ze względu na wąski krój",
         "a": "Projektanci przewidzieli centralne rozcięcie z tyłu, które zachowuje czystość linii sylwetki, gwarantując jednocześnie pełną swobodę kroku i komfort podczas siedzenia."
       },
       {
@@ -385,21 +381,21 @@
         "a": "Zalecamy wyłącznie profesjonalne czyszczenie chemiczne (dry clean only), aby na długo zachować pierwotną strukturę melanżu oraz formę zaszewek."
       },
       {
-        "q": "Długość poniżej kolana wydaje się zbyt oficjalna.",
-        "a": "W połączeniu z mokasynami lub botkami na stabilnym obcasie, takimi jak Ustica A 101, długość midi transformuje się w ultra modny look w stylu Urban Chic."
+        "q": "Długość poniżej kolana wydaje się zbyt oficjalna",
+        "a": "W połączeniu z mokasynami lub botkami na stabilnym obcasie, takimi jak Ustica A 101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg długość midi transformuje się w ultra modny look w stylu Urban Chic."
       },
       {
-        "q": "Obawa, że tkanina będzie drapać z powodu obecności wełny.",
+        "q": "Obawa, że tkanina będzie drapać z powodu obecności wełny",
         "a": "Dodatek jedwabiu i bawełny do składu tkaniny sprawia, że wewnętrzna powierzchnia jest gładka i przyjemna w dotyku, neutralizując tradycyjną szorstkość włókien wełnianych."
       },
       {
-        "q": "Efekt melanżu wygląda mniej formalnie niż gładka tkanina.",
+        "q": "Efekt melanżu wygląda mniej formalnie niż gładka tkanina",
         "a": "Wręcz przeciwnie, melanż dodaje stylizacji głębi i statusowej złożoności. To wybór kobiet ceniących indywidualność i ekskluzywność materiałów w codziennym stylu biznesowym."
       }
     ],
     "uk": [
       {
-        "q": "Спідниця може сковувати рухи через вузький крій.",
+        "q": "Спідниця може сковувати рухи через вузький крій",
         "a": "Дизайнери передбачили центральну шліцу ззаду, яка зберігає чистоту ліній силуету, при цьому гарантуючи повну свободу кроку та комфорт при сидінні."
       },
       {
@@ -407,15 +403,15 @@
         "a": "Ми рекомендуємо виключно професійну хімчистку (dry clean only), щоб надовго зберегти первозданну структуру меланжу та форму виточок."
       },
       {
-        "q": "Довжина нижче коліна здається занадто офіційною.",
-        "a": "У поєднанні з лоферами або ботильйонами на стійкому підборі, такими як Ustica A 101, довжина міді трансформується в ультрамодний образ у стилі Urban Chic."
+        "q": "Довжина нижче коліна здається занадто офіційною",
+        "a": "У поєднанні з лоферами або ботильйонами на стійкому підборі, такими як Ustica A 101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/USTICA_10100000000.jpg довжина міді трансформується в ультрамодний образ у стилі Urban Chic."
       },
       {
-        "q": "Побоювання, що тканина буде колотися через наявність вовни.",
+        "q": "Побоювання, що тканина буде колотися через наявність вовни",
         "a": "Додавання шовку та бавовни до складу полотна робить внутрішню поверхню тканини гладкою і приємною на дотик, нейтралізуючи традиційну жорсткість вовняних волокон."
       },
       {
-        "q": "Меланжевий ефект виглядає менш формально, ніж гладка тканина.",
+        "q": "Меланжевий ефект виглядає менш формально, ніж гладка тканина",
         "a": "Навпаки, меланж надає образу глибини та статусної складності. Це вибір жінок, які цінують індивідуальність та ексклюзивність матеріалів у повсякденному діловому стилі."
       }
     ]

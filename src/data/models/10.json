@@ -249,15 +249,15 @@
   "objections": {
     "en": [
       {
-        "q": "A sleeveless waistcoat seems impractical for true winter weather.",
+        "q": "A sleeveless waistcoat seems impractical for true winter weather",
         "a": "It is precisely the absence of sleeves that makes it versatile for indoor and office wear, while the high cashmere content guarantees excellent thermoregulation beneath outerwear."
       },
       {
-        "q": "Concern that carded wool may feel uncomfortable against the skin.",
+        "q": "Concern that carded wool may feel uncomfortable against the skin",
         "a": "Thanks to the addition of cashmere and the high quality of the wool finishing, the waistcoat has a silky texture and is exceptionally pleasant against the body."
       },
       {
-        "q": "The design seems too understated.",
+        "q": "The design seems too understated",
         "a": "This is precisely where the true elegance of 'Quiet Luxury' lies. The horn-effect buttons and ribbed trim are details that convey the piece's high status without excess ostentation."
       },
       {
@@ -265,65 +265,61 @@
         "a": "We recommend professional cleaning or gentle hand-washing in cool water with specialized wool detergents, to preserve the fibers' plush structure."
       },
       {
-        "q": "The model may look too voluminous.",
+        "q": "The model may look too voluminous",
         "a": "The Regular fit is designed to skim the figure delicately. The dropped shoulder creates an on-trend silhouette without overburdening the look with excess volume."
       }
     ],
     "ru": [
       {
-        "q": "Жилет без рукавов кажется непрактичным для настоящей зимы.",
-        "a": "Именно отсутствие рукавов делает его универсальным для помещений и офисов, а высокое содержание кашемира гарантирует отличную терморегуляцию под верхней одеждой."
+        "q": "A sleeveless waistcoat seems impractical for true winter weather",
+        "a": "Именно отсутствие рукавов делает его универсальным для офисных и интерьерных образов, а высокое содержание кашемира обеспечивает превосходную терморегуляцию под верхней одеждой."
       },
       {
-        "q": "Боязнь, что кардная шерсть будет вызывать дискомфорт на коже.",
-        "a": "Благодаря добавлению кашемира и высокому качеству выделки шерсти, жилет обладает шелковистой текстурой и максимально приятен к телу."
+        "q": "Concern that carded wool may feel uncomfortable against the skin",
+        "a": "Благодаря добавлению кашемира и высокому качеству финишной обработки шерсти, жилет обладает шелковистой фактурой и исключительно приятен к телу."
       },
       {
-        "q": "Дизайн кажется слишком лаконичным.",
-        "a": "В этом кроется истинная элегантность 'тихой роскоши'. Пуговицы с эффектом рога и отделка в рубчик — это детали, которые говорят о высоком статусе изделия без лишнего пафоса."
+        "q": "The design seems too understated",
+        "a": "В этом и заключается истинная элегантность «тихой роскоши». Пуговицы с эффектом рога и отделка в рубчик — детали, подчеркивающие высокий статус изделия без излишней демонстративности."
       },
       {
-        "q": "Как ухаживать за таким деликатным трикотажем?",
-        "a": "Мы рекомендуем профессиональную чистку или бережную ручную стирку в прохладной воде со специальными средствами для шерсти, чтобы сохранить объемную структуру волокон."
+        "q": "How should such delicate knitwear be cared for?",
+        "a": "Мы рекомендуем профессиональную чистку или деликатную ручную стирку в прохладной воде со специализированными средствами для шерсти, чтобы сохранить пушистую структуру волокон."
       },
       {
-        "q": "Модель может выглядеть слишком объемной.",
-        "a": "Посадка Regular fit разработана так, чтобы деликатно облегать фигуру. Спущенное плечо создает актуальный силуэт, не перегружая образ лишним объемом."
+        "q": "The model may look too voluminous",
+        "a": "Крой Regular fit деликатно очерчивает фигуру. Спущенная линия плеча создает актуальный силуэт, не перегружая образ излишним объемом."
       }
     ],
     "ar": [
       {
-        "q": "تبدو السترة بدون أكمام غير عملية لفصل الشتاء الحقيقي.",
+        "q": "تبدو السترة بدون أكمام غير عملية لفصل الشتاء الحقيقي",
         "a": "إن غياب الأكمام تحديداً يجعلها قطعة متعددة الاستخدامات في الأماكن المغلقة والمكاتب، كما يضمن المحتوى العالي من الكشمير تنظيماً حرارياً ممتازاً تحت الملابس الخارجية."
       },
       {
-        "q": "الخوف من أن يسبب الصوف الممشط عدم الراحة على الجلد.",
+        "q": "الخوف من أن يسبب الصوف الممشط عدم الراحة على الجلد",
         "a": "بفضل إضافة الكشمير وجودة معالجة الصوف العالية، تتمتع السترة بملمس حريري وهي لطيفة للغاية على الجسم."
       },
       {
-        "q": "يبدو التصميم بسيطاً للغاية.",
-        "a": "تكمن الفخامة الحقيقية هنا في \"الفخامة الهادئة\". الأزرار ذات تأثير القرن والحواف المحبوكة هي تفاصيل تعبر عن المكانة العالية للقطعة دون تكلف مبالغ فيه."
+        "q": "يبدو التصميم بسيطاً للغاية",
+        "a": "تكمن الفخامة الحقيقية هنا في \"الفخامة الهادئة\". الأزرار ذات تأثير القرن والحواف المحبوكة هي تفاصيل تعبر عن المكانة العالية للقطعة دون تكلف مبالغ فيه. «كيف يتم العناية بتريكو دقيق كهذا؟» نوصي بالتنظيف المهني أو الغسيل اليدوي اللطيف بالماء البارد مع مستحضرات خاصة للصوف للحفاظ على البنية الحجمية للألياف."
       },
       {
-        "q": "كيف يتم العناية بتريكو دقيق كهذا؟",
-        "a": "نوصي بالتنظيف المهني أو الغسيل اليدوي اللطيف بالماء البارد مع مستحضرات خاصة للصوف للحفاظ على البنية الحجمية للألياف."
-      },
-      {
-        "q": "قد يبدو الموديل ضخماً جداً.",
+        "q": "قد يبدو الموديل ضخماً جداً",
         "a": "قصة Regular fit صُممت لتعانق القوام برقة. الكتف الساقط يخلق صورة ظلية عصرية دون إثقال الإطلالة بحجم إضافي."
       }
     ],
     "ka": [
       {
-        "q": "სახელოების გარეშე ჟილეტი არაპრაქტიკული ჩანს ნამდვილი ზამთრისთვის.",
+        "q": "სახელოების გარეშე ჟილეტი არაპრაქტიკული ჩანს ნამდვილი ზამთრისთვის",
         "a": "სწორედ სახელოების არარსებობა ხდის მას უნივერსალურს ოფისებსა და დახურულ სივრცეებში, ხოლო ქაშმირის მაღალი შემცველობა უზრუნველყოფს შესანიშნავ თერმორეგულაციას ზედა სამოსის ქვეშ."
       },
       {
-        "q": "შიში იმისა, რომ კარდული მატყლი გამოიწვევს დისკომფორტს კანზე.",
+        "q": "შიში იმისა, რომ კარდული მატყლი გამოიწვევს დისკომფორტს კანზე",
         "a": "ქაშმირის დამატებისა და მატყლის დამუშავების მაღალი ხარისხის წყალობით, ჟილეტს აქვს აბრეშუმისებრი ტექსტურა და მაქსიმალურად სასიამოვნოა ტანისთვის."
       },
       {
-        "q": "დიზაინი ზედმეტად ლაკონიური ჩანს.",
+        "q": "დიზაინი ზედმეტად ლაკონიური ჩანს",
         "a": "სწორედ ამაში მდგომარეობს 'მშვიდი ფუფუნების' ჭეშმარიტი ელეგანტურობა. რქის ეფექტის ღილები და ნაქსოვი დეტალები — ეს ის დეტალებია, რომლებიც ზედმეტი პათოსის გარეშე მეტყველებს ნაკეთობის მაღალ სტატუსზე."
       },
       {
@@ -331,43 +327,43 @@
         "a": "ჩვენ გირჩევთ პროფესიონალურ წმენდას ან ფრთხილ ხელის რეცხვას გრილ წყალში მატყლისთვის განკუთვნილი სპეციალური საშუალებებით, რათა შეინარჩუნოთ ბოჭკოების მოცულობითი სტრუქტურა."
       },
       {
-        "q": "მოდელი შესაძლოა ზედმეტად მოცულობითი ჩანდეს.",
+        "q": "მოდელი შესაძლოა ზედმეტად მოცულობითი ჩანდეს",
         "a": "Regular fit მორგება შემუშავებულია ისე, რომ დელიკატურად შემოუყვეს ფიგურას. ჩამოწეული მხარი ქმნის აქტუალურ სილუეტს, ზედმეტი მოცულობით ლუქის გადატვირთვის გარეშე."
       }
     ],
     "hy": [
       {
         "q": "Առանց թևքերի ժիլետը թվում է ոչ գործնական բուն ձմռան համար",
-        "a": "Հենց թևքերի բացակայությունն է այն դարձնում ունիվերսալ տարածքների և գրասենյակների համար, իսկ քաշմիրի բարձր պարունակությունը երաշխավորում է գերազանց ջերմակարգավորում վերնազգեստի տակ"
+        "a": "Հենց թևքերի բացակայությունն է այն դարձնում ունիվերսալ տարածքների և գրասենյակների համար, իսկ քաշմիրի բարձր պարունակությունը երաշխավորում է գերազանց ջերմակարգավորում վերնազգեստի տակ."
       },
       {
         "q": "Վախ, որ կարդային բուրդը կարող է անհարմարություն առաջացնել մաշկի վրա",
-        "a": "Քաշմիրի ավելացման և բրդի մշակման բարձր որակի շնորհիվ ժիլետն ունի մետաքսանման հյուսվածք և առավելագույնս հաճելի է մարմնին"
+        "a": "Քաշմիրի ավելացման և բրդի մշակման բարձր որակի շնորհիվ ժիլետն ունի մետաքսանման հյուսվածք և առավելագույնս հաճելի է մարմնին."
       },
       {
         "q": "Դիզայնը թվում է չափազանց լակոնիկ",
-        "a": "Սրանում է կայանում 'լուռ շքեղության' իսկական էլեգանտությունը: Եղջյուրի էֆեկտով կոճակները և կողավոր եզրագոտիները այն դետալներն են, որոնք խոսում են իրի բարձր կարգավիճակի մասին՝ առանց ավելորդ պաթոսի"
+        "a": "Սրանում է կայանում 'լուռ շքեղության' իսկական էլեգանտությունը: Եղջյուրի էֆեկտով կոճակները և կողավոր եզրագոտիները այն դետալներն են, որոնք խոսում են իրի բարձր կարգավիճակի մասին՝ առանց ավելորդ պաթոսի."
       },
       {
         "q": "Ինչպե՞ս խնամել այսպիսի նուրբ տրիկոտաժը",
-        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ մաքրում կամ զգույշ ձեռքով լվացում սառը ջրում՝ բրդի համար նախատեսված հատուկ միջոցներով, որպեսզի պահպանվի մանրաթելերի ծավալուն կառուցվածքը"
+        "a": "Մենք խորհուրդ ենք տալիս պրոֆեսիոնալ մաքրում կամ զգույշ ձեռքով լվացում սառը ջրում՝ բրդի համար նախատեսված հատուկ միջոցներով, որպեսզի պահպանվի մանրաթելերի ծավալուն կառուցվածքը."
       },
       {
         "q": "Մոդելը կարող է չափազանց ծավալուն երևալ",
-        "a": "Regular fit կտրվածքը մշակված է այնպես, որ նրբորեն գրկի կազմվածքը: Իջեցված ուսը ստեղծում է ակտուալ ուրվագիծ՝ չծանրաբեռնելով կերպարը ավելորդ ծավալով"
+        "a": "Regular fit կտրվածքը մշակված է այնպես, որ նրբորեն գրկի կազմվածքը: Իջեցված ուսը ստեղծում է ակտուալ ուրվագիծ՝ չծանրաբեռնելով կերպարը ավելորդ ծավալով."
       }
     ],
     "lv": [
       {
-        "q": "Astere bez piedurknēm šķiet nepraktiska īstai ziemai.",
+        "q": "Astere bez piedurknēm šķiet nepraktiska īstai ziemai",
         "a": "Tieši piedurkņu neesamība padara to universālu telpām un birojiem, bet augstais kašmira saturs garantē lielisku termoregulāciju zem virsdrēbēm."
       },
       {
-        "q": "Bailes, ka kārstā vilna izraisīs diskomfortu uz ādas.",
+        "q": "Bailes, ka kārstā vilna izraisīs diskomfortu uz ādas",
         "a": "Pateicoties kašmira pievienojumam un augstajai vilnas apstrādes kvalitātei, vestei piemīt zīdaina tekstūra, un tā ir maksimāli patīkama ķermenim."
       },
       {
-        "q": "Dizains šķiet pārāk lakonisks.",
+        "q": "Dizains šķiet pārāk lakonisks",
         "a": "Tajā slēpjas patiesa 'klusās greznības' elegance. Pogas ar raga efektu un rievotā apdare ir detaļas, kas liecina par izstrādājuma augsto statusu bez lieka patosa."
       },
       {
@@ -375,21 +371,21 @@
         "a": "Mēs iesakām profesionālo tīrīšanu vai saudzīgu mazgāšanu ar rokām vēsā ūdenī ar speciāliem līdzekļiem vilnai, lai saglabātu šķiedru apjomīgo struktūru."
       },
       {
-        "q": "Modelis var izskatīties pārāk apjomīgs.",
+        "q": "Modelis var izskatīties pārāk apjomīgs",
         "a": "Regular fit piegriezums ir izstrādāts tā, lai maigi apņemtu figūru. Nolaistais plecs rada aktuālu siluetu, nepārslogojot tēlu ar lieku apjomu."
       }
     ],
     "lt": [
       {
-        "q": "Liemenė be rankovių atrodo nepraktiška tikrai žiemai.",
+        "q": "Liemenė be rankovių atrodo nepraktiška tikrai žiemai",
         "a": "Būtent rankovių nebuvimas daro ją universalią patalpoms ir biurams, o didelis kašmyro kiekis garantuoja puikią termoreguliaciją po viršutiniais drabužiais."
       },
       {
-        "q": "Baimė, kad karšinė vilna kels diskomfortą odai.",
+        "q": "Baimė, kad karšinė vilna kels diskomfortą odai",
         "a": "Dėl kašmyro priemaišos ir aukštos vilnos apdirbimo kokybės, liemenė pasižymi švelnia tekstūra ir yra maksimaliai maloni kūnui."
       },
       {
-        "q": "Dizainas atrodo per daug lakoniškas.",
+        "q": "Dizainas atrodo per daug lakoniškas",
         "a": "Būtent čia slypi tikra „tylios prabangos“ elegancija. Rago efekto sagos ir briaunota apdaila — tai detalės, kurios byloja apie aukštą gaminio statusą be perdėto patoso."
       },
       {
@@ -397,21 +393,21 @@
         "a": "Rekomenduojame profesionalų valymą arba atsargų skalbimą rankomis vėsiame vandenyje su specialiomis priemonėmis vilnai, kad išsaugotumėte tūrinę pluoštų struktūrą."
       },
       {
-        "q": "Modelis gali atrodyti per daug tūrinis.",
+        "q": "Modelis gali atrodyti per daug tūrinis",
         "a": "„Regular fit“ kirpimas sukurtas taip, kad delikačiai priglustų prie figūros. Nuleista pečių linija sukuria aktualų siluetą, neperkraunant įvaizdžio bereikalingu tūriu."
       }
     ],
     "pl": [
       {
-        "q": "Kamizelka bez rękawów wydaje się niepraktyczna na prawdziwą zimę.",
+        "q": "Kamizelka bez rękawów wydaje się niepraktyczna na prawdziwą zimę",
         "a": "To właśnie brak rękawów czyni ją uniwersalną do wnętrz i biur, a wysoka zawartość kaszmiru gwarantuje doskonałą termoregulację pod odzieżą wierzchnią."
       },
       {
-        "q": "Obawa, że wełna czesankowa będzie powodować dyskomfort na skórze.",
+        "q": "Obawa, że wełna czesankowa będzie powodować dyskomfort na skórze",
         "a": "Dzięki dodatkowi kaszmiru i wysokiej jakości obróbce wełny, kamizelka posiada jedwabistą teksturę i jest niezwykle przyjemna dla ciała."
       },
       {
-        "q": "Design wydaje się zbyt minimalistyczny.",
+        "q": "Design wydaje się zbyt minimalistyczny",
         "a": "W tym tkwi prawdziwa elegancja „cichego luksusu”. Guziki z efektem rogu i wykończenie w prążki to detale, które świadczą o wysokim statusie produktu bez zbędnej ostentacji."
       },
       {
@@ -419,21 +415,21 @@
         "a": "Zalecamy profesjonalne czyszczenie lub delikatne pranie ręczne w chłodnej wodzie z użyciem specjalnych płynów do wełny, aby zachować przestrzenną strukturę włókien."
       },
       {
-        "q": "Model może wyglądać zbyt obszernie.",
+        "q": "Model może wyglądać zbyt obszernie",
         "a": "Krój Regular fit został zaprojektowany tak, aby delikatnie otulać sylwetkę. Obniżona linia ramion tworzy nowoczesną formę, nie przeciążając stylizacji nadmierną objętością."
       }
     ],
     "uk": [
       {
-        "q": "Жилет без рукавів здається непрактичним для справжньої зими.",
+        "q": "Жилет без рукавів здається непрактичним для справжньої зими",
         "a": "Саме відсутність рукавів робить його універсальним для приміщень і офісів, а високий вміст кашеміру гарантує відмінну терморегуляцію під верхнім одягом."
       },
       {
-        "q": "Побоювання, що кардна вовна буде викликати дискомфорт на шкірі.",
+        "q": "Побоювання, що кардна вовна буде викликати дискомфорт на шкірі",
         "a": "Завдяки додаванню кашеміру та високій якості вичинки вовни, жилет має шовковисту текстуру і максимально приємний до тіла."
       },
       {
-        "q": "Дизайн здається занадто лаконічним.",
+        "q": "Дизайн здається занадто лаконічним",
         "a": "У цьому криється справжня елегантність 'тихої розкоші'. Ґудзики з ефектом рогу та оздоблення в рубчик — це деталі, які свідчать про високий статус виробу без зайвого пафосу."
       },
       {
@@ -441,7 +437,7 @@
         "a": "Ми рекомендуємо професійну чистку або дбайливе ручне прання у прохолодній воді зі спеціальними засобами для вовни, щоб зберегти об'ємну структуру волокон."
       },
       {
-        "q": "Модель може виглядати занадто об'ємною.",
+        "q": "Модель може виглядати занадто об'ємною",
         "a": "Посадка Regular fit розроблена так, щоб делікатно облягати фігуру. Спущене плече створює актуальний силует, не перевантажуючи образ зайвим об'ємом."
       }
     ]

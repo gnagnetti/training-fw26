@@ -134,52 +134,52 @@
   "objections": {
     "en": [
       {
-        "q": "The print seems too bold.",
+        "q": "The print seems too bold",
         "a": "Explain that the solid-color border along the hem \"calms\" the pattern and keeps it from overwhelming the look. This makes the piece a timeless investment rather than a fleeting seasonal trend."
       },
       {
-        "q": "The pleats may add volume to the hips.",
+        "q": "The pleats may add volume to the hips",
         "a": "Point out the regular fit and the density of the fabric. The pleats are set to lie flat at the waist, opening only with movement, which preserves elegant proportions."
       },
       {
-        "q": "The below-the-knee length requires heels only.",
+        "q": "The below-the-knee length requires heels only",
         "a": "Suggest styling the skirt with tall boots, as the brand often does. The vertical line of the print means the piece can also be worn with low-heeled shoes without losing height."
       },
       {
-        "q": "Difficult to find a top for such a pattern.",
+        "q": "Difficult to find a top for such a pattern",
         "a": "Showcase a ready-made window-display pairing: the black Solarita 0101 jacket and white Menelao 0101 top perfectly balance the skirt's graphic pattern."
       },
       {
-        "q": "I'm afraid the pleats will lose their shape.",
+        "q": "I'm afraid the pleats will lose their shape",
         "a": "Point out Luisa Spagnoli's exceptional craftsmanship. The pleating is executed using a special technique that guarantees the pleats hold their shape even after extended wear."
       }
     ],
     "ru": [
       {
-        "q": "Принт кажется",
-        "a": "Поясните, что однотонный бордюр по низу юбки слишком «успокаивает рисунок и не дает ему доминировать. Это активным» делает модель классической инвестицией, а не просто сезонным трендом."
+        "q": "Принт кажется слишком активным",
+        "a": "Однотонная кайма по подолу «успокаивает» рисунок, не позволяя ему перегружать образ. Это делает вещь инвестицией вне времени, а не сиюминутным трендом."
       },
       {
-        "q": "Плиссе может",
-        "a": "Обратите внимание на регулярную посадку и плотность добавить объема ткани. Складки заложены так, чтобы лежать плоско в бедрам области талии, раскрываясь только при движении, что сохраняет изящество пропорций."
+        "q": "Плиссировка может добавить объема бедрам",
+        "a": "Обратите внимание на крой и плотность ткани: складки заложены так, что плотно прилегают на талии и раскрываются только при движении, сохраняя гармоничные пропорции."
       },
       {
-        "q": "Длина ниже",
-        "a": "Предложите примерить юбку с высокими сапогами, как колена требует это часто стилизует бренд. Вертикаль принта позволяет только каблук носить модель даже с обувью на низком ходу, не теряя в росте."
+        "q": "Длина ниже колена требует только каблуков",
+        "a": "Предлагаем стилизовать юбку с высокими сапогами, как это делает бренд. Вертикальная динамика принта позволяет носить ее и с обувью на низком ходу, не теряя в росте."
       },
       {
-        "q": "Сложно",
-        "a": "Продемонстрируйте готовое решение из витрины: черный подобрать верх к жакет Solarita 0101 и белый топ Menelao 0101 такому рисунку идеально уравновешивают графику юбки."
+        "q": "Сложно подобрать верх к такому принту",
+        "a": "Готовое решение: черный жакет Solarita 0101 и белый топ Menelao 0101 идеально балансируют графичность юбки."
       },
       {
-        "q": "Опасаюсь, что",
-        "a": "Укажите на высокое качество исполнения Luisa складки Spagnoli. Плиссировка выполнена по специальной разойдутся технологии, которая гарантирует сохранность формы складок даже после длительного использования."
+        "q": "Боюсь, что складки потеряют форму",
+        "a": "Это мастерство Luisa Spagnoli: плиссировка выполнена по особой технологии, гарантирующей сохранение формы даже после длительной носки."
       }
     ],
     "ar": [
       {
         "q": "النقوش تبدو مبالغاً فيها",
-        "a": "|| وضح أن الحافة السادة في أسفل التنورة تعمل على."
+        "a": "وضح أن الحافة السادة في أسفل التنورة تعمل على."
       },
       {
         "q": "تهدئة",
@@ -187,28 +187,28 @@
       },
       {
         "q": "البليسيه قد يضيف حجماً إضافياً لمنطقة الوركين",
-        "a": "|| لاحظ القياس المنتظم وكثافة القماش. الثنيات مصممة لتستقر بشكل مسطح عند الخصر، ولا تتفتح إلا أثناء الحركة، مما يحافظ على رشاقة القوام."
+        "a": "لاحظ القياس المنتظم وكثافة القماش. الثنيات مصممة لتستقر بشكل مسطح عند الخصر، ولا تتفتح إلا أثناء الحركة، مما يحافظ على رشاقة القوام."
       },
       {
         "q": "الطول أسفل الركبة يتطلب كعباً عالياً",
-        "a": "|| اقترح تجربة التنورة مع أحذية طويلة الساق، كما هو معتاد في تنسيقات العلامة التجارية. تسمح خطوط النقوش الطولية بارتداء الموديل حتى مع أحذية مسطحة دون التأثير على مظهر الطول."
+        "a": "اقترح تجربة التنورة مع أحذية طويلة الساق، كما هو معتاد في تنسيقات العلامة التجارية. تسمح خطوط النقوش الطولية بارتداء الموديل حتى مع أحذية مسطحة دون التأثير على مظهر الطول."
       },
       {
         "q": "من الصعب تنسيق قطعة علوية مع هذه النقوش",
-        "a": "|| استعرض الحل الجاهز من العرض: سترة Solarita 0101 السوداء وقميص Menelao 0101 الأبيض يوازنان رسومات التنورة بشكل مثالي."
+        "a": "استعرض الحل الجاهز من العرض: سترة Solarita 0101 السوداء وقميص Menelao 0101 الأبيض يوازنان رسومات التنورة بشكل مثالي."
       },
       {
         "q": "أخشى أن تتفكك الثنيات",
-        "a": "|| أشر إلى الجودة العالية لتنفيذ Luisa Spagnoli. البليسيه منفذ بتقنية خاصة تضمن الحفاظ على شكل الثنيات حتى بعد الاستخدام الطويل."
+        "a": "أشر إلى الجودة العالية لتنفيذ Luisa Spagnoli. البليسيه منفذ بتقنية خاصة تضمن الحفاظ على شكل الثنيات حتى بعد الاستخدام الطويل. ![](media/image16.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
       {
         "q": "პრინტი მეტისმეტად აქტიურია",
-        "a": "განუმარტეთ, რომ ქვედაკაბის ძირზე არსებული ერთფეროვანი კანტი."
+        "a": "განუმარტეთ, რომ ქვედაკაბის ძირზე არსებული ერთფეროვანი კანტი „ამშვიდებს“ ნახატს და არ აძლევს მას დომინირების საშუალებას. ეს მოდელს აქცევს კლასიკურ ინვესტიციად და არა უბრალოდ სეზონურ ტრენდად."
       },
       {
-        "q": "ამშვიდებს“ ნახატს და არ აძლევს მას დომინირების საშუალებას. ეს მოდელს აქცევს კლასიკურ ინვესტიციად და არა უბრალოდ სეზონურ ტრენდად. «პლისემ შეიძლება თეძოებზე მოცულობა დაამატოს",
+        "q": "პლისემ შეიძლება თეძოებზე მოცულობა დაამატოს",
         "a": "ყურადღება მიაქციეთ რეგულარულ მორგებასა და ქსოვილის სიმკვრივეს. ნაკეცები ისეა გათვლილი, რომ წელის არეში ბრტყლად იდოს და მხოლოდ მოძრაობისას გაიშალოს, რაც ინარჩუნებს პროპორციების მოხდენილობას."
       },
       {
@@ -221,7 +221,7 @@
       },
       {
         "q": "შიშის საფუძველი მაქვს, რომ ნაკეცები გაიშლება",
-        "a": "მიუთითეთ Luisa Spagnoli-ს შესრულების მაღალ ხარისხზე. პლისირება შესრულებულია სპეციალური ტექნოლოგიით, რაც გარანტიას იძლევა, რომ ნაკეცების ფორმა ხანგრძლივი გამოყენების შემდეგაც შენარჩუნდება."
+        "a": "მიუთითეთ Luisa Spagnoli-ს შესრულების მაღალ ხარისხზე. პლისირება შესრულებულია სპეციალური ტექნოლოგიით, რაც გარანტიას იძლევა, რომ ნაკეცების ფორმა ხანგრძლივი გამოყენების შემდეგაც შენარჩუნდება. ![](media/image16.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -247,29 +247,29 @@
       },
       {
         "q": "Վախենում եմ, որ ծալքերը կբացվեն",
-        "a": "Նշեք Luisa Spagnoli-ի կատարման բարձր որակի մասին։ Պլիսավորումը կատարված է հատուկ տեխնոլոգիայով, որը երաշխավորում է ծալքերի ձևի պահպանումը նույնիսկ երկարատև օգտագործումից հետո։."
+        "a": "Նշեք Luisa Spagnoli-ի կատարման բարձր որակի մասին։ Պլիսավորումը կատարված է հատուկ տեխնոլոգիայով, որը երաշխավորում է ծալքերի ձևի պահպանումը նույնիսկ երկարատև օգտագործումից հետո։ ![](media/image16.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Apdruka šķiet",
-        "a": "Paskaidrojiet, ka vienkrāsainā apmale svārku apakšmalā pārāk «nomierina zīmējumu un neļauj tam dominēt. Tas padara modeli par klasisku investīciju, nevis tikai sezonas tendenci."
+        "q": "Apdruka šķiet Paskaidrojiet, ka vienkrāsainā apmale svārku apakšmalā pārāk «nomierina",
+        "a": "zīmējumu un neļauj tam dominēt. Tas padara modeli par klasisku investīciju, nevis tikai sezonas tendenci."
       },
       {
-        "q": "Plisējums var",
-        "a": "Pievērsiet uzmanību regulāram piegriezumam un auduma piešķirt apjomu blīvumam. Krokas ir iestrādātas tā, lai gurnu zonā tās gurniem piegultu plakaniski, atveroties tikai kustības laikā, kas saglabā proporciju grāciju."
+        "q": "Plisējums var Pievērsiet uzmanību regulāram piegriezumam un auduma piešķirt apjomu blīvumam. Krokas ir iestrādātas tā, lai gurnu zonā tās gurniem",
+        "a": "piegultu plakaniski, atveroties tikai kustības laikā, kas saglabā proporciju grāciju."
       },
       {
         "q": "Garums zem Piestādiet piemērīt svārkus ar augstiem zābakiem, kā ceļgala prasa to bieži stilizē zīmols. Apdrukas vertikāle ļauj tikai papēdi",
         "a": "valkāt modeli pat ar zema papēža apaviem, nezaudējot auguma garumu."
       },
       {
-        "q": "Grūti",
-        "a": "Demonstrējiet gatavu risinājumu no vitrīnas: melns pieskaņot augšdaļu žakete Solarita 0101 un balts tops Menelao 0101 šādam zīmējumam ideāli līdzsvaro svārku grafiku."
+        "q": "Grūti Demonstrējiet gatavu risinājumu no vitrīnas: melns pieskaņot augšdaļu žakete Solarita 0101 un balts tops Menelao 0101 šādam zīmējumam",
+        "a": "ideāli līdzsvaro svārku grafiku."
       },
       {
-        "q": "Baidos, ka",
-        "a": "Norādiet uz Luisa Spagnoli izpildījuma augsto krokas kvalitāti. Plisējums ir izpildīts pēc speciālas izlīdīsies tehnoloģijas, kas garantē kroku formas saglabāšanos pat pēc ilgas lietošanas."
+        "q": "Baidos, ka Norādiet uz Luisa Spagnoli izpildījuma augsto krokas kvalitāti. Plisējums ir izpildīts pēc speciālas izlīdīsies",
+        "a": "tehnoloģijas, kas garantē kroku formas saglabāšanos pat pēc ilgas lietošanas. ![](media/image16.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -281,11 +281,7 @@
     "pl": [
       {
         "q": "Print wydaje się zbyt aktywny",
-        "a": "Wyjaśnij, że jednolita lamówka u dołu spódnicy."
-      },
-      {
-        "q": "uspokaja",
-        "a": "wzór i nie pozwala mu zdominować całości. To czyni model klasyczną inwestycją, a nie tylko sezonowym trendem."
+        "a": "Wyjaśnij, że jednolita lamówka u dołu spódnicy „uspokaja” wzór i nie pozwala mu zdominować całości. To czyni model klasyczną inwestycją, a nie tylko sezonowym trendem."
       },
       {
         "q": "Plisy mogą dodawać objętości w biodrach",
@@ -301,29 +297,29 @@
       },
       {
         "q": "Obawiam się, że zakładki się rozjadą",
-        "a": "Wskaż na wysoką jakość wykonania Luisa Spagnoli. Plisowanie zostało wykonane w specjalnej technologii, która gwarantuje trwałość kształtu zakładek nawet po długim użytkowaniu."
+        "a": "Wskaż na wysoką jakość wykonania Luisa Spagnoli. Plisowanie zostało wykonane w specjalnej technologii, która gwarantuje trwałość kształtu zakładek nawet po długim użytkowaniu. ![](media/image16.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "uk": [
       {
-        "q": "Принт здається",
-        "a": "Поясніть, що однотонний бордюр по низу спідниці надто «заспокоює малюнок і не дає йому домінувати. Це активним» робить модель класичною інвестицією, а не просто сезонним трендом."
+        "q": "Принт здається Поясніть, що однотонний бордюр по низу спідниці надто «заспокоює",
+        "a": "малюнок і не дає йому домінувати. Це активним» робить модель класичною інвестицією, а не просто сезонним трендом."
       },
       {
-        "q": "Плісе може",
-        "a": "Зверніть увагу на регулярну посадку та щільність додати об’єму тканини. Складки закладені так, щоб лежати пласко в бедрам області талії, розкриваючись лише під час руху, що зберігає витонченість пропорцій."
+        "q": "Плісе може Зверніть увагу на регулярну посадку та щільність додати об’єму тканини. Складки закладені так, щоб лежати пласко в бедрам",
+        "a": "області талії, розкриваючись лише під час руху, що зберігає витонченість пропорцій."
       },
       {
-        "q": "Довжина нижче",
-        "a": "Запропонуйте приміряти спідницю з високими чоботами, як коліна потребує це часто стилізує бренд. Вертикаль принту дозволяє тільки каблук носити модель навіть із взуттям на низькому ходу, не втрачаючи у зрості."
+        "q": "Довжина нижче Запропонуйте приміряти спідницю з високими чоботами, як коліна потребує це часто стилізує бренд. Вертикаль принту дозволяє тільки каблук",
+        "a": "носити модель навіть із взуттям на низькому ходу, не втрачаючи у зрості."
       },
       {
-        "q": "Складно",
-        "a": "Продемонструйте готове рішення з вітрини: чорний підібрати верх до жакет Solarita 0101 і білий топ Menelao 0101 такому малюнку ідеально врівноважують графіку спідниці."
+        "q": "Складно Продемонструйте готове рішення з вітрини: чорний підібрати верх до жакет Solarita 0101 і білий топ Menelao 0101 такому малюнку",
+        "a": "ідеально врівноважують графіку спідниці."
       },
       {
-        "q": "Побоююся, що",
-        "a": "Вкажіть на високу якість виконання Luisa складки Spagnoli. Плісирування виконано за спеціальною розійдуться технологією, яка гарантує збереження форми складок навіть після тривалого використання."
+        "q": "Побоююся, що Вкажіть на високу якість виконання Luisa складки Spagnoli. Плісирування виконано за спеціальною розійдуться",
+        "a": "технологією, яка гарантує збереження форми складок навіть після тривалого використання. ![](media/image16.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

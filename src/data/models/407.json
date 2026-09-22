@@ -170,67 +170,55 @@
   "objections": {
     "en": [
       {
-        "q": "The sequins feel too flashy.",
-        "a": "Explain that the sequins on this piece are delicately sized with a matte sheen. Paired with the understated viscose skirt, this creates a balanced «Quiet Luxury » look."
+        "q": "The sequins feel too flashy",
+        "a": " Response: Explain that the sequins on this piece are delicately sized with a matte sheen. Paired with the understated viscose skirt, this creates a balanced «Quiet Luxury » look. Objection: «I »™m concerned the back neckline is too revealing. » Response: Point out that the neckline is cut in a teardrop (goccia) shape »” a classic, restrained detail that adds a touch of sensuality while preserving an aristocratic sense of coverage. Objection."
       },
       {
-        "q": "I 'm concerned the back neckline is too revealing.",
-        "a": "Point out that the neckline is cut in a teardrop (goccia) shape — a classic, restrained detail that adds a touch of sensuality while preserving an aristocratic sense of coverage."
+        "q": "Viscose creases easily",
+        "a": " Response: Remind the client that this is a high-quality viscose blend (misto viscosa). It has sufficient body and weight to drape beautifully and recover its shape quickly. Objection."
       },
       {
-        "q": "Viscose creases easily.",
-        "a": "Remind the client that this is a high-quality viscose blend (misto viscosa). It has sufficient body and weight to drape beautifully and recover its shape quickly."
-      },
-      {
-        "q": "The maxi length is impractical for movement.",
-        "a": "The ankle-length hem (alla caviglia) is the hallmark of contemporary evening dress codes. It reveals elegant shoes and allows complete freedom of stride."
-      },
-      {
-        "q": "It 's difficult to find the right undergarments for this top.",
-        "a": "Recommend specialised seamless underwear or cups. The tulle base and dense layer of sequins conceal all construction details, ensuring a flawless fit"
+        "q": "The maxi length is impractical for movement",
+        "a": " Response: The ankle-length hem (alla caviglia) is the hallmark of contemporary evening dress codes. It reveals elegant shoes and allows complete freedom of stride. Objection: «It »™s difficult to find the right undergarments for this top. » Response: Recommend specialised seamless underwear or cups. The tulle base and dense layer of sequins conceal all construction details, ensuring a flawless fit. ![](media/image34.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Пайетки",
-        "a": "Поясните, что пайетки в этой модели имеют деликатный выглядят слишком размер и матовый отблеск. В сочетании с лаконичной вызывающе вискозной юбкой это создает сбалансированный образ в стиле."
+        "q": "Пайетки кажутся слишком броскими",
+        "a": ". Ответ: Пайетки в этой модели деликатного размера с матовым финишем. В сочетании с лаконичной юбкой из вискозы они создают сбалансированный образ в стиле."
       },
       {
-        "q": "Quiet Luxury",
-        "a": "."
+        "q": "тихой роскоши",
+        "a": ". Возражение."
       },
       {
-        "q": "Боюсь, что",
-        "a": "Укажите, что вырез выполнен в форме «капли (goccia). вырез на спине Это классический и сдержанный прием, который слишком открыт» добавляет образу ноту чувственности, сохраняя при этом аристократичную закрытость."
+        "q": "Я опасаюсь, что вырез на спине слишком открытый",
+        "a": ". Ответ: Это классический вырез."
       },
       {
-        "q": "Вискоза может",
-        "a": "Напомните, что это высококачественное смесовое сильно мяться полотно (misto viscosa). Оно обладает достаточной плотностью и весом, чтобы красиво драпироваться и быстро восстанавливать форму."
+        "q": "капля",
+        "a": "(goccia) — сдержанная деталь, добавляющая ноту чувственности при сохранении аристократичной закрытости. Возражение."
       },
       {
-        "q": "Макси-длина Длина платья до щиколотки (alla caviglia) — это неудобна для эталон современного вечернего дресс-кода. Она движения",
-        "a": "открывает изящную обувь и обеспечивает полную свободу шага."
+        "q": "Вискоза легко мнется",
+        "a": ". Ответ: Это высококачественный вискозный микс (misto viscosa). Ткань обладает достаточной плотностью, чтобы красиво драпироваться и быстро восстанавливать форму. Возражение."
       },
       {
-        "q": "Сложно",
-        "a": "Рекомендуйте использование специального бесшовного подобрать белье белья или чашек. Тюлевая основа и плотный слой под такой верх пайеток позволяют скрыть все конструктивные детали, обеспечивая идеальную посадку."
+        "q": "Длина макси непрактична при движении",
+        "a": ". Ответ: Длина до щиколотки (alla caviglia) — визитная карточка современного вечернего дресс-кода. Она открывает изящную обувь и дарит полную свободу шага. Возражение."
+      },
+      {
+        "q": "Сложно подобрать белье под этот топ",
+        "a": ". Ответ: Рекомендуем бесшовное белье или специальные чашечки. Тюлевая основа и плотный слой пайеток скрывают все конструктивные детали, обеспечивая безупречную посадку."
       }
     ],
     "ar": [
       {
         "q": "الترتر يبدو موضّحي أن الترتر في هذا الموديل يتميز بحجم دقيق وبريق غير لامع. ومع التنورة الفسكوزية مبالغاً فيه",
-        "a": "ذات التصميم البسيط، يخلق هذا التنسيق إطلالة متوازنة بأسلوب."
+        "a": "ذات التصميم البسيط، يخلق هذا التنسيق إطلالة متوازنة بأسلوب \"الفخامة الهادئة\" (Quiet Luxury)."
       },
       {
-        "q": "الفخامة الهادئة",
-        "a": "(Quiet Luxury)."
-      },
-      {
-        "q": "أخشى أن فتحة اشيري إلى أن الفتحة مصممة على شكل",
-        "a": "قطرة."
-      },
-      {
-        "q": "(goccia). هذا الأسلوب كلاسيكي ووقور الظهر مكشوفة للغاية",
+        "q": "أخشى أن فتحة اشيري إلى أن الفتحة مصممة على شكل \"قطرة\" (goccia). هذا الأسلوب كلاسيكي ووقور الظهر مكشوفة للغاية",
         "a": "يضفي لمسة من الأنوثة مع الحفاظ على الرقي والاحتشام."
       },
       {
@@ -239,7 +227,7 @@
       },
       {
         "q": "طول الماكسي غير إن طول الفستان الذي يصل إلى الكاحل (alla caviglia) يعد معياراً لعصرنا مريح للحركة",
-        "a": "في قواعد اللباس المسائي؛ فهو يبرز جمال الحذاء ويمنح حرية كاملة في الحركة. «يصعب اختيار ملابس ننصح باستخدام ملابس داخلية خاصة غير ملحومة أو قوالب صدرية (أكواب). البطانة التولية داخلية تحت هذا والطبقة الكثيفة من الترتر تسمح بإخفاء كافة التفاصيل الهيكلية، مما يضمن مظهراً مثالياً."
+        "a": "في قواعد اللباس المسائي؛ فهو يبرز جمال الحذاء ويمنح حرية كاملة في الحركة. «يصعب اختيار ملابس ننصح باستخدام ملابس داخلية خاصة غير ملحومة أو قوالب صدرية (أكواب). البطانة التولية داخلية تحت هذا والطبقة الكثيفة من الترتر تسمح بإخفاء كافة التفاصيل الهيكلية، مما يضمن مظهراً مثالياً. ![](media/image34.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -269,7 +257,7 @@
       },
       {
         "q": "რთულია თეთრეულის შერჩევა ასეთი ზედხედისთვის",
-        "a": "რეკომენდაცია გაუწიეთ სპეციალური უნაკერო თეთრეულის ან ჩაშენებული კაპების გამოყენებას. ტიულის ბაზა და პაიეტკების მკვრივი ფენა საშუალებას იძლევა დაიფაროს ყველა კონსტრუქციული დეტალი, რაც უზრუნველყოფს იდეალურ მორგებას."
+        "a": "რეკომენდაცია გაუწიეთ სპეციალური უნაკერო თეთრეულის ან ჩაშენებული კაპების გამოყენებას. ტიულის ბაზა და პაიეტკების მკვრივი ფენა საშუალებას იძლევა დაიფაროს ყველა კონსტრუქციული დეტალი, რაც უზრუნველყოფს იდეალურ მორგებას. ![](media/image34.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -299,13 +287,13 @@
       },
       {
         "q": "Դժվար է ընտրել ներքնազգեստ նման վերնամասի տակ",
-        "a": "Խորհուրդ տվեք օգտագործել հատուկ անկար ներքնազգեստ կամ կրծքակալներ։ Տյուլե հիմքը և փայլիկների խիտ շերտը թույլ են տալիս թաքցնել բոլոր կոնստրուկտիվ դետալները՝ ապահովելով կատարյալ տեսք։."
+        "a": "Խորհուրդ տվեք օգտագործել հատուկ անկար ներքնազգեստ կամ կրծքակալներ։ Տյուլե հիմքը և փայլիկների խիտ շերտը թույլ են տալիս թաքցնել բոլոր կոնստրուկտիվ դետալները՝ ապահովելով կատարյալ տեսք։ ![](media/image34.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Vizuļi izskatās",
-        "a": "Paskaidrojiet, ka šī modeļa vizuļiem ir delikāts pārāk izaicinoši izmērs un matēts spīdums. Apvienojumā ar lakoniskiem viskozes svārkiem tas rada līdzsvarotu tēlu."
+        "q": "Vizuļi izskatās Paskaidrojiet, ka šī modeļa vizuļiem ir delikāts pārāk izaicinoši",
+        "a": "izmērs un matēts spīdums. Apvienojumā ar lakoniskiem viskozes svārkiem tas rada līdzsvarotu tēlu."
       },
       {
         "q": "Quiet Luxury",
@@ -325,11 +313,11 @@
       },
       {
         "q": "Maksi garums ir neērts kustībām",
-        "a": "Kleitas garums līdz potītei (alla caviglia) — tas ir mūsdienu vakara dreskoda etalons. Tas atklāj elegantus apavus un nodrošina pilnīgu soļa brīvību."
+        "a": "Kleitas garums līdz potītei (alla caviglia) --- tas ir mūsdienu vakara dreskoda etalons. Tas atklāj elegantus apavus un nodrošina pilnīgu soļa brīvību."
       },
       {
         "q": "Grūti piemeklēt veļu šādai augšdaļai",
-        "a": "Iesakiet izmantot īpašu bezšuvju veļu vai krūšturus. Tilla pamats un blīvais vizuļu slānis ļauj noslēpt visas konstruktīvās detaļas, nodrošinot ideālu piegulumu."
+        "a": "Iesakiet izmantot īpašu bezšuvju veļu vai krūšturus. Tilla pamats un blīvais vizuļu slānis ļauj noslēpt visas konstruktīvās detaļas, nodrošinot ideālu piegulumu. ![](media/image34.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -378,28 +366,28 @@
     ],
     "uk": [
       {
-        "q": "Пайєтки",
-        "a": "Поясніть, що пайєтки у цій моделі мають делікатний виглядають надто розмір і матовий відблиск. У поєднанні з лаконічною зухвало віскозною спідницею це створює збалансований образ у стилі."
+        "q": "Пайєтки Поясніть, що пайєтки у цій моделі мають делікатний виглядають надто розмір і матовий відблиск. У поєднанні з лаконічною зухвало",
+        "a": "віскозною спідницею це створює збалансований образ у стилі."
       },
       {
         "q": "Quiet Luxury",
         "a": "."
       },
       {
-        "q": "Боюся, що",
-        "a": "Вкажіть, що виріз виконаний у формі «краплі (goccia). виріз на спині Це класичний і стриманий прийом, який надто відкритий» додає образу ноту чуттєвості, зберігаючи при цьому аристократичну закритість."
+        "q": "Боюся, що Вкажіть, що виріз виконаний у формі «краплі",
+        "a": "(goccia). виріз на спині Це класичний і стриманий прийом, який надто відкритий» додає образу ноту чуттєвості, зберігаючи при цьому аристократичну закритість."
       },
       {
-        "q": "Віскоза може",
-        "a": "Нагадайте, що це високоякісне змісове сильно м’ятися полотно (misto viscosa). Воно володіє достатньою щільністю і вагою, щоб гарно драпіруватися і швидко відновлювати форму."
+        "q": "Віскоза може Нагадайте, що це високоякісне змісове сильно м’ятися",
+        "a": "полотно (misto viscosa). Воно володіє достатньою щільністю і вагою, щоб гарно драпіруватися і швидко відновлювати форму."
       },
       {
-        "q": "Максі-довжина Довжина сукні до щиколотки (alla caviglia) — це незручна для еталон сучасного вечірнього дрес-коду. Вона руху",
+        "q": "Максі-довжина Довжина сукні до щиколотки (alla caviglia) --- це незручна для еталон сучасного вечірнього дрес-коду. Вона руху",
         "a": "відкриває витончене взуття і забезпечує повну свободу кроку."
       },
       {
         "q": "Складно Рекомендуйте використання спеціальної безшовної підібрати білизну білизни або чашок. Тюлева основа і щільний шар під такий верх",
-        "a": "пайєток дозволяють приховати всі конструктивні деталі, забезпечуючи ідеальну посадку."
+        "a": "пайєток дозволяють приховати всі конструктивні деталі, забезпечуючи ідеальну посадку. ![](media/image34.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

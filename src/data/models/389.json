@@ -299,46 +299,46 @@
   "objections": {
     "en": [
       {
-        "q": "Too much volume at the hips.",
+        "q": "Too much volume at the hips",
         "a": "Explain that the box pleats are set to lie flat at the waistline, releasing their fullness only below the hips, which keeps the hip area slender."
       },
       {
-        "q": "The slit seems too revealing.",
+        "q": "The slit seems too revealing",
         "a": "Point out that, at rest, the slit is concealed within the pleat's fold, and only reveals itself with a wide stride, keeping the look elegantly discreet."
       },
       {
-        "q": "The maxi length is impractical for city life.",
+        "q": "The maxi length is impractical for city life",
         "a": "Suggest pairing the skirt with the Stelle 0919 jacket, as shown in window display No. 75. This proves the piece adapts beautifully to an active city pace."
       },
       {
-        "q": "The pleating feels too formal.",
+        "q": "The pleating feels too formal",
         "a": "Demonstrate styling with the Maica 2050 knit vest. The combination of the skirt's tailored form and soft knitwear creates a relaxed, contemporary look."
       },
       {
-        "q": "Hard to find a top for this length.",
+        "q": "Hard to find a top for this length",
         "a": "Recommend tucking in tops (such as the Barberino 0201 shirt) to highlight the waistband detail and maintain balanced proportions."
       }
     ],
     "ru": [
       {
-        "q": "Слишком много объема",
-        "a": "Поясните, что встречные складки заложены таким на бедрах образом, чтобы лежать плоско у основания талии, раскрываясь в объеме только ниже, что сохраняет изящество бедер."
+        "q": "Слишком много объема на бедрах",
+        "a": "Складки заложены так, чтобы плотно прилегать к талии и раскрываться лишь ниже бедер, что сохраняет изящество силуэта."
       },
       {
-        "q": "Разрез кажется",
-        "a": "Укажите на то, что в статичном положении слишком открытым разрез скрыт в глубине складки и проявляет себя только при широком шаге, сохраняя элегантную сдержанность."
+        "q": "Разрез кажется слишком откровенным",
+        "a": "В статике разрез скрыт в складке и проявляется лишь при широком шаге, сохраняя элегантную сдержанность."
       },
       {
-        "q": "Макси-длина неудобна",
-        "a": "Предложите примерить юбку с курткой Stelle для города 0919, как в витрине №75. Это доказывает, что модель отлично адаптируется к активному городскому ритму."
+        "q": "Длина макси непрактична для города",
+        "a": "Сочетание с жакетом Stelle 0919 (витрина №75) доказывает, что изделие идеально адаптируется к активному городскому ритму."
       },
       {
-        "q": "Плиссировка/складки",
-        "a": "Продемонстрируйте стайлинг с трикотажным — это слишком жилетом Maica 2050. Сочетание строгой официально формы юбки и мягкого трикотажа делает образ расслабленным и современным."
+        "q": "Плиссировка выглядит слишком официально",
+        "a": "Попробуйте стайлинг с трикотажным жилетом Maica 2050: сочетание архитектурного кроя юбки и мягкого трикотажа создает расслабленный, современный образ."
       },
       {
-        "q": "Сложно подобрать верх",
-        "a": "Рекомендуйте заправлять плечевые изделия к такой длине (например, рубашку Barberino 0201) внутрь, чтобы подчеркнуть конструкцию пояса и сохранить правильные пропорции фигуры."
+        "q": "Сложно подобрать верх к такой длине",
+        "a": "Рекомендую заправлять топы (например, рубашку Barberino 0201), чтобы подчеркнуть линию талии и сохранить гармонию пропорций."
       }
     ],
     "ar": [
@@ -360,7 +360,7 @@
       },
       {
         "q": "من الصعب تنسيق قطعة علوية مع هذا الطول",
-        "a": "ننصح بإدخال القطع العلوية (مثل قميص Barberino 0201) داخل التنورة لإبراز تصميم الخصر والحفاظ على التناسب الصحيح للقوام."
+        "a": "ننصح بإدخال القطع العلوية (مثل قميص Barberino 0201) داخل التنورة لإبراز تصميم الخصر والحفاظ على التناسب الصحيح للقوام. ![](media/image13.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -377,12 +377,12 @@
         "a": "შესთავაზეთ ქვედაბოლოს მოსინჯვა ქურთუკთან Stelle 0919, როგორც №75 ვიტრინაში. ეს ამტკიცებს, რომ მოდელი შესანიშნავად ადაპტირდება ქალაქის აქტიურ რიტმთან."
       },
       {
-        "q": "პლისე/ნაკეცები — ეს ზედმეტად ოფიციალურია",
+        "q": "პლისე/ნაკეცები --- ეს ზედმეტად ოფიციალურია",
         "a": "წარმოადგინეთ სტაილინგი ნაქსოვი ჟილეტით Maica 2050. ქვედაბოლოს მკაცრი ფორმისა და რბილი ნაქსოვის შეხამება იმიჯს ხდის თავისუფალსა და თანამედროვეს."
       },
       {
         "q": "რთულია ასეთი სიგრძისთვის ზედა ნაწილის შერჩევა",
-        "a": "რეკომენდაცია გაუწიეთ მხრებიანი ნივთების (მაგალითად, პერანგი Barberino 0201) შიგნით ჩატანებას, რათა ხაზი გაესვას წელის კონსტრუქციას და შენარჩუნდეს ფიგურის სწორი პროპორციები."
+        "a": "რეკომენდაცია გაუწიეთ მხრებიანი ნივთების (მაგალითად, პერანგი Barberino 0201) შიგნით ჩატანებას, რათა ხაზი გაესვას წელის კონსტრუქციას და შენარჩუნდეს ფიგურის სწორი პროპორციები. ![](media/image13.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -404,7 +404,7 @@
       },
       {
         "q": "Դժվար է վերնահագուստ ընտրել նման երկարության համար",
-        "a": "Խորհուրդ տվեք վերնահագուստը (օրինակ՝ Barberino 0201 վերնաշապիկը) ներս մտցնել, որպեսզի ընդգծեք գոտկատեղի կառուցվածքը և պահպանեք կազմվածքի ճիշտ համամասնությունները։."
+        "a": "Խորհուրդ տվեք վերնահագուստը (օրինակ՝ Barberino 0201 վերնաշապիկը) ներս մտցնել, որպեսզի ընդգծեք գոտկատեղի կառուցվածքը և պահպանեք կազմվածքի ճիշտ համամասնությունները։ ![](media/image13.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
@@ -421,12 +421,12 @@
         "a": "Piedāvājiet piemērīt svārkus ar jaku Stelle 0919, kā vitrīnā Nr. 75. Tas pierāda, ka modelis lieliski adaptējas aktīvajam pilsētas ritmam."
       },
       {
-        "q": "Plisējums/ieloces — tas ir pārāk oficiāli",
+        "q": "Plisējums/ieloces --- tas ir pārāk oficiāli",
         "a": "Demonstrējiet stailinga risinājumu ar trikotāžas vesti Maica 2050. Stingrās svārku formas un mīkstās trikotāžas kombinācija padara tēlu brīvu un mūsdienīgu."
       },
       {
         "q": "Grūti piemeklēt augšiņu šādam garumam",
-        "a": "Iesakiet ievilkt plecu izstrādājumus (piemēram, kreklu Barberino 0201) iekšā, lai uzsvērtu jostas konstrukciju un saglabātu pareizas figūras proporcijas."
+        "a": "Iesakiet ievilkt plecu izstrādājumus (piemēram, kreklu Barberino 0201) iekšā, lai uzsvērtu jostas konstrukciju un saglabātu pareizas figūras proporcijas. ![](media/image13.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -488,7 +488,7 @@
       },
       {
         "q": "Складно підібрати верх до такої довжини",
-        "a": "Рекомендуйте заправляти плечові вироби (наприклад, сорочку Barberino 0201) всередину, щоб підкреслити конструкцію пояса та зберегти правильні пропорції фігури."
+        "a": "Рекомендуйте заправляти плечові вироби (наприклад, сорочку Barberino 0201) всередину, щоб підкреслити конструкцію пояса та зберегти правильні пропорції фігури. ![](media/image13.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

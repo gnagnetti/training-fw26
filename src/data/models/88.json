@@ -123,195 +123,199 @@
   "objections": {
     "en": [
       {
-        "q": "Tulle and lace seem too delicate for a long evening.",
+        "q": "Tulle and lace seem too delicate for a long evening",
         "a": "The Guizzante piece is crafted from premium-grade materials with a densely woven structure, and the embroidery is securely fastened, guaranteeing the piece's longevity with professional care."
       },
       {
-        "q": "The absence of sleeves may be uncomfortable in a cool room.",
+        "q": "The absence of sleeves may be uncomfortable in a cool room",
         "a": "This piece pairs beautifully with our fur Richiesta stoles, which add warmth and luxury to your evening look."
       },
       {
-        "q": "A floor-length hem seems too impractical for movement.",
+        "q": "A floor-length hem seems too impractical for movement",
         "a": "The cut of the dress is designed to be worn with a high heel, such as our Unica A shoes, allowing the hem to glide elegantly and create a slender vertical silhouette."
       },
       {
-        "q": "Concern that the dress may appear too sheer.",
+        "q": "Concern that the dress may appear too sheer",
         "a": "The piece is fully lined with an opaque under-slip, ensuring absolute comfort and impeccable propriety even under the brightest lighting."
       },
       {
-        "q": "Black may seem too dull for a celebration.",
+        "q": "Black may seem too dull for a celebration",
         "a": "In this instance, black serves as a canvas for the interplay of textures: the contrast between matte tulle, textured lace, and shimmering embroidery lends the look depth and dimension."
       }
     ],
     "ru": [
       {
-        "q": "Тюль и кружево кажутся слишком хрупкими для долгого вечера.",
-        "a": "Для модели Guizzante используются материалы премиум-класса с высокой плотностью плетения, а вышивка надежно зафиксирована, что гарантирует долговечность изделия при профессиональном уходе."
+        "q": "Тюль и кружево кажутся слишком хрупкими для долгого вечера",
+        "a": "Изделие Guizzante выполнено из материалов премиального качества с плотной структурой плетения, а вышивка надежно закреплена, что гарантирует безупречный вид при профессиональном уходе."
       },
       {
-        "q": "Отсутствие рукавов может быть некомфортным в прохладном помещении.",
-        "a": "Эта модель идеально сочетается с нашими меховыми столами Richiesta, которые добавят тепла и роскоши вашему выходу."
+        "q": "Отсутствие рукавов может быть некомфортным в прохладном зале",
+        "a": "Это изделие идеально сочетается с нашими меховыми палантинами Richiesta, которые добавят тепла и роскоши вашему вечернему образу."
       },
       {
-        "q": "Длина в пол кажется слишком сложной для передвижения.",
-        "a": "Крой платья рассчитан на использование высокого каблука, например, наших туфель Unica A, что позволяет подолу изящно скользить, создавая стройную вертикаль силуэта."
+        "q": "Длина в пол кажется непрактичной для движения",
+        "a": "Крой платья предполагает ношение с высоким каблуком, например, с нашими туфлями Unica A, что позволяет подолу струиться, создавая утонченный вертикальный силуэт."
       },
       {
-        "q": "Боюсь, что платье будет выглядеть слишком прозрачным.",
-        "a": "Модель полностью посажена на непрозрачный чехол-подкладку, обеспечивая абсолютный комфорт и соблюдение этикета даже при самом ярком освещении."
+        "q": "Опасение, что платье может просвечивать",
+        "a": "Изделие полностью дополнено непрозрачной нижней комбинацией, обеспечивающей абсолютный комфорт и безупречную эстетику даже при самом ярком освещении."
       },
       {
-        "q": "Черный цвет может выглядеть скучно для торжества.",
-        "a": "В данном случае черный цвет служит полотном для игры фактур: контраст между матовым тюлем, рельефным кружевом и мерцающей вышивкой делает образ глубоким и многогранным."
+        "q": "Черный цвет может показаться слишком скучным для торжества",
+        "a": "В данном случае черный служит холстом для игры фактур: контраст матового тюля, рельефного кружева и мерцающей вышивки придает образу глубину и объем."
       }
     ],
     "ar": [
       {
-        "q": "يبدو التول والدانتيل هشين جداً لأمسية طويلة.",
+        "q": "يبدو التول والدانتيل هشين جداً لأمسية طويلة",
         "a": "نستخدم في موديل Guizzante خامات فاخرة ذات كثافة حياكة عالية، كما أن التطريز مثبت بإحكام، مما يضمن متانة القطعة مع العناية الاحترافية."
       },
       {
-        "q": "قد يكون عدم وجود أكمام غير مريح في مكان بارد.",
-        "a": "يتماشى هذا الموديل بشكل مثالي مع أوشحة الفرو Richiesta التي تضفي الدفء والفخامة على إطلالتك."
+        "q": "قد يكون عدم وجود أكمام غير مريح في مكان بارد",
+        "a": "يتماشى هذا الموديل بشكل مثالي مع أوشحة الفرو Richiesta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg التي تضفي الدفء والفخامة على إطلالتك."
       },
       {
-        "q": "يبدو الطول الذي يصل للأرض صعباً في الحركة.",
+        "q": "يبدو الطول الذي يصل للأرض صعباً في الحركة",
         "a": "تم حساب قصة الفستان لتناسب ارتداء كعب عالٍ، مثل حذاء Unica A الخاص بنا، مما يسمح للحاشية بالانسياب برقة، مما يخلق خطاً طولياً متناسقاً للقوام."
       },
       {
-        "q": "أخشى أن يبدو الفستان شفافاً أكثر من اللازم.",
+        "q": "أخشى أن يبدو الفستان شفافاً أكثر من اللازم",
         "a": "الموديل مبطن بالكامل ببطانة غير شفافة، مما يضمن الراحة المطلقة والالتزام بقواعد اللياقة حتى تحت أقوى الإضاءات."
       },
       {
-        "q": "قد يبدو اللون الأسود مملاً للمناسبات.",
+        "q": "قد يبدو اللون الأسود مملاً للمناسبات",
         "a": "في هذه الحالة، يعمل اللون الأسود كلوحة تبرز تباين الأنسجة: فالتباين بين التول المطفأ، والدانتيل البارز، والتطريز اللامع يضفي على الإطلالة عمقاً وتعدداً في الأبعاد."
       }
     ],
     "ka": [
       {
-        "q": "ტიული და მაქმანი ზედმეტად მყიფე ჩანს გრძელი საღამოსთვის.",
+        "q": "ტიული და მაქმანი ზედმეტად მყიფე ჩანს გრძელი საღამოსთვის",
         "a": "Guizzante-ს მოდელისთვის გამოიყენება პრემიუმ-კლასის მასალები მაღალი სიმკვრივის ქსოვით, ხოლო ნაქარგები მყარად არის დაფიქსირებული, რაც გარანტიას იძლევა ნაკეთობის გამძლეობისა პროფესიონალური მოვლის პირობებში."
       },
       {
-        "q": "სახელოების არარსებობა შეიძლება არაკომფორტული იყოს გრილ სათავსოში.",
-        "a": "ეს მოდელი იდეალურად ეხამება ჩვენს Richiesta-ს ბეწვის მოსასხამებს, რომლებიც სითბოსა და ფუფუნებას შემატებს თქვენს გასასვლელს."
+        "q": "სახელოების არარსებობა შეიძლება არაკომფორტული იყოს გრილ სათავსოში",
+        "a": "ეს მოდელი იდეალურად ეხამება ჩვენს Richiesta-ს ბეწვის მოსასხამებს (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg რომლებიც სითბოსა და ფუფუნებას შემატებს თქვენს გასასვლელს."
       },
       {
-        "q": "იატაკამდე სიგრძე გადაადგილებისთვის ზედმეტად რთული ჩანს.",
+        "q": "იატაკამდე სიგრძე გადაადგილებისთვის ზედმეტად რთული ჩანს",
         "a": "კაბის ჭრილი გათვლილია მაღალი ქუსლის გამოყენებაზე, მაგალითად, ჩვენი Unica A ფეხსაცმელების, რაც საშუალებას აძლევს კაბის ბოლოს მოხდენილად დასრიალდეს და შექმნას სილუეტის წვრილი ვერტიკალი."
       },
       {
-        "q": "მეშინია, რომ კაბა ზედმეტად გამჭვირვალე გამოჩნდება.",
+        "q": "მეშინია, რომ კაბა ზედმეტად გამჭვირვალე გამოჩნდება",
         "a": "მოდელი სრულად არის დასმული გაუმჭვირვალე სარჩულზე, რაც უზრუნველყოფს აბსოლუტურ კომფორტს და ეტიკეტის დაცვას ყველაზე კაშკაშა განათების დროსაც კი."
       },
       {
-        "q": "შავი ფერი ზეიმისთვის შეიძლება მოსაწყენად გამოიყურებოდეს.",
+        "q": "შავი ფერი ზეიმისთვის შეიძლება მოსაწყენად გამოიყურებოდეს",
         "a": "ამ შემთხვევაში შავი ფერი ემსახურება როგორც ტილო ფაქტურების თამაშისთვის: კონტრასტი მქრქალ ტიულს, რელიეფურ მაქმანსა და მოციმციმე ნაქარგს შორის იმიჯს სიღრმესა და მრავალფეროვნებას სძენს."
       }
     ],
     "hy": [
       {
         "q": "Տյուլն ու ժանյակը չափազանց փխրուն են թվում երկար երեկոյի համար",
-        "a": "Guizzante մոդելի համար օգտագործվում են բարձր խտության հյուսվածքով պրեմիում դասի նյութեր, իսկ ասեղնագործությունը հուսալիորեն ֆիքսված է, ինչը երաշխավորում է արտադրանքի երկարակեցությունը պրոֆեսիոնալ խնամքի դեպքում։"
+        "a": "Guizzante մոդելի համար օգտագործվում են բարձր խտության հյուսվածքով պրեմիում դասի նյութեր, իսկ ասեղնագործությունը հուսալիորեն ֆիքսված է, ինչը երաշխավորում է արտադրանքի երկարակեցությունը պրոֆեսիոնալ խնամքի դեպքում։."
       },
       {
         "q": "Թևերի բացակայությունը կարող է անհարմար լինել սառը տարածքում",
-        "a": "Այս մոդելը կատարյալ համադրվում է մեր Richiesta մորթե շալերի հետ, որոնք ջերմություն և շքեղություն կհաղորդեն ձեր ելքին։"
+        "a": "Այս մոդելը կատարյալ համադրվում է մեր Richiesta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg մորթե շալերի հետ, որոնք ջերմություն և շքեղություն կհաղորդեն ձեր ելքին։."
       },
       {
         "q": "Գետնին հասնող երկարությունը չափազանց բարդ է թվում տեղաշարժվելու համար",
-        "a": "Զգեստի ձևվածքը հաշվարկված է բարձր կրունկի օգտագործման համար, օրինակ՝ մեր Unica A կոշիկները, ինչը թույլ է տալիս փեշին նրբագեղ սահել՝ ստեղծելով ուրվագծի բարակ ուղղահայաց գիծ։"
+        "a": "Զգեստի ձևվածքը հաշվարկված է բարձր կրունկի օգտագործման համար, օրինակ՝ մեր Unica A կոշիկները, ինչը թույլ է տալիս փեշին նրբագեղ սահել՝ ստեղծելով ուրվագծի բարակ ուղղահայաց գիծ։."
       },
       {
         "q": "Վախենում եմ, որ զգեստը չափազանց թափանցիկ կլինի",
-        "a": "Մոդելը լիովին նստեցված է ոչ թափանցիկ աստառ-պատյանի վրա՝ ապահովելով բացարձակ հարմարավետություն և էթիկայի պահպանում նույնիսկ ամենավառ լուսավորության ներքո։"
+        "a": "Մոդելը լիովին նստեցված է ոչ թափանցիկ աստառ-պատյանի վրա՝ ապահովելով բացարձակ հարմարավետություն և էթիկայի պահպանում նույնիսկ ամենավառ լուսավորության ներքո։."
       },
       {
         "q": "Սև գույնը կարող է ձանձրալի թվալ հանդիսության համար",
-        "a": "Այս դեպքում սև գույնը ծառայում է որպես կտավ հյուսվածքների խաղի համար. մատու տյուլի, ռելիեֆային ժանյակի և փայլփլող ասեղնագործության միջև հակադրությունը կերպարը դարձնում է խորը և բազմակողմանի։"
+        "a": "Այս դեպքում սև գույնը ծառայում է որպես կտավ հյուսվածքների խաղի համար. մատու տյուլի, ռելիեֆային ժանյակի և փայլփլող ասեղնագործության միջև հակադրությունը կերպարը դարձնում է խորը և բազմակողմանի։."
       }
     ],
     "lv": [
       {
-        "q": "Tills un mežģīnes šķiet pārāk trausli garam vakaram.",
+        "q": "Tills un mežģīnes šķiet pārāk trausli garam vakaram",
         "a": "Modelim Guizzante tiek izmantoti augstākās klases materiāli ar augstu pinuma blīvumu, un izšuvumi ir droši nostiprināti, kas garantē izstrādājuma ilgmūžību, veicot profesionālu kopšanu."
       },
       {
-        "q": "Piedurkņu trūkums var būt neērti vēsās telpās.",
-        "a": "Šis modelis lieliski saskan ar mūsu kažokādas stolām Richiesta, kas piešķirs siltumu un greznību jūsu tēlam."
+        "q": "Piedurkņu trūkums var būt neērti vēsās telpās",
+        "a": "Šis modelis lieliski saskan ar mūsu kažokādas stolām Richiesta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg kas piešķirs siltumu un greznību jūsu tēlam."
       },
       {
-        "q": "Garums līdz grīdai šķiet pārāk sarežģīts pārvietošanās laikā.",
+        "q": "Garums līdz grīdai šķiet pārāk sarežģīts pārvietošanās laikā",
         "a": "Kleitas piegriezums ir rēķināts augsta papēža izmantošanai, piemēram, mūsu kurpēm Unica A, kas ļauj apakšmalai graciozi slīdēt, veidojot slaidu silueta vertikāli."
       },
       {
-        "q": "Baidos, ka kleita izskatīsies pārāk caurspīdīga.",
+        "q": "Baidos, ka kleita izskatīsies pārāk caurspīdīga",
         "a": "Modelis ir pilnībā uzlikts uz necaurspīdīgas odere-kārtas, nodrošinot absolūtu komfortu un etiķetes ievērošanu pat pie visspilgtākā apgaismojuma."
       },
       {
-        "q": "Melnā krāsa var izskatīties garlaicīgi svinībām.",
+        "q": "Melnā krāsa var izskatīties garlaicīgi svinībām",
         "a": "Šajā gadījumā melnā krāsa kalpo kā audekls faktūru spēlei: kontrasts starp matētu tillu, reljefām mežģīnēm un mirdzošiem izšuvumiem padara tēlu dziļu un daudzpusīgu."
       }
     ],
     "lt": [
       {
-        "q": "Tiulis ir nėriniai atrodo pernelyg trapūs ilgam vakarui.",
+        "q": "Tiulis ir nėriniai atrodo pernelyg trapūs ilgam vakarui",
         "a": "Modeliui Guizzante naudojamos aukščiausios klasės medžiagos su dideliu audimo tankiu, o siuvinėjimas patikimai užfiksuotas, kas garantuoja gaminio ilgaamžiškumą profesionaliai prižiūrint."
       },
       {
-        "q": "Rankovių nebuvimas gali būti nepatogus vėsioje patalpoje.",
-        "a": "Šis modelis idealiai dera su mūsų kailine skraiste Richiesta, kuri suteiks jūsų įvaizdžiui šilumos ir prabangos."
+        "q": "Rankovių nebuvimas gali būti nepatogus vėsioje patalpoje",
+        "a": "Šis modelis idealiai dera su mūsų kailine skraiste Richiesta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg kuri suteiks jūsų įvaizdžiui šilumos ir prabangos."
       },
       {
-        "q": "Ilgis iki žemės atrodo pernelyg sudėtingas judėjimui.",
+        "q": "Ilgis iki žemės atrodo pernelyg sudėtingas judėjimui",
         "a": "Suknelės kirpimas pritaikytas aukštam kulnui, pavyzdžiui, mūsų bateliams Unica A, kas leidžia apvadui grakščiai slysti, sukuriant liekną vertikalią silueto liniją."
       },
       {
-        "q": "Bijau, kad suknelė atrodys pernelyg perregima.",
+        "q": "Bijau, kad suknelė atrodys pernelyg perregima",
         "a": "Modelis turi nepermatomą pamušalą, užtikrinantį visišką komfortą ir etiketo laikymąsi net esant ryškiausiam apšvietimui."
       },
       {
-        "q": "Juoda spalva gali atrodyti nuobodi šventei.",
+        "q": "Juoda spalva gali atrodyti nuobodi šventei",
         "a": "Šiuo atveju juoda spalva tarnauja kaip drobė faktūrų žaismui: kontrastas tarp matinio tiulio, reljefinių nėrinių ir žvilgančių siuvinėjimų suteikia įvaizdžiui gylio ir daugialypiškumo."
       }
     ],
     "pl": [
       {
-        "q": "Tiul i koronka wydają się zbyt delikatne na długi wieczór.",
+        "q": "Tiul i koronka wydają się zbyt delikatne na długi wieczór",
         "a": "W modelu Guizzante zastosowano materiały klasy premium o wysokiej gęstości splotu, a hafty są solidnie zamocowane, co gwarantuje trwałość produktu przy profesjonalnej pielęgnacji."
       },
       {
-        "q": "Brak rękawów może być niekomfortowy w chłodniejszym pomieszczeniu.",
-        "a": "Ten model idealnie komponuje się z naszymi futrzanymi etolami Richiesta, które dodadzą ciepła i luksusu Twojej stylizacji."
+        "q": "Brak rękawów może być niekomfortowy w chłodniejszym pomieszczeniu",
+        "a": "Ten model idealnie komponuje się z naszymi futrzanymi etolami Richiesta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg które dodadzą ciepła i luksusu Twojej stylizacji."
       },
       {
-        "q": "Długość do ziemi wydaje się zbyt skomplikowana w poruszaniu się.",
+        "q": "Długość do ziemi wydaje się zbyt skomplikowana w poruszaniu się",
         "a": "Krój sukni został przewidziany pod wysoki obcas, na przykład nasze czółenka Unica A, co pozwala dołowi sukni wytwornie się układać, tworząc smukłą pionową linię sylwetki."
       },
       {
-        "q": "Obawiam się, że sukienka będzie wyglądać na zbyt przezroczystą.",
+        "q": "Obawiam się, że sukienka będzie wyglądać na zbyt przezroczystą",
         "a": "Model posiada pełną, nieprzezroczystą halkę-podszewkę, zapewniając absolutny komfort i zachowanie etykiety nawet w bardzo jasnym oświetleniu."
       },
       {
-        "q": "Czarny kolor może wyglądać zbyt nudno na uroczystość.",
+        "q": "Czarny kolor może wyglądać zbyt nudno na uroczystość",
         "a": "W tym przypadku czerń służy jako płótno dla gry faktur: kontrast między matowym tiulem, wypukłą koronką a mieniącymi się haftami nadaje stylizacji głębi i wielowymiarowości."
       }
     ],
     "uk": [
       {
-        "q": "Тюль і мереживо здаються занадто крихкими для довгого вечора.",
+        "q": "Тюль і мереживо здаються занадто крихкими для довгого вечора",
         "a": "Для моделі Guizzante використовуються матеріали преміумкласу з високою щільністю плетіння, а вишивка надійно зафіксована, що гарантує довговічність виробу при професійному догляді."
       },
       {
-        "q": "Довжина в підлогу здається занадто складною для пересування.",
+        "q": "Відсутність рукавів може бути некомфортною у прохолодному приміщенні",
+        "a": "Ця модель ідеально поєднується з нашими хутряними столами Richiesta (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/SUhN7iLCTHOki93FohJ7SA_1829183330696f422a5f3470_92647349_02801450XX1.jpg які додадуть тепла та розкоші вашому виходу."
+      },
+      {
+        "q": "Довжина в підлогу здається занадто складною для пересування",
         "a": "Крій сукні розрахований на використання високих підборів, наприклад, наших туфель Unica A, що дозволяє подолу витончено ковзати, створюючи струнку вертикаль силуету."
       },
       {
-        "q": "Боюся, що сукня виглядатиме занадто прозорою.",
+        "q": "Боюся, що сукня виглядатиме занадто прозорою",
         "a": "Модель повністю посаджена на непрозорий чохол-підкладку, забезпечуючи абсолютний комфорт і дотримання етикету навіть при найяскравішому освітленні."
       },
       {
-        "q": "Чорний колір може виглядати нудно для урочистості.",
+        "q": "Чорний колір може виглядати нудно для урочистості",
         "a": "У даному випадку чорний колір слугує полотном для гри фактур: контраст між матовим тюлем, рельєфним мереживом і мерехтливою вишивкою робить образ глибоким та багатогранним."
       }
     ]

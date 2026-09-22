@@ -220,50 +220,46 @@
   "objections": {
     "en": [
       {
-        "q": "The leather skirt is too bold.",
+        "q": "The leather skirt is too bold",
         "a": "Show the lookbook styling with the Casilda knitwear. The soft textured knots and pastel tones of the cardigan neutralize the leather's \"edge,\" creating a refined bon ton look."
       },
       {
-        "q": "Hard to find a top to match this color.",
+        "q": "Hard to find a top to match this color",
         "a": "Point to the window-display pairings: the skirt harmonizes beautifully with white (the Leila 0201 shirt), black (the Slaturnio 2104 down jacket), and natural wool tones."
       },
       {
-        "q": "Leather isn't suitable for cold winters.",
+        "q": "Leather isn't suitable for cold winters",
         "a": "Showcase window display No. 51, styled with the Stenografo coat. Natural leather offers excellent wind protection, and layered with wool pieces, it delivers exceptional warmth."
       },
       {
-        "q": "I'm afraid the leather will stretch out.",
+        "q": "I'm afraid the leather will stretch out",
         "a": "Explain that Luisa Spagnoli uses premium-quality nappa leather, which holds its shape thanks to expert tanning and professional pattern-cutting."
       },
       {
-        "q": "The vintage effect looks worn out.",
-        "a": "Explain that this is an intentional design choice — a \"vintage treatment\" — that creates the effect of a piece with history, a hallmark of the premium luxury segment."
+        "q": "The vintage effect looks worn out",
+        "a": "Explain that this is an intentional design choice »” a \"vintage treatment\" »” that creates the effect of a piece with history, a hallmark of the premium luxury segment."
       }
     ],
     "ru": [
       {
-        "q": "Кожаная юбка",
-        "a": "Покажите стилизацию из lookbook с трикотажем — это слишком Casilda. Мягкие фактурные узлы и пастельные дерзко профили кардигана нейтрализуют."
+        "q": "Кожаная юбка — это слишком смело",
+        "a": "Посмотрите стайлинг с трикотажем Casilda: мягкая фактура и пастельные тона кардигана нейтрализуют «дерзость» кожи, создавая утонченный образ в стиле bon ton."
       },
       {
-        "q": "агрессию",
-        "a": "кожи, создавая образ в стиле bon ton."
+        "q": "Сложно подобрать верх в тон",
+        "a": "Обратите внимание на витринные сочетания: юбка гармонирует с белым (рубашка Leila 0201), черным (пуховик Slaturnio 2104) и натуральными шерстяными оттенками."
       },
       {
-        "q": "Сложно",
-        "a": "Обратите внимание на витринные решения: юбка подобрать верх к идеально гармонирует с белым (рубашка Leila такому цвету 0201), черным (пуховик Slaturnio 2104) и натуральными оттенками шерсти."
+        "q": "Кожа не подходит для холодной зимы",
+        "a": "Витрина №51 с пальто Stenografo доказывает: натуральная кожа отлично защищает от ветра, а в многослойных образах с шерстью обеспечивает исключительное тепло."
       },
       {
-        "q": "Кожа не",
-        "a": "Продемонстрируйте образ из витрины №51 с пальто подходит для Stenografo. Натуральная кожа отлично защищает от холодной зимы ветра, а в сочетании с шерстяными слоями обеспечивает исключительное тепло."
+        "q": "Боюсь, кожа растянется",
+        "a": "Luisa Spagnoli использует наппу премиального качества, которая держит форму благодаря экспертной выделке и профессиональному крою."
       },
       {
-        "q": "Боюсь, что кожа",
-        "a": "Поясните, что Luisa Spagnoli использует кожу наппа растянется высокого качества, которая сохраняет форму благодаря правильной выделке и профессиональному крою."
-      },
-      {
-        "q": "Винтажный",
-        "a": "Объясните, что это намеренный дизайнерский прием эффект выглядит «vintage treatment , создающий эффект вещи с как потертость» историей, что является признаком дорогого люксового сегмента."
+        "q": "Винтажный эффект выглядит поношенным",
+        "a": "Это намеренный дизайнерский прием — «винтажная обработка», создающая эффект изделия с историей, что является отличительной чертой сегмента люкс."
       }
     ],
     "ar": [
@@ -289,21 +285,17 @@
       },
       {
         "q": "تأثير الطراز القديم (Vintage) يبدو وكأنه تلف",
-        "a": "نوضح أن هذا خيار تصميمي مقصود."
-      },
-      {
-        "q": "vintage treatment",
-        "a": "يضفي طابعاً تاريخياً للقطعة، وهو دليل على رقي الفئة الفاخرة."
+        "a": "نوضح أن هذا خيار تصميمي مقصود \"vintage treatment\"، يضفي طابعاً تاريخياً للقطعة، وهو دليل على رقي الفئة الفاخرة. ![](media/image10.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image11.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image12.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
       {
-        "q": "ტყავის ქვედაბოლო — ეს ზედმეტად თამამია",
+        "q": "ტყავის ქვედაბოლო --- ეს ზედმეტად თამამია",
         "a": "აჩვენეთ სტილიზაცია lookbook-იდან Casilda-ს ნაქსოვ სამოსთან ერთად. რბილი ფაქტურული კვანძები და კარდიგანის პასტელური პროფილები ანეიტრალებს ტყავის."
       },
       {
         "q": "აგრესიას",
-        "a": "რაც ქმნის bon ton სტილის იმიჯს."
+        "a": ", რაც ქმნის bon ton სტილის იმიჯს."
       },
       {
         "q": "რთულია ასეთი ფერისთვის ზედა ნაწილის შერჩევა",
@@ -323,7 +315,7 @@
       },
       {
         "q": "vintage treatment",
-        "a": "რომელიც ქმნის ისტორიის მქონე ნივთის ეფექტს, რაც ძვირადღირებული ლუქს სეგმენტის ნიშანია."
+        "a": ", რომელიც ქმნის ისტორიის მქონე ნივთის ეფექტს, რაც ძვირადღირებული ლუქს სეგმენტის ნიშანია. ![](media/image10.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image11.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image12.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -353,17 +345,17 @@
       },
       {
         "q": "vintage treatment",
-        "a": "հնարք է, որը ստեղծում է պատմություն ունեցող իրի տպավորություն, ինչը թանկարժեք լյուքս սեգմենտի նշան է։."
+        "a": "հնարք է, որը ստեղծում է պատմություն ունեցող իրի տպավորություն, ինչը թանկարժեք լյուքս սեգմենտի նշան է։ ![](media/image10.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image11.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image12.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Ādas svārki — tas ir pārāk drosmīgi",
+        "q": "Ādas svārki --- tas ir pārāk drosmīgi",
         "a": "Parādiet stilizāciju no lookbook ar trikotāžu Casilda. Mīkstie teksturētie mezgli un kardigāna pasteļtoņu profili neitralizē ādas."
       },
       {
         "q": "agresivitāti",
-        "a": "radot tēlu bon ton stilā."
+        "a": ", radot tēlu bon ton stilā."
       },
       {
         "q": "Grūti piemeklēt augšiņu šādai krāsai",
@@ -383,7 +375,7 @@
       },
       {
         "q": "vintage treatment",
-        "a": "kas rada priekšmeta ar vēsturi efektu, kas ir dārga luksusa segmenta pazīme."
+        "a": ", kas rada priekšmeta ar vēsturi efektu, kas ir dārga luksusa segmenta pazīme. ![](media/image10.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image11.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image12.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -465,7 +457,7 @@
       },
       {
         "q": "vintage treatment",
-        "a": "який створює ефект речі з історією, що є ознакою дорогого люксового сегмента."
+        "a": ", який створює ефект речі з історією, що є ознакою дорогого люксового сегмента. ![](media/image10.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image11.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image12.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

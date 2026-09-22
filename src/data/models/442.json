@@ -325,49 +325,89 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "blouson might Point out the high cuffs and the knit structure. add bulk at the The raglan sleeve softens the shoulder line, waist» while the dense herringbone knit across the chest creates a vertical focal point that balances the volume. «A wool blend is Explain that a complex architectural knit with less prestigious diagonal elements requires the addition of than 100%» specialty fibers to maintain shape retention and the piece's longevity. «The stand collar Showcase Look 55: the buttons allow you to seems too vary the depth of the neckline. Left open, the closed» collar transforms into elegant lapels, revealing the décolletage. «The design looks On the contrary, \"British Heritage\" style is the too rustic» season's leading trend. Paired with the Lusia 3402 silk blouse or Opaglio 0927 jeans, the jacket reads as fashion-forward. «I'm worried the The dense knit and raglan cut minimize strain on knit will stretch out the fabric at the elbows, allowing the jacket to at the elbows» retain its pristine look even with regular wear"
+        "q": "The blouson might Point out the high cuffs and the knit structure. add bulk at the The raglan sleeve softens the shoulder line, waist",
+        "a": "while the dense herringbone knit across the chest creates a vertical focal point that balances the volume."
+      },
+      {
+        "q": "A wool blend is Explain that a complex architectural knit with less prestigious diagonal elements requires the addition of than 100%",
+        "a": "specialty fibers to maintain shape retention and the piece's longevity."
+      },
+      {
+        "q": "The stand collar Showcase Look 55: the buttons allow you to seems too vary the depth of the neckline. Left open, the closed",
+        "a": "collar transforms into elegant lapels, revealing the dÃ©colletage."
+      },
+      {
+        "q": "The design looks On the contrary, \"British Heritage\" style is the too rustic",
+        "a": "season's leading trend. Paired with the Lusia 3402 silk blouse or Opaglio 0927 jeans, the jacket reads as fashion-forward."
+      },
+      {
+        "q": "I'm worried the The dense knit and raglan cut minimize strain on knit will stretch out the fabric at the elbows, allowing the jacket to at the elbows",
+        "a": "retain its pristine look even with regular wear. ![](media/image93.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image94.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image95.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Блузон может",
-        "a": "Укажите на высокие манжеты и структуру вязки. Рукав полнить в зоне реглан смягчает линию плеча, а плотная вязка талии."
+        "q": "Блузон добавит объема в талии",
+        "a": "укажите на высокие манжеты и структуру вязки: рукав реглан смягчает линию плеча, а плотный узор."
       },
       {
-        "q": "елочкой",
-        "a": "на груди создает вертикальный акцент, уравновешивающий объем."
+        "q": "елочка",
+        "a": "создает вертикальный акцент, балансирующий силуэт."
       },
       {
-        "q": "Смесовая шерсть",
-        "a": "Поясните, что сложная архитектурная вязка с менее престижна, чем диагональными элементами требует добавления 100% специальных волокон для поддержания формоустойчивости и долговечности изделия."
+        "q": "Смесовая шерсть менее престижна, чем 100%",
+        "a": "объясните, что сложный архитектурный трикотаж с диагональными элементами требует добавления специальных волокон для сохранения формы и долговечности изделия."
       },
       {
-        "q": "Воротник-стойка",
-        "a": "Продемонстрируйте Look 55: пуговицы позволяют кажется слишком варьировать глубину выреза. В расстегнутом виде закрытым воротник превращается в элегантные лацканы, открывая портретную зону."
+        "q": "Воротник-стойка кажется слишком закрытым",
+        "a": "продемонстрируйте Look 55: пуговицы позволяют варьировать глубину выреза, превращая воротник в элегантные лацканы."
       },
       {
-        "q": "Дизайн выглядит Напротив, стиль «British Heritage",
-        "a": "— главный тренд слишком сезона. В сочетании с шелковой блузой Lusia 3402 по-деревенски» или джинсами Opaglio 0927 жакет выглядит остромодно."
+        "q": "Дизайн выглядит слишком просто",
+        "a": "напротив, стиль."
       },
       {
-        "q": "Боюсь, что Специфика плотной вязки и крой реглан минимизируют трикотаж растянется натяжение полотна в локтевой зоне, позволяя жакету на локтях",
-        "a": "сохранять первозданный вид при активной носке."
+        "q": "British Heritage",
+        "a": "главный тренд сезона; в сочетании с шелковой блузой Lusia 3402 или джинсами Opaglio 0927 жакет выглядит ультрамодно."
+      },
+      {
+        "q": "Боюсь, трикотаж растянется на локтях",
+        "a": "плотная вязка и крой реглан минимизируют натяжение ткани, позволяя жакету сохранять безупречный вид даже при регулярной носке."
       }
     ],
     "ar": [
       {
-        "q": "ال",
-        "a": "قد يُظهر البلوفر عيوب منطقة الخصر» أظهري الأساور العريضة وهيكل الحياكة. تصميم الأكمام بنمط \"الرجلان\" (Raglan) يلطف خط الكتف، بينما تخلق الحياكة الكثيفة بنمط \"عظمة السمكة\" على الصدر توازناً عمودياً يوازن الحجم. «الصوف المخلوط أقل قيمة من الصوف بنسبة 100%» اشرحي أن الحياكة المعمارية المعقدة مع عناصر قطرية تتطلب إضافة ألياف خاصة للحفاظ على شكل القطعة ومتانتها. «ياقة القميص تبدو مغلقة أكثر من اللازم» اعرضي الإطلالة 55: الأزرار تسمح بالتحكم في عمق فتحة العنق. عند فتحها، تتحول الياقة إلى طية صدر أنيقة، مما يبرز منطقة الوجه. «التصميم يبدو ريفياً أكثر من اللازم» على العكس، أسلوب «British Heritage» هو الاتجاه الرئيسي للموسم. عند تنسيقه مع بلوزة الحرير Lusia 3402 أو جينز Opaglio 0927، يبدو الجاكيت في غاية العصرية. «أخشى أن يتمدد التريكو عند المرفقين» طبيعة الحياكة الكثيفة وقصة \"الرجلان\" تقللان من شد النسيج في منطقة المرفق، مما يسمح للجاكيت بالحفاظ على مظهره الأصلي حتى مع الارتداء المتكرر"
+        "q": "قد يُظهر البلوفر عيوب منطقة الخصر",
+        "a": "أظهري الأساور العريضة وهيكل الحياكة. تصميم الأكمام بنمط \"الرجلان\" (Raglan) يلطف خط الكتف، بينما تخلق الحياكة الكثيفة بنمط \"عظمة السمكة\" على الصدر توازناً عمودياً يوازن الحجم."
+      },
+      {
+        "q": "الصوف المخلوط أقل قيمة من الصوف بنسبة 100%",
+        "a": "اشرحي أن الحياكة المعمارية المعقدة مع عناصر قطرية تتطلب إضافة ألياف خاصة للحفاظ على شكل القطعة ومتانتها."
+      },
+      {
+        "q": "ياقة القميص تبدو مغلقة أكثر من اللازم",
+        "a": "اعرضي الإطلالة 55: الأزرار تسمح بالتحكم في عمق فتحة العنق. عند فتحها، تتحول الياقة إلى طية صدر أنيقة، مما يبرز منطقة الوجه."
+      },
+      {
+        "q": "التصميم يبدو ريفياً أكثر من اللازم",
+        "a": "على العكس، أسلوب."
+      },
+      {
+        "q": "British Heritage",
+        "a": "هو الاتجاه الرئيسي للموسم. عند تنسيقه مع بلوزة الحرير Lusia 3402 أو جينز Opaglio 0927، يبدو الجاكيت في غاية العصرية."
+      },
+      {
+        "q": "أخشى أن يتمدد التريكو عند المرفقين",
+        "a": "طبيعة الحياكة الكثيفة وقصة \"الرجلان\" تقللان من شد النسيج في منطقة المرفق، مما يسمح للجاكيت بالحفاظ على مظهره الأصلي حتى مع الارتداء المتكرر. ![](media/image93.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image94.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image95.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
       {
         "q": "ბლუზონს შეუძლია წელის ზონაში მოცულობა მომმატოს",
-        "a": "მიუთითეთ მაღალ მანჟეტებსა და ქსოვის სტრუქტურაზე. რეგლანის სახელო არბილებს მხრის ხაზს, ხოლო მკერდზე."
+        "a": "მიუთითეთ მაღალ მანჟეტებსა და ქსოვის სტრუქტურაზე. რეგლანის სახელო არბილებს მხრის ხაზს, ხოლო მკერდზე „ნაძვისებრი“ მჭიდრო ქსოვა ქმნის ვერტიკალურ აქცენტს, რომელიც აბალანსებს მოცულობას."
       },
       {
-        "q": "ნაძვისებრი“ მჭიდრო ქსოვა ქმნის ვერტიკალურ აქცენტს, რომელიც აბალანსებს მოცულობას. «შერეული შალის შემადგენლობა 100%-იანზე ნაკლებად პრესტიჟულია",
+        "q": "შერეული შალის შემადგენლობა 100%-იანზე ნაკლებად პრესტიჟულია",
         "a": "განუმარტეთ, რომ რთული არქიტექტურული ქსოვა დიაგონალური ელემენტებით მოითხოვს სპეციალური ბოჭკოების დამატებას ნაწარმის ფორმის მდგრადობისა და გამძლეობის შესანარჩუნებლად."
       },
       {
@@ -376,11 +416,11 @@
       },
       {
         "q": "დიზაინი ზედმეტად სოფლური ჩანს",
-        "a": "პირიქით."
+        "a": "პირიქით, „British Heritage“-ის სტილი სეზონის მთავარი ტრენდია. აბრეშუმის ბლუზა Lusia 3402-თან ან ჯინსებთან Opaglio 0927 კომბინაციაში ჟაკეტი უახლეს მოდად გამოიყურება."
       },
       {
-        "q": "British Heritage“-ის სტილი სეზონის მთავარი ტრენდია. აბრეშუმის ბლუზა Lusia 3402-თან ან ჯინსებთან Opaglio 0927 კომბინაციაში ჟაკეტი უახლეს მოდად გამოიყურება. «მეშინია, რომ ტრიკოტაჟი იდაყვებთან გაიწელება",
-        "a": "მჭიდრო ქსოვის სპეციფიკა და რეგლანის ჭრილი ამცირებს ქსოვილის დაჭიმულობას იდაყვის ზონაში, რაც ჟაკეტს საშუალებას აძლევს შეინარჩუნოს პირვანდელი სახე აქტიური ტარების დროს."
+        "q": "მეშინია, რომ ტრიკოტაჟი იდაყვებთან გაიწელება",
+        "a": "მჭიდრო ქსოვის სპეციფიკა და რეგლანის ჭრილი ამცირებს ქსოვილის დაჭიმულობას იდაყვის ზონაში, რაც ჟაკეტს საშუალებას აძლევს შეინარჩუნოს პირვანდელი სახე აქტიური ტარების დროს. ![](media/image93.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image94.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image95.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -402,7 +442,7 @@
       },
       {
         "q": "Դիզայնը չափազանց գեղջուկ տեսք ունի",
-        "a": "՝ Ընդհակառակը."
+        "a": "՝ Ընդհակառակը,."
       },
       {
         "q": "British Heritage",
@@ -410,21 +450,21 @@
       },
       {
         "q": "Վախենում եմ, որ տրիկոտաժը արմունկների հատվածում կձգվի",
-        "a": "՝ Խիտ հյուսվածքի և ռեգլան ձևվածքի առանձնահատկությունը նվազագույնի է հասցնում լարվածությունը արմունկների հատվածում՝ թույլ տալով բաճկոնին պահպանել իր նախնական տեսքը ակտիվ կրելու ընթացքում։."
+        "a": "՝ Խիտ հյուսվածքի և ռեգլան ձևվածքի առանձնահատկությունը նվազագույնի է հասցնում լարվածությունը արմունկների հատվածում՝ թույլ տալով բաճկոնին պահպանել իր նախնական տեսքը ակտիվ կրելու ընթացքում։ ![](media/image93.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image94.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image95.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Blūzone var",
-        "a": "Norādiet uz augstajām manšetēm un adījuma struktūru. Reglana piedurknes padarīt pilnīgāku līnija mīkstina plecu līniju, savukārt blīvais «eglītes raksts vidukļa zonā» uz krūtīm rada vertikālu akcentu, kas līdzsvaro apjomu."
+        "q": "Blūzone var Norādiet uz augstajām manšetēm un adījuma struktūru. Reglana piedurknes padarīt pilnīgāku līnija mīkstina plecu līniju, savukārt blīvais «eglītes",
+        "a": "raksts vidukļa zonā» uz krūtīm rada vertikālu akcentu, kas līdzsvaro apjomu."
       },
       {
-        "q": "Jaukta vilna",
-        "a": "Izskaidrojiet, ka sarežģītā arhitektoniskā adījuma tehnika ar mazāk prestiža nekā diagonāliem elementiem prasa pievienot īpašas 100% šķiedras, lai saglabātu izstrādājuma formu un ilgmūžību."
+        "q": "Jaukta vilna Izskaidrojiet, ka sarežģītā arhitektoniskā adījuma tehnika ar mazāk prestiža nekā diagonāliem elementiem prasa pievienot īpašas 100%",
+        "a": "šķiedras, lai saglabātu izstrādājuma formu un ilgmūžību."
       },
       {
-        "q": "Stāvapkakle šķiet",
-        "a": "Demonstrējiet Look 55: pogas ļauj variēt kakla izgriezuma pārāk slēgta dziļumu. Atpogātā veidā apkakle pārvēršas elegantās atlokās, atsedzot portreta zonu."
+        "q": "Stāvapkakle šķiet Demonstrējiet Look 55: pogas ļauj variēt kakla izgriezuma pārāk slēgta",
+        "a": "dziļumu. Atpogātā veidā apkakle pārvēršas elegantās atlokās, atsedzot portreta zonu."
       },
       {
         "q": "Dizains izskatās Gluži pretēji, «British Heritage",
@@ -432,7 +472,7 @@
       },
       {
         "q": "Baidos, ka trikotāža Trikotāžas blīvuma specifika un reglana piegriezums izstaipīsies uz elkoņiem",
-        "a": "samazina spriegojumu audumā elkoņu zonā, ļaujot žaketei saglabāt nevainojamu izskatu arī aktīvā valkāšanā."
+        "a": "samazina spriegojumu audumā elkoņu zonā, ļaujot žaketei saglabāt nevainojamu izskatu arī aktīvā valkāšanā. ![](media/image93.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image94.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image95.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -498,11 +538,11 @@
       },
       {
         "q": "British Heritage",
-        "a": "— головний тренд сезону. У поєднанні з шовковою блузою Lusia 3402 або джинсами Opaglio 0927 жакет виглядає гостромодно."
+        "a": "головний тренд сезону. У поєднанні з шовковою блузою Lusia 3402 або джинсами Opaglio 0927 жакет виглядає гостромодно."
       },
       {
         "q": "Боюся, що трикотаж розтягнеться на ліктях",
-        "a": "Специфіка щільної в'язки та крій реглан мінімізують натяг полотна в ліктьовій зоні, дозволяючи жакету зберігати первозданний вигляд при активному носінні."
+        "a": "Специфіка щільної в'язки та крій реглан мінімізують натяг полотна в ліктьовій зоні, дозволяючи жакету зберігати первозданний вигляд при активному носінні. ![](media/image93.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image94.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image95.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

@@ -180,50 +180,46 @@
   "objections": {
     "en": [
       {
-        "q": "The jacquard fabric looks too heavy.",
+        "q": "The jacquard fabric looks too heavy",
         "a": "Explain that the fabric's density is an advantage: the skirt holds its A-line shape perfectly and won't lose its structure with wear, staying flawless season after season."
       },
       {
-        "q": "I'm afraid the skirt will come open while walking.",
+        "q": "I'm afraid the skirt will come open while walking",
         "a": "Point out the wrap construction. Luisa Spagnoli's design allows for ample fabric overlap, securely held by a tie belt and an interior button."
       },
       {
-        "q": "The pattern seems too complicated to pair with a top.",
+        "q": "The pattern seems too complicated to pair with a top",
         "a": "Show ready-made window-display pairings: the skirt is beautifully tempered by the solid-color Manos 2435 knitwear or the classic white Lucinda 0201 shirt."
       },
       {
-        "q": "The mini length isn't for me.",
+        "q": "The mini length isn't for me",
         "a": "Suggest styling the piece with opaque matte tights and the tall Ulisside 0101 0038 boots, as shown in the lookbook. This creates a stylish vertical line and visually smooths the length."
       },
       {
-        "q": "Jacquard is associated with vintage.",
-        "a": "Emphasize the modern finishing touches — the eco-leather trim and gold buckle — which elevate the piece from \"retro\" into the fashion-forward \"luxury heritage\" category."
+        "q": "Jacquard is associated with vintage",
+        "a": "Emphasize the modern finishing touches »” the eco-leather trim and gold buckle »” which elevate the piece from \"retro\" into the fashion-forward \"luxury heritage\" category."
       }
     ],
     "ru": [
       {
-        "q": "Гобелен выглядит",
-        "a": "Объясните, что плотность ткани — это слишком тяжелым преимущество: юбка идеально держит форму трапеции и не деформируется при носке, сохраняя безупречный вид."
+        "q": "Жаккард кажется слишком плотным",
+        "a": "Плотность этой ткани — наше преимущество: юбка безупречно держит архитектурный А-силуэт, сохраняя форму сезон за сезоном."
       },
       {
-        "q": "Боюсь, что юбка",
-        "a": "Укажите на конструкцию «с запахом . Дизайн Luisa будет открываться при Spagnoli предусматривает достаточный нахлест ходьбе» ткани, который надежно фиксируется ремешком и внутренней пуговицей."
+        "q": "Боюсь, что юбка распахнется при ходьбе",
+        "a": "Обратите внимание на конструкцию с запахом: Luisa Spagnoli предусматривает глубокий нахлест, который надежно фиксируется поясом и потайной пуговицей."
       },
       {
-        "q": "Рисунок кажется",
-        "a": "Покажите готовые решения из витрин: юбка слишком сложным для великолепно усмиряется однотонным трикотажем подбора верха Manos 2435 или классической белой рубашкой Lucinda 0201."
+        "q": "Принт кажется сложным для сочетания с верхом",
+        "a": "Позвольте продемонстрировать готовые образы: юбка гармонично дополняется однотонным трикотажем Manos 2435 или классической белой рубашкой Lucinda 0201."
       },
       {
-        "q": "Мини-длина — это",
-        "a": "Предложите примерить модель с плотными матовыми не для меня колготками и высокими сапогами Ulisside 0101 0038, как в lookbook. Это создаст стильную вертикаль и визуально сгладит длину."
+        "q": "Мини — это не мой формат",
+        "a": "Рекомендуем стилизовать изделие с плотными матовыми колготками и высокими сапогами Ulisside 0101 0038, как в нашем лукбуке. Это создает изящную вертикаль и визуально нивелирует длину."
       },
       {
-        "q": "Гобелен",
-        "a": "Подчеркните наличие современных деталей — ассоциируется с отделки из экокожи и золотой пряжки, которые винтажем переводят модель из категории."
-      },
-      {
-        "q": "ретро",
-        "a": "в категорию остромодного."
+        "q": "Жаккард ассоциируется с винтажем",
+        "a": "Современные детали — отделка из эко-кожи и золотистая пряжка — переводят изделие из категории «ретро» в актуальный статус «luxury heritage»."
       }
     ],
     "ar": [
@@ -249,7 +245,7 @@
       },
       {
         "q": "النسيج مرتبط بالطراز القديم",
-        "a": "أكدوا على وجود تفاصيل عصرية — إضافات من الجلد البيئي والمشبك الذهبي، التي تنقل الموديل من فئة."
+        "a": "أكدوا على وجود تفاصيل عصرية --- إضافات من الجلد البيئي والمشبك الذهبي، التي تنقل الموديل من فئة."
       },
       {
         "q": "الريترو",
@@ -257,7 +253,7 @@
       },
       {
         "q": "التراث الفاخر",
-        "a": "العصري."
+        "a": "العصري. ![](media/image14.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -278,12 +274,12 @@
         "a": "აჩვენეთ მზა გადაწყვეტა ვიტრინებიდან: ქვედაბოლო შესანიშნავად აბალანსებს სადა ნაქსოვ სამოსს Manos 2435 ან კლასიკურ თეთრ პერანგს Lucinda 0201."
       },
       {
-        "q": "მინი-სიგრძე — ეს ჩემთვის არ არის",
+        "q": "მინი-სიგრძე --- ეს ჩემთვის არ არის",
         "a": "შესთავაზეთ მოდელის მოსინჯვა მკვრივ მქრქალ კოლგოტებთან და მაღალ ჩექმებთან Ulisside 0101 0038, როგორც lookbook-ში. ეს შექმნის სტილურ ვერტიკალს და ვიზუალურად გაასწორებს სიგრძეს."
       },
       {
         "q": "გობელენი ვინტაჟთან ასოცირდება",
-        "a": "ხაზი გაუსვით თანამედროვე დეტალების არსებობას — ეკოტყავის დეკორსა და ოქროსფერ ბალთას, რომლებიც მოდელს."
+        "a": "ხაზი გაუსვით თანამედროვე დეტალების არსებობას --- ეკოტყავის დეკორსა და ოქროსფერ ბალთას, რომლებიც მოდელს."
       },
       {
         "q": "რეტრო",
@@ -291,7 +287,7 @@
       },
       {
         "q": "luxury heritage",
-        "a": "-ის კატეგორიაში."
+        "a": "ის კატეგორიაში. ![](media/image14.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -325,7 +321,7 @@
       },
       {
         "q": "luxury heritage",
-        "a": "կատեգորիա։."
+        "a": "կատեգորիա։ ![](media/image14.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
@@ -346,12 +342,12 @@
         "a": "Parādiet gatavos risinājumus no vitrīnām: svārkus lieliski līdzsvaro vienkrāsaina trikotāža Manos 2435 vai klasisks balts krekls Lucinda 0201."
       },
       {
-        "q": "Mini garums — tas nav domāts man",
+        "q": "Mini garums --- tas nav domāts man",
         "a": "Piedāvājiet piemērīt modeli ar blīvām matētām zeķubiksēm un augstiem zābakiem Ulisside 0101 0038, kā lookbook. Tas radīs stilīgu vertikāli un vizuāli izlīdzinās garumu."
       },
       {
         "q": "Gobelēns asociējas ar vintāžu",
-        "a": "Uzsveriet moderno detaļu klātbūtni — ekoādas apdari un zelta sprādzi, kas pārceļ modeli no."
+        "a": "Uzsveriet moderno detaļu klātbūtni --- ekoādas apdari un zelta sprādzi, kas pārceļ modeli no."
       },
       {
         "q": "retro",
@@ -359,7 +355,7 @@
       },
       {
         "q": "luxury heritage",
-        "a": "kategoriju."
+        "a": "kategoriju. ![](media/image14.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -442,6 +438,10 @@
       {
         "q": "ретро",
         "a": "в категорію гостромодного."
+      },
+      {
+        "q": "luxury heritage",
+        "a": ". ![](media/image14.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

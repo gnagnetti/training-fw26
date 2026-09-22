@@ -226,7 +226,7 @@
   "objections": {
     "en": [
       {
-        "q": "Sequins and lurex may seem too dressy for everyday wear.",
+        "q": "Sequins and lurex may seem too dressy for everyday wear",
         "a": "The decoration on this piece is applied with great restraint. Pair the skirt with the classic Limonaia 0101 shirt to balance the shimmer with an understated top."
       },
       {
@@ -234,191 +234,187 @@
         "a": "We recommend exclusively professional dry cleaning to preserve the structure of the metallic thread and the original shine of the sequins for the long term."
       },
       {
-        "q": "The fabric may feel stiff due to the lurex content.",
+        "q": "The fabric may feel stiff due to the lurex content",
         "a": "The high cotton content (50%) in the fabric composition guarantees softness and exceptional tactile comfort against the skin."
       },
       {
-        "q": "A straight silhouette may restrict movement while walking.",
+        "q": "A straight silhouette may restrict movement while walking",
         "a": "The designers incorporated a side slit, which serves not only as a stylish accent but also ensures complete freedom of movement."
       },
       {
-        "q": "Concern that the sequins may shed over time.",
+        "q": "Concern that the sequins may shed over time",
         "a": "Luisa Spagnoli pieces employ advanced technology to secure the decoration within the fabric structure, guaranteeing exceptional durability."
       }
     ],
     "ru": [
       {
-        "q": "Пайетки и люрекс кажутся слишком нарядными для повседневной носки.",
-        "a": "Декор в этой модели выполнен крайне сдержанно. Сочетайте юбку с классической рубашкой Limonaia 0101, чтобы сбалансировать блеск лаконичным верхом."
+        "q": "Пайетки и люрекс кажутся слишком нарядными для повседневного образа",
+        "a": "Декор в этом изделии выполнен с исключительным чувством меры. Сочетайте юбку с классической рубашкой Limonaia 0101, чтобы сбалансировать сияние сдержанным верхом."
       },
       {
-        "q": "Как правильно ухаживать за такой сложной тканью?",
-        "a": "Мы рекомендуем исключительно профессиональную химчистку, чтобы надолго сохранить структуру металлизированных нитей и первозданный блеск пайеток."
+        "q": "Как ухаживать за столь сложной фактурой?",
+        "a": "Мы рекомендуем исключительно профессиональную химчистку, чтобы надолго сохранить структуру металлизированной нити и первозданный блеск пайеток."
       },
       {
-        "q": "Ткань может быть жесткой из-за наличия люрекса.",
-        "a": "Высокое содержание хлопка (50%) в составе полотна гарантирует мягкость и исключительный тактильный комфорт при соприкосновении с кожей."
+        "q": "Ткань может казаться жесткой из-за люрекса",
+        "a": "Высокое содержание хлопка (50%) в составе гарантирует мягкость и исключительный тактильный комфорт при контакте с кожей."
       },
       {
-        "q": "Прямой силуэт может стеснять движения при ходьбе.",
-        "a": "Дизайнеры предусмотрели боковой разрез, который не только является стильным акцентом, но и обеспечивает полную свободу движений."
+        "q": "Прямой силуэт может сковывать движения при ходьбе",
+        "a": "Дизайнеры предусмотрели боковой разрез, который служит не только стильным акцентом, но и обеспечивает абсолютную свободу движений."
       },
       {
-        "q": "Боязнь, что пайетки могут осыпаться со временем.",
-        "a": "В изделиях Luisa Spagnoli используется передовая технология фиксации декора в структуре полотна, что гарантирует высокую износостойкость."
+        "q": "Опасение, что пайетки могут осыпаться со временем",
+        "a": "В изделиях Luisa Spagnoli используются передовые технологии фиксации декора в структуре ткани, что гарантирует исключительную долговечность."
       }
     ],
     "ar": [
       {
-        "q": "تبدو الترترات وخيوط اللوركس مبالغاً في أناقتها للارتداء اليومي.",
-        "a": "تم تصميم الزخارف في هذا الموديل بأسلوب غاية في الرقي والبساطة. نسقي التنورة مع القميص الكلاسيكي Limonaia 0101 لتحقيق التوازن بين اللمعان والتصميم الهادئ."
+        "q": "تبدو الترترات وخيوط اللوركس مبالغاً في أناقتها للارتداء اليومي",
+        "a": "تم تصميم الزخارف في هذا الموديل بأسلوب غاية في الرقي والبساطة. نسقي التنورة مع القميص الكلاسيكي Limonaia 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg لتحقيق التوازن بين اللمعان والتصميم الهادئ. «كيف يمكن العناية بمثل هذا القماش المعقد؟» نوصي حصرياً بالتنظيف الجاف الاحترافي للحفاظ على بنية الخيوط المعدنية والبريق الأصلي للترتر لأطول فترة ممكنة."
       },
       {
-        "q": "كيف يمكن العناية بمثل هذا القماش المعقد؟",
-        "a": "نوصي حصرياً بالتنظيف الجاف الاحترافي للحفاظ على بنية الخيوط المعدنية والبريق الأصلي للترتر لأطول فترة ممكنة."
-      },
-      {
-        "q": "قد يكون القماش قاسياً بسبب وجود اللوركس.",
+        "q": "قد يكون القماش قاسياً بسبب وجود اللوركس",
         "a": "المحتوى العالي من القطن (50%) في تركيبة النسيج يضمن النعومة والراحة الاستثنائية عند ملامسته للبشرة."
       },
       {
-        "q": "قد يقيد القصة المستقيمة حركة المشي.",
+        "q": "قد يقيد القصة المستقيمة حركة المشي",
         "a": "حرص المصممون على إضافة فتحة جانبية لا تعد لمسة أنيقة فحسب، بل توفر أيضاً حرية كاملة في الحركة."
       },
       {
-        "q": "الخوف من تساقط الترتر مع مرور الوقت.",
+        "q": "الخوف من تساقط الترتر مع مرور الوقت",
         "a": "تستخدم Luisa Spagnoli تقنية متطورة لتثبيت الزخارف في بنية النسيج، مما يضمن متانة عالية ومقاومة للتمزق."
       }
     ],
     "ka": [
       {
-        "q": "პაიეტკები და ლურექსი ყოველდღიური ტარებისთვის ზედმეტად სადღესასწაულოდ გამოიყურება.",
-        "a": "ამ მოდელის დეკორი ძალზე თავშეკავებულადაა შესრულებული. შეუხამეთ ქვედაბოლო კლასიკურ პერანგს Limonaia 0101, რათა ბრწყინვალება ლაკონური ზედით დააბალანსოთ."
+        "q": "პაიეტკები და ლურექსი ყოველდღიური ტარებისთვის ზედმეტად სადღესასწაულოდ გამოიყურება",
+        "a": "ამ მოდელის დეკორი ძალზე თავშეკავებულადაა შესრულებული. შეუხამეთ ქვედაბოლო კლასიკურ პერანგს Limonaia 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg რათა ბრწყინვალება ლაკონური ზედით დააბალანსოთ."
       },
       {
         "q": "როგორ მოვუაროთ ასეთ რთულ ქსოვილს?",
         "a": "ჩვენ გირჩევთ ექსკლუზიურად პროფესიონალურ ქიმწმენდას, რათა დიდხანს შეინარჩუნოთ მეტალიზებული ძაფების სტრუქტურა და პაიეტკების პირველადი ბრწყინვალება."
       },
       {
-        "q": "ქსოვილი შეიძლება იყოს უხეში ლურექსის არსებობის გამო.",
+        "q": "ქსოვილი შეიძლება იყოს უხეში ლურექსის არსებობის გამო",
         "a": "ქსოვილის შემადგენლობაში ბამბის მაღალი შემცველობა (50%) უზრუნველყოფს სირბილეს და განსაკუთრებულ ტაქტილურ კომფორტს კანთან შეხებისას."
       },
       {
-        "q": "სწორ სილუეტს შეუძლია შეზღუდოს მოძრაობა სიარულისას.",
+        "q": "სწორ სილუეტს შეუძლია შეზღუდოს მოძრაობა სიარულისას",
         "a": "დიზაინერებმა გაითვალისწინეს გვერდითა ჭრილი, რომელიც არა მხოლოდ სტილური აქცენტია, არამედ მოძრაობის სრულ თავისუფლებასაც უზრუნველყოფს."
       },
       {
-        "q": "შიში იმისა, რომ პაიეტკები დროთა განმავლობაში შესაძლოა ჩამოცვივდეს.",
+        "q": "შიში იმისა, რომ პაიეტკები დროთა განმავლობაში შესაძლოა ჩამოცვივდეს",
         "a": "Luisa Spagnoli-ს ნაკეთობებში გამოიყენება დეკორის ქსოვილის სტრუქტურაში ფიქსაციის მოწინავე ტექნოლოგია, რაც უზრუნველყოფს მაღალ გამძლეობას."
       }
     ],
     "hy": [
       {
         "q": "Փայլերն ու լյուրեքսը առօրյա հագուստի համար չափազանց շքեղ են թվում",
-        "a": "Այս մոդելի դեկորը կատարված է չափազանց զուսպ։ Համադրեք կիսաշրջազգեստը Limonaia 0101 դասական վերնաշապիկի հետ՝ փայլը լակոնիկ վերնամասով հավասարակշռելու համար։"
+        "a": "Այս մոդելի դեկորը կատարված է չափազանց զուսպ։ Համադրեք կիսաշրջազգեստը Limonaia 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg դասական վերնաշապիկի հետ՝ փայլը լակոնիկ վերնամասով հավասարակշռելու համար։."
       },
       {
         "q": "Ինչպե՞ս ճիշտ խնամել այսպիսի բարդ գործվածքը",
-        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում, որպեսզի երկար ժամանակ պահպանվի մետաղական թելերի կառուցվածքը և փայլերի սկզբնական փայլը։"
+        "a": "Մենք խորհուրդ ենք տալիս բացառապես պրոֆեսիոնալ քիմմաքրում, որպեսզի երկար ժամանակ պահպանվի մետաղական թելերի կառուցվածքը և փայլերի սկզբնական փայլը։."
       },
       {
         "q": "Գործվածքը կարող է կոշտ լինել լյուրեքսի առկայության պատճառով",
-        "a": "Գործվածքի կազմում բամբակի բարձր պարունակությունը (50%) երաշխավորում է փափկություն և մաշկին հպվելիս բացառիկ հարմարավետություն։"
+        "a": "Գործվածքի կազմում բամբակի բարձր պարունակությունը (50%) երաշխավորում է փափկություն և մաշկին հպվելիս բացառիկ հարմարավետություն։."
       },
       {
         "q": "Ուղիղ ուրվագիծը կարող է սահմանափակել շարժումները քայլելիս",
-        "a": "Դիզայներները նախատեսել են կողային բացվածք, որը ոչ միայն նորաոճ շեշտադրում է, այլև ապահովում է շարժումների լիարժեք ազատություն։"
+        "a": "Դիզայներները նախատեսել են կողային բացվածք, որը ոչ միայն նորաոճ շեշտադրում է, այլև ապահովում է շարժումների լիարժեք ազատություն։."
       },
       {
         "q": "Վախ, որ փայլերը ժամանակի ընթացքում կարող են թափվել",
-        "a": "Luisa Spagnoli-ի արտադրանքում օգտագործվում է գործվածքի կառուցվածքում դեկորի ամրացման առաջադեմ տեխնոլոգիա, ինչը երաշխավորում է բարձր մաշվածադիմացկունություն։"
+        "a": "Luisa Spagnoli-ի արտադրանքում օգտագործվում է գործվածքի կառուցվածքում դեկորի ամրացման առաջադեմ տեխնոլոգիա, ինչը երաշխավորում է բարձր մաշվածադիմացկունություն։."
       }
     ],
     "lv": [
       {
-        "q": "Vizuļi un lurekss šķiet pārāk svinīgi ikdienas valkāšanai.",
-        "a": "Dekors šajā modelī ir izpildīts ļoti atturīgi. Kombinējiet svārkus ar klasisko kreklu Limonaia 0101, lai līdzsvarotu mirdzumu ar lakonisku augšdaļu."
+        "q": "Vizuļi un lurekss šķiet pārāk svinīgi ikdienas valkāšanai",
+        "a": "Dekors šajā modelī ir izpildīts ļoti atturīgi. Kombinējiet svārkus ar klasisko kreklu Limonaia 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg lai līdzsvarotu mirdzumu ar lakonisku augšdaļu."
       },
       {
         "q": "Kā pareizi kopt tik sarežģītu audumu?",
         "a": "Mēs iesakām tikai profesionālo ķīmisko tīrīšanu, lai ilgstoši saglabātu metalizēto diegu struktūru un vizuļu sākotnējo spīdumu."
       },
       {
-        "q": "Audums var būt stīvs lureksa klātbūtnes dēļ.",
+        "q": "Audums var būt stīvs lureksa klātbūtnes dēļ",
         "a": "Augstais kokvilnas saturs (50%) auduma sastāvā garantē mīkstumu un izcilu taustes komfortu saskarē ar ādu."
       },
       {
-        "q": "Taisns siluets var ierobežot kustības ejot.",
+        "q": "Taisns siluets var ierobežot kustības ejot",
         "a": "Dizaineri ir paredzējuši sānu šķēlumu, kas ne tikai ir stilīgs akcents, bet arī nodrošina pilnīgu kustību brīvību."
       },
       {
-        "q": "Bažas, ka vizuļi laika gaitā var nobirt.",
+        "q": "Bažas, ka vizuļi laika gaitā var nobirt",
         "a": "Luisa Spagnoli izstrādājumos tiek izmantota progresīva dekora fiksācijas tehnoloģija auduma struktūrā, kas garantē augstu nodilumizturību."
       }
     ],
     "lt": [
       {
-        "q": "Žvyneliai ir liureksas atrodo per daug puošnūs kasdieniam dėvėjimui.",
-        "a": "Šio modelio dekoras yra itin santūrus. Derinkite sijoną su klasikine palaidine Limonaia 0101, kad subalansuotumėte žvilgesį lakonišku viršumi."
+        "q": "Žvyneliai ir liureksas atrodo per daug puošnūs kasdieniam dėvėjimui",
+        "a": "Šio modelio dekoras yra itin santūrus. Derinkite sijoną su klasikine palaidine Limonaia 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg kad subalansuotumėte žvilgesį lakonišku viršumi."
       },
       {
         "q": "Kaip tinkamai prižiūrėti tokį sudėtingą audinį?",
         "a": "Rekomenduojame tik profesionalų cheminį valymą, kad ilgam išsaugotumėte metalizuotų siūlų struktūrą ir pradinį žvynelių spindesį."
       },
       {
-        "q": "Audinys gali būti standus dėl liurekso sudėties.",
+        "q": "Audinys gali būti standus dėl liurekso sudėties",
         "a": "Didelis medvilnės kiekis (50 %) audinio sudėtyje užtikrina minkštumą ir išskirtinį taktilinį komfortą liečiantis su oda."
       },
       {
-        "q": "Tiesus siluetas gali varžyti judesius vaikštant.",
+        "q": "Tiesus siluetas gali varžyti judesius vaikštant",
         "a": "Dizaineriai numatė skeltuką šone, kuris yra ne tik stilingas akcentas, bet ir užtikrina visišką judesių laisvę."
       },
       {
-        "q": "Baimė, kad žvyneliai laikui bėgant gali nubyrėti.",
+        "q": "Baimė, kad žvyneliai laikui bėgant gali nubyrėti",
         "a": "Luisa Spagnoli gaminiuose naudojama pažangi dekoro fiksavimo audinio struktūroje technologija, kuri garantuoja aukštą atsparumą nusidėvėjimui."
       }
     ],
     "pl": [
       {
-        "q": "Cekiny i lureks wydają się zbyt strojne do noszenia na co dzień.",
-        "a": "Dekoracja w tym modelu została wykonana niezwykle powściągliwie. Zestaw spódnicę z klasyczną koszulą Limonaia 0101, aby zrównoważyć blask lakoniczną górą."
+        "q": "Cekiny i lureks wydają się zbyt strojne do noszenia na co dzień",
+        "a": "Dekoracja w tym modelu została wykonana niezwykle powściągliwie. Zestaw spódnicę z klasyczną koszulą Limonaia 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg aby zrównoważyć blask lakoniczną górą."
       },
       {
         "q": "Jak prawidłowo dbać o tak złożoną tkaninę?",
         "a": "Zalecamy wyłącznie profesjonalne czyszczenie chemiczne, aby na długo zachować strukturę metalizowanych nici i pierwotny blask cekinów."
       },
       {
-        "q": "Tkanina może być sztywna ze względu na obecność lureksu.",
+        "q": "Tkanina może być sztywna ze względu na obecność lureksu",
         "a": "Wysoka zawartość bawełny (50%) w składzie materiału gwarantuje miękkość i wyjątkowy komfort dotykowy w kontakcie ze skórą."
       },
       {
-        "q": "Prosty krój może krępować ruchy podczas chodzenia.",
+        "q": "Prosty krój może krępować ruchy podczas chodzenia",
         "a": "Projektanci przewidzieli boczne rozcięcie, które nie tylko stanowi stylowy akcent, ale także zapewnia pełną swobodę ruchów."
       },
       {
-        "q": "Obawa, że cekiny mogą z czasem odpadać.",
+        "q": "Obawa, że cekiny mogą z czasem odpadać",
         "a": "W produktach Luisa Spagnoli stosowana jest zaawansowana technologia mocowania dekoracji w strukturze materiału, co gwarantuje wysoką odporność na zużycie."
       }
     ],
     "uk": [
       {
-        "q": "Пайєтки та люрекс здаються надто ошатними для повсякденного носіння.",
-        "a": "Декор у цій моделі виконаний вкрай стримано. Поєднуйте спідницю з класичною сорочкою Limonaia 0101, щоб збалансувати блиск лаконічним верхом."
+        "q": "Пайєтки та люрекс здаються надто ошатними для повсякденного носіння",
+        "a": "Декор у цій моделі виконаний вкрай стримано. Поєднуйте спідницю з класичною сорочкою Limonaia 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/LIMONAIAC_10100000000.jpg щоб збалансувати блиск лаконічним верхом."
       },
       {
         "q": "Як правильно доглядати за такою складною тканиною?",
         "a": "Ми рекомендуємо виключно професійну хімчистку, щоб надовго зберегти структуру металізованих ниток та первинний блиск пайєток."
       },
       {
-        "q": "Тканина може бути жорсткою через наявність люрексу.",
+        "q": "Тканина може бути жорсткою через наявність люрексу",
         "a": "Високий вміст бавовни (50%) у складі полотна гарантує м'якість та винятковий тактильний комфорт при контакті зі шкірою."
       },
       {
-        "q": "Прямий силует може обмежувати рухи під час ходьби.",
+        "q": "Прямий силует може обмежувати рухи під час ходьби",
         "a": "Дизайнери передбачили бічний розріз, який не лише є стильним акцентом, а й забезпечує повну свободу рухів."
       },
       {
-        "q": "Боязнь, що пайєтки можуть осипатися з часом.",
+        "q": "Боязнь, що пайєтки можуть осипатися з часом",
         "a": "У виробах Luisa Spagnoli використовується передова технологія фіксації декору в структурі полотна, що гарантує високу зносостійкість."
       }
     ]

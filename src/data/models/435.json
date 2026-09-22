@@ -227,30 +227,50 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "batwing Explain that Luisa Spagnoli's wool knit has sleeves won't fit exceptional suppleness. The sleeves drape gently under outerwear» under a coat (such as the Stenografo 2716) without causing discomfort. «The knit skirt Point out the dense \"maglia rasata\" knit used in might stretch out» the lower part of the dress. It is specifically engineered to minimize distortion and preserve the crisp silhouette of the midi skirt. «The V-neck seems Suggest completing the look with a silk neck too deep» scarf or a statement necklace. The wrap neckline serves as the perfect frame for the décolletage and accessories. «The knit dress Showcase the play of textures: the diagonal rib adds bulk» on the bodice and the smooth skirt create a well-balanced distribution of focal points that visually slims rather than adding volume. «This dress is Show the styling from window display „–16: too plain for a paired with the Rotterdam 0101 hat and the Iago night out» 0101 0002 bag, the piece becomes a fashion-forward \"Total Look\" in Fashion Show style"
+        "q": "The batwing Explain that Luisa Spagnoli's wool knit has sleeves won't fit exceptional suppleness. The sleeves drape gently under outerwear",
+        "a": "under a coat (such as the Stenografo 2716) without causing discomfort."
+      },
+      {
+        "q": "The knit skirt Point out the dense \"maglia rasata\" knit used in might stretch out",
+        "a": "the lower part of the dress. It is specifically engineered to minimize distortion and preserve the crisp silhouette of the midi skirt."
+      },
+      {
+        "q": "The V-neck seems Suggest completing the look with a silk neck too deep",
+        "a": "scarf or a statement necklace. The wrap neckline serves as the perfect frame for the dÃ©colletage and accessories."
+      },
+      {
+        "q": "The knit dress Showcase the play of textures: the diagonal rib adds bulk",
+        "a": "on the bodice and the smooth skirt create a well-balanced distribution of focal points that visually slims rather than adding volume."
+      },
+      {
+        "q": "This dress is Show the styling from window display „–16: too plain for a paired with the Rotterdam 0101 hat and the Iago night out",
+        "a": "0101 0002 bag, the piece becomes a fashion-forward \"Total Look\" in Fashion Show style. ![](media/image78.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image79.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image80.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Рукава \\'летучая",
-        "a": "Поясните, что шерстяной трикотаж Luisa Spagnoli мышь\\' не обладает исключительной пластичностью. Рукава мягко поместятся под драпируются под верхней одеждой (например, под пальто Stenografo 2716), не создавая дискомфорта."
+        "q": "Рукава „летучая мышь“ будут неудобны под верхней одеждой",
+        "a": "> Объясните, что шерстяной трикотаж Luisa Spagnoli обладает исключительной пластичностью. Рукава мягко драпируются под пальто (например, модель Stenografo 2716), не создавая дискомфорта."
       },
       {
-        "q": "Вязаная юбка",
-        "a": "Укажите на плотную вязку «maglia rasata в нижней может вытянуться» части платья. Она специально разработана для минимизации деформации и сохранения четкого силуэта юбки-миди."
+        "q": "Трикотажная юбка может растянуться",
+        "a": "> Укажите на плотную вязку."
       },
       {
-        "q": "V-образный вырез",
-        "a": "Предложите дополнить образ шелковым шейным платком кажется слишком или статусным колье. Вырез «на запах служит глубоким» идеальной рамой для портретной зоны и аксессуаров."
+        "q": "maglia rasata",
+        "a": "в нижней части платья. Она специально разработана для минимизации деформации и сохранения безупречного силуэта юбки миди."
       },
       {
-        "q": "Трикотажное",
-        "a": "Продемонстрируйте игру фактур: диагональный рубчик платье полнит на лифе и гладкая юбка создают правильное распределение акцентов, которое визуально стройнит, а не добавляет объем."
+        "q": "V-образный вырез кажется слишком глубоким",
+        "a": "> Предложите дополнить образ шелковым платком или акцентным колье. Запах на груди служит идеальной рамкой для декольте и аксессуаров."
       },
       {
-        "q": "Это слишком",
-        "a": "Покажите стилизацию из витрины №16: в сочетании со простое платье для шляпой Rotterdam 0101 и сумкой Iago 0101 выхода 0002 модель превращается в остромодный."
+        "q": "Трикотажное платье полнит",
+        "a": "> Продемонстрируйте игру фактур: диагональный рубчик на лифе и гладкое полотно юбки создают сбалансированное распределение акцентов, которое визуально стройнит, а не добавляет объем."
+      },
+      {
+        "q": "Это платье слишком простое для вечернего выхода",
+        "a": "> Покажите стайлинг из витрины: в сочетании со шляпой Rotterdam 0101 и сумкой Iago 0101 0002 изделие превращается в ультрамодный."
       },
       {
         "q": "Total Look",
@@ -284,7 +304,7 @@
       },
       {
         "q": "Total Look",
-        "a": "عصري بأسلوب عروض الأزياء."
+        "a": "عصري بأسلوب عروض الأزياء. ![](media/image78.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image79.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image80.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -311,7 +331,7 @@
     ],
     "hy": [
       {
-        "q": "Չղջիկ",
+        "q": "«Չղջիկ",
         "a": "թևերը չեն տեղավորվի վերարկուի տակ»՝ Բացատրեք, որ Luisa Spagnoli-ի բրդյա տրիկոտաժն ունի բացառիկ պլաստիկություն: Թևերը փափուկ դրեյպավորվում են վերնազգեստի տակ (օրինակ՝ Stenografo 2716-ի տակ)՝ առանց անհարմարություն ստեղծելու."
       },
       {
@@ -340,37 +360,37 @@
       },
       {
         "q": "Total Look",
-        "a": "-ի."
+        "a": "ի: ![](media/image78.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image79.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image80.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Piedurknes 'sikspārnis",
-        "a": "Izskaidrojiet, ka Luisa Spagnoli vilnas trikotāžai neietilps zem ir izcila plastika. Piedurknes maigi drapējas zem mēteļa virsdrēbēm (piemēram, zem Stenografo 2716), neradot diskomfortu."
+        "q": "Piedurknes 'sikspārnis' Izskaidrojiet, ka Luisa Spagnoli vilnas trikotāžai neietilps zem ir izcila plastika. Piedurknes maigi drapējas zem mēteļa",
+        "a": "virsdrēbēm (piemēram, zem Stenografo 2716), neradot diskomfortu."
       },
       {
-        "q": "Adīti svārki var",
-        "a": "Norādiet uz blīvo «maglia rasata adījumu kleitas izstaipīties» apakšdaļā. Tas ir īpaši izstrādāts, lai minimizētu deformāciju un saglabātu precīzu midi-svārku siluetu."
+        "q": "Adīti svārki var Norādiet uz blīvo «maglia rasata",
+        "a": "adījumu kleitas izstaipīties» apakšdaļā. Tas ir īpaši izstrādāts, lai minimizētu deformāciju un saglabātu precīzu midi-svārku siluetu."
       },
       {
-        "q": "V-veida izgriezums",
-        "a": "Piedāvājiet papildināt tēlu ar zīda kakla lakatu vai šķiet pārāk dziļš statusa rotaslietu."
+        "q": "V-veida izgriezums Piedāvājiet papildināt tēlu ar zīda kakla lakatu vai šķiet pārāk dziļš",
+        "a": "statusa rotaslietu."
       },
       {
         "q": "Smarža",
         "a": "(on wrap) izgriezums kalpo kā ideāls ietvars portreta zonai un aksesuāriem."
       },
       {
-        "q": "Trikotāžas kleita",
-        "a": "Demonstrējiet faktūru spēli: diagonālās rievas uz padara pilnīgāku ņiebura un gludie svārki rada pareizu akcentu sadalījumu, kas vizuāli slaidina, nevis palielina apjomu."
+        "q": "Trikotāžas kleita Demonstrējiet faktūru spēli: diagonālās rievas uz padara pilnīgāku",
+        "a": "ņiebura un gludie svārki rada pareizu akcentu sadalījumu, kas vizuāli slaidina, nevis palielina apjomu."
       },
       {
-        "q": "Tā ir pārāk",
-        "a": "Parādiet stilizāciju no skatloga Nr.16: kombinācijā vienkārša kleita ar Rotterdam 0101 cepuri un Iago 0101 0002 somu iziešanai modelis pārtop par īpaši modernu."
+        "q": "Tā ir pārāk Parādiet stilizāciju no skatloga Nr.16: kombinācijā vienkārša kleita ar Rotterdam 0101 cepuri un Iago 0101 0002 somu iziešanai",
+        "a": "modelis pārtop par īpaši modernu."
       },
       {
         "q": "Total Look",
-        "a": "Fashion Show stilā."
+        "a": "Fashion Show stilā. ![](media/image78.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image79.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image80.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -456,7 +476,7 @@
       },
       {
         "q": "Total Look",
-        "a": "у стилі Fashion Show."
+        "a": "у стилі Fashion Show. ![](media/image78.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image79.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image80.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

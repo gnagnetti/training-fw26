@@ -212,200 +212,196 @@
   "objections": {
     "en": [
       {
-        "q": "I feel that the quilted down jacket will visually add extra volume.",
+        "q": "I feel that the quilted down jacket will visually add extra volume",
         "a": "Point out the side slits and the carefully considered regular-fit silhouette, which structure the figure and allow ease of movement without weighing down the look."
       },
       {
-        "q": "I prefer 100% natural fur.",
+        "q": "I prefer 100% natural fur",
         "a": "Explain that the eco-fur used, by Luisa Spagnoli, is not only ethical but also outperforms natural fur in durability, retaining its flawless texture even in high humidity."
       },
       {
-        "q": "The synthetic fabric composition may be less durable.",
+        "q": "The synthetic fabric composition may be less durable",
         "a": "Emphasize that the polyester-and-polyamide blend is the technical standard for premium outerwear, guaranteeing wind resistance and shape retention over many seasons."
       },
       {
-        "q": "This down jacket looks too plain in black.",
+        "q": "This down jacket looks too plain in black",
         "a": "Highlight the play of textures: the matte quilted fabric contrasts with the sheen of the eco-fur and the woven button details, creating a rich, multi-dimensional look."
       },
       {
         "q": "Would this style be appropriate with a business suit?",
-        "a": "Thanks to its aristocratic details and detachable collar, Soresina pairs beautifully with the tailored Oneta 0101 trousers, striking a balance between formality and comfort."
+        "a": "Thanks to its aristocratic details and detachable collar, Soresina pairs beautifully with the tailored Oneta 0101 trousers (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg striking a balance between formality and comfort."
       }
     ],
     "ru": [
       {
-        "q": "Мне кажется, что стеганый пуховик будет визуально добавлять лишний объем.",
-        "a": "Укажите на боковые разрезы и выверенный силуэт regular fit, которые структурируют фигуру и обеспечивают легкость движений, не утяжеляя образ."
+        "q": "Боюсь, стеганый пуховик визуально добавит объема",
+        "a": "Обратите внимание на боковые разрезы и выверенный крой regular-fit, которые структурируют фигуру и обеспечивают свободу движений, не утяжеляя образ."
       },
       {
-        "q": "Я предпочитаю 100% натуральный мех.",
-        "a": "Объясните, что используемый эко-мех (eco-fur) от Luisa Spagnoli не только этичен, но и превосходит натуральный по износостойкости, сохраняя безупречную фактуру даже при повышенной влажности."
+        "q": "Я предпочитаю 100% натуральный мех",
+        "a": "Эко-мех, используемый Luisa Spagnoli, не только этичен, но и превосходит натуральный по износостойкости, сохраняя безупречную фактуру даже при высокой влажности."
       },
       {
-        "q": "Синтетический состав ткани может быть менее долговечным.",
-        "a": "Подчеркните, что сочетание полиэстера и полиамида — это технологичный стандарт для верхней одежды премиум-класса, гарантирующий ветрозащиту и сохранение формы изделия в течение многих сезонов."
+        "q": "Синтетический состав ткани может быть менее долговечным",
+        "a": "Смесь полиэстера и полиамида — это технический стандарт для премиальной верхней одежды, гарантирующий ветрозащиту и сохранение формы на протяжении многих сезонов."
       },
       {
-        "q": "Этот пуховик выглядит слишком просто в черном цвете.",
-        "a": "Сделайте акцент на игре фактур: матовая стеганая ткань контрастирует с блеском эко-меха и плетеными деталями пуговиц, создавая многогранный и глубокий образ."
+        "q": "Этот пуховик выглядит слишком просто в черном цвете",
+        "a": "Оцените игру фактур: матовая стеганая ткань контрастирует с блеском эко-меха и плетеными деталями пуговиц, создавая богатый, многомерный образ."
       },
       {
-        "q": "Будет ли эта модель уместна с деловым костюмом?",
-        "a": "Благодаря аристократичным деталям и возможности убрать воротник, Soresina идеально дополняет строгие брюки Oneta 0101, сохраняя баланс между формальностью и комфортом."
+        "q": "Будет ли этот стиль уместен с деловым костюмом?",
+        "a": "Благодаря аристократичным деталям и съемному воротнику, Soresina великолепно сочетается с брюками классического кроя Oneta 0101, создавая идеальный баланс между формальностью и комфортом."
       }
     ],
     "ar": [
       {
-        "q": "أشعر أن المعطف المبطن سيضيف حجماً إضافياً للجسم بصرياً.",
+        "q": "أشعر أن المعطف المبطن سيضيف حجماً إضافياً للجسم بصرياً",
         "a": "أشيري إلى الفتحات الجانبية والقصة المحددة (regular fit) التي تمنح هيكلاً للجسم وتضمن حرية الحركة دون إثقال الإطلالة."
       },
       {
-        "q": "أفضل الفراء الطبيعي بنسبة 100%.",
+        "q": "أفضل الفراء الطبيعي بنسبة 100%",
         "a": "اشرحي أن الفراء الصناعي (eco-fur) المستخدم من Luisa Spagnoli ليس أخلاقياً فحسب، بل يتفوق على الفراء الطبيعي في متانته، محافظاً على ملمسه المثالي حتى في حالات الرطوبة العالية."
       },
       {
-        "q": "التركيبة الصناعية للقماش قد تكون أقل متانة.",
+        "q": "التركيبة الصناعية للقماش قد تكون أقل متانة",
         "a": "أكدي أن مزيج البوليستر والبولي أميد هو المعيار التقني للملابس الخارجية الفاخرة، مما يضمن الحماية من الرياح والحفاظ على شكل القطعة لعدة مواسم."
       },
       {
-        "q": "هذا المعطف يبدو بسيطاً جداً باللون الأسود.",
-        "a": "ركزي على تباين الأنسجة؛ حيث تتناغم الخامة المبطنة غير اللامعة مع لمعان الفراء الصناعي وتفاصيل الأزرار المجدولة، مما يخلق إطلالة غنية ومتعددة الأبعاد."
-      },
-      {
-        "q": "هل ستكون هذه القطعة مناسبة مع بدلة عمل؟",
-        "a": "بفضل التفاصيل الأنيقة وإمكانية إزالة الياقة، يكمل معطف Soresina بنطال Oneta 0101 بشكل مثالي، محققاً التوازن بين الرسمية والراحة."
+        "q": "هذا المعطف يبدو بسيطاً جداً باللون الأسود",
+        "a": "ركزي على تباين الأنسجة؛ حيث تتناغم الخامة المبطنة غير اللامعة مع لمعان الفراء الصناعي وتفاصيل الأزرار المجدولة، مما يخلق إطلالة غنية ومتعددة الأبعاد. «هل ستكون هذه القطعة مناسبة مع بدلة عمل؟» بفضل التفاصيل الأنيقة وإمكانية إزالة الياقة، يكمل معطف Soresina بنطال Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg بشكل مثالي، محققاً التوازن بين الرسمية والراحة."
       }
     ],
     "ka": [
       {
-        "q": "მეჩვენება, რომ ნაკერებიანი პუხოვიკი ვიზუალურად ზედმეტ მოცულობას შემატებს.",
+        "q": "მეჩვენება, რომ ნაკერებიანი პუხოვიკი ვიზუალურად ზედმეტ მოცულობას შემატებს",
         "a": "მიუთითეთ გვერდითა ჭრილებსა და რეგულირებად სილუეტზე regular fit, რომლებიც აწყობს ფიგურას და უზრუნველყოფს მოძრაობის სიმსუბუქეს, ისე რომ არ ამძიმებს იმიჯს."
       },
       {
-        "q": "მე 100%-ით ნატურალურ ბეწვს ვანიჭებ უპირატესობას.",
+        "q": "მე 100%-ით ნატურალურ ბეწვს ვანიჭებ უპირატესობას",
         "a": "აუხსენით, რომ Luisa Spagnoli-ს მიერ გამოყენებული ეკო-ბეწვი (eco-fur) არა მხოლოდ ეთიკურია, არამედ აჭარბებს ნატურალურს ცვეთამედეგობით და ინარჩუნებს უნაკლო ფაქტურას მაღალი ტენიანობის დროსაც კი."
       },
       {
-        "q": "ქსოვილის სინთეტიკური შემადგენლობა შესაძლოა ნაკლებად გამძლე იყოს.",
+        "q": "ქსოვილის სინთეტიკური შემადგენლობა შესაძლოა ნაკლებად გამძლე იყოს",
         "a": "ხაზგასმით აღნიშნეთ, რომ პოლიესტერისა და პოლიამიდის კომბინაცია პრემიუმ-კლასის ზედა ტანსაცმლის ტექნოლოგიური სტანდარტია, რაც გარანტირებულ ქარსაფარსა და ნაკეთობის ფორმის შენარჩუნებას უზრუნველყოფს მრავალი სეზონის განმავლობაში."
       },
       {
-        "q": "ეს პუხოვიკი შავ ფერში ზედმეტად მარტივად გამოიყურება.",
+        "q": "ეს პუხოვიკი შავ ფერში ზედმეტად მარტივად გამოიყურება",
         "a": "გაამახვილეთ ყურადღება ფაქტურების თამაშზე: მქრქალი ნაკერებიანი ქსოვილი კონტრასტშია ეკო-ბეწვის ბზინვარებასთან და ღილების წნულ დეტალებთან, რაც ქმნის მრავალმხრივ და ღრმა იმიჯს."
       },
       {
         "q": "იქნება თუ არა ეს მოდელი შესაბამისი საქმიან კოსტიუმთან?",
-        "a": "არისტოკრატული დეტალებისა და საყელოს მოხსნის შესაძლებლობის წყალობით, Soresina იდეალურად ავსებს მკაცრ შარვლებს Oneta 0101 და ინარჩუნებს ბალანსს ფორმალობასა და კომფორტს შორის."
+        "a": "არისტოკრატული დეტალებისა და საყელოს მოხსნის შესაძლებლობის წყალობით, Soresina იდეალურად ავსებს მკაცრ შარვლებს Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg და ინარჩუნებს ბალანსს ფორმალობასა და კომფორტს შორის."
       }
     ],
     "hy": [
       {
         "q": "Ինձ թվում է, որ թրծված (стеганый) վերարկուն տեսողականորեն ավելորդ ծավալ կավելացնի։",
-        "a": "Մատնանշեք կողային բացվածքները և regular fit հստակ ուրվագիծը, որոնք կառուցվածք են տալիս կազմվածքին և ապահովում շարժումների թեթևություն՝ առանց ծանրացնելու կերպարը։"
+        "a": "Մատնանշեք կողային բացվածքները և regular fit հստակ ուրվագիծը, որոնք կառուցվածք են տալիս կազմվածքին և ապահովում շարժումների թեթևություն՝ առանց ծանրացնելու կերպարը։."
       },
       {
         "q": "Ես նախընտրում եմ 100% բնական մորթի։",
-        "a": "Բացատրեք, որ Luisa Spagnoli-ի կողմից օգտագործվող էկո-մորթին (eco-fur) ոչ միայն էթիկական է, այլև իր դիմացկունությամբ գերազանցում է բնականին՝ պահպանելով անթերի ֆակտուրան նույնիսկ բարձր խոնավության դեպքում։"
+        "a": "Բացատրեք, որ Luisa Spagnoli-ի կողմից օգտագործվող էկո-մորթին (eco-fur) ոչ միայն էթիկական է, այլև իր դիմացկունությամբ գերազանցում է բնականին՝ պահպանելով անթերի ֆակտուրան նույնիսկ բարձր խոնավության դեպքում։."
       },
       {
         "q": "Գործվածքի սինթետիկ կազմը կարող է ավելի քիչ երկարակյաց լինել։",
-        "a": "Ընդգծեք, որ պոլիեսթերի և պոլիամիդի համադրությունը պրեմիում դասի վերնահագուստի համար տեխնոլոգիական ստանդարտ է, որը երաշխավորում է հողմապաշտպանություն և արտադրանքի ձևի պահպանում բազմաթիվ սեզոնների ընթացքում։"
+        "a": "Ընդգծեք, որ պոլիեսթերի և պոլիամիդի համադրությունը պրեմիում դասի վերնահագուստի համար տեխնոլոգիական ստանդարտ է, որը երաշխավորում է հողմապաշտպանություն և արտադրանքի ձևի պահպանում բազմաթիվ սեզոնների ընթացքում։."
       },
       {
         "q": "Այս վերարկուն շատ պարզ է թվում սև գույնի մեջ։",
-        "a": "Շեշտադրում կատարեք ֆակտուրաների խաղի վրա. փայլատ թրծված գործվածքը հակադրվում է էկո-մորթու փայլին և կոճակների հյուսված մանրամասներին՝ ստեղծելով բազմակողմանի և խորը կերպար։"
+        "a": "Շեշտադրում կատարեք ֆակտուրաների խաղի վրա. փայլատ թրծված գործվածքը հակադրվում է էկո-մորթու փայլին և կոճակների հյուսված մանրամասներին՝ ստեղծելով բազմակողմանի և խորը կերպար։."
       },
       {
         "q": "Արդյո՞ք այս մոդելը տեղին կլինի գործնական կոստյումի հետ։",
-        "a": "Ազնվազարմ մանրամասների և օձիքը հեռացնելու հնարավորության շնորհիվ, Soresina-ն կատարելապես լրացնում է Oneta 0101 խիստ տաբատները ՝ պահպանելով հավասարակշռությունը պաշտոնականության և հարմարավետության միջև։"
+        "a": "Ազնվազարմ մանրամասների և օձիքը հեռացնելու հնարավորության շնորհիվ, Soresina-ն կատարելապես լրացնում է Oneta 0101 խիստ տաբատները (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg պահպանելով հավասարակշռությունը պաշտոնականության և հարմարավետության միջև։."
       }
     ],
     "lv": [
       {
-        "q": "Man šķiet, ka stepētā dūnu jaka vizuāli piešķirs lieku apjomu.",
+        "q": "Man šķiet, ka stepētā dūnu jaka vizuāli piešķirs lieku apjomu",
         "a": "Norādiet uz sānu šķēlumiem un izsvērto «regular fit» siluetu, kas strukturē figūru un nodrošina kustību vieglumu, nepadarot tēlu smagnēju."
       },
       {
-        "q": "Es dodu priekšroku 100% dabīgām kažokādām.",
+        "q": "Es dodu priekšroku 100% dabīgām kažokādām",
         "a": "Paskaidrojiet, ka izmantotā eko-kažokāda (eco-fur) no Luisa Spagnoli ir ne tikai ētiski ražota, bet arī pārspēj dabīgo izturības ziņā, saglabājot nevainojamu faktūru pat paaugstināta mitruma apstākļos."
       },
       {
-        "q": "Sintētiskais auduma sastāvs var būt mazāk izturīgs.",
+        "q": "Sintētiskais auduma sastāvs var būt mazāk izturīgs",
         "a": "Uzsveriet, ka poliestera un poliamīda kombinācija ir tehnoloģisks standarts premium klases virsdrēbēm, kas garantē aizsardzību pret vēju un izstrādājuma formas saglabāšanu daudzu sezonu garumā."
       },
       {
-        "q": "Šī dūnu jaka melnā krāsā izskatās pārāk vienkārši.",
+        "q": "Šī dūnu jaka melnā krāsā izskatās pārāk vienkārši",
         "a": "Lieciet uzsvaru uz faktūru spēli: matētais stepētais audums kontrastē ar eko-kažokādas spīdumu un pītajām pogu detaļām, radot daudzšķautņainu un dziļu tēlu."
       },
       {
         "q": "Vai šis modelis būs piemērots lietišķam kostīmam?",
-        "a": "Pateicoties aristokrātiskajām detaļām un iespējai noņemt apkakli, Soresina lieliski papildina stingrās bikses Oneta 0101, saglabājot līdzsvaru starp formālumu un komfortu."
+        "a": "Pateicoties aristokrātiskajām detaļām un iespējai noņemt apkakli, Soresina lieliski papildina stingrās bikses Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg saglabājot līdzsvaru starp formālumu un komfortu."
       }
     ],
     "lt": [
       {
-        "q": "Man atrodo, kad dygsniuotas pūkinis paltas vizualiai pridės papildomos apimties.",
+        "q": "Man atrodo, kad dygsniuotas pūkinis paltas vizualiai pridės papildomos apimties",
         "a": "Nurodykite šoninius skeltukus ir suderintą „regular fit“ siluetą, kurie struktūruoja figūrą ir užtikrina judesių lengvumą, neapsunkindami įvaizdžio."
       },
       {
-        "q": "Pirmenybę teikiu 100% natūraliam kailiui.",
+        "q": "Pirmenybę teikiu 100% natūraliam kailiui",
         "a": "Paaiškinkite, kad Luisa Spagnoli naudojamas eko-kailis (eco-fur) yra ne tik etiškas, bet ir pranoksta natūralų savo dėvėjimosi savybėmis, išlaikydamas nepriekaištingą faktūrą net esant dideliam drėgnumui."
       },
       {
-        "q": "Sintetinė audinio sudėtis gali būti mažiau ilgaamžė.",
+        "q": "Sintetinė audinio sudėtis gali būti mažiau ilgaamžė",
         "a": "Pabrėžkite, kad poliesterio ir poliamido derinys yra aukščiausios klasės viršutinių drabužių technologinis standartas, garantuojantis apsaugą nuo vėjo ir gaminio formos išlaikymą daugelį sezonų."
       },
       {
-        "q": "Šis pūkinis paltas atrodo pernelyg paprastai juodos spalvos.",
+        "q": "Šis pūkinis paltas atrodo pernelyg paprastai juodos spalvos",
         "a": "Akcentuokite faktūrų žaismą: matinis dygsniuotas audinys kontrastuoja su eko-kailio žvilgesiu ir pintomis sagų detalėmis, sukuriant daugiasluoksnį ir gilų įvaizdį."
       },
       {
         "q": "Ar šis modelis tiks prie dalykinio kostiumo?",
-        "a": "Dėka aristokratiškų detalių ir galimybės nuimti apykaklę, Soresina idealiai papildo griežtas kelnes Oneta 0101, išlaikydama balansą tarp formalumo ir komforto."
+        "a": "Dėka aristokratiškų detalių ir galimybės nuimti apykaklę, Soresina idealiai papildo griežtas kelnes Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg išlaikydama balansą tarp formalumo ir komforto."
       }
     ],
     "pl": [
       {
-        "q": "Wydaje mi się, że pikowana kurtka puchowa będzie optycznie dodawać zbędnej objętości.",
+        "q": "Wydaje mi się, że pikowana kurtka puchowa będzie optycznie dodawać zbędnej objętości",
         "a": "Wskaż na boczne rozcięcia i wyważony krój regular fit, które strukturyzują figurę i zapewniają lekkość ruchów, nie obciążając stylizacji."
       },
       {
-        "q": "Preferuję 100% naturalne futro.",
+        "q": "Preferuję 100% naturalne futro",
         "a": "Wyjaśnij, że użyte eco-fur od Luisa Spagnoli jest nie tylko etyczne, ale przewyższa naturalne futro pod względem odporności na zużycie, zachowując nienaganną fakturę nawet przy podwyższonej wilgotności."
       },
       {
-        "q": "Syntetyczny skład tkaniny może być mniej trwały.",
+        "q": "Syntetyczny skład tkaniny może być mniej trwały",
         "a": "Podkreśl, że połączenie poliestru i poliamidu to technologiczny standard dla odzieży wierzchniej klasy premium, gwarantujący wiatroszczelność i zachowanie formy produktu przez wiele sezonów."
       },
       {
-        "q": "Ta kurtka puchowa wygląda zbyt prosto w czarnym kolorze.",
+        "q": "Ta kurtka puchowa wygląda zbyt prosto w czarnym kolorze",
         "a": "Postaw akcent na grę faktur: matowa pikowana tkanina kontrastuje z blaskiem eco-fur i plecionymi detalami guzików, tworząc wielowymiarowy i głęboki wizerunek."
       },
       {
         "q": "Czy ten model będzie odpowiedni do garnituru biznesowego?",
-        "a": "Dzięki arystokratycznym detalom i możliwości odpięcia kołnierza, Soresina idealnie dopełnia eleganckie spodnie Oneta 0101, zachowując balans między formalnością a komfortem."
+        "a": "Dzięki arystokratycznym detalom i możliwości odpięcia kołnierza, Soresina idealnie dopełnia eleganckie spodnie Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg zachowując balans między formalnością a komfortem."
       }
     ],
     "uk": [
       {
-        "q": "Мені здається, що стьобаний пуховик буде візуально додавати зайвий об'єм.",
+        "q": "Мені здається, що стьобаний пуховик буде візуально додавати зайвий об'єм",
         "a": "Вкажіть на бічні розрізи та вивірений силует regular fit, які структурують фігуру та забезпечують легкість рухів, не обтяжуючи образ."
       },
       {
-        "q": "Я віддаю перевагу 100% натуральному хутру.",
+        "q": "Я віддаю перевагу 100% натуральному хутру",
         "a": "Поясніть, що використовуване екохутро (eco-fur) від Luisa Spagnoli не тільки етичне, а й перевершує натуральне за зносостійкістю, зберігаючи бездоганну фактуру навіть при підвищеній вологості."
       },
       {
-        "q": "Синтетичний склад тканини може бути менш довговічним.",
+        "q": "Синтетичний склад тканини може бути менш довговічним",
         "a": "Підкресліть, що поєднання поліестеру та поліаміду — це технологічний стандарт для верхнього одягу преміум-класу, який гарантує вітрозахист та збереження форми виробу протягом багатьох сезонів."
       },
       {
-        "q": "Цей пуховик виглядає занадто просто в чорному кольорі.",
+        "q": "Цей пуховик виглядає занадто просто в чорному кольорі",
         "a": "Зробіть акцент на грі фактур: матова стьобана тканина контрастує з блиском екохутра та плетеними деталями ґудзиків, створюючи багатогранний і глибокий образ."
       },
       {
         "q": "Чи буде ця модель доречною з діловим костюмом?",
-        "a": "Завдяки аристократичним деталям і можливості прибрати комір, Soresina ідеально доповнює суворі штани Oneta 0101, зберігаючи баланс між формальністю та комфортом."
+        "a": "Завдяки аристократичним деталям і можливості прибрати комір, Soresina ідеально доповнює суворі штани Oneta 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/q_ccIh8SQYKBjrGDLbLzIA_575509728696f42e952ac78_02205855_02820690XX1.jpg зберігаючи баланс між формальністю та комфортом."
       }
     ]
   }

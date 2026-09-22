@@ -175,11 +175,11 @@
   "objections": {
     "en": [
       {
-        "q": "The model seems too loose and may add volume.",
+        "q": "The model seems too loose and may add volume",
         "a": "The voluminous cut is designed to create an on-trend oversized silhouette. Paired with a slim bottom (such as skinny trousers), the pullover instead accentuates the delicacy of the figure."
       },
       {
-        "q": "Concern that the turtleneck collar will be uncomfortable.",
+        "q": "Concern that the turtleneck collar will be uncomfortable",
         "a": "Thanks to the addition of cashmere, the collar has a particular softness. Its relaxed 'morbido collo dolcevita' shape does not constrict the neck, ensuring comfort."
       },
       {
@@ -187,7 +187,7 @@
         "a": "The use of high-quality carded wool minimizes pilling. We recommend professional cleaning or gentle hand-washing to preserve the fibers' plush texture."
       },
       {
-        "q": "The Blu Inchiostro shade seems too dark.",
+        "q": "The Blu Inchiostro shade seems too dark",
         "a": "This is a deep, noble shade that this season serves as a status-defining alternative to black. It beautifully illuminates the face, especially when paired with gold-tone accessories."
       },
       {
@@ -197,55 +197,47 @@
     ],
     "ru": [
       {
-        "q": "Модель кажется слишком свободной и может полнить.",
-        "a": "Объемный крой разработан для создания актуального оверсайз-силуэта. В сочетании с узким низом (например, брюками-скинни) пуловер, напротив, подчеркивает хрупкость фигуры."
+        "q": "Модель кажется слишком свободной и может добавить объем",
+        "a": "Объемный крой призван создать актуальный силуэт оверсайз. В сочетании с узким низом (например, облегающими брюками) пуловер, напротив, подчеркивает хрупкость фигуры."
       },
       {
-        "q": "Боязнь, что воротник-гольф будет вызывать дискомфорт.",
-        "a": "Благодаря добавлению кашемира воротник обладает особой мягкостью. Его свободная форма 'morbido collo dolcevita' не сдавливает шею, обеспечивая уют."
+        "q": "Опасение, что воротник-гольф будет доставлять дискомфорт",
+        "a": "Благодаря добавлению кашемира воротник обладает особой мягкостью. Его расслабленная форма 'morbido collo dolcevita' не сдавливает шею, обеспечивая комфорт."
       },
       {
         "q": "Как ухаживать за такой деликатной смесью шерсти и кашемира?",
-        "a": "Использование кардной шерсти высокого качества минимизирует пилинг. Мы рекомендуем профессиональную чистку или бережную ручную стирку для сохранения пушистой структуры волокон."
+        "a": "Использование высококачественной кардной шерсти минимизирует образование катышков. Мы рекомендуем профессиональную чистку или бережную ручную стирку для сохранения пушистости волокон."
       },
       {
-        "q": "Цвет Blu Inchiostro кажется слишком темным.",
-        "a": "Это глубокий и благородный оттенок, который в этом сезоне является статусной альтернативой черному. Он великолепно подсвечивает лицо, особенно в сочетании с золотыми аксессуарами."
+        "q": "Оттенок Blu Inchiostro кажется слишком темным",
+        "a": "Это глубокий, благородный цвет, который в этом сезоне служит статусным альтернативным вариантом черному. Он красиво подсвечивает лицо, особенно в сочетании с золотистыми аксессуарами."
       },
       {
-        "q": "Можно ли адаптировать эту модель для более формального выхода?",
-        "a": "Безусловно. Добавление эффектных украшений, таких как брошь Nabrezina или колье Navali, мгновенно повышает градус нарядности образа."
+        "q": "Можно ли адаптировать эту модель для более формального случая?",
+        "a": "Безусловно. Добавление акцентных украшений, таких как брошь Nabrezina или колье Navali, мгновенно повышает градус формальности образа."
       }
     ],
     "ar": [
       {
-        "q": "القطعة تبدو واسعة جداً وقد تزيد من حجم القوام.",
+        "q": "القطعة تبدو واسعة جداً وقد تزيد من حجم القوام",
         "a": "صممت القصة الواسعة لخلق مظهر 'أوفيرسايز' عصري. وبدمجها مع قطعة سفلية ضيقة (مثل بناطيل السكيني)، يبرز البلوفر هشاشة القوام بشكل جذاب."
       },
       {
-        "q": "الخوف من أن ياقة الجولف ستسبب عدم الراحة.",
-        "a": "بفضل إضافة الكشمير، تتميز الياقة بنعومة فائقة. شكلها الحر 'morbido collo dolcevita' لا يضغط على الرقبة ويضمن الراحة."
+        "q": "الخوف من أن ياقة الجولف ستسبب عدم الراحة",
+        "a": "بفضل إضافة الكشمير، تتميز الياقة بنعومة فائقة. شكلها الحر 'morbido collo dolcevita' لا يضغط على الرقبة ويضمن الراحة. «كيفية العناية بهذا المزيج الرقيق من الصوف والكشمير؟» استخدام الصوف الممشط عالي الجودة يقلل من احتمالية التوبر. نوصي بالتنظيف الاحترافي أو الغسيل اليدوي اللطيف للحفاظ على بنية الألياف."
       },
       {
-        "q": "كيفية العناية بهذا المزيج الرقيق من الصوف والكشمير؟",
-        "a": "استخدام الصوف الممشط عالي الجودة يقلل من احتمالية التوبر. نوصي بالتنظيف الاحترافي أو الغسيل اليدوي اللطيف للحفاظ على بنية الألياف."
-      },
-      {
-        "q": "لون Blu Inchiostro يبدو داكناً جداً.",
-        "a": "إنه لون عميق ونبيل، وهو هذا الموسم بديل فخم للون الأسود. يضيء الوجه بشكل رائع، خاصة عند تنسيقه مع الإكسسوارات الذهبية."
-      },
-      {
-        "q": "هل يمكن تكييف هذه القطعة للخروجات الرسمية؟",
-        "a": "بالطبع. إضافة إكسسوارات ملفتة مثل دبوس Nabrezina أو قلادة Navali ترفع فوراً من مستوى فخامة المظهر."
+        "q": "لون Blu Inchiostro يبدو داكناً جداً",
+        "a": "إنه لون عميق ونبيل، وهو هذا الموسم بديل فخم للون الأسود. يضيء الوجه بشكل رائع، خاصة عند تنسيقه مع الإكسسوارات الذهبية. «هل يمكن تكييف هذه القطعة للخروجات الرسمية؟» بالطبع. إضافة إكسسوارات ملفتة مثل دبوس Nabrezina أو قلادة Navali ترفع فوراً من مستوى فخامة المظهر."
       }
     ],
     "ka": [
       {
-        "q": "მოდელი ზედმეტად თავისუფალი ჩანს და შეიძლება ასუქებდეს.",
+        "q": "მოდელი ზედმეტად თავისუფალი ჩანს და შეიძლება ასუქებდეს",
         "a": "მოცულობითი კროი შემუშავებულია აქტუალური ოვერსაიზ-სილუეტის შესაქმნელად. ვიწრო ქვედა ნაწილთან (მაგალითად, ვიწრო შარვალთან) კომბინაციაში, პულოვერი, პირიქით, ხაზს უსვამს ფიგურის სისუსტეს."
       },
       {
-        "q": "შიში იმისა, რომ გოლფ-საყელო დისკომფორტს გამოიწვევს.",
+        "q": "შიში იმისა, რომ გოლფ-საყელო დისკომფორტს გამოიწვევს",
         "a": "ქაშმირის დამატების წყალობით საყელოს გააჩნია განსაკუთრებული რბილობა. მისი თავისუფალი ფორმა 'morbido collo dolcevita' არ უჭერს ყელს და უზრუნველყოფს სიმყუდროვეს."
       },
       {
@@ -253,7 +245,7 @@
         "a": "მაღალი ხარისხის კარდული მატყლის გამოყენება ამცირებს დაკოტვას. ჩვენ რეკომენდაციას ვუწევთ პროფესიონალურ წმენდას ან ფრთხილ ხელის დაბანას ბოჭკოების ფუმფულა სტრუქტურის შესანარჩუნებლად."
       },
       {
-        "q": "Blu Inchiostro ფერი ზედმეტად მუქი ჩანს.",
+        "q": "Blu Inchiostro ფერი ზედმეტად მუქი ჩანს",
         "a": "ეს არის ღრმა და კეთილშობილური ტონი, რომელიც ამ სეზონზე შავის სტატუსურ ალტერნატივას წარმოადგენს. იგი შესანიშნავად ანათებს სახეს, განსაკუთრებით ოქროს აქსესუარებთან კომბინაციაში."
       },
       {
@@ -264,32 +256,36 @@
     "hy": [
       {
         "q": "Մոդելը չափազանց ազատ է թվում և կարող է գիրացնել։",
-        "a": "Ծավալային կտրվածքը մշակվել է արդիական օվերսայզ ուրվագիծ ստեղծելու համար։ Նեղ ներքնազգեստի (օրինակ՝ սքինի տաբատների) հետ համակցությամբ պուլովերը, ընդհակառակը, ընդգծում է կազմվածքի փխրունությունը։"
+        "a": "Ծավալային կտրվածքը մշակվել է արդիական օվերսայզ ուրվագիծ ստեղծելու համար։ Նեղ ներքնազգեստի (օրինակ՝ սքինի տաբատների) հետ համակցությամբ պուլովերը, ընդհակառակը, ընդգծում է կազմվածքի փխրունությունը։."
       },
       {
         "q": "Մտավախություն, որ գոլֆ օձիքը անհարմարություն կառաջացնի։",
-        "a": "Քաշմիրի ավելացման շնորհիվ օձիքն ունի հատուկ փափկություն։ Դրա «morbido collo dolcevita» ազատ ձևը չի ճնշում պարանոցը՝ ապահովելով հարմարավետություն։"
+        "a": "Քաշմիրի ավելացման շնորհիվ օձիքն ունի հատուկ փափկություն։ Դրա."
+      },
+      {
+        "q": "morbido collo dolcevita",
+        "a": "ազատ ձևը չի ճնշում պարանոցը՝ ապահովելով հարմարավետություն։."
       },
       {
         "q": "Ինչպե՞ս խնամել բրդի և քաշմիրի այսպիսի նուրբ խառնուրդը։",
-        "a": "Բարձրորակ քարտային բրդի օգտագործումը նվազագույնի է հասցնում գնդիկների առաջացումը։ Մենք խորհուրդ ենք տալիս մասնագիտական մաքրում կամ զգույշ ձեռքով լվացում՝ թելերի փափուկ կառուցվածքը պահպանելու համար։"
+        "a": "Բարձրորակ քարտային բրդի օգտագործումը նվազագույնի է հասցնում գնդիկների առաջացումը։ Մենք խորհուրդ ենք տալիս մասնագիտական մաքրում կամ զգույշ ձեռքով լվացում՝ թելերի փափուկ կառուցվածքը պահպանելու համար։."
       },
       {
         "q": "Blu Inchiostro գույնը չափազանց մուգ է թվում։",
-        "a": "Սա խորը և ազնվական երանգ է, որն այս մրցաշրջանում հանդիսանում է սևի կարգավիճակային այլընտրանք։ Այն հրաշալի կերպով լուսավորում է դեմքը, հատկապես ոսկեգույն աքսեսուարների հետ համակցությամբ։"
+        "a": "Սա խորը և ազնվական երանգ է, որն այս մրցաշրջանում հանդիսանում է սևի կարգավիճակային այլընտրանք։ Այն հրաշալի կերպով լուսավորում է դեմքը, հատկապես ոսկեգույն աքսեսուարների հետ համակցությամբ։."
       },
       {
         "q": "Հնարավո՞ր է արդյոք այս մոդելը հարմարեցնել ավելի պաշտոնական ելքի համար։",
-        "a": "Անշուշտ։ Էֆեկտիվ զարդերի ավելացումը, ինչպիսիք են Nabrezina բրոշը կամ Navali վզնոցը, ակնթարթորեն բարձրացնում է կերպարի տոնականությունը։"
+        "a": "Անշուշտ։ Էֆեկտիվ զարդերի ավելացումը, ինչպիսիք են Nabrezina բրոշը կամ Navali վզնոցը, ակնթարթորեն բարձրացնում է կերպարի տոնականությունը։."
       }
     ],
     "lv": [
       {
-        "q": "Modelis šķiet pārāk brīvs un var padarīt pilnīgāku.",
+        "q": "Modelis šķiet pārāk brīvs un var padarīt pilnīgāku",
         "a": "Apjomīgais piegriezums ir izstrādāts aktuāla oversize silueta radīšanai. Kombinācijā ar šauru apakšdaļu (piemēram, skinny biksēm) pulovers, gluži pretēji, izceļ figūras trauslumu."
       },
       {
-        "q": "Bailes, ka golfa apkakle var radīt diskomfortu.",
+        "q": "Bailes, ka golfa apkakle var radīt diskomfortu",
         "a": "Pateicoties kašmira pievienojumam, apkakle ir īpaši mīksta. Tās brīvā 'morbido collo dolcevita' forma nespiež kaklu, nodrošinot omulību."
       },
       {
@@ -297,7 +293,7 @@
         "a": "Augstas kvalitātes kārstās vilnas izmantošana mazina pūkošanos (pīlingu). Mēs iesakām profesionālu tīrīšanu vai saudzīgu mazgāšanu ar rokām, lai saglabātu šķiedru pūkaino struktūru."
       },
       {
-        "q": "Blu Inchiostro krāsa šķiet pārāk tumša.",
+        "q": "Blu Inchiostro krāsa šķiet pārāk tumša",
         "a": "Tas ir dziļš un cēls tonis, kas šajā sezonā ir statusa alternatīva melnajai krāsai. Tas lieliski izgaismo seju, īpaši kombinācijā ar zelta aksesuāriem."
       },
       {
@@ -307,11 +303,11 @@
     ],
     "lt": [
       {
-        "q": "Modelis atrodo pernelyg laisvas ir gali stambinti.",
+        "q": "Modelis atrodo pernelyg laisvas ir gali stambinti",
         "a": "Tūrinis kirpimas sukurtas siekiant sukurti aktualų oversize siluetą. Derinant su siaura apatine dalimi (pavyzdžiui, siaurėjančiomis kelnėmis), megztinis, priešingai, pabrėžia figūros trapumą."
       },
       {
-        "q": "Baimė, kad golfo tipo apykaklė kels diskomfortą.",
+        "q": "Baimė, kad golfo tipo apykaklė kels diskomfortą",
         "a": "Dėl pridėto kašmyro apykaklė yra itin minkšta. Jos laisva morbido collo dolcevita forma neveržia kaklo ir suteikia jaukumo."
       },
       {
@@ -319,7 +315,7 @@
         "a": "Aukštos kokybės karšinės vilnos naudojimas sumažina vėlimąsi. Rekomenduojame profesionalų valymą arba švelnų rankinį skalbimą, kad išsaugotumėte purią pluoštų struktūrą."
       },
       {
-        "q": "Blu Inchiostro spalva atrodo pernelyg tamsi.",
+        "q": "Blu Inchiostro spalva atrodo pernelyg tamsi",
         "a": "Tai gilus ir kilnus atspalvis, kuris šį sezoną yra statusinė alternatyva juodai spalvai. Jis puikiai išryškina veidą, ypač derinant su auksiniais aksesuarais."
       },
       {
@@ -329,11 +325,11 @@
     ],
     "pl": [
       {
-        "q": "Model wydaje się zbyt luźny i może pogrubiać.",
+        "q": "Model wydaje się zbyt luźny i może pogrubiać",
         "a": "Obszerny krój został zaprojektowany w celu stworzenia aktualnej sylwetki oversize. W połączeniu z wąskim dołem (na przykład spodniami typu skinny), sweter wręcz przeciwnie – podkreśla kruchość figury."
       },
       {
-        "q": "Obawa, że golf będzie powodował dyskomfort.",
+        "q": "Obawa, że golf będzie powodował dyskomfort",
         "a": "Dzięki dodatkowi kaszmiru kołnierz posiada wyjątkową miękkość. Jego luźna forma 'morbido collo dolcevita' nie uciska szyi, zapewniając przytulność."
       },
       {
@@ -341,7 +337,7 @@
         "a": "Zastosowanie wysokiej jakości wełny zgrzebnej minimalizuje mechacenie. Zalecamy profesjonalne czyszczenie lub delikatne pranie ręczne w celu zachowania puszystej struktury włókien."
       },
       {
-        "q": "Kolor Blu Inchiostro wydaje się zbyt ciemny.",
+        "q": "Kolor Blu Inchiostro wydaje się zbyt ciemny",
         "a": "To głęboki i szlachetny odcień, który w tym sezonie jest prestiżową alternatywą dla czerni. Wspaniale rozświetla twarz, zwłaszcza w połączeniu ze złotymi dodatkami."
       },
       {
@@ -351,11 +347,11 @@
     ],
     "uk": [
       {
-        "q": "Модель здається занадто вільною і може повнити.",
+        "q": "Модель здається занадто вільною і може повнити",
         "a": "Об'ємний крій розроблений для створення актуального оверсайз-силуету. У поєднанні з вузьким низом (наприклад, брюками-скінні) пуловер, навпаки, підкреслює тендітність фігури."
       },
       {
-        "q": "Побоювання, що комір-гольф викликатиме дискомфорт.",
+        "q": "Побоювання, що комір-гольф викликатиме дискомфорт",
         "a": "Завдяки додаванню кашеміру комір володіє особливою м'якістю. Його вільна форма 'morbido collo dolcevita' не стискає шию, забезпечуючи затишок."
       },
       {
@@ -363,7 +359,7 @@
         "a": "Використання кардної вовни високої якості мінімізує пілінг. Ми рекомендуємо професійну чистку або дбайливе ручне прання для збереження пухнастої структури волокон."
       },
       {
-        "q": "Колір Blu Inchiostro здається занадто темним.",
+        "q": "Колір Blu Inchiostro здається занадто темним",
         "a": "Це глибокий і благородний відтінок, який у цьому сезоні є статусною альтернативою чорному. Він чудово підсвічує обличчя, особливо в поєднанні з золотими аксесуарами."
       },
       {

@@ -253,30 +253,50 @@
   "objections": {
     "en": [
       {
-        "q": "A",
-        "a": "short sleeve Explain that 100% virgin wool retains warmth isn't practical for excellently. The piece is ideal for heated offices winter» or as a mid-layer under jackets and coats, where a bulky long sleeve might otherwise get in the way. «The wool might Suggest a tactile test of the softness of pura be itchy» lana vergine. This is the most delicate first-shearing fiber, designed for maximum comfort even in direct contact with the skin. «The loose cut will Point out that a soft fit (linea morbida) is hide my figure» now a hallmark of the modern \"Quiet Luxury\" style. The pullover creates the right volume, which is easily balanced with a slim-fitting bottom (Orville 0101). «The diamond Emphasize that \"Heritage\" style is a key trend pattern seems too this season. Paired with trend-driven denim traditional» (Opaglio 0927), the classic diamond motif reads as fashion-forward and intellectual. «The mother-of- Assure the client that the natural mother-of- pearl buttons seem pearl used in Luisa Spagnoli pieces undergoes too fragile» rigorous selection for density. It's not mere decoration, but a symbol of genuine luxury that underscores the piece's status"
+        "q": "A short sleeve Explain that 100% virgin wool retains warmth isn't practical for excellently. The piece is ideal for heated offices winter",
+        "a": "or as a mid-layer under jackets and coats, where a bulky long sleeve might otherwise get in the way."
+      },
+      {
+        "q": "The wool might Suggest a tactile test of the softness of pura be itchy",
+        "a": "lana vergine. This is the most delicate first-shearing fiber, designed for maximum comfort even in direct contact with the skin."
+      },
+      {
+        "q": "The loose cut will Point out that a soft fit (linea morbida) is hide my figure",
+        "a": "now a hallmark of the modern \"Quiet Luxury\" style. The pullover creates the right volume, which is easily balanced with a slim-fitting bottom (Orville 0101)."
+      },
+      {
+        "q": "The diamond Emphasize that \"Heritage\" style is a key trend pattern seems too this season. Paired with trend-driven denim traditional",
+        "a": "(Opaglio 0927), the classic diamond motif reads as fashion-forward and intellectual."
+      },
+      {
+        "q": "The mother-of- Assure the client that the natural mother-of- pearl buttons seem pearl used in Luisa Spagnoli pieces undergoes too fragile",
+        "a": "rigorous selection for density. It's not mere decoration, but a symbol of genuine luxury that underscores the piece's status. ![](media/image76.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image77.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Короткий рукав",
-        "a": "Объясните, что 100% девственная шерсть отлично непрактичен для сохраняет тепло. Модель идеальна для офисов с зимы отоплением или как средний слой под жакеты и пальто, где объемный длинный рукав мог бы мешать."
+        "q": "Короткий рукав непрактичен для зимы",
+        "a": "> Объясните, что 100% натуральная шерсть превосходно сохраняет тепло. Изделие идеально для офиса или в качестве промежуточного слоя под жакеты и пальто, где объемный длинный рукав мог бы создавать неудобства."
       },
       {
-        "q": "Шерсть может",
-        "a": "Предложите тактильно оценить мягкость pura lana колоться vergine. Это самое деликатное волокно первой стрижки, которое разработано для максимального комфорта даже при прямом контакте с кожей."
+        "q": "Шерсть может колоться",
+        "a": "> Предложите тактильный тест pura lana vergine — это нежнейшее волокно первой стрижки, созданное для максимального комфорта даже при прямом контакте с кожей."
       },
       {
-        "q": "Свободный крой",
-        "a": "Укажите на то, что мягкая посадка сейчас является (linea morbida) маркером современного стиля «Quiet Luxury . скроет фигуру» Пуловер создает правильный объем, который легко сбалансировать узким низом (Orville 0101)."
+        "q": "Свободный крой скроет фигуру",
+        "a": "> Отметьте, что мягкая посадка (linea morbida) — визитная карточка современного стиля."
       },
       {
-        "q": "Узор в ромбик",
-        "a": "Подчеркните, что стиль «Heritage — это ключевой кажется слишком тренд сезона. В сочетании с трендовым денимом традиционным» (Opaglio 0927) классические ромбы выглядят остромодно и интеллектуально."
+        "q": "тихой роскоши",
+        "a": ". Пуловер создает правильный объем, который легко балансируется приталенным низом (Orville 0101)."
       },
       {
-        "q": "Перламутровые",
-        "a": "Заверьте клиента, что натуральный перламутр в пуговицы слишком изделиях Luisa Spagnoli проходит строгий отбор по хрупкие плотности. Это не просто декор, а символ подлинной роскоши, подчеркивающий статус вещи."
+        "q": "Узор \"ромб\" кажется слишком традиционным",
+        "a": "> Подчеркните, что стиль Heritage — ключевой тренд сезона. В сочетании с актуальным денимом (Opaglio 0927) классический мотив ромба выглядит модно и интеллектуально."
+      },
+      {
+        "q": "Перламутровые пуговицы кажутся слишком хрупкими",
+        "a": "> Уверьте клиента, что натуральный перламутр в изделиях Luisa Spagnoli проходит строгий отбор на плотность. Это не просто декор, а символ подлинной роскоши, подчеркивающий статус изделия."
       }
     ],
     "ar": [
@@ -306,7 +326,7 @@
       },
       {
         "q": "أزرار اللؤلؤ هشة للغاية",
-        "a": "طمئن العميل بأن اللؤلؤ الطبيعي المستخدم في منتجات Luisa Spagnoli يخضع لاختبارات صارمة من حيث الكثافة، فهو ليس مجرد زينة بل رمز للفخامة الحقيقية."
+        "a": "طمئن العميل بأن اللؤلؤ الطبيعي المستخدم في منتجات Luisa Spagnoli يخضع لاختبارات صارمة من حيث الكثافة، فهو ليس مجرد زينة بل رمز للفخامة الحقيقية. ![](media/image76.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image77.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -350,29 +370,29 @@
       },
       {
         "q": "Մարգարտյա կոճակները չափազանց փխրուն են",
-        "a": "՝ Հավաստիացրեք հաճախորդին, որ Luisa Spagnoli-ի իրերում բնական մարգարիտը անցնում է խտության խիստ ընտրություն: Սա պարզապես դեկոր չէ, այլ իսկական շքեղության խորհրդանիշ, որն ընդգծում է իրի կարգավիճակը."
+        "a": "՝ Հավաստիացրեք հաճախորդին, որ Luisa Spagnoli-ի իրերում բնական մարգարիտը անցնում է խտության խիստ ընտրություն: Սա պարզապես դեկոր չէ, այլ իսկական շքեղության խորհրդանիշ, որն ընդգծում է իրի կարգավիճակը: ![](media/image76.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image77.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Īsa piedurkne",
-        "a": "Izskaidrojiet, ka 100% tīra vilna lieliski saglabā nav praktiska siltumu. Modelis ir ideāls birojiem ar apkuri vai kā ziemai vidējā kārta zem jakām un mēteļiem, kur apjomīga gara piedurkne varētu traucēt."
+        "q": "Īsa piedurkne Izskaidrojiet, ka 100% tīra vilna lieliski saglabā nav praktiska siltumu. Modelis ir ideāls birojiem ar apkuri vai kā ziemai",
+        "a": "vidējā kārta zem jakām un mēteļiem, kur apjomīga gara piedurkne varētu traucēt."
       },
       {
-        "q": "Vilna var",
-        "a": "Piedāvājiet taktilā veidā novērtēt pura lana vergine durt mīkstumu. Tā ir pati delikātākā pirmās cirpšanas šķiedra, kas izstrādāta maksimālam komfortam pat tiešā saskarē ar ādu."
+        "q": "Vilna var Piedāvājiet taktilā veidā novērtēt pura lana vergine durt",
+        "a": "mīkstumu. Tā ir pati delikātākā pirmās cirpšanas šķiedra, kas izstrādāta maksimālam komfortam pat tiešā saskarē ar ādu."
       },
       {
-        "q": "Brīvs piegriezums",
-        "a": "Norādiet uz to, ka mīksts piegriezums (linea morbida) (linea morbida) tagad ir modernā «Quiet Luxury slēps figūru» stila pazīme. Pulovers rada pareizo apjomu, kuru ir viegli sabalansēt ar šauru apakšdaļu (Orville 0101)."
+        "q": "Brīvs piegriezums Norādiet uz to, ka mīksts piegriezums (linea morbida) (linea morbida) tagad ir modernā «Quiet Luxury",
+        "a": "slēps figūru» stila pazīme. Pulovers rada pareizo apjomu, kuru ir viegli sabalansēt ar šauru apakšdaļu (Orville 0101)."
       },
       {
-        "q": "Rombu raksts",
-        "a": "Uzsveriet, ka «Heritage stils ir sezonas galvenā šķiet pārāk tendence. Apvienojumā ar modernu džinsu audumu tradicionāls» (Opaglio 0927) klasiskie rombi izskatās īpaši moderni un intelektuāli."
+        "q": "Rombu raksts Uzsveriet, ka «Heritage",
+        "a": "stils ir sezonas galvenā šķiet pārāk tendence. Apvienojumā ar modernu džinsu audumu tradicionāls» (Opaglio 0927) klasiskie rombi izskatās īpaši moderni un intelektuāli."
       },
       {
         "q": "Pērlamutra pogas Aplieciniet klientam, ka dabīgais pērlamutrs Luisa ir pārāk trauslas",
-        "a": "Spagnoli izstrādājumos iziet stingru atlasi pēc blīvuma. Tas nav vienkārši dekors, bet gan autentiska luksusa simbols, kas uzsver lietas statusu."
+        "a": "Spagnoli izstrādājumos iziet stingru atlasi pēc blīvuma. Tas nav vienkārši dekors, bet gan autentiska luksusa simbols, kas uzsver lietas statusu. ![](media/image76.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image77.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -446,11 +466,11 @@
       },
       {
         "q": "Heritage",
-        "a": "— це ключовий тренд сезону. У поєднанні з трендовим денімом (Opaglio 0927) класичні ромби виглядають гостромодно та інтелектуально."
+        "a": "це ключовий тренд сезону. У поєднанні з трендовим денімом (Opaglio 0927) класичні ромби виглядають гостромодно та інтелектуально."
       },
       {
         "q": "Перламутрові ґудзики занадто крихкі",
-        "a": "Запевніть клієнта, що натуральний перламутр у виробах Luisa Spagnoli проходить суворий відбір за щільністю. Це не просто декор, а символ справжньої розкоші, що підкреслює статус речі."
+        "a": "Запевніть клієнта, що натуральний перламутр у виробах Luisa Spagnoli проходить суворий відбір за щільністю. Це не просто декор, а символ справжньої розкоші, що підкреслює статус речі. ![](media/image76.jpg){width='0.5833333333333334in' height='0.78125in'}![](media/image77.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

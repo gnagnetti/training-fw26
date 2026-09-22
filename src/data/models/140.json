@@ -119,159 +119,171 @@
   "objections": {
     "en": [
       {
-        "q": "Wool may cause tingling or skin irritation.",
-        "a": "For the Merinfleur line, we use only the most delicate, highly refined virgin wool. It is hypoallergenic and has a silky texture comparable in softness to cashmere."
+        "q": "Wool may cause tingling or skin irritation",
+        "a": "For the Merinfleur line, we use only the most delicate, highly refined virgin wool. It is hypoallergenic and has a silky texture comparable in softness to cashmere. [] -> Luisa Spagnoli's 'punto stoffa' technique is specifically engineered to ensure maximum fabric stability. The dress reliably holds its sheath structure, without stretching out at the knees or elbows."
       },
       {
-        "q": "The length seems too short for serious meetings.",
+        "q": "The length seems too short for serious meetings",
         "a": "This is a classic Italian length that, paired with dense matte tights and a structured jacket, looks aristocratic and fully in keeping with business etiquette."
       },
       {
-        "q": "The absence of sleeves limits the piece's seasonality.",
+        "q": "The absence of sleeves limits the piece's seasonality",
         "a": "On the contrary, this is the ideal foundation for layering. The Maizena dress pairs beautifully with our silk blouses or fine turtlenecks, allowing for stylish ensembles in any season."
       },
       {
-        "q": "Black looks too plain.",
+        "q": "Black looks too plain",
         "a": "Black in this piece serves as a flawless canvas. It showcases the quality of the knit and allows the focus to fall on our signature jewellery, such as the Narsete necklace or the Nolanite brooch."
       }
     ],
     "ru": [
       {
-        "q": "Шерсть может вызывать покалывание или раздражение на коже.",
-        "a": "Для линии Merinfleur мы используем только самую деликатную девственную шерсть высочайшей очистки. Она отличается гипоаллергенностью и шелковистой текстурой, сравнимой по мягкости с кашемиром."
+        "q": "Шерсть может вызывать покалывание или раздражение кожи",
+        "a": "В линии Merinfleur мы используем исключительно деликатную, высокоочищенную шерсть virgin wool. Она гипоаллергенна и обладает шелковистой фактурой, сравнимой по мягкости с кашемиром."
       },
       {
-        "q": "Длина кажется слишком короткой для серьезных встреч.",
-        "a": "Это классическая итальянская длина, которая в сочетании с плотными матовыми колготками и структурированным жакетом выглядит аристократично и соответствует бизнес-этикету."
+        "q": "Изделие может растянуться",
+        "a": "Техника плетения «punto stoffa» от Luisa Spagnoli специально разработана для обеспечения максимальной стабильности полотна. Платье безупречно держит архитектурный силуэт, не теряя формы в области локтей и коленей."
       },
       {
-        "q": "Отсутствие рукавов ограничивает сезонность модели.",
-        "a": "Напротив, это идеальная основа для многослойности. Платье Maizena превосходно сочетается с нашими шелковыми блузами или тонкими водолазками, позволяя создавать стильные ансамбли для любого времени года."
+        "q": "Длина кажется слишком короткой для деловых встреч",
+        "a": "Это классическая итальянская длина, которая в сочетании с плотными матовыми колготками и структурированным жакетом выглядит аристократично и полностью соответствует бизнес-этикету."
       },
       {
-        "q": "Черный цвет выглядит слишком просто.",
-        "a": "Черный цвет в данной модели служит безупречным холстом. Он подчеркивает качество вязки и позволяет сделать акцент на наших знаковых украшениях, таких как колье Narsete или брошь Nolanite."
+        "q": "Отсутствие рукавов ограничивает сезонность изделия",
+        "a": "Напротив, это идеальная база для многослойных образов. Платье Maizena гармонично сочетается с нашими шелковыми блузами или тонкими водолазками, позволяя создавать стильные ансамбли в любое время года."
+      },
+      {
+        "q": "Черный цвет кажется слишком простым",
+        "a": "Черный цвет в данном изделии служит безупречным холстом. Он подчеркивает благородную фактуру трикотажа и позволяет акцентировать внимание на наших знаковых украшениях, таких как колье Narsete или брошь Nolanite."
       }
     ],
     "ar": [
       {
-        "q": "قد تسبب الصوف وخزاً أو تهيجاً في البشرة.",
-        "a": "بالنسبة لمجموعة Merinfleur، نستخدم فقط أجود أنواع الصوف البكر فائق النقاء. فهو يتميز بكونه مضاداً للحساسية ويمتلك ملمساً حريرياً يضاهي نعومة الكشمير."
+        "q": "قد تسبب الصوف وخزاً أو تهيجاً في البشرة",
+        "a": "بالنسبة لمجموعة Merinfleur، نستخدم فقط أجود أنواع الصوف البكر فائق النقاء. فهو يتميز بكونه مضاداً للحساسية ويمتلك ملمساً حريرياً يضاهي نعومة الكشمير. [] -> تقنية «punto stoffa» من Luisa Spagnoli مصممة خصيصاً لضمان أقصى درجات الثبات للقماش. فالفستان يحافظ على هيكله كقطعة أساسية دون أن يتمدد عند الركبتين أو المرفقين."
       },
       {
-        "q": "يبدو الطول قصيراً جداً للاجتماعات الرسمية.",
+        "q": "يبدو الطول قصيراً جداً للاجتماعات الرسمية",
         "a": "هذا هو الطول الإيطالي الكلاسيكي، الذي يبدو أرستقراطياً ومطابقاً لإتيكيت العمل عند تنسيقه مع جوارب طويلة معتمة وسترة منظمة."
       },
       {
-        "q": "غياب الأكمام يحد من إمكانية ارتداء الموديل في مواسم مختلفة.",
+        "q": "غياب الأكمام يحد من إمكانية ارتداء الموديل في مواسم مختلفة",
         "a": "على العكس تماماً، فإنه يمثل أساساً مثالياً للطبقات. يتناغم فستان Maizena بشكل رائع مع بلوزاتنا الحريرية أو الياقات العالية الرقيقة، مما يتيح لكِ ابتكار إطلالات أنيقة في أي وقت من السنة."
       },
       {
-        "q": "اللون الأسود يبدو بسيطاً للغاية.",
+        "q": "اللون الأسود يبدو بسيطاً للغاية",
         "a": "يعمل اللون الأسود في هذا الموديل كلوحة مثالية. فهو يبرز جودة الحياكة ويسمح لكِ بتسليط الضوء على قطعنا الأيقونية، مثل قلادة Narsete أو بروش Nolanite."
       }
     ],
     "ka": [
       {
-        "q": "მატყლმა შესაძლოა გამოიწვიოს ჩხვლეტა ან კანის გაღიზიანება.",
-        "a": "Merinfleur-ის ხაზისთვის ჩვენ ვიყენებთ მხოლოდ ყველაზე დელიკატურ, უმაღლესი ხარისხის პირველად მატყლს. ის გამოირჩევა ჰიპოალერგიულობითა და აბრეშუმისებრი ტექსტურით, რომელიც რბილობით ქაშმირს უტოლდება."
+        "q": "მატყლმა შესაძლოა გამოიწვიოს ჩხვლეტა ან კანის გაღიზიანება",
+        "a": "Merinfleur-ის ხაზისთვის ჩვენ ვიყენებთ მხოლოდ ყველაზე დელიკატურ, უმაღლესი ხარისხის პირველად მატყლს. ის გამოირჩევა ჰიპოალერგიულობითა და აბრეშუმისებრი ტექსტურით, რომელიც რბილობით ქაშმირს უტოლდება. [] -> Luisa Spagnoli-ს ტექნიკა „punto stoffa“ სპეციალურად არის შემუშავებული ქსოვილის მაქსიმალური მდგრადობის უზრუნველსაყოფად. კაბა მყარად ინარჩუნებს ფუტლიარის სტრუქტურას და არ იწელება მუხლებსა თუ იდაყვებზე."
       },
       {
-        "q": "სიგრძე ზედმეტად მოკლე ჩანს სერიოზული შეხვედრებისთვის.",
+        "q": "სიგრძე ზედმეტად მოკლე ჩანს სერიოზული შეხვედრებისთვის",
         "a": "ეს არის კლასიკური იტალიური სიგრძე, რომელიც მჭიდრო, მქრქალ კოლგოტებთან და სტრუქტურირებულ პიჯაკთან ერთად არისტოკრატულად გამოიყურება და შეესაბამება საქმიან ეტიკეტს."
       },
       {
-        "q": "სახელოების არარსებობა ზღუდავს მოდელის სეზონურობას.",
+        "q": "სახელოების არარსებობა ზღუდავს მოდელის სეზონურობას",
         "a": "პირიქით, ეს მრავალშრიანი სტილისთვის იდეალური საფუძველია. Maizena-ს კაბა შესანიშნავად ეხამება ჩვენს აბრეშუმის ბლუზებს ან თხელ კუსფელდებს, რაც საშუალებას გაძლევთ შექმნათ მოდური ანსამბლები წლის ნებისმიერი დროისთვის."
       },
       {
-        "q": "შავი ფერი ზედმეტად მარტივად გამოიყურება.",
+        "q": "შავი ფერი ზედმეტად მარტივად გამოიყურება",
         "a": "შავი ფერი ამ მოდელში უნაკლო ტილოს ფუნქციას ასრულებს. ის ხაზს უსვამს ქსოვის ხარისხს და საშუალებას იძლევა, აქცენტი გაკეთდეს ჩვენს საკულტო სამკაულებზე, როგორიცაა ყელსაბამი Narsete ან ბროში Nolanite."
       }
     ],
     "hy": [
       {
         "q": "Բուրդը կարող է մաշկի վրա ծակծկոց կամ գրգռվածություն առաջացնել։",
-        "a": "Merinfleur գծի համար մենք օգտագործում ենք միայն ամենանուրբ, բարձրագույն մաքրության կույս բուրդ։ Այն աչքի է ընկնում հիպոալերգենությամբ և մետաքսյա հյուսվածքով, որը փափկությամբ համեմատելի է քաշմիրի հետ։"
+        "a": "Merinfleur գծի համար մենք օգտագործում ենք միայն ամենանուրբ, բարձրագույն մաքրության կույս բուրդ։ Այն աչքի է ընկնում հիպոալերգենությամբ և մետաքսյա հյուսվածքով, որը փափկությամբ համեմատելի է քաշմիրի հետ։ [] -> Luisa Spagnoli-ի."
+      },
+      {
+        "q": "punto stoffa",
+        "a": "տեխնիկան հատուկ մշակված է կտավի առավելագույն կայունությունն ապահովելու համար։ Զգեստը հուսալիորեն պահում է պատյանի կառուցվածքը՝ չձգվելով ծնկների կամ արմունկների հատվածում։."
       },
       {
         "q": "Երկարությունը կարճ է թվում լուրջ հանդիպումների համար։",
-        "a": "Սա դասական իտալական երկարություն է, որը խիտ անթափանց զուգագուլպաների և կառուցվածքային ժակետի հետ համադրությամբ տեսքին հաղորդում է ազնվականություն և համապատասխանում է գործարար էթիկետին։"
+        "a": "Սա դասական իտալական երկարություն է, որը խիտ անթափանց զուգագուլպաների և կառուցվածքային ժակետի հետ համադրությամբ տեսքին հաղորդում է ազնվականություն և համապատասխանում է գործարար էթիկետին։."
       },
       {
         "q": "Թևերի բացակայությունը սահմանափակում է մոդելի սեզոնայնությունը։",
-        "a": "Հակառակը, սա բազմաշերտ հագուստի իդեալական հիմք է։ Maizena զգեստը հիանալի կերպով համադրվում է մեր մետաքսյա բլուզների կամ բարակ ջեմպրերի հետ՝ թույլ տալով ստեղծել նորաձև անսամբլներ տարվա ցանկացած եղանակի համար։"
+        "a": "Հակառակը, սա բազմաշերտ հագուստի իդեալական հիմք է։ Maizena զգեստը հիանալի կերպով համադրվում է մեր մետաքսյա բլուզների կամ բարակ ջեմպրերի հետ՝ թույլ տալով ստեղծել նորաձև անսամբլներ տարվա ցանկացած եղանակի համար։."
       },
       {
         "q": "Սև գույնը չափազանց պարզ է թվում։",
-        "a": "Այս մոդելում սև գույնը հանդես է գալիս որպես անթերի կտավ։ Այն ընդգծում է հյուսվածքի որակը և հնարավորություն տալիս շեշտադրել մեր նշանավոր զարդերը, ինչպիսիք են Narsete վզնոցը կամ Nolanite բրոշը։"
+        "a": "Այս մոդելում սև գույնը հանդես է գալիս որպես անթերի կտավ։ Այն ընդգծում է հյուսվածքի որակը և հնարավորություն տալիս շեշտադրել մեր նշանավոր զարդերը, ինչպիսիք են Narsete վզնոցը կամ Nolanite բրոշը։."
       }
     ],
     "lv": [
       {
-        "q": "Vilna varētu radīt kņudināšanu vai kairinājumu uz ādas.",
-        "a": "Merinfleur līnijai mēs izmantojam tikai visdelikātāko, augstākās tīrības pakāpes jaunvilnu. Tā izceļas ar hipoalerģiskumu un zīdainu tekstūru, kas mīkstuma ziņā ir salīdzināma ar kašmiru."
+        "q": "Vilna varētu radīt kņudināšanu vai kairinājumu uz ādas",
+        "a": "Merinfleur līnijai mēs izmantojam tikai visdelikātāko, augstākās tīrības pakāpes jaunvilnu. Tā izceļas ar hipoalerģiskumu un zīdainu tekstūru, kas mīkstuma ziņā ir salīdzināma ar kašmiru. [] -> Luisa Spagnoli tehnika «punto stoffa» ir īpaši izstrādāta, lai nodrošinātu maksimālu auduma stabilitāti. Kleita droši saglabā futrāļa struktūru, neizstaipoties uz ceļgaliem vai elkoņiem."
       },
       {
-        "q": "Garums šķiet pārāk īss nopietnām tikšanās reizēm.",
+        "q": "Garums šķiet pārāk īss nopietnām tikšanās reizēm",
         "a": "Šis ir klasisks itāļu garums, kas kombinācijā ar blīvām, matētām zeķubiksēm un strukturētu žaketi izskatās aristokrātiski un atbilst biznesa etiķetei."
       },
       {
-        "q": "Piedurkņu trūkums ierobežo modeļa sezonalitāti.",
+        "q": "Piedurkņu trūkums ierobežo modeļa sezonalitāti",
         "a": "Gluži pretēji, tas ir ideāls pamats slāņveida tēlam. Maizena kleita lieliski sader ar mūsu zīda blūzēm vai plānajiem džemperiem ar augstu apkakli, ļaujot izveidot stilīgus ansambļus jebkuram gadalaikam."
       },
       {
-        "q": "Melnā krāsa izskatās pārāk vienkārši.",
+        "q": "Melnā krāsa izskatās pārāk vienkārši",
         "a": "Melnā krāsa šajā modelī kalpo kā nevainojams audekls. Tā izceļ adījuma kvalitāti un ļauj likt akcentu uz mūsu ikoniskajām rotaslietām, piemēram, Narsete kaklarotu vai Nolanite brošu."
       }
     ],
     "lt": [
       {
-        "q": "Vilna gali sukelti niežulį ar odos dirginimą.",
-        "a": "„Merinfleur“ linijai naudojame tik pačią delikačiausią aukščiausio grynumo vilną. Ji pasižymi hipoalerginėmis savybėmis ir šilkine tekstūra, savo švelnumu prilygstančia kašmyrui."
+        "q": "Vilna gali sukelti niežulį ar odos dirginimą",
+        "a": "„Merinfleur“ linijai naudojame tik pačią delikačiausią aukščiausio grynumo vilną. Ji pasižymi hipoalerginėmis savybėmis ir šilkine tekstūra, savo švelnumu prilygstančia kašmyrui. [] -> „punto stoffa“ technika iš Luisa Spagnoli specialiai sukurta užtikrinti maksimalų audinio stabilumą. Suknelė patikimai išlaiko futliaro formą, neišsitampydama ties keliais ar alkūnėmis."
       },
       {
-        "q": "Ilgis atrodo per trumpas oficialiems susitikimams.",
+        "q": "Ilgis atrodo per trumpas oficialiems susitikimams",
         "a": "Tai klasikinis itališkas ilgis, kuris derinamas su tankiomis matinėmis pėdkelnėmis ir struktūruotu švarku atrodo aristokratiškai bei atitinka verslo etiketą."
       },
       {
-        "q": "Rankovių trūkumas riboja modelio sezoniškumą.",
+        "q": "Rankovių trūkumas riboja modelio sezoniškumą",
         "a": "Priešingai, tai idealus pagrindas sluoksniuotam deriniui. Suknelė Maizena puikiai dera su mūsų šilkinėmis palaidinėmis ar plonais golfais, leidžiančiais kurti stilingus ansamblius bet kuriuo metų laiku."
       },
       {
-        "q": "Juoda spalva atrodo per daug paprastai.",
+        "q": "Juoda spalva atrodo per daug paprastai",
         "a": "Juoda spalva šiame modelyje tarnauja kaip nepriekaištinga drobė. Ji pabrėžia mezgimo kokybę ir leidžia sutelkti dėmesį į mūsų ikoniškus papuošalus, tokius kaip vėrinys Narsete ar sagė Nolanite."
       }
     ],
     "pl": [
       {
-        "q": "Wełna może powodować uczucie kłucia lub podrażnienia skóry.",
-        "a": "W linii Merinfleur stosujemy wyłącznie najbardziej delikatną dziewiczą wełnę najwyższej czystości. Wyróżnia się ona hipoalergicznością oraz jedwabistą teksturą, porównywalną w swojej miękkości do kaszmiru."
+        "q": "Wełna może powodować uczucie kłucia lub podrażnienia skóry",
+        "a": "W linii Merinfleur stosujemy wyłącznie najbardziej delikatną dziewiczą wełnę najwyższej czystości. Wyróżnia się ona hipoalergicznością oraz jedwabistą teksturą, porównywalną w swojej miękkości do kaszmiru. [] -> Technika „punto stoffa” Luisa Spagnoli została opracowana specjalnie w celu zapewnienia maksymalnej stabilności dzianiny. Sukienka pewnie utrzymuje strukturę etui, nie rozciągając się na kolanach ani łokciach."
       },
       {
-        "q": "Długość wydaje się zbyt krótka na poważne spotkania.",
+        "q": "Długość wydaje się zbyt krótka na poważne spotkania",
         "a": "Jest to klasyczna włoska długość, która w połączeniu z kryjącymi, matowymi rajstopami oraz strukturalnym żakietem prezentuje się arystokratycznie i w pełni odpowiada etykiecie biznesowej."
       },
       {
-        "q": "Brak rękawów ogranicza sezonowość modelu.",
+        "q": "Brak rękawów ogranicza sezonowość modelu",
         "a": "Przeciwnie, to idealna baza do tworzenia wielowarstwowych stylizacji. Sukienka Maizena doskonale komponuje się z naszymi jedwabnymi bluzkami lub cienkimi golfami, pozwalając na tworzenie stylowych zestawów na każdą porę roku."
       },
       {
-        "q": "Czarny kolor wygląda zbyt prosto.",
+        "q": "Czarny kolor wygląda zbyt prosto",
         "a": "Czarny kolor w tym modelu służy jako bezbłędne płótno. Podkreśla jakość splotu i pozwala wyeksponować nasze kultowe ozdoby, takie jak naszyjnik Narsete czy broszka Nolanite."
       }
     ],
     "uk": [
       {
-        "q": "Вовна може викликати поколювання або подразнення на шкірі.",
-        "a": "Для лінії Merinfleur ми використовуємо лише найделікатнішу незайману вовну найвищого очищення. Вона вирізняється гіпоалергенністю та шовковистою текстурою, порівнянною за м'якістю з кашеміром."
+        "q": "Вовна може викликати поколювання або подразнення на шкірі",
+        "a": "Для лінії Merinfleur ми використовуємо лише найделікатнішу незайману вовну найвищого очищення. Вона вирізняється гіпоалергенністю та шовковистою текстурою, порівнянною за м'якістю з кашеміром. [] -> Техніка «punto stoffa» Luisa Spagnoli спеціально розроблена для забезпечення максимальної стабільності полотна. Сукня надійно тримає структуру футляра, не розтягуючись на колінах чи ліктях."
       },
       {
-        "q": "Довжина здається занадто короткою для серйозних зустрічей.",
+        "q": "Довжина здається занадто короткою для серйозних зустрічей",
         "a": "Це класична італійська довжина, яка у поєднанні з щільними матовими колготками та структурованим жакетом виглядає аристократично і відповідає бізнес-етикету."
       },
       {
-        "q": "Чорний колір виглядає занадто просто.",
+        "q": "Відсутність рукавів обмежує сезонність моделі",
+        "a": "Навпаки, це ідеальна основа для багатошаровості. Сукня Maizena чудово поєднується з нашими шовковими блузами або тонкими водолазками, дозволяючи створювати стильні ансамблі для будь-якої пори року."
+      },
+      {
+        "q": "Чорний колір виглядає занадто просто",
         "a": "Чорний колір у цій моделі слугує бездоганним полотном. Він підкреслює якість в'язки та дозволяє зробити акцент на наших знакових прикрасах, таких як кольє Narsete або брошка Nolanite."
       }
     ]

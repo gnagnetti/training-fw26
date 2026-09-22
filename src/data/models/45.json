@@ -225,192 +225,180 @@
   "objections": {
     "en": [
       {
-        "q": "The model may appear too voluminous due to its circle cut.",
+        "q": "The model may appear too voluminous due to its circle cut",
         "a": "The fabric holds sufficient body for the pleats to fall vertically, without adding volume at the hips. We recommend pairing it with a fitted top, such as the Logge top."
       },
       {
-        "q": "A mid-calf length may visually shorten the frame.",
+        "q": "A mid-calf length may visually shorten the frame",
         "a": "Paired with heeled footwear, such as the Uranio A 0101 boots, the skirt's high waist in fact visually elongates the vertical line of the silhouette."
       },
       {
-        "q": "Wool fabric may be difficult to care for in daily life.",
+        "q": "Wool fabric may be difficult to care for in daily life",
         "a": "The addition of polyester to the fabric composition (38%) significantly improves durability and minimises creasing, making the skirt practical for a busy workday."
       },
       {
-        "q": "Grey melange looks too casual.",
+        "q": "Grey melange looks too casual",
         "a": "It is precisely the refinement of the melange yarn that allows this piece to transition into eveningwear with the addition of statement jewellery, such as the Nagorno 0002 earrings."
       },
       {
-        "q": "No official data is available regarding the presence of pockets.",
+        "q": "No official data is available regarding the presence of pockets",
         "a": "The skirt's design is focused on clean lines and a fluid silhouette. For functionality, we suggest completing the look with a statement bag, such as the Idilliaco A 0986 0002."
       }
     ],
     "ru": [
       {
-        "q": "Модель кажется слишком объемной из-за кроя «солнце».",
-        "a": "Ткань обладает достаточной плотностью, чтобы складки ниспадали вертикально, не создавая лишнего объема на бедрах. Рекомендуется сочетать с приталенным верхом, например топом Logge."
+        "q": "Длина до середины икры может визуально укорачивать рост",
+        "a": "В сочетании с обувью на каблуке, например, ботильонами Uranio A 0101, высокая посадка юбки визуально вытягивает вертикаль силуэта."
       },
       {
-        "q": "Длина до середины икры может визуально укорачивать рост.",
-        "a": "В сочетании с обувью на каблуке, такой как сапоги Uranio A 0101, высокая посадка юбки, наоборот, визуально вытягивает вертикаль силуэта."
+        "q": "Шерстяная ткань может быть сложной в повседневном уходе",
+        "a": "Добавление полиэстера (38%) в состав ткани значительно повышает ее износостойкость и минимизирует сминаемость, делая юбку практичным выбором для насыщенного рабочего дня."
       },
       {
-        "q": "Шерстяная ткань может быть сложной в повседневном уходе.",
-        "a": "Добавление полиэстера в состав полотна (38%) значительно повышает износостойкость и минимизирует сминаемость, что делает юбку практичной для активного рабочего дня."
+        "q": "Серый меланж выглядит слишком повседневно",
+        "a": "Именно утонченность меланжевой пряжи позволяет этому изделию трансформироваться в вечерний наряд при добавлении акцентных украшений, таких как серьги Nagorno 0002."
       },
       {
-        "q": "Серый меланж выглядит слишком повседневно.",
-        "a": "Именно благородство меланжевой нити позволяет этой модели трансформироваться в вечернюю при добавлении акцентных украшений, таких как серьги Nagorno 0002."
-      },
-      {
-        "q": "относительно наличия карманов.",
-        "a": "Конструкция юбки сфокусирована на чистоте линий и летящем силуэте. Для функциональности мы предлагаем дополнить образ статусными сумками, такими как Idilliaco A 0986 0002."
+        "q": "Нет официальной информации о наличии карманов",
+        "a": "Дизайн юбки сфокусирован на чистоте линий и текучести силуэта. Для функциональности мы предлагаем дополнить образ статусной сумкой, например, Idilliaco A 0986 0002."
       }
     ],
     "ar": [
       {
-        "q": "يبدو الموديل ضخماً للغاية بسبب قصة «كلوش».",
-        "a": "يتمتع القماش بكثافة كافية لتنسدل الثنيات عمودياً دون خلق حجم إضافي عند الوركين. يُنصح بتنسيقه مع قطعة علوية ضيقة، مثل توب Logge."
+        "q": "طول التنورة حتى منتصف الساق قد يقلل من الطول بصرياً",
+        "a": "عند تنسيقها مع أحذية بكعب، مثل حذاء Uranio A 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_10100000000.jpg فإن الخصر العالي للتنورة يعمل على إطالة القوام عمودياً."
       },
       {
-        "q": "طول التنورة حتى منتصف الساق قد يقلل من الطول بصرياً.",
-        "a": "عند تنسيقها مع أحذية بكعب، مثل حذاء Uranio A 0101، فإن الخصر العالي للتنورة يعمل على إطالة القوام عمودياً."
-      },
-      {
-        "q": "القماش الصوفي قد يكون صعباً في العناية اليومية.",
+        "q": "القماش الصوفي قد يكون صعباً في العناية اليومية",
         "a": "إضافة البوليستر إلى تركيب القماش (38%) تزيد بشكل كبير من المتانة وتقلل من التجعد، مما يجعل التنورة عملية ليوم عمل حافل."
       },
       {
-        "q": "اللون الرمادي الممزوج يبدو عادياً جداً.",
-        "a": "إن رقي الخيط الممزوج (ميلانج) هو ما يسمح لهذا الموديل بالتحول إلى إطلالة مسائية عند إضافة إكسسوارات بارزة، مثل أقراط Nagorno 0002."
+        "q": "اللون الرمادي الممزوج يبدو عادياً جداً",
+        "a": "إن رقي الخيط الممزوج (ميلانج) هو ما يسمح لهذا الموديل بالتحول إلى إطلالة مسائية عند إضافة إكسسوارات بارزة، مثل أقراط Nagorno 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG."
       },
       {
-        "q": "لا توجد بيانات في المصادر الرسمية بخصوص وجود جيوب.",
-        "a": "تركز بنية التنورة على نقاء الخطوط والقوام المنسدل. ولإضفاء الطابع العملي، نقترح إكمال الإطلالة بحقائب ذات مكانة مميزة، مثل Idilliaco A 0986 0002."
+        "q": "لا توجد بيانات في المصادر الرسمية بخصوص وجود جيوب",
+        "a": "تركز بنية التنورة على نقاء الخطوط والقوام المنسدل. ولإضفاء الطابع العملي، نقترح إكمال الإطلالة بحقائب ذات مكانة مميزة، مثل Idilliaco A 0986 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg."
       }
     ],
     "ka": [
       {
-        "q": "მოდელი ზედმეტად მოცულობითი ჩანს «მზის» (ე.წ. «სოლნცე») ჭრის გამო.",
-        "a": "ქსოვილს გააჩნია საკმარისი სიმკვრივე იმისთვის, რომ ნაკეცები ვერტიკალურად დაეშვას და არ შექმნას ზედმეტი მოცულობა თეძოებზე. რეკომენდებულია შეხამება შემოტმასნილ ზედასთან, მაგალითად ტოპთან Logge."
+        "q": "სიგრძე წვივამდე შესაძლოა ვიზუალურად ამოკლებდეს ტანს",
+        "a": "ქუსლიან ფეხსაცმელთან კომბინაციაში, როგორიცაა ჩექმები Uranio A 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_10100000000.jpg ქვედაბოლოს მაღალი დაშვება, პირიქით, ვიზუალურად აგრძელებს სილუეტის ვერტიკალს."
       },
       {
-        "q": "სიგრძე წვივამდე შესაძლოა ვიზუალურად ამოკლებდეს ტანს.",
-        "a": "ქუსლიან ფეხსაცმელთან კომბინაციაში, როგორიცაა ჩექმები Uranio A 0101, ქვედაბოლოს მაღალი დაშვება, პირიქით, ვიზუალურად აგრძელებს სილუეტის ვერტიკალს."
-      },
-      {
-        "q": "მატყლის ქსოვილი შესაძლოა რთული იყოს ყოველდღიურ მოვლაში.",
+        "q": "მატყლის ქსოვილი შესაძლოა რთული იყოს ყოველდღიურ მოვლაში",
         "a": "ქსოვილის შემადგენლობაში პოლიესტერის დამატება (38%) მნიშვნელოვნად ზრდის ცვეთამედეგობას და ამცირებს დაჭმუჭვნადობას, რაც ქვედაბოლოს პრაქტიკულს ხდის აქტიური სამუშაო დღისთვის."
       },
       {
-        "q": "ნაცრისფერი მელანჟი ზედმეტად ყოველდღიურად გამოიყურება.",
-        "a": "სწორედ მელანჟის ძაფის კეთილშობილება აძლევს ამ მოდელს ტრანსფორმირების საშუალებას საღამოს მოდელად, აქცენტური სამკაულების დამატებისას, როგორიცაა საყურეები Nagorno 0002."
+        "q": "ნაცრისფერი მელანჟი ზედმეტად ყოველდღიურად გამოიყურება",
+        "a": "სწორედ მელანჟის ძაფის კეთილშობილება აძლევს ამ მოდელს ტრანსფორმირების საშუალებას საღამოს მოდელად, აქცენტური სამკაულების დამატებისას, როგორიცაა საყურეები Nagorno 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG."
       },
       {
-        "q": "ოფიციალურ წყაროებში მონაცემები ჯიბეების არსებობის შესახებ არ მოიპოვება.",
-        "a": "ქვედაბოლოს კონსტრუქცია ფოკუსირებულია ხაზების სისუფთავესა და ჰაეროვან სილუეტზე. ფუნქციონალურობისთვის ჩვენ გთავაზობთ სახის შევსებას სტატუსური ჩანთებით, როგორიცაა Idilliaco A 0986 0002."
+        "q": "ოფიციალურ წყაროებში მონაცემები ჯიბეების არსებობის შესახებ არ მოიპოვება",
+        "a": "ქვედაბოლოს კონსტრუქცია ფოკუსირებულია ხაზების სისუფთავესა და ჰაეროვან სილუეტზე. ფუნქციონალურობისთვის ჩვენ გთავაზობთ სახის შევსებას სტატუსური ჩანთებით, როგორიცაა Idilliaco A 0986 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg."
       }
     ],
     "hy": [
       {
-        "q": "Մոդելը չափազանց ծավալուն է թվում «արև» ձևվածքի պատճառով",
-        "a": "Գործվածքն ունի բավարար խտություն, որպեսզի ծալքերը թափվեն ուղղահայաց՝ առանց ազդրերի հատվածում ավելորդ ծավալ ստեղծելու: Խորհուրդ է տրվում համադրել կիպ վերնամասի հետ, օրինակ՝ Logge տոպի հետ"
+        "q": "Մոդելը չափազանց ծավալուն է թվում «արև",
+        "a": "ձևվածքի պատճառով:» Գործվածքն ունի բավարար խտություն, որպեսզի ծալքերը թափվեն ուղղահայաց՝ առանց ազդրերի հատվածում ավելորդ ծավալ ստեղծելու: Խորհուրդ է տրվում համադրել կիպ վերնամասի հետ, օրինակ՝ Logge տոպի հետ."
       },
       {
         "q": "Մինչև սրունքի միջնամասը հասնող երկարությունը կարող է տեսողականորեն կարճացնել հասակը",
-        "a": "Uranio A 0101 կոշիկների նման կրունկներով կոշիկների հետ համադրելիս՝ կիսաշրջազգեստի բարձր գոտկատեղը, ընդհակառակը, տեսողականորեն երկարացնում է կազմվածքի ուղղահայաց գիծը"
+        "a": "Uranio A 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_10100000000.jpg կոշիկների նման կրունկներով կոշիկների հետ համադրելիս՝ կիսաշրջազգեստի բարձր գոտկատեղը, ընդհակառակը, տեսողականորեն երկարացնում է կազմվածքի ուղղահայաց գիծը."
       },
       {
         "q": "Բրդյա գործվածքը կարող է բարդ լինել ամենօրյա խնամքի մեջ",
-        "a": "Գործվածքի կազմի մեջ պոլիեսթերի ավելացումը (38%) զգալիորեն բարձրացնում է մաշվածքակայունությունը և նվազագույնի է հասցնում կնճռոտումը, ինչը կիսաշրջազգեստը դարձնում է գործնական ակտիվ աշխատանքային օրվա համար"
+        "a": "Գործվածքի կազմի մեջ պոլիեսթերի ավելացումը (38%) զգալիորեն բարձրացնում է մաշվածքակայունությունը և նվազագույնի է հասցնում կնճռոտումը, ինչը կիսաշրջազգեստը դարձնում է գործնական ակտիվ աշխատանքային օրվա համար."
       },
       {
         "q": "Մոխրագույն մելանժը չափազանց առօրեական տեսք ունի",
-        "a": "Հենց մելանժային թելի ազնվությունն է թույլ տալիս այս մոդելին վերափոխվել երեկոյան հագուստի՝ շեշտադրող զարդերի ավելացման դեպքում, ինչպիսիք են Nagorno 0002 ականջօղերը"
+        "a": "Հենց մելանժային թելի ազնվությունն է թույլ տալիս այս մոդելին վերափոխվել երեկոյան հագուստի՝ շեշտադրող զարդերի ավելացման դեպքում, ինչպիսիք են Nagorno 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG ականջօղերը."
       },
       {
         "q": "Պաշտոնական աղբյուրներում տվյալներ չկան գրպանների առկայության վերաբերյալ",
-        "a": "Կիսաշրջազգեստի կառուցվածքը կենտրոնացած է գծերի մաքրության և թռիչքային ուրվագծի վրա: Ֆունկցիոնալության համար մենք առաջարկում ենք կերպարը լրացնել կարգավիճակային պայուսակներով, ինչպիսիք են Idilliaco A 0986 0002"
+        "a": "Կիսաշրջազգեստի կառուցվածքը կենտրոնացած է գծերի մաքրության և թռիչքային ուրվագծի վրա: Ֆունկցիոնալության համար մենք առաջարկում ենք կերպարը լրացնել կարգավիճակային պայուսակներով, ինչպիսիք են Idilliaco A 0986 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg."
       }
     ],
     "lv": [
       {
-        "q": "Modelis šķiet pārāk apjomīgs «saules» piegriezuma dēļ.",
-        "a": "Audumam piemīt pietiekams blīvums, lai krokas kristu vertikāli, neradot lieku apjomu uz gurniem. Ieteicams kombinēt ar pieguļošu augšdaļu, piemēram, topu Logge."
+        "q": "Garums līdz ikru vidum var vizuāli saīsināt augumu",
+        "a": "Kombinācijā ar apaviem uz papēža, piemēram, zābakiem Uranio A 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_10100000000.jpg svārku augstā piegriezuma līnija, gluži pretēji, vizuāli pagarina silueta vertikāli."
       },
       {
-        "q": "Garums līdz ikru vidum var vizuāli saīsināt augumu.",
-        "a": "Kombinācijā ar apaviem uz papēža, piemēram, zābakiem Uranio A 0101, svārku augstā piegriezuma līnija, gluži pretēji, vizuāli pagarina silueta vertikāli."
-      },
-      {
-        "q": "Vilnas audums var būt sarežģīts ikdienas kopšanā.",
+        "q": "Vilnas audums var būt sarežģīts ikdienas kopšanā",
         "a": "Poliestera pievienošana auduma sastāvam (38%) ievērojami palielina nodilumizturību un samazina burzīšanos, kas padara svārkus praktiskus aktīvai darba dienai."
       },
       {
-        "q": "Pelēkais melanžs izskatās pārāk ikdienišķi.",
-        "a": "Tieši melanža diega cēlums ļauj šim modelim transformēties uz vakara tērpu, pievienojot akcentētas rotaslietas, piemēram, auskarus Nagorno 0002."
+        "q": "Pelēkais melanžs izskatās pārāk ikdienišķi",
+        "a": "Tieši melanža diega cēlums ļauj šim modelim transformēties uz vakara tērpu, pievienojot akcentētas rotaslietas, piemēram, auskarus Nagorno 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG."
+      },
+      {
+        "q": "Dati par kabatu esamību oficiālajos avotos nav pieejami",
+        "a": "Svārku konstrukcija ir fokusēta uz līniju tīrību un lidojošu siluetu. Funkcionalitātei mēs piedāvājam papildināt tēlu ar statusa somām, piemēram, Idilliaco A 0986 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg."
       }
     ],
     "lt": [
       {
-        "q": "Modelis atrodo per daug apimties suteikiantis dėl „saulės“ kirpimo.",
+        "q": "Modelis atrodo per daug apimties suteikiantis dėl „saulės“ kirpimo",
         "a": "Audinys yra pakankamai tankus, kad klostės kristų vertikaliai, nesudarydamos nereikalingos apimties ties klubais. Rekomenduojama derinti su prigludusiu viršumi, pavyzdžiui, Logge viršutine dalimi."
       },
       {
-        "q": "Ilgis iki blauzdos vidurio gali vizualiai trumpinti ūgį.",
-        "a": "Derinant su avalyne su kulnu, pavyzdžiui, Uranio A 0101 batais, aukštas sijono liemuo, priešingai, vizualiai ilgina silueto vertikalę."
+        "q": "Ilgis iki blauzdos vidurio gali vizualiai trumpinti ūgį",
+        "a": "Derinant su avalyne su kulnu, pavyzdžiui, Uranio A 0101 batais (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_10100000000.jpg aukštas sijono liemuo, priešingai, vizualiai ilgina silueto vertikalę."
       },
       {
-        "q": "Vilnonis audinys gali būti sudėtingas kasdienei priežiūrai.",
+        "q": "Vilnonis audinys gali būti sudėtingas kasdienei priežiūrai",
         "a": "Poliesterio pridėjimas į audinio sudėtį (38 %) žymiai padidina atsparumą nusidėvėjimui ir sumažina glamžymąsi, todėl sijonas tampa praktiškas aktyviai darbo dienai."
       },
       {
-        "q": "Pilkas melanžas atrodo per daug kasdieniškai.",
-        "a": "Būtent melanžinio siūlo kilnumas leidžia šiam modeliui transformuotis į vakarinį, pridėjus akcentinius papuošalus, tokius kaip Nagorno 0002 auskarai."
+        "q": "Pilkas melanžas atrodo per daug kasdieniškai",
+        "a": "Būtent melanžinio siūlo kilnumas leidžia šiam modeliui transformuotis į vakarinį, pridėjus akcentinius papuošalus, tokius kaip Nagorno 0002 auskarai (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG."
+      },
+      {
+        "q": "Oficialiuose šaltiniuose duomenų apie kišenes nėra",
+        "a": "Sijono konstrukcija orientuota į linijų švarą ir lengvą siluetą. Funkcionalumui užtikrinti siūlome įvaizdį papildyti statusą pabrėžiančiomis rankinėmis, tokiomis kaip Idilliaco A 0986 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg."
       }
     ],
     "pl": [
       {
-        "q": "Model wydaje się zbyt obszerny przez krój typu „słońce”.",
+        "q": "Model wydaje się zbyt obszerny przez krój typu „słońce”",
         "a": "Tkanina posiada odpowiednią gęstość, dzięki której fałdy układają się pionowo, nie tworząc nadmiernej objętości na biodrach. Zalecamy łączyć z dopasowaną górą, na przykład topem Logge."
       },
       {
-        "q": "Długość do połowy łydki może optycznie skracać wzrost.",
-        "a": "W połączeniu z obuwiem na obcasie, takim jak kozaki Uranio A 0101, wysoki stan spódnicy wręcz przeciwnie, optycznie wydłuża linię sylwetki."
+        "q": "Długość do połowy łydki może optycznie skracać wzrost",
+        "a": "W połączeniu z obuwiem na obcasie, takim jak kozaki Uranio A 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_10100000000.jpg wysoki stan spódnicy wręcz przeciwnie, optycznie wydłuża linię sylwetki."
       },
       {
-        "q": "Wełniana tkanina może być kłopotliwa w codziennej pielęgnacji.",
+        "q": "Wełniana tkanina może być kłopotliwa w codziennej pielęgnacji",
         "a": "Dodatek poliestru w składzie tkaniny (38%) znacząco podnosi odporność na zużycie i minimalizuje gniecenie się, co czyni spódnicę praktycznym wyborem na aktywny dzień pracy."
       },
       {
-        "q": "Szary melanż wygląda zbyt codziennie.",
-        "a": "To właśnie szlachetność melanżowej nici pozwala temu modelowi transformować się w wieczorowy przy dodaniu akcentujących ozdób, takich jak kolczyki Nagorno 0002."
+        "q": "Szary melanż wygląda zbyt codziennie",
+        "a": "To właśnie szlachetność melanżowej nici pozwala temu modelowi transformować się w wieczorowy przy dodaniu akcentujących ozdób, takich jak kolczyki Nagorno 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG."
       },
       {
-        "q": "dotyczących obecności kieszeni.",
-        "a": "Konstrukcja spódnicy skupia się na czystości linii i zwiewnej sylwetce. Dla zapewnienia funkcjonalności proponujemy uzupełnić stylizację prestiżowymi torebkami, takimi jak Idilliaco A 0986 0002."
+        "q": "Brak danych w oficjalnych źródłach dotyczących obecności kieszeni",
+        "a": "Konstrukcja spódnicy skupia się na czystości linii i zwiewnej sylwetce. Dla zapewnienia funkcjonalności proponujemy uzupełnić stylizację prestiżowymi torebkami, takimi jak Idilliaco A 0986 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg."
       }
     ],
     "uk": [
       {
-        "q": "Модель здається занадто об'ємною через крій «сонце».",
-        "a": "Тканина має достатню щільність, щоб складки спадали вертикально, не створюючи зайвого об'єму на стегнах. Рекомендується поєднувати з приталеним верхом, наприклад топом Logge."
+        "q": "Довжина до середини ікри може візуально вкорочувати зріст",
+        "a": "У поєднанні з взуттям на підборах, таким як чоботи Uranio A 0101 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/URANIO_10100000000.jpg висока посадка спідниці, навпаки, візуально витягує вертикаль силуету."
       },
       {
-        "q": "Довжина до середини ікри може візуально вкорочувати зріст.",
-        "a": "У поєднанні з взуттям на підборах, таким як чоботи Uranio A 0101, висока посадка спідниці, навпаки, візуально витягує вертикаль силуету."
-      },
-      {
-        "q": "Вовняна тканина може бути складною у повсякденному догляді.",
+        "q": "Вовняна тканина може бути складною у повсякденному догляді",
         "a": "Додавання поліестеру до складу полотна (38%) значно підвищує зносостійкість і мінімізує зминання, що робить спідницю практичною для активного робочого дня."
       },
       {
-        "q": "Сірий меланж виглядає занадто повсякденно.",
-        "a": "Саме благородство меланжевої нитки дозволяє цій моделі трансформуватися у вечірню при додаванні акцентних прикрас, таких як сережки Nagorno 0002."
+        "q": "Сірий меланж виглядає занадто повсякденно",
+        "a": "Саме благородство меланжевої нитки дозволяє цій моделі трансформуватися у вечірню при додаванні акцентних прикрас, таких як сережки Nagorno 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/nagorno.PNG."
       },
       {
-        "q": "щодо наявності кишень.",
-        "a": "Конструкція спідниці сфокусована на чистоті ліній та летячому силуеті. Для функціональності ми пропонуємо доповнити образ статусними сумками, такими як Idilliaco A 0986 0002."
+        "q": "Дані відсутні в офіційних джерелах щодо наявності кишень",
+        "a": "Конструкція спідниці сфокусована на чистоті ліній та летячому силуеті. Для функціональності ми пропонуємо доповнити образ статусними сумками, такими як Idilliaco A 0986 0002 (https://cdn.jooraccess.com/img/uploads/accounts/598756/images/IDILLIACO_98600020000.jpg."
       }
     ]
   }

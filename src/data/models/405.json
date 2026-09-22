@@ -139,64 +139,48 @@
   "objections": {
     "en": [
       {
-        "q": "The print feels too busy.",
-        "a": "Explain that the solid-colour collar and the classic dark ground of the print calm the pattern, lending it elegance and timelessness."
+        "q": "The print feels too busy",
+        "a": " Response: Explain that the solid-colour collar and the classic dark ground of the print calm the pattern, lending it elegance and timelessness. Objection."
       },
       {
-        "q": "The midi length may visually shorten the figure.",
-        "a": "Recommend trying the dress with tall boots in a shade matching the print 's base colour, as in the lookbook. This creates an unbroken vertical line that, in fact, elongates the silhouette."
+        "q": "The midi length may visually shorten the figure",
+        "a": " Response: Recommend trying the dress with tall boots in a shade matching the print »™s base colour, as in the lookbook. This creates an unbroken vertical line that, in fact, elongates the silhouette. Objection: «I »™m concerned the gold buttons will tarnish quickly. » Response: Point to the high quality of Luisa Spagnoli »™s galvanised hardware finish, specifically engineered to preserve its shine in luxury-segment pieces over time. Objection."
       },
       {
-        "q": "I 'm concerned the gold buttons will tarnish quickly.",
-        "a": "Point to the high quality of Luisa Spagnoli 's galvanised hardware finish, specifically engineered to preserve its shine in luxury-segment pieces over time."
-      },
-      {
-        "q": "The dress looks too dressy for the office.",
-        "a": "Demonstrate the precision of the cut and the closed shoulder line. Paired with a classic coat (such as the Stenografo 0101), the dress becomes the epitome of «Quiet Luxury » business style."
-      },
-      {
-        "q": "It 's difficult to accessorize such a pattern.",
-        "a": "Suggest minimalist leather pieces in black or brown (the Iago 0101/0002 bag), which won 't compete with the complexity of the print"
+        "q": "The dress looks too dressy for the office",
+        "a": " Response: Demonstrate the precision of the cut and the closed shoulder line. Paired with a classic coat (such as the Stenografo 0101), the dress becomes the epitome of «Quiet Luxury » business style. Objection: «It »™s difficult to accessorize such a pattern. » Response: Suggest minimalist leather pieces in black or brown (the Iago 0101/0002 bag), which won »™t compete with the complexity of the print. ![](media/image31.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Принт кажется",
-        "a": "Поясните, что однотонный воротник и классическая слишком активным темная база принта."
+        "q": "Принт кажется слишком активным",
+        "a": ". Ответ: Обратите внимание, что однотонный воротник и классический темный фон принта гармонизируют рисунок, придавая изделию элегантность и статус вне времени. Возражение."
       },
       {
-        "q": "успокаивают",
-        "a": "рисунок, делая его элегантным и вневременным."
+        "q": "Длина миди может визуально укорачивать фигуру",
+        "a": ". Ответ: Рекомендуем примерить платье с высокими сапогами в тон базового цвета принта, как в нашем лукбуке. Это создает непрерывную вертикаль, которая, напротив, безупречно удлиняет силуэт. Возражение."
       },
       {
-        "q": "Длина миди может",
-        "a": "Рекомендуйте примерить платье с высокими сапогами в визуально тон базы принта, как в lookbook. Это создаст укорачивать рост непрерывную вертикаль, которая, напротив, вытянет силуэт."
+        "q": "Я опасаюсь, что золотые пуговицы быстро потускнеют",
+        "a": ". Ответ: Позвольте отметить высочайшее качество гальванического покрытия фурнитуры Luisa Spagnoli, специально разработанного для сохранения первозданного блеска в изделиях премиального сегмента. Возражение."
       },
       {
-        "q": "Боюсь, золотые",
-        "a": "Укажите на высокое качество гальванического пуговицы быстро покрытия фурнитуры Luisa Spagnoli, которая потускнеют разработана специально для длительного сохранения блеска в изделиях сегмента luxury."
+        "q": "Платье выглядит слишком нарядно для офиса",
+        "a": ". Ответ: Оцените точность кроя и закрытую линию плеча. В сочетании с классическим пальто (например, Stenografo 0101) платье становится воплощением делового стиля в эстетике."
       },
       {
-        "q": "Платье выглядит",
-        "a": "Продемонстрируйте строгость кроя и закрытую линию слишком нарядно для плеч. В сочетании с классическим пальто (например, офиса Stenografo 0101) платье станет эталоном делового стиля."
+        "q": "тихой роскоши",
+        "a": ". Возражение."
       },
       {
-        "q": "Quiet Luxury",
-        "a": "."
-      },
-      {
-        "q": "Сложно подобрать",
-        "a": "Посоветуйте минималистичные решения из кожи в аксессуары к такому черном или коричневом цвете (сумка Iago 0101 рисунку 0002), которые не будут спорить со сложностью принта."
+        "q": "К такому принту сложно подобрать аксессуары",
+        "a": ". Ответ: Предлагаем дополнить образ минималистичными кожаными изделиями в черном или коричневом цвете (сумка Iago 0101/0002), которые не будут конкурировать со сложностью принта."
       }
     ],
     "ar": [
       {
         "q": "تبدو الطبعة جريئة للغاية",
-        "a": "وضح أن الياقة أحادية اللون والقاعدة الداكنة الكلاسيكية للطبعة."
-      },
-      {
-        "q": "تهدئ",
-        "a": "الرسم، مما يجعله أنيقاً وخالداً."
+        "a": "وضح أن الياقة أحادية اللون والقاعدة الداكنة الكلاسيكية للطبعة \"تهدئ\" الرسم، مما يجعله أنيقاً وخالداً."
       },
       {
         "q": "الطول المتوسط قد يقصر القامة بصرياً",
@@ -208,15 +192,11 @@
       },
       {
         "q": "يبدو الفستان رسمياً أكثر من اللازم لمكان العمل",
-        "a": "استعرض رصانة القصة وخط الكتف المغلق. بالتنسيق مع معطف كلاسيكي (مثل Stenografo 0101)، يصبح الفستان نموذجاً لنمط العمل."
-      },
-      {
-        "q": "الفخامة الهادئة",
-        "a": "."
+        "a": "استعرض رصانة القصة وخط الكتف المغلق. بالتنسيق مع معطف كلاسيكي (مثل Stenografo 0101)، يصبح الفستان نموذجاً لنمط العمل \"الفخامة الهادئة\"."
       },
       {
         "q": "من الصعب اختيار إكسسوارات لمثل هذه الطبعة",
-        "a": "ننصح بحلول جلدية بسيطة باللون الأسود أو البني (حقيبة Iago 0101 0002)، والتي لن تتعارض مع تعقيد الطبعة."
+        "a": "ننصح بحلول جلدية بسيطة باللون الأسود أو البني (حقيبة Iago 0101 0002)، والتي لن تتعارض مع تعقيد الطبعة. ![](media/image31.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -234,47 +214,71 @@
       },
       {
         "q": "კაბა ოფისისთვის ზედმეტად საზეიმოდ გამოიყურება",
-        "a": "აჩვენეთ ჭრის სიმკაცრე და მხრების დახურული ხაზი. კლასიკურ პალტოსთან (მაგალითად, Stenografo 0101) კომბინაციაში კაბა იქცევა."
+        "a": "აჩვენეთ ჭრის სიმკაცრე და მხრების დახურული ხაზი. კლასიკურ პალტოსთან (მაგალითად, Stenografo 0101) კომბინაციაში კაბა იქცევა „Quiet Luxury“-ს საქმიანი სტილის ეტალონად."
       },
       {
-        "q": "Quiet Luxury“-ს საქმიანი სტილის ეტალონად. «რთულია ასეთი ნახატისთვის აქსესუარების შერჩევა",
-        "a": "ურჩიეთ მინიმალიზმური ტყავის გადაწყვეტილებები შავ ან ყავისფერ ფერებში (ჩანთა Iago 0101 0002), რომლებიც არ ეწინააღმდეგება პრინტის სირთულეს."
+        "q": "რთულია ასეთი ნახატისთვის აქსესუარების შერჩევა",
+        "a": "ურჩიეთ მინიმალიზმური ტყავის გადაწყვეტილებები შავ ან ყავისფერ ფერებში (ჩანთა Iago 0101 0002), რომლებიც არ ეწინააღმდეგება პრინტის სირთულეს. ![](media/image31.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
       {
         "q": "Պրինտը չափազանց ակտիվ է թվում",
-        "a": "Պարզաբանեք, որ միագույն օձիքը և պրինտի դասական մուգ հիմքը «հանդարտեցնում» են նկարը՝ այն դարձնելով էլեգանտ և հավերժական։ «Միդի երկարությունը կարող է տեսողականորեն կարճացնել հասակը» Առաջարկեք փորձել զգեստը պրինտի հիմքի երանգի բարձրահասակ կոշիկներով, ինչպես lookbook-ում։ Սա կստեղծի անընդհատ ուղղահայաց, որը, ընդհակառակը, կերկարացնի ուրվագիծը։ «Վախենում եմ, որ ոսկեգույն կոճակները արագ կխամրեն» Մատնանշեք Luisa Spagnoli-ի ֆուրնիտուրայի գալվանական ծածկույթի բարձր որակը, որը նախագծված է հատուկ շքեղ սեգմենտի արտադրանքներում երկարատև փայլը պահպանելու համար։ «Զգեստը չափազանց տոնական է թվում գրասենյակի համար» Ցուցադրեք ձևվածքի խստությունը և ուսերի փակ գիծը։ Դասական վերարկուի (օրինակ՝ Stenografo 0101) հետ համադրությամբ զգեստը կդառնա «Quiet Luxury» գործնական ոճի չափանիշ։ «Դժվար է աքսեսուարներ ընտրել նման նկարի համար» Խորհուրդ տվեք սև կամ շագանակագույն կաշվից մինիմալիստական լուծումներ (Iago 0101 0002 պայուսակ), որոնք չեն վիճարկի պրինտի բարդության հետ։"
+        "a": "Ռազմավարություն՝ Պարզաբանեք, որ միագույն օձիքը և պրինտի դասական մուգ հիմքը."
+      },
+      {
+        "q": "հանդարտեցնում",
+        "a": "են նկարը՝ այն դարձնելով էլեգանտ և հավերժական։."
+      },
+      {
+        "q": "Միդի երկարությունը կարող է տեսողականորեն կարճացնել հասակը",
+        "a": "Առաջարկեք փորձել զգեստը պրինտի հիմքի երանգի բարձրահասակ կոշիկներով, ինչպես lookbook-ում։ Սա կստեղծի անընդհատ ուղղահայաց, որը, ընդհակառակը, կերկարացնի ուրվագիծը։."
+      },
+      {
+        "q": "Վախենում եմ, որ ոսկեգույն կոճակները արագ կխամրեն",
+        "a": "Մատնանշեք Luisa Spagnoli-ի ֆուրնիտուրայի գալվանական ծածկույթի բարձր որակը, որը նախագծված է հատուկ շքեղ սեգմենտի արտադրանքներում երկարատև փայլը պահպանելու համար։."
+      },
+      {
+        "q": "Զգեստը չափազանց տոնական է թվում գրասենյակի համար",
+        "a": "Ցուցադրեք ձևվածքի խստությունը և ուսերի փակ գիծը։ Դասական վերարկուի (օրինակ՝ Stenografo 0101) հետ համադրությամբ զգեստը կդառնա."
+      },
+      {
+        "q": "Quiet Luxury",
+        "a": "գործնական ոճի չափանիշ։."
+      },
+      {
+        "q": "Դժվար է աքսեսուարներ ընտրել նման նկարի համար",
+        "a": "Խորհուրդ տվեք սև կամ շագանակագույն կաշվից մինիմալիստական լուծումներ (Iago 0101 0002 պայուսակ), որոնք չեն վիճարկի պրինտի բարդության հետ։ ![](media/image31.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Apdruka šķiet",
-        "a": "Paskaidrojiet, ka vienkrāsainā apkakle un klasiskā pārāk aktīva tumšā apdrukas bāze."
+        "q": "Apdruka šķiet Paskaidrojiet, ka vienkrāsainā apkakle un klasiskā pārāk aktīva",
+        "a": "tumšā apdrukas bāze."
       },
       {
         "q": "nomierina",
         "a": "zīmējumu, padarot to elegantu un mūžīgu."
       },
       {
-        "q": "Midi garums var",
-        "a": "Iesakiet pielaikot kleitu ar augstiem zābakiem vizuāli saīsināt apdrukas bāzes tonī, kā lookbook. Tas radīs augumu nepārtrauktu vertikāli, kas, gluži pretēji, izstieps siluetu."
+        "q": "Midi garums var Iesakiet pielaikot kleitu ar augstiem zābakiem vizuāli saīsināt apdrukas bāzes tonī, kā lookbook. Tas radīs augumu",
+        "a": "nepārtrauktu vertikāli, kas, gluži pretēji, izstieps siluetu."
       },
       {
-        "q": "Baidos, ka zelta",
-        "a": "Norādiet uz Luisa Spagnoli furnitūras galvaniskā pogas ātri pārklājuma augsto kvalitāti, kas izstrādāta īpaši nolietosies ilgstošai spīduma saglabāšanai luxury segmenta izstrādājumos."
+        "q": "Baidos, ka zelta Norādiet uz Luisa Spagnoli furnitūras galvaniskā pogas ātri pārklājuma augsto kvalitāti, kas izstrādāta īpaši nolietosies",
+        "a": "ilgstošai spīduma saglabāšanai luxury segmenta izstrādājumos."
       },
       {
-        "q": "Kleita izskatās",
-        "a": "Demonstrējiet piegriezuma stingrību un slēgto pārāk grezna plecu līniju. Kombinācijā ar klasisku mēteli birojam (piemēram, Stenografo 0101) kleita kļūs par."
+        "q": "Kleita izskatās Demonstrējiet piegriezuma stingrību un slēgto pārāk grezna plecu līniju. Kombinācijā ar klasisku mēteli birojam",
+        "a": "(piemēram, Stenografo 0101) kleita kļūs par."
       },
       {
         "q": "Quiet Luxury",
         "a": "lietišķā stila etalonu."
       },
       {
-        "q": "Sarežģīti piemeklēt",
-        "a": "Iesakiet minimālistiskus ādas risinājumus aksesuārus tik melnā vai brūnā krāsā (soma Iago 0101 0002), sarežģītam zīmējumam kuri nekonkurēs ar apdrukas sarežģītību."
+        "q": "Sarežģīti piemeklēt Iesakiet minimālistiskus ādas risinājumus aksesuārus tik melnā vai brūnā krāsā (soma Iago 0101 0002), sarežģītam zīmējumam",
+        "a": "kuri nekonkurēs ar apdrukas sarežģītību. ![](media/image31.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -327,28 +331,28 @@
     ],
     "uk": [
       {
-        "q": "Принт здається",
-        "a": "Поясніть, що однотонний комір і класична занадто темна база принту «заспокоюють малюнок, роблячи активним» його елегантним і позачасовим."
+        "q": "Принт здається Поясніть, що однотонний комір і класична занадто темна база принту «заспокоюють",
+        "a": "малюнок, роблячи активним» його елегантним і позачасовим."
       },
       {
         "q": "Довжина міді може Рекомендуйте приміряти сукню з високими чоботами в візуально тон бази принту, як у lookbook. Це створить вкорочувати зріст",
         "a": "безперервну вертикаль, яка, навпаки, витягне силует."
       },
       {
-        "q": "Боюся, золоті",
-        "a": "Вкажіть на високу якість гальванічного ґудзики швидко покриття фурнітури Luisa Spagnoli, яка потускніють розроблена спеціально для тривалого збереження блиску у виробах сегмента luxury."
+        "q": "Боюся, золоті Вкажіть на високу якість гальванічного ґудзики швидко покриття фурнітури Luisa Spagnoli, яка потускніють",
+        "a": "розроблена спеціально для тривалого збереження блиску у виробах сегмента luxury."
       },
       {
-        "q": "Сукня виглядає",
-        "a": "Продемонструйте строгість крою та закриту лінію занадто ошатно для плечей. У поєднанні з класичним пальтом (наприклад, офісу Stenografo 0101) сукня стане еталоном ділового стилю."
+        "q": "Сукня виглядає Продемонструйте строгість крою та закриту лінію занадто ошатно для плечей. У поєднанні з класичним пальтом (наприклад, офісу",
+        "a": "Stenografo 0101) сукня стане еталоном ділового стилю."
       },
       {
         "q": "Quiet Luxury",
         "a": "."
       },
       {
-        "q": "Складно підібрати",
-        "a": "Порадьте мінімалістичні рішення зі шкіри в аксесуари до такого чорному або коричневому кольорі (сумка Iago 0101 малюнка 0002), які не будуть сперечатися зі складністю принту."
+        "q": "Складно підібрати Порадьте мінімалістичні рішення зі шкіри в аксесуари до такого чорному або коричневому кольорі (сумка Iago 0101 малюнка",
+        "a": "0002), які не будуть сперечатися зі складністю принту. ![](media/image31.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }

@@ -334,40 +334,92 @@
   "objections": {
     "en": [
       {
-        "q": "The",
-        "a": "voluminous Showcase Look 43: Luisa Spagnoli wool is sleeves won't fit incredibly supple. The sleeves drape gently under outerwear» under a coat (such as the Segreteria 1751) without causing discomfort. «The irregular rib Explain that this is a deliberate design choice for looks like a knit \"imperfect elegance.\" This texture is a marker of flaw» craftsmanship and premium production, characteristic of the \"Contemporary Luxe\" style. «The wool collar Suggest a tactile test of the lana vergine. This is might be scratchy» the gentlest category of wool, specially processed to ensure maximum comfort even in direct contact with the neck's skin. «The pullover Point out the regular fit through the body. seems too Volume is concentrated solely in the sleeves, voluminous» which, paired with the high-waisted Ornago trousers, only accentuates the slimness of the waist. «Shade 1936 Point out the play of light in the irregular looks too plain» stitches. This gray tone has a \"chameleon\" depth and becomes a luxurious canvas for jewelry or bold accessories, as in Look 112"
+        "q": "The voluminous Showcase Look 43: Luisa Spagnoli wool is sleeves won't fit incredibly supple. The sleeves drape gently under outerwear",
+        "a": "under a coat (such as the Segreteria 1751) without causing discomfort."
+      },
+      {
+        "q": "The irregular rib Explain that this is a deliberate design choice for looks like a knit \"imperfect elegance.\" This texture is a marker of flaw",
+        "a": "craftsmanship and premium production, characteristic of the \"Contemporary Luxe\" style."
+      },
+      {
+        "q": "The wool collar Suggest a tactile test of the lana vergine. This is might be scratchy",
+        "a": "the gentlest category of wool, specially processed to ensure maximum comfort even in direct contact with the neck's skin."
+      },
+      {
+        "q": "The pullover Point out the regular fit through the body. seems too Volume is concentrated solely in the sleeves, voluminous",
+        "a": "which, paired with the high-waisted Ornago trousers, only accentuates the slimness of the waist."
+      },
+      {
+        "q": "Shade 1936 Point out the play of light in the irregular looks too plain",
+        "a": "stitches. This gray tone has a \"chameleon\" depth and becomes a luxurious canvas for jewelry or bold accessories, as in Look 112. ![](media/image99.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ru": [
       {
-        "q": "Объемные рукава",
-        "a": "Продемонстрируйте Look 43: шерсть Luisa Spagnoli не поместятся под невероятно пластична. Рукава мягко драпируются под верхнюю одежду пальто (например, Segreteria 1751), не создавая дискомфорта."
+        "q": "Объемные рукава не поместятся под верхнюю одежду",
+        "a": "продемонстрируйте Look 43: шерсть Luisa Spagnoli невероятно пластична, рукава мягко драпируются под пальто (например, Segreteria 1751), не создавая дискомфорта."
       },
       {
-        "q": "Нерегулярный",
-        "a": "Поясните, что это осознанный дизайнерский прием рубчик выглядит как «несовершенной элегантности . Такая фактура — брак вязки» маркер ручного подхода и дорогого производства, характерный для стиля."
+        "q": "Неровная вязка выглядит как дефект",
+        "a": "поясните, что это осознанный выбор в пользу."
+      },
+      {
+        "q": "несовершенной элегантности",
+        "a": ", маркер мастерства и премиального производства в стиле."
       },
       {
         "q": "Contemporary Luxe",
         "a": "."
       },
       {
-        "q": "Шерстяной",
-        "a": "Предложите тактильно оценить lana vergine. Это воротник может самая нежная категория шерсти, специально колоться очищенная для обеспечения максимального комфорта даже при прямом контакте с кожей шеи."
+        "q": "Шерстяной воротник может быть грубым",
+        "a": "предложите оценить нежность lana vergine: это деликатнейшая категория шерсти, обеспечивающая максимальный комфорт при контакте с кожей."
       },
       {
-        "q": "Пуловер кажется",
-        "a": "Обратите внимание на регулярную посадку в зоне слишком объемным корпуса. Объем сосредоточен только в рукавах, что в сочетании с высокой посадкой брюк Ornago лишь подчеркивает стройность талии."
+        "q": "Пуловер кажется слишком объемным",
+        "a": "укажите на выверенный крой по фигуре: объем сосредоточен только в рукавах, что в сочетании с брюками Ornago с высокой талией лишь подчеркивает стройность."
       },
       {
-        "q": "Цвет 1936",
-        "a": "Укажите на игру света в нерегулярных петлях. Этот выглядит слишком серый оттенок обладает глубиной «хамелеона и просто» становится роскошным холстом для украшений или ярких аксессуаров, как в Look 112."
+        "q": "Оттенок 1936 выглядит слишком просто",
+        "a": "обратите внимание на игру света в неровных петлях: этот серый тон обладает."
+      },
+      {
+        "q": "хамелеонистой",
+        "a": "глубиной и становится роскошным фоном для украшений, как в Look 112."
       }
     ],
     "ar": [
       {
-        "q": "ال",
-        "a": "الأكمام الضخمة لا تناسب تحت الملابس الخارجية» اعرضي الإطلالة 43: صوف Luisa Spagnoli مرن للغاية. الأكمام تنسدل بنعومة تحت المعاطف (مثل Segreteria 1751) دون التسبب في أي إزعاج. «التضليع غير المنتظم يبدو كعيب في الحياكة» اشرحي أن هذا خيار تصميمي مقصود يجسد «الأناقة غير الكاملة». هذا الملمس هو علامة على النهج اليدوي والإنتاج الفاخر، وهو سمة لأسلوب «Contemporary Luxe». «ياقة الصوف قد توخز» اقترحي لمس lana vergine. هذه أرقى فئة من الصوف، منقاة خصيصاً لضمان أقصى درجات الراحة حتى عند التلامس المباشر مع جلد الرقبة. «البلوفر يبدو ضخماً أكثر من اللازم» لفتي الانتباه إلى المقاس المنتظم في منطقة الجذع. الحجم يتركز فقط في الأكمام، مما يبرز نحافة الخصر عند تنسيقه مع بنطال Ornago عالي الخصر. «اللون 1936 يبدو بسيطاً جداً» أشيري إلى تلاعب الضوء في الغرز غير المنتظمة. هذا اللون الرمادي يتمتع بعمق «الحرباء» ويصبح خلفية فاخرة للمجوهرات أو الإكسسوارات الزاهية، كما في الإطلالة 112"
+        "q": "الأكمام الضخمة لا تناسب تحت الملابس الخارجية",
+        "a": "اعرضي الإطلالة 43: صوف Luisa Spagnoli مرن للغاية. الأكمام تنسدل بنعومة تحت المعاطف (مثل Segreteria 1751) دون التسبب في أي إزعاج."
+      },
+      {
+        "q": "التضليع غير المنتظم يبدو كعيب في الحياكة",
+        "a": "اشرحي أن هذا خيار تصميمي مقصود يجسد."
+      },
+      {
+        "q": "الأناقة غير الكاملة",
+        "a": ". هذا الملمس هو علامة على النهج اليدوي والإنتاج الفاخر، وهو سمة لأسلوب."
+      },
+      {
+        "q": "Contemporary Luxe",
+        "a": "."
+      },
+      {
+        "q": "ياقة الصوف قد توخز",
+        "a": "اقترحي لمس lana vergine. هذه أرقى فئة من الصوف، منقاة خصيصاً لضمان أقصى درجات الراحة حتى عند التلامس المباشر مع جلد الرقبة."
+      },
+      {
+        "q": "البلوفر يبدو ضخماً أكثر من اللازم",
+        "a": "لفتي الانتباه إلى المقاس المنتظم في منطقة الجذع. الحجم يتركز فقط في الأكمام، مما يبرز نحافة الخصر عند تنسيقه مع بنطال Ornago عالي الخصر."
+      },
+      {
+        "q": "اللون 1936 يبدو بسيطاً جداً",
+        "a": "أشيري إلى تلاعب الضوء في الغرز غير المنتظمة. هذا اللون الرمادي يتمتع بعمق."
+      },
+      {
+        "q": "الحرباء",
+        "a": "ويصبح خلفية فاخرة للمجوهرات أو الإكسسوارات الزاهية، كما في الإطلالة 112. ![](media/image99.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "ka": [
@@ -377,10 +429,10 @@
       },
       {
         "q": "არარეგულარული ნაქსოვი ისე გამოიყურება, თითქოს ქსოვის წუნი იყოს",
-        "a": "განუმარტეთ, რომ ეს არის."
+        "a": "განუმარტეთ, რომ ეს არის „არასრულყოფილი ელეგანტურობის“ გააზრებული დიზაინერული მიდგომა. ასეთი ფაქტურა არის ხელნაკეთი მიდგომისა და ძვირადღირებული წარმოების ნიშანი, რაც დამახასიათებელია „Contemporary Luxe“-ის სტილისთვის."
       },
       {
-        "q": "არასრულყოფილი ელეგანტურობის“ გააზრებული დიზაინერული მიდგომა. ასეთი ფაქტურა არის ხელნაკეთი მიდგომისა და ძვირადღირებული წარმოების ნიშანი, რაც დამახასიათებელია „Contemporary Luxe“-ის სტილისთვის. «შალის საყელო შესაძლოა მჩხვლეტავი იყოს",
+        "q": "შალის საყელო შესაძლოა მჩხვლეტავი იყოს",
         "a": "შესთავაზეთ ტაქტილურად შეაფასონ lana vergine. ეს არის შალის ყველაზე ნაზი კატეგორია, სპეციალურად გასუფთავებული კისრის კანთან პირდაპირი კონტაქტისას მაქსიმალური კომფორტის უზრუნველსაყოფად."
       },
       {
@@ -389,7 +441,7 @@
       },
       {
         "q": "ფერი 1936 ზედმეტად უბრალოდ გამოიყურება",
-        "a": "მიუთითეთ სინათლის თამაშზე არარეგულარულ მარყუჟებში. ამ ნაცრისფერ ელფერს გააჩნია „ქამელეონის“ სიღრმე და ხდება მდიდრული ტილო სამკაულებისთვის ან ნათელი აქსესუარებისთვის, როგორც Look 112-ში."
+        "a": "მიუთითეთ სინათლის თამაშზე არარეგულარულ მარყუჟებში. ამ ნაცრისფერ ელფერს გააჩნია „ქამელეონის“ სიღრმე და ხდება მდიდრული ტილო სამკაულებისთვის ან ნათელი აქსესუარებისთვის, როგორც Look 112-ში. ![](media/image99.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "hy": [
@@ -423,37 +475,37 @@
       },
       {
         "q": "քամելեոնի",
-        "a": "խորություն ունի և դառնում է զարդերի կամ վառ աքսեսուարների համար շքեղ հիմք, ինչպես Look 112-ում։."
+        "a": "խորություն ունի և դառնում է զարդերի կամ վառ աքսեսուարների համար շքեղ հիմք, ինչպես Look 112-ում։ ![](media/image99.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lv": [
       {
-        "q": "Apjomīgās piedurknes",
-        "a": "Demonstrējiet Look 43: Luisa Spagnoli vilna ir neticami neietilps zem virsdrēbēm plastiska. Piedurknes maigi drapējas zem mēteļa (piemēram, Segreteria 1751), neradot diskomfortu."
+        "q": "Apjomīgās piedurknes Demonstrējiet Look 43: Luisa Spagnoli vilna ir neticami neietilps zem virsdrēbēm",
+        "a": "plastiska. Piedurknes maigi drapējas zem mēteļa (piemēram, Segreteria 1751), neradot diskomfortu."
       },
       {
-        "q": "Neregulārais rievojums",
-        "a": "Izskaidrojiet, ka šis ir apzināts dizaina paņēmiens izskatās pēc adījuma «nepilnīgai elegancei . Šāda faktūra ir roku darba brāķa» un dārgas ražošanas marķieris, kas raksturīgs."
+        "q": "Neregulārais rievojums Izskaidrojiet, ka šis ir apzināts dizaina paņēmiens izskatās pēc adījuma «nepilnīgai elegancei",
+        "a": ". Šāda faktūra ir roku darba brāķa» un dārgas ražošanas marķieris, kas raksturīgs."
       },
       {
         "q": "Contemporary Luxe",
         "a": "stilam."
       },
       {
-        "q": "Vilnas apkakle var",
-        "a": "Piedāvājiet taktilā veidā novērtēt lana vergine. Šī ir kost vismaigākā vilnas kategorija, kas īpaši attīrīta, lai nodrošinātu maksimālu komfortu pat tiešā kontaktā ar kakla ādu."
+        "q": "Vilnas apkakle var Piedāvājiet taktilā veidā novērtēt lana vergine. Šī ir kost",
+        "a": "vismaigākā vilnas kategorija, kas īpaši attīrīta, lai nodrošinātu maksimālu komfortu pat tiešā kontaktā ar kakla ādu."
       },
       {
-        "q": "Pulovers šķiet",
-        "a": "Pievērsiet uzmanību regulāram piegriezumam korpusa pārāk apjomīgs zonā. Apjoms ir koncentrēts tikai piedurknēs, kas kombinācijā ar augsto Ornago bikšu jostasvietu tikai izceļ vidukļa slaidumu."
+        "q": "Pulovers šķiet Pievērsiet uzmanību regulāram piegriezumam korpusa pārāk apjomīgs",
+        "a": "zonā. Apjoms ir koncentrēts tikai piedurknēs, kas kombinācijā ar augsto Ornago bikšu jostasvietu tikai izceļ vidukļa slaidumu."
       },
       {
-        "q": "Krāsa 1936 izskatās",
-        "a": "Norādiet uz gaismas spēli neregulārajās cilpās. Šim pārāk vienkārša pelēkajam tonim piemīt."
+        "q": "Krāsa 1936 izskatās Norādiet uz gaismas spēli neregulārajās cilpās. Šim pārāk vienkārša",
+        "a": "pelēkajam tonim piemīt."
       },
       {
         "q": "hameleona",
-        "a": "dziļums, un tas kļūst par greznu fonu rotaslietām vai spilgtiem aksesuāriem, kā Look 112."
+        "a": "dziļums, un tas kļūst par greznu fonu rotaslietām vai spilgtiem aksesuāriem, kā Look 112. ![](media/image99.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ],
     "lt": [
@@ -519,7 +571,7 @@
       },
       {
         "q": "недосконалої елегантності",
-        "a": ". Така фактура — маркер ручного підходу і дорогого виробництва, характерний для стилю."
+        "a": ". Така фактура --- маркер ручного підходу і дорогого виробництва, характерний для стилю."
       },
       {
         "q": "Contemporary Luxe",
@@ -539,7 +591,7 @@
       },
       {
         "q": "хамелеона",
-        "a": "і стає розкішним полотном для прикрас або яскравих аксесуарів, як у Look 112."
+        "a": "і стає розкішним полотном для прикрас або яскравих аксесуарів, як у Look 112. ![](media/image99.jpg){width='0.5833333333333334in' height='0.78125in'}."
       }
     ]
   }
