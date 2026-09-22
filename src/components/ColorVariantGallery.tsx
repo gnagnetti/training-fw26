@@ -83,7 +83,7 @@ const ColorVariantCard: React.FC<ColorVariantCardProps> = ({
       <div className="aspect-square bg-[#F4F0EA] flex items-center justify-center relative overflow-hidden">
         {hasImage ? (
           <img
-            src={variant.imageUrl}
+            src={variant.imageUrl ?? undefined}
             alt={colorName || `Color ${variant.code}`}
             className="w-full h-full object-cover"
             onError={onImageError}
